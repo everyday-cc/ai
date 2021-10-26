@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Amazon gets contract from British spy agencies to increase use of AI for espionage"
+    excerpt: "British spy agencies have signed a deal with Amazon Web Services to host classified material in a deal to boost the use of AI for espionage."
+    publishedDateTime: 2021-10-26T10:29:00Z
+    webUrl: "https://www.gizmochina.com/2021/10/26/amazon-gets-contract-from-british-spy-agencies-for-ai-espionage/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 61
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/02/Amazon-Logo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Amazon signs deal with UK spy agencies to boost use of AI for espionage: Report"
     excerpt: "GCHQ said it would not comment on reports about its relationships with tech suppliers. AWS declined to comment on the report."
     publishedDateTime: 2021-10-26T01:36:00Z
@@ -55,6 +69,22 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/10/26/1600x900/rss_amazon_east_india_company_congress_pawan_khera_1632746070329_1635212101256.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Amazon Enters the Spy Game. British Intelligence to Use Tech Giant’s Web Services."
+    excerpt: "The U.K. security services would be using Amazon's high-security cloud service to take advantage of data analytics and artificial intelligence for classified materials."
+    publishedDateTime: 2021-10-26T11:53:00Z
+    webUrl: "https://www.barrons.com/articles/british-intelligence-to-use-amazon-web-services-51635249122"
+    ampWebUrl: "https://www.barrons.com/amp/articles/british-intelligence-to-use-amazon-web-services-51635249122"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/british-intelligence-to-use-amazon-web-services-51635249122"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 36
+    images:
+      - url: "https://images.barrons.com/im-423503/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "vpEfXDmR5tLlGaiXiBMkqLvyYUO4AvE5o6s7uggc9zrtjYu6o5E+LmrVRA2kD/jYkUwGwZjH7vuUvv2YlHXc17O/9rGpNaNN1kBwz17lHzn/rFb/2pBmtKLgH14KOaGvQTUE0WJ67thVTziDzZUxihULkvjCz13xRmmj27SDbLetYKAgFTIHam9oDIbPJZUSJlgBZCkG910bxYyeUHxX/h89wwTqmrFtcy/sTBEgUWweCelgrTMSwIF6QlbxXfCytfiBJzdPZO6vsGyKq9Chpl4W1F35BctxkUD1U36CgAivYzN6n9XDqGwyFj5IMsXp/BALq9XibQokZSmXkrrNH1J323gzeZp0WJodfP1B8jA=;Ezf8+N63bUGUN3xy7cQHBQ=="

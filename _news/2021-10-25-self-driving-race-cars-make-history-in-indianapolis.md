@@ -57,17 +57,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Start your engine-ers: RIT engineer students join self-driving racecar team at Indianapolis Motor Speedway"
-    excerpt: "Yes, you read that right, the cars are autonomous, and helping to lead the charge, are engineering students from the Rochester Institute of Technology."
-    publishedDateTime: 2021-10-21T17:36:00Z
-    webUrl: "https://www.whec.com/rochester-new-york-news/start-your-engine-ers-rit-engineer-students-join-self-driving-racecar-team-at-indianapolis-motor-speedway/6276496/"
-    ampWebUrl: "https://amp.whec.com/articles/start-your-engine-ers-rit-engineer-students-join-self-driving-racecar-team-at-indianapolis-motor-speedway-6276496.html"
-    cdnAmpWebUrl: "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/start-your-engine-ers-rit-engineer-students-join-self-driving-racecar-team-at-indianapolis-motor-speedway-6276496.html"
-    type: article
-    provider:
-      name: WHEC
-      domain: whec.com
-    quality: 6
   - title: "Self-driving race cars reach blistering speed at inaugural race"
     excerpt: "A team of computer programmers and engineers from a German university have been crowned the inaugural champions of self-driving cars around one of the world's most famous racetracks. Setting the record pace over two laps,"
     publishedDateTime: 2021-10-24T19:01:00Z

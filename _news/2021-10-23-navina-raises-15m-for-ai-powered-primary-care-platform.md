@@ -56,6 +56,20 @@ related:
         width: 1198
         height: 1280
         isCached: true
+  - title: "Swiss AI-powered spend management platform Yokoy raises $26 million"
+    excerpt: "Zurich-based spend management platform Yokoy has raised $26 million in a Series A round. The tool uses a combination of AI tools and API integrations to automate expense management, supplier […]"
+    publishedDateTime: 2021-10-26T09:45:00Z
+    webUrl: "https://tech.eu/brief/swiss-ai-powered-spend-management-platform-yokoy-raises-26-million/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 37
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2021/10/pewpewkitty-1.png"
+        width: 960
+        height: 545
+        isCached: true
 
 secured: "ECdH57C4OS+081z42F6WaINdvB9EIqzsSdDuC5aEBn5s67NVCNiQPDGy9KF8634M29WZGERTCc4CTeDYeCzWCVY401CUtQGnA6VU3sUHjptH38ZVjxXrC4V/f8LceHwio93b3uCFDw87tNK/Q3cDnHSDnCiVwiOKfdGgGVGSwZy609dWV9QsQkAGYL+e28pv8adDA2F5alOj3suTqBai8exAjfjcQhvFEjUiQUYlJk2SSRImPWqINGGf8B6dRI8lSj042hzUsu9hCxGRIKZ92dGPkdX3XLl0VpXXYMt4Hqe4CthG3JR0lGDFUikFCHFISqfZ+IHUxVIlvG3EHtcIiclZq/PxmO8uhqZEs5SRnqfw7zlBYr+PQ7kWD0xvtlcfDfQRP0Hdcnls3J+fmc78vyvmBvU95b/lhihujYa04u+ZNUWHdL/FioGoZ9RH3wbCmymtTQWS4xifkeQPpFPe4aT1NA5iDlkgQRr0c7/S1rUit76E1vFkVxfx3XEgTAZF5zFC0sqLMHkSg4EuPSkShA==;p5jX6h/teW3oAbFHKn5TTA=="
 ---

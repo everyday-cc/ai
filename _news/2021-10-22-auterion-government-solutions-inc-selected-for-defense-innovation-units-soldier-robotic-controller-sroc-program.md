@@ -5,9 +5,11 @@ excerpt: "In March 2021, the Defense Innovation Unit (DIU) sought commercial sol
 publishedDateTime: 2021-10-22T04:29:00Z
 originalUrl: "https://www.suasnews.com/2021/10/auterion-government-solutions-inc-selected-for-defense-innovation-units-soldier-robotic-controller-sroc-program/"
 webUrl: "https://www.suasnews.com/2021/10/auterion-government-solutions-inc-selected-for-defense-innovation-units-soldier-robotic-controller-sroc-program/"
+ampWebUrl: "https://www.suasnews.com/2021/10/auterion-government-solutions-inc-selected-for-defense-innovation-units-soldier-robotic-controller-sroc-program/?amp"
+cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/10/auterion-government-solutions-inc-selected-for-defense-innovation-units-soldier-robotic-controller-sroc-program/?amp"
 type: article
-quality: 0
-heat: 0
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "qNVC1Csivb8nPKlkbtqitAA9mBZe8pXWoIvAVw3LOSTdWbvU7r4tm0UHXkFYOZcLnKdVUmRRuNsrGBW7rm9C/XqEWqgLjbprwQACp+ioQSBoEADSdmx29gut5JZFmXaRLSzYRn034ZFGfm+dKSK4qHISWDhmyScigaBd4um0xD1z48krNbwgBPrjOchn/JbspbC9Yk1dGKDWPIEr+4xZy6wVYiSyOMW/HVltxr4Yt3jC8YfGaIZoKTTwTFRlxZqsXB5o6j2NHy3wIbi+wtajT6MBBxUe4Gcb89qRxBqAxxBY45LWpWQcISDtu7LwC3VXU4LD5U+jpGeL9gGKTb8iAAbpj8er5cDu6Yg4EoMEXYs=;XPnHHr/YPkKX8zKzGWAUeg=="
+images:
+  - url: "https://i2.wp.com/www.suasnews.com/wp-content/uploads/2021/10/Skynav-atak-integration.png?fit=1024%2C512&ssl=1"
+    width: 1024
+    height: 512
+    isCached: true
+
+secured: "0Xgy1CtznZN3SfhXADrozHa7bJUzGf2TfMWe+nvTEv4uU35imLPGLXLE4w9K+J94nmyMtimnGdOqce5lq9BP6JhlQA03dka6suFpDchPT/i1dpwBB/IJNGBcyfLDZv6cEBDwno5vT5vsJhIk9XTAmOEUoAdPLIVjdWGBG0+7ZhCxdp4/tqKxpyK7P8CClD79+JyfRbj14YDOgOmLajaqKmV101fMBdDIWeqW58NCJJWo96hoo/gZ1p99s5SA4WTwNtl6RCtDxeaDuzTYX4p5r9Doms/0Q+ZnXoViudL3RSuei/vITUgyh9aQqlyPpo2rpnoRcOTFEvc8zEpIrfz5xp1lWNGT3hy6F4COhToTlqM=;leebiNcb/1U897eEiz3TBA=="
 ---
 

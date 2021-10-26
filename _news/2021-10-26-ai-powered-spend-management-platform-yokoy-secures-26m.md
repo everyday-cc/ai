@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,7 +60,21 @@ related:
         width: 1502
         height: 1078
         isCached: true
+  - title: "Swiss AI-powered spend management platform Yokoy raises $26 million"
+    excerpt: "Zurich-based spend management platform Yokoy has raised $26 million in a Series A round. The tool uses a combination of AI tools and API integrations to automate expense management, supplier […]"
+    publishedDateTime: 2021-10-26T09:45:00Z
+    webUrl: "https://tech.eu/brief/swiss-ai-powered-spend-management-platform-yokoy-raises-26-million/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 37
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2021/10/pewpewkitty-1.png"
+        width: 960
+        height: 545
+        isCached: true
 
-secured: "SvqQbvBiUohDzx3SsRi/6q1UZP9qhj/fd4CdjVPkKCa3My808WyVTmJbheSNXz4/ReIxltrNklRQywA4rGjgNaAPTOAeLbZxEr4eCBuSQd9tRx8zkT722FnN2FrV99XYX1s/K/KLAvbIKzyEvR/rwjM/4JKWs+v7SDyZhV9X1efor3erZVbYhX5PU3X0VsuXvOcBkSR4FVAJ2qG53THtZMpqB0Z6QR/es9krcz4Q64rq2QAHHTU+BAOqqiQrIx/gqukdUH6bohrYTnvFnT4vJ4a17gjQuPiiqg6h70BLd+jte+EkAZdX+yL+0csXSNlc4LEEKiWeDwcmTeweF2qkVAGhGTlEPhlufQxol9Uj8vQ=;Bu5C9w6A0jMmABlpECE/KA=="
+secured: "2/5NjHe301dogvuelx1Sd8+Xd0W/L3vXsZvIXG+1hs13ENBI76x6+J0H30G/ilf+SnmECqtC9MixarTg7ta3I2PRcxNwEKnfAfDteEkf6XV8nVjfq2kb7+Qr/QqTn/N4Ag1ImKeRii9g849HddsrF2GV5aLaXKlXbcusa+Iy3Al/H613YGizNAa+sb3d75xJF3GUuMrVKqjL6CYvQeKf+3rDKYzd4PpRHI9ayWVLb1Z5BP7D/pnthEPr+eSsw/p4tpzY70vWrRM3yrJs0hT8NPMy21S19TOY4y9quXxU9uzinMwSxsKQPsfs2AXBcrP053vWHBRFyQ+Um9+8OvX+NEv5ShSkJl6YvKK6G3cHw1uw1i3HHsOiLRxVcHOID30ZAwm0D0J1KrvmziEXXQn+rn9az5wfQkFvjWwOxmKrlinvxbh+BDDpLh6WgjDsZe5BZMZXM+3CEtUqHQuxJBoBAdYrHt0AmM+MUFdSF0Td/19Bnfo6yvmpubTyMpDLKrVOE6RZuNod+miPDAgqH3/lug==;uL2/sPp2z+LxdGvPImB9lg=="
 ---
 

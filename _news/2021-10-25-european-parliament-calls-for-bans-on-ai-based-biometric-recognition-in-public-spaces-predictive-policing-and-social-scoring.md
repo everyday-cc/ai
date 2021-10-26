@@ -69,15 +69,6 @@ related:
         width: 1100
         height: 734
         isCached: true
-  - title: "Phonexia showcases upgrades to voice biometrics, speech recognition"
-    excerpt: "Phonexia's R&D teams have unveiled the company’s efforts in the field of voice biometrics and speech analysis over the last six months."
-    publishedDateTime: 2021-10-21T19:01:00Z
-    webUrl: "https://www.biometricupdate.com/202110/phonexia-showcases-upgrades-to-voice-biometrics-speech-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
   - title: "authID.ai Challenges the Industry to Replace One-Time Passwords with Facial Biometric Authentication Solution"
     excerpt: "Following its mission to eliminate one-time passwords and account fraud, identity authentication as-a-service provider authID.ai [Nasdaq: AUID] (formerly Ipsidy), today announced its biometric authentication solution,"
     publishedDateTime: 2021-10-25T12:07:00Z

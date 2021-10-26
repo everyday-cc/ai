@@ -65,17 +65,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Start your engine-ers: RIT engineer students join self-driving racecar team at Indianapolis Motor Speedway"
-    excerpt: "Yes, you read that right, the cars are autonomous, and helping to lead the charge, are engineering students from the Rochester Institute of Technology."
-    publishedDateTime: 2021-10-21T17:36:00Z
-    webUrl: "https://www.whec.com/rochester-new-york-news/start-your-engine-ers-rit-engineer-students-join-self-driving-racecar-team-at-indianapolis-motor-speedway/6276496/"
-    ampWebUrl: "https://amp.whec.com/articles/start-your-engine-ers-rit-engineer-students-join-self-driving-racecar-team-at-indianapolis-motor-speedway-6276496.html"
-    cdnAmpWebUrl: "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/start-your-engine-ers-rit-engineer-students-join-self-driving-racecar-team-at-indianapolis-motor-speedway-6276496.html"
-    type: article
-    provider:
-      name: WHEC
-      domain: whec.com
-    quality: 6
 
 secured: "LTCfkXZn470G5H7Av/YZ9MKlfZizhfx5YHrSpus7QLX3zbth5EBZ8QPuDxlIgi8jyx1esWF/4Ab3NMEpOzPvSAwbi0NeNGtux5Prjjfx2QtX/lBQG8wu4JmU0cCXAlGAPiluj6Xy6CjJPRzqudREh4TJmWx0pWxQxv+FgiajR4J/l0ILtyQfLOAzYsvYLHjQfZxTzvdve8/M4MfON9VgHzO99x0w2B1/gTl6WykbtWos6ev1/YaUss5NztkuIoCiiqfS0mKNmCUd77qObgILIxU61VfNB2nY9s3g7773ETe+/z3DtFB8sko0uR0i8ggbWvLEQLbgFdGLKDCmvBSbSuJHYR+15wbQLTOchWvs2do=;BggpSiaaMZesqulHKmkUqw=="
 ---

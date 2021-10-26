@@ -38,17 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI tool pairs protein pathways with clinical side effects, patient comorbidities to suggest targeted COVID treatments"
-    excerpt: "The symptoms and side effects of COVID-19 are scattered across a diagnostic spectrum. Some patients are asymptomatic or experience a mild immune response, while others report significant long-term illnesses,"
-    publishedDateTime: 2021-10-21T17:14:00Z
-    webUrl: "https://medicalxpress.com/news/2021-10-ai-tool-pairs-protein-pathways.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-10-ai-tool-pairs-protein-pathways.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-ai-tool-pairs-protein-pathways.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 14
 
 secured: "M6LLz5j4bqLLMZB3osj7BCXgWugpdP6JrtXUcWxbfvVVohFBwZu/HPP0irVNT2ZfGjaLHgWDdzOuxoTzGITulP3YSj1LDvrelhcXE/rWfBvxd+bRK/gth+EQJHzg7//VHHNjeY2QU3h6gfoeE4PAfs2DOj7SYkwHhh2aTFqEIo5nGHwYShWWHWykihCc+qVCLgKQwELWspbBmA0NvM+PLNKTWLxGXDPsRbaEF7gsWVyoPIAxdSqpHZ3KaWTEVO8U4tsZdszxZqNrXmn86QZ3a2sDZ2Tg6niJoBoupUsEx5Io+B1bwj2KH4vPtYBCignxF+yTwLBWkvLvhzAcxHbOGUCvuELC8CwfOcHs14jI3NNI4eEVL5D+EisSpEkTcGvsx/GWFk1u2Gq9buVjy9LnSnJIOr9gwFtzYGqXwv5IojXTmWzW1Yz+UMaE2bCrx2vpQZ49Dlcs9TgdKgJS1mmv2dhdhkr6UEoxc3ufpf2Ush3T6n8faRXDuJ91yjZCEOwMGaeQag11UiYvEVjcZRkVDA==;qB8PGjQU7YilJoXJmz+3jA=="
 ---

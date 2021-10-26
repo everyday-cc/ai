@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/"
 type: article
 quality: 89
-heat: 120
+heat: 121
 published: true
 
 provider:

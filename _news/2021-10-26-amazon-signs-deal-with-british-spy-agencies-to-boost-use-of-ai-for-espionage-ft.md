@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/uk/amazon-signs-deal-with-british-sp
 webUrl: "https://www.reuters.com/world/uk/amazon-signs-deal-with-british-spy-agencies-boost-use-ai-espionage-ft-2021-10-25/"
 type: article
 quality: 62
-heat: 83
+heat: 103
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon gets contract from British spy agencies to increase use of AI for espionage"
+    excerpt: "British spy agencies have signed a deal with Amazon Web Services to host classified material in a deal to boost the use of AI for espionage."
+    publishedDateTime: 2021-10-26T10:29:00Z
+    webUrl: "https://www.gizmochina.com/2021/10/26/amazon-gets-contract-from-british-spy-agencies-for-ai-espionage/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 61
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/02/Amazon-Logo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Amazon signs deal with British spy agencies to boost use of AI for espionage"
     excerpt: "Spy agency GCHQ has been using basic forms of AI such as translation technology for years but is now stepping up its use."
     publishedDateTime: 2021-10-26T05:42:00Z
@@ -59,6 +73,22 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/10/26/1600x900/rss_amazon_east_india_company_congress_pawan_khera_1632746070329_1635212101256.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Amazon Enters the Spy Game. British Intelligence to Use Tech Giant’s Web Services."
+    excerpt: "The U.K. security services would be using Amazon's high-security cloud service to take advantage of data analytics and artificial intelligence for classified materials."
+    publishedDateTime: 2021-10-26T11:53:00Z
+    webUrl: "https://www.barrons.com/articles/british-intelligence-to-use-amazon-web-services-51635249122"
+    ampWebUrl: "https://www.barrons.com/amp/articles/british-intelligence-to-use-amazon-web-services-51635249122"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/british-intelligence-to-use-amazon-web-services-51635249122"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 36
+    images:
+      - url: "https://images.barrons.com/im-423503/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "2og9/kK2s8GWm4MKcrkREEHYGdFsQl1NpTnNtuzy/YAA1pD9kDth8lj6PHa1tMTYIEsC53X5j+TKJfCUBxHwjtCg8sGboyMLJPGbk3WXPPL2h1kUdC/6YWDV9jhcWH12MSWTdSxyE/eWfFlNVw/fmMk40j9ER3k3u7s8y5rjteQpu1xJlTi/0G/tdGdEBZdNxPTTxl1R2ucCIUzVycxdZdLBruz0dqY6P/pTRbjIwKK91mXz+6n76b4mhKI41AokuoFRIoqTl77aWQXn/y4H0qyl2NQRnkj6qJ1eSY0CIthpXaiNGjmDhR/F1ObwrISTISVzrCx0nhvEUMNsEiDJ/sujYyzoI3XTUpE3CK/6sVHT3KlMZydJKNki5H7nqHHgf21rl17Iz2ZgJipHlb4qOpgsYBKrwBOgWU3hIuvXgp1YwU9NY5mmpAKhNxMSeVRyIeZ/ssT86cOv0ax8HBgbFNoUnSAI+CvLz8kE7w/xWAX0P4SfD/4rTCDqdLrHizv/3Xke4E+u+zkaqIrxT9LVQQ==;/f7unDJ68t2frNDfYPEwig=="

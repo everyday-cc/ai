@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-tran
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

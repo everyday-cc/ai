@@ -25,17 +25,6 @@ images:
     height: 459
     isCached: true
 
-related:
-  - title: "'Halo Infinite' Reveals PC Features & Details, AMD Radeon Limited Edition GPU, Ray Tracing Post-Launch - Trailer"
-    excerpt: "Halo Infinite is the next title in the series. The game focuses on the Master Chief and continue his saga after the events of Halo 5."
-    publishedDateTime: 2021-10-21T17:10:00Z
-    webUrl: "https://www.worthplaying.com/article/2021/10/21/news/128982-halo-infinite-reveals-pc-features-details-amd-radeon-limited-edition-gpu-ray-tracing-post-launch-trailer/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 13
-
 secured: "BRIbA7aRg2M0VY7+IpKVwb9kGaVhIDRC/B5dbWUop2uO/6/NlrfEeDwRP3NKBxYSR4GI0CHYRKT9mGZin1X6QjXE+2MPfXqSJHVFcSVzke2S8Cdii48DV7gyySia92wv6pN2OyzWRKcphvz6mBKzM4q+ef/XmkSKdPisPDW4q24FXw/5SRECvC+sTz4/vBurlgq2B+Wc1eAJUkgC8FesFvrqD97MW78ru0E0U3OAL0+SuVsRDtVW6kZM6ANZ0E0Y1g9XEnv4QOMZL2hYdd1QH4O4vAZ5Gl2ArzvBIi8r5ONIj7+jSAQFVJbdvmTCOjkOWPgdx0pTTXmja39fe82/cTMumGtkszfQRUAGp2ClZAw=;o0mzyAdjd56QYGip3fsmGQ=="
 ---
 

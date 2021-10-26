@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Auto Insurance Market Insights Shared in Detailed Report 2021 till 2028"
+    excerpt: "New York United States AI in Auto Market report will provide one with overall market analysis statistics various trends drivers opportunities restraints and every minute data relating to the AI in Auto market necessary for forecasting its revenue"
+    publishedDateTime: 2021-10-26T11:07:00Z
+    webUrl: "https://www.openpr.com/news/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
+    ampWebUrl: "https://www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua26697026_g.jpg"
+        width: 800
+        height: 531
+        isCached: true
   - title: "Deep Learning in Drug Discovery and Diagnostics Market Shows Expected Growth from 2021-2028"
     excerpt: "Another factual information on the Deep Learning in Drug Discovery and Diagnostics Market has as of late added by CMI to its storehouse This research report offers an inside and out examination of various perspectives for example market patterns pieces"
     publishedDateTime: 2021-10-25T11:45:00Z

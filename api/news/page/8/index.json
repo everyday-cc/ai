@@ -2,6 +2,197 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-10-18-guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions.md",
+      "title": "Guardforce AI launches Intelligent Cloud Platform to Transform Robotics Solutions",
+      "excerpt": "PRNewswire/ -- Guardforce AI Co., Limited (Nasdaq: GFAI) ('Guardforce AI'), an integrated security solutions provider",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions-1030873229",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions-1030873229",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-the-cloud-computing-ads-in-sports-games-are-out-of-control.md",
+      "title": "The Cloud Computing Ads in Sports Games Are Out of Control",
+      "excerpt": "Cloud commercials in sports are getting almost as ubiquitous as the grand (slash insanely annoying) DraftKings-FanDuel ad war of a few years back. Hardly a highlight can now pass without Google Cloud helping to spew an obscure comparison of baseball hitting averages or Amazon Web Services calculating the predicted overtaking times of Formula One drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-10-18/aws-google-cloud-and-azure-flood-the-airwaves-of-nfl-mlb-nhl",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-10-18/aws-google-cloud-and-azure-flood-the-airwaves-of-nfl-mlb-nhl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in6VwBsYKMkE/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-moving-towards-a-modern-healthcare-future-with-hololens.md",
+      "title": "Moving towards a modern healthcare future with HoloLens",
+      "excerpt": "Pharmaceutical organisations are discovering multiple applications for mixed reality solutions. They can remotely share their science to accelerate discovery and development, support clinical trials,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyrecord.com/Article/moving-towards-a-modern-healthcare-future-with-hololens-126329",
+      "originalUrl": "https://www.technologyrecord.com/Article/moving-towards-a-modern-healthcare-future-with-hololens-126329",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10550/img-Hololens-in-healthcare_940x443.jpg",
+          "width": 940,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologyrecord.com",
+        "domain": "technologyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse.md",
+      "title": "Facebook: We want 10,000 new recruits to help build our VR metaverse",
+      "excerpt": "Facebook says it wants to work with European governments to hire local talent and develop a metaverse that's made with European values from the outset.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/49ccbe5d1a9bdcecf263eae1f9bbde3c5326b333/2021/09/22/7e5fcb71-d1bd-4e84-9725-7729629c14e4/20210903-tiernan-beth-aol.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
+      "publishedDateTime": "2021-10-18T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-the-eu-called-for-a-ban-on-police-use-of-facial-recognition-but-not-commercial-use-why.md",
       "title": "The EU called for a ban on police use of facial recognition but not commercial use. Why?",
       "excerpt": "Recently, the European Parliament called for a ban on police use of facial recognition. In the US, too, some cities have restricted police use of facial recognition. The first question that comes",
@@ -456,6 +647,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-gitex-2021-this-robot-can-see-hear-feel-like-a-human.md",
+      "title": "Gitex 2021: This robot can see, hear, feel like a human",
+      "excerpt": "German firm Neura Robotics is displaying a range of such robots at the Gulf Information Technology Exhibition (Gitex) in Dubai, with cognitive abilities that enables them to think (like a human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
+      "originalUrl": "https://www.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.khaleejtimes.com/storyimage/KT/20211018/ARTICLE/211019099/AR/0/AR-211019099.jpg&NCS_modified=20211019044142&MaxH=225&imageVersion=16by9",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
+      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
+      "publishedDateTime": "2021-10-17T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -930,203 +1165,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-amazon-to-extend-ban-on-police-use-of-face-recognition-tech.md",
-      "title": "Amazon to Extend Ban on Police Use of Face Recognition Tech",
-      "excerpt": "Activists have targeted Amazon Web Services cloud computing unit's \"Rekognition\" facial recognition technology and Ring surveillance cameras used for home security. It was not clear the degree to which police have used the systems. Amazon last year called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "originalUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "publishedDateTime": "2021-10-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-nalsar-chss-to-empower-security-agencies-with-ai-course.md",
-      "title": "NALSAR, CHSS to empower security agencies with AI course",
-      "excerpt": "Hyderabad: The NALSAR University of Law and the Centre for Human Security Studies (CHSS) have joined hands to organise Artificial Intelligence (AI) for Smart Policing. The 3-day Executive Certificate Program (ECP) to All India Police Departments and Central Paramilitary Forces (CISF-CRPF-SSB-ITBP-BSF) and other important law enforcement agencies in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
-      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/10/16/1117482-nalsr.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
-      "publishedDateTime": "2021-10-16T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents.md",
-      "title": "Self-driving Waymo cars gather in a San Francisco neighborhood, confusing residents",
-      "excerpt": "It was a modern mystery. In a tiny neighborhood in San Francisco's Richmond District, self-driving Waymo cars have been converging at all hours of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.kawc.org/post/self-driving-waymo-cars-gather-san-francisco-neighborhood-confusing-residents",
-      "originalUrl": "https://www.kawc.org/post/self-driving-waymo-cars-gather-san-francisco-neighborhood-confusing-residents",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-16T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KAWA",
-        "domain": "kawc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-what-to-invest-in-right-now-4-fintech-stocks-for-your-watchlist.md",
-      "title": "What To Invest In Right Now? 4 Fintech Stocks For Your Watchlist",
-      "excerpt": "As we approach the end of the week, financial stocks have been under scrutiny this past week as most of the companies within the industry reported their earnings. Top banks such a",
-      "sourceUrl": null,
-      "webUrl": "https://www.fwbusiness.com/news/national/article_6844f7b9-185f-57e0-958a-cbec94aadf4b.html",
-      "originalUrl": "https://www.fwbusiness.com/news/national/article_6844f7b9-185f-57e0-958a-cbec94aadf4b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-16T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fort Wayne Business Weekly",
-        "domain": "fwbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-artificial-intelligences-data-problem-meets-ais-people-problem.md",
-      "title": "Artificial intelligence's data problem meets AI's people problem",
-      "excerpt": "Enterprises are learning that AI implementation 'is not the field of dreams. It is not a build-it-and-they-will-come effort.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligences-data-problem-meets-ais-people-problem/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligences-data-problem-meets-ais-people-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/caa9a12fbf1a70fca9bfda077e9bc11da1ed7016/2021/10/15/e28a79a3-c1cc-46cf-be99-cdbf369bea60/national-gallery-of-art-washington-dc-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1168,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligences-data-problem-meets-ais-people-problem/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligences-data-problem-meets-ais-people-problem/",
-      "publishedDateTime": "2021-10-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

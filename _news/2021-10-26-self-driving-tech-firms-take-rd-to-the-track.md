@@ -39,15 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Waymo's Self-Driving Cars Randomly Drive Themselves To Dead End Of San Francisco Street"
-    excerpt: "Waymo, a sister company of Google, began testing its self-driving vehicles in San Francisco. Neighbors on one dead end street in the area realized they were seeing a lot of these cars for no apparent reason."
-    publishedDateTime: 2021-10-21T18:27:00Z
-    webUrl: "https://www.news9.com/story/6171b0fe5f6e5f0bea190624/waymos-selfdriving-cars-randomly-drive-themselves-to-dead-end-of-san-francisco-street"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 11
 
 secured: "MxeTaNt3rrg4xK9ORxb2gP4MAI82mGngQwQ8Ab4OTjO0XOr1S2UwRoQM64ObBiY87uOLMG/p1vNL851L+NtcP9UcBRaWfUgF+A9BLfXiQw7tcmh3NZzgZZIThOCykpl7H2QIL7sllv5zcunCV7z31EAXhKUNP1F8GWlsfrZzbl1+UimWXPziutb0NqY7ZBuobRkxoz7OBxJtVLbL1sGPU7VYJMg/GUIVMOtQ5f+ad4aE7IRWes75QiprPFHJrZWRk88+Jt5AsEUjIMc3RXILU2FBb11/N+GO/G/VzOjoSclLIFQgHEFJ3CXvlX9d5U8cfU4fB5sc+DpRdhsbSfkuUOfcwTXj7XAjC6QWDhihvmCPMFDg2ZTRkd2+lhNhIfR3MQESC69oubrbF98uhCQXGngzQ4yily8VHH3ixLFVgLc2DKmky1pGTMbHpfoeWjEQtZDZ1CKAv+4OSmCDlSW9gBqotptlSO5gqK+B+8jLw11VF797WBaE9WLw5SV5CRH+9YqckOxdc0h1eA563pYklQ==;ceXrTuwtPMe00i7O9USKPw=="
 ---

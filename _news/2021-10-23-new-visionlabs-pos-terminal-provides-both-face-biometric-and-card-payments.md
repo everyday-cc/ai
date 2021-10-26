@@ -55,15 +55,6 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "Phonexia showcases upgrades to voice biometrics, speech recognition"
-    excerpt: "Phonexia's R&D teams have unveiled the company’s efforts in the field of voice biometrics and speech analysis over the last six months."
-    publishedDateTime: 2021-10-21T19:01:00Z
-    webUrl: "https://www.biometricupdate.com/202110/phonexia-showcases-upgrades-to-voice-biometrics-speech-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
   - title: "European Parliament Calls for Bans on AI-based Biometric Recognition in Public Spaces, Predictive Policing, and Social Scoring"
     excerpt: "Privacy News Online reported on an important set of proposals from the European Commission to regulate the use of artificial intelligence biometric recognition"
     publishedDateTime: 2021-10-25T09:17:00Z

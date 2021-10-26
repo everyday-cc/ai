@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Leopard Imaging Launches Hawk 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms"
-    excerpt: "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced its new 3D Depth Hawk camera supporting the NVIDIA Jetson edge AI and Isaac robotics platforms."
-    publishedDateTime: 2021-10-21T18:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1030886910"
+  - title: "Nvidia’s AI Enterprise software solution provides fresh insights for University of Pisa researchers"
+    excerpt: "Nvidia’s AI Enterprise software solution provides fresh insights for University of Pisa researchers - SiliconANGLE"
+    publishedDateTime: 2021-10-22T20:19:00Z
+    webUrl: "https://siliconangle.com/2021/10/22/nvidias-ai-enterprise-software-solution-provides-fresh-insights-for-university-of-pisa-researchers-cubeconversations/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 25
     images:
-      - url: "https://mma.prnewswire.com/media/1667150/Leopard_I.jpg"
-        width: 747
-        height: 400
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/John-Fanelli-and-Maurizio-Davini-CC-2021.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "StZxmnZRFp9u4Ssp9oaG8KNeZozcknz60Gftt2klOFStKmbVTwUhmlrN+slBQp6x8uPUrR5SOhe3tGnKbNGJyWa1KF4M9KiU6IkLu94rapwPWbK9EfIeVErh4JL2RpyCBNueO8cjG9F8WhoVi15EsGS77PG8itI6YWHjbWt8bMuXUuUtt4Wg6gCLM57qTMBz9X9dJJcDlXtSmHcD97EWeU0zeZHQ5zldOQxLrUXyyVF/J+IWmW5DimsuIHlvlewntA5zRF6bbe65YkxSqZokpG2KZ9B6kKadSfUywludrV7aGcTulho4miiUQuvxCn4z6hYJsR1jOrZ3dYTS4a/Ia4ITJr8lWIz1EcjMKg6lwBs=;o8XBcnsu+nqY9EOr1LlSfQ=="

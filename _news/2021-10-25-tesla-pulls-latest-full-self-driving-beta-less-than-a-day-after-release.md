@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp"
 type: article
 quality: 89
-heat: 260
+heat: 259
 published: true
 
 provider:

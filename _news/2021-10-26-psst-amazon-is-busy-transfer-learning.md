@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-26T09:30:00Z
 originalUrl: "https://analyticsindiamag.com/psst-amazon-is-busy-transfer-learning/"
 webUrl: "https://analyticsindiamag.com/psst-amazon-is-busy-transfer-learning/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AWS AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Amazon-Labs-1.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1260
     isCached: true
 
-secured: "p4ONN1rTQB7t8bcVoJ4nhMMxgAcC7Fo4qCf74jV/6S+LqJQfWDPLZDU+9CMb9ovAtbKD7CAM8qVWOwX7Di4HUDiAJbb6X3kFCrl3xXyRO+0TEu/ycUvUK8nAX4lxxdo3MdAPvjAEoAXIiTt9LbAfwSjYIM0VgyjFl7H8ti+TbyELbjt0am4inegTIXdgE0jCi3vLmA3CV7j5OGdxbo4Blh1cbqCoQRHsmVyqK/enAD8a9Gq6mhK4qgPTDpEa1jDJ2UIn5p4d0VaMXarXvfg9nNb2ABecdU2gaouGgcdHJiYc8PgrMN10L1zpn477XLf30qfgsk6+uyMpOdFNoe++dMrfFGSBXSgvtpu6xCDpYPg=;JEyvxttugTIoTh03CF4ipA=="
+secured: "tMCjZ2EBSU9iujnwugbRqTqHQuq9dfbnOQ2kZ8OaLT9HRdl4vP/WVL8b7nPmoKbct6/tK+a3AFGAPuuRZO4t/fFuN4QrF7BiYsKD7ZApYVqaFMuY8eUY4lETBy4y9UCSS9VaSoWOASm2ij2fl9PXhOyNEoQS/NQxqNPzC1X5dBkAsNiV1zrSuH+3bmxeZ6wEqBYXlTvE/k+Opb5MHFKgFGvqRAbk9j3Qpd3jFn8e5FHlAE7aT8Qvk/r8oyJUW90DhtNZjzVzf/39PPTDD8G57JlftzrtzSDUvM3YYx0t9urnv/YXTivjWFi70KP20iuidjPnCRi+Yc+TXedKTAh/9Jrrdm69xJkBW53B7YKIHqJsh1H1FNct/ve2dbAnnQ+Jxh8jqknDV6OtuIiYekDwoKeOsS6sfU+Fj2Zpm+CFAA50J0NawYRgYJ1WdCCMjazcRPWjrFWffIxM7MWqSoLdS3mYJmHAHA2j2m3NL6A2VepsDkIwWVbUZDw75low6SIVf6QZl6Nu7lrFn/YCXGCf1w==;LznnGPz8B3T4wb0LxB1t2w=="
 ---
 
