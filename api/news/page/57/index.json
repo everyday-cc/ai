@@ -2,6 +2,127 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-09-12-are-bots-and-robots-the-answer-to-worker-shortages.md",
+      "title": "Are Bots and Robots the Answer to Worker Shortages?",
+      "excerpt": "Using software bots has become commonplace in many workplaces around the world, but with worker shortages, will robots start filling more roles soon?",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/are-bots-and-robots-the-answer-to-worker-shortages",
+      "originalUrl": "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/are-bots-and-robots-the-answer-to-worker-shortages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-susan-bathalon-participating-in-an-astm-task-group-teleconference-on-computer-vision-based-drowning-detection-systems-for-residential-swimming.md",
+      "title": "Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools",
+      "excerpt": "Add to Calendar 09/13/2021 3:00 pm 09/13/2021 4:00 pm America/New_York Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools Susan Bathalon from the Office of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpsc.gov/ko/Newsroom/Public-Calendar/2021-09-13T150000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=vi",
+      "originalUrl": "https://www.cpsc.gov/ko/Newsroom/Public-Calendar/2021-09-13T150000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=vi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Consumer Protection Safety Commission",
+        "domain": "cpsc.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats.md",
+      "title": "Computer vision and deep learning provide new ways to detect cyber threats",
+      "excerpt": "The combination of binary visualization and machine learning is a powerful technique that can provide new solutions to old problems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/",
+      "originalUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/deep-learning-cyber-threat-detection1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/amp/",
+      "publishedDateTime": "2021-09-11T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-12-singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial.md",
       "title": "Singapore sends Xavier the robot to help police keep streets safe under three-week trial",
       "excerpt": "Singapore's Home Team Science and Technology Agency (HTX) roving robot has hit the streets of Toa Payoh ... health and safety.\" Over a three-week trial period, Xavier will detect \"undesirable ...",
@@ -981,151 +1102,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-artificial-intelligence-ai-in-retail-market-to-grow-at-a-cagr-of-297-from-2021-to-2027-google-nvidia-conversica-baidu-intel.md",
-      "title": "Artificial Intelligence (AI) in Retail Market to Grow at a CAGR of 29.7% from 2021 to 2027 | Google, NVIDIA, Conversica, Baidu, Intel",
-      "excerpt": "The study includes information on competitive scenarios probable threats breakthroughs and a variety of other topics There is detailed information about developing trends market drivers development prospects and dynamic market restraints Market participants may comprehend major trends in the worldwide",
-      "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/research/the-geography-of-ai/",
-      "originalUrl": "https://www.openpr.com/news/2389167/artificial-intelligence-ai-in-retail-market-to-grow-at-a-cagr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.brookings.edu/wp-content/uploads/2021/08/Figure6.png?fit=500%2C375px&quality=1#038;ssl=1",
-          "width": 500,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/research/the-geography-of-ai/?amp",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/the-geography-of-ai/?amp",
-      "publishedDateTime": "2021-09-10T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-communism-and-sitcoms-inspire-ai-ethics-at-salesforce.md",
-      "title": "Communism and sitcoms inspire AI ethics at Salesforce",
-      "excerpt": "Salesforce VP Yakaira Núñez's experiences taught her that it's important to consider your non-target audience in your AI roadmap.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/",
-      "originalUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Women-in-AI-Awards-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/",
-      "publishedDateTime": "2021-09-10T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power.md",
-      "title": "Why The Next Big AI Accuracy Breakthrough Won’t Come From Algorithms Or Computing Power",
-      "excerpt": "Just as we swung from championing algorithms to data to infrastructure, we'll shift our focus back to data — more specifically, acquiring the right data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613a216d46e0d2616c5039f8%2F0x0.jpg",
-          "width": 1200,
-          "height": 878,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power/amp/",
-      "publishedDateTime": "2021-09-10T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

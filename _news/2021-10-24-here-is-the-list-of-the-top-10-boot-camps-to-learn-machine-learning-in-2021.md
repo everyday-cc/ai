@@ -33,7 +33,7 @@ related:
     provider:
       name: Techopedia
       domain: techopedia.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://images.techopedia.com/images/uploads/artificial-intelligence-learning-resources.jpg"
         width: 902

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon signs deal with British spy agencies to boost use of AI for espionage -FT"
+    excerpt: "Britain's spy agencies have given a contract to Amazon Web Services (AWS) to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence (AI) for espionage,"
+    publishedDateTime: 2021-10-25T22:07:00Z
+    webUrl: "https://www.reuters.com/world/uk/amazon-signs-deal-with-british-spy-agencies-boost-use-ai-espionage-ft-2021-10-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 62
+    images:
+      - url: "https://www.reuters.com/resizer/iYqP54ZnBN37H53zTmxh6Ngz04E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AR5SQIUOFVKDXN2QDIUCQRE4YU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Amazon signs deal with UK spy agencies to boost use of AI for espionage: Report"
     excerpt: "GCHQ said it would not comment on reports about its relationships with tech suppliers. AWS declined to comment on the report."
     publishedDateTime: 2021-10-26T01:36:00Z

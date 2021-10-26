@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-25T19:00:00Z
 originalUrl: "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025"
 webUrl: "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025"
 type: article
-quality: 82
-heat: 82
+quality: 84
+heat: 84
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202110/MIT-Language-Models-01-PRESS.jpg"
@@ -27,6 +28,6 @@ images:
     height: 2666
     isCached: true
 
-secured: "mr8Avn94dRyjv/HiGl2jfaXQtcHL7GZ77lD7mpHx0Dxr/02J0x9mOoitX0qANTqk3UXq4J8ZEgoDdCFctOYdURik7SwiHO+1//ADIkCI4c10pCwmfT3jfFA8NlvcmrrGODqtt0/HbATUqIsOBEYR9UQhqaVDui00YmQcrYJFTXazseWRSVaGSNkvXgK369UUur46X+PGbOKdhHfPaJh4fsDYRWrS2Pou4XYBjQ4qHnt6gWTVoPDrCu71K7213++h3kf6x3G/oAlOC0dE0aD+I/Sqkn5xGHhGsdcBiC6ZY8mcftX2X6b+sXcSq8nuzWZRSAWoJ1DX3CnqtmxF+gAHqNOh9eTWj20NHt+3RUSEAm4=;n7PhCqsBtOQdhDgBjLZdkQ=="
+secured: "oSDBV41eFY5OKCZuxqkYgzL8uPh65Dw/0SXXvReu5/8WsMNchjtS6clZe5iWyDvR2e+Drgl34bQYAxzAY1Y8nrTCOqwxsmwYoP2uIuy3uHkqlWzpcEu72VymUDNs587fhaYCNDwanetiFwG/7//S4xTxpgNrf7Z64LiGVz+YVqYAL2ul1islra1uciPkMgYHkJSmlyeg8hFi/p5Kv5mnn/MKkUKrN3MdWThhUEHMeBtEw28fAHU2xRdTnhpHT0Dfs4Wqm5d/f6nni24f5mxDziFBy79kPxYUtxbqpIf2+F8R+QRGfRRl8DOMsqlPJadvHKPw6bt0Qt5+7R3ttWJQ2p0mxQQEQbPApW9fZoi+cP4wkSASqquNZGpWL5oAVy9rShDorff/+fWunX1k68dosumKYyrGlr3oowJiKC9d8bRvuSDZ12cae716mL5FUEXRtyXBARqIFnYp+Q+xSFjZZQGkPclTRbRCH7CrmQOhAWoHkmyDFv8PTPrQUlN2z0khuBw3CjYQbT6nebMQMu7t8Q==;QoLNaNOVcU7eLCPmFfnTeQ=="
 ---
 

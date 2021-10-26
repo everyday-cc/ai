@@ -110,6 +110,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Facebook comes under scrutiny in India"
+    excerpt: "Facebook has come under intense scrutiny for being unable to reign in hate speech and fake news in India, as reported in the 'Facebook Papers'."
+    publishedDateTime: 2021-10-26T03:38:00Z
+    webUrl: "https://www.linkedin.com/news/story/facebook-comes-under-scrutiny-in-india-5169028/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C561AAQFh-XFRjL4TmQ/storylineheaderimage-shrink_400_400/0/1635218934053?e=1635310800&v=beta&t=idsUWigUvVHfSQBFd3Q2p6wV056zTS3jjqzjyguFLYk"
+        width: 400
+        height: 266
+        isCached: true
   - title: "The Facebook Papers may be the biggest crisis in the company's history"
     excerpt: "Facebook has confronted whistleblowers, PR firestorms and Congressional inquiries in recent years. But now it faces a combination of all three at once in what could be the most intense and wide-ranging crisis in the company's 17-year history."
     publishedDateTime: 2021-10-25T19:07:00Z
@@ -124,6 +138,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Facebook Whistleblower Makes Case for Social Media Curbs to British Parliament"
+    excerpt: "LONDON — Facebook has lurched from controversy to controversy since Mark Zuckerberg started it as a Harvard undergrad in 2004. But the actions of Frances Haugen, a former product manager, have created a backlash and public relations crisis that"
+    publishedDateTime: 2021-10-26T02:48:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-whistleblower-makes-case-for-social-media-curbs-to-british-parliament/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-whistleblower-makes-case-for-social-media-curbs-to-british-parliament/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-whistleblower-makes-case-for-social-media-curbs-to-british-parliament/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 20
   - title: "'Instagram may NEVER be safe for 14-year-olds': Whistleblower Frances Haugen quotes Facebook's OWN research - and says social media giant won't sacrifice a 'slither of profit ..."
     excerpt: "Ms Haugen said Facebook was 'very good at dancing with data' to suggest it was successfully clamping down on toxic content but in reality its 'negligence' is pushing users towards extremism."
     publishedDateTime: 2021-10-26T01:01:00Z

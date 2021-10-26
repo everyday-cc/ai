@@ -64,6 +64,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Face-Recognition Amazon Tech Under Fire From Lawmakers"
+    excerpt: "The controversial artificial intelligence software, called Rekognition, scans images and videos to identify objects, emotions, people, text and activities, according to the Seattle-based company’s website. Amazon, which runs Rekognition on its servers ..."
+    publishedDateTime: 2021-10-23T23:59:00Z
+    webUrl: "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/"
+    ampWebUrl: "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/amp/"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/amp/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 24
 
 secured: "UGvNZOKkRi1FLE0N4srszZuDX0p4HtjdgQklhi0XvU40GQpD/7CLwBfRyemNnBtW5zl/8gBvrm9YsR7OpfRCrA1wv2Sk5QOcG9TZFhmq+c21WomZBXAgsKaOMcAsRA0SbnI4kNeyOD83SBv3ERRkB2qtEKOjj4m646f0UFCGb8dj7GrO10psRCVQyZ8pWWuPi2+mFHUGYJ7TEc5D0EWka+7rDNzJ3LJ5RMy3+INCKk36J8c4dH//QXpHUVX0jdjcJ2WOJi0vCknAT0qtcCzmDgTMzfe2XEXNZgCs9QiGqhN5LIyYiXbMccZgiehDrEYvyn0jXeIrRE7e4kqkpvIUwKa/+xmcOxmHL8YuKO1J/ZNEm0y0jfsT0AndPoEeeTosD+LaGlU2VJrYRsGL22p51GaYOjSsRw5xtDnvTGFJqqsfqONeQMS9i8iJXU5FLZz95cFoEferflMFTNrVmH8o49sl5lADdy7Cem/wQQAoX14rkPLqwKT9IOpVAcg3mGxUAX/BQre2PSMrzuwKEuij0w==;WTimLR4oLsRa6DJpsOxSyA=="
 ---

@@ -2,19 +2,19 @@
 category: news
 title: "Facebook's language gaps weaken screening of hate, terrorism"
 excerpt: "In countries like Afghanistan and Myanmar, these loopholes have allowed inflammatory language to flourish on the platform, while in Syria and the Palestinian territories, Facebook suppresses ordinary speech,"
-publishedDateTime: 2021-10-25T19:54:00Z
-originalUrl: "https://www.beaumontenterprise.com/news/article/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
-webUrl: "https://www.beaumontenterprise.com/news/article/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
-ampWebUrl: "https://www.beaumontenterprise.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
-cdnAmpWebUrl: "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+publishedDateTime: 2021-10-26T03:46:00Z
+originalUrl: "https://www.seattlepi.com/news/article/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+webUrl: "https://www.seattlepi.com/news/article/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Beaumont Enterprise
-  domain: beaumontenterprise.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - Facebook AI
@@ -105,6 +105,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facebook’s language gaps allow terrorist content and hate speech to thrive"
+    excerpt: "Internal company documents show the problems are far more systemic than just a few innocent mistakes, and that Facebook has understood the depth of these failings for years while doing little about it."
+    publishedDateTime: 2021-10-25T15:03:00Z
+    webUrl: "https://www.pbs.org/newshour/world/facebooks-language-gaps-allow-terrorist-content-and-hate-speech-to-thrive"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/world/facebooks-language-gaps-allow-terrorist-content-and-hate-speech-to-thrive"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/facebooks-language-gaps-allow-terrorist-content-and-hate-speech-to-thrive"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 42
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/10/2021-10-25T110016Z_1511104453_RC2ZGQ9U2U2Y_RTRMADP_3_FACEBOOK-DOCUMENTS-GLOBAL-1024x681.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Facebook’s language gaps weaken screening of hate, terrorism"
     excerpt: "Across the Middle East, journalists, activists and others have long accused Facebook of censoring their speech."
     publishedDateTime: 2021-10-25T15:49:00Z
@@ -140,6 +156,6 @@ related:
         height: 467
         isCached: true
 
-secured: "xYrOLcGMxDpIacVMmJjiTZGLB1ppLlx6oGQWLdua+CXYGiwl6isvCMxvR6YyLTRc0wWqiVpHVctTJjiPdbF0D6Kra+QLImFHOjRqTXHE3ZtrSNryMooF06bSILlBBuYBjqnNb9dawaM+/ELOZS9t9lO/QuMvo62HoE9H5abGeEoHRzOIWyQlQpeZzncTDtZgNNAstbiOIrf4RoyWn/IkSeoP6Kq3gYn/jER1NXi1fE4yNX7s7vImLFCxDi2z2MulKy4EQd7S3mWhFR97MJHwpQ9dqlm/RAfA8mYB1vRDTq6GmTpPiihMbMox+gJfhxINkoNxCkb7mIICkliLtPOY6WNZerkC/9R3PQGyH35PJz8=;gRZWQnkwMcFO9+RbolPgUg=="
+secured: "mpJHuvzQjyX/zoYlaOV5il0in2lC9/HtOFwlV4OnyFq3bYurXeRV3JnwsNShn8gYnCd7dYE0dpZwTrhbWc68fNRZ8wfgHhLN8qIVDIH7E05xH3taxa/tHm0FvvIL/e2HA6gk6xWH5iL2+M9B55Mz958M8g37bSadriy1YBMdoRsVLc5ZSp9mzLfKarfeXrkJx8WdIuzxhiPeTPkv2JZnHOrWpKdLZqUCd/BqGZYZMfcrWbyeuAFl8t66XltOC5m+RPPf2oxbWIVIE+C2pTKlTZPdrKELmuHUx9BrA5RDYwiqZqf8gTHZnQ8Z66m6TXIjnGClqmFlJW7RQWm1vt0S6OvuuDIII5t70yiEXQ+eQ+Q=;518/V7KVnWFt2oqLYNEAOw=="
 ---
 

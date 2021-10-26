@@ -115,7 +115,7 @@
       "originalUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1233,6 +1233,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-08-10-leading-artificial-intelligence-ai-chipsets-producers-in-the-world-by-2021-by-fortune-business-insights.md",
+      "title": "10 Leading Artificial Intelligence (AI) Chipsets Producers in the World by 2021 By Fortune Business Insights",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/10-leading-artificial-intelligence-ai-chipsets-producers-in-the-world-by-2021-by-fortune-business-insights-2021-10-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/10-leading-artificial-intelligence-ai-chipsets-producers-in-the-world-by-2021-by-fortune-business-insights-2021-10-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-build-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-part-2-training-and.md",
       "title": "Build your own brand detection and visibility using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels – Part 2: Training and analysis workflows",
       "excerpt": "In Part 1 of this series, we showed how to build a brand detection solution using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels. The solution was built on a serverless architecture with a custom user interface to identify a company brand or logo from video content and get an in-depth",
@@ -1370,41 +1422,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-484-during-2021-2027top-key-players-microsoft-aws-xero.md",
-      "title": "Artificial Intelligence for Accounting Market : Global Market to Grow at a CAGR of 48.4% During 2021-2027|Top key players: Microsoft, AWS, Xero",
-      "excerpt": "Different market tables and figures, pie charts, graphs split over easy-to-understand pages, and extensive analysis are included in this report on the Artificial Intelligence for Accounting Market. The global research report includes a strategic analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "originalUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "publishedDateTime": "2021-10-06T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

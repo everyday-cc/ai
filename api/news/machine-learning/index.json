@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-26-artificial-intelligence-sheds-light-on-how-the-brain-processes-language.md",
+      "title": "Artificial intelligence sheds light on how the brain processes language",
+      "excerpt": "MIT research suggests the underlying function of “next-word prediction” computational models closely resembles the function of language-processing centers in the human brain.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025",
+      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202110/MIT-Language-Models-01-PRESS.jpg",
+          "width": 3999,
+          "height": 2666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-the-coming-convergence-of-nfts-and-artificial-intelligence.md",
       "title": "The Coming Convergence of NFTs and Artificial Intelligence",
       "excerpt": "The first generation of NFTs has focused on key properties such as ownership representation, transfer, automation as well as building the core building blocks of the NFT market infrastructure. The hype in the NFT market makes it relatively hard to distinguish signal versus noise when even the most simplistic form of NFTs are able to capture incredible value.",
@@ -1322,59 +1374,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-train-and-deploy-deep-learning-models-using-jax-with-amazon-sagemaker.md",
-      "title": "Train and deploy deep learning models using JAX with Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models at any scale. Typically, you can use the pre-built and optimized training and inference containers that have been optimized for AWS hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T14:43:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

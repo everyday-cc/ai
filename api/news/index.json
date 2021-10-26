@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-26-amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage-ft.md",
+      "title": "Amazon signs deal with British spy agencies to boost use of AI for espionage -FT",
+      "excerpt": "Britain's spy agencies have given a contract to Amazon Web Services (AWS) to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence (AI) for espionage,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/uk/amazon-signs-deal-with-british-spy-agencies-boost-use-ai-espionage-ft-2021-10-25/",
+      "originalUrl": "https://www.reuters.com/world/uk/amazon-signs-deal-with-british-spy-agencies-boost-use-ai-espionage-ft-2021-10-25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/iYqP54ZnBN37H53zTmxh6Ngz04E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AR5SQIUOFVKDXN2QDIUCQRE4YU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-we-need-to-pay-attention-to-ai-bias-before-its-too-late.md",
       "title": "We need to pay attention to AI bias before it's too late",
       "excerpt": "Cognitive bias leads to AI bias, and the garbage-in/garbage-out axiom applies. Experts offer advice on how to limit the fallout from AI bias.",
@@ -104,58 +155,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-26-ceo-mark-zuckerberg-responds-to-the-massive-facebook-document-dump.md",
-      "title": "CEO Mark Zuckerberg responds to the massive Facebook document dump",
-      "excerpt": "CEO Mark Zuckerberg kicked off Facebook's quarterly earnings call by addressing the latest wave of coverage based on a trove of leaked internal documents on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/10/25/tech/facebook-earnings-q3/index.html",
-      "originalUrl": "https://www.cnn.com/2021/10/25/tech/facebook-earnings-q3/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200901111724-05-mark-zuckerberg-0411-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/10/25/tech/facebook-earnings-q3/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/10/25/tech/facebook-earnings-q3/index.html",
-      "publishedDateTime": "2021-10-25T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-26-artificial-intelligence-sheds-light-on-how-the-brain-processes-language.md",
       "title": "Artificial intelligence sheds light on how the brain processes language",
       "excerpt": "MIT research suggests the underlying function of “next-word prediction” computational models closely resembles the function of language-processing centers in the human brain.",
@@ -164,7 +163,7 @@
       "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -203,7 +202,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -249,7 +249,7 @@
       "originalUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -491,6 +491,57 @@
         "AI",
         "Machine Learning",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-2-artificial-intelligence-stocks-that-have-spooked-investors.md",
+      "title": "2 Artificial Intelligence Stocks That Have Spooked Investors",
+      "excerpt": "Both stocks are far off their all-time highs, but that does not mean they don’t have bright futures. Lemonade’s AI is making waves in insurance, and so far, no other incumbent in the industry has duplicated its model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/",
+      "originalUrl": "https://www.fool.com/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F647585%2Fperson-thinking-about-a-problem-at-a-desk.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/",
+      "publishedDateTime": "2021-10-25T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1175,58 +1226,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025.md",
-      "title": "Artificial Intelligence (AI) Robots Market Share 2021 Analysis, Dynamics, Industry Size, Latest Trends and Industry Growth Research Report 2025",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry” “ Artificial Intelligence (AI) Robots Market ” report analyses the overview of the global market with respect to major regions and segmented by types and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-10-16-can-nyc-build-an-ethical-artificial-intelligence-ecosystem.md",
+      "title": "Can NYC Build an Ethical Artificial Intelligence Ecosystem?",
+      "excerpt": "As detailed in a 116-page newly released strategy, city officials in New York City are looking to proactively build ethics into machine learning and AI usage as the technologies become vital pieces of everyday life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem",
+      "originalUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/cf9b0e3/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ffb%2F9b%2Fd1bfffa9e925b1e6ed00ce145b24%2Fshutterstock-6188871351.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem?_amp=true",
+      "publishedDateTime": "2021-10-15T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-16-researchers-argue-national-ai-research-resource-will-entrench-big-tech.md",
+      "title": "Researchers argue National AI Research Resource will entrench Big Tech",
+      "excerpt": "Artificial intelligence research groups are urging the National AI Research Resource (NAIRR) Task Force to reconsider investing in shared computing and data infrastructure, which they say will subsidize the tech giants that control it rather than democratize access.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/research-groups-nairr-big-tech/",
+      "originalUrl": "https://www.fedscoop.com/research-groups-nairr-big-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
+          "width": 629,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-15T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-7-meme-stocks-that-serious-investors-shouldnt-think-twice-about.md",
       "title": "7 Meme Stocks That Serious Investors Shouldn’t Think Twice About",
       "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
@@ -1110,83 +1196,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-seeq-expands-machine-learning-support-to-democratize-data-science-innovation.md",
-      "title": "Seeq Expands Machine Learning Support to Democratize Data Science Innovation",
-      "excerpt": "New initiative facilitates the integration of machine learning algorithms from open source, third party and customer data science teams into Seeq applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
-      "originalUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/c87f3858-574b-4646-8810-5bfab7d95b8d/Seeq-news-Oct-14-2021-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future.md",
-      "title": "Artificial Intelligence in Video Games Market Is Likely to Experience a Tremendous Growth in Near Future",
-      "excerpt": "Click To get SAMPLE PDF of Global Artificial Intelligence in Video Games Market (Including Full TOC, Table & Figures) Global Artificial Intelligence in Video Games Market and Competitive Analysis Know your current market situation!",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
-      "publishedDateTime": "2021-10-14T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

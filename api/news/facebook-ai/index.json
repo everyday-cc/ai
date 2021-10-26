@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-26-ceo-mark-zuckerberg-responds-to-the-massive-facebook-document-dump.md",
-      "title": "CEO Mark Zuckerberg responds to the massive Facebook document dump",
-      "excerpt": "CEO Mark Zuckerberg kicked off Facebook's quarterly earnings call by addressing the latest wave of coverage based on a trove of leaked internal documents on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/10/25/tech/facebook-earnings-q3/index.html",
-      "originalUrl": "https://www.cnn.com/2021/10/25/tech/facebook-earnings-q3/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200901111724-05-mark-zuckerberg-0411-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/10/25/tech/facebook-earnings-q3/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/10/25/tech/facebook-earnings-q3/index.html",
-      "publishedDateTime": "2021-10-25T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-26-the-facebook-whistle-blower-brings-her-campaign-to-europe-after-her-disclosures.md",
       "title": "The Facebook whistle-blower brings her campaign to Europe after her disclosures.",
       "excerpt": "Beginning a European tour in Britain, the former Facebook manager was questioned by policymakers drafting tougher tech regulations.",
@@ -62,7 +10,7 @@
       "originalUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -114,7 +62,7 @@
       "originalUrl": "https://www.gizbot.com/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1488,6 +1436,50 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-facebook-sharpens-focus-on-safety-security-to-address-wsj-allegations-launches-consumer-products.md",
+      "title": "Facebook Sharpens Focus On Safety, Security To Address 'WSJ' Allegations, Launches Consumer Products",
+      "excerpt": "“These teams reduce the spread of harmful and illicit content on our platforms and develop AI technology to ... “plain false: that Facebook conducts research and then systematically and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/367112/facebook-takes-new-approach-to-address-safety-sec.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/367112/facebook-takes-new-approach-to-address-safety-sec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/09/21/fbportal-10inch-600_RmiWiCI.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

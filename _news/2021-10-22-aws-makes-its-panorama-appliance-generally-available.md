@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-mak
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp"
 type: article
 quality: 104
-heat: 144
+heat: 124
 published: true
 
 provider:
@@ -59,24 +59,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "AWS makes Panorama computer vision Edge appliance generally available"
-    excerpt: "AWS has officially launched a new Edge appliance for computer vision use cases. The cloud company this week announced the general availability of the AWS Panorama Appliance; a computer vision (CV) appliance designed to analyze images provided by on-premises cameras locally."
-    publishedDateTime: 2021-10-21T09:24:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/aws-makes-panorama-computer-vision-edge-appliance-generally-available/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 51
-  - title: "Amazon Announces General Availability Of Its Computer Vision Appliance AWS Panorama"
-    excerpt: "The appliance is an edge device, runs applications locally on optimised hardware instead of sending images to the AWS Cloud for processing."
-    publishedDateTime: 2021-10-21T10:59:00Z
-    webUrl: "https://analyticsindiamag.com/amazon-announces-general-availability-of-its-computer-vision-appliance-aws-panorama/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 45
 
 secured: "skboZuogIbZVX6KWrFI7yrklkC8r9BmBoo+BTp8izcRCGWsZc66mC6+U1mzuP5H23/jhVo404pb5GX0ly0oI0h3MXj4HPVP7k/A0mVyGQQyPRQA3tI8Jb30B2h08Ja7Eo8dEfCW6VbAZ8ZPbOrGz9Gixvo2KwuegEtL4YK37KlyZVZkzVUjIym+VzbwCs0roevAk+mkwiir22PpObHbYAK7ZW8TErdLnW+Z4zYh9plQenKZGukveF7UJeTKiaISQ3WKJqYrJ8w3+UiQj7m+JPdq8FgqhK49IcQRinq82DllEK4+kxnWydiDcOQs71ZCoI60BVJHA0jWjhFUnlFABPtBHOxFgoSTyD66j328bPLZrDqvierTxTvuBgi4ZpBQAW3A59cY0A+VcDSwbBd1sUhbYi7FJnrq+YJh+TMEtLAtC1B0sP47eUPLeTDCbtmJaK3pb2w3COBwbYIwdjEJV3FZt1Dz7JPWIqrF8z3Nisa2SMzBl/SJ7pMLUVpBoceKR3+70iEllbqB+Ouc2ynZoiw==;Z9yuBo6zSRUurD9GoUGvVQ=="
 ---

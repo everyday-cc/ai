@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustainable-logging-practices-with-the-help-of-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://customerthink.com/wp-content/uploads/learn-1996846_1280-pixabay-innovation-ideas-analytics.jpg"
         width: 1280
         height: 748
+        isCached: true
+  - title: "Predicting the future of the Earth with artificial intelligence"
+    excerpt: "Starting October 25, a group of scientists will host a workshop to identify ways to create artificial intelligence-informed models of the Earth’s climate."
+    publishedDateTime: 2021-10-25T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/932591"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/060e1208-9f63-4c48-bed0-35375d4a29fe/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
         isCached: true
   - title: "Yoodli is Leveraging AI to Help People by Reducing the Struggles of Public Speaking"
     excerpt: "Yoodli is Leveraging AI to Help People by Reducing the Struggles of Public Speaking  - Yoodli aims to help people communicate confidently without the fear of public speaking. FREMONT, CA: Public speaking is"

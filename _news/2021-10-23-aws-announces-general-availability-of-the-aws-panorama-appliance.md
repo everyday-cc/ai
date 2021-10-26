@@ -55,24 +55,6 @@ related:
         width: 3264
         height: 2448
         isCached: true
-  - title: "AWS makes Panorama computer vision Edge appliance generally available"
-    excerpt: "AWS has officially launched a new Edge appliance for computer vision use cases. The cloud company this week announced the general availability of the AWS Panorama Appliance; a computer vision (CV) appliance designed to analyze images provided by on-premises cameras locally."
-    publishedDateTime: 2021-10-21T09:24:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/aws-makes-panorama-computer-vision-edge-appliance-generally-available/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 51
-  - title: "Amazon Announces General Availability Of Its Computer Vision Appliance AWS Panorama"
-    excerpt: "The appliance is an edge device, runs applications locally on optimised hardware instead of sending images to the AWS Cloud for processing."
-    publishedDateTime: 2021-10-21T10:59:00Z
-    webUrl: "https://analyticsindiamag.com/amazon-announces-general-availability-of-its-computer-vision-appliance-aws-panorama/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 45
 
 secured: "G9++/rl7kExZfNNZ8KEDk5m/xv79bVb/XP+0TQ073ZI6S92R2/TB9LJVyh5LfsEQxrBR+JuWWUyrAs655y3UmwWyECafq7ZFqLCSnn1Q8dspNvUKP3avrYhlUprLZPxFqVxBxd7uR+jgzYKiVpfqK8RbpfRH1YQKKXIjkZCWV4da+ig6+38bqogb+rzsvxN7EFxBQ9mbobiqELCBe480mWHltPlTYBkKrtqHKXrGDWanGdD6T2cRXiJ3MhUVNnn5lFKJ1err0LGWaLeCgzjN0Ep95MdT94ETdZi6MQ6hlYgONcOC6bLdO4L4uTXPkCqNGTD1gqPv8z/q1GcnXyGw8xqsEWsYvF+ucA2Nxb0vR3Y=;XpzvBVPz+noPQYC+dYQG9w=="
 ---

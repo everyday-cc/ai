@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-27-tensorflow-1x-vs-tensorflow-2-behaviors-and-apis.md",
+      "title": "TensorFlow 1.x vs TensorFlow 2 - Behaviors and APIs",
+      "excerpt": "Under the hood, TensorFlow 2 follows a fundamentally different programming paradigm from TF1.x. This guide describes the fundamental differences between TF1.x and TF2 in terms of behaviors and the APIs, and how these all relate to your migration journey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=da",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=da",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=da",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-migrate-multi-worker-cpugpu-training.md",
       "title": "Migrate multi-worker CPU/GPU training",
       "excerpt": "Distributed training with TensorFlow Parameter server training with Keras Model.fit/a custom training loop MultiWorkerMirroredStrategy with Keras Model.fit MultiWorkerMirroredStrategy with a custom training loop. def _input_fn(): return tf1.data.Dataset ...",

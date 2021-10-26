@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-10-18-waymos-self-driving-cars-cant-get-enough-of-one-dead-end-street.md",
+      "title": "Waymo’s self-driving cars can’t get enough of one dead-end street",
+      "excerpt": "Waymo's autonomous cars keep showing up in a dead-end street in a quiet part of San Francisco, causing residents there to wonder what on earth is going on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/",
+      "originalUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/waymo-2.jpg",
+          "width": 1346,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/?amp",
+      "publishedDateTime": "2021-10-17T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages.md",
       "title": "Azure AI empowers organizations to serve users in more than 100 languages",
       "excerpt": "Microsoft announced today that 12 new languages and dialects have been added to Translator. These additions mean that the service can now translate between more than 100 languages and dialects, making",
@@ -1012,6 +1064,40 @@
       ]
     },
     {
+      "path": "_news/2021-10-16-googles-deepmind-faces-suit-over-uk-health-data.md",
+      "title": "Google’s DeepMind faces suit over UK health data",
+      "excerpt": "Google's AI department secures lawsuit over 1.6 million confidential NHS patient medical records. DeepMind Faces: Google's AI department, otherwise known as",
+      "sourceUrl": null,
+      "webUrl": "https://micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
+      "originalUrl": "https://micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
+      "cdnAmpWebUrl": "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
+      "publishedDateTime": "2021-10-15T19:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Micky",
+        "domain": "micky.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-intel-chooses-dahod-to-train-students-in-artificial-intelligence.md",
       "title": "Intel chooses Dahod to train students in artificial intelligence",
       "excerpt": "Vadodara: Students from tribal-dominated Dahod district, most of whom face difficulties in pursuing education beyond Class X, got the never-before opp.",
@@ -1050,92 +1136,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-can-nyc-build-an-ethical-artificial-intelligence-ecosystem.md",
-      "title": "Can NYC Build an Ethical Artificial Intelligence Ecosystem?",
-      "excerpt": "As detailed in a 116-page newly released strategy, city officials in New York City are looking to proactively build ethics into machine learning and AI usage as the technologies become vital pieces of everyday life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem",
-      "originalUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/cf9b0e3/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ffb%2F9b%2Fd1bfffa9e925b1e6ed00ce145b24%2Fshutterstock-6188871351.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem?_amp=true",
-      "publishedDateTime": "2021-10-15T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-researchers-argue-national-ai-research-resource-will-entrench-big-tech.md",
-      "title": "Researchers argue National AI Research Resource will entrench Big Tech",
-      "excerpt": "Artificial intelligence research groups are urging the National AI Research Resource (NAIRR) Task Force to reconsider investing in shared computing and data infrastructure, which they say will subsidize the tech giants that control it rather than democratize access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/research-groups-nairr-big-tech/",
-      "originalUrl": "https://www.fedscoop.com/research-groups-nairr-big-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

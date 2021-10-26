@@ -1,24 +1,30 @@
 ---
 category: news
 title: "People or profit? Facebook papers show deep conflict within"
-excerpt: "Thousands of pages of internal documents provided to Congress by a former employee depict an internally conflicted company where data on the harms it causes is abundant, but solutions, much less the will to act on them,"
-publishedDateTime: 2021-10-25T18:33:00Z
-originalUrl: "https://www.seattletimes.com/business/people-or-profit-facebook-papers-show-deep-conflict-within/"
-webUrl: "https://www.seattletimes.com/business/people-or-profit-facebook-papers-show-deep-conflict-within/"
-ampWebUrl: "https://www.seattletimes.com/business/people-or-profit-facebook-papers-show-deep-conflict-within/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/people-or-profit-facebook-papers-show-deep-conflict-within/?amp=1"
+excerpt: "Facebook the company is losing control of Facebook the product — not to mention the last shreds of its carefully crafted, decade-old image as a benevolent company just wanting to connect the world. Thousands of pages of internal documents provided to Congress by a former employee depict an internally conflicted company where data on the harms it causes is abundant,"
+publishedDateTime: 2021-10-26T03:31:00Z
+originalUrl: "https://www.chron.com/news/article/People-or-profit-Facebook-papers-show-deep-16561189.php"
+webUrl: "https://www.chron.com/news/article/People-or-profit-Facebook-papers-show-deep-16561189.php"
+ampWebUrl: "https://www.chron.com/news/amp/People-or-profit-Facebook-papers-show-deep-16561189.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/People-or-profit-Facebook-papers-show-deep-16561189.php"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "People or profit? Facebook papers show deep conflict within"
@@ -38,6 +44,6 @@ related:
         height: 267
         isCached: true
 
-secured: "cnoq28vddP0c2/yDv0hv0Ev9xaOloHbBG+yf+IfTEvJgFKO5F4ri+XPJPFHbYJGr0Fxt/HPnsUP9Ysvd/N+yGNSrOlbSYRHR/brB3oAqIUNR7WYE4uYpv5jvuxiYxPMEjlSrIUX74sZtsV4JKkWDRFXCKns6ig6Xtq74h+x6MKAS7dpw4SvhH7jV9PyW6M5a5GbX4XalkvojX7o29LRaMT6oZ/LXd7l8SCqiZ5CmY8EkYaA5QcsFKvaG0PMYbgkObVJ0WvM5JgMQDkkOhRBVaNoMN9tCNnNO+VpvplWPnmJMvmaUudu6BbkDYmB+ROJ6k11noiZgmsPSMPpZ1CZJEGosthal31MqPO/bXRrw9u//ZU0kjKKzn98Nw5M5dboLTLcIPDknDgmH3+b2YL64qoePseQ7LQmmraYT4V0vq3kJjfb7ViLG/l1db0+t/kw73zeehzTuTiDZJSU5t8/GymCUMXmPR2NgY2DU/e8hpzpCS0w+ByegHJSsHYrE9nWY+GFLFpFTd5iVCks8dxmVVg==;dA5Fku0fB4jzS8MFdUTtFg=="
+secured: "+jN4rzWmlHYXOf/yQfllhWT1VWKELC2lQkHN9151+NmYXo9I+AfgJsQjKDT1oCV2ZEqnPiuQ22LYElOPRjZLWPzjywP1BU5Y5EqSh7S6zW+ZKv4VZ6hvQXSCLpUc6EQLowWn68Tk/Q4fnTDwAvdPrEwC+swO6Z4J6LuIpv8uwRuW+WpJSZk75y1ShseD22jFrF64SBy6rJwtNhGGis42ZkPvBT+97mPMTvevFiBtWuG+bWcWpVBppJAtnDVjK9yEHXm3A5G8sMtgGpWJBHgZ3oI7oiQdYzG7RSMdW9NlLObkdZNu695QCiHaoWzPBvWe9Xv4pIFlZzcj7fxQ43LQSxW4TcAvUERRYJb1/NW8jlk=;PXGMIZRjPBiU9lL2bOuD0Q=="
 ---
 
