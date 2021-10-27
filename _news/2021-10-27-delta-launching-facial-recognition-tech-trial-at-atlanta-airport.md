@@ -2,24 +2,24 @@
 category: news
 title: "Delta launching facial recognition tech trial at Atlanta airport"
 excerpt: "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate."
-publishedDateTime: 2021-10-27T11:31:00Z
-originalUrl: "https://www.cleveland19.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/?outputType=apps"
-webUrl: "https://www.cleveland19.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/?outputType=apps"
+publishedDateTime: 2021-10-27T12:31:00Z
+originalUrl: "https://www.wsfa.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/?outputType=apps"
+webUrl: "https://www.wsfa.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/?outputType=apps"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: 19 Action News
-  domain: cleveland19.com
+  name: WSFA
+  domain: wsfa.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://gray-woio-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
+  - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
     width: 980
     height: 551
     isCached: true
@@ -90,6 +90,6 @@ related:
         height: 3038
         isCached: true
 
-secured: "4jhHs1Sz/rSAHanyoN8ubCJyNrSUstYXbvd64tq0xbmlLmRqoyx1TG+2dTmSYfBb4ahOr38+4dyPwG9jZs2nPL9vhGrGhwdsbBzGHwW/JeF8qCs6BwfFk8YxkSI1u8gVjWs/ic7yclW1zS6H6b35a6lWkOStn/QrUlES86jE2xk5HG0tm/rxk5C+CLG1vEpzGXIG2CRcfYF0+Rcplw5lJKO73PZ/EZygiLHqEBOHpuj3zjHwMw5m5+G1hFbM3Htgiu5rSehfyF+tuD067F4BM+7rlfF82bQy+iohFAdANXIlsR7GXF2apAqRwpujHufoNlxCLjDi9+nnrVZh6f0Z4Elh9aKgEEKxiAWvHf09mhw=;kYGM6prw4St3tg69we6Z5A=="
+secured: "kDVCqJTm4ZrVh0CXNBKAkgdz1p8calDkFzA/2P2i6osmVR8g0mV+XBA5xuoz1jvzfcY07UHaiGU1/IBS+oSxE7C95doyAE68aL8DayPm+93jzKwKeXSJHSjZLfFIhLYnba8qcddKD6LSfLuLviy/tJd6Yr5dsUH5x3qU1jG/kXmQwaTqg4kSv7ETWJufg/r7QIlewa5XgBPGm9hZs3vW/sW+SHDDfYcAwSH0EgtUWiNNI6f81Vpv1yGaKqPw+6ALxoXIJdu+qOt6JSy7vClZ6pCaPghNImhJeAvTqLHMz+HzqZddlexOGBJJxB2fYGKEmSjnVnadAnUHpqTeHIhf2Wy8gcRWwf/nPMMB2Fmztf4=;h3dwD2t30DvMkadNiRlRfg=="
 ---
 

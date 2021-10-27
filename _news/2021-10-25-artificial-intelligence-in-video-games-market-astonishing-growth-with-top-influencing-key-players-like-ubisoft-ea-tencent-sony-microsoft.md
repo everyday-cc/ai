@@ -80,6 +80,22 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 20
+  - title: "Computer Assisted Coding (CAC) Software Market will Witness Huge Growth till 2027 & Covid-19 Analysis | Optum, Trucode"
+    excerpt: "This Computer Assisted Coding CAC Software market report s aim is to provide data on market forecasts channel features end user market key pricing structure and several regions Aside from that it addresses key business areas key companies their profiles"
+    publishedDateTime: 2021-10-27T17:01:00Z
+    webUrl: "https://www.openpr.com/news/2444878/computer-assisted-coding-cac-software-market-will-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2444878/computer-assisted-coding-cac-software-market-will-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2444878/computer-assisted-coding-cac-software-market-will-witness"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 20
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua27735429_g.jpg"
+        width: 600
+        height: 300
+        isCached: true
 
 secured: "yiqp6tusksL7y1+AjyjjC6fQ1nBCmep6/8NuxDtdPWlq0p5toajUDMJftzFXxdhacfTnGIWe+NBZM/4aDM6CyLI/a74nL5Q7CAbA+66D1AilBbHvYhbaSCRutfIRkaRbpMflSrpJnfHvT+zN25kcMpu4bLHPG/+uacagdVS+QrNpNZrAUp1mZjT+tAaQ0LlUYRoSewY/SGVXoKreVLtaWxpJa4ZEaCcYBVwRfft720SXhQS51L2ZExGniw/Kr0FaHU6v42KZUkGPiOgd9T7y1jNw6C7kOqZQilekhYhpRjAwUsEfdRWf5Mv8FUhnKv0In5D153yECZ2bm+Mk8ubChATCf5TZZrsnoqXxe/jJZyw=;Nx+Qr0h6DfNrnhyeDbYnqw=="
 ---

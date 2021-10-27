@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/schools-put-the-brakes-on-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
 type: article
 quality: 68
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -25,17 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "US Postal Service Moves To Escape Facial Recognition Suit"
-    excerpt: "The U.S. Postal Service is asking a D.C. federal judge to throw out a lawsuit challenging its use of facial recognition and other technologies to collect personal information, saying a privacy watchdog lacks standing because it hasn't shown how the organization was harmed."
-    publishedDateTime: 2021-10-22T23:45:00Z
-    webUrl: "https://www.law360.com/articles/1432922/us-postal-service-moves-to-escape-facial-recognition-suit"
-    ampWebUrl: "https://www.law360.com/amp/articles/1432922"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1432922"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
   - title: "Python Implementation of Viola Jones Algorithm for Face Recognition"
     excerpt: "Python Implementation of Viola Jones Algorithm for Face Recognition. Training and Testing Data. The following algorithm takes people's images wit"
     publishedDateTime: 2021-10-24T01:05:00Z

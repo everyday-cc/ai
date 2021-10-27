@@ -29,20 +29,20 @@ images:
 
 related:
   - title: "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security"
-    excerpt: "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology."
+    excerpt: "K–12 institutions have discovered an emerging solution: machine learning–enhanced endpoint protection. A type of artificial intelligence, machine learning uses immense computer power and algorithms trained on large amounts of data. It learns ..."
     publishedDateTime: 2021-10-25T14:40:00Z
-    webUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
-    ampWebUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
+    webUrl: "https://edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
+    ampWebUrl: "https://edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
     type: article
     provider:
       name: EdTech
       domain: edtechmagazine.com
     quality: 88
     images:
-      - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F"
-        width: 1440
-        height: 500
+      - url: "https://edtechmagazine.com/k12/k12/higher/sites/edtechmagazine.com.k12/files/2021-10/EdTech-CSAM-2021-CTAs-Security-Bundle-mobile_3.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "The rise of AI and virtual learning could see a decline in professors in college classes"
     excerpt: "The erosion of tenure is contributing to losing professors, and eventually there will be technologies that could replace in-person instruction."

@@ -1,40 +1,61 @@
 ---
 category: news
 title: "LivePerson acquires VoiceBase and Tenfold to power scaled Voice AI innovation"
-excerpt: "NEW YORK, Oct. 27, 2021 /PRNewswire/ -- LivePerson, Inc. (Nasdaq: LPSN), a global leader in Conversational AI, today announced two major strategic acquisitions: VoiceBase, a leader in real-time speech recognition and conversational analytics; and Tenfold ..."
-publishedDateTime: 2021-10-27T13:57:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/liveperson-acquires-voicebase-and-tenfold-to-power-scaled-voice-ai-innovation-301409875.html"
-webUrl: "https://www.prnewswire.com/news-releases/liveperson-acquires-voicebase-and-tenfold-to-power-scaled-voice-ai-innovation-301409875.html"
+excerpt: "Through these acquisitions, three powerful technologies combine to create a unified, AI-enabled system for customer experience: VoiceBase’s superior speech recognition and analytics capabilities, Tenfold’s advanced voice,"
+publishedDateTime: 2021-10-27T15:05:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-5906129d68124670d985ee12d29c830d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-5906129d68124670d985ee12d29c830d"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/178033/liveperson_logo.jpg?p=facebook"
-    width: 2700
-    height: 1413
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
-  - title: "Aktana Acquires Ople.AI's Machine Learning Automation Technology"
-    excerpt: "Aktana, the leader in intelligent customer engagement for the global life sciences industry, today announced its acquisition of Ople.AI ’s machine learning automation technology. The addition will put the power of AI into the hands of non-data scientists,"
-    publishedDateTime: 2021-10-27T13:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/10/27/9478651.htm"
+  - title: "LivePerson acquires VoiceBase and Tenfold for its conversational AI platform"
+    excerpt: "LivePerson has acquired two startups, VoiceBase and Tenfold, to bolster its expanding conversational AI platform."
+    publishedDateTime: 2021-10-27T17:35:00Z
+    webUrl: "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/"
+    ampWebUrl: "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/04/rob_185_final.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vonage Adds Conversational Commerce with Acquisition of Jumper.ai"
+    excerpt: "This purchase adds to Vonage’s acquisition of conversational AI startup, Over.ai it made in August of 2019. Vonage entered the cloud API market when it acquired Nexmo in 2016. It has been a leader and visionary in recognizing the future of cloud ..."
+    publishedDateTime: 2021-10-25T14:55:00Z
+    webUrl: "https://www.eweek.com/networking/vonage-adds-conversational-commerce-with-acquisition-of-jumper-ai/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/wires-technology.jpg"
+        width: 1920
+        height: 1277
+        isCached: true
 
-secured: "/TvuVkSlcpcbA+ZERDXKo5ZmpqXj14+bXf/pJi4IZ55GI9dke7QnDhubc3za9WQGTWTwqnmtXN0eakd5wEtOFgQgAjCw7/0oAdUWB8mRGhqDpUDL1k0kyWHzKlk/qRZYvT+5EFTm3iP206zR7elNlUcJkkqXeimSv/X+jVSfcQfh8FFMOey3q8bblqggijgGePss6w1//m+YxJQIv70D8AuVb84CK9u/5/eANxUThlPDa6epDWhnbIh+z3unRv9vOwnHH08HNGfuEVvKhfW9GawTY/WYJrjiVe0MoJEnVd33P+DSZf9Eyd34yhXKtvmyMeOM5m8NJ9yY/vPFouUeYh8h68Y6MNhqhm7zHXIhPl4dqZ+QnNj18KTx7sXnjfgsGHGi7D/0wb2jMsHrTgEuq+e61vxkPaNxLRMTgdexAtkwApANBcWpY/xPSJnBHYtcbccztw+awwmO8v/K39soLy4CaSEivCLBlR5ahzDquucfh7AB0ggkUv1rKW8T/s5wuMyJEW9C9J/+t7t6e2ro8A==;0kPKPnMyySku7TgpYIbeXQ=="
+secured: "WVAyinqNdn7VESSAuKM0AJNlFdU8i4j+LRtxexhbg8gr6I/B8IclBMBNsGfZNh6Err1qthlKxFwSiwt24Wtjyi5G0kfLy8TOkVLr1+wq6I+1QL5Cj3W9Z+I1LRc7CrxTXgqNuM+aGtJRPjErNxWPr7e3I1RMlGFrTHseZronJ5lyLGqDRLa7ExZFpNmTTgp0xuXW6ZWv/mbqEn6FkbBqzUHYItk2/mou2ZXs71jfc+JrDclqSOcTOlMpQv3+mFCZ666Wk4npNE5ws5PNp6wCfFLSfFfTI6SSrUmzYrwusbvZoBP2eI7Jexhdy18A6jrMNF9ZPMob/wVYKrDify7XE8WFfsNuUwBmq2cu6flW/bE=;ysLqXQALeVqCeqGa2zyToA=="
 ---
 

@@ -56,6 +56,20 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "Deep Learning in Machine Vision Market Outlook 2026: Top Companies, Trends and Growth Factors Details for Business Development"
+    excerpt: "Deep Learning in Machine Vision Market” provides a comprehensive analysis of the market. The analysis includes market"
+    publishedDateTime: 2021-10-26T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-outlook-2026-top-companies-trends-and-growth-factors-details-for-business-development-2021-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Top 10 Companies in Image Recognition Market Industry 2021 By Fortune Business insights"
     excerpt: "The globalImage Recognition Marketis expected to rise with an impressive CAGR and generate the highest revenue by"
     publishedDateTime: 2021-10-27T11:09:00Z

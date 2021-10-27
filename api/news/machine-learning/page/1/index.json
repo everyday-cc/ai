@@ -430,19 +430,19 @@
     {
       "path": "_news/2021-10-25-artificial-intelligence-and-machine-learning-play-a-role-in-endpoint-security.md",
       "title": "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security",
-      "excerpt": "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology.",
+      "excerpt": "K–12 institutions have discovered an emerging solution: machine learning–enhanced endpoint protection. A type of artificial intelligence, machine learning uses immense computer power and algorithms trained on large amounts of data. It learns ...",
       "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
-      "originalUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "webUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "originalUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
       "featuredContent": null,
       "highlight": null,
       "heat": 118,
       "tags": null,
       "images": [
         {
-          "url": "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F",
-          "width": 1440,
-          "height": 500,
+          "url": "https://edtechmagazine.com/k12/k12/higher/sites/edtechmagazine.com.k12/files/2021-10/EdTech-CSAM-2021-CTAs-Security-Bundle-mobile_3.jpg",
+          "width": 300,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -450,8 +450,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "ampWebUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
       "publishedDateTime": "2021-10-25T07:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -611,49 +611,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-21-machine-learning-can-be-fair-and-accurate.md",
-      "title": "Machine learning can be fair and accurate",
-      "excerpt": "Researchers are challenging a long-held assumption that there is a trade-off between accuracy and fairness when using machine learning to make public policy decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/10/211020140038.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/10/211020140038.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-21-deep-learning-for-reticular-opacity-on-chest-radiographs-with-interstitial-lung-disease.md",
       "title": "Deep learning for reticular opacity on chest radiographs with interstitial lung disease",
       "excerpt": "According to ARRS’ American Journal of Roentgenology (AJR), radiologists’ sensitivity on chest radiographs for reticular opacity in patients with interstitial lung disease (ILD)—including those with mild disease—improved using a commercially available deep learning algorithm (DLA) from VUNO.",
@@ -717,6 +674,40 @@
       "provider": {
         "name": "C4ISRNET",
         "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-machine-learning-can-be-fair-and-accurate.md",
+      "title": "Machine learning can be fair and accurate",
+      "excerpt": "A CMU team aims to dispel that assumption in a new study, recently published in Nature Machine Intelligence. Rayid Ghani, a professor in the School of Computer Science's Machine Learning Department (MLD) and the Heinz College of Information Systems and Public Policy;",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/932216",
+      "originalUrl": "https://www.eurekalert.org/news-releases/932216",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-arti
 webUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27"
 type: article
 quality: 66
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ataklqvzfwgqmoag_1635166023.jpeg"
         width: 768
         height: 439
+        isCached: true
+  - title: "Deep Learning in Machine Vision Market Outlook 2026: Top Companies, Trends and Growth Factors Details for Business Development"
+    excerpt: "Deep Learning in Machine Vision Market” provides a comprehensive analysis of the market. The analysis includes market"
+    publishedDateTime: 2021-10-26T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-outlook-2026-top-companies-trends-and-growth-factors-details-for-business-development-2021-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI in Auto Insurance Market Insights Shared in Detailed Report 2021 till 2028"
     excerpt: "New York United States AI in Auto Market report will provide one with overall market analysis statistics various trends drivers opportunities restraints and every minute data relating to the AI in Auto market necessary for forecasting its revenue"

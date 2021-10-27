@@ -174,6 +174,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 20
+  - title: "Facebook wants to turbo-charge smart glasses. Researcher wonders if it can do it right"
+    excerpt: "A computer security and privacy researcher looks at Facebook's smart-glasses project and found concerns for the recordable world as well as for the recorder."
+    publishedDateTime: 2021-10-27T17:47:00Z
+    webUrl: "https://www.biometricupdate.com/202110/facebook-wants-to-turbo-charge-smart-glasses-researcher-wonders-if-it-can-do-it-right"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "'Instagram may NEVER be safe for 14-year-olds': Whistleblower Frances Haugen quotes Facebook's OWN research - and says social media giant won't sacrifice a 'slither of profit ..."
     excerpt: "Ms Haugen said Facebook was 'very good at dancing with data' to suggest it was successfully clamping down on toxic content but in reality its 'negligence' is pushing users towards extremism."
     publishedDateTime: 2021-10-26T01:01:00Z

@@ -222,6 +222,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla withdraws self-driving beta over software issues"
+    excerpt: "Tesla has withdrawn its latest \"full self-driving\" car software update after drivers complained of problems. Some drivers reported intermittent issues such as safety alerts sounding, despite no danger being present."
+    publishedDateTime: 2021-10-25T12:24:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-59037344?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-59037344.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-59037344.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/EF25/production/_118712216_gettyimages-910879198.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tesla rolls out new Full Self-Driving beta version after brief roll back"
     excerpt: "Tesla has rolled out Full Self-Driving Beta version 10.3.1 following a brief roll back after bugs were found in the initial rollout of software Version 10.3. Users' posts claimed Teslas with the latest 10."
     publishedDateTime: 2021-10-26T07:28:00Z

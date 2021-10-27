@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103042227/Timekettle-WT2-Edge-Translator-Earbu
 webUrl: "https://menafn.com/1103042227/Timekettle-WT2-Edge-Translator-Earbuds-with-Trending-Features-and-New-Specifications"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 443
     height: 250
     isCached: true
+
+related:
+  - title: "Timekettle M2 Language Translator Earbuds with Advanced Features and Capabilities"
+    excerpt: "Timekettle Technologies is committed to building a global brand of AI translator by integrating cutting-edge technology and innovat"
+    publishedDateTime: 2021-10-27T17:41:00Z
+    webUrl: "https://menafn.com/1103058115/Timekettle-M2-Language-Translator-Earbuds-with-Advanced-Features-and-Capabilities"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/27/G_40b3941d-c_Image_In_Body.jpg"
+        width: 600
+        height: 372
+        isCached: true
 
 secured: "mSrhhmV8zYvU8l5rwGNTsRpsk4wUNtbzCr2aEtqC8slnqo2JhVCvmUZX3XtfSGmrZwAyknkV4OKszp9wPys/l4Wri9/wSIbdczWS8i5HolCJejuVwU6QiDRc/WhVFaGVdrC/cnYCO/hLReSwRuSXQermcmJAXvltMUHFA8u9BIsGRFeYjTVPBjp7HSwCYaLQjXLGkaEIDLxhjrtq2ckSx8Hamh5XY06/7L+v+Qb/i+RlWOKRhhjeYWEK0nygmIPYpbWG/i4MRGDyV4jh50b3B7KnL6xyZ6dd8s6BJsRenUMlelzrr3Lux8vfaWw6rpUlO62ocoN0pTJihx3x+a8KWxm6YBcAwrBzqJGyeKeBAww=;aADMIm7cAJwaV1uFM9CDXg=="
 ---

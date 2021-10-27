@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2021-10-ethics-artificial-intelligence.html
 ampWebUrl: "https://techxplore.com/news/2021-10-ethics-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-ethics-artificial-intelligence.amp"
 type: article
-quality: 76
+quality: 78
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/the-ethics-of-artifici.jpg"

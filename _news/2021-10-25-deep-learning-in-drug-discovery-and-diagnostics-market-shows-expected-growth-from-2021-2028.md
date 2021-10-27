@@ -57,6 +57,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Computer Vision System Market 2021 : In Depth Analysis of Top Key Players, Detailed Study Report by 2026 with Dominant Countries Data"
+    excerpt: "The Global “Computer Vision System Market\" Research Report 2021-2026 is a professional and in-depth study on the"
+    publishedDateTime: 2021-10-25T08:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-2021-in-depth-analysis-of-top-key-players-detailed-study-report-by-2026-with-dominant-countries-data-2021-10-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Consumer AI Market Incredible Possibilities, Growth, Trend, Opportunities Detailed Analysis and Forecast 2030"
     excerpt: "The Global Consumer AI Market size is estimated to be USD 5 00 billion in 2019 and is predicted to reach USD 149 60 billion by 2030 with a CAGR of 36 2 from 2020 2030 Artificial intelligence is also"
     publishedDateTime: 2021-10-25T03:16:00Z

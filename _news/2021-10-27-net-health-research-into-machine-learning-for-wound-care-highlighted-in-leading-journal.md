@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Net Health Research into Machine Learning for Wound Care Highlighted in Leading Journal"
-    excerpt: "A peer-reviewed article written by clinicians and data scientists at Net Health highlights the value of machine learning and artificial intelligence (AI) in predicting"
-    publishedDateTime: 2021-10-26T11:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/net-health-research-into-machine-learning-for-wound-care-highlighted-in-leading-journal/article_dfabc7bb-4b80-519c-b1db-d4f999144eb3.html"
+    excerpt: "A peer-reviewed article written by clinicians and data scientists at Net Health highlights the value of machine learning and artificial intelligence (AI) in predicting wound healing timeframes and risks."
+    publishedDateTime: 2021-10-26T11:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-net-health-research-into-machine-learning-wound-care-/2021/10/26/9477076.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 11
 
 secured: "kFojrJ4RqXR1MVCXI7D+RsDeQYQFPurXbPa+kSG2VFOQtDspauXRhZaGyRPQoReujWrR8yAV5lKNk0TOl6nLX1LjFtXPZJjFKy0iHV2q/2tQqSrSZV/1SL+kRG4dZHgWZ70o1aYanRzarzO2vTbFK6G7IjdnaA3ZYi/80jU54gKl6kIjaHKYGobVYz8F3M04CrEa6Y6/LCn0NkrDxSm9+rotAk2ZlLB2IlnOEQA/u5Nlbrq5B5ElMETyremnP1ySxZ0T5BO0cXd5KV5r96ttRBaSLDn31rgTSJhS2NWjz9t5OYpHR+p/8y9zx5bocc0MGJWbTFxazvHq6ynOgMkn3iPIxWY31wNOgSAyeNY5P3A=;ePwtsQmBC67mxElMD8k0FQ=="

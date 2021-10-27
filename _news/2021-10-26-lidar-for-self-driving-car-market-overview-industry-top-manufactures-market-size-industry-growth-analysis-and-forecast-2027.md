@@ -59,6 +59,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Computer Vision System Market 2021 : In Depth Analysis of Top Key Players, Detailed Study Report by 2026 with Dominant Countries Data"
+    excerpt: "The Global “Computer Vision System Market\" Research Report 2021-2026 is a professional and in-depth study on the"
+    publishedDateTime: 2021-10-25T08:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-2021-in-depth-analysis-of-top-key-players-detailed-study-report-by-2026-with-dominant-countries-data-2021-10-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning in Drug Discovery and Diagnostics Market Shows Expected Growth from 2021-2028"
     excerpt: "Another factual information on the Deep Learning in Drug Discovery and Diagnostics Market has as of late added by CMI to its storehouse This research report offers an inside and out examination of various perspectives for example market patterns pieces"
     publishedDateTime: 2021-10-25T11:45:00Z

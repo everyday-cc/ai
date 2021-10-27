@@ -77,19 +77,19 @@ related:
         isCached: true
   - title: "Delta launching facial recognition tech trial at Atlanta airport"
     excerpt: "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate."
-    publishedDateTime: 2021-10-27T11:31:00Z
-    webUrl: "https://www.cleveland19.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/?outputType=apps"
+    publishedDateTime: 2021-10-27T12:31:00Z
+    webUrl: "https://www.wsfa.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/?outputType=apps"
     type: article
     provider:
-      name: 19 Action News
-      domain: cleveland19.com
+      name: WSFA
+      domain: wsfa.com
     quality: 54
     images:
-      - url: "https://gray-woio-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
+      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
         width: 980
         height: 551
         isCached: true
 
-secured: "onFeNf6qE2F84wGisRHSmYqUlh6jUlTltfCSXS8bGVyGDB1K8wTzTcvKXJiNhkCC1tFd5j/QUV05f3BWeDV6hzN/qcC+ioJBrmDXu/27smVgsQuES56Vx3r40e7aHCfxRz0OtWGRFaibRJ635fYOPsu67zAxaauogiVqPcY1VXwQxRU4sz7xFuQoPwCX5g4fAaE7R8gaUD1U4KmAVizgw6K62i1mB2yrBoTFQEuIz2tzPyYv5dIgUVFLaRY6dj2FN+Z9fy+fnMrGo7I5hgHFxshXWXzmt0xD0Np6E9seKXlG/lvU5prgOEpxAhDnsutOIf70sDstYqQiSusZaoLxtr09+lgQwSjE+wy9XHQoK9M=;JjwmT/oGUsDTXCf42Oitow=="
+secured: "odzNlV+b/FeOUg9x5T1cmsEqm6Z/zILtavS99VuR/jH4fKZ2lXWhcDA2938lI1rG+uSbxY3LHuPp+4knOxMNQlvrJtVonQ9HMTtAspbkrIlQHpUyk2vmSn4pNzJzG6++/Bmr0zvpwg4j/wWnRhNKivp28M9jadHzlxTGe+q1gv4g2KZlFTr73c+dDc2RA+wRCXL4ZnEtjoycG3FgkX0Q6Fxu9ukBlpVDauMGS/BK9cX9xYa8yclhzjuVZAAY9N+0l4wREajHU33aFPz/yrv3yvToVn/bmeB3vzyKPsk3gcNsSuaxxfbu2R8UWfoNL7r2h92IanCu08TZK999RLQp0LTzQNPoAZMjkM/pBjs7B1f6OMbmptgKQRxR958RzVSOAalSUtsjC7YchWYoRtK0XQ3LzLdD48mLuw5zx9BiB+iK+4fyuXGVt6FurxPCfMYegbwaHAHrU8gq2qnTaveA6p6eK1r0VA4HVX9Rl2gVdQC6JQ9h8OY7qbx/JAzBdf9+E0tU0rJOOvUyj1G5KYGy7w==;sR8I94P4PuDvBc56MtG3mQ=="
 ---
 
