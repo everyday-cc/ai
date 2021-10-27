@@ -41,20 +41,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "Filings buzz in the railway industry: Increase in artificial intelligence mentions"
-    excerpt: "We have analysed the mention of artificial intelligence with data from Globaldata.  Mentions of artificial intelligence within the filings of companies in the railway industry rose 64% between the first and second quarters of 2021."
-    publishedDateTime: 2021-10-22T13:14:00Z
-    webUrl: "https://www.railway-technology.com/analysis/filings-buzz-in-the-railway-industry-increase-in-artificial-intelligence-mentions/"
-    type: article
-    provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 48
-    images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/10/KS-KYUNG-on-Unsplash-800.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "eBiLaBP96Cc8grMt01wPbcA+oDZpKqDJ61EXetj3byA3MGsM4KCJdpcU1GN6k9+USdJ6QN4qLVXdnUhtf+64IIrczFP1xL/oeBgWKIjHStwM+B3ZE85RbQg20dWpYW2jBPNfsnY+btsvzTLW0La2bGwVLO7NQctG8Gm3PIGqh2IOLX4CuO5IDu+GRq04JBh18cGctjKE22aCEYOVIfLcXyuosyQ16SFMO3Zplgr3oYuVkVJGp+RNoT8PdoRmH6qb3GuNK/dXIyhp4SKpNUqIiGRYHyB9M1q4Nv5sBc/e1QvOCpqcWuqIOWrA9uNyQy7H+qVIcwK2omedCqNYeFLzh7K5ym6E53BKHzZyQjx8JiGPoVaXqcBc3rfiSBN7auQr/FDGdDn7DPRKLqV23hiuFHmkNlsp7b3axdAGZ3yKD2qZhvoGKcf8CiSXuNoEKUWeG1IhUVrIHrFnsI13vs5640Fx8mBW+BUCUAo81ZJUg8jgcag1XoJQHCyh5i9hiRz0Ig0uz0ods+cCzlw6MMVjvw==;Ex1irxpsZGp1Bxlofos7UA=="
 ---

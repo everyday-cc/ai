@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Samsung and IBM Announce Call for Code Challenge to Honor Everyday Heroes"
-excerpt: "Samsung Electronics Co., Ltd. and IBM (NYSE: IBM ) today announced the Call for Code Honoring Everyday Heroes Ch"
-publishedDateTime: 2021-10-26T18:11:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-f779e4d4b897d62f6f206694f4db1beb"
-webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-f779e4d4b897d62f6f206694f4db1beb"
+excerpt: "SEOUL, South Korea and ARMONK, N.Y., Oct. 26, 2021 /PRNewswire/ -- Samsung Electronics Co., Ltd. and IBM (NYSE: IBM) today announced the Call for"
+publishedDateTime: 2021-10-26T17:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-1030901159"
+webUrl: "https://markets.businessinsider.com/news/stocks/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-1030901159"
 type: article
-quality: 23
-heat: 23
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "53Ppr3Xr7XxtBNL2MoIMF5tvUm7Tin0dpEjTsdlPZeufZ9xRW+dZTDWEXVyVHYUCjJJ/9K74g2EE7k91ww+SurEEm6b3C+GCVlylBFjflEAo7vJmemduYDTfhOZWTn461g3fg1DU3nYj7eIzl8FDrQw5lFOTayCs2O2Y6wZpV8Dgg+BcraQHb+bwURSZ//Ik4ISw4l3tk3lQ2AdvR3wlL728+aBVAk15Y0ktCBaNpJzcR5KvCzIHqRIEvuqB99lj/vS47zhZKXzjb0uB6NY0JQMoTQfZ1zWsgCTBSk7H4QRourrk6D6JB8mHVCv9K2oIK8g0KBvzdx2fxrO34Ow/tI72xRTa0Jv2f9WO3vsdRIs=;BZF1CpirdA4pO/Bz1D7Beg=="
+secured: "OPA2EfULPz8M/+iPFfhesvs2HV/YM/S/hBD8ibpblXEqBFCh++hQA037WvJYbxgktQQ6G8vlcf5XwBTp/mjlcAt6iMJJpaUk4OxtaBM6vrNqCjYgg9p+gCVGAzFsY9ubyKuzsrqZpeGUUp1UI+l0LW3Q31GUTcojUKISuxqXcOqE8QX2V3TiaHAAO82CGMGxX4BE5PP+75z1rBMJiRz4HHUsQo9AzMZ8oKaCyl8BdNhKsO6tSyKYeAOI1Y6ujPwuPKxag/5k1CPjXkv0LGvpLtAThjoqSyDAZuQjFTP/4m+rd9OdAOFWV/eUWXsgpOaSHWcymYkPc+4WcImWfGEVnRuTPhUcRAjIY+rsF3tSEXs=;XyCKd01BsKP7FgHMTK/FIw=="
 ---
 

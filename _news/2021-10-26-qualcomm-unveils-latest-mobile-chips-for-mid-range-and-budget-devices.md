@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm Unveils New Snapdragon 700, 600, and 400-Series Chips for Affordable 5G Phones"
+    excerpt: "Global chipmaker Qualcomm has introduced four new Snapdragon chipsets under its 700, 600, and 400-series SoC. Check them out here."
+    publishedDateTime: 2021-10-27T06:32:00Z
+    webUrl: "https://beebom.com/qualcomm-snapdragon-700-600-and-400-series-chips-affordable-5g-phones/"
+    ampWebUrl: "https://beebom.com/qualcomm-snapdragon-700-600-and-400-series-chips-affordable-5g-phones/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/qualcomm-snapdragon-700-600-and-400-series-chips-affordable-5g-phones/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 51
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2021/10/Qualcomm-unveils-new-chipsets-feat.-min.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Qualcomm updates Snapdragon 4, 6, 7 series with new chips"
+    excerpt: "Qualcomm announced new Snapdragon smartphone processors across its 4, 6 and 7 series. Features from the top-end 8 series have been brought to the lower ranges, in order to address demand for popular segments in the premium and mid-range 5G and 4G"
+    publishedDateTime: 2021-10-27T07:45:00Z
+    webUrl: "https://www.telecompaper.com/news/qualcomm-updates-snapdragon-4-6-7-series-with-new-chips--1401995"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 39
+    images:
+      - url: "https://www.telecompaper.com/content/qualcomm_snapdragon__5g.png"
+        width: 568
+        height: 439
+        isCached: true
   - title: "Qualcomm’s unveiled the new chips that’ll power most 2022’s cheap phones"
     excerpt: "Qualcomm has unveiled the four newest chipsets in the 7, 6 and 4-series to improve performance across the high, mid and entry-level tiers"
     publishedDateTime: 2021-10-26T15:04:00Z

@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "China Rapidly Developing Artificial Intelligence, Officials Warn"
-    excerpt: "There is an increasing consensus from America’s national security agencies that China represents a strategic threat to the United States."
-    publishedDateTime: 2021-10-26T00:30:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/china-rapidly-developing-artificial-intelligence-officials-warn-195530"
+  - title: "AI chips for smart cars spell new opportunities"
+    excerpt: "Artificial intelligence-powered chips for smart vehicles are poised to usher in new development opportunities, as the commercialization of self-driving technologies is revving up in China and domestic demand for intelligent chips is surging amid a global shortage of semiconductors,"
+    publishedDateTime: 2021-10-27T01:24:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202110/27/WS6178aa4ea310cdd39bc7188e.html"
     type: article
     provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 54
     images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/Artificial.JPG"
-        width: 6000
-        height: 4000
+      - url: "http://img2.chinadaily.com.cn/images/202110/27/6178aa4ea310cdd3d8160156.jpeg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "LTTSgmMNjBxnrjSc+DXBbhLlpHdPoY/++UZiM+aQq4mJ5eHZDJy8kBhBdYcV3dJp3CiJRPB9T+aq6Z4PciN2ucqucU53a0oGikGAKVISAmjcGoPKthPC6chRiEuvZrDTS0Bz1i68/xBGwvAj7KnJ+6jFvD9cmbY6GmpBW9/U93XJ16XH+V6Lt8ytZTBbXXwUpE4WuXrDP6JWkOCxNLc+fSiYDrvvdbWhUh/y6LwrsduZ5W46SzitPEqT4Uw3H1uGxuRKhq2BbbJmH8tpxD6Bf+9i4MMxNeLGSiSi7zVyFLLQdwvszEvjB6vQZjSpnw6st8pMlbfuy7JKynYTjC4+0sirEaTwfYwNdRK3DP4NavI=;N+5Y6SbfYCFrgVyMstZsHw=="

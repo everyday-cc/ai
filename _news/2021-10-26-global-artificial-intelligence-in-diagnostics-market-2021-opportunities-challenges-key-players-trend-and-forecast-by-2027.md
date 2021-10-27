@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence In ICSI Is A Key Trend In The IVF Services Market"
+    excerpt: "IVF Services Market - Opportunities And Strategies – Global Forecast To 2030 The Business Research Company's IVF Services Market -"
+    publishedDateTime: 2021-10-27T06:43:00Z
+    webUrl: "https://menafn.com/1103053095/Artificial-Intelligence-In-ICSI-Is-A-Key-Trend-In-The-IVF-Services-Market"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/27/EP_998fbimage_story.png"
+        width: 967
+        height: 493
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Growth Strategies Adopted by Top Key Players Worldwide and Assessment to 2031"
     excerpt: "Artificial Intelligence in Healthcare Market Research Report- insightSLICE” The global Artificial Intelligence in Healthcare market is anticipated to observ"
     publishedDateTime: 2021-10-26T05:01:00Z

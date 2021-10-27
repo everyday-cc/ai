@@ -64,6 +64,20 @@ related:
         width: 1280
         height: 686
         isCached: true
+  - title: "Schools suspend use of facial recognition after backlash"
+    excerpt: "The Information Commissioner's Office wants organisations to consider a 'less intrusive' approach where possible"
+    publishedDateTime: 2021-10-27T06:41:00Z
+    webUrl: "https://www.computing.co.uk/news/4039273/schools-suspend-facial-recognition-backlash"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/691e627/cd75934c-215f-493a-b2df-1015f2f48059/6/School-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Council suspends facial recognition software scheme in school canteens that scanned pupils faces as they bought lunch over privacy concerns"
     excerpt: "Nine schools in North Ayrshire in Scotland became the first in the UK to start using the system on a long-term basis last week after a pilot project in Gateshead last year."
     publishedDateTime: 2021-10-26T14:44:00Z

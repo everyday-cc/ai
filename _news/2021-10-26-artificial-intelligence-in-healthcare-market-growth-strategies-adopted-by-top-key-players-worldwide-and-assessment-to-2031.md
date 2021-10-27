@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In ICSI Is A Key Trend In The IVF Services Market"
+    excerpt: "IVF Services Market - Opportunities And Strategies – Global Forecast To 2030 The Business Research Company's IVF Services Market -"
+    publishedDateTime: 2021-10-27T06:43:00Z
+    webUrl: "https://menafn.com/1103053095/Artificial-Intelligence-In-ICSI-Is-A-Key-Trend-In-The-IVF-Services-Market"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/27/EP_998fbimage_story.png"
+        width: 967
+        height: 493
+        isCached: true
   - title: "Global and United States In-Flight Voice Recognition Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and United States In-Flight Voice Recognition Market Insights, Forecast to 2027 report by QYResearch Group. In-Flight Voice Recognition market is segmented by region (country),"
     publishedDateTime: 2021-10-23T13:36:00Z

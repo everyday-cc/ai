@@ -3,10 +3,10 @@ category: news
 title: "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security"
 excerpt: "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology."
 publishedDateTime: 2021-10-25T14:40:00Z
-originalUrl: "https://edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
-webUrl: "https://edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
-ampWebUrl: "https://edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
+originalUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
+webUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
+ampWebUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
 type: article
 quality: 88
 heat: 118
@@ -22,7 +22,7 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://edtechmagazine.com/k12/k12/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F"
+  - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F"
     width: 1440
     height: 500
     isCached: true
@@ -73,6 +73,6 @@ related:
         height: 405
         isCached: true
 
-secured: "krxfh7k7v6KhLrcaqBEiXLPDNC0XWeClK5xb4qYP1ukO8WcNrZ9l1136tGZazhRF+maAhkJSsIhXRumpFeJ8tjSfh75AmBQZzgOEew23npT1FYHJ/j8RtF7p6vomwu5HM58mCIkb4N4Mw4ItnBud+CngyqGp96a25XKrnFIFGlsM39giJgiIYYktwcYDgE1W0Z7RW1PRmIdcamv+rsV65YYRnC2uI+eEPqkGRNsBF+dqS9yI8wIDmyJll7/T53cgSarOS/qv4CF5Sw8LzHwdO0t/5wig3JVp0ANBlOLzKH4dUKc25F4TXOe4/SDDJptluYL+++Yh4tYsYy21JjCm3HoET5/RmXRrW3EISfJ5+U8Scs2fvqxvTaIG12nmRfZsK1fqjfeaca3ZhcofKSU4fNHeUbZKpTiMyOq5K6Y1pyplT7zfUGe29FTXDaQfpBt5eFM2Qk4z4t2wK8YN3JkQrlQiHSNgqezkwx561b6U5uHDdUev5bAAoSQL+4zcwqsCTiHCwLV3vrtziCO9q3hlgg==;CSQnv66qYPoXOS9oaGLUaw=="
+secured: "B6gPUGn7o9gWvf1LJUqOkPhU5olyXK3FPQKt7Lj4VY2kWuwTNd7SxaGGpZC7NQVRCHMte8PSuTvCObel+m2WpjLiWZfU41w3arxol6L3yeeVK00K9MMb8CkoHDOGUeZGpxog66gpvD4vZ0T81InnGq/PaXSGBCOkIKjbkQoet+9SWiVpe1vENIzjwFODklCghr49qF77RK3j8nVU90AAJbQhrNs4Eb6BfvKdicZkfgh8wO0mAnr+2qr5JLu5G1jplFEMc/x3RVSJ1+TdyVfTHJwM7dITcfaFDE+lQAhseNM3xNyrXwHHc8N+Uwnle1qsY7KlX8SPeVvOE4p773G4SGNrMczkJ9Qx7VGlBCaGXsw=;nGHDtEezpKkBhyQCcgooJQ=="
 ---
 

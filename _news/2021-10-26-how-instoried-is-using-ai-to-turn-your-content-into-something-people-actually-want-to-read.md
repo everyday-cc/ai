@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-based startup Instoried raises $8 Mn funding"
+    excerpt: "Instoried has raised $8 million in its funding round in order to strengthen its technology stack, expand its team, and enter new markets"
+    publishedDateTime: 2021-10-27T06:28:00Z
+    webUrl: "https://thetechportal.com/2021/10/27/ai-based-startup-instoried-raises-8-mn-funding/"
+    ampWebUrl: "https://thetechportal.com/2021/10/27/ai-based-startup-instoried-raises-8-mn-funding/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/10/27/ai-based-startup-instoried-raises-8-mn-funding/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 57
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2021/10/Sharmin-Ali-CEO-Founder-Instoried_2.jpeg"
+        width: 2175
+        height: 2336
+        isCached: true
   - title: "AI-driven content startup Instoried raises $8 mn led by Pritt Investment, 9Unicorns"
     excerpt: "Instoried Research Labs Pvt. Ltd, an artificial intelligence-based startup focussed on content marketing, has raised $8 million"
     publishedDateTime: 2021-10-27T05:00:00Z

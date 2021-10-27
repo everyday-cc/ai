@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp"
 type: article
 quality: 89
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -257,20 +257,6 @@ related:
       - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
         width: 1001
         height: 563
-        isCached: true
-  - title: "Tesla's self-driving cars a step toward a future without auto insurance"
-    excerpt: "The phrase “asleep at the wheel” could soon lose all meaning as Tesla and other automakers push self-driving cars closer to reality. CEO Elon Musk has said select Tesla drivers could get their hands on “full self-driving” software as early as October of this year."
-    publishedDateTime: 2021-10-22T13:06:00Z
-    webUrl: "https://torontosun.com/moneywise/teslas-self-driving-cars-a-step-toward-a-future-without-auto-insurance"
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 39
-    images:
-      - url: "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/10/as-tesla-pilots-self-driving-cars-auto-insurance-may-become-.jpg"
-        width: 728
-        height: 400
         isCached: true
   - title: "Tesla Rolled Back Full Self-Driving Beta Because Of 'Some Issues'"
     excerpt: "Look, it's beta software, these things happen. It's beta software controlling 4,000 pounds of car on public roads, but come on, don't be a luddite"

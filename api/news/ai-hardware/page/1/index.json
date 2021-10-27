@@ -64,7 +64,7 @@
       "originalUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -212,7 +212,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1396,19 +1396,19 @@
     {
       "path": "_news/2021-10-12-supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to-accelerate-a-wide-range-of-ai-hpc-and-cloud-workloads.md",
       "title": "Supermicro Expands GPU System Portfolio with Innovative New Servers to Accelerate a Wide Range of AI, HPC, and Cloud Workloads",
-      "excerpt": "These servers are designed for demanding AI applications where low latency and high application performance are essential. The 2U NVIDIA HGX™ A100 4-GPU system is suited for deploying modern AI training clusters at scale with high-speed CPU-GPU and GPU ...",
+      "excerpt": "\"With our innovative design, we can offer customers NVIDIA HGX A100 (code name Redstone) 4-GPU accelerators for AI and HPC workloads in dense 2U form factors. Also, our 2U 2-Node system is ...",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/10/12/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/10/12/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to",
+      "webUrl": "https://www.asiaone.com/business/supermicro-expands-gpu-system-portfolio-innovative-new-servers-accelerate-wide-range-ai",
+      "originalUrl": "https://www.asiaone.com/business/supermicro-expands-gpu-system-portfolio-innovative-new-servers-accelerate-wide-range-ai",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
-          "width": 400,
-          "height": 206,
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1416,13 +1416,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T06:10:00-07:00",
+      "ampWebUrl": "https://www.asiaone.com/business/supermicro-expands-gpu-system-portfolio-innovative-new-servers-accelerate-wide-range-ai?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/supermicro-expands-gpu-system-portfolio-innovative-new-servers-accelerate-wide-range-ai?amp",
+      "publishedDateTime": "2021-10-12T07:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null

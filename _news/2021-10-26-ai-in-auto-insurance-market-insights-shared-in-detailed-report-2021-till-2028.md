@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence and Machine Learning Market- Industry Predictions For Coming Years from 2021 to 2027"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence and Machine Learning Industry from its research database Artificial Intelligence and Machine Learning Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence and Machine"
+    publishedDateTime: 2021-10-25T13:55:00Z
+    webUrl: "https://www.openpr.com/news/2440565/artificial-intelligence-and-machine-learning-market-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2440565/artificial-intelligence-and-machine-learning-market-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440565/artificial-intelligence-and-machine-learning-market-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua25281817_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Deep Learning in Drug Discovery and Diagnostics Market Shows Expected Growth from 2021-2028"
     excerpt: "Another factual information on the Deep Learning in Drug Discovery and Diagnostics Market has as of late added by CMI to its storehouse This research report offers an inside and out examination of various perspectives for example market patterns pieces"
     publishedDateTime: 2021-10-25T11:45:00Z

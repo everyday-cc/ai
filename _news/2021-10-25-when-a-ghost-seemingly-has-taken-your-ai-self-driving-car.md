@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seem
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6100df528bb417badeaf3be5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3067%26cropY1%3D0%26cropY2%3D1726"
         width: 1200
         height: 675
+        isCached: true
+  - title: "On the road to regulating self-driving cars"
+    excerpt: "As cars start driving themselves, to what extent should they be able to explain their actions? A UN body puts that question and others to the public."
+    publishedDateTime: 2021-10-27T07:00:00Z
+    webUrl: "https://www.swissinfo.ch/eng/on-the-road-to-regulating-self-driving-cars/47042470"
+    type: article
+    provider:
+      name: Swissinfo
+      domain: swissinfo.ch
+    quality: 24
+    images:
+      - url: "https://www.swissinfo.ch/resource/image/47042590/landscape_ratio16x9/1920/1080/f66c5b5558179fd0bbb47387bb53620e/018355EA8A3384C48B57E591B6A388B8/338075149_highres.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "RYCWjodPVf2MgFm7HLbAjX52TTKAwCC3+iWpDSNJpxOfApthIti0zzNP5Y6kKcsqHuBhaSL5S5kAf4ghocdHcPXKqC+cF6fOh0bCCyeyKTsFjzGuYrHznH57fLMfAaktqJ1sBCbekqnROzxLzjHzV2Hrl/IHvChPiSY9DjX5YDJ42nqfB1HHQfo+WDZKiHdSqBTkRgQNG0yRza59Rj6hNBaf5SVuU1Ek0DHEZ5x9Umbpccl0EGhIiRxvZjdBhSxmnRhTk95JVrbkdjK8wpcYiAQe9bYpW6dOv/nrc407orBB+2r/d2fInreOQZv11RUG+OexUHQ8KJ1SPli/sGf9fhdXot+S9grhy0s8tLNDsmxYK86Bvg0mEePwfwJkqvdijuh8Sh2cI1Juj8ckkeNvIpq9O2nUhsIG8LjpTQfH/An/XL+6kfzvooOXidJozNm1rByam98zrXs2t8t/aF5CvDwoiu15PYySCRrUh2yoxr03An+V0gvVQIsaJXrIjHLjDgUgr5SxXiWzLgT14L1XaA==;6cAaOSBtPUonm9lLQoz5LA=="

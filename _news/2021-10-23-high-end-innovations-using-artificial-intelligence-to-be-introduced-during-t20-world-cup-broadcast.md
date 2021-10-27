@@ -25,6 +25,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "ICC Men’s T20 World Cup 2021 has implemented advanced AI technologies"
+    excerpt: "This article features the top advanced AI technologies that are implemented in ICC Men’s T20 World Cup 2021 such as artificial intelligence (AI), augmented reality (AR) and many more by the official broadcaster,"
+    publishedDateTime: 2021-10-27T07:15:00Z
+    webUrl: "https://www.analyticsinsight.net/advanced-ai-technologies-used-in-icc-mens-t20-world-cup-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Advanced-AI-Technologies-used-in-ICC-Mens-T20-World-Cup-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
+
 secured: "Und6LvkQ6n/6XqqkOw9Hg11ZFA/jbMbx5HqdR6TJIRhAWFCxebN0J4Wyh6IxTLZyuLFzGwqaUJN07pi9b83qou05csS6IHkULpRRZHgq1RnqYdNF6PBDmcXFeNHjIaMM/ITpN/nlkNuIgHz/Agl+v1vlIRUZK9MHByRgzp0vUPHo3Dp4BSz0TK8Jqf3e2VmaaTNxUUqOxsmIE8anteuNI7WyRoQyTGRBTliE7sDTeY8D9lqXxPO18gsVJ6SnqHlZcGiqIYXJkjeAmbDYc56vooZlaVYyH+2o9LwAgvWpLrhzPQN0J6pRt0zRpxNixrvuNItm60yZguQguktT362fQGtKV7dVaexj2iK5D5kn57U=;VnZAOyk19KlnAk1BGKnPtQ=="
 ---
 

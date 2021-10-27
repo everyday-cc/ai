@@ -9,8 +9,8 @@ ampWebUrl: "https://www.republicworld.com/amp/india-news/education/iit-madras-rb
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/education/iit-madras-rbcdsai-launches-industrial-consortium-to-support-ai-industries.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: RepublicWorld
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Filings buzz in the railway industry: Increase in artificial intelligence mentions"
-    excerpt: "We have analysed the mention of artificial intelligence with data from Globaldata.  Mentions of artificial intelligence within the filings of companies in the railway industry rose 64% between the first and second quarters of 2021."
-    publishedDateTime: 2021-10-22T13:14:00Z
-    webUrl: "https://www.railway-technology.com/analysis/filings-buzz-in-the-railway-industry-increase-in-artificial-intelligence-mentions/"
-    type: article
-    provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 48
-    images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/10/KS-KYUNG-on-Unsplash-800.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "AI industries to get IIT boost"
     excerpt: "Indian Institute of Technology Madras Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI) is launching the ‘RBCDSAI Industrial Consortium’ to provide information resources support on cutting-edge technologies to industries working on Artificial Intelligence."
     publishedDateTime: 2021-10-26T05:13:00Z

@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI-based startup Instoried raises $8 Mn funding"
+    excerpt: "Instoried has raised $8 million in its funding round in order to strengthen its technology stack, expand its team, and enter new markets"
+    publishedDateTime: 2021-10-27T06:28:00Z
+    webUrl: "https://thetechportal.com/2021/10/27/ai-based-startup-instoried-raises-8-mn-funding/"
+    ampWebUrl: "https://thetechportal.com/2021/10/27/ai-based-startup-instoried-raises-8-mn-funding/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/10/27/ai-based-startup-instoried-raises-8-mn-funding/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 57
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2021/10/Sharmin-Ali-CEO-Founder-Instoried_2.jpeg"
+        width: 2175
+        height: 2336
+        isCached: true
   - title: "Bridgeweave and IIFL Securities Announce Partnership to Provide AI Powered Investment Insights"
     excerpt: "Bridgeweave, a UK based fintech, today announced a partnership with IIFL Securities Limited, one of India’s leading brokerage and investment advisory firms. IIFL will offer Bridgeweave’s flagship InvestorAi app for AI powered investments insights and premium content to its clients."
     publishedDateTime: 2021-10-26T12:30:00Z
@@ -50,6 +66,6 @@ related:
       domain: businesswire.com
     quality: 7
 
-secured: "jPJ+mPf+r847fht3438/HX2ad4Yzb7kDwNDBsP92GGubGdujLkmT68HxDDSqpltO4i13pB/0MfRC/XfU2/VDLufAlHAlm2qjrhFDWtGETMFz6a4vdmz93wogKVII8Usz61q9zQ3gaf9Z6EnKQ7+HNtKZ84nRNuSuuO9ot1JkwLrKaYKayTHTI7O/ANT2mIYgp9PfhrnrIfppYo06V8s4jCKLrksfiqbeODpeDsNOLYTUIasv9GKo1FNqB6MuOzyWWZDiPMnXKiWw/aJysNuOcCTyF2I3H2TQYDvt1aJlizP5dVdpcmlbMA7fWgWzqZw3PX1N1eqLONvfvtiHCQNxXm1C5AsdnSfeAxJQXg3ghaU=;cy2jcQV6MBYzyE+1pcB9Lw=="
+secured: "wRzccxZ5MK+BsmqZcRo9grFF1Tyt51Pa8vlFYOOD5DoXzZ7MIGqUsdmKI+uQYO37pSuBEoTH5tqhlUgC1KGoxTP/nS8kpOTGxPCcod2EXbVmbpWWSZStmeu1hTze8e/xLiDEDw1q+mG1yPhgyrl9i9FskUT8w4eJ95EJ5UeyQRpDK5/wrc/YC4cRjUlaF2A1+RjaU0DQblzZftuEnvDUBnv1V0aAtpAap09SR69KGlkw2rcrSYNc1CoicnpjvZJ75Fwguw/a5E9/v04VaTjnttol/mVfsSWfnbNc+G2Y0CAuHtP8q5W9YAxGxYV5fh57zSx+15wvHZ0lDK44Y+eGXkgOY4d5U5vHJrG97Tfvj1RQfWa0A48hc11ILvim2y5U2P4LXRCko+nCxYH3JNM910wHx2uZ7+rrDg2rWjipPLWLiMlqtTvG+Nhp9E7q49dkiF28b2fDw16otNFwKWsLjl+3ieCOIEdDTJXR739u2I7IHe5rQv8Ks+gENXCcGEw0W12LoV3r4jz268y/uHzy7Q==;3pno4IyrNxXeFStmgL6Zxw=="
 ---
 

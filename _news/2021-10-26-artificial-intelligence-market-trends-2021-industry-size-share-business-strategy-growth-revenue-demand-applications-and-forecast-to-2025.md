@@ -60,6 +60,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Analysis, Current and Future Trends 2021 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Rep"
+    publishedDateTime: 2021-10-27T06:42:00Z
+    webUrl: "https://menafn.com/1103053008/Artificial-Intelligence-In-Healthcare-Market-Analysis-Current-and-Future-Trends-2021-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?9554"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence in Construction Market 2021: Share, Growth, Evolving Technology, Trends and Industry Analysis 2024"
     excerpt: "Artificial Intelligence in Construction Market” report explore recent market growths and competitive strategies, such"
     publishedDateTime: 2021-10-25T11:39:00Z

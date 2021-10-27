@@ -268,20 +268,6 @@ related:
         width: 1001
         height: 563
         isCached: true
-  - title: "Tesla's self-driving cars a step toward a future without auto insurance"
-    excerpt: "The phrase “asleep at the wheel” could soon lose all meaning as Tesla and other automakers push self-driving cars closer to reality. CEO Elon Musk has said select Tesla drivers could get their hands on “full self-driving” software as early as October of this year."
-    publishedDateTime: 2021-10-22T13:06:00Z
-    webUrl: "https://torontosun.com/moneywise/teslas-self-driving-cars-a-step-toward-a-future-without-auto-insurance"
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 39
-    images:
-      - url: "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/10/as-tesla-pilots-self-driving-cars-auto-insurance-may-become-.jpg"
-        width: 728
-        height: 400
-        isCached: true
   - title: "Tesla halts Full Self-Driving beta 10.3 rollout, Elon Musk says they’re ‘seeing some issues’"
     excerpt: "A new version of Teslas Full Self-Driving (FSD) beta build was released over the weekend. However, the company later pulled out beta version 10.3 as CEO Elon Musk said the update was spotted with some issues."
     publishedDateTime: 2021-10-25T06:48:00Z

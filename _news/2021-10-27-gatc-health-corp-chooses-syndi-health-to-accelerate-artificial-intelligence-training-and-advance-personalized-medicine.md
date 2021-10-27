@@ -6,9 +6,9 @@ publishedDateTime: 2021-10-26T17:44:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211"
 webUrl: "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211"
 type: article
-quality: 58
-heat: 68
-published: false
+quality: 60
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/1669428/GATC_Logo.jpg"
@@ -43,6 +44,6 @@ related:
         height: 650
         isCached: true
 
-secured: "f5J45jVhWVTCWmmL/eyOqnkqcT4hmJMwoHwxGLY6zi1HimrILQ/z9ynKggRSqrWIhgoo0PAaFEYPFIzGRG9VQHNRqt4QYp/43PA9SKXTJ+jaZv1k/5ibzBrHXHEs6vZon4MsKK9sKKW5jSAVb+UkliIJ3Y5ERdd4PtBhSrpqbOQJ5tVYcyy6COrJF/QDY7kyfOegsx1Z8jIM+9/73cIpki6+7kz0/XAAh9iIRnxmLh0susSIz7E/dJgK7bW2PNTY+ILeYY25BmHkNHmpWohOiZTlxyc8+85VQ1jSvo8SiNk+L2tkCxLI2esy/nHx3+ToK5oyI18NUqDUWfe9tsTWTbCC5dwCvTrPiNABVpMLaNs=;35VUX8yf3yXtzcqDrO/oCQ=="
+secured: "FrV08GNf2Cu89xZZ5g3tgWuBYWUp6S1rh7/L649QQCwvi0byyIYoGZ/sxGQj51N8X5RZse+RYrNNxqrIqd57u3K0dJqp09lP4WP7Hyk9P4dZf5KnVp2JMieQNcDUGKIF1V3ur3lyK15OPfiCwRAzm7QvaVPInAUBkhAgp1vKiuLvuNyp9Sl6tZeOLaaCgzEXWqHeQDl8tFI7POLFsBW9Kx0AWpQ/IiuO0f9iRTgPcirQnSogGfmhHMMBsUUxInZrGjLGxvl3vdgwY8c1TcnNYB+tRHXKbykHygfBiPcb+mBKdTtPdMIzkogodx0YqIa2DuLC+DUEnTPukrIEs3bFVuTVV4DJjQ9R/GW1lBFKmWL39abR965F42JhonHgPjdpLrcU7hA6S7/pPvK5wbKSR9wX3jBIl5nh3zqhk/0gXezWpP9H5loaeF4Bo5v1awf2P2zP9st19+80WM+9z7GSB/3dtGtqhqRsZ2gK7/wiaxLBdui5wHhx7j0BVb8IsaDbktWxBPdOHaE0UGhXTOVMhg==;KSU0YenI2OgIVwVjFyftVg=="
 ---
 

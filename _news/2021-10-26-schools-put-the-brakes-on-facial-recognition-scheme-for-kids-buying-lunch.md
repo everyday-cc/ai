@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/schools-put-the-brakes-on-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
 type: article
 quality: 68
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGwzFqEx3fiVA/article-cover_image-shrink_720_1280/0/1635095068055?e=1640822400&v=beta&t=ts7p278yn7xjuta3CM6OzyQnaaL0keCZGtm7TLUVsms"
         width: 1280
         height: 686
+        isCached: true
+  - title: "Schools suspend use of facial recognition after backlash"
+    excerpt: "The Information Commissioner's Office wants organisations to consider a 'less intrusive' approach where possible"
+    publishedDateTime: 2021-10-27T06:41:00Z
+    webUrl: "https://www.computing.co.uk/news/4039273/schools-suspend-facial-recognition-backlash"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/691e627/cd75934c-215f-493a-b2df-1015f2f48059/6/School-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
   - title: "North Ayrshire Council to pause the use of facial recognition tech in schools"
     excerpt: "Nine schools in North Ayrshire that had introduced facial recognition technology for school lunches have decided to pause it. Indeed, the schools were using the system so that pupils could pay for their lunch with limited physical contact."
