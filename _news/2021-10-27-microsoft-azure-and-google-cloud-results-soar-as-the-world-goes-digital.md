@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft Azure and Google Cloud results soar as the world goes digital"
-excerpt: "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services ... Google Cloud’s artificial intelligence (AI), and data analytics prowess, Microsoft ..."
-publishedDateTime: 2021-10-27T11:59:00Z
-originalUrl: "https://www.techradar.com/au/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
-webUrl: "https://www.techradar.com/au/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
-ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
+excerpt: "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services revenue. Similarly, Google Cloud revenues neared $5 billion thanks to a 45% jump,"
+publishedDateTime: 2021-10-27T11:45:00Z
+originalUrl: "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/"
+webUrl: "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/"
+ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
 type: article
 quality: 104
 heat: 194
@@ -150,6 +150,6 @@ related:
       domain: openpr.com
     quality: 31
 
-secured: "SV1PCf6mgU6fs7X2KtMk49In+LNh4V8gLrqkG6QCmjqGYrF5PydymFf1U2b0EYs04w1mfYx3QtW0g6aP2WhBZ/DTE3pzzxAMiDyr6GI83WhIfjGeHA/oj7oRqqZlakQj4B/g8Spy/5E7KKNxTdnQS3sygLk2iwqDZaVsJBx2lpGRDRTZtlV4z0EXkMDOPTKF2qoWxfswo5/hi36NnjgeJvBQmP67HGaA+5DCQ9vB5TO2U99HTPg7hvoa2YkjSrmiMjX91u6jQpWz3S8MwAQ/s596AjwMAk2c4Igl7xhHeZH7paAo6rlCfbhAPWNw1UbhUBJ/dihrev+WxVtFXk8I2l7ukt+MOiG0RnQ/5iQ2W+Q=;igTuh8XoHvsKTzH+POWIuA=="
+secured: "iLHjp2ktgY6flZR8Hqz34gwkeXh3YkLQfelrksnTOqzIaLkjfnpHYPiy1kxMeXb00gJ0vb2Nl5W6+N+HR4iaOBk+AALYHwzpTKq/1t4d/qLFhV2qzbwKEU/63taGK25uQ0XwGVQ2EgIhSVOfLv/WXM8b4Mm6FUIz4JaxPGS7nbnguFYg1WLipYhm+Fj40W7bk4PJmqLdChPODIBEPsc4WW5o0NfrusmP5UnzrBV3JmdZsllIVdbWMz3MHr5mwfq/d5cx19wJVLQv3A0XF1K83RZGIUNxFk2poaiMPjnRtdiGPqjDJNk6z/B1OU6xf4xwy6XL63/CkTH63BhaehtY72NmLeIAg//gJ8WbIwXqZxE=;yGVUoFG9vE4aslOKCzB8nw=="
 ---
 

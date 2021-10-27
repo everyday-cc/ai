@@ -8,9 +8,9 @@ webUrl: "https://www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-le
 ampWebUrl: "https://www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/amp/"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 157
+heat: 167
+published: true
 
 provider:
   name: MIT Technology Review
@@ -36,6 +36,6 @@ related:
       domain: businessinsider.com
     quality: 37
 
-secured: "08FD55iJnAFucbqQJkflTWj91f0BwimWgqSMMQqE6Np1wzPE7JkAsx1wlNORJHjkrxk4Bvw1AYo1vIqcuv+jPovMgijNz4hBq6exWEXkjsw0Xqyp3ub2viZJN4ZSM7s7md5j4hHMup2/qQzh37845yTF+46DlZghzNsAoXxT2p3e2zRTB9gOWruykNW+0jojPZTmu1PkdXlCnoCUFBnRGv3cdaOPjNjhV7oKc4UrLJ1U7Q6Cw/Lg13gQtUDot+sJlrpapedqW8sg6r6tsmF6l+hO4MKd7FcGV1SkhN6aDBV0XYgJm80fhBUbYQzlrC9vJuTEZ2nFywPXZhtJ10unHJIZtm61PJMt4H/ct33Ad3HA1rASH3ud7mHZPdq1YPFnQT75dNVskPdUdZdc7HyZccoArEBUPMrPMKKaF8wn6Db5vcDV+WGjWLvy/JmLxDgO6zaWk5YUKk6Ep5PqMKCc8L38HJd1L9VI0rXNg5KN6uXWvTduPtANUnFz7u5M9akASb8xG23YdO8O1cyocg7CsQ==;nBf14ppV1Ko3UUBi+DKdmQ=="
+secured: "i6o9X/dfgHb+/tmQ+c0a8fBqmIEoOumO3leLuiiKxAZAWTxd+Rwa/eEUz/lsEpwZcLgVCpVxeKQGWUmjFpuHnkBaxypBR/JzBpYQ0F5ukSwlXHehxOKqEyVyTwVifjriHUeadXgRmcCu8TjfV/ORU8jyVNHYIDZ44+pR0IANuMhfOo/LPt3jOj+Fxjl/+bov0MugF1+Ixgl+0bilJs7PIgV370KLHxLgpfxpPaQd09rClZFVeiWRe5wjpIaXwsInQr31VuBUIS/OTH2e/wLVkLi42uV4AA0rybdyd+PlfPhn8Kh8tWmAOmsuVSvhmn4SbWbZQjSjoqn9wbL5l7vSOK4TkP3XH4ldkkd3v3Tk3oMS1COD7VwBGWpLrsAF/kpmvY/Nq5ruiXC1HMzf8YMblcz8NM10PtTX5G65NwY+lO+CpBgmF+qbFtcwZgtG1pisptS3/BJHhG5fvDmU4XHyRqBl1qf4lZC2InOaU2Y2Dgwlh1zDfvdxb+uoTuMunXSIPqIGb8wNqdn31T5EREhRR6Hg0eUM2kZJcjZFNP2xbQE=;4kwDHXO6xAIC9jf8bBWOOQ=="
 ---
 

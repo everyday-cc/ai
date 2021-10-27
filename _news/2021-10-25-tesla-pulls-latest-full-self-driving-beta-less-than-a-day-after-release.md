@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -271,6 +271,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e88b80f10bc359590fd239f909ca5bb7.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla reverses \"Full self-driving\" beta update after sudden braking reports"
+    excerpt: "Driving\" beta update it had sent to some drivers' cars, after reports that a software bug could cause vehicles to emergency brake unexpectedly, or experience phantom forward-collision alerts."
+    publishedDateTime: 2021-10-27T12:49:00Z
+    webUrl: "https://www.bitdefender.com/blog/hotforsecurity/tesla-reverses-full-self-driving-beta-update-after-sudden-braking-reports/"
+    type: article
+    provider:
+      name: Bitdefender
+      domain: bitdefender.com
+    quality: 37
+    images:
+      - url: "https://blogapp.bitdefender.work/hotforsecurity/content/images/2021/10/tesla-drive.jpeg"
+        width: 800
+        height: 420
         isCached: true
   - title: "Tesla halts Full Self-Driving beta 10.3 rollout, Elon Musk says they’re ‘seeing some issues’"
     excerpt: "A new version of Teslas Full Self-Driving (FSD) beta build was released over the weekend. However, the company later pulled out beta version 10.3 as CEO Elon Musk said the update was spotted with some issues."

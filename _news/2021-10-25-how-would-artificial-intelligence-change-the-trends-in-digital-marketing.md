@@ -23,20 +23,31 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Artificial Intelligence: The New Power in Digital Banking"
-    excerpt: "As the sophistication of artificial intelligence and intelligent algorithm technologies has increased, they now have the potential to revolutionize traditional banking models and deliver a shift to digital banking which is faster,"
-    publishedDateTime: 2021-10-26T09:58:00Z
-    webUrl: "https://internationalbanker.com/technology/artificial-intelligence-the-new-power-in-digital-banking/"
+  - title: "How Humans-In-The-Loop AI Can Help Solve The Data Problem"
+    excerpt: "Humans-in-the-loop AI is a niche wherein AI and ML systems are built with human interference at different stages of the cycle, whenever it’s necessary."
+    publishedDateTime: 2021-10-27T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/amp/"
     type: article
     provider:
-      name: International Banker
-      domain: internationalbanker.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "http://internationalbanker.com/wp-content/uploads/2021/10/Robots-in-Banking.png"
-        width: 1137
-        height: 650
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61780ffa6b3df3f9956729d6%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Risks of the Artificial Intelligence Revolution and How Food Processors Can Mitigate Them"
+    excerpt: "Artificial intelligence (AI) is revolutionizing the food processing industry. From sorting to safety and compliance to ensuring employees’ personal hygiene procedures, it’s becoming such an important aspect of the industry that it’s expected to have a compound annual growth rate of 45% between now and 2026."
+    publishedDateTime: 2021-10-25T16:41:00Z
+    webUrl: "https://www.foodprocessing.com/articles/2021/mitigating-risks-with-ai/"
+    type: article
+    provider:
+      name: Food Processing
+      domain: foodprocessing.com
+    quality: 10
 
 secured: "+pzHBfyp5Qx7et4+jgoQy13xLSTyBuPHGTWp77Kf/2uaoxslfZ0h6Lh8jZI6whKr2/LSBKGtcwA3dVe7DpdyJsKwMI+1l5a3iOmDT+ai8QxcEuKCSr/CK010WnkDzarAbsBzpE7yhTTw9MrB+5A+rh9rBj+t3/DAZ12Xxy4nPWoBcttMuS9ljaizpXmKp2u7f3EDmsDU6K/Mst2vDaKHF8T6WxhIC6ImCPG+SBsB9PsCc0uKAPdNaLqZHAs6DcRlE5ISVKnlH4e2TAusVjbd8pTx0JKjzu1lq0o0JxG3gA1SpmG9/nYVrS0OlxBDqvIB4db10+QhsrjlX9Qqpr3Tb8dl6ktSPSyexckIgVPVMJM=;JAnJoiHE222mCGmwz9gUwg=="
 ---

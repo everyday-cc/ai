@@ -47,6 +47,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Factored Named as AWS Partner Network Select Consulting Partner to Enhance AI Implementation in the Americas"
+    excerpt: "Factored , a fast-growing business helping ambitious companies select, upskill and build high-performing data science, machine learning and AI engineering teams, today announced it has been granted Select Consulting Partner status in the AWS Partner Network (APN),"
+    publishedDateTime: 2021-10-27T13:43:00Z
+    webUrl: "https://menafn.com/1103056890/Factored-Named-as-AWS-Partner-Network-Select-Consulting-Partner-to-Enhance-AI-Implementation-in-the-Americas"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?126999"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "W9rKDsunHD25z22uUD0QqUAyyUhKEbw0nE+N8BwFmy/WY7bbRT9Udk1QrECO7RJYCDNllW2+53wdqmDE+BA6NQTGBQJeq6oXIszuI/pdIWMiemLZ0RS6yM0O0NLFPhPuEgsMpdN4d6urM2ilRAKtwWGrq3eeRscIBhp573217JEE6bpTdTlg39KvR7vdhVmaC8xXKDeKj3t+VIA8cAhsxkPuJrTfp+Geq8zD6pSa1cmv0M+RqjOyT3l9pIu7rGFh/lmOOdZFhjGSjk33I8R/MaMAZgs0q68maMlr71QzSF/81PtvqS0KoMdCuiMkIvbJbyJQdhLtuCU1pue0VJf96VWsVFXTajC0bmQFfbPfjg0=;PkA/aYhMivp2om0Ojqc/zg=="
 ---

@@ -49,6 +49,15 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Facebook is spending more, and these companies are getting the money"
+    excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
+    publishedDateTime: 2021-10-27T07:22:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20211027352/facebook-is-spending-more-and-these-companies-are-getting-the-money"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 4
 
 secured: "MUJTtoc/j1VHujCCMkCZaX+ZttQql0TTNwiqBPmdi4kCUYAOuNhK9hTzJX2I5okmgXqOnIoffisc2prLjBLf5tz3lp2gwXADPguyATRypeiav8u2vEeLe59CKaLAy9t8lahvB+a+xJr8jX242OYZ+iOCyPKD26HHEXW59Nd79EmOenlaLxgcdWFNVFVkIda6aycQccRQLkr0PwqQaSI3l1ntwMDZ1RiG8M3EAmgrBXF0DhbBheUo/n1KMOqQgvfnZlPiB3mlUAtG3/V0dPRiejXkJaH23NaLdybpyRm+FOtN9GDxfuDyP1IAHeCUZtyytHVs+AzFSU3Vs8/TIUMEkTeR0LGWOIaLyXrnQxe0LS4=;KRLuD1pr/GeDAvXSEQt1PA=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-13-waymos-self-driving-taxi-struggles-with-left-turns-and-puddles-but-its-still-winning-over-some-arizona-riders.md",
+      "title": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
+      "excerpt": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtva.com/content/national/575511382.html",
+      "originalUrl": "https://www.wtva.com/content/national/575511382.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://media.heartlandtv.com/designimages/WTVA_640x380.png",
+          "width": 640,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.wtva.com/templates/AMP?contentID=575511382",
+      "cdnAmpWebUrl": "https://www-wtva-com.cdn.ampproject.org/c/www.wtva.com/templates/AMP?contentID=575511382",
+      "publishedDateTime": "2021-10-12T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVA",
+        "domain": "wtva.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices.md",
       "title": "Worries That AI Self-Driving Cars Will Charge Sky-High Monopolistic Prices",
       "excerpt": "Some are worried that self-driving cars are going to be priced sky-high for usage, perhaps veering into the undesirable arena of monopolistic rents. Time to take a look at this, before things potentially get out of hand.",
@@ -1377,58 +1420,6 @@
         "name": "innovatorsmag.com",
         "domain": "innovatorsmag.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-waymo-co-ceo-tekedra-mawakana-on-how-to-get-self-driving-taxis-to-the-mall.md",
-      "title": "Waymo co-CEO Tekedra Mawakana on how to get self-driving taxis to the mall",
-      "excerpt": "Waymo is working on self-driving taxis, which is a huge deal. Ride-sharing apps like Uber and Lyft have remade cities, allowed people to give up their cars, and generally connected the buttons you push on your phone to real things happening in the world more directly than almost any other app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/22708676/waymo-tekedra-mawakana-self-driving-interview",
-      "originalUrl": "https://www.theverge.com/22708676/waymo-tekedra-mawakana-self-driving-interview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/0JPEOcyQDy0owxWrKQLu9MCwm7s=/0x0:2050x1367/1400x933/filters:focal(958x512:1286x840):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69953205/VRG_Decoder_TekedraMawkana_s.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/22708676/waymo-tekedra-mawakana-self-driving-interview",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22708676/waymo-tekedra-mawakana-self-driving-interview",
-      "publishedDateTime": "2021-10-05T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,420 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-10-08-how-fiserv-improved-a-cumbersome-client-service-experience-with-a-watson-enabled-virtual-agent.md",
+      "title": "How Fiserv improved a cumbersome client service experience with a Watson-enabled virtual agent",
+      "excerpt": "The IT team at Fiserv uses AI to streamline customer and agent interactions Watson Assistant efficiently handling Fiserv’s unique acoustical challenges With an AI solution already in place, reacting to market disruption is a snap Promise and pitfalls Fiserv is an exciting example of AI’s power to increase",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/10/fiserv-client-service-watson-virtual-assistant/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/10/fiserv-client-service-watson-virtual-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/ACDC_140-WA-WD-Fiserv-Blog-Post_Large-1-copy-2.jpg",
+          "width": 2000,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-08T05:00:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-neural-network-helps-predict-new-drug-combinations-to-fight-covid-19.md",
+      "title": "Neural Network Helps Predict New Drug Combinations To Fight COVID-19",
+      "excerpt": "Deep learning identifies synergistic drug blends for treating viruses like SARS-CoV-2. The existential threat of Covid-19 has highlighted an acute need to develop working therapeutics against emerging health concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/",
+      "originalUrl": "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/amp/",
+      "publishedDateTime": "2021-10-08T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-2021-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
+      "title": "2021 Magic Quadrant for Data Science and Machine Learning Platforms",
+      "excerpt": "Gartner has named Alteryx a “Challenger” in its 2021 Magic Quadrant for Data Science and Machine Learning (DSML) platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.alteryx.com/de/resources/report/gartner-magic-quadrant-data-science-machine-learning",
+      "originalUrl": "https://www.alteryx.com/de/resources/report/gartner-magic-quadrant-data-science-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-08T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Alteryx",
+        "domain": "alteryx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-ai-generated-deepfake-voices-can-fool-both-humans-and-smart-assistants.md",
+      "title": "AI-generated deepfake voices can fool both humans and smart assistants",
+      "excerpt": "Deepfake tools that mimic a particular individual's voice from just a few snippets of audio are good enough to trick humans and bypass voice recognition systems",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2293138-ai-generated-deepfake-voices-can-fool-both-humans-and-smart-assistants/",
+      "originalUrl": "https://www.newscientist.com/article/2293138-ai-generated-deepfake-voices-can-fool-both-humans-and-smart-assistants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newscientist.com/build/images/barrier/barrier-digital.7276f163.png",
+          "width": 483,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2293138-ai-generated-deepfake-voices-can-fool-both-humans-and-smart-assistants/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2293138-ai-generated-deepfake-voices-can-fool-both-humans-and-smart-assistants/amp/",
+      "publishedDateTime": "2021-10-08T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-these-virtual-obstacle-courses-help-real-robots-learn-to-walk.md",
+      "title": "These Virtual Obstacle Courses Help Real Robots Learn to Walk",
+      "excerpt": "Unity is now working with Algoryx, a Swedish company that is testing whether reinforcement learning and simulation can train forestry robots to pick up logs. Search our artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/virtual-obstacle-courses-help-real-robots-walk/",
+      "originalUrl": "https://www.wired.com/story/virtual-obstacle-courses-help-real-robots-walk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/615de386de0029ca32b902ad/master/pass/Business-Nvidia-RL-Simulation.jpg",
+          "width": 2132,
+          "height": 1421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/virtual-obstacle-courses-help-real-robots-walk/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/virtual-obstacle-courses-help-real-robots-walk/amp",
+      "publishedDateTime": "2021-10-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-smart-robots-do-all-the-work-at-nissans-intelligent-plant.md",
+      "title": "Smart robots do all the work at Nissan's 'intelligent' plant",
+      "excerpt": "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_0eacc915ea814eb4bd2477d4255b3c82_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171",
+      "publishedDateTime": "2021-10-08T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-how-to-enable-data-centric-ai.md",
+      "title": "How To Enable Data-Centric AI",
+      "excerpt": "Let’s see how we can now enable data-centricity in AI for the next decade. Data-centricity involves many distinct processes: data augmentation, labeling, cleaning, pre-processing and more. All these processes depend on data scientists being able to take the first step — create a dataset.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192287243%2F0x0.jpg",
+          "width": 1200,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/amp/",
+      "publishedDateTime": "2021-10-08T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-industrial-ai-computers-market-report-provides-marketing-channel-distributors-customers-and-manufacturing-process-analysis-2021-to-2027.md",
+      "title": "Industrial AI Computers Market Report Provides Marketing Channel, Distributors, Customers and Manufacturing Process Analysis 2021 to 2027",
+      "excerpt": "Oct 08, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" The report analyse the growth rate of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/industrial-ai-computers-market-report-provides-marketing-channel-distributors-customers-and-manufacturing-process-analysis-2021-to-2027-2021-10-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/industrial-ai-computers-market-report-provides-marketing-channel-distributors-customers-and-manufacturing-process-analysis-2021-to-2027-2021-10-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-08T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures.md",
+      "title": "Robotics start-up Ishitva raises over $1 mn in Pre-Series A led by Inflection Point Ventures",
+      "excerpt": "Ahmedabad-based robotics start-up, Ishitva has raised a Pre-Series A round of over $1 million led by Inflection Point Ventures. Ishitva Robotic Systems (IRS) is an OEM operating in the space of dry waste sorting technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/companies/g33g69/article36893806.ece/ALTERNATES/LANDSCAPE_615/bl-robo",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece/amp/",
+      "publishedDateTime": "2021-10-08T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-investing-in-these-robotics-stocks-will-profit-you-a-lot.md",
       "title": "Investing in these robotics stocks will profit you a lot.",
       "excerpt": "Since the emergence of machine learning and automated manufacturing infrastructure, the demand for robotics stocks has risen substantially. Here are top 10 robotics stocks to buy in 2021.",
@@ -731,436 +1145,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-face-recognition-software-launched.md",
-      "title": "Face Recognition Software launched",
-      "excerpt": "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/",
-      "publishedDateTime": "2021-10-07T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.md",
-      "title": "GM-backed Cruise targets 1 million self-driving vehicles by 2030",
-      "excerpt": "Cruise, General Motors' majority-owned autonomous vehicle subsidiary, is targeting a fleet of 1 million or more self-driving vehicles by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106347579-1579655232641cruise2.png?v=1579655319",
-          "width": 810,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html",
-      "publishedDateTime": "2021-10-07T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-zf-invests-in-oxbotica-to-develop-autonomous-urban-shuttles.md",
-      "title": "ZF invests in Oxbotica to develop autonomous urban shuttles",
-      "excerpt": "German automotive industry supplier ZF Friedrichshafen AG will invest in British autonomous vehicle software startup Oxbotica to jointly develop driving systems for pod-like shuttles which will be able to transport people and goods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/zf-invests-oxbotica-develop-autonomous-urban-shuttles-2021-10-07/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/zf-invests-oxbotica-develop-autonomous-urban-shuttles-2021-10-07/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/ImaC8zvkz2jQS_2drRaWGJ47fO0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T6XISEKOPZMFDPICBP7QKWBCJ4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-conversational-artificial-intelligence-ai-market-2021.md",
-      "title": "Conversational Artificial Intelligence (AI) Market 2021",
-      "excerpt": "Conversational AI can be used to answer simple questions ... review of Google Dialogflow at Gartner Peer Insights. “I have been using Watson for about three years now; it’s very flexible, stable, and versatile. On the whole, IBM is a great partner ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/conversational-artificial-intelligence-ai-market/",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/conversational-artificial-intelligence-ai-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/wp-content/uploads/2021/02/AdobeStock_232601963.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-what-tech-challenges-are-facing-the-financial-services-sector.md",
-      "title": "What tech challenges are facing the financial services sector?",
-      "excerpt": "InterSystems Ireland’s Redmond O’Leary discusses how financial services can streamline ... such as predictive analytics and machine learning, to build smarter processes including real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/enterprise/tech-financial-services-intersystems",
-      "originalUrl": "https://www.siliconrepublic.com/enterprise/tech-financial-services-intersystems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2021/10/Financial-institutions.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-elon-musk-releases-more-details-about-teslas-full-self-driving-beta-wider-release.md",
-      "title": "Elon Musk releases more details about Tesla’s ‘Full Self-Driving Beta’ wider release",
-      "excerpt": "Elon Musk has released a few additional details about Tesla’s “Full Self-Driving Beta” wider release, which should start tomorrow. Tesla’s plan for a “wider release” of its Full Self-Driving Beta, which was supposed to land six months ago,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/",
-      "originalUrl": "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 257,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/amp/",
-      "publishedDateTime": "2021-10-07T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-as-a-strategic-advisor.md",
-      "title": "Tomahawk Robotics appoints LTG (Ret.) Paul Ostrowski as a Strategic Advisor",
-      "excerpt": "I believe Tomahawk Robotics' universal robotic control software, Kinesis ... Designed from the ground up with the user in mind, Kinesis is the only multidomain, cross-architecture, AI-enabled control system that unlocks intuitive interaction with remote ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wave3.com/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/",
-      "originalUrl": "https://www.wave3.com/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wave-prod.cdn.arcpublishing.com/resizer/GHD4rJ8xVNl0fdVLcXIDKfzsJ3M=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/FB24ILVGCQGPLTUL3QZKKQHRAA.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAVE3",
-        "domain": "wave3.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-twitter-invests-in-avatar-startup-facemoji.md",
-      "title": "Twitter invests in avatar startup Facemoji",
-      "excerpt": "Avatar startups have come and go over the past few years, but the future many of the entrepreneurs behind them originally imagined has proven more or less accurate. Apple is increasingly interested in avatar representations through Memoji,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/07/twitter-invests-in-avatar-startup-facemoji/",
-      "originalUrl": "https://techcrunch.com/2021/10/07/twitter-invests-in-avatar-startup-facemoji/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-8.18.19-AM.png?w=1024",
-          "width": 1023,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/07/twitter-invests-in-avatar-startup-facemoji/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/07/twitter-invests-in-avatar-startup-facemoji/amp/",
-      "publishedDateTime": "2021-10-07T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-expansive-google-pixel-6-leak-confirms-facial-recognition-new-pixel-cases.md",
-      "title": "Expansive Google Pixel 6 leak confirms facial recognition, new Pixel cases",
-      "excerpt": "The Google Pixel 6 and Pixel 6 Pro have leaked once more before launch, revealing little details like support for face unlock, a new Pixel Stand, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/google-pixel-6-pro-leak-launch/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/google-pixel-6-pro-leak-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/white-google-pixel-6-composite.jpg",
-          "width": 2000,
-          "height": 1335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/google-pixel-6-pro-leak-launch/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/google-pixel-6-pro-leak-launch/?amp",
-      "publishedDateTime": "2021-10-07T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

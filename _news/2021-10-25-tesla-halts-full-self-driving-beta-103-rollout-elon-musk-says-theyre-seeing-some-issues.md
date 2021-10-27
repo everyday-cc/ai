@@ -282,6 +282,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla reverses \"Full self-driving\" beta update after sudden braking reports"
+    excerpt: "Driving\" beta update it had sent to some drivers' cars, after reports that a software bug could cause vehicles to emergency brake unexpectedly, or experience phantom forward-collision alerts."
+    publishedDateTime: 2021-10-27T12:49:00Z
+    webUrl: "https://www.bitdefender.com/blog/hotforsecurity/tesla-reverses-full-self-driving-beta-update-after-sudden-braking-reports/"
+    type: article
+    provider:
+      name: Bitdefender
+      domain: bitdefender.com
+    quality: 37
+    images:
+      - url: "https://blogapp.bitdefender.work/hotforsecurity/content/images/2021/10/tesla-drive.jpeg"
+        width: 800
+        height: 420
+        isCached: true
 
 secured: "kqww5+o47es0PTghXNphK910L6DJ9wWPQJ/BDSO68D+ugYHs3lL/kn/tK5n4FgXvptWL8QwKfseF9Pltm1fHtbdz6mJYHlC6YfyP+tQkK5ih5srRDycyooVHT/LKVjwTJQbn70f0rxfYpOdXEBueS9mP9NYI0PP/SY3lkFHWgtv61KwlwjsPtZDdt6v/IZLIsgNzAgip6I9gbL1oC3iBYEOBKygrYYPYn798YULDBArSSFVAw4Yykl2Aqa1F2MuzrGpJe5ljcWSgFjGrzGzPzxavDw5kuvATb7tcaiaAsQB64aXFaQOhLCR0GfhMeuuyF1GMCHQ1XLOyvMoiy8SOSLnUskGqH54eZEA3rDwIQHqiQM/FAsrgKfiDZUpo+G42fRV+R9xRQYAcbqYKGWsXmD/vGI+KsbNmSYE7vIhMA+eTc0lIgiDYbPJnIRM8tg5pU8JUdJxlNjEAuVcxbojn+rnonWPtH921F4AwOChHUNaFoT+OoecVg4lYPbKRGdJAurbSYxI+wSr5IxrUmo1anw==;HC2IE1mdIxRgd4SRacKD5A=="
 ---

@@ -2,6 +2,404 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-27-gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine.md",
+      "title": "GATC Health Corp chooses Syndi Health to accelerate artificial intelligence training and advance personalized medicine",
+      "excerpt": "Syndi Health and GATC Health Corp today announced they have entered a development agreement, which could accelerate GATC Health's product development and publication release timelines by as much as 50 percent.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1669428/GATC_Logo.jpg",
+          "width": 603,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-how-machine-learning-speeds-up-power-bi-reports.md",
+      "title": "How machine learning speeds up Power BI reports",
+      "excerpt": "Machine learning delivers insights in Power BI reports—and it enables you to get a large amount of data into your reports to generate those insights more quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "originalUrl": "https://www.techrepublic.com/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/26/474c6c29-95d0-40b3-858b-07d93a25467f/resize/1200x/d5131a4c50e74c49613e984987cbbda4/shutterstock-1062915260.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "publishedDateTime": "2021-10-26T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read.md",
+      "title": "How Instoried Is Using AI To Turn Your Content Into Something People Actually Want To Read",
+      "excerpt": "Enter Instoried, which is today announcing the completion of an $8m funding round as it launches its content enhancement platform in the US. Powered by artificial intelligence (AI), Instoried provides instant feedback on the written content created by businesses and individuals,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61782f4d6dade68bd54813b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2175%26cropY1%3D339%26cropY2%3D1562",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/",
+      "publishedDateTime": "2021-10-26T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-icaif21-showcases-how-artificial-intelligence-is-transforming-finance.md",
+      "title": "ICAIF'21 Showcases How Artificial Intelligence Is Transforming Finance",
+      "excerpt": "ACM, the Association for Computing Machinery, will hold the 2nd ACM International Conference on AI in Finance (ICAIF'21), virtually from November 3-5, 2021. More than 950 people registered for the inaugural conference,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103049537/ICAIF21-Showcases-How-Artificial-Intelligence-Is-Transforming-Finance",
+      "originalUrl": "https://menafn.com/1103049537/ICAIF21-Showcases-How-Artificial-Intelligence-Is-Transforming-Finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/b45ebf54-a.png",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-new-vmware-cto-kit-colbert-steers-the-company-towards-saas.md",
+      "title": "New VMware CTO Kit Colbert Steers The Company Towards SaaS",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as there is a new Chief Technology Officer at VMware. Kit Colbert is thirty days into the role after eighteen years at VMware, where he started as an intern.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/10/26/new-vmware-cto-kit-colbert-steers-the-company-towards-saas/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/10/26/new-vmware-cto-kit-colbert-steers-the-company-towards-saas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6178290016c39f3f2afc3336%2F0x0.jpg",
+          "width": 964,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/10/26/new-vmware-cto-kit-colbert-steers-the-company-towards-saas/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/10/26/new-vmware-cto-kit-colbert-steers-the-company-towards-saas/amp/",
+      "publishedDateTime": "2021-10-26T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-artificial-intelligence-models-predict-how-the-brain-processes-language.md",
+      "title": "Artificial Intelligence Models Predict How the Brain Processes Language",
+      "excerpt": "Neuroscientists find the internal workings of next-word prediction models resemble those of language-processing centers in the brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/bilingualism-and-cognitive-function.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
+      "publishedDateTime": "2021-10-26T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers.md",
+      "title": "Why Many People Are Turning Toward Robots And AI To Help Support Their Mental Health And Careers",
+      "excerpt": "I interviewed Yvette Cameron, Oracle Cloud HCM senior vice-president, to learn more about how technology, artificial intelligence and robots can help workers with their mental health matters and careers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61781b53d924acaeb26729d0%2F0x0.jpg",
+          "width": 1087,
+          "height": 767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/amp/",
+      "publishedDateTime": "2021-10-26T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-qualcomm-unveils-latest-mobile-chips-for-mid-range-and-budget-devices.md",
+      "title": "Qualcomm unveils latest mobile chips for mid-range and budget devices",
+      "excerpt": "Qualcomm has added four new Snapdragon mobile chips to its portfolio for both 4G and 5G-capable handsets at varying budget ranges. The Snapdragon 778G Plus 5G, 695 5G, 480 Plus 5G, and 680 4G chips are now official,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
+      "originalUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1635255685/itpro/Qualcomm_Snapdragon_Refresh_Oct_2021.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
+      "publishedDateTime": "2021-10-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-teaching-robots-to-think-like-us-brain-cells-electrical-impulses-steer-robot-though-maze.md",
       "title": "Teaching robots to think like us: Brain cells, electrical impulses steer robot though maze",
       "excerpt": "Can intelligence be taught to robots? Advances in physical reservoir computing, a technology that makes sense of brain signals, could contribute to creating artificial intelligence machines that think like us.",
@@ -42,6 +440,49 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-pepsico-hiring-150-in-dallas-for-new-digital-hub-leveraging-ai-and-machine-learning.md",
+      "title": "PepsiCo hiring 150 in Dallas for new ‘digital hub’ leveraging AI and machine learning",
+      "excerpt": "PepsiCo’s chief strategy and transformation officer describes the new high-tech team as a first for legacy consumer packaged goods brands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beveragedaily.com/Article/2021/10/26/PepsiCo-s-new-Digital-Hubs-to-develop-AI-and-machine-learning?utm_source=copyright&utm_medium=OnSite&utm_campaign=copyright",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/pepsico-hiring-150-in-dallas-for-new-e2-80-98digital-hub-e2-80-99-leveraging-ai-and-machine-learning/ar-AAPYqqF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/beveragedaily.com/news/r-d/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning/12958789-1-eng-GB/PepsiCo-s-new-Digital-Hubs-to-develop-AI-and-machine-learning.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T07:38:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "beveragedaily.com/article/2021/10/26/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning?utm_source=copyright&utm_medium=onsite&utm_campaign=copyright",
+        "domain": "beveragedaily.com/article/2021/10/26/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning?utm_source=copyright&utm_medium=onsite&utm_campaign=copyright",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -93,6 +534,48 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-fabric-brings-in-200m-as-it-passes-1b-in-valuation.md",
+      "title": "Fabric brings in $200M as it passes $1B in valuation",
+      "excerpt": "Micro-fulfillment technology company Fabric has closed a $200 million Series C financing round at a valuation of more than $1 billion, according to a Tuesday press release. The company, which has raised $336 million since it was founded, plans to use the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.grocerydive.com/news/fabric-brings-in-200m-as-it-passes-1b-in-valuation/608871/",
+      "originalUrl": "https://www.grocerydive.com/news/fabric-brings-in-200m-as-it-passes-1b-in-valuation/608871/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.grocerydive.com/user_media/cache/fd/11/fd11b30f8466332446de7488304b7d7f.jpg",
+          "width": 770,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "grocerydive.com",
+        "domain": "grocerydive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -355,7 +838,7 @@
       "originalUrl": "https://www.businessinsider.com/facebooks-new-smart-glasses-raise-privacy-concerns-2021-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -597,102 +1080,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-26-pepsico-hiring-150-in-dallas-for-new-digital-hub-leveraging-ai-and-machine-learning.md",
-      "title": "PepsiCo hiring 150 in Dallas for new ‘digital hub’ leveraging AI and machine learning",
-      "excerpt": "PepsiCo’s chief strategy and transformation officer describes the new high-tech team as a first for legacy consumer packaged goods brands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/business/local-companies/2021/10/26/pepsico-hiring-150-in-dallas-for-new-digital-hub-leveraging-ai-and-machine-learning/",
-      "originalUrl": "https://www.dallasnews.com/business/local-companies/2021/10/26/pepsico-hiring-150-in-dallas-for-new-digital-hub-leveraging-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/S2AVyskFqOIH3YwVA687hpyAjCg=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/YCLZNG7NG5FFBM54GA7H6TEOBA.JPG",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/business/local-companies/2021/10/26/pepsico-hiring-150-in-dallas-for-new-digital-hub-leveraging-ai-and-machine-learning/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/local-companies/2021/10/26/pepsico-hiring-150-in-dallas-for-new-digital-hub-leveraging-ai-and-machine-learning/?outputType=amp",
-      "publishedDateTime": "2021-10-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-robotics-powered-microfulfillment-startup-fabric-raises-200m.md",
-      "title": "Robotics-powered ‘microfulfillment’ startup Fabric raises $200M",
-      "excerpt": "Fabric, a startup developing robotics- and software-powered microfulfillment technology, has raised $200 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/26/robotics-powered-microrulfillment-startup-fabric-raises-200m/",
-      "originalUrl": "https://venturebeat.com/2021/10/26/robotics-powered-microrulfillment-startup-fabric-raises-200m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/fabric-e1595535883513.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/26/robotics-powered-microrulfillment-startup-fabric-raises-200m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/robotics-powered-microrulfillment-startup-fabric-raises-200m/amp/",
-      "publishedDateTime": "2021-10-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-26-amazon-gets-contract-from-british-spy-agencies-to-increase-use-of-ai-for-espionage.md",
       "title": "Amazon gets contract from British spy agencies to increase use of AI for espionage",
       "excerpt": "British spy agencies have signed a deal with Amazon Web Services to host classified material in a deal to boost the use of AI for espionage.",
@@ -827,384 +1214,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-ai-powered-spend-management-platform-yokoy-secures-26m.md",
-      "title": "AI-powered spend management platform Yokoy secures $26M",
-      "excerpt": "Yokoy, a company developing spend management tools for enterprises, has raised $26 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
-      "originalUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
-      "publishedDateTime": "2021-10-26T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-byju-innovation-labs-bridging-the-teacher-student-gap-with-ai-ml.md",
-      "title": "Byju Innovation Labs: Bridging the teacher-student gap with AI, ML",
-      "excerpt": "With an aim to solve moonshot problems, Byju's lab initiative hopes to consistently innovate internally to solve education's biggest challenges with technology to avoid becoming obsolete",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
-      "originalUrl": "https://www.forbesindia.com/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2021/Oct/img_170429_devroy.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
-      "publishedDateTime": "2021-10-26T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch.md",
-      "title": "Schools put the brakes on facial recognition scheme for kids buying lunch",
-      "excerpt": "Schools in the United Kingdom have paused the rollout of facial recognition scans in cafeterias following backlash from data watchdogs and privacy advocates. Last week, the Information Commissioner's Office (ICO),",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/",
-      "originalUrl": "https://www.zdnet.com/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/",
-      "publishedDateTime": "2021-10-26T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-accelerating-healthcare-ai-innovation-with-zero-trust-technology.md",
-      "title": "Accelerating healthcare AI innovation with Zero Trust technology",
-      "excerpt": "From research to diagnosis to treatment, AI has the potential to improve outcomes for some treatments by 30 to 40 percent and reduce costs by up to 50 percent. Obtaining the large data sets necessary for generalizability, transparency, and reducing bias has historically been difficult and time-consuming.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/",
-      "originalUrl": "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f91858d1-a3a3-4e76-8543-32fa605f702f.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T01:00:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible.md",
-      "title": "Singapore-based digital comic platform uses AI to make manga more accessible",
-      "excerpt": "There was no digital platform that comic lovers could access at all times. Vu and Hieu together with Ken Luong and other comic lovers teamed up and founded INKR, a digital comic platform in 2011 that's currently based in Singapore with an office in Vietnam.",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible",
-      "originalUrl": "https://sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/inkr_aauh.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible?amp=1",
-      "publishedDateTime": "2021-10-26T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-lending-start-up-button-finance-raises-2-million-in-seed-round-funding.md",
-      "title": "Lending start-up Button Finance raises $2 million in seed round funding",
-      "excerpt": "Button Finance, a fintech mortgage lender focused on home equity, has raised $2 million in a seed round for hiring new talent and developing its proprietary technology, a release said on Monday. Hildene Capital Management,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mpamag.com/us/news/general/lending-start-up-button-finance-raises-2-million-in-seed-round-funding/314324",
-      "originalUrl": "https://www.mpamag.com/us/news/general/lending-start-up-button-finance-raises-2-million-in-seed-round-funding/314324",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-res.keymedia.com/cms/images/us/073/0270_637708287919262702.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mortgage",
-        "domain": "mpamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-travel-expenses-ai-startup-worth-100-million-in-fund-raiser.md",
-      "title": "Travel Expenses AI Startup Worth $100 million in Fund Raiser",
-      "excerpt": "A Switzerland-based startup that says it uses artificial intelligence to help mange travel expenses is raising funds at $100 million valuation, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-25/travel-expenses-ai-startup-worth-100-million-in-fund-raiser",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-25/travel-expenses-ai-startup-worth-100-million-in-fund-raiser",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i63.dYmgwUJw/v0/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-we-need-to-pay-attention-to-ai-bias-before-its-too-late.md",
-      "title": "We need to pay attention to AI bias before it's too late",
-      "excerpt": "Cognitive bias leads to AI bias, and the garbage-in/garbage-out axiom applies. Experts offer advice on how to limit the fallout from AI bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
-      "originalUrl": "https://www.techrepublic.com/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/25/cc0205d8-ff0a-4d0b-b4c6-a09713397ea1/resize/1200x/269e9cf0da4d09b32d22a62c64a5f3f2/shutterstock-1717584028.jpg",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
-      "publishedDateTime": "2021-10-25T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

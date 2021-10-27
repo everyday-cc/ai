@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/facebooks-new-smart-glasses-raise-
 webUrl: "https://www.businessinsider.com/facebooks-new-smart-glasses-raise-privacy-concerns-2021-10"
 type: article
 quality: 69
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
     excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
     publishedDateTime: 2021-10-26T12:59:00Z
     webUrl: "https://www.morningstar.com/news/marketwatch/20211026401/facebook-is-spending-more-and-these-companies-are-getting-the-money"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 4
+  - title: "Facebook is spending more, and these companies are getting the money"
+    excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
+    publishedDateTime: 2021-10-27T07:22:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20211027352/facebook-is-spending-more-and-these-companies-are-getting-the-money"
     type: article
     provider:
       name: Morningstar, Inc.

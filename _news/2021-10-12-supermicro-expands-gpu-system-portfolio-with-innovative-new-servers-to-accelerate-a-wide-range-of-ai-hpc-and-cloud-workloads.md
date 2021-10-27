@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Supermicro Expands GPU System Portfolio with Innovative New Servers to Accelerate a Wide Range of AI, HPC, and Cloud Workloads"
-excerpt: "These servers are designed for demanding AI applications where low latency and high application performance are essential. The 2U NVIDIA HGX™ A100 4-GPU system is suited for deploying modern AI training clusters at scale with high-speed CPU-GPU and GPU ..."
-publishedDateTime: 2021-10-12T13:10:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/10/12/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to"
-webUrl: "https://stockhouse.com/news/press-releases/2021/10/12/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to"
+excerpt: "(SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, announces new systems based on NVIDIA® Ampere architecture GPUs and 3 rd Gen Intel Xeon Scalable processors with built-in AI accelerators (Supermicro X12 series)."
+publishedDateTime: 2021-10-12T15:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to-accelerate-a-wide-range-of-ai-hpc-and-cloud-workloads-1030859271"
+webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to-accelerate-a-wide-range-of-ai-hpc-and-cloud-workloads-1030859271"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
-    width: 400
-    height: 206
+  - url: "https://mma.prnewswire.com/media/1657653/Supermicro_Expands_GPU_System_Portfolio.jpg"
+    width: 1000
+    height: 400
     isCached: true
 
-secured: "cuSqIRZTDw5qrS6/0iqaPcivmd7X/r9W7Uw4bWrnL3IIb+LaVtReBvCkCacRSJ+hJcBn9sNbGT4IPUMmODuVS7/XCmAJJ2RGAdnWqlxx3mBbojUVQVxgp1W7i4DQkJFI7EH/WIrYjCu5zytiy+x6uPmCswIGuvv+eMPvNRr2nJhWRbQz139vH1XRIvsx+LfxaHKrlzNyyCpQEfjjeMFU1RV2ceHQaw2Lb9qGmeaF0p1USrcHW4a8Fsgp0+dnDSVfRSTO9ZT2rPYK/7rITTIES1HOjW0uKLKAaH0amdAuq0pVtlmsKWA+UWbISbZ8HOMp7VkC77BaZoUqRheW3xcgEE6OC5LRTT1tWxnyvxEJwqA=;mJgts/o+vpcLMEtZuTinPw=="
+secured: "ThEjsprXBJibDTBrSlLzPB11zFGMtlZn5bDIswUYcTAIdfYAQidtDC7VMf5cXROIkZ0Dv3NwUDzAkYMwbUEtapP9AIQf8dnxAaBlPxh7zFiB4f4Z5efpw+d3iFERoKvkMbTrW39dtzVPyJ7aDscAblJeYjEtdHN96CV3eGanxaGgGAqPSiDnrIBVPdxNN7CTxhPAee9o5oVqaIYiM8qEmkGMT+LEkVQhfB1slZzVMmYHmDzjdGXLImYw+PzLji+D1zy7xzhtz9OjXFA+ZUQFurOCSwSG7UksEBeg0/shz/6ztjuCHB3ACjeCNbaPahYHSBlMeRmBtCiGGZBApAmpvvVYbw6RE91lBfQFBTHimgM=;oN3oyzk6DixkIcFZIXzUtA=="
 ---
 

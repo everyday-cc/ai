@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-27-first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport.md",
+      "title": "First Look: Delta, TSA Launch Facial Recognition At Atlanta Airport",
+      "excerpt": "The next step in airport automation has become a reality, just in time for the holidays. Delta Airlines, the Transportation Security Administration (TSA), and a travel tech company called Pangiam have partnered up to bring facial recognition technology to the Hartsfield–Jackson Atlanta International Airport (ATL).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6179439eb80f6c3c90620ec3%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/",
+      "publishedDateTime": "2021-10-27T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-airlines-turn-to-facial-recognition-technology-ahead-of-holiday-rush.md",
+      "title": "Airlines turn to facial recognition technology ahead of holiday rush",
+      "excerpt": "The travel industry is gearing up for what could be its since the coronavirus pandemic began, and at least one U.S. airline is aiming to make things easier and faster.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460",
+      "originalUrl": "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/delta-airlines-biometric-boarding-01-ht-llr-211026_1635280415660_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460",
+      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460",
+      "publishedDateTime": "2021-10-27T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts.md",
       "title": "Computer vision platform Cogniac nabs $20M to bolster its customer acquisition efforts",
       "excerpt": "Cogniac, a startup developing computer vision technology primarily for industrial and manufacturing companies, raised $20 million in capital.",
@@ -79,49 +174,6 @@
       "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo124680261894",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124680261894",
       "publishedDateTime": "2021-10-26T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-how-facial-recognition-will-change-the-way-you-travel.md",
-      "title": "How facial recognition will change the way you travel",
-      "excerpt": "Delta Air Lines and the TSA are rolling out facial recognition software at Atlanta’s Hartsfield–Jackson International Airport. NBC News’ Tom Costello takes us there for a closer look at what fliers can expect as the technology will soon be in airports across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/how-facial-recognition-will-change-the-way-you-travel-124677189642",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/how-facial-recognition-will-change-the-way-you-travel-124677189642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/1635289423930_nn_tco_tfot_facial_recognition_211026_1920x1080-9bwbc6.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo124677189642",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124677189642",
-      "publishedDateTime": "2021-10-26T16:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -371,6 +423,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-library-teen-workshop-studies-facial-recognition-technology.md",
+      "title": "Library teen workshop studies facial recognition technology",
+      "excerpt": "The workshop, \"Makeup vs. AI,\" will teach youth about facial recognition and how they are affected by makeup and masks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.longmontleader.com/local-news/library-teen-workshop-studies-facial-recognition-technology-4526832",
+      "originalUrl": "https://www.longmontleader.com/local-news/library-teen-workshop-studies-facial-recognition-technology-4526832",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/longmontleader/images/longmont-facilitiesservices/longmont-library-pre-opening-(1-of-5).jpg;w=1200;h=800;mode=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.longmontleader.com/amp/local-news/library-teen-workshop-studies-facial-recognition-technology-4526832",
+      "cdnAmpWebUrl": "https://www-longmontleader-com.cdn.ampproject.org/c/s/www.longmontleader.com/amp/local-news/library-teen-workshop-studies-facial-recognition-technology-4526832",
+      "publishedDateTime": "2021-10-19T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longmont Leader",
+        "domain": "longmontleader.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1294,102 +1389,6 @@
         "Computer Vision",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-synaptiq-and-algolook-demo-machine-vision-mask-detection-model-at-2021-nsc-safety-congress-and-expo.md",
-      "title": "Synaptiq and AlgoLook Demo Machine Vision Mask Detection Model at 2021 NSC Safety Congress and Expo",
-      "excerpt": "The novel machine vision model uses a deep neural network trained on thousands of images to detect the presence or absence of masks in milliseconds. “As businesses rebound from",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-artificial-intelligence-health-5d57f6af79ae75148174cea4ffaa17ac",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-artificial-intelligence-health-5d57f6af79ae75148174cea4ffaa17ac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision.md",
-      "title": "Toyota Research Institute Announces Machine Learning Advances at the International Conference on Computer Vision",
-      "excerpt": "Today, the Toyota Research Institute (TRI) announced the acceptance of six research papers in the field of machine learning at the International Conference on Computer Vision (ICCV). The research advances understanding across various tasks crucial for robotic perception,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1656665/SIM2REAL_Composite.jpg",
-          "width": 679,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

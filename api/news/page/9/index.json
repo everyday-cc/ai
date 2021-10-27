@@ -2,6 +2,432 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-10-19-accelerating-the-discovery-of-new-materials-for-3d-printing.md",
+      "title": "Accelerating the discovery of new materials for 3D printing",
+      "excerpt": "The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes, has created more demand for new 3D printing materials designed for",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/accelerating-materials-3d-printing-1015",
+      "originalUrl": "https://www.chemeurope.com/en/news/1173177/accelerating-the-discovery-of-new-materials-for-3d-printing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202110/MIT-Accelerating-Materials-01-Press.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CHEMIE.DE Information Service GmbH",
+        "domain": "chemeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia.md",
+      "title": "Lost in translation: Language barrier is hurting commercialisation in Australia",
+      "excerpt": "It's hard to collaborate when industry want to get straight to the point and academics rely on lengthy research papers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
+      "originalUrl": "https://www.zdnet.com/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b6720e60a46b7b4223f6c02fb97515471eb6e217/2018/04/05/ebb87ff9-14b6-4a39-a906-ad4a7a5b31b9/istock-625736338.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
+      "publishedDateTime": "2021-10-18T22:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-convegenius-ai-indias-leading-edtech-startup-raises-5m-usd-pre-series-a-for-mass-market-direct-to-consumer-expansion-to-serve-100m-households.md",
+      "title": "ConveGenius AI, India’s Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households",
+      "excerpt": "ConveGenius has raised $5M USD in Venture Capital funding to grow its conversational AI platform in India and South-East Asian markets. The company first launched its conversational AI platform in 2020 with a focus on providing a tailor-fit EdTech solution that offers an adaptive Whatsapp-based learning system for K-12 students from lower tier cities,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-the-roi-of-ai-will-it-deliver-real-value.md",
+      "title": "The ROI of AI: Will it deliver real value?",
+      "excerpt": "AI is not just a platform to be purchased and implemented. It is a fundamental shift in the way digital systems operate and are managed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/",
+      "originalUrl": "https://venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ai-money_-shutterstock_592403636-e1626678216479.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/amp/",
+      "publishedDateTime": "2021-10-18T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias.md",
+      "title": "Achieving Instagram Growth In The Age Of AI And Algorithmic Bias",
+      "excerpt": "Over the last few years, it has become clear that Instagram has an algorithmic bias towards certain accounts. Marginalized groups such as LGBTQIA+ and BIPOC have repeatedly been vocal about seeing their reach shrink significantly under the current system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/18/achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/18/achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616e3afe547346c9dd22f01e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2832%26cropY1%3D706%26cropY2%3D2299",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/18/achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/18/achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias/amp/",
+      "publishedDateTime": "2021-10-18T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics.md",
+      "title": "Data intelligence provider Alation acquires AI insights company Lyngo Analytics",
+      "excerpt": "Data intelligence firm Alation has acquired AI data insights company Lyngo Analytics, citing more presence in enterprise data culture.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/",
+      "originalUrl": "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/",
+      "publishedDateTime": "2021-10-18T20:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-singapore-based-geniebooks-personalized-learning-platform-raises-166m-series-a.md",
+      "title": "Singapore-based Geniebook’s personalized learning platform raises $16.6M Series A",
+      "excerpt": "Geniebook is a Singapore-based learning platform that uses a combination of machine learning and human teacheres to personalize each student’s education. The company announced today it has raised $16.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/",
+      "originalUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Geniebook_iPhone_iPad_Interface-copy.jpg?w=1000",
+          "width": 1000,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/amp/",
+      "publishedDateTime": "2021-10-18T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-state-university-seeks-software-with-ai-machine-learning.md",
+      "title": "State University Seeks Software With AI, Machine Learning",
+      "excerpt": "In a Request for Proposal, California State University, Long Beach calls for responses from vendors who can provide a software system to help it do more with fundraising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning",
+      "originalUrl": "https://www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/92c0ccc/2147483647/strip/true/crop/3395x1770+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb4%2F71%2Fa53a04cb4015b24d1e52db3b4c8b%2Fshutterstock-1089266585.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning?_amp=true",
+      "cdnAmpWebUrl": "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning?_amp=true",
+      "publishedDateTime": "2021-10-18T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "California Techwire",
+        "domain": "techwire.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac.md",
+      "title": "Artificial Intelligence and Air-based sensors to help Indian Army scan LAC",
+      "excerpt": "As part of a multi-pronged plan, road infrastructure, specially at the sensitive Tawang sector, is also being enhanced significantly with a network of bridges and tunnels that will take away dependence on air assets to support troops in all weather conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/articleshow/87126332.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/articleshow/87126332.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-167562,msid-87126353/untitled-14.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/amp_articleshow/87126332.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/amp_articleshow/87126332.cms",
+      "publishedDateTime": "2021-10-18T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-robotaxi-market-to-witness-astonishing-growth-by-2030.md",
       "title": "Robotaxi Market to Witness Astonishing Growth by 2030",
       "excerpt": "Attractive Opportunities in Robotaxi Market” Robotaxi Market by Application (Goods and Passenger), Level of Autonomy (L4 and L5), Vehicle (Car and Shuttle/Van), Service (Rental and Station Based), Propulsion (Electric and Fuel Cell),",
@@ -752,434 +1178,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics.md",
-      "title": "Apixio Grows Staff by 20% and Continues to Expand Footprint & Product Portfolio to Meet Surging Demand for AI Healthcare Analytics",
-      "excerpt": "Apixio, Inc., the healthcare AI analytics company; today announced it has rapidly expanded its staff and product portfolio to meet surging demand for its AI healthcare analytics solutions that give payers and providers the power to mine clinical information at scale — creating novel insights that will change the way healthcare is measured,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1662177/Apixio_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-how-ai-powered-call-centers-can-help-with-your-digital-transformation-efforts.md",
-      "title": "How AI-Powered Call Centers Can Help With Your Digital Transformation Efforts",
-      "excerpt": "There is a huge opportunity for marketers to harness AI-driven insights using first-party data from phone calls that can connect the dots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/18/how-ai-powered-call-centers-can-help-with-your-digital-transformation-efforts/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/18/how-ai-powered-call-centers-can-help-with-your-digital-transformation-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616993c95f7a5281d84c7233%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/18/how-ai-powered-call-centers-can-help-with-your-digital-transformation-efforts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/18/how-ai-powered-call-centers-can-help-with-your-digital-transformation-efforts/amp/",
-      "publishedDateTime": "2021-10-18T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-facebook-ai-moderator-confused-videos-of-mass-shootings-and-car-washes.md",
-      "title": "Facebook AI moderator confused videos of mass shootings and car washes",
-      "excerpt": "Facebook CEO Mark Zuckerberg sounded an optimistic note three years ago when he wrote about the progress his company was making in automated moderation tools powered by artificial intelligence. “Through the end of 2019,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2021/10/facebook-ai-moderator-confused-videos-of-mass-shootings-and-car-washes/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2021/10/facebook-ai-moderator-confused-videos-of-mass-shootings-and-car-washes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/GettyImages-1074353570-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-how-iot-and-ai-are-helping-keep-truck-drivers-safe.md",
-      "title": "How IoT and AI are helping keep truck drivers safe",
-      "excerpt": "Truck safety is a major focus for the trucking industry. Now there is artificial intelligence that can make a real-time difference in lives, money and on-road safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
-      "originalUrl": "https://www.techrepublic.com/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/03/06/5f4c3917-7489-40fc-a941-d394145ef06a/resize/1200x/6ff740d56972d972eaef076dd625711d/istock-539355552truck.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
-      "publishedDateTime": "2021-10-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-wandisco-announces-general-availability-of-livedata-platform-for-azure.md",
-      "title": "WANdisco Announces General Availability of LiveData Platform for Azure",
-      "excerpt": "Zero-downtime, data-first automated platform for Hadoop to Azure migration accelerates time to business insights in the cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.wagmtv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
-      "originalUrl": "https://www.wagmtv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAGMTV",
-        "domain": "wagmtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-data-transformation-platform-metrolinkai-raises-22m.md",
-      "title": "Data transformation platform Metrolink.ai raises $22M",
-      "excerpt": "Metrolink.ai, a startup developing a data transformation and management platform, has raised $22 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/",
-      "originalUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/big-data-e1628088752737.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/",
-      "publishedDateTime": "2021-10-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing.md",
-      "title": "Quris combines AI with ‘patient on a chip’ to speed drug development and reduce animal testing",
-      "excerpt": "The necessity of animal testing is a sad one for the process of drug discovery, but there’s seemingly no good alternative to mice, even though they’re not particularly accurate human analogues. Quris claims to have the first real option in its combination of AI with data from a",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/",
-      "originalUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?w=1024",
-          "width": 1024,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/amp/",
-      "publishedDateTime": "2021-10-18T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-ai-drug-discovery-startup-quris-launches-with-9m-to-predict-drug-success-starting-with-rare-diseases.md",
-      "title": "AI drug discovery startup Quris launches with $9M to predict drug success starting with rare diseases",
-      "excerpt": "Quris, a new artificial intelligence startup, thinks it has the tools to predict whether a drug candidate will work safely in humans. The drug discovery company launches with $9 million in angel funding to help reduce risks and costs associated with failed clinical trials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercebiotech.com/cro/ai-drug-discovery-startup-quris-launches-9m-to-predict-drug-success-starting-rare-diseases",
-      "originalUrl": "https://www.fiercebiotech.com/cro/ai-drug-discovery-startup-quris-launches-9m-to-predict-drug-success-starting-rare-diseases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1634327322/QurisTeam.jpg?VersionId=sRLtIqVJTWSRl8PAqDyx6AZjSbneBLjM",
-          "width": 2040,
-          "height": 1360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions.md",
-      "title": "Guardforce AI launches Intelligent Cloud Platform to Transform Robotics Solutions",
-      "excerpt": "PRNewswire/ -- Guardforce AI Co., Limited (Nasdaq: GFAI) ('Guardforce AI'), an integrated security solutions provider",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions-1030873229",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions-1030873229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 783
         isCached: true
+  - title: "The ethics of artificial intelligence"
+    excerpt: "Maura R. Grossman, JD, Ph.D., is a Research Professor in the Cheriton School of Computer Science, an Adjunct Professor at Osgoode Hall Law School, and an affiliate faculty member of the Vector Institute for Artificial Intelligence."
+    publishedDateTime: 2021-10-27T12:20:00Z
+    webUrl: "https://techxplore.com/news/2021-10-ethics-artificial-intelligence.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-ethics-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-ethics-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/the-ethics-of-artifici.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Artificial intelligence in banking 2021: How banks use AI"
     excerpt: "AI-based systems are becoming an integral part of many enterprises in banking and finance, helping them stand out in the market."
     publishedDateTime: 2021-10-25T13:02:00Z

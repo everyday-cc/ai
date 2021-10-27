@@ -1,0 +1,69 @@
+---
+category: news
+title: "Factored Named as AWS Partner Network Select Consulting Partner to Enhance AI Implementation in the Americas"
+excerpt: "Factored , a fast-growing business helping ambitious companies select, upskill and build high-performing data science, machine learning and AI engineering teams, today announced it has been granted Select Consulting Partner status in the AWS Partner Network (APN),"
+publishedDateTime: 2021-10-27T13:43:00Z
+originalUrl: "https://menafn.com/1103056890/Factored-Named-as-AWS-Partner-Network-Select-Consulting-Partner-to-Enhance-AI-Implementation-in-the-Americas"
+webUrl: "https://menafn.com/1103056890/Factored-Named-as-AWS-Partner-Network-Select-Consulting-Partner-to-Enhance-AI-Implementation-in-the-Americas"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
+
+topics:
+  - AI in Finance
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?126999"
+    width: 375
+    height: 250
+    isCached: true
+
+related:
+  - title: "Arturo Joins the AWS Partner Network"
+    excerpt: "Arturo, an artificial intelligence-powered (AI) platform that derives property insights and predictive analytics from aerial and satellite imagery, today announced that it has joined the Amazon Web Services (AWS) Partner Network (APN)."
+    publishedDateTime: 2021-10-25T14:00:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-cf30463736c74d48a081a9fc065316f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Insurtech Arturo joins AWS partner network"
+    excerpt: "Arturo, an artificial intelligence-powered (AI) platform that derives property insights and predictive analytics from aerial and satellite imagery, today announced that it has joined the Amazon Web Services (AWS) Partner Network (APN)."
+    publishedDateTime: 2021-10-25T19:43:00Z
+    webUrl: "https://www.finextra.com/pressarticle/89944/insurtech-arturo-joins-aws-partner-network"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Arturo Joins the AWS Partner Network"
+    excerpt: "Arturo, an AI-powered platform that derives insights and analytics from aerial and satellite imagery, has joined the AWS Partner Network."
+    publishedDateTime: 2021-10-25T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211025005490/en/Arturo-Joins-the-AWS-Partner-Network"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
+
+secured: "3K8dRRZ8cHT3mcLkLDgyTJ86OgpuUBl9PdfOdyGzIpS74cDf5k4Zv23AIUsbevy1ZJQ4FxplBajrQQGfb1tsgo1udHyMBulMpK9kc5K3m+2ja0y/guxWx7/q/QpuHD/8W+0UzD/73fyRPPbfSDrMYJFVOYAeequN84fYB6cAnpp6CCNzDa1rbhuA0+9pEmDuOlmg3o9FnG0j1XkhQ/CTeLTSmXKNuwkUcvlSJvuZkvmMeVsM3l6ZVnucx4/ZOgqUdf+sgKm26nTd/iBn1GAn93THktokO+rKFxbYBos28ul5zQKKmZWE8CjpVQ1QyJSn/ZggUBcQUhaX7QQgIu3qm5dQ20PVc4ba/0v5s0OZu/A=;EtAqsS6EHFPOQZzJwZw0Cg=="
+---
+

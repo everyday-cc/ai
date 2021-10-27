@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Navina Raises $15M for AI-Powered Primary Care Platform"
-    excerpt: "Navina, a Tel Aviv-based developer of AI-powered clinical platform for primary care raises $15M in Series A funding led by Vertex Ventures Israel"
-    publishedDateTime: 2021-10-22T20:50:00Z
-    webUrl: "https://hitconsultant.net/2021/10/22/navina-ai-powered-primary-care-funding/"
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 37
-    images:
-      - url: "https://hitconsultant.net/wp-content/uploads/2021/10/Navina-Secures-15-Million-in-Series-A-Funding-to-Continue-its-Revolution-of-US-Primary-Care-Using-Artificial-Intelligence.png"
-        width: 1502
-        height: 1078
-        isCached: true
   - title: "Swiss AI-powered spend management platform Yokoy raises $26 million"
     excerpt: "Zurich-based spend management platform Yokoy has raised $26 million in a Series A round. The tool uses a combination of AI tools and API integrations to automate expense management, supplier […]"
     publishedDateTime: 2021-10-26T09:45:00Z
@@ -69,6 +55,20 @@ related:
       - url: "https://tech.eu/wp-content/uploads/2021/10/pewpewkitty-1.png"
         width: 960
         height: 545
+        isCached: true
+  - title: "Making content king again: Instoried secures $8M to expand AI-powered platform that guarantees enhanced content performance and ROI"
+    excerpt: "Instoried, the only AI-powered pre-publication sentiment analysis tool that enhances content performance in real-time has raised $8M in funding from Pritt Investment Partners and 9Unicorns with participation from Mumbai Angels,"
+    publishedDateTime: 2021-10-27T13:05:00Z
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-business-90c4e85fb8dcbf77cff0b11424c80d18"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 7
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "HKbUYwAnnDfG9YSdSfbp79+QsnJQzDEygktVNSWMizfz6/joacx19IryvK8pBVyATVDWz5CfT2enF39AkviT41V72RpUIJlXl1byXYSEAf9+utNt2xAAqvQXodVpsO2MILxnTuOQbvZXepr4nf7ZbhEjGQkBF2ftL7Z+cFQxLqb2z3L7xzyltY7TjFiJ2f3XZVqSPeSYkYV/57TbldPV+8e5be94a+CQXceFWMRfAWVr2ZE8iKFYFedWeufbfLZQAnadVB8xo32yLHN/IUvdMK82hWu7NqXekViYDVVx5To25l+qBTD8CYoYkbh9ccp4PwM+Rk2QpoVs2xc/wmBJ2Ldl8kzv8TfmUrilPCQOQGw90e0RSSrc6tgQjWT7SiwujsYZ7nKmu3iNzfGLUkXXB4Xv4WjeRx+eYksS/PQTWhQ1kzSxU2Dg6r80T5FeXVEd0lwRSmGaZRzKovIJNmiHONICBTsiE3L3iL6UTqr9nf3ki/jBorpV+TL9Q0EOzoM5xyw4S/ydfJEIOMQiqiBmkg==;aYTPVijoaDSFVrt/3gprfw=="

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Restaurants prep for long-term labor crunch by turning to robots to work the fryer, shuttle food to tables"
-    excerpt: "Restaurants that are struggling to fill jobs are beginning to turn to robotic solutions to ease staffing challenges and to speed up operations."
-    publishedDateTime: 2021-10-22T20:00:00Z
-    webUrl: "https://www.cnbc.com/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 154
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106964441-1634924133556-106964441-1634903029090Team_Member_Next_to_Flippy_ROAR_at_the_Fryer_2.JPG?v=1634924157"
-        width: 4032
-        height: 3024
-        isCached: true
   - title: "Desperate for Workers, Restaurants Turn to Robots"
     excerpt: "Gazitua is among a growing number of restaurant and hotel owners who are turning to robotics during this labor shortage. Robots don’t call in sick, don’t request raises and do jobs, like frying and cleaning,"
     publishedDateTime: 2021-10-23T17:02:00Z

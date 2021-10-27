@@ -268,6 +268,20 @@ related:
         width: 1001
         height: 563
         isCached: true
+  - title: "Tesla reverses \"Full self-driving\" beta update after sudden braking reports"
+    excerpt: "Driving\" beta update it had sent to some drivers' cars, after reports that a software bug could cause vehicles to emergency brake unexpectedly, or experience phantom forward-collision alerts."
+    publishedDateTime: 2021-10-27T12:49:00Z
+    webUrl: "https://www.bitdefender.com/blog/hotforsecurity/tesla-reverses-full-self-driving-beta-update-after-sudden-braking-reports/"
+    type: article
+    provider:
+      name: Bitdefender
+      domain: bitdefender.com
+    quality: 37
+    images:
+      - url: "https://blogapp.bitdefender.work/hotforsecurity/content/images/2021/10/tesla-drive.jpeg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "Tesla halts Full Self-Driving beta 10.3 rollout, Elon Musk says they’re ‘seeing some issues’"
     excerpt: "A new version of Teslas Full Self-Driving (FSD) beta build was released over the weekend. However, the company later pulled out beta version 10.3 as CEO Elon Musk said the update was spotted with some issues."
     publishedDateTime: 2021-10-25T06:48:00Z

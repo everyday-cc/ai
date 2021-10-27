@@ -2,6 +2,445 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-10-16-the-rise-of-ai-surveillance.md",
+      "title": "The rise of AI surveillance",
+      "excerpt": "This article is part of \"The age of surveillance,\" a special report on artificial intelligence. Welcome to the dark side of artificial intelligence. As a technology, AI has been touted as a silver bullet for many of society’s ills. It has the potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/",
+      "originalUrl": "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/05/26/GettyImages-1168367645-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/amp/",
+      "publishedDateTime": "2021-10-15T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-16-ai-powered-personalization-provider-qubit-gets-acquired-by-coveo.md",
+      "title": "AI-powered personalization provider Qubit gets acquired by Coveo",
+      "excerpt": "AI-powered relevance platform Coveo acquired Qubit, a leader in AI-powered personalization technology for merchandising teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globenewswire.com/news-release/2021/10/15/2314874/0/en/Coveo-Acquires-Qubit.html",
+      "originalUrl": "https://venturebeat.com/2021/10/15/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-15T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-how-ai-could-bridge-the-linguistic-inclusion-gap.md",
+      "title": "How AI could bridge the linguistic inclusion gap",
+      "excerpt": "Thoughtworks’ Data and AI Practice examined how Natural Language Processing (NLP) could be used to create an automated translation service for clinical healthcare settings. NLP technology processes spoken or written language to enable conversations that feel natural — whether that’s text-based,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap",
+      "originalUrl": "https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/meta/insights/in_meta_blogs.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-15T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThoughtWorks",
+        "domain": "thoughtworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-qubit-the-dog-on-the-big-questions-in-quantum-computing.md",
+      "title": "Qubit the dog on the big questions in quantum computing",
+      "excerpt": "This week we sat down for an interview with Qubit the dog, whose human Julian Kelly is one of our lead Research Scientists with Google Quantum AI. Qubit was born in 2012, right when Julian and team were first designing the qubits that now underlie Google’s quantum computers. He nearly received the honor",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/qubit-dog-big-questions-quantum-computing/",
+      "originalUrl": "https://blog.google/technology/ai/qubit-dog-big-questions-quantum-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PXL_20210930_201831394.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/qubit-dog-big-questions-quantum-computing/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/qubit-dog-big-questions-quantum-computing/amp/",
+      "publishedDateTime": "2021-10-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos.md",
+      "title": "Spot AI emerges from stealth with $22M with a platform to draw out more intelligence from organizations’ basic security videos",
+      "excerpt": "Security cameras, for better or for worse, are part and parcel of how many businesses monitor spaces in the workplace for security or operational reasons. Now, a startup is coming out of stealth with funding for tech designed to make the video produced by those cameras more useful.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/",
+      "originalUrl": "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/spot-ai-video-frame.jpg?w=1024",
+          "width": 1024,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/amp/",
+      "publishedDateTime": "2021-10-15T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data.md",
+      "title": "Clarifai moves beyond computer vision to manage companies’ unstructured data",
+      "excerpt": "Clarifai enables customers to make sense of the 90% of unstructured data they have using artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
+      "originalUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1168836247-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
+      "publishedDateTime": "2021-10-15T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-truly-smart-robots-know-when-to-ask-for-help.md",
+      "title": "Truly Smart Robots Know When To Ask For Help",
+      "excerpt": "Ask a manufacturing company what their current top headaches are, and supply chain disruptions and staff shortages will probably top the list. Vecna Robotics might have the solution for both. Vecna Robotics develops autonomous mobile robots (AMRs) used in distribution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/",
+      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61696387164eb221966729d2%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/amp/",
+      "publishedDateTime": "2021-10-15T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-embrace-the-era-of-change-and-evolution-with-self-learning-ai.md",
+      "title": "Embrace The Era Of Change And Evolution With Self-Learning AI",
+      "excerpt": "AI has come a long way since its inception and has now evolved into its inevitable next form: self-learning AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ffbd688a933e24c37e9fe%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/amp/",
+      "publishedDateTime": "2021-10-15T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-five-steps-to-successfully-leverage-ai-in-your-business.md",
+      "title": "Five Steps To Successfully Leverage AI In Your Business",
+      "excerpt": "What exactly does the adoption of AI mean in concrete terms — for the management team, for an employee in a call center, for a doctor or for a research assistant?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611bc51ba8299062b3b9581b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/amp/",
+      "publishedDateTime": "2021-10-15T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-15-ai-and-maths-to-play-bigger-role-in-global-diplomacy-says-expert.md",
       "title": "AI and maths to play bigger role in global diplomacy, says expert",
       "excerpt": "Professor of negotiation and conflict management says recent advances mean techniques will be used more",
@@ -741,446 +1180,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-embark-says-it-has-14200-reservations-for-self-driving-truck-software-slated-for-launch-in-2024.md",
-      "title": "Embark Says It Has 14,200 Reservations For Self-Driving Truck Software, Slated For Launch In 2024",
-      "excerpt": "The reservations are non-binding, but they reflect a vote of confidence by a range of trucking fleets who want to deploy the Embark Driver software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greggardner/2021/10/14/embark-trucks-says-it-has-14200-reservations-for-its-self-driving-software-slated-for-launch-in-2024/amp/?__twitter_impression=true",
-      "originalUrl": "https://www.forbes.com/sites/greggardner/2021/10/14/embark-trucks-says-it-has-14200-reservations-for-its-self-driving-software-slated-for-launch-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61686cfd8870de0631994825%2F0x0.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-how-surveillance-capitalism-influenced-digital-slave-labour.md",
-      "title": "How Surveillance Capitalism Influenced Digital Slave Labour",
-      "excerpt": "I Cut the 'Big Five' Tech Giants from My Life” by Kashmir Hill Technology creates the very problems that technology solves. Sometimes we make the choice to bring technology into our lives, but sometimes it’s forced upon us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/how-surveillance-capitalism-influenced-digital-slave-ana-brant-silva",
-      "originalUrl": "https://www.linkedin.com/pulse/how-surveillance-capitalism-influenced-digital-slave-ana-brant-silva",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGoJprBjRAl5g/article-cover_image-shrink_600_2000/0/1634229682190?e=1640822400&v=beta&t=wTb-0cey0kHKTP6i8vUTVdqiw90Hehe18MODvg6HT10",
-          "width": 612,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-ai-paints-a-picasso-nude-just-like-pablo-did.md",
-      "title": "AI paints a Picasso nude, just like Pablo did",
-      "excerpt": "\"Lost\" Picasso nude comes out of hiding, thanks to artificial intelligence and 3D printing. Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
-      "originalUrl": "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg",
-          "width": 1454,
-          "height": 818,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
-      "publishedDateTime": "2021-10-14T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-facebook-captured-more-than-2000-hours-of-first-person-video-to-train-next-generation-ai.md",
-      "title": "Facebook captured more than 2,000 hours of first-person video to train next-generation A.I.",
-      "excerpt": "Facebook has announced a research project in which it collected 2,200 hours of first-person footage from around the world to train next-generation AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106951850-1633372902996-gettyimages-944799012-HOUSE_ZUCKERBERG.jpeg?v=1633372958",
-          "width": 5000,
-          "height": 3334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
-      "publishedDateTime": "2021-10-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-spice-ai-wants-to-help-developers-build-smarter-applications.md",
-      "title": "Spice AI wants to help developers build smarter applications",
-      "excerpt": "Spice AI, a Seattle-based startup that aims to make it significantly easier for developers to leverage AI in their applications, today announced that it has raised a $1 million seed funding round. That’s obviously not a huge round,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/",
-      "originalUrl": "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Spice-AI-Logo-with-bg-Dark.png",
-          "width": 750,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/amp/",
-      "publishedDateTime": "2021-10-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai.md",
-      "title": "‘Absolutely Not True’: Army CIO Answers Claim US Has Already Lost To China In AI",
-      "excerpt": "\"If you looked at both what we have in the Department of Defense and Intelligence Community, across the federal government and our industrial partners, we have the best AI technology,\" Army CIO Ray Iyer said.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2021/10/absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai/",
-      "originalUrl": "https://breakingdefense.com/2021/10/absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/10/211013_dvids_marines_red_computer-e1634157698679.jpg",
-          "width": 2169,
-          "height": 1220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2021/10/absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/10/absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai/amp/",
-      "publishedDateTime": "2021-10-14T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-building-better-startups-with-responsible-ai.md",
-      "title": "Building better startups with responsible AI",
-      "excerpt": "Tom Zick is a researcher in AI ethics at the Berkman Klein Center for Internet and Society at Harvard University, where she is also a J.D. candidate. She holds a Ph.D. from UC Berkeley and was ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/",
-      "originalUrl": "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1249853438.jpg?w=1024",
-          "width": 1024,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/",
-      "publishedDateTime": "2021-10-14T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it.md",
-      "title": "Making Sense Of Apple’s Self-Driving Car That Recently Struck A Curb In California And Owned Up To It",
-      "excerpt": "An Apple self-driving car on public tryouts struck a curb, raising some interesting aspects about the advent of driverless autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616756581f95e4c45012fd25%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2094%26cropY1%3D23%26cropY2%3D1644",
-          "width": 1200,
-          "height": 929,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/",
-      "publishedDateTime": "2021-10-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with-microsoft-google-ibm-aws.md",
-      "title": "AI in Fintech Market is Set To Fly High in Years to Come with Microsoft, Google, IBM, AWS",
-      "excerpt": "HTF MI introduce new research on AI in Fintech covering micro level of analysis by competitors and key business segments The AI in Fintech explores comprehensive study on various segments like opportunities size development innovation sales and overall growth of",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with",
-      "originalUrl": "https://www.openpr.com/news/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with",
-      "publishedDateTime": "2021-10-14T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

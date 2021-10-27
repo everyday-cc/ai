@@ -30,11 +30,11 @@ images:
 
 related:
   - title: "Microsoft Azure and Google Cloud results soar as the world goes digital"
-    excerpt: "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services ... Google Cloud’s artificial intelligence (AI), and data analytics prowess, Microsoft ..."
-    publishedDateTime: 2021-10-27T11:59:00Z
-    webUrl: "https://www.techradar.com/au/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
+    excerpt: "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services revenue. Similarly, Google Cloud revenues neared $5 billion thanks to a 45% jump,"
+    publishedDateTime: 2021-10-27T11:45:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
     type: article
     provider:
       name: TechRadar

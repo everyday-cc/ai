@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Discovering exoplanets using artificial intelligence"
+    excerpt: "By implementing artificial intelligence techniques similar to those used in autonomous cars, a team from the UNIGE and the UniBE, in partnership with the company Disaitek, has discovered a new method for detecting exoplanets."
+    publishedDateTime: 2021-10-27T13:46:00Z
+    webUrl: "https://phys.org/news/2021-10-exoplanets-artificial-intelligence.html"
+    ampWebUrl: "https://phys.org/news/2021-10-exoplanets-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-exoplanets-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/discovering-exoplanets.jpg"
+        width: 750
+        height: 329
+        isCached: true
 
 secured: "FjpNHrzePrsf7iK6rD/gGSYp/3UzBc1BcZCep5GEjUbwg/CS0P21h9aSPaytmIxYgxAq+JHhEtgTlReUfOubcH/JQgw3eguAPI8SWVvOghAuF8sXXwPT/oPgBzxxPK3c/Cw6Yn1u6UxanVDGJEdiEq3MBRAyYDxhI2sYUp2XJ8xduWrfNERgmXpEW8TuuT1R4c7lZbh7+XyuQze/n5MG0zEFRJzT7C/XLRUWO3mkg0AkfZC9EbVNWWukWf2Hpd8EOCSikIl7/xaekYNTjNMYD4tLVLFg/7yfVdAsFbQQDAw6gKAv0h5Pmq/Nk0+jgpMsolbjo54AB3nZuxstQBpCmARHTHag4YKr67yBqGNLVcA=;PBtUvIThqXVTB8enyq5Zag=="
 ---

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 828
         isCached: true
+  - title: "The 3 Principals of Building Anti-Bias AI"
+    excerpt: "Why your company needs to apply best practices in eliminating discriminatory bias in your artificial-intelligence systems -- and key principles in applying them."
+    publishedDateTime: 2021-10-27T13:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/389964"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1634674831-GettyImages-1173479069.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "How artificial intelligence is transforming the hiring process?"
     excerpt: "Artificial intelligence and machine learning, these two names are changing business practices and workplaces tremendously. Artificial intelligence can help business applications in many ways, like with AI businesses can understand their customers better with"
     publishedDateTime: 2021-10-25T11:18:00Z

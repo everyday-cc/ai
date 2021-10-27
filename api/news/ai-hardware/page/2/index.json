@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-10-12-supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to-accelerate-a-wide-range-of-ai-hpc-and-cloud-workloads.md",
-      "title": "Supermicro Expands GPU System Portfolio with Innovative New Servers to Accelerate a Wide Range of AI, HPC, and Cloud Workloads",
-      "excerpt": "These servers are designed for demanding AI applications where low latency and high application performance are essential. The 2U NVIDIA HGX™ A100 4-GPU system is suited for deploying modern AI training clusters at scale with high-speed CPU-GPU and GPU ...",
+      "path": "_news/2021-10-12-artificial-intelligence-stocks-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: Best AI Companies",
+      "excerpt": "Artificial intelligence (AI) can be the most prominent new industry in the 21st century. Artificial intelligence (AI), once the stuff of science fiction, is now a reality. Machine learning and neural networks are already being used daily by the finest artificial intellegence stocks to invest in.",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/10/12/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/10/12/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to",
+      "webUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
+      "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
-          "width": 400,
-          "height": 206,
+          "url": "https://techbullion.com/wp-content/uploads/2021/10/AI-Stocks.jpg",
+          "width": 700,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T06:10:00-07:00",
+      "ampWebUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
+      "publishedDateTime": "2021-10-12T07:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "Impacts",
+        "domain": "techbullion.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,7 +41,12 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "IBM AI",
+        "Facebook AI",
+        "AWS AI"
       ]
     },
     {

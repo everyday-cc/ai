@@ -144,18 +144,18 @@ related:
         height: 630
         isCached: true
   - title: "DFIN Partners with Hong Kong Fintech Week 2021 Global Fast Track; Spotlights Innovative Fintech Enterprises"
-    excerpt: "Donnelley Financial Solutions (NYSE: DFIN), a leading risk and compliance company, today announced its partnership with Hong Kong FinTech"
+    excerpt: "PRNewswire/ -- (NYSE: DFIN), a leading risk and compliance company, today announced its partnership with Hong Kong FinTech Week 2021 Global Fast"
     publishedDateTime: 2021-10-27T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dfin-partners-with-hong-kong-fintech-week-2021-global-fast-track-spotlights-innovative-fintech-enterprises-301409569.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dfin-partners-with-hong-kong-fintech-week-2021-global-fast-track-spotlights-innovative-fintech-enterprises/article_9778d072-c961-5f32-b684-c31007440cef.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 6
     images:
-      - url: "https://mma.prnewswire.com/media/1438448/Donnelley_Financial_Solutions_Logo.jpg?p=facebook"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/15/c1527f9e-e079-5ba3-86a9-c3336e776292/604f3b615021d.image.jpg?resize=750%2C406"
         width: 750
-        height: 393
+        height: 406
         isCached: true
 
 secured: "0dZjZ29MiNxN4m9tNW3awHPjbaf+7HE19FilveHxOc9y+Q0V50DQmKt+eO6a9d3ONMjvMt5aqm7pJIguTgCGn/BNGyTOu9vPlSgBTWWEOpyGahQdpb9SZE5VBG/p7V9DUTQfa6UgbTwHY2Nj3hcSuadENRI4ZE2csJ+7nAIooxvZQU69ePk//miBK/xo6V6CwCLl+X+2+IiI5MO1XI0YinJCuEspztkvYQaaWmzXqcznM+ls8ZsG58CcuOGB4oDVAmVXVUuuX+LUoAhH9KJ/3OEq23tuW2qU0M86efNK/rxzfdTUOXzOHv3v4i3pFnoHaOB2sA98DmIOQCWj5NvpvAqw44W7OD43BjBb5OkSD9O2rLzdx2OY+j3DCPnq18k6WtCcbiMv4YtpWnYW/sKMoPr8u6CVd0TJ6aFnTJIhNPGiFQ44arOO8TSuzOiCChaium77XYZNYB4uYrLnIo0VM08zOtYwI5nDj4VFjirQwdLX1pbFuTdWmHwHQhafmaQIdfrLY1CMViy7e3cd9FjK6A==;+iLz9zHuFtusb1sKDoERww=="

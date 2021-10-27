@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-03-amazons-controversial-vision-for-the-future-of-your-home-security.md",
+      "title": "Amazon's controversial vision for the future of your home security",
+      "excerpt": "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "originalUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-7cba5e0629bc8bec312c8080d57b8459-h-a9a0089212e086209aacfe9662e04615-1633212724.jpg?crop=1.00xw:0.752xh;0,0.188xh&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "publishedDateTime": "2021-10-02T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-02-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations.md",
+      "title": "Western Railways to install 2,729 cameras with face recognition system across 30 stations",
+      "excerpt": "Western Railways to install 2,729 cameras with face recognition system across 30 stations - These cameras have a tilt angle of 180 to 270 degrees that will help in 360 degrees of an area leaving no bl",
+      "sourceUrl": null,
+      "webUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767",
+      "originalUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/10/01/999016-camera.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp",
+      "cdnAmpWebUrl": "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp",
+      "publishedDateTime": "2021-10-01T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DNA India",
+        "domain": "dnaindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-an-army-pilot-just-re-invented-flight-training-for-the-digital-era.md",
       "title": "An Army Pilot Just Re-Invented Flight Training for the Digital Era",
       "excerpt": "Its video feeds a neural network that uses object recognition to read the indicators just as a human would. The network then deciphers how the pilot is performing. Pilots receive feedback through ...",
@@ -1319,110 +1406,6 @@
         "name": "The Bolton News",
         "domain": "theboltonnews.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-computer-vision-powered-workplace-safety-systems-could-lead-to-bias-and-other-harms.md",
-      "title": "Computer vision-powered workplace safety systems could lead to bias and other harms",
-      "excerpt": "AI-powered workplace safety systems that monitor for factory floor and fulfillment center hazards are potentially problematic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/21/computer-vision-powered-workplace-safety-systems-could-lead-to-bias-and-other-harms/",
-      "originalUrl": "https://venturebeat.com/2021/09/21/computer-vision-powered-workplace-safety-systems-could-lead-to-bias-and-other-harms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/shutterstock_1746068921.jpg?fit=800%2C544&strip=all",
-          "width": 800,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/21/computer-vision-powered-workplace-safety-systems-could-lead-to-bias-and-other-harms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/21/computer-vision-powered-workplace-safety-systems-could-lead-to-bias-and-other-harms/amp/",
-      "publishedDateTime": "2021-09-21T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-technology-is-a-double-edged-sword-in-the-face-of-repressive-regimes-opinion.md",
-      "title": "Technology is a Double-edged Sword in the Face of Repressive Regimes | Opinion",
-      "excerpt": "Tech companies must be willing to do all they can to prevent authoritarian regimes from accessing and using their services, even though what we see today is quite the opposite as the Taliban has full and easy access to Facebook,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225",
-      "originalUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1896900/people-hold-smartphones-their-hands.jpg",
-          "width": 3300,
-          "height": 2328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225?amp=1",
-      "publishedDateTime": "2021-09-21T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

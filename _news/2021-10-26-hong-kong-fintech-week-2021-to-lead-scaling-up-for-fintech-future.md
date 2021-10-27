@@ -144,18 +144,18 @@ related:
         height: 630
         isCached: true
   - title: "DFIN Partners with Hong Kong Fintech Week 2021 Global Fast Track; Spotlights Innovative Fintech Enterprises"
-    excerpt: "Donnelley Financial Solutions (NYSE: DFIN), a leading risk and compliance company, today announced its partnership with Hong Kong FinTech"
+    excerpt: "PRNewswire/ -- (NYSE: DFIN), a leading risk and compliance company, today announced its partnership with Hong Kong FinTech Week 2021 Global Fast"
     publishedDateTime: 2021-10-27T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dfin-partners-with-hong-kong-fintech-week-2021-global-fast-track-spotlights-innovative-fintech-enterprises-301409569.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dfin-partners-with-hong-kong-fintech-week-2021-global-fast-track-spotlights-innovative-fintech-enterprises/article_9778d072-c961-5f32-b684-c31007440cef.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 6
     images:
-      - url: "https://mma.prnewswire.com/media/1438448/Donnelley_Financial_Solutions_Logo.jpg?p=facebook"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/15/c1527f9e-e079-5ba3-86a9-c3336e776292/604f3b615021d.image.jpg?resize=750%2C406"
         width: 750
-        height: 393
+        height: 406
         isCached: true
 
 secured: "hKU4PX3mbWaK85IZ8QJQqpoHQGE7Lxlb+rWCob6v0kMksuEJz/OSwGgcAQoDqZoVrJZDsV3DhBAtuWax4IZDmhvlHvLe386ZpypCOig5Q+kfA5uK5mu958gJzcRyaYcKlB4VIyTZLD4oZUWga4ojzhqKzvgsA9gNfHjI+4M9i4ZcfYwnFYc24ChK857kTjwE9soM7f1a8TjgY3cuHNQjpVpDbuG3CWiGs3TCYKB7s83FTBLE4jY3NG56OFRDrzOdZfcziRzd95VkbOdVdPIoZF9WS2MhgB7AxxDyMYjaxwN0klXChT5TFLN9jErHGdtypJqracfdJ7k3yh274hc5DN2sEwV4vdc6v6J8vqJxVVWSWchgcIHH3C0gYkFVtjBrv0xkqDQtaWi8Kh6dIVJj2QSQCmf5q4dn4y4CXSFLoxvG1HG/mUeSr33r2NjtO0Keq+FQ6cJkGnKAc3jzwUsutc6wXCRm0v8cGFVi2rQqq+/pzVUrvSbDXngm2/IVt748vZaQ0wV4um1B7lFCWP+tJw==;CzNAUzO9w5Z0+Yvjl0ch5Q=="

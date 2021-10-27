@@ -2,12 +2,401 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-27-unpacking-ai-and-key-drivers-for-modern-business-environments.md",
+      "title": "Unpacking AI And Key Drivers For Modern Business Environments",
+      "excerpt": "C-level business leaders such as chief information officers, chief technology officers and chief financial officers must strive to understand that. How quickly the adoption, efficiency and efficacy of these technologies work depends on the approach and blueprint that are developed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/amp/",
+      "publishedDateTime": "2021-10-27T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality.md",
+      "title": "This Automotive Company Revs Up Machine Learning To Turbocharge Engine Quality",
+      "excerpt": "With help from SAP, Mumbai-based MHEL replaced its outmoded physical engine testing with virtual testing – using artificial intelligence and machine learning while incorporating data from a variety of sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61794ae90933a60c23050fb1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/amp/",
+      "publishedDateTime": "2021-10-27T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport.md",
+      "title": "First Look: Delta, TSA Launch Facial Recognition At Atlanta Airport",
+      "excerpt": "The next step in airport automation has become a reality, just in time for the holidays. Delta Airlines, the Transportation Security Administration (TSA), and a travel tech company called Pangiam have partnered up to bring facial recognition technology to the Hartsfield–Jackson Atlanta International Airport (ATL).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6179439eb80f6c3c90620ec3%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/",
+      "publishedDateTime": "2021-10-27T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-how-humans-in-the-loop-ai-can-help-solve-the-data-problem.md",
+      "title": "How Humans-In-The-Loop AI Can Help Solve The Data Problem",
+      "excerpt": "Humans-in-the-loop AI is a niche wherein AI and ML systems are built with human interference at different stages of the cycle, whenever it’s necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61780ffa6b3df3f9956729d6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/amp/",
+      "publishedDateTime": "2021-10-27T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-top-indian-robotics-start-ups-that-have-gained-funding-in-2021.md",
+      "title": "Top Indian Robotics Start-ups that have Gained Funding in 2021",
+      "excerpt": "India has been evolving as the biggest start-ups ecosystem. In which robotics start-ups have a great visible space. Let’s know more about the Indian robotics start-ups funding in 2021 in this article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/",
+      "originalUrl": "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-Indian-Robotics-Startups-that-have-Gained-Funding-in-2021.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads.md",
+      "title": "Dubai to soon have regulation to pave way for driverless cars on roads",
+      "excerpt": "Dubai: Dubai expects in 2022 to complete the regulation needed to allow self-driving cars on the roads by 2023, a senior official said on Wednesday. Ahmed Hashim Bahrozyan, CEO of the Public Transport Agency of Dubai’s Roads and Transport Authority (RTA) told reporters: “We are quite fast compared to other cities in issuing the regulation [to govern self-driving cars on the roads].",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
+      "originalUrl": "https://gulfnews.com/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2021/10/27/neolix-driverless-delivery-car-rta-2021-challenge-winner-1635335845846_17cc19cb7f4_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
+      "publishedDateTime": "2021-10-27T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-airlines-turn-to-facial-recognition-technology-ahead-of-holiday-rush.md",
+      "title": "Airlines turn to facial recognition technology ahead of holiday rush",
+      "excerpt": "The travel industry is gearing up for what could be its since the coronavirus pandemic began, and at least one U.S. airline is aiming to make things easier and faster.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460",
+      "originalUrl": "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/delta-airlines-biometric-boarding-01-ht-llr-211026_1635280415660_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460",
+      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460",
+      "publishedDateTime": "2021-10-27T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-google-tensor-gets-crushed-by-apple-a15-in-machine-learning-despite-being-a-ml-centric-chip.md",
+      "title": "Google Tensor gets crushed by Apple A15 in machine learning despite being a ML-centric chip",
+      "excerpt": "The Google Tensor processor is supposed be all about machine learning but it got crushed by the Apple A15 Bionic in the Geekbench ML app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/10/27/google-tensor-gets-crushed-by-apple-a15-in-machine-learning/",
+      "originalUrl": "https://www.gizmochina.com/2021/10/27/google-tensor-gets-crushed-by-apple-a15-in-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/10/google-tensor-featured.png",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital.md",
       "title": "Microsoft Azure and Google Cloud results soar as the world goes digital",
-      "excerpt": "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services ... Google Cloud’s artificial intelligence (AI), and data analytics prowess, Microsoft ...",
+      "excerpt": "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services revenue. Similarly, Google Cloud revenues neared $5 billion thanks to a 45% jump,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital",
-      "originalUrl": "https://www.techradar.com/au/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital",
+      "webUrl": "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/",
+      "originalUrl": "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/",
       "featuredContent": null,
       "highlight": null,
       "heat": 194,
@@ -24,9 +413,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital",
-      "publishedDateTime": "2021-10-27T04:59:00-07:00",
+      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital",
+      "publishedDateTime": "2021-10-27T04:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -337,49 +726,6 @@
       "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo124680261894",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124680261894",
       "publishedDateTime": "2021-10-26T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-how-facial-recognition-will-change-the-way-you-travel.md",
-      "title": "How facial recognition will change the way you travel",
-      "excerpt": "Delta Air Lines and the TSA are rolling out facial recognition software at Atlanta’s Hartsfield–Jackson International Airport. NBC News’ Tom Costello takes us there for a closer look at what fliers can expect as the technology will soon be in airports across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/how-facial-recognition-will-change-the-way-you-travel-124677189642",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/how-facial-recognition-will-change-the-way-you-travel-124677189642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/1635289423930_nn_tco_tfot_facial_recognition_211026_1920x1080-9bwbc6.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo124677189642",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124677189642",
-      "publishedDateTime": "2021-10-26T16:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -896,352 +1242,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-how-machine-learning-speeds-up-power-bi-reports.md",
-      "title": "How machine learning speeds up Power BI reports",
-      "excerpt": "Machine learning delivers insights in Power BI reports—and it enables you to get a large amount of data into your reports to generate those insights more quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-machine-learning-speeds-up-power-bi-reports/",
-      "originalUrl": "https://www.techrepublic.com/article/how-machine-learning-speeds-up-power-bi-reports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/26/474c6c29-95d0-40b3-858b-07d93a25467f/resize/1200x/d5131a4c50e74c49613e984987cbbda4/shutterstock-1062915260.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
-      "publishedDateTime": "2021-10-26T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read.md",
-      "title": "How Instoried Is Using AI To Turn Your Content Into Something People Actually Want To Read",
-      "excerpt": "Enter Instoried, which is today announcing the completion of an $8m funding round as it launches its content enhancement platform in the US. Powered by artificial intelligence (AI), Instoried provides instant feedback on the written content created by businesses and individuals,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61782f4d6dade68bd54813b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2175%26cropY1%3D339%26cropY2%3D1562",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/",
-      "publishedDateTime": "2021-10-26T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-icaif21-showcases-how-artificial-intelligence-is-transforming-finance.md",
-      "title": "ICAIF'21 Showcases How Artificial Intelligence Is Transforming Finance",
-      "excerpt": "ACM, the Association for Computing Machinery, will hold the 2nd ACM International Conference on AI in Finance (ICAIF'21), virtually from November 3-5, 2021. More than 950 people registered for the inaugural conference,",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103049537/ICAIF21-Showcases-How-Artificial-Intelligence-Is-Transforming-Finance",
-      "originalUrl": "https://menafn.com/1103049537/ICAIF21-Showcases-How-Artificial-Intelligence-Is-Transforming-Finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/banners/b45ebf54-a.png",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-new-vmware-cto-kit-colbert-steers-the-company-towards-saas.md",
-      "title": "New VMware CTO Kit Colbert Steers The Company Towards SaaS",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as there is a new Chief Technology Officer at VMware. Kit Colbert is thirty days into the role after eighteen years at VMware, where he started as an intern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/10/26/new-vmware-cto-kit-colbert-steers-the-company-towards-saas/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/10/26/new-vmware-cto-kit-colbert-steers-the-company-towards-saas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6178290016c39f3f2afc3336%2F0x0.jpg",
-          "width": 964,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/10/26/new-vmware-cto-kit-colbert-steers-the-company-towards-saas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/10/26/new-vmware-cto-kit-colbert-steers-the-company-towards-saas/amp/",
-      "publishedDateTime": "2021-10-26T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-artificial-intelligence-models-predict-how-the-brain-processes-language.md",
-      "title": "Artificial Intelligence Models Predict How the Brain Processes Language",
-      "excerpt": "Neuroscientists find the internal workings of next-word prediction models resemble those of language-processing centers in the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/bilingualism-and-cognitive-function.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
-      "publishedDateTime": "2021-10-26T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers.md",
-      "title": "Why Many People Are Turning Toward Robots And AI To Help Support Their Mental Health And Careers",
-      "excerpt": "I interviewed Yvette Cameron, Oracle Cloud HCM senior vice-president, to learn more about how technology, artificial intelligence and robots can help workers with their mental health matters and careers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61781b53d924acaeb26729d0%2F0x0.jpg",
-          "width": 1087,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/amp/",
-      "publishedDateTime": "2021-10-26T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-qualcomm-unveils-latest-mobile-chips-for-mid-range-and-budget-devices.md",
-      "title": "Qualcomm unveils latest mobile chips for mid-range and budget devices",
-      "excerpt": "Qualcomm has added four new Snapdragon mobile chips to its portfolio for both 4G and 5G-capable handsets at varying budget ranges. The Snapdragon 778G Plus 5G, 695 5G, 480 Plus 5G, and 680 4G chips are now official,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
-      "originalUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1635255685/itpro/Qualcomm_Snapdragon_Refresh_Oct_2021.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
-      "publishedDateTime": "2021-10-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

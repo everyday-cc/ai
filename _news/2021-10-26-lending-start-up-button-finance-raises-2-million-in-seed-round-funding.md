@@ -7,8 +7,8 @@ originalUrl: "https://www.mpamag.com/us/news/general/lending-start-up-button-fin
 webUrl: "https://www.mpamag.com/us/news/general/lending-start-up-button-finance-raises-2-million-in-seed-round-funding/314324"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mortgage
@@ -25,29 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Plask, Whose AI-Based Tech Converts Video Into Animation, Raises $2.6M"
-    excerpt: "South Korean tech startup Plask has raised US$2.56 million in pre-Series A funding, as it prepares to bring its automated animation tool to the market. The technology eliminates the necessity for motion capture by creating animation directly from video motion."
-    publishedDateTime: 2021-10-26T19:39:00Z
-    webUrl: "https://www.cartoonbrew.com/tech/plask-whose-ai-based-tech-converts-video-into-animation-raises-2-6m-210087.html"
+  - title: "Top Indian Robotics Start-ups that have Gained Funding in 2021"
+    excerpt: "India has been evolving as the biggest start-ups ecosystem. In which robotics start-ups have a great visible space. Let’s know more about the Indian robotics start-ups funding in 2021 in this article."
+    publishedDateTime: 2021-10-27T12:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/"
     type: article
     provider:
-      name: Cartoon Brew
-      domain: cartoonbrew.com
-    quality: 37
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 69
     images:
-      - url: "http://www.cartoonbrew.com/wp-content/uploads/2021/10/plask.jpg"
-        width: 1280
-        height: 600
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-Indian-Robotics-Startups-that-have-Gained-Funding-in-2021.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "Data-as-a-Service Startup QoreNext Closes Seed Funding Round, Backed by Wavemaker Partners"
-    excerpt: "QoreNext, a Data-as-a-Service (DaaS) provider for the enterprise B2B market, has raised US$1.5 million in seed funding from Wavemaker Partners, one of Southeast Asia’s leading venture capital firms. Previously,"
-    publishedDateTime: 2021-10-26T04:00:00Z
-    webUrl: "https://www.financialbuzz.com/data-as-a-service-startup-qorenext-closes-seed-funding-round-backed-by-wavemaker-partners/"
+  - title: "Analytics Insight features top machine learning master’s degree courses in India for students"
+    excerpt: "This article outlines the top machine learning Master’s Degree courses in India for students who are interested in machine learning in India. Click here for Master’s degree courses like Master of Science in Machine Learning."
+    publishedDateTime: 2021-10-27T11:00:00Z
+    webUrl: "https://www.analyticsinsight.net/learn-more-top-machine-learning-masters-degree-courses-in-india/"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 28
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Learn-More-top-machine-learning-masters-degree-courses-in-india.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "/WK+g5bEybX2HuOJ0MGTq5x5cqL5JO5pNCfhRSrBiS1HZ6zSaJ3wHHvywza5m4Om3FTsLHnaq+tQj7H7MzLnDjU/lMM1Qu0klN/v4vzCjw5pQHJFxtpQX6qz0KI522v0LnDxDv6USe0GXhlM7R74dsU8Tibfw8t2kBf4fPW0/hOeBrYoz542jyTWk9l9Oi2qFbLMCsAFlcRvJTAWrVVJ7BQOiWxtF4E/18vNDrMipLz0cPwJbqmr//iDqsWdynP/DgmV0+M5pitXvx6mxBX40ekB+nj6SRu6tqZxGKyd8qAWtFsmkpME8SAYNXVe7v3G87zhg4JLwUuVDHteK0qkpdm0AdvhrLm1mXVWHd45M1y0YzOaYMZzqf7WkoYEX2rZ/BI6yyhE1Tdqt9jZAftaLDCDvnCZXP+IdeS8cDPc1DqKyEkpXf1OX8JktavImMSTv6yqkfWyhTMky2NhCGIspebzknud9p6ezPVJ1j+Yh2oWodctfD7hZQMUtV/RQ8m6imXgoDGcnPtxb6uFKjAALg==;roh8ySwrPQKiH0BiBFHffg=="
 ---

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market is Expected to Grow at an Impressive Rate and Touch USD 3,123 Million in 2019"
-    excerpt: "Facial Recognition Market was accounted at USD 3,123 Million in 2019 and is expected to grow at a CAGR of 16.7% during forecast period. As per the in"
-    publishedDateTime: 2021-10-22T19:43:00Z
-    webUrl: "https://menafn.com/1103024341/Facial-Recognition-Market-is-Expected-to-Grow-at-an-Impressive-Rate-and-Touch-USD-3123-Million-in-2019"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?752759"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Computer Vision Market Size and Forecast 2028 | Key Companies – Cognex, Basler, Omron, Keyence, National Instruments, Sony"
     excerpt: "Computer Vision Market size was valued at USD 14.82 Billion in 2020 and is projected to reach USD 27.02 Billion by 2028, growing at a CAGR of 7.8% from 2021 to 2028. Get | Download Sample Copy with TOC,"
     publishedDateTime: 2021-10-24T12:19:00Z

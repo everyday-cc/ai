@@ -1,27 +1,27 @@
 ---
 category: news
 title: "DFIN Partners with Hong Kong Fintech Week 2021 Global Fast Track; Spotlights Innovative Fintech Enterprises"
-excerpt: "Donnelley Financial Solutions (NYSE: DFIN), a leading risk and compliance company, today announced its partnership with Hong Kong FinTech"
+excerpt: "PRNewswire/ -- (NYSE: DFIN), a leading risk and compliance company, today announced its partnership with Hong Kong FinTech Week 2021 Global Fast"
 publishedDateTime: 2021-10-27T11:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dfin-partners-with-hong-kong-fintech-week-2021-global-fast-track-spotlights-innovative-fintech-enterprises-301409569.html"
-webUrl: "https://www.prnewswire.com/news-releases/dfin-partners-with-hong-kong-fintech-week-2021-global-fast-track-spotlights-innovative-fintech-enterprises-301409569.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dfin-partners-with-hong-kong-fintech-week-2021-global-fast-track-spotlights-innovative-fintech-enterprises/article_9778d072-c961-5f32-b684-c31007440cef.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dfin-partners-with-hong-kong-fintech-week-2021-global-fast-track-spotlights-innovative-fintech-enterprises/article_9778d072-c961-5f32-b684-c31007440cef.html"
 type: article
 quality: 6
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1438448/Donnelley_Financial_Solutions_Logo.jpg?p=facebook"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/15/c1527f9e-e079-5ba3-86a9-c3336e776292/604f3b615021d.image.jpg?resize=750%2C406"
     width: 750
-    height: 393
+    height: 406
     isCached: true
 
 related:
@@ -158,6 +158,6 @@ related:
         height: 630
         isCached: true
 
-secured: "57Serlmh8FXdex4bLTWcZrOia6bB4lb7sGmeAacMLX1lwHmjkYyPL7wlj7frtT+x4Pokzx2KDPeuiax5CevldSyT1a40x4ykA/GYT+vpX3ug2zL//ryqFoyIHhynJi0NmoaAFN9oxiANPXyBN8ISvHZWgwwj54NknM4tvCDd0PeQD9JA2QcLxV/H2I9RBKBiX2Aatw1zpuPudbIncDMbVaIGMYzu7KkAZSbBm7nXvaRMpoOHGIc2P6naQrSoGCjb7oQyJdWWJL0OFm7PrP2Fpw4UhPHubwScNwYBmUzDXUZefEJksA/ncf5Xsrq5xeoYNif56Aosm3OJkWSzmENLU6E/AUcUHmd47zPD9PGfiV4=;tKNWGkWurBwEinHWYk5oog=="
+secured: "wGCttG4wEm4FgAqITzmViO5tGXw02Eozy1tJgu/LVwp9Zjl2LTtYPa359BNfXHD8AcR6NCjyfFi+aqf6KT5yV9uBNGId+bhrjky5fjSTgWxdppHDnPhqpYuTg5Ug9YyvSvp4u2SqV7YcyAjO9A8Clr1yADH76IKgBrzB/Nc+bdeR0IaQojL66Md5yYKAb6mlrgZd/jxCTHR8SF97L+YxybbUbXFlPxHlRSlP5o9HxBa+8sYtouDaYzGeFOG4n9h5b/N9eOopDvz0X0AnbLhgVoyAEKAo2F+svqv0d6mWsy2c4pgMDD2jbngoaoFtAIA6DeeGISYFAi5QcrEz0Cl6STOStAUo/ZB0BvYcHyrxnok=;HfdqoO9w0919vNYzZvr2wA=="
 ---
 
