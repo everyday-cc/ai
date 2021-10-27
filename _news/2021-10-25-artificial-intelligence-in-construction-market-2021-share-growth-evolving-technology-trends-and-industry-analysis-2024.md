@@ -54,7 +54,7 @@ related:
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/the-ethics-of-artifici.jpg"
         width: 1280

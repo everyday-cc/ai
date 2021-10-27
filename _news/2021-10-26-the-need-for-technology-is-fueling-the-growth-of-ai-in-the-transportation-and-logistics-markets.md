@@ -93,6 +93,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Edge AI accelerators are just sand without future-ready software"
+    excerpt: "Unlike GPUs, which have established programming models and software toolchains, AI processors are confronted with lack in software support."
+    publishedDateTime: 2021-10-27T15:45:00Z
+    webUrl: "https://www.edn.com/edge-ai-accelerators-are-just-sand-without-future-ready-software/"
+    type: article
+    provider:
+      name: EDN
+      domain: edn.com
+    quality: 19
 
 secured: "tgwVpCnkEQJyzuAFwd6W8Kl0iNZXMW0uyvuwVKYesAiXFXJlQzllZyh1UDWP7O2OgqiWqGNAXEQuCaupFMf2V8ftdUB2USgFltFV7lrMz9BklseImzAXwT5DWiWY28aw9LMq5zAlrp7+1jXRsrFSQbCMedE7nhGiBM3SQsH3oVUIf39+jaxxrGQpWtJd63F5n9viXa6I0sy1LwFVIsIcRaFPV5cOHcdn3MBIfBGd05XeFy3XkymryQekETxkdHEuJ7AkEtVyZ1mvvILo0xLGFOXaao1qyUtEIirdBrBo/5ePRUIv71qqTvZAlqoJQ/uzvr2UPvfS2AqzQAKrhPS2qC7soefMSZDZC2o+I09NQFw=;g8PDPpq684qDUNtBjeL7MA=="
 ---

@@ -59,17 +59,33 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Delta launching facial recognition tech trial at Atlanta airport"
-    excerpt: "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate."
-    publishedDateTime: 2021-10-27T12:31:00Z
-    webUrl: "https://www.knoe.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/"
+  - title: "Delta rolls out facial recognition-enabled TSA checkpoint at Atlanta terminal"
+    excerpt: "Delta Airlines is rolling out a new way to get through TSA at their terminal in Atlanta -- and it has to do with your face."
+    publishedDateTime: 2021-10-27T14:02:00Z
+    webUrl: "https://www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/"
+    ampWebUrl: "https://www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/?outputType=amp"
     type: article
     provider:
-      name: KNOE
-      domain: knoe.com
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 56
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/RKFR7CYDMBGOHNKBPSOVCBZXD4.jpg"
+        width: 5400
+        height: 3038
+        isCached: true
+  - title: "Delta launching facial recognition tech trial at Atlanta airport"
+    excerpt: "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate."
+    publishedDateTime: 2021-10-27T11:31:00Z
+    webUrl: "https://www.cleveland19.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/?outputType=apps"
+    type: article
+    provider:
+      name: 19 Action News
+      domain: cleveland19.com
     quality: 54
     images:
-      - url: "https://gray-knoe-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
+      - url: "https://gray-woio-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
         width: 980
         height: 551
         isCached: true

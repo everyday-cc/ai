@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-26T00:14:00Z
 originalUrl: "https://www.techopedia.com/best-artificial-intelligence-learning-resources-online-in-2021/2/34566"
 webUrl: "https://www.techopedia.com/best-artificial-intelligence-learning-resources-online-in-2021/2/34566"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://images.techopedia.com/images/uploads/artificial-intelligence-learning-resources.jpg"

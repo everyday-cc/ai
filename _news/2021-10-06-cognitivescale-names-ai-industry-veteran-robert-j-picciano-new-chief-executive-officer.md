@@ -1,20 +1,26 @@
 ---
 category: news
 title: "CognitiveScale Names AI Industry Veteran Robert J. Picciano New Chief Executive Officer"
-excerpt: "Investors include Norwest Venture Partners, Intel Capital, M12 (Microsoft Ventures), IBM Corporation ... sales and marketing for IBM's Cognitive Systems portfolio, including IBM's multi-billion ..."
-publishedDateTime: 2021-10-06T14:32:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54132054-cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54132054-cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer-200.htm"
+excerpt: "Investors include Norwest Venture Partners, Intel Capital, M12 (Microsoft Ventures), IBM Corporation ... sales and marketing for IBM’s Cognitive Systems portfolio, including IBM’s multi ..."
+publishedDateTime: 2021-10-06T13:09:00Z
+originalUrl: "https://www.digitaljournal.com/pr/cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer"
+webUrl: "https://www.digitaljournal.com/pr/cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "2DLVi2ZsvIumnjH4ufTX5Sn8tvTtFEREPx+90UB0Az7H+yew9GR1Xdkn+adc/zsEoXOwNHR2Jq9qwuesf4CnZYk9IAqd7JvbBCM9eqPBvGaRULXoiAza01eXak0IbF4E44cHJKHMfQNvQtAQh/U0jg9WeZJF72ea0LkSZceRlAsstwfSov85gho5yjXKVkO7oMmm7M2rhcOtYxo4cCLLWxxPe9LvapceVwHyuUIfoSdHVYa0GjH3L6s+Mr7j5gH0qFG2IKNbsQyYIvAl6ZZptDKRPSXJNh0a4wfZT/HSJOR9OdR98qMPAnWrAAO4MzoTP7R6bRJJqHuY0GfI11Oc8cJJPqD8Vz4D4t6R5bsb3Fs=;TJBafHfS7JbSzIuUZ06iAg=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/25101d9c67bcfd9c900922678552493eb1c32a42-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "CfhCfko5ha2Eo56H+OxrIWWW3G3U9MCRxUnPkh8unTT6TlmmsJWKoeJLj9AvOWFBX4E+qYeeby0tYzylS66Uc3JPfSyKTkrKRtqGtApcX0vzBqQK44bE9ois7Ok0W5ZEcOTil8M0oWiC3mCBZ8VJHttJwJ2ElrIdWP1Dh3S9ukz3NEWOn+KpaXFU8Fjsx3v0CUpmOcRTcdiENKlc56ZhlEJAoTTxtPgQFI9Q2Bn2aeP6lxNNEyq3XCtdn1Xq/z/ttaL/xrhE9OwigsckdEUbWkAjHwgHdZN5X5I+0R5vDaY3SvWJXqYLtRCqptvRbR2qmUxsgC/ILKbdSsJNRX3NzjoAQLypWFBPp0YubwT72Tg=;X7sWWM6k4IQ51kEcXcBD/w=="
 ---
 

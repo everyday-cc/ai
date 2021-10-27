@@ -21,51 +21,116 @@ topics:
   - AI
 
 related:
-  - title: "Airlines turn to facial recognition technology ahead of holiday rush"
-    excerpt: "The travel industry is gearing up for what could be its since the coronavirus pandemic began, and at least one U.S. airline is aiming to make things easier and faster."
-    publishedDateTime: 2021-10-27T12:01:00Z
-    webUrl: "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460"
-    ampWebUrl: "https://goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
+  - title: "Schools put the brakes on facial recognition scheme for kids buying lunch"
+    excerpt: "Schools in the United Kingdom have paused the rollout of facial recognition scans in cafeterias following backlash from data watchdogs and privacy advocates. Last week, the Information Commissioner's Office (ICO),"
+    publishedDateTime: 2021-10-26T08:21:00Z
+    webUrl: "https://www.zdnet.com/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 74
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
+  - title: "Python Implementation of Viola Jones Algorithm for Face Recognition"
+    excerpt: "Python Implementation of Viola Jones Algorithm for Face Recognition. Training and Testing Data. The following algorithm takes people's images wit"
+    publishedDateTime: 2021-10-24T01:05:00Z
+    webUrl: "https://github.com/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
     images:
-      - url: "https://s.abcnews.com/images/GMA/delta-airlines-biometric-boarding-01-ht-llr-211026_1635280415660_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://opengraph.githubassets.com/010282d091366f58b1a4873b08253d904238403e8a8d25765c68929f0568e063/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Patient Privacy Concerns Emerge Over Facial Recognition Tech"
-    excerpt: "Surveyed patients expressed concerns over data governance, usage, and patient privacy relating to facial recognition technology being used in medical research."
-    publishedDateTime: 2021-10-25T17:00:00Z
-    webUrl: "https://healthitsecurity.com/news/patient-privacy-concerns-emerge-over-facial-recognition-tech"
-    ampWebUrl: "https://healthitsecurity.com/news/amp/patient-privacy-concerns-emerge-over-facial-recognition-tech"
-    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/patient-privacy-concerns-emerge-over-facial-recognition-tech"
+  - title: "Is facial recognition appropriate for school canteens?"
+    excerpt: "Facial recognition raised its head again last week as a number of schools in Scotland rolled out the technology in their canteens. The announcement that nine schools in Ayrshire were to employ facial"
+    publishedDateTime: 2021-10-25T06:33:00Z
+    webUrl: "https://www.linkedin.com/pulse/facial-recognition-appropriate-school-canteens-alistair-enser"
     type: article
     provider:
-      name: IT Security
-      domain: healthitsecurity.com
-    quality: 59
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
     images:
-      - url: "https://healthitsecurity.com/images/sized/GettyImages-991470640-39a26234983c4eca9381530cb872a66d.jpg"
-        width: 480
-        height: 278
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGwzFqEx3fiVA/article-cover_image-shrink_720_1280/0/1635095068055?e=1640822400&v=beta&t=ts7p278yn7xjuta3CM6OzyQnaaL0keCZGtm7TLUVsms"
+        width: 1280
+        height: 686
         isCached: true
-  - title: "Facial recognition technologies already used in 11 EU countries and counting, report says"
-    excerpt: "Law enforcement authorities in 11 European countries are already using biometric recognition systems in their investigations and eight more are to follow, a new study points out,"
-    publishedDateTime: 2021-10-26T07:45:00Z
-    webUrl: "https://www.euractiv.com/section/data-protection/news/facial-recognition-technologies-already-used-in-11-eu-countries-and-counting-report-says/"
+  - title: "Schools suspend use of facial recognition after backlash"
+    excerpt: "The Information Commissioner's Office wants organisations to consider a 'less intrusive' approach where possible"
+    publishedDateTime: 2021-10-27T06:41:00Z
+    webUrl: "https://www.computing.co.uk/news/4039273/schools-suspend-facial-recognition-backlash"
     type: article
     provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 30
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
     images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/FR-2-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.computing.co.uk/api/v1/wps/691e627/cd75934c-215f-493a-b2df-1015f2f48059/6/School-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "North Ayrshire Council to pause the use of facial recognition tech in schools"
+    excerpt: "Nine schools in North Ayrshire that had introduced facial recognition technology for school lunches have decided to pause it. Indeed, the schools were using the system so that pupils could pay for their lunch with limited physical contact."
+    publishedDateTime: 2021-10-26T09:28:00Z
+    webUrl: "https://www.softwaretestingnews.co.uk/north-ayrshire-council-to-pause-the-use-of-facial-recognition-tech-in-schools/"
+    type: article
+    provider:
+      name: softwaretestingnews.co.uk
+      domain: softwaretestingnews.co.uk
+    quality: 36
+    images:
+      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Council suspends facial recognition software scheme in school canteens that scanned pupils faces as they bought lunch over privacy concerns"
+    excerpt: "Nine schools in North Ayrshire in Scotland became the first in the UK to start using the system on a long-term basis last week after a pilot project in Gateshead last year."
+    publishedDateTime: 2021-10-26T14:44:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10132529/Council-suspends-facial-recognition-software-scheme-school-canteens.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10132529/amp/Council-suspends-facial-recognition-software-scheme-school-canteens.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10132529/amp/Council-suspends-facial-recognition-software-scheme-school-canteens.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 25
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/26/15/49659575-0-image-a-335_1635258544801.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Facial-recognition system for school meals halted over privacy fears"
+    excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
+    publishedDateTime: 2021-10-25T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/school-meals-facial-recognition-system-halted-over-privacy-fears-jkhtd295h"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F739d7170-35b2-11ec-8ef4-8e6db1a4b82a.jpg?crop=3144%2C1769%2C0%2C164&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "School meals facial-recognition system halted over privacy fears"
+    excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
+    publishedDateTime: 2021-10-25T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/school-meals-facial-recognition-system-halted-over-privacy-fears-jkhtd295h"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F739d7170-35b2-11ec-8ef4-8e6db1a4b82a.jpg?crop=3144%2C1769%2C0%2C164&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "9OuQIzYeX/cMW1yhdNuKR618P6uX8djXops1LNGOzENWX0XNslTfOO3i8w3drNDL3WaDnmznNk/JCkDujlIWTsITqgZC9vlt/gTVFqWAKITy7AiLnXGlY8bjjakD2SmpOSUseL6vYN6CkXrForv+1qxVrGx1p6+bCuqohmjsMHcnXLgXAkXASu4qEZoIjdH1cAZ2OQEZlu7HDXpfjuo+HVFjORlGSeKVKAh4oDL0Ti1UJRz/GsOgcMj/yAoIOtSRxmyYlfkHBRRdZvAHCOCjRVVsi2dRqw//ZbtpKs/28I0Dlkcs2JZ+DZqGe1mPLDMqX27iCgYaM2Yn+8+BCownRX6toktn8aB8L79lzvHvBdI=;vsZ+DtHWJmE1x261ATQgqQ=="

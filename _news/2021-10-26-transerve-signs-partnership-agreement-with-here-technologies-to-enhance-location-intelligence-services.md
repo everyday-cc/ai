@@ -23,6 +23,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Leading Transportation Experts Join New Aurora Industry Advisory Council to Advance Self-Driving Technology"
+    excerpt: "Self-driving company Aurora announced the launch of its Industry Advisory Council, a group of advisors made up of transportation and logistics visionaries, academics, and government leaders. With decades of collective experience across trucking,"
+    publishedDateTime: 2021-10-26T16:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-leading-transportation-experts-jo-new-aurora-industry-advisory-/2021/10/26/9477888.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "mX53cFY3wyuMQTAMxshqogPAtyBmO6z4s6L9mQBy3dBR07Es3egLK4Ot/6jSPt8gqqyjT1bMLN4Y59YCmaOjsU4m7jsholxE9/IKSz49DMndjM3pL/yqnSOW1J78qXhgP/38KvEhGDuDQQBi1rC9cNS3YQXcT//UH+hmugH1kyeR7T2vDvaYYtrH2VE9JoqQiM7tJ3TyORX/+BOqj6OUB9zpcQQJVxdU29kACB3LrsWBrIuJImvq8pi6Kxb0R75vmU1pNyWfXSyt6ksZ3ay0tVxE0P2Y7/kwstNuRWtxxf3u8zjeh4lo2shBNFpXbR2QaIOxzU6MqOeO2I8RJS9ku6hvNL/fgBcevTq8wdOL3RY=;kI+h4V189W07jdu3FaED2g=="
 ---
 

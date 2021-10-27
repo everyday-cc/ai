@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innova
 webUrl: "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -99,6 +99,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Edge AI accelerators are just sand without future-ready software"
+    excerpt: "Unlike GPUs, which have established programming models and software toolchains, AI processors are confronted with lack in software support."
+    publishedDateTime: 2021-10-27T15:45:00Z
+    webUrl: "https://www.edn.com/edge-ai-accelerators-are-just-sand-without-future-ready-software/"
+    type: article
+    provider:
+      name: EDN
+      domain: edn.com
+    quality: 19
 
 secured: "lxA9SiDkvGJNG7bIbpb6PnytDb1cZBuEYLH3GqGI607+8G1qJAX5FVTJGybXOLEdtwvIMDMzS134s8Fwkg9H/9cxr8LtPWLanoLp6+Rys3Dnv2x6w9u1vUStnHGjEwbf0twc6XLScrPbsdiYfmQew0gus/OWkYGVclrUd0VJuQGX2HFPAmp66dbNYqlZwBsCfwexi0U9gOvBWRle+sCpFxad1ZL3k0rPJ4fs4R4TMPA7CK/zjNmjbUqJEIvEZUmp69Z7NiS9Nx8gcRFDnnNMEHXUf41iwV+KiSiPW61kpGt6L+XRDq3afsPV8ydhyOKdUXVxTVdAMldXIQDckRU/dBkmZc275kfqIQyEpbRBBgs=;2PwqZH97NU5J9co7LxPWow=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Aktana Acquires Ople.AI's Machine Learning Automation Technology"
-excerpt: "Aktana , the leader in intelligent customer engagement for the global life sciences industry, today announced its acquisition of Ople.AI 's machine learning automation technology. The addition will put the power of AI into the hands of non-data scientists,"
-publishedDateTime: 2021-10-27T13:43:00Z
-originalUrl: "https://menafn.com/1103057166/Aktana-Acquires-OpleAIs-Machine-Learning-Automation-Technology"
-webUrl: "https://menafn.com/1103057166/Aktana-Acquires-OpleAIs-Machine-Learning-Automation-Technology"
+excerpt: "Aktana, the leader in intelligent customer engagement for the global life sciences industry, today announced its acquisition of Ople.AI ’s machine learning automation technology. The addition will put the power of AI into the hands of non-data scientists,"
+publishedDateTime: 2021-10-27T13:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/10/27/9478651.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/10/27/9478651.htm"
 type: article
-quality: 54
-heat: 64
+quality: 34
+heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?126999"
-    width: 375
-    height: 250
-    isCached: true
 
 related:
   - title: "LivePerson acquires VoiceBase and Tenfold to power scaled Voice AI innovation"
@@ -40,6 +34,6 @@ related:
         height: 1413
         isCached: true
 
-secured: "4gYEyyAmWl8XOUJkXK50kJ4nM1K0GF86LUw+c2XDvoF2p6RJHaR3z65pM93eABvpx36ZXSAIm8lt55VsV6ZuGH+/8fY9ESYPOyf1/4ZsyFZYginJykxZifuOs7oPI3PgAPo+h5ouTdEtWwXXBq+N5QoZDzpa9WGPVHRCWDGYCsV7AEnjVkFpiCiGIrilOcyRhuzdS2YxRmVzHHSHLnV6/XZrSiXA4ZUsb/rBx01nKWRKtDyLJs9mMmnINn9eEJ+SCeBZ6OFXjT3o6NyrH19nFzHgOP1UA5f2SEm908TKZIBLn3gS01+Ju94JmkLPEeSbJQDr2KYU4H+vilmysJFosZwK4ms/I9wJdMe4bP7lQ3A=;LnVysxU21PYsjIkYN0Jing=="
+secured: "x6tjMgti4Dt6ii/q8I9h4VXpLkoo6HOAsRLlQHs51cUwSUkhtUGwWC6U29HHLkeYmibCH91EKzs72syI60RYTbS4N1u0b8RitTV57C3LeAF9p2g52GfxUN5RCN4NotoPP5qcrWuYWYcx1aynD0XfSyTRh4EM5EoQc0swr1V9+LoMuQLgv523pRps9NqpIi6W8Ramu+CX/ClCW9+vxIdq9/TgzpjhL8vC7ABbdfOlI3cPS7xvwlnpQmA1c/NuH/oZRyxDTN3C3ipvxl9EgbU2eJPxskzb0LoH5DPc1JOPUf3f6Rgu43GbdjzKf8B9ha86Kf+0aYLR1K/zE47ZMkBKUS/VICWxG1F6q8ni91u2NiM=;dni1McQpwD1Gf16hJeFb0w=="
 ---
 

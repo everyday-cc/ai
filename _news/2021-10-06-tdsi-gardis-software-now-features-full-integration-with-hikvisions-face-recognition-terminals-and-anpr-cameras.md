@@ -1,16 +1,13 @@
 ---
 category: news
 title: "TDSi GARDiS software now features full integration with Hikvision’s face recognition terminals and ANPR cameras"
-excerpt: "Integrated security manufacturer, TDSi is pleased to announce that its powerful GARDiS access management software now supports full integration with Hikvision’s face recognition terminals"
-publishedDateTime: 2021-10-06T10:53:00Z
-originalUrl: "https://www.sourcesecurity.com/companies/hikvision/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
-webUrl: "https://www.sourcesecurity.com/companies/hikvision/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
+excerpt: "Integrated security manufacturer, TDSi is pleased to announce that its powerful GARDiS access management software now supports full integration with Hikvision’s face recognition terminals and ANPR cameras. John Davies, the Managing Director of TDSi ..."
+publishedDateTime: 2021-10-06T14:20:00Z
+originalUrl: "https://www.sourcesecurity.com/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
+webUrl: "https://www.sourcesecurity.com/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
   name: SourceSecurity
@@ -26,100 +23,6 @@ images:
     height: 355
     isCached: true
 
-related:
-  - title: "Face Recognition Software launched"
-    excerpt: "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t"
-    publishedDateTime: 2021-10-07T16:51:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Xiaomi Face Recognition Smart Door Lock X Officially Announced"
-    excerpt: "Xiaomi has announced its smartest door lock, namely the Xiaomi Face Recognition Smart Door Lock X. The price is not known yet."
-    publishedDateTime: 2021-10-09T10:27:00Z
-    webUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/"
-    ampWebUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/10/xiaomi-serratura-smart-sblocco-riconoscimento-facciale-3d-prezzo-1024x575.jpg"
-        width: 1024
-        height: 575
-        isCached: true
-  - title: "Tamil Nadu police's 'Face Recognition Software' has privacy experts worried"
-    excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to aid the state police in its investigations. The software, according to the government, would help compare the photos of suspects with a data resource of over 5."
-    publishedDateTime: 2021-10-08T12:10:00Z
-    webUrl: "https://www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283"
-    ampWebUrl: "https://www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 57
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_illegal_1200_0.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Experts worried about police's 'face recognition software' interfering with people's privacy"
-    excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to assist the state police in their investigati..|News Track"
-    publishedDateTime: 2021-10-08T12:32:00Z
-    webUrl: "https://english.newstracklive.com/news/experts-worried-about-polices-face-recognition-software-interfering-with-peoples-privacy-sc1-nu303-ta303-1186385-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/experts-worried-about-polices-face-recognition-software-interfering-with-peoples-privacy-sc1-nu303-ta303-1186385-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/experts-worried-about-polices-face-recognition-software-interfering-with-peoples-privacy-sc1-nu303-ta303-1186385-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 48
-    images:
-      - url: "https://media.newstrack.in/uploads/latest-news/india-news/Oct/08/big_thumb/00_61603a0031bc0.jpg"
-        width: 804
-        height: 450
-        isCached: true
-  - title: "Sensory Launches Speech Recognition Model for Children"
-    excerpt: "Sensory has released new speech recognition models that have been specifically trained to recognize children’s unique vocal patterns"
-    publishedDateTime: 2021-10-06T21:28:00Z
-    webUrl: "https://mobileidworld.com/sensory-launches-speech-recognition-model-children-7102103/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
-        width: 800
-        height: 560
-        isCached: true
-  - title: "The Pandemic is Testing the Limits of Face Recognition"
-    excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
-    publishedDateTime: 2021-10-07T12:16:00Z
-    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/the-pandemic-is-testing-the-limits-of-face-recognition/12291/"
-    type: article
-    provider:
-      name: Predictive Analytics World
-      domain: predictiveanalyticsworld.com
-    quality: 39
-    images:
-      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/09/270x270-Coursera-Banner-1.jpg"
-        width: 270
-        height: 270
-        isCached: true
-
-secured: "dq005gLCJHR5jPwgbkTeFcLJur7gFIp9AyW7OybD4zRvYyAJsijxo1gD3a7l7HD+6TyI2H4uQEkz4xiC11XVA3T8wF+y2hj0As/gEUQLr9mCIfacOU/ay+7hN1lXs+VuSR4LesCeCmBHFgptQQik9S7CvJfRkMm1HYEzv5f/fSpKDQYTkPeZlgnAABYX8pBUH6QpnZEqJg9zw4riblIyInK4fIyvIwVdlCajb2kKiI5yegjXkqPY5cCoMiF0sgVZvBH68syFHhhF1XHMlh/SeG5HJvINF7QeG3y5RmJyoADc5DWI1W4rs55zTCn0NjaKUlw0Sph3Z9TuUfStglhoekr2cbaG7DjI9Q+ZBOjBfIjRzfJ+/JYUPHGq+E6pT4LPidht4TKpJ4XZwJ0Vk43P3+j49EAFuwUOJkv4rra+uG8yBkQsJ+sUTONkHwxA5CGT+bY6A6XGsPFdZSWjD61tlRIKsiVy26paWO+1VIpVr3Vz26yP0W7+5gEAqX/qSCk37vgF+/74qw47Q7eoLZKwvQ==;/1QpZIH4YoqpRsqcpkDB4w=="
+secured: "1vCA/4JG1WJTT7x9WJ3kRDjtrILu3TNqa404u3bD1wiJjPs3F4WzuYTR6qFtU7jIWME1TXujuPapSG0jnEb2TEFc2VlbvPhUix/flinLaPWJzx15clQbjb3amqk2snsCuM+wG3YPwjQZrus0GwK4jOCQLBsqn2sqrlL+vV+WTqhZycexaymZ4sT8sZ0nNO4kjAegjugtN/KWAxGLV5Vz9DwojNQbwI914ACU7mUqE6n31GYH4qPVZ0jaeDhoFa5Xgar/sV1qn1bgYWWOsXa+9xNTpytVj1mWnzUSXiw96pxBjujI2OkXp3dCyR6DiLVYyRjKnB3MZc2GfV1O7+BAGUTm8bzrOMmZGuUVaVYeG6A=;YwPpPMNXBPeBgF5drtNkfw=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://phys.org/news/2021-10-exoplanets-artificial-intelligence.html"
 ampWebUrl: "https://phys.org/news/2021-10-exoplanets-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-exoplanets-artificial-intelligence.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/discovering-exoplanets.jpg"
@@ -57,6 +58,6 @@ related:
         height: 350
         isCached: true
 
-secured: "5tRj/NuE+KnWwBaXBQPB1TiXNAtHq7rb07P/dvxdLuchA/MgkiRzDeq3KaYXro3QDp/uGjI3nLnntNCY+mYqXV6/2gQIJnqRE4aQx/vqYnODdUtCN2tQGlwmieBm9z4Qy2aop3SMkMzsToK1jT70HTtkq1X+WpH3wthBYzVRNvy+BUMmTUK7k1bUGvGlpknOeJ1+bwvaRPWOf242Z42sSNIfi63WPs4F86bic3cSbIX6vkBDRwRT3aoxAiA5Aj8H6JLD39x1LiiebXifEQGua5wPGA/jKAXWS19hMFY4Sda+O8teK9zTztQfTmH/0xT5xNxSCjDEaWoI6J2HyvfN3Pwhw8oS+iHu/LIP00TzKCA=;/R9R6xISZ3eCJ1uAkUf72A=="
+secured: "xa7AYvQOZFKmz7UaaB046a8lITdTjzJHBTobvgXfDoxYWrTYN5UF55NrRnZTsumNwdC+0meA/pOf8/8moL7Xe1fyN/ZVwCdlTmrxNWb2rq09tA9xu6JpUHgwMSZAxoZiFeGimF1kSo/PRzGCn+aOYJG0myMxLjMNPVo+DyLiJ2jGkbyCb8PFgQhdMb+w7kuogJ51mc7X6qa1bzPuWmRGRO1Anx9RQKcvo/ek9ngrM20QkVPv9zq6smQj0BZB2MHLf0etME/HC98aniLSxn4e03YCcqNEqLeYXqOQ+kKA3tj4ibksW9I9KC+4DTAm1QWJy1cbFjUwfxC6DDBGLpbRL4/V1f2KDsgE5Tz9xeP4dGV2ndmAALN/9hUyYxOlEJFyT1/Wg5tgW9BTPzBa5p9uhJYmnFDimerKPoXsNdA2fKx8VbrZ019He+RehpRnP31H6+TbKR+Drp1WnL43FhzF6b54dTs5qYafzL93qFr+qwQC6n1Xu/5jESovmc60bGwAlJcs2hxhhpPqATJKdIM/8w==;+Yx965Og5fOq6yXmg4LY4A=="
 ---
 

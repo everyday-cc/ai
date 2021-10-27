@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-lo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -63,21 +63,37 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Delta launching facial recognition tech trial at Atlanta airport"
-    excerpt: "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate."
-    publishedDateTime: 2021-10-27T12:31:00Z
-    webUrl: "https://www.knoe.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/"
+  - title: "Delta rolls out facial recognition-enabled TSA checkpoint at Atlanta terminal"
+    excerpt: "Delta Airlines is rolling out a new way to get through TSA at their terminal in Atlanta -- and it has to do with your face."
+    publishedDateTime: 2021-10-27T14:02:00Z
+    webUrl: "https://www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/"
+    ampWebUrl: "https://www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/?outputType=amp"
     type: article
     provider:
-      name: KNOE
-      domain: knoe.com
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 56
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/RKFR7CYDMBGOHNKBPSOVCBZXD4.jpg"
+        width: 5400
+        height: 3038
+        isCached: true
+  - title: "Delta launching facial recognition tech trial at Atlanta airport"
+    excerpt: "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate."
+    publishedDateTime: 2021-10-27T11:31:00Z
+    webUrl: "https://www.cleveland19.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/?outputType=apps"
+    type: article
+    provider:
+      name: 19 Action News
+      domain: cleveland19.com
     quality: 54
     images:
-      - url: "https://gray-knoe-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
+      - url: "https://gray-woio-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
         width: 980
         height: 551
         isCached: true
 
-secured: "5NTj7BvgRNY38fwNor9Jiysw+7InwHIhEwvNnTX2D5SQhJKQoXjtlAcsrtrKcOeBvNv0Q7HgBcMZVGkIkQzTBrkrlvVK4uPxVD7hXvXfsVDEauBcuGeYHX19xUSPmgBZ3c9C9Z2XSC2+lRvaShPjS0jYaRbih8B9ZLI/xpCqLdWtDMuZnUFtFos4WGTwPR7maTIfBjQtuoJzEfOQWxXCFsYV3nxBDwdPq19iay8i2WjcWhew01yVoMmx33s71ZpUKCJSSNCYW2IKpsEXZoMEhFARKDMfn7hznumjqk05/JQS7MmIV6XshkUAmf29FvL2PwpB9LDOzle10V+c6LTIZXQdfCWEU5uzoauvnv20roQ=;XwQF2fqTN0O/xgggzMt3ig=="
+secured: "jz0GV7CY7ZYFjcJ5Z3WiDlGzEF13SmATRZGQhoyYEuOWQiV8O7Xox6ts72fTZan1bZfZR1qNXOKLJPcwW3v1rgXYwh15H1+fR5TbgADw6AEmZSH1xH9CcqYT/VEk/gRCNaKdF08wFMNA93pnuYQZHwks0HPgfiU5Q2NnAIUqvlovpuuMMV/wv9c30VDvsqZA/WCYKgEXrTujYmyWsGRFK3EdKWLrE5tMiazQxKPimqaHRkrdYfywZo4xm07cUXRcmKM5rpvKX1rGAyMf3V3VP4C4dFx7XmNvKt9B0OsUy49nt7ul5AERVzYbCxnn9Xyg0vX/Lx1aeOvZY8M0MTThzEYy+3AyUrILtdwAuvFd+FfanD+J8+bUCZu8/dRVaXrU4xNGP4Xu5yj1S64x4AbjeR2sCptqQfxfMyrUAiGKLSWAc8jfSJIts8jXvb5QOBE7uXMOYMDxka1YhgsMj5XcQBcyQpPZcPO6hSrmE9Suo1mx52MaUDwfYUfIeZ7X3tnQlkCJSakMuidXKqVs/XOyjQ==;DEBs+5Z13uVJcsF/nQyLOw=="
 ---
 

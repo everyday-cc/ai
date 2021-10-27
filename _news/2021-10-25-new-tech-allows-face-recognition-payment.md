@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 1270
         isCached: true
-  - title: "New VisionLabs POS terminal provides both face biometric and card payments"
-    excerpt: "The LUNA POS terminal provides facial authentication, and is certified by Visa PayWave, Mastercard Contactless and other payment systems."
-    publishedDateTime: 2021-10-22T21:18:00Z
-    webUrl: "https://www.biometricupdate.com/202110/new-visionlabs-pos-terminal-provides-both-face-biometric-and-card-payments"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
-        width: 1100
-        height: 734
-        isCached: true
   - title: "European Parliament Calls for Bans on AI-based Biometric Recognition in Public Spaces, Predictive Policing, and Social Scoring"
     excerpt: "Privacy News Online reported on an important set of proposals from the European Commission to regulate the use of artificial intelligence biometric recognition"
     publishedDateTime: 2021-10-25T09:17:00Z

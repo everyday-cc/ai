@@ -2,24 +2,24 @@
 category: news
 title: "Delta launching facial recognition tech trial at Atlanta airport"
 excerpt: "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate."
-publishedDateTime: 2021-10-27T12:31:00Z
-originalUrl: "https://www.knoe.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/"
-webUrl: "https://www.knoe.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/"
+publishedDateTime: 2021-10-27T11:31:00Z
+originalUrl: "https://www.cleveland19.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/?outputType=apps"
+webUrl: "https://www.cleveland19.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/?outputType=apps"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: KNOE
-  domain: knoe.com
+  name: 19 Action News
+  domain: cleveland19.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://gray-knoe-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
+  - url: "https://gray-woio-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
     width: 980
     height: 551
     isCached: true
@@ -73,7 +73,23 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Delta rolls out facial recognition-enabled TSA checkpoint at Atlanta terminal"
+    excerpt: "Delta Airlines is rolling out a new way to get through TSA at their terminal in Atlanta -- and it has to do with your face."
+    publishedDateTime: 2021-10-27T14:02:00Z
+    webUrl: "https://www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/"
+    ampWebUrl: "https://www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 56
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/RKFR7CYDMBGOHNKBPSOVCBZXD4.jpg"
+        width: 5400
+        height: 3038
+        isCached: true
 
-secured: "YB9mccrUVAXjrKR16EGTGITQPYfMyt350YDmqRuXAh+AcegWEsGkPajcvZyfqYV45YvpoCv39c8iaWBCDiZzwC5wLoFDWLPMp10h0U1CF916TOpcQV0WmUSw2IyMAxuktZ0crRY96o6mD4VbPhsafJTys4d+Fr8iIsjMrpD98DG7ZPfSj2hJwFVyWUlzimumfol88FhBp1hBM6gkNh706+bA0vSiNkmohHYcrO37iyhcMKsy2TiKFgadD4WJRq7nczMZN+U1lRGrApyBwB+DJ6iFkrLn/Eujy2nqchBaOAZDuejztKq9xiCUvf6d4AvPBCn3ZpSnEtTuVMAr+dgDMQ81xtvElpZmYuHBQoUWSxs=;CF3b0wyHTaKh7hitKi6CUg=="
+secured: "4jhHs1Sz/rSAHanyoN8ubCJyNrSUstYXbvd64tq0xbmlLmRqoyx1TG+2dTmSYfBb4ahOr38+4dyPwG9jZs2nPL9vhGrGhwdsbBzGHwW/JeF8qCs6BwfFk8YxkSI1u8gVjWs/ic7yclW1zS6H6b35a6lWkOStn/QrUlES86jE2xk5HG0tm/rxk5C+CLG1vEpzGXIG2CRcfYF0+Rcplw5lJKO73PZ/EZygiLHqEBOHpuj3zjHwMw5m5+G1hFbM3Htgiu5rSehfyF+tuD067F4BM+7rlfF82bQy+iohFAdANXIlsR7GXF2apAqRwpujHufoNlxCLjDi9+nnrVZh6f0Z4Elh9aKgEEKxiAWvHf09mhw=;kYGM6prw4St3tg69we6Z5A=="
 ---
 

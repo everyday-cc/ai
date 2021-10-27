@@ -55,20 +55,6 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "New VisionLabs POS terminal provides both face biometric and card payments"
-    excerpt: "The LUNA POS terminal provides facial authentication, and is certified by Visa PayWave, Mastercard Contactless and other payment systems."
-    publishedDateTime: 2021-10-22T21:18:00Z
-    webUrl: "https://www.biometricupdate.com/202110/new-visionlabs-pos-terminal-provides-both-face-biometric-and-card-payments"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
-        width: 1100
-        height: 734
-        isCached: true
   - title: "authID.ai Challenges the Industry to Replace One-Time Passwords with Facial Biometric Authentication Solution"
     excerpt: "Following its mission to eliminate one-time passwords and account fraud, identity authentication as-a-service provider authID.ai [Nasdaq: AUID] (formerly Ipsidy), today announced its biometric authentication solution,"
     publishedDateTime: 2021-10-25T12:07:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/"
 type: article
 quality: 101
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 861
     height: 464
     isCached: true
-
-related:
-  - title: "Detect industrial defects at low latency with computer vision at the edge with Amazon SageMaker Edge"
-    excerpt: "Defect detection in manufacturing can benefit from machine learning (ML) and computer vision (CV) to reduce operational costs, improve time to market, and increase productivity, quality, and safety. According to McKinsey, the “benefits of defect detection and other Industry 4.0 applications are estimated"
-    publishedDateTime: 2021-10-22T21:21:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-industrial-defects-at-low-latency-with-computer-vision-at-the-edge-with-amazon-sagemaker-edge/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/20/ML-4887-image09-new-1073x630.png"
-        width: 1073
-        height: 630
-        isCached: true
 
 secured: "kBXF0wlsj9H8WIcdXXfsfIUz+wqd+IbNJxkSDAmV2tmPDdMRQCgsrGfU/Zu+TBxlxdh1LPjqMhgylu5SH2KBDWJmvq0uw+whM/3zj87Hg42793mn8KzYC8Yze6PtqnGCJuK0NPKjkNsZpwOsXYtAt67l3ydYjp+TeXmFx3yYmDglbMKJi3vKUbgS6NcYSZ7Oj+X3iqDBq6tH4bax2C7vG851YtqeVd8WXy7jZPVaEAbG+Cxh/nB9ZXYSXB3/HEoG20vfRBP/uxaxJ3G6n50HOsYUQZXBxI7QeP9np+7xfXvM9c1LMMXliYh6+WQ2UjTLRHpc00GM0rAQitvHwA3JaN7nx9AZ9eXTy+6ivShs9Fs=;oLuVOVNPFRC321uOgC0tGg=="
 ---

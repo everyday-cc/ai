@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2021-10-ethics-artificial-intelligence.html
 ampWebUrl: "https://techxplore.com/news/2021-10-ethics-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-ethics-artificial-intelligence.amp"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/the-ethics-of-artifici.jpg"
@@ -100,6 +101,6 @@ related:
         height: 630
         isCached: true
 
-secured: "g7+Ga9VetQ/fkvQzUHRtoq24fTw6MKHixdIa1GnNphj6I+bMWdxW6ObGg3JSLpXkeIJOHjXerZdmlEAm0sVHDVuAES/8dcrJX+H/LVu+Eua3yANjUV2kGCHjG51YS5FS0BR/+IKy0Qh9uEAqGbhdZrabZB8oAuRLzUZBW1Iket0dcN4yu5skIKQEwUGYcl7b9Y41Lt93kTf62ZWNkUUcW1KmJg8CFG9OXoKaM3fj5VwYmZg4ZbUwLs9KAi3l23obg+329xPoY3lh83Yp8TCr+tFVCRlooVptu+0bwKQbBa2i8zcEuJYWy00/uy7tjkRrrAJ1/mruD22Mb+amCOp70OO63SKjJGf8lbRUtgrz5uM=;eGZd1rqMTKxkEV7JN3NTsg=="
+secured: "q2Xw4EviFkQvULOxo7bH1m4rrx8UnxFyz7BfKGOJHZE2yYwin+cCcEG6MqmUPXNs0elJfew+WD+mLfLFtdSY38ZW/FTw9yHXkey5urHKYRczQVTY9c2siE8igiDxirc4ThHw7t9t8PDovDyk8rPpKt2VzLhLObhH7w2BpKNN10oJMd8COOi/NvtXccOcGW9Wvf9GjZCV4T4lR1k1sce4k6HkZP0N6wAfnqfckt9ItD3FJgbF+dYh5tW4BAjBEENm8n0ao5vVIPtg1MMhItmSAB36IRthhcfQzIlK/RhMZVwl1zPDcWekYuJyVFYLMgp5e/+7ge+KxjVlt4yV3g2rEq6jZsvSwxfC301sbxqvnm8jzlyur907jNqwdiItmGaDrzCh8AsQV4b701J2TZ+Kbg634ZPP678aNeAWmvOmwUlfoN0SulX9BYjTZ/Qb+/gO4uahGV75AvCGHR78rYcNuBsLf8Df1sdsHwYlrVqjU+kLkZlgOof+XlPnjNi8srDHULqOgZciATKVbY68vmGbQg==;p6Ybm8hCN8pJpgYT/lGr8g=="
 ---
 

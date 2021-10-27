@@ -1,24 +1,30 @@
 ---
 category: news
-title: "KBRA Altman Launches High Yield Return Forecasting Model: A Differentiated Approach Using Machine Learning Allows the Model to Keep Pace with Changing Market Conditions"
-excerpt: "KBRA Altman, a division of KBRA Analytics, is pleased to announce the launch of its new High Yield Return Forecasting Model. Unlike traditional approa"
-publishedDateTime: 2021-10-25T22:16:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211025005713/en/KBRA-Altman-Launches-High-Yield-Return-Forecasting-Model-A-Differentiated-Approach-Using-Machine-Learning-Allows-the-Model-to-Keep-Pace-with-Changing-Market-Conditions"
-webUrl: "https://www.businesswire.com/news/home/20211025005713/en/KBRA-Altman-Launches-High-Yield-Return-Forecasting-Model-A-Differentiated-Approach-Using-Machine-Learning-Allows-the-Model-to-Keep-Pace-with-Changing-Market-Conditions"
+title: "KBRA Altman Launches High Yield Return Forecasting Model: A Differentiated Approach Using Machine Learning Allows the Model to Keep Pace with Changing"
+excerpt: "KBRA Altman, a division of KBRA Analytics, is pleased to announce the launch of its new High Yield Return Forecasting Model. Unlike traditional approaches that examine bivariate relationships between the level of credit spreads and other economic variables,"
+publishedDateTime: 2021-10-25T18:16:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=552624"
+webUrl: "https://us.acrofan.com/detail.php?number=552624"
 type: article
-quality: 0
-heat: 0
+quality: 1
+heat: 1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "ySdXiR6VSsvFiIqK8BC+k8LeHVd1pFqv76ZtiIIgVxIC9dNu62ARkoRWBpoxz7ooNkW+4Ew3jZkBU/1F7t4ToyG53QTXN0YWLJKyWxLKhV0MQVlheitEiSnAVorYsXP5rLd9tP/M6pu/K5+KurzHjV4WvMtCIkK01eYJuTGaadEBawnLIzzicTOTORTyQo2AGXPYxtmggycAVm3no72wZImfwRsMHXN/6zCgROnrM56PufGPch2nmu3YjsHBt+Tvtpvduhh72IER3QSfA2NcUxLnAetpdJx1krVq4p1ltnaOBlfOJajBNqbX4x5Cft9eNl0SQpi6Ily1+t61VSt+R5a6jKinVoCRiQvMRWIv/JY=;lLXkToMiCfPsp+dM6+xWmg=="
+images:
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
+    isCached: true
+
+secured: "bufMvfXAXSCeT/2Aq3pLCNLmr6u+Gj5Nb0ixYv0bbZILJfaxVxjEQtVjLJGkpPy7NxqnZEKgu81cyBgVBiursBIgPenk4ALqq24SfH37yNfHKov9q+ntr9ep39ejYnWv5icuynFcXmEVKXwkQHAIey2V75ymZspT7ptK5+VbtrnG8fuY7CxqKkr5hGugrU005Kjfsq97ez+t1YDpzMqRkpFEBJ5eedKEvGqGb1hRjT64D4++69VFFefBqEZ6NX9njhYo+BeJPLNBkHBMEpxN9votbGj2p9MuJURuAMNw0SH3UpbClpc6/Ctct0EBgQd8ZYQ4GJ0cAbHgf+kPCx5+txPN7MghYXKAYsbtMfYc6Jg=;Ly9n21kS1tfAScUE/VBnkA=="
 ---
 

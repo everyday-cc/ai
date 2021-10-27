@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/liveperson-acquires-voice
 webUrl: "https://www.prnewswire.com/news-releases/liveperson-acquires-voicebase-and-tenfold-to-power-scaled-voice-ai-innovation-301409875.html"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -26,20 +26,15 @@ images:
 
 related:
   - title: "Aktana Acquires Ople.AI's Machine Learning Automation Technology"
-    excerpt: "Aktana , the leader in intelligent customer engagement for the global life sciences industry, today announced its acquisition of Ople.AI 's machine learning automation technology. The addition will put the power of AI into the hands of non-data scientists,"
-    publishedDateTime: 2021-10-27T13:43:00Z
-    webUrl: "https://menafn.com/1103057166/Aktana-Acquires-OpleAIs-Machine-Learning-Automation-Technology"
+    excerpt: "Aktana, the leader in intelligent customer engagement for the global life sciences industry, today announced its acquisition of Ople.AI ’s machine learning automation technology. The addition will put the power of AI into the hands of non-data scientists,"
+    publishedDateTime: 2021-10-27T13:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/27/9478651.htm"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?126999"
-        width: 375
-        height: 250
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
-secured: "7WAE5zAL3pqC8sfFKs3biOFifim3KkfkyaGVHEgcMBuVM/AOiu2+b4GS8PLoAWNCGCKnJUAFAX/hvAt1p6Kyw6LqWdTXR+hMrDtc0ISUDu2NQ7ks/nXFo6VW+CisPVU9WCDmX7BmZps265dda5jiH/Me4sOzMsD8ABFby1JbC7yO1Gf9aSgRvbRrGCee4ouXebO8x18NvrurAsdbGI4pfvhHs7DAyHqvZxv8ShDYlxR8uLjzI0XoFYY7Jrvjm/zWE8sBQKw329lOkLgX+Hkzp+tDscrNNNpiPMitQgOaf/oSKE+UTOjq/QMAyUcSbtljQxL8WIPjNoc//UCpG5D4NmqbkXxrclGWMDyGndFe8G4=;enR5N0Em7pyAFFF7ctr/SQ=="
+secured: "/TvuVkSlcpcbA+ZERDXKo5ZmpqXj14+bXf/pJi4IZ55GI9dke7QnDhubc3za9WQGTWTwqnmtXN0eakd5wEtOFgQgAjCw7/0oAdUWB8mRGhqDpUDL1k0kyWHzKlk/qRZYvT+5EFTm3iP206zR7elNlUcJkkqXeimSv/X+jVSfcQfh8FFMOey3q8bblqggijgGePss6w1//m+YxJQIv70D8AuVb84CK9u/5/eANxUThlPDa6epDWhnbIh+z3unRv9vOwnHH08HNGfuEVvKhfW9GawTY/WYJrjiVe0MoJEnVd33P+DSZf9Eyd34yhXKtvmyMeOM5m8NJ9yY/vPFouUeYh8h68Y6MNhqhm7zHXIhPl4dqZ+QnNj18KTx7sXnjfgsGHGi7D/0wb2jMsHrTgEuq+e61vxkPaNxLRMTgdexAtkwApANBcWpY/xPSJnBHYtcbccztw+awwmO8v/K39soLy4CaSEivCLBlR5ahzDquucfh7AB0ggkUv1rKW8T/s5wuMyJEW9C9J/+t7t6e2ro8A==;0kPKPnMyySku7TgpYIbeXQ=="
 ---
 
