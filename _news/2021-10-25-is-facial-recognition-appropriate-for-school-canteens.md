@@ -40,31 +40,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
-  - title: "New funding for one facial recognition firm, features for another"
-    excerpt: "Two computer vision startups, one taking venture capital and another crowdsourcing funding for growth, are leaning on COVID restrictions for market attention."
-    publishedDateTime: 2021-10-22T17:09:00Z
-    webUrl: "https://www.biometricupdate.com/202110/new-funding-for-one-facial-recognition-firm-features-for-another"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
-  - title: "US Postal Service Moves To Escape Facial Recognition Suit"
-    excerpt: "The U.S. Postal Service is asking a D.C. federal judge to throw out a lawsuit challenging its use of facial recognition and other technologies to collect personal information, saying a privacy watchdog lacks standing because it hasn't shown how the organization was harmed."
-    publishedDateTime: 2021-10-22T23:45:00Z
-    webUrl: "https://www.law360.com/articles/1432922/us-postal-service-moves-to-escape-facial-recognition-suit"
-    ampWebUrl: "https://www.law360.com/amp/articles/1432922"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1432922"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
   - title: "Python Implementation of Viola Jones Algorithm for Face Recognition"
     excerpt: "Python Implementation of Viola Jones Algorithm for Face Recognition. Training and Testing Data. The following algorithm takes people's images wit"
     publishedDateTime: 2021-10-24T01:05:00Z
@@ -138,6 +113,6 @@ related:
         height: 675
         isCached: true
 
-secured: "9vDae/FHy5F13qN5dHGliAzuA42gT9n1B33OXCOzRzwR/drRK3KjRQzJa+i9Jdxx6cQlmZn838wZdDWGJWIfF3i3pgtaxlZ+FP/ad0xUQXOXXF50AF5xMvboaUgMssIvc4zVlTxkBDUuratoYp1Oi/4n1bxzpGQPiV3Y5D3qVG6aqPc6UJIBqVnaNUZNFzdJtsNQqKUoeOOdnWrksELNq1uQkiF0Lj7zhuRv2XupKfQ2plrgj+Xk397WtHSc8++y+Tei/7NcuN49krlhkw/UQhd3M7l9aweAbYduj+JImzUyw4fw+528sThPcNc5ndlDhOh0q3PqBc2CipiCwpkEU7dcNpNgMZT/PZQwaAKv8Wk=;IS6FsLXA9ieICICjOuXZiA=="
+secured: "+jxwe6Nuu14VfPDlGkqcmAT/D7w8Z1hKwJt+SXvnpSwRfJ2nZfWsloaW7KbhJnpnYCUsr3nNMq29NV1sC3tuFihwxrZGLSpTRor+b81fd3bjbwIeYgVwRx6r3B4hb5eJQz3r8wWvW8lB5vP/2BhqtRKm2lNe8umiVkVeqGVl2PUqRm/dX4cUgAlkm+WX85OOqLJ72wNq7+2chpcgKjCEklRnY9joJrVzNoZq+GxVqB1nTAHqHcJR6hBZ17uej01SFJV9R52ZSqPab4VDR976IvG1huQqoByDzxx/GiwkMpS3BNE7sUSUxyZwLRjgAyTxLuFjFE0+EA4VX18f9A1UtrI+nTEtULAEKJsUdOYKcJuvfUKOFZSxQsKPp8xkqQiz1KHUZFK4Y6tOJRAKaI7hrqhgkYYvaJzZHKIvqWz9d4UOQe2JO0KIvs1Uvl0rBXCo8W7by+AHkS16LLb6Tzzs9JsN0G+3A9GdUujFFPCAG0E1UTZ1auuHVZSoo+dqXDq5Mh4bSVw4elp1MuJYkhyThg==;XB0HSehxe6kTyy52ADu7Mg=="
 ---
 

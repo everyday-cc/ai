@@ -73,38 +73,6 @@ related:
         width: 643
         height: 400
         isCached: true
-  - title: "Artificial Intelligence System Market Size by Analysing Historical Data and Future Prospect 2026"
-    excerpt: "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market"
-    publishedDateTime: 2021-10-22T06:37:00Z
-    webUrl: "https://www.openpr.com/news/2437580/artificial-intelligence-system-market-size-by-analysing"
-    ampWebUrl: "https://www.openpr.com/amp/2437580/artificial-intelligence-system-market-size-by-analysing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2437580/artificial-intelligence-system-market-size-by-analysing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua22380115_g.jpg"
-        width: 800
-        height: 444
-        isCached: true
-  - title: "Artificial Intelligence In Fashion Retail Market Overview, Global Size, Regional Analysis and Competitor Strategy by Key Companies"
-    excerpt: "The latest report on the Global Artificial Intelligence In Fashion Retail Market published by ResearchMoz has a special section that discusses the impact of COVID19 pandemic on the Artificial Intelligence In Fashion Retail market."
-    publishedDateTime: 2021-10-22T06:39:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 42
-    images:
-      - url: "https://i.ibb.co/1b3ycrt/Researchmoz-477.png"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Global Artificial Intelligence in Medical Diagnostics Market 2021 Study Scope, Key Segments, Industry Trends, Size and Forecast to 2027"
     excerpt: "Global Artificial Intelligence in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2027 introduced by MarketsandResearch.biz considers the market structure of the market through the analysis of its various sub-segments."
     publishedDateTime: 2021-10-25T23:09:00Z

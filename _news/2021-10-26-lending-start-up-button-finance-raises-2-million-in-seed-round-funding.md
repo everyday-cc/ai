@@ -7,8 +7,8 @@ originalUrl: "https://www.mpamag.com/us/news/general/lending-start-up-button-fin
 webUrl: "https://www.mpamag.com/us/news/general/lending-start-up-button-finance-raises-2-million-in-seed-round-funding/314324"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Mortgage
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Plask, Whose AI-Based Tech Converts Video Into Animation, Raises $2.6M"
+    excerpt: "South Korean tech startup Plask has raised US$2.56 million in pre-Series A funding, as it prepares to bring its automated animation tool to the market. The technology eliminates the necessity for motion capture by creating animation directly from video motion."
+    publishedDateTime: 2021-10-26T19:39:00Z
+    webUrl: "https://www.cartoonbrew.com/tech/plask-whose-ai-based-tech-converts-video-into-animation-raises-2-6m-210087.html"
+    type: article
+    provider:
+      name: Cartoon Brew
+      domain: cartoonbrew.com
+    quality: 37
+    images:
+      - url: "http://www.cartoonbrew.com/wp-content/uploads/2021/10/plask.jpg"
+        width: 1280
+        height: 600
+        isCached: true
   - title: "Data-as-a-Service Startup QoreNext Closes Seed Funding Round, Backed by Wavemaker Partners"
     excerpt: "QoreNext, a Data-as-a-Service (DaaS) provider for the enterprise B2B market, has raised US$1.5 million in seed funding from Wavemaker Partners, one of Southeast Asia’s leading venture capital firms. Previously,"
     publishedDateTime: 2021-10-26T04:00:00Z

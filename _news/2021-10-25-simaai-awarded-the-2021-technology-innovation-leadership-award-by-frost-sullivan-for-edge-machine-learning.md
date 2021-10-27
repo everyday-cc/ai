@@ -3,26 +3,20 @@ category: news
 title: "SiMa.ai Awarded the 2021 Technology Innovation Leadership Award by Frost & Sullivan for Edge Machine Learning"
 excerpt: "SiMa.ai, the machine learning (ML) company transforming the embedded edge market through high-performance compute at the lowest power, today announced it has been awarded the Frost & Sullivan 2021 Technology Innovation Leadership Award for edge machine learning."
 publishedDateTime: 2021-10-25T14:11:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-7cefc1817eda461ab56bdf196c27fa91"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-7cefc1817eda461ab56bdf196c27fa91"
+originalUrl: "https://www.financialbuzz.com/sima-ai-awarded-the-2021-technology-innovation-leadership-award-by-frost-sullivan-for-edge-machine-learning/"
+webUrl: "https://www.financialbuzz.com/sima-ai-awarded-the-2021-technology-innovation-leadership-award-by-frost-sullivan-for-edge-machine-learning/"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "SiMa.ai Awarded the 2021 Technology Innovation Leadership Award by Frost & Sullivan for Edge Machine Learning"
@@ -35,6 +29,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "7CjNl06CnN/etzbvGH3Xh8GSNADkk3+c0DpELG5FrE86FWv8ZrGcVDU7lzQCAhGtIIjkKSKOhqtj9YGAYH+dvc7q3KB+qW9i+F2Zkv/N3Fdq1o2bbLQSledqvxHSAhxIjvRRV5VCzn8sas2WByGvtNwGD4zR6l9wUXHGHPRJeHRap9MOqEPBsSAeWYG3yFA0EGIxOyLnghnwcjVNj6vuiOiUI55oL/jHMGPDv7EWuCqWusV56bYxI09xqSVzPRE8cBVMJ9KvG+Q9OaftsiUXlVzX0hf1MCLyV9pz12NH+6b/73/qsQavu910A0wTXq37RHUr/y7huoECK4/9/64y7QKuHKC0URHsrRT5GRXwMdY=;dfRLehZZw3++yyQTTmUmvQ=="
+secured: "E+tJeOC+2Whr+fcQ/kbmviSN4mSnXUbaNXsgHbZOKftJf/4oLYBA9EO1rYvr6BSbyXpQOsGfr/2pBpQCanC4NzG9NM4YPoGtdNCRCS66Huo/ASSAPMZrUvK3rjcjTJGIkXlGDT1fJXBp05xkcZf9wawHb1OT7D3fastoxQMfWymwQi4Qz/1Cq9fqC4dVweLwEbcaHNzJjhlpQhiHkH3kNYthBoZTnFWr7tLr/9NPI+xvoqlycY+SWKe1z08u12BkAZL0TFY7Kl8FNH+CMVQmK2WhPoZ8tXxL9PVMp4cLVNGBYwfLjH1sF/kpnkvFoZo6pTDXkKljQF0wuEiydQtDDsRSm9vpNW2SDytOpFy85Js=;EwZmEIbJf5zX9kEG0MPCOQ=="
 ---
 

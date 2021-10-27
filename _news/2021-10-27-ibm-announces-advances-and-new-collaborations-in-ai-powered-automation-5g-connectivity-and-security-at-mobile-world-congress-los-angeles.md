@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-announces-adva
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-announces-advances-and-new-collaborations-in-ai-powered-automation-5g-connectivity-and-security-at-mobile-world-congress-los-angeles-1030901288"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Khoros Collaborates with AWS to Integrate Amazon Connect Into its Award-Winning Digital Contact Center Solution"
+    excerpt: "Khoros, an award-winning leader in digital-first customer engagement software and services, today announced an expanded collaboration with Amazon Web Services, Inc. (AWS) which will include an integration with Amazon Connect,"
+    publishedDateTime: 2021-10-26T23:16:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-texas-software-artificial-intelligence-e766123907604d94a90f74e9a590ba50"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Connectly.ai Becomes a WhatsApp Business Solutions Provider"
     excerpt: "Connectly.ai, a conversational commerce company that simplifies how message-first businesses transform connections into revenue, has been designated o"
     publishedDateTime: 2021-10-25T18:30:00Z

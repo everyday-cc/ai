@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-mak
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
+    excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models."
+    publishedDateTime: 2021-10-26T23:42:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/10/26/9478106.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "skboZuogIbZVX6KWrFI7yrklkC8r9BmBoo+BTp8izcRCGWsZc66mC6+U1mzuP5H23/jhVo404pb5GX0ly0oI0h3MXj4HPVP7k/A0mVyGQQyPRQA3tI8Jb30B2h08Ja7Eo8dEfCW6VbAZ8ZPbOrGz9Gixvo2KwuegEtL4YK37KlyZVZkzVUjIym+VzbwCs0roevAk+mkwiir22PpObHbYAK7ZW8TErdLnW+Z4zYh9plQenKZGukveF7UJeTKiaISQ3WKJqYrJ8w3+UiQj7m+JPdq8FgqhK49IcQRinq82DllEK4+kxnWydiDcOQs71ZCoI60BVJHA0jWjhFUnlFABPtBHOxFgoSTyD66j328bPLZrDqvierTxTvuBgi4ZpBQAW3A59cY0A+VcDSwbBd1sUhbYi7FJnrq+YJh+TMEtLAtC1B0sP47eUPLeTDCbtmJaK3pb2w3COBwbYIwdjEJV3FZt1Dz7JPWIqrF8z3Nisa2SMzBl/SJ7pMLUVpBoceKR3+70iEllbqB+Ouc2ynZoiw==;Z9yuBo6zSRUurD9GoUGvVQ=="
 ---

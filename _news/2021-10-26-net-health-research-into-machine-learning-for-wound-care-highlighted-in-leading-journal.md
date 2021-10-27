@@ -3,21 +3,21 @@ category: news
 title: "Net Health Research into Machine Learning for Wound Care Highlighted in Leading Journal"
 excerpt: "A peer-reviewed article written by clinicians and data scientists at Net Health highlights the value of machine learning and artificial intelligence (AI) in predicting"
 publishedDateTime: 2021-10-26T11:00:00Z
-originalUrl: "https://www.indianagazette.com/news/state/net-health-research-into-machine-learning-for-wound-care-highlighted-in-leading-journal/article_c6f029e6-99cc-5782-9a2a-9fb21506d6e7.html"
-webUrl: "https://www.indianagazette.com/news/state/net-health-research-into-machine-learning-for-wound-care-highlighted-in-leading-journal/article_c6f029e6-99cc-5782-9a2a-9fb21506d6e7.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/net-health-research-into-machine-learning-for-wound-care-highlighted-in-leading-journal/article_dfabc7bb-4b80-519c-b1db-d4f999144eb3.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/net-health-research-into-machine-learning-for-wound-care-highlighted-in-leading-journal/article_dfabc7bb-4b80-519c-b1db-d4f999144eb3.html"
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: Indiana Gazette
-  domain: indianagazette.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "Z5KQgj2JLmUP5u7iupS/jV8cogUDfP/HWovWapPW61SSAlYVB4X4oCm6K/cRQTtsiRMDmkDYRDUn3XGoqXAaDkgKuWjVHCNHgTLZDdDTfojDsECpik/CmcZYBeZ6DT6/sVc4v6sXB7w2A7FPoMdY5WY4yzm4oVvqMGD/OQw7HuXk8yEQywaM9vI9IslfUlTYFRf3P4vhkm1I/+dxI5FdGk6opUX15C9lXN7i1mPWoNdiE7cC9eLO2ohbMreVIXdbq8HkeWghdV3F1p0ITDtTYnkZi275euOSdLVGExueWCy1TX5akTCLdO89bD+b5O8gDgiVBv80CYV0kScJoBLWYgC6kSDD0WfkhWyWwWmKwLQ=;A0zMYSU3E7wznVa6YHz/Ig=="
+secured: "L6AtkR6A3kp8xuYkTECFsoeds4yMu2gfhyxh/VFl3Qm76QKA9R8HbwtRCmPoHN0XBeyNRlfgHvjuJeIQ7xCVR/Q/+4sicotGRT/WHXCD0G9xLwxadlgKpRYGnFSSff1TNYhy/n9+wwR2UpvPptWIpr3hwsKT9jl0Wb3dkIYqIMdDAu5afSkttQL/QUEvjVLbG/bEqiTXZGK13QbNU9cE0ljbTQUvjq/VKWvt5OhlMkaDJldpKPpf4JzDJWKLhakqdsex3r2BIMEsbf+N6Y4C+98FDxxRPW5wDEQghbxcWdI78/QU9gyd1QMwkxVQ2jeLabDx+uxb7P65PKmcRSRfFKWu9sXUsyPZJ0zqd22rjCw=;8yLEVt4cScrg/Dm8vPa9Wg=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "‘The Facebook Papers': What They Are and Takeaways From the Leaks"
+    excerpt: "Internal company documents obtained by a former Facebook employee-turned-whistleblower reveal a troubled, internally conflicted company, where data on the harms it causes is abundant, but solutions are halting at best."
+    publishedDateTime: 2021-10-25T17:47:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/the-facebook-papers-what-they-are-and-takeaways-from-the-leaks/3349930/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/the-facebook-papers-what-they-are-and-takeaways-from-the-leaks/3349930/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/the-facebook-papers-what-they-are-and-takeaways-from-the-leaks/3349930/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 44
+    images:
+      - url: "https://media.nbcnewyork.com/2021/10/facebook-logo-facebook-generic.jpeg?quality=85&strip=all&fit=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "4N3SM7PK+y1J8sVFLteW1UhJvLv8W/NA/aA6d0eZy2Kq5TIIFjnL1y5A7q7l6xDv+rsk/wsZ+qHoMD7+sjf5boHscZ8s+uqQJ/6JjsGFdlSybpnasV+ldaEpF7T/0wvYGo+VV39KvNjY9BGvnxGbZUXl7G41o6sOS44rtN11WqhrZr9NBzuAZsHPJRm8AjDsqebovKZaBI6bUFPzj6L5HV50OnWQzgLpPtXlIwoYkud/J95QzC9NXtP/dtaiwvq1CtbYCLTFel/rDZ9icGEwt5Im1SAwJXXK49Ib4/RHhuhHwbsOYJmqXwP08dzndam+lVb0667zn4DPeeC/YZRhsxTTZc4IngNN1kwyrEIPMWQ=;FiQehE7G14EOCgcuPqexmQ=="
 ---

@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Schools put the brakes on facial recognition scheme for kids buying lunch"
-    excerpt: "Schools in the United Kingdom have paused the rollout of facial recognition scans in cafeterias following backlash from data watchdogs and privacy advocates. Last week, the Information Commissioner's Office (ICO),"
-    publishedDateTime: 2021-10-26T08:21:00Z
-    webUrl: "https://www.zdnet.com/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
+  - title: "How facial recognition will change the way you travel"
+    excerpt: "Delta Air Lines and the TSA are rolling out facial recognition software at Atlanta’s Hartsfield–Jackson International Airport. NBC News’ Tom Costello takes us there for a closer look at what fliers can expect as the technology will soon be in airports across the country."
+    publishedDateTime: 2021-10-26T23:05:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/how-facial-recognition-will-change-the-way-you-travel-124677189642"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo124677189642"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124677189642"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 68
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/1635289423930_nn_tco_tfot_facial_recognition_211026_1920x1080-9bwbc6.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "US Postal Service Moves To Escape Facial Recognition Suit"
     excerpt: "The U.S. Postal Service is asking a D.C. federal judge to throw out a lawsuit challenging its use of facial recognition and other technologies to collect personal information, saying a privacy watchdog lacks standing because it hasn't shown how the organization was harmed."
     publishedDateTime: 2021-10-22T23:45:00Z
@@ -47,92 +52,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "Python Implementation of Viola Jones Algorithm for Face Recognition"
-    excerpt: "Python Implementation of Viola Jones Algorithm for Face Recognition. Training and Testing Data. The following algorithm takes people's images wit"
-    publishedDateTime: 2021-10-24T01:05:00Z
-    webUrl: "https://github.com/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 39
-    images:
-      - url: "https://opengraph.githubassets.com/010282d091366f58b1a4873b08253d904238403e8a8d25765c68929f0568e063/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Is facial recognition appropriate for school canteens?"
-    excerpt: "Facial recognition raised its head again last week as a number of schools in Scotland rolled out the technology in their canteens. The announcement that nine schools in Ayrshire were to employ facial"
-    publishedDateTime: 2021-10-25T06:33:00Z
-    webUrl: "https://www.linkedin.com/pulse/facial-recognition-appropriate-school-canteens-alistair-enser"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGwzFqEx3fiVA/article-cover_image-shrink_720_1280/0/1635095068055?e=1640822400&v=beta&t=ts7p278yn7xjuta3CM6OzyQnaaL0keCZGtm7TLUVsms"
-        width: 1280
-        height: 686
-        isCached: true
-  - title: "North Ayrshire Council to pause the use of facial recognition tech in schools"
-    excerpt: "Nine schools in North Ayrshire that had introduced facial recognition technology for school lunches have decided to pause it. Indeed, the schools were using the system so that pupils could pay for their lunch with limited physical contact."
-    publishedDateTime: 2021-10-26T09:28:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/north-ayrshire-council-to-pause-the-use-of-facial-recognition-tech-in-schools/"
-    type: article
-    provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 36
-    images:
-      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Council suspends facial recognition software scheme in school canteens that scanned pupils faces as they bought lunch over privacy concerns"
-    excerpt: "Nine schools in North Ayrshire in Scotland became the first in the UK to start using the system on a long-term basis last week after a pilot project in Gateshead last year."
-    publishedDateTime: 2021-10-26T14:44:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10132529/Council-suspends-facial-recognition-software-scheme-school-canteens.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10132529/amp/Council-suspends-facial-recognition-software-scheme-school-canteens.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10132529/amp/Council-suspends-facial-recognition-software-scheme-school-canteens.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 25
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/10/26/15/49659575-0-image-a-335_1635258544801.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Facial-recognition system for school meals halted over privacy fears"
-    excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
-    publishedDateTime: 2021-10-25T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/school-meals-facial-recognition-system-halted-over-privacy-fears-jkhtd295h"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F739d7170-35b2-11ec-8ef4-8e6db1a4b82a.jpg?crop=3144%2C1769%2C0%2C164&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "School meals facial-recognition system halted over privacy fears"
-    excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
-    publishedDateTime: 2021-10-25T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/school-meals-facial-recognition-system-halted-over-privacy-fears-jkhtd295h"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F739d7170-35b2-11ec-8ef4-8e6db1a4b82a.jpg?crop=3144%2C1769%2C0%2C164&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "UGvNZOKkRi1FLE0N4srszZuDX0p4HtjdgQklhi0XvU40GQpD/7CLwBfRyemNnBtW5zl/8gBvrm9YsR7OpfRCrA1wv2Sk5QOcG9TZFhmq+c21WomZBXAgsKaOMcAsRA0SbnI4kNeyOD83SBv3ERRkB2qtEKOjj4m646f0UFCGb8dj7GrO10psRCVQyZ8pWWuPi2+mFHUGYJ7TEc5D0EWka+7rDNzJ3LJ5RMy3+INCKk36J8c4dH//QXpHUVX0jdjcJ2WOJi0vCknAT0qtcCzmDgTMzfe2XEXNZgCs9QiGqhN5LIyYiXbMccZgiehDrEYvyn0jXeIrRE7e4kqkpvIUwKa/+xmcOxmHL8YuKO1J/ZNEm0y0jfsT0AndPoEeeTosD+LaGlU2VJrYRsGL22p51GaYOjSsRw5xtDnvTGFJqqsfqONeQMS9i8iJXU5FLZz95cFoEferflMFTNrVmH8o49sl5lADdy7Cem/wQQAoX14rkPLqwKT9IOpVAcg3mGxUAX/BQre2PSMrzuwKEuij0w==;WTimLR4oLsRa6DJpsOxSyA=="
 ---

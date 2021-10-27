@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Wall Street Quant Talent Makes Leap to Self-Driving Startups"
+    excerpt: "Wall Street giants like Citadel and D.E. Shaw & Co. are becoming a stealth talent pipeline for autonomous-vehicle startups, according to industry executives and headhunters. Self-driving companies are finding that quantitative researchers and engineers from the financial world are well-suited for creating models that enable cars to make their own driving decisions."
+    publishedDateTime: 2021-10-26T22:58:00Z
+    webUrl: "https://www.bloombergquint.com/business/quants-make-the-leap-from-wall-street-to-self-driving-startups"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 24
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qb/AixHJHARCpsWoA/tSvfRo1JEL5CxJ839W3Zzx2jAvgGRzExKjJL5iBq6e5m9nhQKATrHtQdwMK7Qa+U7U0q878zgBa6k4qd7MvZqlabGAgdMVPrWFwqCxL8g0uUcVhDhrbWEKYCU0jtU215gzc2G3top+1OmfSjgcOYtncsvMmqnzBJD8db5RwA3vdFvs2mqxX0rSNSAPgZDBvEqPr3DjpipBKOHowXTwW7xLmKoxu5TE+z5vfy+itAkAHrDWkYplnw9wAscumHFxkaflmVDJvcMNKf5vQRO01lsRL2uFxviVpRAjw3Vm1s4Zeak62Oe05g2d3llVdgw+UJatWuIlkjC82z+ubLt0VodJHFE=;d4y+X4MG8bVjelzog8NnWQ=="
 ---

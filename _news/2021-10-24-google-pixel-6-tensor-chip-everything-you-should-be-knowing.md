@@ -24,6 +24,22 @@ images:
     height: 1152
     isCached: true
 
+related:
+  - title: "This 20-second video tells you everything you need to know about the Pixel 6’s Magic Eraser feature"
+    excerpt: "Google recently released the latest Pixel handsets, and one of the standout features was Magic Eraser. It essentially removes unwanted objects from your images and replaces them to look like the background on the Pixel 6."
+    publishedDateTime: 2021-10-26T14:25:00Z
+    webUrl: "https://knowtechie.com/this-20-second-video-tells-you-everything-you-need-to-know-about-the-pixel-6s-magic-eraser-feature/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 10
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2021/10/magic-eraser-pixel-6-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+
 secured: "yWW9wfJUyqc7Zr2lA8IX1gbd4mhdWavNxx/FZoS3+lSQzXzGTdVdYFivaZWi/mLUbRVAuiDz4cHJGEXmyb7Pvr7q7CGKIx/0hodYabPvZdiJk6O9kD9AkWM+qd4NgoP3Zg8wPkKLz1z0GD6ZwT2uRgWdVZOg97rmjbkOxxsj6uy7xhbp2BOjpEmiR3kNIJVu8Hae721TIbPlkVxryVehfguas0rlpE4Bdb6bQWFQJQLdFDd7NeQpdoviiLjnjGlFZEAhOjR+KFd2chVrI9EYGnn2WTD3y87womYQ1VbhoO3l/KXc8sNOoHzZad0tbCvqVGjbkCtVXMkXrokptBJ5nQ3eoIa/H3qNXnITOGOrXlc=;yfd+gpY+JSLNg1cDd6bPSw=="
 ---
 

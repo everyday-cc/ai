@@ -32,6 +32,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Khoros Collaborates with AWS to Integrate Amazon Connect Into its Award-Winning Digital Contact Center Solution"
+    excerpt: "Khoros, an award-winning leader in digital-first customer engagement software and services, today announced an expanded collaboration with Amazon Web Services, Inc. (AWS) which will include an integration with Amazon Connect,"
+    publishedDateTime: 2021-10-26T23:16:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-texas-software-artificial-intelligence-e766123907604d94a90f74e9a590ba50"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ZUzTPF+ucB4Ut8uXiJKikztvCG5qvNMTZJcIFr8P0WEpBaMMqZ3Cii7OBhSjZvtUssGn/CHsVNFaXI1m5zGKnWy0jndxvY4dSoMIoAz4dJC1L2gbxQEolfJ2aK/jYvBQZqrzmJ+C9H56M1G9fcP8GvYeNFb6WX/WhAtzPWRCewwx4YGjHgEkEMD0EgaE2woYT/Hb0CacWc7xe+elziLwSsLAPq8regPT6tGGeZqKyWWHbuhSa538WJ+PM1sJReVmogS9lhptycTGaDr7oNYhNeUhvDd+hxo3B0l6s6XpsjbkGiKvv1baknymwOkvMnCHJVaF9Bf8l08evuFj1w4DpdQPOn2Wop5g6P+w9OhUxi0=;gJehlzRuoklTeTFz7NY/8A=="
 ---
