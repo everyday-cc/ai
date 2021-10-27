@@ -94,6 +94,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Facial recognition in schools: systems deployed in Europe and the US amid privacy concerns"
+    excerpt: "New facial recognition systems are being deployed across school campuses around the world, while others are being removed amidst privacy concerns."
+    publishedDateTime: 2021-10-27T21:25:00Z
+    webUrl: "https://www.biometricupdate.com/202110/facial-recognition-in-schools-systems-deployed-in-europe-and-the-us-amid-privacy-concerns"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
+        isCached: true
   - title: "Council suspends facial recognition software scheme in school canteens that scanned pupils faces as they bought lunch over privacy concerns"
     excerpt: "Nine schools in North Ayrshire in Scotland became the first in the UK to start using the system on a long-term basis last week after a pilot project in Gateshead last year."
     publishedDateTime: 2021-10-26T14:44:00Z
@@ -139,6 +153,6 @@ related:
         height: 675
         isCached: true
 
-secured: "yXeRboGfD7ZORAjCbxezNW2b1kKjWHllLMx8kC6+7ufqEqojDIa9EjFke2P72YMbSFEfpa+M3aM3WhQzlwbzke4skhHq+FpQBWtXIMnly8sc7psI2VDGEWjRt0Dn2h9YmkNxKJCOK7e5W/9I2Pxox8bKPuAS1hzXu/nkAdVxWKswhtinZveSD4tcl1uoEfPaCtVxP9xz/CGksap09/Ctmi+iGF7nFBZAgz+8ioIf3gerNOAm9pgC/0J+NGpGzPEZjIH2oKUNau+w+WarvUjAw1F20SDIlVERaYtrAdIDL4J/JAYcps/CAlcmtevatK1Y5Og0MI5h6sADu+cm1H1xEgTfIqUyknf+6tF18jprdAU=;ySOrzhDQnbb9T2DAz4yz+A=="
+secured: "BeTbDRJY10Tmm+LuWAWBUCWKCZa7o/asJiYw2HGRMOhUxL9Ui3rgvHHIs/jk4mZhBtUIflRC1aAnBMj0Ft7ObqfTk8H97N9ECDkdbkE+AF/Akg+G3tOjcZ7pjEfLtIKyMcjKZpqjyX87v38bxrkg+tJ6A/5RsQ4i5myn+UaWwkGdXuawV4BHINyjyvFmlcZkD41+JDOmGNwrK07GxGzh47RXjkYFKflpgmniJbH8B2FP5awk2Q+4gHbzeNruKFlYEjFvWcF9vt5P6YaXls+XlsAb2LvZq9JcmdWm8pdxO8wzmnyQXgyqH6aV+bEDnR+qiJdN0x0nDuWjzqY58EOxLXI0ITDcxd4AqNy5zUUpaOtZs3D0849BlbDU0xg/g2ZH3RtZVnFaAqpV2YO/r6N4fXi3Id3GeOk49P36/1h26od926AWQ7SGAzIVyKX0+eCnyUUJzYV27fNtwKLliwZtWjZAwH9QHukH0uN47t+G5d/j6uuabihyx0ug2v/oKb/psk5xJO4P1lj5t8v0ZSApLg==;hirKtSB4wQZ95+iBKbqvUA=="
 ---
 

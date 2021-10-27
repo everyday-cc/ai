@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-th
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving Roboats set sail in Amsterdam canals"
+    excerpt: "Scientists from MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Senseable City Laboratory, together with Amsterdam Institute for Advanced Metropolitan Solutions (AMS Institute) in the Netherlands,"
+    publishedDateTime: 2021-10-27T20:09:00Z
+    webUrl: "https://techxplore.com/news/2021-10-self-driving-roboats-amsterdam-canals.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/one-autonomous-taxi-pl.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Self-driving \"Roboats\" tested on Amsterdam's canals"
     excerpt: "Soon visitors to Amsterdam may spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash."
     publishedDateTime: 2021-10-27T19:00:00Z

@@ -158,7 +158,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -430,19 +430,19 @@
     {
       "path": "_news/2021-10-25-artificial-intelligence-and-machine-learning-play-a-role-in-endpoint-security.md",
       "title": "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security",
-      "excerpt": "K–12 institutions have discovered an emerging solution: machine learning–enhanced endpoint protection. A type of artificial intelligence, machine learning uses immense computer power and algorithms trained on large amounts of data. It learns ...",
+      "excerpt": "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology.",
       "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
-      "originalUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "webUrl": "https://edtechmagazine.com/k12/higher/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "originalUrl": "https://edtechmagazine.com/k12/higher/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
       "featuredContent": null,
       "highlight": null,
       "heat": 118,
       "tags": null,
       "images": [
         {
-          "url": "https://edtechmagazine.com/k12/k12/higher/sites/edtechmagazine.com.k12/files/2021-10/EdTech-CSAM-2021-CTAs-Security-Bundle-mobile_3.jpg",
-          "width": 300,
-          "height": 250,
+          "url": "https://edtechmagazine.com/k12/higher/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F",
+          "width": 1440,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -450,8 +450,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "ampWebUrl": "https://edtechmagazine.com/k12/higher/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/higher/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
       "publishedDateTime": "2021-10-25T07:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -513,49 +513,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-machine-learning-helps-predict-spread-of-antibiotic-resistance.md",
-      "title": "Machine Learning Helps Predict Spread of Antibiotic Resistance",
-      "excerpt": "Machine learning helps sort organisms by their functions and researchers use the days to predict how genes are transferred between them. This approach could potentially be used to stop the spread of antibiotic resistance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm",
-      "originalUrl": "https://www.medindia.net/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/probiotic-supplementation-reduce-antibiotic-resistance.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm",
-      "publishedDateTime": "2021-10-23T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1365,6 +1322,58 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai.md",
+      "title": "The state of AI in 2021: Machine learning in production, MLOps and data-centric AI",
+      "excerpt": "With lessons learned from operationalizing AI, the emphasis is shifting from shiny new models to perhaps more mundane, but practical aspects such as data quality and data pipeline management",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/",
+      "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5584082bdb757e39890090a19b6bac63d69c1a1a/2021/10/14/88c23a9f-31d8-48ab-beba-5638f912d9e6/datacentricai.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/",
+      "publishedDateTime": "2021-10-14T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -1,29 +1,50 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models."
-publishedDateTime: 2021-10-26T20:26:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/aws-announces-general-availability-of-amazon-ec2-dl1-instances/article_df986541-eb81-59d5-ac99-7843f8afd24b.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/aws-announces-general-availability-of-amazon-ec2-dl1-instances/article_df986541-eb81-59d5-ac99-7843f8afd24b.html"
+excerpt: "AWS announces availability of Amazon EC2 DL1 instances featuring Gaudi accelerators from Habana Labs for training machine learning models"
+publishedDateTime: 2021-10-27T00:25:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211026006274/en/AWS-Announces-General-Availability-of-Amazon-EC2-DL1-Instances"
+webUrl: "https://www.businesswire.com/news/home/20211026006274/en/AWS-Announces-General-Availability-of-Amazon-EC2-DL1-Instances"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
-    width: 640
-    height: 336
-    isCached: true
+related:
+  - title: "Amazon launches AWS instances powered by Habana’s AI accelerator chip"
+    excerpt: "Amazon has launched new AWS instances powered by Habana's Gaudi, a chip that accelerates the training of AI models."
+    publishedDateTime: 2021-10-26T22:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/"
+    ampWebUrl: "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 123
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AWS Announces GA of Habana Labs-powered EC2 DL1 Instances"
+    excerpt: "AWS has announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances designed for training machine learning models and powered by Gaudi accelerators from Habana Labs (an Intel company)."
+    publishedDateTime: 2021-10-26T23:14:00Z
+    webUrl: "https://insidehpc.com/2021/10/aws-announces-ga-of-habana-labs-powered-ec2-dl1-instances/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
-secured: "2T2zDPiS0k4G8of6aU3Y0W/rBGRnD0/nnPftKYSWuCQ++Vsu8s86JZXpe3wqDkjAtcMv7XLLVSqePLPxDR0EgNiYS4pXub6kQj4JCEGvvwz3qxrBcMy1qEKvs+uKnMQ17PMrU5oDE1K8zJgnYa+5e8MLW5JuPJDInczpB2goM1NCdrcM0Mzni3G1W4I+k++LBlyh51zUryEMVD3hpF2wh1Qb+XqpLE32CnmTcTAA6ZdURKK7xeLr9NRp8HJ7ZHG96uLmx0JhxKvmhV/53GloySGHuvN0iqtlCixTkwpGCOszUzZDKJ96folSlcQIEPwEHlOvbdElSuyU8wK6plIpdxVaP+zEpXUL6q2yabWPnAo=;ovArnL0u7ab6wFrOjqkiVw=="
+secured: "BxaQpPkxgyT1VvU8nnfe8jUMqdiSkbldXHWuKWib29ZTRxO2NqVYtB1E+HtjcODsMjFNenVAaOSb55GOOcaXPdOd1YY95MTsMjy1PTvDHwyPpST9c4YNJrRab0tEiwIYURZ3SvQUcdHQmSPAQbkj5/geLqDH9suZBRw3hRRcuDb+MNQ11pKxP0IJL9xgV94ItCx/oc49RZAxRGY8JlKgZbHsgsKU79k/yNWzawWOONRpM+OPGTNPaj4fl9IlOiwqr/5O4vDFDZOkHEumZ+5hvu4lXqMx+/N9icXP+UrPLxiDzj6SESb6jkPoDODkY0BhxlttBiwNOodhnH2tHg/R3oj9WwPgD723IXwJghqk+zI=;wn/t8YyuJ+dN0cGgpB+w+A=="
 ---
 

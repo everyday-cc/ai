@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 791
         isCached: true
+  - title: "Self-driving Roboats set sail in Amsterdam canals"
+    excerpt: "Scientists from MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Senseable City Laboratory, together with Amsterdam Institute for Advanced Metropolitan Solutions (AMS Institute) in the Netherlands,"
+    publishedDateTime: 2021-10-27T20:09:00Z
+    webUrl: "https://techxplore.com/news/2021-10-self-driving-roboats-amsterdam-canals.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/one-autonomous-taxi-pl.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "dyOKbZVHJ6rmiYgqFrYJdpcI91W2e5QCwHBhMy4TkxCLKo7LDyL6NYJ3D8CbIyfGgJlVMNuDPN+4wnA6EwCoj1fcz0r1cR/MT8Xsk9Pzuymka2+bVNmrk8XhmInlJIKSf/dS0aynBSAZhS22hOdwhWSPeOV7M70pVT5NOyAPjeFfVmHpBKy1aOCucK40r5Kzgns3WmI0i1+ZRgtB/c0gM850sKmwzjiBPyRxyxz3vEfpb8Iolg6hoKqZ4rRik1ojM7ClXvFpTQn8y1NygMn8ILD3f4f44geSSB6FIWEClDLsvAxzvDmBBQ0sT2roIo1m7c9+VXSESujWpM2TKF32qB4/j5Ru34B5osEr89dfvx+2ExowJHpz+dGm2rxOGjTne6TQXWmxY1N6+b6DP26GpzFeR9i8VjA3iCJHnQCLbnWLNc7t0r3rBFRPnQ6lVOCLr5pHn/uKncXM5gB+L02vItNU0ZDPerT/kjOO/WgU7UapUE3Fmyg6Pa6bcfInhWL0HWp6yIh6rKEX97Mo++ty7w==;ZQehBwzxWkMPVxYjbo/Hbg=="
 ---

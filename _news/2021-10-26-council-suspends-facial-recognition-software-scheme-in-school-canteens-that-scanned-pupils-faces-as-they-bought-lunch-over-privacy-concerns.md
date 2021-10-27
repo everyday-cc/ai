@@ -110,6 +110,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Facial recognition in schools: systems deployed in Europe and the US amid privacy concerns"
+    excerpt: "New facial recognition systems are being deployed across school campuses around the world, while others are being removed amidst privacy concerns."
+    publishedDateTime: 2021-10-27T21:25:00Z
+    webUrl: "https://www.biometricupdate.com/202110/facial-recognition-in-schools-systems-deployed-in-europe-and-the-us-amid-privacy-concerns"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
+        isCached: true
   - title: "Facial-recognition system for school meals halted over privacy fears"
     excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
     publishedDateTime: 2021-10-25T23:01:00Z

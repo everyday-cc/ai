@@ -49,6 +49,20 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "American Green goes live with age recognition in biometric vending machines"
+    excerpt: "American Green has made face biometric and age verification fully operational on its cannabis and CBD vending machines for customer onboarding."
+    publishedDateTime: 2021-10-27T21:51:00Z
+    webUrl: "https://www.biometricupdate.com/202110/american-green-goes-live-with-age-recognition-in-biometric-vending-machines"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/27174712/vending-machine.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "European Parliament Calls for Bans on AI-based Biometric Recognition in Public Spaces, Predictive Policing, and Social Scoring"
     excerpt: "Privacy News Online reported on an important set of proposals from the European Commission to regulate the use of artificial intelligence biometric recognition"
     publishedDateTime: 2021-10-25T09:17:00Z

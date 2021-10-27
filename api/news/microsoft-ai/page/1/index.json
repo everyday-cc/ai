@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -105,7 +105,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -788,15 +788,15 @@
       "title": "Spell Named a 2021 Gartner® Cool Vendor in Enterprise AI Operationalization and Engineering",
       "excerpt": "Focused on the urgency and the need for enterprises to deploy platforms that accelerate scaling enterprise AI into production",
       "sourceUrl": null,
-      "webUrl": "https://www.kotatv.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/",
-      "originalUrl": "https://www.kotatv.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/",
+      "webUrl": "https://www.wcax.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/",
+      "originalUrl": "https://www.wcax.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-kota-prod.cdn.arcpublishing.com/resizer/FREMUPCXogmuYv3X5OxCBlIuAyY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5TE3TWAROAQRUUKEKN2BSHAMOU.jpg",
+          "url": "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/FREMUPCXogmuYv3X5OxCBlIuAyY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5TE3TWAROAQRUUKEKN2BSHAMOU.jpg",
           "width": 980,
           "height": 2097,
           "title": null,
@@ -811,8 +811,8 @@
       "publishedDateTime": "2021-10-18T23:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KOTA TV",
-        "domain": "kotatv.com",
+        "name": "WCAX3",
+        "domain": "wcax.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -884,8 +884,8 @@
       "title": "WANdisco Announces General Availability of LiveData Platform for Azure",
       "excerpt": "Zero-downtime, data-first automated platform for Hadoop to Azure migration accelerates time to business insights in the cloud",
       "sourceUrl": null,
-      "webUrl": "https://www.wagmtv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
-      "originalUrl": "https://www.wagmtv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
+      "webUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
+      "originalUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -898,8 +898,8 @@
       "publishedDateTime": "2021-10-18T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WAGMTV",
-        "domain": "wagmtv.com",
+        "name": "KKTV11",
+        "domain": "kktv.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/schools-put-the-brakes-on-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
 type: article
 quality: 68
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -96,6 +96,20 @@ related:
       - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Facial recognition in schools: systems deployed in Europe and the US amid privacy concerns"
+    excerpt: "New facial recognition systems are being deployed across school campuses around the world, while others are being removed amidst privacy concerns."
+    publishedDateTime: 2021-10-27T21:25:00Z
+    webUrl: "https://www.biometricupdate.com/202110/facial-recognition-in-schools-systems-deployed-in-europe-and-the-us-amid-privacy-concerns"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
         isCached: true
   - title: "Council suspends facial recognition software scheme in school canteens that scanned pupils faces as they bought lunch over privacy concerns"
     excerpt: "Nine schools in North Ayrshire in Scotland became the first in the UK to start using the system on a long-term basis last week after a pilot project in Gateshead last year."

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security"
-excerpt: "K–12 institutions have discovered an emerging solution: machine learning–enhanced endpoint protection. A type of artificial intelligence, machine learning uses immense computer power and algorithms trained on large amounts of data. It learns ..."
+excerpt: "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology."
 publishedDateTime: 2021-10-25T14:40:00Z
-originalUrl: "https://edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
-webUrl: "https://edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
-ampWebUrl: "https://edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
+originalUrl: "https://edtechmagazine.com/k12/higher/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
+webUrl: "https://edtechmagazine.com/k12/higher/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
+ampWebUrl: "https://edtechmagazine.com/k12/higher/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/higher/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
 type: article
 quality: 88
 heat: 118
@@ -22,9 +22,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://edtechmagazine.com/k12/k12/higher/sites/edtechmagazine.com.k12/files/2021-10/EdTech-CSAM-2021-CTAs-Security-Bundle-mobile_3.jpg"
-    width: 300
-    height: 250
+  - url: "https://edtechmagazine.com/k12/higher/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F"
+    width: 1440
+    height: 500
     isCached: true
 
 related:
@@ -73,6 +73,6 @@ related:
         height: 405
         isCached: true
 
-secured: "HNnfDp/N/gA7lxYVfp5iheQNS6zOc/uKyEPUj+tniRfnOvwOpZJb8FGNnqM0VPVHt8LXuzIVgCcFgF6+oPufEu9ymLrbp1SS6wKN2sgnbWe9OR/D5Rdcrao0nKrUlmZK2e7RljNkInEZ26pOGdvbXc2R0XyYNT7jKTJF/PL7j6pMJw/3bEcnW8fB6kIErXjb2TfRjJI7Tds0eC6DP7yntE9xd2Ob+wXDAGE/HoSH9OfWPh5cVhq5CX0SEuPFZ2lgFkP14BD2nq9YY6XJ+KA3iGO4IMJJrpn121b4bUPE9YwjeSoHVJeRQjdrqjFaruXtsBrS5itz8o17ynPN6fUt6bm+BCe/uuzj/bTtliClkxU=;lXLEA4j4HTnoAAZiCJxCWw=="
+secured: "ovIilioQZnw7o0anncITbXS9Tar2QmQodCiy6dzIlxINlubSNIA830if+a2fbwaP6WBNxWSZrI0IqX/RxnNjkc2waiRIX/6++2PTW72ZvBFvDRjUQVCxqNKeTYeFSFKd3qullu6YoY35oEEQCvdG1hX1zfTgqIj7qkCHQLYxu0wBTwNeh0YGTdJuMXstm3M/y9wg9Zm46as3S8d8/cyhZtKQiRgqCsnEIre86+zqIMHIVkj1nx74CkASwxFImkj9WY4alqsx6bmbXT/ihXKyAcxwmfbllDd0LgFVFivEkGejX+dEeasSt2w0ldjP3qQR41S4+1v2Q+1m2JIgO7fj2m6yhDvgGb5jOc9T76F/x48=;j3rDosJMfbH+Sftia+3AbQ=="
 ---
 

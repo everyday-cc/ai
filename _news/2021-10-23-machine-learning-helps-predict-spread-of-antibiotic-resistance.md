@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-predict-spr
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medindia
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning approach effective in predicting antibiotic resistance spread"
-    excerpt: "Genes aren't only inherited through birth. Bacteria have the ability to pass genes to each other, or pick them up from their environment, through a process called horizonal gene transfer, which is a major culprit in the spread of antibiotic resistance."
-    publishedDateTime: 2021-10-23T03:14:00Z
-    webUrl: "https://www.news-medical.net/news/20211022/Machine-learning-approach-effective-in-predicting-antibiotic-resistance-spread.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20211022/Machine-learning-approach-effective-in-predicting-antibiotic-resistance-spread.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211022/Machine-learning-approach-effective-in-predicting-antibiotic-resistance-spread.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/pill_antibiotics-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Emerging Antibiotic Resistance Predicted With Machine Learning"
     excerpt: "Many novel traits are shared through gene transfer, but scientists haven’t been able to determine why some bacteria engage in gene transfer while others do not."
     publishedDateTime: 2021-10-24T16:50:00Z

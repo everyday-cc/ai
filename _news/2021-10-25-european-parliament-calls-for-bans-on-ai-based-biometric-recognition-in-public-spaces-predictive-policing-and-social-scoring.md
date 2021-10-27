@@ -55,6 +55,20 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "American Green goes live with age recognition in biometric vending machines"
+    excerpt: "American Green has made face biometric and age verification fully operational on its cannabis and CBD vending machines for customer onboarding."
+    publishedDateTime: 2021-10-27T21:51:00Z
+    webUrl: "https://www.biometricupdate.com/202110/american-green-goes-live-with-age-recognition-in-biometric-vending-machines"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/27174712/vending-machine.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "authID.ai Challenges the Industry to Replace One-Time Passwords with Facial Biometric Authentication Solution"
     excerpt: "Following its mission to eliminate one-time passwords and account fraud, identity authentication as-a-service provider authID.ai [Nasdaq: AUID] (formerly Ipsidy), today announced its biometric authentication solution,"
     publishedDateTime: 2021-10-25T12:07:00Z

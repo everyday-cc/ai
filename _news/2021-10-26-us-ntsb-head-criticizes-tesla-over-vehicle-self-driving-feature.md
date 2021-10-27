@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "NTSB head criticizes Tesla's self-driving features, calls them 'misleading'"
+    excerpt: "NTSB Chairwoman Jennifer Homendy called the company's use of \"Full Self-Driving\" for its latest driver-assist systems \"misleading.\""
+    publishedDateTime: 2021-10-26T16:36:00Z
+    webUrl: "https://www.cnbc.com/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106905792-1625177109302-Tesla-fire-PA1.jpg?v=1625234854"
+        width: 4032
+        height: 3024
+        isCached: true
   - title: "Elon Musk Says ‘Some Issues’ Have Forced Tesla to Pull Newest Full Self-Driving Beta"
     excerpt: "Although Musk didn't identify the issues that led to the rollback, some drivers said they experienced problems with Autopilot and Traffic Aware Cruise Control."
     publishedDateTime: 2021-10-25T07:17:00Z
@@ -224,6 +240,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/EF25/production/_118712216_gettyimages-910879198.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Gov Official Tears Apart Tesla’s “Full Self-Driving” Feature"
+    excerpt: "It’s misleading.” Full Self-Driving is an optional $10,000 add-on to Tesla’s Autopilot suite. The feature has repeatedly come under scrutiny, especially once Tesla started testing a beta version of the software with the help of a small subset of drivers on public roads in October 2020."
+    publishedDateTime: 2021-10-27T21:16:00Z
+    webUrl: "https://futurism.com/the-byte/official-tears-apart-tesla-full-self-driving"
+    ampWebUrl: "https://futurism.com/official-tears-apart-tesla-full-self-driving/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/official-tears-apart-tesla-full-self-driving/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2021/10/official-tears-apart-tesla-full-self-driving-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Tesla rolls out new Full Self-Driving beta version after brief roll back"
     excerpt: "Tesla has rolled out Full Self-Driving Beta version 10.3.1 following a brief roll back after bugs were found in the initial rollout of software Version 10.3. Users' posts claimed Teslas with the latest 10."
