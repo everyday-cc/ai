@@ -22,12 +22,17 @@ related:
   - title: "SiMa.ai Awarded the 2021 Technology Innovation Leadership Award by Frost & Sullivan for Edge Machine Learning"
     excerpt: "SiMa.ai, the machine learning (ML) company transforming the embedded edge market through high-performance compute at the lowest power, today announced it has been awarded the Frost & Sullivan 2021 Technology Innovation Leadership Award for edge machine learning."
     publishedDateTime: 2021-10-25T14:11:00Z
-    webUrl: "https://www.financialbuzz.com/sima-ai-awarded-the-2021-technology-innovation-leadership-award-by-frost-sullivan-for-edge-machine-learning/"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-7cefc1817eda461ab56bdf196c27fa91"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 15
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "cfUZqiRlf/+kWHoDqboy53dyVmqy1yMAwOiySs62Z3yFE2gy9LuGuIq8ERRpC+G3Lko9PcagU+lNt9/VFJoslvDj5ISBnhuhgczjxBtGmxFmvdESLKKqUjFK/d/tOptb6aPWXddiNE2Lnj9n7GAIlFocH7Nj8xKc/Xq9BNvePtGfRfc2zKuQ5+hv91bV+HEVzyXerTU6k4lY5LhkSLh3GcuQ3ODlYtwhkneJcsShkNUXKfHplPaeK8BTz7h1D3ReJbGIfc/UI5BTJFs/UkszhRfZI9HomK46+hAV/6cAl2/W3we48oQ5NLc3YjyXqntUIJIQg8MVnwK/YlTd9xH8iBiHj27huMv37mSW062k+3k=;0HuoH0RghtwwwaPGxIPGoA=="
 ---

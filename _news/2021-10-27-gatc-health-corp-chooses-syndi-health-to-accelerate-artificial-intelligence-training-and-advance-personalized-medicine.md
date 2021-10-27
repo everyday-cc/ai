@@ -2,30 +2,25 @@
 category: news
 title: "GATC Health Corp chooses Syndi Health to accelerate artificial intelligence training and advance personalized medicine"
 excerpt: "Syndi Health and GATC Health Corp today announced they have entered a development agreement, which could accelerate GATC Health's product development and publication release timelines by as much as 50 percent."
-publishedDateTime: 2021-10-26T17:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211"
-webUrl: "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211"
+publishedDateTime: 2021-10-26T17:33:00Z
+originalUrl: "https://www.uppermichiganssource.com/prnewswire/2021/10/26/gatc-health-corp-chooses-syndi-health-accelerate-artificial-intelligence-training-advance-personalized-medicine/"
+webUrl: "https://www.uppermichiganssource.com/prnewswire/2021/10/26/gatc-health-corp-chooses-syndi-health-accelerate-artificial-intelligence-training-advance-personalized-medicine/"
 type: article
-quality: 60
-heat: 70
-published: true
+quality: 28
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Upper
+  domain: uppermichiganssource.com
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/1669428/GATC_Logo.jpg"
-    width: 603
-    height: 400
+  - url: "https://gray-wluc-prod.cdn.arcpublishing.com/resizer/twzb9qybJ8O4jkDBIw9ARsxE-YI=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/CMZ767KGGK2NOSH5GEUSPNHFNU.jpg"
+    width: 980
+    height: 650
     isCached: true
 
 related:
@@ -44,6 +39,6 @@ related:
         height: 650
         isCached: true
 
-secured: "eat9EtI3hSez4GymiM4bqYXTkwZtzRmtFbEC2HvD5AwajWmcdcCw4BFgJJvoLUh2/kBi4CMheNxwDcZoRWVZBC1QwZIKLVCk72gvuYIaeNJBE9oWCDIX45/3Sfd3OxCFBw7wSpN7tEMGnh2D7Q86puE/ToQNpTvocpZ2gXW4CA5D5XxDhDcOms4SHWgW760KPPd/OjO3hXjejODJGsYnt9rwSXgfpJmiqvv6haBW63ZHJzmWW9cSNsAQr3C2kcarjws//GF4/0+hEEa8TKdTxdcrqRYRfi7f7TXlus42H03yMABI8zDXDpJ4zWlb0AgDCfwH4YuCQULnVsytPWgwATzasfJ8+aa4ddyifX9rM2dJSkWo0peyQhoUtU4kQQxoVn0W2c+PWyO84lswo3Uz/jWUoigfM9rTnLQ6VV8FRrwjBL3OyzszMxAYzTIcdROYwnbsgzH18yvwHxHi6AnJYMJ7PXxDbuHEAU5fMelN2h9NosxF/2am6ljEIKQXda28t8jYz3j9vBCQmYnx7IYlmQ==;7Dtp+Zd8Akj2kK+XXWFAaA=="
+secured: "vmLqRM/VkjCBtHXbH9kPZBwdxnZX9mxCw3CtQkXbRArSlLel2ALmx1Ae8JlzpsBkzXZYRky4UKNClEyVsoJAF5V032zVdp0dKXa65py/+5EOv7lXkS5iUB8c5Fy2HwUfev0ceFMqNMhO1nd5fW6PWgke03iZGqVv75LRRRPMvg6MUfdTPpNRDL3ja0y9fqVIpU3f6L4gGg9WKL7krlpIJMjMZb/JtkFuQ8Pgt4zaxjOiT7sFauLmnI5+Lri6R3qcEiDCvoIxpkvSqjAkt8iMzj/c0lh+SGqHjJnTDK4Zb6W+UB6s6MchpbctWTyB3ke2qYKsARa80PxmpSzVhLQFiKK3qwInMxodQYJCIyrSDwE=;a3COJz8/pWxQ+q7guW3rIA=="
 ---
 

@@ -149,6 +149,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
+    excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla Inc's decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
+    publishedDateTime: 2021-10-25T16:35:00Z
+    webUrl: "https://www.reuters.com/article/tesla-investigation/update-2-u-s-ntsb-head-criticizes-tesla-over-vehicle-self-driving-feature-idUSL1N2RL0ZP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/OMt-Q2Hm81EOoyhLCyLx100pEGU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NRLMN75CQ5JPLMNEPKAFQEQK2M.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "U.S. NTSB Head Criticizes Tesla Over Vehicle Self-Driving Feature"
     excerpt: "NTSB Chair Jennifer Homendy wrote a letter to Tesla Chief Executive Elon Musk about his decision to let drivers request access to \"Full Self-Driving Beta technology\" before the au"
     publishedDateTime: 2021-10-25T17:35:00Z
@@ -269,20 +283,6 @@ related:
       - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
         width: 1001
         height: 563
-        isCached: true
-  - title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
-    excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla Inc's decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
-    publishedDateTime: 2021-10-25T12:07:00Z
-    webUrl: "https://gazette.com/news/us-world/u-s-ntsb-head-criticizes-tesla-over-vehicle-self-driving-feature/article_7480c9a5-df8a-56c3-bab8-b6f39ccf13b8.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/5/28/52822793-5a13-5702-8f3b-f8d60cdba88a/6176b97bae71d.image.jpg?crop=800%2C450%2C0%2C41&resize=800%2C450&order=crop%2Cresize"
-        width: 800
-        height: 450
         isCached: true
   - title: "Tesla Rolled Back Full Self-Driving Beta Because Of 'Some Issues'"
     excerpt: "Look, it's beta software, these things happen. It's beta software controlling 4,000 pounds of car on public roads, but come on, don't be a luddite"

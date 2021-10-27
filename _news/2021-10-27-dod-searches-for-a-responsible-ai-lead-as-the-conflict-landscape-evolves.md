@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2021/10/dod-searches-respons
 webUrl: "https://www.nextgov.com/emerging-tech/2021/10/dod-searches-responsible-ai-lead-conflict-landscape-evolves/186393/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "UC creates recommendations for responsible use of artificial intelligence"
-    excerpt: "The University of California has created recommendations to create a path toward the responsible use of artificial intelligence in future UC endeavors."
-    publishedDateTime: 2021-10-22T07:51:00Z
-    webUrl: "https://www.dailycal.org/2021/10/22/uc-creates-recommendations-for-responsible-use-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Daily Californian
-      domain: dailycal.org
-    quality: 38
-    images:
-      - url: "https://i0.wp.com/www.dailycal.org/assets/uploads/2021/10/AI_Gerd-Altmann_pixabay-license_creative-commons.jpg?ssl=1"
-        width: 1800
-        height: 1160
-        isCached: true
 
 secured: "KeFCPMqhL7M/ByhdPLFSnCD2Zuf8eycGhIhyJLnJORpgp2q8As4bmEV202ixdphVeSvxqRoweKtB/ltW9Kt62DLM4ejPP1ySpFT/xCAAUWKk/fU3zlfGJQvFlvaQzQrZ8JtGgAxLEDHe9sY6wNkcqRxUfmxn9o8WJxGcRfSi53wDTinDSJUdYmzhakdlDimnqBmo/kDdcPMoy1DnZA96mOq68yolSbakrtdjmwkPrhb5QZwEX6jfdr8XEO/qo/2kQElfErjnqVfvIFH6a+qMDxKBVEcW7ia5iteyiUDDGKkLcE8iMsU/wmVphGKxahpA3+X0hbl0aknbgXtVO687hvyS4I0j+Eo2Q7lF6sPdiWRBtLY07KvIhd7aJmkt56QQKwg2F6hHSvVBdNeNGDtGYKpGe9oSwcDpEXNNy6+XHC0yTMZBKgLX0e8LMsnt+FXiQzxqOD/6ikTlLELPrPii0fdh/aLMuIvQ3WhBHA1PaWR1vEoRuM+GO6Q1Bu7G4DBQ39UKPGKZWu0YVQAWizAupw==;zPjos69+tXSmhWRabPFQnA=="
 ---

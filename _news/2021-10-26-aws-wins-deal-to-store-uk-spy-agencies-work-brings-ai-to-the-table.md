@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-s
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20150915045334_cloud+security+stock.jpg&w=480&c=0&s=1"
         width: 480
         height: 297
+        isCached: true
+  - title: "AWS wins contract to provide cloud storage to UK spy agencies"
+    excerpt: "U.K.’s spy agencies to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence for espionage. The Financial Times reports the AWS deal was championed by GCHQ,"
+    publishedDateTime: 2021-10-27T01:06:00Z
+    webUrl: "https://siliconangle.com/2021/10/26/aws-wins-contract-provide-cloud-storage-uk-spy-agencies/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/7985695591_31c401ac86_c.jpg"
+        width: 800
+        height: 564
         isCached: true
 
 secured: "Ov1KCgSAo6d8saMCL+H29a1DE2MqXpCIbzJmllEY27xYwSsGGCv3up7Z2ErAcoXFVUUm63dTb9CMoSkVWBusukK0BZEWEfFu2CpmBf8nKEUmsReSmBidlHlehaGCMEuLPAZMkshnRLjrJBE91IWhb3js7BThAU0fpF1zs0rhRllBvspnznIhE0mRE90+930qpn+RFgMV3YfQQI4+lfLsrxDhu2Jq6j5WmguNC82vnReRW0f4XjlncC8h0GNY7k7O+v808hb1PkbqxwYi24lTB0/ktbBEpCRErQjrvBAD/2Hv0HX/chkaoLMi1rRrYzv0q6Xe7NeKsu6FftKwnnFjqgpnXfC5cp9eU4dw3ILlSyGocGx9hi59F1f2hasmhDMWhmSqdNJFJNlaKAMJEODunD8go1F9sl6NXBavIaAn/tA/hZmoS7Rs5AtZkLgPxr8wCg+XxDP8qUjkfu1+X3I9HXtFgKayPwsw55XZ5KHnCqU7mWK7wq1RjPYx3Z+VKzAeMJegrphU3o3tQYcwFqB6Gw==;UZsHIt29crZFar6e8sAs7Q=="

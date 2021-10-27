@@ -81,6 +81,20 @@ related:
         width: 480
         height: 297
         isCached: true
+  - title: "AWS wins contract to provide cloud storage to UK spy agencies"
+    excerpt: "U.K.’s spy agencies to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence for espionage. The Financial Times reports the AWS deal was championed by GCHQ,"
+    publishedDateTime: 2021-10-27T01:06:00Z
+    webUrl: "https://siliconangle.com/2021/10/26/aws-wins-contract-provide-cloud-storage-uk-spy-agencies/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/7985695591_31c401ac86_c.jpg"
+        width: 800
+        height: 564
+        isCached: true
 
 secured: "vpEfXDmR5tLlGaiXiBMkqLvyYUO4AvE5o6s7uggc9zrtjYu6o5E+LmrVRA2kD/jYkUwGwZjH7vuUvv2YlHXc17O/9rGpNaNN1kBwz17lHzn/rFb/2pBmtKLgH14KOaGvQTUE0WJ67thVTziDzZUxihULkvjCz13xRmmj27SDbLetYKAgFTIHam9oDIbPJZUSJlgBZCkG910bxYyeUHxX/h89wwTqmrFtcy/sTBEgUWweCelgrTMSwIF6QlbxXfCytfiBJzdPZO6vsGyKq9Chpl4W1F35BctxkUD1U36CgAivYzN6n9XDqGwyFj5IMsXp/BALq9XibQokZSmXkrrNH1J323gzeZp0WJodfP1B8jA=;Ezf8+N63bUGUN3xy7cQHBQ=="
 ---

@@ -1,55 +1,50 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
-excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models."
-publishedDateTime: 2021-10-26T23:42:00Z
-originalUrl: "https://cloud-computing.tmcnet.com/news/2021/10/26/9478106.htm"
-webUrl: "https://cloud-computing.tmcnet.com/news/2021/10/26/9478106.htm"
+excerpt: "AWS announces availability of Amazon EC2 DL1 instances featuring Gaudi accelerators from Habana Labs for training machine learning models"
+publishedDateTime: 2021-10-27T00:25:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211026006274/en/AWS-Announces-General-Availability-of-Amazon-EC2-DL1-Instances"
+webUrl: "https://www.businesswire.com/news/home/20211026006274/en/AWS-Announces-General-Availability-of-Amazon-EC2-DL1-Instances"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 related:
-  - title: "AWS makes its Panorama Appliance generally available"
-    excerpt: "Customers can update their computer vision application in Amazon SageMaker and deploy the model to the AWS Panorama Appliance, thanks to the device's full integration with Amazon SageMaker."
-    publishedDateTime: 2021-10-22T09:27:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp"
+  - title: "Amazon launches AWS instances powered by Habana’s AI accelerator chip"
+    excerpt: "Amazon has launched new AWS instances powered by Habana's Gaudi, a chip that accelerates the training of AI models."
+    publishedDateTime: 2021-10-26T22:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/"
+    ampWebUrl: "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 123
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570814329/itpro/aws_logo.jpg"
-        width: 1260
-        height: 710
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "AWS Announces general availability of the AWS Panorama Appliance"
-    excerpt: "Allows customers to use existing on-prem cameras and analyze video feeds in edge environments to improve quality control, optimize supply chains, and enhance consumer experiences"
-    publishedDateTime: 2021-10-22T18:25:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/AWS-Announces-general-availability-of-the-AWS-Panorama-Appliance-149718.aspx"
+  - title: "AWS Announces GA of Habana Labs-powered EC2 DL1 Instances"
+    excerpt: "AWS has announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances designed for training machine learning models and powered by Gaudi accelerators from Habana Labs (an Intel company)."
+    publishedDateTime: 2021-10-26T23:14:00Z
+    webUrl: "https://insidehpc.com/2021/10/aws-announces-ga-of-habana-labs-powered-ec2-dl1-instances/"
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
-        isCached: true
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
-secured: "uHg2Sz0qpFWYT8Yc29kM2cPvReT27n7SoAgN0WOW3i9qyvbgxYnOnamazS83cHZ3Ryjigjd20OfaXzMD+H4lQLOkqfvps4qk+aIvaiPLZ+RN7phYUHpNoZxz3I4nJs4z2LER8CySum+4x+a3dGBc97Y3eAy4SAjqfYM21pkYLv/MWaXoCSEzh96OCR0YmfWIMM850uKrlOeLS1KviPcRJzpgAykxgV6Aapjy7MCDb9GfrjOPF2KKgZsZM24NwDZ6RPR58VKYMeModDeDZIcHf7TyggXNPG37apt33LIGzbp9wfxqCH5B2SuXX8UqUpkxYtZIr2NjQs8WsFKPuui9Y76hcMUW/5JcJeBL66YErW8=;WvgQqkbSS1/DmwkgNoRFpw=="
+secured: "vjA2YOQTKUFU9JSAE/ZL/nSW614gk7QGfPFyyQtRToEETFKRFeDTN3O4AOp2cRQsp2L6qiJADax8fIcrRJPnTjMxFvl3Fcq8bnJAEQfuoMDEin/RygjOmIUyPj7psaU0NmSWXpebYJl43WzS00bEG6i93cd1eifC1krYBaT+bxGlE1wA3ZmB0iNah++egTNLi/g5IWESp6wAlnUFG483pGWYJzi0wstzaHefMnQIa0qLX3LE67luGtcA9XafG08jkP/6HZqKLDBdAMtg3zPEPfQ99XiyFQj6W85E3d8qUJVev70qMVtcBY1rTgMGSb4GRO3ShduVredcYrt4JwSRvE9T4yTLERGguU52l5iSyzU=;PS3nMXP3YDKFbUe5YYUDzQ=="
 ---
 

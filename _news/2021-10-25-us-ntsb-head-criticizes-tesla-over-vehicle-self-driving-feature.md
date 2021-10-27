@@ -2,26 +2,30 @@
 category: news
 title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
 excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla Inc's decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
-publishedDateTime: 2021-10-25T12:07:00Z
-originalUrl: "https://gazette.com/news/us-world/u-s-ntsb-head-criticizes-tesla-over-vehicle-self-driving-feature/article_7480c9a5-df8a-56c3-bab8-b6f39ccf13b8.html"
-webUrl: "https://gazette.com/news/us-world/u-s-ntsb-head-criticizes-tesla-over-vehicle-self-driving-feature/article_7480c9a5-df8a-56c3-bab8-b6f39ccf13b8.html"
+publishedDateTime: 2021-10-25T16:35:00Z
+originalUrl: "https://www.reuters.com/article/tesla-investigation/update-2-u-s-ntsb-head-criticizes-tesla-over-vehicle-self-driving-feature-idUSL1N2RL0ZP"
+webUrl: "https://www.reuters.com/article/tesla-investigation/update-2-u-s-ntsb-head-criticizes-tesla-over-vehicle-self-driving-feature-idUSL1N2RL0ZP"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Gazette
-  domain: gazette.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/5/28/52822793-5a13-5702-8f3b-f8d60cdba88a/6176b97bae71d.image.jpg?crop=800%2C450%2C0%2C41&resize=800%2C450&order=crop%2Cresize"
-    width: 800
-    height: 450
+  - url: "https://www.reuters.com/resizer/OMt-Q2Hm81EOoyhLCyLx100pEGU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NRLMN75CQ5JPLMNEPKAFQEQK2M.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -313,6 +317,6 @@ related:
         height: 600
         isCached: true
 
-secured: "lUaswB2DQkglNkfgrWyZOVh85Ty30jzjr74nF20MRgQRjK3NF7sVj72K9QYcON0rd2P4ADeMxaLX5vBqw97iDcQ9qMBc+D0xrJEJ5gNKTsMI8Kzla7K3ZoNlMkioSDw5JnucMuVv4/4+xZTHCGnNCFDXuGrW5WxXbofKXAcI93i/DB2ySIHzlS71c5mU0y/73MWufinylvPH7tLY6ASgmE3QdWUKNVmQ7ELBdbNnr33SCDanaa2wPRWW61WwvgPbFX2I9+k68n9taD1Yaj5CRIG4fXxRkMN4QSpPaVdbHLBa4wa9Rz9GfupXlTkoqwQTtXsAfN+Bf6YIBT/h9NjEaV2idxwL9ErTiUjal3sRRLs=;WDQtay82LMPnkkPLAZJ2DA=="
+secured: "jwu9vqB3obwbZl3nb4ZxPma7jnzQxrP98bvRXGIv3InEeK6BDj7AZo+013AnIIwLChMljXjgaKU8ZXMr2ABBZxWFePaWTXwK4YLFd7exCgxyq/WzwnKUjZ0VB46NAqS+NXxizo/7/Twhs6V/vqZ4DEIIjElmkLZKg+Q4DeNtwE1JtiWKlCkJ0j8mHBoK9yAGvSu0+FJM7PgPaXZPMApJQVfbcj2P5jwgkU1LdpbY+Ajet5u1pIa2zunOd/UT00VtQLZuCHpmrZre/cT2H8tnkT7kEHSSrDW0cKGwwmh7qYHJjVo5D1Ub+NoIzXenQiBojFYlEFN0mJTcPWsPjpnSGrrn3WFUjRk5d06uj1QdCf8=;DWWDz1CUmVhkSKjPEsg9QA=="
 ---
 

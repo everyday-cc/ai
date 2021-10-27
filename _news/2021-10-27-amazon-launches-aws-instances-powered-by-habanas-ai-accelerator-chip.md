@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powere
 ampWebUrl: "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/"
 type: article
-quality: 121
-heat: 131
+quality: 123
+heat: 143
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI
   - AI Hardware
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all"
@@ -32,6 +33,15 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
+    excerpt: "AWS announces availability of Amazon EC2 DL1 instances featuring Gaudi accelerators from Habana Labs for training machine learning models"
+    publishedDateTime: 2021-10-27T00:25:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211026006274/en/AWS-Announces-General-Availability-of-Amazon-EC2-DL1-Instances"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
   - title: "AWS Announces GA of Habana Labs-powered EC2 DL1 Instances"
     excerpt: "AWS has announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances designed for training machine learning models and powered by Gaudi accelerators from Habana Labs (an Intel company)."
     publishedDateTime: 2021-10-26T23:14:00Z
@@ -42,6 +52,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "A4u7RfMqP1xyRBNqmuRDh3zzcEYy5bFBkiLt3jWP8hiAmqYhGlDCDCfB7MHmz1UaLaIsW9kEHWKDLC1dSGNXdTN3ik22K1Dd1cbpZ2dGLPeoPX1da55undXGG677AeXCff68WdvrrZ4qX43P6RIEpMcZTDwzbW/wW7ayEL6hSKYfY7karlyR0w7BpVpw11LTDfwUIPR0GqxqIVga3n2NiKmWCEAtcBSDgvgrG77UkRminn6FPHsekDAE94xsSzrozncMo1X03I2ZJ5MbHeqVv7ymtxJIQ1YUuxbCu1k5B20CU9nLnJcYYLAyXgQWRNfYeQGqOjf3FyixIjqWkc90rmd8sqD92BdomAAN4tAhvCY=;ZJ1oArr6b/rai2oX5uaBew=="
+secured: "plo9P4rDKPzl4edqNjFhJ15mn6zqvqtkDmQPdxy+KGq+0hUScBEGp7vG7AygxCDo4o1rsD62CwKWcy0hfnAK8g6vI5jbyT6+zQzCdtXm2+jmTzvv0IQTlxVbvH0QNJxvdFlXcX9x3edA3oIz8UQ/U9pl3BP+bZ6W14Tnt/uw7FzmhLaqDYG6T5oczPjbfc3EskP//Xthvu57DjjAQyMk2TXLoXHkeom1L8VV/bWkT0rLiPYQ6e3pghI7n/XN6k9Fg+xZrST40WA1I2BzzdOoM+z9g+VVebCleh8PYOeIqzSdeCKuagkU8TNXy6g2eUDTg6L5ox14VEKg5CDrEcspP/ZpsHUBht05m/uxcPgSZakurJOFw2V4ZAMa7xGnSD+vSGWHQRAd1Yn1QlzQVvuoL8aghdSfofZ933O1ip73AQ2SfyaCrJG+u00a/Pz38Foqa5GYtR7IM+7KLXzTakusnE51Jd1/4lQ3+jj60HdZfCU7tPiPw9wCCIPSTe6REopHVhbBJxMsEf0sl3ggjo57Bg==;arkisIk8ZFwblxxGZbysWw=="
 ---
 
