@@ -40,6 +40,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
+  - title: "Facial recognition in schools: here are the risks to children"
+    excerpt: "Several schools in Scotland have paused the rollout of facial recognition technology in school canteens following inquiries from the UK Information Commissioner’s Office."
+    publishedDateTime: 2021-10-27T19:04:00Z
+    webUrl: "https://theconversation.com/facial-recognition-in-schools-here-are-the-risks-to-children-170341"
+    ampWebUrl: "https://theconversation.com/amp/facial-recognition-in-schools-here-are-the-risks-to-children-170341"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-in-schools-here-are-the-risks-to-children-170341"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 59
+    images:
+      - url: "https://images.theconversation.com/files/428514/original/file-20211026-25-138af68.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
   - title: "Python Implementation of Viola Jones Algorithm for Face Recognition"
     excerpt: "Python Implementation of Viola Jones Algorithm for Face Recognition. Training and Testing Data. The following algorithm takes people's images wit"
     publishedDateTime: 2021-10-24T01:05:00Z

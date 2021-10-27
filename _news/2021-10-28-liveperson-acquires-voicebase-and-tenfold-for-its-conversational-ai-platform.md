@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -58,7 +58,16 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "LivePerson acquires VoiceBase and Tenfold to power scaled Voice AI innovation"
+    excerpt: "Through these acquisitions, three powerful technologies combine to create a unified, AI-enabled system for customer experience: VoiceBase's superior speech recognition and analytics capabilities, Tenfold's advanced voice,"
+    publishedDateTime: 2021-10-27T19:25:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/10/27/9478853.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
-secured: "EirOxzjwAOkv/rfIQOVTt2DOSNnVQXABOlTLird+yrhiqYSZY5W5AmicizQvKSc6oLhcJ5TuAtMXE6TyujHNZUjDX4EuN28hPFkT/Iwt+KEeRX8iUxj2ZtMhTVjI2tBm75HqIsJij+gObZa/vEOkBtWDFwygtj9P9Is4VHfaVmFGXshdzQ66bZmoJCWubXbiwb+gsj2C99qO+JFLg43xO0v7zcDXkGC6m4j2GymqyfIGtrOZAcDeYD+s8SHcw8FhK3Bal0YjF3mYpex4/syHP8jPHvgV04Xvh8ANi8gmUrB78EKnuweb8SlOLffsN8lbJwaVZO18iAYex6a/y9g5atAsxTcqrIjeXOam5FPFzG4=;ebuy6Qhoo5hEm121xM2HdQ=="
+secured: "taO0tHEYg49xdE1xeG3oYSqF69DwW4WmnOIvd6MXZZhRUXtRrR7HiO/K3+TpeEovi+iv+v0dDMCQaDQgG8Dy4H5Jz55CGCxLUegy5VHPHTszyYMDYTa7kFtRe9Aj0yBe3DGO37geQnhF8TPZfZ9qokPSl1gjtzkMLbOyiJrAyAGyyFrar1TQle54v2ejcOxwNbTubIZKz75hmtwt/TCo7IPS8lDP3hkI+U6BRYQX8hRd7aa0sqT5mOILtSgT0ZbJ3jE/wNqTxkGimRAEoEeMbUO86LMxJc+jcLlgV4fvQj+VXDGiEKKEFRNJV/uVCws8LCpfY7PjiKIFo85Ee/uO54VyZiBsqYQwfUzebybxmj8tqcBYLGXIOxKP57UG0laWnVVeddh3pvQiiWvtHnlhxo+Ul970wP6XBBvRKeoDKQ2yWYvX3NwfZBW4cLKhlgYpT4QvxPsXm3vyAFNbu1jF+xu+mZS/ztJzDLyJuhDJmhx/UKs8OsJOJM5xmwDKy0+/CkQe6duGahB8BFpo1BfG7w==;dEbCvxpP4xpUi3PeS0O4lg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/world/desperate-for-workers-restau
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/desperate-for-workers-restaurants-turn-to-robots-7617771.html/amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Desperate for workers, restaurants turn to robots"
-    excerpt: "The CDC estimates 48 million people get sick, 128,000 are hospitalized, and 3,000 die each year from foodborne illnesses. Using robots like Flippy improves a kitchens cooking accuracy and consistency,"
-    publishedDateTime: 2021-10-26T05:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/desperate-for-workers-restaurants-turn-to-robots/articleshow/87271695.cms"
-    ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/desperate-for-workers-restaurants-turn-to-robots/amp_articleshow/87271695.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/desperate-for-workers-restaurants-turn-to-robots/amp_articleshow/87271695.cms"
+  - title: "This Restuarant Chain Is Putting Robots In Charge Of Its Deep Fryers"
+    excerpt: "Advertisement The robotic technology startup behind the burger-flipping robot, Miso Robotics, announced a collaboration with Inspire Brands’ Buffalo Wild Wings on Thursday. Flippy Wings is a “robotic chicken wing frying solution” that helps brands maximise chicken wing output,"
+    publishedDateTime: 2021-10-27T18:28:00Z
+    webUrl: "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/"
+    ampWebUrl: "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 74
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/4fcb5faddfdec3c5dcdd640168970b0a6747.jpg"
+        width: 1300
+        height: 730
+        isCached: true
+  - title: "Buffalo Wild Wings Is Allowing Robots to Take Over the Deep Fryer"
+    excerpt: "Artificial intelligence-enhanced robots have already overtaken the burger flippers of America — and they’re coming for the deep fryers at Buffalo Wild Wings next. Miso Robotics launched its burger-cooking robot arm Flippy back in 2018,"
+    publishedDateTime: 2021-10-26T20:10:00Z
+    webUrl: "https://futurism.com/the-byte/buffalo-wild-wings-ai-robots-deep-fryer"
+    ampWebUrl: "https://futurism.com/buffalo-wild-wings-ai-robots-deep-fryer/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/buffalo-wild-wings-ai-robots-deep-fryer/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
     quality: 59
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-100622,msid-87271728/istock-1285301436.jpg"
+      - url: "https://wp-assets.futurism.com/2021/10/buffalo-wild-wings-wing-fryer-robot-600x315.jpg"
         width: 600
-        height: 450
+        height: 315
         isCached: true
 
 secured: "T4laScmYyBTdvE7oWGOVMiITHpKonldgApRoaxofq57385fel1UNFbt/rB948lBiXukqppRkW96X1pkTZOXtbR9JvZZgY5l56VwmyYfui66+cdNCbhtN42tdrDb3cst7G5wFbTPYRbEdkblKn2GYyO52CahP2O1PEFY4fiDpMMXkI6i9PFvxIqvEwuu53p5Hf+tL4bSvRgK7ZBOxV3M2HGPpj+oTr87UT7OKjl21u0fxY7pIye2PJhVtQ2JWl4W1fWGThl4GwaudxIK6V5RmqyaYyqj41ruRaCHXjoeQcp7KZoAHxceLGNJDJT00GuWrNsdEYqRXcT4KlQbdqKNA7hKJD6mvVi/h8Ex9O3hf4Xw=;LbL7cecOSIdYJAHjmxE5Jg=="

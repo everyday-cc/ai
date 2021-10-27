@@ -35,6 +35,20 @@ related:
         width: 770
         height: 513
         isCached: true
+  - title: "AI Powered Predictive Demand platform Olvin Joins the Intel Open Retail Initiative"
+    excerpt: "Olvin, an AI start-up that provides predictive foot traffic analytics for brick-and mortar businesses today announces that it has joined Open Retail Initiative (‘ORI’) hosted by Intel. With this partnership,"
+    publishedDateTime: 2021-10-27T16:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-7ebef25e2384a43166cbcacb3f9b7371"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Wind River Supports Intel Industrial SoCs Designed for Real-Time and AI-Driven Intelligent Systems"
     excerpt: "Wind River®, a global leader in delivering software for intelligent systems, today announced support for Intel Atom x6000 Series and Intel Pentium and Celeron N and J Series processors and 11th Gen Intel Core processors and Intel Celeron processors."
     publishedDateTime: 2021-10-26T13:28:00Z

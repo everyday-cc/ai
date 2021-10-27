@@ -3,25 +3,25 @@ category: news
 title: "Khoros Collaborates with AWS to Integrate Amazon Connect Into its Award-Winning Digital Contact Center Solution"
 excerpt: "Khoros, an award-winning leader in digital-first customer engagement software and services, today announced an expanded collaboration with Amazon Web Services, Inc. (AWS) which will include an integration with Amazon Connect,"
 publishedDateTime: 2021-10-26T23:16:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-texas-software-artificial-intelligence-e766123907604d94a90f74e9a590ba50"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-texas-software-artificial-intelligence-e766123907604d94a90f74e9a590ba50"
+originalUrl: "https://www.register-herald.com/region/khoros-collaborates-with-aws-to-integrate-amazon-connect-into-its-award-winning-digital-contact-center/article_fbf24ce9-c9d7-56f0-a461-2bd012841d48.html"
+webUrl: "https://www.register-herald.com/region/khoros-collaborates-with-aws-to-integrate-amazon-connect-into-its-award-winning-digital-contact-center/article_fbf24ce9-c9d7-56f0-a461-2bd012841d48.html"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+    width: 600
+    height: 600
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "L8Lep9TyA1Kb0dj2g0Y/5f2+08KqTsLiISKxOoyxdt4iT/Pp9F2CVx6VxlLAKGL4oSjEwUbL1FAIX9OP2jQDPFKyTn7/0nZjCVVRp6uq9qZcT7onCY/8VkgBTYbsfP/utczL7+KPpjKLsuJUAvPVX0G+hACaUc2wDtK/83HR+kH3MR/zuL8WcrwhD1/j+xJIH2ymLyrN5Xd5279igsqkEr5FkINOBstuKhnPv7Bav++Bmm//fbVFk1m5eQ7piUVc3YuFYDWQVZN6rXUbviRVWKYkU0tGqBnMVY/wdEaSWpRfjfVj5Kuxp+zybxU7nQBVR8sKrmUc85+g55RoxIS/A+jqrSYMhQ8sRgPIXMpVomo=;Rc+KUl5n5s5OxjBepsWKAQ=="
+secured: "urBBmfYP6hhPN4IJCQwrTCKDkxIJhvlxB1srgSg0aXDaxD+JHqjZrATXUsM23Cbtl+RNMSDMvfO1lW9HRJPygRDICq7vAJFnNZgzxttWXuIt7lQxgXe6qz/MfUaMlyqcL1RMNPKetwJIBLob46dBja55M617wcVMPDBgXXviGPP9F8Hw9BgBZv3TvSDfHDfyabwCVqGN7tq8bsB4QEuzoMAIIEFE25mjt0976MKVFZ2qDE5BvOPdx6BqeIK9fRhK8y7+1p2n8gfl8lP3Otolty9wJXAzHSf6igxEmm54dtZInN7FUwcaCmtlk1J4/L+jdFJOsAWbmsZTc8o7PtU0ZBMsntbdk6/h3h/+rQq8wns=;LVQQ/s24DmfZ5GLfjf/Gxw=="
 ---
 

@@ -32,16 +32,16 @@ related:
   - title: "Khoros Collaborates with AWS to Integrate Amazon Connect Into its Award-Winning Digital Contact Center Solution"
     excerpt: "Khoros, an award-winning leader in digital-first customer engagement software and services, today announced an expanded collaboration with Amazon Web Services, Inc. (AWS) which will include an integration with Amazon Connect,"
     publishedDateTime: 2021-10-26T23:16:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-texas-software-artificial-intelligence-e766123907604d94a90f74e9a590ba50"
+    webUrl: "https://www.register-herald.com/region/khoros-collaborates-with-aws-to-integrate-amazon-connect-into-its-award-winning-digital-contact-center/article_fbf24ce9-c9d7-56f0-a461-2bd012841d48.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: The Register-Herald
+      domain: register-herald.com
     quality: 19
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
   - title: "Connectly.ai Becomes a WhatsApp Business Solutions Provider"
     excerpt: "Connectly.ai, a conversational commerce company that simplifies how message-first businesses transform connections into revenue, has been designated o"

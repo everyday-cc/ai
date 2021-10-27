@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvtechnology.com/amp/news/nhl-upgrades-uhd-video-product
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/nhl-upgrades-uhd-video-production-pipeline-with-aws"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "NHL goes all in on UHD with help from AWS"
+    excerpt: "Fans can now get a clearer, real-time view of what’s happening on the ice through the NHL’s new UHD-enhanced video production pipeline. NHL’s recent technology infrastructure update, which includes the addition of several AWS Elemental Link UHD cloud contribution encoders across 32 NHL arenas,"
+    publishedDateTime: 2021-10-27T19:43:00Z
+    webUrl: "https://www.productionhub.com/press/75934/nhl-goes-all-in-on-uhd-with-help-from-aws"
+    type: article
+    provider:
+      name: ProductionHUB
+      domain: productionhub.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/images.productionhub.com/banners/127_5829_6556_KF44.png"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "dTp7UQop5KZOPvxo4jmaIuu6GPoN/weC+MomWVuxBbbTmu19UmlEuF4MaWQR+VJqYh6NErtw2OTvevDWHYWPbXEwpNTkrx0B7cLKgHUHUh27aLdnjasENFyiKldBb/GFSj47cgZaULRdWXPb/ZrPKP6a6AFLHaYCD90SbtxYIdLNYX7UGcqj3r7CxneYRC8u+SzdQ3Jw25ENhlfOzvh944Sd1Y8z52Y/SzYJB9mjEJqQuEmzw1p5BEtYwlmEg0AO+pn5AyLFfK1tpmLA1nEoyk7hlNGOFEw3kl44l2VIR4KQRinkx3sOQHYhuCk3TK/pdgP9je/YRpPAcX/jBmM4YrfC4pnJlAFgYYjE12SPjLwXeUvHLI9ZntMc9HJksCGEKFiTYVs7uSMubUp+hyrQauYIOhyMoV5Zxy7slDBJERZu4bJlW6lbS0vGouuEBVLF/Ii1GwQDRlN8Z96N75KVBI5oNk/I+h63qTAkaxro2hmPhIhhAJc4tW1WBwB/gHhEXPCKkMWcs3EwHNeu4OsWEg==;a+TUHaPHngQLVpkU/vy1vA=="
 ---

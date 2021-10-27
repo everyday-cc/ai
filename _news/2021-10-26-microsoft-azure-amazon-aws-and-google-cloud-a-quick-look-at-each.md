@@ -117,6 +117,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Advantech MIC-710AIX is now Microsoft Azure Certified for IoT"
+    excerpt: "Advantech, the leading provider of industrial AI system, today announced its MIC-710AIX edge AI platform has joined Microsoft Azure Certified for Internet of Things (IoT), ensuring customers get IoT solutions up and running quickly with hardware and software that has been pre-tested and verified to work with Microsoft Azure IoT services."
+    publishedDateTime: 2021-10-27T19:35:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/21796709/advantech-advantech-mic710aix-is-now-microsoft-azure-certified-for-iot"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 49
   - title: "AI in Hardware Market New events in technology and market size forecast by 2027 | Microsoft, Apple"
     excerpt: "The new study on the Global AI in Hardware Market 2021 2027 analyzes the crucial capabilities key infrastructures major organizations evaluates measures to attain potential success in the AI in Hardware industry Because of the in depth overview of the"
     publishedDateTime: 2021-10-25T09:10:00Z

@@ -55,6 +55,15 @@ related:
         width: 1920
         height: 1277
         isCached: true
+  - title: "LivePerson acquires VoiceBase and Tenfold to power scaled Voice AI innovation"
+    excerpt: "Through these acquisitions, three powerful technologies combine to create a unified, AI-enabled system for customer experience: VoiceBase's superior speech recognition and analytics capabilities, Tenfold's advanced voice,"
+    publishedDateTime: 2021-10-27T19:25:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/10/27/9478853.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "WVAyinqNdn7VESSAuKM0AJNlFdU8i4j+LRtxexhbg8gr6I/B8IclBMBNsGfZNh6Err1qthlKxFwSiwt24Wtjyi5G0kfLy8TOkVLr1+wq6I+1QL5Cj3W9Z+I1LRc7CrxTXgqNuM+aGtJRPjErNxWPr7e3I1RMlGFrTHseZronJ5lyLGqDRLa7ExZFpNmTTgp0xuXW6ZWv/mbqEn6FkbBqzUHYItk2/mou2ZXs71jfc+JrDclqSOcTOlMpQv3+mFCZ666Wk4npNE5ws5PNp6wCfFLSfFfTI6SSrUmzYrwusbvZoBP2eI7Jexhdy18A6jrMNF9ZPMob/wVYKrDify7XE8WFfsNuUwBmq2cu6flW/bE=;ysLqXQALeVqCeqGa2zyToA=="
 ---

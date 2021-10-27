@@ -124,6 +124,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Advantech MIC-710AIX is now Microsoft Azure Certified for IoT"
+    excerpt: "Advantech, the leading provider of industrial AI system, today announced its MIC-710AIX edge AI platform has joined Microsoft Azure Certified for Internet of Things (IoT), ensuring customers get IoT solutions up and running quickly with hardware and software that has been pre-tested and verified to work with Microsoft Azure IoT services."
+    publishedDateTime: 2021-10-27T19:35:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/21796709/advantech-advantech-mic710aix-is-now-microsoft-azure-certified-for-iot"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 49
   - title: "Deep Learning Software Market to Make Great Impact in near Future by 2021-2027 | Microsoft, Google, IBM"
     excerpt: "Deep Learning Software is highly useful for data scientists who are responsible with gathering analysing and interpreting massive amounts of data it speeds up and simplifies the process Working with deep learning is similar to a toddler learning to recognise"
     publishedDateTime: 2021-10-25T13:40:00Z

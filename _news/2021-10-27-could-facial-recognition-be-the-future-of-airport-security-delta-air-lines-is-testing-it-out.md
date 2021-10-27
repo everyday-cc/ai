@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/facial-recognition-delta-tsa/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facial-recognition-delta-tsa/"
 type: article
 quality: 80
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Airlines turn to facial recognition technology ahead of holiday rush"
-    excerpt: "The travel industry is gearing up for what could be its since the coronavirus pandemic began, and at least one U.S. airline is aiming to make things easier and faster."
-    publishedDateTime: 2021-10-27T12:01:00Z
-    webUrl: "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460"
-    ampWebUrl: "https://goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
+  - title: "Cairo airport security detains robot"
+    excerpt: "Da, upon arriving at Cairo airport for 10 days, before the British embassy intervened to resolve the issue and ensure their release."
+    publishedDateTime: 2021-10-27T19:27:00Z
+    webUrl: "https://www.al-monitor.com/originals/2021/10/cairo-airport-security-detains-robot"
+    ampWebUrl: "https://www.al-monitor.com/originals/2021/10/cairo-airport-security-detains-robot?amp"
+    cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/10/cairo-airport-security-detains-robot?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 74
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 91
     images:
-      - url: "https://s.abcnews.com/images/GMA/delta-airlines-biometric-boarding-01-ht-llr-211026_1635280415660_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-10/GettyImages-1236079719.jpg?h=a5ae579a&itok=Z2HEwine"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "pk4LguUB/8xRsII8QlYjFZIvqjEruULX25CovcDvXxPK7zE+yzQ2IQbpAkfqhjQnhTOgnangveZfP3DPmr7H/X3ljoNCKwauzwTU2gIj36Kl1rrew5/rBp++FG78x81ZN5SLmZQc7gk42cFQA5jbLp/woZxG4E9/jvU8OCEy76aX4MNnuv58VkaOk3DbeIE5qOgMN/fgH4T/cLKvUilYX3n19lGfG9skzm7M4Uz+doRHt7O+pEc5XIiTytL0g/iRttMRDgPUZxRqQcK1kYz73c1fgNUMil76GlXPU8Ei8WG+ksomi9KDSwbN+ttClzXjgVaLfyRrtgiIHP8/YoZKSOxt8nYY1DAKwLuysJ2qwjk=;EuuvFEeyqKQ8IqWxm+sKrQ=="
