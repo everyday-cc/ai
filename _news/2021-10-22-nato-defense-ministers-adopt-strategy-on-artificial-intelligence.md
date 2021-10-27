@@ -82,15 +82,6 @@ related:
         width: 530
         height: 400
         isCached: true
-  - title: "NATO releases first-ever strategy for Artificial Intelligence"
-    excerpt: "A summary of the strategy is available here. The strategy outlines how AI can be applied to defence and security in a protected and ethical way. As such, it sets standards of responsible use of AI technologies,"
-    publishedDateTime: 2021-10-22T12:32:00Z
-    webUrl: "https://www.publicnow.com/view/330DE8043353237A2015AD65E1CA1A6901766A7D"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 17
 
 secured: "Te3VdzEgAA/7ymtPY9dwr8Qj9f7nJ++uD7vH1yZKlXeKLLNoI3lKOAQ0Y8MOMzuZ8lB8x5noddCrMcKqn9kDLKTu0jMIxmF/jjH2q9RdrAGSzGnVwvL4QF0LKoNyFSTLQeQ8O10rH0mv2z1/R9GPgobisPbi7/Nq14oh7G8sHxyXU/XRhtzrVVj+yHFe2Ca3pe3zHLZ/KmHhpaslNvDY+YyIPAQmfmyeHa9jucQHKqzFMbdBvQlM5aBtf2MfGFHx93loE46OM/kCFG3FbA6jTQMmXKbE9zPEqGpfEnZNOaD/oBxXAU35V5vEyxHToP2NmIVJGNs2at9qCVBj2RWL/p1wQNesFp7P/AmJxSxPHEaHsqu3luIczypR7vkQgcLl64L1hMaHgLV9geXdy6Fk/azIGFN9t61UwQYXl8GeADq+KQLC+MIr96xAOixLoD4fzlY4XXg0Veht+7gRS/aTlwcWM3zL3VnNK9FsU0F2d/hNiLXwEdX1Ykp/vgbtrvwAy+ZMVhW3imMMY/kg+UVpRw==;CqJnK19GRyaohRWQdYpz3w=="
 ---

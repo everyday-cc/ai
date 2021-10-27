@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-27-report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales.md",
+      "title": "Report: 81% of online retailers increase AI budget to boost holiday sales",
+      "excerpt": "AI is becoming an essential tool in ecommerce, used to enable targeted campaigns and improve supply chain management.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/",
+      "originalUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-6228-000619-e1634748179549.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/amp/",
+      "publishedDateTime": "2021-10-26T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-nightly-news-full-broadcast-october-26th.md",
       "title": "Nightly News Full Broadcast (October 26th)",
       "excerpt": "FDA panel recommends Pfizer’s Covid vaccine for kids ages 5 to 11, powerful nor’easter hits East Coast, and how facial recognition will change the way you travel.",
@@ -555,7 +607,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1183,59 +1235,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-facebooks-new-smart-glasses-may-be-impressive-but-they-also-raise-serious-privacy-and-security-concerns.md",
-      "title": "Facebook's new smart glasses may be impressive, but they also raise serious privacy and security concerns",
-      "excerpt": "Consumers have raised concerns about the glasses' facial recognition technology, too-discreet recording feature, and data collection capacity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebooks-new-smart-glasses-raise-privacy-concerns-2021-10",
-      "originalUrl": "https://www.businessinsider.com/facebooks-new-smart-glasses-raise-privacy-concerns-2021-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/613ba480a30aeb0018b4ff81?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI-driven content startup Instoried raises $8 mn led by Pritt Investment, 9Unicorns"
+    excerpt: "Instoried Research Labs Pvt. Ltd, an artificial intelligence-based startup focussed on content marketing, has raised $8 million"
+    publishedDateTime: 2021-10-27T05:00:00Z
+    webUrl: "https://www.vccircle.com/ai-driven-content-startup-instoried-raises-8-mn-led-by-pritt-investment-9unicorns"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 31
+    images:
+      - url: "https://assets.vccircle.com/uploads/2021/10/artificialintelligencerfxlvv.jpg"
+        width: 810
+        height: 506
+        isCached: true
 
 secured: "S0Zs+xiuHpyANEGrJM3u8qqjPNbRsIs4gJKlI/aqWR2bftWvhAk8ZyxX+DhE++7QncfUlhiIhBCdWD0tQUDKzqaDpkeOaDJg7k4iMJqSlhEiaXNg0QWmIa9eYijgzyBJQ3A/vbzI0xNvi632qDEYypJZKsLiWLC/zIcyZRJbB3fWzVdixHbvL8VS3WzvlKkYLFbXMzG7GGsP0921PXf6Cj6Xo1NvnwatsWiuBT0FmN36jYE+h4nNKNWczXJFpmZH9vuBwZE+kah7EINaeMgCzGBNWd1pUo6qwY0sOl33cQsMRkh08TRecIdeVjtYg81qccTmsm7oGGKsguU/kCFpbk75/87JRzKO+zp8UcE0Vcg=;QCuvfVWLiVl95I/KdYMYtg=="
 ---

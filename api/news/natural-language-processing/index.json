@@ -106,6 +106,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-26-this-ai-resurrects-ancient-board-gamesand-lets-you-play-them.md",
+      "title": "This AI Resurrects Ancient Board Games—and Lets You Play Them",
+      "excerpt": "What tabletop games did our ancestors play in 1000 BCE? A new research project wants to find out, and make them playable online too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/",
+      "originalUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/617700c0a7da35fe9f08a7f7/master/pass/Games-Ancient-Games-Online-1226937967.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/amp",
+      "publishedDateTime": "2021-10-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible.md",
       "title": "Singapore-based digital comic platform uses AI to make manga more accessible",
       "excerpt": "There was no digital platform that comic lovers could access at all times. Vu and Hieu together with Ken Luong and other comic lovers teamed up and founded INKR, a digital comic platform in 2011 that's currently based in Singapore with an office in Vietnam.",
@@ -258,22 +310,31 @@
       "title": "Moveworks pioneers the first multilingual AI platform built to support global companies",
       "excerpt": "Moveworks, the AI platform that automates support at work, today announced two critical product enhancements that allow global workforces to stay productive from anywhere. The first is multilingual support: Moveworks now understands and resolves requests from employees,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-moveworks-pioneers-first-multilingual-ai-platform-built-support-/2021/10/20/9473746.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-moveworks-pioneers-first-multilingual-ai-platform-built-support-/2021/10/20/9473746.htm",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-e2a77142352288890ed20768ec8842c8",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-e2a77142352288890ed20768ec8842c8",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T06:06:00-07:00",
+      "publishedDateTime": "2021-10-20T07:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -974,6 +1035,50 @@
       ]
     },
     {
+      "path": "_news/2021-10-13-microsoft-taps-ai-techniques-to-bring-translator-to-100-languages.md",
+      "title": "Microsoft taps AI techniques to bring Translator to 100 languages",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Microsoft says it's using AI ... language translations across its services, including Translator ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages-10612266",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages-10612266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T19:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-natural-language-processing-market-2021-share-growth-evolving-technology-trends-and-industry-analysis-2024.md",
       "title": "Natural Language Processing Market 2021: Share, Growth, Evolving Technology, Trends and Industry Analysis 2024",
       "excerpt": "Oct 12, 2021 (The Expresswire) -- “Natural Language Processing Market” report explore recent market growths and competitive strategies, such as alliances, joint ventures, mergers and ...",
@@ -1313,92 +1418,6 @@
         "AI",
         "Natural Language Processing",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-early-evoked-brain-activity-underlies-auditory-and-audiovisual-speech-recognition-deficits-in-schizophrenia.md",
-      "title": "Early evoked brain activity underlies auditory and audiovisual speech recognition deficits in schizophrenia",
-      "excerpt": "Objectives People with Schizophrenia (SZ) show deficits in auditory and audiovisual speech recognition. It is possible that these deficits are related to aberrant early sensory pr",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/PPR/PPR405579",
-      "originalUrl": "https://europepmc.org/article/PPR/PPR405579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-09T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-how-to-enable-data-centric-ai.md",
-      "title": "How To Enable Data-Centric AI",
-      "excerpt": "Let’s see how we can now enable data-centricity in AI for the next decade. Data-centricity involves many distinct processes: data augmentation, labeling, cleaning, pre-processing and more. All these processes depend on data scientists being able to take the first step — create a dataset.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192287243%2F0x0.jpg",
-          "width": 1200,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/amp/",
-      "publishedDateTime": "2021-10-08T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

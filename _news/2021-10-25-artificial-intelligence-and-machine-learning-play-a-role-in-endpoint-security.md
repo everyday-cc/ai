@@ -9,7 +9,7 @@ ampWebUrl: "https://edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-in
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
 type: article
 quality: 88
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://i.insider.com/6169907b38c1960018300eed?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Mesoscale neural plasticity helps in AI learning"
-    excerpt: "A joint research team led by Xu Bo from the Institute of Automation and Mu-Ming Poo from the Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, have discovered that self-backpropagation,"
-    publishedDateTime: 2021-10-22T12:32:00Z
-    webUrl: "https://techxplore.com/news/2021-10-mesoscale-neural-plasticity-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-mesoscale-neural-plasticity-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-mesoscale-neural-plasticity-ai.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/mesoscale-neural-plast.jpg"
-        width: 2880
-        height: 1766
         isCached: true
   - title: "Artificial Intelligence to Play Major Role in Cybersecurity"
     excerpt: "Industry analysts predict artificial intelligence (AI) will continue over the next several years to become the most transformative technology in human history. Analysts also recommend for businesses to start preparing now for certain AI trends."

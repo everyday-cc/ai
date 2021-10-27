@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innova
 webUrl: "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://ehrintelligence.com/images/site/article_headers/_normal/2021-10-22-GettyImages-931682882-Converted.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "Top 10 Artificial Intelligence Technologies"
+    excerpt: "Artificial intelligence is a technological blow that has continued to take the world by storm since 1955. Check out the top 10 artificial intelligence technologies streamlined with widespread sub-technologies ranging from biometrics and computer vision to intelligent devices."
+    publishedDateTime: 2021-10-27T05:37:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-technologies/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Artificial-Intelligence-2.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "The need for technology is fueling the growth of AI in the transportation and logistics markets"
     excerpt: "AI in the transportation and logistics market is expected to reach US$3.8 billion and US$6.5 billion respectively. Check out what are the factors fueling the growth of AI in the transportation and AI in the logistics market."

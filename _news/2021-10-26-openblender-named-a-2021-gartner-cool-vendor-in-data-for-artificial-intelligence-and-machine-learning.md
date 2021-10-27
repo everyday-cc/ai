@@ -15,8 +15,8 @@ provider:
   domain: wfmz.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "QPOtpB5WlUp1uHVNnG+qR6DXFR3qp+7QD6SLNfSp4UwKP4vi9Z/AeJ3cL5offCZMPl5MwqeG/chwoKrrrz/qBFl2uBIUnXl8MhnRJHJf513QyfPAK+WLWG/jSjXq+DZGgn1xnOp87qUEi6XyKXm9DNEaBjRSwoh3D6qTVKL4tEHcwX1EPSLludaAQ8CWBVrzLl3PnLQwefQKKiGrpVXCMJXPON/Obtv/DIgbMxY/ebsnyc8nBR+mh6ytj7GrH74MoeljVb6zZ+uUbO9DOG2ZYolg3mjHtecfFzdvo5w6oG/p0X+uu1YKSgkTW08GK04awwsLGY1XtKgSRHVqokHswiNrm5aa9ylpkcDaD0Pwpbg=;HGpnlINz8pxtZ02Xu0v4cw=="
+secured: "x1899I7ZIW6AVYG6ljHZ7g/5n0f6yCmt6fxyv/MPtD6C7bVGIaK7nPcNWOdxG8vEVJ7v1SxuQ1x/CkqbB+cVR5vGbBj4MJOUnz7Kx52rU7idglRBJu0avpljJP4HDI5GwvLMFL8XgIIu84oQqAK66BhCz6WTQ4ZW3lFlABEU/j/mrJjHALgCfAHlu6oEaiAHxXGZm+J++BUOoLKn5WNVkikA3lrMH9oLlW+0dQIdn7FVFlD7PSTmFIjvmdnXrhbJ1YG0h4VyXbRzid0OrWq62y3efzQL5hd6EBbjVwSyZgRapXdFBKC3Wg7mfblEx8RuUVvlCsVYWdZneiTAHQb5pZeU/GChEiUBEfiB9VMYegA=;1p/2MpaGN3YP4CUCVg1DIQ=="
 ---
 

@@ -79,6 +79,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Top 10 Artificial Intelligence Technologies"
+    excerpt: "Artificial intelligence is a technological blow that has continued to take the world by storm since 1955. Check out the top 10 artificial intelligence technologies streamlined with widespread sub-technologies ranging from biometrics and computer vision to intelligent devices."
+    publishedDateTime: 2021-10-27T05:37:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-technologies/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Artificial-Intelligence-2.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "tgwVpCnkEQJyzuAFwd6W8Kl0iNZXMW0uyvuwVKYesAiXFXJlQzllZyh1UDWP7O2OgqiWqGNAXEQuCaupFMf2V8ftdUB2USgFltFV7lrMz9BklseImzAXwT5DWiWY28aw9LMq5zAlrp7+1jXRsrFSQbCMedE7nhGiBM3SQsH3oVUIf39+jaxxrGQpWtJd63F5n9viXa6I0sy1LwFVIsIcRaFPV5cOHcdn3MBIfBGd05XeFy3XkymryQekETxkdHEuJ7AkEtVyZ1mvvILo0xLGFOXaao1qyUtEIirdBrBo/5ePRUIv71qqTvZAlqoJQ/uzvr2UPvfS2AqzQAKrhPS2qC7soefMSZDZC2o+I09NQFw=;g8PDPpq684qDUNtBjeL7MA=="
 ---

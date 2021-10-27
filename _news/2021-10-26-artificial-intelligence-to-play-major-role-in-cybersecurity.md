@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Mesoscale neural plasticity helps in AI learning"
-    excerpt: "A joint research team led by Xu Bo from the Institute of Automation and Mu-Ming Poo from the Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, have discovered that self-backpropagation,"
-    publishedDateTime: 2021-10-22T12:32:00Z
-    webUrl: "https://techxplore.com/news/2021-10-mesoscale-neural-plasticity-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-mesoscale-neural-plasticity-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-mesoscale-neural-plasticity-ai.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/mesoscale-neural-plast.jpg"
-        width: 2880
-        height: 1766
-        isCached: true
 
 secured: "x9Fy6tNF7vC4ZqxbG2OyF+YdfZEqAy8jQaw2bPIDQ7Zh0JqhxvwtdHxEmcEA3y2wnjvbSRrBu0QzKkUO2jYFqV3pgPWgoIg5HY+N+6F+h5C1rFS+dvcIoMPXI2LYSX/ze3zcY5o9Guvk3Nkt6zFDi7lmV4h+Rfzx0IIgp/Gy9Rx0fY83aoIjaNcO7cVdTIugIbORLvqHOC76ZtupC+1MW1zbOmEyRhy2BCPtyST/RgGbjWaAe3cyiOhh8sDKpqKtdWv0ynD7M0nBEVyePv8zbDxj9DR1P0In0V5rndr2EEqEIFKMptJh5wWuY9gp3RhH8wiczOrqTYXZDoZInNvXAdn4Q/+z2pd5rQZ2b4EE7HJb6U93nsRJKh4j0FuxAaJ/cLdXr+KzYIUxxK58Wbanx/06FCfVtbvDqJ3Af2v1Bng/1VTFdCLRCf2ggHouLhgxja+RWjpYgJjM6rG1S+gg4+/jZVbrVxKhO2wZNrM9yP+Rb1xKbN+9gIv7VIqplcDn5F9Q5Zh4mqpODgUshZPZCQ==;T9OpSCtVkpJ9C3VRMOngcg=="
 ---

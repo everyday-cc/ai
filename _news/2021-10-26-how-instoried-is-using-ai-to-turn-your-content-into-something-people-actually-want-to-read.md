@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-driven content startup Instoried raises $8 mn led by Pritt Investment, 9Unicorns"
+    excerpt: "Instoried Research Labs Pvt. Ltd, an artificial intelligence-based startup focussed on content marketing, has raised $8 million"
+    publishedDateTime: 2021-10-27T05:00:00Z
+    webUrl: "https://www.vccircle.com/ai-driven-content-startup-instoried-raises-8-mn-led-by-pritt-investment-9unicorns"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 31
+    images:
+      - url: "https://assets.vccircle.com/uploads/2021/10/artificialintelligencerfxlvv.jpg"
+        width: 810
+        height: 506
+        isCached: true
   - title: "Bridgeweave and IIFL Securities Announce Partnership to Provide AI Powered Investment Insights"
     excerpt: "Bridgeweave, a UK based fintech, today announced a partnership with IIFL Securities Limited, one of India’s leading brokerage and investment advisory firms. IIFL will offer Bridgeweave’s flagship InvestorAi app for AI powered investments insights and premium content to its clients."
     publishedDateTime: 2021-10-26T12:30:00Z

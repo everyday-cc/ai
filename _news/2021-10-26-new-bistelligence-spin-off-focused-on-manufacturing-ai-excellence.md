@@ -54,6 +54,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Maximizing data driven business growth: GfK launches AI-supported intelligence platform \"gfknewron\" in the Middle East"
+    excerpt: "GfK, a leading provider of consumer and market intelligence, analytics and consulting services, launches gfknewron, its integrated, AI-powered software platform in the Middle East. gfknewron is an important step in GfK's transformation"
+    publishedDateTime: 2021-10-27T03:07:00Z
+    webUrl: "https://www.lelezard.com/en/news-20067178.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 15
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "SQiFZ2E0tEvFoLK8+eS3ky1ReM9ynzwxCHilMUvBe8O5m57UY+M9rxSD0YjRVF5Fb+IljIkqrjcplkX1lI54y3t8FlHSomBXv11zwcRz9QLl3ihBiRWSkAAjc3vh9rvyFfpekzhOsRm4E8scDzk+Dy08g5ZiHlkLS4Wk7pZVNNPuR0hkuw5Wn7wL+y8qFARfhVn8q+OzAdMigwunkmK1yXxxGeH39g74ia4kfF6VfzuPOSn6G4a4jHu0ngajWm/zDLOJ5QoCWpXxGsmLF3ny6BtepRsGvL2obY20XoHYjFNDUVDPAofjS66DS4bjacQyst4FT3jnFc7wadWac0T3EdkecpMgz1ZYhBOhPBvrwEJ3uu3OavXT+FczO6G3IeSCZdxyCmU6LnQHMUkR+VbVwpSco0sjnJPYzZ4U8GjueS1MWBwVpICMA/z6aVOirArcld792fUVcSmN3Qhpd5OT4CCYRZSrteSEAJIAi9APYBL3+xV4YWUgTAlF+tLsKmnrUUUk+WJ6/Ty6qog/xFhA8Q==;qQgXo3XwQE/UYiyzZbAArQ=="
 ---

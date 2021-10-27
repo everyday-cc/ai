@@ -48,6 +48,20 @@ related:
         width: 921
         height: 432
         isCached: true
+  - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
+    excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
+    publishedDateTime: 2021-10-27T00:17:00Z
+    webUrl: "https://www.digitimes.com/news/a20211026PR201.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://www.digitimes.com/newsshow/20211026PR201_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Deep Learning Software Market to Make Great Impact in near Future by 2021-2027 | Microsoft, Google, IBM"
     excerpt: "Deep Learning Software is highly useful for data scientists who are responsible with gathering analysing and interpreting massive amounts of data it speeds up and simplifies the process Working with deep learning is similar to a toddler learning to recognise"
     publishedDateTime: 2021-10-25T13:40:00Z

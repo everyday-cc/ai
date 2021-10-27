@@ -3,21 +3,24 @@ category: news
 title: "US Air Force teams with UK on machine learning demo"
 excerpt: "By sharing data and machine learning algorithms, the two countries were able to improve situational awareness for war fighters in a demonstration."
 publishedDateTime: 2021-10-20T20:05:00Z
-originalUrl: "https://www.defensenews.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/"
-webUrl: "https://www.defensenews.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/"
+originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/"
+webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: C4ISRNET
+  domain: c4isrnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "QUovZHzg1pGO6ThGbRHClEM9FhkL8cuwIeF+u+vwCLAx2K3+jW7gLJXlNlh+nzsN88YvgBy9n9i0M/1/Rdb7FUvWRjsNGjsB1CqspG0pVmwPMcVy0149kqGbZscg2lOAmM2If+6mhM7TOt8FEZhYpqAf2fr5TRvGFc+STIhpU8NqBVtXdSebyNLm+MmTP3CjPgSVoT9sYNk+bQ+L4H523K9WUpJJRnV5pZY/uD3zNz6gpH6z8D21nvy69EB2PyO9GRRCZYB+geXnYSyIqLvgu1t6V32JGr7Xy7Pc364ZyHfubk35vv1zETBniwJhRikaj5ApNVBwuP0MiGpEdFjaW8AkcJ1Enwbw+qb4el0P6gBU8tCZ/4Cr9FuAPJAwMgyfELLJ7RekbHQ//03G4Ti/JIbhQ3yh2mfSES3hfenq9/d2q3wk+tqTW75v+kscyuEW56JEUfXsC0/5M9XxAnQXy0/doOHrOn2D+C9dKHaReiEHuEJQgyLn8THpy47ZVUIvVENCIEhcZI/b/bxQYN+hXw==;HvIYhUv+SoIKiatlByC63A=="
+images:
+  - url: "https://www.c4isrnet.com/resizer/CmSkjK0LuGwWeGDLXmB8GBzgViI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/RT4BUYK7P5BCHORIBCZAVETTLQ.jpeg"
+    width: 1024
+    height: 682
+    isCached: true
+
+secured: "YwD7m8eIIrZDd22WUfHTlqAmE1nkj8kJ9L8d63wSISw5b+oaVyhWTua37/zUWESLrggZCy9uIf6fznGT/O/olT6s4pzcYWcsysM9o2sCgFOor9K+6EWhq3VE71n+NU3YJi7rOeTFdiMhC+/8x1u6ZjJhF2rwS4D36KG0cDA+rSdyNh75xMOMouIq/4s5Mj45sDHf1kQ8J9fJ+GWRZCxI8gRjS77TsGKKs0IVxCp0YbPuV5Aqf9Wjz5CVIXYf8onJszqOGKX9Rmh1SoLZthjgXwl3hm6raDaztxdxx53NU20xdtRYzmKt77jGienZvmRkO9oa9uKWl/fcUO4d59HOeldmA5O/ayzHWUMaqYUiskQ=;p4LFGfV9bPdW1LaWd911Jg=="
 ---
 

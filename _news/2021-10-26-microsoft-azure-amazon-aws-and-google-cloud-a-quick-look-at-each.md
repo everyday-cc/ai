@@ -41,6 +41,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 99
+  - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
+    excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
+    publishedDateTime: 2021-10-27T00:17:00Z
+    webUrl: "https://www.digitimes.com/news/a20211026PR201.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://www.digitimes.com/newsshow/20211026PR201_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "AI in Hardware Market New events in technology and market size forecast by 2027 | Microsoft, Apple"
     excerpt: "The new study on the Global AI in Hardware Market 2021 2027 analyzes the crucial capabilities key infrastructures major organizations evaluates measures to attain potential success in the AI in Hardware industry Because of the in depth overview of the"
     publishedDateTime: 2021-10-25T09:10:00Z

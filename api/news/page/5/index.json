@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-22-video-showing-jamba-juice-robot-kiosk-miserably-failing-at-pouring-smoothie-goes-viral.md",
+      "title": "Video Showing Jamba Juice Robot Kiosk Miserably Failing at Pouring Smoothie Goes Viral",
+      "excerpt": "Jamba Juice introduced the robot kiosk last year, but the viral video showed it missing the cup when pouring the smoothie.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595",
+      "originalUrl": "https://www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1918111/robot-making-smoothie.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595?amp=1",
+      "publishedDateTime": "2021-10-22T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-palantirs-peter-thiel-thinks-people-should-be-concerned-about-surveillance-ai.md",
+      "title": "Palantir's Peter Thiel thinks people should be concerned about surveillance AI",
+      "excerpt": "Tech billionaire Peter Thiel said this week that people should be more worried about \"surveillance AI\" than artificial general intelligences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/palantirs-peter-thiel-thinks-people-should-be-concerned-about-surveillance-ai/ar-AAPPGG9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106723917-1601485714383-gettyimages-1183198447-350472044_1-12.jpeg?v=1618328636",
+          "width": 4643,
+          "height": 3096,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+      "publishedDateTime": "2021-10-22T05:29:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+        "domain": "com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-softbank-in-talks-to-sell-french-robotics-business-to-germanys-united-robotics.md",
       "title": "SoftBank in talks to sell French robotics business to Germany’s United Robotics",
       "excerpt": "SoftBank Group Corp is in talks to sell the Paris-based robotics business behind its Pepper android to Germany's United Robotics Group, according to sources and documents reviewed by Reuters, scaling back a business it once touted as a major growth driver.",
@@ -970,6 +1064,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-21-us-air-force-teams-with-uk-on-machine-learning-demo.md",
+      "title": "US Air Force teams with UK on machine learning demo",
+      "excerpt": "By sharing data and machine learning algorithms, the two countries were able to improve situational awareness for war fighters in a demonstration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/CmSkjK0LuGwWeGDLXmB8GBzgViI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/RT4BUYK7P5BCHORIBCZAVETTLQ.jpeg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-aws-announces-general-availability-of-the-aws-panorama-appliance.md",
       "title": "AWS Announces General Availability of the AWS Panorama Appliance",
       "excerpt": "(NASDAQ: AMZN), announced the general availability of the AWS Panorama Appliance, a new device that customers can install in their facilities to run applications that analyze multiple video streams from existing on-premises cameras.",
@@ -1010,143 +1147,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-developers-intels-automated-debugging-tool-controlflag-is-now-open-source.md",
-      "title": "Developers: Intel's automated debugging tool ControlFlag is now open source",
-      "excerpt": "ControlFlag can automatically detect anomalies in software code - and it could spare developers hours of tedious work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
-      "originalUrl": "https://www.zdnet.com/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0dff8773595dd70445ad33b38a3f2b92dbb2f855/2021/10/20/3bc47e85-fae3-40ca-a9ec-7d8ef633a9e4/gettyimages-1320577198.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
-      "publishedDateTime": "2021-10-20T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-machine-learning-can-be-fair-and-accurate.md",
-      "title": "Machine learning can be fair and accurate",
-      "excerpt": "A CMU team aims to dispel that assumption in a new study, recently published in Nature Machine Intelligence. Rayid Ghani, a professor in the School of Computer Science's Machine Learning Department (MLD) and the Heinz College of Information Systems and Public Policy;",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/932216",
-      "originalUrl": "https://www.eurekalert.org/news-releases/932216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-egypt-detains-artist-robot-ai-da-before-historic-pyramid-show.md",
-      "title": "Egypt detains artist robot Ai-Da before historic pyramid show",
-      "excerpt": "Sculpture and its futuristic creator held for 10 days, possibly in fear she is part of spying plot",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
-      "originalUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ba9e0913ba3b1f81fb67f2afed82643fb05f4429/0_261_6448_3869/master/6448.jpg?width=620&quality=85&auto=format&fit=max&s=daf32ce56cd4dc914d3f6e73e61adb54",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
-      "publishedDateTime": "2021-10-20T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.khaleejtimes.com/business/gfk-launches-ai-supported-inte
 cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/gfk-launches-ai-supported-intelligence-platform-gfknewron-in-uae"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://www.automation.com/getmedia/c6344616-739f-4b4b-9876-3852a32d2ff8/MANUFACTURINT-AI-oct-25-2021-web.png?width=500&height=313&ext=.png"
         width: 500
         height: 313
+        isCached: true
+  - title: "Maximizing data driven business growth: GfK launches AI-supported intelligence platform \"gfknewron\" in the Middle East"
+    excerpt: "GfK, a leading provider of consumer and market intelligence, analytics and consulting services, launches gfknewron, its integrated, AI-powered software platform in the Middle East. gfknewron is an important step in GfK's transformation"
+    publishedDateTime: 2021-10-27T03:07:00Z
+    webUrl: "https://www.lelezard.com/en/news-20067178.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 15
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "4s9Z9olQNwuGFrC9dLgRqkvuAd+KfKns4mzgLJ+vZ13ZHV2TGftxgoXK+byRMQf9jFGg0JE+OReQSc3Pkh1Bcm/6eJP8DF/p4Lu0PGu9iW4r3fbr0nF6fO48hMv1U1QbhtF0AqYcmw2nmRU1MHmVTbjfpV/FPP4ljdNGB0GMbhsyrGxuarW5QZZCLhpa6a3j0obhJfYBfYDl5sJnI4+aYw+q0pq2jvwDO87nKuDZ8ZmC/a0ezfykHpB7/NcwJciifTkTM6T2aHIXxU2wa4sukWTYpHUc0sXDG7bL4Z2nACAqE7myiOgYKWckcjW/uiOZFG3+VAvxcnOu9rZmMbcdvQ5u9e8cU4I4gPU/6m0aJRA=;I6yz7mJxC3Mwt2Qs8BpSIw=="

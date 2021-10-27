@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Mailchimp wants to optimize your email campaigns using AI — here’s how"
-    excerpt: "Some BTS details on the vision and development process of Content Optimizer and how AI is changing the future of content marketing."
-    publishedDateTime: 2021-10-22T12:56:00Z
-    webUrl: "https://thenextweb.com/news/mailchimp-optimize-email-campaigns-ai-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FMC1.jpg&signature=e12e0ba060503b9864c0d16ba2a040a5"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "lb33qwfstkJj3DhzKwiDRu/B8Zp0XZ1T5ODMlOcmbOF59pHaiIjlscPb5ELgtQbSNN3KKObvTfmCRll/yhx8J+kddqACcmQtq63HEiRbaqvB4Obawcn66+Il+4+qLAnaB23B/vuvTr13x5FveoUKB2F5twJ/Ssow7Ug13bVUZF2GKRr7nyrrz9pL9FkteaaJoOM+AGifwti/78Jqh5w1M4CfMbrpUGjy5yLH1UcBG9hmG3G2T0Kwz+m0Yhh+22/AXRiudSAQrak87ZgGngbRNiJRoGwM0xDXSbPAs2b+uilTjQr4J+XjkGLx+sw3yWgDnAC0z+PWBl7kC5djjgQgJsOxlcRZtNMvA8Bw5pLh2dw=;RLXWng+cp1hK/Z8a3gGJ7w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-ema
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
     quality: 104
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1279753951-e1634580409297.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Mailchimp wants to optimize your email campaigns using AI — here’s how"
-    excerpt: "Some BTS details on the vision and development process of Content Optimizer and how AI is changing the future of content marketing."
-    publishedDateTime: 2021-10-22T12:56:00Z
-    webUrl: "https://thenextweb.com/news/mailchimp-optimize-email-campaigns-ai-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FMC1.jpg&signature=e12e0ba060503b9864c0d16ba2a040a5"
         width: 1200
         height: 600
         isCached: true
