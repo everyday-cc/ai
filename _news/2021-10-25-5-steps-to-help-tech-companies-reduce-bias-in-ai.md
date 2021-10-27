@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Role of Democratized AI Using Power Platform’s AI Builder"
-    excerpt: "Have you heard of Power Platform's AI Builder but aren't sure what it's capable of? Click here for an in-depth yet succinct discussion."
-    publishedDateTime: 2021-10-22T16:07:00Z
-    webUrl: "https://www.avepoint.com/blog/office-365/power-platform-ai-builder/"
-    ampWebUrl: "https://www.avepoint.com/blog/office-365/power-platform-ai-builder/?amp"
-    cdnAmpWebUrl: "https://www-avepoint-com.cdn.ampproject.org/c/s/www.avepoint.com/blog/office-365/power-platform-ai-builder/?amp"
-    type: article
-    provider:
-      name: AvePoint
-      domain: avepoint.com
-    quality: 57
-    images:
-      - url: "https://www.avepoint.com/blog/wp-content/uploads/2021/10/artificial-intelligence-brain-icon-big-data-flow-analysis-deep-picture-id1236683058.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Iguazio Partners with Pure Storage to Operationalize AI for Enterprises Taking a Production-First Approach"
     excerpt: "\"Most organizations starting out with AI initially focus on research and model development ... Red Hat, Inc., the world's leading provider of open source solutions, today announced Azure Red Hat OpenShift on Microsoft Azure for U.S. Government as a ..."
     publishedDateTime: 2021-10-26T13:16:00Z

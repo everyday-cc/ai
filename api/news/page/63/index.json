@@ -2,6 +2,57 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-09-09-watson-assistant-releases-new-features-to-help-businesses-transform-customer-service.md",
+      "title": "Watson Assistant releases new features to help businesses transform customer service",
+      "excerpt": "IBM’s virtual agent, Watson Assistant, is now available with an add-on option that is designed to connect to nearly every major contact center platform that uses the SIP protocol, including Genesys and NICE inContact, in as little as half an hour with no coding. Now, voice assistants built with Watson",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/09/watson-assistant-intelepeer/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/09/watson-assistant-intelepeer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/09/Watson-Assistant_Voice-Integration-with-IntelePeer-1024x471.png",
+          "width": 1024,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T05:00:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-aws-startup-webinar-recap-applying-ai-and-ml-to-healthcare-data.md",
       "title": "AWS StartUP Webinar Recap - Applying AI and ML to Healthcare data",
       "excerpt": "The mid-layer is Amazon SageMaker, which provides developers and data scientists with the ability to build, train and deploy ML models at scale. The bottom layer – of ML frameworks and ...",
@@ -1123,57 +1174,6 @@
         "name": "Supermarket News",
         "domain": "supermarketnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-database-startup-singlestore-raises-80m.md",
-      "title": "Database startup SingleStore raises $80M",
-      "excerpt": "Database startup SingleStore today announced that it raised $80 million in a series F funding tranche led by Insight Partners, bringing its total raised to over $319 million at a post-money valuation “just shy” of $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/08/database-startup-singlestore-raises-75m/",
-      "originalUrl": "https://venturebeat.com/2021/09/08/database-startup-singlestore-raises-75m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2013/12/hard-disk-drives-miloussk-shutterstock.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/08/database-startup-singlestore-raises-75m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/08/database-startup-singlestore-raises-75m/amp/",
-      "publishedDateTime": "2021-09-08T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

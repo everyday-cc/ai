@@ -3,8 +3,8 @@ category: news
 title: "How AI could bridge the linguistic inclusion gap"
 excerpt: "Thoughtworks’ Data and AI Practice examined how Natural Language Processing (NLP) could be used to create an automated translation service for clinical healthcare settings. NLP technology processes spoken or written language to enable conversations that feel natural — whether that’s text-based,"
 publishedDateTime: 2021-10-15T16:23:00Z
-originalUrl: "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap"
-webUrl: "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap"
+originalUrl: "https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap"
+webUrl: "https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 628
     isCached: true
 
-secured: "/jPfdPOSYwO2M30swUXTvTZESplRQ5X7PvCoIA4WonUMUCRsGjMpnzFU6oclOUJ/qbz4H6CnDZyyg4abDekSNFyZVicSuiJR+YDYk2pg6PBiF6/AMULcx94SGdhvdeT4tVyAVmQ0HcjYilgHgXu2kkLTc0WWcp4n9Zu7WjDFHrrrdobd5DLKe51YNsT6FpbqshXwVzE7L7EolBHylIXa+m0ISnqmvt6CskwMhbIBeF3rUTvyVEiG0meP+ERzu18yWKB8y0xsxENNLVfIECVIwyi32h1mlI7mjjOgaX8hfeiocwcbD0UImP2NvobXRk36y5Jkf1MhfXtMvZLvoLqjrEZVFfRErOmdT8TaQHvd+h4=;Jtic3BsHzHzngt+mlRcVqg=="
+secured: "RR0YNAjTvmc4/X1FEtCASRytSmfiFCnBGZkzPgiLuZGMzUIeYPT9Acvwi+k0fnKNHT9AqpEkDReV4vAOgCHrsrQq2q5P6VHZczo0bNCgqhWfu1Ms9oQPPf2cGVofn+oBNVPJaBbGh7PVQdPK8PUyX8RIX4Tf0nMD7VN6ul5aG4xaLiflBX59jPi99XmvbqYv0dFFFYp+xORzy9Audccc1HIuAZC6COysIVGB6gE6sZi2LdhQRQuk4Z9XNLMTy2c52+4Xx6CHANKa1DMdspcdCYJPr2RpBVV+ruc/orLhOOkJNO/Wrzyj1ugvEk8Ml/vf8LvWm2mKSw/fLuC71KNRWggvJrPbF4bigCQbBXG9oiM=;/25C3ukGzxhsdr9f4G6gyQ=="
 ---
 

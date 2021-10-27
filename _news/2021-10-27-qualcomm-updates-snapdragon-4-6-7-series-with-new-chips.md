@@ -57,6 +57,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Qualcomm unveils latest mobile chips for mid-range and budget devices"
+    excerpt: "Qualcomm has added four new Snapdragon mobile chips to its portfolio for both 4G and 5G-capable handsets at varying budget ranges. The Snapdragon 778G Plus 5G, 695 5G, 480 Plus 5G, and 680 4G chips are now official,"
+    publishedDateTime: 2021-10-27T09:19:00Z
+    webUrl: "https://www.techcentral.ie/qualcomm-unveils-latest-mobile-chips-for-mid-range-and-budget-devices/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/10/Qualcomm_Snapdragon_21.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Qualcomm’s unveiled the new chips that’ll power most 2022’s cheap phones"
     excerpt: "Qualcomm has unveiled the four newest chipsets in the 7, 6 and 4-series to improve performance across the high, mid and entry-level tiers"
     publishedDateTime: 2021-10-26T15:04:00Z

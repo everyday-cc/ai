@@ -54,6 +54,20 @@ related:
         width: 2560
         height: 1853
         isCached: true
+  - title: "Artificial Intelligence (AI) in Finance"
+    excerpt: "The domain of finance has long been highly active in artificial intelligence (AI) research and implementation. In fact, the financial sector was already involved in developing innovations around Bayesian statistics,"
+    publishedDateTime: 2021-10-24T17:55:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-finance/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 69
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/data-1.png"
+        width: 626
+        height: 368
+        isCached: true
   - title: "Artificial Intelligence (AI) in Construction"
     excerpt: "Examples of artificial intelligence (AI) in construction are increasingly common throughout the industry, from planning to building. Construction professionals are turning to AI to add efficiency and accuracy to projects,"
     publishedDateTime: 2021-10-25T12:37:00Z
@@ -109,6 +123,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/smartphone-4942918_1920.jpg"
         width: 1920
         height: 664
+        isCached: true
+  - title: "The Story Market: Using data & AI to bring international licensing up to speed"
+    excerpt: "The Story Market brings vetted, high-quality, licensable journalism to the international market at scale. Launched in 2020 by co-Founders Doris Wiedemann and Lena Spath, the platform uses data and AI to match publications with relevant content."
+    publishedDateTime: 2021-10-27T08:03:00Z
+    webUrl: "https://www.fipp.com/news/the-story-market-using-data-ai-to-bring-international-licensing-up-to-speed/"
+    type: article
+    provider:
+      name: FIPP
+      domain: fipp.com
+    quality: 35
+    images:
+      - url: "https://www.fipp.com/wp-content/uploads/2021/10/The-Story.001.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "WKuNiLtqzlkVPC1bssddR6sly2bTOPq3F9ANx1n8U3ORyFOxuAScgYqOHeB5jwDJaN8Ms+4Sb5+xIMtOX1fKLMqW0ds7Fbj6YXtZegvWh39gPrYOVV7gRgY9OjPujwIcPw15Sc0kL8e3mziYfbuvkn0UZsaR1oWft3OEM9l6cKsKfBZTPJESPpsiSCg1yK1OLc7U+WV+fHOGEVA7muSxPOufiH0Gkrl77VOQwCk3Z5vJfbhZ7bM9we5pbHg5GwpjQ3nwlAOUsBJboIelYAI/J9r6357IUezN1GLB95J550oehpFtPanBO+Yfu6I9JPKWYoVF8PdfMYvz6Oy0LmfLHYpERbP8grMiKjc7Z1MmVjtgBoFGAX1hh3CR2ju+6zPemecRhASH2LRoqff7WpoaRFzztcoxY4Ol++vyFDNq8vEdJF5sFZUEE4IK7s417pKSKfl1TNTaHVjisqLvHVzAd6P/y41Nmv7E7z+ccEWT1FaTCPDFSSHGFk2bstVKBt8zXclVtV2mdZKu+TdJ2HyP4A==;dhJ7bMtTXjOa0QzYunPxPw=="

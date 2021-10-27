@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon signs deal with British spy agencies to boost use of AI for espionage -FT"
+    excerpt: "Britain's spy agencies have given a contract to Amazon Web Services (AWS) to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence (AI) for espionage,"
+    publishedDateTime: 2021-10-25T22:07:00Z
+    webUrl: "https://www.reuters.com/world/uk/amazon-signs-deal-with-british-spy-agencies-boost-use-ai-espionage-ft-2021-10-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 62
+    images:
+      - url: "https://www.reuters.com/resizer/iYqP54ZnBN37H53zTmxh6Ngz04E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AR5SQIUOFVKDXN2QDIUCQRE4YU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Amazon signs deal with British spy agencies to boost use of AI for espionage"
     excerpt: "Spy agency GCHQ has been using basic forms of AI such as translation technology for years but is now stepping up its use."
     publishedDateTime: 2021-10-26T05:42:00Z
@@ -63,15 +77,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Amazon Signs Deal With British Spy Agencies to Boost Use of AI for Espionage -FT"
-    excerpt: "Britain's three spy agencies have given a contract to Amazon Web Services, Amazon’s cloud service unit, to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence for espionage,"
-    publishedDateTime: 2021-10-25T20:24:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-10-25/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage-ft"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 42
   - title: "AWS signs deal with British spy agencies"
     excerpt: "Britain's spy agencies have given a contract to Amazon Web Services (AWS) to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence (AI) for espionage,"
     publishedDateTime: 2021-10-26T19:30:00Z

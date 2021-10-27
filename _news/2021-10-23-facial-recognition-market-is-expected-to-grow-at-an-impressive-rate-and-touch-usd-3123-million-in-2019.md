@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103024341/Facial-Recognition-Market-is-Expecte
 webUrl: "https://menafn.com/1103024341/Facial-Recognition-Market-is-Expected-to-Grow-at-an-Impressive-Rate-and-Touch-USD-3123-Million-in-2019"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI in the Telecommunication Market is Expected to Reach US$13.4Million by 2026"
-    excerpt: "The growth of AI in the telecommunication market is driven by the increasing adoption of AI for various applications in the telecommunication industry. The market is projected to reach US$13.4 at a CAGR of 49."
-    publishedDateTime: 2021-10-22T15:14:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-in-the-telecommunication-market-is-expected-to-reach-us13-4million-by-2026/"
+  - title: "Apple iPhone SE 3 Is Reportedly Expected to Feature a Touch ID Fingerprint Sensor and 3D Facial Recognition."
+    excerpt: "The SE, which has a conventional style language and the only front fingerprint recognition, is still popular among users. It appears that Apple isn’t ready to give up yet, with iterative models said to be released in the spring of next year."
+    publishedDateTime: 2021-10-23T02:00:00Z
+    webUrl: "https://bestgamingpro.com/apple-iphone-se-3-is-reportedly-expected-to-feature-a-touch-id-fingerprint-sensor-and-3d-facial-recognition/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 35
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 20
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/AI-in-the-Telecommunication-Market-is-Expected-to-Reach-US13450-Million-by-2026.jpg"
-        width: 900
-        height: 500
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/10/2310211634956207.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "The healthcare artificial intelligence market is expected to grow at a CAGR of 42.7% from 2020 to 2027 to reach at USD 52.7 billion by 2027."
     excerpt: "The factors such as increasing funding for healthcare artificial intelligence growing demand for personalized therapy large pool of healthcare data and growing use of AI in reducing healthcare cost are expected to propel the growth of the overall healthcare artificial"

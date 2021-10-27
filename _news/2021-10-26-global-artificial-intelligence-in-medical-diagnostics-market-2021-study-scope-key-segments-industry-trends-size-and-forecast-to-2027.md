@@ -90,6 +90,17 @@ related:
         width: 643
         height: 400
         isCached: true
+  - title: "AI in Hardware Market New events in technology and market size forecast by 2027 | Microsoft, Apple"
+    excerpt: "The new study on the Global AI in Hardware Market 2021 2027 analyzes the crucial capabilities key infrastructures major organizations evaluates measures to attain potential success in the AI in Hardware industry Because of the in depth overview of the"
+    publishedDateTime: 2021-10-25T09:10:00Z
+    webUrl: "https://www.openpr.com/news/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
   - title: "Consumer AI Market Incredible Possibilities, Growth, Trend, Opportunities Detailed Analysis and Forecast 2030"
     excerpt: "The Global Consumer AI Market size is estimated to be USD 5 00 billion in 2019 and is predicted to reach USD 149 60 billion by 2030 with a CAGR of 36 2 from 2020 2030 Artificial intelligence is also"
     publishedDateTime: 2021-10-25T03:16:00Z
@@ -179,6 +190,17 @@ related:
     webUrl: "https://www.openpr.com/news/2441410/handing-robots-market-strategy-share-growth-factors"
     ampWebUrl: "https://www.openpr.com/amp/2441410/handing-robots-market-strategy-share-growth-factors"
     cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441410/handing-robots-market-strategy-share-growth-factors"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
+  - title: "Global Gesture Recognition Market, Size, Share, Analysis Report & Forecast to 2026"
+    excerpt: "The global gesture recognition market is expected to grow at a significant CAGR during the forecast period The Gesture Recognition System GRS integrates imaging and computer technologies to read a specific gesture language by using specified mathematical algorithms Gesture recognition"
+    publishedDateTime: 2021-10-27T09:12:00Z
+    webUrl: "https://www.openpr.com/news/2443753/global-gesture-recognition-market-size-share-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2443753/global-gesture-recognition-market-size-share-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2443753/global-gesture-recognition-market-size-share-analysis"
     type: article
     provider:
       name: openpr.com

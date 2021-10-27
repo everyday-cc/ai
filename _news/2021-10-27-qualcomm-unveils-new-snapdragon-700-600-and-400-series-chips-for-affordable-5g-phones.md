@@ -43,6 +43,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Qualcomm unveils latest mobile chips for mid-range and budget devices"
+    excerpt: "Qualcomm has added four new Snapdragon mobile chips to its portfolio for both 4G and 5G-capable handsets at varying budget ranges. The Snapdragon 778G Plus 5G, 695 5G, 480 Plus 5G, and 680 4G chips are now official,"
+    publishedDateTime: 2021-10-27T09:19:00Z
+    webUrl: "https://www.techcentral.ie/qualcomm-unveils-latest-mobile-chips-for-mid-range-and-budget-devices/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/10/Qualcomm_Snapdragon_21.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Qualcomm updates Snapdragon 4, 6, 7 series with new chips"
     excerpt: "Qualcomm announced new Snapdragon smartphone processors across its 4, 6 and 7 series. Features from the top-end 8 series have been brought to the lower ranges, in order to address demand for popular segments in the premium and mid-range 5G and 4G"
     publishedDateTime: 2021-10-27T07:45:00Z
@@ -72,6 +86,6 @@ related:
         height: 1212
         isCached: true
 
-secured: "EMWs9Yo7REIyml3avgiHmSwgNPeu1NcahTkQxXaQvFXxjLwwf/oI1My2iBns6vN1tmUNbzNRecTmFXg6cgASjVwnNQk/I9JQxlpyYaBSJMO+2flePIwgJzYCWRwznnSJj71NkzBUCmmSkhR0IrQrMGLLqKb788VEDZ73ZmdAm+hnqi3qtOsaMF+Gy5tW0i14QbPZPyUfZdz60oBlH3YBO2K8NKwOapie0cSDBy07aISEpk85YgrKBrkGxnGSUUwVD3ULfF67LRoZAkbwuBR8boQDLk+itqlnacPLP04Vnil1llWZH6BLeL6Etqnhpl87Hi0/+SrkW95uR0JfQ2P7GyjtxvDzcxmpN4Hac77ipJc=;VqLDTSPhJl3gh4UmGiHF6g=="
+secured: "7uul0f4EFRAymfAiwN8b6e72W64A8FBIu2PP9FdhjLgQAq/D5WZNReDSdggjagSPuMS0r5xnxtVEAACD77OMQdFK4t1rAk8m5qYYHRzKustz9yWd8lJ/dV01P1rr1APETQ6BuTpfZXy1nlH+NgN1WntiC2uoR3TmBMOMad2rsvZwj/ICUOid8KLtbzuViJXHcVczplv/02YOQbpBD2T7HfQfEkGSOlqcIF8MPwB3Lids36sMpnAV5sJIb4lgdBtiCUGWHhjm2miIjkg5MtdFOmWBP9t7BlLA6fZPI4U+2V28zx9NVwWclxQyr33m0zy4o7A/Rsr2l6Ev+51Ya4cSxRnvYSLmiZtY8QnNHyvvA8bQIGKISAfrFuFUbjHwEJ8tWBB6VBZYSOngO5omQBUzcDk+NkyuhyYGOj1DE93P0g4iAfHAIJ45d0UABmitbti0Bau9wyAO+pfsdqxS5DI5MV2rW83/hquAssOdvB9eLM/iySdfyXq9sbEup8xZVeyBj9dTAaJRelwz6eGY0/P+cg==;b8w2I70eRAFJTCzaTttwrg=="
 ---
 

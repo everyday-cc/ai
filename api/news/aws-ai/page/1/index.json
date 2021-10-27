@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-models-faster-with-an-automated-data-profiler-for-amazon-fraud-detector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -108,6 +108,59 @@
       ]
     },
     {
+      "path": "_news/2021-10-26-extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store.md",
+      "title": "Extend model lineage to include ML features using Amazon SageMaker Feature Store",
+      "excerpt": "Feature engineering is expensive and time-consuming, which may lead you to adopt a feature store for managing features across teams and models. Unfortunately, machine learning (ML) lineage solutions have yet to adapt to this new concept of feature management. To achieve the full benefits of a feature",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/21/ML-6028-image001.png",
+          "width": 861,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T14:11:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table.md",
       "title": "AWS wins deal to store UK spy agencies' work, brings AI to the table",
       "excerpt": "The UK's spy agencies will move top secret data to AWS data centers and gain access to its artificial intelligence tools.",
@@ -160,21 +213,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-26-deep-learning-software-market-size-and-forecast-2028-key-companies-microsoft-express-scribe-nuance-google-ibm-aws.md",
-      "title": "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS",
-      "excerpt": "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027.",
+      "path": "_news/2021-10-26-microsoft-azure-amazon-aws-and-google-cloud-a-quick-look-at-each.md",
+      "title": "Microsoft Azure, Amazon AWS and Google Cloud: A Quick Look at Each",
+      "excerpt": "Microsoft Azure is the first player to offer the full suite of services to developers. It offers a wide range of products and has one of the most mature enterprise-grade clouds.",
       "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/",
+      "webUrl": "https://www.linkedin.com/pulse/microsoft-azure-amazon-aws-google-cloud-quick-look-each-andrew-frost",
+      "originalUrl": "https://www.linkedin.com/pulse/microsoft-azure-amazon-aws-google-cloud-quick-look-each-andrew-frost",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg",
-          "width": 390,
-          "height": 220,
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE5a14hWGJugw/article-cover_image-shrink_600_2000/0/1635246231199?e=1640822400&v=beta&t=FTeIfVv5_WE6giaKpgHD1BOTHkpX2rJm0yI1c8ZaPfI",
+          "width": 921,
+          "height": 432,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -182,14 +235,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1",
-      "publishedDateTime": "2021-10-25T15:46:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T04:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -198,10 +260,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Microsoft AI",
         "AI",
-        "AWS AI",
-        "Microsoft AI"
+        "AWS AI"
       ]
     },
     {
@@ -1356,58 +1417,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-build-conversational-experiences-for-credit-card-services-using-amazon-lex.md",
-      "title": "Build conversational experiences for credit card services using Amazon Lex",
-      "excerpt": "New trends are shaping the credit card industry as shopping habits have rapidly evolved over the last 18 months. The pandemic has accelerated the move away from cash towards cards. Card issuers are transforming their products to better serve cardmembers through innovations such as contactless payments",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-credit-card-services-using-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-credit-card-services-using-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/12/1-6097-Architecture.jpg",
-          "width": 800,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T22:04:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

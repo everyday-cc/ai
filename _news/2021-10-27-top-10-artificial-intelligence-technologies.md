@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-27T05:37:00Z
 originalUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-technologies/"
 webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-technologies/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Artificial-Intelligence-2.jpg"

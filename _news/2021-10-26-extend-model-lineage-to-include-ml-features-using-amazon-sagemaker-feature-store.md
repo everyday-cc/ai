@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/"
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: AWS
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Create a dashboard with SEC text for financial NLP in Amazon SageMaker JumpStart"
-    excerpt: "Amazon SageMaker JumpStart helps you quickly and easily get started with machine learning (ML) and provides a set of solutions for the most common use cases that can be trained and deployed readily with just a few clicks. JumpStart also includes a collection of multimodal financial text analysis tools,"
-    publishedDateTime: 2021-10-22T15:32:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
   - title: "Detect industrial defects at low latency with computer vision at the edge with Amazon SageMaker Edge"
     excerpt: "Defect detection in manufacturing can benefit from machine learning (ML) and computer vision (CV) to reduce operational costs, improve time to market, and increase productivity, quality, and safety. According to McKinsey, the “benefits of defect detection and other Industry 4.0 applications are estimated"
     publishedDateTime: 2021-10-22T21:21:05Z

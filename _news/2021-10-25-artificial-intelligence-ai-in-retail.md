@@ -52,6 +52,20 @@ related:
         width: 2560
         height: 1853
         isCached: true
+  - title: "Artificial Intelligence (AI) in Finance"
+    excerpt: "The domain of finance has long been highly active in artificial intelligence (AI) research and implementation. In fact, the financial sector was already involved in developing innovations around Bayesian statistics,"
+    publishedDateTime: 2021-10-24T17:55:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-finance/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 69
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/data-1.png"
+        width: 626
+        height: 368
+        isCached: true
   - title: "Artificial Intelligence (AI) in Health Care"
     excerpt: "Out of all the industries that stand to benefit from artificial intelligence (AI), health care is arguably the most universally crucial and relevant. The recent accelerated COVID-10 vaccine development efforts are just a few examples of how AI-driven medical innovations can be critical to everyone’s well-being."
     publishedDateTime: 2021-10-24T05:15:00Z
@@ -107,6 +121,20 @@ related:
       - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
         width: 300
         height: 250
+        isCached: true
+  - title: "The Story Market: Using data & AI to bring international licensing up to speed"
+    excerpt: "The Story Market brings vetted, high-quality, licensable journalism to the international market at scale. Launched in 2020 by co-Founders Doris Wiedemann and Lena Spath, the platform uses data and AI to match publications with relevant content."
+    publishedDateTime: 2021-10-27T08:03:00Z
+    webUrl: "https://www.fipp.com/news/the-story-market-using-data-ai-to-bring-international-licensing-up-to-speed/"
+    type: article
+    provider:
+      name: FIPP
+      domain: fipp.com
+    quality: 35
+    images:
+      - url: "https://www.fipp.com/wp-content/uploads/2021/10/The-Story.001.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "JWXtgmjALdoQZ2ARYrF+9n0oy1cxAtduHcjncN6WnjGkiEKXLp9vU4ih2qs36y2gGRnOK7k1JaBcC8irsDSyRCVJM6iW2LXpzy3QsEnUcDpFieAMBpB3FhnPlgVv6gh7Xgw/zUcCmVNCrOXmXfnkqSHa2Z32JgObsaI+Dy4N1r8iITR7jLyhbo1kjlP5UvP2xXKlYiCCtN4iL4Gh01FrK2SysUGD8TmVvbMoq8OqSLFSz0lv+4K9r4btPS05Jf6vnomjSwDiCn+zbX1PpuPkpZreejWqhxbfPDtkONKTpud/XsxzH06od33jLibUu19LtO0JvoPOGTzOdQKBRJQZ5sLudh0fJGEUfsQsCoLHIt7eGxV5yB0keOWshABfN5l3J3POwTqVEwun2w9NEMz4jQcJ/pLfKKQmIYtmH29b+o2xBaM2E/Y2Nf8iyPs6uIaquIVrJCkuwbtrmB/CzH+rM3L8kIF6toh5XNAHw61BPiqpaH9vyH6FSLxvU/IVcPQx4DClYMK0H6E+m0tD48AQFg==;MJaplyysSID1+b87HQmbQg=="

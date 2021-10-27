@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financemagnates.com/fintech/5-ways-fintech-is-transformi
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
     quality: 24
     images:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/pandoraJ.jpg.png?itok=TtWzhyCN"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "New Fintech Regulations to Be Discussed by the U.S. Congress"
+    excerpt: "A congressional committee is anticipated to address the need for a new regulatory approach to financial technology in America"
+    publishedDateTime: 2021-10-27T08:31:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/new-fintech-regulations-be-discussed-us-congress"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/picture%20of%20the%20US%20capitol%20building%20blended%20with%20the%20American%20flag.jpg.png?itok=jIyyI_P5"
         width: 1200
         height: 630
         isCached: true

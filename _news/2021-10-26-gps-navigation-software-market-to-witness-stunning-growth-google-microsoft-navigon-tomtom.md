@@ -28,122 +28,49 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
-    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027."
-    publishedDateTime: 2021-10-25T22:46:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 67
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Deep Learning System Software Market Size and Forecast 2028 | Key Companies – Microsoft, TRINT, NVIDIA, Google, IBM, Amazon Web Services"
-    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027 Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-10-25T17:19:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-system-software-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-system-software-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-system-software-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 60
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Market-Research-19-390x220.png"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Deep Learning Market Size and Forecast 2028 | Key Companies – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
-    excerpt: "The report provides an overview of the Deep Learning Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
-    publishedDateTime: 2021-10-24T15:20:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 55
-  - title: "Artificial Intelligence as a Service Market is going to Boom with IBM, Google, Amazon Web Services"
-    excerpt: "The latest study released on the Global Artificial Intelligence as a Service Market by AMA Research evaluates market size, trend, and forecast to 202"
-    publishedDateTime: 2021-10-26T06:41:00Z
-    webUrl: "https://menafn.com/1103043712/Artificial-Intelligence-as-a-Service-Market-is-going-to-Boom-with-IBM-Google-Amazon-Web-Services"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?832665"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "Cognitive Security Market Size and Forecast 2028 | Key Companies – IBM, DXC Technology, Cisco, CA Technologies, Symantec, McAfee"
-    excerpt: "Cognitive Security Market was valued at USD 6.79 Billion in 2020 and is projected to reach USD 80.41 Billion by 2028, growing at a CAGR of 36.2 % from 2021 to 2028. Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-10-25T02:41:00Z
-    webUrl: "https://manometcurrent.com/cognitive-security-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/cognitive-security-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-security-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 32
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/TIP-6-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
-    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
-    publishedDateTime: 2021-10-26T06:51:00Z
-    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+  - title: "AI in IoT Market to Witness Notable Growth by 2027 Covid-19 Analysis | Microsoft (US), PTC (US)"
+    excerpt: "AI in IoT market report points out problem areas in the business and also presented what areas can expand the business by increasing the customer base It also helps you make sound market decisions and develop effective strategies This AI"
+    publishedDateTime: 2021-10-25T08:58:00Z
+    webUrl: "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
+    ampWebUrl: "https://www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 31
-  - title: "Facial Recognition Market Size and Forecast 2028 | Key Companies – NEC Corporation, Aware, Cognitec Systems, Gemalto, Thales, Idemia"
-    excerpt: "Facial Recognition Market was valued at USD 3.04 Billion in 2019 and is projected to reach USD 9.95 Billion by 2027, growing at a CAGR of 15.87% from 2020 to 2027. Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-10-25T16:24:00Z
-    webUrl: "https://manometcurrent.com/facial-recognition-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/facial-recognition-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/facial-recognition-market-size-and-analysis/?amp=1"
+    quality: 62
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua25568936_g.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Artificial Intelligence in BFSI Market to Witness Notable Growth by 2027 | Avaamo, Inc., Google LLC"
+    excerpt: "Various crucial findings depicted in this Artificial Intelligence in BFSI market report are the result of primary and secondary research carried out by the analysts In order to provide the relevant data analysts and financial experts take great efforts to"
+    publishedDateTime: 2021-10-25T13:55:00Z
+    webUrl: "https://www.openpr.com/news/2440649/artificial-intelligence-in-bfsi-market-to-witness-notable"
+    ampWebUrl: "https://www.openpr.com/amp/2440649/artificial-intelligence-in-bfsi-market-to-witness-notable"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440649/artificial-intelligence-in-bfsi-market-to-witness-notable"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/TIP-6-390x220.jpg"
-        width: 390
-        height: 220
+      - url: "https://cdn.openpr.com/U/a/Ua25900303_g.jpg"
+        width: 800
+        height: 457
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market Size and Forecast 2028 | Key Companies – Micron, Intel, Boeing, Lockheed Martin, Xilinx, IBM"
-    excerpt: "The report provides an overview of the Artificial Intelligence in Aviation Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
-    publishedDateTime: 2021-10-24T16:33:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-aviation-market-size-and-analysis/?amp=1"
+  - title: "Deep Learning Software Market to Make Great Impact in near Future by 2021-2027 | Microsoft, Google, IBM"
+    excerpt: "Deep Learning Software is highly useful for data scientists who are responsible with gathering analysing and interpreting massive amounts of data it speeds up and simplifies the process Working with deep learning is similar to a toddler learning to recognise"
+    publishedDateTime: 2021-10-25T13:40:00Z
+    webUrl: "https://www.openpr.com/news/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    ampWebUrl: "https://www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 25
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Market-Research-Expertz-1-6-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
   - title: "AI in Logistics and Supply Chain Management Market Size and Forecast 2028 | Key Companies – IBM, Microsoft, Google, Amazon, Alibaba, Nauto"
     excerpt: "The AI in Logistics and Supply Chain Management Market report provides vital information that prepares market players to give fierce competition to their toughest competitors based on growth, sales, and revenue,"
     publishedDateTime: 2021-10-25T16:52:00Z
@@ -155,17 +82,17 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 20
-  - title: "Computer Vision Market Size and Forecast 2028 | Key Companies – Cognex, Basler, Omron, Keyence, National Instruments, Sony"
-    excerpt: "Computer Vision Market size was valued at USD 14.82 Billion in 2020 and is projected to reach USD 27.02 Billion by 2028, growing at a CAGR of 7.8% from 2021 to 2028. Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-10-24T12:19:00Z
-    webUrl: "https://manometcurrent.com/computer-vision-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/computer-vision-market-size-and-analysis/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/computer-vision-market-size-and-analysis/"
+  - title: "Artificial Intelligence in Video Games Market Astonishing Growth with Top Influencing Key Players like Ubisoft, EA, Tencent, Sony, Microsoft"
+    excerpt: "The Artificial Intelligence in Video Games Market research report added by MarketInsightsReports gives a holistic view of the market from 2016 to 2027 which includes factors such as market drivers restraints opportunities and challenges The market has been studied for"
+    publishedDateTime: 2021-10-25T09:48:00Z
+    webUrl: "https://www.openpr.com/news/2439866/artificial-intelligence-in-video-games-market-astonishing"
+    ampWebUrl: "https://www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 13
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "aREzlvo/epMfjdxoDkIT7x9AEAAsly6SX5lm9oJZBmnz7WhU9lWXjCxDxySbkefrm1l8VxPYgMYZ5nLOtklXabF79Yl5maHMruLTum78qD574lyu5GeQ1viUE3WkyPfthoxBxlCVpKKfUAQwfpPmuIo1tqhYQLcrgbSAXMdpI/ciOrOMV/S8w48zMiaxJwibWfNUet+q6qD9ZY8Hlwoe5yd3xVJZzvuzugh3e5vvVxWICcqgrhr3yEkKYzkSvgVkdRz4yipSoPpqL6UJzZlMDSbwIEBV+tO8oXav/1tb890MjntNylKDGhwDtgRK6YtJEsSAb38+12OCke3ptgUaLO6gzeRIXbUiVknFGk4DBAfSqZFBGMQI2nkGS8DFhRooAcf9UlQ6MuXQfRYCuxjAmtHzpn493aIbtBOGkh6c8dsxJ2v/RmrVdVe0AYcoT5zaPq2sW8yzviDkuM5Vh1oQ3VOFk3UwQMUyAfrEpJlyvcryek4iWHsrceNK5WogmevYyAom6wgmatg1qfzxDAWvgQ==;xqV8PYRAT8UQYw0tTBaK5w=="
 ---

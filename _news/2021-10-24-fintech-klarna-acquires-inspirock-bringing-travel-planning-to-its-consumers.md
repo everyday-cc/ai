@@ -129,6 +129,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New Fintech Regulations to Be Discussed by the U.S. Congress"
+    excerpt: "A congressional committee is anticipated to address the need for a new regulatory approach to financial technology in America"
+    publishedDateTime: 2021-10-27T08:31:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/new-fintech-regulations-be-discussed-us-congress"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/picture%20of%20the%20US%20capitol%20building%20blended%20with%20the%20American%20flag.jpg.png?itok=jIyyI_P5"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SQvQGlhqPxPIYrmi1NtFsuWb3eAGbeayrWx5U+zS+YLEMmNM+mQgMptuxy3i0BRkIcA8JZr+UKZspL4BISTip0+3z8tHxnfdhkBN4/aAQxgKmAOAIyQOI+4/tofJwXF8Ilz5P0zVwV9KKA+TpqH3B2b/eAutg2OHpvlfE96KG0P3MwlrMZ9xfg5D80DMmYBkI+89O2F+zaFj7Buyl04sqRznBRUK0c7bTWmwaZi209ciPXTX1QDHm0Su+JM1z7/c2n1rLfhmhMUzmo/7+kcTnHW0VDkRKMOqa3+erxD/zuflqMzMxb67BB+7s7GpjEXRXRziSzD4keHGdwjjLloOoAcma8GO5X+DCaBBk23mfb3/gTHWMATB/o/7kIVx8L7fzTMgNXjARcYUXXWkDqRsayHz+/wPMfi2oN8l9bQp1TVXBEY0J8kRlbfuZ5hBydBbqT5B9iQA6HtJjq6xIZX8EXH7f65BCqwHOfeXV5wX787LuV2TOxWHy10mhGq6OJMaE4z9/mNJOBSNRifP0pBxpA==;ZYubUl4n+izW3zIQ45eP+g=="
 ---

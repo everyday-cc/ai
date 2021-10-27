@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Create a dashboard with SEC text for financial NLP in Amazon SageMaker JumpStart"
-    excerpt: "Amazon SageMaker JumpStart helps you quickly and easily get started with machine learning (ML) and provides a set of solutions for the most common use cases that can be trained and deployed readily with just a few clicks. JumpStart also includes a collection of multimodal financial text analysis tools,"
-    publishedDateTime: 2021-10-22T15:32:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
   - title: "Extend model lineage to include ML features using Amazon SageMaker Feature Store"
     excerpt: "Feature engineering is expensive and time-consuming, which may lead you to adopt a feature store for managing features across teams and models. Unfortunately, machine learning (ML) lineage solutions have yet to adapt to this new concept of feature management. To achieve the full benefits of a feature"
     publishedDateTime: 2021-10-26T21:11:12Z

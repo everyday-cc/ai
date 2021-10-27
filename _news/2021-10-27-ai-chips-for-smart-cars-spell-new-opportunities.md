@@ -2,9 +2,9 @@
 category: news
 title: "AI chips for smart cars spell new opportunities"
 excerpt: "Artificial intelligence-powered chips for smart vehicles are poised to usher in new development opportunities, as the commercialization of self-driving technologies is revving up in China and domestic demand for intelligent chips is surging amid a global shortage of semiconductors,"
-publishedDateTime: 2021-10-27T01:24:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202110/27/WS6178aa4ea310cdd39bc7188e.html"
-webUrl: "https://www.chinadaily.com.cn/a/202110/27/WS6178aa4ea310cdd39bc7188e.html"
+publishedDateTime: 2021-10-27T09:33:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202110/27/WS6178aa4ea310cdd39bc7188e.html"
+webUrl: "https://global.chinadaily.com.cn/a/202110/27/WS6178aa4ea310cdd39bc7188e.html"
 type: article
 quality: 54
 heat: 64
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202110/27/6178aa4ea310cdd3d8160156.jpeg"
+  - url: "https://img2.chinadaily.com.cn/images/202110/27/6178aa4ea310cdd3d8160156.jpeg"
     width: 720
     height: 480
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 250
         isCached: true
 
-secured: "xskgOseDNfaB/w8EL4ChHckm2W9kA4el8ZlwudbW1cjhazpxOHf4PgCGKALprmtFe/rPxt6r8X3zKGCWt/Zi1VKms2Q1JiKMpmK+Sqmue5SkzI6e4Od7VGWCek8+z8wat0oJFEdQgCtSA8T6nLJymSa///FV1C34jQPclKPfOkd3QmFv7LxpltUyY3sxnTFzj+5LQXcrZYxHzIYfpFc3zgucNGExu6qTn7AM+L8BZPNOTK/T3rIn3IGB6IJQgcLTLCwfevjCRG4WPXMyk2mIpHRNA84FJ/YJvzQxCnfV0k2TLPBtjM7H1l/wVspseNKJZgd0no+g3IgQK0gLGd++vsQKJBSUpOytovLSXNtWCQA=;UnjqsRc9VRijfFN0KXItCg=="
+secured: "/cgfIbDXzjuzWKu2dfarVNk8+u65QMfL936JqUC1N0oOMh0gRn80ZWsCWCu8or+udEM8fjKP+olCKtvfKYlyuvNKMbwIG+V1aqE8mMd0MlHfKNtdyrUyMSn62fkDUyPDq83zFmfBZJyaXCbE1Ic1hr1+69u/l4Ub3/AZFIO/HBrptZlr/crJ08FUnq5qCa8fDlVzMWdpGZ/0xnn9YcRAeewf8PLDB9b9xp6xnIcKoIlWUhyaNX/1yTQGzb9xBCYNYJbg+99e48nUtXhk1qClLAqXpzWlbq5lEQqyyqJH2lNEWYTupAZSasdR8ZMBAyKr7G2hUNrvg1w4sCSgde0sxYV2tcTEOeUpWCah2u9F1YE=;N6Vyt+N6sGsR9Ei4XWFK7g=="
 ---
 

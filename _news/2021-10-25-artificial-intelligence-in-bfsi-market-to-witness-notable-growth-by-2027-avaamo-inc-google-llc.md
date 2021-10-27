@@ -42,6 +42,55 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "GPS Navigation Software Market to Witness Stunning Growth | Google, Microsoft, Navigon, TomTom"
+    excerpt: "Advance Market Analytics published a new research publication on GPS Navigation Software Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers"
+    publishedDateTime: 2021-10-26T11:45:00Z
+    webUrl: "https://www.openpr.com/news/2442302/gps-navigation-software-market-to-witness-stunning-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua26572229_g.jpg"
+        width: 450
+        height: 450
+        isCached: true
+  - title: "Deep Learning Software Market to Make Great Impact in near Future by 2021-2027 | Microsoft, Google, IBM"
+    excerpt: "Deep Learning Software is highly useful for data scientists who are responsible with gathering analysing and interpreting massive amounts of data it speeds up and simplifies the process Working with deep learning is similar to a toddler learning to recognise"
+    publishedDateTime: 2021-10-25T13:40:00Z
+    webUrl: "https://www.openpr.com/news/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    ampWebUrl: "https://www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
+  - title: "AI in Logistics and Supply Chain Management Market Size and Forecast 2028 | Key Companies – IBM, Microsoft, Google, Amazon, Alibaba, Nauto"
+    excerpt: "The AI in Logistics and Supply Chain Management Market report provides vital information that prepares market players to give fierce competition to their toughest competitors based on growth, sales, and revenue,"
+    publishedDateTime: 2021-10-25T16:52:00Z
+    webUrl: "https://manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
+  - title: "Artificial Intelligence in Video Games Market Astonishing Growth with Top Influencing Key Players like Ubisoft, EA, Tencent, Sony, Microsoft"
+    excerpt: "The Artificial Intelligence in Video Games Market research report added by MarketInsightsReports gives a holistic view of the market from 2016 to 2027 which includes factors such as market drivers restraints opportunities and challenges The market has been studied for"
+    publishedDateTime: 2021-10-25T09:48:00Z
+    webUrl: "https://www.openpr.com/news/2439866/artificial-intelligence-in-video-games-market-astonishing"
+    ampWebUrl: "https://www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "1+Jlgxypowiwy5GESdbrXDUTzxotLCDgmMTDn5M3WGg+qWlE34RyGEp2bI82+FwFytWgv28vfY5YjSPtctrsrIBdEv5aUEHbwMS8rW3b9IzS5O//CIYyPQKZyMj08xPQ8UGYAViekF9uz8W5VqqP/WXkwxWJ5AXulcOMIz1Pqh1myqxo7QT3o4qD3TIae1QcmEOZOy+xBYdnvr5Ic+7PnQdJtShMj4ckDPKyzDKhEfpeZZD1fVAJkLXaRGyLs2TtY0IqpTz+0PK/idcyJpaLMrqNu+e/7CFaQLHF74SqJmK2R/py7Hr/GIyjUgUVCAGB54jSw7+1MSHWiEzF7zQSHhpfFOYW0sdbf9nDgDB9OH1tFbi3Yc2Jrlkdn6z6Pvq2c9aSuTGIWPTWMCKHPy8pgsZh6MMiSw/7xbIkDs04NLCksmutZXqbfDKmfCNWCUf3osJe8K/71Fzyu1SyTHK1fStNarkaiJNUhQxHpD6oUN5QW7SJ1qqAAGM4Wyk3sRoU3jWtnZwGYo5p+ZA7Nx2M7g==;MbWAZ2BJhJI9/c7YNx5G9Q=="
 ---

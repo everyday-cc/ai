@@ -25,6 +25,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Teens in Ai announce 4th Annual Hackathon Winners at GITEX Global x Ai Everything 2021"
+    excerpt: "GITEX Global x Ai Everything, the world’s largest technology show this year, hosted at Dubai World Trade Centre (DWTC) until Thursday 21 October, tea"
+    publishedDateTime: 2021-10-27T08:42:00Z
+    webUrl: "https://menafn.com/1103054062/Teens-in-Ai-announce-4th-Annual-Hackathon-Winners-at-GITEX-Global-x-Ai-Everything-2021"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/27/pr_831_50911231_image_story.png"
+        width: 633
+        height: 693
+        isCached: true
+
 secured: "T2694PlgCdMzNJHF9pJMPGH1aeJABmJxLjnmciKMCn7gU/9ONBtF5oCbb1efEf4Rqv0/YgNbkoLoaIddtvZ55DOiQKQj8Xn6Y/MPoudgaXWnKQ4TuR28c+QX1M9qHW39QZSA3OqtkUmqrlnQEt5Qq33r9ifRpQYPm6ZfGq2aqo8ZJ+X3Y980CEm5uDMuHLfyA4uoeaXYxvrcExSFcQP1/FY7vTF3UzTYAcxaca8mkREYM0krIwT1qVAKtxhqEDs1rcZGZ2xN3hOXZBQSp6aARUV0Q1PJTgM0/llGLADnatxnxIMuQPR+vH8s4DKiEQgV6qL1UJ4kbyBAG3sNj6B7NDUczd480Wjl/nbi5SqQxZ0=;FSHpNZ5O4EK/HosARpnZOQ=="
 ---
 

@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "NATO Defense Ministers Approve First Artificial Intelligence Strategy At Brussels Summit"
-    excerpt: "North Atlantic Treaty Organisation’s defence ministers approved the alliance's first artificial intelligence strategy and creation of the NATO Innovation Fund."
-    publishedDateTime: 2021-10-22T15:37:00Z
-    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/nato-defense-ministers-approve-first-artificial-intelligence-strategy-at-brussels-summit.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/rest-of-the-world-news/nato-defense-ministers-approve-first-artificial-intelligence-strategy-at-brussels-summit.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/rest-of-the-world-news/nato-defense-ministers-approve-first-artificial-intelligence-strategy-at-brussels-summit.html"
+  - title: "POLITICO AI: Decoded: Facebook’s bad algorithm — NATO’s AI strategy — AI liability is coming"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-10-27T09:01:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/facebooks-bad-algorithm-natos-ai-strategy-ai-liability-is-coming/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/facebooks-bad-algorithm-natos-ai-strategy-ai-liability-is-coming/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/facebooks-bad-algorithm-natos-ai-strategy-ai-liability-is-coming/amp/"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 48
+      name: POLITICO
+      domain: politico.eu
+    quality: 46
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/jcev2d4dabmhaupk_1634915527.jpeg"
-        width: 768
-        height: 439
+      - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "An Artificial Intelligence Strategy for NATO"
     excerpt: "At their October 2021 meeting, Allied Defence Ministers formally adopted an Artificial Intelligence Strategy for NATO. Current and former NATO staff with direct involvement in the development and implementation of the Strategy outline its main features and objectives."
@@ -53,20 +53,6 @@ related:
       - url: "https://www.nato.int/docu/review/images/9a325a_3_ai-and-the-military_rand-corporation_tn450.jpg"
         width: 450
         height: 243
-        isCached: true
-  - title: "NATO defense ministers adopt strategy on artificial intelligence"
-    excerpt: "NATO defense ministers on Friday approved the alliance’s first strategy on artificial intelligence and the establishment of the NATO"
-    publishedDateTime: 2021-10-22T16:30:00Z
-    webUrl: "https://news.az/news/nato-defense-ministers-adopt-strategy-on-artificial-intelligence"
-    type: article
-    provider:
-      name: News
-      domain: news.az
-    quality: 37
-    images:
-      - url: "https://news.az/uploads/2021/10/22/news/166577/original/166577-0889509.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Nato defence ministers agree to artificial intelligence strategy"
     excerpt: "The strategy establishes standards of responsible use of AI technologies. Defence ministers of Nato have agreed to the treaty’s first-ever strategy for artificial intelligence (AI). Nato allies have According to Nato,"

@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Cambridge Quantum Releases World’s First Quantum Natural Language Processing Toolkit and Library"
-excerpt: "Converting sentences into quantum circuits, ‘lambeq’ accelerates the development of practical QNLP applications as quantum computing systems scale CAMBRIDGE, England, Oct. 13, 2021 /PRNewswire/ -- Cambridge Quantum (“CQ”) today announced the release of the world’s first toolkit and library for Quantum Natural Language Processing (QNLP)."
-publishedDateTime: 2021-10-13T07:01:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-a56b0432d92d0536cf87597d9f3a5278"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-a56b0432d92d0536cf87597d9f3a5278"
+title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
+excerpt: "CAMBRIDGE, England, Oct. 13, 2021 /PRNewswire/ -- Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for Quantum Natural Language Processing (QNLP)."
+publishedDateTime: 2021-10-13T07:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-releases-worlds-first-quantum-natural-language-processing-toolkit-and-library-301398725.html"
+webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-releases-worlds-first-quantum-natural-language-processing-toolkit-and-library-301398725.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "VSS0jLb6FlwCmOXumxWAh3qHRRM9Elt3XhjqIeL7JEFundhn5Bjeqlux9i7rHZvL0t+63AfT9N8pbWv9pKTOKZsJ5x2RDXXJi/ThavoZlhJ0Lf12oIJosf4MHSRBqB5+JcQG3EASWlCaPnnFvFQ/wrSSyyZgvALcUtPKeSLEGvl8YFUr5imsoNPvrhlO/0sB+Pr3UmQafuoN6QXLs54HapuohFOOxrrn5u1/vO3HJ45Q0ed6cYbip1rsdonKTxUl3Ig7yVEVlIwVegep63jXOVLNceSRJ/56gNvUv5u2sx1qccje88rxllGGZpuAnZx6hsy+e71hyrNeQmjZuizeyA6TSZIjMHt67YzIPslgSfk=;9foEvH5iHadr3D43v9lLDw=="
+secured: "L3poaE+oJq+Z3s4Buk+QJFSJrDkgpvjIls2p0TvcTNpARlYbKPZeFUPDqOHP4rW8yrCNsJ2t6tYXQc8lsXAQNiYuqlZ8fvcLeCBBmNBN/98zKeR48XU3p12g0blyI5+FOamdIgD7uGCHwTUKJDCgZLqdllcFRMuKIfAe6+84nfwxykXVuRK/Wrw9QmXGqQdfkqXZL10HEPr+pZ9tZ1/izNAJ60WVTRxF3E24Y2as8dfM6CWs6KYwU4WZhRM647VtrYyBPnX/kwe1LVvAQSYc9E2ezKjmOrVPK5T3QQ++WmLOPVuJSTmg70h+D5acDt2TSgH0ss4eYClyvIQbx/yZeGzZ/SuirPaSHvSbYfpa/p8=;lMDUoQzCyMGD+Y5QnFWbQw=="
 ---
 

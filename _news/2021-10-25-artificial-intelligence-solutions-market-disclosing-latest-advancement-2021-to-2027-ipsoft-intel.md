@@ -25,6 +25,24 @@ images:
     height: 457
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Aviation Market Size and Forecast 2028 | Key Companies – Micron, Intel, Boeing, Lockheed Martin, Xilinx, IBM"
+    excerpt: "The report provides an overview of the Artificial Intelligence in Aviation Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
+    publishedDateTime: 2021-10-24T16:33:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-aviation-market-size-and-analysis/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 25
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Market-Research-Expertz-1-6-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+
 secured: "JbfT/4Ld6gk6BZEjRwDTE6BBrLPpQN+kKuV0gJtDA7o9IZfnfBk+7LTbAG0zsZDF7W4rROPFbtT5Yj/b+zd7gWzFPrnFkoD6HQNbPXBPs/9fxrGNQ0i9Qmk0ihU8vQQLRvgPRrAvJHz3TAGSHbYpplFMXgNy8nsZC/xKfc0kWmSm7FLXXyLzGD1wALMeSJtRR0i8KNXoiNEgnSiHlRF/XHnSPRyfCXZAP0dRiW5eT0zeJsEGZJcRXXP7lW3sOgyqiqeao3F95/jN7tcRuTwhwhCWqLE8B5ET+jD8pD44VV+8hUeH9abdFu7Iw72+mFvasKbwoZbMvHRkO4Vbtyjqjztud+C6MPflQO/d18+lf5o=;78ngNYsUAN6VYf12zt0Wkw=="
 ---
 

@@ -1,31 +1,26 @@
 ---
 category: news
 title: "GATC Health Corp chooses Syndi Health to accelerate artificial intelligence training and advance personalized medicine"
-excerpt: "Syndi Health and GATC Health Corp today announced they have entered a development agreement, which could accelerate GATC Health's product development and publication release timelines by as much as 50 percent."
-publishedDateTime: 2021-10-26T17:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211"
-webUrl: "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211"
+excerpt: "Syndi Health and GATC Health Corp today announced they have entered a development agreement, which could accelerate GATC Health’s product development and publication release timelines by as much as 50 percent."
+publishedDateTime: 2021-10-26T18:28:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-health-artificial-intelligence-20fcdedfad691fadc39c923b58196045"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-health-artificial-intelligence-20fcdedfad691fadc39c923b58196045"
 type: article
-quality: 60
-heat: 70
-published: true
+quality: 28
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/1669428/GATC_Logo.jpg"
-    width: 603
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -44,6 +39,6 @@ related:
         height: 650
         isCached: true
 
-secured: "FrV08GNf2Cu89xZZ5g3tgWuBYWUp6S1rh7/L649QQCwvi0byyIYoGZ/sxGQj51N8X5RZse+RYrNNxqrIqd57u3K0dJqp09lP4WP7Hyk9P4dZf5KnVp2JMieQNcDUGKIF1V3ur3lyK15OPfiCwRAzm7QvaVPInAUBkhAgp1vKiuLvuNyp9Sl6tZeOLaaCgzEXWqHeQDl8tFI7POLFsBW9Kx0AWpQ/IiuO0f9iRTgPcirQnSogGfmhHMMBsUUxInZrGjLGxvl3vdgwY8c1TcnNYB+tRHXKbykHygfBiPcb+mBKdTtPdMIzkogodx0YqIa2DuLC+DUEnTPukrIEs3bFVuTVV4DJjQ9R/GW1lBFKmWL39abR965F42JhonHgPjdpLrcU7hA6S7/pPvK5wbKSR9wX3jBIl5nh3zqhk/0gXezWpP9H5loaeF4Bo5v1awf2P2zP9st19+80WM+9z7GSB/3dtGtqhqRsZ2gK7/wiaxLBdui5wHhx7j0BVb8IsaDbktWxBPdOHaE0UGhXTOVMhg==;KSU0YenI2OgIVwVjFyftVg=="
+secured: "J0B8kou/dS+kGucgpwaAqeg8ODZlnUMwfaEb3xrQ2aA21Xj/v0OcPlrfxEt9BHBOQU7smbdPf3oxJVftb1yymm+HTQFEx/Eea6C/gmYDJazv5x/SGvG6HxniClkqPhUfpcoVfjjmnS50EfYYqQulAGUp3PE6Rjbp32nzFgy1GM4D8FmVZKiheKzo0eFd75ZlD6AHStPqdx/Wz6c4C5VCn+++OIl0pSBNQQPjfdmRBTib0GlGN+oeICfgF786L8zxsEwNvFz4jNQ/jipTptIYzcvYMlbuZmrkUUGWoz4oWFnSIuSvo1z8Lwl4drsAHLsM2P/GZ9RHKU7q3I1uknHuCoam2O2HPxzC4Ar9k3vWTRc=;LivAzWASRv7Vgqhc0Tpt/w=="
 ---
 

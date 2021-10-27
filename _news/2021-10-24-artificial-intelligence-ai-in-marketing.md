@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/artificial-inte
 webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-marketing/"
 type: article
 quality: 69
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2020/06/campaign-creators-pypeCEaJeZY-unsplash-scaled.jpg"
         width: 2560
         height: 1853
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Finance"
+    excerpt: "The domain of finance has long been highly active in artificial intelligence (AI) research and implementation. In fact, the financial sector was already involved in developing innovations around Bayesian statistics,"
+    publishedDateTime: 2021-10-24T17:55:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-finance/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 69
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/data-1.png"
+        width: 626
+        height: 368
         isCached: true
   - title: "Artificial Intelligence (AI) in Health Care"
     excerpt: "Out of all the industries that stand to benefit from artificial intelligence (AI), health care is arguably the most universally crucial and relevant. The recent accelerated COVID-10 vaccine development efforts are just a few examples of how AI-driven medical innovations can be critical to everyone’s well-being."
@@ -108,6 +122,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/smartphone-4942918_1920.jpg"
         width: 1920
         height: 664
+        isCached: true
+  - title: "The Story Market: Using data & AI to bring international licensing up to speed"
+    excerpt: "The Story Market brings vetted, high-quality, licensable journalism to the international market at scale. Launched in 2020 by co-Founders Doris Wiedemann and Lena Spath, the platform uses data and AI to match publications with relevant content."
+    publishedDateTime: 2021-10-27T08:03:00Z
+    webUrl: "https://www.fipp.com/news/the-story-market-using-data-ai-to-bring-international-licensing-up-to-speed/"
+    type: article
+    provider:
+      name: FIPP
+      domain: fipp.com
+    quality: 35
+    images:
+      - url: "https://www.fipp.com/wp-content/uploads/2021/10/The-Story.001.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "NzV5KQYaOOfr1nGlLtRbzKL+vENqgeqDFYnxplyHBUfnXNv0o5gAifUsaeqdKkcS44uTDEgXTDNmQw9VEgUy0qSEXGyIv+xqHSAhfgjKZ+ZdmY4SGv/jteKcy/73Abs1uv3fSxW22zg5j94dWznai2Qu+AitFm6ojSGNHa3AEc28oF/8j3jhQeu47Kk95QL//izlIf1uSg+LfSTKgYh/TVF1zZvMhR/K5hKilXb8FcfMIKKii3KCYr8v1kX3DIyfPlH22qFSk1ZZCmPzvDfNCnqpzNbfcAssOceq7w059Bjj9isAEK6un3NzSqKkJ7r+t8BpFkW4JpV0D+X7o0PU0pKB/XVUKPm/MWgq+keg60S1destCJrFXgxmPzHcGXVY9fzNDjuE0XU65G+8aFgXzmEKSdQg6JSuRjEVH7TmtCOxCFOE1Eraioo3JAKUFKvlBxiGjJQFTbLMQhPBTXWYpsoBHL3V/2z19M+eg/jPHstmSIYzYCmQ3X8RT+5tnKzkcFFHcXRCs0KsC3ktZA4Kqw==;SpsFG8dpI2+AzlFsWah3ZQ=="

@@ -54,6 +54,20 @@ related:
         width: 2560
         height: 1853
         isCached: true
+  - title: "Artificial Intelligence (AI) in Finance"
+    excerpt: "The domain of finance has long been highly active in artificial intelligence (AI) research and implementation. In fact, the financial sector was already involved in developing innovations around Bayesian statistics,"
+    publishedDateTime: 2021-10-24T17:55:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-finance/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 69
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/data-1.png"
+        width: 626
+        height: 368
+        isCached: true
   - title: "Artificial Intelligence (AI) in Health Care"
     excerpt: "Out of all the industries that stand to benefit from artificial intelligence (AI), health care is arguably the most universally crucial and relevant. The recent accelerated COVID-10 vaccine development efforts are just a few examples of how AI-driven medical innovations can be critical to everyone’s well-being."
     publishedDateTime: 2021-10-24T05:15:00Z
@@ -109,6 +123,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/smartphone-4942918_1920.jpg"
         width: 1920
         height: 664
+        isCached: true
+  - title: "The Story Market: Using data & AI to bring international licensing up to speed"
+    excerpt: "The Story Market brings vetted, high-quality, licensable journalism to the international market at scale. Launched in 2020 by co-Founders Doris Wiedemann and Lena Spath, the platform uses data and AI to match publications with relevant content."
+    publishedDateTime: 2021-10-27T08:03:00Z
+    webUrl: "https://www.fipp.com/news/the-story-market-using-data-ai-to-bring-international-licensing-up-to-speed/"
+    type: article
+    provider:
+      name: FIPP
+      domain: fipp.com
+    quality: 35
+    images:
+      - url: "https://www.fipp.com/wp-content/uploads/2021/10/The-Story.001.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Q4E9bMYLNCVo/AUd43g4O8KXxYqVB8gcC54LOvmOFd/W1pXIfGI0o7jxJdd6vLyyiYxvyR3g4r+zECv48igv13e/PpjrNiySwQ6W0tROi6am7CSGw4zD1zcQjpq6lw/JF27B7D8dNr/4nmgUsG94T/rLFRcLH6Ac/90bGZR7NNx0oT7nj7nSN0bCuFC8K2q1fLvt7UAZltcQGo/B4Y8q5ciS9d0Z0S35uGR/DbW3bFIMLSeW/hzFkTT3WQwOEwSmc6jTo9OjdC1rx8nfu9OUlb3Ptrywx3aJaSlqdotDZMvI5VQnU+Y14OHccZU6PBAhwe2KsSqD9nzY+M6+rjSKwICQCwW2lgjx9C/Rd4FBiL7C24O6QWgxhAKUQAOvx4Uoy/RI0R5hudu3H4lRi3pAVXcbs+qBL6zf8FiYtmnZFSS135G5goUb2rvWm+mEdgw6ixgGOHfsF73m5RUMq1Zb4jSQDtLutYHI3GMNgH+LNAXh/U5kZOH32DN4KvnEMG1yJ1rGkJmBBhiIjwaQf1EtfQ==;XMlsW+6vZUoV2ODtZ1Y2VQ=="

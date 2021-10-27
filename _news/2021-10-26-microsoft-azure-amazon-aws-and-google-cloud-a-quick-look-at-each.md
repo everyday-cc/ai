@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/microsoft-azure-amazon-aws-google-c
 webUrl: "https://www.linkedin.com/pulse/microsoft-azure-amazon-aws-google-cloud-quick-look-each-andrew-frost"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: LinkedIn
@@ -30,64 +30,60 @@ images:
     isCached: true
 
 related:
-  - title: "Momentum in Azure Cloud to Aid Microsoft (MSFT) Q1 Earnings"
-    excerpt: "Microsoft MSFT is scheduled to report first-quarter fiscal 2022 results on Oct 26. The company’s quarterly numbers are likely to have been driven by the continued strength in its cloud platform — Azure."
-    publishedDateTime: 2021-10-22T15:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22"
-    ampWebUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp"
+  - title: "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
+    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027."
+    publishedDateTime: 2021-10-25T22:46:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 99
-  - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
-    excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
-    publishedDateTime: 2021-10-27T00:17:00Z
-    webUrl: "https://www.digitimes.com/news/a20211026PR201.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 67
     images:
-      - url: "https://www.digitimes.com/newsshow/20211026PR201_files/1_2b.jpg"
-        width: 1280
-        height: 853
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg"
+        width: 390
+        height: 220
         isCached: true
-  - title: "AI in Hardware Market New events in technology and market size forecast by 2027 | Microsoft, Apple"
-    excerpt: "The new study on the Global AI in Hardware Market 2021 2027 analyzes the crucial capabilities key infrastructures major organizations evaluates measures to attain potential success in the AI in Hardware industry Because of the in depth overview of the"
-    publishedDateTime: 2021-10-25T09:10:00Z
-    webUrl: "https://www.openpr.com/news/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
+  - title: "Deep Learning System Software Market Size and Forecast 2028 | Key Companies – Microsoft, TRINT, NVIDIA, Google, IBM, Amazon Web Services"
+    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027 Get | Download Sample Copy with TOC,"
+    publishedDateTime: 2021-10-25T17:19:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-system-software-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-system-software-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-system-software-market-size-and-analysis/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 60
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Market-Research-19-390x220.png"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Deep Learning Market Size and Forecast 2028 | Key Companies – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
+    excerpt: "The report provides an overview of the Deep Learning Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
+    publishedDateTime: 2021-10-24T15:20:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 55
+  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
+    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
+    publishedDateTime: 2021-10-26T06:51:00Z
+    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 44
-  - title: "Deep Learning Software Market to Make Great Impact in near Future by 2021-2027 | Microsoft, Google, IBM"
-    excerpt: "Deep Learning Software is highly useful for data scientists who are responsible with gathering analysing and interpreting massive amounts of data it speeds up and simplifies the process Working with deep learning is similar to a toddler learning to recognise"
-    publishedDateTime: 2021-10-25T13:40:00Z
-    webUrl: "https://www.openpr.com/news/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
-    ampWebUrl: "https://www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-  - title: "Artificial Intelligence in Video Games Market Astonishing Growth with Top Influencing Key Players like Ubisoft, EA, Tencent, Sony, Microsoft"
-    excerpt: "The Artificial Intelligence in Video Games Market research report added by MarketInsightsReports gives a holistic view of the market from 2016 to 2027 which includes factors such as market drivers restraints opportunities and challenges The market has been studied for"
-    publishedDateTime: 2021-10-25T09:48:00Z
-    webUrl: "https://www.openpr.com/news/2439866/artificial-intelligence-in-video-games-market-astonishing"
-    ampWebUrl: "https://www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
+    quality: 31
 
 secured: "q70a9+UNl04fHALOeM+2v6jKpldyS7JyFcovSVxFj3TnOwaMuWIe0MEFWr/17Dg7rgx82l7mpSd1qj+btme17aJLk41FYlqbY2VZtk6wu9UU68NOazqBsIGhTxhbbKCcGbpK/TgWQCXwvugkoQY30QwSvK/eH3TxekcfejMQqxKas+6mth5eUYU7I58t8SZCcBHz6e2pPxtITSdUIT9gjfS3mTjjrNDSPQKI42BjS544FReyrPFqCLlQuExsOVEppUfe4vSn2CsJKSkLiU3RqUrbysp9rrebye58bX5O30p99i3lOAXawtCfruVaTtsutTUKeB6HUpEZmIrkyvFBkMfDE63OwFuqfyR4DwUBurdellPxqeA5WopVDJKaC5V6td3haNam2F6NKZNL2Y++NlUOu0nNuDPZdbvQz8/0Rch0hFyIs/sAL2Z6RFZDPSPVfj5be5Ty219knw+G28UcmFWJlTV9s9EGAvNqWIwIm+Q9O6mUDdQixCtYcqxf4r2gi3/tgcOD8gCCnQ5oDmWfug==;2dNHhwY42Fb9bOZQbw93nw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/train-models-faster-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/train-models-faster-with-an-automated-data-profiler-for-amazon-fraud-detector/"
 type: article
 quality: 86
-heat: 86
+heat: 88
 published: true
 
 provider:

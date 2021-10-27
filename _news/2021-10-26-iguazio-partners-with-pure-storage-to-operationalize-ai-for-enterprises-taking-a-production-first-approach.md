@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Role of Democratized AI Using Power Platform’s AI Builder"
-    excerpt: "Have you heard of Power Platform's AI Builder but aren't sure what it's capable of? Click here for an in-depth yet succinct discussion."
-    publishedDateTime: 2021-10-22T16:07:00Z
-    webUrl: "https://www.avepoint.com/blog/office-365/power-platform-ai-builder/"
-    ampWebUrl: "https://www.avepoint.com/blog/office-365/power-platform-ai-builder/?amp"
-    cdnAmpWebUrl: "https://www-avepoint-com.cdn.ampproject.org/c/s/www.avepoint.com/blog/office-365/power-platform-ai-builder/?amp"
-    type: article
-    provider:
-      name: AvePoint
-      domain: avepoint.com
-    quality: 57
-    images:
-      - url: "https://www.avepoint.com/blog/wp-content/uploads/2021/10/artificial-intelligence-brain-icon-big-data-flow-analysis-deep-picture-id1236683058.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "5 Steps to Help Tech Companies Reduce Bias in AI"
     excerpt: "The five-step framework can help tech entrepreneurs prevent biases from developing and reverse existing biases in tech.  Children inevitably adapt to the culture in which they were raised. Parents or guardians shape the lens through which they view the world,"
     publishedDateTime: 2021-10-25T05:01:00Z

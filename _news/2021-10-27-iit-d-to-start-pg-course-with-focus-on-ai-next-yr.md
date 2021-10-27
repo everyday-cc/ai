@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/delhi/iit-d-to-start-pg-course-with-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/iit-d-to-start-pg-course-with-focus-on-ai-next-yr/amp_articleshow/87289779.cms"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1070
     height: 579
     isCached: true
+
+related:
+  - title: "IIT-Delhi To Launch M. Tech In Artificial Intelligence Next Year — Know More About It"
+    excerpt: "IIT Delhi would be starting a new course from next year. Students would now be able to opt for an M. Tech. degree in Artificial Intelligence at IIT Delhi."
+    publishedDateTime: 2021-10-27T08:01:00Z
+    webUrl: "https://news.abplive.com/education/iit-delhi-new-course-machine-intelligence-data-science-m-tech-in-artificial-intelligence-check-details-on-scai-iitd-ac-in-rts-1489953"
+    ampWebUrl: "https://news.abplive.com/education/iit-delhi-new-course-machine-intelligence-data-science-m-tech-in-artificial-intelligence-check-details-on-scai-iitd-ac-in-rts-1489953/amp"
+    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/education/iit-delhi-new-course-machine-intelligence-data-science-m-tech-in-artificial-intelligence-check-details-on-scai-iitd-ac-in-rts-1489953/amp"
+    type: article
+    provider:
+      name: news.abplive
+      domain: abplive.com
+    quality: 50
+    images:
+      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2021/06/08/257e96103523436d2f6d44f518f4683b_original.JPG?impolicy=abp_images&imwidth=1200"
+        width: 720
+        height: 540
+        isCached: true
 
 secured: "EAzxqWA6XFH6NBOYxUkk4+HEhVPPFLCCSwFsQAuj9LlaDHFlqRlIH56HeaygqvUfV9tgXvWVq7AP8b9xJbxQuEfVWzsMPA/wACmJFMYKASDqVwb3O2Jx0ql7yUPldMdNsE8Eo+PlwqvmuY7UzZ/y3GF9DzSeoiIKj34xNM+zvWSYH3mE6JVojgxjofDBqTqvcE8TugnVQBv6r6+lAmSoEnrvQN4ft8J7KrIRuQtxi+w+rshRbTcopOhekrVB5YE6DAdvAOgkybbs8NCtCyjM3W10iLVAmiR1R4rNFzfEbZjV/33JE5xcBSpGVdMrZlb8lNSSH26vmOpdM261f8MqIe/2ceznpvLpRFqn9Nq8/S0=;Dxuq7M41jsJnQDBoTRtP5g=="
 ---
