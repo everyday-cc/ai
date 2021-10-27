@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financemagnates.com/fintech/5-ways-fintech-is-transformi
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/picture%20of%20the%20US%20capitol%20building%20blended%20with%20the%20American%20flag.jpg.png?itok=jIyyI_P5"
         width: 1200
         height: 630
+        isCached: true
+  - title: "DFIN Partners with Hong Kong Fintech Week 2021 Global Fast Track; Spotlights Innovative Fintech Enterprises"
+    excerpt: "Donnelley Financial Solutions (NYSE: DFIN), a leading risk and compliance company, today announced its partnership with Hong Kong FinTech"
+    publishedDateTime: 2021-10-27T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dfin-partners-with-hong-kong-fintech-week-2021-global-fast-track-spotlights-innovative-fintech-enterprises-301409569.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 6
+    images:
+      - url: "https://mma.prnewswire.com/media/1438448/Donnelley_Financial_Solutions_Logo.jpg?p=facebook"
+        width: 750
+        height: 393
         isCached: true
 
 secured: "0dZjZ29MiNxN4m9tNW3awHPjbaf+7HE19FilveHxOc9y+Q0V50DQmKt+eO6a9d3ONMjvMt5aqm7pJIguTgCGn/BNGyTOu9vPlSgBTWWEOpyGahQdpb9SZE5VBG/p7V9DUTQfa6UgbTwHY2Nj3hcSuadENRI4ZE2csJ+7nAIooxvZQU69ePk//miBK/xo6V6CwCLl+X+2+IiI5MO1XI0YinJCuEspztkvYQaaWmzXqcznM+ls8ZsG58CcuOGB4oDVAmVXVUuuX+LUoAhH9KJ/3OEq23tuW2qU0M86efNK/rxzfdTUOXzOHv3v4i3pFnoHaOB2sA98DmIOQCWj5NvpvAqw44W7OD43BjBb5OkSD9O2rLzdx2OY+j3DCPnq18k6WtCcbiMv4YtpWnYW/sKMoPr8u6CVd0TJ6aFnTJIhNPGiFQ44arOO8TSuzOiCChaium77XYZNYB4uYrLnIo0VM08zOtYwI5nDj4VFjirQwdLX1pbFuTdWmHwHQhafmaQIdfrLY1CMViy7e3cd9FjK6A==;+iLz9zHuFtusb1sKDoERww=="

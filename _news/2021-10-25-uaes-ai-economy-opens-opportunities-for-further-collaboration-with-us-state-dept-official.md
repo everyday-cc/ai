@@ -32,7 +32,7 @@ related:
     provider:
       name: China Daily
       domain: chinadaily.com.cn
-    quality: 54
+    quality: 56
     images:
       - url: "https://img2.chinadaily.com.cn/images/202110/27/6178aa4ea310cdd3d8160156.jpeg"
         width: 720

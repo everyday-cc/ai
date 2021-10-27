@@ -37,20 +37,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "New funding for one facial recognition firm, features for another"
-    excerpt: "Two computer vision startups, one taking venture capital and another crowdsourcing funding for growth, are leaning on COVID restrictions for market attention."
-    publishedDateTime: 2021-10-22T17:09:00Z
-    webUrl: "https://www.biometricupdate.com/202110/new-funding-for-one-facial-recognition-firm-features-for-another"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
 
 secured: "9OuQIzYeX/cMW1yhdNuKR618P6uX8djXops1LNGOzENWX0XNslTfOO3i8w3drNDL3WaDnmznNk/JCkDujlIWTsITqgZC9vlt/gTVFqWAKITy7AiLnXGlY8bjjakD2SmpOSUseL6vYN6CkXrForv+1qxVrGx1p6+bCuqohmjsMHcnXLgXAkXASu4qEZoIjdH1cAZ2OQEZlu7HDXpfjuo+HVFjORlGSeKVKAh4oDL0Ti1UJRz/GsOgcMj/yAoIOtSRxmyYlfkHBRRdZvAHCOCjRVVsi2dRqw//ZbtpKs/28I0Dlkcs2JZ+DZqGe1mPLDMqX27iCgYaM2Yn+8+BCownRX6toktn8aB8L79lzvHvBdI=;vsZ+DtHWJmE1x261ATQgqQ=="
 ---

@@ -42,6 +42,20 @@ related:
         width: 1440
         height: 950
         isCached: true
+  - title: "Photoshop’s AI Is Now So Fast That Hovering Over Objects Instantly Creates Perfect Masks"
+    excerpt: "In a major update to Adobe Photoshop today, slicing up a photo will soon be as easy as browsing the web, because like hyperlinks, the object you want to select becomes almost instantly highlighted the moment your cursor hovers over it."
+    publishedDateTime: 2021-10-26T20:20:00Z
+    webUrl: "https://gizmodo.com/photoshop-s-ai-is-now-so-fast-that-hovering-over-object-1847936878"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 58
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b436a6c6625cb095f129bac4ac5a77dd.gif"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google's Pixel 6 processor brings AI photo features"
     excerpt: "Google has unveiled its latest smartphone, containing the tech giant's first self-designed computer chip. The Pixel 6 contains Google's \"Tensor\" processor, which it says enables new phone features powered by artificial intelligence and machine learning."
     publishedDateTime: 2021-10-25T09:10:00Z

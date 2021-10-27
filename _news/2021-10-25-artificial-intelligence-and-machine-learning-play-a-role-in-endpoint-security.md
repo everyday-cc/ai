@@ -3,10 +3,10 @@ category: news
 title: "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security"
 excerpt: "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology."
 publishedDateTime: 2021-10-25T14:40:00Z
-originalUrl: "https://edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
-webUrl: "https://edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
-ampWebUrl: "https://edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
+originalUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
+webUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
+ampWebUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
 type: article
 quality: 88
 heat: 118
@@ -17,12 +17,12 @@ provider:
   domain: edtechmagazine.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
   - AI in Security
 
 images:
-  - url: "https://edtechmagazine.com/k12/k12/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F"
+  - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F"
     width: 1440
     height: 500
     isCached: true
@@ -73,6 +73,6 @@ related:
         height: 405
         isCached: true
 
-secured: "XlWYpNZPbQxxw+2/S+s/HzQRC8FbuovoHJydLI3T6J7vI9U7R7PT4qqW/68XxdkM1DEBbt6uGpfmxYcmEc7FaS8dwt38LasZ/tABGOUV+ukuLisJTbZiIx1VA2ayQW01oCYlUPqUgcwFVRjvnFWNKVOiia6r1Uxd1d33nBh/p3pxkNI/vlrHJuJYwcTkctOCuu7U4gtHx9j7UoTaHg8vyarXKnlCsB9Ygd1vZVmOwcoBMeLcNbmZI0I3iwM6CAGZBgsd6Pn7wFkRa6Lq7FumEm3fSJZ3p141pGjuiOrtHJKH22H91Vnxtu5TmMzO1jq4zQgLIwhJBAszVD6xKettDWEgAv9QvwOWx1wRpVv8Koo=;GHfPWiZbFUVVynQPHcfzcA=="
+secured: "XL6hdvB3Wqk9CgUlkrP8CwvZyP9m1f41v7m2hU8P6/1sMOUYdCYuAQA4Cane2qpWSqSzbCZSpi+1ulbCxZX7KFlLAV7H77txkyqVIQzEdffq24dZi1OomG3ieITmFCDZbXJa79ERq/d5vvc3SHnuYwtz/nN6rRm0PMk+/p3+0AmvDb6y80hqhWld+TX/vcBg4mRDxPhm7qZucOBaBlBB/ZxPDOkpXGHedVPE8FaehX5hKpOe5o9lwnC1hazQW7EbTdPMnX/ZaPluty4DEvkARd/Zh9vB1mK2S+zJ/Bq7YO0tfT+5a8XzR9XsnBG3GUw4GQeJWo9C9q9fHfqMXdfU2B6jbl1NUANaOwDw51j/Ej8=;Ki2MGNC2SrMtxeiVmHE2xg=="
 ---
 

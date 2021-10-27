@@ -7,7 +7,7 @@ originalUrl: "https://www.hawaiinewsnow.com/prnewswire/2021/10/26/gatc-health-co
 webUrl: "https://www.hawaiinewsnow.com/prnewswire/2021/10/26/gatc-health-corp-chooses-syndi-health-accelerate-artificial-intelligence-training-advance-personalized-medicine/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "GATC Health Corp chooses Syndi Health to accelerate artificial intelligence training and advance personalized medicine"
-    excerpt: "Syndi Health and GATC Health Corp today announced they have entered a development agreement, which could accelerate GATC Health’s product development and publication release timelines by as much as 50 percent."
-    publishedDateTime: 2021-10-26T18:28:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-health-artificial-intelligence-20fcdedfad691fadc39c923b58196045"
+    excerpt: "Syndi Health and GATC Health Corp today announced they have entered a development agreement, which could accelerate GATC Health's product development and publication release timelines by as much as 50 percent."
+    publishedDateTime: 2021-10-26T17:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1669428/GATC_Logo.jpg"
+        width: 603
+        height: 400
         isCached: true
 
 secured: "UOOj61ioLoz3Oy9G3zq2hhC5oJXtQGAbO5i3dcKqp9dPO+INkqZRkRxXckwcsbUaittdcTyg898GvlW9Bwy743X7Mj5+kpjZ/nhbxuLrgRo5JXxZYG84I5Hhs/dyvLiSBMvA7UT25VK6CWlzGsJCiXSpqKPfxvvow2lT/3awkMlTikRZ2aMXs7iQuGPtxTTos+txRbDaV7THzscUynSEJZnUw3PqG0jbXArVdzPzIoTmxX0pecbIbc2xOqLVykf5lDfydBlExMdZnHiACRkRRAKvYtpIMXaC2znmrJ568sqAqrIubCyNgKE5Vu3yI81N7UjEKO6VaTE2rsmaEISXFCq/n+5ZD5KQgGS81uIjhWw=;DL2ReZSu+kZBLFKEw+soIw=="

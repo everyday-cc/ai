@@ -22,76 +22,129 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AI in IoT Market to Witness Notable Growth by 2027 Covid-19 Analysis | Microsoft (US), PTC (US)"
-    excerpt: "AI in IoT market report points out problem areas in the business and also presented what areas can expand the business by increasing the customer base It also helps you make sound market decisions and develop effective strategies This AI"
-    publishedDateTime: 2021-10-25T08:58:00Z
-    webUrl: "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
-    ampWebUrl: "https://www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
+  - title: "Microsoft Azure and Google Cloud results soar as the world goes digital"
+    excerpt: "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services ... Google Cloud’s artificial intelligence (AI), and data analytics prowess, Microsoft ..."
+    publishedDateTime: 2021-10-27T11:59:00Z
+    webUrl: "https://www.techradar.com/au/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 62
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua25568936_g.jpg"
-        width: 780
-        height: 470
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
-  - title: "GPS Navigation Software Market to Witness Stunning Growth | Google, Microsoft, Navigon, TomTom"
-    excerpt: "Advance Market Analytics published a new research publication on GPS Navigation Software Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers"
-    publishedDateTime: 2021-10-26T11:45:00Z
-    webUrl: "https://www.openpr.com/news/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
+  - title: "Microsoft Azure, Amazon AWS and Google Cloud: A Quick Look at Each"
+    excerpt: "Microsoft Azure is the first player to offer the full suite of services to developers. It offers a wide range of products and has one of the most mature enterprise-grade clouds."
+    publishedDateTime: 2021-10-26T11:06:00Z
+    webUrl: "https://www.linkedin.com/pulse/microsoft-azure-amazon-aws-google-cloud-quick-look-each-andrew-frost"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 71
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua26572229_g.jpg"
-        width: 450
-        height: 450
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE5a14hWGJugw/article-cover_image-shrink_600_2000/0/1635246231199?e=1640822400&v=beta&t=FTeIfVv5_WE6giaKpgHD1BOTHkpX2rJm0yI1c8ZaPfI"
+        width: 921
+        height: 432
         isCached: true
-  - title: "Artificial Intelligence in BFSI Market to Witness Notable Growth by 2027 | Avaamo, Inc., Google LLC"
-    excerpt: "Various crucial findings depicted in this Artificial Intelligence in BFSI market report are the result of primary and secondary research carried out by the analysts In order to provide the relevant data analysts and financial experts take great efforts to"
-    publishedDateTime: 2021-10-25T13:55:00Z
-    webUrl: "https://www.openpr.com/news/2440649/artificial-intelligence-in-bfsi-market-to-witness-notable"
-    ampWebUrl: "https://www.openpr.com/amp/2440649/artificial-intelligence-in-bfsi-market-to-witness-notable"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440649/artificial-intelligence-in-bfsi-market-to-witness-notable"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua25900303_g.jpg"
-        width: 800
-        height: 457
-        isCached: true
-  - title: "AI in Logistics and Supply Chain Management Market Size and Forecast 2028 | Key Companies – IBM, Microsoft, Google, Amazon, Alibaba, Nauto"
-    excerpt: "The AI in Logistics and Supply Chain Management Market report provides vital information that prepares market players to give fierce competition to their toughest competitors based on growth, sales, and revenue,"
-    publishedDateTime: 2021-10-25T16:52:00Z
-    webUrl: "https://manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/?amp=1"
+  - title: "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
+    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027."
+    publishedDateTime: 2021-10-25T22:46:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 20
-  - title: "Artificial Intelligence in Video Games Market Astonishing Growth with Top Influencing Key Players like Ubisoft, EA, Tencent, Sony, Microsoft"
-    excerpt: "The Artificial Intelligence in Video Games Market research report added by MarketInsightsReports gives a holistic view of the market from 2016 to 2027 which includes factors such as market drivers restraints opportunities and challenges The market has been studied for"
-    publishedDateTime: 2021-10-25T09:48:00Z
-    webUrl: "https://www.openpr.com/news/2439866/artificial-intelligence-in-video-games-market-astonishing"
-    ampWebUrl: "https://www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
+    quality: 67
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Deep Learning System Software Market Size and Forecast 2028 | Key Companies – Microsoft, TRINT, NVIDIA, Google, IBM, Amazon Web Services"
+    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027 Get | Download Sample Copy with TOC,"
+    publishedDateTime: 2021-10-25T17:19:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-system-software-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-system-software-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-system-software-market-size-and-analysis/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 60
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Market-Research-19-390x220.png"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "CRN Impact Awards: MOQdigital adds Azure Sentinel to Brisbane Catholic Education's Microsoft stack"
+    excerpt: "Brisbane managed services provider MOQdigital was named a finalist in the recently unveiled 2021 CRN Impact Awards, with its Azure Sentinel deployment for Brisbane Catholic Education qualifying for the Trusted Systems category."
+    publishedDateTime: 2021-10-24T22:56:00Z
+    webUrl: "https://www.crn.com.au/feature/crn-impact-awards-moqdigital-adds-azure-sentinel-to-brisbane-catholic-educations-microsoft-stack-571633"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 57
+    images:
+      - url: "https://i.nextmedia.com.au/Features/crn-14_brisbane_catholic_education_school_students_Blog-hero-1.jpg"
+        width: 821
+        height: 528
+        isCached: true
+  - title: "Deep Learning Market Size and Forecast 2028 | Key Companies – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
+    excerpt: "The report provides an overview of the Deep Learning Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
+    publishedDateTime: 2021-10-24T15:20:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 55
+  - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
+    excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
+    publishedDateTime: 2021-10-27T00:17:00Z
+    webUrl: "https://www.digitimes.com/news/a20211026PR201.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://www.digitimes.com/newsshow/20211026PR201_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "AI in Hardware Market New events in technology and market size forecast by 2027 | Microsoft, Apple"
+    excerpt: "The new study on the Global AI in Hardware Market 2021 2027 analyzes the crucial capabilities key infrastructures major organizations evaluates measures to attain potential success in the AI in Hardware industry Because of the in depth overview of the"
+    publishedDateTime: 2021-10-25T09:10:00Z
+    webUrl: "https://www.openpr.com/news/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 19
+    quality: 44
+  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
+    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
+    publishedDateTime: 2021-10-26T06:51:00Z
+    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
 
 secured: "8jLAS+9MA9NP/qK3nLITLHVt/zB+PlP4fzWL2xo2bDAQXHWxAm+e84eQNEvxi6wy1+gzLBbveDgFXv2Fokc27xxVVx4ceXlvh1RxpS/sq1bVX6sMd9NuQpai+Ny6hS0bD8xO/VWugKehwdm0dFa4ZVZ4fAtg6BQ6BBfPYFFya5DgzQ/iOtyfeZvv/CmrWe2sK+c6Uk/04CCDokU94ftzpWlq2BcYFGgl3M9u6uD3z2WSRpDAv/2VMu9N8L5jLk85ZqodUbPFztugqMK13idROQGf+H0VdM7D2yPS6+Dph9gYb9y/eXMI7H1t3DKqw8JXMyUz6Dt97qRFvfpOpGYETcWSxYE5rbiAhluhSl2KGus=;3RCYKvB93MDoXvaS5HUVHA=="
 ---

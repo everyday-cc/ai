@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-feat
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Photoshop’s AI Is Now So Fast That Hovering Over Objects Instantly Creates Perfect Masks"
+    excerpt: "In a major update to Adobe Photoshop today, slicing up a photo will soon be as easy as browsing the web, because like hyperlinks, the object you want to select becomes almost instantly highlighted the moment your cursor hovers over it."
+    publishedDateTime: 2021-10-26T20:20:00Z
+    webUrl: "https://gizmodo.com/photoshop-s-ai-is-now-so-fast-that-hovering-over-object-1847936878"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 58
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b436a6c6625cb095f129bac4ac5a77dd.gif"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Adobe MAX 2021: New innovations and AI-powered features for Photoshop CC"
     excerpt: "Adobe MAX kicks off today! The free virtual event will showcase the latest and greatest innovations and updates to Adobe’s popular software programs including their best photo editing software Photoshop CC,"
     publishedDateTime: 2021-10-26T13:00:00Z

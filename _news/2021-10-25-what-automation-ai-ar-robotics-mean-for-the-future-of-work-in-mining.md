@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/what-automation--a
 webUrl: "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "This chemist is reimagining the discovery of materials using AI and automation"
+    excerpt: "Alán Aspuru-Guzik is using AI, robots, and even quantum computing to create the new materials that we will need to fight climate change."
+    publishedDateTime: 2021-10-27T11:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/10/27/1037114/materials-discovery-ai-chemistry-computing/"
+    ampWebUrl: "https://www.technologyreview.com/2021/10/27/1037114/materials-discovery-ai-chemistry-computing/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/27/1037114/materials-discovery-ai-chemistry-computing/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 55
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/ND21-materials_42A6873.jpg?w=2700"
+        width: 2700
+        height: 1800
+        isCached: true
   - title: "How Bajaj General Insurance leveraged automation, AI and ML for automating key processes"
     excerpt: "Insurance provider Bajaj Allianz General Insurance Co. Ltd. has developed a mobile phone Application that aids in digital pre-insurance medical checku.."
     publishedDateTime: 2021-10-25T03:38:00Z

@@ -58,22 +58,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "AI in Auto Insurance Market Insights Shared in Detailed Report 2021 till 2028"
-    excerpt: "New York United States AI in Auto Market report will provide one with overall market analysis statistics various trends drivers opportunities restraints and every minute data relating to the AI in Auto market necessary for forecasting its revenue"
-    publishedDateTime: 2021-10-26T11:07:00Z
-    webUrl: "https://www.openpr.com/news/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
-    ampWebUrl: "https://www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua26697026_g.jpg"
-        width: 800
-        height: 531
-        isCached: true
   - title: "Deep Learning in Drug Discovery and Diagnostics Market Shows Expected Growth from 2021-2028"
     excerpt: "Another factual information on the Deep Learning in Drug Discovery and Diagnostics Market has as of late added by CMI to its storehouse This research report offers an inside and out examination of various perspectives for example market patterns pieces"
     publishedDateTime: 2021-10-25T11:45:00Z
@@ -90,17 +74,6 @@ related:
         width: 643
         height: 400
         isCached: true
-  - title: "AI in Hardware Market New events in technology and market size forecast by 2027 | Microsoft, Apple"
-    excerpt: "The new study on the Global AI in Hardware Market 2021 2027 analyzes the crucial capabilities key infrastructures major organizations evaluates measures to attain potential success in the AI in Hardware industry Because of the in depth overview of the"
-    publishedDateTime: 2021-10-25T09:10:00Z
-    webUrl: "https://www.openpr.com/news/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
   - title: "Consumer AI Market Incredible Possibilities, Growth, Trend, Opportunities Detailed Analysis and Forecast 2030"
     excerpt: "The Global Consumer AI Market size is estimated to be USD 5 00 billion in 2019 and is predicted to reach USD 149 60 billion by 2030 with a CAGR of 36 2 from 2020 2030 Artificial intelligence is also"
     publishedDateTime: 2021-10-25T03:16:00Z
@@ -131,6 +104,17 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Edge AI Hardware Market 2021 Disclosing Latest Trends and Advancement Outlook 2026"
+    excerpt: "The Edge AI Hardware Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Edge AI Hardware market It particularly sheds light on market"
+    publishedDateTime: 2021-10-27T10:56:00Z
+    webUrl: "https://www.openpr.com/news/2444048/edge-ai-hardware-market-2021-disclosing-latest-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2444048/edge-ai-hardware-market-2021-disclosing-latest-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2444048/edge-ai-hardware-market-2021-disclosing-latest-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
   - title: "Lidar for Self-Driving Car Market Overview, Industry Top Manufactures, Market Size, Industry Growth Analysis and Forecast: 2027"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” “Lidar for Self-Driving Car Market” forecast gives a current review of the market size, including definitions, division,"
     publishedDateTime: 2021-10-26T08:59:00Z
@@ -159,20 +143,17 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "AI in Fashion Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2024"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 03:16 /Comserve / -- MarketsandMarkets expects the global AI in fashion market to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at a Compound Annual Growth Rate (CAGR) of 40."
-    publishedDateTime: 2021-10-26T09:42:00Z
-    webUrl: "https://menafn.com/1103046901/AI-in-Fashion-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2024"
+  - title: "Artificial Intelligence in Construction Market 2021-2026: Trends, Scope, Demand, Opportunity and Forecast"
+    excerpt: "The Artificial Intelligence in Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Artificial Intelligence in market It particularly sheds light"
+    publishedDateTime: 2021-10-27T11:24:00Z
+    webUrl: "https://www.openpr.com/news/2444188/artificial-intelligence-in-construction-market-2021-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2444188/artificial-intelligence-in-construction-market-2021-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2444188/artificial-intelligence-in-construction-market-2021-2026"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 20
   - title: "Global Healthcare Chatbots Market - Analysis of Market Size, Share & Trends for 2019 – 2020 and Forecast to 2027"
     excerpt: "The global healthcare chatbots market is expected to grow at a CAGR of 25 to reach USD 1 1 billion by 2027 from 230 6 million in 2020 The growth of the healthcare chatbots market is mainly driven by rising"
     publishedDateTime: 2021-10-25T07:17:00Z

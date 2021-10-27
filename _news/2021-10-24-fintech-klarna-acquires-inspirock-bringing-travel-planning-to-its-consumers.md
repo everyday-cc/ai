@@ -143,6 +143,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DFIN Partners with Hong Kong Fintech Week 2021 Global Fast Track; Spotlights Innovative Fintech Enterprises"
+    excerpt: "Donnelley Financial Solutions (NYSE: DFIN), a leading risk and compliance company, today announced its partnership with Hong Kong FinTech"
+    publishedDateTime: 2021-10-27T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dfin-partners-with-hong-kong-fintech-week-2021-global-fast-track-spotlights-innovative-fintech-enterprises-301409569.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 6
+    images:
+      - url: "https://mma.prnewswire.com/media/1438448/Donnelley_Financial_Solutions_Logo.jpg?p=facebook"
+        width: 750
+        height: 393
+        isCached: true
 
 secured: "SQvQGlhqPxPIYrmi1NtFsuWb3eAGbeayrWx5U+zS+YLEMmNM+mQgMptuxy3i0BRkIcA8JZr+UKZspL4BISTip0+3z8tHxnfdhkBN4/aAQxgKmAOAIyQOI+4/tofJwXF8Ilz5P0zVwV9KKA+TpqH3B2b/eAutg2OHpvlfE96KG0P3MwlrMZ9xfg5D80DMmYBkI+89O2F+zaFj7Buyl04sqRznBRUK0c7bTWmwaZi209ciPXTX1QDHm0Su+JM1z7/c2n1rLfhmhMUzmo/7+kcTnHW0VDkRKMOqa3+erxD/zuflqMzMxb67BB+7s7GpjEXRXRziSzD4keHGdwjjLloOoAcma8GO5X+DCaBBk23mfb3/gTHWMATB/o/7kIVx8L7fzTMgNXjARcYUXXWkDqRsayHz+/wPMfi2oN8l9bQp1TVXBEY0J8kRlbfuZ5hBydBbqT5B9iQA6HtJjq6xIZX8EXH7f65BCqwHOfeXV5wX787LuV2TOxWHy10mhGq6OJMaE4z9/mNJOBSNRifP0pBxpA==;ZYubUl4n+izW3zIQ45eP+g=="
 ---

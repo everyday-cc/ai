@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103024341/Facial-Recognition-Market-is-Expecte
 webUrl: "https://menafn.com/1103024341/Facial-Recognition-Market-is-Expected-to-Grow-at-an-Impressive-Rate-and-Touch-USD-3123-Million-in-2019"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -25,31 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Apple iPhone SE 3 Is Reportedly Expected to Feature a Touch ID Fingerprint Sensor and 3D Facial Recognition."
-    excerpt: "The SE, which has a conventional style language and the only front fingerprint recognition, is still popular among users. It appears that Apple isn’t ready to give up yet, with iterative models said to be released in the spring of next year."
-    publishedDateTime: 2021-10-23T02:00:00Z
-    webUrl: "https://bestgamingpro.com/apple-iphone-se-3-is-reportedly-expected-to-feature-a-touch-id-fingerprint-sensor-and-3d-facial-recognition/"
+  - title: "Facial Recognition Market Size and Forecast 2028 | Key Companies – NEC Corporation, Aware, Cognitec Systems, Gemalto, Thales, Idemia"
+    excerpt: "Facial Recognition Market was valued at USD 3.04 Billion in 2019 and is projected to reach USD 9.95 Billion by 2027, growing at a CAGR of 15.87% from 2020 to 2027. Get | Download Sample Copy with TOC,"
+    publishedDateTime: 2021-10-25T16:24:00Z
+    webUrl: "https://manometcurrent.com/facial-recognition-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/facial-recognition-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/facial-recognition-market-size-and-analysis/?amp=1"
     type: article
     provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 20
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 28
     images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/10/2310211634956207.jpg"
-        width: 1200
-        height: 628
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/TIP-6-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
-  - title: "The healthcare artificial intelligence market is expected to grow at a CAGR of 42.7% from 2020 to 2027 to reach at USD 52.7 billion by 2027."
-    excerpt: "The factors such as increasing funding for healthcare artificial intelligence growing demand for personalized therapy large pool of healthcare data and growing use of AI in reducing healthcare cost are expected to propel the growth of the overall healthcare artificial"
-    publishedDateTime: 2021-10-26T06:29:00Z
-    webUrl: "https://www.openpr.com/news/2441255/the-healthcare-artificial-intelligence-market-is-expected"
-    ampWebUrl: "https://www.openpr.com/amp/2441255/the-healthcare-artificial-intelligence-market-is-expected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441255/the-healthcare-artificial-intelligence-market-is-expected"
+  - title: "Computer Vision Market Size and Forecast 2028 | Key Companies – Cognex, Basler, Omron, Keyence, National Instruments, Sony"
+    excerpt: "Computer Vision Market size was valued at USD 14.82 Billion in 2020 and is projected to reach USD 27.02 Billion by 2028, growing at a CAGR of 7.8% from 2021 to 2028. Get | Download Sample Copy with TOC,"
+    publishedDateTime: 2021-10-24T12:19:00Z
+    webUrl: "https://manometcurrent.com/computer-vision-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/computer-vision-market-size-and-analysis/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/computer-vision-market-size-and-analysis/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 13
 
 secured: "pyWm1g3wpJ2sf1LPNtZNu1ypjdRhcXrXKeudcr///FTicq/4qWUjyLt2YYKU9bU/u163TradUpzwAH3aM25YWk2ChgTKwdBcMPSp6P6pMiEa6WKZYSut/ufFte996DZvLc8US7eptV1gsftsNzHJckNLb8odNz/7Sp1bh0edi71qZWCk0GQPAxuAgfMVqct7C7apI5YiOo6wEgr8dsBetP1kOQnn1jHJtyv3T61ueOQ6QBKKDldeZE2mCA8NJKaRXhpfRrj5rrkURbGqGbas/ylHExSR32I1KFiX2pDCtEeA35NwbkGX/iBcuNK29zM57eEmSN+p50f5lLlHLclyZE2KdfyNv+3ndbRCY+hlA3Y=;sr+84IJLEWDeUl33Nti0QA=="
 ---

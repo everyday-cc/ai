@@ -23,187 +23,129 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Artificial Intelligence (AI) Robots Market Share 2021 Analysis, Dynamics, Industry Size, Latest Trends and Industry Growth Research Report 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “ Artificial Intelligence (AI) Robots Market ” report analyses the overview of the global market with respect to major regions and segmented by types and applications."
-    publishedDateTime: 2021-10-25T08:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25"
+  - title: "Microsoft Azure and Google Cloud results soar as the world goes digital"
+    excerpt: "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services ... Google Cloud’s artificial intelligence (AI), and data analytics prowess, Microsoft ..."
+    publishedDateTime: 2021-10-27T11:59:00Z
+    webUrl: "https://www.techradar.com/au/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning Market- Industry Predictions For Coming Years from 2021 to 2027"
-    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence and Machine Learning Industry from its research database Artificial Intelligence and Machine Learning Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence and Machine"
-    publishedDateTime: 2021-10-25T13:55:00Z
-    webUrl: "https://www.openpr.com/news/2440565/artificial-intelligence-and-machine-learning-market-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2440565/artificial-intelligence-and-machine-learning-market-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440565/artificial-intelligence-and-machine-learning-market-industry"
+  - title: "Microsoft Azure, Amazon AWS and Google Cloud: A Quick Look at Each"
+    excerpt: "Microsoft Azure is the first player to offer the full suite of services to developers. It offers a wide range of products and has one of the most mature enterprise-grade clouds."
+    publishedDateTime: 2021-10-26T11:06:00Z
+    webUrl: "https://www.linkedin.com/pulse/microsoft-azure-amazon-aws-google-cloud-quick-look-each-andrew-frost"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 71
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE5a14hWGJugw/article-cover_image-shrink_600_2000/0/1635246231199?e=1640822400&v=beta&t=FTeIfVv5_WE6giaKpgHD1BOTHkpX2rJm0yI1c8ZaPfI"
+        width: 921
+        height: 432
+        isCached: true
+  - title: "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
+    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027."
+    publishedDateTime: 2021-10-25T22:46:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 67
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Deep Learning System Software Market Size and Forecast 2028 | Key Companies – Microsoft, TRINT, NVIDIA, Google, IBM, Amazon Web Services"
+    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027 Get | Download Sample Copy with TOC,"
+    publishedDateTime: 2021-10-25T17:19:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-system-software-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-system-software-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-system-software-market-size-and-analysis/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 60
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Market-Research-19-390x220.png"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "CRN Impact Awards: MOQdigital adds Azure Sentinel to Brisbane Catholic Education's Microsoft stack"
+    excerpt: "Brisbane managed services provider MOQdigital was named a finalist in the recently unveiled 2021 CRN Impact Awards, with its Azure Sentinel deployment for Brisbane Catholic Education qualifying for the Trusted Systems category."
+    publishedDateTime: 2021-10-24T22:56:00Z
+    webUrl: "https://www.crn.com.au/feature/crn-impact-awards-moqdigital-adds-azure-sentinel-to-brisbane-catholic-educations-microsoft-stack-571633"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
     quality: 57
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua25281817_g.jpg"
-        width: 600
-        height: 400
+      - url: "https://i.nextmedia.com.au/Features/crn-14_brisbane_catholic_education_school_students_Blog-hero-1.jpg"
+        width: 821
+        height: 528
         isCached: true
-  - title: "AI in Auto Insurance Market Insights Shared in Detailed Report 2021 till 2028"
-    excerpt: "New York United States AI in Auto Market report will provide one with overall market analysis statistics various trends drivers opportunities restraints and every minute data relating to the AI in Auto market necessary for forecasting its revenue"
-    publishedDateTime: 2021-10-26T11:07:00Z
-    webUrl: "https://www.openpr.com/news/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
-    ampWebUrl: "https://www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
+  - title: "Deep Learning Market Size and Forecast 2028 | Key Companies – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
+    excerpt: "The report provides an overview of the Deep Learning Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
+    publishedDateTime: 2021-10-24T15:20:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 55
+  - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
+    excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
+    publishedDateTime: 2021-10-27T00:17:00Z
+    webUrl: "https://www.digitimes.com/news/a20211026PR201.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
     quality: 54
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua26697026_g.jpg"
-        width: 800
-        height: 531
+      - url: "https://www.digitimes.com/newsshow/20211026PR201_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Deep Learning in Drug Discovery and Diagnostics Market Shows Expected Growth from 2021-2028"
-    excerpt: "Another factual information on the Deep Learning in Drug Discovery and Diagnostics Market has as of late added by CMI to its storehouse This research report offers an inside and out examination of various perspectives for example market patterns pieces"
-    publishedDateTime: 2021-10-25T11:45:00Z
-    webUrl: "https://www.openpr.com/news/2440301/deep-learning-in-drug-discovery-and-diagnostics-market-shows"
-    ampWebUrl: "https://www.openpr.com/amp/2440301/deep-learning-in-drug-discovery-and-diagnostics-market-shows"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440301/deep-learning-in-drug-discovery-and-diagnostics-market-shows"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua25321359_g.jpg"
-        width: 643
-        height: 400
-        isCached: true
-  - title: "Consumer AI Market Incredible Possibilities, Growth, Trend, Opportunities Detailed Analysis and Forecast 2030"
-    excerpt: "The Global Consumer AI Market size is estimated to be USD 5 00 billion in 2019 and is predicted to reach USD 149 60 billion by 2030 with a CAGR of 36 2 from 2020 2030 Artificial intelligence is also"
-    publishedDateTime: 2021-10-25T03:16:00Z
-    webUrl: "https://www.openpr.com/news/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
-    ampWebUrl: "https://www.openpr.com/amp/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
+  - title: "Deep Learning Software Market to Make Great Impact in near Future by 2021-2027 | Microsoft, Google, IBM"
+    excerpt: "Deep Learning Software is highly useful for data scientists who are responsible with gathering analysing and interpreting massive amounts of data it speeds up and simplifies the process Working with deep learning is similar to a toddler learning to recognise"
+    publishedDateTime: 2021-10-25T13:40:00Z
+    webUrl: "https://www.openpr.com/news/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    ampWebUrl: "https://www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
     quality: 40
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua25103727_g.jpg"
-        width: 401
-        height: 401
-        isCached: true
-  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
-    excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
-    publishedDateTime: 2021-10-27T04:43:00Z
-    webUrl: "https://menafn.com/1103052426/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Global Artificial Intelligence in Medical Diagnostics Market 2021 Study Scope, Key Segments, Industry Trends, Size and Forecast to 2027"
-    excerpt: "Global Artificial Intelligence in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2027 introduced by MarketsandResearch.biz considers the market structure of the market through the analysis of its various sub-segments."
-    publishedDateTime: 2021-10-25T23:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medical-diagnostics-market-2021-study-scope-key-segments-industry-trends-size-and-forecast-to-2027-2021-10-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Lidar for Self-Driving Car Market Overview, Industry Top Manufactures, Market Size, Industry Growth Analysis and Forecast: 2027"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” “Lidar for Self-Driving Car Market” forecast gives a current review of the market size, including definitions, division,"
-    publishedDateTime: 2021-10-26T08:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-overview-industry-top-manufactures-market-size-industry-growth-analysis-and-forecast-2027-2021-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Blockchain AI Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2025"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 00:13 /Comserve / -- The global blockchain AI market size is projected to grow from USD 228 million in 2020 to USD 703 million by 2025, at a Compound Annual Growth Rate (CAGR) of 25."
-    publishedDateTime: 2021-10-26T05:41:00Z
-    webUrl: "https://menafn.com/1103043696/Blockchain-AI-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?832665"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "AI in Fashion Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2024"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 03:16 /Comserve / -- MarketsandMarkets expects the global AI in fashion market to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at a Compound Annual Growth Rate (CAGR) of 40."
-    publishedDateTime: 2021-10-26T09:42:00Z
-    webUrl: "https://menafn.com/1103046901/AI-in-Fashion-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2024"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Global Healthcare Chatbots Market - Analysis of Market Size, Share & Trends for 2019 – 2020 and Forecast to 2027"
-    excerpt: "The global healthcare chatbots market is expected to grow at a CAGR of 25 to reach USD 1 1 billion by 2027 from 230 6 million in 2020 The growth of the healthcare chatbots market is mainly driven by rising"
-    publishedDateTime: 2021-10-25T07:17:00Z
-    webUrl: "https://www.openpr.com/news/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
+  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
+    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
+    publishedDateTime: 2021-10-26T06:51:00Z
+    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 18
-  - title: "Handing Robots Market Strategy, Share, Growth Factors, Analysis and Forecast to 2027 - FANUC, KUKA, ABB, Yaskawa"
-    excerpt: "The Handing Robots market research report provides an in depth analysis of the current trends latest developments scenarios market size various drivers restraints and major players along with their profile details The research report offers the historic data for years"
-    publishedDateTime: 2021-10-26T07:54:00Z
-    webUrl: "https://www.openpr.com/news/2441410/handing-robots-market-strategy-share-growth-factors"
-    ampWebUrl: "https://www.openpr.com/amp/2441410/handing-robots-market-strategy-share-growth-factors"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441410/handing-robots-market-strategy-share-growth-factors"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
-  - title: "Global Gesture Recognition Market, Size, Share, Analysis Report & Forecast to 2026"
-    excerpt: "The global gesture recognition market is expected to grow at a significant CAGR during the forecast period The Gesture Recognition System GRS integrates imaging and computer technologies to read a specific gesture language by using specified mathematical algorithms Gesture recognition"
-    publishedDateTime: 2021-10-27T09:12:00Z
-    webUrl: "https://www.openpr.com/news/2443753/global-gesture-recognition-market-size-share-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2443753/global-gesture-recognition-market-size-share-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2443753/global-gesture-recognition-market-size-share-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
+    quality: 31
 
 secured: "xzwGhRWWlwLq9RoXQH0BR6dxP1hH6GVrnnCnhqFNbut0lYrmG2GYikyH7O58QTVRIfnTMYP7TaW7bY1cW7zamw4pscweMOTywpWpbII3YS0POBhwLw+X75phwVSHMrb3I/8fgjetq8TBqYneDWDTvuixcIDpTRB1rwPag2iIiJR2Cs0pyfVCLeXGE3Exneu84zrteQsvw1EjsKqmH72r9xSwHB6+rlaqIT8IGrGzTYARXGcM70K+aclzEf8N8Zdn2lrrzKAr31A37QTqpr9sye7Hgh0CbGL/6LBobrgs51fzV2/xmW7K2K5pRpH95qrsWmPzOcf9TcOzO5nffGr4SMYvJBV0gwj3PtifC0V5KIw=;d+8YHjk5bMzueyznfRjv6g=="
 ---

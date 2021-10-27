@@ -23,6 +23,22 @@ topics:
   - Computer Vision
 
 related:
+  - title: "Microsoft Azure and Google Cloud results soar as the world goes digital"
+    excerpt: "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services ... Google Cloud’s artificial intelligence (AI), and data analytics prowess, Microsoft ..."
+    publishedDateTime: 2021-10-27T11:59:00Z
+    webUrl: "https://www.techradar.com/au/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Microsoft Azure, Amazon AWS and Google Cloud: A Quick Look at Each"
     excerpt: "Microsoft Azure is the first player to offer the full suite of services to developers. It offers a wide range of products and has one of the most mature enterprise-grade clouds."
     publishedDateTime: 2021-10-26T11:06:00Z
@@ -69,6 +85,20 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "CRN Impact Awards: MOQdigital adds Azure Sentinel to Brisbane Catholic Education's Microsoft stack"
+    excerpt: "Brisbane managed services provider MOQdigital was named a finalist in the recently unveiled 2021 CRN Impact Awards, with its Azure Sentinel deployment for Brisbane Catholic Education qualifying for the Trusted Systems category."
+    publishedDateTime: 2021-10-24T22:56:00Z
+    webUrl: "https://www.crn.com.au/feature/crn-impact-awards-moqdigital-adds-azure-sentinel-to-brisbane-catholic-educations-microsoft-stack-571633"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 57
+    images:
+      - url: "https://i.nextmedia.com.au/Features/crn-14_brisbane_catholic_education_school_students_Blog-hero-1.jpg"
+        width: 821
+        height: 528
+        isCached: true
   - title: "Deep Learning Market Size and Forecast 2028 | Key Companies – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
     excerpt: "The report provides an overview of the Deep Learning Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
     publishedDateTime: 2021-10-24T15:20:00Z
@@ -80,6 +110,42 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 55
+  - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
+    excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
+    publishedDateTime: 2021-10-27T00:17:00Z
+    webUrl: "https://www.digitimes.com/news/a20211026PR201.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://www.digitimes.com/newsshow/20211026PR201_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "AI in Hardware Market New events in technology and market size forecast by 2027 | Microsoft, Apple"
+    excerpt: "The new study on the Global AI in Hardware Market 2021 2027 analyzes the crucial capabilities key infrastructures major organizations evaluates measures to attain potential success in the AI in Hardware industry Because of the in depth overview of the"
+    publishedDateTime: 2021-10-25T09:10:00Z
+    webUrl: "https://www.openpr.com/news/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+  - title: "Deep Learning Software Market to Make Great Impact in near Future by 2021-2027 | Microsoft, Google, IBM"
+    excerpt: "Deep Learning Software is highly useful for data scientists who are responsible with gathering analysing and interpreting massive amounts of data it speeds up and simplifies the process Working with deep learning is similar to a toddler learning to recognise"
+    publishedDateTime: 2021-10-25T13:40:00Z
+    webUrl: "https://www.openpr.com/news/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    ampWebUrl: "https://www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
 
 secured: "rxRKX0bb5vrD90ucxoulpGM3lUHcNgovxOExQ6CYaTtQsg1IYrDMw/DxcrjbWi62aOhtBJtKoHw+ey0YEK5z4mpvr3zuQ0st3pFdP3X8UG6y45t1CqoCs7BwxEQjH4bDequPracujQfx3EXN9clJ4qMxxtU4xNykKI4tT1H7TaMVvbDzO4EiMdSVxwdOnbm2OspBVsmpXD2v8H0bosiwbuuP4J+7t3EVAfV8+qGrZ1GRNPXkgunvAS+ZLkcqlFGpdhHaOysTS3hwVjzV1EORDxIfY4OOGYtV9EZv3IEaoroMvYYG3tqyUsY5DfVmwkpb6RuzYS+IVVZBshGwc0VYkO23eNLlGFjBcl45nYoeB/Y=;QMC42JgkWfdwEQAEyJikWw=="
 ---
