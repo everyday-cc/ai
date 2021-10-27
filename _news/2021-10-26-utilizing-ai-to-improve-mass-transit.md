@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-tran
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence project aims to improve standards and development of AI systems"
-    excerpt: "A new project has been launched in partnership with the University of Birmingham aiming to address racial and ethical health inequalities using artificial intelligence."
-    publishedDateTime: 2021-10-22T09:59:00Z
-    webUrl: "https://www.birmingham.ac.uk/university/colleges/mds/news/2021/10/artificial-intelligence-project-standards-research.aspx"
-    type: article
-    provider:
-      name: birmingham.ac.uk
-      domain: birmingham.ac.uk
-    quality: 46
-    images:
-      - url: "https://www.birmingham.ac.uk/images/news/artificial-intelligence-900.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "The Coming AI Transformation of Care Delivery"
     excerpt: "A glimpse at AI’s near future in helping health care professionals make better decisions to improve care quality, patient safety, and efficiency. The Deputy Director General, Chief Medical Officer, and Chief Innovation Officer for Sheba Medical Center and the Chief of the Division of General Internal Medicine and Primary Care for Brigham and Women’s Hospital discuss the role of artificial intelligence on various aspects of health care delivery in 10 years and what organizations need to do to get ready for its use in decision support,"
     publishedDateTime: 2021-10-25T13:01:00Z

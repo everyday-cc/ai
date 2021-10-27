@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-25-2-artificial-intelligence-stocks-that-have-spooked-investors.md",
+      "title": "2 Artificial Intelligence Stocks That Have Spooked Investors",
+      "excerpt": "Both stocks are far off their all-time highs, but that does not mean they don’t have bright futures. Lemonade’s AI is making waves in insurance, and so far, no other incumbent in the industry has duplicated its model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/",
+      "originalUrl": "https://www.fool.com/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F647585%2Fperson-thinking-about-a-problem-at-a-desk.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/",
+      "publishedDateTime": "2021-10-25T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-gfk-launches-ai-supported-intelligence-platform-gfknewron-in-uae.md",
       "title": "GfK launches AI-supported intelligence platform 'gfknewron' in UAE",
       "excerpt": "GfK, a leading provider of consumer and market intelligence, analytics and consulting services, launched gfknewron, its integrated, AI-powered software platform in the Middle East. gfknewron is an important step in GfK's transformation from classical market researcher towards an AI-powered data analytics and consulting company.",
@@ -502,7 +553,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -1147,58 +1198,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it.md",
-      "title": "“AI 2041” Co-Author Kai-Fu Lee Talks About AI’s Sweeping Future And How He Invests In It",
-      "excerpt": "Kai-Fu Lee has been sizing up the implications for decades. The former Google executive turned venture capitalist looked at U.S.-China competition in his 2018 book, “AI Superpowers.” His new book, “AI 2041,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/",
-      "originalUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6175629b1f835cb5881bf699%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/amp/",
-      "publishedDateTime": "2021-10-24T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

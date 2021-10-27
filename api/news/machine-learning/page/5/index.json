@@ -2,6 +2,61 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-24-how-do-databases-support-ai-algorithms.md",
+      "title": "How do databases support AI algorithms?",
+      "excerpt": "Register now! Databases have always been able to do simple, clerical work like finding particular records that match some given criteria — say, all users who are between 20 and 30 years old. Lately database companies have been adding artificial intelligence routines into databases so the users can explore the power of these smarter,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/",
+      "originalUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/cloud-database-GettyImages-969567772-e1627330470267.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/",
+      "publishedDateTime": "2021-09-23T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-uw-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.md",
       "title": "UW research provides a basic structure of neural networks in the mammalian brain",
       "excerpt": "Two University of Wyoming researchers decided to pick each other's brain, so to speak. Specifically, they examined the importance of the frontal cortex, the portion of the brain used in decision-making,",
@@ -1382,50 +1437,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-the-machine-learning-imperative-empowering-businesses-to-innovate-faster.md",
-      "title": "The Machine Learning Imperative: Empowering Businesses to Innovate Faster",
-      "excerpt": "Machine Learning (ML) took centre stage at AWS reInvent from being a key focus in the opening keynote by CEO Andy Jassy, to the entire focus of the inaugural ML keynote by Swami Sivasubramanian, VP of",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
-      "originalUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Machine_Learning_Imperative-_Empowering_Businesses_to_Innovate_Faster.jpeg",
-          "width": 1282,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Machine Learning"
       ]

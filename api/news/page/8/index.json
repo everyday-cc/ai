@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-10-19-language-translation-engine-devnagri-raises-600000-in-seed-round.md",
+      "title": "Language translation engine Devnagri raises $600,000 in seed round",
+      "excerpt": "The platform combines Neural Machine Translation with ML to make the internet accessible to 90% of Indians and solve the problem of \"lack of content in Indian languages\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/29/full/1624909326-5084.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "publishedDateTime": "2021-10-19T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-apple-unleashes-latest-airpods-custom-laptop-chips.md",
       "title": "Apple unleashes latest AirPods, custom laptop chips",
       "excerpt": "Apple announced new custom chips, new AirPods and HomePod minis, and a deeper integration of Apple Music with Siri.",
@@ -1114,49 +1157,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-hearing-loss-researcher-and-other-experts-say-ai-can-transform-hearing-healthcare-and-research.md",
-      "title": "Hearing-loss researcher and other experts say AI can transform hearing healthcare and research",
-      "excerpt": "In a paper published online in the journal Nature Machine Intelligence, experts from the U.K. and U.S. call for artificial intelligence to be applied to advancing research and developing new therapies to meet the growing global demand for hearing care.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-hearing.jpg",
-          "width": 2880,
-          "height": 1744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp",
-      "publishedDateTime": "2021-10-18T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

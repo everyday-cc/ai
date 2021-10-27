@@ -1341,21 +1341,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-09-delta-air-lines-expands-facial-recognition-digital-id-to-atlanta.md",
-      "title": "Delta Air Lines Expands Facial Recognition Digital ID To Atlanta",
-      "excerpt": "Delta is expanding its digital identity experience to its home in Atlanta, Georgia. Domestic passengers of the",
+      "path": "_news/2021-10-10-adeept-mars-rover-picar-b-wifi-smart-robot-car-kit-for-raspberry-pi-43-model-bb2b.md",
+      "title": "Adeept Mars Rover PiCar-B WiFi Smart Robot Car Kit for Raspberry Pi 4/3 Model B+/B/2B",
+      "excerpt": "Speech Recognition - PiCar-B can be controlled by voice; Object Recognition and Tracking - based on openCV; Automatic Obstacle Avoidance - based on ultrasonic sensor; Line Tracking - based on infrared reflection; C/S Architecture - can be remotely ...",
       "sourceUrl": null,
-      "webUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/",
-      "originalUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/",
+      "webUrl": "https://www.globalsources.com/Educational-robot/Raspberry-Pi-Robot-Raspberry-Pi-Smart-Car-Kit-1174606098p.htm",
+      "originalUrl": "https://www.globalsources.com/Educational-robot/Raspberry-Pi-Robot-Raspberry-Pi-Smart-Car-Kit-1174606098p.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://simpleflying.com/wp-content/uploads/2021/06/GettyImages-1263005027-scaled.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://p.globalsources.com/IMAGES/PDT/BIG/098/B1174606098.jpg",
+          "width": 360,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1363,13 +1363,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/amp/",
-      "cdnAmpWebUrl": "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/delta-facial-recognition-atlanta/amp/",
-      "publishedDateTime": "2021-10-09T07:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-09T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Simple Flying",
-        "domain": "simpleflying.com",
+        "name": "Global Sources",
+        "domain": "globalsources.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1380,7 +1380,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

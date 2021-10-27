@@ -58,20 +58,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 44
-  - title: "In Machine Teaching We Trust, Microsoft"
-    excerpt: "Microsoft's obsession with machine teaching has no end. The company has been actively spearheading machine teaching research and technology in computer vision and speech analysis in the last few years."
-    publishedDateTime: 2021-10-22T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/in-machine-teaching-we-trust-microsoft/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/The-Journey-of-Machine-Teaching-at-Microsoft-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Artificial Intelligence in Video Games Market Astonishing Growth with Top Influencing Key Players like Ubisoft, EA, Tencent, Sony, Microsoft"
     excerpt: "The Artificial Intelligence in Video Games Market research report added by MarketInsightsReports gives a holistic view of the market from 2016 to 2027 which includes factors such as market drivers restraints opportunities and challenges The market has been studied for"
     publishedDateTime: 2021-10-25T09:48:00Z

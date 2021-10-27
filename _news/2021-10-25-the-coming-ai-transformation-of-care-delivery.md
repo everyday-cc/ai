@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial Intelligence project aims to improve standards and development of AI systems"
-    excerpt: "A new project has been launched in partnership with the University of Birmingham aiming to address racial and ethical health inequalities using artificial intelligence."
-    publishedDateTime: 2021-10-22T09:59:00Z
-    webUrl: "https://www.birmingham.ac.uk/university/colleges/mds/news/2021/10/artificial-intelligence-project-standards-research.aspx"
-    type: article
-    provider:
-      name: birmingham.ac.uk
-      domain: birmingham.ac.uk
-    quality: 46
-    images:
-      - url: "https://www.birmingham.ac.uk/images/news/artificial-intelligence-900.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "FjpNHrzePrsf7iK6rD/gGSYp/3UzBc1BcZCep5GEjUbwg/CS0P21h9aSPaytmIxYgxAq+JHhEtgTlReUfOubcH/JQgw3eguAPI8SWVvOghAuF8sXXwPT/oPgBzxxPK3c/Cw6Yn1u6UxanVDGJEdiEq3MBRAyYDxhI2sYUp2XJ8xduWrfNERgmXpEW8TuuT1R4c7lZbh7+XyuQze/n5MG0zEFRJzT7C/XLRUWO3mkg0AkfZC9EbVNWWukWf2Hpd8EOCSikIl7/xaekYNTjNMYD4tLVLFg/7yfVdAsFbQQDAw6gKAv0h5Pmq/Nk0+jgpMsolbjo54AB3nZuxstQBpCmARHTHag4YKr67yBqGNLVcA=;PBtUvIThqXVTB8enyq5Zag=="
 ---

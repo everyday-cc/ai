@@ -1,28 +1,21 @@
 ---
 category: news
 title: "AI-Driven 3D Animation Startup Plask Raises US$2.56 million in Pre-Series A Funding"
-excerpt: "AI-driven animation startup Plask has raised US$2.56 million in pre-Series A funding to bring their cutting-edge cloud-based animation technology to customers globally. The funding round was led by Smilegate Investment,"
-publishedDateTime: 2021-10-26T15:27:00Z
-originalUrl: "https://www.lelezard.com/en/news-20066231.html"
-webUrl: "https://www.lelezard.com/en/news-20066231.html"
+excerpt: "AI-driven animation startup Plask has raised US$2.56 million in pre-Series A funding to bring their cutting-edge cloud-based animation technology to c"
+publishedDateTime: 2021-10-26T15:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211026005059/en/AI-Driven-3D-Animation-Startup-Plask-Raises-US2.56-million-in-Pre-Series-A-Funding"
+webUrl: "https://www.businesswire.com/news/home/20211026005059/en/AI-Driven-3D-Animation-Startup-Plask-Raises-US2.56-million-in-Pre-Series-A-Funding"
 type: article
-quality: 33
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Travel Expenses AI Startup Worth $100 million in Fund Raiser"
@@ -40,6 +33,6 @@ related:
         height: 900
         isCached: true
 
-secured: "hOABs1ng+7k8TGIp6FnHZEbRcdjvXTUpgDjqckLcOgQdV3IGtBBdZg8d92W8qBhJZC8986tVrKn8q56SLm084OivnUzZp12w6ieDAKPW4KwjnN2V8vW6WAZz+7B6/h5Kd7JFCMSFTo3rWXgPVEWpf9qRAf3GrVzQSwbjJbFEoWWKFmO8wH2eGn2vQ4KrljKdxYc4llsNIHDEMzaXWrLHdJeIQqwRpIMI9I/x01HaicVSid/jymhTFC31l6+Qr56+AcSrwI8XxOK11A/4KY9xzaegBPTmYUja9Bc5d99T1zJZXyIf4Lf6tbIc2VzwDvWpLSIvpL9W4dPujR7Pez3IU0kpLIVXWDnRiRSR5lOoX1k=;NrVnbiXNToJAihwL2aCutQ=="
+secured: "FY+2X9TTIBoTGB4nveJiVizKFRQn+nm912biVj6sq+M376DRlgMaVo5iCPLdhITECJifvY1jS8jxQHrmI3Q8dg0orPubGA1NghrExHPIKvBmRL4mE75cs8PzOb9f1bYMEAoIzuL4IkBsWtwnx804RFIl91HyNRuDkiqQMlqas0sCcnzV3+ApEMiDcFDknYWJcVeTCuSyl2iuRYkHkzblzZdpR4msZVI9GMJxRIhX+bCGb0ufsXUyjF20VeFT88hvFPnBye5hZWHTT5azX4ECqCQxBDmtFjtLMkYECY9anjctDaY8KGNfhvZ8jLjDcfTpz/rLZJImoYzh2j78Hjo9zGd1GplAxNpyyAmuSwYdtoM=;h3y1CbktCb0PtqMXLlBNRQ=="
 ---
 

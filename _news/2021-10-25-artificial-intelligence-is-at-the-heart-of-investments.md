@@ -7,7 +7,7 @@ originalUrl: "https://www.bthaber.com/artificial-intelligence-is-at-the-heart-of
 webUrl: "https://www.bthaber.com/artificial-intelligence-is-at-the-heart-of-investments/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is reinventing what computers are"
-    excerpt: "Google’s latest offering, the Pixel 6, is the first phone to have a separate chip dedicated to AI that sits alongside its standard processor. And the chip that runs the iPhone has for the last couple of years contained what Apple calls a “neural engine,"
-    publishedDateTime: 2021-10-22T10:12:00Z
-    webUrl: "https://www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/"
-    ampWebUrl: "https://www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/amp/"
+  - title: "Can AI help predict the future of Earth?"
+    excerpt: "AI offers additional possibilities and greater accuracy for climate models. Computer simulations that scientists use to understand the evolution of the Earth’s climate offer a wealth of information to public officials and corporations planning for the future."
+    publishedDateTime: 2021-10-26T07:50:00Z
+    webUrl: "https://gadget.co.za/can-ai-help-predict-the-future-of-earth/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 37
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/nd21_review-ai_final.jpg?w=1588"
-        width: 1588
-        height: 1999
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2021/10/pexels-photo-695299.jpeg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "9JVnTpMjDRgAijsDTlhDETk0f7fggkL1QHxr5onYydjC+TBGZTvm9pOFqSpig+887PNJGjwXilO/aFCKULCVURPjt24M3tyPQPxFCqO9YGEWGZftbGjEbdxu4QdQHbfazUWtowz5k2D5gw3VrOXA7NAU5g3/WACgSbQj19zpN9bghcgeL031MICTzzDtVzZGxfaQU4VB11oEBUVfoiITELhK+tMkpi+r0eMyN0hHsdKaLiZj2SrcMx2o0mjshlAVHZaZUTCxfwqzKo65MP6tGpQpiSkYr4t5T/I6CdA2/uIk4sD2+cDDGRG/RZDP4q7249OwK4y8yo7NLqL47yof/DIoxDFHxfljthScdYXw32g=;Z2Wvftlhix8lMGha3ZpErw=="

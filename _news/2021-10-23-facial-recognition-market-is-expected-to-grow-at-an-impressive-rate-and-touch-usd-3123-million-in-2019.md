@@ -39,20 +39,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "AI in Data Integration Market to be dominated by Large Enterprise segment till 2026 – TechSci Research"
-    excerpt: "Ongoing technological advancements and the growing IT sector is expected to drive the global AI in data integration market for the forecast period. According to TechSci Research report, “AI in Data Integration Market - Global Industry Size,"
-    publishedDateTime: 2021-10-22T10:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-data-integration-market-dominated-large-enterprise-kushwaha"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 21
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQElqvA9DUci7g/article-cover_image-shrink_600_2000/0/1634898060403?e=1640822400&v=beta&t=lq9MwngpuTn1jZxsbfk4d7MZdE1EgsHkzwwSbGfHEMA"
-        width: 450
-        height: 300
-        isCached: true
   - title: "The healthcare artificial intelligence market is expected to grow at a CAGR of 42.7% from 2020 to 2027 to reach at USD 52.7 billion by 2027."
     excerpt: "The factors such as increasing funding for healthcare artificial intelligence growing demand for personalized therapy large pool of healthcare data and growing use of AI in reducing healthcare cost are expected to propel the growth of the overall healthcare artificial"
     publishedDateTime: 2021-10-26T06:29:00Z

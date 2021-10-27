@@ -2,6 +2,151 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-10-01-microsoft-announces-preview-of-on-demand-capacity-reservations-for-azure-virtual-machines.md",
+      "title": "Microsoft Announces Preview of On-Demand Capacity Reservations for Azure Virtual Machines",
+      "excerpt": "AI tools are slowly replacing the role of the ... Recently, Microsoft announced the preview of on-demand capacity reservations for Azure Virtual Machines (VMs). With this new feature for VMs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
+      "originalUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/09/azure-vm-ondemand-capacity/en/headerimage/generatedHeaderImage-1632562426442.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-ai-innovations-in-media-and-communications.md",
+      "title": "AI Innovations In Media And Communications",
+      "excerpt": "My last blog discussed AI innovations in the health care sector, and this one will share a few perspectives of new developments in the Media and Communications Industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ef71088eada6a8f3c806%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/",
+      "publishedDateTime": "2021-09-30T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-vcs-invested-over-75b-in-ai-startups-in-2020.md",
+      "title": "VCs invested over $75B in AI startups in 2020",
+      "excerpt": "According to a new report from OECD, VCs poured a record amount of money into startups developing AI technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/",
+      "originalUrl": "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/amp/",
+      "publishedDateTime": "2021-09-30T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-dmi-raises-40-mn-for-its-fintech-focussed-sparkle-fund-plans-to-make-20-investments.md",
       "title": "DMI Raises $40 Mn For Its Fintech-Focussed Sparkle Fund, Plans To Make 20 Investments",
       "excerpt": "The Sparkle Fund by DMI Alternatives was set up in 2017 to invest in India’s rapidly growing digital finance ecosystem. Sparkle has so far invested $10 Mn across multiple companies including M2P, Credgenics,",
@@ -1066,163 +1211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in.md",
-      "title": "Are AI ethics teams doomed to be a facade? The women who pioneered them weigh in",
-      "excerpt": "Timnit Gebru, Margaret Mitchell, and other leaders discuss tensions surrounding AI ethics in big tech and what teams need to succeed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/",
-      "originalUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1283199539-e1632945107378.jpg?fit=768%2C600&strip=all",
-          "width": 768,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/amp/",
-      "publishedDateTime": "2021-09-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups.md",
-      "title": "BGV closes fourth fund with $110M aimed at immigrant enterprise AI, cross-border startups",
-      "excerpt": "Silicon Valley-based venture capital (VC) firm Benhamou Global Ventures, known as BGV, closed its fourth fund with $110 million to support global enterprise companies. The new fund is 60% larger than its third fund and will be invested similarly,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/",
-      "originalUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1152284190.jpg?w=1024",
-          "width": 1024,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/",
-      "publishedDateTime": "2021-09-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-top-3-duty-of-care-board-and-c-suite-ai-literacy-accountabilities.md",
-      "title": "Top 3 Duty Of Care Board And C-Suite AI Literacy Accountabilities",
-      "excerpt": "Three Duty of Care Board and C Suite AI literacy accountabilities are discussed as a motivator for increased leadership in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155b581ccb88bc41264a735%2F0x0.jpg",
-          "width": 1200,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/amp/",
-      "publishedDateTime": "2021-09-30T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-09-delta-air-lines-expands-facial-recognition-digital-id-to-atlanta.md",
+      "title": "Delta Air Lines Expands Facial Recognition Digital ID To Atlanta",
+      "excerpt": "Delta is expanding its digital identity experience to its home in Atlanta, Georgia. Domestic passengers of the",
+      "sourceUrl": null,
+      "webUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/",
+      "originalUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://simpleflying.com/wp-content/uploads/2021/06/GettyImages-1263005027-scaled.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/amp/",
+      "cdnAmpWebUrl": "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/delta-facial-recognition-atlanta/amp/",
+      "publishedDateTime": "2021-10-09T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Simple Flying",
+        "domain": "simpleflying.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-09-ai-weekly-eu-facial-recognition-ban-highlights-need-for-us-legislation.md",
       "title": "AI Weekly: EU facial recognition ban highlights need for U.S. legislation",
       "excerpt": "European Union regulators propose a ban on facial recognition technologies. It highlights the need for U.S. federal legislation.",
@@ -650,6 +693,59 @@
       ]
     },
     {
+      "path": "_news/2021-10-06-mit-researchers-are-working-on-object-recognition-through-flexible-machine-learning.md",
+      "title": "MIT researchers are working on object recognition through flexible machine learning",
+      "excerpt": "Built on a new object-recognition algorithm, this process will enable semantically related concepts to reinforce each other by examining the co-occurrence of tags on Flickr. MIT News’ Larry ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/algorithm/mit-researchers-are-working-on-object-recognition-through-flexible-machine-learning/",
+      "originalUrl": "https://sdtimes.com/algorithm/mit-researchers-are-working-on-object-recognition-through-flexible-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2015/10/1006.sdt-objectrecognition.jpg",
+          "width": 525,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-when-do-babies-play-peekaboo.md",
       "title": "When Do Babies Play Peekaboo?",
       "excerpt": "Is there a perfect peekaboo age? Not necessarily. Object recognition develops around month 3, and babies start to better understand the concept of object permanence by month 8. By months 9 to 12, your baby will likely be able to play peekaboo on her own.",
@@ -1239,101 +1335,6 @@
       "provider": {
         "name": "Nextgov",
         "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-at-263-cagr-ai-in-computer-vision-market-size-is-expected-to-exhibit-6459-billion-usd-by-2027.md",
-      "title": "At 26.3% CAGR, AI in Computer Vision Market Size is Expected to Exhibit 64.59 billion USD by 2027",
-      "excerpt": "Unscathed by challenges, the worldwide AI in computer market is expected to record a strong CAGR of 26.3% over 2021-2027, consequently multiplying the industry remuneration from USD 12.6 million in 2020 to USD 64.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-263-cagr-ai-in-computer-vision-market-size-is-expected-to-exhibit-6459-billion-usd-by-2027-2021-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-263-cagr-ai-in-computer-vision-market-size-is-expected-to-exhibit-6459-billion-usd-by-2027-2021-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group.md",
-      "title": "Programming artificial intelligence for object recognition made easy – by the BMW Group",
-      "excerpt": "Munich. The BMW Group is releasing another software package that makes light work of creating artificial intelligence (AI) applications for object recognition. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.press.bmwgroup.com/global/article/detail/T0317790EN/programming-artificial-intelligence-for-object-recognition-made-easy-–-by-the-bmw-group",
-      "originalUrl": "https://www.press.bmwgroup.com/global/article/detail/T0317790EN/programming-artificial-intelligence-for-object-recognition-made-easy-–-by-the-bmw-group",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediapool.bmwgroup.com/cache/P9/202009/P90401410/P90401410-an-associate-labels-photos-from-door-sill-strips-of-the-bmw-3-series-creating-an-ai-object-recogniti-2250px.jpg",
-          "width": 2250,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "www.press.bmwgroup.com",
-        "domain": "bmwgroup.com",
         "images": null,
         "publishers": null,
         "authors": null

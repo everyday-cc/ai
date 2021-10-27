@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-10-16-can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women.md",
+      "title": "Can Artificial Intelligence Help To Close The Financial Equality Gap For Women?",
+      "excerpt": "How can women can build wealth utilizing advanced technologies and what should they should consider when looking at different services available on the market today?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616a5baafe639c680bdd2bd7%2F0x0.jpg",
+          "width": 1200,
+          "height": 761,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/amp/",
+      "publishedDateTime": "2021-10-15T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-googles-deepmind-faces-suit-over-uk-health-data.md",
       "title": "Google’s DeepMind faces suit over UK health data",
       "excerpt": "Google's AI department secures lawsuit over 1.6 million confidential NHS patient medical records. DeepMind Faces: Google's AI department, otherwise known as",
@@ -1117,58 +1168,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-facebook-ego4d-tracking-your-when-how-what-and-who.md",
-      "title": "Facebook Ego4D tracking your When, How, What, and Who",
-      "excerpt": "Facebook releases a new pair of glasses with cameras, microphones, and proximity sensors aboard, remember this article. Today we’re taking a peek at some research posted",
-      "sourceUrl": null,
-      "webUrl": "https://ai.facebook.com/research/publications/ego4d-unscripted-first-person-video-from-around-the-world-and-a-benchmark-suite-for-egocentric-perception",
-      "originalUrl": "https://www.slashgear.com/facebook-ego4d-tracking-your-when-how-what-and-who-14695225/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/244780342_592679151865430_7743889725254708657_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=2a8MRoAFmnoAX_2IB53&_nc_oc=AQkLFNA0YdAWSi47bFnIWXRYizEKCuYbOcAKNdeJ911EuZC8H3RU7K9HSrQ-Q4VcGs4&_nc_ht=scontent-sea1-1.xx&oh=eb77d9d10d5b9a3f91015768c53d8e47&oe=616ED552",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

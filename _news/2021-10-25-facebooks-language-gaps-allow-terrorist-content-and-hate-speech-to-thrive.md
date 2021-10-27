@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook’s smart glasses could lead to Black Mirror-style privacy concerns"
-    excerpt: "I believe it’s important for technology companies to proceed with caution and consider the security and privacy risks of augmented reality."
-    publishedDateTime: 2021-10-22T11:01:00Z
-    webUrl: "https://thenextweb.com/news/facebook-smart-glasses-black-mirror-privacy-concerns-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 52
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FFacebook-Ray-Ban-Smart-Glasses-hed-2.jpg&signature=208621d75f163ec97168d933232be728"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Facebook is spending more, and these companies are getting the money"
     excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
     publishedDateTime: 2021-10-26T12:59:00Z

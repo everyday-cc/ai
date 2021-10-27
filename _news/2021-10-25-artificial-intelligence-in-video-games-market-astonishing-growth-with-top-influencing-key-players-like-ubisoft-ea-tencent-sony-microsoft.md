@@ -68,20 +68,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 40
-  - title: "In Machine Teaching We Trust, Microsoft"
-    excerpt: "Microsoft's obsession with machine teaching has no end. The company has been actively spearheading machine teaching research and technology in computer vision and speech analysis in the last few years."
-    publishedDateTime: 2021-10-22T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/in-machine-teaching-we-trust-microsoft/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/The-Journey-of-Machine-Teaching-at-Microsoft-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "yiqp6tusksL7y1+AjyjjC6fQ1nBCmep6/8NuxDtdPWlq0p5toajUDMJftzFXxdhacfTnGIWe+NBZM/4aDM6CyLI/a74nL5Q7CAbA+66D1AilBbHvYhbaSCRutfIRkaRbpMflSrpJnfHvT+zN25kcMpu4bLHPG/+uacagdVS+QrNpNZrAUp1mZjT+tAaQ0LlUYRoSewY/SGVXoKreVLtaWxpJa4ZEaCcYBVwRfft720SXhQS51L2ZExGniw/Kr0FaHU6v42KZUkGPiOgd9T7y1jNw6C7kOqZQilekhYhpRjAwUsEfdRWf5Mv8FUhnKv0In5D153yECZ2bm+Mk8ubChATCf5TZZrsnoqXxe/jJZyw=;Nx+Qr0h6DfNrnhyeDbYnqw=="
 ---

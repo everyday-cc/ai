@@ -79,22 +79,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla Autopilot 2.0 owners need a camera upgrade before getting ‘Full Self-Driving Beta’"
-    excerpt: "Elon Musk confirmed that owners of Tesla vehicles who bought the Full Self-Driving (FSD) package on cars with Autopilot 2.0 are going to need a camera upgrade before they get access to the ‘FSD Beta’."
-    publishedDateTime: 2021-10-22T10:13:00Z
-    webUrl: "https://electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/"
-    ampWebUrl: "https://electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 80
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Pulls Full Self Driving Beta Due to Multiple Issues"
     excerpt: "Tesla has dealt with multiple issues with its AutoPilot feature and is now having to do the same with the Full Self Driving beta, according to CEO."
     publishedDateTime: 2021-10-25T10:25:00Z

@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook’s smart glasses could lead to Black Mirror-style privacy concerns"
-    excerpt: "I believe it’s important for technology companies to proceed with caution and consider the security and privacy risks of augmented reality."
-    publishedDateTime: 2021-10-22T11:01:00Z
-    webUrl: "https://thenextweb.com/news/facebook-smart-glasses-black-mirror-privacy-concerns-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 52
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FFacebook-Ray-Ban-Smart-Glasses-hed-2.jpg&signature=208621d75f163ec97168d933232be728"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Facebook’s language gaps allow terrorist content and hate speech to thrive"
     excerpt: "Internal company documents show the problems are far more systemic than just a few innocent mistakes, and that Facebook has understood the depth of these failings for years while doing little about it."
     publishedDateTime: 2021-10-25T15:03:00Z
