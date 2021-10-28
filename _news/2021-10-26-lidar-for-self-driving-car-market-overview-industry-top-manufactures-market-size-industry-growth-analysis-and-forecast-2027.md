@@ -144,6 +144,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 33
+  - title: "Global Speech & Voice Recognition Systems Market 2021 Research Studies Overview with Segments and Industry Growth by 2027"
+    excerpt: "A new research market study report titled Global Speech & Voice Recognition Systems Market 2021 by Company, Regions, Type and Application, Forecast to 2027 has been featured by MarketsandResearch.biz."
+    publishedDateTime: 2021-10-27T03:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2021-research-studies-overview-with-segments-and-industry-growth-by-2027-2021-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Blockchain AI Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2025"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 00:13 /Comserve / -- The global blockchain AI market size is projected to grow from USD 228 million in 2020 to USD 703 million by 2025, at a Compound Annual Growth Rate (CAGR) of 25."
     publishedDateTime: 2021-10-26T05:41:00Z

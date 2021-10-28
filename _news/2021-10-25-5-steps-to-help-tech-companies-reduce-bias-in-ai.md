@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The 3 Principals of Building Anti-Bias AI"
+    excerpt: "Why your company needs to apply best practices in eliminating discriminatory bias in your artificial-intelligence systems -- and key principles in applying them."
+    publishedDateTime: 2021-10-27T13:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/389964"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1634674831-GettyImages-1173479069.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Iguazio Partners with Pure Storage to Operationalize AI for Enterprises Taking a Production-First Approach"
     excerpt: "\"Most organizations starting out with AI initially focus on research and model development ... Red Hat, Inc., the world's leading provider of open source solutions, today announced Azure Red Hat OpenShift on Microsoft Azure for U.S. Government as a ..."
     publishedDateTime: 2021-10-26T13:16:00Z

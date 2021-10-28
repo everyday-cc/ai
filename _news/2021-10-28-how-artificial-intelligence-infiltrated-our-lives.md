@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-27T20:22:00Z
 originalUrl: "https://filmdaily.co/tech/artificial-intelligence-infiltrated-lives/"
 webUrl: "https://filmdaily.co/tech/artificial-intelligence-infiltrated-lives/"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://filmdaily.co/wp-content/uploads/2021/03/ai-lede.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2021/10/26/can-artificial-intellige
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/10/26/can-artificial-intelligence-take-the-guesswork-out-of-the-customer-journey/amp/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

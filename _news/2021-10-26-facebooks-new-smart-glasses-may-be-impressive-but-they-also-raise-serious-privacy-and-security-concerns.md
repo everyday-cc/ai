@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/facebooks-new-smart-glasses-raise-
 webUrl: "https://www.businessinsider.com/facebooks-new-smart-glasses-raise-privacy-concerns-2021-10"
 type: article
 quality: 69
-heat: 100
+heat: 99
 published: true
 
 provider:

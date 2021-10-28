@@ -43,6 +43,20 @@ related:
         width: 861
         height: 464
         isCached: true
+  - title: "How iProperty.com.my accelerates property-based ML model delivery with Amazon SageMaker"
+    excerpt: "This post was created in collaboration with Mohammed Alauddin, Data Engineering and Data Science Regional Manager, and Kamal Hossain, Lead Data Scientist at iProperty.com.my, now part of PropertyGuru Group. iProperty.com.my is the market-leading property portal in Malaysia and is now part of the PropertyGuru"
+    publishedDateTime: 2021-10-27T22:58:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/07/ML-4574-image001.png"
+        width: 721
+        height: 421
+        isCached: true
   - title: "Build Custom SageMaker Project Templates – Best Practices"
     excerpt: "SageMaker Projects give organizations the ability to easily setup and standardize developer environments for data scientists and CI/CD systems for MLOps Engineers. With SageMaker Projects, MLOps engineers or organization admins can define templates which bootstrap the ML Workflow with source version"
     publishedDateTime: 2021-10-27T18:10:24Z

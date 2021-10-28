@@ -22,6 +22,7 @@ topics:
   - AI
   - Microsoft AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHqHD9eMBnUlw/article-cover_image-shrink_600_2000/0/1634408843448?e=1640217600&v=beta&t=UqxfmYUSgBJMX_aDmwqHahXjiVqbe6jVB2uDQZ8xoqk"

@@ -2,49 +2,6 @@
   "page": 55,
   "value": [
     {
-      "path": "_news/2021-09-15-ex-google-exec-describes-4-top-dangers-of-artificial-intelligence.md",
-      "title": "Ex-Google exec describes 4 top dangers of artificial intelligence",
-      "excerpt": "In a new interview, AI expert Kai-Fu Lee explained the top four dangers of burgeoning AI technology: externalities, personal data risks, inability to explain consequential choices, and warfare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/ex-google-exec-describes-4-151942496.html",
-      "originalUrl": "https://www.aol.com/finance/ex-google-exec-describes-4-151942496.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/OMCFK28Dt4bhHOLgwlqBeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDk-/https://s.yimg.com/uu/api/res/1.2/wA97bRVi0JuYSHK2o64MYQ--~B/aD0zNjcxO3c9NTE4NzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_yahoo_finance_433/0afeb9c49cce1078761e83686c42e25e",
-          "width": 1200,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-15-the-top-uk-fintech-trends-to-watch-in-2021.md",
       "title": "The Top UK Fintech Trends to Watch in 2021",
       "excerpt": "UK fintech is booming and has reportedly attracted $5.7bn worth of capital in the first 6 months of 2021 through 317 deals completed.",
@@ -1078,6 +1035,49 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-iit-bombay-launches-project-udaan-a-language-translator.md",
+      "title": "IIT Bombay launches Project Udaan, a language translator",
+      "excerpt": "Language is more than just a medium of communication, it is the unseen thread that connects our past, present, and future” – VP M. Venkaiah Naidu What separates human beings from the rest of the living creatures is their ability to speak and be understood.",
+      "sourceUrl": null,
+      "webUrl": "https://newsonair.com/2021/09/15/iit-bombay-launches-project-udaan-a-language-translator/",
+      "originalUrl": "https://newsonair.com/2021/09/15/iit-bombay-launches-project-udaan-a-language-translator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsonair.com/wp-content/uploads/2021/06/cropped-12-1.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NEWS ON AIR",
+        "domain": "newsonair.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

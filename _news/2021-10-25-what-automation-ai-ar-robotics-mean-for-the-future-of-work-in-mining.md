@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/what-automation--a
 webUrl: "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996"
 type: article
 quality: 79
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 45
+  - title: "Predicting the future of the Earth with artificial intelligence"
+    excerpt: "Starting October 25, a group of scientists will host a workshop to identify ways to create artificial intelligence-informed models of the Earth’s climate."
+    publishedDateTime: 2021-10-25T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/932591"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/060e1208-9f63-4c48-bed0-35375d4a29fe/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
   - title: "The Future of AI Driven Market Research"
     excerpt: "Over the past few years, the world of market research and surveys has seen the emergence of Artificial Intelligence (AI). AI tools, which are finding their way into almost every industry, hold the potential to change the game entirely."
     publishedDateTime: 2021-10-26T18:52:00Z

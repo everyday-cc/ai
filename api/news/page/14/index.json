@@ -2,57 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2021-10-14-writing-helper-copyai-closes-on-its-second-funding-round-this-year.md",
-      "title": "Writing helper Copy.ai closes on its second funding round this year",
-      "excerpt": "Copy.ai’s software can, for example, write a blog post outline based on a few sentences and create link descriptions for Facebook ads and even generate a company motto.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/",
-      "originalUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-930041786.jpg?w=1024",
-          "width": 1024,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/",
-      "publishedDateTime": "2021-10-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-14-the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai.md",
       "title": "The state of AI in 2021: Machine learning in production, MLOps and data-centric AI",
       "excerpt": "With lessons learned from operationalizing AI, the emphasis is shifting from shiny new models to perhaps more mundane, but practical aspects such as data quality and data pipeline management",
@@ -1156,6 +1105,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-applying-the-power-of-deep-learning-to-cybersecurity.md",
+      "title": "Applying The Power Of Deep Learning To Cybersecurity",
+      "excerpt": "There are lots of cybersecurity tools out there that promise to help organizations scale to manage the volume of threats and help separate the signal from the noise to identify security events that should be escalated to the IT security team for response.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616733004f45ec9f5112fd25%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/",
+      "publishedDateTime": "2021-10-13T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

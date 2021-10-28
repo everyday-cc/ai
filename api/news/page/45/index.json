@@ -2,48 +2,6 @@
   "page": 45,
   "value": [
     {
-      "path": "_news/2021-09-23-artificial-intelligence-may-be-set-to-reveal-climate-change-tipping-points.md",
-      "title": "Artificial intelligence may be set to reveal climate-change tipping points",
-      "excerpt": "Researchers are developing artificial intelligence that could assess climate change tipping points. The deep learning algorithm could act as an early warning system against runaway climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html",
-      "originalUrl": "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/climate-change.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp",
-      "publishedDateTime": "2021-09-23T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-23-the-royal-air-force-launches-first-trial-of-self-driving-technology-on-its-airbases-with-academy-of-robotics.md",
       "title": "The Royal Air Force Launches First Trial of Self-Driving Technology on Its Airbases With Academy of Robotics",
       "excerpt": "Academy of Robotics and the Royal Air Force announced a new trial deployment of autonomous vehicles on an airbase as part of the RAF’s Astra campaign to deliver next generation Air Force capability. This trial is the first time that autonomous vehicles have been deployed on a UK airbase by the RAF.",
@@ -1182,6 +1140,58 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-uk-announces-a-national-strategy-to-level-up-ai.md",
+      "title": "UK announces a national strategy to ‘level up’ AI",
+      "excerpt": "The UK government has announced a national AI strategy — its first dedicated package aimed at boosting the country’s capabilities in and around machine learning technologies over the longer term. It says it hopes the strategy will lead to an increase in the number and types of AIs",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/",
+      "originalUrl": "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/",
+      "publishedDateTime": "2021-09-22T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

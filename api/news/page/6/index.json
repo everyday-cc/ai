@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-10-22-computer-vision-in-artificial-intelligence-ai-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-regions-to.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Regions to 2026",
-      "excerpt": "Computer Vision in Artificial Intelligence (AI) Market” covering both global and regional markets. It aims to give",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-regions-to-2026-2021-10-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-regions-to-2026-2021-10-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-22-ai-in-fintech-market-2021-segmented-by-application-and-geography-trends-growth-and-forecasts-to-2024.md",
       "title": "AI in Fintech Market 2021 Segmented by Application and Geography Trends, Growth and Forecasts to 2024",
       "excerpt": "AI in Fintech Market ”report give an insightful analysis of the market development variables and drivers, the geographies have been exclusively examined in terms of the parameters such as production,",
@@ -1156,6 +1104,57 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-developers-intels-automated-debugging-tool-controlflag-is-now-open-source.md",
+      "title": "Developers: Intel's automated debugging tool ControlFlag is now open source",
+      "excerpt": "ControlFlag can automatically detect anomalies in software code - and it could spare developers hours of tedious work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
+      "originalUrl": "https://www.zdnet.com/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0dff8773595dd70445ad33b38a3f2b92dbb2f855/2021/10/20/3bc47e85-fae3-40ca-a9ec-7d8ef633a9e4/gettyimages-1320577198.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
+      "publishedDateTime": "2021-10-20T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

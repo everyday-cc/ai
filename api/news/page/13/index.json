@@ -2,49 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2021-10-15-ponyai-to-start-driverless-tests-on-public-roads-in-beijing.md",
-      "title": "Pony.ai to Start Driverless Tests on Public Roads in Beijing",
-      "excerpt": "Silicon Valley-based leading autonomous driving company Pony.ai, today announced that it has been authorized to conduct driverless tests on public roads in China’s capital city, Beijing. The company is one of the two autonomous software companies to receive this important Beijing permit.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-china-beijing-a0f4dcf4efd645c0b1a1dac481aa11af",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-china-beijing-a0f4dcf4efd645c0b1a1dac481aa11af",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-10-15-autonomous-vehicles-spurring-advent-of-industry-40-in-unexpected-ways.md",
       "title": "Autonomous Vehicles Spurring Advent Of Industry 4.0 In Unexpected Ways",
       "excerpt": "Autonomous vehicles could be a boon for undertaking massive transit needs for massively distributed manufacturing in Industry 4.0.",
@@ -1156,6 +1113,57 @@
         "AI in Healthcare",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-writing-helper-copyai-closes-on-its-second-funding-round-this-year.md",
+      "title": "Writing helper Copy.ai closes on its second funding round this year",
+      "excerpt": "Copy.ai’s software can, for example, write a blog post outline based on a few sentences and create link descriptions for Facebook ads and even generate a company motto.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/",
+      "originalUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-930041786.jpg?w=1024",
+          "width": 1024,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/",
+      "publishedDateTime": "2021-10-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -2,50 +2,6 @@
   "page": 54,
   "value": [
     {
-      "path": "_news/2021-09-16-the-machine-learning-imperative-empowering-businesses-to-innovate-faster.md",
-      "title": "The Machine Learning Imperative: Empowering Businesses to Innovate Faster",
-      "excerpt": "Machine Learning (ML) took centre stage at AWS reInvent from being a key focus in the opening keynote by CEO Andy Jassy, to the entire focus of the inaugural ML keynote by Swami Sivasubramanian, VP of",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
-      "originalUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Machine_Learning_Imperative-_Empowering_Businesses_to_Innovate_Faster.jpeg",
-          "width": 1282,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-09-16-spark-new-zealand-implements-agile-work-practices-to-embrace-business-change.md",
       "title": "Spark New Zealand Implements Agile Work Practices To Embrace Business Change",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives deeper into Spark New Zealand’s which is the largest telecommunications and digital services. Patrick Moorhead interviews Kallol Dutta, Tribe Lead- Data & Automation of Spark New Zealand.",
@@ -1116,6 +1072,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-ex-google-exec-describes-4-top-dangers-of-artificial-intelligence.md",
+      "title": "Ex-Google exec describes 4 top dangers of artificial intelligence",
+      "excerpt": "In a new interview, AI expert Kai-Fu Lee explained the top four dangers of burgeoning AI technology: externalities, personal data risks, inability to explain consequential choices, and warfare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/ex-google-exec-describes-4-151942496.html",
+      "originalUrl": "https://www.aol.com/finance/ex-google-exec-describes-4-151942496.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/OMCFK28Dt4bhHOLgwlqBeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDk-/https://s.yimg.com/uu/api/res/1.2/wA97bRVi0JuYSHK2o64MYQ--~B/aD0zNjcxO3c9NTE4NzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_yahoo_finance_433/0afeb9c49cce1078761e83686c42e25e",
+          "width": 1200,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     }

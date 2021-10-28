@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-tran
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/discovering-exoplanets.jpg"
         width: 750
         height: 329
+        isCached: true
+  - title: "How artificial intelligence is transforming the hiring process?"
+    excerpt: "Artificial intelligence and machine learning, these two names are changing business practices and workplaces tremendously. Artificial intelligence can help business applications in many ways, like with AI businesses can understand their customers better with"
+    publishedDateTime: 2021-10-25T11:18:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-transforming-the-hiring-process/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-transforming-the-hiring-process/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-transforming-the-hiring-process/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/10/pic-2-2.png"
+        width: 322
+        height: 356
         isCached: true
   - title: "The Coming AI Transformation of Care Delivery"
     excerpt: "A glimpse at AI’s near future in helping health care professionals make better decisions to improve care quality, patient safety, and efficiency. The Deputy Director General, Chief Medical Officer, and Chief Innovation Officer for Sheba Medical Center and the Chief of the Division of General Internal Medicine and Primary Care for Brigham and Women’s Hospital discuss the role of artificial intelligence on various aspects of health care delivery in 10 years and what organizations need to do to get ready for its use in decision support,"

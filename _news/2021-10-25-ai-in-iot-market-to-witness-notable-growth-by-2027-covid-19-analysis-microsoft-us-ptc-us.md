@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notab
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
 type: article
 quality: 62
-heat: 115
+heat: 112
 published: true
 
 provider:

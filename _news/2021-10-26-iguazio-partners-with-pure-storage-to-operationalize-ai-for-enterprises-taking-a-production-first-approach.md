@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The 3 Principals of Building Anti-Bias AI"
+    excerpt: "Why your company needs to apply best practices in eliminating discriminatory bias in your artificial-intelligence systems -- and key principles in applying them."
+    publishedDateTime: 2021-10-27T13:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/389964"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1634674831-GettyImages-1173479069.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "5 Steps to Help Tech Companies Reduce Bias in AI"
     excerpt: "The five-step framework can help tech entrepreneurs prevent biases from developing and reverse existing biases in tech.  Children inevitably adapt to the culture in which they were raised. Parents or guardians shape the lens through which they view the world,"
     publishedDateTime: 2021-10-25T05:01:00Z
