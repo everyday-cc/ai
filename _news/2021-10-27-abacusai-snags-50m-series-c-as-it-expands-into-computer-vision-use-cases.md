@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
+    excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,"
+    publishedDateTime: 2021-10-27T17:25:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Abacus.AI gets $50M in funding and dives into computer vision and hybrid AI models"
     excerpt: "Machine learning operations startup Abacus.AI Inc. is in the news today after raising $50 million in a new round of funding and launching platform updates that include support for hybrid deep learning models and a new computer vision-as-a-service offering."
     publishedDateTime: 2021-10-27T16:00:00Z
@@ -62,15 +76,6 @@ related:
         width: 940
         height: 512
         isCached: true
-  - title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
-    excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company"
-    publishedDateTime: 2021-10-27T17:24:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
 
 secured: "Iu/IClsfgeL/pTKBSFUqLokP/HkNAbLQM0bWK12iHAx90dMAHDlmoUHxg9FsWuaj3QmKkbThkXUS8FUav6Iifj2LDyCpxhDbqgeDCLgMJUDZCWFPSgg0hwUd+m1wvXXKbIHj2mAxxWYMoU1DMoLeXeNIxKo4XDGqMM9e1fSHnN9/+BP6abLO2h0CtvcLZAAoOURu0qHW79XvZQTaFCZy/mdEpGo6oAap+krLLJ1frTxmFPivl/CG1V4kEhHEcSzltd3k08tI/7e3c7wzTRQNR/RneGBftQoNzTh9IoSQ83Vy+TT7cBoV2hsYeoayKR4DePYfZxya3rMJMLrx2xpapvz7/5EIyVKaQmlaQKhfplu0f6GT/7xvtpU3bm42b07zWHbOawR9vVZZR87ocr9ceAiIWRsaJ0A1DKGK4lgZsaFMownWGJ+u3pgBFcBbow3W9cBoYhOVcHjawkuBpleFhkd2rUba3jrArs0f1zf0/0D+7G4uds0H41/qggnL8vZg4pgZ+fZPdiSRozu3OI/qow==;BFM6/6OTj4rmNLD6IGcf9w=="
 ---

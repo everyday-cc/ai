@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Schools pause facial recognition lunch plans"
-excerpt: "Nine schools in North Ayrshire have paused use of facial recognition technology days after introducing it, following UK's Information Commissioner's Office (ICO) inquiries. The schools wanted pupils to use the system for contactless lunch payments."
-publishedDateTime: 2021-10-25T11:16:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-59037346.amp"
-webUrl: "https://www.bbc.co.uk/news/technology-59037346.amp"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-59037346.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-59037346.amp"
+title: "The future of flying: Delta, TSA to launch touchless airport experience via facial recognition"
+excerpt: "Delta Airlines is launching a pilot program that allows travelers to simply scan their face in order to drop their bag, pass through TSA, and board their flight."
+publishedDateTime: 2021-10-28T02:33:00Z
+originalUrl: "https://www.whas11.com/video/travel/the-future-of-flying-delta-tsa-to-launch-touchless-airport-experience-via-facial-recognition/417-db5faf99-70ce-476b-888d-65cb506f2afc"
+webUrl: "https://www.whas11.com/video/travel/the-future-of-flying-delta-tsa-to-launch-touchless-airport-experience-via-facial-recognition/417-db5faf99-70ce-476b-888d-65cb506f2afc"
 type: article
-quality: 59
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: WHAS11 News
+  domain: whas11.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/14259/production/_121212528_b52d4b5c-cb48-419c-8608-650ff3e3746d.jpg"
-    width: 1024
-    height: 576
+  - url: "https://media.whas11.com/assets/WHAS/images/ea893a1c-2574-48c7-b0e4-8c688281b6ba/ea893a1c-2574-48c7-b0e4-8c688281b6ba_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -58,6 +56,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/1635289423930_nn_tco_tfot_facial_recognition_211026_1920x1080-9bwbc6.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Schools pause facial recognition lunch plans"
+    excerpt: "Nine schools in North Ayrshire have paused use of facial recognition technology days after introducing it, following UK's Information Commissioner's Office (ICO) inquiries. The schools wanted pupils to use the system for contactless lunch payments."
+    publishedDateTime: 2021-10-25T11:16:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-59037346.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-59037346.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-59037346.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/14259/production/_121212528_b52d4b5c-cb48-419c-8608-650ff3e3746d.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Delta rolls out facial recognition-enabled TSA checkpoint at Atlanta terminal"
     excerpt: "Delta Airlines is rolling out a new way to get through TSA at their terminal in Atlanta -- and it has to do with your face."
@@ -103,21 +117,7 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "The future of flying: Delta, TSA to launch touchless airport experience via facial recognition"
-    excerpt: "Delta Airlines is launching a pilot program that allows travelers to simply scan their face in order to drop their bag, pass through TSA, and board their flight."
-    publishedDateTime: 2021-10-28T02:33:00Z
-    webUrl: "https://www.whas11.com/video/travel/the-future-of-flying-delta-tsa-to-launch-touchless-airport-experience-via-facial-recognition/417-db5faf99-70ce-476b-888d-65cb506f2afc"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 42
-    images:
-      - url: "https://media.whas11.com/assets/WHAS/images/ea893a1c-2574-48c7-b0e4-8c688281b6ba/ea893a1c-2574-48c7-b0e4-8c688281b6ba_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
-secured: "JJmxcogfKyUxFjeD56clUc1jxwaFjlOpazTV6Xx/G6CjrcGD1uz6m0PSzxavKAg/hVeGMXmklw748T+1na4MLf39SIQIapBl+fAEdqUZyc88ib1MMUN6Oo1IDj6fvvV9R9FfboKSxgvt0KG0KRyxW+KVB15O0kNkfFbXv6vBkqnr7eTqtUsHe0n08f8xmGXG8zqvd3oBcxO1t+8h/BsPdPdrH5HWWv4Jl/U1U1uF3udbWIjzza8nxIdBvnWwwM2iYOQDbBtSDcBsx2VH2nkAYhL4nJxTKRZc6I7usQRQ/qYRLUsU8dJuKjT5KF2bG2hnEL/lVMPS/EhBUj8ObhsALnkW+EgT8ekLTx7c0KmswHg7GY0lvvPkbYkhc3wW21J+1Anj8GphrNeAxodcZE8ItA2LTHB68ujb7YEBDSeXr5kUB+IVxCrMPUxo1dHzxq0ksnXDxq5l/HtlVTPfrQF6YBMiLC9uRip1N6OOOIkKiCdM90HBova8oJ4Uktgt3dalDCXwObYVKb5jtsdLb8KjEQ==;FL/2derhYHKOPq+5QukmHg=="
+secured: "icJQKNnZMtXdUG4CQD6i6nYe2evK9W0Mc6z/SxgcJqTShMJTjCqliSdwZck/q7h2GWiDdnjnlHj+Au2R3Cn8UtdB1t90GpvWQhufkWKLRg3GzJx0vJpF4gQ09v37XWqxCxEEDIo/ZLBwOu2XGh3egGp3gd9rwIJMti80/VpmBE334nMPXCH6qnf5frvqeOzQp+8NYMgiAzqj4PuXtbB95SV8l9BxHuVX73HB0XEhT29dZYiN3WdG5t6Xb+G7slpUqHY8DL7dJ2nVzKEwjsgxvYnMxD0FxWROZeZuiFYff34//NpEtaMex86tkBv5UWbm7lGfUgDQAIFFpxuLe3Wr8EkJWNTjM8Z1p8WbKSPtxzw=;srFNf/nnBHUO6p65yA7ulQ=="
 ---
 

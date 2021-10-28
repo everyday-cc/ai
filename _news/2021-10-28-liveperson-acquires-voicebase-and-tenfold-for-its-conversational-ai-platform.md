@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 115
 published: true
 
 provider:

@@ -60,20 +60,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "The rise of AI and virtual learning could see a decline in professors in college classes"
-    excerpt: "The erosion of tenure is contributing to losing professors, and eventually there will be technologies that could replace in-person instruction."
-    publishedDateTime: 2021-10-23T12:30:00Z
-    webUrl: "https://www.businessinsider.com/ai-virtual-learning-college-professors-future-education2021-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/6169907b38c1960018300eed?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "x9Fy6tNF7vC4ZqxbG2OyF+YdfZEqAy8jQaw2bPIDQ7Zh0JqhxvwtdHxEmcEA3y2wnjvbSRrBu0QzKkUO2jYFqV3pgPWgoIg5HY+N+6F+h5C1rFS+dvcIoMPXI2LYSX/ze3zcY5o9Guvk3Nkt6zFDi7lmV4h+Rfzx0IIgp/Gy9Rx0fY83aoIjaNcO7cVdTIugIbORLvqHOC76ZtupC+1MW1zbOmEyRhy2BCPtyST/RgGbjWaAe3cyiOhh8sDKpqKtdWv0ynD7M0nBEVyePv8zbDxj9DR1P0In0V5rndr2EEqEIFKMptJh5wWuY9gp3RhH8wiczOrqTYXZDoZInNvXAdn4Q/+z2pd5rQZ2b4EE7HJb6U93nsRJKh4j0FuxAaJ/cLdXr+KzYIUxxK58Wbanx/06FCfVtbvDqJ3Af2v1Bng/1VTFdCLRCf2ggHouLhgxja+RWjpYgJjM6rG1S+gg4+/jZVbrVxKhO2wZNrM9yP+Rb1xKbN+9gIv7VIqplcDn5F9Q5Zh4mqpODgUshZPZCQ==;T9OpSCtVkpJ9C3VRMOngcg=="
 ---

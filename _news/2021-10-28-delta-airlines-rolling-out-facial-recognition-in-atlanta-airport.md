@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Schools pause facial recognition lunch plans"
-excerpt: "Nine schools in North Ayrshire have paused use of facial recognition technology days after introducing it, following UK's Information Commissioner's Office (ICO) inquiries. The schools wanted pupils to use the system for contactless lunch payments."
-publishedDateTime: 2021-10-25T11:16:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-59037346.amp"
-webUrl: "https://www.bbc.co.uk/news/technology-59037346.amp"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-59037346.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-59037346.amp"
+title: "Delta Airlines Rolling Out Facial Recognition In Atlanta Airport"
+excerpt: "Delta Airlines is rolling out facial recognition technology — right before the busy travel season gets underway. The airline says that it's testing out the new technology at Hartsfield-Jackson airport in Atlanta."
+publishedDateTime: 2021-10-28T00:28:00Z
+originalUrl: "https://www.newsy.com/stories/delta-airlines-rolling-out-facial-recognition-in-atlanta/"
+webUrl: "https://www.newsy.com/stories/delta-airlines-rolling-out-facial-recognition-in-atlanta/"
 type: article
-quality: 59
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: Newsy
+  domain: newsy.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/14259/production/_121212528_b52d4b5c-cb48-419c-8608-650ff3e3746d.jpg"
-    width: 1024
-    height: 576
+  - url: "https://cdn.newsy.com/images/videos/m/1635381244_y0M4MP.jpg"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -59,6 +57,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Schools pause facial recognition lunch plans"
+    excerpt: "Nine schools in North Ayrshire have paused use of facial recognition technology days after introducing it, following UK's Information Commissioner's Office (ICO) inquiries. The schools wanted pupils to use the system for contactless lunch payments."
+    publishedDateTime: 2021-10-25T11:16:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-59037346.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-59037346.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-59037346.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/14259/production/_121212528_b52d4b5c-cb48-419c-8608-650ff3e3746d.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Delta rolls out facial recognition-enabled TSA checkpoint at Atlanta terminal"
     excerpt: "Delta Airlines is rolling out a new way to get through TSA at their terminal in Atlanta -- and it has to do with your face."
     publishedDateTime: 2021-10-27T14:02:00Z
@@ -89,20 +103,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Delta Airlines Rolling Out Facial Recognition In Atlanta Airport"
-    excerpt: "Delta Airlines is rolling out facial recognition technology — right before the busy travel season gets underway. The airline says that it's testing out the new technology at Hartsfield-Jackson airport in Atlanta."
-    publishedDateTime: 2021-10-28T00:28:00Z
-    webUrl: "https://www.newsy.com/stories/delta-airlines-rolling-out-facial-recognition-in-atlanta/"
-    type: article
-    provider:
-      name: Newsy
-      domain: newsy.com
-    quality: 54
-    images:
-      - url: "https://cdn.newsy.com/images/videos/m/1635381244_y0M4MP.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "The future of flying: Delta, TSA to launch touchless airport experience via facial recognition"
     excerpt: "Delta Airlines is launching a pilot program that allows travelers to simply scan their face in order to drop their bag, pass through TSA, and board their flight."
     publishedDateTime: 2021-10-28T02:33:00Z
@@ -118,6 +118,6 @@ related:
         height: 641
         isCached: true
 
-secured: "JJmxcogfKyUxFjeD56clUc1jxwaFjlOpazTV6Xx/G6CjrcGD1uz6m0PSzxavKAg/hVeGMXmklw748T+1na4MLf39SIQIapBl+fAEdqUZyc88ib1MMUN6Oo1IDj6fvvV9R9FfboKSxgvt0KG0KRyxW+KVB15O0kNkfFbXv6vBkqnr7eTqtUsHe0n08f8xmGXG8zqvd3oBcxO1t+8h/BsPdPdrH5HWWv4Jl/U1U1uF3udbWIjzza8nxIdBvnWwwM2iYOQDbBtSDcBsx2VH2nkAYhL4nJxTKRZc6I7usQRQ/qYRLUsU8dJuKjT5KF2bG2hnEL/lVMPS/EhBUj8ObhsALnkW+EgT8ekLTx7c0KmswHg7GY0lvvPkbYkhc3wW21J+1Anj8GphrNeAxodcZE8ItA2LTHB68ujb7YEBDSeXr5kUB+IVxCrMPUxo1dHzxq0ksnXDxq5l/HtlVTPfrQF6YBMiLC9uRip1N6OOOIkKiCdM90HBova8oJ4Uktgt3dalDCXwObYVKb5jtsdLb8KjEQ==;FL/2derhYHKOPq+5QukmHg=="
+secured: "VCRDd87W4uZIp3tNUzWVkng0B8XtKJm0gQPyiLYMTMvkrkgqX71Ykz8XHQHEDUIQjCoie2RDcqF9jNl82UTQ5sBtjcFOXDguyrXfGRD6Uoy9TsUxMtSy3m0V/sCmJjTUPh8eSSZhs7rvYxy1yK39vcv5q/qcDzFM3LUE+St7YqO+0bg4kus7IkrhAJtnsGbzTsyRolzOMjpUVxMFPJ54FD3LWlW0JXiYJPCBweyLGNacaC693n6/njp5zS6QsoCamBr13Al813KVTLquJOGPwwdJkdZ4u0NWClazcSH+GuJzMkfon0Lr4IEG2wTGZGfrOxoboBQE5kC5j447OBn2s8R6hw0QY95qTlpIrPLN4ps=;/6ejszsYe2ratq0KGXndhg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/26/infrastructure-and-data-issues-ha
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Sber and other technology companies adopt AI Code of Ethics"
+    excerpt: "In the framework of the international forum Ethics of Artificial Intelligence: The Beginning of Trust, Russia's largest tech companies adopted an AI code of ethics, which was drafted by the Artificial Intelligence Alliance."
+    publishedDateTime: 2021-10-28T05:35:00Z
+    webUrl: "https://www.publicnow.com/view/EFED2E498CC082E84A8221C313602460C21CF9C9"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 34
   - title: "DTI urges companies to step up AI adoption"
     excerpt: "COMPANIES need to put artificial intelligence (AI) at the center of their modernization efforts in order to remain competitive after the pandemic, the trade department said."
     publishedDateTime: 2021-10-24T09:42:00Z

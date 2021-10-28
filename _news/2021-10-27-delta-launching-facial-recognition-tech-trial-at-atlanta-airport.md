@@ -89,6 +89,34 @@ related:
         width: 5400
         height: 3038
         isCached: true
+  - title: "Delta Airlines Rolling Out Facial Recognition In Atlanta Airport"
+    excerpt: "Delta Airlines is rolling out facial recognition technology — right before the busy travel season gets underway. The airline says that it's testing out the new technology at Hartsfield-Jackson airport in Atlanta."
+    publishedDateTime: 2021-10-28T00:28:00Z
+    webUrl: "https://www.newsy.com/stories/delta-airlines-rolling-out-facial-recognition-in-atlanta/"
+    type: article
+    provider:
+      name: Newsy
+      domain: newsy.com
+    quality: 54
+    images:
+      - url: "https://cdn.newsy.com/images/videos/m/1635381244_y0M4MP.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "The future of flying: Delta, TSA to launch touchless airport experience via facial recognition"
+    excerpt: "Delta Airlines is launching a pilot program that allows travelers to simply scan their face in order to drop their bag, pass through TSA, and board their flight."
+    publishedDateTime: 2021-10-28T02:33:00Z
+    webUrl: "https://www.whas11.com/video/travel/the-future-of-flying-delta-tsa-to-launch-touchless-airport-experience-via-facial-recognition/417-db5faf99-70ce-476b-888d-65cb506f2afc"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 42
+    images:
+      - url: "https://media.whas11.com/assets/WHAS/images/ea893a1c-2574-48c7-b0e4-8c688281b6ba/ea893a1c-2574-48c7-b0e4-8c688281b6ba_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "TxG4petOYejBhTPkH1p7CL/sY4TICjSMcnkbsnMXYjL/3Cd6uiKhal/pm+YHzl8XVNnigkzZ0rKcavy8as+X1By9Q6WGnAErsjuGnsehwJQ8R95tynhlz+2sSHa4PNiNGvVmcbupHHM+iEkq8a9ak93sBwMyPk2R5XJdRpzzycyZUbyYXFdZXfWjtUb+CIy44+L0isB6g0WbZSvKlcVq5uMMO/If5TTntVsqljwJvmSamEucyEqb3f//difhG7IdQ2Oah4AoRjCfXrToTtWp76kxG8oipQgWOSbqBjIc/34NKW83vV0Ot3aHWNB4pQPK5mKCMwLoFgDZ3ndeq9rGMiYgo0ZLTf6bFuw8u0+gLkNaXiCN5eag4/TXAow5pu/M02x+rzBqcLyTExGKEAP7pqm7VJL2fEINX13TNxYix/U3bs1MmUuoZiMofwR3qIVCcbfVc59ASXZqms6pyoXdxznsxL/mKxc1MZPH8zMCa6/RNAIQ5mM+aGHMfEYWges1sCJLIrh4U5cx6PfavrneFA==;rjsNM65tqbyCTrIB+LIgEQ=="
 ---

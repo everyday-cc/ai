@@ -9,7 +9,7 @@ ampWebUrl: "https://www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-t
 cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Top Ways to Use AI in Education"
+    excerpt: "AI in the education market was predicted to rise to $10.38 billion by 2026 (by 45.12% annually). AI EdTech startups are attracting millions of dollars in funding and millions of users. AI use cases in learning demonstrate such kinds of applications as AI in training,"
+    publishedDateTime: 2021-10-28T03:21:00Z
+    webUrl: "https://www.techopedia.com/the-top-ways-to-use-ai-in-education/2/34589"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 54
+    images:
+      - url: "https://images.techopedia.com/images/uploads/ai-in-education.jpg"
+        width: 902
+        height: 600
         isCached: true
 
 secured: "6axVz5yqt245f8CbElKtuyzOeHT1Oiu1VxJQSRrbpxb0T/RtARJZ+/Aci4hx3KEPnG2fKdbJAfvq0P9B8TcMTSmuPt4EFvbxrqqhfRQy5LUvVWOoEb1KQY/St0UGg03e4t0vEUJMFZAIpSyfLWnQGVy1fy2KqscJMuwS8siANzkEZGTOUuSg9lV2uQvObzoZFeWTDQEssbe9d62HdxKXhyMzKZi9lE4XWP/isHdh2Z4U7HrBuw9ZuxTfq7dpFWtAoNRBuKVI03WBpCzQ1Q9aPypwtMojGK6/PM+kk6Gz7BD1Sl8imv7eGh3U/BKDN3wweoc7Co8h6faImO/YmRlTQPapqDrH7taQnC6+fX+IVL6PLUSK2bvbLwQe9hGP6ynO6Kzpw9EEzRq8SHo9odty5DPX4VjwsNqTDNAsJU33Kpw87GY+cAJBDT/PDADH6J7gLyhedxaOFjukN09X5Fqb0Z8lOSjJ0/FrAcf0PYgy0+4FN9UIQDUQmCKmazxxRsI2OtTypj7Q2o36oga0rPKQlA==;ZaxJzUtoXlieKzZgUlKrvw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://edtechmagazine.com/k12/higher/k12/article/2021/10/artificial
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/higher/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://edtechmagazine.com/k12/k12/higher/k12/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F"
         width: 1440
         height: 500
-        isCached: true
-  - title: "The rise of AI and virtual learning could see a decline in professors in college classes"
-    excerpt: "The erosion of tenure is contributing to losing professors, and eventually there will be technologies that could replace in-person instruction."
-    publishedDateTime: 2021-10-23T12:30:00Z
-    webUrl: "https://www.businessinsider.com/ai-virtual-learning-college-professors-future-education2021-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/6169907b38c1960018300eed?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Artificial Intelligence to Play Major Role in Cybersecurity"
     excerpt: "Industry analysts predict artificial intelligence (AI) will continue over the next several years to become the most transformative technology in human history. Analysts also recommend for businesses to start preparing now for certain AI trends."

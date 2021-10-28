@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-lo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -92,6 +92,34 @@ related:
       - url: "https://gray-knoe-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Delta Airlines Rolling Out Facial Recognition In Atlanta Airport"
+    excerpt: "Delta Airlines is rolling out facial recognition technology — right before the busy travel season gets underway. The airline says that it's testing out the new technology at Hartsfield-Jackson airport in Atlanta."
+    publishedDateTime: 2021-10-28T00:28:00Z
+    webUrl: "https://www.newsy.com/stories/delta-airlines-rolling-out-facial-recognition-in-atlanta/"
+    type: article
+    provider:
+      name: Newsy
+      domain: newsy.com
+    quality: 54
+    images:
+      - url: "https://cdn.newsy.com/images/videos/m/1635381244_y0M4MP.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "The future of flying: Delta, TSA to launch touchless airport experience via facial recognition"
+    excerpt: "Delta Airlines is launching a pilot program that allows travelers to simply scan their face in order to drop their bag, pass through TSA, and board their flight."
+    publishedDateTime: 2021-10-28T02:33:00Z
+    webUrl: "https://www.whas11.com/video/travel/the-future-of-flying-delta-tsa-to-launch-touchless-airport-experience-via-facial-recognition/417-db5faf99-70ce-476b-888d-65cb506f2afc"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 42
+    images:
+      - url: "https://media.whas11.com/assets/WHAS/images/ea893a1c-2574-48c7-b0e4-8c688281b6ba/ea893a1c-2574-48c7-b0e4-8c688281b6ba_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "jz0GV7CY7ZYFjcJ5Z3WiDlGzEF13SmATRZGQhoyYEuOWQiV8O7Xox6ts72fTZan1bZfZR1qNXOKLJPcwW3v1rgXYwh15H1+fR5TbgADw6AEmZSH1xH9CcqYT/VEk/gRCNaKdF08wFMNA93pnuYQZHwks0HPgfiU5Q2NnAIUqvlovpuuMMV/wv9c30VDvsqZA/WCYKgEXrTujYmyWsGRFK3EdKWLrE5tMiazQxKPimqaHRkrdYfywZo4xm07cUXRcmKM5rpvKX1rGAyMf3V3VP4C4dFx7XmNvKt9B0OsUy49nt7ul5AERVzYbCxnn9Xyg0vX/Lx1aeOvZY8M0MTThzEYy+3AyUrILtdwAuvFd+FfanD+J8+bUCZu8/dRVaXrU4xNGP4Xu5yj1S64x4AbjeR2sCptqQfxfMyrUAiGKLSWAc8jfSJIts8jXvb5QOBE7uXMOYMDxka1YhgsMj5XcQBcyQpPZcPO6hSrmE9Suo1mx52MaUDwfYUfIeZ7X3tnQlkCJSakMuidXKqVs/XOyjQ==;DEBs+5Z13uVJcsF/nQyLOw=="

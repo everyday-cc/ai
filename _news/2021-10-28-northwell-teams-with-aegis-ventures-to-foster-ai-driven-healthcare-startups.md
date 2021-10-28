@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/northwell-teams-with-aegis-ventures-t
 webUrl: "https://www.wsj.com/articles/northwell-teams-with-aegis-ventures-to-foster-ai-driven-healthcare-startups-11635375600"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     height: 640
     isCached: true
 
-secured: "dCNnR3D0lSwZRJkFS8ho42W/HuiwLI5DBRc0vIab+qWD5XgXfh9upCf1laWoVpV1BzlHPr8D07Ebuho9HfRqCZN3iHgmq4sSdKMlvT+ISS9Ch2WfggzM189LTcmvsUgrcri4c99SkqdaC2UCazntSRzLmKNp4GUeJmO73CWZYp8r0XW1bUbAZR6IrURB8VeRTtzMUBMcYMelS2Tx0uPJgWS6Y3HtL6wd8EPjU7oActIV49qSEEZ0J2xOnsOIK21MN7PUpn5AN5vIxpS8dKxOpQDAlvByN6AZXhBuAszGOMoBYbQqgU4b39lhEZuubtdwWY2oAiZzECjI2Ho1YyQoP0ZZ+1G4JnErkXGU3LnYU7Y=;ivqPH3eGFwcGfVJdpBPSHQ=="
+related:
+  - title: "Northwell and startup studio Aegis form AI investment venture"
+    excerpt: "Aegis Ventures plans to invest at least $100 million for artificial intelligence companies launched through the joint venture."
+    publishedDateTime: 2021-10-28T01:05:00Z
+    webUrl: "https://www.modernhealthcare.com/operations/northwell-and-startup-studio-aegis-form-ai-investment-venture"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 37
+    images:
+      - url: "https://www.modernhealthcare.com/s3/files/styles/800x600/public/december%202019%20photo_AI_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "tA4p03XoKWAljCDVCa+OQfrB8vUdBiB5Pmt9RieJkTLrkRalHlvbRSmnTog4I3FGi1IyOmIAXqW+w2hsLn9edoHuByQcTN6F4L+n/3DHbcbj97y0Hq77u3EocvMJe8vIxsZgWqhzhkr2uJkuutUkCzbP9Km600IcVJdIT5FN1icP1Rtf0yfydw8VyLbuaDqitqTwYC+/FiRefg9KAE2FsCfUhVwTPh6MNFec/fod+fv0QOArTkZH3FRXoAgKMPMLx6eCHldwWrJ6kYyIHv0lmujptOj1I2N1PNWy/aBHKHVQvyFZLI2jcTVfsyNjlECKjigjICUEjgwgpZ/pDCEBVtt43q3rGI1TrktM4BacoCe/g8GyyhZSltNNRHmDhN13WAiroTt69ypnwtXSVyznqgWKjnB6JwmPgNG9QA0qUmQBJWUhklf0JV6qj/py8885iHU39DMQz9VP9v0qlqJvM87sFrmCbDNC1DAkOONgrzo1ZIKlHp9rNTvzgKZVpME2O4IvCMXHpYYJ90Zd4d9J0A==;Uh3hZMhKc93LbZOi1dQe1Q=="
 ---
 

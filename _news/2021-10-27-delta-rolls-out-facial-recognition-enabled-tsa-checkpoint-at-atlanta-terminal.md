@@ -89,6 +89,34 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Delta Airlines Rolling Out Facial Recognition In Atlanta Airport"
+    excerpt: "Delta Airlines is rolling out facial recognition technology — right before the busy travel season gets underway. The airline says that it's testing out the new technology at Hartsfield-Jackson airport in Atlanta."
+    publishedDateTime: 2021-10-28T00:28:00Z
+    webUrl: "https://www.newsy.com/stories/delta-airlines-rolling-out-facial-recognition-in-atlanta/"
+    type: article
+    provider:
+      name: Newsy
+      domain: newsy.com
+    quality: 54
+    images:
+      - url: "https://cdn.newsy.com/images/videos/m/1635381244_y0M4MP.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "The future of flying: Delta, TSA to launch touchless airport experience via facial recognition"
+    excerpt: "Delta Airlines is launching a pilot program that allows travelers to simply scan their face in order to drop their bag, pass through TSA, and board their flight."
+    publishedDateTime: 2021-10-28T02:33:00Z
+    webUrl: "https://www.whas11.com/video/travel/the-future-of-flying-delta-tsa-to-launch-touchless-airport-experience-via-facial-recognition/417-db5faf99-70ce-476b-888d-65cb506f2afc"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 42
+    images:
+      - url: "https://media.whas11.com/assets/WHAS/images/ea893a1c-2574-48c7-b0e4-8c688281b6ba/ea893a1c-2574-48c7-b0e4-8c688281b6ba_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "odzNlV+b/FeOUg9x5T1cmsEqm6Z/zILtavS99VuR/jH4fKZ2lXWhcDA2938lI1rG+uSbxY3LHuPp+4knOxMNQlvrJtVonQ9HMTtAspbkrIlQHpUyk2vmSn4pNzJzG6++/Bmr0zvpwg4j/wWnRhNKivp28M9jadHzlxTGe+q1gv4g2KZlFTr73c+dDc2RA+wRCXL4ZnEtjoycG3FgkX0Q6Fxu9ukBlpVDauMGS/BK9cX9xYa8yclhzjuVZAAY9N+0l4wREajHU33aFPz/yrv3yvToVn/bmeB3vzyKPsk3gcNsSuaxxfbu2R8UWfoNL7r2h92IanCu08TZK999RLQp0LTzQNPoAZMjkM/pBjs7B1f6OMbmptgKQRxR958RzVSOAalSUtsjC7YchWYoRtK0XQ3LzLdD48mLuw5zx9BiB+iK+4fyuXGVt6FurxPCfMYegbwaHAHrU8gq2qnTaveA6p6eK1r0VA4HVX9Rl2gVdQC6JQ9h8OY7qbx/JAzBdf9+E0tU0rJOOvUyj1G5KYGy7w==;sR8I94P4PuDvBc56MtG3mQ=="
 ---
