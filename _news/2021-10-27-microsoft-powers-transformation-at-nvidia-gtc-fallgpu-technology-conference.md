@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-powers-transformation-a
 webUrl: "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Over 70 AI start-ups to be showcased at upcoming NVIDIA GTC global conference"
+    excerpt: "Participants in the upcoming global NVIDIA GTC conference will have the opportunity to discover over 70 innovative AI start-ups from around the world. The start-ups, which are innovating for sectors ranging from automotive to industrial safety, are ..."
+    publishedDateTime: 2021-10-28T06:51:00Z
+    webUrl: "https://www.itweb.co.za/content/j5alrMQajAoMpYQk"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/j5alrMQajAoMpYQk"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/j5alrMQajAoMpYQk"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 54
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2021/10/Serge-Lemonde-NVIDIA.JPG"
+        width: 400
+        height: 439
+        isCached: true
   - title: "OnviSource partners with Voicegain for Speech Recognition based on Deep Learning technologies and the Edge Architecture powered by Nvidia GPUs"
     excerpt: "OnviSource, a leading provider of intelligent automation solutions for workforce optimization, contact center operation analytics and automation, customer experience management, and business process automation,"
     publishedDateTime: 2021-10-26T13:35:00Z

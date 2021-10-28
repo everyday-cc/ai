@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html"
 type: article
 quality: 84
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.cnet.com/a/img/b08c5Epe3NTGTrmK4QYvTgFuIsQ=/1200x630/2021/10/25/943d7bc3-8a31-4cd3-9a2c-eeb0a0b39f77/screenshot-2021-10-25-at-14-36-38.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facebook Smart Glasses And The Creep Factor"
-    excerpt: "Above: Mashable's mixed review of the Facebook / Ray-Ban Smart Glasses.] Apu Kapadia, Indiana University. Facebook’s smart glasses ambitions are in the news again. The company"
-    publishedDateTime: 2021-10-23T16:08:00Z
-    webUrl: "https://crooksandliars.com/2021/10/facebook-smart-glasses-and-creep-factor"
-    ampWebUrl: "https://crooksandliars.com/2021/10/facebook-smart-glasses-and-creep-factor/amp"
-    cdnAmpWebUrl: "https://crooksandliars-com.cdn.ampproject.org/c/s/crooksandliars.com/2021/10/facebook-smart-glasses-and-creep-factor/amp"
-    type: article
-    provider:
-      name: Crooks and Liars
-      domain: crooksandliars.com
-    quality: 44
-    images:
-      - url: "https://crooksandliars.com/files/embeds/2021/10/47655.jpg"
-        width: 425
-        height: 318
         isCached: true
   - title: "Media Outlets Flood the Zone With News of Facebook's Failure"
     excerpt: "\"The many exposés reveal a toxic but highly profitable revenue model that's driving Facebook’s reluctance to safeguard democracy and stop the spread of hate and disinformation.\""

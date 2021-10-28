@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-26T16:17:00Z
 originalUrl: "https://www.lelezard.com/en/news-20066349.html"
 webUrl: "https://www.lelezard.com/en/news-20066349.html"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"

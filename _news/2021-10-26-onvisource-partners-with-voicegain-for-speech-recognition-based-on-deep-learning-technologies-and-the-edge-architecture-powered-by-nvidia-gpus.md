@@ -35,6 +35,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "Over 70 AI start-ups to be showcased at upcoming NVIDIA GTC global conference"
+    excerpt: "Participants in the upcoming global NVIDIA GTC conference will have the opportunity to discover over 70 innovative AI start-ups from around the world. The start-ups, which are innovating for sectors ranging from automotive to industrial safety, are ..."
+    publishedDateTime: 2021-10-28T06:51:00Z
+    webUrl: "https://www.itweb.co.za/content/j5alrMQajAoMpYQk"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/j5alrMQajAoMpYQk"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/j5alrMQajAoMpYQk"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 54
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2021/10/Serge-Lemonde-NVIDIA.JPG"
+        width: 400
+        height: 439
+        isCached: true
 
 secured: "DpvEGnknUwqYjz6F+Fw9iUfu1FeMcNBwsaPZWy9yBEmrPkHOFAcVZwfmEsijwnaJggS1EsAJfNENhn+/tdn19Ju6mhx8KIzI1zL4tSSfVfOlbb+z8Ng2FkRQy0EClVpIU5cQmGqo3QKu8Cs8lDYb94eSGzg2ApAxW16wOni4y8hQNEI3rboMECLqdX1Zf+RVWTIoVScyX1NEJ9qFDdg5lfbMO6mS6olVQLb6unZrE4t6vcaOo2pUIVsS6s5g3ZFLvqiEGpChVNV5LOveyE8QdAD0uTh95j6ENoAH+V1s+G4c42EbuLTGpUog/WTOlBdJIqNBbenwA9P3+BUYhxaLsYK6vUeixyWIgdziz73UN5A=;HcxZBt3y64paTPVTQApUvw=="
 ---

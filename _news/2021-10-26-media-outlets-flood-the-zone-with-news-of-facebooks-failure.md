@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook Smart Glasses And The Creep Factor"
-    excerpt: "Above: Mashable's mixed review of the Facebook / Ray-Ban Smart Glasses.] Apu Kapadia, Indiana University. Facebook’s smart glasses ambitions are in the news again. The company"
-    publishedDateTime: 2021-10-23T16:08:00Z
-    webUrl: "https://crooksandliars.com/2021/10/facebook-smart-glasses-and-creep-factor"
-    ampWebUrl: "https://crooksandliars.com/2021/10/facebook-smart-glasses-and-creep-factor/amp"
-    cdnAmpWebUrl: "https://crooksandliars-com.cdn.ampproject.org/c/s/crooksandliars.com/2021/10/facebook-smart-glasses-and-creep-factor/amp"
-    type: article
-    provider:
-      name: Crooks and Liars
-      domain: crooksandliars.com
-    quality: 44
-    images:
-      - url: "https://crooksandliars.com/files/embeds/2021/10/47655.jpg"
-        width: 425
-        height: 318
-        isCached: true
   - title: "Lawmakers investigating Facebook Inc. and other online giants turn attention to ..."
     excerpt: "Lawmakers weighing how to limit the spread of disinformation on Facebook and other social media giants are turning their attention to regulating the"
     publishedDateTime: 2021-10-26T18:01:00Z

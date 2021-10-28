@@ -7,7 +7,7 @@ originalUrl: "https://www.ajmc.com/view/emerging-antibiotic-resistance-predicted
 webUrl: "https://www.ajmc.com/view/emerging-antibiotic-resistance-predicted-with-machine-learning"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 4500
     height: 3000
     isCached: true
-
-related:
-  - title: "Machine Learning Helps Predict Spread of Antibiotic Resistance"
-    excerpt: "Machine learning helps sort organisms by their functions and researchers use the days to predict how genes are transferred between them. This approach could potentially be used to stop the spread of antibiotic resistance."
-    publishedDateTime: 2021-10-23T15:31:00Z
-    webUrl: "https://www.medindia.net/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/probiotic-supplementation-reduce-antibiotic-resistance.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
 
 secured: "4kyV4IZLP9V//RPd81O83WCdSxe0fjfdNN2dphygifcn2QhAcvzx/wxlZSs4nUd6XBnDQBIYusSd36CgwhtIBR78bq3EX1zFXTPJQTvja+keYllPLly5zkhTmEL6akTPAx5bu5SH2vwhjsA4pOwxWzB5Les6IozaXF1sGF8ffEbeeN0jc0VwYmoWkDKeylMI4cGluga34PFnPJ4jgsnjUnSvXpaq50hpa9bjLCEvHqQ31Oz9hIuXR2IqL57+I0ts8uKm5gmi4b3OAm/gVFFSgLXCSfqY4R65mrlTIxOsGKII5/iUKlLunpemlEi8qFoUABfHe/csVkP4/tMdEMEJ/E99nCTEoIC1RSD8oJNJ5gUz8LltWD0+n1o5nkhfhKisGGxMxCiZiVx8E6FdWBKy1f3ZjElhNh2po+iflofi9C7VM5TRxayFJcZz40+RTzXOl/K4AQ7ZzP34sER9YmvHPRNLaN2eRa8L3J2rQ9pvPtbI+XRc2+T532bB6f7N+TJU8GNNheaDVb8/VIOJtBsbag==;smbOsc0GjB2MFzRD9sGMIQ=="
 ---

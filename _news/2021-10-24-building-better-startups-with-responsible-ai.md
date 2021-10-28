@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/metaverse-irl-big-tech-its-water-ad
 webUrl: "https://www.linkedin.com/pulse/metaverse-irl-big-tech-its-water-addiction-our-way-ai-portincaso"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence sees more funding, but needs more people and better data"
-    excerpt: "A call for 'developing metrics to assess goodness-of-data, better incentives for data excellence, better data education, better practices for early detection of data cascades, and better data access.'"
-    publishedDateTime: 2021-10-23T15:36:00Z
-    webUrl: "https://www.zdnet.com/article/artificial-intelligence-sees-more-funding-but-needs-more-people-and-better-data/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-sees-more-funding-but-needs-more-people-and-better-data/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-sees-more-funding-but-needs-more-people-and-better-data/"
+  - title: "Swedish startup is refining stock market news with AI"
+    excerpt: "Texelio has developed an AI engine that according to the plans will make stock market news more relevant to the reader. The company is now raising capital from a number of well-known investors. ​​Texelio was founded in late 2019 by Meysam Sadegh ,"
+    publishedDateTime: 2021-10-24T05:00:00Z
+    webUrl: "https://arcticstartup.com/swedish-startup-is-refining-stock-market-news-with-ai/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
+      name: ArcticStartup
+      domain: arcticstartup.com
+    quality: 37
     images:
-      - url: "https://www.zdnet.com/a/img/resize/9118d887fd55bed1a1282d5520f414337255095e/2021/10/23/feecb3f2-0da1-4af0-80f1-5e3c43da7529/new-york-occulus-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 1600
+      - url: "https://arcticstartup.com/wp-content/uploads/2021/10/texelio.jpeg"
+        width: 1298
+        height: 640
         isCached: true
 
 secured: "HpHqn6/UYhW0JB+QLGqTvOlenFEIDl6uQnyYSP15MFg+b3NTyDR+O+odkaC2uTLt3KcIT+TSXLUhmvOPrXAuQLDBYr16L01phL7DXyjqFKkahoOiEABsAZWLGdUZSctpqzyAUPZaAPq4CfdKygQbsufXTcRS7btkvx82vcNEbf9TIk4MlJ5VCUnQXJH5ZI0N6zHwFfGyLt4T6dx7s9qQra7ZYvcLfXtdaXc8xk2+NumMBseeZj0YqX3zNokSzCquOmhGpGvsNFtGk1k0LgD+sBmKQ5mEqfXsZL2IFX7sWEl0J+riWWQpoK4eGKu3gKTI6q2unY4pQy+bE/6e3m85mkp6kbr18bxr+266A2YUpz6SQBXXgX33ZvV/kpkqQ68n4y4FnC9Dq38YDoVmUsqfAg8ngHedQsv4P+t+dNg8LTihkakfyE/r+mA7//OepVszForynC5ld6zfuUdzeugSnGTU0kLuCdNfcpTg8tu+5VIsepKINcnERp1BVIN3kIDScxAr94OqOwZodq4ExY+3Hg==;4BMzSZ4xQDjefoT1JM4Kqw=="
