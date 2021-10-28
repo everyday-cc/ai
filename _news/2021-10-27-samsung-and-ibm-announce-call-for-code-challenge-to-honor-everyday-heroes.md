@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Samsung and IBM Announce Call for Code Challenge to Honor Everyday Heroes"
-excerpt: "SEOUL, South Korea and ARMONK, N.Y., Oct. 26, 2021 /PRNewswire/ -- Samsung Electronics Co., Ltd. and IBM (NYSE: IBM) today announced the Call for"
-publishedDateTime: 2021-10-26T17:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-1030901159"
-webUrl: "https://markets.businessinsider.com/news/stocks/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-1030901159"
+excerpt: "The partnership between Samsung and IBM extends over 30 years, starting with work on semiconductors and now mobility, AI, 5G, Industry 4.0 and networks . At SDC, Samsung and IBM Consulting are ..."
+publishedDateTime: 2021-10-26T17:41:00Z
+originalUrl: "https://menafn.com/1103049870/Samsung-and-IBM-Announce-Call-for-Code-Challenge-to-Honor-Everyday-Heroes"
+webUrl: "https://menafn.com/1103049870/Samsung-and-IBM-Announce-Call-for-Code-Challenge-to-Honor-Everyday-Heroes"
 type: article
-quality: 33
-heat: 33
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "z0z4aEXkrw8Zz2v88Ugvv7ZP77/Sh8y3yVfHlBxTHndbimmsoR4WTivYMILbXLMtdA6wx9FrS61oB/oxkx396l8RcIFHcmbXXvLLlSOZRRqVjC5vR92kEzq+XEnnjxeTY9RbSqH0B1jdfXmMmRVuvP/Ls2ZnsfgUf6Nfq/hbuKloP39e6RWiQ4kXV0Qb9FuIhPzW936CpvSSq5y3GTAp0/KT2KfptGdbG0Bv9YWMSNtXTDaNGTZxb2CjWy91T+HqdtExR7oMYspUD83cCrhAz56pdEzq0f//6jOH8y+4RWDQa+aXNoovKsDu7paKAjD8hiuY1jt9GbfsSn1819+tOG76pUjcYONSvPVoqDZTEdY=;bxoNK2sh9NguoqdLMM6SSw=="
+images:
+  - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+    width: 300
+    height: 250
+    isCached: true
+
+secured: "R/IpW0b8UcPGulpiEignsyAWt6RF4qewYBqmN8f7MDotXCoziYsQYU89eoh+Wbvq4MXaK9ZgIM0P144F4I6gGNB8vps+fmWVphoPM1QjaaEk5KTAvqIkYc5Q86JHh2qhEIG9t8YeJFJv3uMbITIjamdTjTgghvJzjKaEz250PvXRt1M6nB4AVhIbE5WM+hR5OuDWzMRF6KcNVs0LJ62VIa/dLqZH5DpZXoSJeMhC56QNxYFa6Gs2ZquadSbtjbwl+obdC+MbUgxWYtLUSMye1lKCEvZfOYbRZMLCCCgSCIQLWsGlVflyrolYwpwTzHt6Qhy6xTMavIf7ih9R8kUe/GnH4Ta695GYOHBM0ieWiYM=;3mGCr25NA1jEMpmogAL2iA=="
 ---
 

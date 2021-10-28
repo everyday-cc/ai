@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Northwell forms healthcare AI investment venture"
+    excerpt: "New Hyde Park, N.Y.-based Northwell Health and Aegis Ventures, a startup studio, formed a joint venture to launch artificial intelligence companies that address needs in healthcare. Four things to know: The joint venture will use medical, business and ..."
+    publishedDateTime: 2021-10-28T15:02:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/northwell-forms-healthcare-ai-investment-venture.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "kUO5LeS82RMirCmK6hB69FwNpV2OlFNXmImCwSRrj6tv7chYN3/00pBdXNJj67CGpOxmNA0jSyRXnyhMhFUPd38X4Jx/rL98S1CcEcQmuOCNgKvhQsfEjsVj5Jt/t0MkAlOP7GQzwgwLQl7v/x2VNplsla3OIJHFXJ8oFDV4IwDm8RujdUUAoKhShoIqwZamHkHTI9q9/bXRDJT6iIJjEKMH/09PtsbOtx9iBrHTunZJg1T+43k3+B9haNa73Dk8KXO+Vsesg/9wE9VxaBgiQBcQfzbTsh6GXy9LQcL9Uq6HLdExbyFA3UXTepuW+npW5Xu7AzbH68qfRHk3MIxAzKbEFl1ybUO8rCEEr3x1L+sMCnyTRpl+8AYku139Rt1rpl2lL5aeeumXsdUJGhFIaNH06ZlLh5JDnDhgonIiprLdIXL9SI+3NwN+ETynhs+7ecOKuau0ogr/YJwpapmAA8bM14yAwDTtWuQAO85jXOfrN6um5nltnp493brFRugil+UI+8BoYylpyjkVp7Kb6Q==;1C7WSlQXTxhbw35N2dYPGw=="
 ---

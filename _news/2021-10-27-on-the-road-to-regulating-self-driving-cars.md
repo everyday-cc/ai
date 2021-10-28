@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 880
         isCached: true
+  - title: "Spooky Or Plain Creepy: Using AI Self-Driving Cars As Stalkerware To Sneakily Stalk Someone"
+    excerpt: "Bad people will do bad things, even with the greatest advances in AI. As an example of how some might attempt to twist goodness into badness, let’s consider the use of self-driving cars for a disturbingly real possibility of carrying out a stalking pursuit."
+    publishedDateTime: 2021-10-28T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/28/spooky-or-plain-creepy-using-ai-self-driving-cars-as-stalkerware-to-sneakily-stalk-someone/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/28/spooky-or-plain-creepy-using-ai-self-driving-cars-as-stalkerware-to-sneakily-stalk-someone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/28/spooky-or-plain-creepy-using-ai-self-driving-cars-as-stalkerware-to-sneakily-stalk-someone/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa47503823ee9506ca6fa7d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3087%26cropY1%3D82%26cropY2%3D1819"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "8I1v2CGomWfmCeOEjGr7DxnTApRQ3qquChCTUxrMHkQZBBy+iLceUQN/Q2MToxaevgkuKWGzANRm50xCsMn18W+vVelGYqShSP/Mbts2PT+suj7gng0vkzN7KU8xP1hJKNmOftXgo5uxDNhAHlrQWyDZtGJ9thufJiG9i2b454KDZuzqwE7GYx88tlBcDPeBrEgTfx6jg1NYJOf6SyBj20/8dReXc0/xeg1QnkPfoJJ8NAZVVq+IY3jjkZZ+3EApueLMMVpFrGUs7eZ34B2K4lLzeaBa2QpmW97D5W7rg7nUfml9CqoSmpPh1aUJAeTeJL9ReKyfF7HyGl3F975+f2+/rj6z/UwkAQouaon3LcHopadOJvzQtGFUktQnGwOdaxR2QtiAvm85IjK0UluiZ4amr0PWqfWkRyDW6B1JZMi9l/xykwog4KK3dScOpN63Gc3Ykg5RjXi7uPj3XkjNb30mjd2DjBqgkQbJGmrZNELoV9+zhs/ABtR4AaD/Rs73/mUClKcKMUs0yP4fKmdcvg==;i9doHRJg6r6LrBVuXECDUA=="
 ---

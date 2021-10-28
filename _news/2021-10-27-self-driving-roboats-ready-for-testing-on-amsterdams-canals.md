@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Self-Driving 'Roboats' Ready for Testing on Amsterdam's Canals"
-excerpt: "Visitors to Amsterdam may soon spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash. It will be the electric-powered \"Roboat\","
-publishedDateTime: 2021-10-27T14:30:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-10-27/self-driving-roboats-ready-for-testing-on-amsterdams-canals"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-10-27/self-driving-roboats-ready-for-testing-on-amsterdams-canals"
+title: "Self-driving \"Roboats\" ready for testing on Amsterdam's canals"
+excerpt: "Visitors to Amsterdam may soon spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash."
+publishedDateTime: 2021-10-27T16:01:00Z
+originalUrl: "https://www.reuters.com/technology/self-driving-roboats-ready-testing-amsterdams-canals-2021-10-27/"
+webUrl: "https://www.reuters.com/technology/self-driving-roboats-ready-testing-amsterdams-canals-2021-10-27/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/zZYDUJ-p7UhkMMtVmNdo8LblmsM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T63HTR7FABPTHG7M3UT5HCCUAM.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Robot taxi boats take to the water in Amsterdam"
@@ -65,6 +71,6 @@ related:
       domain: omaha.com
     quality: 24
 
-secured: "LF2+l8tGsiRTHK948JCbxVHYJPkwE3z/0yknmFDsZb7bURtGBQqwSDqxzxl0yDOPUcYkia9pL86V+aVurLTI5aL2utrUPrkzxzhOk/OQkLQ1bE5Kzn/locSJdbPtsOb8H94PR9XLfoBlF9HZJBGEpkHiBa898t7L18NFzobaoDkjBypLVZqK+L7k/4yhQkZU0g5v8qOvm/zhNapNh76mHaQSiAwOf9HdCIXBqTXsef7vMc7heGXFH+vrq/oCUrhX+qpENfX9dATZhYJGf3kI+2CNgZhV7Lv4QwzynBV+zEnoMn8eqGsG3yiJxYDYehmhL79pJ/Mni/QaQat10RAp1ECHEfc72sPAREkQb75GW/nbUhKVE+zLbyQ3K91FP9npYsyzxscj4QC+S7XjR8NfDtGOncg4CYyKIzHDcWR9EzJJF8e9dRI8nMwoKqtLYfOVR0B8UHjzFhL8qe/4V3rK3yMbC8G0l3AbIuz2Pf9Bqlg8bvHSHCRp8wSOt/dGo7nmw/2Z4uNjGhHSdy6UnwVvBg==;u7DA64Slc/HEKYHZrINKgA=="
+secured: "+9x8DhyqIWk9J/8URQZ4o24Ws/8b2U3VJ+bxRuK+UaN5QwXjYb2k/qoPMo2WpJHc8yRKo+kw1O9G3izBj26aKoU2ECHP9zocl+OlM7LM+CA0JVDB5B9/CNqnCGNf+DCKgL878AHL9hTnI6BLbLH8El743i4zPaNFstFO5Oy06qvGYt/GGdh13+FMBmKSrCWWgFsnFJAP4MPwRYJQYLZSJzDT2Sgr8XLBim/sKzRnNu9onJjC1kFrygLRlXdcc/PE41eoQOyKWL1DFj/rItHW0v65/uFbsHhMe4x+lukA2sr/yORpNEogfzvSPCFjMU1l6txlzu4E6Jx8D3/CuWeZY8c0AlAbUxsCfiP8CTcfEN0=;qKLv9d4SdKrJ6PobNJ9nWQ=="
 ---
 

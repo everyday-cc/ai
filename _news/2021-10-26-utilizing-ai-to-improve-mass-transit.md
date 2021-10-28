@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-tran
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://s3.amazonaws.com/production-nejm-nav-images/3Kplus-woman_photo.jpg"
         width: 525
         height: 350
+        isCached: true
+  - title: "VA implements new artificial intelligence strategy to improve veteran care"
+    excerpt: "The Department of Veterans Affairs implemented a new artificial intelligence strategy late September for the delivery of health care and benefits, and is set to serve as an ethical guideline for the use of AI technology throughout the department."
+    publishedDateTime: 2021-10-28T15:24:00Z
+    webUrl: "https://www.airforcetimes.com/veterans/2021/10/28/va-implements-new-artificial-intelligence-strategy-to-improve-veteran-care/"
+    type: article
+    provider:
+      name: Air Force Times
+      domain: airforcetimes.com
+    quality: 35
+    images:
+      - url: "https://www.airforcetimes.com/resizer/RblstTR9JH_e01ugPITkjDHmvao=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/5R2ICJLCOZFH5IJ6IM6WJHPEDE.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "eukX0ZHBRuydPPHzXZDxWj7MgM89viVPhlx8CvR5E74IGwnxs05pETJ8VY0Mn5I4ggmWpxEhM1HYpJ0SGRS1mnq5egJeuBr59/wGCRL//dPHyOY/mpZq8QFEAhGQuYm7QwH793bPkUOSr19YaPQnvI9Nrh53+T935SFLjQdnMzN6la+9+RZ0GPT/Ovd6v43wRJCx8GRG5DyoI6DNpNwgOHiD3Qdqa30L9Q4YfkoOrOoIz3WMRwqGPX937TXNrmxjwmCX7gWCjRcbMgmSoHBwmKGc7yVEWpwxgG1Hk6JXxcbi/3wNsBqASey3GwO1cGWCyQIMNTVV2sWJHgJ5fhoMNCpnsTwSkrmaBAKzvoorNcBZpcUzx+fv4rBOjtfaXENcmCQvlVNpEFoqs/5G7MCGVTyq3YWD0AhaYE0pG1X8iugSvOx4dFsclOZNvB8AWzWnxbLXmbpUjZOGYsR3LWoIGi3qKEVLkgWVF4IIwFnkLSBDHj/00FuZFYgabh6vIyR9DkZk+MkalNtw+u10Xg6hbg==;trvgoujIF/6/H/RKalZUdQ=="

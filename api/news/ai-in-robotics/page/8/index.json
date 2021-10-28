@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-11-agile-robots-closes-220m-series-c-funding.md",
+      "title": "Agile Robots closes $220M Series C funding",
+      "excerpt": "Agile Robots, closes a $220M Series C round - to enable the company to extend its product and expand its global market reach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "originalUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/agile-robots-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-the-best-robotic-lawnmowers-for-2021.md",
       "title": "The best robotic lawnmowers for 2021",
       "excerpt": "You can control this lawn care device through your ... and more. Yes. Keep in mind that a robotic mower may not offer the same power and features as a traditional push mower, gas- or electric ...",

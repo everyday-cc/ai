@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving \"Roboats\" ready for testing on Amsterdam's canals"
+    excerpt: "Visitors to Amsterdam may soon spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash."
+    publishedDateTime: 2021-10-27T16:01:00Z
+    webUrl: "https://www.reuters.com/technology/self-driving-roboats-ready-testing-amsterdams-canals-2021-10-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/zZYDUJ-p7UhkMMtVmNdo8LblmsM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T63HTR7FABPTHG7M3UT5HCCUAM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Self-driving Roboats set sail in Amsterdam canals"
     excerpt: "Scientists from MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Senseable City Laboratory, together with Amsterdam Institute for Advanced Metropolitan Solutions (AMS Institute) in the Netherlands,"
     publishedDateTime: 2021-10-27T20:09:00Z
@@ -45,15 +59,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Self-Driving 'Roboats' Ready for Testing on Amsterdam's Canals"
-    excerpt: "Visitors to Amsterdam may soon spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash. It will be the electric-powered \"Roboat\","
-    publishedDateTime: 2021-10-27T14:30:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-10-27/self-driving-roboats-ready-for-testing-on-amsterdams-canals"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Self-driving \"Roboats\" tested on Amsterdam's canals"
     excerpt: "Soon visitors to Amsterdam may spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash."
     publishedDateTime: 2021-10-27T19:00:00Z

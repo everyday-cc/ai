@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 791
         isCached: true
+  - title: "Self-driving \"Roboats\" ready for testing on Amsterdam's canals"
+    excerpt: "Visitors to Amsterdam may soon spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash."
+    publishedDateTime: 2021-10-27T16:01:00Z
+    webUrl: "https://www.reuters.com/technology/self-driving-roboats-ready-testing-amsterdams-canals-2021-10-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/zZYDUJ-p7UhkMMtVmNdo8LblmsM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T63HTR7FABPTHG7M3UT5HCCUAM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Self-driving Roboats set sail in Amsterdam canals"
     excerpt: "Scientists from MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Senseable City Laboratory, together with Amsterdam Institute for Advanced Metropolitan Solutions (AMS Institute) in the Netherlands,"
     publishedDateTime: 2021-10-27T20:09:00Z
@@ -51,15 +65,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Self-Driving 'Roboats' Ready for Testing on Amsterdam's Canals"
-    excerpt: "Visitors to Amsterdam may soon spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash. It will be the electric-powered \"Roboat\","
-    publishedDateTime: 2021-10-27T14:30:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-10-27/self-driving-roboats-ready-for-testing-on-amsterdams-canals"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
 
 secured: "dyOKbZVHJ6rmiYgqFrYJdpcI91W2e5QCwHBhMy4TkxCLKo7LDyL6NYJ3D8CbIyfGgJlVMNuDPN+4wnA6EwCoj1fcz0r1cR/MT8Xsk9Pzuymka2+bVNmrk8XhmInlJIKSf/dS0aynBSAZhS22hOdwhWSPeOV7M70pVT5NOyAPjeFfVmHpBKy1aOCucK40r5Kzgns3WmI0i1+ZRgtB/c0gM850sKmwzjiBPyRxyxz3vEfpb8Iolg6hoKqZ4rRik1ojM7ClXvFpTQn8y1NygMn8ILD3f4f44geSSB6FIWEClDLsvAxzvDmBBQ0sT2roIo1m7c9+VXSESujWpM2TKF32qB4/j5Ru34B5osEr89dfvx+2ExowJHpz+dGm2rxOGjTne6TQXWmxY1N6+b6DP26GpzFeR9i8VjA3iCJHnQCLbnWLNc7t0r3rBFRPnQ6lVOCLr5pHn/uKncXM5gB+L02vItNU0ZDPerT/kjOO/WgU7UapUE3Fmyg6Pa6bcfInhWL0HWp6yIh6rKEX97Mo++ty7w==;ZQehBwzxWkMPVxYjbo/Hbg=="
 ---

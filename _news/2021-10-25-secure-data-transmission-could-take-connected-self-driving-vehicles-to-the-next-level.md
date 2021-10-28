@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Road Collision Investigation Branch needed to share safety measures as more self-driving vehicles take to Britain's roads"
+    excerpt: "Road accidents could be investigated by a new team tasked with sharing safety messages across the country, under new plans being drawn up by the government. The dedicated unit would be at the forefront of investigations into accidents with self-driving or semi-autonomous vehicles."
+    publishedDateTime: 2021-10-28T15:42:00Z
+    webUrl: "https://www.spaldingtoday.co.uk/news/self-driving-cars-fuel-need-for-road-collision-investigation-9223067/"
+    ampWebUrl: "https://www.spaldingtoday.co.uk/news/amp/self-driving-cars-fuel-need-for-road-collision-investigation-9223067/"
+    cdnAmpWebUrl: "https://www-spaldingtoday-co-uk.cdn.ampproject.org/c/s/www.spaldingtoday.co.uk/news/amp/self-driving-cars-fuel-need-for-road-collision-investigation-9223067/"
+    type: article
+    provider:
+      name: Spalding Guardian
+      domain: spaldingtoday.co.uk
+    quality: 34
+    images:
+      - url: "https://www.spaldingtoday.co.uk/_media/img/7DW203RGC2OS3KTZXBBO.jpg"
+        width: 1572
+        height: 1080
+        isCached: true
 
 secured: "Oc3FGcajQqfltka/R2Q91MlLQdYS68KKQ6ikGaUlPF5djVTgII2Y4bfN78y8/XcwHOUIcuPtxI6e4KqQrMrfM/39AyAJjt2iQHa/bv59wjjhpFnk05LslnctVgLvECcCdywFHdK24th0gaRQTDq2/ssXi3cvdbN30jymYpPkmUPlRtqrxunwVL7u6PTmA8XHPFBaGd1XME8vsb6BV/7mWn258G7HBkGaRyfNJ22g+QyjuSUR29SGfiPmgwyNCURemoRVpSatvz38n1QWFKse5vlNh6ZHv9BQHsdJzt4TXec6sR38V0lkAAZq2anZz+WKV5i2MEJivhcfKlZwzExgDBg33poHDPn35iAr3KqPaTp8SYM6UeJzMxHIVxkL3BIPge+dgyXVG7nj1ALBVqiMDuXAFFlX4TEj3tD5EmvygZh3OunUgkZ0Gk6iaZKDE2TP8AAoYEnH64coqBc/MumWWEazB7sFNaNo63Mvjsw2l7+TnysW7VvuMinADx1n326ECjmU1pcfPnH/2RhTjXLI8g==;WnQh5wbb99CvBM0h2oYfww=="
 ---

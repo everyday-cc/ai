@@ -2,6 +2,187 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-26-byju-innovation-labs-bridging-the-teacher-student-gap-with-ai-ml.md",
+      "title": "Byju Innovation Labs: Bridging the teacher-student gap with AI, ML",
+      "excerpt": "With an aim to solve moonshot problems, Byju's lab initiative hopes to consistently innovate internally to solve education's biggest challenges with technology to avoid becoming obsolete",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
+      "originalUrl": "https://www.forbesindia.com/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2021/Oct/img_170429_devroy.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
+      "publishedDateTime": "2021-10-26T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-how-ai-could-solve-supply-chain-shortages-and-save-christmas.md",
+      "title": "How AI could solve supply chain shortages and save Christmas",
+      "excerpt": "Long live supply chains stress-tested with AI digital twins. With the supply-chain disruptions of the past two years showing no signs of easing anytime soon, businesses are turning to a new generation of AI-powered simulations called digital twins to help them get goods and services to customers on time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/",
+      "originalUrl": "https://www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/10/digitaltwins-1.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/amp/",
+      "publishedDateTime": "2021-10-26T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch.md",
+      "title": "Schools put the brakes on facial recognition scheme for kids buying lunch",
+      "excerpt": "Schools in the United Kingdom have paused the rollout of facial recognition scans in cafeterias following backlash from data watchdogs and privacy advocates. Last week, the Information Commissioner's Office (ICO),",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/",
+      "originalUrl": "https://www.zdnet.com/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/",
+      "publishedDateTime": "2021-10-26T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-accelerating-healthcare-ai-innovation-with-zero-trust-technology.md",
+      "title": "Accelerating healthcare AI innovation with Zero Trust technology",
+      "excerpt": "From research to diagnosis to treatment, AI has the potential to improve outcomes for some treatments by 30 to 40 percent and reduce costs by up to 50 percent. Obtaining the large data sets necessary for generalizability, transparency, and reducing bias has historically been difficult and time-consuming.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/",
+      "originalUrl": "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f91858d1-a3a3-4e76-8543-32fa605f702f.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T01:00:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible.md",
       "title": "Singapore-based digital comic platform uses AI to make manga more accessible",
       "excerpt": "There was no digital platform that comic lovers could access at all times. Vu and Hieu together with Ken Luong and other comic lovers teamed up and founded INKR, a digital comic platform in 2011 that's currently based in Singapore with an office in Vietnam.",
@@ -155,7 +336,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -310,7 +491,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1043,187 +1224,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-introduce-robotics-ai-in-curriculum.md",
-      "title": "Introduce robotics, AI in curriculum",
-      "excerpt": "Our annual survey of CXOs and decision makers has revealed that as we emerge from the current crisis, optimism with regard to AI has gone up significantly from 72 percent to 92 percent, and the rate of AI adoption has increased from 62 percent to 70 percent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
-      "originalUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.monitor.co.ug/resource/blob/3574060/bb0203f685069f14f00a1b5d66bf87f5/comm03pix-data.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
-      "cdnAmpWebUrl": "https://www-monitor-co-ug.cdn.ampproject.org/c/s/www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
-      "publishedDateTime": "2021-10-25T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Monitor",
-        "domain": "monitor.co.ug",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-welcome-to-the-algorithmic-nudging-debate-a-potent-ai-practice-with-ethical-implications.md",
-      "title": "Welcome to the algorithmic nudging debate - a potent AI practice with ethical implications",
-      "excerpt": "Nudging isn't new - but algorithmic nudging ups the ante. The AI ethics debate now extends to these new means of persuasion. It's an issue we should all take a look at, whether we're the nudger, or the nudgee.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications",
-      "originalUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-06/shutterstock-pathdoc-1076106332.jpg",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp",
-      "publishedDateTime": "2021-10-25T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19-analysis-microsoft-us-ptc-us.md",
-      "title": "AI in IoT Market to Witness Notable Growth by 2027 Covid-19 Analysis | Microsoft (US), PTC (US)",
-      "excerpt": "AI in IoT market report points out problem areas in the business and also presented what areas can expand the business by increasing the customer base It also helps you make sound market decisions and develop effective strategies This AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "originalUrl": "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua25568936_g.jpg",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "publishedDateTime": "2021-10-25T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025.md",
-      "title": "Artificial Intelligence (AI) Robots Market Share 2021 Analysis, Dynamics, Industry Size, Latest Trends and Industry Growth Research Report 2025",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry” “ Artificial Intelligence (AI) Robots Market ” report analyses the overview of the global market with respect to major regions and segmented by types and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 243,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

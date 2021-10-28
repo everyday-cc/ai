@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-28-living-with-robots-an-excellent-non-technical-overview-of-robotics.md",
+      "title": "“Living With Robots” – An Excellent Non-Technical Overview Of Robotics",
+      "excerpt": "This is a review of the third book sent to me recently by MIT Press, and the book is the best of the bunch. “Living With Robots,” by Ruth Aylett and Patricia A. Vargas is a good, non-technical book that discusses a number of issues with robots in human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D24%26cropY2%3D517",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/amp/",
+      "publishedDateTime": "2021-10-28T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-using-artificial-intelligence-for-the-employee-benefits-journey.md",
       "title": "Using artificial intelligence for the employee benefits journey",
       "excerpt": "Many people feel uncomfortable with using artificial intelligence (AI), since it tends to ... want support and guidance tools to help them understand how to save for health care, retirement, and emergencies. But your team can barely handle all the employee ...",
@@ -54,7 +106,7 @@
       "originalUrl": "https://www.al-monitor.com/originals/2021/10/cairo-airport-security-detains-robot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1324,58 +1376,6 @@
         "name": "WITN",
         "domain": "witn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-desperate-for-workers-restaurants-turn-to-robots.md",
-      "title": "Desperate for Workers, Restaurants Turn to Robots",
-      "excerpt": "They can make French fries, mix drinks and even clean toilets, and they never ask for a raise. But they also break down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
-      "originalUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/10/20/multimedia/20SP-ROBOTS-INYT1/merlin_195923337_42e6ecac-a4fd-4252-99a5-21c3e6313e43-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/19/business/restaurants-robots-workers.amp.html",
-      "publishedDateTime": "2021-10-19T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

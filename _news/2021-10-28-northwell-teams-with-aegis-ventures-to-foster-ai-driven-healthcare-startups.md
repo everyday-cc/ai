@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/northwell-teams-with-aegis-ventures-t
 webUrl: "https://www.wsj.com/articles/northwell-teams-with-aegis-ventures-to-foster-ai-driven-healthcare-startups-11635375600"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Northwell forms healthcare AI investment venture"
+    excerpt: "New Hyde Park, N.Y.-based Northwell Health and Aegis Ventures, a startup studio, formed a joint venture to launch artificial intelligence companies that address needs in healthcare. Four things to know: The joint venture will use medical, business and ..."
+    publishedDateTime: 2021-10-28T15:02:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/northwell-forms-healthcare-ai-investment-venture.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Northwell and startup studio Aegis form AI investment venture"
     excerpt: "Aegis Ventures plans to invest at least $100 million for artificial intelligence companies launched through the joint venture."
     publishedDateTime: 2021-10-28T01:05:00Z

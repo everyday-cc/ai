@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-19-desperate-for-workers-restaurants-turn-to-robots.md",
+      "title": "Desperate for Workers, Restaurants Turn to Robots",
+      "excerpt": "They can make French fries, mix drinks and even clean toilets, and they never ask for a raise. But they also break down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
+      "originalUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/20/multimedia/20SP-ROBOTS-INYT1/merlin_195923337_42e6ecac-a4fd-4252-99a5-21c3e6313e43-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/19/business/restaurants-robots-workers.amp.html",
+      "publishedDateTime": "2021-10-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-artificial-intelligence-and-robotics-hub-launched-at-gitex-global.md",
       "title": "‘Artificial Intelligence and Robotics Hub’ launched at Gitex Global",
       "excerpt": "In support of the UAE Strategy for Artificial Intelligence (AI) 2031, the Ajman Free Zone has launched its “Artificial Intelligence and Robotics Hub” at GITEX Global 2021.",
@@ -1322,58 +1374,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains.md",
-      "title": "How to Move More Goods Through America’s Clogged Infrastructure? Robot Trains",
-      "excerpt": "Self-driving trains could be greener, carry more stuff, and help unclog America’s congested supply chains. And making them a reality will likely be far easier than perfecting autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
-      "originalUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-414056/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
-      "publishedDateTime": "2021-10-09T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

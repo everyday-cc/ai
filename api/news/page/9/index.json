@@ -2,6 +2,178 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-10-19-4-top-artificial-intelligence-stocks-to-watch-right-now.md",
+      "title": "4 Top Artificial Intelligence Stocks To Watch Right Now",
+      "excerpt": "Artificial Intelligence Stocks To Consider Adding To Your Watchlist Right Now. Artificial intelligence stocks appear to be gaining traction among tech investors in the stock mar",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19",
+      "originalUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19?amp",
+      "publishedDateTime": "2021-10-19T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams.md",
+      "title": "Infor Coleman AI Digital Assistant App Now Available for Microsoft Teams",
+      "excerpt": "Infor,the industry cloud company, today announced the general availability (GA) of its Infor Coleman AI Digital Assistant app for Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams-1030877970",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams-1030877970",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/526907/Infor_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks.md",
+      "title": "This AI-powered tool helps you generate quality content with just a few clicks",
+      "excerpt": "Sponsored Deals 1. Produce engaging content with ease with this AI-powered tool on sale 2. Grab a subscription to this tool that helps you create engaging content with ease",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/",
+      "originalUrl": "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/sale_303782_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/amp/",
+      "publishedDateTime": "2021-10-19T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-aion-labs-powered-by-biomed-x-launches-first-global-call-for-application-artificial-intelligence-for-antibody-design.md",
+      "title": "AION Labs, Powered by BioMed X, Launches First Global Call for Application: Artificial Intelligence for Antibody Design",
+      "excerpt": "AION Labs, Israel-based alliance of AstraZeneca, Merck, Pfizer, Teva, Israel Biotech Fund and Amazon Web Services (AWS), to start first global crowdsourcing initiative based on the innovation model of",
+      "sourceUrl": null,
+      "webUrl": "https://www.hawaiinewsnow.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/",
+      "originalUrl": "https://www.hawaiinewsnow.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHNL",
+        "domain": "hawaiinewsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk.md",
       "title": "Facial Recognition School Lunch Payments Spark Privacy Concerns In UK",
       "excerpt": "We're introducing Facial Recognition!” cheerily opens a flyer given to some parents in Scotland, describing a new method to pay for school lunches. Howeve",
@@ -979,185 +1151,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-spell-named-a-2021-gartner-cool-vendor-in-enterprise-ai-operationalization-and-engineering.md",
-      "title": "Spell Named a 2021 Gartner® Cool Vendor in Enterprise AI Operationalization and Engineering",
-      "excerpt": "Focused on the urgency and the need for enterprises to deploy platforms that accelerate scaling enterprise AI into production",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcax.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/",
-      "originalUrl": "https://www.wcax.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/FREMUPCXogmuYv3X5OxCBlIuAyY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5TE3TWAROAQRUUKEKN2BSHAMOU.jpg",
-          "width": 980,
-          "height": 2097,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCAX3",
-        "domain": "wcax.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-accelerating-the-discovery-of-new-materials-for-3d-printing.md",
-      "title": "Accelerating the discovery of new materials for 3D printing",
-      "excerpt": "The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes, has created more demand for new 3D printing materials designed for",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/accelerating-materials-3d-printing-1015",
-      "originalUrl": "https://www.chemeurope.com/en/news/1173177/accelerating-the-discovery-of-new-materials-for-3d-printing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/MIT-Accelerating-Materials-01-Press.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CHEMIE.DE Information Service GmbH",
-        "domain": "chemeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia.md",
-      "title": "Lost in translation: Language barrier is hurting commercialisation in Australia",
-      "excerpt": "It's hard to collaborate when industry want to get straight to the point and academics rely on lengthy research papers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
-      "originalUrl": "https://www.zdnet.com/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b6720e60a46b7b4223f6c02fb97515471eb6e217/2018/04/05/ebb87ff9-14b6-4a39-a906-ad4a7a5b31b9/istock-625736338.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
-      "publishedDateTime": "2021-10-18T22:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-convegenius-ai-indias-leading-edtech-startup-raises-5m-usd-pre-series-a-for-mass-market-direct-to-consumer-expansion-to-serve-100m-households.md",
-      "title": "ConveGenius AI, India’s Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households",
-      "excerpt": "ConveGenius has raised $5M USD in Venture Capital funding to grow its conversational AI platform in India and South-East Asian markets. The company first launched its conversational AI platform in 2020 with a focus on providing a tailor-fit EdTech solution that offers an adaptive Whatsapp-based learning system for K-12 students from lower tier cities,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

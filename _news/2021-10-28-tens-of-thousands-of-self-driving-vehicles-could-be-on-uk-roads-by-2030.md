@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Road Collision Investigation Branch needed to share safety measures as more self-driving vehicles take to Britain's roads"
+    excerpt: "Road accidents could be investigated by a new team tasked with sharing safety messages across the country, under new plans being drawn up by the government. The dedicated unit would be at the forefront of investigations into accidents with self-driving or semi-autonomous vehicles."
+    publishedDateTime: 2021-10-28T15:42:00Z
+    webUrl: "https://www.spaldingtoday.co.uk/news/self-driving-cars-fuel-need-for-road-collision-investigation-9223067/"
+    ampWebUrl: "https://www.spaldingtoday.co.uk/news/amp/self-driving-cars-fuel-need-for-road-collision-investigation-9223067/"
+    cdnAmpWebUrl: "https://www-spaldingtoday-co-uk.cdn.ampproject.org/c/s/www.spaldingtoday.co.uk/news/amp/self-driving-cars-fuel-need-for-road-collision-investigation-9223067/"
+    type: article
+    provider:
+      name: Spalding Guardian
+      domain: spaldingtoday.co.uk
+    quality: 34
+    images:
+      - url: "https://www.spaldingtoday.co.uk/_media/img/7DW203RGC2OS3KTZXBBO.jpg"
+        width: 1572
+        height: 1080
+        isCached: true
   - title: "Secure Data Transmission Could Take Connected Self-Driving Vehicles to the Next Level"
     excerpt: "Teamwork seems to be a valuable concept for autonomous vehicles, as well – connected self-driving cars can respond to road and traffic conditions much better, compared to relying only on their sensors."
     publishedDateTime: 2021-10-25T07:57:00Z

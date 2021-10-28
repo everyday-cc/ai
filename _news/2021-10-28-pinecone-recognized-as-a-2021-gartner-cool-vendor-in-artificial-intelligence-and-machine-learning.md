@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "OpenBlender Named a 2021 Gartner Cool Vendor in Data for Artificial Intelligence and Machine Learning"
-    excerpt: "OpenBlender, the pioneering ML Enrichment platform that generates and blends thousands of variables from publicly-available data to greatly improve model performance, today announced it has been recognized by Gartner as one of the 2021 Cool"
-    publishedDateTime: 2021-10-26T16:17:00Z
-    webUrl: "https://www.lelezard.com/en/news-20066349.html"
+    excerpt: "OpenBlender, the pioneering ML Enrichment platform that generates and blends thousands of variables from publicly-available data to greatly improve model performance, today announced"
+    publishedDateTime: 2021-10-26T16:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/openblender-named-a-2021-gartner-cool-vendor-in-data-for-artificial-intelligence-and-machine-learning/article_bb0bfe2c-2eef-5003-a5eb-bc4956182a3d.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 41
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "nV0rXGMmmyXKdZ5QCy9sS0m/seq8Y4zjtnAM/M7Bw05kNEJ9/rKhbXDYsU5Wf9cy4x6IzkM2McKCTwieyolc4LVMlQngB7qtzVZYKZn6ILJ2+DfgGoQ03YCi5UeM692u9hBEBy0ijOOgAAHTIimvcTHUOUSEPrG9UkBRCc9233Gc3iwgtpqpNIYFUaKu47wx5O37r2+eEYh/tIz/edY6dorBSCMKSh/7mFXiDYgvvAa9y+e99i9NNvwttSCdqtw2Pf2+pPAX8UsLPRt33lMTA4FzejHlbzAvLGymMXVfGUzG882HIIPiP/pZKIYVzolhj4p3BE8rFaIxmRAEIeXJ3YPYlLDeT2k8Ac6vX6/RJt8=;2Oml77qQjTMZaa5L9gubaA=="
