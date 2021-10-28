@@ -41,17 +41,17 @@ related:
         isCached: true
   - title: "OnviSource partners with Voicegain for Speech Recognition based on Deep Learning technologies and the Edge Architecture powered by Nvidia GPUs"
     excerpt: "OnviSource, a leading provider of intelligent automation solutions for workforce optimization, contact center operation analytics and automation, customer experience management, and business process automation,"
-    publishedDateTime: 2021-10-26T13:35:00Z
-    webUrl: "https://www.lelezard.com/en/news-20065826.html"
+    publishedDateTime: 2021-10-26T13:20:00Z
+    webUrl: "https://kdhnews.com/news/texas/onvisource-partners-with-voicegain-for-speech-recognition-based-on-deep-learning-technologies-and-the-edge/article_e7296e2f-3984-562b-a60f-2acf001ec59f.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Killeen Daily Herald
+      domain: kdhnews.com
     quality: 35
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "WB7JxbsO+CeYI7ZbdV1WTY/O33IbE9rsrkQkBHtmOoGMWheg32obZG9dqdi89+scT9X5sVS2uWnPZ7XF03V5yomLpXXe5IolZIaw1Oxdqwf6r/Z1+Bb23ku0jV0cu9gr6eZlHtdJHF+dGbZI9hwhclqpRsG5/gdmvIKA8qHg3MJ1Xxh2WZxIkXM9yvjkMgR/fvK/6pcKr+r7/+gLN0pJNYhEtD8X0ept98ZchKXmn1S0ui/1/Km/wRvyycGZR39x0V/fS1NSKS62vwtCAHknZkcY0VWaL5DKlQeoLo9OK/tUoygyJ33xmjbn3Rcy2QGi06RcF8nhb54JRdr8LZZi79UqFzziIFm593KIGQwfgVY=;rPwMvYEbL9YRL4pHg3KxOw=="

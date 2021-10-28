@@ -2,6 +2,195 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-10-06-tata-power-ropes-in-ai-firm-bluwave-ai.md",
+      "title": "Tata Power ropes in AI firm BluWave-ai",
+      "excerpt": "Tata Power on Wednesday announced that it has roped in renewable energy AI (artificial intelligence) company BluWave-ai. \"Tata Power, India’s largest integrated power utility, announced that it has signed a three-year commercial agreement with BluWave-ai,",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
+      "publishedDateTime": "2021-10-06T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-wayve-the-lidar-free-self-driving-startup-raises-136m-from-ocado.md",
+      "title": "Wayve, the Lidar-free self-driving startup, raises $13.6M from Ocado",
+      "excerpt": "Wayve, a U.K.-based self-driving startup that is notable for its use of deep learning and cameras rather than more-costly Lidar and other sensors to guide vehicles, is gearing up for its next stage of development with a strategic backer in its pocket.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/",
+      "originalUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/wayve-tech.jpg?w=1024",
+          "width": 1024,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/",
+      "publishedDateTime": "2021-10-06T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-from-drug-design-to-distribution-this-is-how-robotics-ai-and-blockchain-transforms-pharma.md",
+      "title": "From Drug Design To Distribution: This Is How Robotics, A.I. and Blockchain Transforms Pharma",
+      "excerpt": "Exoskeletons to aid pharma factory workers. 3D printing to allow pharmacies to produce drugs on the spot. Blockchain technologies to help fight counterfeit drugs. These are just bits and pieces, but the entire process of the pharmaceutical supply chain will be affected by disruptive technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd",
+      "originalUrl": "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH7yBw6eCSWYA/article-cover_image-shrink_720_1280/0/1633506465376?e=1639008000&v=beta&t=_U-6bUqcs-f9bJe726tT0G7pyblRADpeKHyj0nIGonc",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022.md",
+      "title": "AI in Fintech Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022",
+      "excerpt": "Japan, Japan, Wed, 06 Oct 2021 06:13:30 / Comserve Inc. / -- The market for AI in Fintech is expected to grow from USD 1,337.7 million in 2017 to USD 7,305.6 million by 2022, at a Compound Annual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022-2021-10-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022-2021-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-koreai-which-develops-workflow-automation-technologies-raises-70m.md",
       "title": "Kore.ai, which develops workflow automation technologies, raises $70M",
       "excerpt": "Kore.ai, a startup developing a platform for enterprise workflow automation, has raised $70 million in a venture funding round.",
@@ -1001,168 +1190,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-horizon3ai-named-a-winner-of-the-pitch-2021-by-constellation-research.md",
-      "title": "Horizon3.ai Named a Winner of The Pitch 2021 By Constellation Research",
-      "excerpt": "Horizon3.ai today announced it was named a first-place winner of The Pitch, a new competition for enterprise startups hosted by Constellation Research. The industry wide two-day event brought together startup founders,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/horizon3-ai-named-a-winner-of-the-pitch-2021-by-constellation-research-1030844893",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/horizon3-ai-named-a-winner-of-the-pitch-2021-by-constellation-research-1030844893",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1652459/1st_place_winner.jpg",
-          "width": 711,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-fruitcore-robotics-closes-20m-series-a.md",
-      "title": "Fruitcore Robotics closes $20M Series A",
-      "excerpt": "Fruitcore Robotics plans to expand its engineering, sales and support teams in Europe as it continues to grow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/fruitcore-robotics-closes-20m-series-a/",
-      "originalUrl": "https://www.therobotreport.com/fruitcore-robotics-closes-20m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/10/fruitcore-robotics-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-new-study-from-strategyr-highlights-a-35-billion-global-market-for-artificial-intelligence-ai-in-call-centers-by-2026.md",
-      "title": "New Study from StrategyR Highlights a $3.5 Billion Global Market for Artificial Intelligence (AI) in Call Centers by 2026",
-      "excerpt": "Companies: 110 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica ... Zendesk and Others. Artificial intelligence is playing a vital role in ensuring transformation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kpvi.com/news/national_news/new-study-from-strategyr-highlights-a-3-5-billion-global-market-for-artificial-intelligence-ai/article_69e495b7-4b93-5866-b41a-af667a4a0c5f.html",
-      "originalUrl": "https://www.kpvi.com/news/national_news/new-study-from-strategyr-highlights-a-3-5-billion-global-market-for-artificial-intelligence-ai/article_69e495b7-4b93-5866-b41a-af667a4a0c5f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPVI",
-        "domain": "kpvi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-akridata-launches-worlds-first-edge-data-platform-for-data-centric-ai.md",
-      "title": "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI",
-      "excerpt": "Decentralized Software Accelerates Access to Relevant AI Data, Handles Ingest, Catalog, and Exploration of Complex AI Data, and Enables Traceable AI Across Industries",
-      "sourceUrl": null,
-      "webUrl": "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/",
-      "originalUrl": "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPLC",
-        "domain": "kplctv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

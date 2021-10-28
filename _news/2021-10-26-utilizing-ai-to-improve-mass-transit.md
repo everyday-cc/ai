@@ -78,15 +78,15 @@ related:
         isCached: true
   - title: "VA implements new artificial intelligence strategy to improve veteran care"
     excerpt: "The Department of Veterans Affairs implemented a new artificial intelligence strategy late September for the delivery of health care and benefits, and is set to serve as an ethical guideline for the use of AI technology throughout the department."
-    publishedDateTime: 2021-10-28T15:24:00Z
-    webUrl: "https://www.airforcetimes.com/veterans/2021/10/28/va-implements-new-artificial-intelligence-strategy-to-improve-veteran-care/"
+    publishedDateTime: 2021-10-28T15:29:00Z
+    webUrl: "https://www.armytimes.com/veterans/2021/10/28/va-implements-new-artificial-intelligence-strategy-to-improve-veteran-care/"
     type: article
     provider:
-      name: Air Force Times
-      domain: airforcetimes.com
+      name: Army Times
+      domain: armytimes.com
     quality: 35
     images:
-      - url: "https://www.airforcetimes.com/resizer/RblstTR9JH_e01ugPITkjDHmvao=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/5R2ICJLCOZFH5IJ6IM6WJHPEDE.jpg"
+      - url: "https://www.armytimes.com/resizer/RblstTR9JH_e01ugPITkjDHmvao=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/5R2ICJLCOZFH5IJ6IM6WJHPEDE.jpg"
         width: 1024
         height: 683
         isCached: true

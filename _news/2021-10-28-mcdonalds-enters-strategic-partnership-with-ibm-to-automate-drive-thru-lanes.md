@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partn
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
 type: article
 quality: 169
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "McDonald’s Partners With IBM to Replace Drive-Thru Employees With AI"
+    excerpt: "McDonald’s is partnering with IBM to implement artificial intelligence tech to take orders at its drive-thru lanes. “In my mind, IBM is the ideal partner for McDonald’s given their expertise in building AI-powered customer care solutions and voice recognition,"
+    publishedDateTime: 2021-10-28T16:55:00Z
+    webUrl: "https://futurism.com/the-byte/mcdonalds-ibm-replace-drive-thru-employees"
+    ampWebUrl: "https://futurism.com/mcdonalds-ibm-replace-drive-thru-employees/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mcdonalds-ibm-replace-drive-thru-employees/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2021/10/mcdonalds-ibm-replace-drive-thru-employees-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "McDonald’s is selling its automated ordering lab to IBM"
     excerpt: "The burger giant is selling its McD Tech Labs, created after its 2019 purchase of Apprente, as part of an agreement with the tech giant to"
     publishedDateTime: 2021-10-27T13:42:00Z

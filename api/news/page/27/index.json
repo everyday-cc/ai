@@ -2,6 +2,196 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-10-06-ubers-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-claims.md",
+      "title": "Uber's 'racist' facial recognition software is firing Black and Asian drivers, former driver claims",
+      "excerpt": "Uber is facing legal action for alleged indirect racial discrimination against a driver who claims he was sacked after facial recognition software used by the company failed to recognise him. In an employment tribunal claim filed this week,",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
+      "originalUrl": "https://www.euronews.com/next/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/06/13/14/64/1000x563_cmsv2_3a714556-0f52-5d73-a4d7-5352ed7a7c5c-6131464.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
+      "publishedDateTime": "2021-10-06T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-online-marketing-platform-market-is-booming-worldwide-with-marketo-google-dataxu-baidu.md",
+      "title": "Online Marketing Platform Market is Booming Worldwide with Marketo, Google, DataXu, BaiDu",
+      "excerpt": "While emphasizing the key driving and restraining forces for this ... The Major Players Covered in this Report: Marketo, Sizmek, Hubspot, BaiDu, Facebook, Tencent, Twitter, Google, DataXu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/online-marketing-platform-market-is-booming-worldwide-with-marketo-google-dataxu-baidu",
+      "originalUrl": "https://www.digitaljournal.com/pr/online-marketing-platform-market-is-booming-worldwide-with-marketo-google-dataxu-baidu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/DDD-4-1-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-will-the-cloud-eat-your-ai.md",
+      "title": "Will the cloud eat your AI?",
+      "excerpt": "Commentary: The big cloud providers have a lot going for them when it comes to artificial intelligence. Does that mean these cloud providers are the only game in town?",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/will-the-cloud-eat-your-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/will-the-cloud-eat-your-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/19/0961cf8c-af8d-49c8-abd3-70ac81844a82/resize/1200x/94764ed0447c35fbd622da0fed1ec8b9/factory-ai.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/will-the-cloud-eat-your-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/will-the-cloud-eat-your-ai/",
+      "publishedDateTime": "2021-10-06T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk.md",
+      "title": "Here’s How Artifcial Intelligence Can Help Predict Breast Cancer Risk",
+      "excerpt": "Researchers from MIT say they have developed a new AI algorithms which can better predict breast cancer risk based on radiology images",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/10/06/heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/10/06/heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614cb5f80cb8203307e03218%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/10/06/heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/10/06/heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk/amp/",
+      "publishedDateTime": "2021-10-06T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-content-marketing-ai-and-machine-learning-have-arrived.md",
       "title": "Content Marketing A.I. And Machine Learning Have Arrived",
       "excerpt": "For the past five years, we have been paying attention to content and active engagement. Well, just like the others, it’s not something you “want to have” – it is very much a “need to have.” Therefore,",
@@ -978,195 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-tata-power-ropes-in-ai-firm-bluwave-ai.md",
-      "title": "Tata Power ropes in AI firm BluWave-ai",
-      "excerpt": "Tata Power on Wednesday announced that it has roped in renewable energy AI (artificial intelligence) company BluWave-ai. \"Tata Power, India’s largest integrated power utility, announced that it has signed a three-year commercial agreement with BluWave-ai,",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
-      "originalUrl": "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
-      "publishedDateTime": "2021-10-06T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-wayve-the-lidar-free-self-driving-startup-raises-136m-from-ocado.md",
-      "title": "Wayve, the Lidar-free self-driving startup, raises $13.6M from Ocado",
-      "excerpt": "Wayve, a U.K.-based self-driving startup that is notable for its use of deep learning and cameras rather than more-costly Lidar and other sensors to guide vehicles, is gearing up for its next stage of development with a strategic backer in its pocket.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/wayve-tech.jpg?w=1024",
-          "width": 1024,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/",
-      "publishedDateTime": "2021-10-06T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-from-drug-design-to-distribution-this-is-how-robotics-ai-and-blockchain-transforms-pharma.md",
-      "title": "From Drug Design To Distribution: This Is How Robotics, A.I. and Blockchain Transforms Pharma",
-      "excerpt": "Exoskeletons to aid pharma factory workers. 3D printing to allow pharmacies to produce drugs on the spot. Blockchain technologies to help fight counterfeit drugs. These are just bits and pieces, but the entire process of the pharmaceutical supply chain will be affected by disruptive technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd",
-      "originalUrl": "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH7yBw6eCSWYA/article-cover_image-shrink_720_1280/0/1633506465376?e=1639008000&v=beta&t=_U-6bUqcs-f9bJe726tT0G7pyblRADpeKHyj0nIGonc",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022.md",
-      "title": "AI in Fintech Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022",
-      "excerpt": "Japan, Japan, Wed, 06 Oct 2021 06:13:30 / Comserve Inc. / -- The market for AI in Fintech is expected to grow from USD 1,337.7 million in 2017 to USD 7,305.6 million by 2022, at a Compound Annual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022-2021-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022-2021-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

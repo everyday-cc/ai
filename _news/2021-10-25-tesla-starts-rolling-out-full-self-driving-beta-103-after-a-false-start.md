@@ -63,6 +63,22 @@ related:
         width: 4032
         height: 3024
         isCached: true
+  - title: "Elon Musk announces Tesla Full Self-Driving Beta 10.4 update as rollout slows down"
+    excerpt: "Elon Musk has announced the upcoming release of Tesla’s Full Self-Driving Beta 10.4 update as Tesla slows down the rollout. Earlier this week, Tesla started rolling out Full Self-Driving Beta 10.3. The update came after a false start last weekend when Tesla pushed the update with some problems and ended up reverting back to 10."
+    publishedDateTime: 2021-10-28T16:30:00Z
+    webUrl: "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/"
+    ampWebUrl: "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 83
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk Says ‘Some Issues’ Have Forced Tesla to Pull Newest Full Self-Driving Beta"
     excerpt: "Although Musk didn't identify the issues that led to the rollback, some drivers said they experienced problems with Autopilot and Traffic Aware Cruise Control."
     publishedDateTime: 2021-10-25T07:17:00Z

@@ -166,15 +166,20 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets"
+  - title: "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ..."
-    publishedDateTime: 2021-10-28T13:35:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54329681-artificial-intelligence-ai-robots-market-worth-dollar-35-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+    publishedDateTime: 2021-10-28T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 29
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
+        width: 669
+        height: 229
+        isCached: true
 
 secured: "Q4E9bMYLNCVo/AUd43g4O8KXxYqVB8gcC54LOvmOFd/W1pXIfGI0o7jxJdd6vLyyiYxvyR3g4r+zECv48igv13e/PpjrNiySwQ6W0tROi6am7CSGw4zD1zcQjpq6lw/JF27B7D8dNr/4nmgUsG94T/rLFRcLH6Ac/90bGZR7NNx0oT7nj7nSN0bCuFC8K2q1fLvt7UAZltcQGo/B4Y8q5ciS9d0Z0S35uGR/DbW3bFIMLSeW/hzFkTT3WQwOEwSmc6jTo9OjdC1rx8nfu9OUlb3Ptrywx3aJaSlqdotDZMvI5VQnU+Y14OHccZU6PBAhwe2KsSqD9nzY+M6+rjSKwICQCwW2lgjx9C/Rd4FBiL7C24O6QWgxhAKUQAOvx4Uoy/RI0R5hudu3H4lRi3pAVXcbs+qBL6zf8FiYtmnZFSS135G5goUb2rvWm+mEdgw6ixgGOHfsF73m5RUMq1Zb4jSQDtLutYHI3GMNgH+LNAXh/U5kZOH32DN4KvnEMG1yJ1rGkJmBBhiIjwaQf1EtfQ==;XMlsW+6vZUoV2ODtZ1Y2VQ=="
 ---

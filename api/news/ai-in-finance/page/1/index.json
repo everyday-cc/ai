@@ -193,6 +193,40 @@
       ]
     },
     {
+      "path": "_news/2021-10-21-iron-mountain-wins-google-cloud-financial-services-customer-award.md",
+      "title": "Iron Mountain Wins Google Cloud Financial Services Customer Award",
+      "excerpt": "Iron Mountain Incorporated ® (NYSE:IRM), the global leader in innovative storage and information management services, today announced that it has received a Google Cloud Customer Award for its work with a large financial institution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/",
+      "originalUrl": "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-resistant-ai-scores-166m-for-its-anti-fraud-fintech-tools.md",
       "title": "Resistant AI scores $16.6M for its anti-fraud fintech tools",
       "excerpt": "Resistant AI, which uses artificial intelligence to help financial services companies combat fraud and financial crime — selling tools to protect credit risk scoring models, payment systems, customer onboarding and more — has closed $16.",
@@ -1298,49 +1332,6 @@
         "name": "Information Age",
         "domain": "information-age.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022.md",
-      "title": "AI in Fintech Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022",
-      "excerpt": "Japan, Japan, Wed, 06 Oct 2021 06:13:30 / Comserve Inc. / -- The market for AI in Fintech is expected to grow from USD 1,337.7 million in 2017 to USD 7,305.6 million by 2022, at a Compound Annual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022-2021-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022-2021-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

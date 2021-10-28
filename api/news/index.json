@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-28-how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate.md",
+      "title": "How TourRadar automates the translation process using Amazon EventBridge and Amazon Translate",
+      "excerpt": "This is a guest post written by Gergely Kadi, Senior Systems Engineer and Martin Petraschek-Stummer, Senior Data Engineer at TourRadar. TourRadar is a travel marketplace to connect people to life-enriching travel experiences. When it was launched, TourRadar only offered tours and content in English.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/23/ML-2804-IMG1.png",
+          "width": 931,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T09:51:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-living-with-robots-an-excellent-non-technical-overview-of-robotics.md",
       "title": "“Living With Robots” – An Excellent Non-Technical Overview Of Robotics",
       "excerpt": "This is a review of the third book sent to me recently by MIT Press, and the book is the best of the bunch. “Living With Robots,” by Ruth Aylett and Patricia A. Vargas is a good, non-technical book that discusses a number of issues with robots in human ...",
@@ -154,6 +207,57 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-att-and-h2oai-launch-co-developed-artificial-intelligence-feature-store-with-industry-first-capabilities.md",
+      "title": "AT&T and H2O.ai Launch Co-Developed Artificial Intelligence Feature Store with Industry-First Capabilities",
+      "excerpt": "Building features is time consuming work, and typically data scientists build features from scratch every time they start a new project. Data scientists and AI experts spend up to 80% of their ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/at-t-and-h2o-ai-launch-co-developed-artificial-intelligence-feature-store-with-industry-first-capabilities-1030910560",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/at-t-and-h2o-ai-launch-co-developed-artificial-intelligence-feature-store-with-industry-first-capabilities-1030910560",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1672090/AT_T_Logo.jpg",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -546,7 +650,7 @@
       "originalUrl": "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -980,6 +1084,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-27-scientists-are-working-on-an-ai-to-let-us-talk-to-whales.md",
+      "title": "Scientists Are Working on an AI to Let Us Talk to Whales",
+      "excerpt": "An interdisciplinary team of scientists have launched a project with the goal of decoding and potentially communicating with sperm whales.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/scientists-ai-whale-language",
+      "originalUrl": "https://futurism.com/the-byte/scientists-ai-whale-language",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/10/decode-whale-language-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/scientists-ai-whale-language/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/scientists-ai-whale-language/amp",
+      "publishedDateTime": "2021-10-27T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-robot-taxi-boats-take-to-the-water-in-amsterdam.md",
       "title": "Robot taxi boats take to the water in Amsterdam",
       "excerpt": "The self-driving boat, dubbed Roboat III, is the creation of MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the Senseable City Laboratory, and the Amsterdam Institute for Advanced Metropolitan Solutions.",
@@ -1070,160 +1217,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-unpacking-ai-and-key-drivers-for-modern-business-environments.md",
-      "title": "Unpacking AI And Key Drivers For Modern Business Environments",
-      "excerpt": "C-level business leaders such as chief information officers, chief technology officers and chief financial officers must strive to understand that. How quickly the adoption, efficiency and efficacy of these technologies work depends on the approach and blueprint that are developed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/amp/",
-      "publishedDateTime": "2021-10-27T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-adobes-project-strike-a-pose-uses-ai-to-pose-your-models-for-you.md",
-      "title": "Adobe’s Project Strike a Pose uses AI to pose your models for you",
-      "excerpt": "One of the highlights of Adobe’s annual MAX conference is its so-called ‘Sneaks’ session, where the company shows off some of its most cutting-edge research projects. Some of these make it into the mainline Creative Cloud apps and some simply remain cool demos.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/27/adobes-project-strike-a-pose-uses-ai-to-pose-your-models-for-you/",
-      "originalUrl": "https://techcrunch.com/2021/10/27/adobes-project-strike-a-pose-uses-ai-to-pose-your-models-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/snapshot_5.jpg?w=1024",
-          "width": 1024,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/27/adobes-project-strike-a-pose-uses-ai-to-pose-your-models-for-you/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/adobes-project-strike-a-pose-uses-ai-to-pose-your-models-for-you/amp/",
-      "publishedDateTime": "2021-10-27T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality.md",
-      "title": "This Automotive Company Revs Up Machine Learning To Turbocharge Engine Quality",
-      "excerpt": "With help from SAP, Mumbai-based MHEL replaced its outmoded physical engine testing with virtual testing – using artificial intelligence and machine learning while incorporating data from a variety of sources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61794ae90933a60c23050fb1%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/amp/",
-      "publishedDateTime": "2021-10-27T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

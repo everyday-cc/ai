@@ -2,6 +2,154 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-25-tesla-pulls-latest-full-self-driving-beta-less-than-a-day-after-release.md",
+      "title": "Tesla pulls latest Full Self-Driving beta less than a day after release",
+      "excerpt": "Tesla boss Elon Musk said on Sunday the automaker had pulled the latest version of its Full Self-Driving feature after discovering a number of issues with it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/",
+      "originalUrl": "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/tesla-fsd-demo.jpg",
+          "width": 1135,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp",
+      "publishedDateTime": "2021-10-25T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-artificial-intelligence-the-enemy-and-the-solution.md",
+      "title": "Artificial Intelligence: The Enemy and The Solution",
+      "excerpt": "How do we prevent AI from being used as a tool for cyberattacks? We need to come up with ways to keep AI under control and stop hackers from manipulating automated computer systems and cause them to take actions they were never intended to take.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/",
+      "originalUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/10/artificial-intelligence-the-enemy-and-the-solution_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/",
+      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/",
+      "publishedDateTime": "2021-10-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches.md",
+      "title": "Four Phases Of Analytics Evolution: From Spreadsheets To AI Workbenches",
+      "excerpt": "Four phases of growth in analytics tech. getty. Many years ago, I went looking for some “desktop AI”—artificial intelligence that would allow me to tease out trends in data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/",
+      "originalUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174516510646884d19ee044%2F0x0.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/",
+      "publishedDateTime": "2021-10-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-introduce-robotics-ai-in-curriculum.md",
       "title": "Introduce robotics, AI in curriculum",
       "excerpt": "Our annual survey of CXOs and decision makers has revealed that as we emerge from the current crisis, optimism with regard to AI has gone up significantly from 72 percent to 92 percent, and the rate of AI adoption has increased from 62 percent to 70 percent.",
@@ -1039,161 +1187,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-mailchimp-employs-ai-to-boost-email-marketing-campaigns.md",
-      "title": "Mailchimp employs AI to boost email marketing campaigns",
-      "excerpt": "Content Optimizer is not Mailchimp's first foray into using AI for content marketing, but it might be its most impactful effort in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco",
-      "originalUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1279753951-e1634580409297.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco&amp",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco&amp",
-      "publishedDateTime": "2021-10-22T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-restaurants-prep-for-long-term-labor-crunch-by-turning-to-robots-to-work-the-fryer-shuttle-food-to-tables.md",
-      "title": "Restaurants prep for long-term labor crunch by turning to robots to work the fryer, shuttle food to tables",
-      "excerpt": "Restaurants that are struggling to fill jobs are beginning to turn to robotic solutions to ease staffing challenges and to speed up operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106964441-1634924133556-106964441-1634903029090Team_Member_Next_to_Flippy_ROAR_at_the_Fryer_2.JPG?v=1634924157",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "publishedDateTime": "2021-10-22T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws.md",
-      "title": "Improve your data science workflow with a multi-branch training MLOps pipeline using AWS",
-      "excerpt": "In this post, you will learn how to create a multi-branch training MLOps continuous integration and continuous delivery (CI/CD) pipeline using AWS CodePipeline and AWS CodeCommit, in addition to Jenkins and GitHub. I discuss the concept of experiment branches, where data scientists can work in parallel",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/19/ML-5217-image001.jpg",
-          "width": 622,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T11:56:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

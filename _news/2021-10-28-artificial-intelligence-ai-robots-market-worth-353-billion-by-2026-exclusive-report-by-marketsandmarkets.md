@@ -1,22 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets"
+title: "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
 excerpt: "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ..."
-publishedDateTime: 2021-10-28T13:35:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54329681-artificial-intelligence-ai-robots-market-worth-dollar-35-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54329681-artificial-intelligence-ai-robots-market-worth-dollar-35-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+publishedDateTime: 2021-10-28T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html"
 type: article
-quality: 29
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
+    width: 669
+    height: 229
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) in Marketing"
@@ -174,6 +179,6 @@ related:
         height: 470
         isCached: true
 
-secured: "KVt2DnMa1jxp1Bqgk9YIRPO7IwLQaq996DWqi04VB25YOMsGI8Ku2UclROURm0xO0f1iKLKomq1X42BIdNtzgR2+zNLVwRxt7oR57aIynNN4ZfjSodYjnHqhpjG3MjphGPH0izpBZX8bWhjV16/h/73ReTwJiFL1ScFJxkJFnX+4bEBYuhofssSFg8yb//+4tFi/HAN+ebzgKJ8//fH1RKSvhzF/6ym7qeLw7tFPKjo2BC2OIe3yUY4U3zlhYXQcMD2FvDOezlGmUr1+iQ65nF5zhvArvQ9qaTzzI6Khf7oat0DVR0bV3szTJbwY0fvIsvx6stz3I8StM81GURjDypfeCR4Q+raYitAyh+lkbxU=;DsduV+Of9hiBovGy6zWR7Q=="
+secured: "OyEKlTIF8zfzGuJx6hb3fi99FMgCXXbGozZyFBFUpyCe15+uya/56KmiIeK+uYIr1BoqO8lsGquZLxlo19Is8X4wf5tGx1O26KCJu8ukk4kV5D4k2loqokYjzbjYQtddaaOrFnok/nT+1/bJKAOV8zzV2xv1KNJXeqkMDskbTLbsVtLRX+/ATPtVGiuHZotc3RoIpaOOKf823WERYagmum8uAR+MsV2JQ3/JDZ5wutQsaljDmJSY/ZlblkMzSJey/Qv4e/XzzASfBbPDPuiS46anCYCL4r8CMdBcxCjkZGMNss6/5OWVD+9Eobi90NOizm+vYwIfKZQJ38Q2TXzAcpVR6r8d0TN15ilJ8OUzz/c=;pNXOdcOo5ii7FPYu/oj6Zg=="
 ---
 

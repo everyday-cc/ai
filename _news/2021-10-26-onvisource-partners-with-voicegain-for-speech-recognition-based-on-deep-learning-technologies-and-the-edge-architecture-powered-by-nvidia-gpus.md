@@ -2,27 +2,27 @@
 category: news
 title: "OnviSource partners with Voicegain for Speech Recognition based on Deep Learning technologies and the Edge Architecture powered by Nvidia GPUs"
 excerpt: "OnviSource, a leading provider of intelligent automation solutions for workforce optimization, contact center operation analytics and automation, customer experience management, and business process automation,"
-publishedDateTime: 2021-10-26T13:35:00Z
-originalUrl: "https://www.lelezard.com/en/news-20065826.html"
-webUrl: "https://www.lelezard.com/en/news-20065826.html"
+publishedDateTime: 2021-10-26T13:20:00Z
+originalUrl: "https://kdhnews.com/news/texas/onvisource-partners-with-voicegain-for-speech-recognition-based-on-deep-learning-technologies-and-the-edge/article_e7296e2f-3984-562b-a60f-2acf001ec59f.html"
+webUrl: "https://kdhnews.com/news/texas/onvisource-partners-with-voicegain-for-speech-recognition-based-on-deep-learning-technologies-and-the-edge/article_e7296e2f-3984-562b-a60f-2acf001ec59f.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Killeen Daily Herald
+  domain: kdhnews.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Machine Learning
+  - AI
+  - Natural Language Processing
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -52,6 +52,6 @@ related:
         height: 439
         isCached: true
 
-secured: "DpvEGnknUwqYjz6F+Fw9iUfu1FeMcNBwsaPZWy9yBEmrPkHOFAcVZwfmEsijwnaJggS1EsAJfNENhn+/tdn19Ju6mhx8KIzI1zL4tSSfVfOlbb+z8Ng2FkRQy0EClVpIU5cQmGqo3QKu8Cs8lDYb94eSGzg2ApAxW16wOni4y8hQNEI3rboMECLqdX1Zf+RVWTIoVScyX1NEJ9qFDdg5lfbMO6mS6olVQLb6unZrE4t6vcaOo2pUIVsS6s5g3ZFLvqiEGpChVNV5LOveyE8QdAD0uTh95j6ENoAH+V1s+G4c42EbuLTGpUog/WTOlBdJIqNBbenwA9P3+BUYhxaLsYK6vUeixyWIgdziz73UN5A=;HcxZBt3y64paTPVTQApUvw=="
+secured: "QPstj8y5Ub8fY3VrFdaN9XqOlaDB1j0YNBTG8Y5saqE3m/yV8aEdcfchaMHHGEXbgkqa/k5EMMhZTkcO56vxO79o9i+ebvdSMHUaFDwUfgOGiKsHo7G/e9gPDhReGedZcnW6TLhG3U+swDICaiEnOlRGhAFlBzpS+OuIyCqIq+Ra0VQaHEfvsAq/iRa9vjgFz7RuFFnJJYGLBJGSTTIeXAPMuwykIPSF0OQoCUihxS655zHr0aHVi1aFst3s56Ss1pmxXSnzDIHsoSDcGbeC+TP2KBRVY1R/JVG5O2ozhCKquswIEt7CYAj/mXwZ91GP74BFSKpWGO0Ce/isVUGruKcry5JRdjnhLJWHLL5x3P0=;5jZU0zQJU1A6SCfYb6ko1w=="
 ---
 

@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-26-ethics-guidance-issued-for-machine-learning-in-research.md",
+      "title": "Ethics guidance issued for machine learning in research",
+      "excerpt": "The UK Statistics Authority’s Centre for Applied Data Ethics has published ethics guidance focused on the use of machine learning for research and official statistics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/ethics_guidance_issued_for_machine_learning_in_research/id/5090982",
+      "originalUrl": "https://www.research-live.com/article/news/ethics_guidance_issued_for_machine_learning_in_research/id/5090982",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5090982&name=ethics-guidance-issued-for-machine-learning-in-research",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5090982&name=ethics-guidance-issued-for-machine-learning-in-research",
+      "publishedDateTime": "2021-10-26T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details.md",
+      "title": "IIT Delhi to offer MTech in Machine Intelligence and Data Science. Check details",
+      "excerpt": "IIT Delhi's Senate, the faculty body responsible for taking all major educational decisions, has approved the proposed programme titled ‘M Tech in Machine Intelligence and Data Science’ (MINDS)",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
+      "originalUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/10/26/600x338/185614e0-310a-11ec-901b-e0eb6ffe225f_1635240619247_1635240635839.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
+      "publishedDateTime": "2021-10-26T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-ai-powered-spend-management-platform-yokoy-secures-26m.md",
+      "title": "AI-powered spend management platform Yokoy secures $26M",
+      "excerpt": "Yokoy, a company developing spend management tools for enterprises, has raised $26 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
+      "originalUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
+      "publishedDateTime": "2021-10-26T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-byju-innovation-labs-bridging-the-teacher-student-gap-with-ai-ml.md",
       "title": "Byju Innovation Labs: Bridging the teacher-student gap with AI, ML",
       "excerpt": "With an aim to solve moonshot problems, Byju's lab initiative hopes to consistently innovate internally to solve education's biggest challenges with technology to avoid becoming obsolete",
@@ -1076,154 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-tesla-pulls-latest-full-self-driving-beta-less-than-a-day-after-release.md",
-      "title": "Tesla pulls latest Full Self-Driving beta less than a day after release",
-      "excerpt": "Tesla boss Elon Musk said on Sunday the automaker had pulled the latest version of its Full Self-Driving feature after discovering a number of issues with it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/",
-      "originalUrl": "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/tesla-fsd-demo.jpg",
-          "width": 1135,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp",
-      "publishedDateTime": "2021-10-25T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-artificial-intelligence-the-enemy-and-the-solution.md",
-      "title": "Artificial Intelligence: The Enemy and The Solution",
-      "excerpt": "How do we prevent AI from being used as a tool for cyberattacks? We need to come up with ways to keep AI under control and stop hackers from manipulating automated computer systems and cause them to take actions they were never intended to take.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/",
-      "originalUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/10/artificial-intelligence-the-enemy-and-the-solution_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/",
-      "publishedDateTime": "2021-10-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches.md",
-      "title": "Four Phases Of Analytics Evolution: From Spreadsheets To AI Workbenches",
-      "excerpt": "Four phases of growth in analytics tech. getty. Many years ago, I went looking for some “desktop AI”—artificial intelligence that would allow me to tease out trends in data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/",
-      "originalUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174516510646884d19ee044%2F0x0.jpg",
-          "width": 1200,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/",
-      "publishedDateTime": "2021-10-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

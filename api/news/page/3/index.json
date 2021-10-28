@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-27-ibm-announces-advances-and-new-collaborations-in-ai-powered-automation-5g-connectivity-and-security-at-mobile-world-congress-los-angeles.md",
+      "title": "IBM Announces Advances and New Collaborations in AI-Powered Automation, 5G Connectivity and Security at Mobile World Congress Los Angeles",
+      "excerpt": "Today IBM (NYSE: IBM) announced new collaborations and expanded partner relationships to further the company's capabilities in hybrid cloud, AI, network automation and s (MWC LA). These innovations highlight IBM's role in helping the telecommunications industry evolve as 5G and Edge Computing redefine how business and consumers connect.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-announces-advances-and-new-collaborations-in-ai-powered-automation-5g-connectivity-and-security-at-mobile-world-congress-los-angeles-1030901288",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-announces-advances-and-new-collaborations-in-ai-powered-automation-5g-connectivity-and-security-at-mobile-world-congress-los-angeles-1030901288",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds.md",
+      "title": "Infrastructure and data issues hamper companies adopting AI, study finds",
+      "excerpt": "More than three-quarters of companies say that they have AI models that never come into use. For 20% of companies, the numbers look even worse, with only 10% of their models making it into production.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/26/infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds/",
+      "originalUrl": "https://venturebeat.com/2021/10/26/infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/26/infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds/amp/",
+      "publishedDateTime": "2021-10-26T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine.md",
+      "title": "GATC Health Corp chooses Syndi Health to accelerate artificial intelligence training and advance personalized medicine",
+      "excerpt": "Syndi Health and GATC Health Corp today announced they have entered a development agreement, which could accelerate GATC Health's product development and publication release timelines by as much as 50 percent.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1669428/GATC_Logo.jpg",
+          "width": 603,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-how-machine-learning-speeds-up-power-bi-reports.md",
       "title": "How machine learning speeds up Power BI reports",
       "excerpt": "Machine learning delivers insights in Power BI reports—and it enables you to get a large amount of data into your reports to generate those insights more quickly.",
@@ -1060,144 +1215,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-ethics-guidance-issued-for-machine-learning-in-research.md",
-      "title": "Ethics guidance issued for machine learning in research",
-      "excerpt": "The UK Statistics Authority’s Centre for Applied Data Ethics has published ethics guidance focused on the use of machine learning for research and official statistics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.research-live.com/article/news/ethics_guidance_issued_for_machine_learning_in_research/id/5090982",
-      "originalUrl": "https://www.research-live.com/article/news/ethics_guidance_issued_for_machine_learning_in_research/id/5090982",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5090982&name=ethics-guidance-issued-for-machine-learning-in-research",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5090982&name=ethics-guidance-issued-for-machine-learning-in-research",
-      "publishedDateTime": "2021-10-26T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details.md",
-      "title": "IIT Delhi to offer MTech in Machine Intelligence and Data Science. Check details",
-      "excerpt": "IIT Delhi's Senate, the faculty body responsible for taking all major educational decisions, has approved the proposed programme titled ‘M Tech in Machine Intelligence and Data Science’ (MINDS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
-      "originalUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/10/26/600x338/185614e0-310a-11ec-901b-e0eb6ffe225f_1635240619247_1635240635839.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
-      "publishedDateTime": "2021-10-26T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-ai-powered-spend-management-platform-yokoy-secures-26m.md",
-      "title": "AI-powered spend management platform Yokoy secures $26M",
-      "excerpt": "Yokoy, a company developing spend management tools for enterprises, has raised $26 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
-      "originalUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
-      "publishedDateTime": "2021-10-26T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
