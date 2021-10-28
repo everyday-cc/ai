@@ -37,6 +37,17 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
+  - title: "Managed Software as a Service Market is Grabbing New opportunities by Top Key Players - Apcera, AWS, Cisco Systems, Docker"
+    excerpt: "id=654575 Top Key Players Included in Managed Software as a Service Industry Report: Apcera, AWS, Cisco Systems ... The market has taken over artificial intelligence, chatbot,s and machine education. The increase in the number of women living in casinos ..."
+    publishedDateTime: 2021-10-28T12:18:00Z
+    webUrl: "https://www.openpr.com/news/2446390/managed-software-as-a-service-market-is-grabbing-new"
+    ampWebUrl: "https://www.openpr.com/amp/2446390/managed-software-as-a-service-market-is-grabbing-new"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446390/managed-software-as-a-service-market-is-grabbing-new"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
 
 secured: "k0yeCtCa2s4jsa8CcUOjpF05RXLZM2DsXynGoOso0DwzJ2GeITPdpj524xEwPc+rFafOim3BNHAeCCmMLWb9muJd1sibDGQkqi3tO4+VeQ1ksIHxyf+GmWjA2Wn1KXKrRTN5qi+S+bO4riCN3T4qpysdyiN0hBIIDRp0NtLS99p2dyawai3/RlxQFnxog+RrXmzbYaFk+jqcds8lm0N2yB7jKdFEndA2GeHyby1H51wsIRnXnmam/VtcJHdVy7QlyD9iEIIueZrNOP3ItTqvEwvUlo7Uk6n7bGmRg3m/gJTGcM8/KkzlUux/jo316I4gZQvFoxMETNWNiXJ4cGld69PMmxw7qLjVZ8JdRHde1C4=;2qVFnZzBtp+8Ji89rkSqpg=="
 ---

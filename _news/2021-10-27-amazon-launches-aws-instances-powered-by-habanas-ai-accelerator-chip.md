@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-pow
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/"
 type: article
 quality: 123
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -33,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Releases Amazon EC2 DL1 Instances that Train Machine Learning Models"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, is releasing Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models. DL1 instances are powered by Gaudi accelerators from Habana Labs (an Intel company) to provide up to 40% better price performance for training machine learning models than the latest GPU-powered Amazon EC2 instances,"
+    publishedDateTime: 2021-10-28T13:46:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 70
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS Announces GA of Habana Labs-powered EC2 DL1 Instances"
     excerpt: "AWS has announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances designed for training machine learning models and powered by Gaudi accelerators from Habana Labs (an Intel company)."
     publishedDateTime: 2021-10-26T23:14:00Z

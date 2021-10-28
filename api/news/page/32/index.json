@@ -2,6 +2,326 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-10-03-mars-robots-take-cruise-control-during-solar-event.md",
+      "title": "Mars robots take cruise control during solar event",
+      "excerpt": "When the sun gets in between Mars and Earth, NASA experiences a communication gap with its robotic explorers at the red planet. The Mars solar conjunction takes place between October 2 and 16, and the event happens for a couple of weeks every two years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfsb.com/mars-robots-take-cruise-control-during-solar-event/article_8325b17a-3dee-5d74-8995-aa58539b0d05.html?block_id=994141",
+      "originalUrl": "https://www.wfsb.com/mars-robots-take-cruise-control-during-solar-event/article_8325b17a-3dee-5d74-8995-aa58539b0d05.html?block_id=994141",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/c/c5/cc518ea7-0092-5b7f-85a1-102fa84f0b76/61590b698bf34.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wfsb.com/mars-robots-take-cruise-control-during-solar-event/article_8325b17a-3dee-5d74-8995-aa58539b0d05.amp.html",
+      "cdnAmpWebUrl": "https://www-wfsb-com.cdn.ampproject.org/c/s/www.wfsb.com/mars-robots-take-cruise-control-during-solar-event/article_8325b17a-3dee-5d74-8995-aa58539b0d05.amp.html",
+      "publishedDateTime": "2021-10-02T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFSB",
+        "domain": "wfsb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-03-mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company.md",
+      "title": "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company",
+      "excerpt": "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://br.advfn.com/noticias/BW/2020/artigo/83750981",
+      "originalUrl": "https://br.advfn.com/noticias/BW/2020/artigo/83750981",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:MELI&p=5&t=52",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ADVFN",
+        "domain": "advfn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-03-tensorflow-1x-vs-tensorflow-2-behaviors-and-apis.md",
+      "title": "TensorFlow 1.x vs TensorFlow 2 - Behaviors and APIs",
+      "excerpt": "Under the hood, TensorFlow 2 follows a fundamentally different programming paradigm from TF1.x. This guide describes the fundamental differences between TF1.x and TF2 in terms of behaviors and the APIs, and how these all relate to your migration journey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=hu",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=hu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=hu",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-02T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-10-03-amazons-controversial-vision-for-the-future-of-your-home-security.md",
+      "title": "Amazon's controversial vision for the future of your home security",
+      "excerpt": "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "originalUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-7cba5e0629bc8bec312c8080d57b8459-h-a9a0089212e086209aacfe9662e04615-1633212724.jpg?crop=1.00xw:0.752xh;0,0.188xh&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "publishedDateTime": "2021-10-02T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-03-fintech-50-evaluating-how-firstbank-strengthens-collaboration.md",
+      "title": "Fintech 5.0: Evaluating How FirstBank Strengthens Collaboration",
+      "excerpt": "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: “If I have seen further (than others), it is by standing on the shoulders of giants.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/",
+      "originalUrl": "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/www.herald.ng/wp-content/uploads/2021/10/FirstBank-HQ-image-scaled.jpg?fit=1024%2C683&ssl=1",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/",
+      "cdnAmpWebUrl": "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/",
+      "publishedDateTime": "2021-10-02T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "herald.ng",
+        "domain": "herald.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-03-worse-than-nukes-an-autonomous-robot-may-have-already-killed-people.md",
+      "title": "Worse than nukes? An autonomous robot may have already killed people",
+      "excerpt": "Autonomous weapons will undermine humanity’s final stopgap against war crimes and atrocities: the international laws of war.",
+      "sourceUrl": null,
+      "webUrl": "https://scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
+      "originalUrl": "https://scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/164618-kybyqusbld-1633010600.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
+      "publishedDateTime": "2021-10-02T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-02-iphone-14-rumors-release-date-price-camera-specs-and-will-it-finally-go-notchless.md",
+      "title": "iPhone 14 rumors: Release date, price, camera specs and will it finally go notchless?",
+      "excerpt": "We don't know much yet about the iPhone 14's release date, price, or other specs and features. The biggest rumors so far ... Sometimes Apple will stagger release dates for specific models ...",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/inside/apple-car",
+      "originalUrl": "https://www.cnet.com/tech/mobile/iphone-14-rumors-release-date-price-camera-specs-and-will-it-finally-go-notchless/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/product_pages/87-hero.jpg",
+          "width": 890,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-02T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-02-mars-robots-take-cruise-control-during-solar-event.md",
       "title": "Mars robots take cruise control during solar event",
       "excerpt": "When the sun gets in between Mars and Earth, NASA experiences a communication gap with its robotic explorers at the red planet. The Mars solar conjunction takes place between October 2 and 16, and the event happens for a couple of weeks every two years.",
@@ -810,359 +1130,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-al-gore-puts-600m-into-uk-green-energy-tech-startup-octopus-energy-group.md",
-      "title": "Al Gore puts $600M into UK Green energy-tech startup Octopus Energy Group",
-      "excerpt": "Former Vice President Al Gore has invested $600 million of equity into UK energy startup Octopus Energy Group via his Generation Investment Management vehicle, taking a stake of approximately 13% in the business.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/01/al-gore-puts-600m-into-uk-green-energy-tech-startup-octopus-energy-group/",
-      "originalUrl": "https://techcrunch.com/2021/10/01/al-gore-puts-600m-into-uk-green-energy-tech-startup-octopus-energy-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Octopus-Energy-Founders.jpg?w=700",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/01/al-gore-puts-600m-into-uk-green-energy-tech-startup-octopus-energy-group/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/01/al-gore-puts-600m-into-uk-green-energy-tech-startup-octopus-energy-group/amp/",
-      "publishedDateTime": "2021-10-01T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-an-army-pilot-just-re-invented-flight-training-for-the-digital-era.md",
-      "title": "An Army Pilot Just Re-Invented Flight Training for the Digital Era",
-      "excerpt": "Its video feeds a neural network that uses object recognition to read the indicators just as a human would. The network then deciphers how the pilot is performing. Pilots receive feedback through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/cio-briefing/2021/10/army-pilot-just-re-invented-flight-training-digital-era/185757/",
-      "originalUrl": "https://www.nextgov.com/cio-briefing/2021/10/army-pilot-just-re-invented-flight-training-digital-era/185757/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/09/30/2761965/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-ai-could-reduce-racial-disparities-in-healthcare.md",
-      "title": "AI Could Reduce Racial Disparities In Healthcare",
-      "excerpt": "What makes one AI tool shortchange Black patients while another produces more equitable treatment? The difference may boil down to one of the simplest rules of computer programming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32974509df6c340752fce0%2F0x0.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/amp/",
-      "publishedDateTime": "2021-10-01T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock.md",
-      "title": "Down 7% Over The Last Week, Is It Time To Buy Snowflake Stock?",
-      "excerpt": "Snowflake stock declined by roughly 7% over the last week (five trading days) compared to the S&P 500 which fell by around 1% over the same period. Although there hasn’t been any notable company-specific news from Snowflake over the last week,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605c4ec653d4ad7ead09bb0b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/amp/",
-      "publishedDateTime": "2021-10-01T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets.md",
-      "title": "Apple’s no-code Trinity AI platform handles complex spatial datasets",
-      "excerpt": "Apple is creating a name for itself in the low-code/no-code movement. Fusemachines CEO Sameer Maskey gave us his take on the new platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/",
-      "originalUrl": "https://venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/digitization-6402021_1920-e1632778146499.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/amp/",
-      "publishedDateTime": "2021-10-01T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-google-and-deepmind-face-lawsuit-over-deal-with-britains-national-health-service.md",
-      "title": "Google and DeepMind face lawsuit over deal with Britain’s National Health Service",
-      "excerpt": "DeepMind found itself in the spotlight in 2016 when the New Scientist reported that its collaboration with the U.K.'s National Health Service went beyond what was publicly announced. British law ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104485829-GettyImages-515689364.jpg?v=1633088344",
-          "width": 1024,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
-      "publishedDateTime": "2021-10-01T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-how-to-get-your-cloud-migration-strategy-right.md",
-      "title": "How To Get Your Cloud Migration Strategy Right",
-      "excerpt": "This transformational effort includes migrating workloads to Amazon Web Services, Microsoft Azure, and Google Cloud Platform, which may not have been historically deployed as cloud-ready applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/",
-      "originalUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615499ae3a419e32bc2c8594%2F0x0.jpg",
-          "width": 1200,
-          "height": 828,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/amp/",
-      "publishedDateTime": "2021-10-01T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

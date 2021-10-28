@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/how-does-alibaba-use-artificial-i
 webUrl: "https://www.analyticsinsight.net/how-does-alibaba-use-artificial-intelligence-and-machine-learning/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 900
     height: 500
     isCached: true
-
-related:
-  - title: "Practical benefits of using AI for more accurate forecasting"
-    excerpt: "Forecasting tools based on AI algorithms can predict the future with a higher degree of accuracy. This is usually achieved by machine learning, which continually analyzes past events and forecasts and uses the data to produce more accurate forecasts."
-    publishedDateTime: 2021-10-24T19:33:00Z
-    webUrl: "https://customerthink.com/practical-benefits-of-using-ai-for-more-accurate-forecasting/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/learn-1996846_1280-pixabay-innovation-ideas-analytics.jpg"
-        width: 1280
-        height: 748
-        isCached: true
 
 secured: "sMGhMkMNUAuO7Hx8i0tGISZgAkqJ4zimVG5YhEHQ2Z2uZJYQE3n3dxXGqLmnaGB9IYbIvacDTHVqRHnwVMb4OFDP4riXNOYGXmLL9odW3nFwGcFRg9q1yyrr3kMZ4uDSn199bGoya35Z3v+WnhNyq/ptxsHnV5rU3HgefO2LmM7i7GdgavuIkqn/njvBZPxFs4aEIIrLcCuMVBv8jsgfEAmyPn5edqPBK/+IyZOd9/1AorXSKvsDJxoTQE7MzxpHAjxoZkskAh78rHflh8iOP7vpHr7m4YsuLKnASs6NEgpgC1pZseiiyHDeeiEvAUbLSohlUufdCecdmQlAHXf3+QknIrx+J27eq48WaUkXWUu7HcwFOYNWhtcB9DjUdp0IURLpe8Q4MNdAu1obPFDlOWiUI+CeoEz6PbFT2hFqfAUqKRuWPzkxMhZkmn18NnnecS5tAwpp+LWkegk/jGuUfkfu/Aa57WKtItBXycSuBH3enJJXIbVjbcCxKUwAG8B+RoaGhosXBbfY5Ois5IO+XQ==;0UMrnyK1VtR0tBkH9I8ojg=="
 ---

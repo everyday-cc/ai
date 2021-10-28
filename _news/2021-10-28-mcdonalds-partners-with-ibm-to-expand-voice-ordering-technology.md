@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "McDonald's enters strategic partnership with IBM to automate drive-thru lanes"
+    excerpt: "McDonald's has entered a strategic partnership with IBM to help the fast-food chain automate its drive-thru lanes."
+    publishedDateTime: 2021-10-27T20:16:00Z
+    webUrl: "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 169
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106891207-1622645077770-gettyimages-1133268648-MCDONALDS_TECH.jpeg?v=1622645106"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "McDonald’s is selling its automated ordering lab to IBM"
     excerpt: "The burger giant is selling its McD Tech Labs, created after its 2019 purchase of Apprente, as part of an agreement with the tech giant to"
     publishedDateTime: 2021-10-27T13:42:00Z

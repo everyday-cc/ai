@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/practical-benefits-of-using-ai-for-more-
 webUrl: "https://customerthink.com/practical-benefits-of-using-ai-for-more-accurate-forecasting/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "These ways artificial intelligence is benefitting Alibaba"
-    excerpt: "Alibaba is the world’s largest e-commerce marketplace. Alibaba also has seven research labs to focus on artificial intelligence, machine learning, natural language processing, and network security."
-    publishedDateTime: 2021-10-27T06:00:00Z
-    webUrl: "https://www.analyticsinsight.net/how-does-alibaba-use-artificial-intelligence-and-machine-learning/"
+  - title: "Using artificial intelligence for the employee benefits journey"
+    excerpt: "Many people feel uncomfortable with using artificial intelligence (AI), since it tends to ... want support and guidance tools to help them understand how to save for health care, retirement, and emergencies. But your team can barely handle all the employee ..."
+    publishedDateTime: 2021-10-28T13:28:00Z
+    webUrl: "https://www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/"
+    ampWebUrl: "https://www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/?amp=1"
+    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/?amp=1"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 61
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/How-Does-Alibaba-Use-Artificial-Intelligence-and-Machine-Learning.jpg"
-        width: 900
-        height: 500
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/09/Multiple-Paths-Article-202109161130.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "5a0HtuwmsiH2DRIf+48qmhwQJ+oZGzhESAf7mQSsx2vdB/MTf7VnkyoLQFTZtEyStRTvbfli/mc9lNYR5ySqvBwZUf/uzkQAPliMjuZuA2HWbO0vSbEsxqcTNaXJ+bggTs8r50sb+TXSLP9iiz1rHx4VhJ51+CxuTKKTodL8cGP6JrAi+e+kZcYabz74ucBI0jHUMudOOoI9tHyW+LezCPh8FNln0TIaKbdadFH0U0L5hlfNAatAf/rW/1mqX5YW2LQWBTN1jkdOC+ycIlTqXHaRE10zyt+kWhg5f0IsQJ6dgWWF9MH0Z7ky5xZRvsLTKpK0jWh/53M+OwlEv3HfJjqe7lCR5bKN0M5m7jOqNzQ=;h7BSPu9ndhvixws6+yYkuQ=="

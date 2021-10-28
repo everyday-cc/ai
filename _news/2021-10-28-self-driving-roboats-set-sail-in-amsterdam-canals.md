@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 791
         isCached: true
+  - title: "Self-Driving 'Roboats' Ready for Testing on Amsterdam's Canals"
+    excerpt: "Visitors to Amsterdam may soon spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash. It will be the electric-powered \"Roboat\","
+    publishedDateTime: 2021-10-27T14:30:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-10-27/self-driving-roboats-ready-for-testing-on-amsterdams-canals"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
   - title: "Self-driving \"Roboats\" tested on Amsterdam's canals"
     excerpt: "Soon visitors to Amsterdam may spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash."
     publishedDateTime: 2021-10-27T19:00:00Z

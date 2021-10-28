@@ -9,7 +9,7 @@ ampWebUrl: "https://restaurantbusinessonline.com/amp/financing/mcdonalds-selling
 cdnAmpWebUrl: "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/financing/mcdonalds-selling-its-automated-ordering-lab-ibm"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "McDonald's enters strategic partnership with IBM to automate drive-thru lanes"
+    excerpt: "McDonald's has entered a strategic partnership with IBM to help the fast-food chain automate its drive-thru lanes."
+    publishedDateTime: 2021-10-27T20:16:00Z
+    webUrl: "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 169
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106891207-1622645077770-gettyimages-1133268648-MCDONALDS_TECH.jpeg?v=1622645106"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "McDonald's Teams with IBM to Super-Size Drive-Thru Lane Tech"
     excerpt: "IBM’s acquisition of McD Tech Labs is a complement to its current work in AI and developing customer care solutions with IBM Watson, which is being used in multiple sectors to improve outcomes. Once the deal closes, the McD Tech Labs team will become ..."
     publishedDateTime: 2021-10-28T10:38:00Z

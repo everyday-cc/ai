@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-ex
 ampWebUrl: "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/"
 type: article
-quality: 104
-heat: 134
+quality: 204
+heat: 234
 published: true
 
 provider:
@@ -77,6 +77,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Iu/IClsfgeL/pTKBSFUqLokP/HkNAbLQM0bWK12iHAx90dMAHDlmoUHxg9FsWuaj3QmKkbThkXUS8FUav6Iifj2LDyCpxhDbqgeDCLgMJUDZCWFPSgg0hwUd+m1wvXXKbIHj2mAxxWYMoU1DMoLeXeNIxKo4XDGqMM9e1fSHnN9/+BP6abLO2h0CtvcLZAAoOURu0qHW79XvZQTaFCZy/mdEpGo6oAap+krLLJ1frTxmFPivl/CG1V4kEhHEcSzltd3k08tI/7e3c7wzTRQNR/RneGBftQoNzTh9IoSQ83Vy+TT7cBoV2hsYeoayKR4DePYfZxya3rMJMLrx2xpapvz7/5EIyVKaQmlaQKhfplu0f6GT/7xvtpU3bm42b07zWHbOawR9vVZZR87ocr9ceAiIWRsaJ0A1DKGK4lgZsaFMownWGJ+u3pgBFcBbow3W9cBoYhOVcHjawkuBpleFhkd2rUba3jrArs0f1zf0/0D+7G4uds0H41/qggnL8vZg4pgZ+fZPdiSRozu3OI/qow==;BFM6/6OTj4rmNLD6IGcf9w=="
+secured: "jMWlKUw53e9GAKNejzUsDNvSBicsix4e7n4dBtg5uyA3kWCefHgvGoRH+JNMNOsusBsQ9QdLhQ0SmHAtKO5E5GpNxsEEzIaxLOqy3cmuOuNU4QbJdHD8gg5J6yoegB1/+LYLp02FTtD7k3mdKeXXdt6mrYH5B3JTWoa3i82fRv0j8h35IXnjvBJKOwwnGNdrjusfRS2Tj9u4vTmdBYqAhsbgFiZL+ZanCEHrKbNYhBcG7LRJ7jlXi7x62LDRG7/V0mVSysQCs3k9lWvxzeusDqm1r7F4czOu16kk10FJFseygaHa1XXkpRyg3rEpgn38S8kUWgRpVt0YjHqHyCFSetCbG2fvA8o8kZgKdeBCfTZU7LqYNvU2HDgROLGYdNVRuda0yHQejV9Zph4w5jjfK3oIVpQtdtDqAP25EdjwRekbNwO8JK5CID2hOpV8qmEinh/af9DNuaTwIQ0cjjmg9sx8eUBq97Q5CU4iIhvi23HfwyMvbbkPkivpQVYr309+4kwywaMz0MWT3aE+J7J9Jrv/E7AC0g9Oh5ckGy1DmiE=;yZucgDJvOuVtaJ8Pzqgh3g=="
 ---
 

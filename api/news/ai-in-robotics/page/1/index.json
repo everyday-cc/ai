@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-28-using-artificial-intelligence-for-the-employee-benefits-journey.md",
+      "title": "Using artificial intelligence for the employee benefits journey",
+      "excerpt": "Many people feel uncomfortable with using artificial intelligence (AI), since it tends to ... want support and guidance tools to help them understand how to save for health care, retirement, and emergencies. But your team can barely handle all the employee ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/",
+      "originalUrl": "https://www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/09/Multiple-Paths-Article-202109161130.jpg",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/?amp=1",
+      "cdnAmpWebUrl": "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/?amp=1",
+      "publishedDateTime": "2021-10-28T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benefits Pro",
+        "domain": "benefitspro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-cairo-airport-security-detains-robot.md",
       "title": "Cairo airport security detains robot",
       "excerpt": "Da, upon arriving at Cairo airport for 10 days, before the British embassy intervened to resolve the issue and ensure their release.",
@@ -97,7 +141,7 @@
       "originalUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -521,7 +565,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -1332,49 +1376,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-artificial-intelligence-and-robotics-hub-launched-at-gitex-global.md",
-      "title": "‘Artificial Intelligence and Robotics Hub’ launched at Gitex Global",
-      "excerpt": "In support of the UAE Strategy for Artificial Intelligence (AI) 2031, the Ajman Free Zone has launched its “Artificial Intelligence and Robotics Hub” at GITEX Global 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global",
-      "originalUrl": "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/10/19/gitex-officials-750.ashx?h=450&w=750&hash=09DE765F8E66DE8B471B6F104469C294",
-          "width": 750,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gulf Today",
-        "domain": "gulftoday.ae",
-        "images": null,
         "publishers": null,
         "authors": null
       },

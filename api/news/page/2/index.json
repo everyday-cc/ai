@@ -2,6 +2,308 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-27-airlines-turn-to-facial-recognition-technology-ahead-of-holiday-rush.md",
+      "title": "Airlines turn to facial recognition technology ahead of holiday rush",
+      "excerpt": "The travel industry is gearing up for what could be its since the coronavirus pandemic began, and at least one U.S. airline is aiming to make things easier and faster.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460",
+      "originalUrl": "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/delta-airlines-biometric-boarding-01-ht-llr-211026_1635280415660_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460",
+      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460",
+      "publishedDateTime": "2021-10-27T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-google-tensor-gets-crushed-by-apple-a15-in-machine-learning-despite-being-a-ml-centric-chip.md",
+      "title": "Google Tensor gets crushed by Apple A15 in machine learning despite being a ML-centric chip",
+      "excerpt": "The Google Tensor processor is supposed be all about machine learning but it got crushed by the Apple A15 Bionic in the Geekbench ML app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/10/27/google-tensor-gets-crushed-by-apple-a15-in-machine-learning/",
+      "originalUrl": "https://www.gizmochina.com/2021/10/27/google-tensor-gets-crushed-by-apple-a15-in-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/10/google-tensor-featured.png",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital.md",
+      "title": "Microsoft Azure and Google Cloud results soar as the world goes digital",
+      "excerpt": "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services revenue. Similarly, Google Cloud revenues neared $5 billion thanks to a 45% jump,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/",
+      "originalUrl": "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital",
+      "publishedDateTime": "2021-10-27T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-one-drop-delivers-novel-ai-powered-solution-for-cardiovascular-disease-prevention.md",
+      "title": "One Drop Delivers Novel AI-Powered Solution For Cardiovascular Disease Prevention",
+      "excerpt": "One Drop, a leader in precision health solutions for people living with chronic conditions worldwide, today announced the release of a digital, AI-enabled cardiovascular disease (CVD) prevention module.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/one-drop-delivers-novel-ai-powered-solution-for-cardiovascular-disease-prevention-1030904494",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/one-drop-delivers-novel-ai-powered-solution-for-cardiovascular-disease-prevention-1030904494",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/996367/One_Drop_app_images.jpg",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts.md",
+      "title": "Computer vision platform Cogniac nabs $20M to bolster its customer acquisition efforts",
+      "excerpt": "Cogniac, a startup developing computer vision technology primarily for industrial and manufacturing companies, raised $20 million in capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/",
+      "originalUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/amp/",
+      "publishedDateTime": "2021-10-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights.md",
+      "title": "Top 10 Companies in Artificial Intelligence in Retail Market Industry 2021 By Fortune Business insights",
+      "excerpt": "The global\"Artificial Intelligence in Retail Market\"is expected to rise with an impressive CAGR and generate the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.md",
       "title": "Nvidia GeForce RTX 3070 vs. AMD Radeon RX 6800: Which GPU should you buy?",
       "excerpt": "We compare Nvidia's GeForce RTX 3070 and AMD's Radeon RX 6800 across a wide range of metrics. Performance matters—but the price may matter even more.",
@@ -295,7 +597,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -442,58 +744,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-aws-announces-general-availability-of-amazon-ec2-dl1-instances.md",
-      "title": "AWS Announces General Availability of Amazon EC2 DL1 Instances",
-      "excerpt": "For a more managed experience, customers can access DL1 instances through Amazon SageMaker, making it even easier and faster for developers and data scientists to build, train, and deploy machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-dl1-instances-2021-10-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-dl1-instances-2021-10-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -994,239 +1244,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-artificial-intelligence-models-predict-how-the-brain-processes-language.md",
-      "title": "Artificial Intelligence Models Predict How the Brain Processes Language",
-      "excerpt": "Neuroscientists find the internal workings of next-word prediction models resemble those of language-processing centers in the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/bilingualism-and-cognitive-function.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
-      "publishedDateTime": "2021-10-26T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers.md",
-      "title": "Why Many People Are Turning Toward Robots And AI To Help Support Their Mental Health And Careers",
-      "excerpt": "I interviewed Yvette Cameron, Oracle Cloud HCM senior vice-president, to learn more about how technology, artificial intelligence and robots can help workers with their mental health matters and careers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61781b53d924acaeb26729d0%2F0x0.jpg",
-          "width": 1087,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/amp/",
-      "publishedDateTime": "2021-10-26T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-qualcomm-unveils-latest-mobile-chips-for-mid-range-and-budget-devices.md",
-      "title": "Qualcomm unveils latest mobile chips for mid-range and budget devices",
-      "excerpt": "Qualcomm has added four new Snapdragon mobile chips to its portfolio for both 4G and 5G-capable handsets at varying budget ranges. The Snapdragon 778G Plus 5G, 695 5G, 480 Plus 5G, and 680 4G chips are now official,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
-      "originalUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1635255685/itpro/Qualcomm_Snapdragon_Refresh_Oct_2021.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
-      "publishedDateTime": "2021-10-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-teaching-robots-to-think-like-us-brain-cells-electrical-impulses-steer-robot-though-maze.md",
-      "title": "Teaching robots to think like us: Brain cells, electrical impulses steer robot though maze",
-      "excerpt": "Can intelligence be taught to robots? Advances in physical reservoir computing, a technology that makes sense of brain signals, could contribute to creating artificial intelligence machines that think like us.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.html",
-      "originalUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/teaching-robots-to-thi.jpg",
-          "width": 854,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.amp",
-      "publishedDateTime": "2021-10-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-pepsico-hiring-150-in-dallas-for-new-digital-hub-leveraging-ai-and-machine-learning.md",
-      "title": "PepsiCo hiring 150 in Dallas for new ‘digital hub’ leveraging AI and machine learning",
-      "excerpt": "PepsiCo’s chief strategy and transformation officer describes the new high-tech team as a first for legacy consumer packaged goods brands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beveragedaily.com/Article/2021/10/26/PepsiCo-s-new-Digital-Hubs-to-develop-AI-and-machine-learning?utm_source=copyright&utm_medium=OnSite&utm_campaign=copyright",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/pepsico-hiring-150-in-dallas-for-new-e2-80-98digital-hub-e2-80-99-leveraging-ai-and-machine-learning/ar-AAPYqqF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/beveragedaily.com/news/r-d/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning/12958789-1-eng-GB/PepsiCo-s-new-Digital-Hubs-to-develop-AI-and-machine-learning.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T07:38:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "beveragedaily.com/article/2021/10/26/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning?utm_source=copyright&utm_medium=onsite&utm_campaign=copyright",
-        "domain": "beveragedaily.com/article/2021/10/26/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning?utm_source=copyright&utm_medium=onsite&utm_campaign=copyright",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

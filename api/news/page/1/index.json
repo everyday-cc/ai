@@ -2,6 +2,145 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-28-artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-1783-billion-by-2027.md",
+      "title": "Artificial Intelligence in the Education Sector Market Size Forecasted to be Worth USD 17.83 Billion by 2027",
+      "excerpt": "The global artificial intelligence in the education sector market is expected to be valued at USD 17.83 billion by 2027 from USD 1.08 Billion in 2019, registering a CAGR of 43.8% through the forecast period,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/",
+      "originalUrl": "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/10/Artificial-Intelligence-in-the-Education.png",
+          "width": 2646,
+          "height": 1512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/amp/",
+      "publishedDateTime": "2021-10-28T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-using-artificial-intelligence-for-the-employee-benefits-journey.md",
+      "title": "Using artificial intelligence for the employee benefits journey",
+      "excerpt": "Many people feel uncomfortable with using artificial intelligence (AI), since it tends to ... want support and guidance tools to help them understand how to save for health care, retirement, and emergencies. But your team can barely handle all the employee ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/",
+      "originalUrl": "https://www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/09/Multiple-Paths-Article-202109161130.jpg",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/?amp=1",
+      "cdnAmpWebUrl": "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/?amp=1",
+      "publishedDateTime": "2021-10-28T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benefits Pro",
+        "domain": "benefitspro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-slashnext-which-uses-ai-to-combat-phishing-raises-26m.md",
+      "title": "SlashNext, which uses AI to combat phishing, raises $26M",
+      "excerpt": "“Our technology has logged more than 2.5 million [phishing] threats hiding in legitimate infrastructures like Amazon Web Services, Outlook, Sharepoint, and Microsoft Azure. [SlashNext’s AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
+      "originalUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/fly-d-9PivUW7l1m4-unsplash-e1631050913938.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
+      "publishedDateTime": "2021-10-28T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-legaltech-startup-vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives.md",
       "title": "Legaltech Startup Vakilsearch Raises $10 Mn To Accelerate Its AI And ML Initiatives",
       "excerpt": "“With this investment, we will leverage the strengths of Vakilsearch and accelerate our Artificial Intelligence (AI) and Machine ... India CEO Manish Modi. The startup had raised $2 Mn from ...",
@@ -42,6 +181,57 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-healthtech-startup-ziniai-raises-pre-series-a-funding-from-solarus-group.md",
+      "title": "Healthtech Startup Zini.ai Raises Pre-Series A Funding From Solarus Group",
+      "excerpt": "Zini.ai, an AI-powered multilingual virtual physician ... from patients to healthcare professionals. We believe that the startup is solving a large unmet need in the market and it has the potential to become a defining brand in the category it operates ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/393896",
+      "originalUrl": "https://www.entrepreneur.com/article/393896",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1635407197-DrRohitSharma-CEOandFounder-Grainpad-Ziniv1.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -138,6 +328,99 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.md",
+      "title": "McDonald's enters strategic partnership with IBM to automate drive-thru lanes",
+      "excerpt": "McDonald's has entered a strategic partnership with IBM to help the fast-food chain automate its drive-thru lanes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106891207-1622645077770-gettyimages-1133268648-MCDONALDS_TECH.jpeg?v=1622645106",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
+      "publishedDateTime": "2021-10-27T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-github-updates-copilot-ai-pair-programmer-and-codespaces-online-vs-code.md",
+      "title": "GitHub Updates Copilot 'AI Pair Programmer' and Codespaces (Online VS Code)",
+      "excerpt": "Microsoft-owned GitHub announced several updates to its sprawling development and code repository platform, including two fairly new offerings: GitHub Copilot, described as an 'AI pair programmer,' and GitHub Codespaces,",
+      "sourceUrl": null,
+      "webUrl": "https://copilot.github.com/",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2021/10/27/github-updates.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://copilot.github.com/social.png",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -281,57 +564,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-28-liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform.md",
-      "title": "LivePerson acquires VoiceBase and Tenfold for its conversational AI platform",
-      "excerpt": "LivePerson has acquired two startups, VoiceBase and Tenfold, to bolster its expanding conversational AI platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/",
-      "originalUrl": "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/04/rob_185_final.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/",
-      "publishedDateTime": "2021-10-27T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-27-intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu.md",
       "title": "Intel partners with Google to deploy ‘Mount Evans’ ASIC-based GPU",
       "excerpt": "Intel has announced that it partnered with Google to deploy the chipmaker's IPU across Google Cloud infrastructure.",
@@ -392,7 +624,7 @@
       "originalUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -549,7 +781,7 @@
       "originalUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -589,6 +821,48 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-liveperson-acquires-voicebase-and-tenfold-to-power-scaled-voice-ai-innovation.md",
+      "title": "LivePerson acquires VoiceBase and Tenfold to power scaled Voice AI innovation",
+      "excerpt": "NEW YORK, Oct. 27, 2021 /PRNewswire/ -- LivePerson, Inc. (Nasdaq: LPSN), a global leader in Conversational AI, today announced two major strategic acquisitions: VoiceBase ... CRM and voice service providers, Tenfold provides tremendous power in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/liveperson-acquires-voicebase-and-tenfold-to-power-scaled-voice-ai-innovation-301409875.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/liveperson-acquires-voicebase-and-tenfold-to-power-scaled-voice-ai-innovation-301409875.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/178033/liveperson_logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -933,308 +1207,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-airlines-turn-to-facial-recognition-technology-ahead-of-holiday-rush.md",
-      "title": "Airlines turn to facial recognition technology ahead of holiday rush",
-      "excerpt": "The travel industry is gearing up for what could be its since the coronavirus pandemic began, and at least one U.S. airline is aiming to make things easier and faster.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460",
-      "originalUrl": "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/GMA/delta-airlines-biometric-boarding-01-ht-llr-211026_1635280415660_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460",
-      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460",
-      "publishedDateTime": "2021-10-27T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-google-tensor-gets-crushed-by-apple-a15-in-machine-learning-despite-being-a-ml-centric-chip.md",
-      "title": "Google Tensor gets crushed by Apple A15 in machine learning despite being a ML-centric chip",
-      "excerpt": "The Google Tensor processor is supposed be all about machine learning but it got crushed by the Apple A15 Bionic in the Geekbench ML app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/10/27/google-tensor-gets-crushed-by-apple-a15-in-machine-learning/",
-      "originalUrl": "https://www.gizmochina.com/2021/10/27/google-tensor-gets-crushed-by-apple-a15-in-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/10/google-tensor-featured.png",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital.md",
-      "title": "Microsoft Azure and Google Cloud results soar as the world goes digital",
-      "excerpt": "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services revenue. Similarly, Google Cloud revenues neared $5 billion thanks to a 45% jump,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/",
-      "originalUrl": "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital",
-      "publishedDateTime": "2021-10-27T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-one-drop-delivers-novel-ai-powered-solution-for-cardiovascular-disease-prevention.md",
-      "title": "One Drop Delivers Novel AI-Powered Solution For Cardiovascular Disease Prevention",
-      "excerpt": "One Drop, a leader in precision health solutions for people living with chronic conditions worldwide, today announced the release of a digital, AI-enabled cardiovascular disease (CVD) prevention module.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/one-drop-delivers-novel-ai-powered-solution-for-cardiovascular-disease-prevention-1030904494",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/one-drop-delivers-novel-ai-powered-solution-for-cardiovascular-disease-prevention-1030904494",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/996367/One_Drop_app_images.jpg",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts.md",
-      "title": "Computer vision platform Cogniac nabs $20M to bolster its customer acquisition efforts",
-      "excerpt": "Cogniac, a startup developing computer vision technology primarily for industrial and manufacturing companies, raised $20 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/",
-      "originalUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/amp/",
-      "publishedDateTime": "2021-10-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights.md",
-      "title": "Top 10 Companies in Artificial Intelligence in Retail Market Industry 2021 By Fortune Business insights",
-      "excerpt": "The global\"Artificial Intelligence in Retail Market\"is expected to rise with an impressive CAGR and generate the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

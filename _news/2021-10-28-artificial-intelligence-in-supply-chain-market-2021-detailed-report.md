@@ -1,0 +1,24 @@
+---
+category: news
+title: "Artificial Intelligence in Supply Chain Market 2021 | Detailed Report"
+excerpt: "Global Artificial Intelligence in Supply Chain Market 2021-2027, has been prepared based on an in-depth market analysis with inputs from industry experts. The report covers the market landscape and its growth prospects in the coming years. The report ..."
+publishedDateTime: 2021-10-28T12:40:00Z
+originalUrl: "https://www.openpr.com/news/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed"
+webUrl: "https://www.openpr.com/news/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed"
+ampWebUrl: "https://www.openpr.com/amp/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed"
+type: article
+quality: 52
+heat: 52
+published: false
+
+provider:
+  name: openpr.com
+  domain: openpr.com
+
+topics:
+  - AI
+
+secured: "aLWLF5sOEXnY+lvEuKvykrRUqXdoVcKx3AYBDlEotYsSdGUbc9lobw11oq9QJPD0aPyR6PPiG1wg1CUmZIn+v47PuNfwQsbJ8lQ6XUFjMdj5PpekDP68KIybfW6HFRYPa9a8he75XDn4O9KPKSzbY3dSPuAS9gHZWx+Lq2ZdpujY6pMBBiEDqfjmeOP1ZLzbYnkkot4UbNTvAM7Rvv1VAb4RL1qwAm4NeUJHFOeauhM5oLUEB2Lr+V25u0ppkRz6WNADJCZWUhBM3HtbPl79+u1cs+6Qx1WVnpw3AVfazEHzhuiBjxlA89Z/r/y/NM4fW8lcbB7XAKnPIoNTOymBL5rth5Rv0oWOIB84ul8cA8k=;UaVq6UvhuQPLS7KUWBcA4Q=="
+---
+

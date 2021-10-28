@@ -124,6 +124,20 @@ related:
         width: 1920
         height: 664
         isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market Outlook 2022: Big Things are Happening"
+    excerpt: "and the changing investment structure of the Global Artificial Intelligence (AI) in Medical Market . Some of the key players profiled in the study are NVIDIA, Intel, IBM, Google, Microsoft, AWS ..."
+    publishedDateTime: 2021-10-28T10:40:00Z
+    webUrl: "https://menafn.com/1103063711/Artificial-Intelligence-AI-in-Medical-Market-Outlook-2022-Big-Things-are-Happening"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 47
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?596801"
+        width: 376
+        height: 249
+        isCached: true
   - title: "The Story Market: Using data & AI to bring international licensing up to speed"
     excerpt: "The Story Market brings vetted, high-quality, licensable journalism to the international market at scale. Launched in 2020 by co-Founders Doris Wiedemann and Lena Spath, the platform uses data and AI to match publications with relevant content."
     publishedDateTime: 2021-10-27T08:03:00Z
@@ -152,6 +166,15 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ..."
+    publishedDateTime: 2021-10-28T13:35:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54329681-artificial-intelligence-ai-robots-market-worth-dollar-35-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 29
 
 secured: "Q4E9bMYLNCVo/AUd43g4O8KXxYqVB8gcC54LOvmOFd/W1pXIfGI0o7jxJdd6vLyyiYxvyR3g4r+zECv48igv13e/PpjrNiySwQ6W0tROi6am7CSGw4zD1zcQjpq6lw/JF27B7D8dNr/4nmgUsG94T/rLFRcLH6Ac/90bGZR7NNx0oT7nj7nSN0bCuFC8K2q1fLvt7UAZltcQGo/B4Y8q5ciS9d0Z0S35uGR/DbW3bFIMLSeW/hzFkTT3WQwOEwSmc6jTo9OjdC1rx8nfu9OUlb3Ptrywx3aJaSlqdotDZMvI5VQnU+Y14OHccZU6PBAhwe2KsSqD9nzY+M6+rjSKwICQCwW2lgjx9C/Rd4FBiL7C24O6QWgxhAKUQAOvx4Uoy/RI0R5hudu3H4lRi3pAVXcbs+qBL6zf8FiYtmnZFSS135G5goUb2rvWm+mEdgw6ixgGOHfsF73m5RUMq1Zb4jSQDtLutYHI3GMNgH+LNAXh/U5kZOH32DN4KvnEMG1yJ1rGkJmBBhiIjwaQf1EtfQ==;XMlsW+6vZUoV2ODtZ1Y2VQ=="
 ---

@@ -137,6 +137,20 @@ related:
         width: 1920
         height: 664
         isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market Outlook 2022: Big Things are Happening"
+    excerpt: "and the changing investment structure of the Global Artificial Intelligence (AI) in Medical Market . Some of the key players profiled in the study are NVIDIA, Intel, IBM, Google, Microsoft, AWS ..."
+    publishedDateTime: 2021-10-28T10:40:00Z
+    webUrl: "https://menafn.com/1103063711/Artificial-Intelligence-AI-in-Medical-Market-Outlook-2022-Big-Things-are-Happening"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 47
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?596801"
+        width: 376
+        height: 249
+        isCached: true
   - title: "Artificial Intelligence (AI) Job Market is booming Globally with Top key players- MIT Lincoln Laboratory ,Walmart"
     excerpt: "Latest research on Global Artificial Intelligence (AI) Job Market report covers forecast and analysis on a worldwide, regional and country level. The study provides historical information of 2016-2021 together with a forecast from 2021 to 2027 supported by ..."
     publishedDateTime: 2021-10-28T11:20:00Z
@@ -151,6 +165,15 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ..."
+    publishedDateTime: 2021-10-28T13:35:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54329681-artificial-intelligence-ai-robots-market-worth-dollar-35-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 29
 
 secured: "MTZhiTUmqlDfaXB7BbaVQ80/33dSpc9SGrtOXU6sVjmfcUMv2xydzTdvnbC+5uraOlR2fWToUgbVmAQTsYjFYZYqiLoKW42sKaDgf+XSjMw+dssqAMN2vmpZkyqMbK49wZLxNQWE3LortzwZsQ6a1o613ifSPTmCPrOt6OBk+SFabaPf/CaoHXvhDMZ6UYveOQhHkRidj9ZWTnoReztVSzNggIePv0/lzAAFfVGsiDG+HK8DcikOmGc6ZUd//f8umAHzVI3ckfQQip8M+kd6ucvgIxif9CxVHvgCAf9nVM70vUNETPdi03Vbvrci5KOfxvFc6hAdcOUlefhDntH9nN0RvSMiwSuQhnm0OKB4A23qzxlIySkB6NUjKgy32drGqwc+fDE3KT4yE0K3cZIDyMSdqrRVmDxEvkS/DaGu0x4uFXNpMlJWra5PjMZ8IiS653v2rG1D0NE5BpLz1GLXG4yF7Azhpfw9hnAy7uW5JVBejBe5TWlY3iYTp8uaTpDt8DRSExo0YnpbhDAVsiDBTg==;6WqScS3bEbbjD4Edo9ccDg=="
 ---

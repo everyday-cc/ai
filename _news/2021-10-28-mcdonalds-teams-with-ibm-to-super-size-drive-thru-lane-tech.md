@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "McDonald's enters strategic partnership with IBM to automate drive-thru lanes"
+    excerpt: "McDonald's has entered a strategic partnership with IBM to help the fast-food chain automate its drive-thru lanes."
+    publishedDateTime: 2021-10-27T20:16:00Z
+    webUrl: "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 169
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106891207-1622645077770-gettyimages-1133268648-MCDONALDS_TECH.jpeg?v=1622645106"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "McDonald’s is selling its automated ordering lab to IBM"
     excerpt: "The burger giant is selling its McD Tech Labs, created after its 2019 purchase of Apprente, as part of an agreement with the tech giant to"
     publishedDateTime: 2021-10-27T13:42:00Z
@@ -58,6 +74,6 @@ related:
         height: 446
         isCached: true
 
-secured: "zfr4sRdWKNUlC066e9vi1hKaO2u3QxNxTrpDDD16+8Hs/OwKQmzyDqT9vbO5S/nqmii9S7aOW0wXzqCBpno7TK0OLEm9+nsQ/Zsm4IxpkwlkObVdIcKJCCIuhszYLu0NzUFCchzWeVzIlo4Ip16FdIOw0whV2nKM5EwtwQMwvBnxNfy4hT55QdAu/67m/VdmgUCs9xM1nSytZP8wL+S4G/M8cxhNb2xUjRJCFk6rOFG/z3Kkr2FEsFQBGcWjTkDuDmiU8+DemrpE/O9r1NGQRpTvhHOBiQU447lkNhBaNKlr+Q1qi9j6BrcE9fxyT1J2gkDa5/CwyIuNzdQ85m3dxKHK2Tw7JlWkyU7/hUPVFsw=;+MqiP9saAhLXeqaf7ls+BQ=="
+secured: "4RsuJVQmKygsBdWN18jUQnDINcIu4J8RFRo3AvVw2aBB/aHBZDe+xp7/gMJNL4tUz/TrUpvL/dpypsOJKEO7QfWILmyRth2CkeMZAE1+V60+q3L445ZbYVwNaL/uSBO/We1nmrw/fkzARva/bHvk0s32K9dRfGIm+DzsCwLsMeD2Ih8P5ny0RiBl14orNssTJPHT/cDM7zV+TKg3TT3+4Q21WclOcqYY3c3y7s8l7bGVW8nAm3EKtSPoXFQYEPd/ynCWFKJGBR6LDMZ5pFUhJOch/UrRzCZ0tqcNVD/dLAq2pqL9onxB/3kYFaQWFhHULTWWSg3u70mZuE3aM9TeJtc6fTzcvkZ23Z82b3h1aR+6LDtiKdKG3hCbqKhuk2O2zDuCG8HlSzWoRtq+VpZFSV8gqnMNQcfAidCb8i+LmVceHNAD/lApU+j4A16G+3/SV0jeWJRKSuXjM5AbT+3SAYNL8e/PlU+nhNep+6Z4Jr5ztzJUgUax5i3UaS2fdhcCXQ5K5PBmbPmkcpj4saPgFQ==;wtf/lv1tcpU8MiGrXNd65g=="
 ---
 

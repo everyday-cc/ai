@@ -558,6 +558,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-14-facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots.md",
+      "title": "Facebook's AI research could spur smarter AR glasses and robots",
+      "excerpt": "To make that future a reality, the social network needs its AI systems to see through ... memories,\" said Kristen Grauman, a lead research scientist at Facebook. The technology could eventually ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/nS4K0Pu_8GhRSvXfNnUMMzpRaXI=/1200x630/2021/10/13/d6346168-48f0-4cc8-80e1-78060b33e5c4/gettyimages-669913928.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots/",
+      "publishedDateTime": "2021-10-14T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-facebook-here-comes-the-ai-of-the-metaverse.md",
       "title": "Facebook: Here comes the AI of the Metaverse",
       "excerpt": "Facebook is has gathered thousands of hours of first-person video so that neural networks can be developed to operate more capably with data seen from a first-person point of view.",
@@ -1452,49 +1504,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-facebook-cto-mike-schroepfer-to-step-down-next-year.md",
-      "title": "Facebook CTO Mike Schroepfer to Step Down Next Year",
-      "excerpt": "and from helping us develop new technologies like AI and VR to operating our infrastructure and business services at global scale.” Bosworth created Facebook’s AR/VR organization, which was ...",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/2021/digital/news/facebook-cto-mike-schroepfer-resigns-1235071842/",
-      "originalUrl": "https://variety.com/2021/digital/news/facebook-cto-mike-schroepfer-resigns-1235071842/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://variety.com/wp-content/uploads/2021/09/Facebook-Mike-Schroepfer.jpg?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://variety.com/2021/digital/news/facebook-cto-mike-schroepfer-resigns-1235071842/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/digital/news/facebook-cto-mike-schroepfer-resigns-1235071842/amp/",
-      "publishedDateTime": "2021-09-22T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AWS Releases Amazon EC2 DL1 Instances that Train Machine Learning Models"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, is releasing Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models. DL1 instances are powered by Gaudi accelerators from Habana Labs (an Intel company) to provide up to 40% better price performance for training machine learning models than the latest GPU-powered Amazon EC2 instances,"
+    publishedDateTime: 2021-10-28T13:46:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 70
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4dba3Hd5igIBdpx8Q7IwBLFZl3/46qP2d2wr/ACxz122l354MaAAhBzGwjLdGJxU94nVYpzOVlAVHVuwQqZoQxAnkb9lLv9r9ZjVHldxdkCLZsLWweX/oA8jS3+V9jcyrt9kIggkxKTKEj5jd/b4wBUExx/1jUbz6ZnnDaNarzdN46s2WrUfgNk1xaXQqMdaTsBd5aFxM5hzuAhsri9OY0bWEH9H6flnW4HXGNl/t6CZkr1gfsFkpKi8Yz0dvBqH4yk992By9dElJ0tC7UH1UW7h/0QcVvqJmbHP90sg9TX4pbLoxTMh9RhD2OadyaNEhNtllvSyt1KI0XIZ773+JBuFu6SBPd26/LL9aw5HSAUvCo/atuKYqX7rT0Rit4ydleLlrIR4dAHWcMv1FjEQfq3MC38tj+rSyuMTHSbhypwQEswMxPBk5iieT+TJTUaHnC7spkIwdHqm5G73lX7KPd7sghWmQN6hLyqtlEOBNYCoZa00zk0g9RMzOvCxAORLTOp0qNihMCGOi3g5snImDw==;sv/iRZCzdaA8vsgQczNcxQ=="
 ---

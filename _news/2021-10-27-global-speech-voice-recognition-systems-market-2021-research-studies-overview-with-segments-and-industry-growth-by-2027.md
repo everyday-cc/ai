@@ -169,6 +169,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 33
+  - title: "Mobile Artificial Intelligence Market Key Players, Industry Demand, Overview And Supply Chain Analysis, Forecast To 2026"
+    excerpt: "The Mobile Artificial Intelligence Market report offers an in-depth assessment of market dynamics, the competitive landscape, segments, and regions in order to help readers to become familiar with the Mobile Artificial Intelligence market. It particularly ..."
+    publishedDateTime: 2021-10-28T10:24:00Z
+    webUrl: "https://www.openpr.com/news/2446027/mobile-artificial-intelligence-market-key-players-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2446027/mobile-artificial-intelligence-market-key-players-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446027/mobile-artificial-intelligence-market-key-players-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
   - title: "Lidar for Self-Driving Car Market Overview, Industry Top Manufactures, Market Size, Industry Growth Analysis and Forecast: 2027"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” “Lidar for Self-Driving Car Market” forecast gives a current review of the market size, including definitions, division,"
     publishedDateTime: 2021-10-26T08:59:00Z
@@ -241,6 +252,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
+  - title: "Machine Learning as a Service (MLaaS) Market latest Analysis, Challenges, Share, Growth Forecast By 2026"
+    excerpt: "United States/WA: The global Machine Learning as a Service (MLaaS) market is estimated to account for US$ 38,063.0million by 2027 This data in statistical form covers a wide range of Machine Learning as a Service (MLaaS) industry criteria and standards ..."
+    publishedDateTime: 2021-10-28T10:14:00Z
+    webUrl: "https://chipdesignmag.com/machine-learning-as-a-service-mlaas-market-latest-analysis-challenges-share-growth-forecast-by-2026/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 17
 
 secured: "8USUhNpx9qIWmg+hFmzF4lfTnns3jct+vy/YqpkVwxTzKL91CX2Tjgzu6NKLUI9nhtJ2lFcnxGfUh8naGac25ClmhEF8/ROv046xUkdACbJ7mn4BZEcdL6iYPyxzVejti7JE4mllA4iQA7wP/OwPj4yqIacBZpClTLYRk2WS7OGb3yakJ4AKfdKo5fBnYBK+hCp49uzQrLSxwVD/kedIPAP/IVmexM3uJ8L/uA+NJwgLTrQhTNRQKd2CpRzgzughboU5fr2Ez0go7hnnkbDJCOxa61Lobz4KqC36d1McFOtoo4LH4STQomD6MJ0BDZhxA2A4sqL4/PQvhCCAZTfDsln9B/fPiPkf4c5OY10AwjM=;797sdwxkLx5/e7ftVbW7sw=="
 ---
