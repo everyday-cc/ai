@@ -2,6 +2,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-09-25-good-tesla-drivers-might-be-next-to-get-full-self-driving-software.md",
+      "title": "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software",
+      "excerpt": "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
+      "originalUrl": "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
+      "publishedDateTime": "2021-09-25T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-ai-strategies-for-growth-workshop-in-collaboration-with-aws.md",
       "title": "AI strategies for growth workshop in collaboration with AWS",
       "excerpt": "Sharjah -Sharjah Research Technology and Innovation Park hosted a workshop on artificial intelligence (AI) and machine learning (ML), delivered by Amazon Web Services (AWS). The “AI Strategies for Growth” workshop, which took place on Sunday on the ...",
@@ -1142,57 +1185,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-ai-fairness-requires-fighting-bias-with-bias.md",
-      "title": "AI fairness requires fighting bias with bias",
-      "excerpt": "Only by understanding algorithmic bias and incorporating it correctly can we build the trust in AI that is so vital to its acceptance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/24/ai-fairness-requires-fighting-bias-with-bias/",
-      "originalUrl": "https://venturebeat.com/2021/09/24/ai-fairness-requires-fighting-bias-with-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1257729194-e1632430122603.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/24/ai-fairness-requires-fighting-bias-with-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/ai-fairness-requires-fighting-bias-with-bias/amp/",
-      "publishedDateTime": "2021-09-24T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -3,27 +3,27 @@ category: news
 title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models."
 publishedDateTime: 2021-10-26T20:26:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/aws-announces-general-availability-of-amazon-ec2-dl1-instances/article_df986541-eb81-59d5-ac99-7843f8afd24b.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/aws-announces-general-availability-of-amazon-ec2-dl1-instances/article_df986541-eb81-59d5-ac99-7843f8afd24b.html"
+originalUrl: "https://www.galvnews.com/news_ap/business/article_4484c447-9b20-5f03-b4e1-d3491c81b571.html?block_id=531919"
+webUrl: "https://www.galvnews.com/news_ap/business/article_4484c447-9b20-5f03-b4e1-d3491c81b571.html?block_id=531919"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
-    width: 640
-    height: 336
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png"
+    width: 1920
+    height: 1080
     isCached: true
 
-secured: "yq7I/VZvrQ5OtYFDy5c8c9+3+Bgibc3xs/yP/rsQ3p2bUDZQiySxOKR6Tb2W2bjjvVLz6Wr9kh20oqNPH1vAexGkxoL8KZUWyqCaNTY1YC0M4ltACerBeD+aVgQI/j1guMOek/kLotUqGygy2PnoLaMWnm1Dhr8+UbvXgtjTDy0Y63y7nW68rrMxkrSdwPW3Nyvj7eCcIATfDW4srIfDohR2U5ytmbqIUA9HOZM7zW7UV1nAQitd1US2gHHI+VseS1slRHlaacrtcmFic2o/Im2rfs7ls8xNJ+91bfVbr7ZZ+JwU7/XtAa8yZ75vHzibVPR8vQoQbzPRhOTvSmglyHIxJ6FTZckvlts0AX6Vtbk=;HxMiWNtrn5vYKr25OT8tpw=="
+secured: "MQ9A1toDzyeGTcLAmtkJwcSkHQqHYeyR8rUzU667HLYyFJQeRnxEBr86zRiiWAQjA5SzhLMNUQfvnts5/i3NuAOSa8xqGLpqcUmXQ2bLBaELiWeWIMtPtEQT2QtzTxrG8Ueib3FMd2hZdS4J/mUd8d13ohTlxhxpptN/FqkO1w+OuVKVAv/56qrBgUMlZv3op1aNuAokzJQSFZyXDpjeFd9uEX8kBDAOvD95fKIKnOOs+E1jyiQ2K0Kq+8WmZ3fRB/KGSlHaOWuh7Eqhi5FhNbFPTFfOsPyOQOHlDAgwS+ufnwcb6BDRZvUOQ9iWOun0wZytwvZ85GE7r1xS9tDNJU4DG5jVVWf2isi2n0wFM6Q=;a2Dea5ehnleLsQUTG+3e5w=="
 ---
 

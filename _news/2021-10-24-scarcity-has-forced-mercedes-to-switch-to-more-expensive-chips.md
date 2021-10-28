@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mercedes-Benz to upgrade to expensive chips to resolve shortage"
-    excerpt: "Daimler's Mercedes-Benz together with Nvidia Corp will develop semiconductors for sophisticated features..Mercedes-Benz registered sales slump of 21 per cent from July to September in the third quarter."
-    publishedDateTime: 2021-10-23T08:50:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage-41634964481943.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage/amp-41634964481943.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage/amp-41634964481943.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/10/23/600x338/2020-01-11T070253Z_1_LYNXNPEG0A06E_RTROPTP_4_BELGIUM-CAR_1578977810523_1634964680135.JPG"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Mercedes is migrating to more expensive chips to plug shortage"
     excerpt: "Mercedes took the biggest hit among major U.S. luxury carmakers in the third quarter, with U.S. sales falling 21% from July through September compared to 2020"
     publishedDateTime: 2021-10-23T10:31:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/auto-news/mercedes-is-migrating-to-more-exp
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/mercedes-is-migrating-to-more-expensive-chips-to-plug-shortage/amp-11634984544952.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mercedes-Benz to upgrade to expensive chips to resolve shortage"
-    excerpt: "Daimler's Mercedes-Benz together with Nvidia Corp will develop semiconductors for sophisticated features..Mercedes-Benz registered sales slump of 21 per cent from July to September in the third quarter."
-    publishedDateTime: 2021-10-23T08:50:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage-41634964481943.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage/amp-41634964481943.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage/amp-41634964481943.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/10/23/600x338/2020-01-11T070253Z_1_LYNXNPEG0A06E_RTROPTP_4_BELGIUM-CAR_1578977810523_1634964680135.JPG"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Scarcity has forced Mercedes to switch to more expensive chips"
     excerpt: "These are the simplest components at the lowest price.”– said Mr. Kallenius during an interview, which he gave at the headquarters of Mercedes in the American Atlanta. The biggest problems were low-cost chips like those used to open and close car doors."
     publishedDateTime: 2021-10-24T12:01:00Z
