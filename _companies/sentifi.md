@@ -2,7 +2,7 @@
 name: "Sentifi"
 overview: "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia."
 type: "profile"
-heat: 31
+heat: 57
 
 website: https://parashift.io/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sentifi"
   url: "https://twitter.com/sentifi"
-  followers: 4797
+  followers: 4798
 
 size: 51-200 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "jtlvSoXJnq56q4/3lB+43I+2hwTNdt6c8lBjwvKG5mYfpkH2tFzjMIwI8iBO1S5NvdYbQvambAL/kz8dHS5tD0j4RUt0RUnCdL9l3gFL07h/QspjMl2eO7vSAgY+/9ZWBMVh6viE1n6YJGqaTRdJ2a536kScTKIBulOIDOMeJAGuGaD9XhqBY+EdXx2/LYURR0ipMFBiCjEH+qlFJVrIzMDB69KGuoX5TagRG+eSotWTZMboh9m6zH2KD4BwkjZLDdaa8l8HXddG6hcrdF02GlDz73oQTcBIeJnEB0R1iR2apiVpjHmK+i99ZL1qX6wI0esjyTXaRd2XH1psRRJ1S8Fue8iTaVKKo0gNHptddlLEom6DkUxphYIINsLHdLloFp9i9h/WHHodDX8UU0CF09TX8nNAw+LeuNFoI5dbMNI=;9Rm+nKvUBQkrizILWeOPyg=="
+secured: "khSrfpzLDano0K2nNzBiLIaT5vzGmeS/CFiCJaIHiaCKuxljAUDNGS4HbtT5Pnb+Y8CJmGI9s8rKqqW5dTfFs+uWnWfJ3lKTV+Gy6zrnxehjSp4BfCOmU5l3gfHJv9MbYT3iCh/YRA3Q7owgyygDBh28s3TlogXqNyHQmaCNoBpDn1NcER9gvIUVguyFjcWdkIC0FIJ0fF1fFARCQkzjBuaqxbvJZb9jjS5Kw25vZn21Zz3i0S13Cg87mjmjdgA+UB+kMqwE0DAfjkX9Mw46W0yvTSi4f5tkc8C7fUMa+7JRyE2nQ3Ef4GaBYphdZ0DHO1hVFdgar33tGCeL/7iopTtNHOGETtMMJbcahdGgUohiFdXi/YCb3ZbM/eKIbbDp94kWmE5OPNvAM0iUGjhiaV5ZaWSbXhQ+uO3Pcvoas34=;wwhfeVYwghjgf6x/tic3mA=="
 ---
 

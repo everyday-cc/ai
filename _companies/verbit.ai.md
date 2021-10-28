@@ -2,7 +2,7 @@
 name: "Verbit"
 overview: "We're using smart AI technology to disrupt transcription and captioning with automation and speed."
 type: "profile"
-heat: 78
+heat: 64
 
 website: https://verbit.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "verbit_"
   url: "https://twitter.com/verbit_"
-  followers: 1140
+  followers: 1141
 
 size: 51-200 employees
 locations:
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=C8AG8eTC8D0"
 
-secured: "TU/56EVUqdxUxNYwXm4k79g9C92Ns6MFi1WOXJLaRp3xQhogK8mUFpGjzvVykzlyCBmL44/HTzA0aqKrEslFx7iJCLHAaCxUxG+TetB3w9o1g4INVk8Gxw0Ekv+auZRWf+yUlf3ahXnP62eiyybxqydV97D7zpqKRV6yTl9VoJmbSP/pE6n5hD9GHsBR1vjKbQ2Ndo7LYHkjydJN5x/E8P2jEnk99YY4PK5a7NKUlx9H4u+2yxbRy+LH5sOTL3EkZkv1TWfK+lLBZMl+U7PJgIGWKOeEyRNi6eV7ohNKJwtDGDPAzbktUZSoWhbfCopAGcDV6GQRXzgpu477GTzgw4JD53iWUxfGXhiOz6O66iUBPdAmM/sy5Yhl1w1xs2YVyRyss9gP96yBJYqequzvOcGrHqz3zDJvMaY2IUqPvI0=;LxsiVYo24a49+Se24f2Ivg=="
+secured: "DjvKfn8+P8bEHNlxxognnJg9KG0IjwwlorMyA3DNTjolyb9J/PiCi1c9Kps4XMHG1A1XzutYMxo/YtRiXQwUNp1gs/GsS+B6uAQ9NUdY+4cMjo2xbZ1PDG9zqqHEe7z4T6h+L5o5hb5koi2gkgkVTPf7PGAxuDc7cONuuZX6gR1HOhmKRAsTqCIeUqVMbxS21nicPWfTGDrqNv4VaBOxECfTUG1dgUblCvGtQJCwaOoaWiRWT/bBo5TfjX50Cq2uzp3ZBusss73p4VaM4MBCqXFnjybrzzAy+Zhtih+irvkI7GAfldaIueR66XEnZTH5kyMrccnE48Bk6O+KFBbCUjjhktAYJKQcYNMKpPfaZiTGwoOAc/gAZ1OD7TCN4nxZ6EXbcNVHRNpEbwxWu/nXy4ki9UEkmQLFoD+mOWVigMA=;yu1PgZ7qw8m7lx3ssyEFeg=="
 ---
 
