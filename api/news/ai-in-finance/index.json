@@ -89,6 +89,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-25-artificial-intelligence-ai-in-banking.md",
+      "title": "Artificial Intelligence (AI) in Banking",
+      "excerpt": "Artificial intelligence (AI) is one of the most disruptive technologies today, and the banking industry is a prime example of its potential. AI in banking is a relatively new concept, but it’s already making banks safer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-banking/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2020/06/campaign-creators-pypeCEaJeZY-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-24T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-ai-in-fintech-market-2021-segmented-by-application-and-geography-trends-growth-and-forecasts-to-2024.md",
       "title": "AI in Fintech Market 2021 Segmented by Application and Geography Trends, Growth and Forecasts to 2024",
       "excerpt": "AI in Fintech Market ”report give an insightful analysis of the market development variables and drivers, the geographies have been exclusively examined in terms of the parameters such as production,",
@@ -1288,49 +1331,6 @@
       "provider": {
         "name": "SiliconRepublic",
         "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-how-financial-services-can-invest-in-the-future-with-predictive-analytics.md",
-      "title": "How financial services can invest in the future with predictive analytics",
-      "excerpt": "Adam Mayer, senior manager at Qlik, discusses the benefits that predictive analytics can bring to financial services The financial ... such as predictive analytics and machine learning. These are concerns that Richard Speigal, BI Centre of Excellence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/how-financial-services-can-invest-in-the-future-with-predictive-analytics-123497137/",
-      "originalUrl": "https://www.information-age.com/how-financial-services-can-invest-in-the-future-with-predictive-analytics-123497137/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/10/how-financial-services-can-invest-in-the-future-with-predictive-analytics.jpeg.optimal.jpeg",
-          "width": 1080,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
         "images": null,
         "publishers": null,
         "authors": null

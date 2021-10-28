@@ -108,14 +108,14 @@ related:
   - title: "Delta launching facial recognition tech trial at Atlanta airport"
     excerpt: "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate."
     publishedDateTime: 2021-10-27T12:31:00Z
-    webUrl: "https://www.kfyrtv.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/"
+    webUrl: "https://www.knoe.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/"
     type: article
     provider:
-      name: KFYR TV
-      domain: kfyrtv.com
+      name: KNOE
+      domain: knoe.com
     quality: 54
     images:
-      - url: "https://gray-kfyr-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
+      - url: "https://gray-knoe-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
         width: 980
         height: 551
         isCached: true

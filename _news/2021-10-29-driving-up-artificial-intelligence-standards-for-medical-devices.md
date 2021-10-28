@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-28T19:16:00Z
 originalUrl: "https://www.digitaljournal.com/tech-science/driving-up-artificial-intelligence-standards-for-medical-devices/article"
 webUrl: "https://www.digitaljournal.com/tech-science/driving-up-artificial-intelligence-standards-for-medical-devices/article"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/EEE-1-2.jpg"
@@ -24,6 +25,6 @@ images:
     height: 562
     isCached: true
 
-secured: "QO697JU/lU+f1VbJnQtPP5rJojLjZbqqDyPqB1wyfQcrAn/a2URLmzblmf5FIJR5GCrCiQ5U2M7MKTMLIHFI+QeKySPecbi1KuqpQe64+CuBfGbTcCW0TxqqeSG8DsTUdVb3smV1MoBslF0i79xGvosyRK7mw2bzqdkl5XWiBcuTKs073Rter7S+7sRxff32faHKv3m5Bac+L3dSUaXETDGRjMOGFOFEsvzkd8pkrTP9l2JWGEU1YZLyUuhJvt2KXfatyR5OLtfIrvFe54qKk7mzdNzCMfkCcykdDrbbLtFWbhGUhUmhSeQ92U02T7S0ATnX9fNIjI5whNMjuXYKmEk71WJAhg2pCxDRSUNU4AM=;zDaUhAdHNgpYGdM6RQ1rIg=="
+secured: "o4DNPw2SVFDsYc2J7++Be/fgz3TQr30LDBMdoSUr2Ycbg5BsLrsC1qOm+XlJj0hkRsky2ozOrRdbMtXGPXH6SqBic2Ipa6nf6ft6rBPp3VPnYsvOleqEvQ9a0uYRe8A147+t2hLmYNkPu61+mEI1OBlR0zlGRSW8h1lXVIq7X8C0QU9Qj7LleIyVc2+Esf0zfc6JIah+1o52qh15Qr2hSibK4r74Y53ZiNUgVSo0KOXFcQN+Z87vPlGvCsLYQfNJN9r+OBI9Fgz7MN/JNl6yfGA4/ML+P2dLm5cs+DNBXXOzheLXhKIJNanfohiwA1s4Riwu0SsqosZTsm6mxyl9UmtQhP4C665Ky8tdR5MgjRIBAekQHPLl9wAH82vJ8yeoOcmsBevyG8YSdFEG0bNAAy1AbNST8w/zbPsJoTaCwN6ffl101hE350KzmgNbv9x6kD258lho5cFvFCAeVET2FHIE3TPZtu5qoI3VBFOgLPwA6/eWCbH/RZl3kQ4aFiPfeEIlteL7c0uocrm4wgUiTg==;aLvEVttj3Utol2DypaLEIw=="
 ---
 

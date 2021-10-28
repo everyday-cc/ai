@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html"
 type: article
 quality: 84
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.cnet.com/a/img/b08c5Epe3NTGTrmK4QYvTgFuIsQ=/1200x630/2021/10/25/943d7bc3-8a31-4cd3-9a2c-eeb0a0b39f77/screenshot-2021-10-25-at-14-36-38.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "After the Facebook Papers, what’s next for, err, Meta?"
+    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its ... Teenage users of the Facebook app in the US have shrunk by 13% since 2019, according to the company’s own research."
+    publishedDateTime: 2021-10-28T20:07:00Z
+    webUrl: "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-regulation-growing-old"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-9-1.jpg&signature=3c8ce726468cfc55b53bf6e549d93ffe"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Media Outlets Flood the Zone With News of Facebook's Failure"
     excerpt: "\"The many exposés reveal a toxic but highly profitable revenue model that's driving Facebook’s reluctance to safeguard democracy and stop the spread of hate and disinformation.\""

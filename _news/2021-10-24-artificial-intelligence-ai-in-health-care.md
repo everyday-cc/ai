@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Marketing"
-    excerpt: "How is artificial intelligence (AI) being used by marketing pros to reach and connect with customers? See here:"
-    publishedDateTime: 2021-10-24T03:13:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-marketing/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 69
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/data-1024x683.jpeg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Artificial Intelligence (AI) in Banking"
     excerpt: "Artificial intelligence (AI) is one of the most disruptive technologies today, and the banking industry is a prime example of its potential. AI in banking is a relatively new concept, but it’s already making banks safer,"
     publishedDateTime: 2021-10-24T21:54:00Z
@@ -96,20 +82,6 @@ related:
         width: 2560
         height: 1600
         isCached: true
-  - title: "Artificial Intelligence (AI) in Education Market is Going to Boom with Knewton, Metacog, Blackboard"
-    excerpt: "Global Artificial Intelligence (AI) in Education Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact"
-    publishedDateTime: 2021-10-26T14:44:00Z
-    webUrl: "https://menafn.com/1103049383/Artificial-Intelligence-AI-in-Education-Market-is-Going-to-Boom-with-Knewton-Metacog-Blackboard"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 55
-    images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence (AI) in Retail"
     excerpt: "From better virtual retailer recommendations to theft prevention in physical stores, retail is an industry that has fully embraced the promises of AI. Retail as a field is notoriously competitive, and AI can give companies an edge when it comes to responding to customer desires and reducing inefficiency."
     publishedDateTime: 2021-10-25T12:23:00Z
@@ -137,48 +109,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?596801"
         width: 376
         height: 249
-        isCached: true
-  - title: "The Story Market: Using data & AI to bring international licensing up to speed"
-    excerpt: "The Story Market brings vetted, high-quality, licensable journalism to the international market at scale. Launched in 2020 by co-Founders Doris Wiedemann and Lena Spath, the platform uses data and AI to match publications with relevant content."
-    publishedDateTime: 2021-10-27T08:03:00Z
-    webUrl: "https://www.fipp.com/news/the-story-market-using-data-ai-to-bring-international-licensing-up-to-speed/"
-    type: article
-    provider:
-      name: FIPP
-      domain: fipp.com
-    quality: 35
-    images:
-      - url: "https://www.fipp.com/wp-content/uploads/2021/10/The-Story.001.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Artificial Intelligence (AI) Job Market is booming Globally with Top key players- MIT Lincoln Laboratory ,Walmart"
-    excerpt: "Latest research on Global Artificial Intelligence (AI) Job Market report covers forecast and analysis on a worldwide, regional and country level. The study provides historical information of 2016-2021 together with a forecast from 2021 to 2027 supported by ..."
-    publishedDateTime: 2021-10-28T11:20:00Z
-    webUrl: "https://chipdesignmag.com/artificial-intelligence-ai-job-market-is-booming-globally-with-top-key-players-mit-lincoln-laboratory-walmart/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 33
-    images:
-      - url: "https://chipdesignmag.com/wp-content/uploads/2021/10/cagr3-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
-  - title: "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ..."
-    publishedDateTime: 2021-10-28T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 32
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
-        width: 669
-        height: 229
         isCached: true
 
 secured: "WKuNiLtqzlkVPC1bssddR6sly2bTOPq3F9ANx1n8U3ORyFOxuAScgYqOHeB5jwDJaN8Ms+4Sb5+xIMtOX1fKLMqW0ds7Fbj6YXtZegvWh39gPrYOVV7gRgY9OjPujwIcPw15Sc0kL8e3mziYfbuvkn0UZsaR1oWft3OEM9l6cKsKfBZTPJESPpsiSCg1yK1OLc7U+WV+fHOGEVA7muSxPOufiH0Gkrl77VOQwCk3Z5vJfbhZ7bM9we5pbHg5GwpjQ3nwlAOUsBJboIelYAI/J9r6357IUezN1GLB95J550oehpFtPanBO+Yfu6I9JPKWYoVF8PdfMYvz6Oy0LmfLHYpERbP8grMiKjc7Z1MmVjtgBoFGAX1hh3CR2ju+6zPemecRhASH2LRoqff7WpoaRFzztcoxY4Ol++vyFDNq8vEdJF5sFZUEE4IK7s417pKSKfl1TNTaHVjisqLvHVzAd6P/y41Nmv7E7z+ccEWT1FaTCPDFSSHGFk2bstVKBt8zXclVtV2mdZKu+TdJ2HyP4A==;dhJ7bMtTXjOa0QzYunPxPw=="

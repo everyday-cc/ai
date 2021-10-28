@@ -26,24 +26,6 @@ images:
     height: 470
     isCached: true
 
-related:
-  - title: "Facebook has language blind spots around the world that allow hate speech to flourish"
-    excerpt: "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English."
-    publishedDateTime: 2021-10-26T14:20:00Z
-    webUrl: "https://www.wlwt.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-    ampWebUrl: "https://www.wlwt.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-    type: article
-    provider:
-      name: WLWT
-      domain: wlwt.com
-    quality: 37
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/images/facebook-hacked-thumbnail-for-web-1631821710.png?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "L+8E1mA3g1H8GQiO3vYYEMr0FQJpsHv+GOD6Tfr41RFWCOEFW91ex+iTtp+uFRqQ+137nh7gmQsAJWO9Eir93+xBCc6YRxFTFB1lNSVj/mRkhyrcDr/dETbvCp07jmPhEr5htmzNl3cjYb/4AwGj6nK7HaJKuln9ELReOPq4W8L1pVIqRt+Rt2YAKqmuqiECMjGzM2tOhTyg/U8nKoDVYGP3dxgmN0btF9jJjN2g0r4k8ui/jMPDT5SJjiXgstR5RmUNI/1jMYKpxWMdbG7hSkl9iEheP7mbuBNFxscP43VO8FrsIgrHCJFvd323sxBgk/XiEG6VgQ8kDWCFg841giCKrIckePivBdNxCIXPaVM=;vTDaeeIqDC8jKb7bqNFE2w=="
 ---
 

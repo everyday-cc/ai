@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook: Language gaps weaken platform's screening of hate, terrorism"
-    excerpt: "Internal Facebook files reveal that in some of the world’s most volatile regions, terrorist content and hate speech proliferate because of the company’s language gaps."
-    publishedDateTime: 2021-10-25T12:34:00Z
-    webUrl: "https://www.fox10phoenix.com/news/facebook-language-gaps-weaken-platforms-screening-of-hate-terrorism"
-    ampWebUrl: "https://www.fox10phoenix.com/news/facebook-language-gaps-weaken-platforms-screening-of-hate-terrorism.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/facebook-language-gaps-weaken-platforms-screening-of-hate-terrorism.amp"
+  - title: "Facebook Doesn't Amplify Hate, Supports Safety Legislation, Exec Tells British Lawmakers"
+    excerpt: "What I can say is that we have AI that's designed to identify hate speech,\" Davis said. She said Facebook supports the U.K.'s safety legislation and defended the company's handling of internal research on how Instagram can harm teens by encouraging eating ..."
+    publishedDateTime: 2021-10-28T21:02:00Z
+    webUrl: "https://www.newsweek.com/facebook-doesnt-amplify-hate-supports-safety-legislation-exec-tells-british-lawmakers-1643646"
+    ampWebUrl: "https://www.newsweek.com/facebook-doesnt-amplify-hate-supports-safety-legislation-exec-tells-british-lawmakers-1643646?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-doesnt-amplify-hate-supports-safety-legislation-exec-tells-british-lawmakers-1643646?amp=1"
     type: article
     provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 44
+      name: Newsweek
+      domain: newsweek.com
+    quality: 65
     images:
-      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2021/10/932/470/GettyImages-1236017705.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://d.newsweek.com/en/full/1921832/facebook-scrutiny.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "a8ywcCZb3Pr8WTQ/WBjMOeCBCALDHz/nJzrA4HBekpKBwieUtfNjEeG8tixaXq0jv0EiB/GpZFd3j2JKpYqnOnMCyDe9VwnfWNbqW+1F1iP3yWyng9sUvcjhTuxgbuNNhtYEpL50o/5h2BrSnFI0lZffkgHlX45k2m/dGFoteSSP3W0K8Da18BpjdbDbLjH4YAo2uxGPIetv1jUowBafZt0taE+izjhXwiSV2HmalxU2O2kSlK5fNaqllzcjpDDShH9NfzWCScWKf7kW+uvYTWsTcyDNfoefVODmTfHSunOGQqWxUcSBSzHpCOlBFWiL5zok8tiIXp0gfy/dgJTv1DXu6HYV+BH1xdmxX484l6F0DHNGA4Wk5zxPnmdj8wfKKbNPIVXvGfkE57R4KzGRWwIxX/EgfQykNR83auLeTYZ2csHjHwf/2hnVFn04AK0nEpntet+iQQT8ahsc2wj4yWTmmOE7sG8pxHV0+wZZE3ohnt+Gh0U8nRPcdCMAztGjnClbebFHClaxreWzB9hHOw==;lYRyPt9lxFDHeF9d7Fd+Kg=="
