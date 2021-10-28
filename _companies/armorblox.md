@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "armorblox"
   url: "https://twitter.com/armorblox"
-  followers: 353
+  followers: 354
 
 size: 11-50 employees
 yearFounded: 2017
