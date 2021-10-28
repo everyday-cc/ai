@@ -2,6 +2,58 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-09-23-in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast.md",
+      "title": "In The Latest AI Benchmarks, Nvidia Remains The Champ, But Qualcomm Is Rising Fast",
+      "excerpt": "NVIDIA rules the performance roost, Qualcomm demonstrates exceptional power efficiency, and Intel demonstrates the power of software. Every three months, the not-for-profit group MLCommons publishes a slew of peer-reviewed MLPerf benchmark results for deep learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61490dd8cf58c0d1dd55ed22%2F0x0.jpg",
+          "width": 1200,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/amp/",
+      "publishedDateTime": "2021-09-22T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-alms-lawcom-announces-lawyerpages-a-next-generation-ai-powered-legal-directory-and-search-resource-for-consumers-and-law-firms.md",
       "title": "ALM’s Law.com Announces “Lawyerpages,” a Next-Generation AI-Powered Legal Directory and Search Resource for Consumers and Law Firms",
       "excerpt": "ALM’s Law.com Announces “Lawyerpages,” a Next-Generation AI-Powered Legal Directory and Search Resource for Consumers and Law Firms. Sep 22, 2021 12:00 PM ET. Legal Newswire",
@@ -1128,49 +1180,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-ai-in-automotive-transportation-global-market-outlook-2021-2026.md",
-      "title": "AI in Automotive & Transportation: Global Market Outlook 2021-2026",
-      "excerpt": "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. According to the report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/g23046975/ai-in-automotive-transportation-global-market-outlook-2021-2026",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/g23046975/ai-in-automotive-transportation-global-market-outlook-2021-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23046975",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23046975",
-      "publishedDateTime": "2021-09-22T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

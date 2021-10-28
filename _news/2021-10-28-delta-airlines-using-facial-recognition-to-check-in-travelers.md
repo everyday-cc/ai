@@ -1,27 +1,27 @@
 ---
 category: news
-title: "How facial recognition will change the way you travel"
-excerpt: "Delta Air Lines and the TSA are rolling out facial recognition software at Atlanta’s Hartsfield–Jackson International Airport. NBC News’ Tom Costello takes us there for a closer look at what fliers can expect as the technology will soon be in airports across the country."
-publishedDateTime: 2021-10-26T23:05:00Z
-originalUrl: "https://www.nbcnews.com/nightly-news/video/how-facial-recognition-will-change-the-way-you-travel-124677189642"
-webUrl: "https://www.nbcnews.com/nightly-news/video/how-facial-recognition-will-change-the-way-you-travel-124677189642"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo124677189642"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124677189642"
+title: "Delta Airlines Using Facial Recognition to Check-in Travelers"
+excerpt: "A new facial recognition technology being used by Delta Airlins will analyze people's faces and compare them to passport information stored in a TSA database. Local Health Departments Prepare As ..."
+publishedDateTime: 2021-10-28T02:33:00Z
+originalUrl: "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/"
+webUrl: "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/"
+ampWebUrl: "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp"
+cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp"
 type: article
-quality: 89
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CBS Detroit
+  domain: cbslocal.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/1635289423930_nn_tco_tfot_facial_recognition_211026_1920x1080-9bwbc6.jpg"
+  - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/A37/DED/A37DED67A23E096BAE785B57DF9F72CA.jpg?Expires=1729987200&KeyName=mcpkey1&Signature=aurFBxgHrBcuZZ6Law-LjsYkO8k"
     width: 1920
     height: 1080
     isCached: true
@@ -43,19 +43,19 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Delta Airlines Using Facial Recognition to Check-in Travelers"
-    excerpt: "A new facial recognition technology being used by Delta Airlins will analyze people's faces and compare them to passport information stored in a TSA database. Local Health Departments Prepare As ..."
-    publishedDateTime: 2021-10-28T02:33:00Z
-    webUrl: "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/"
-    ampWebUrl: "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp"
+  - title: "How facial recognition will change the way you travel"
+    excerpt: "Delta Air Lines and the TSA are rolling out facial recognition software at Atlanta’s Hartsfield–Jackson International Airport. NBC News’ Tom Costello takes us there for a closer look at what fliers can expect as the technology will soon be in airports across the country."
+    publishedDateTime: 2021-10-26T23:05:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/how-facial-recognition-will-change-the-way-you-travel-124677189642"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo124677189642"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124677189642"
     type: article
     provider:
-      name: CBS Detroit
-      domain: cbslocal.com
-    quality: 74
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
     images:
-      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/A37/DED/A37DED67A23E096BAE785B57DF9F72CA.jpg?Expires=1729987200&KeyName=mcpkey1&Signature=aurFBxgHrBcuZZ6Law-LjsYkO8k"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/1635289423930_nn_tco_tfot_facial_recognition_211026_1920x1080-9bwbc6.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -134,6 +134,6 @@ related:
         height: 641
         isCached: true
 
-secured: "hhJl+oBo265Rre+OYiMXS20VMia81Z8hAHRS27h3hfLggD6+dGXpNuuIoiwDDuPGZ4XknVoKemCmK5yAmkadZb44HtI57oFAUqKlnrCZzg3zm9xv6iDvs1YpJMHPlUjRuMLv3WuDAC6cryFUIfyUiS7dpVsyFJzbfjflemUYagJOPphl0qba2LntJmV6db+Dtsh8oaZe8a8sPdeKwcbFYkFCjkL50e0+iMq44IVo+MIo8ftBDpDZQDNRkF9CmxVmNMzVt7UDGPYSgMCY6q7K78tjQWle4muTfSQGr3XqOR96+cP6faUlfI5CRc29EZch+rUFOP1SBdidkzOguneS0cokSC815EwHX8lZfDFvv9MOYgrlfocQOBx9qcqW9vNjbWleyzbjtE+4vbl0R2DwkW8fl5qxhT59fK7TZaupuHBtMIh2zTzJ0mAUUVG+NRm7SCsNQXDzwtL1818Vhj4iABGD/cK1LUiQrPhZL9bnjbE+L7vHjCWpCqc7SJ51D8Lao1ydhf6Ol0BlxHUTvdKGig==;XD+HahMH7EcEMQc2saTsJA=="
+secured: "Pw3sZRYZZm5tLAZzQCab+LOLu/oIOdnPVX/W/5V47J2c99lwu7kEGgwaiPz+xAdQPGeKcPUO2vbQ4JBBPeWXIZmAb7QTIQPc5UrBnWMVQbGQAnRGlDxykd8MbwjxaSzofZUOXlFmL9lPeq6ZFwLbdF68E8RgC3NjHpoQYzbQDMlC0Ev0Yrr6OzZFi9HCc7C1+9cwc+6u7lXKxqPTOK+8shNe2+SffnV7sYFSdaWwyR0Sba09drq8xKhQUQNCkqOmythcAvRPmsP2/6MBDrwPtg+pwEJCucgBil/7HRX+8FvAG+nmAbiz2XX7Lrb7zWYlfT5f8yRwgbYQHgfW35LwpVs68ehO9+5Iu8uTdIl6ugQ=;TTk3LcttrOuFFMRORNHcxg=="
 ---
 

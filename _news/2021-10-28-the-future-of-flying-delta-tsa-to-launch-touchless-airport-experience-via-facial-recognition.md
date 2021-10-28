@@ -57,6 +57,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Delta Airlines Using Facial Recognition to Check-in Travelers"
+    excerpt: "A new facial recognition technology being used by Delta Airlins will analyze people's faces and compare them to passport information stored in a TSA database. Local Health Departments Prepare As ..."
+    publishedDateTime: 2021-10-28T02:33:00Z
+    webUrl: "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/"
+    ampWebUrl: "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp"
+    type: article
+    provider:
+      name: CBS Detroit
+      domain: cbslocal.com
+    quality: 74
+    images:
+      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/A37/DED/A37DED67A23E096BAE785B57DF9F72CA.jpg?Expires=1729987200&KeyName=mcpkey1&Signature=aurFBxgHrBcuZZ6Law-LjsYkO8k"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Schools pause facial recognition lunch plans"
     excerpt: "Nine schools in North Ayrshire have paused use of facial recognition technology days after introducing it, following UK's Information Commissioner's Office (ICO) inquiries. The schools wanted pupils to use the system for contactless lunch payments."
     publishedDateTime: 2021-10-25T11:16:00Z
@@ -118,6 +134,6 @@ related:
         height: 360
         isCached: true
 
-secured: "icJQKNnZMtXdUG4CQD6i6nYe2evK9W0Mc6z/SxgcJqTShMJTjCqliSdwZck/q7h2GWiDdnjnlHj+Au2R3Cn8UtdB1t90GpvWQhufkWKLRg3GzJx0vJpF4gQ09v37XWqxCxEEDIo/ZLBwOu2XGh3egGp3gd9rwIJMti80/VpmBE334nMPXCH6qnf5frvqeOzQp+8NYMgiAzqj4PuXtbB95SV8l9BxHuVX73HB0XEhT29dZYiN3WdG5t6Xb+G7slpUqHY8DL7dJ2nVzKEwjsgxvYnMxD0FxWROZeZuiFYff34//NpEtaMex86tkBv5UWbm7lGfUgDQAIFFpxuLe3Wr8EkJWNTjM8Z1p8WbKSPtxzw=;srFNf/nnBHUO6p65yA7ulQ=="
+secured: "LPW4HegJhaAK0GwqY5YpWkNwRpqnnlTwy2Raqd/CtYhgsi/bobj76pip7JMR7YT4izoMn+UvOiEZMixZBeLVewAf2OuCuBLKUTpWHXLMerdft5+Kb56LjrmKu0gCV4fBNnGRgDJ4Sd+rPBYCjq7JIX6F+EJgn12yiPCNh/twv1/qUMCS9lL4U6bvS8QLpmkAqi/J4lDxNA6FfzDfSY9Ld29vbQ327iiLU13+ZF89yVxGikLkNpe6cnpoUKDjpPaIgH/4MHS2YFethn9ngmJpf8EDH67RTsCdvQTSldnYbPUy6hPjFq6eqmzE0uNZAe17076Izuv1d1lbQxYmN3tsLwcYZEnBF+WJTqbsR7/Yz4eilSEs43wk4t5ehsv4asg7vJTAbSxAqWs+Tl1lBbdlqnkrcZai/JeyEDei/vIyipRFf30HFJldTJrAncvgJaF/X/HTLhSs1XGX51wUgLMoSbgswdAdOMr8tihkoVDblI9Nf6c781/ptH6SmV8Dj3I4/9ZFxv9qbfZPAwB7jcbVqA==;B7sWBWC3xgOjX03Ht83vYw=="
 ---
 

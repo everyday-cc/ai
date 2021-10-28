@@ -59,6 +59,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Delta Airlines Using Facial Recognition to Check-in Travelers"
+    excerpt: "A new facial recognition technology being used by Delta Airlins will analyze people's faces and compare them to passport information stored in a TSA database. Local Health Departments Prepare As ..."
+    publishedDateTime: 2021-10-28T02:33:00Z
+    webUrl: "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/"
+    ampWebUrl: "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp"
+    type: article
+    provider:
+      name: CBS Detroit
+      domain: cbslocal.com
+    quality: 74
+    images:
+      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/A37/DED/A37DED67A23E096BAE785B57DF9F72CA.jpg?Expires=1729987200&KeyName=mcpkey1&Signature=aurFBxgHrBcuZZ6Law-LjsYkO8k"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Schools pause facial recognition lunch plans"
     excerpt: "Nine schools in North Ayrshire have paused use of facial recognition technology days after introducing it, following UK's Information Commissioner's Office (ICO) inquiries. The schools wanted pupils to use the system for contactless lunch payments."
     publishedDateTime: 2021-10-25T11:16:00Z

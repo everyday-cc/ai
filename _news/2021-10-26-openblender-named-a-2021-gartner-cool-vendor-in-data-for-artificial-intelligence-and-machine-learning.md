@@ -1,30 +1,30 @@
 ---
 category: news
 title: "OpenBlender Named a 2021 Gartner Cool Vendor in Data for Artificial Intelligence and Machine Learning"
-excerpt: "OpenBlender, the pioneering ML Enrichment platform that generates and blends thousands of variables from publicly-available data to greatly improve model performance, today announced"
-publishedDateTime: 2021-10-26T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/openblender-named-a-2021-gartner-cool-vendor-in-data-for-artificial-intelligence-and-machine-learning/article_bb0bfe2c-2eef-5003-a5eb-bc4956182a3d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/openblender-named-a-2021-gartner-cool-vendor-in-data-for-artificial-intelligence-and-machine-learning/article_bb0bfe2c-2eef-5003-a5eb-bc4956182a3d.html"
+excerpt: "OpenBlender, the pioneering ML Enrichment platform that generates and blends thousands of variables from publicly-available data to greatly improve model performance, today announced it has been recognized by Gartner as one of the 2021 Cool"
+publishedDateTime: 2021-10-26T16:17:00Z
+originalUrl: "https://www.lelezard.com/en/news-20066349.html"
+webUrl: "https://www.lelezard.com/en/news-20066349.html"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AI in Finance
+  - AI in Autos
   - AI
   - Machine Learning
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "SUB6b9dm1uxfHa6IIoOBnlQCRUDr7DKFomnOM6q6/iAQIU5/fC/0YzZ6vGhSjughDa+UxJya7nFMWCx9hWVHCxYYEtB6sAKUUweF0H4ihEX8Pz6gl4ms/Zo5qsIpOJu/Z5fBmaXiBe5mGsUscBpCqV8pIWLCvS4C0VV8XGBnuD4E5l/WsHe42O/M1ibM9pd5vXfrlLH0OqmQfRsuAGlCnjomq4imblldAH5JSGDnIq3badeiBPXNHcvKMCSA4PIDeffAW1wHbit0ZYE1dmfhERKoqIF6DR7tLdox8SmubwXB14TKgbuaWJnYAZgk8S1+oAbxhVWar/ojqdorDg02BsKJd0jGIXAxHiQxqewpezw=;eGvYbb4EkAfo3m4+Ciqw5g=="
+secured: "cEUR2Vq0LKsSGoDQUbcIO16lHWCr4FTjfcF0bLEQcYayn2TNjIfBV5wLJYObirOPUtHnWnFwcGKEs9tDTExnJZIKw66QidCwLnnzdJr9LG/NaPRK1vM8BSO7UzAEZCGUKud7PHQKiS2W41MOC/2dwz42u96bqqc2C3V//jn1kNa0qC3rj1JistEZg2aEGwLch0bJMiRTjPYWlcNRSii7/p5Avz/ocyspRS+VeQxqObMxHcOYf0Gcu+Eact04YwPiAr4T5SkeFnopQRsUIvVC/P+QEQHCbJezvds3PjoVLZjzgoIRkphFofu5yMc/jRaDmCUj/IMR5rAC7QUh9qbatOjjz1n+7cHUT3rBmnBCQtA=;LF8KVf+vEozxpvQv17Zqvg=="
 ---
 
