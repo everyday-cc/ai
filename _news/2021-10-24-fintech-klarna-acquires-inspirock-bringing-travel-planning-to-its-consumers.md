@@ -73,6 +73,17 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "4 Top Fintech Stocks To Watch Before November 2021"
+    excerpt: "Hot Fintech Stocks For Your Watchlist Right Now. As the world continues to evolve with technology, fintech stocks continue to draw traction among investors in the stock market."
+    publishedDateTime: 2021-10-27T21:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Tech Behind MSME Fintech Startup ARTH"
     excerpt: "Mumbai-based fintech startup ARTH provides financial assistance to women-led enterprises with limited or no online adoption."
     publishedDateTime: 2021-10-25T08:30:00Z

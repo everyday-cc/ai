@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/top-indian-robotics-start-ups-tha
 webUrl: "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/"
 type: article
 quality: 69
-heat: 89
+heat: 90
 published: true
 
 provider:

@@ -47,20 +47,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "What AI brings to national military organizations"
-    excerpt: "Here are 4 areas of military defense where mastering data and AI technologies will help prevent conflict and danger. W h en we look at modern wars, whether in Israel, Afghanistan, or Iraq, the winning party seems not to be the one with the most firepower,"
-    publishedDateTime: 2021-10-23T10:35:00Z
-    webUrl: "https://uxdesign.cc/what-ai-brings-to-national-military-organizations-97931e774086"
-    type: article
-    provider:
-      name: uxdesign.cc
-      domain: uxdesign.cc
-    quality: 37
-    images:
-      - url: "https://miro.medium.com/max/1200/1*qGQEsaC_hB8E-1KZQQz7JQ.jpeg"
-        width: 1200
-        height: 1800
-        isCached: true
 
 secured: "8KGvqN8N+vVH4NArDYl0NAMTADqOzgtrnFhN+u2/1L/kZfl6kpxUuKomeJgfspQRYwy8aoe5dLInYu5HeJn2tAwSrB0O6rmGDSkiMLCaD3at7NlaBgGUqImYoM3r8ebdV4HolN4iK89JJ9KONCjehoBWX5GQHAM2Yoh5V2X55DEOpnZ1a2DaSlvVY1yRqllJtn2SV7EF/t5fnxdeVmcrQpdAInN47UHFvvTSNOl5FRf0ofkdJ4EROgeMQFaubw96GmfG2D6vddkoXdeL1VOqJKAEWNMQbVE3DfCSaQDY7TucwckmTtMEU1vq5t8rrZcqxs6IOwx2YrGLJ3HcFdhigjQzBZwiVvEKPRt74zjEwb85JplfEJfmkqtt8wLUhZe26oXKZicbdLA/KAgQ5r8zKEXrSxEofl/ETNl5WTdiOQV73ETdQgj0kya4DvNJvFsfUJqlPFkCmBobhePn7d21gZQUYsH+aHwqRK/z23NHX9h0Pk9Bue3xW4YPKkgUMM7XIrkCtgcxpXeU4sM5X27+Dw==;fQ4OuCsgLr1ndkEIuHUTBw=="
 ---

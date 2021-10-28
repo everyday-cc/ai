@@ -9,7 +9,7 @@ ampWebUrl: "https://www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-t
 cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "What AI brings to national military organizations"
-    excerpt: "Here are 4 areas of military defense where mastering data and AI technologies will help prevent conflict and danger. W h en we look at modern wars, whether in Israel, Afghanistan, or Iraq, the winning party seems not to be the one with the most firepower,"
-    publishedDateTime: 2021-10-23T10:35:00Z
-    webUrl: "https://uxdesign.cc/what-ai-brings-to-national-military-organizations-97931e774086"
-    type: article
-    provider:
-      name: uxdesign.cc
-      domain: uxdesign.cc
-    quality: 37
-    images:
-      - url: "https://miro.medium.com/max/1200/1*qGQEsaC_hB8E-1KZQQz7JQ.jpeg"
-        width: 1200
-        height: 1800
         isCached: true
 
 secured: "6axVz5yqt245f8CbElKtuyzOeHT1Oiu1VxJQSRrbpxb0T/RtARJZ+/Aci4hx3KEPnG2fKdbJAfvq0P9B8TcMTSmuPt4EFvbxrqqhfRQy5LUvVWOoEb1KQY/St0UGg03e4t0vEUJMFZAIpSyfLWnQGVy1fy2KqscJMuwS8siANzkEZGTOUuSg9lV2uQvObzoZFeWTDQEssbe9d62HdxKXhyMzKZi9lE4XWP/isHdh2Z4U7HrBuw9ZuxTfq7dpFWtAoNRBuKVI03WBpCzQ1Q9aPypwtMojGK6/PM+kk6Gz7BD1Sl8imv7eGh3U/BKDN3wweoc7Co8h6faImO/YmRlTQPapqDrH7taQnC6+fX+IVL6PLUSK2bvbLwQe9hGP6ynO6Kzpw9EEzRq8SHo9odty5DPX4VjwsNqTDNAsJU33Kpw87GY+cAJBDT/PDADH6J7gLyhedxaOFjukN09X5Fqb0Z8lOSjJ0/FrAcf0PYgy0+4FN9UIQDUQmCKmazxxRsI2OtTypj7Q2o36oga0rPKQlA==;ZaxJzUtoXlieKzZgUlKrvw=="

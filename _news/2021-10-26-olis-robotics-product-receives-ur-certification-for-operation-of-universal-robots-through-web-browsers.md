@@ -22,7 +22,7 @@ related:
   - title: "Olis Robotics Product Receives UR+ Certification for Operation of Universal Robots Through Web Browsers"
     excerpt: "The certified Olis Connect device and URCap software enables remote operators to monitor industrial robots and quickly identify and resolve operational issues using teleoperation."
     publishedDateTime: 2021-10-26T20:00:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2021/olis-robotics-product-ur-certification-universal"
+    webUrl: "https://www.automation.com/en-us/articles/october-2021/olis-robotics-product-ur-certification-universal? Control News & Articles"
     type: article
     provider:
       name: Automation

@@ -87,6 +87,20 @@ related:
         width: 643
         height: 400
         isCached: true
+  - title: "Global Big Data & Machine Learning in Telecom Market 2021 to 2027 - New Study, Industry Scope, and Growth Strategies"
+    excerpt: "The foremost aim of this report titled Global Big Data & Machine Learning in Telecom Market 2021 by Company, Regions, Type and Application, Forecast to 2027 published by MarketsandResearch.biz is to provide valuable understandings into the market to the industry participants in the market."
+    publishedDateTime: 2021-10-24T23:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-2021-to-2027---new-study-industry-scope-and-growth-strategies-2021-10-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
     excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
     publishedDateTime: 2021-10-27T04:43:00Z

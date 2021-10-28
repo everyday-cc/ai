@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25"
 type: article
 quality: 63
-heat: 203
+heat: 213
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://cdn.openpr.com/U/a/Ua25321359_g.jpg"
         width: 643
         height: 400
+        isCached: true
+  - title: "Global Big Data & Machine Learning in Telecom Market 2021 to 2027 - New Study, Industry Scope, and Growth Strategies"
+    excerpt: "The foremost aim of this report titled Global Big Data & Machine Learning in Telecom Market 2021 by Company, Regions, Type and Application, Forecast to 2027 published by MarketsandResearch.biz is to provide valuable understandings into the market to the industry participants in the market."
+    publishedDateTime: 2021-10-24T23:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-2021-to-2027---new-study-industry-scope-and-growth-strategies-2021-10-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Consumer AI Market Incredible Possibilities, Growth, Trend, Opportunities Detailed Analysis and Forecast 2030"
     excerpt: "The Global Consumer AI Market size is estimated to be USD 5 00 billion in 2019 and is predicted to reach USD 149 60 billion by 2030 with a CAGR of 36 2 from 2020 2030 Artificial intelligence is also"

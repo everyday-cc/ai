@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/26/infrastructure-and-data-issues-ha
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Artificial intelligence Market Future Demands, Companies, Regional Sales and Revenue Forecast"
-    excerpt: "DeepResearchReports has uploaded a latest report on Machine Learning Artificial intelligence Industry from its research database Machine Learning Artificial intelligence Market is segmented by Regions Countries All the key market aspects that influence the Machine Learning Artificial intelligence Market currently"
-    publishedDateTime: 2021-10-23T10:44:00Z
-    webUrl: "https://www.openpr.com/news/2439003/machine-learning-artificial-intelligence-market-future"
-    ampWebUrl: "https://www.openpr.com/amp/2439003/machine-learning-artificial-intelligence-market-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439003/machine-learning-artificial-intelligence-market-future"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 71
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua23644392_g.jpg"
-        width: 482
-        height: 350
-        isCached: true
   - title: "DTI urges companies to step up AI adoption"
     excerpt: "COMPANIES need to put artificial intelligence (AI) at the center of their modernization efforts in order to remain competitive after the pandemic, the trade department said."
     publishedDateTime: 2021-10-24T09:42:00Z
