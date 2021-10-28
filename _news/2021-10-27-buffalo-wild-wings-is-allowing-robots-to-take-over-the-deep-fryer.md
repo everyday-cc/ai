@@ -43,22 +43,6 @@ related:
         width: 1300
         height: 730
         isCached: true
-  - title: "Desperate for Workers, Restaurants Turn to Robots"
-    excerpt: "Gazitua is among a growing number of restaurant and hotel owners who are turning to robotics during this labor shortage. Robots don’t call in sick, don’t request raises and do jobs, like frying and cleaning,"
-    publishedDateTime: 2021-10-23T17:02:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/desperate-for-workers-restaurants-turn-to-robots-7617771.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/desperate-for-workers-restaurants-turn-to-robots-7617771.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/desperate-for-workers-restaurants-turn-to-robots-7617771.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/01/5-robots-amid-coronavirus-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
 
 secured: "vSH4Jgn1yzi5eu74ad5O3CfTyvQ4CI/s18kZMeDeEwPdhOKVUSQR4gTt8YhN1srfQNri+0GvmkIKhqJEPaBB6pJPjTkPVKGUwudogPg2t6bTkWLSFJ0+TPkcEwXunc3+QH0jkrGvWp2UvG00OfXa+oishSiCq9yExzpy5puwAIDEWZiQ10+OmOGO/UMCcqFZzM5tJZiqHoD2SvZZTBk+FjqlyWwG3D6VhTZPzATRiKix4uk6g8j1zkAuNSvNNFF5jg52js0cHXLQb1lEI2ZjsLW+y0H+5xyctWuMnxmgVRipLC1We1Ul4ITxX38w275X+OMkyD8Ep4hajYQXjjeAJiqxLX65sRl0temPWCHB2jVa1i2OkyG8juVvYCxh1lAcrODxETpl/EUafIgsmoV22et10L4gPX8Lr21pcSNDZDdJgMCDxKFyy1ZjHBa5YGqN/knX3b6uBtXPvnhMdWEkSxwjpzpVLFE/ifiC8sU0OglFz97XibHlC/LbJIKd7vGYmXnbjW4VD5xhXAQQUgX/tg==;ZukgwS2zIfAO7mPm4YwsIA=="
 ---

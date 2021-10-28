@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/this-restuarant-chain-is-putting-ro
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Desperate for Workers, Restaurants Turn to Robots"
-    excerpt: "Gazitua is among a growing number of restaurant and hotel owners who are turning to robotics during this labor shortage. Robots don’t call in sick, don’t request raises and do jobs, like frying and cleaning,"
-    publishedDateTime: 2021-10-23T17:02:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/desperate-for-workers-restaurants-turn-to-robots-7617771.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/desperate-for-workers-restaurants-turn-to-robots-7617771.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/desperate-for-workers-restaurants-turn-to-robots-7617771.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/01/5-robots-amid-coronavirus-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
   - title: "Buffalo Wild Wings Is Allowing Robots to Take Over the Deep Fryer"
     excerpt: "Artificial intelligence-enhanced robots have already overtaken the burger flippers of America — and they’re coming for the deep fryers at Buffalo Wild Wings next. Miso Robotics launched its burger-cooking robot arm Flippy back in 2018,"
     publishedDateTime: 2021-10-26T20:10:00Z

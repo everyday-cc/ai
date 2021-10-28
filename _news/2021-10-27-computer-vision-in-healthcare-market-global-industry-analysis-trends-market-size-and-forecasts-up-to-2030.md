@@ -116,6 +116,17 @@ related:
         width: 401
         height: 401
         isCached: true
+  - title: "Edge AI Chips Market 2021 Report Highlights, Future Prospects, Growth Strategies and Forecast to 2025"
+    excerpt: "Global Edge AI Chips Market Research Report 2021-2025, provides an in-depth analysis of market size, share, drivers, constraints, and other factors. Additionally, for the projection period of 2025, this research includes an estimated observation of many ..."
+    publishedDateTime: 2021-10-28T10:37:00Z
+    webUrl: "https://www.openpr.com/news/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    ampWebUrl: "https://www.openpr.com/amp/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
   - title: "Global Artificial Intelligence in Medical Diagnostics Market 2021 Study Scope, Key Segments, Industry Trends, Size and Forecast to 2027"
     excerpt: "Global Artificial Intelligence in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2027 introduced by MarketsandResearch.biz considers the market structure of the market through the analysis of its various sub-segments."
     publishedDateTime: 2021-10-25T23:09:00Z

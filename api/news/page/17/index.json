@@ -2,6 +2,189 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-10-13-microsoft-taps-ai-techniques-to-bring-translator-to-100-languages.md",
+      "title": "Microsoft taps AI techniques to bring Translator to 100 languages",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Microsoft says it's using AI ... language translations across its services, including Translator ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages-10612266",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages-10612266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T19:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-natural-language-processing-market-2021-share-growth-evolving-technology-trends-and-industry-analysis-2024.md",
+      "title": "Natural Language Processing Market 2021: Share, Growth, Evolving Technology, Trends and Industry Analysis 2024",
+      "excerpt": "Oct 12, 2021 (The Expresswire) -- “Natural Language Processing Market” report explore recent market growths and competitive strategies, such as alliances, joint ventures, mergers and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-share-growth-evolving-technology-trends-and-industry-analysis-2024-2021-10-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-share-growth-evolving-technology-trends-and-industry-analysis-2024-2021-10-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-global-artificial-intelligence-for-accounting-market-share-and-advancements-2021-microsoft-aws-intuit-and-xero.md",
+      "title": "Global Artificial Intelligence for Accounting Market Share and Advancements 2021: Microsoft, AWS, Intuit and Xero",
+      "excerpt": "Pune, Maharashtra, India, October 13 2021 (Wiredrelease) Market.biz –:Global Artificial Intelligence for Accounting market report supplies information to run predicated requirements and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-artificial-intelligence-for-accounting-market-share-and-advancements-2021-microsoft-aws-intuit-and-xero",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-artificial-intelligence-for-accounting-market-share-and-advancements-2021-microsoft-aws-intuit-and-xero",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/8e454b344ac33cd3759cbee9375e3af61f6c5512-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
+      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
+      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
+          "width": 1708,
+          "height": 962,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare.md",
       "title": "Create And Scale Complex Artificial Intelligence And Machine Learning Pipelines Anywhere With IBM CodeFlare",
       "excerpt": "Goodson, dives in to discuss the deal with the extraordinary growth of AI and its ever-increasing complexity, IBM created an open-source framework called CodeFlare to deal with AI’s complex pipeline requirements.",
@@ -990,201 +1173,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-why-graph-db-ai-may-be-the-future-of-data-management.md",
-      "title": "Why graph DB + AI may be the future of data management",
-      "excerpt": "Dr. Alin Deutsch of UC San Diego explains in a Q&A why graph database algorithms will become the driving force behind the next generation of AI and machine learning apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-graph-db-ai-may-be-the-future-of-data-management/",
-      "originalUrl": "https://www.zdnet.com/article/why-graph-db-ai-may-be-the-future-of-data-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f0372ad25c6804126f901cb8d3c2fdf422b8b1e6/2021/10/12/224e2aaf-3631-43ec-ba47-39756282a739/alindeutsch-tigergraph1-copy.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-graph-db-ai-may-be-the-future-of-data-management/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-graph-db-ai-may-be-the-future-of-data-management/",
-      "publishedDateTime": "2021-10-12T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-artificial-intelligence-stocks-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: Best AI Companies",
-      "excerpt": "Artificial intelligence (AI) can be the most prominent new industry in the 21st century. Artificial intelligence (AI), once the stuff of science fiction, is now a reality. Machine learning and neural networks are already being used daily by the finest artificial intellegence stocks to invest in.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/10/AI-Stocks.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
-      "publishedDateTime": "2021-10-12T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AI in Autos",
-        "IBM AI",
-        "Facebook AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-human-like-ai-technology-based-on-deep-neural-networks-approach.md",
-      "title": "Human-Like AI Technology Based on Deep Neural Networks Approach",
-      "excerpt": "Developing a human-like artificial intelligence technology requires more aspects than simply reflecting human behavior. Such technology must be capable of processing information, or “thinking” similar to humans to have reliability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12540_16340459994726001.jpg",
-          "width": 650,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12540",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12540",
-      "publishedDateTime": "2021-10-12T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-the-dangerous-promise-of-the-self-driving-car.md",
-      "title": "The Dangerous Promise of the Self-Driving Car",
-      "excerpt": "In his new book, historian Peter Norton punctures the claims of autonomous vehicle companies and warns that technology can’t cure the urban problems that cars created.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixZgI.hcamd4/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

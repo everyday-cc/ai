@@ -26,22 +26,6 @@ images:
     height: 872
     isCached: true
 
-related:
-  - title: "Secure Data Transmission Could Take Connected Self-Driving Vehicles to the Next Level"
-    excerpt: "Teamwork seems to be a valuable concept for autonomous vehicles, as well – connected self-driving cars can respond to road and traffic conditions much better, compared to relying only on their sensors."
-    publishedDateTime: 2021-10-25T07:57:00Z
-    webUrl: "https://www.autoevolution.com/news/secure-data-transmission-could-take-connected-self-driving-vehicles-to-the-next-level-172506.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 17
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/secure-data-transmission-could-take-connected-self-driving-vehicles-to-the-next-level-172506-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
-
 secured: "3ri0VNVKVEEGf8AkZUcKSgChsrdRepITRKgdEFC0d6fSR5YPtUIGdNceojtU+xxfl8zKro1Zj8D4fYRQK+rAY/plc3d0uRKsr8gJj7vaV4J+y8WderCXfCvFwUTdegrKs3V5ixQwpFVyJxqr7VHPqhACWa9OBAcIrkkbtvXGVE45fY26xcZi+umR6WVxdG7XTfIWgaqKNJ/Q0lZ0jfAHxR9FNOmyOVbW/RpGhAxhB9lslPcLgI8GTaR2+rU3wQfmOCxyaDcAvBuTkxOl4hGVqI471kqYtX41drm0gSScoh1WJdJp5gwrbAhI9a14awy3EPawIT5dLtCsZURZCZm3DtEln0UgNha8rYSzYrevpWk=;pjr5ao82F0y5O+THIaKtQg=="
 ---
 

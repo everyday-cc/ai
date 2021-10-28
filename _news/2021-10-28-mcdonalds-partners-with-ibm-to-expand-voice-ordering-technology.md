@@ -41,6 +41,22 @@ related:
         width: 400
         height: 236
         isCached: true
+  - title: "McDonald's Teams with IBM to Super-Size Drive-Thru Lane Tech"
+    excerpt: "IBM’s acquisition of McD Tech Labs is a complement to its current work in AI and developing customer care solutions with IBM Watson, which is being used in multiple sectors to improve outcomes. Once the deal closes, the McD Tech Labs team will become ..."
+    publishedDateTime: 2021-10-28T10:38:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/mcdonalds-teams-with-ibm-to-super-size-drive-thru-lane-tech/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/mcdonalds-teams-with-ibm-to-super-size-drive-thru-lane-tech/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/mcdonalds-teams-with-ibm-to-super-size-drive-thru-lane-tech/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/shutterstock_1727006647-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "/YLaUWTQf+tRgZGUzL83dgrLDVvNwYJyX2yBxCgjgFlmirk5h8O0YGYUO8k+Z86CGr5W0uRe/czPLA9Kdwmov9hjeh28e1691l0GOP0sVY2lORJmU3rVh5qce/od2oW/O9gHTSpnehqx8DXSR7J2zhkFjfub/tMe91kjyTZIBPAfuXu+WGrQa8h3QO+OFHy8CfSAfne3GYWZDILnIS7m9q3GOVRcvGqogGH944z8jlpTgv0v6L0Ga+9enl+4wZOHx3cbwFS+beRuhpAt3mNx4Xz7m5UYLBAmOOyDPsyN9WLjIb8Z1GsbDg4aoGJ/hSwDzp0kITMRQFTgnghvljY3pDrEfOW1vKyPxG5Z+6aYcHp9ccKoc/qSvF7G1rSRChLwkbzaIZLfcSxgZGStZPxwzkTR+6chMQ998wHuI5FAlFaAzFs+0h0Sqr86+UHvOguO1qDHjMuFFGPSzl9OlD5paiHH6b9FvwRZX7vHxsO5aqY/4M0KqaTEZXBOVOg1oVua05jK4FyktYfrMrrXYSxGdA==;nmjQX5H5jZPuY7ttUN6IoA=="
 ---

@@ -662,6 +662,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-14-facebook-is-working-on-ai-tech-that-will-monitor-your-every-move.md",
+      "title": "Facebook is working on AI tech that will monitor your every move",
+      "excerpt": "The data will be open to the research community, the blog post said, but the goal of the project is clear: To create the type of AI that can power a slew of Facebook devices currently in the works.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/facebook-tech-that-watches-your-every-move-2021-10",
+      "originalUrl": "https://www.businessinsider.com/facebook-tech-that-watches-your-every-move-2021-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61683d5c41af0d00193ea120?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/facebook-tech-that-watches-your-every-move-2021-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-tech-that-watches-your-every-move-2021-10?amp",
+      "publishedDateTime": "2021-10-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-does-deepmind-ai-future-proof-alphabets-share-price.md",
       "title": "Does DeepMind AI future proof Alphabet’s share price?",
       "excerpt": "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head.",
@@ -1453,51 +1505,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks.md",
-      "title": "New UT program puts focus on ethical AI, building robots to do ‘helpful tasks’",
-      "excerpt": "How does society approach the ethical use of artificial intelligence and building robots? It’s a question students at the University of Texas at Austin will soon have to take a deeper look into. Called CREATE (Convergent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
-      "originalUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2021/09/University-of-Texas-taking-closer-look-at-ethical-AI.png?w=1280",
-          "width": 566,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
-      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
-      "publishedDateTime": "2021-09-22T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

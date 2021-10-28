@@ -2,6 +2,143 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-26-vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking.md",
+      "title": "Vancouver Fraser Port Authority Improves Supply Chain Visibility With Computer Vision-Based Container Tracking",
+      "excerpt": "With AWS Panorama, Deloitte is helping the port authority develop a new class of insights on its physical operations that will improve collaboration with supply chain partners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176ea4756ac37e705249128%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/amp/",
+      "publishedDateTime": "2021-10-26T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-fabric-brings-in-200m-as-it-passes-1b-in-valuation.md",
+      "title": "Fabric brings in $200M as it passes $1B in valuation",
+      "excerpt": "Micro-fulfillment technology company Fabric has closed a $200 million Series C financing round at a valuation of more than $1 billion, according to a Tuesday press release. The company, which has raised $336 million since it was founded, plans to use the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.grocerydive.com/news/fabric-brings-in-200m-as-it-passes-1b-in-valuation/608871/",
+      "originalUrl": "https://www.grocerydive.com/news/fabric-brings-in-200m-as-it-passes-1b-in-valuation/608871/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.grocerydive.com/user_media/cache/fd/11/fd11b30f8466332446de7488304b7d7f.jpg",
+          "width": 770,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "grocerydive.com",
+        "domain": "grocerydive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-hai-robotics-wins-nextgen-supply-chain-award.md",
+      "title": "Hai Robotics Wins NextGen Supply Chain Award",
+      "excerpt": "Hai Robotics provides efficient, intelligent, flexible, and customized warehouse automation solutions through robotics technology and AI algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/",
+      "originalUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://worldindustrialreporter.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/amp/",
+      "cdnAmpWebUrl": "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/amp/",
+      "publishedDateTime": "2021-10-26T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "worldindustrialreporter.com",
+        "domain": "worldindustrialreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad.md",
       "title": "Photoshop update brings new Sensei AI features to desktop, Raw camera support to iPad",
       "excerpt": "Adobe MAX is here, and the company’s most popular editing software is unsurprisingly getting a host of updates for the occasion. The most significant updates are landing on Photoshop for desktop,",
@@ -1073,163 +1210,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-best-kirby-games-ranked-from-best-to-worst.md",
-      "title": "The best Kirby games, ranked from best to worst",
-      "excerpt": "Looking at Kirby's entire catalogue of games is overwhelming. Here's our best attempt to go through all the best Kirby games and rank them from best to worst.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/",
-      "originalUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/kirby-star-allies-review-4.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/?amp",
-      "publishedDateTime": "2021-10-25T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-when-a-ghost-seemingly-has-taken-your-ai-self-driving-car.md",
-      "title": "When A Ghost Seemingly Has Taken Your AI Self-Driving Car",
-      "excerpt": "In the spirit of Halloween, consider whether a ghost can drive off or more rightly spirit away with your AI self-driving car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616f63a78381218bc51e3a22%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2024%26cropY1%3D0%26cropY2%3D1408",
-          "width": 1200,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/",
-      "publishedDateTime": "2021-10-25T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-rent-a-robot-is-a-game-changer-for-manufacturing.md",
-      "title": "‘Rent-A-Robot’ Is A Game Changer For Manufacturing",
-      "excerpt": "For years, cobots have been shown to make manufacturing processes faster and more efficient, but research shows that fewer than 10% of manufacturers use them. The “rent-a-robot” model—which is gaining steam across the country—can change that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176c70049b5743372cc15c8%2F0x0.jpg",
-          "width": 1200,
-          "height": 763,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/amp/",
-      "publishedDateTime": "2021-10-25T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

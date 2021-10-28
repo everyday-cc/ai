@@ -1,29 +1,33 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models."
-publishedDateTime: 2021-10-26T20:26:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_4484c447-9b20-5f03-b4e1-d3491c81b571.html?block_id=531919"
-webUrl: "https://www.galvnews.com/news_ap/business/article_4484c447-9b20-5f03-b4e1-d3491c81b571.html?block_id=531919"
+excerpt: "For a more managed experience, customers can access DL1 instances through Amazon SageMaker, making it even easier and faster for developers and data scientists to build, train, and deploy machine ..."
+publishedDateTime: 2021-10-26T21:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-dl1-instances-2021-10-26"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-dl1-instances-2021-10-26"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png"
-    width: 1920
-    height: 1080
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "WSVOSoYL8Ebs+VN23SGd90MttF0IFAQrC+bFe1GeXMey4tAn08otx3cbckxghQ3clNNzbCvH5RdGm9T3/hGLDd/9SgoVMzujr+NJvYlL7cegU+TGfvX69bx4maIhNw0oSIXwwc52B9cVxaS/jhcQCtgV0/2N+R5X9ewTU9ACcXcHH1JJzA0+gTuhYXKoXarFPXuC7P2NI6DaHcot0bQtqEBuxchOgj8gah+7qFKUF/YYoZuRwFObGaH/08HRzoVw2DDQk7KeQ+CPJDDSYL7gD71sGVjJpqBvbvtGdI14lSH962kTm6AHdRIpGAREgHe4PtcDh+LurvJMzsX49DfWH45soOcoV+PIu+rJT8kCv7A=;QI5Npbr2fVB9N3LWkjt84Q=="
+secured: "4rjEQFt1d3jX0cPjdBMicdRt9IO+TVNPq+oSuzn00QnZCItT8JEXJRSVk1t9e2Qn7Z0wiFWyWWFhn5I+562oK8QgBEfmGlqT9rO4L1ASyRXkYRGeyyE6sTsBpRZLKOncCcJGKePRhuTmTXrPhW9ea4261bAWS6D9n6OnddLAqFQEJJSWXaKAPoA3rHxYaZJMNwLmoMGkk++hEu11xuiPGFMTwj9YULH7evgFPn2spmWcApasnHoqRdn3PkpTsafb2i6ylNKMfVSr8uQ3UNmExRiA3R/WDYnyw1BL/gZPoHty32r2XkF97sM/x2YjCQCbuVNuapEaWaaBj7ESfojsLf4+GAtPi3RMfwvsA48eNmQ=;ruoh6ISm/x/girBrkepHzQ=="
 ---
 

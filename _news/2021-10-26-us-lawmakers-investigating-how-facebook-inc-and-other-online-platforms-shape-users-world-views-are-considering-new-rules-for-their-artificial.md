@@ -26,17 +26,6 @@ images:
     height: 382
     isCached: true
 
-related:
-  - title: "What Does Your Bio Say? Inferring Twitter Users' Depression Status From Multimodal Profile Information Using Deep Learning"
-    excerpt: "People suffering from stress and various mental health problems find it easier to express and share their feelings on online platforms, such as Twitter. However, the imposed character limit (280 characters) by Twitter and infrequent online activities of a section of users poses a serious setback in using computational methods for mental health analysis or emotion research."
-    publishedDateTime: 2021-10-23T17:48:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9567734"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
-
 secured: "lzvMFKe/zIycImVgPi/eoPaatJuFIdXaZ2hyeE/2dmEcYIdeTEbimhnh6tUfLOxIt22G+/GJB1YOM6vQ6/uanNBLDFHWlu85G0zrko6p5cXN+QhMBQXFFoL3+LaOY51skBTMI/s5ak5fmMPvRfVKGduNRTZ+hLbR+L/M5ftOnabr6up91mhR/+laCTHVIvmfzgqJrh/c84/NCYPbJpgGHEKqDb8DuuYgcrVNmn+mgrhv2SrOQkxbZb7unYuCzV/z5I3fW0blwOlTOrwMB8TpIMxwohG4eODx2nS9yQEKcal5sm81grJqR5yoItzyx+tT4gSr3NGZSwZweihdDp3anAgS1/2ZDN7Eloacti39Opo+J0AVG4Jl3T9FcHPTe67gY0Qbgk0Yrm5PArERzItIFO2J3MWBoRkD0wHpxK7/yLtX5sx1HyZjxMJHm5ZJzlOQxzlIFT56hkSE9G1SHBAo8aISdZuR9AEEZuQIfvsxo71rsPOsVDH7VtIB/T642fFSjihXhQqBbWdrxXczeIb8TA==;u7nqx056mIMoeKGAvgKhjQ=="
 ---
 

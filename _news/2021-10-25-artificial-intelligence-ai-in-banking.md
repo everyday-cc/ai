@@ -137,6 +137,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artificial Intelligence (AI) Job Market is booming Globally with Top key players- MIT Lincoln Laboratory ,Walmart"
+    excerpt: "Latest research on Global Artificial Intelligence (AI) Job Market report covers forecast and analysis on a worldwide, regional and country level. The study provides historical information of 2016-2021 together with a forecast from 2021 to 2027 supported by ..."
+    publishedDateTime: 2021-10-28T11:20:00Z
+    webUrl: "https://chipdesignmag.com/artificial-intelligence-ai-job-market-is-booming-globally-with-top-key-players-mit-lincoln-laboratory-walmart/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 33
+    images:
+      - url: "https://chipdesignmag.com/wp-content/uploads/2021/10/cagr3-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
 
 secured: "s/yOxSVV4lvW3T3jv39iJ1n77JDhi6ovNwhWQN4JQBpIoLhIBCbYkfPW5wZfEVpqZxbyZyUmYjV5/1OcEkyXivgGDxtZDud+v3gj9tWcPTvMaDI4RbTi26BJ0ndDdRjtcEIS7IWp+ya66zpduilp6miIK4lRSdN4+gpkaNUCB8sap5N+zZvSHdiKunnC+lL4MsjirP0f/5TPshNkQ+nKihMPHGcB/sTu7isnT1dVgOqbrvlRQ5zpcjugzNYdbUMgTR2w8XkQ0IbEKJxYpr12t+6NGce8ET/1iZ/Kn/Bsfx2SWNQTbpx3BKbtPq/6pu8W9a3MhRM/MbK4GLZB5OIrkx+01rKEbpqGO65FuKNwNA+nS2Orfso8Lldypm76tcKS92DGrVaaDSsHraqmFsSDr/8Pvxg4n61fAhwEORcqige0rwW2fmsndL1e+41BthHy61GYma3fTT8Ia4RPMiJUlxEVEmx8mkduZ+1+619AeHvLuD1PcC8Qb0ockW2ptSQ3yP2INGT3Xfu1FSGSvoaGJg==;wjCp/ynGZhtKvBAClw9ibw=="
 ---

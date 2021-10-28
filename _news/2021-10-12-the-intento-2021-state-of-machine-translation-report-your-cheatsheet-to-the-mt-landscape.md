@@ -1,20 +1,20 @@
 ---
 category: news
 title: "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape"
-excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and around the MT landscape an in-depth analysis of the current vendors and best strategies to successfully leverage their offerings."
-publishedDateTime: 2021-10-11T20:21:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-intento-2021-state-machine-translation-report-cheatsheet-the-/2021/10/11/9466842.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-intento-2021-state-machine-translation-report-cheatsheet-the-/2021/10/11/9466842.htm"
+excerpt: "\"The availability of high-quality, domain-specific language data powering MT models has become ever so significant as AI-enabled automatic translation becomes more and more common. We are pleased ..."
+publishedDateTime: 2021-10-12T00:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape-808363804.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape-808363804.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "QJsuczvYYvxrqeD5VsLBNZpjMq5bk3E7amTGlPZpqI05opzEX9YZ8bcRZEzozJ1VoN1uAQz2XH0C3XHvUg6ABqDYN7t9eP9u68JK4TNevRSeAQdrmoRot/eZRhCgynLoV8Bm2eHS3ov6NeFWk+PCR/fsvW4Dh3d0pvUli0sJWiHpRELnG8enjmKZUeI0RBhwCHITgHL+C9QZLJ1VPbuFQEF3HB8xEskC4avlHR9ipNdPhosR4nA2MU3gHKjYRvd/GMVI5zc7AxxW3pbdoRBE8IVNhYslZLQOfccoQI/9mFuQqDxER3U0lMMJITKrark+z5UIqGlufDvsTyl/A3UfYIx24DCiI/I+YSnW4uNHSNM=;Preqcpndnz2f3Tf2wBTl2A=="
+secured: "Fwyu6pxKn+g8bqWINt5vk5fGVC5j/zZ1KSG6fsIjUx9sbqg7ahKoXEZGiN3Eudvhpj57yFSn8TJN5y8AACwBK8QQ5ieEb9oUQd4My5HolQYJgDGJRVk5Qvw8BnVKsYYjUoZqoQJQi1KnQCjuu8MavsCTEun/fcE8zs6y1uDeVqUl8nJwSvY1PxQOPOiewlitllPsxfzGgffAF3/ASMj3Br9+6ziThf0R5kdyh9PUuNGEvflQcj5paTzB0kpCUhF8URy52pXOlBpUa4hGKMqpGie9PpILcZ4c0o4njhdgsEPumdO+dWqImyegzBO0K1ngIjvqGbzzPHEZKIPYW2Q50lndlu1hdeIl+kenI59Azgw=;MHjSzw37E5dZJ9NoZx8xSw=="
 ---
 

@@ -267,6 +267,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-27-aws-announces-general-availability-of-amazon-ec2-dl1-instances.md",
+      "title": "AWS Announces General Availability of Amazon EC2 DL1 Instances",
+      "excerpt": "For a more managed experience, customers can access DL1 instances through Amazon SageMaker, making it even easier and faster for developers and data scientists to build, train, and deploy machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-dl1-instances-2021-10-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-dl1-instances-2021-10-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table.md",
       "title": "AWS wins deal to store UK spy agencies' work, brings AI to the table",
       "excerpt": "The UK's spy agencies will move top secret data to AWS data centers and gain access to its artificial intelligence tools.",
@@ -1377,50 +1429,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure.md",
-      "title": "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure",
-      "excerpt": "CAST AI™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, has completed a $10 million Series A round led by Cota Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-1030859528",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-1030859528",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AWS AI"
       ]

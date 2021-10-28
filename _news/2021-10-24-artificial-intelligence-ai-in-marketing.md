@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/artificial-inte
 webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-marketing/"
 type: article
 quality: 69
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       - url: "https://www.fipp.com/wp-content/uploads/2021/10/The-Story.001.jpeg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Artificial Intelligence (AI) Job Market is booming Globally with Top key players- MIT Lincoln Laboratory ,Walmart"
+    excerpt: "Latest research on Global Artificial Intelligence (AI) Job Market report covers forecast and analysis on a worldwide, regional and country level. The study provides historical information of 2016-2021 together with a forecast from 2021 to 2027 supported by ..."
+    publishedDateTime: 2021-10-28T11:20:00Z
+    webUrl: "https://chipdesignmag.com/artificial-intelligence-ai-job-market-is-booming-globally-with-top-key-players-mit-lincoln-laboratory-walmart/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 33
+    images:
+      - url: "https://chipdesignmag.com/wp-content/uploads/2021/10/cagr3-780x470.jpg"
+        width: 780
+        height: 470
         isCached: true
 
 secured: "NzV5KQYaOOfr1nGlLtRbzKL+vENqgeqDFYnxplyHBUfnXNv0o5gAifUsaeqdKkcS44uTDEgXTDNmQw9VEgUy0qSEXGyIv+xqHSAhfgjKZ+ZdmY4SGv/jteKcy/73Abs1uv3fSxW22zg5j94dWznai2Qu+AitFm6ojSGNHa3AEc28oF/8j3jhQeu47Kk95QL//izlIf1uSg+LfSTKgYh/TVF1zZvMhR/K5hKilXb8FcfMIKKii3KCYr8v1kX3DIyfPlH22qFSk1ZZCmPzvDfNCnqpzNbfcAssOceq7w059Bjj9isAEK6un3NzSqKkJ7r+t8BpFkW4JpV0D+X7o0PU0pKB/XVUKPm/MWgq+keg60S1destCJrFXgxmPzHcGXVY9fzNDjuE0XU65G+8aFgXzmEKSdQg6JSuRjEVH7TmtCOxCFOE1Eraioo3JAKUFKvlBxiGjJQFTbLMQhPBTXWYpsoBHL3V/2z19M+eg/jPHstmSIYzYCmQ3X8RT+5tnKzkcFFHcXRCs0KsC3ktZA4Kqw==;SpsFG8dpI2+AzlFsWah3ZQ=="

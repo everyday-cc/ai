@@ -2,6 +2,143 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-10-19-happiest-minds-included-in-now-tech-robotic-process-automation-services-analyst-report.md",
+      "title": "Happiest Minds included in Now Tech: Robotic Process Automation Services analyst report",
+      "excerpt": "Born Agile', Mindful IT Company, today announced being included in the Forrester Now Tech: Robotic Process Automation Services ... Tibco and RPA products of Microsoft, UiPath, Blueprism ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/happiest-minds-included-in--now-tech-robotic-process-automation-services-analyst-report-301403108.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/happiest-minds-included-in--now-tech-robotic-process-automation-services-analyst-report-301403108.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1327416/Happiest_Minds_Logo.jpg?p=facebook",
+          "width": 1497,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-cybersecurity-data-monitoring-platform-queryai-secures-15m.md",
+      "title": "Cybersecurity data monitoring platform Query.ai secures $15M",
+      "excerpt": "Query, a startup providing a security monitoring plane for enterprises, has raised $15 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/",
+      "originalUrl": "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-923872400.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/",
+      "publishedDateTime": "2021-10-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-fintech-innovation-lab-new-york-now-accepting-applicants-for-2022-class.md",
+      "title": "FinTech Innovation Lab New York Now Accepting Applicants for 2022 Class",
+      "excerpt": "Program founded by Accenture and Partnership Fund for New York City seeks companies using innovative technologies in major areas such as cyber-tech, blockchain, analytics, future of work and sustainabilityNEW YORK--(BUSINESS WIRE)--Applications are now being accepted for the FinTech Innovation Lab New York,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=549207",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=549207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://us.acrofan.com/img/noImg.jpg",
+          "width": 500,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-india-will-use-ai-ml-to-achieve-sustainability-goals-amitabh-kant.md",
       "title": "India Will Use AI, ML To Achieve Sustainability Goals: Amitabh Kant",
       "excerpt": "The CEO of Niti Aayog believes that the vast scale of data and the massive digital footprint is India's biggest strength for the technological leapfrogging in AI, ML",
@@ -1029,143 +1166,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac.md",
-      "title": "Artificial Intelligence and Air-based sensors to help Indian Army scan LAC",
-      "excerpt": "As part of a multi-pronged plan, road infrastructure, specially at the sensitive Tawang sector, is also being enhanced significantly with a network of bridges and tunnels that will take away dependence on air assets to support troops in all weather conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/articleshow/87126332.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/articleshow/87126332.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-167562,msid-87126353/untitled-14.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/amp_articleshow/87126332.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/amp_articleshow/87126332.cms",
-      "publishedDateTime": "2021-10-18T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-robotaxi-market-to-witness-astonishing-growth-by-2030.md",
-      "title": "Robotaxi Market to Witness Astonishing Growth by 2030",
-      "excerpt": "Attractive Opportunities in Robotaxi Market” Robotaxi Market by Application (Goods and Passenger), Level of Autonomy (L4 and L5), Vehicle (Car and Shuttle/Van), Service (Rental and Station Based), Propulsion (Electric and Fuel Cell),",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/robotaxi-market-to-witness-astonishing-growth-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/robotaxi-market-to-witness-astonishing-growth-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1634619649.jpeg",
-          "width": 650,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-state-of-ai-report-tracks-transformers-in-critical-infrastructure.md",
-      "title": "State of AI Report tracks transformers in critical infrastructure",
-      "excerpt": "Critical infrastructure, life sciences and LMMs loom large in the latest State of AI Report from venture capitalists.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/",
-      "originalUrl": "https://venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/main-image-homepage-3-e1611744189157.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/amp/",
-      "publishedDateTime": "2021-10-18T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

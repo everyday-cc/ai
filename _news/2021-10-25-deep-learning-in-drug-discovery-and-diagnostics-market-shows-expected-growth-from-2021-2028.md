@@ -101,6 +101,17 @@ related:
         width: 401
         height: 401
         isCached: true
+  - title: "Edge AI Chips Market 2021 Report Highlights, Future Prospects, Growth Strategies and Forecast to 2025"
+    excerpt: "Global Edge AI Chips Market Research Report 2021-2025, provides an in-depth analysis of market size, share, drivers, constraints, and other factors. Additionally, for the projection period of 2025, this research includes an estimated observation of many ..."
+    publishedDateTime: 2021-10-28T10:37:00Z
+    webUrl: "https://www.openpr.com/news/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    ampWebUrl: "https://www.openpr.com/amp/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
   - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
     excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
     publishedDateTime: 2021-10-27T04:43:00Z

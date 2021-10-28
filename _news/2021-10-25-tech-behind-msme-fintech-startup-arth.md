@@ -82,22 +82,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Fintech Klarna Acquires Inspirock, Bringing Travel Planning to its Consumers"
-    excerpt: "Klarna, a global retail bank, payments and shopping service, is bringing its signature experience to the travel sector with the acquisition of Inspirock, an online trip planner that enables consumers to explore a destination's offerings and 'create personalized itineraries utilizing local expertise and artificial intelligence."
-    publishedDateTime: 2021-10-23T18:04:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/10/182023-fintech-klarna-acquires-inspirock-bringing-travel-planning-to-its-consumers/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182023-fintech-klarna-acquires-inspirock-bringing-travel-planning-to-its-consumers/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182023-fintech-klarna-acquires-inspirock-bringing-travel-planning-to-its-consumers/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Klarna.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "What are the Benefits of open-source Technologies for Fintech?"
     excerpt: "Fintech will continue to thrive if it is implemented correctly ... It provides developers with a platform to develop software applications for AI/blockchain, and the platforms that financial businesses will eventually use to execute those results."
     publishedDateTime: 2021-10-25T04:37:00Z

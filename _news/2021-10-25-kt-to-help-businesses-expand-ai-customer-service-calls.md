@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=317595"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=317595"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 980
     height: 653
     isCached: true
+
+related:
+  - title: "How AI Can Equip Customer Service for the Holiday Surge"
+    excerpt: "During holiday surges, an AI-powered Language Operations (LangOps) solution can help bring machine translation into agents’ workflows — by taking advantage of the tools they already use to respond to emails and chats in any language. LangOps platforms ..."
+    publishedDateTime: 2021-10-28T04:52:00Z
+    webUrl: "https://customerthink.com/how-ai-can-equip-customer-service-for-the-holiday-surge/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 39
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-166139079-ctmedia.jpg"
+        width: 1788
+        height: 1677
+        isCached: true
 
 secured: "khazrYlCjWtNpwFHI8KCFQB7jzFLSJjSIzdawhSRfpvMv3QQqHNBlHXFI5sYqS2eCerU5Aclm65CiMza9ixXuwcGw53HvtHG8HHwzbc3bcW8EhG/QMBOIoXinQ23mHEzYmbWKPzBX6N4jTjGSWwolCZa1EE7yRaeakKJgSAHS3bvWKw5LwXYfjTZoNEH2BGyLcJg/fzuzuX2DOMbcefKjoufI1NEmwR4cmY2T/JkgL5vN3MzPGL1XAtq24ZFxuVVYkSpBnoK3/PktRhCGVzhhKoODH8sg2v6J94XmZFYctHn83kenz4vTNxtsvnwZeb4DIR0EqvG/Y/AiUY2Xw9J3Iu2+b70NK4TKfwRMOMqVno=;iAePJil+Pg1miMifjqN2WA=="
 ---

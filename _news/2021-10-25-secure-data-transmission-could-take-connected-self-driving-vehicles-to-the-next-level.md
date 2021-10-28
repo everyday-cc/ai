@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Says Self-Driving Software Could Reduce Traffic Accidents By Up To 99%"
-    excerpt: "Tesla Inc (NASDAQ: TSLA) has been testing its Full Self-Driving (FSD) beta software on a limited number of cars for more than a year. The software"
-    publishedDateTime: 2021-10-26T21:40:00Z
-    webUrl: "https://www.benzinga.com/news/21/10/23570664/elon-musk-says-self-driving-software-could-reduce-traffic-accidents-by-up-to-99"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23570664"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23570664"
+  - title: "'Tens of thousands;' of self-driving vehicles could be on UK roads by 2030"
+    excerpt: "Tens of thousands of self-driving vehicles could be on UK roads by 2030, delegates at Fleet and Mobility Live heard. Mark Cracknell, head of connected and automated mobility at Zenzic, told fleet decision-makers at the ‘how connected cars can benefit ..."
+    publishedDateTime: 2021-10-28T11:35:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/car-industry-news/2021/10/28/tens-of-thousands-of-self-driving-vehicles-could-be-on-uk-roads-by-2030"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/car-industry-news/2021/10/28/tens-of-thousands-of-self-driving-vehicles-could-be-on-uk-roads-by-2030"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/car-industry-news/2021/10/28/tens-of-thousands-of-self-driving-vehicles-could-be-on-uk-roads-by-2030"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 42
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/fsd-beta-10-2-3_0.jpg"
-        width: 1162
-        height: 872
+      - url: "https://cdn.fleetnews.co.uk/web-clean/1/root/fml-auto_w1200.jpg"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "Oc3FGcajQqfltka/R2Q91MlLQdYS68KKQ6ikGaUlPF5djVTgII2Y4bfN78y8/XcwHOUIcuPtxI6e4KqQrMrfM/39AyAJjt2iQHa/bv59wjjhpFnk05LslnctVgLvECcCdywFHdK24th0gaRQTDq2/ssXi3cvdbN30jymYpPkmUPlRtqrxunwVL7u6PTmA8XHPFBaGd1XME8vsb6BV/7mWn258G7HBkGaRyfNJ22g+QyjuSUR29SGfiPmgwyNCURemoRVpSatvz38n1QWFKse5vlNh6ZHv9BQHsdJzt4TXec6sR38V0lkAAZq2anZz+WKV5i2MEJivhcfKlZwzExgDBg33poHDPn35iAr3KqPaTp8SYM6UeJzMxHIVxkL3BIPge+dgyXVG7nj1ALBVqiMDuXAFFlX4TEj3tD5EmvygZh3OunUgkZ0Gk6iaZKDE2TP8AAoYEnH64coqBc/MumWWEazB7sFNaNo63Mvjsw2l7+TnysW7VvuMinADx1n326ECjmU1pcfPnH/2RhTjXLI8g==;WnQh5wbb99CvBM0h2oYfww=="
