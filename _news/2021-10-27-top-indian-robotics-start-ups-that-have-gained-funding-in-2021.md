@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/top-indian-robotics-start-ups-tha
 webUrl: "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/"
 type: article
 quality: 69
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -38,6 +38,22 @@ related:
       - url: "https://cdn-res.keymedia.com/cms/images/us/073/0270_637708287919262702.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "How a Newsroom in India Gave Rural Women a Voice"
+    excerpt: "The all-women Dalit newspaper Khabar Lahariya is being recognized with a Courage in Journalism award for its work helping marginalized communities"
+    publishedDateTime: 2021-10-28T18:35:00Z
+    webUrl: "https://www.voanews.com/a/how-a-newsroom-in-india-gave-rural-women-a-voice-/6289524.html"
+    ampWebUrl: "https://www.voanews.com/amp/how-a-newsroom-in-india-gave-rural-women-a-voice-/6289524.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/how-a-newsroom-in-india-gave-rural-women-a-voice-/6289524.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 44
+    images:
+      - url: "https://gdb.voanews.com/E69072F8-F08B-478F-919D-902D3726EA8C_w1080_h608_s_b.jpg"
+        width: 1080
+        height: 608
         isCached: true
   - title: "Analytics Insight features top machine learning master’s degree courses in India for students"
     excerpt: "This article outlines the top machine learning Master’s Degree courses in India for students who are interested in machine learning in India. Click here for Master’s degree courses like Master of Science in Machine Learning."

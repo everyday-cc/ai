@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/5-top-cybersecurity-stocks-to-watch-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-top-cybersecurity-stocks-to-watch-before-november-2021-2021-10-25?amp"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Nasdaq
@@ -35,6 +35,20 @@ related:
     images:
       - url: "https://cdn.openpr.com/U/a/Ua25223866_g.jpg"
         width: 600
+        height: 300
+        isCached: true
+  - title: "Face to Face adjusts its November event"
+    excerpt: "Former Secretary of Defense Chuck Hagel will join former Secretary of State Madeleine Albright on Nov. 9 at 7:30 p.m. in the Lawrence Joel Memorial Coliseum for a discussion hosted by the Face to Face speaker forum."
+    publishedDateTime: 2021-10-28T19:42:00Z
+    webUrl: "https://wfuogb.com/14092/uncategorized/face-to-face-adjusts-its-november-event/"
+    type: article
+    provider:
+      name: Old Gold & Black
+      domain: wfuogb.com
+    quality: 24
+    images:
+      - url: "https://wfuogb.com/wp-content/uploads/2021/10/F2F-Digital-Assets_Twitter-Cover-1500x500-1-900x300.jpeg"
+        width: 900
         height: 300
         isCached: true
 

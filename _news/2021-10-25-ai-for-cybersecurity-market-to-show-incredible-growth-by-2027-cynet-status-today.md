@@ -37,6 +37,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Face to Face adjusts its November event"
+    excerpt: "Former Secretary of Defense Chuck Hagel will join former Secretary of State Madeleine Albright on Nov. 9 at 7:30 p.m. in the Lawrence Joel Memorial Coliseum for a discussion hosted by the Face to Face speaker forum."
+    publishedDateTime: 2021-10-28T19:42:00Z
+    webUrl: "https://wfuogb.com/14092/uncategorized/face-to-face-adjusts-its-november-event/"
+    type: article
+    provider:
+      name: Old Gold & Black
+      domain: wfuogb.com
+    quality: 24
+    images:
+      - url: "https://wfuogb.com/wp-content/uploads/2021/10/F2F-Digital-Assets_Twitter-Cover-1500x500-1-900x300.jpeg"
+        width: 900
+        height: 300
+        isCached: true
 
 secured: "LXv8fxO2U/LjOxxMc4bnhf/GxncB8b/OVsHMEEKmDAlm6zIlXSK8ARAtWm0n8np82Gy3B1604+8sw5Cw4mVhiXpSxrVkGGrQDd38JLNKpyFauZhFikboOta5ipBizZy+Eoya03MWBLYMWH1pgAukfHk4vdjOyYLXOmWmGvovaF4axh1ToKzacM125HnOR8aD0CkmlpC08C6CxEvBMgwsHLbbK0qb+NXLjnaXLdLaA1ahiCMTBlh9S5EKFZBCSoeFE75RNecgRcSJ9P0473Y0V6DsD4m7q6oqmvHzhGx1XXQuqCdJNQ1xsgETNaN6xRouMZLPdgO1NgCzJv8pQKNJ3T6SQ1+0wEaE6+9BC2xukNA=;tv2qAD5wkWujAZcWbQSd+A=="
 ---

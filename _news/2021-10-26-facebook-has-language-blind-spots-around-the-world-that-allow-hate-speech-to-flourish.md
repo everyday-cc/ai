@@ -43,49 +43,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Facebook's language gaps weaken screening of hate, terrorism"
-    excerpt: "In countries like Afghanistan and Myanmar, these loopholes have allowed inflammatory language to flourish on the platform, while in Syria and the Palestinian territories, Facebook suppresses ordinary speech,"
-    publishedDateTime: 2021-10-26T03:46:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 44
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Facebook's language gaps weaken screening of hate"
-    excerpt: "An examination of files reveals that in some of the world's most volatile regions, terrorist content and hate speech proliferate on Facebook because the company remains short on moderators who speak local languages and understand cultural contexts."
-    publishedDateTime: 2021-10-25T19:30:00Z
-    webUrl: "https://www.wdio.com/national/facebook-language-gaps-weaken-screening-of-hate/6280168/"
-    ampWebUrl: "https://amp.wdio.com/articles/facebook-language-gaps-weaken-screening-of-hate-6280168.html"
-    cdnAmpWebUrl: "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/facebook-language-gaps-weaken-screening-of-hate-6280168.html"
-    type: article
-    provider:
-      name: WDIO
-      domain: wdio.com
-    quality: 44
-    images:
-      - url: "https://www.wdio.com/WDIO_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Facebook’s language gaps weaken screening of hate, terrorism"
-    excerpt: "Across the Middle East, journalists, activists and others have long accused Facebook of censoring their speech."
-    publishedDateTime: 2021-10-25T15:49:00Z
-    webUrl: "https://www.kansas.com/news/business/article255262091.html"
-    ampWebUrl: "https://amp.kansas.com/news/business/article255262091.html"
-    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article255262091.html"
-    type: article
-    provider:
-      name: Wichita Eagle
-      domain: kansas.com
-    quality: 24
 
 secured: "a8ywcCZb3Pr8WTQ/WBjMOeCBCALDHz/nJzrA4HBekpKBwieUtfNjEeG8tixaXq0jv0EiB/GpZFd3j2JKpYqnOnMCyDe9VwnfWNbqW+1F1iP3yWyng9sUvcjhTuxgbuNNhtYEpL50o/5h2BrSnFI0lZffkgHlX45k2m/dGFoteSSP3W0K8Da18BpjdbDbLjH4YAo2uxGPIetv1jUowBafZt0taE+izjhXwiSV2HmalxU2O2kSlK5fNaqllzcjpDDShH9NfzWCScWKf7kW+uvYTWsTcyDNfoefVODmTfHSunOGQqWxUcSBSzHpCOlBFWiL5zok8tiIXp0gfy/dgJTv1DXu6HYV+BH1xdmxX484l6F0DHNGA4Wk5zxPnmdj8wfKKbNPIVXvGfkE57R4KzGRWwIxX/EgfQykNR83auLeTYZ2csHjHwf/2hnVFn04AK0nEpntet+iQQT8ahsc2wj4yWTmmOE7sG8pxHV0+wZZE3ohnt+Gh0U8nRPcdCMAztGjnClbebFHClaxreWzB9hHOw==;lYRyPt9lxFDHeF9d7Fd+Kg=="
 ---

@@ -38,20 +38,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
-  - title: "Python Implementation of Viola Jones Algorithm for Face Recognition"
-    excerpt: "Python Implementation of Viola Jones Algorithm for Face Recognition. Training and Testing Data. The following algorithm takes people's images wit"
-    publishedDateTime: 2021-10-24T01:05:00Z
-    webUrl: "https://github.com/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 39
-    images:
-      - url: "https://opengraph.githubassets.com/010282d091366f58b1a4873b08253d904238403e8a8d25765c68929f0568e063/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Is facial recognition appropriate for school canteens?"
     excerpt: "Facial recognition raised its head again last week as a number of schools in Scotland rolled out the technology in their canteens. The announcement that nine schools in Ayrshire were to employ facial"
     publishedDateTime: 2021-10-25T06:33:00Z

@@ -69,6 +69,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Luna POS introduces biometrics to allow shoppers pay by face recognition"
+    excerpt: "Indonesia-based mobile payments company <a href=' target='_blank'>Luna POS has created a biometric payment system in partnership with machine learning solution provider <a href=' target='_blank'>VisionLabs to allow facial"
+    publishedDateTime: 2021-10-28T12:30:00Z
+    webUrl: "https://thepaypers.com/digital-identity-security-online-fraud/luna-pos-introduces-biometrics-to-allow-shoppers-pay-by-face-recognition--1252424"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 18
   - title: "authID.ai Challenges the Industry to Replace One-Time Passwords with Facial Biometric Authentication Solution"
     excerpt: "Following its mission to eliminate one-time passwords and account fraud, identity authentication as-a-service provider authID.ai [Nasdaq: AUID] (formerly Ipsidy), today announced its biometric authentication solution,"
     publishedDateTime: 2021-10-25T12:07:00Z

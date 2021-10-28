@@ -24,6 +24,17 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "EEOC Launches Initiative on Artificial Intelligence and Algorithmic Fairness"
+    excerpt: "The  (EEOC) is launching an initiative to ensure that artificial intelligence (AI) and other emerging tools used in hiring and other employment decisions comply with federal civil rights laws that the agency enforces,"
+    publishedDateTime: 2021-10-28T19:42:00Z
+    webUrl: "https://www.eeoc.gov/newsroom/eeoc-launches-initiative-artificial-intelligence-and-algorithmic-fairness"
+    type: article
+    provider:
+      name: EEOC Training Institute
+      domain: eeoc.gov
+    quality: 29
+
 secured: "cj7/9dhedE0BMdryr1B4Nl6RkOXHaYe5eOfks8gQX8wpOxMMR3IJqVhR8giUejd6Qyy4qDiFmmNXSvrKmi5B0tTlvzD9VG1VOHQdklIfnLCPQiF7CkTyQHDkQ7gAwxayikgE3zgcT1Minl7zsLTIN21pWHnMbCLkIIBRv6/3x5kgxSDzBdvaX+0oKiKUB6SG3GiTYTaMw2TA3gBZ66pvO+P46HHz5aIdsihzMeM8XmrQtH07UTAGjwvEt0mv4yG6Y8XvNqMNQdY6J1oGAaPchyXNJxluRuBB5cuPF10twmJtKsKsjZ0k8U37nD7ALChbRy61LV8PyCwtW6nLXr0+HkeNjwLHTMpKyR6jB8n9yCU=;wjV+jVwuDfgtTHRtXQBW8w=="
 ---
 

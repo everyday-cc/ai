@@ -2,23 +2,23 @@
 category: news
 title: "VA implements new artificial intelligence strategy to improve veteran care"
 excerpt: "The Department of Veterans Affairs implemented a new artificial intelligence strategy late September for the delivery of health care and benefits, and is set to serve as an ethical guideline for the use of AI technology throughout the department."
-publishedDateTime: 2021-10-28T15:29:00Z
-originalUrl: "https://www.armytimes.com/veterans/2021/10/28/va-implements-new-artificial-intelligence-strategy-to-improve-veteran-care/"
-webUrl: "https://www.armytimes.com/veterans/2021/10/28/va-implements-new-artificial-intelligence-strategy-to-improve-veteran-care/"
+publishedDateTime: 2021-10-28T15:24:00Z
+originalUrl: "https://www.airforcetimes.com/veterans/2021/10/28/va-implements-new-artificial-intelligence-strategy-to-improve-veteran-care/"
+webUrl: "https://www.airforcetimes.com/veterans/2021/10/28/va-implements-new-artificial-intelligence-strategy-to-improve-veteran-care/"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Army Times
-  domain: armytimes.com
+  name: Air Force Times
+  domain: airforcetimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.armytimes.com/resizer/RblstTR9JH_e01ugPITkjDHmvao=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/5R2ICJLCOZFH5IJ6IM6WJHPEDE.jpg"
+  - url: "https://www.airforcetimes.com/resizer/RblstTR9JH_e01ugPITkjDHmvao=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/5R2ICJLCOZFH5IJ6IM6WJHPEDE.jpg"
     width: 1024
     height: 683
     isCached: true
@@ -87,6 +87,6 @@ related:
         height: 350
         isCached: true
 
-secured: "OR7Nb+m0wnlB9Ks8SwfgkZIzWUkrHp3PEGggGG/kv/EOkG0WDTYrCBsOOENenXodG0bhSjUpUrqzS23lIGLO0zNau8YR1UakeF5IlSYjafveI4BZE30vHYgX+F1V3VWXFVtor7+Sdzeg+7mrc+BigccagPGTOxe/FrSjH/vuDUY9RpmTlL2KyVh2XUmwlRrWXj3FIlhC24AaE710fpgu3dBKlGGC/hO8YaTIRPUJ3/Zavhk4N38+waylzU2MFKlzPjnLtKTItGGc8CSrYn8UzobkGhYkfqqimNyfdX1u3p+SJklR/eZOoBydebq0ewNg/5aIcikPgYUOIvDxPQG1UfKMb5lT7v9j+ZME04wz/+s=;a8BtLfX5149ZP4bGuOw6IQ=="
+secured: "y0vCXjHf0tf8EVIZNuvwT/dUOGmZ63v/6Xn+DUNyRUjdI0qaIhj5XtA9ffoDjMqHv3rMCHmRTdadrLEJIkWiv4mip/iPcXaY5EhzjvgAzk3NCJfhmn48P67O0Z28gdiTKqXnnxOdHUjZGc5oLYpbCe9AwJaHLgUcKLoT1Pzy+Md2WIc7gB3nYi2VHwDt1FyOITAxns8r0IlaqhftM6sbSnLv5iT/FogQU0fi2xTL+M9p9aYF8sTAdl5Fu2YTbyPyQe/zZeK59Qc4/bPJcerSPtt0BWZOt6eC3wax7f7FpjTJkx8PY/DwmamvZHIMp18WpUX9cTzW1vWa+xUk8AhPlviqWRgiu47mwQhWNpf3O2E=;nTDyCL1ZLp7duDD0FiKkeg=="
 ---
 

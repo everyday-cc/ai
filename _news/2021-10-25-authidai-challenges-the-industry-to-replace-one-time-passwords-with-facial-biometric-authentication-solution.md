@@ -63,6 +63,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Luna POS introduces biometrics to allow shoppers pay by face recognition"
+    excerpt: "Indonesia-based mobile payments company <a href=' target='_blank'>Luna POS has created a biometric payment system in partnership with machine learning solution provider <a href=' target='_blank'>VisionLabs to allow facial"
+    publishedDateTime: 2021-10-28T12:30:00Z
+    webUrl: "https://thepaypers.com/digital-identity-security-online-fraud/luna-pos-introduces-biometrics-to-allow-shoppers-pay-by-face-recognition--1252424"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 18
   - title: "European Parliament Calls for Bans on AI-based Biometric Recognition in Public Spaces, Predictive Policing, and Social Scoring"
     excerpt: "Privacy News Online reported on an important set of proposals from the European Commission to regulate the use of artificial intelligence biometric recognition"
     publishedDateTime: 2021-10-25T09:17:00Z

@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "At 8.15% CAGR, System-On-Chip Market Size, Share and Demand Rising Due to Covid Pandemic till 2027, says Brandessence Market Research"
-    excerpt: "As demand for functionality rises, simultaneously, demand for smaller chips with more functions, storage, and faster speed rises. Furthermore, horizons of AI have made conventional and essentially 'reactive' functioning module of chips, completely outdated."
-    publishedDateTime: 2021-10-28T14:57:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/at-8-15-cagr-system-on-chip-market-size-share-and-demand-rising-due-to-covid-pandemic-till-2027-says-brandessence-market-research-816946436.html"
+    excerpt: "According to Brandessence Market Research, the System-On-Chip Market is expected to grow at 8.15% CAGR, as tech giants like Microsoft, Apple, Amazon, and"
+    publishedDateTime: 2021-10-28T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/at-8-15-cagr-system-on-chip-market-size-share-and-demand-rising-due-to/article_a4efa21d-07f2-58d0-9544-8a46be02bb7c.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 8
     images:
-      - url: "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg?p=facebook"
-        width: 1020
-        height: 534
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/d0/fd04e7a9-724e-56ba-ad6f-dda098bef271/60801ba058aa3.image.jpg?resize=630%2C630"
+        width: 630
+        height: 630
         isCached: true
 
 secured: "QfW+sT8oJ02CazS+KSM8+iTviGnevY+8oDAek1zClgipmEljw2VT8QYA1MUAmjZLXbPxO8GMSm7oElZd4dofEriMkr/SXJKvh3brAxv5VDv1OO9EpOpHk6JQt0OPu5Iq6enG18Tf1tBl8QkD4tuD3X6L0StdIUpzrBABt5qvnZqWBGT4PMDWBAkl2i7GkY3J4amkdmLF6zysS9AFEdahE6sZ56dFTCm5iPdV+DsIbge/iqxqbI5rq0jNlpqcbQ4NLjIrmWAL2T7fMZlQx79/kdVqIR16GnGFmFvvPQMD3lNzlgFqb2HDOhMcd5TB6xtxJf1r66XqDUt7EaXlAo+3V163LlylM6B0pFbzdIedm0H97ZeXv2igPAl3EFoswCEcv8gZ5ndoumu7D1qDODGv74tg6ih1tA8NxWlLhC00VTpx1JAuwiQLjKexC1upYF6tEpl7q1nlLnS0Y5DSTeRA3S0IP5SYP9qRfxRi7ZRNXF3FjUcIrThkgqtKzd5XuhVNDPHvwR3c/HqTXhrmHswSZA==;5wyFIOCYUG5B+SRqJND7hQ=="

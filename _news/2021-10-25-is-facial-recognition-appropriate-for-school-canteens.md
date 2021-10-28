@@ -56,20 +56,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Python Implementation of Viola Jones Algorithm for Face Recognition"
-    excerpt: "Python Implementation of Viola Jones Algorithm for Face Recognition. Training and Testing Data. The following algorithm takes people's images wit"
-    publishedDateTime: 2021-10-24T01:05:00Z
-    webUrl: "https://github.com/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 39
-    images:
-      - url: "https://opengraph.githubassets.com/010282d091366f58b1a4873b08253d904238403e8a8d25765c68929f0568e063/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Schools suspend use of facial recognition after backlash"
     excerpt: "The Information Commissioner's Office wants organisations to consider a 'less intrusive' approach where possible"
     publishedDateTime: 2021-10-27T06:41:00Z

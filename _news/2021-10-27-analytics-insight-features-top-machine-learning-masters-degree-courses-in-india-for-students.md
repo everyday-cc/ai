@@ -53,6 +53,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "How a Newsroom in India Gave Rural Women a Voice"
+    excerpt: "The all-women Dalit newspaper Khabar Lahariya is being recognized with a Courage in Journalism award for its work helping marginalized communities"
+    publishedDateTime: 2021-10-28T18:35:00Z
+    webUrl: "https://www.voanews.com/a/how-a-newsroom-in-india-gave-rural-women-a-voice-/6289524.html"
+    ampWebUrl: "https://www.voanews.com/amp/how-a-newsroom-in-india-gave-rural-women-a-voice-/6289524.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/how-a-newsroom-in-india-gave-rural-women-a-voice-/6289524.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 44
+    images:
+      - url: "https://gdb.voanews.com/E69072F8-F08B-478F-919D-902D3726EA8C_w1080_h608_s_b.jpg"
+        width: 1080
+        height: 608
+        isCached: true
 
 secured: "k5kFbUZTxPMrOMtEj/N5/I0ryVxJczJk19KWM7Gf8hqJvL4XKkjGnGS+dg1ybFWSAtepqx0me3R+eigpP4nFddcfz8HcGaU8uKgtBHOWcnIk5Tq16PirEpmZWMhQBl1olStgK6fp/KuqYco35ad3x3omCYgpaqFfhqla03tSdC75LsjujkzKN/AMmSn6hufa44Ek3ZtIYyEKboyiv5bgumWIZmcrqjjJ+Z5mxOtSfoSgWT2cNMWnXD/MGnGzz/XrwL9PJrM/hCmcwQppJ9sVvQEwUjKFHz0XSF2Ba5Rjb44APuvX0j55WbVz6BV+xTpTHAQYGheDjEYb4zF8BcCJpCJXxUJmWe8Goqg/hUd5wrY=;yd67Vdo3U6KqxBL1IFRhxw=="
 ---

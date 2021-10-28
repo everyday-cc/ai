@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Delta is introducing hands-free facial recognition technology to quicken the security process ahead of the busy holiday season — see how it works"
+    excerpt: "Source: Delta Air Lines In November, Delta will roll out a one-of-a-kind facial recognition technology dedicated to domestic travel out of its Atlanta hub, building upon its biometric systems already in place for international passengers. Source ..."
+    publishedDateTime: 2021-10-28T18:56:00Z
+    webUrl: "https://www.businessinsider.com/photos-show-delta-air-lines-new-facial-recognition-technology-2021-10"
+    ampWebUrl: "https://www.businessinsider.com/photos-show-delta-air-lines-new-facial-recognition-technology-2021-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/photos-show-delta-air-lines-new-facial-recognition-technology-2021-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/617970c089b91c00185a8daa?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Facial recognition technologies already used in 11 EU countries and counting, report says"
     excerpt: "Law enforcement authorities in 11 European countries are already using biometric recognition systems in their investigations and eight more are to follow, a new study points out,"
     publishedDateTime: 2021-10-26T07:45:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/facebook-google-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/facebook-google-twitter-face-grilling-uk-lawmakers-80829884"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,23 +27,128 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. lawmakers investigating how Facebook Inc. and other online platforms shape users' world views are considering new rules for their artificial intelligence algorithms"
-    excerpt: "Lawmakers weighing how to limit the spread of disinformation on Facebook and other social media giants are turning their attention to regulating the powerful algorithms that drive them."
-    publishedDateTime: 2021-10-26T16:40:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10132791/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10132791/amp/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10132791/amp/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
+  - title: "Facebook is expanding smart glasses research into cars via BMW"
+    excerpt: "Facebook's still trying to make AR-enabled, AI-assisted smart glasses happen. The company announced plans to field-test its camera and sensor-studded Project Aria glasses, designed for research on future AR glasses in more places, and even in cars."
+    publishedDateTime: 2021-10-28T17:46:00Z
+    webUrl: "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 10
+      name: CNET
+      domain: cnet.com
+    quality: 74
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/10/26/17/49663707-0-image-a-2_1635265326901.jpg"
-        width: 636
-        height: 382
+      - url: "https://www.cnet.com/a/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Facebook's new smart glasses may be impressive, but they also raise serious privacy and security concerns"
+    excerpt: "Consumers have raised concerns about the glasses' facial recognition technology, too-discreet recording feature, and data collection capacity."
+    publishedDateTime: 2021-10-26T12:54:00Z
+    webUrl: "https://www.businessinsider.com/facebooks-new-smart-glasses-raise-privacy-concerns-2021-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/613ba480a30aeb0018b4ff81?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Facebook's language gaps weaken screening of hate, terrorism"
+    excerpt: "In countries like Afghanistan and Myanmar, these loopholes have allowed inflammatory language to flourish on the platform, while in Syria and the Palestinian territories, Facebook suppresses ordinary speech,"
+    publishedDateTime: 2021-10-26T03:46:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 44
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Facebook's language gaps weaken screening of hate"
+    excerpt: "An examination of files reveals that in some of the world's most volatile regions, terrorist content and hate speech proliferate on Facebook because the company remains short on moderators who speak local languages and understand cultural contexts."
+    publishedDateTime: 2021-10-25T19:30:00Z
+    webUrl: "https://www.wdio.com/national/facebook-language-gaps-weaken-screening-of-hate/6280168/"
+    ampWebUrl: "https://amp.wdio.com/articles/facebook-language-gaps-weaken-screening-of-hate-6280168.html"
+    cdnAmpWebUrl: "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/facebook-language-gaps-weaken-screening-of-hate-6280168.html"
+    type: article
+    provider:
+      name: WDIO
+      domain: wdio.com
+    quality: 44
+    images:
+      - url: "https://www.wdio.com/WDIO_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Facebook’s language gaps allow terrorist content and hate speech to thrive"
+    excerpt: "Internal company documents show the problems are far more systemic than just a few innocent mistakes, and that Facebook has understood the depth of these failings for years while doing little about it."
+    publishedDateTime: 2021-10-25T15:03:00Z
+    webUrl: "https://www.pbs.org/newshour/world/facebooks-language-gaps-allow-terrorist-content-and-hate-speech-to-thrive"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/world/facebooks-language-gaps-allow-terrorist-content-and-hate-speech-to-thrive"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/facebooks-language-gaps-allow-terrorist-content-and-hate-speech-to-thrive"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 42
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/10/2021-10-25T110016Z_1511104453_RC2ZGQ9U2U2Y_RTRMADP_3_FACEBOOK-DOCUMENTS-GLOBAL-1024x681.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Facebook is using AI to help you replay your memories"
+    excerpt: "\"Where did I put my watch?\", \"Have I already added salt to this dish?\" How would you feel if I told you that these questions and many more could be answered for you by Artificial Intelligence? Facebook is working on an AI project that can see,"
+    publishedDateTime: 2021-10-25T17:40:00Z
+    webUrl: "https://www.linkedin.com/pulse/facebook-using-ai-help-you-replay-your-memories-tolu-kusanu"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGRB_QirrKFyw/article-cover_image-shrink_600_2000/0/1635183408122?e=1640822400&v=beta&t=n-OqTMpUAxgMkpXRn2QLa-um0JFYcCkcLZfroPKNH3w"
+        width: 720
+        height: 422
+        isCached: true
+  - title: "Facebook’s language gaps weaken screening of hate, terrorism"
+    excerpt: "Across the Middle East, journalists, activists and others have long accused Facebook of censoring their speech."
+    publishedDateTime: 2021-10-25T15:49:00Z
+    webUrl: "https://www.kansas.com/news/business/article255262091.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article255262091.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article255262091.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 24
+  - title: "Facebook is spending more, and these companies are getting the money"
+    excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
+    publishedDateTime: 2021-10-26T12:59:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20211026401/facebook-is-spending-more-and-these-companies-are-getting-the-money"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 4
+  - title: "Facebook is spending more, and these companies are getting the money"
+    excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
+    publishedDateTime: 2021-10-27T07:22:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20211027352/facebook-is-spending-more-and-these-companies-are-getting-the-money"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 4
 
-secured: "0U/VZ348gHPhXtGbQfb335nDyjvJTzo44aKyzMxXyxFfNBiLIru8RZoQZvvbNvoViztFfuMkPZesAW8eFOq6X2PDe8VKajfooTg1ilvl+1iSdXotu6dXsOZsMkaujv9MpsJGqGfqnii5598p5HRO+ktXK1OmjN0fQZ0LuzVlw+dS88jbzMySSQLHlBUXJRsw3W7fIBFAV+gMkWHNGt5OhIIP1DdLgDLp6myMpc5OwCgS2k9Qh5Qzy9OaNWfM4l3Hpw1Y3q7J76dH/8cQCH5apf6f5jUnzHbSAasn+HgwlEkQSxsb1gdmRYZeSknWcpt4dRwKSgQxTYdblma9OB2DQEzDuOgx6W5nco0jqj+hQQE=;Yzp3au2j1Bx7R5KBoNtZeQ=="
+secured: "JSZifitRNYWB9AQAnsp9wzFqXKkFaZ0fobP+kb6AzlkArAoV0HM6QkdDCCkueEUO626ROmnPuRmZAU8dzq6/wlw4kjrXch835alSrRS4bheSvcK+jFv9hAx8GXUgP+9+4fKMPpkOLLIqkK+hc80rX7X5IwbYb8ZfKmLi65lQckGPo62cmBN1SgG0t7M8TsrMR8vZjUmJ12F4X/XkmKyjfyvA6aqE2llh48ilrtQQ3xXcx7jlfSITU3EZuC1w+XVUg1BF3kqadOJwEs4ShLE3qc56wTofW2rkrXFyFXsMeYt0AvJUYT0291FmkqvDzyPhW9G6GHKjQY37eb72IBDuEDHCLb8i9tIGlxZ/kuZ7HuaQA7oQ5JUdA91Ll4S1kK1ePxj0dbdB6pYqnAmPiQfNyncuHVJFn9ECAUVs0RM18uD7jPBQ4MtewMIHYZVFvQCvuFuaI7h1UImVMqD0FnARLqKhg7vhSpO0D9TT3Kym5AYTpeuLKqPXXdZstDGH+lvD3jdFdt8thOL/Oa5fkF/Zlw==;KtObwwRnVOPfclnFTxh2pQ=="
 ---
 

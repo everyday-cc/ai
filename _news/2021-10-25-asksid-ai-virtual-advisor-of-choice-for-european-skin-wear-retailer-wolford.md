@@ -24,6 +24,17 @@ images:
     height: 314
     isCached: true
 
+related:
+  - title: "AskSid AI: Virtual Advisor of choice for European skin wear retailer, Wolford"
+    excerpt: "Read the full article here: https://customers.microsoft.com/en-us/story/wolford-consumer-goods-azure AskSid is a conversational customer service platform that uses cutting-edge AI technology to ..."
+    publishedDateTime: 2021-10-28T19:35:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1218152&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
+
 secured: "enlcEes/+5DubTDHwHARQuNmwm1Joei82tZhdbw/IZ4pC/kBsb+6UhIowVqr1Ml5OBkbfzVlp/XXMCsJIi+kOJfMCwYI5T2QzjLVXR0laPuTO9tkb4KOPC1eFB5btYCInsMcM/nWIvyTBHa/LFEd/HNVG710ogDcOOSkAKM0raoTEyAOWbB/o+dv5lMhI5eWwv16WW9DTDX+3U7CQeCs+tTm7qc5eCY9K6m2WL8XbI8wgWNS5fWOMLopS52cVIcI9VdStQJBWXw3JkY5ZLNWVWVmZN0Ts+44t3mqh6jTanUwJ3A3ghB/8IeoLZ7/wIb/Th6zoF7qk71OkYV9rQs7uilsyBWVaOg4JlbTAjP/2sc=;LOMR9idaVbcsTpWvs35hfg=="
 ---
 
