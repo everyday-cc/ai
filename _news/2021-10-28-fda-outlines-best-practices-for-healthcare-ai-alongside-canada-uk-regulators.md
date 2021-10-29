@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Regulators release 10 principles for good machine learning practice"
-    excerpt: "The document, which was issued by the US Food and Drug Administration (FDA), Health Canada, and the UK’s Medicines & Healthcare products Regulatory Agency (MHRA), is aimed at informing the work of the International Medical Devices Regulators Forum (IMDRF) and other international standards organizations as they tackle regulation of a growing number of medical devices that incorporate machine learning and artificial intelligence."
-    publishedDateTime: 2021-10-27T18:15:00Z
-    webUrl: "https://www.raps.org/news-and-articles/news-articles/2021/10/regulators-release-10-principles-for-good-machine"
-    type: article
-    provider:
-      name: RAPS
-      domain: raps.org
-    quality: 39
-    images:
-      - url: "https://www.raps.org/RAPS/media/Advertising/2021/House/2021-Euro-Convergence-Promo-Graphics-Google-Bnner-300x250.png"
-        width: 300
-        height: 250
-        isCached: true
   - title: "FDA Collaborates with Health Canada and UK’s MHRA to Foster Good Machine Learning Practice"
     excerpt: "The following quote is attributed to Bakul Patel, director of the FDA's Digital Health Center of Excellence in the Center for Devices and Radiological Health \"With artificial intelligence and machine learning progressing so rapidly,"
     publishedDateTime: 2021-10-27T14:48:00Z

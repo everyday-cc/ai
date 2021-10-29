@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "CHICAGO, Oct. 29, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Computer Vision ..."
+    publishedDateTime: 2021-10-29T13:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027--exclusive-report-by-marketsandmarkets-301411884.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
   - title: "TCS Named a Leader in IDC MarketScape for Worldwide Artificial Intelligence IT Services"
     excerpt: "Report Cites Tata Consultancy Services’ Comprehensive End-to-End Life Cycle of AI IT Services Portfolio and Strategies on Delivery Model, Innovation and R&D, and Employee Retention, as Key Strengths NEW YORK | MUMBAI,"
     publishedDateTime: 2021-10-25T11:13:00Z

@@ -74,6 +74,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "The Future Artificial Intelligence in Telecommunication Market Might Surprise You 2021"
+    excerpt: "In this case Artificial Intelligence plays a key role because it is used to predict and analyze issues faster than human. Artificial Intelligence will make the fifth generation of mobile networks more open enabling connectivity to predictability."
+    publishedDateTime: 2021-10-29T10:50:00Z
+    webUrl: "https://chipdesignmag.com/the-future-artificial-intelligence-in-telecommunication-market-might-surprise-you-2021/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 29
+    images:
+      - url: "https://www.themarketfeeds.com/seoimages/three.jpg"
+        width: 3250
+        height: 3854
+        isCached: true
 
 secured: "CtNxq9hsmICLGxnSGHaz3APNSzUVUoI6lFHhPp/6Q4DVkcBOwFX2/2cOtd+Y2qYeuCAlrrwfYgvK8S5etkkOG7QxoS65bhzingI1YaLN8NOdZ8zY4jeFzDfFg1e0X7tz1aI5IrTkT2/Wa6YUaLCSG5clTJbpjdGEK5p3S415ELghXTUQY+jFS58LGBAnliH5uJFrEcxLd3hrODlpZdJZaYjBjMBEjCMgQ/C5j/CZeQ1irL0H2U6n3pWYdC/cdMjSRd7XCLOIpg78SitQ0b9B7ArF0k2awqeKmj08SXzZzky8bQG9O8uE2rPwhxufvl5FbPorBSnqIdn4hYuY/vlX8sDpctU6comIHV8lbnKQFGo=;gYw8KSkqEEKx56ztho+HaQ=="
 ---

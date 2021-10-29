@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Northwell, Aegis Ventures to team in multibillion-dollar AI effort"
+    excerpt: "A new joint venture with Northwell Health and Aegis Ventures aims to be a multibillion-dollar game ... and other team members in developing methods, which, through AI, can “predict, diagnose ..."
+    publishedDateTime: 2021-10-28T13:55:00Z
+    webUrl: "https://libn.com/2021/10/28/northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort/"
+    type: article
+    provider:
+      name: Long Island Business News
+      domain: libn.com
+    quality: 137
+    images:
+      - url: "https://libn.com/files/2021/10/Northwell-Health-Exterior.jpg"
+        width: 1546
+        height: 1049
+        isCached: true
   - title: "Northwell Teams With Aegis Ventures to Foster AI-Driven Healthcare Startups"
     excerpt: "The new joint venture will focus on applying artificial intelligence to improve health quality and equity and lower costs."
     publishedDateTime: 2021-10-27T22:30:00Z

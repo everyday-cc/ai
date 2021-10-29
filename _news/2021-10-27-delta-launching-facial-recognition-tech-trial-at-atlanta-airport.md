@@ -3,23 +3,23 @@ category: news
 title: "Delta launching facial recognition tech trial at Atlanta airport"
 excerpt: "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate."
 publishedDateTime: 2021-10-27T12:31:00Z
-originalUrl: "https://www.wagmtv.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/"
-webUrl: "https://www.wagmtv.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/"
+originalUrl: "https://www.knoe.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/"
+webUrl: "https://www.knoe.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: WAGMTV
-  domain: wagmtv.com
+  name: KNOE
+  domain: knoe.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://gray-wagm-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
+  - url: "https://gray-knoe-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
     width: 980
     height: 551
     isCached: true
@@ -134,6 +134,6 @@ related:
         height: 641
         isCached: true
 
-secured: "2qolDXDcQoOrc1r5sGSo39n31y1OPWhprQ6pJdMOFGYHeb0/0yaNhj0pUDDd44HHOiW827x95wDMabYGqTkwxoaemIOE+J7lO6VMxsGxclDZF6+J+nuCEizHEPMlE+VhKT0DhyXk0JvyjSE5ISTCGxOIrxB7wMJ6XlU9jDIhtZBjpjC+CuhN50Q0wUuh2svgcdAuWulfuhvJNBZJU0Gqmuj9Zwmn9PYl9MKNIBqqWRVO30CjKL1MI5zXcvXeZn8TuL+kLXlDiMc/0nyElwDXYBf9xLCRU0jcEBP+9P367KckzcPsFaeSyAv5JPOiCz15+XawWXaIg3Wl0tYFNc16QnT6Z4aFntcNNVKJNAA4OIY=;PPYrOgGnr/yqpzXlsdAwXg=="
+secured: "7coli1cuYWyBFB5AzqnFKab6we/bP9ptDaTgm1O6fw9u96M6Ryq7gYnvQH1MoWYrOTe+AF/iEo0DpxlOrTr+GIE9zVNA+UExlV9gdcoxCgpvmubEuikrebzfBETsyGyyDpowXJBygtQl8xWBXy0Z+HOn8zyUvmdW9Da8QHiMrsm7XIuBoGD1f1ST2mx/LLxe0Rqw74g1KcxZ52r2xWI5ykXZ6pJn3s4N3qNS3kkkSMOjRkWR/JeNEGh1RGKvEL4QnB7wCOZDgosSLyPgvdOCatZ5Sux0WwsoZo2T+bGHAiHMYc2613HB9sUFkGCW0sy2lnyEFPF74A2lG8IjATaaH9nndTGe5gn+j60HL91hmMM=;GjEUEZQ0892JGERfST8ECA=="
 ---
 

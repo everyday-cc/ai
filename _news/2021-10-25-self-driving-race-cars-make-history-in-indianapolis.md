@@ -26,24 +26,6 @@ images:
     height: 681
     isCached: true
 
-related:
-  - title: "University of Waterloo students race self-driving car at Indianapolis Motor Speedway"
-    excerpt: "Brian Mao and Ben Zhang’s fully autonomous race car may not have crossed the finish line at Indianapolis Motor Speedway, but the two students from the University of Waterloo called Saturday’s race at the Indy Autonomous Challenge an unforgettable experience."
-    publishedDateTime: 2021-10-24T20:12:00Z
-    webUrl: "https://kitchener.ctvnews.ca/university-of-waterloo-students-race-self-driving-car-at-indianapolis-motor-speedway-1.5636324"
-    ampWebUrl: "https://beta.ctvnews.ca/local/kitchener/2021/10/24/1_5636324.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/kitchener/2021/10/24/1_5636324.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 37
-    images:
-      - url: "https://beta.ctvnews.ca/local/kitchener/2021/10/24/1_5636324/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-        isCached: true
-
 secured: "w+z8d+YDIaCaekfTqKfgAoxtRIq4SRJMu9ryhTI2xuFCUlG4B8kATnRlp8GDmi2qtsMcypsT8VE4L9DJG9zyLLPTdTNDl4YQaHBIT1YYZlypcVLAcfTwtISDxlCIN84sUDo38fFsvhaRGrzYFfyEuuSM77JyHJSgu+wfOyaXsQFl68+sHjmxTIlkaaThNUhLWauNPh84LRkkuJEjwqG2XvVqUl1IIwSRm7i2UY/XomXfCOwjDDcJI5c396SLAfdFFy/WDMlRWdYp/gzwC1IntZkszvGCMAmwDMpAZalpE47qWG8C7dq+L/4/02ItcjUDPzWIvRMR0M7ALbexpL/brEQMRjMsYybGQysHbON7GNehnezqMXUpT5FIMhFJpESHD7uxA0fOZBjP1iY4oVO62Kbw19SUuC5ylvxkORVouoWpuzXarKh6wcYDhrB0wo+k5eZCHxIcZXHuQq7OK3hihE/nu9HTWKxuhbk2cgz2krJQEYm7wVQreMWzyNTsz9OhkIfW1MAL98ywwuO9tp0E+A==;y+O01bKauxjgbyWEr2asCA=="
 ---
 

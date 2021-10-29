@@ -37,7 +37,7 @@ related:
     provider:
       name: Futurism
       domain: futurism.com
-    quality: 59
+    quality: 159
     images:
       - url: "https://wp-assets.futurism.com/2021/10/decode-whale-language-600x315.jpg"
         width: 600

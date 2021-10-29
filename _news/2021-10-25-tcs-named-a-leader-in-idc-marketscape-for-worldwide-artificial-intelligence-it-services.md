@@ -34,6 +34,20 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "CHICAGO, Oct. 29, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Computer Vision ..."
+    publishedDateTime: 2021-10-29T13:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027--exclusive-report-by-marketsandmarkets-301411884.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
 
 secured: "Xj+GH5kaOsWebUATuZWGTrPTZbfE0q7B88LKntJuPCwUSA0pp8+ReAStAmCtZHkIrgrFrmezyg57pb/KTRIrKKYQaAi9RceuAoSCzQ/Ujy71iihH6HZZYf9D08hJrD7LlZa5ZCXktKx8MQxsLez4/vRPz24pRwBPvmktX7Ibsdws9osGPcYFt6k1Fl3MmICqkFFrtbA9mMBzNaY9Vq0AkPTrwCdKT+QSJHh/EMjVlE6t/BPBnb11Mgm3j4xsdf3ZL50frzd/6YzreOfMjKwGTqS0NFejLiK0HumWTKXrWPTDfthwIlJnx1KavNFJjAwYGEJu+I5vJRBAFmHdmAsnmzycC8px+7HWPvEe9GA3RHo3qB+d5lQsu81LOjazLn0OsAffbOVEnoQwj1yS+1b+t4zCR5dViL0ZrkF6jAA2puXVI9J4T9LcpatVfJl8QOCwi8VLxNQrJOOxTNX6KsZLCZU4w201T1hBwWaJ+ni3TzjdbvujXYtc2MzIkE8B7HLSoqH8/5mx2f8LP645vWjerg==;SMNV9imhEFoh759t2EjtmQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://futurism.com/the-byte/scientists-ai-whale-language"
 ampWebUrl: "https://futurism.com/scientists-ai-whale-language/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/scientists-ai-whale-language/amp"
 type: article
-quality: 59
-heat: 79
+quality: 159
+heat: 179
 published: true
 
 provider:
@@ -60,6 +60,6 @@ related:
         height: 382
         isCached: true
 
-secured: "LMRwpDICEzY3xk9LxI4expZ0l7v3NMJuYNLmJyZYf05nUdqFiX5lndLd2uSRkLUEppqUIhjuCgFBwOiY35YsE21url7Xo0OTdxVvsEJlaJ5AW/Ta0tg3M5+ydgQoMaTqPusa39IltjaViCYLcnE7ba7KF2l2CISXGFoOVl0s93y5K7utKBI4SUbxVkwhPkdYrhE5NkDenaap1LV462FQUyo1b4UtpyME5Mpj92GRDTh79FDCA39/A7faUDBgiJxcKmTbh8EYwI3U0IlJzcWPiw9+vtrurhqV0FvakOqFBYNOdcl31z3U4I1F8CZP3L2Xu7dqxPMuDsf2v/lduqAAOQdASgJovixRiMhP5DeLNPysDmSN+YkMywjpnHyGCx2Sp7/J9ImhZv62q6X+Mgxg8+A6uAqx+LQz0Hys1JH+M7/r6NkLyoyw+CNkDXIEHak1uSVknwFNjyTVQkXuRvYMHpgAlDr856rYBxdBaLkVrspjqZRTGIj1rRAuv/rICeZgE0i9jd3Fnx1ROfVwzKPdwg==;Q2XcshESGyZ5DAaVbtgMtQ=="
+secured: "agjOidfbqOGaH9b270MmPJd38CkoVeuEuTuy+XjFzD5CtkvZ4TDal5EOSjkHxl6XrauucFwytKfftSFGFndO2JIYA78+/Z2JEWP9fbNxVobPOudjuof9T64PRxOHNtnf+AVnbQk0OBQI10jTZVpGFDNgSPw7YeSm7oVi+fmZwojSXxJmAY6dXQejOyBnHWG9Cp56Jd4Uyi5yzGx3RNAbI87xBwRE+tnWYCeHzFgpE15hNTtD1A5OJ3i+VmvN0Z+JUYxWhnQneiBUI8u+XfHEPQBS3dbifk/H+pIX+tQU99ichXLlRPO+UfU5BKdSbxIyxXBXxJ3nYynleF1iSf55+IeXvpSXRY8m3f7LXpVJZdiSC0LBl/EHwxzchJjv/SKx7D5yua1WIcQ1WESkwiPoSwQd9nbdALsxkCvw5FC4TA2toM9OHbX0IyCVOWEsIUIAqwi/zS1o6F7uT75fEWXj39HxpUnwPOZARcI5Iej2zcsKyJIGXjJ+U1bRcPMZtwkXzpJ2lrWhpPpNaHcLUF3UpclEnLUWLsRfJmL5HKz8jDc=;O5K4Hi8Xdi3uOH3M7wgh1g=="
 ---
 

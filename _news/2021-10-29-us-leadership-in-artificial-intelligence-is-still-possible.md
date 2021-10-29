@@ -8,9 +8,9 @@ webUrl: "https://www.cfr.org/blog/us-leadership-artificial-intelligence-still-po
 ampWebUrl: "https://www.cfr.org/blog/us-leadership-artificial-intelligence-still-possible?amp"
 cdnAmpWebUrl: "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/us-leadership-artificial-intelligence-still-possible?amp"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 157
+heat: 167
+published: true
 
 provider:
   name: Cfr.org
@@ -41,6 +41,6 @@ related:
         height: 400
         isCached: true
 
-secured: "siCTQ7OhUtUo1ah2hdGlzKCxrH4jmTGPKOLUrHIuCpB7uwgu4kJc1jIyyYrIEmWdGLsUBOoVAqA2Zh2KYbwyOk4clIB9YBe3d/dCjzwdrc0qobwoidYRG46DgFv43A65N8FG9WlpsPy1omjqzrnKjbvVl2aCg2bR7O8HxLi9NlPdQ2crPya1kjd7nDh7nYibbhBTpkawXaa5TwZClf8DRGiMcn6Ik+3rZLgF/Tc3ix9kZEGNgAMFubDNzO5ZSuIGZlnNj1ilnERg9E+ug6bJwK9PWXt3kOCRXNPQr0MGBwWVek6Mzflyr+56eXam9H5ZJ9+n93VD2cBzS4um1UMAFJNSS5THSG8QTJ2nSXw0gp2oKALFt+3Ao7tgKVkCHySkSYAMmZN9BrYRVc2o453N3s+GP580dD56hoWKX3ZkGnYZZFCsuFyYqkNvFltU2obeawSyrRS9GrE2kz2T8lqDl9o96kjbO0GFTgFvtFgR33TxMUgBIWNNLmOjo5W9UvTQ6wrCPJrCTZHybZmRZ4eRNA==;wUAe/ipVc1Gh2PC4cWnHuA=="
+secured: "/H97ogDs0rDSE8TM6TTxVwdwmKiXHaoF1QjP6MFuI2CCs/LsR6138z2NRzOJ9kHPxKCOTU7rDriZjpuwRxlfmeL/1tyLToZFKWjBwYcTSUaDtOZeIvD6GZthKPadRvoTvCbK5txakAFTX4bYwmZGgnhwxjFv9fiQ3hU1t4fwfynofs+osWvYoSPn106PPpJ6j4Ar8oLrtrbwFZyqGdqf3xADtjDnnQhJ8DacC5GW2MKeIWZfAlswFdz1INKLUO92QE1E4OFuPhObFQoPqtNiycGpC+kofgZJ1Td04lkGnLEz3gjIDe/sWQQ8T/tayRy2Vmg1nKqjLj/2p2X8yvwTz4BJUhzX5MyULQXkM+V+wQJn3By9tPfjkPIa2kBfXAWODMrvY/s6nLTN4Ic28wZxn1zyYDS35EBsdYS1oR8ExHGfC8AJjWR+qWVN+O9pnD+N9OduxNDodV9NJiZqVD/4KYIWYZ3e8T7+iKwKTvapsh9ZACYAK0wtLmw7+Ojo/WLEbXIe+UfYk7lYMQ7TP19WiVRUzftj/2L+CpmwSAzd9LQ=;MI/NrAWYDthkR1fKHUbAug=="
 ---
 

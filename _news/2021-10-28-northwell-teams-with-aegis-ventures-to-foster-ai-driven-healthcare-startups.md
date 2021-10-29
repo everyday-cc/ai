@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/northwell-teams-with-aegis-ventures-t
 webUrl: "https://www.wsj.com/articles/northwell-teams-with-aegis-ventures-to-foster-ai-driven-healthcare-startups-11635375600"
 type: article
 quality: 82
-heat: 132
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Northwell, Aegis Ventures to team in multibillion-dollar AI effort"
+    excerpt: "A new joint venture with Northwell Health and Aegis Ventures aims to be a multibillion-dollar game ... and other team members in developing methods, which, through AI, can “predict, diagnose ..."
+    publishedDateTime: 2021-10-28T13:55:00Z
+    webUrl: "https://libn.com/2021/10/28/northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort/"
+    type: article
+    provider:
+      name: Long Island Business News
+      domain: libn.com
+    quality: 137
+    images:
+      - url: "https://libn.com/files/2021/10/Northwell-Health-Exterior.jpg"
+        width: 1546
+        height: 1049
+        isCached: true
   - title: "Northwell forms healthcare AI investment venture"
     excerpt: "New Hyde Park, N.Y.-based Northwell Health and Aegis Ventures, a startup studio, formed a joint venture to launch artificial intelligence companies that address needs in healthcare. Four things to know: The joint venture will use medical, business and ..."
     publishedDateTime: 2021-10-28T15:02:00Z

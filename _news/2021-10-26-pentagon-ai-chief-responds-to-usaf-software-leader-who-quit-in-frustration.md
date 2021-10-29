@@ -34,7 +34,7 @@ related:
     provider:
       name: Cfr.org
       domain: cfr.org
-    quality: 57
+    quality: 157
     images:
       - url: "https://cdn.cfr.org/sites/default/files/styles/full_width_xl/public/image/2021/10/RTXEC6PS-min_2.JPG"
         width: 1600
