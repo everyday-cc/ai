@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 791
         isCached: true
+  - title: "MIT’s CSAIL self-driving water taxis launched in the Amsterdam canals"
+    excerpt: "Granted, there aren’t many cities where self-driving water taxis are a viable ... scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Senseable ..."
+    publishedDateTime: 2021-10-29T17:38:00Z
+    webUrl: "https://techcrunch.com/2021/10/29/mit-csail/"
+    ampWebUrl: "https://techcrunch.com/2021/10/29/mit-csail/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/29/mit-csail/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/Roboat09%C2%A9MIT_AMS-Institute.jpg?w=1024"
+        width: 1024
+        height: 435
+        isCached: true
   - title: "Self-driving \"Roboats\" ready for testing on Amsterdam's canals"
     excerpt: "Visitors to Amsterdam may soon spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash."
     publishedDateTime: 2021-10-27T16:01:00Z

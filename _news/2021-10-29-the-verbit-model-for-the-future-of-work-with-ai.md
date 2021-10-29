@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
         width: 770
         height: 425
         isCached: true
-  - title: "Predicting the future of the Earth with artificial intelligence"
-    excerpt: "Starting October 25, a group of scientists will host a workshop to identify ways to create artificial intelligence-informed models of the Earth’s climate."
-    publishedDateTime: 2021-10-25T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/932591"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/060e1208-9f63-4c48-bed0-35375d4a29fe/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
   - title: "The Future of AI Driven Market Research"
     excerpt: "Over the past few years, the world of market research and surveys has seen the emergence of Artificial Intelligence (AI). AI tools, which are finding their way into almost every industry, hold the potential to change the game entirely."
     publishedDateTime: 2021-10-26T18:52:00Z
@@ -73,6 +59,6 @@ related:
         height: 3508
         isCached: true
 
-secured: "9ARJqAoIhYqlS0hqhyyiyYEGwLpn/6AV/sN9by0ErvKqn1CGXYz0wCWpoJL44h24XZzFaYu67Hy/XQRJspVtZKEbbHqY6SIiyoJ206Liv4Rj6fAVBi+AVJNP1QgK9E1yJr6Ij7gZVZbDyykkiQMWTiWfww3aY/ECRbkgP98LESrhGJI9L86iiui5mvp3xDFu06dmLTk/HlqFrpH9ldGfyXwI4nbSie6MrUzi3pFPN9BB3xjcn+e62Dn4wrE94rLq5cwSwFk6jaX1WTSs6/dPQHDG95vFqJVTF9AkS1MDSocXQPEmMKJzdaQcBTLaBvY+RiUpZH5KgajOFhgwQ0Mrruj+2tQeofLS7w8882Numnw=;XgXh5957uSvXsF1eBIlKCg=="
+secured: "5m/yiCeNRZuEhsTvf9OBYulUTnn1mfSMqu1AcPDZBuHD/pVdDMZBAS09y+fa0H5B4D2lY29H6ecHzQ3GuTJsIKH3xdJ1qIqw0uUN0dCUfBJCnVhmW7u64ouxDU5o0wTZxi/0fDQaNx4zUV8F3p4rpE69kkkSEOiTgai4YMpKamJGO/eeb9Qvus338MoafsZRWpXsgjvrA2eTTqfGN+d9LJHA3VKShlm8nnijdRFA6sQGovDW2aKnJpEgG5rAnTYUNYPSXDQ45Ar4n4VpqncA68qn06Ln4LXPG4jCi2nSgYSthHTlYUbjES3Z1evWfCbBret+Q4T8LoEqyPrhzWKXx8IPFPj4jD3OH0aK4i18w/bf0/b5Frc4cgz8v6+v0GAgxqAzOiuyQw981/TqCG4cz7nX5sSmFRjKsGIdbL4sasfwXge2+BrU0N6jK1CpDAh31EY84TddZztqJuoPDady1h5keqGyF1bhM+0D8yFSaN2xL08eajnRfcWaYW5IfL88J1+KfzZ5/QoWwBgcDiikDQ==;7xKdzSDCAgFhOrbA6e6btg=="
 ---
 

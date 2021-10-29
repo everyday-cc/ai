@@ -54,20 +54,6 @@ related:
         width: 770
         height: 425
         isCached: true
-  - title: "Predicting the future of the Earth with artificial intelligence"
-    excerpt: "Starting October 25, a group of scientists will host a workshop to identify ways to create artificial intelligence-informed models of the Earth’s climate."
-    publishedDateTime: 2021-10-25T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/932591"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/060e1208-9f63-4c48-bed0-35375d4a29fe/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "CtNxq9hsmICLGxnSGHaz3APNSzUVUoI6lFHhPp/6Q4DVkcBOwFX2/2cOtd+Y2qYeuCAlrrwfYgvK8S5etkkOG7QxoS65bhzingI1YaLN8NOdZ8zY4jeFzDfFg1e0X7tz1aI5IrTkT2/Wa6YUaLCSG5clTJbpjdGEK5p3S415ELghXTUQY+jFS58LGBAnliH5uJFrEcxLd3hrODlpZdJZaYjBjMBEjCMgQ/C5j/CZeQ1irL0H2U6n3pWYdC/cdMjSRd7XCLOIpg78SitQ0b9B7ArF0k2awqeKmj08SXzZzky8bQG9O8uE2rPwhxufvl5FbPorBSnqIdn4hYuY/vlX8sDpctU6comIHV8lbnKQFGo=;gYw8KSkqEEKx56ztho+HaQ=="
 ---

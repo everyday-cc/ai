@@ -2,6 +2,49 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-09-15-locus-robotics-collects-50-million-in-new-funding-for-amrs.md",
+      "title": "Locus Robotics collects $50 million in new funding for AMRs",
+      "excerpt": "Warehouse automation provider Locus Robotics today gained new fuel to develop its autonomous mobile robot (AMR) technology for fulfillment tasks, thanks to a $50 million funding round. Massachusetts-based Locus Robotics said the new backing would facilitate continued growth and expansion into new markets around the globe,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/52306-locus-robotics-collects-50-million-in-new-funding-for-amrs",
+      "originalUrl": "https://www.dcvelocity.com/articles/52306-locus-robotics-collects-50-million-in-new-funding-for-amrs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/2021/09/14/locus-Screen-Shot-2021-09-14-at-1.41.48-PM.png?height=635&t=1631652043&width=1200",
+          "width": 984,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-dish-selects-ibm-for-ai-for-5g-network.md",
       "title": "Dish Selects IBM for AI for 5G Network",
       "excerpt": "DISH Network Corporation (NYSE:DISH) selected IBM (NYSE:IBM) to help automate the United States’ first greenfield cloud-native 5G network. DISH’s new smart network will be designed to be agile, scalable and fully virtualized,",
@@ -1025,58 +1068,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-snowflake-launches-financial-services-data-cloud-touts-big-customer-wins.md",
-      "title": "Snowflake launches Financial Services Data Cloud, touts big customer wins",
-      "excerpt": "Snowflake launched its Financial Services Data Cloud with more than 600 industry data partners as well as large customers including BlackRock, Capital One and Western Union. In February, Snowflake ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/snowflake-launches-financial-services-data-cloud-touts-big-customer-wins/",
-      "originalUrl": "https://www.zdnet.com/article/snowflake-launches-financial-services-data-cloud-touts-big-customer-wins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/13/bed3330e-9d63-4f85-8879-0016d089e88a/resize/1200xauto/c1f36f8f4e67cf9809fe57cbd2d6b16c/snowflake-finserv2.png",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/snowflake-launches-financial-services-data-cloud-touts-big-customer-wins/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/snowflake-launches-financial-services-data-cloud-touts-big-customer-wins/",
-      "publishedDateTime": "2021-09-14T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

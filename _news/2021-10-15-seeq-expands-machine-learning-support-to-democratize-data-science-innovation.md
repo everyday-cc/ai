@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Seeq Expands Machine Learning Support to Democratize Data Science Innovation"
-excerpt: "New initiative facilitates the integration of machine learning algorithms from open source, third party and customer data science teams into Seeq applications."
-publishedDateTime: 2021-10-14T20:56:00Z
-originalUrl: "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science"
-webUrl: "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science"
+excerpt: "Customer-developed algorithms in Seeq Data Lab—or machine learning operations platforms such as Microsoft Azure Machine Learning, Amazon SageMaker, Anaconda, and others—as part of data science ..."
+publishedDateTime: 2021-10-14T17:47:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
+webUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
 type: article
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
@@ -17,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.automation.com/getmedia/c87f3858-574b-4646-8810-5bfab7d95b8d/Seeq-news-Oct-14-2021-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
+  - url: "https://mma.prnewswire.com/media/1660673/Seeq_Expanded_ML_Support_release_image.jpg?p=facebook"
+    width: 2513
+    height: 1414
     isCached: true
 
-secured: "w+9HggKTdMz1ciXU0sM24UYrFPIUj1LkittEUfx8QKT3p0xvrFyaAZy5FOz51XHCrVWz3mORtmEoulPZ0zNvqZqsAakm0nZeaqIqY2PPVPzWlfXbWxvC3tKKUVz8ABo9SpopjVYHDbD3778+1Uf6WERSNNnMyQxugMBLQvEavO/8UWySO/CnGdjd+NnFd0D5EyB3j9MSrPxjhaHW10EBszHJmpxoHGW0jxqvFy701V+kJwPH4ScFj6Pay2k3gZMPSp0k/Aefqt2eTy/aXuy4Yxk0NZirqo34r5DiUX26OtyLus67PILFAln1g7yAx3lJAqOfJ4QhFtMyruq9aNz4EvDA3YXlE4fzvKcghHEfayc=;nCvoqQxpC5+XEsvhDEwimA=="
+secured: "1mYIgoMCqryySkxyKX4XzKL51molU9pM3v3yy5x6Rn63ycgMrQtsY/S4F3xaFnFCzKW2ScpwUFhNuOSKl8P7iXRelVdtW78TuUvFm1JHPYsI5Inh4aoDw0kRH6BYvi20GGo7LWk8sMnha7tbDee3+X/IfTaBoejemtloTYo4j7ggPubLMM3Ntx37XwMdB2hauZ38b1jPXuZSkhmsPZlyqeE/vvnjhvpG4Yo2bbLei6AmmnPhGSLk2+p7lul5ezFyDUSzrzkmIkyFg/JikkUGShWn90BJ+kQPplr/ToQbpk66Xswbdyoi/SfsmRX4NP3vZon9iwwGPHfMjS75HPDGv09jrd2iF3zhsiJpemBUbaI=;VSSEnyfFnBJ4NqPdav5YlQ=="
 ---
 

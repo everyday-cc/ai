@@ -7,7 +7,7 @@ originalUrl: "https://www.fda.gov/medical-devices/software-medical-device-samd/g
 webUrl: "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles"
 type: article
 quality: 134
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.raps.org/RAPS/media/Advertising/2021/House/2021-Euro-Convergence-Promo-Graphics-Google-Bnner-300x250.png"
         width: 300
         height: 250
+        isCached: true
+  - title: "FDA releases best practices for machine learning in medical device development"
+    excerpt: "The US Food and Drug Administration (FDA), Health Canada, and the UK’s Medicines and Healthcare products Regulatory Agency (MHRA) released ten guiding principles for the use of machine learning in medical device development. Artificial intelligence (AI ..."
+    publishedDateTime: 2021-10-29T17:27:00Z
+    webUrl: "https://www.jurist.org/news/2021/10/fda-releases-best-practices-for-machine-learning-in-medical-device-development/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 35
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/10/medical_technology_1635514712.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "/Q9u5feNUYTMvEcVux016xpxwCDPtEK4C2UghDecHD3TgCbjC89+tKVZ/jPUnsT/4LPKemC60x1F13YZ0vC/bE5bEpGYia69BYZthqSr7tUKrRv1EZSqovb9yubwyXsoQJD5wdF+i5rWVhfa0zQAnKnDpIqPyrfM547MCaVt7ydN9s2TcCgJutmXyJbwLidN3fTF6juir2fFj53LiDd5sGMQJccl0Y4GQv8pPjeV8sErU+LfLV/p8miU/40HQf9jiqZAJyaF9EqTlvII/HFQmUGR6/cUeO1i4FBimp4t1A7ZGMIMthjszDUUYs88aMtYSPYk8XUWgJsMGZHv95eBjJqxZNr7K6oWcJHRSajEzuI=;8JK9ni3XKjd2mRoB5rwWIA=="

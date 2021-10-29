@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FDA releases best practices for machine learning in medical device development"
+    excerpt: "The US Food and Drug Administration (FDA), Health Canada, and the UK’s Medicines and Healthcare products Regulatory Agency (MHRA) released ten guiding principles for the use of machine learning in medical device development. Artificial intelligence (AI ..."
+    publishedDateTime: 2021-10-29T17:27:00Z
+    webUrl: "https://www.jurist.org/news/2021/10/fda-releases-best-practices-for-machine-learning-in-medical-device-development/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 35
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/10/medical_technology_1635514712.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "+ByawwOD+0KeX0FzyUiaWzKrAn4U3gyqcIQNyZyMutDjEKPNy/OrlKiZN6mSj3MM/mADug9WvTfBjAudIaJT12GQy9ZbOg4zWtBrFz9FMVTQpBIZlNJuTXyrdJ+f5ZrbFxAOu0XequhxcoGBo8WmLjPs3vaeX9p+HVu+71EthvuN6C2mYnSm3cqmCoEyTpFW06YI2vmI1HVXXzcBDo5oZcsyfSx2SNsi8L7PZyecJOL4E4CMsPKUm/4ShXMgYeMSjNTEultch37zfdGyeaspaJPo/a+dM9rvGHzQhB6EunMWr+27miidb8ZLTE01QWBF3W85xpLTzcKDbg6K2rbYBj4c+mFChLTuhbnDX2qS8SR92REyArmUXJqTUg/l/9SJme19CphKadmiWmuhUg0o5sS/fSzhzs6PDvZ6u+361ar9MbV1O0B2aes6hcpC+F7ub6kHLPJg9etZYeEgJqlDricC/nToiCf3CHzWsSDo3MnQ0Rld4TWOFab4xHszl4ALpTbb1cwFTOvSzDwIc4Kdzw==;tbljDPYE0GEDllOdCV0Yfw=="
 ---
