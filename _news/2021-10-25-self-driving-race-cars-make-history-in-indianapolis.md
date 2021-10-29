@@ -43,15 +43,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Self-driving race cars reach blistering speed at inaugural race"
-    excerpt: "A team of computer programmers and engineers from a German university have been crowned the inaugural champions of self-driving cars around one of the world's most famous racetracks. Setting the record pace over two laps,"
-    publishedDateTime: 2021-10-24T19:01:00Z
-    webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=342133&tst"
-    type: article
-    provider:
-      name: NZCity
-      domain: nzcity.co.nz
-    quality: 4
 
 secured: "w+z8d+YDIaCaekfTqKfgAoxtRIq4SRJMu9ryhTI2xuFCUlG4B8kATnRlp8GDmi2qtsMcypsT8VE4L9DJG9zyLLPTdTNDl4YQaHBIT1YYZlypcVLAcfTwtISDxlCIN84sUDo38fFsvhaRGrzYFfyEuuSM77JyHJSgu+wfOyaXsQFl68+sHjmxTIlkaaThNUhLWauNPh84LRkkuJEjwqG2XvVqUl1IIwSRm7i2UY/XomXfCOwjDDcJI5c396SLAfdFFy/WDMlRWdYp/gzwC1IntZkszvGCMAmwDMpAZalpE47qWG8C7dq+L/4/02ItcjUDPzWIvRMR0M7ALbexpL/brEQMRjMsYybGQysHbON7GNehnezqMXUpT5FIMhFJpESHD7uxA0fOZBjP1iY4oVO62Kbw19SUuC5ylvxkORVouoWpuzXarKh6wcYDhrB0wo+k5eZCHxIcZXHuQq7OK3hihE/nu9HTWKxuhbk2cgz2krJQEYm7wVQreMWzyNTsz9OhkIfW1MAL98ywwuO9tp0E+A==;y+O01bKauxjgbyWEr2asCA=="
 ---

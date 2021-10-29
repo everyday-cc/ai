@@ -40,20 +40,6 @@ related:
         width: 2560
         height: 1853
         isCached: true
-  - title: "Artificial Intelligence (AI) in Finance"
-    excerpt: "The domain of finance has long been highly active in artificial intelligence (AI) research and implementation. In fact, the financial sector was already involved in developing innovations around Bayesian statistics,"
-    publishedDateTime: 2021-10-24T17:55:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-finance/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 69
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/data-1.png"
-        width: 626
-        height: 368
-        isCached: true
   - title: "Artificial Intelligence (AI) in Energy"
     excerpt: "Innovative advances in artificial intelligence (AI) in energy are improving the way the world consumes, sells, and creates energy at a time when the environmental impacts of the global power grid are under constant scrutiny."
     publishedDateTime: 2021-10-25T13:05:00Z
