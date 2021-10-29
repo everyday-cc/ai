@@ -117,17 +117,6 @@ related:
         width: 821
         height: 528
         isCached: true
-  - title: "Deep Learning Market Size and Forecast 2028 | Key Companies – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
-    excerpt: "The report provides an overview of the Deep Learning Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
-    publishedDateTime: 2021-10-24T15:20:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 55
   - title: "Microsoft Stock Hits Record High After Q1 Profits Top $20 Billion On Cloud Strength"
     excerpt: "Microsoft profits topped $20 billion for the first time ever last quarter, as booming cloud demand lifted overall sales to a record $45.3 billion."
     publishedDateTime: 2021-10-27T14:49:00Z

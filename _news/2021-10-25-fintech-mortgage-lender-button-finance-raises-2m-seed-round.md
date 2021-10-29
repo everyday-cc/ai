@@ -68,6 +68,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Australian fintech Completes Major US Acquisition"
+    excerpt: "Melbourne based Remitter acquires US-based Mercantile Adjustment Bureau following successful USD 12m cap raise -  Expands headcount to over 180 staff - Future global acquisitions"
+    publishedDateTime: 2021-10-29T08:00:00Z
+    webUrl: "https://www.asiaone.com/business/australian-fintech-completes-major-us-acquisition"
+    ampWebUrl: "https://www.asiaone.com/business/australian-fintech-completes-major-us-acquisition?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/australian-fintech-completes-major-us-acquisition?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 44
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2021/pr-newswire_500_4_1558.jpg?itok=942fFmJj"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Tech Behind MSME Fintech Startup ARTH"
     excerpt: "Mumbai-based fintech startup ARTH provides financial assistance to women-led enterprises with limited or no online adoption."
     publishedDateTime: 2021-10-25T08:30:00Z
@@ -135,6 +151,20 @@ related:
     quality: 24
     images:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/picture%20of%20the%20US%20capitol%20building%20blended%20with%20the%20American%20flag.jpg.png?itok=jIyyI_P5"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Revolutionary Ways Fintech is Boosting the Property Industry"
+    excerpt: "Discover the most disruptive ways fintech expands the property sector, from digital-only lending and fractional ownership, to property-backed stablecoins"
+    publishedDateTime: 2021-10-29T09:10:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/revolutionary-ways-fintech-boosting-property-industry"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/property-ladder-made-of-wooden-toy-houses.jpg.png?itok=veSXrwG0"
         width: 1200
         height: 630
         isCached: true

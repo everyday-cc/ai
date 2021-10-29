@@ -105,17 +105,6 @@ related:
         width: 821
         height: 528
         isCached: true
-  - title: "Deep Learning Market Size and Forecast 2028 | Key Companies – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
-    excerpt: "The report provides an overview of the Deep Learning Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
-    publishedDateTime: 2021-10-24T15:20:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 55
   - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
     excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
     publishedDateTime: 2021-10-27T00:17:00Z

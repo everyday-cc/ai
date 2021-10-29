@@ -27,35 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "'Tens of thousands;' of self-driving vehicles could be on UK roads by 2030"
-    excerpt: "Tens of thousands of self-driving vehicles could be on UK roads by 2030, delegates at Fleet and Mobility Live heard. Mark Cracknell, head of connected and automated mobility at Zenzic, told fleet decision-makers at the ‘how connected cars can benefit ..."
-    publishedDateTime: 2021-10-28T11:35:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/car-industry-news/2021/10/28/tens-of-thousands-of-self-driving-vehicles-could-be-on-uk-roads-by-2030"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/car-industry-news/2021/10/28/tens-of-thousands-of-self-driving-vehicles-could-be-on-uk-roads-by-2030"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/car-industry-news/2021/10/28/tens-of-thousands-of-self-driving-vehicles-could-be-on-uk-roads-by-2030"
+  - title: "Self-driving cars spark DfT crash investigation consultation"
+    excerpt: "The Government has launched a consultation on creating a road crash investigation team as self-driving technologies become more prevalent."
+    publishedDateTime: 2021-10-29T09:23:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/car-industry-news/2021/10/29/self-driving-cars-spark-dft-crash-investigation-consultation"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/car-industry-news/2021/10/29/self-driving-cars-spark-dft-crash-investigation-consultation"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/car-industry-news/2021/10/29/self-driving-cars-spark-dft-crash-investigation-consultation"
     type: article
     provider:
       name: Fleet News
       domain: fleetnews.co.uk
-    quality: 42
+    quality: 44
     images:
-      - url: "https://cdn.fleetnews.co.uk/web-clean/1/root/fml-auto_w1200.jpg"
+      - url: "https://cdn.fleetnews.co.uk/web-clean/1/aafleet-news/road-traffic-accident-2-istock-1006045926-halfpoint_w1200.jpg"
         width: 1200
-        height: 799
+        height: 800
         isCached: true
-  - title: "Secure Data Transmission Could Take Connected Self-Driving Vehicles to the Next Level"
-    excerpt: "Teamwork seems to be a valuable concept for autonomous vehicles, as well – connected self-driving cars can respond to road and traffic conditions much better, compared to relying only on their sensors."
-    publishedDateTime: 2021-10-25T07:57:00Z
-    webUrl: "https://www.autoevolution.com/news/secure-data-transmission-could-take-connected-self-driving-vehicles-to-the-next-level-172506.html"
+  - title: "Road collision consultation launched to ‘modernise' network and include self-driving cars"
+    excerpt: "We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info A consultation was launched ..."
+    publishedDateTime: 2021-10-29T07:10:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1513341/road-safety-collision-consultation-self-driving-cars"
+    ampWebUrl: "https://www.express.co.uk/life-style/cars/1513341/road-safety-collision-consultation-self-driving-cars/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1513341/road-safety-collision-consultation-self-driving-cars/amp"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 17
+      name: Daily Express
+      domain: express.co.uk
+    quality: 35
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/secure-data-transmission-could-take-connected-self-driving-vehicles-to-the-next-level-172506-7.jpg"
-        width: 728
-        height: 300
+      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/Road-collision-consultation-safer-roads-highway-code-1513341.jpg?r=1635491411650"
+        width: 590
+        height: 350
         isCached: true
 
 secured: "khCTzaSXdeRlNb8PZv5R2ZKUBE5dvieDEdXT36YDhKJgV0MkqgzmtbsBJ7SJ2jzyL3jJ82BaC9QRSgcW7DIQiIrZ/vABVpY5FLmmBp4NrODIdpRQ0LG17WlaImkU+E6wqqOO4ZKKyd2/KYycanP76ukjhGtQNOyd3vZwkhHqTub4XmQIWNd0k/FHTtadrNtl3HhK0WoDik6ADOjXXaBsHqz94AngofWAYchpaowK5Y98Obicc3Oa2bPbPyjrrG0ZOf8NAmtEQ82yXRU30vG1neT0R6KRMP1t6YH5OCok1qmP4mJDJaW68OH9wFA0/ThL/bePjaQPCnzwz7iKyA48GULxnl7z2sPMAsqlBDuHar8=;pNtxKLb/uFDvLwL39Z/AuA=="
