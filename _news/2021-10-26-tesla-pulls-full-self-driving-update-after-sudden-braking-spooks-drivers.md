@@ -125,22 +125,6 @@ related:
         width: 1350
         height: 675
         isCached: true
-  - title: "Elon Musk rolls back newest ‘Full Self-Driving’ beta due to software issues"
-    excerpt: "Tesla CEO Elon Musk tweeted that the company would have to temporarily pull back the latest version of the company’s Full Self-Driving (FSD) beta software less than a day after its release. “Seeing some issues with 10."
-    publishedDateTime: 2021-10-25T01:44:00Z
-    webUrl: "https://techcrunch.com/2021/10/24/elon-musk-rolls-back-newest-full-self-driving-beta-due-to-software-issues/"
-    ampWebUrl: "https://techcrunch.com/2021/10/24/elon-musk-rolls-back-newest-full-self-driving-beta-due-to-software-issues/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/24/elon-musk-rolls-back-newest-full-self-driving-beta-due-to-software-issues/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/0x0-ModelS_17.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Tesla pulls Full Self-Driving update due to 'issues'"
     excerpt: "Tesla has rolled back the latest version of its Full Self-Driving car software, from version 10.3 back to version 10.2. The Full Self-Driving (FSD) is optional software that enables a number of autonomous driving features in Tesla cars (though it does not really enabled autonomous driving without driver supervision)."
     publishedDateTime: 2021-10-25T15:00:00Z

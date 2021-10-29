@@ -9,8 +9,8 @@ ampWebUrl: "https://www.propertycasualty360.com/2021/10/26/ai-and-the-push-to-en
 cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/10/26/ai-and-the-push-to-end-insurance-ratings-bias/?amp=1"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: PropertyCasualty360
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Bajaj General Insurance leveraged automation, AI and ML for automating key processes"
-    excerpt: "Insurance provider Bajaj Allianz General Insurance Co. Ltd. has developed a mobile phone Application that aids in digital pre-insurance medical checku.."
-    publishedDateTime: 2021-10-25T03:38:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 45
   - title: "The World’s First AI Powered, Pay-as-You-Need and Peer-to-Peer life insurance model"
     excerpt: "OneSpark, the new-age, globally backed start-up on the block that’s completely re-inventing and disrupting the global insurance industry to doing everything they can to create a better future for all South Africans,"
     publishedDateTime: 2021-10-25T06:23:00Z

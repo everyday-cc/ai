@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
-    excerpt: "AWS announces availability of Amazon EC2 DL1 instances featuring Gaudi accelerators from Habana Labs for training machine learning models"
-    publishedDateTime: 2021-10-27T00:25:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211026006274/en/AWS-Announces-General-Availability-of-Amazon-EC2-DL1-Instances"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
 
 secured: "4dba3Hd5igIBdpx8Q7IwBLFZl3/46qP2d2wr/ACxz122l354MaAAhBzGwjLdGJxU94nVYpzOVlAVHVuwQqZoQxAnkb9lLv9r9ZjVHldxdkCLZsLWweX/oA8jS3+V9jcyrt9kIggkxKTKEj5jd/b4wBUExx/1jUbz6ZnnDaNarzdN46s2WrUfgNk1xaXQqMdaTsBd5aFxM5hzuAhsri9OY0bWEH9H6flnW4HXGNl/t6CZkr1gfsFkpKi8Yz0dvBqH4yk992By9dElJ0tC7UH1UW7h/0QcVvqJmbHP90sg9TX4pbLoxTMh9RhD2OadyaNEhNtllvSyt1KI0XIZ773+JBuFu6SBPd26/LL9aw5HSAUvCo/atuKYqX7rT0Rit4ydleLlrIR4dAHWcMv1FjEQfq3MC38tj+rSyuMTHSbhypwQEswMxPBk5iieT+TJTUaHnC7spkIwdHqm5G73lX7KPd7sghWmQN6hLyqtlEOBNYCoZa00zk0g9RMzOvCxAORLTOp0qNihMCGOi3g5snImDw==;sv/iRZCzdaA8vsgQczNcxQ=="
 ---

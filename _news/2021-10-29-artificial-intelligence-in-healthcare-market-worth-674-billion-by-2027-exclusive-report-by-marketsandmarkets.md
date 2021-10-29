@@ -2,26 +2,26 @@
 category: news
 title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets™"
 excerpt: "CHICAGO, Oct. 29, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Computer Vision ..."
-publishedDateTime: 2021-10-29T13:33:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027--exclusive-report-by-marketsandmarkets-301411884.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027--exclusive-report-by-marketsandmarkets-301411884.html"
+publishedDateTime: 2021-10-29T14:05:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027---exclusive-report/article_76e6767d-827a-55ea-b152-f3bf1df17c14.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027---exclusive-report/article_76e6767d-827a-55ea-b152-f3bf1df17c14.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-    width: 666
-    height: 350
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
+    width: 669
+    height: 229
     isCached: true
 
 related:
@@ -60,6 +60,6 @@ related:
       domain: tcs.com
     quality: 9
 
-secured: "+z6uXc2aV85ySsNdonCBhT7jID+IY0c0MpO+SeuHEJ+TvDJbpMCGbiaDKU7zHkOFl45W5KN7XPuip72Ms6YP19lWwKj+oTuku2+KgTKtGdE0Pvca++gcoIuVloqcSJjzREni14z621WBeuMYl+TG7Y8k0vwa8hdJAUSUQXWS96ysCtRKbvpmQ4Red2Lr+64qGO9pOFf7eSOtnRIGHhRunMcBJfRY5KBz+XTzbGkCumHQ78po2eXmcFWwZY88igy04vWX7p2crHP/mC+/xcpUXQezks1RuYsxXnDeQ6EfqGLomubKWgm5aRjc35p9yXCaaAOux4UxyYPQKFn/hldr2sY0TMi4XtMT48Hwdvfd+OQ=;2fWMKO0s80isYGOCzNunpA=="
+secured: "64Qp0Rvp7OxBCH6SCOiQs0FH2EnVMyKHOtBHeDJ1dia3jPfzr60Umy77Ynt5uW86KXv2BggVqRF8WJT3YYiOoEaf6ZWkPC8XuT8i7AFfnrmYeqxmv7esPNGXiY/SdMjrDokeyD/UGO5FrtLnJp9BNUlcM9clC3qKaRMFfit5Laxf6xLqm8rlttEBnkzOfSA8HnArEwkbPyq08YX6Y8rBfoViDl7ptM6LftwY1yn3mpSEpnW3mNSKbZuI3f627/n+wJMn0oKy/dwbeji5PqrvAiRej2z4HZotl2laeIcqmxhjGa8MIEzKyKiquccXVMf02yoX/JNyprsaBaMRQpa6nwF9FsSBSjFbD1eAj1/TdbE=;fb5Hsqau0WxZYzaVSkPcpg=="
 ---
 

@@ -35,6 +35,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "CurieDx wants to make AI-powered diagnosis accessible for all"
+    excerpt: "The team is building with inclusion in mind from the start. When it came time to name her AI-driven medical diagnosis platform, Dr. Therese Canares’ thoughts turned to Marie Curie. The pioneering radioactivity scientist made discoveries that last through ..."
+    publishedDateTime: 2021-10-29T18:50:00Z
+    webUrl: "https://technical.ly/baltimore/2021/10/29/curiedx-jhtv-pitch/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 37
+    images:
+      - url: "https://technical.ly/baltimore/wp-content/uploads/sites/3/2021/10/curiedx.jpeg"
+        width: 900
+        height: 368
+        isCached: true
 
 secured: "YaXyxhgwoIfKSsrFsmv7z2fv7MfWTrN6uUjKA9wEdr7qDm1afLEh1Cx078xABYd5iLpuosdppnWjyvs/iGtieeYvOgU81bmQ8bR6gR5X4aIJkU3mANYRK43ysmt0fOP3WOImjLGhVkmtspt3bcZmR2CJvfl9nqlb6xV8lha8GKL+1zK0MRw8m8FcpAp3/0qp+dWce4QQnjvPOayd1hVJBTdi/vSEeub0pbbD3hIrLMRvGC2AjXH9Q5uKw/2fQuLUDXVVbFpF86f5rzBVr9Yf736QJhaYap/rRxEL+yfbhBtWIiDCeOmG6X+ScOOskrAH1X2TggoRopgQphava3wQlikIRe92d45eQ4b1hVC9twU=;8Gqi4qpAqaAPBfg7M4LlMg=="
 ---

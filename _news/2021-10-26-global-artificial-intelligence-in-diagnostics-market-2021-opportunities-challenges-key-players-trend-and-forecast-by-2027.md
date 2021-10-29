@@ -44,22 +44,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Self Driving Cars and Trucks Market Global Demand and Competitive Analysis between Top Players 2021-2030"
-    excerpt: "The Global Self Driving Cars and Trucks Market size is estimated to be USD 0 90 Billion in 2019 and is predicted to reach USD 2 64 Billion by 2030 with a CAGR of 10 2 from 2020 2030 Self"
-    publishedDateTime: 2021-10-25T02:46:00Z
-    webUrl: "https://www.openpr.com/news/2439196/self-driving-cars-and-trucks-market-global-demand"
-    ampWebUrl: "https://www.openpr.com/amp/2439196/self-driving-cars-and-trucks-market-global-demand"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439196/self-driving-cars-and-trucks-market-global-demand"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 42
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua25645592_g.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "oCgSCgpOsXMv9xwMUxvaJ5AnY9Ncdti0oxazzlYq/bHfXO/+tAgTeGMFECTXWiAQlJkf7jgwk/HB5Gualuvb1elaj6yVpIzI9xdz7yIpCIWMBEsbaNQghhGsUt9dXp8jn/29ii5lPmbAkK1r+JFuR/VwY4KYUetWgcoQqOdUuuozWMa0CazEhHg9mus4wxjuWjgCY7cbad2l+dxsYuHI4CqBoW4l4O0/1f+eVeJZHe0ka5Dq8yJLgjlCZoWJI+hQaWwsNSTNbbGc9kPy8a7UlPlU4MQS8y7oNsv9sNmQWVjARradmKb6+tvPjs5h4qIw0quGOh5COPtvFl5QLwajxWfHMnwViiDxaROHfEFd93U=;20iKSX5hnVnlpCsogZyPGA=="
 ---

@@ -21,35 +21,33 @@ topics:
   - Machine Learning
 
 related:
-  - title: "AI and the Push to End Insurance Ratings Bias"
-    excerpt: "Artificial intelligence (AI) has changed how insurers price the risk associated with an account, in many ways for the better. However, the promise of automation has led to a new concern: bias in the AI algorithms and scoring models,"
-    publishedDateTime: 2021-10-26T21:01:00Z
-    webUrl: "https://www.propertycasualty360.com/2021/10/26/ai-and-the-push-to-end-insurance-ratings-bias/"
-    ampWebUrl: "https://www.propertycasualty360.com/2021/10/26/ai-and-the-push-to-end-insurance-ratings-bias/?amp=1"
-    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/10/26/ai-and-the-push-to-end-insurance-ratings-bias/?amp=1"
+  - title: "Build conversational experiences for auto insurance using Amazon Lex"
+    excerpt: "Auto insurance companies are focusing on digital innovations to meet customer needs. Digital-first engagements provide tailored coverage, transparent information, and seamless experiences. The shift to virtual channels for customer service that occurred during the pandemic is unlikely to revert to traditional"
+    publishedDateTime: 2021-10-29T19:04:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-auto-insurance-using-amazon-lex/"
     type: article
     provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 57
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
     images:
-      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/276/2021/10/Theresa-Benson-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/1-6098-Architecture.jpg"
+        width: 800
+        height: 495
         isCached: true
-  - title: "The World’s First AI Powered, Pay-as-You-Need and Peer-to-Peer life insurance model"
-    excerpt: "OneSpark, the new-age, globally backed start-up on the block that’s completely re-inventing and disrupting the global insurance industry to doing everything they can to create a better future for all South Africans,"
-    publishedDateTime: 2021-10-25T06:23:00Z
-    webUrl: "https://www.businessinsider.co.za/the-worlds-first-ai-powered-pay-as-you-need-and-peer-to-peer-life-insurance-model-2021-10-3"
+  - title: "Automate the customer service experience for flight reservations using Amazon Lex"
+    excerpt: "As air travel starts to pick up in many parts of the world, digitization continues to transform the aviation industry. Airlines are working to reduce the number of touchpoints at the airport. Best practices have been implemented to minimize the number of physical interactions between employees and travelers."
+    publishedDateTime: 2021-10-29T19:43:03Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-the-customer-service-experience-for-flight-reservations-using-amazon-lex/"
     type: article
     provider:
-      name: BusinessInsider
-      domain: businessinsider.co.za
-    quality: 31
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
     images:
-      - url: "http://cdn.24.co.za/files/Cms/General/d/11714/1b73dbd453434f08aa3de8d4b69b29b4.jpg"
-        width: 650
-        height: 430
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/1-6098B-Arch.jpg"
+        width: 800
+        height: 566
         isCached: true
 
 secured: "bp6Gi+eXMgrzrBkneM7hEK1FezqxIMXNBgnTLTJjdDvG3fW70ssxDQWrsLL/xDa4YKqh5R4Ms1zJtBACXT0UvxvuoqDQBFXLQVoYsQuCvmGQ/EeLalK2HroYiXK6uI6d1A/1GHcjNXsu+6AmXrLx8KK1cPTUDckZBtelk/QdJ5wd9hEcHC+mBNsSmGnudHgB/zG0ua2r8r8YD9yLbSBlLfuyft34f9Zdzf2epJIekGqHbIv6IqnavZFoZJk5XTMP793qjiH7U5LcXHthfdyxKdaczzyR8fch/dLDfYE5NmVS9y+IfOHXD7nAEFhJDU/ilyi9f/BOD5XD1QwwtS/sdlYmFxxQp5eGL2AXuWnLJE4=;mn+SpP1iwvEAicZdsSlE5A=="

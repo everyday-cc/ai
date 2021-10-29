@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/entertainment/18010/singapore-based-digital
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible?amp=1"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "CurieDx wants to make AI-powered diagnosis accessible for all"
+    excerpt: "The team is building with inclusion in mind from the start. When it came time to name her AI-driven medical diagnosis platform, Dr. Therese Canares’ thoughts turned to Marie Curie. The pioneering radioactivity scientist made discoveries that last through ..."
+    publishedDateTime: 2021-10-29T18:50:00Z
+    webUrl: "https://technical.ly/baltimore/2021/10/29/curiedx-jhtv-pitch/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 37
+    images:
+      - url: "https://technical.ly/baltimore/wp-content/uploads/sites/3/2021/10/curiedx.jpeg"
+        width: 900
+        height: 368
+        isCached: true
   - title: "NTU Singapore and AMD officially open joint Data Science and Artificial Intelligence Lab"
     excerpt: "SINGAPORE, 28 October 2021 – AMD and Nanyang Technological University, Singapore (NTU Singapore), with the support of the Singapore Economic Development Board (EDB) today announced the official opening of the NTU-AMD Data Science and Artificial ..."
     publishedDateTime: 2021-10-28T00:00:00Z

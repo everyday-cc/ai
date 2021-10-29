@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/facebook-doesnt-amplify-hate-supports-safet
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-doesnt-amplify-hate-supports-safety-legislation-exec-tells-british-lawmakers-1643646?amp=1"
 type: article
 quality: 65
-heat: 75
+heat: 77
 published: true
 
 provider:

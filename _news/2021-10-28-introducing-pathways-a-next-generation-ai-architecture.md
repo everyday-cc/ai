@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/introducing-pathways-next-generati
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/58190d3b9be2f10b7c067e98f461e75b3a4c0dc0/2021/10/29/4802e0e3-058c-4b9b-bd4e-9761f806c7be/google-pathways-ai.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google developing ‘next-generation’ AI capable of learning millions of tasks"
+    excerpt: "In 2016, the company’s researchers upgraded the AI powering Google Translate with the ability to translate text between two languages even if it wasn’t specifically trained to do so."
+    publishedDateTime: 2021-10-29T17:59:00Z
+    webUrl: "https://siliconangle.com/2021/10/29/google-developing-next-generation-ai-capable-learning-millions-tasks/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/google-1.png"
+        width: 863
+        height: 483
         isCached: true
 
 secured: "g2mQg1FUhu/oMyirv0tBH4P98Oqd/FfBYqMT0X6dfrzol9NzbAgMn4STsNucAsfNvbB4sXknsPGwtHVwRYYuVmjl8NcDZBkYev6AehJUMpPTg3FBHfffqlDCZBTz3nQZUoM0DT5ewCF4TcPW4Kbij/Q9bnwF9X4r7WBy/mkISoPjE74ZPzLXz+ujcPqpOP1e1WsN+kytgInPfvWFeC13du7xFuragymPPuil9XCoDPAobrtCf5NYNuZ4eesrRtAN8HjBV8JzaCIUxyLCNngrRlS000FE6nBVby19NdVLZEA5P6BXQLuTRS/jYLcSPXBgf4bvtHIiZXtq8BC0N2pYbjybTjzR1sJUMfBTy458/tY=;/v0pub4yHuEX3ZaBqTIfCA=="

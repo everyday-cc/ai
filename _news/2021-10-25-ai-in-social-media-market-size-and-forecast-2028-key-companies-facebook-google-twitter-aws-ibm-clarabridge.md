@@ -95,22 +95,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 40
-  - title: "Cognitive Security Market Size and Forecast 2028 | Key Companies – IBM, DXC Technology, Cisco, CA Technologies, Symantec, McAfee"
-    excerpt: "Cognitive Security Market was valued at USD 6.79 Billion in 2020 and is projected to reach USD 80.41 Billion by 2028, growing at a CAGR of 36.2 % from 2021 to 2028. Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-10-25T02:41:00Z
-    webUrl: "https://manometcurrent.com/cognitive-security-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/cognitive-security-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-security-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 32
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/TIP-6-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
     excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
     publishedDateTime: 2021-10-26T06:51:00Z
