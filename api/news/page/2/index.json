@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-10-27-intel-challenges-amd-and-nvidia-with-new-ai-technologies-amid-renewed-developer-commitments.md",
-      "title": "Intel Challenges AMD And NVIDIA With New AI Technologies Amid Renewed Developer Commitments",
-      "excerpt": "Intel renews AI Technologies with Sapphire Rapids CPU and Ponte Vecchio GPUs. But can they do better than AMD and NVIDIA?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6178729f3f1896228c1e3a3e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2687%26cropY1%3D0%26cropY2%3D1512",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
-      "publishedDateTime": "2021-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-27-self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022.md",
       "title": "Self-driving company Cruise on track for early commercial operations in 2022",
       "excerpt": "General Motors CEO Mary Barra is “pretty confident” that the driver will be out of Cruise vehicles by 2022, as the company looks to enter early commercial operations for autonomous robotaxi and delivery services.",
@@ -1182,7 +1130,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1225,6 +1173,57 @@
         "AI Hardware",
         "AWS AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever.md",
+      "title": "AI deployments: Is your organization a transformer, pathseeker, starter or underachiever?",
+      "excerpt": "AI-fueled organizations address strategy, operations, culture and change management and ecosystems, according to Deloitte's latest State of AI in the Enterprise report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/26/cef0cad3-f8a5-4538-ba45-784daf3c801d/resize/1200x/445309360b3a3b023507b870fd0d0ef1/deloitte-state-of-ai.jpg",
+          "width": 1200,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "publishedDateTime": "2021-10-26T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

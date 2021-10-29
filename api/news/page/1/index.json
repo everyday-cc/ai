@@ -521,49 +521,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-28-artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-1783-billion-by-2027.md",
-      "title": "Artificial Intelligence in the Education Sector Market Size Forecasted to be Worth USD 17.83 Billion by 2027",
-      "excerpt": "The global artificial intelligence in the education sector market is expected to be valued at USD 17.83 billion by 2027 from USD 1.08 Billion in 2019, registering a CAGR of 43.8% through the forecast period,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/10/Artificial-Intelligence-in-the-Education.png",
-          "width": 2646,
-          "height": 1512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/amp/",
-      "publishedDateTime": "2021-10-28T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2021-10-28-using-artificial-intelligence-for-the-employee-benefits-journey.md",
       "title": "Using artificial intelligence for the employee benefits journey",
       "excerpt": "Many people feel uncomfortable with using artificial intelligence (AI), since it tends to ... want support and guidance tools to help them understand how to save for health care, retirement, and emergencies. But your team can barely handle all the employee ...",
@@ -857,7 +814,7 @@
       "originalUrl": "https://www.wsj.com/articles/northwell-teams-with-aegis-ventures-to-foster-ai-driven-healthcare-startups-11635375600",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1236,6 +1193,58 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-intel-challenges-amd-and-nvidia-with-new-ai-technologies-amid-renewed-developer-commitments.md",
+      "title": "Intel Challenges AMD And NVIDIA With New AI Technologies Amid Renewed Developer Commitments",
+      "excerpt": "Intel renews AI Technologies with Sapphire Rapids CPU and Ponte Vecchio GPUs. But can they do better than AMD and NVIDIA?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6178729f3f1896228c1e3a3e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2687%26cropY1%3D0%26cropY2%3D1512",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
+      "publishedDateTime": "2021-10-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

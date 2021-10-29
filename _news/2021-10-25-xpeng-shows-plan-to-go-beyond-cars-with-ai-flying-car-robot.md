@@ -7,7 +7,7 @@ originalUrl: "https://www.business-standard.com/article/international/xpeng-show
 webUrl: "https://www.business-standard.com/article/international/xpeng-shows-plan-to-go-beyond-cars-with-ai-flying-car-robot-121102400937_1.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Xpeng Unveils Plan to Go Beyond Cars With AI, Flying Car, Robot"
-    excerpt: "The Guangzhou-based company also launched the prototype of a ridable robot horse at its so-called “Tech Day.” Xpeng said 60% of its users have paid for the assisted-driving feature, called the navigation-guided-pilot function,"
-    publishedDateTime: 2021-10-24T07:38:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-10-24/xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDx9DkywNwMU/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "XPeng unveils slate of new technologies: ADAS, flying car, supercharging, robotics"
     excerpt: "China-based EV maker XPeng unveiled a series of technology innovations at its annual 1024 Tech Day, including the latest and most sophisticated version of its in-house developed advanced driver assistance system XPILOT 3."
     publishedDateTime: 2021-10-25T07:35:00Z

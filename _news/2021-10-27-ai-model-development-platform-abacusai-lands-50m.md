@@ -49,13 +49,18 @@ related:
         isCached: true
   - title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
     excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,"
-    publishedDateTime: 2021-10-27T17:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/abacus-ai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-1030906474"
+    publishedDateTime: 2021-10-27T17:25:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Abacus.AI gets $50M in funding and dives into computer vision and hybrid AI models"
     excerpt: "Machine learning operations startup Abacus.AI Inc. is in the news today after raising $50 million in a new round of funding and launching platform updates that include support for hybrid deep learning models and a new computer vision-as-a-service offering."
     publishedDateTime: 2021-10-27T16:00:00Z

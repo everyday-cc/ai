@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-22-google-is-still-all-in-on-health-care-chief-health-officer-karen-desalvo.md",
+      "title": "Google is still 'all in' on health care: Chief health officer Karen DeSalvo",
+      "excerpt": "IBM has long attempted to make its AI Watson a major player in health care, and now other major technology companies, especially consumer-facing ones, are increasingly interested in health-care ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/21/google-is-all-in-on-health-care-again.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/21/google-is-all-in-on-health-care-again.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106963617-1634781012100-gettyimages-1283059533-273741final.jpeg?v=1634781062",
+          "width": 5000,
+          "height": 3750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/21/google-is-all-in-on-health-care-again.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/21/google-is-all-in-on-health-care-again.html",
+      "publishedDateTime": "2021-10-22T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-aws-makes-its-panorama-appliance-generally-available.md",
       "title": "AWS makes its Panorama Appliance generally available",
       "excerpt": "Customers can update their computer vision application in Amazon SageMaker and deploy the model to the AWS Panorama Appliance, thanks to the device's full integration with Amazon SageMaker.",
@@ -616,6 +668,40 @@
       ]
     },
     {
+      "path": "_news/2021-10-21-iron-mountain-wins-google-cloud-financial-services-customer-award.md",
+      "title": "Iron Mountain Wins Google Cloud Financial Services Customer Award",
+      "excerpt": "Google Cloud recognized Iron Mountain (News - Alert) for its expertise in mortgage document processing and investment in training machine learning models to automate ... and unlock insights for a large financial services company. \"We're proud to be one ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-iron-mounta-wins-google-cloud-financial-services-customer-/2021/10/21/9474465.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-iron-mounta-wins-google-cloud-financial-services-customer-/2021/10/21/9474465.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-terrafuse-ai-launches-new-platform-to-visualize-california-wildfire-risk.md",
       "title": "Terrafuse AI Launches New Platform to Visualize California Wildfire Risk",
       "excerpt": "Climate modeling company launches the first free, publicly available, responsive environmental data platform to identify property risk from wildfires through Wildfire AI.",
@@ -646,40 +732,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-iron-mountain-wins-google-cloud-financial-services-customer-award.md",
-      "title": "Iron Mountain Wins Google Cloud Financial Services Customer Award",
-      "excerpt": "Iron Mountain Incorporated ® (NYSE:IRM), the global leader in innovative storage and information management services, today announced that it has received a Google Cloud Customer Award for its work with a large financial institution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/",
-      "originalUrl": "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -1077,57 +1129,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-developers-intels-automated-debugging-tool-controlflag-is-now-open-source.md",
-      "title": "Developers: Intel's automated debugging tool ControlFlag is now open source",
-      "excerpt": "ControlFlag can automatically detect anomalies in software code - and it could spare developers hours of tedious work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
-      "originalUrl": "https://www.zdnet.com/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0dff8773595dd70445ad33b38a3f2b92dbb2f855/2021/10/20/3bc47e85-fae3-40ca-a9ec-7d8ef633a9e4/gettyimages-1320577198.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
-      "publishedDateTime": "2021-10-20T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-10-20-innovations-in-training-using-artificial-intelligence-and-machine-learning.md",
+      "title": "Innovations in training using artificial intelligence and machine learning",
+      "excerpt": "Innovations in training using artificial intelligence and machine learning . Can Artificial Intelligence (AI) and Machine Learning get you ready for take-off or surgery? The PVCES",
+      "sourceUrl": null,
+      "webUrl": "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817",
+      "originalUrl": "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F166862609%2F261951525277%2F1%2Foriginal.20211014-022345?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C210%2C1286%2C643&s=fa0d38cfb0c79badb4880c09d0e62181",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eventbrite.com.au",
+        "domain": "eventbrite.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools.md",
       "title": "Google’s Pixel 6 camera smartens up snapshots with AI tools",
       "excerpt": "Google’s latest flagship phones have an impressive set of automated, AI-powered tools to help make your photos look better, with smart blurs, object removal, and skin tone exposure. While we’ll have to test them out to see if they work as advertised,",
@@ -1163,57 +1207,6 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience.md",
-      "title": "Contextual AI In A Summer Of Sport: Making The Most Of A Captivated Audience",
-      "excerpt": "Visit Seedtag’s site to hear more For sports fans, 2021 has proved to be the summer of sport that 2020 never was: drama, excitement and passion to bring nations together. This summer, audiences were treated to EURO 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616d87b8ba8a26abd01463cf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/amp/",
-      "publishedDateTime": "2021-10-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

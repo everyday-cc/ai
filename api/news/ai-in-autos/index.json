@@ -202,6 +202,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-25-some-say-self-driving-robotaxi-isnt-a-business-billions-are-being-bet-that-it-is.md",
+      "title": "Some Say Self-Driving Robotaxi Isn’t A Business; Billions Are Being Bet That It Is",
+      "excerpt": "Some people contest the idea that the robotaxi business that many firms are investing billions in will be worth it. What will it take to tap the potential trillions of revenue that has everybody so excited?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-driving-robotaxi-isnt-a-business--billions-are-being-bet-that-it-is/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-driving-robotaxi-isnt-a-business--billions-are-being-bet-that-it-is/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6175e665d6aa65ab93407785%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-driving-robotaxi-isnt-a-business--billions-are-being-bet-that-it-is/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-driving-robotaxi-isnt-a-business--billions-are-being-bet-that-it-is/amp/",
+      "publishedDateTime": "2021-10-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-tesla-pulls-latest-full-self-driving-beta-less-than-a-day-after-release.md",
       "title": "Tesla pulls latest Full Self-Driving beta less than a day after release",
       "excerpt": "Tesla boss Elon Musk said on Sunday the automaker had pulled the latest version of its Full Self-Driving feature after discovering a number of issues with it.",
@@ -1355,49 +1407,6 @@
       "provider": {
         "name": "Rojgar Samachar",
         "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-tesla-begins-roll-out-of-its-full-self-driving-beta-102-software-1000-cars-included.md",
-      "title": "Tesla Begins Roll-Out of its Full Self Driving Beta 10.2 Software, 1,000 Cars Included",
-      "excerpt": "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to “last-minute concerns\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html",
-      "originalUrl": "https://www.news18.com/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/08/1627897129_model-3-163282611016x9.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html",
-      "publishedDateTime": "2021-10-12T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
         "images": null,
         "publishers": null,
         "authors": null

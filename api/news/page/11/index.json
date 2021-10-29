@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-10-19-start-ups-at-in5-secure-investments-worth-aed14-billion.md",
+      "title": "Start-ups at in5 secure investments worth AED1.4 billion",
+      "excerpt": "DUBAI, 18th October, 2021 (WAM) -- in5, an enabling platform for entrepreneurs, recently reached a new milestone as its start-ups crossed the AED1.4 billion investment mark, reaffirming Dubai’s leading position as an attractive destination for talent and entrepreneurship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/271518317/start-ups-at-in5-secure-investments-worth-aed14-billion",
+      "originalUrl": "https://www.bignewsnetwork.com/news/271518317/start-ups-at-in5-secure-investments-worth-aed14-billion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition.md",
       "title": "Scan Amazon S3 buckets for content moderation using S3 Batch and Amazon Rekognition",
       "excerpt": "Dealing with content in large scale is often challenging, costly, and a heavy lift operation. The volume of user-generated and third-party content has been increasing substantially in industries like social media, ecommerce, online advertising, and media sharing. Customers may want to review this content",
@@ -1149,48 +1192,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-why-the-world-needs-a-bill-of-rights-on-ai.md",
-      "title": "Why the world needs a Bill of Rights on AI",
-      "excerpt": "Soon after the US constitution was ratified, the Bill of Rights added specific guarantees on freedom of expression and assembly, and rights to fair trials — aiming to set limits on the powers of the government that had just been created.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
-      "originalUrl": "https://www.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e10f64f-b5ce-47ed-a83f-7575e0fc2655.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
-      "publishedDateTime": "2021-10-18T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

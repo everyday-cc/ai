@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-driving-robotaxi-isnt-a-business--billions-are-being-bet-that-it-is/amp/"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Forbes
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 799
     isCached: true
+
+related:
+  - title: "China's Baidu is Turning Production Vehicles into Robotaxis With its Factory-installed Autonomous Driving System"
+    excerpt: "Chinese technology giant Baidu Inc. is developing an entire mobility ecosystem in China around self-driving vehicles as part of its Apollo autonomous driving platform. To support its plans, the company is working with China’s leading automakers to install its autonomous driving hardware during production,"
+    publishedDateTime: 2021-10-29T01:44:00Z
+    webUrl: "https://www.futurecar.com/4960/China’s-Baidu-is-Turning-Production-Vehicles-into-Robotaxis-With-its-Factory-installed-Autonomous-Driving-System"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 18
+    images:
+      - url: "https://img.futurecar.com/202110/28/l_617aec006d191.jpeg"
+        width: 799
+        height: 533
+        isCached: true
 
 secured: "yNDRDeI7Q3vGwllVusX+IVGflBBO9KU2A6g5rc4XNU6VNG/PWhhcUA802GVFolyjmU90bm2z7fD9qg9iA3mqWFfvHfyFKXNk1jlSh0xBUIJUvOngX0FfCTYUUpVESulzae0jIVu25CgkHyhsENjOGKSB5Dskllmb0KROz/Wvpq88vjHwbQbsF8z7o/f068NuQQnuJ3DySOAr7JgHFemUJ6sgWKAyW0tSvkyL9QzMJukmBlDcnvawyOuX8Z2amRvfc3H8mgh0fMRt8rYrGxeftzmitMBKYW9DzyrSnC5rlXe4UjxhKAQ/NrUWqaA9VJ+CRzplwJyx3cfxFREWnvaHmXJEFwYtpCaNLrusZ42rL4tyGIHe0vSAWtCuiFhIwjnv4WHq+jqN6PA2GSeh8rl/V/4nMSPf4fWqNas16S6qHwT17IHA5kPIB9LYV1zgtZQ7xgjE4dBVqmF0TUxNtJwgYuCzBhtcLv6GCGHyqQIhFFTWWhrKefgQafPvRcTMwb52meRkEqsvaXJuGY7VzhFMPA==;HeVGzKYeWyy1HRSCzC6Zrw=="
 ---

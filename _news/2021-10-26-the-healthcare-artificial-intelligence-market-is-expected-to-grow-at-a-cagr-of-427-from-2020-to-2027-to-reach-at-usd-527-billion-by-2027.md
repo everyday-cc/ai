@@ -37,17 +37,6 @@ related:
         width: 2646
         height: 1512
         isCached: true
-  - title: "Artificial Intelligence in Regtech Market Size Forecast to Reach $3.3 Billion by 2026"
-    excerpt: "Rising Demand for Regulatory Compliance Driving the Growth of Artificial Intelligence in Regtech Market ... It can create risk models and self- improving methods for data analytics, modelling as required for stress testing. The best example of machine ..."
-    publishedDateTime: 2021-10-28T01:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/ab23677905/artificial-intelligence-in-regtech-market-size-forecast-to-reach-3-3-billion-by-2026"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23677905"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23677905"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
 
 secured: "tNRNjNPOX3uTWPqpQrKHyzgxD824SE3J9wpAxnC2GFWXVgZoCEtTX6ZfpMVGGb/pYRZQ5wGYzZ17bIzFFDZjyloWS7vV0FfdF5pdm8d6l+HrTH6/fzfIiBMBHsg3mfMlrDESLlnUEG+MGF7cVAcwgegR9TjDnITYk3txSfIbnYl7ytP5KP0dGbZdmkjtMoLJg62PrZ+5xwGE45m5JVV1PegxCcinAnNpKZwtriDXlb5A2WkJ1uBLuFpdJmbxXnVvyWotRvxC/oXlchyQckpTpehRPoLn8RNhqnjEkkBYRanDelLHpdW7q58ay4oJQoy5KRdCBChsNKyKURneiCsGi1VhckMGPBEqUY1GhW4rCdc=;3yJ0Mk8WL73SZcXfSWIVcA=="
 ---

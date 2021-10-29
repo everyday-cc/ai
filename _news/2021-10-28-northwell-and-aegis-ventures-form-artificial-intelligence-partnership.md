@@ -81,6 +81,15 @@ related:
         width: 1000
         height: 486
         isCached: true
+  - title: "Northwell Health and Aegis Ventures to form first-of-its-kind artificial intelligence venture to drive better, more equitable, and lower-cost healthcare"
+    excerpt: "NEW HYDE PARK, N.Y.--(BUSINESS WIRE)--Northwell Health, New York’s largest healthcare provider, and Aegis Ventures, a New York-based startup studio, today announced they are forming a joint venture (JV) that will ideate, launch, and scale AI-driven ..."
+    publishedDateTime: 2021-10-28T13:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211028005371/en/Northwell-Health-and-Aegis-Ventures-to-form-first-of-its-kind-artificial-intelligence-venture-to-drive-better-more-equitable-and-lower-cost-healthcare"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "93I4ZY+yt1noOa6qCX4apdMFOe4zJsHOiI7FCQy8SJHV0nerJDmLUmgibIApfqCVgvar2de/GfBoksfSAHjEMCG20kG/cbAqjQTh0xv2t7Q+Pszb8iay8cxg0uBFkvZUlhB2OSCAs+NOuwMNrzlyGlF7YldqLdBNRwp6t7rO12nvz2LleT7KSKg/oZVarBgz/l9tHPa28PdLM4yjSx+JSIZxuo0fFibfrh+e5Egg87l8zGvj16fk/ojBEYALhiHtZVpa7CAr1CfRzQVVfGnVGikZW7NGX8m3eNbZwcVqfDrdo9UIlLQ4KL+NH+8JM94ewX9wiwC3zaMCVDWISLf5sYptcs535DFRh6VDHCsAyzO+YwQ6oSqwLDdkGy1z4xGLdyt/GxohQfk5yK8rD6af+XsB/5/ALXcYsecswyV7CvOzOI//3A8D4ps6fKitBzDv24VsjfgmZoAgZwqxd2/O3EJalh5/s+TgyI0TkRIP8+9tMMsmqqz/dtq8XVgdZsKE79DjIZGafuNn1Gesf827sA==;xNa9Gk/RzQ51lksBtxj88A=="
 ---

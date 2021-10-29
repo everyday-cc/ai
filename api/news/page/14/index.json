@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-10-15-extraordinary-ai-motorcycle-hud-highlights-hazards-and-cornering-lines.md",
+      "title": "Extraordinary AI motorcycle HUD highlights hazards and cornering lines",
+      "excerpt": "The head-up display for motorcyclists: it's the great white whale of the technology world. Over the years, we've seen at least a dozen different attempts to put information into the eyeline of the motorcycle rider,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
+      "originalUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e991b46/2147483647/strip/true/crop/1983x1322+282+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F19%2Fd7%2Fb28d9cd849b49549acc2945a2c16%2Fscreen-shot-2021-10-15-at-5.25.26%20pm.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
+      "publishedDateTime": "2021-10-15T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-15-ponyai-to-start-driverless-tests-on-public-roads-in-beijing.md",
       "title": "Pony.ai to Start Driverless Tests on Public Roads in Beijing",
       "excerpt": "Silicon Valley-based leading autonomous driving company Pony.ai, today announced that it has been authorized to conduct driverless tests on public roads in China’s capital city, Beijing. The company is one of the two autonomous software companies to receive this important Beijing permit.",
@@ -642,6 +693,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-14-execs-from-github-and-microsoft-azure-invest-in-new-ai-startup-that-helps-devs-build-intelligent-apps.md",
+      "title": "Execs from GitHub and Microsoft Azure invest in new AI startup that helps devs build intelligent apps",
+      "excerpt": "Aseem Datar, a former Microsoft Azure General Manager who just joined Madrona as a partner, said Spice AI is “going after a large and significantly important mission as the world sees more and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/",
+      "originalUrl": "https://www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/71A491DF-68A5-42E4-A1A4-27C8831D7F45_1_201_a-630x450.jpeg",
+          "width": 630,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/amp/",
+      "publishedDateTime": "2021-10-14T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-ai-paints-a-picasso-nude-just-like-pablo-did.md",
       "title": "AI paints a Picasso nude, just like Pablo did",
       "excerpt": "\"Lost\" Picasso nude comes out of hiding, thanks to artificial intelligence and 3D printing. Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists,",
@@ -1061,109 +1164,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots.md",
-      "title": "Facebook's AI research could spur smarter AR glasses and robots",
-      "excerpt": "To make that future a reality, the social network needs its AI systems to see through ... memories,\" said Kristen Grauman, a lead research scientist at Facebook. The technology could eventually ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/nS4K0Pu_8GhRSvXfNnUMMzpRaXI=/1200x630/2021/10/13/d6346168-48f0-4cc8-80e1-78060b33e5c4/gettyimages-669913928.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots/",
-      "publishedDateTime": "2021-10-14T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-mozilla-artists-question-whether-ai-could-predict-police-killings.md",
-      "title": "Mozilla artists question whether AI could predict police killings",
-      "excerpt": "Future Wake is a new art piece that uses AI trained on real law enforcement data to predict future fictional police killings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "originalUrl": "https://www.zdnet.com/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9770718bc910fb3a5b8afd1b45ca96f667569398/2021/10/14/850ff2d8-5c7b-4f6c-9daa-e387beb94c54/untitled.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "publishedDateTime": "2021-10-14T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
