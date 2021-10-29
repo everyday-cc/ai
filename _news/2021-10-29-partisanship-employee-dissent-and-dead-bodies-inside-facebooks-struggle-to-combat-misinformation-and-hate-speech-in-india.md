@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Partisanship, employee dissent and 'dead bodies': Inside Facebook's struggle to combat misinformation and hate speech in India"
-excerpt: "In early 2019, a team of Facebook's researchers spent two weeks interviewing 30 users across two Indian cities, Jaipur and Hyderabad. The goal: to learn about their experiences with misinformation and fact-checking on its platforms."
-publishedDateTime: 2021-10-29T13:30:00Z
-originalUrl: "https://www.waaytv.com/content/national/575635722.html"
-webUrl: "https://www.waaytv.com/content/national/575635722.html"
-ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575635722"
-cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575635722"
+title: "Partisanship, employee dissent and ‘dead bodies’: Inside Facebook’s struggle to combat misinformation and hate speech in India"
+excerpt: "In early 2019, a team of Facebook’s researchers spent two ... WhatsApp announced it was deploying artificial intelligence to clean up its platform. It also warned Indian political parties ..."
+publishedDateTime: 2021-10-29T14:22:00Z
+originalUrl: "https://ktvz.com/news/2021/10/29/partisanship-employee-dissent-and-dead-bodies-inside-facebooks-struggle-to-combat-misinformation-and-hate-speech-in-india/"
+webUrl: "https://ktvz.com/news/2021/10/29/partisanship-employee-dissent-and-dead-bodies-inside-facebooks-struggle-to-combat-misinformation-and-hate-speech-in-india/"
 type: article
-quality: 16
-heat: 16
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: WAAY-TV
-  domain: waaytv.com
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png"
-    width: 640
-    height: 380
+  - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "5YJRHTF1mE50AXjPj5FvrzXZYM4Mzzw31jhMJelNDmrZMiKFv7N/02w3TugL+m29xgnnM3uhAPZ2ktL2xdKwNyGliQ9b01jGSop27Kc19f3513/1fEVQ5y2+KVW75/f6SznudgI+4KiBIBwMsRWEVsEJX7f76OCpgCiQ0BrPE0reemIk6Swt1o4ksDPf0F9/HzSwfJQ5Hx1uEocfekmk93A1ZVHDiuPh+pB0iqD4rokiTOdqKV3+smOPr2poA8uYaiwE8CETmVwXC/rCnnCBvdK0btou1pJU/YgvsUJANrDPLZZdlITMQqSlHGlfW0PnK7Rj8aApThrbSpi0egTMyYwAOuqF10pTVlFp56kx62Q=;k9KpmKqrc6QHTbIuLZolrQ=="
+secured: "8HqyKxlsw2CDspS4pZpOQAzYjcfGP0WFLHIxfz+7wf8taanjeQHqB+szfoRd9JaOqXbX8LiFXsgr1FeQiBjutsm9RhNHbYJLSvp4kR5grIqKl7LWURYot10fG55E5aNUO9ecCgNKN5UrK0jbiY9PXoUHMNW3iWiyTjBs4iuwMidRzmPD/nxyTPLvqs401u03mHfIh06TDfO4ROnDkVBylTf+eycrGS3KLNrJSmGupdOhvruktH3LEe1NlMBk8sKnTSOWZAcV33f/LMwzgAK9bIUKXFqlJ2norPRE/oMESULqzfYVJFaJxcVJ+klB2O8DjG1ggr7Oeijj5YhFtxCDFDCTmJxvWR5yBFQqaNTbCgY=;dnyUfqBkgnyOMSJaFjfZuQ=="
 ---
 

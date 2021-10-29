@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Democratizing AI To Transform Your Business In An Unpredictable Future"
+    excerpt: "AI is no longer just a tool for data scientists ... enhancing overall enterprise operations. Business users can start leveraging AutoAI models in minutes, providing advanced predictive power for a broad range of staff, not just data scientists."
+    publishedDateTime: 2021-10-29T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ab08b6fd5210c145ece8a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How artificial intelligence is transforming the hiring process?"
     excerpt: "Artificial intelligence and machine learning, these two names are changing business practices and workplaces tremendously. Artificial intelligence can help business applications in many ways, like with AI businesses can understand their customers better with"
     publishedDateTime: 2021-10-25T11:18:00Z

@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-25-artificial-intelligence-and-machine-learning-play-a-role-in-endpoint-security.md",
+      "title": "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security",
+      "excerpt": "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology.",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "originalUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "publishedDateTime": "2021-10-25T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-2-artificial-intelligence-stocks-that-have-spooked-investors.md",
       "title": "2 Artificial Intelligence Stocks That Have Spooked Investors",
       "excerpt": "Both stocks are far off their all-time highs, but that does not mean they don’t have bright futures. Lemonade’s AI is making waves in insurance, and so far, no other incumbent in the industry has duplicated its model.",
@@ -450,6 +494,50 @@
       ]
     },
     {
+      "path": "_news/2021-10-25-artificial-intelligence-ai-in-construction.md",
+      "title": "Artificial Intelligence (AI) in Construction",
+      "excerpt": "Examples of artificial intelligence (AI) in construction are increasingly common throughout the industry, from planning to building. Construction professionals are turning to AI to add efficiency and accuracy to projects,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-construction/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-construction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-1-1024x393.jpeg",
+          "width": 1024,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-some-say-self-driving-robotaxi-isnt-a-business-billions-are-being-bet-that-it-is.md",
       "title": "Some Say Self-Driving Robotaxi Isn’t A Business; Billions Are Being Bet That It Is",
       "excerpt": "Some people contest the idea that the robotaxi business that many firms are investing billions in will be worth it. What will it take to tap the potential trillions of revenue that has everybody so excited?",
@@ -510,7 +598,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -606,7 +694,7 @@
       "originalUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -744,7 +832,7 @@
       "originalUrl": "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -839,7 +927,7 @@
       "originalUrl": "https://www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1102,102 +1190,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-intel-cto-greg-lavender-interview-why-chip-maker-is-spending-on-both-manufacturing-and-software.md",
-      "title": "Intel CTO Greg Lavender interview — Why chip maker is spending on both manufacturing and software",
-      "excerpt": "Dean Takahashi talks with Intel CTO Greg Lavender about why the chip maker is investing heavily in both manufacturing and software.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/24/intel-cto-greg-lavender-interview-why-chip-maker-is-spending-on-both-manufacturing-and-software/",
-      "originalUrl": "https://venturebeat.com/2021/10/24/intel-cto-greg-lavender-interview-why-chip-maker-is-spending-on-both-manufacturing-and-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/cto.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/24/intel-cto-greg-lavender-interview-why-chip-maker-is-spending-on-both-manufacturing-and-software/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/24/intel-cto-greg-lavender-interview-why-chip-maker-is-spending-on-both-manufacturing-and-software/amp/",
-      "publishedDateTime": "2021-10-24T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain.md",
-      "title": "Researchers Use Artificial Intelligence Supported Neural Networks To Reason Like The Human Brain",
-      "excerpt": "A neural network, a series of algorithms that strives to recognize underlying relationships in a set of given data with",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/",
-      "originalUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/10/Researchers-Uses-Artificial-Intelligence-Supported-Neural-Networks.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/?amp=1",
-      "publishedDateTime": "2021-10-24T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

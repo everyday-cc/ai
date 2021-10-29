@@ -26,24 +26,6 @@ images:
     height: 533
     isCached: true
 
-related:
-  - title: "Cognitive Security Market Size and Forecast 2028 | Key Companies – IBM, DXC Technology, Cisco, CA Technologies, Symantec, McAfee"
-    excerpt: "Cognitive Security Market was valued at USD 6.79 Billion in 2020 and is projected to reach USD 80.41 Billion by 2028, growing at a CAGR of 36.2 % from 2021 to 2028. Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-10-25T02:41:00Z
-    webUrl: "https://manometcurrent.com/cognitive-security-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/cognitive-security-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-security-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 32
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/TIP-6-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
-
 secured: "gx5ZykEe/jJ93g1hV144jFLAMk2/zZt9kSivbYV106oZYXM6vwig8TnBCO+2db9vohnj7n96pZ+CSUg0te1MoRdH8IdLthipRJaxE/g8obU7N3lvXE7vSunQsOTeR9QrAmibSxfSBzTmC4F1SMexqLREqy7vFKYPGWsfmqd/6P5c70Tfw3exshP1Egwcl2jyEg46/EBCvU04Wts5LX/36MiUVVy/OANGeHlcbV16YVxJeVvfZPPfglK1jwzLQd7xwzo3ZNfcI0kgWzIYpctBQQhviY8BMZgr1WY0hPLpwaXaoeoVx5IzUzsML1ehYokWtn1AtgJ7mqognl60rSEeOQj39ITZM00tBfgbudlr5JE61MRCttdi95p8XJzSZ7nvXbIVHBnhDJ+rOWUwEpPcN3CgFSk8vFufyzE5UhKYBoETVIDMQDZmakY7XaJEzoKAptF2dtqrrF0R8sa0un8H9u1cX906Pwsx6kXdKBp7uFAZpWeA/Oyy930DpcwNp7OC5YpQ3puSodCzdKig5e0/xw==;/YIBC7kpmfI1nFliyUxaRw=="
 ---
 

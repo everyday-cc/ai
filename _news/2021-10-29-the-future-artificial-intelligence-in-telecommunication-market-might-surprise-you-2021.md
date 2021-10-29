@@ -24,71 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "What automation, AI, AR, robotics mean for the future of work in mining"
-    excerpt: "Technological advancements like automation, artificial intelligence, augmented reality, and robotics taking place in parallel with the growing"
-    publishedDateTime: 2021-10-24T21:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996"
+  - title: "Hallmarks of AI Success in the Enterprise"
+    excerpt: "We’re in the midst of a rapid uptake of AI in the enterprise across the board, but there are big differences in the results and the workflows in these AI"
+    publishedDateTime: 2021-10-27T21:26:00Z
+    webUrl: "https://www.datanami.com/2021/10/27/hallmarks-of-ai-success-in-the-enterprise/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-  - title: "This chemist is reimagining the discovery of materials using AI and automation"
-    excerpt: "Alán Aspuru-Guzik is using AI, robots, and even quantum computing to create the new materials that we will need to fight climate change."
-    publishedDateTime: 2021-10-27T11:00:00Z
-    webUrl: "https://www.technologyreview.com/2021/10/27/1037114/materials-discovery-ai-chemistry-computing/"
-    ampWebUrl: "https://www.technologyreview.com/2021/10/27/1037114/materials-discovery-ai-chemistry-computing/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/27/1037114/materials-discovery-ai-chemistry-computing/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 55
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/ND21-materials_42A6873.jpg?w=2700"
-        width: 2700
-        height: 1800
-        isCached: true
-  - title: "How Bajaj General Insurance leveraged automation, AI and ML for automating key processes"
-    excerpt: "Insurance provider Bajaj Allianz General Insurance Co. Ltd. has developed a mobile phone Application that aids in digital pre-insurance medical checku.."
-    publishedDateTime: 2021-10-25T03:38:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 45
-  - title: "Predicting the future of the Earth with artificial intelligence"
-    excerpt: "Starting October 25, a group of scientists will host a workshop to identify ways to create artificial intelligence-informed models of the Earth’s climate."
-    publishedDateTime: 2021-10-25T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/932591"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: datanami.com
+      domain: datanami.com
     quality: 37
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/060e1208-9f63-4c48-bed0-35375d4a29fe/Rendition/low-res/Content/Public"
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/business_people_shutterstock_1_metamorworks.jpg"
+        width: 626
+        height: 442
+        isCached: true
+  - title: "Teradata and H2O.ai Partnership Accelerates Enterprise AI Adoption in the Cloud"
+    excerpt: "Oct 25, 2021-- Teradata (NYSE: TDC), the connected multi-cloud data platform for enterprise analytics company, and artificial intelligence (AI) cloud platform provider H2O.ai, today announced the integration of H2O AI Hybrid Cloud,"
+    publishedDateTime: 2021-10-25T13:01:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-75da6a2464524266975aef1bacb868e4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
-        height: 394
-        isCached: true
-  - title: "The Future of AI Driven Market Research"
-    excerpt: "Over the past few years, the world of market research and surveys has seen the emergence of Artificial Intelligence (AI). AI tools, which are finding their way into almost every industry, hold the potential to change the game entirely."
-    publishedDateTime: 2021-10-26T18:52:00Z
-    webUrl: "https://customerthink.com/the-future-of-ai-driven-market-research/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/robot-507811.jpg"
-        width: 4961
-        height: 3508
+        height: 450
         isCached: true
 
-secured: "MiVp0F9xIqO5ZTZ/onxkPg9RfpDvURM7I21SBpJz2ohVWeOO5827hbb4llX56orpegiHKmGOJGUvQ24ZOAVoStQ2nhMWSvdwwUTmcQ5ZbEJ+RRxcdSmp7MDYw/rdlDuapt9BiQoUMBQLGNW2/H4rMpOOuxvIQFVXanxGlD/XrGTDBcJ0pCpdZHMb4y7xFugvXML5eD4obuBxFcSVl3Zvo5EuWIUZ8P2aeWhy5GWwB+fJzRc17fasfXjr+7LZ56d0PKqfV8adUQ6k3KJlWAUScMCGYxOdshT+waMWwp3kma3kb/kRYdzrrvn1SnmM1IlKdAjG7IMsVr4CTkUxQEHu/nhTxMLpqRpPZj1ZlYIfbv0=;1V11EaHP1sPvnfv3r9u+QQ=="
+secured: "HFw3UrL1Qqhs2w/JmhKAASEZKnd8uqwXawLdqF6T2ZHePS9Vc/xO8bIvB5SlGF1VrXA9atqvKdUJDUh7dlSR5RyDeUk6CybxPj/apj5F45UM6Wy2RP+X9DBpXurPhcHT13CXlrJd3pU0yy2NDdAlGfCBF0CyJOc+kkPRgyWc8T76noQmyim9abewzUkC7eCdcVj6NRablCsOj1WVd0Mm5pX6zKL4CohhPFsinjtlgolxzTdjMCmPIv3Sbd6fIkBq5WdgaJE9iVxVVwqwWNP36fQzgDev8XW9YgWu/j8+gcQznUwB+5PMav876DXoyfLXU065RxRCCyelIhndLJ9xRMKVHjn8sk1KQR5GxmLIld/c4n7OyLKbmdiwy8uQRB+9ZJ8WEzZ2eb7zS0ICU2pIe9sN0wW2QzrdFAvw+tZO4Xy3AKbD8u6rrIOYYnJH/ynZwI+4lOP1CBWRAhogRYgVQ7PiWkAcCwVDQMlwsNYRGj2XZnPBsX1RyngNxy2jRlmKQ6aFx0WdDRXWaYlCqK+TZA==;4Ao7NJ9CeGgCBoIimGMFfw=="
 ---
 

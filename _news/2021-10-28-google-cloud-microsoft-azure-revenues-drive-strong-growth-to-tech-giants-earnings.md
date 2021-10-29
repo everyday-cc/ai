@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft acquires AI-powered moderation platform Two Hat"
+    excerpt: "Microsoft today announced that it acquired Two Hate, an AI-powered moderation platform, for an undisclosed amount."
+    publishedDateTime: 2021-10-29T14:05:00Z
+    webUrl: "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/"
+    ampWebUrl: "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Azure and Google Cloud results soar as the world goes digital"
     excerpt: "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services revenue. Similarly, Google Cloud revenues neared $5 billion thanks to a 45% jump,"
     publishedDateTime: 2021-10-27T11:45:00Z
@@ -47,6 +63,31 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "LivePerson acquires VoiceBase and Tenfold for its conversational AI platform"
+    excerpt: "LivePerson has acquired two startups, VoiceBase and Tenfold, to bolster its expanding conversational AI platform."
+    publishedDateTime: 2021-10-27T17:35:00Z
+    webUrl: "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/"
+    ampWebUrl: "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/04/rob_185_final.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft powers transformation at NVIDIA GTC Fall—GPU technology conference"
+    excerpt: "This year during NVIDIA GTC 21, we’re spotlighting some of the most transformational applications powered by NVIDIA accelerated computing that highlights our commitment to edge, on-premises, and cloud computing. Registration is free, so sign up to learn how Microsoft is powering transformation."
+    publishedDateTime: 2021-10-27T09:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "Microsoft Azure, Amazon AWS and Google Cloud: A Quick Look at Each"
     excerpt: "Microsoft Azure is the first player to offer the full suite of services to developers. It offers a wide range of products and has one of the most mature enterprise-grade clouds."
     publishedDateTime: 2021-10-26T11:06:00Z
@@ -61,52 +102,6 @@ related:
         width: 921
         height: 432
         isCached: true
-  - title: "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
-    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027."
-    publishedDateTime: 2021-10-25T22:46:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 67
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Deep Learning System Software Market Size and Forecast 2028 | Key Companies – Microsoft, TRINT, NVIDIA, Google, IBM, Amazon Web Services"
-    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027 Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-10-25T17:19:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-system-software-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-system-software-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-system-software-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 60
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Market-Research-19-390x220.png"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "CRN Impact Awards: MOQdigital adds Azure Sentinel to Brisbane Catholic Education's Microsoft stack"
-    excerpt: "Brisbane managed services provider MOQdigital was named a finalist in the recently unveiled 2021 CRN Impact Awards, with its Azure Sentinel deployment for Brisbane Catholic Education qualifying for the Trusted Systems category."
-    publishedDateTime: 2021-10-24T22:56:00Z
-    webUrl: "https://www.crn.com.au/feature/crn-impact-awards-moqdigital-adds-azure-sentinel-to-brisbane-catholic-educations-microsoft-stack-571633"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 57
-    images:
-      - url: "https://i.nextmedia.com.au/Features/crn-14_brisbane_catholic_education_school_students_Blog-hero-1.jpg"
-        width: 821
-        height: 528
-        isCached: true
   - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
     excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
     publishedDateTime: 2021-10-27T00:17:00Z
@@ -120,22 +115,6 @@ related:
       - url: "https://www.digitimes.com/newsshow/20211026PR201_files/1_2b.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Microsoft Stock Hits Record High After Q1 Profits Top $20 Billion On Cloud Strength"
-    excerpt: "Microsoft profits topped $20 billion for the first time ever last quarter, as booming cloud demand lifted overall sales to a record $45.3 billion."
-    publishedDateTime: 2021-10-27T14:49:00Z
-    webUrl: "https://www.thestreet.com/markets/microsoft-stock-sees-record-high-after-q1-profits-top-20-billion"
-    ampWebUrl: "https://www.thestreet.com/.amp/markets/microsoft-stock-sees-record-high-after-q1-profits-top-20-billion"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/markets/microsoft-stock-sees-record-high-after-q1-profits-top-20-billion"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 53
-    images:
-      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgyOTM5MTA3NjY2Njk5Njgz/robinhood_3.jpg"
-        width: 620
-        height: 349
         isCached: true
   - title: "Advantech MIC-710AIX is now Microsoft Azure Certified for IoT"
     excerpt: "Advantech, the leading provider of industrial AI system, today announced its MIC-710AIX edge AI platform has joined Microsoft Azure Certified for Internet of Things (IoT), ensuring customers get IoT solutions up and running quickly with hardware and software that has been pre-tested and verified to work with Microsoft Azure IoT services."
@@ -157,28 +136,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 44
-  - title: "Deep Learning Software Market to Make Great Impact in near Future by 2021-2027 | Microsoft, Google, IBM"
-    excerpt: "Deep Learning Software is highly useful for data scientists who are responsible with gathering analysing and interpreting massive amounts of data it speeds up and simplifies the process Working with deep learning is similar to a toddler learning to recognise"
-    publishedDateTime: 2021-10-25T13:40:00Z
-    webUrl: "https://www.openpr.com/news/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
-    ampWebUrl: "https://www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+  - title: "Artificial Intelligence in Video Games Market Astonishing Growth with Top Influencing Key Players like Ubisoft, EA, Tencent, Sony, Microsoft"
+    excerpt: "The Artificial Intelligence in Video Games Market research report added by MarketInsightsReports gives a holistic view of the market from 2016 to 2027 which includes factors such as market drivers restraints opportunities and challenges The market has been studied for"
+    publishedDateTime: 2021-10-25T09:48:00Z
+    webUrl: "https://www.openpr.com/news/2439866/artificial-intelligence-in-video-games-market-astonishing"
+    ampWebUrl: "https://www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 40
-  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
-    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
-    publishedDateTime: 2021-10-26T06:51:00Z
-    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
+    quality: 19
 
 secured: "T0VC4kZIkVhwn2dB4KSSayCN62izN1ZsXP9msKj13d0zV/fWAbNyKEjJJxNc3sccvB8EC4TXx4iBfmydfeOezM4LYYj/ilXO6OpDMxwizq3X7bBelCm4rU6uzRfb9TSHzkHOB9ReWEjeUaudNTHwic3KDmbi7EYMrQ/SMyqEUOpQTORZi894sUyMjy9UXM/jYxX94D5YQwf6+PRtazFqXdbZIEPmBL0I9IfCGA7kgxx2wDCt+WymKyPELrbs4hC8gumU3HGeHAjpqvb4S4LcLmD3EOrHtOjtYyUxuNJuqRGzRXStYUjXZ/K1U1+xZoKB51aOdzKrF1VrMwMckSSSlr86U5FZjUQ0pITu6zw2AnJ5h28iodA0rYFVh5eVFSHRBTioRLw/9b0tXDi0OsC8RwpalJewUF+cDgVnCV1m+4xhXBSWnVqkguQtn61JwolCP0OL7XaIRUYsqAJ09kKg3OrTZJpT8NOinRF/x/qkiRZaQZs5FJjHwXNvy9eyaErbLRd1t0XA/ieEp9F76SuBLg==;8L3D/zYTZKCmCMK5Sxg2Qw=="
 ---

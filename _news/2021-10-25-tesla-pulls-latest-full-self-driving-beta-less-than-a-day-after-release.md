@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp"
 type: article
 quality: 89
-heat: 319
+heat: 309
 published: true
 
 provider:
@@ -225,22 +225,6 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87252351,imgsize-67564,width-800/87252351.jpg"
         width: 800
         height: 560
-        isCached: true
-  - title: "Tesla Hits Speed Bump With Self-Driving Software"
-    excerpt: "Tesla rolled back the latest version of its autonomous driving software, called full self driving, or FSD. The decision will lead to questions about the rollout. It could also lead to some stock market volatility Monday."
-    publishedDateTime: 2021-10-24T21:20:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-hits-speed-bump-with-self-driving-software-51635110398"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-hits-speed-bump-with-self-driving-software-51635110398"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-hits-speed-bump-with-self-driving-software-51635110398"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-390980/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Tesla withdraws self-driving beta over software issues"
     excerpt: "Tesla has withdrawn its latest \"full self-driving\" car software update after drivers complained of problems. Some drivers reported intermittent issues such as safety alerts sounding, despite no danger being present."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Turning to Robots for Career Advice"
+    excerpt: "According to new research commissioned by Oracle, 80% of employees say they’re not satisfied with employer support and 72% of the US workforce think robots and artificial intelligence can support their careers better than humans. Joining us to explain ..."
+    publishedDateTime: 2021-10-29T14:51:00Z
+    webUrl: "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice"
+    ampWebUrl: "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true"
+    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true"
+    type: article
+    provider:
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 59
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/596/45bf940c346f431c9be273b8942ab6eb/59640f3b51cd412a9b3c3b83a2107ec5/poster_da477495870d4fc9a826480e882ccebe.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI-driven app helps teens with mental health support"
     excerpt: "Mental health help is now a download away, as personalised artificial intelligence-driven app Vive Teens makes its debut."
     publishedDateTime: 2021-10-25T09:07:00Z

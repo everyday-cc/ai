@@ -106,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -340,7 +340,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -571,6 +571,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-artificial-intelligence-ai-in-construction.md",
+      "title": "Artificial Intelligence (AI) in Construction",
+      "excerpt": "Examples of artificial intelligence (AI) in construction are increasingly common throughout the industry, from planning to building. Construction professionals are turning to AI to add efficiency and accuracy to projects,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-construction/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-construction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-1-1024x393.jpeg",
+          "width": 1024,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1351,59 +1395,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-autonomous-mobile-robots-sales-market-size-soaring-at-159-cagr-to-reach-600-million-usd-by-2025.md",
-      "title": "Autonomous Mobile Robots Sales Market Size Soaring at 15.9% CAGR to Reach 600 million USD by 2025",
-      "excerpt": "With an impressive compound annual growth rate of 15.9% during 2018-2025, the global Autonomous Mobile Robots market valuation is poised to bolster from USD 180 million in 2017 to USD 600 million by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/autonomous-mobile-robots-sales-market-size-soaring-at-159-cagr-to-reach-600-million-usd-by-2025-2021-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-mobile-robots-sales-market-size-soaring-at-159-cagr-to-reach-600-million-usd-by-2025-2021-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

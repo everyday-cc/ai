@@ -21,72 +21,35 @@ topics:
   - Machine Learning
 
 related:
-  - title: "What automation, AI, AR, robotics mean for the future of work in mining"
-    excerpt: "Technological advancements like automation, artificial intelligence, augmented reality, and robotics taking place in parallel with the growing"
-    publishedDateTime: 2021-10-24T21:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996"
+  - title: "AI and the Push to End Insurance Ratings Bias"
+    excerpt: "Artificial intelligence (AI) has changed how insurers price the risk associated with an account, in many ways for the better. However, the promise of automation has led to a new concern: bias in the AI algorithms and scoring models,"
+    publishedDateTime: 2021-10-26T21:01:00Z
+    webUrl: "https://www.propertycasualty360.com/2021/10/26/ai-and-the-push-to-end-insurance-ratings-bias/"
+    ampWebUrl: "https://www.propertycasualty360.com/2021/10/26/ai-and-the-push-to-end-insurance-ratings-bias/?amp=1"
+    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/10/26/ai-and-the-push-to-end-insurance-ratings-bias/?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-  - title: "This chemist is reimagining the discovery of materials using AI and automation"
-    excerpt: "Alán Aspuru-Guzik is using AI, robots, and even quantum computing to create the new materials that we will need to fight climate change."
-    publishedDateTime: 2021-10-27T11:00:00Z
-    webUrl: "https://www.technologyreview.com/2021/10/27/1037114/materials-discovery-ai-chemistry-computing/"
-    ampWebUrl: "https://www.technologyreview.com/2021/10/27/1037114/materials-discovery-ai-chemistry-computing/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/27/1037114/materials-discovery-ai-chemistry-computing/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 55
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 57
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/ND21-materials_42A6873.jpg?w=2700"
-        width: 2700
-        height: 1800
+      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/276/2021/10/Theresa-Benson-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "Predicting the future of the Earth with artificial intelligence"
-    excerpt: "Starting October 25, a group of scientists will host a workshop to identify ways to create artificial intelligence-informed models of the Earth’s climate."
-    publishedDateTime: 2021-10-25T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/932591"
+  - title: "The World’s First AI Powered, Pay-as-You-Need and Peer-to-Peer life insurance model"
+    excerpt: "OneSpark, the new-age, globally backed start-up on the block that’s completely re-inventing and disrupting the global insurance industry to doing everything they can to create a better future for all South Africans,"
+    publishedDateTime: 2021-10-25T06:23:00Z
+    webUrl: "https://www.businessinsider.co.za/the-worlds-first-ai-powered-pay-as-you-need-and-peer-to-peer-life-insurance-model-2021-10-3"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
+      name: BusinessInsider
+      domain: businessinsider.co.za
+    quality: 31
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/060e1208-9f63-4c48-bed0-35375d4a29fe/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "The Future of AI Driven Market Research"
-    excerpt: "Over the past few years, the world of market research and surveys has seen the emergence of Artificial Intelligence (AI). AI tools, which are finding their way into almost every industry, hold the potential to change the game entirely."
-    publishedDateTime: 2021-10-26T18:52:00Z
-    webUrl: "https://customerthink.com/the-future-of-ai-driven-market-research/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/robot-507811.jpg"
-        width: 4961
-        height: 3508
-        isCached: true
-  - title: "The Future Artificial Intelligence in Telecommunication Market Might Surprise You 2021"
-    excerpt: "In this case Artificial Intelligence plays a key role because it is used to predict and analyze issues faster than human. Artificial Intelligence will make the fifth generation of mobile networks more open enabling connectivity to predictability."
-    publishedDateTime: 2021-10-29T10:50:00Z
-    webUrl: "https://chipdesignmag.com/the-future-artificial-intelligence-in-telecommunication-market-might-surprise-you-2021/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 29
-    images:
-      - url: "https://www.themarketfeeds.com/seoimages/three.jpg"
-        width: 3250
-        height: 3854
+      - url: "http://cdn.24.co.za/files/Cms/General/d/11714/1b73dbd453434f08aa3de8d4b69b29b4.jpg"
+        width: 650
+        height: 430
         isCached: true
 
 secured: "bp6Gi+eXMgrzrBkneM7hEK1FezqxIMXNBgnTLTJjdDvG3fW70ssxDQWrsLL/xDa4YKqh5R4Ms1zJtBACXT0UvxvuoqDQBFXLQVoYsQuCvmGQ/EeLalK2HroYiXK6uI6d1A/1GHcjNXsu+6AmXrLx8KK1cPTUDckZBtelk/QdJ5wd9hEcHC+mBNsSmGnudHgB/zG0ua2r8r8YD9yLbSBlLfuyft34f9Zdzf2epJIekGqHbIv6IqnavZFoZJk5XTMP793qjiH7U5LcXHthfdyxKdaczzyR8fch/dLDfYE5NmVS9y+IfOHXD7nAEFhJDU/ilyi9f/BOD5XD1QwwtS/sdlYmFxxQp5eGL2AXuWnLJE4=;mn+SpP1iwvEAicZdsSlE5A=="

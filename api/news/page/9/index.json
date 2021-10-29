@@ -2,6 +2,83 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-10-20-robotaxi-market-to-witness-astonishing-growth-by-2030.md",
+      "title": "Robotaxi Market to Witness Astonishing Growth by 2030",
+      "excerpt": "Attractive Opportunities in Robotaxi Market” Robotaxi Market by Application (Goods and Passenger), Level of Autonomy (L4 and L5), Vehicle (Car and",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/10/ab23452373/robotaxi-market-to-witness-astonishing-growth-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/10/ab23452373/robotaxi-market-to-witness-astonishing-growth-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23452373",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23452373",
+      "publishedDateTime": "2021-10-19T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-gep-doubles-global-partner-network-to-deliver-superior-procurement-and-supply-chain-transformation-to-customers.md",
+      "title": "GEP Doubles Global Partner Network To Deliver Superior Procurement And Supply Chain Transformation To Customers",
+      "excerpt": "GEP, a leading provider of procurement and supply chain strategy, software and managed services to Fortune 500 and Global 2000 enterprises worldwide, announced today that the number of new partner companies joining the GEP Partner United program grew by 114% since January 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gep-doubles-global-partner-network-to-deliver-superior-procurement-and-supply-chain-transformation-to-customers-1030878751",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gep-doubles-global-partner-network-to-deliver-superior-procurement-and-supply-chain-transformation-to-customers-1030878751",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-4-top-surgical-robotics-stocks-to-watch-this-week.md",
       "title": "4 Top Surgical Robotics Stocks To Watch This Week",
       "excerpt": "Do You Have These Robotics Stocks On Your Watchlist Right Now? The health care industry has been evolving at an exponential pace due to the advancement of technology. Well, surgical robotics has been a big part of this evolution.",
@@ -1078,100 +1155,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-mage-aims-to-be-the-stripe-for-ai-raises-63m-for-developer-tools-to-build-ai-into-apps.md",
-      "title": "Mage aims to be the ‘Stripe for AI;’ raises $6.3M for developer tools to build AI into apps",
-      "excerpt": "Product developers want to use AI, but don't always have the right tools to do it without relying on data scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/",
-      "originalUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Mage-team-photo-1.jpg?w=1024",
-          "width": 1024,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/amp/",
-      "publishedDateTime": "2021-10-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-artificial-networks-learn-to-smell-like-the-brain.md",
-      "title": "Artificial networks learn to smell like the brain",
-      "excerpt": "Using machine learning, a computer model can teach itself to smell in just a few minutes. When it does, researchers have found, it builds a neural network that closely mimics the olfactory circuits that animal brains use to process odors.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-10-artificial-networks-brain.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-10-artificial-networks-brain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-networks-le.jpg",
-          "width": 792,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-10-artificial-networks-brain.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-artificial-networks-brain.amp",
-      "publishedDateTime": "2021-10-19T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

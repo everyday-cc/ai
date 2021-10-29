@@ -1,27 +1,27 @@
 ---
 category: news
-title: "US to deepen relations with Taiwan in face of China tensions"
-excerpt: "The U.S. support for Taiwan comes as tensions between China and the island are now at the highest in decades, with Beijing stepping up its military harassment by flying fighter je"
-publishedDateTime: 2021-10-29T13:23:00Z
-originalUrl: "https://www.wboc.com/story/45081880/us-to-deepen-relations-with-taiwan-in-face-of-china-tensions"
-webUrl: "https://www.wboc.com/story/45081880/us-to-deepen-relations-with-taiwan-in-face-of-china-tensions"
+title: "U.S. to deepen relations with Taiwan in face of China tensions"
+excerpt: "The U.S. switched diplomatic recognition of China from the ruling Nationalist Party government in Taipei to the Communist Party in Beijing in 1979, but has continued to maintain a strong unofficial relationship with the self-ruled island. Oudkirk declined ..."
+publishedDateTime: 2021-10-29T15:34:00Z
+originalUrl: "https://www.columbian.com/news/2021/oct/29/u-s-to-deepen-relations-with-taiwan-in-face-of-china-tensions/"
+webUrl: "https://www.columbian.com/news/2021/oct/29/u-s-to-deepen-relations-with-taiwan-in-face-of-china-tensions/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: The Columbian
+  domain: columbian.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://APPREMIUM.images.worldnow.com/images/21626295_G.jpg?lastEditedDate=1635496397000"
-    width: 512
-    height: 341
+  - url: "https://pcdn.columbian.com/wp-content/uploads/2021/10/Taiwan_US_67162.jpg-184c7.jpg"
+    width: 900
+    height: 600
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 810
         isCached: true
 
-secured: "QaWYl0KTLhPqDWb0dQLZbibc9HKir+bCcKOerjW5Jzctut7GEcJ4hB4G0BP2QGpWjnrAWuNUa8VcyMhDA2KF60djdPEttsvJil0w1E94a4Sp2RN8SQwZAVhoTRxMsR2jcXsf0Wc5G0KbffIulX4ky3ecJJaRseyq519Y6kJo5FToS0+xfP0H+MylSB+zyCy6hu/8kajtHrLnbSDAmFFAy6mmG2pYH59QRWzxG2SS0tCqFNd5bZKLdKznQ0HBxMKfCLC6eZ1+m4H3+z6HlZm2nYGshUEWOC+TbXizMRMmV3oWmZrMQIw62jcjbigzVtrcPd4wDedJjAta2AYQfExBm+v6GviSHyAIQMz4Bmzqwf0=;SR8P1fff2A1/L4Vv/kpjKA=="
+secured: "enVTJmBQBP9rWWhVXD5S5kqjvdi6Y+cRn8eygaP72697YMsoLl+fBOlwg0igrfRMIvyP1OF9tlC839RUkB2bdYGEHBVksScE3I+u7utmvHbdeHZ3iZacC4FXL1+184S9StnBjdic8J68eflH/RzKHxQfAB7K2ys+tl0I1M3aCracQbQSiHh4s+C75P41ChGS2ZkTHbrYr0V0cDfEZZZtNoMwZPiDrjs+3IvaRT4o2QsRy1+Y+6VXx9cypywvX2XoPCg70Po6SXeebpxNioBPbhAkSWO7IrlM+yUCNHF1+5O0p+vDHmFTzWS7DG3I7Ma8Z34pnPCOtTbgDW9nWU1NA8rdYKjE7qk53N41gOp6lIQ=;ANluey+dniyhmh2sp1lqqQ=="
 ---
 

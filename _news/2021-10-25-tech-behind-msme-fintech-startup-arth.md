@@ -98,6 +98,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Spiceware selected as the Finalist of the UK Ministry of International Trade's Global Fintech Competition"
+    excerpt: "The UK's Ministry of International Trade runs a Global Entrepreneur Program (GEP) for innovative technology companies wishing to enter the UK. In conjunction with the program, the annual Global Fintech Competition awards competitive global Fintech companies with innovative solutions such as AI technology,"
+    publishedDateTime: 2021-10-29T14:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/spiceware-selected-as-the-finalist-of-the-uk-ministry-of-international-trade-s-global-fintech-competition-1030915183"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1673453/image_819222_7352417.jpg"
+        width: 566
+        height: 400
+        isCached: true
   - title: "What are the Benefits of open-source Technologies for Fintech?"
     excerpt: "Fintech will continue to thrive if it is implemented correctly ... It provides developers with a platform to develop software applications for AI/blockchain, and the platforms that financial businesses will eventually use to execute those results."
     publishedDateTime: 2021-10-25T04:37:00Z

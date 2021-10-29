@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-tran
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Democratizing AI To Transform Your Business In An Unpredictable Future"
+    excerpt: "AI is no longer just a tool for data scientists ... enhancing overall enterprise operations. Business users can start leveraging AutoAI models in minutes, providing advanced predictive power for a broad range of staff, not just data scientists."
+    publishedDateTime: 2021-10-29T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ab08b6fd5210c145ece8a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Discovering exoplanets using artificial intelligence"
     excerpt: "By implementing artificial intelligence techniques similar to those used in autonomous cars, a team from the UNIGE and the UniBE, in partnership with the company Disaitek, has discovered a new method for detecting exoplanets."
     publishedDateTime: 2021-10-27T13:46:00Z

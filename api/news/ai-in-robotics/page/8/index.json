@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-12-singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial.md",
+      "title": "Singapore sends Xavier the robot to help police keep streets safe under three-week trial",
+      "excerpt": "Singapore's Home Team Science and Technology Agency (HTX) roving robot has hit the streets of Toa Payoh ... health and safety.\" Over a three-week trial period, Xavier will detect \"undesirable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/ar-AAOcBbQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/93ef6a41135ffe35b9de2f4c77ab57bccc93e39b/2021/09/07/dc92ae6e-f0f0-4901-ba9d-0783c4e4c8cc/xavier-at-toa-payoh-central.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
+      "publishedDateTime": "2021-09-11T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "zdnet.com/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
+        "domain": "zdnet.com/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-12-mit-robotics-experts-create-pair-of-shoulder-mounted-arms-to-give-us-six-limbs.md",
       "title": "MIT robotics experts create pair of shoulder-mounted arms to give us six limbs",
       "excerpt": "And now roboticists at the Massachusetts Institute of Technology have created robotic arms that can ... to a person’s body and cannot be controlled by the mind. Scroll down for video The extra ...",

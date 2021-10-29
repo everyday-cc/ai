@@ -24,6 +24,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Using AI to create music for NFTs (guest column)"
+    excerpt: "This is a guest post by Rory Kenny, CEO and co-founder of AI-powered music creation platform Loudly, who we have previously featured in a Startup Profile. Loudly’s platform allows AI music to be quickly generated and iterated – and Rory explains below how this kind of AI-generated music could be helpful to creators of musical"
+    publishedDateTime: 2021-10-29T12:52:00Z
+    webUrl: "https://musically.com/2021/10/29/using-ai-to-create-music-for-nfts-guest-column/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 37
+    images:
+      - url: "https://musically.com/wp-content/uploads/2021/10/ST_Energy-White1.jpg"
+        width: 1608
+        height: 1084
+        isCached: true
+
 secured: "w1KsaYbIKpRwOOy1egWv1c5O5TgqVN1uNmiQ+zxh8FCxMznaIx78A6K+lDKPgmTFN4lzAHXuSw4XhQJ7EibTOagZqlZK1OFYVaKwNKMwqeQNU8YhDk21u3r9wowca6N6aAQPg88LT88hgY+Oik99U+wWPt5bf5soVYD6YVlKbxBUwATNt7kvgQf2ocVFbuKllbE0J8VaIa7Fu0kNt/LVFdvlMP/9wEnPdiQzqYuXbLOKgF0U4Nzb2kRZWxjNqf84LIqufXXcnqyWW9ffOtMjnEDsMCIbVoqlCAwcWBe4+2t2oKWFTwhHqYXUSzkItVKQbEIyPjm2b66uD+b3AKY0Xk4IM3kjdO5e0JmwDIdEqE0gh2t0Efek01AnrQLvFwtl4vZK7kQxf+IIXRqhpQjD7ZB8Ik7zLU1SlUBaa0VVXF7/NOhJpGMzCGkspMRO3XJjUsltNLlVMevR1jxJ19sVIg33VmoMCmwAL6DgO23YFdcaigtLO6CfmbowTbbu7Pc75vWjEXdb/ubHJ/7Pc7cMtw==;0TgAVf29ioNzXa9OYNATDQ=="
 ---
 

@@ -49,16 +49,16 @@ related:
         height: 675
         isCached: true
   - title: "On the road to regulating self-driving cars"
-    excerpt: "Over the past five years several Swiss cities and transport companies have experimented with driverless vehicles"
-    publishedDateTime: 2021-10-27T08:43:00Z
-    webUrl: "https://menafn.com/1103053869/On-the-road-to-regulating-self-driving-cars"
+    excerpt: "As cars start driving themselves, to what extent should they be able to explain their actions? A UN body puts that question and others to the public."
+    publishedDateTime: 2021-10-27T07:00:00Z
+    webUrl: "https://www.swissinfo.ch/eng/politics/on-the-road-to-regulating-self-driving-cars/47042470"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Swissinfo
+      domain: swissinfo.ch
     quality: 24
     images:
-      - url: "https://menafn.com/updates/pr/2021-10/27/S_14272image_story.jpg"
+      - url: "https://www.swissinfo.ch/resource/image/47042590/landscape_ratio16x9/1920/1080/f66c5b5558179fd0bbb47387bb53620e/018355EA8A3384C48B57E591B6A388B8/338075149_highres.jpg"
         width: 1920
         height: 1080
         isCached: true

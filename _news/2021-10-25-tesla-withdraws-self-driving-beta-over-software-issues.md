@@ -238,22 +238,6 @@ related:
         width: 800
         height: 560
         isCached: true
-  - title: "Tesla Hits Speed Bump With Self-Driving Software"
-    excerpt: "Tesla rolled back the latest version of its autonomous driving software, called full self driving, or FSD. The decision will lead to questions about the rollout. It could also lead to some stock market volatility Monday."
-    publishedDateTime: 2021-10-24T21:20:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-hits-speed-bump-with-self-driving-software-51635110398"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-hits-speed-bump-with-self-driving-software-51635110398"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-hits-speed-bump-with-self-driving-software-51635110398"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-390980/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Gov Official Tears Apart Tesla’s “Full Self-Driving” Feature"
     excerpt: "It’s misleading.” Full Self-Driving is an optional $10,000 add-on to Tesla’s Autopilot suite. The feature has repeatedly come under scrutiny, especially once Tesla started testing a beta version of the software with the help of a small subset of drivers on public roads in October 2020."
     publishedDateTime: 2021-10-27T21:16:00Z

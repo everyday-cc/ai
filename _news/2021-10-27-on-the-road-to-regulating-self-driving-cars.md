@@ -1,25 +1,25 @@
 ---
 category: news
 title: "On the road to regulating self-driving cars"
-excerpt: "Over the past five years several Swiss cities and transport companies have experimented with driverless vehicles"
-publishedDateTime: 2021-10-27T08:43:00Z
-originalUrl: "https://menafn.com/1103053869/On-the-road-to-regulating-self-driving-cars"
-webUrl: "https://menafn.com/1103053869/On-the-road-to-regulating-self-driving-cars"
+excerpt: "As cars start driving themselves, to what extent should they be able to explain their actions? A UN body puts that question and others to the public."
+publishedDateTime: 2021-10-27T07:00:00Z
+originalUrl: "https://www.swissinfo.ch/eng/politics/on-the-road-to-regulating-self-driving-cars/47042470"
+webUrl: "https://www.swissinfo.ch/eng/politics/on-the-road-to-regulating-self-driving-cars/47042470"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Swissinfo
+  domain: swissinfo.ch
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-10/27/S_14272image_story.jpg"
+  - url: "https://www.swissinfo.ch/resource/image/47042590/landscape_ratio16x9/1920/1080/f66c5b5558179fd0bbb47387bb53620e/018355EA8A3384C48B57E591B6A388B8/338075149_highres.jpg"
     width: 1920
     height: 1080
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 675
         isCached: true
 
-secured: "8I1v2CGomWfmCeOEjGr7DxnTApRQ3qquChCTUxrMHkQZBBy+iLceUQN/Q2MToxaevgkuKWGzANRm50xCsMn18W+vVelGYqShSP/Mbts2PT+suj7gng0vkzN7KU8xP1hJKNmOftXgo5uxDNhAHlrQWyDZtGJ9thufJiG9i2b454KDZuzqwE7GYx88tlBcDPeBrEgTfx6jg1NYJOf6SyBj20/8dReXc0/xeg1QnkPfoJJ8NAZVVq+IY3jjkZZ+3EApueLMMVpFrGUs7eZ34B2K4lLzeaBa2QpmW97D5W7rg7nUfml9CqoSmpPh1aUJAeTeJL9ReKyfF7HyGl3F975+f2+/rj6z/UwkAQouaon3LcHopadOJvzQtGFUktQnGwOdaxR2QtiAvm85IjK0UluiZ4amr0PWqfWkRyDW6B1JZMi9l/xykwog4KK3dScOpN63Gc3Ykg5RjXi7uPj3XkjNb30mjd2DjBqgkQbJGmrZNELoV9+zhs/ABtR4AaD/Rs73/mUClKcKMUs0yP4fKmdcvg==;i9doHRJg6r6LrBVuXECDUA=="
+secured: "fyV5/GBUikEJ3zaUjHKldMS5wIDJ3U4azitHd7nzzLw5QNJtRJJ0dhYzUd5NjMnEzU9jbmZFb96A59dWWCba8k9Tg0Vjxo7HV3fCOpvsBf03PiLpAXMdwFjLP9cHMvfgL1edSnExowda2Qf4n0R8QvdtP3ETgv34G2uUsTxVkw624MLLO5Cfb06ypBtNk2aS7ABfK+L/T0U6gPUTIoDdNEKc2R+RRW4eKA34SLoX8FW2M4ruKYSybexyubznfZJyjTyEzGCfy8Vm0Uyk0+NnmajnfMrNhuGkBx5gEVmVK/rGpRBNX0xVzauhh9pB37eCSHc679kWB6IGcK0P3RwX3cv5CRlowJ8R4PSeoD9NK7k=;pvVTzMjWwjatW9NuV8zhFQ=="
 ---
 
