@@ -66,6 +66,20 @@ related:
       name: Omaha.com
       domain: omaha.com
     quality: 24
+  - title: "MIT’s Self-Driving Boat Is a Futuristic Robotaxi on Water, Ready to Operate in Amsterdam"
+    excerpt: "MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ... According to the project’s representatives, this self-driving ship could easily operate 100% autonomously, 24/7, but for safety reasons, it is being monitored by an onshore ..."
+    publishedDateTime: 2021-10-29T04:07:00Z
+    webUrl: "https://www.autoevolution.com/news/mits-self-driving-boat-is-a-futuristic-robotaxi-on-water-ready-to-operate-in-amsterdam-172904.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 15
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/mits-self-driving-boat-is-a-futuristic-robotaxi-on-water-ready-to-operate-in-amsterdam-172904-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "44kk2q0ZEl/+yDKoBzW3XA6s88wW6Wcv8IaizivRZis/NnDpU+qJ33f5LP5Ml4foIF7fE6sdznPxL14YF0X/6bWW56/7pRgz/h9CaFmbhS7CGLBuF0ocpXHS/8c3Tla+zpI31qfO2BF4pruPPa56SJLKtIJs99CrJSKg0oTYyDqXIL266iAmlfNv7QTCkpZyZWYRNJzcBWANQVxaLa5LClbCOLVDxzFBfMs6O4H6d17dRZxp8foXN3/Myhpd+uTiVwVI3r0iit/eA35Kuk3Bk7aXdUUoOWKdNnvIkHeVwzar1edxVVm1e2pV+o7WSARZ12hL9DLgLvbZ0kTd6qAQz4LOOrb12M96C3Xp+0m+dX3d2CRjnOIWd2SjfdnsOEVV6bUX//SNXEyJBZr2UIC+MIy/KdWSrOTFurgWyC8xZixKhbaN9X/9O7C2rN/Hztpwqulth1hSmfF41oYvVmzXUemMwqAq0g0z5HIMgfkbOK4QAZRNLa30yF5WJyeK+ActS/RHPhghJ4nJY5zuUDojzg==;eHv66ZSqCIC25Atx4j2CwQ=="
 ---

@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Artificial networks learn to smell like the brain"
-excerpt: "But neuroscientists who trained an artificial neural network to take on a simple odor classification task were surprised to see it replicate biology’s strategy so faithfully. “The algorithm we use has no resemblance to the actual process of evolution ..."
-publishedDateTime: 2021-10-19T03:18:00Z
-originalUrl: "https://news.mit.edu/2021/artificial-networks-learn-smell-like-the-brain-1018"
-webUrl: "https://news.mit.edu/2021/artificial-networks-learn-smell-like-the-brain-1018"
+excerpt: "Using machine learning, a computer model can teach itself to smell in just a few minutes. When it does, researchers have found, it builds a neural network that closely mimics the olfactory circuits that animal brains use to process odors."
+publishedDateTime: 2021-10-19T12:42:00Z
+originalUrl: "https://medicalxpress.com/news/2021-10-artificial-networks-brain.html"
+webUrl: "https://medicalxpress.com/news/2021-10-artificial-networks-brain.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-10-artificial-networks-brain.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-artificial-networks-brain.amp"
 type: article
 
 provider:
-  name: news
-  domain: mit.edu
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://news.mit.edu/sites/default/files/images/202110/olfactory-network.jpg"
-    width: 900
-    height: 600
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-networks-le.jpg"
+    width: 792
+    height: 599
     isCached: true
 
-secured: "duopxA9uL2/U939WDB7Onnd1Y2IqU9vqr86w0YA4l+tFIzPmHl8dyurG5i7aCfB6UElii1zl0uta2nNYclxW7Q74CjPIteypANPG1aMvUZ25j002sTbBdDvuAh2kP4eIlWr9u5aADby3d1W0uwo0gGLGXROVP/N3s5KZCKS97Wk8Vz9L5251lcw4dgdCDEQ+N+wVIiT1zo5fIRGTpSSOxuAdlQywqPTEIuaOo7AcYvtiajw6q0xbUhiLPKaqwYdqD/xg1Rk1zzVMI2mrLietC7yD1l5FV1vbd6focqxvluv59/W75oQo1Xi9c2JYVGkEp8lkJ3Qb21dRf17P+mORDUo/nFmqwt9Mu34lglnpB40=;uqU6RhkA+TG8ipPmwZuJCA=="
+secured: "QW1G83G0eBsldn0hV3YTKaq4yU6hHrr4Zep+mWibDIqXc46dEKTelyyGo+pN5/j1nlNH3eOJGojljtGmXeerrJvIEMm/0u5pMWOFx/jNV9MxSuHoNQgmSKV9R66nDpcSUnTRg3DOJ7uch9wVXswiyaSfErkYs0g4OdQ0JOveYZXhaG9nudWxCR027XQJ9RPrYk9DY8+9vQFAOKYVzKPEFNTxhUZi6dOeSn+GRE3rn8xSuAXxnBbuPuQ1Tj9lf0HegqNG+g7ASRag1/BVcnV218nsLERmKQhiTBMocPMa39PHcFVb5gqRB+4LS41ANjpumtHeqQRkyVy18N6YcQgPEDqZlROf40BGiFhw7LYZe68=;ZSt7uv3pCYrIDQGHL7KBSA=="
 ---
 

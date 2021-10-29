@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-th
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: Omaha.com
       domain: omaha.com
     quality: 24
+  - title: "MIT’s Self-Driving Boat Is a Futuristic Robotaxi on Water, Ready to Operate in Amsterdam"
+    excerpt: "MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ... According to the project’s representatives, this self-driving ship could easily operate 100% autonomously, 24/7, but for safety reasons, it is being monitored by an onshore ..."
+    publishedDateTime: 2021-10-29T04:07:00Z
+    webUrl: "https://www.autoevolution.com/news/mits-self-driving-boat-is-a-futuristic-robotaxi-on-water-ready-to-operate-in-amsterdam-172904.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 15
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/mits-self-driving-boat-is-a-futuristic-robotaxi-on-water-ready-to-operate-in-amsterdam-172904-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "Uus9l0KQ6PAVM5YHszx8hgWJWHinXVXJjvoLEUgTwmGYTtapyPWmxQ6IdYi3NIv4sskW95PDyQVrfJQVnlGJ0TGCSupJ5N3EfQhofVY6+kgawkUABv6jFQjjiZyg1Xi5+DKiC4SfRdLhc8Dlei6rpOBqFg6JjHjUw8eyltfa5APxuc/gUR4MZGX1t5PfBlgIfFsV/bdBSdXtTo3rCmWpR1dIe0pz5CY3R79B8ldJbcSFChPAqdcO8CFwgMvnnW1xcXluJOG1bjq9YS53VA7sJThn5w8ywvkQR3vz+DsqYjHDs0jxWbKQNsamevBrpSUVL9GXZ3RgATWzcroNMMCdG9UzMlE8eaBURfnJvThNG6Lz9nBzsxnF+wdKhAdIvfygphsUnkt99EXaNoC/ODB634wmAoLikdQGZxnjH6LnNO3hj7srlpT0GIVjwS6eh+f12InMQWoXE5RvG7SnSaG2QWjvMg+DfeKrfoB9GPsjJkMsymbfZaG36pcKyHixLCUj/LXsFSpcxPYR5H57W4KR2g==;a1wEC3K569DHgM1TgcCfBg=="
 ---

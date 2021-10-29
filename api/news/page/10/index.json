@@ -2,6 +2,59 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-10-19-autonomous-mobile-robots-sales-market-size-soaring-at-159-cagr-to-reach-600-million-usd-by-2025.md",
+      "title": "Autonomous Mobile Robots Sales Market Size Soaring at 15.9% CAGR to Reach 600 million USD by 2025",
+      "excerpt": "With an impressive compound annual growth rate of 15.9% during 2018-2025, the global Autonomous Mobile Robots market valuation is poised to bolster from USD 180 million in 2017 to USD 600 million by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-mobile-robots-sales-market-size-soaring-at-159-cagr-to-reach-600-million-usd-by-2025-2021-10-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-mobile-robots-sales-market-size-soaring-at-159-cagr-to-reach-600-million-usd-by-2025-2021-10-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience.md",
       "title": "Contextual AI In A Summer Of Sport: Making The Most Of A Captivated Audience",
       "excerpt": "Visit Seedtag’s site to hear more For sports fans, 2021 has proved to be the summer of sport that 2020 never was: drama, excitement and passion to bring nations together. This summer, audiences were treated to EURO 2020,",
@@ -829,58 +882,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-artificial-networks-learn-to-smell-like-the-brain.md",
-      "title": "Artificial networks learn to smell like the brain",
-      "excerpt": "But neuroscientists who trained an artificial neural network to take on a simple odor classification task were surprised to see it replicate biology’s strategy so faithfully. “The algorithm we use has no resemblance to the actual process of evolution ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/artificial-networks-learn-smell-like-the-brain-1018",
-      "originalUrl": "https://news.mit.edu/2021/artificial-networks-learn-smell-like-the-brain-1018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/olfactory-network.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },

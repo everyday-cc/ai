@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook, now Meta, is expanding smart glasses research into cars via BMW"
+    excerpt: "Facebook's still trying to make AR-enabled, AI-assisted smart glasses happen. The company announced plans to field-test its camera and sensor-studded Project Aria glasses, designed for research on future AR glasses in more places,"
+    publishedDateTime: 2021-10-28T17:15:00Z
+    webUrl: "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 73
+    images:
+      - url: "https://www.cnet.com/a/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook's language gaps weaken screening of hate, terrorism"
     excerpt: "In countries like Afghanistan and Myanmar, these loopholes have allowed inflammatory language to flourish on the platform, while in Syria and the Palestinian territories, Facebook suppresses ordinary speech,"
     publishedDateTime: 2021-10-26T03:46:00Z

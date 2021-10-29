@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-and-google-cloud-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
 type: article
 quality: 104
-heat: 225
+heat: 224
 published: true
 
 provider:

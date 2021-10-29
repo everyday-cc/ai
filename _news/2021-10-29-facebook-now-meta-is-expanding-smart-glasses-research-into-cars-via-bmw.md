@@ -1,22 +1,34 @@
 ---
 category: news
-title: "Facebook is spending more, and these companies are getting the money"
-excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
-publishedDateTime: 2021-10-27T07:22:00Z
-originalUrl: "https://www.morningstar.com/news/marketwatch/20211027352/facebook-is-spending-more-and-these-companies-are-getting-the-money"
-webUrl: "https://www.morningstar.com/news/marketwatch/20211027352/facebook-is-spending-more-and-these-companies-are-getting-the-money"
+title: "Facebook, now Meta, is expanding smart glasses research into cars via BMW"
+excerpt: "Facebook's still trying to make AR-enabled, AI-assisted smart glasses happen. The company announced plans to field-test its camera and sensor-studded Project Aria glasses, designed for research on future AR glasses in more places,"
+publishedDateTime: 2021-10-28T17:15:00Z
+originalUrl: "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
+webUrl: "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
 type: article
-quality: 4
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://www.cnet.com/a/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Facebook is expanding smart glasses research into cars via BMW"
@@ -30,22 +42,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facebook, now Meta, is expanding smart glasses research into cars via BMW"
-    excerpt: "Facebook's still trying to make AR-enabled, AI-assisted smart glasses happen. The company announced plans to field-test its camera and sensor-studded Project Aria glasses, designed for research on future AR glasses in more places,"
-    publishedDateTime: 2021-10-28T17:15:00Z
-    webUrl: "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 73
     images:
       - url: "https://www.cnet.com/a/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg"
         width: 1200
@@ -163,7 +159,16 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 4
+  - title: "Facebook is spending more, and these companies are getting the money"
+    excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
+    publishedDateTime: 2021-10-27T07:22:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20211027352/facebook-is-spending-more-and-these-companies-are-getting-the-money"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 4
 
-secured: "ogRkwEM8yaH6oCFc11AhwLw16P71wxXSugGsrByCQiGC9aJsAIwn8rM8v5o3670cwbmvWRH/6Dso0nL5Goqb1125rT9zQ110GLu3EGvfrDwaGEXHaRcVTYQ5tsfz8rycM5BncLcCpgtG8J5o49vso3wXUqOvNiPx/ZJrZ3YBtn326xrUWNSl3to/VnRrgLb1JP8PStIp/Q6KHio29iuyTFyF7lf2ATXJD7p3UMtq5XP53EwQxTDY2sTJua/u3B0hE1YZg+2jdmWiS8pXJgnfdm9byN6l+ZyzTLecGe9HcX3iE4b4/2LoiY3b/PgPspqDYdtvyXcPsbs6mwF++URKu1M9CncVQu6CZ4Lwoxu+65w=;HzuoiCLbvyvHHYfEoHdi1A=="
+secured: "8lyn1/3Qjkgd9OvasDhsnq8yMc4NTGACGEKpvSsiOrkum2VFaYDT75wpeHUxYwN1Atg3COH2QhbiyAo0WWucoPY0kyxR3ajmMMKQoy7Rxp91bJappQdeTagWBmjYyxNn5KtVsWg4x6C63gM75dW3wg0jkjxJmtZnd4M3IhV2Z2hXcYg4xdNjyObW/SMF6DesfvXZT6GoWNk0zoUuP1Ei0DNo0sF6sClGPHcAgBKkfqzlmKRXnBUa/S00Bkuh8UVBtUjb/J0O8Jr//DUD0b/2k0QjhhwttzGsZb/845rstZcTZGG0VU5+B7wrBePYUEiU+rvT+n4CNzR1wJJGJtJUpAq6V7t+/M5T/VvfpQjE+dc=;F/9OSZIGPwqaVGAQfkCyuQ=="
 ---
 
