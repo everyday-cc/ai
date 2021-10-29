@@ -53,20 +53,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "5 Steps to Help Tech Companies Reduce Bias in AI"
-    excerpt: "The five-step framework can help tech entrepreneurs prevent biases from developing and reverse existing biases in tech.  Children inevitably adapt to the culture in which they were raised. Parents or guardians shape the lens through which they view the world,"
-    publishedDateTime: 2021-10-25T05:01:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/5-Steps-to-Help-Tech-Companies-Reduce-Bias-in-AI-16559021.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/37/00/21622794/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "GeL6ePcQcWA+QrYCLwVXBqQhGnFzXMxC4yodSc+I/HWwyv2t9M+L0U6NeXYk5pKV01JUnIQ/S9ngQCV+oFJudl5NA4JYson7oKzJX2VjK47GVD+d+qtW68ZEZ1xYhm/KIQ232MuvSwUeYUJJ+djrSwm75pY79DycQ+Fc/ScVl3bRIDWoLh13tlgnhLyKeA1JWNhgefKeYEohJJLpQEhKyRyHkT8ulxM4hBffRibC663FhAHKrKEb577535J9EArINzyvedhhW4qYIGRESxcU1cVmUEv6sRC73uYPjwn3yPnKxj81ArT9NEv7DYq6FMYKUp1zxSi11oyDCW+FUi3KqIFpoBdk28xWj754RpwGKo4=;CYsiMzI6H0hu4v3VFg+uCQ=="
 ---

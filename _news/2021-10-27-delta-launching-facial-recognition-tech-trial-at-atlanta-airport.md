@@ -2,24 +2,24 @@
 category: news
 title: "Delta launching facial recognition tech trial at Atlanta airport"
 excerpt: "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate."
-publishedDateTime: 2021-10-27T10:31:00Z
-originalUrl: "https://www.hawaiinewsnow.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/?outputType=apps"
-webUrl: "https://www.hawaiinewsnow.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/?outputType=apps"
+publishedDateTime: 2021-10-27T12:31:00Z
+originalUrl: "https://www.knoe.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/"
+webUrl: "https://www.knoe.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: KHNL
-  domain: hawaiinewsnow.com
+  name: KNOE
+  domain: knoe.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
+  - url: "https://gray-knoe-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
     width: 980
     height: 551
     isCached: true
@@ -134,6 +134,6 @@ related:
         height: 641
         isCached: true
 
-secured: "Njwru3BP7CpP9AG7clua16zxF4FXXPTwtAILybJUJW8MjpM/9ffh+/aa9ksp8fIScgLk8V3XcRkbdTg6x8az1XG0871ltpsm3X/lyXlrynlzWWbhVjmzUn1ZDTlEqWdObY8adNkMIGPmRcN8Le24+svMJ7kHpzTsaf4LkZKXPJ9phr6oHq+AxVAMzYVMr9DmZQIqMeNlT6M9Th+Wikn7J9mnF8e0+udgXSzagtJ4dIQr9W4Y375mczZvarXVT8AQ/D5T4w6wq55d/xgSfQZfu0NOVyIQmjkTlF43H2xkbeSr6ZE6kQTmAm+x3EfT6Zll76+XR3BSurQbfqhkKauCP9FmKiAXyinigEqc77gRIgU=;Kzx98rscddQXL08slqUaig=="
+secured: "/sI9y14CcgiD504gJj8+L0rR5aZv1f1WUOedhGGzGwMp8D8uBlgZH6LkN8fcNZtcHIPL57g0PMP4UTLvhZeOd7jUJxDOYhyZsiTLkkYSOHiqHYoPwVd1a4OlHoBP5Wes7YIRpFqg3Jt339QzQqgWSjiK9FQQDZfkcA427g90t81Dw1C5QuFhc+AP7QGV9NENfESG+biFf5Bk5575QFSvdjT/kUqQB/JU+8agbCr73CLzJILIWz3295c1IDpZ1gOf+6XCudwNnsOPgqsOuQHzgAGZiVnQNNBlc0eseV8uUGuET4tjfycLtbqaIrSObbR9RUMKGK7gebxK3K3pRjyjxiM1zf3oZcnSPJuBa3VK40k=;gGwFHh8FTumgp/lnj/IMxg=="
 ---
 

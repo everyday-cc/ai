@@ -270,22 +270,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Tesla Setback: Elon Musk Rolls Back Full Self-Driving Software Over False Warnings"
-    excerpt: "The setback comes as Tesla is under regulatory scrutiny over the safety of its semi-autonomous driving technology, which it calls FSD."
-    publishedDateTime: 2021-10-25T04:33:00Z
-    webUrl: "https://www.ibtimes.sg/tesla-setback-elon-musk-rolls-back-full-self-driving-software-over-false-warnings-60887"
-    ampWebUrl: "https://amp.ibtimes.sg/tesla-setback-elon-musk-rolls-back-full-self-driving-software-over-false-warnings-60887"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/tesla-setback-elon-musk-rolls-back-full-self-driving-software-over-false-warnings-60887"
-    type: article
-    provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 53
-    images:
-      - url: "https://data.ibtimes.sg/en/full/41342/tesla.jpg"
-        width: 910
-        height: 607
-        isCached: true
   - title: "Tech Bytes: Apple Macbook Pro shipping delays, Tesla self-driving issues, Clubhouse pinned links"
     excerpt: "Apple is warning of delays when it comes to their new laptops, Tesla is pulling new software due to issues and Clubhouse is allowing users to pin links to the top of their audio rooms."
     publishedDateTime: 2021-10-25T10:48:00Z

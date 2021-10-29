@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "5 Steps to Help Tech Companies Reduce Bias in AI"
-    excerpt: "The five-step framework can help tech entrepreneurs prevent biases from developing and reverse existing biases in tech.  Children inevitably adapt to the culture in which they were raised. Parents or guardians shape the lens through which they view the world,"
-    publishedDateTime: 2021-10-25T05:01:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/5-Steps-to-Help-Tech-Companies-Reduce-Bias-in-AI-16559021.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/37/00/21622794/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Iguazio Partners with Pure Storage to Operationalize AI for Enterprises Taking a Production-First Approach"
     excerpt: "\"Most organizations starting out with AI initially focus on research and model development ... Red Hat, Inc., the world's leading provider of open source solutions, today announced Azure Red Hat OpenShift on Microsoft Azure for U.S. Government as a ..."
     publishedDateTime: 2021-10-26T13:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1672246/Enter_a_title.jpg?p=facebook"
         width: 786
         height: 524
+        isCached: true
+  - title: "AI Phishing Defense Leader SlashNext Closes $26 Million Series B Funding"
+    excerpt: "In addition, the company has developed key resell partnerships with Palo Alto Networks XSOAR Marketplace, Microsoft Azure Marketplace ... will further its lead in AI cloud and on-device multi ..."
+    publishedDateTime: 2021-10-29T20:38:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1218575&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 38
+    images:
+      - url: "https://mma.prnewswire.com/media/1672246/Enter_a_title.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Plask, Whose AI-Based Tech Converts Video Into Animation, Raises $2.6M"
     excerpt: "South Korean tech startup Plask has raised US$2.56 million in pre-Series A funding, as it prepares to bring its automated animation tool to the market. The technology eliminates the necessity for motion capture by creating animation directly from video motion."

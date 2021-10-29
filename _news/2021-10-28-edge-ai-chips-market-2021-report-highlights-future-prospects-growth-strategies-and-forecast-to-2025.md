@@ -109,22 +109,6 @@ related:
         width: 669
         height: 229
         isCached: true
-  - title: "Consumer AI Market Incredible Possibilities, Growth, Trend, Opportunities Detailed Analysis and Forecast 2030"
-    excerpt: "The Global Consumer AI Market size is estimated to be USD 5 00 billion in 2019 and is predicted to reach USD 149 60 billion by 2030 with a CAGR of 36 2 from 2020 2030 Artificial intelligence is also"
-    publishedDateTime: 2021-10-25T03:16:00Z
-    webUrl: "https://www.openpr.com/news/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
-    ampWebUrl: "https://www.openpr.com/amp/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua25103727_g.jpg"
-        width: 401
-        height: 401
-        isCached: true
   - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
     excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
     publishedDateTime: 2021-10-27T04:43:00Z

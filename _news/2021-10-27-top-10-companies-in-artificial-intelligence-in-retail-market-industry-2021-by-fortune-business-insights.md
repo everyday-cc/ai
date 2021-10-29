@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-arti
 webUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27"
 type: article
 quality: 66
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Global Machine Learning (ML) Intelligent Process Automation Market Business Intelligence Report and Strategic Insights By 2028"
+    excerpt: "Others have been further segmented into human resource management, incident resolution, and service orchestration. Machine learning (ML) intelligent process automation has also been segmented on the basis of vertical into banking, financial services ..."
+    publishedDateTime: 2021-10-29T20:48:00Z
+    webUrl: "https://chipdesignmag.com/global-machine-learning-ml-intelligent-process-automation-market-business-intelligence-report-and-strategic-insights-by-2028/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 8
 
 secured: "nIxVnC5R4WpSMb0qjxj2dNdMiKbJbbyqgL0Fhmn1ouh7J3uc3KFhwS3PfrR0SU+OzNF5D5gjpWuebvUv7W6ITWGGdxYv3u+7+Z7jZPrplOpFkKqfD5OU4MYm6vqTogX6nKcxF6DNw/UhLbfI+lsTPOKd8iHwYZheqsZAj2HS9MtZIEmEOpyYJWQMChk3lGLVx5nuG9b5U2/kovithQ6crcesEEy2/NKJV1oE9+dXOkVtkFyZtAPzvE60Lw49DeSmKc94/rcUZt4DQcGDxXSys78hQlfwWLfNd2uo7ljhGxfB22AIamcuWq5uO4OQJopT4dl0LjcRSOVMy5CJzGWXlq1TPzJBWNUmIwZIk8nVHiE=;OgpekCuvsK5JFeJGTwFIzA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-conversational
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-auto-insurance-using-amazon-lex/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 800
         height: 566
         isCached: true
-  - title: "How Bajaj General Insurance leveraged automation, AI and ML for automating key processes"
-    excerpt: "Insurance provider Bajaj Allianz General Insurance Co. Ltd. has developed a mobile phone Application that aids in digital pre-insurance medical checku.."
-    publishedDateTime: 2021-10-25T03:38:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 45
 
 secured: "XjYs2LUKnmSATHSW6OiHumPJzqRdPbymoyUuQbrN54HyK6mxLGSZ8uWXDoFHQLWu7kTipDPKNZU/Kd0Lau7S7phcB4+KOwxgURuWpcnRU2R58WKLBYIJGW6qCpkAcJzvaHKQ3dR8EpmuwCenk3YAMTgu/DAvgf6cyMLPqNb++QxoaqEJHEGLw5EsYo+RneSwSb9XUs8BRNXiU2xbRGZ6zaiz0LQ9MfmOxsiiaJJpBVJUxPGK16dK3vk/jUypeVKOeDjWimC5SRwUYIe0psUi/1JH9tugZvlM2/Jd67MaT6tyXb02X835vi6O9fvYvuKXCjgrlk5agzT5n9stfYB5bWbAGmwMkfuy2T/Rz6dv+6Q=;iaFMj/lgw+a1aN0NjpGDUA=="
 ---

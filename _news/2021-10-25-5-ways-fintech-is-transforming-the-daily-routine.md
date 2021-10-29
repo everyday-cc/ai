@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financemagnates.com/fintech/5-ways-fintech-is-transformi
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/amp/"
 type: article
 quality: 59
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -111,20 +111,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/arth-1-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "What are the Benefits of open-source Technologies for Fintech?"
-    excerpt: "Fintech will continue to thrive if it is implemented correctly ... It provides developers with a platform to develop software applications for AI/blockchain, and the platforms that financial businesses will eventually use to execute those results."
-    publishedDateTime: 2021-10-25T04:37:00Z
-    webUrl: "https://www.linkedin.com/pulse/what-benefits-open-source-technologies-fintech-daniel-abbott"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
         isCached: true
   - title: "Hong Kong Fintech Week 2021 to Lead Scaling up for Fintech Future"
     excerpt: "Invest Hong Kong (InvestHK) announced details of Hong Kong Fintech Week 2021, themed “Scaling Fintech Future Together”, which will be held in hybrid form, comprising both physical and virtual formats,"

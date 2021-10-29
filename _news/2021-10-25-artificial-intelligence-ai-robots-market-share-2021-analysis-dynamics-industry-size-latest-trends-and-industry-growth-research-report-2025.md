@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25"
 type: article
 quality: 63
-heat: 253
+heat: 243
 published: true
 
 provider:
@@ -102,22 +102,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
         width: 669
         height: 229
-        isCached: true
-  - title: "Consumer AI Market Incredible Possibilities, Growth, Trend, Opportunities Detailed Analysis and Forecast 2030"
-    excerpt: "The Global Consumer AI Market size is estimated to be USD 5 00 billion in 2019 and is predicted to reach USD 149 60 billion by 2030 with a CAGR of 36 2 from 2020 2030 Artificial intelligence is also"
-    publishedDateTime: 2021-10-25T03:16:00Z
-    webUrl: "https://www.openpr.com/news/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
-    ampWebUrl: "https://www.openpr.com/amp/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua25103727_g.jpg"
-        width: 401
-        height: 401
         isCached: true
   - title: "Edge AI Chips Market 2021 Report Highlights, Future Prospects, Growth Strategies and Forecast to 2025"
     excerpt: "Global Edge AI Chips Market Research Report 2021-2025, provides an in-depth analysis of market size, share, drivers, constraints, and other factors. Additionally, for the projection period of 2025, this research includes an estimated observation of many ..."

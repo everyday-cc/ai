@@ -54,6 +54,20 @@ related:
         width: 786
         height: 524
         isCached: true
+  - title: "AI Phishing Defense Leader SlashNext Closes $26 Million Series B Funding"
+    excerpt: "In addition, the company has developed key resell partnerships with Palo Alto Networks XSOAR Marketplace, Microsoft Azure Marketplace ... will further its lead in AI cloud and on-device multi ..."
+    publishedDateTime: 2021-10-29T20:38:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1218575&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 38
+    images:
+      - url: "https://mma.prnewswire.com/media/1672246/Enter_a_title.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "1JFChE86exWfv7HulR1aC7EUJ9vKSUBR0uo+NduxJ+q7tfS7gIuS3jbqPbhTToW6q8a+q7ji4ruTBrHx5DRo1QtAfj2kjVndmT3wPwCHINMir9izWyJe5WGkXiRAW44Dt4EfzRXO3cZJYFeC0x+BihDgzXqvNhNT3dcWF6Fpd+bKmQ7j5poo/8UNvNFkJhMdU+3dc/o0sKRBywoMQITE/P6+cmcuCOqEmVQAfZrBd88E3BxWXKxWp64/0miRSPrHqhOPSmFYGijC13gPVHgC6rzrsS/Dq2GO4Aj60fTgYphekJtdPmjEnAgTvWYMrHs0G8VYaIA+bAU/YzpF+Luro9BZXYWdQoKRAeg5uf3Ujyk=;0WNiYE/zDGLPbsubnkmmOQ=="
 ---

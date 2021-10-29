@@ -1,29 +1,31 @@
 ---
 category: news
 title: "We mapped every large solar plant on the planet using satellites and machine learning"
-excerpt: "An astonishing 82% decrease in the cost of solar photovoltaic (PV) energy since 2010 has given the world a fighting chance to build a zero-emissions"
-publishedDateTime: 2021-10-29T19:53:00Z
-originalUrl: "https://menafn.com/1103072918/We-mapped-every-large-solar-plant-on-the-planet-using-satellites-and-machine-learning"
-webUrl: "https://menafn.com/1103072918/We-mapped-every-large-solar-plant-on-the-planet-using-satellites-and-machine-learning"
+excerpt: "Solar is “intermittent”, since sunshine varies during the day and across seasons, so energy must be stored for when the sun doesn’t shine. Policy must also be designed to ensure solar energy reaches the furthest corners of the world and places where it is most needed."
+publishedDateTime: 2021-10-29T17:30:00Z
+originalUrl: "https://theconversation.com/we-mapped-every-large-solar-plant-on-the-planet-using-satellites-and-machine-learning-170747"
+webUrl: "https://theconversation.com/we-mapped-every-large-solar-plant-on-the-planet-using-satellites-and-machine-learning-170747"
+ampWebUrl: "https://theconversation.com/amp/we-mapped-every-large-solar-plant-on-the-planet-using-satellites-and-machine-learning-170747"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-mapped-every-large-solar-plant-on-the-planet-using-satellites-and-machine-learning-170747"
 type: article
-quality: 32
-heat: 32
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-10/29/TC_d9f80image_story.jpg"
-    width: 1500
-    height: 714
+  - url: "https://images.theconversation.com/files/429116/original/file-20211028-21-1wplvee.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=202&fit=crop"
+    width: 320
+    height: 202
     isCached: true
 
-secured: "ZzKZTZg4zYuAl5h8iP3AA6reNGZ7UFY4nNcoB0AhGWpmaEdHCBBL332vr6yhVllxr0wfPOX3l9bnhJ/GJQgZofR7oU8qHB0jxe4pTGV3DndowE/Byhj6A7rmjDmP0RekXUx4L5QJ4CPN/fkbXyAx8UypQVa4yPJsBMJQu/joMG9krFp+A1uFku1YiWbpWlPQNMvLNLsoJBQHGWxd+ItfeI7B5F+J24MZudpXjnaUd1XyrPGdzCmUF5DJOOXplfa4hXfrh3DwHh/kOiRphBgt4DebfrexxV1yYcPz/Xjn4lXyzAqr4EorjjtlKGqdBPQA1A5N3KNviQlPe2f3bSLSyM2WHiDrRfdcfj4yFlBUo3Q=;bInNq5EvgmrXNHDbypPdog=="
+secured: "fGYFlaooQWoar9Hb+NPIghvN8ByF6Z9NW6HWgMEqPdAPz2mYX3WDiXirCYB03l4rql8XY2ugy22hBNg+4Zz2JZm0E2eyWKCCWaRmYkq8WyHFLP3eJ0TzrRiprgBuo8HlkLpc+4ncMSzRCPOZ7G8TxtE8e5eWF20F+xrWP8/edIBQVpMOfZD+W9BWA1lkCsYHZ1hLFLocxlsJUZjmc2jRy0NrvqK4XlaO2Nfgds5n48aOOK0zEV5LsGcRr48/xERP0oXyRSU7o3dqOJtdeWwJ/+44oWPMk/vC98g5lwKb6BrTWQ1yTOid6BShLrV/ta7xjg57LrvK0PP9EZnRM5L9XlC9ZrW83c7wZ5koeUOqiuQ=;i03AvloRqL6I0FPt8qOFSA=="
 ---
 

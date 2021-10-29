@@ -43,17 +43,6 @@ related:
         width: 800
         height: 495
         isCached: true
-  - title: "How Bajaj General Insurance leveraged automation, AI and ML for automating key processes"
-    excerpt: "Insurance provider Bajaj Allianz General Insurance Co. Ltd. has developed a mobile phone Application that aids in digital pre-insurance medical checku.."
-    publishedDateTime: 2021-10-25T03:38:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 45
 
 secured: "O0wDpkA2sqPcYFGBkK3KNApyZTBSZnWdeg8qWTMdvlzEVJQLMM99QJ9JIv7kkjZK/0iDJvUtCw2P/BSy4oA68wwCKGh9vZYnCULb8O9J9VxSXxTkGCCDV+1OpeG2Ua11suXuvai9SZ9O94XVFy2xVOBTXGeNsXFyTnf0MYUfAnfwUvGZwTjxWBQ2UyMHfz6cdFRC15kFBlIDRw07kGr7DM0er9EBlU03XA/Tz4E7mp0K93Jjjoj171JDoxqiBYqYPaKpizCJImjJclJ/fq3cpQNSegEC+68vgyZ4TbNvw9v+IpbNLLpHe9wvbr4KbNy/3kBtIAXLaWQbtSCcgSNaDFipRfK9W6DMNpOpBk9eRlc=;Ujw7dh24hGHZfeiV893u1A=="
 ---

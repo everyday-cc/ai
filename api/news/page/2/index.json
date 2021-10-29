@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-28-legaltech-startup-vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives.md",
+      "title": "Legaltech Startup Vakilsearch Raises $10 Mn To Accelerate Its AI And ML Initiatives",
+      "excerpt": "“With this investment, we will leverage the strengths of Vakilsearch and accelerate our Artificial Intelligence (AI) and Machine ... India CEO Manish Modi. The startup had raised $2 Mn from ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/",
+      "originalUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2021/10/vakilsearch-featured.jpg",
+          "width": 1360,
+          "height": 1020,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/amp/",
+      "publishedDateTime": "2021-10-28T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-healthtech-startup-ziniai-raises-pre-series-a-funding-from-solarus-group.md",
+      "title": "Healthtech Startup Zini.ai Raises Pre-Series A Funding From Solarus Group",
+      "excerpt": "Zini.ai, an AI-powered multilingual virtual physician ... from patients to healthcare professionals. We believe that the startup is solving a large unmet need in the market and it has the potential to become a defining brand in the category it operates ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/393896",
+      "originalUrl": "https://www.entrepreneur.com/article/393896",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1635407197-DrRohitSharma-CEOandFounder-Grainpad-Ziniv1.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats.md",
+      "title": "NetWitness® Detect AI: Cloud-native machine learning for rapid detection of sophisticated threats",
+      "excerpt": "Home video setup: What you need to look and sound professional Artificial intelligence ethics policy Checklist: Onboarding and offboarding IT staff BYOD approval form",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
+      "publishedDateTime": "2021-10-28T00:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.md",
       "title": "McDonald's enters strategic partnership with IBM to automate drive-thru lanes",
       "excerpt": "McDonald's has entered a strategic partnership with IBM to help the fast-food chain automate its drive-thru lanes.",
@@ -633,57 +771,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-27-adobes-project-strike-a-pose-uses-ai-to-pose-your-models-for-you.md",
-      "title": "Adobe’s Project Strike a Pose uses AI to pose your models for you",
-      "excerpt": "One of the highlights of Adobe’s annual MAX conference is its so-called ‘Sneaks’ session, where the company shows off some of its most cutting-edge research projects. Some of these make it into the mainline Creative Cloud apps and some simply remain cool demos.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/27/adobes-project-strike-a-pose-uses-ai-to-pose-your-models-for-you/",
-      "originalUrl": "https://techcrunch.com/2021/10/27/adobes-project-strike-a-pose-uses-ai-to-pose-your-models-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/snapshot_5.jpg?w=1024",
-          "width": 1024,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/27/adobes-project-strike-a-pose-uses-ai-to-pose-your-models-for-you/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/adobes-project-strike-a-pose-uses-ai-to-pose-your-models-for-you/amp/",
-      "publishedDateTime": "2021-10-27T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-27-this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality.md",
       "title": "This Automotive Company Revs Up Machine Learning To Turbocharge Engine Quality",
       "excerpt": "With help from SAP, Mumbai-based MHEL replaced its outmoded physical engine testing with virtual testing – using artificial intelligence and machine learning while incorporating data from a variety of sources.",
@@ -1121,109 +1208,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights.md",
-      "title": "Top 10 Companies in Artificial Intelligence in Retail Market Industry 2021 By Fortune Business insights",
-      "excerpt": "The global\"Artificial Intelligence in Retail Market\"is expected to rise with an impressive CAGR and generate the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.md",
-      "title": "Nvidia GeForce RTX 3070 vs. AMD Radeon RX 6800: Which GPU should you buy?",
-      "excerpt": "We compare Nvidia's GeForce RTX 3070 and AMD's Radeon RX 6800 across a wide range of metrics. Performance matters—but the price may matter even more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/544303/nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.html",
-      "originalUrl": "https://www.pcworld.com/article/544303/nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2021/10/P1000516.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/544303/nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/544303/nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.html/amp",
-      "publishedDateTime": "2021-10-27T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

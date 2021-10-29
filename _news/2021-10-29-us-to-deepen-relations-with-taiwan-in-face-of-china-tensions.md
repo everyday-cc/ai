@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "US to deepen relations with Taiwan in face of China tensions"
+    excerpt: "The U.S. wants to deepen its relationship with Taiwan, the self-ruled island that has become a major point of conflict in the"
+    publishedDateTime: 2021-10-29T21:55:00Z
+    webUrl: "https://mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in-face-of-china-tensions/"
+    ampWebUrl: "https://mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in-face-of-china-tensions/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in-face-of-china-tensions/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 59
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2021/10/ap_0dee8f0a606447fbb4cc853b1e37b8c3.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "enVTJmBQBP9rWWhVXD5S5kqjvdi6Y+cRn8eygaP72697YMsoLl+fBOlwg0igrfRMIvyP1OF9tlC839RUkB2bdYGEHBVksScE3I+u7utmvHbdeHZ3iZacC4FXL1+184S9StnBjdic8J68eflH/RzKHxQfAB7K2ys+tl0I1M3aCracQbQSiHh4s+C75P41ChGS2ZkTHbrYr0V0cDfEZZZtNoMwZPiDrjs+3IvaRT4o2QsRy1+Y+6VXx9cypywvX2XoPCg70Po6SXeebpxNioBPbhAkSWO7IrlM+yUCNHF1+5O0p+vDHmFTzWS7DG3I7Ma8Z34pnPCOtTbgDW9nWU1NA8rdYKjE7qk53N41gOp6lIQ=;ANluey+dniyhmh2sp1lqqQ=="
 ---

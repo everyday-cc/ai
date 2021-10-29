@@ -126,20 +126,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "What are the Benefits of open-source Technologies for Fintech?"
-    excerpt: "Fintech will continue to thrive if it is implemented correctly ... It provides developers with a platform to develop software applications for AI/blockchain, and the platforms that financial businesses will eventually use to execute those results."
-    publishedDateTime: 2021-10-25T04:37:00Z
-    webUrl: "https://www.linkedin.com/pulse/what-benefits-open-source-technologies-fintech-daniel-abbott"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
   - title: "Pandora Papers and the role of 6AMLD in fintech fraud risk"
     excerpt: "Garient Evans, SVP Identity Solutions at Trulioo talks about the impact the Pandora Papers and the pandemic will have on regulations and risk in fintech"
     publishedDateTime: 2021-10-26T09:16:00Z

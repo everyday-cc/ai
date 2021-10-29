@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-29T17:59:00Z
 originalUrl: "https://siliconangle.com/2021/10/29/google-developing-next-generation-ai-capable-learning-millions-tasks/"
 webUrl: "https://siliconangle.com/2021/10/29/google-developing-next-generation-ai-capable-learning-millions-tasks/"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/google-1.png"
@@ -58,6 +59,6 @@ related:
         height: 675
         isCached: true
 
-secured: "6Q5LQZoDkNcIyQLY7LIb4X9YejhLKJ+aZdqbgj6OX8KHGcj22qU5xxKjeWNzxxWiFJq6QDmslm0e+w9Sozk0t0v4Kgoo2t0jatOB94PbPbSm+nhUjusug38KVYITTXYqj8gL6pq9bX9jprkJO/20yCHozRskEE77uTrPm/414LDMauhbV2Lg38sc9kUR5ZOk5S4M3z0L2oGDiChexK8KD7wlY+FP4NrcH0ZoXWUiDAETsY8/5Ulezfj6j84wrB1WUH0PxE37QxMC55nALUrQD5mdXbbJZJGY/JbugGuYLJ8NeH9h/eXcWDna0uawtzvq3hezFbSIt2XngubgDUFq8fDRiL8igAAEjSm1XLQ5aPw=;yyiDlEjGHgb9v2aedgg7Xg=="
+secured: "QUebFcqpNyMpmk4Mn0soZxkAlgVgJ3HxpinQqUKGS0lkGt9drnlnEKsTvZDNssnwBego8jG8egPKNDFgFflD++I8Apk00608vHySks0EnnFJpiuQu4oUI3CBEDSkYaDAjGk2DFui1t7CsLofYWK4QZTYoF6kEHUvNFsXiS/M/aNUXYvfK9MYMG2/Kg/EqsikQxXIUMN1biPDiHUpH99cy1Xo8McVLdZ6x2hKbuoirepmUmMAp4Rkk/idW/Kpt6g+jIb/WH0u60Cf+zNW6dq3s+sT4Oa4XUdEshdpRjqug3lfXzT1TbcF9+AQNMyqxboadoSV/6dM8sD8giSftnLRDTZDuWqrFQkv8wQdU1Vququz/yvW9erNNEskO1GQ8hOx6prd0v7FQPcqbncjSRwjXL9f2JBDkZQQWjuoZC240xDfiUCpXC6xwQE0a0etQ79juNUSaIPoTtuL6gEWGcSBGqnm2RMq24FHGEi+4/SkSWY9sTNJPGdGuKT8U1zNaC0TDwVkmEX3vsAgNch4tfCQng==;41Yldmog7KhI8ITkqgLWow=="
 ---
 
