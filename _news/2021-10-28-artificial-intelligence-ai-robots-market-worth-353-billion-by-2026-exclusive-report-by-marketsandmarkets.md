@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-28T14:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html"
 type: article
-quality: 32
+quality: 49
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
@@ -271,6 +272,6 @@ related:
       domain: chipdesignmag.com
     quality: 17
 
-secured: "R0k6NVO4NaNMdJ7LbKWoEuZd6OjEdTD52TmJ5q19/DHf97YRI5J8qSVRGT6LrlZID1twcriR5CNfmcqkUKFIrIdxu/UoxpoUW0uYog9Zi0xNTpN+a/j4q0s7YRgyyTCpcrxv5Lb04/kgk/xIeIQ17S7SRRAzY17lr93MCH1PQvN9D2Av/wkMi1G8v1nDZ9DBQ8NlKtsUQ9n9fONs5tu2z8huGPRek6FWk5h0rTgtfxHnudfRFFiyYyZ9YnFV5Ob5Mynpv/ZmC4upbL2s3XIqw04xZrivs/LLlZ4ruXMovgqwZXkVxfRw0naTUgVtvg5PJ/l4Dl0VgdVAoY4xJjtOT4UXBifostLTf0ZhHOjSSQM=;QQS8BeqJ9B37ObVgc8hC6w=="
+secured: "mUYTtm7zEesr+SrQhPuktGGrORTxae+o28pSDay3HSapErBUHNctsJE/t7dOmjk+MqPM3iiU5fezMbWsdtdHt1MRxjpsHYgkIXew7luB/ATevZ04I8UYC1rKVih6yNilB4CmKxOyoKBvxoe2XE+Owp+aFlZbnAkTpwPqW3eb1XPQI9O77B7HyYAlJBWw8CSIbIPDY9fm15SJLzsbxrKDJOznWD68yzEV2sQcqBTY3cD0lzrTH8voxcyJGNvloZHVfK33IsTv+fsYXxrNuoYOivn+8ZSsweFie2jI8LEkN7N8KaD+S28l4Iz7/xH0nVN+bH691TOy4Ky76/0BmX7SaNPkp/pgoFS4G9yImeM4t7YMctbn9bBizcM4qqiA57d0uoFKIgnFEZIWH/qCeFmzBjuYX2MiqLSnfTJTu+7fbd87sFl2ESv8aQAQV3VExTmOGVvhZI1ZsjH7ZwNikvEbe9gcp97+kpOGrSfUc+wQjNydYI3AsUf1+CDkntC1fiycWi/gFTCw5AlPvU5K9R4mSg==;RxfSUefZB7diDdt07jMcjg=="
 ---
 

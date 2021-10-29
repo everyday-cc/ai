@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/team-bytebusters-wins-2021-artifici
 webUrl: "https://www.linkedin.com/pulse/team-bytebusters-wins-2021-artificial-intelligence-aws-ozgur-gulderen"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Teens in Ai announce 4th Annual Hackathon winners at GITEX Global x Ai Everything 2021"
-    excerpt: "Following a strongly fought competition, the team behind SimplyGreen, an app that focuses on ethical food consumption, was crowned winners, claiming the first prize of AED 2,500. Team Animvare, took second place and AED 1,"
-    publishedDateTime: 2021-10-24T13:40:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Teens_in_Ai_announce_4th_Annual_Hackathon_winners_at_GITEX_Global_x_Ai_Everything_2021-ZAWYA20211024115649/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20211024115649/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20211024115649/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 49
-    images:
-      - url: "https://images.zawya.com/pr/images/2021/ENG_PR3057_2021_10_24.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "Teens in Ai announce 4th Annual Hackathon Winners at GITEX Global x Ai Everything 2021"
     excerpt: "GITEX Global x Ai Everything, the world’s largest technology show this year, hosted at Dubai World Trade Centre (DWTC) until Thursday 21 October, tea"
     publishedDateTime: 2021-10-27T08:42:00Z

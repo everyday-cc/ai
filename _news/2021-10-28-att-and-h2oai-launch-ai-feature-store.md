@@ -46,6 +46,20 @@ related:
         width: 718
         height: 396
         isCached: true
+  - title: "AT&T and H2O.ai Launch Co-Developed Artificial Intelligence Feature Store with Industry-First Capabilities"
+    excerpt: "Building features is time consuming work, and typically data scientists build features from scratch every time they start a new project. Data scientists and AI experts spend up to 80% of their time on feature engineering, and because teams do not have a ..."
+    publishedDateTime: 2021-10-29T07:50:00Z
+    webUrl: "https://ycharts.com/news/story/PRN-DA55052-20211028"
+    type: article
+    provider:
+      name: YCharts
+      domain: ycharts.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1672090/AT_T_Logo.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "W1Cfedrg8bwk+ZH5bG6MYEpePnaDId+wks5l/tibvJpcUs7dYrsWvhO7UBoCAIjeKVkTkkxcrdXriEcF5IRGIqCpQ7YsjUvtXOBQBFCrPwLuE/MIIWK/ArJaWpZnU2droin27h0fn4Z5tVUb6BMSaCrChGQfO+SBMGg2SNI64RYo7nhDWiybkA2LYVXw4DR4HUW60Gdr+JwTEgE5u9HO/NFVXjR+Tp55I3EKBS4ug8pfyP5Q/ykGZ9IinmXCAzXFkggbmp2O3zosmOuqcDTN6nkS481XuVpxQqTFp056EMEVskEEu78iSbyRIibeBehSl3d4DWp5YApuLyShLGb7eZXBu8XDBKPP0inu8oxxBmk=;Qi5xx26u9q9eFrmHtQn5Jg=="
 ---

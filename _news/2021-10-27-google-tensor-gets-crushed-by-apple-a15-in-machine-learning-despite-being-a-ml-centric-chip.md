@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/10/27/google-tensor-gets-crushed-b
 webUrl: "https://www.gizmochina.com/2021/10/27/google-tensor-gets-crushed-by-apple-a15-in-machine-learning/"
 type: article
 quality: 91
-heat: 102
+heat: 101
 published: true
 
 provider:

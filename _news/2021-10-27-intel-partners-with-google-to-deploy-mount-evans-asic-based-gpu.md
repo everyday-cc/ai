@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-dep
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

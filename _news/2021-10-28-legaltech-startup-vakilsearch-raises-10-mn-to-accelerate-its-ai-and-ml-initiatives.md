@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/amp/"
 type: article
 quality: 68
-heat: 78
+heat: 79
 published: true
 
 provider:

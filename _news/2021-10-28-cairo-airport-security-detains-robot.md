@@ -9,7 +9,7 @@ ampWebUrl: "https://www.al-monitor.com/originals/2021/10/cairo-airport-security-
 cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/10/cairo-airport-security-detains-robot?amp"
 type: article
 quality: 91
-heat: 101
+heat: 102
 published: true
 
 provider:
