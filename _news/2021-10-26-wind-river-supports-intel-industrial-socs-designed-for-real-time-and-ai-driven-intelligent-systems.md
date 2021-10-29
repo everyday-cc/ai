@@ -20,19 +20,19 @@ topics:
   - AI Ethics
 
 related:
-  - title: "US Intel Warns China Could Dominate AI, Gain Military Edge"
-    excerpt: "Washington-  United States officials issued new warnings Friday about China's ambitions in artificial intelligence and a ra"
-    publishedDateTime: 2021-10-24T05:45:00Z
-    webUrl: "https://menafn.com/1103028617/US-Intel-Warns-China-Could-Dominate-AI-Gain-Military-Edge"
+  - title: "AI Powered Predictive Demand platform Olvin Joins the Intel Open Retail Initiative"
+    excerpt: "Olvin, an AI start-up that provides predictive foot traffic analytics for brick-and mortar businesses today announces that it has joined Open Retail Initiative (‘ORI’) hosted by Intel. With this partnership,"
+    publishedDateTime: 2021-10-27T16:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-7ebef25e2384a43166cbcacb3f9b7371"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
     images:
-      - url: "https://menafn.com/updates/pr/2021-10/24/KO_ed3b5image_story.jpg"
-        width: 770
-        height: 513
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "QQlnLDMeSkPWlKGROCSWt6agZC3L4hN7gQgr8iu2WEEQXRMhoMjgoKffwHO7xKlax3YKWpkBJudAF+18DQhBcrpc4GtnoE4PGpcIMBI7H2l6dhF4RZHvYqDXa3e5DsShh0toZQbGAjtPKL4ZcZGWm2LGU9z3vnp1gk4r1ruNZXoXwmp478WW4APGGQajEAMHms+zDt7EpuelzCcuNrYgXOv9Q7ZBgPZ+LzWajLykrOxIwywG8ib0Palps4FtGEAXqAW3RtahIv7Pkugew968sLyOQvtrUC4Fci/sUeSRCmHTGTMTZojCPzNjW7fpQBAJJEdndigpZaTVz+naFLzhr7MOHBO0I1j2iQvnpxwCjTc=;imsDHItpginvdl3YyK9jrg=="

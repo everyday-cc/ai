@@ -39,20 +39,6 @@ related:
         width: 902
         height: 600
         isCached: true
-  - title: "Here is the list of the top 10 boot camps to learn machine learning in 2021"
-    excerpt: "Are you looking for the platform that prepares students for the tech industry’s most in-demand careers with comprehensive, mentor-led online programs in software engineering, data science, machine learning,"
-    publishedDateTime: 2021-10-24T05:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-boot-camps-to-learn-machine-learning-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-10-Boot-Camps-to-Learn-Machine-Learning-in-2021.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "qcezK59fq3RmIMwSmiq+VFtfCl0vaP3854qMEfN3P6IrmMCb2BqsHsVKmN7s3SqwDCh2NVh/uBy8wTQ1IlEeZXj0togl65lKKH0e2gC8L26/CKbp8tFwPU66RIJJJdJJNmcoCtsQlit9B5r6gFYMd5IaOF3oyZ0LJdSjLRT6oXit9p9UWTtsFBvra84C+cHE90WARd7stldq5nRGqJW3xLDT2wxc++8QaviXV3TxxYzhSrmI+VCOj3cGBd0tKYZOkbAsyZ65lkYlgokGhmXqvpWmnSGhcTjlJJ56we5wBQAjZ5XA0lXFiG+pEjUf9sIw2q21gKazZKOJq7CCWAjO13DYfjH1sJW4uPEK+tz9tE8=;VdxZOqiA+B7fcoK8ITxh1w=="
 ---

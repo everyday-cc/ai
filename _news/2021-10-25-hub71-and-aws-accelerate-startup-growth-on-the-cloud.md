@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Q3: AWS Growth Reaccelerates; Revenue Hits $16.1B"
+    excerpt: "Amazon Web Services saw 39 percent growth in its third-quarter cloud computing revenue to $16.1 billion, as parent company Amazon.com missed Wall Street estimates for top-line growth and earnings"
+    publishedDateTime: 2021-10-28T23:29:00Z
+    webUrl: "https://www.crn.com/news/cloud/amazon-q3-aws-growth-reaccelerates-revenue-hits-16-1b"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/026b-12b57f76c066-3aed31206e03-1000/aws-sign-v2.jpg"
+        width: 608
+        height: 457
+        isCached: true
   - title: "In-Game Ad Startup Admix Snags $25 Million Series B To Woo Brands And Accelerate Growth"
     excerpt: "Admix, a London-based startup that helps advertisers programmatically place virtual billboards in mobile and video games, announced a $25 million Series B."
     publishedDateTime: 2021-10-26T13:30:00Z

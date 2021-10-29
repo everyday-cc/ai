@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/10/26/1038643/ai-reinforcement
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/amp/"
 type: article
 quality: 157
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Could Artificial Intelligence Save the Holiday Shopping Season?"
+    excerpt: "However, businesses are turning to new artificial intelligence-powered (AI) simulations, known as “digital twins,” to help get products and services to consumers on time – especially as we head into the holiday shopping season. These digital twins ..."
+    publishedDateTime: 2021-10-28T22:23:00Z
+    webUrl: "https://www.natlawreview.com/article/could-artificial-intelligence-save-holiday-shopping-season"
+    ampWebUrl: "https://www.natlawreview.com/article/could-artificial-intelligence-save-holiday-shopping-season?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/could-artificial-intelligence-save-holiday-shopping-season?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "New Data from Samsara Shows How AI and Digital Tools are Helping Combat the Labor Shortage"
     excerpt: "Samsara, the pioneer of the Connected Operations Cloud, today released new data that reveals industrial organizations are turning to data insights from technology solutions and AI to address the needs of a shifting workforce."
     publishedDateTime: 2021-10-26T13:40:00Z

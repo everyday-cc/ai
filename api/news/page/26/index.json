@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-10-07-how-financial-services-can-invest-in-the-future-with-predictive-analytics.md",
+      "title": "How financial services can invest in the future with predictive analytics",
+      "excerpt": "Adam Mayer, senior manager at Qlik, discusses the benefits that predictive analytics can bring to financial services The financial ... such as predictive analytics and machine learning. These are concerns that Richard Speigal, BI Centre of Excellence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/how-financial-services-can-invest-in-the-future-with-predictive-analytics-123497137/",
+      "originalUrl": "https://www.information-age.com/how-financial-services-can-invest-in-the-future-with-predictive-analytics-123497137/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/10/how-financial-services-can-invest-in-the-future-with-predictive-analytics.jpeg.optimal.jpeg",
+          "width": 1080,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-voice-recognition-market-report-driving-factors-market-analysis-investment-feasibility-trends-till-by-the-2021-2027.md",
       "title": "Voice Recognition Market Report Driving Factors, Market Analysis, Investment Feasibility & Trends till by the 2021-2027",
       "excerpt": "Oct 07, 2021 (Market Insight Reports) -- Selbyville, Delaware. Voice Recognition Market report provides key statistics on the market status of the Voice Recognition Industry and is a valuable ...",
@@ -1099,50 +1142,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-vmware-partners-its-way-deeper-into-cloud-edge-and-ai.md",
-      "title": "VMware Partners Its Way Deeper into Cloud, Edge, And AI",
-      "excerpt": "Software maker VMware has always been about tight partnerships with other tech vendors. When you are middleware between hardware and operating systems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/",
-      "originalUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/vmware-logo.jpg",
-          "width": 776,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/",
-      "publishedDateTime": "2021-10-06T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

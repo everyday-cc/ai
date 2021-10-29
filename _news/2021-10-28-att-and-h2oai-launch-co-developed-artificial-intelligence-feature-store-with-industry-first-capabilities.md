@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/at-t-and-h2o-ai-la
 webUrl: "https://markets.businessinsider.com/news/stocks/at-t-and-h2o-ai-launch-co-developed-artificial-intelligence-feature-store-with-industry-first-capabilities-1030910560"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AT&T and H2O.ai Team Up on Feature Store"
+    excerpt: "Telecom giant AT&T and AI startup H2O.ai have teamed up to co-develop a feature store, which the companies announced today. The jointly developed H2O AI Feature Store will be available for any company to help better manage their data science development ..."
+    publishedDateTime: 2021-10-28T23:53:00Z
+    webUrl: "https://www.datanami.com/2021/10/28/att-and-h2o-ai-team-up-on-feature-store/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/feature-store.png"
+        width: 718
+        height: 396
+        isCached: true
   - title: "AT&T and H2O.ai Launch AI Feature Store"
     excerpt: "AT&T and H2O.ai have announced they have jointly built and have made available an artificial intelligence (AI) feature store to manage and reuse data and machine learning engineering capabilities. offering the features data scientists,"
     publishedDateTime: 2021-10-28T16:41:00Z

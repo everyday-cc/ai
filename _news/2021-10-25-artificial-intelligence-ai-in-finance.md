@@ -39,20 +39,6 @@ related:
         width: 2560
         height: 1853
         isCached: true
-  - title: "Artificial Intelligence (AI) in Health Care"
-    excerpt: "Out of all the industries that stand to benefit from artificial intelligence (AI), health care is arguably the most universally crucial and relevant. The recent accelerated COVID-10 vaccine development efforts are just a few examples of how AI-driven medical innovations can be critical to everyone’s well-being."
-    publishedDateTime: 2021-10-24T05:15:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-health-care/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 56
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/06/irwan-iwe-rbDE93-0hHs-unsplash-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
   - title: "Artificial Intelligence (AI) in Construction"
     excerpt: "Examples of artificial intelligence (AI) in construction are increasingly common throughout the industry, from planning to building. Construction professionals are turning to AI to add efficiency and accuracy to projects,"
     publishedDateTime: 2021-10-25T12:37:00Z

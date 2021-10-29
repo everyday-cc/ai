@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/393896"
 webUrl: "https://www.entrepreneur.com/article/393896"
 type: article
 quality: 66
-heat: 76
+heat: 78
 published: true
 
 provider:
