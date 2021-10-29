@@ -20,22 +20,6 @@ topics:
 
 related:
   - title: "Self-driving race cars make history in Indianapolis"
-    excerpt: "Considering the cool, wet weather in Indianapolis on Saturday, with no proper warm-up time for tires, \"I'm really proud of what we showed today,\" Wischnewski said. \"Nobody knew that these (self-driving cars) could go so fast in competition,"
-    publishedDateTime: 2021-10-24T09:34:00Z
-    webUrl: "https://www.rfi.fr/en/business-and-tech/20211024-self-driving-race-cars-make-history-in-indianapolis"
-    ampWebUrl: "https://amp.rfi.fr/en/business-and-tech/20211024-self-driving-race-cars-make-history-in-indianapolis"
-    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20211024-self-driving-race-cars-make-history-in-indianapolis"
-    type: article
-    provider:
-      name: RFI
-      domain: www.rfi.fr
-    quality: 44
-    images:
-      - url: "https://s.rfi.fr/media/display/8a6f8a6a-34ad-11ec-96b9-005056a90284/w:1280/p:16x9/0be8b89b591ac5546556fc1b97b2b9e09c395d00.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Self-driving race cars make history in Indianapolis"
     excerpt: "The winner was not a driver but an algorithm on Saturday at the Indianapolis Motor Speedway, where the top car clocked an average speed of 218 km/h (135 mph), ushering autonomous vehicles into a new era."
     publishedDateTime: 2021-10-25T08:18:00Z
     webUrl: "https://techxplore.com/news/2021-10-self-driving-cars-history-indianapolis.html"

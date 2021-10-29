@@ -833,6 +833,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-19-artificial-networks-learn-to-smell-like-the-brain.md",
+      "title": "Artificial networks learn to smell like the brain",
+      "excerpt": "But neuroscientists who trained an artificial neural network to take on a simple odor classification task were surprised to see it replicate biology’s strategy so faithfully. “The algorithm we use has no resemblance to the actual process of evolution ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/artificial-networks-learn-smell-like-the-brain-1018",
+      "originalUrl": "https://news.mit.edu/2021/artificial-networks-learn-smell-like-the-brain-1018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202110/olfactory-network.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T20:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-singapore-based-geniebooks-personalized-learning-platform-raises-166m-series-a.md",
       "title": "Singapore-based Geniebook’s personalized learning platform raises $16.6M Series A",
       "excerpt": "Geniebook is a Singapore-based learning platform that uses a combination of machine learning and human teacheres to personalize each student’s education. The company announced today it has raised $16.",
@@ -1112,40 +1164,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment.md",
-      "title": "British fintech Zopa hits $1 billion valuation with SoftBank investment",
-      "excerpt": "British digital bank Zopa has raised $300 million from investors including Japan's SoftBank Group 9984.T, it said on Tuesday, as the lender looks to expand its business ahead of a possible listing as soon as next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18",
-      "originalUrl": "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp",
-      "publishedDateTime": "2021-10-18T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

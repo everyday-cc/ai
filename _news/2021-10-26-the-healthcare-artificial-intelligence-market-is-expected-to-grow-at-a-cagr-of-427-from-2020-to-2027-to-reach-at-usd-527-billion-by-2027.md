@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2441255/the-healthcare-artificial-intelli
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441255/the-healthcare-artificial-intelligence-market-is-expected"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -21,21 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in the Education Sector Market Size Forecasted to be Worth USD 17.83 Billion by 2027"
-    excerpt: "The global artificial intelligence in the education sector market is expected to be valued at USD 17.83 billion by 2027 from USD 1.08 Billion in 2019, registering a CAGR of 43.8% through the forecast period,"
-    publishedDateTime: 2021-10-28T13:29:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/amp/"
+  - title: "Machine Learning as a Service Market Size is Projected to Reach 22.10 Bn in 2027, Growing with 39.2% CAGR Says Brandessence Market Research"
+    excerpt: "Brandessence Market Research has published a new report title, \" The machine learning as a service market reached USD 2.27 billion in 2020. The market is likely to grow at 39.2%, reaching USD 22.10 billion in 2027\"."
+    publishedDateTime: 2021-10-26T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-machine-learning-as-service-market-size-projected-reach-/2021/10/26/9477200.htm"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 55
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/10/Artificial-Intelligence-in-the-Education.png"
-        width: 2646
-        height: 1512
+      - url: "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "tNRNjNPOX3uTWPqpQrKHyzgxD824SE3J9wpAxnC2GFWXVgZoCEtTX6ZfpMVGGb/pYRZQ5wGYzZ17bIzFFDZjyloWS7vV0FfdF5pdm8d6l+HrTH6/fzfIiBMBHsg3mfMlrDESLlnUEG+MGF7cVAcwgegR9TjDnITYk3txSfIbnYl7ytP5KP0dGbZdmkjtMoLJg62PrZ+5xwGE45m5JVV1PegxCcinAnNpKZwtriDXlb5A2WkJ1uBLuFpdJmbxXnVvyWotRvxC/oXlchyQckpTpehRPoLn8RNhqnjEkkBYRanDelLHpdW7q58ay4oJQoy5KRdCBChsNKyKURneiCsGi1VhckMGPBEqUY1GhW4rCdc=;3yJ0Mk8WL73SZcXfSWIVcA=="

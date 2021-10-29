@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-29-security-robots-market-size-estimated-to-reach-1978-billion-by-2026.md",
+      "title": "Security Robots Market Size Estimated to Reach $19.78 Billion by 2026",
+      "excerpt": "The Security Robots Market size is estimated to reach $19.78 billion by 2026 at a CAGR of 15% during the forecast period 2021-2026. Security robots are the autonomous mobile robots, designed to deliver enhanced intelligent video surveillance solution and other on-board AI features processing.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103067482/Security-Robots-Market-Size-Estimated-to-Reach-1978-Billion-by-2026",
+      "originalUrl": "https://menafn.com/1103067482/Security-Robots-Market-Size-Estimated-to-Reach-1978-Billion-by-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/b45ebf54-a.png",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-living-with-robots-an-excellent-non-technical-overview-of-robotics.md",
       "title": "“Living With Robots” – An Excellent Non-Technical Overview Of Robotics",
       "excerpt": "This is a review of the third book sent to me recently by MIT Press, and the book is the best of the bunch. “Living With Robots,” by Ruth Aylett and Patricia A. Vargas is a good, non-technical book that discusses a number of issues with robots in human ...",
@@ -1352,40 +1396,6 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-movai-launches-a-robotics-engine-platform-that-allows-manufacturers-and-integrators-to-develop-amrs-and-deploy-them-in-dynamic-environments.md",
-      "title": "MOV.AI launches a Robotics Engine Platform™ that allows manufacturers and integrators to develop AMRs and deploy them in dynamic environments",
-      "excerpt": "The latest version of the MOV.AI platform offers a visual IDE, advanced algorithms such as 3D SLAM, simulation tools, scene and behavior editors, an open API framework and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.witn.com/prnewswire/2021/10/19/movai-launches-robotics-engine-platform-that-allows-manufacturers-integrators-develop-amrs-deploy-them-dynamic-environments/",
-      "originalUrl": "https://www.witn.com/prnewswire/2021/10/19/movai-launches-robotics-engine-platform-that-allows-manufacturers-integrators-develop-amrs-deploy-them-dynamic-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WITN",
-        "domain": "witn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

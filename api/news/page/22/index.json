@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-10-11-us-already-lost-ai-battle-to-china-pentagons-ex-software-chief.md",
+      "title": "US already lost AI battle to China: Pentagon's ex-software chief",
+      "excerpt": "The United States has already lost the artificial intelligence (AI) battle to China, which is heading toward global dominance because of its advances",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
+      "originalUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/10/11/thumbs/800x531/151317.jpg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
+      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
+      "publishedDateTime": "2021-10-11T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sabah",
+        "domain": "dailysabah.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong.md",
       "title": "How AI And A Strong Need For Sustainability Is Affecting The Travel Industry’s Evolution By Jason Fong",
       "excerpt": "We can’t just bounce back after this great stall in the industry, we need to make sure that we bounce back better. This means, ensuring that travel and tourism are more sustainable, more thoughtful, more meaningful,",
@@ -1129,49 +1172,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-delta-air-lines-expands-facial-recognition-digital-id-to-atlanta.md",
-      "title": "Delta Air Lines Expands Facial Recognition Digital ID To Atlanta",
-      "excerpt": "Delta is expanding its digital identity experience to its home in Atlanta, Georgia. Domestic passengers of the",
-      "sourceUrl": null,
-      "webUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/",
-      "originalUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://simpleflying.com/wp-content/uploads/2021/06/GettyImages-1263005027-scaled.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/amp/",
-      "cdnAmpWebUrl": "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/delta-facial-recognition-atlanta/amp/",
-      "publishedDateTime": "2021-10-09T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Simple Flying",
-        "domain": "simpleflying.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

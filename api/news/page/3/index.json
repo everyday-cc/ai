@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-27-ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever.md",
+      "title": "AI deployments: Is your organization a transformer, pathseeker, starter or underachiever?",
+      "excerpt": "AI-fueled organizations address strategy, operations, culture and change management and ecosystems, according to Deloitte's latest State of AI in the Enterprise report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/26/cef0cad3-f8a5-4538-ba45-784daf3c801d/resize/1200x/445309360b3a3b023507b870fd0d0ef1/deloitte-state-of-ai.jpg",
+          "width": 1200,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "publishedDateTime": "2021-10-26T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store.md",
       "title": "Extend model lineage to include ML features using Amazon SageMaker Feature Store",
       "excerpt": "Feature engineering is expensive and time-consuming, which may lead you to adopt a feature store for managing features across teams and models. Unfortunately, machine learning (ML) lineage solutions have yet to adapt to this new concept of feature management. To achieve the full benefits of a feature",
@@ -52,58 +103,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-aws-announces-general-availability-of-amazon-ec2-dl1-instances.md",
-      "title": "AWS Announces General Availability of Amazon EC2 DL1 Instances",
-      "excerpt": "For a more managed experience, customers can access DL1 instances through Amazon SageMaker, making it even easier and faster for developers and data scientists to build, train, and deploy machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-dl1-instances-2021-10-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-dl1-instances-2021-10-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -313,7 +312,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/26/infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {

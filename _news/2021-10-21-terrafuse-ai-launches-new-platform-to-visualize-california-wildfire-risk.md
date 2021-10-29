@@ -3,18 +3,18 @@ category: news
 title: "Terrafuse AI Launches New Platform to Visualize California Wildfire Risk"
 excerpt: "Climate modeling company launches the first free, publicly available, responsive environmental data platform to identify property risk from wildfires through Wildfire AI."
 publishedDateTime: 2021-10-21T10:08:00Z
-originalUrl: "https://www.live5news.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
-webUrl: "https://www.live5news.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
+originalUrl: "https://www.nbc12.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
+webUrl: "https://www.nbc12.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
 type: article
 
 provider:
-  name: Live 5 News
-  domain: live5news.com
+  name: WWBT
+  domain: nbc12.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "bZWA/WhLvrkEUXA0U9qQkKNG/qlx3/rkCbqwJOLlX/WvQQdEjXG6U8TSAW8eYkvtLVwihGyjM6sdiroja7Kz0c/huPySONOOhQywCwV//z/gdnGDVl507as8eF6BIR9YRDJ7OeBoj2db9aRKWSU2hhEleBjtDHL/nPpXZ4c684M+DkvJQP1z7e3GPorGQGN9O4zOfbrasahWLnhb9H4ipAdvPt1jp9CVcdqK1+EqdxxWW+BeL5gBmIaA560ELurwdjhJjnpfzR0lXY7FTlm2HmmBVVG3FvjLK9UymOGrbenJVe0ZQ3abROboYUsb4gSfft7tnvsUw0O8JOK0kFT4z61N44GCbyD+sDqM5YEdF8LI65LKjD0g6Y5vy6M8ikfGqWKq02aPieW3gEsYSHAUV3xZekYeu6mnc7xdeO/7swAEHrnqaP2aH9Mm3w0le3ZesS4EKrQxcK7oaq8Q1CLWB9UywiiEZOQ9bKgZ4HC5gRfiW549WI+nvd3BWB1eap4ZUH4wG0ZyG7zWn/HxUy87YQ==;Yt6Z5P/2tS+MWw42chxkgg=="
+secured: "RspF+YqcyQYz3ZREljYkI2LDdDhVMcnd5fdvqFlS6uXs8EJ8NagloBlF4f0Hy0kd0KjgEujjUxxwSQCiBDAmSSYAwBzzWniisgLDklwLV1qtIILLV0HYzNev/u8E9BtfRXK7dedAezsbtPZcjhHANL5Qk3e7xS1V5YW/sr2QhsbDSeX4CM+5fkIbhv1I/ih+0YfMwYdcydxPR/znswMG5bZU2lS/Z7xuUCefL4YG1AsXCLboqXWTw4X5USYxNFoGr2bjv+DhO5Mz87v5FuZzPKlmjgzBzXQw+nhSP3HCXhI2rbQJ9Y9f7izWDkw3680bZ+vI3dON+VbUm+jBnUurgWH5UNS6S8Sh6uF/gUASV0McaOL/5DBHSVtgA5ZYTI2gVelLnHTmQts7wGn/iz5GK+6QQ6C7a0umNp/oJipnfDQ8v4NWSVU6OpLv7zqEeiqI4c10afMZ+cvOY5QMz5Cg10hCoTTVLJ2LbVL8AdugTMrOI9CIbrAqcJoY6CuFaxs2VPEl24I8CHhO5eisNZ+CeA==;PT0Q7Uq+HUWmALHXX9J/PA=="
 ---
 

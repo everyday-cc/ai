@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/26/infrastructure-and-data-issues-ha
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 34
-  - title: "DTI urges companies to step up AI adoption"
-    excerpt: "COMPANIES need to put artificial intelligence (AI) at the center of their modernization efforts in order to remain competitive after the pandemic, the trade department said."
-    publishedDateTime: 2021-10-24T09:42:00Z
-    webUrl: "https://www.bworldonline.com/dti-urges-companies-to-step-up-ai-adoption/"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 19
 
 secured: "ivU8BBG4l+D93VSVxo4mCVaUJ8kNyFQ1UbZkJycrwcVoHaVKSuAWrxx3eQ+dUf48FmbxTFa68/XK7OnwwnzJFy+SnR3DafxgGxAB0rZsh9wKQVTVb1AUOdeKGRFv1h+9SMzkngtqmeShjz+zuBPRw7CWMSHE9UJLqW3/qtSsnOTA/Qf53J7ixnlt5TiB6To4fMUplP/U4tOuaegeO/iB2OPV6DcD4tvj+dwNefwwP1ujE8+XiCmIU7y4ZJrrJ7AJ/9pNAPyiPaumUySfTjM3PKyBURW6Qt2Si9mzJKb3AkXCzZXPettU3WhCIn4vtMZJ0YYeXfztHDWNPPc/aiQho5rzrIz9P/+VOLzESMB+mqiDHmxaAFJ+2JDtvb7oJM+rHhZ0E5y4+lOi5/QCP+b6JuKTSuY+iP6XqodjMVJpRpSv2xvTXlxN0zNe9Qf/fqDQKABPsrYkIICEMB6uWrVFvfdCi//MtqXdkA4oDT0A6x4y5uWjtRCx3RanS4qf3+aHRs98f90wBeIrXiG/OCwqaA==;eKb9eK4aYwc/2OfIL31T+w=="
 ---

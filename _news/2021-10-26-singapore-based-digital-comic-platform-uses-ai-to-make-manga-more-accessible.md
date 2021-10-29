@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/entertainment/18010/singapore-based-digital
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible?amp=1"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 620
     height: 349
     isCached: true
+
+related:
+  - title: "NTU Singapore and AMD officially open joint Data Science and Artificial Intelligence Lab"
+    excerpt: "SINGAPORE, 28 October 2021 – AMD and Nanyang Technological University, Singapore (NTU Singapore), with the support of the Singapore Economic Development Board (EDB) today announced the official opening of the NTU-AMD Data Science and Artificial ..."
+    publishedDateTime: 2021-10-28T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/933035"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 10
 
 secured: "sPkFxqmio5NzdmrvyJr1D9dfyRXkJvGPhTQCbGUVQVq27AyrINTLlTeq5gBQ8N0JqNdOjvqpizfc6Lq/PMnwAMHlmowwiZF05ozJhcmSp2bFHKIy5OX95yB/6Q+qyv/4ZfYW7m6ABTUFe7rEkvlQdjlEXBODu5Jpob7ckf+dqWphucCW46XYdbGMljnYMxG+WiONqhHU0bc/kKyWl6NAXAhdtVv3o2ZEH5wvGs8VF/oY5TN6xriPcHT570iaqQHHoiY9SuH6nXYeLqjRLCF6DLjqibtz1wCKrr99aNQi6L4tJ+4/r3JZKEfm4nc0azXcs+vPZJeG+KWcU61c4/IDsCtwLF8WrV+vPu9LU80ll/+iL1E9dKLZni2ceeOrR5l0EfD4JdKuh+jU/0hSyyo3gXxXfBxgGFY4gLFGp8O9S1lHS04F/Oqjcjl3ui+yPymYx9dIDvbedwrGqQY/FCZDRq3PcWixbC8ekIJXdw72jUNzIxrKAdNYgcp4jxrcAaFBq8Pq2jpVwAia1HZwfsdAAw==;hna51ZWByZc1rYYWD8PupA=="
 ---

@@ -41,7 +41,21 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Robotaxi Market – Analysis with Ongoing Trends & Market Revenue"
+    excerpt: "Baidu has developed an autonomous driving platform called Apollo. They have partnered with the Swedish car maker, Volvo, to produce self-driving cars for their fleet. Baidu has decided to start ..."
+    publishedDateTime: 2021-10-26T00:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robotaxi-market-analysis-with-ongoing-trends-market-revenue"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.abnewswire.com/uploads/1635224832.jpeg"
+        width: 650
+        height: 396
+        isCached: true
 
-secured: "UryDmhevYnKwtD09ULD7AtsUVOZ5QC5W93vb2B/4cS9PkqtWzPGfBzsl65z9Fj1dyRFhkkFAhP5MDYgUKa68znh761vJIAMiMYIoAvl9fPzatGvlbfi/N53NWFNPOMYZi0qauanxuA4x+G7e1fZJ8JK8XdwnOfMEkfmKhKOKPCygQrVMxxeDKhLakIMqKI42GKp8DUehtEgW7mwSVUNNOPnGZ7CujSDF097G1A46+55VOZOx4NIP5iInk1jDcST3sz0o7jy1b16V0GT0JiyFBq+0J3U7bf4vwpNEw3uY0Z+nI63pPX9I8ivBvMxil+KeZuKF+LtD/rCExpkZO2MBNtPh59TGN4olJ1MMuEtbl7w=;1i4a56qCe7RpUPSY3cJq0g=="
+secured: "5JRmMV6ofoOqemYYqkRlBexnDthG9RiiJNSkGunjFx8k9EDZefHE3P+Kcvp7MBlI6Kxb9kRYJuR/+UGBmdAqRvdNKMKVZAwP8celgr137Q8tNWx/R3JRKLuUbGh4p6H91vH3EYuVN+LPerAYXbfQp08nNzf1sJ/X1w3D0+6CUgWfWnlPbUgpoZhcZ31H2/JSO1U5dV31ep58Ek7C5URNxwannfPep0SNv7SjD2BSEh54g4/wT0xI1qg7QwS9iJD2qIxJlzDAwtqeTBkT9sjlgLw/XJ4tKrtPmOyb7La1QowAoPbmtaSsUjLpvxo3nM4GNj+4gC0F5IIUOAOqEDUFwt4H2trFJHVlKxd2pAVgZwBtMc5WlzdviD1ngfF6SLAP9X+0mw9T/AX1JM9OeX8VkJgfGb4hdUUcirLdgjHmdldvpBtORxQjs2ZUm8zvQR8GTnth/UvMFJQA/p2lyjiD6MJtGySZl2LBGmpRuVBNCshFaMK+3897SfmrSR1wrOlq66JOwxUpcVBNUBCwaG7tLw==;mxgK7LVl4eqLL4tH3/6clw=="
 ---
 

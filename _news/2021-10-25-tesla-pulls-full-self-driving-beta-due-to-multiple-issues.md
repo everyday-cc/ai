@@ -302,6 +302,22 @@ related:
         width: 910
         height: 607
         isCached: true
+  - title: "Government Official Slams Tesla’s Full Self-Driving Feature – Says Tesla Needs To Do More"
+    excerpt: "Driving” feature when it was launched but it was revealed that it is a software suite that doesn’t enable full self-driving. This made it fairly unpopular among federal regulators. In a Tuesday interview with CNBC,"
+    publishedDateTime: 2021-10-28T18:40:00Z
+    webUrl: "https://wonderfulengineering.com/government-official-slams-teslas-full-self-driving-feature-says-tesla-needs-to-do-more/"
+    ampWebUrl: "https://wonderfulengineering.com/government-official-slams-teslas-full-self-driving-feature-says-tesla-needs-to-do-more/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/government-official-slams-teslas-full-self-driving-feature-says-tesla-needs-to-do-more/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 50
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/Tesla-Full-Self-Driving-Beta-Hero.jpg"
+        width: 1500
+        height: 742
+        isCached: true
   - title: "Tech Bytes: Apple Macbook Pro shipping delays, Tesla self-driving issues, Clubhouse pinned links"
     excerpt: "Apple is warning of delays when it comes to their new laptops, Tesla is pulling new software due to issues and Clubhouse is allowing users to pin links to the top of their audio rooms."
     publishedDateTime: 2021-10-25T10:48:00Z

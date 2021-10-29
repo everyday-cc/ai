@@ -1,31 +1,27 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
-excerpt: "For a more managed experience, customers can access DL1 instances through Amazon SageMaker, making it even easier and faster for developers and data scientists to build, train, and deploy machine ..."
-publishedDateTime: 2021-10-26T21:05:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-dl1-instances-2021-10-26"
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-dl1-instances-2021-10-26"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models."
+publishedDateTime: 2021-10-26T20:26:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/aws-announces-general-availability-of-amazon-ec2-dl1-instances/article_df986541-eb81-59d5-ac99-7843f8afd24b.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/aws-announces-general-availability-of-amazon-ec2-dl1-instances/article_df986541-eb81-59d5-ac99-7843f8afd24b.html"
 type: article
-quality: 84
-heat: 94
-published: true
+quality: 54
+heat: 64
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
+    width: 640
+    height: 336
     isCached: true
 
 related:
@@ -39,6 +35,6 @@ related:
       domain: tmcnet.com
     quality: 31
 
-secured: "RISg4PploiHGdSzITKEL56CjeLvmgdVHU4wsJxbKJAWstlbb6eT/zyQEukoVoWjmbcAZguW/cA/zCvefj4pc3w4zode4stmM/JqZvzsFSeaSIn6zPBkBdoRH5hAZTl746oW2feobuBA1fcTM+CRH5EVuG9ink8cEH4cF0Zpax7g2ZUTYi6hJmN0L6Xpwq7tVvqBbEH58IeoxrDE1gUKJvGWmsc8wrLgVJlkzz9pcY3mYRwZkw6EwHe1FM40gDyfgg67X7BL/zuw8lJPd4ymjsLg0MBKI7yUBNXxFQlKhbTCH0sWRm446LFdbakO1bHpmRn57Stzapp9qno0Y4ZSrZLmERWPhYc9lXLaXbimNQIA=;RmYgLgXirNF7ZEEbq2cCjA=="
+secured: "6vQvt3yY/+dJzh2Ri3Jm7JKu0wdDoP2LPNUhMR8wBdcpso5mNdLt6ezXY+/5kjoZ0nc/SHaf2QPKRl+Jy37b6Znx1lykziczhDPbxRRH5kGGgo/GpN9uXoDR7M+grje9eHRub8ijmLr/+MiVS3/XWQLppsMJfwe3JcwimDC9mP5xRQTdgI+Vjrg12nKI9HQ78veA6lO7WaHwKhWEmgX8/yIVVYgJfgraWARwDTg8o3g6BVn+H4aZ9uBRmrVipbAFQ8xSAzfO0f5IzArNcLZUFpsTIJJ/tZ/EMhQjGSlJ9jCrCsQBXZE8ciE4V2i5BwmvN5UJ/4m7GQuT2XpfnmrO9/216WIEZCOWvKWuwaS27p0=;snX+FL5CMF39XVOAZgh+uA=="
 ---
 

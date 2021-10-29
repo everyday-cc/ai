@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-10-self-driving-cars-history-indian
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-self-driving-cars-history-indianapolis.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving race cars make history in Indianapolis"
-    excerpt: "Considering the cool, wet weather in Indianapolis on Saturday, with no proper warm-up time for tires, \"I'm really proud of what we showed today,\" Wischnewski said. \"Nobody knew that these (self-driving cars) could go so fast in competition,"
-    publishedDateTime: 2021-10-24T09:34:00Z
-    webUrl: "https://www.rfi.fr/en/business-and-tech/20211024-self-driving-race-cars-make-history-in-indianapolis"
-    ampWebUrl: "https://amp.rfi.fr/en/business-and-tech/20211024-self-driving-race-cars-make-history-in-indianapolis"
-    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20211024-self-driving-race-cars-make-history-in-indianapolis"
-    type: article
-    provider:
-      name: RFI
-      domain: www.rfi.fr
-    quality: 44
-    images:
-      - url: "https://s.rfi.fr/media/display/8a6f8a6a-34ad-11ec-96b9-005056a90284/w:1280/p:16x9/0be8b89b591ac5546556fc1b97b2b9e09c395d00.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "University of Waterloo students race self-driving car at Indianapolis Motor Speedway"
     excerpt: "Brian Mao and Ben Zhang’s fully autonomous race car may not have crossed the finish line at Indianapolis Motor Speedway, but the two students from the University of Waterloo called Saturday’s race at the Indy Autonomous Challenge an unforgettable experience."
     publishedDateTime: 2021-10-24T20:12:00Z

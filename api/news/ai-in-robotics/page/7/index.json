@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-16-5-real-ai-threats-that-make-the-terminator-look-like-kindergarten-cop.md",
+      "title": "5 real AI threats that make The Terminator look like Kindergarten Cop",
+      "excerpt": "SKYNET, SKYNET, SKYNET. Everyone's always going on about Terminators and killer robots, but the real horror posed by future AI is from Facebook and Google.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/5-ai-threats-make-terminator-look-like-kindergartern-cop",
+      "originalUrl": "https://thenextweb.com/news/5-ai-threats-make-terminator-look-like-kindergartern-cop",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fterminatorsarah.jpg&signature=afaaff66c6ebcf9b06a2a376f8b5dcf7",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-soft-robotics-launches-softai-to-accelerate-adoption-of-robotics-in-food-processing.md",
       "title": "Soft Robotics Launches SoftAI™ to Accelerate Adoption of Robotics in Food Processing",
       "excerpt": "Today Soft Robotics Inc. announced its launch of SoftAI Solutions incorporating proprietary 3D vision, artificial intelligence software, and industry-proven soft grasping to address the most pressing problem plaguing the food industry – the inability to meaningfully automate operations.",
@@ -1223,49 +1275,6 @@
       "provider": {
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-small-mighty-robots-mimic-the-powerful-punch-of-mantis-shrimp.md",
-      "title": "Small, Mighty Robots Mimic the Powerful Punch of Mantis Shrimp",
-      "excerpt": "Modeling the mechanics of the strongest punch in the animal kingdom, researchers with U.S. Army funding built a robot that mimics the movement of the mantis shrimp. These pugnacious crustaceans could pave the way for small,",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
-      "originalUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2021/09/mantis-shrimp-robot-neurosinces.jpg",
-          "width": 769,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
-      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
-      "publishedDateTime": "2021-09-11T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -318,6 +318,22 @@ related:
         width: 910
         height: 607
         isCached: true
+  - title: "Government Official Slams Tesla’s Full Self-Driving Feature – Says Tesla Needs To Do More"
+    excerpt: "Driving” feature when it was launched but it was revealed that it is a software suite that doesn’t enable full self-driving. This made it fairly unpopular among federal regulators. In a Tuesday interview with CNBC,"
+    publishedDateTime: 2021-10-28T18:40:00Z
+    webUrl: "https://wonderfulengineering.com/government-official-slams-teslas-full-self-driving-feature-says-tesla-needs-to-do-more/"
+    ampWebUrl: "https://wonderfulengineering.com/government-official-slams-teslas-full-self-driving-feature-says-tesla-needs-to-do-more/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/government-official-slams-teslas-full-self-driving-feature-says-tesla-needs-to-do-more/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 50
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/Tesla-Full-Self-Driving-Beta-Hero.jpg"
+        width: 1500
+        height: 742
+        isCached: true
   - title: "Tesla Rolled Back Full Self-Driving Beta Because Of 'Some Issues'"
     excerpt: "Look, it's beta software, these things happen. It's beta software controlling 4,000 pounds of car on public roads, but come on, don't be a luddite"
     publishedDateTime: 2021-10-26T13:30:00Z
