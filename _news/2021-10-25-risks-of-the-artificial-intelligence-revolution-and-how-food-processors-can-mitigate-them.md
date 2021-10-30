@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How would Artificial Intelligence change the trends in Digital Marketing"
-    excerpt: "More often than not, we hear about Artificial Intelligence taking over the world, and Digital Marketing changing the ways brands have communicated over the years. What possibly could be the result if the two merge well?"
-    publishedDateTime: 2021-10-25T13:31:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-would-artificial-intelligence-change-trends-digital-isha-nisar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 33
 
 secured: "P53dLSyxBS6FFNf6Fo+CFYp4O1VCAE+nzhwpId6NuT4rwZapkWOh6+0KKCppHjmxxhyB09m/2uWNsCXh7CyDkIr22CAHIw3fcSbXXbYFhCI5xdUQmjm5Sz3KJ6N00fdeFSL8ZOTVz0gNKnQZkcRyX17TDRpHxc6E7D9Y93NZntT/3gb50xu9oMtasyxhQQ3zGFBwieOjXAXvozecbxg78UF0Gs2DZKZA7kUjccGB6e7+zY4eTBZ+0XddbL5jYHYVrPvIRwbe8nw1zyTgnUJOE3Z0mx6+vpkG/udYY7v1ecp25OnKmGSvu3GN2N4eAZa2eNMZH56Am48tXNoMiHl2abJAzdyxaiEyhyktbLazwRI=;8RPDKGVPH+iY5bks6JqdNA=="
 ---

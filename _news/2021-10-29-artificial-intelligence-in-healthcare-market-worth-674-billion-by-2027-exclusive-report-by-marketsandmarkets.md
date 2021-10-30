@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "CHICAGO, Oct. 29, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Computer Vision ..."
-publishedDateTime: 2021-10-29T16:12:00Z
+excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Comput"
+publishedDateTime: 2021-10-29T13:30:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027---exclusive-report/article_76e6767d-827a-55ea-b152-f3bf1df17c14.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027---exclusive-report/article_76e6767d-827a-55ea-b152-f3bf1df17c14.html"
 type: article
@@ -65,6 +65,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "PwIKpKtgW71TyL11EZHtvnfONZaGhVyxR8WLoB3II4NOZ+vSyJNfkhBIBONDR5ZMOJaa/Ya6vqiJiUJwwO2vKoC5tUZoZ8U9P1YiCEyrI2PrX9cP9MuKk9dsnKqyWJdCF7Gm07k3757iy7M07EY+9cTwYz6HcNOQ+jkdbIdMBA9Tfw/ZIg6vR8R+hZDtmMZjQ9FLsP09LLIsrd28KsZdeQhFZmDrg3mJHVMC8+NvVq+KoXbiaiPcxfiLUjtd2MJMa89cComIqENDi+SuSEcsmfJu1baxOMiMHHYtuxazW/ZT3r2sIbnWsVBV9ikeCR+Qfw+R4W/aH+sMrrhCmdyQ03Kv9S+tGNBw+bUwTJgf5vA=;XDksbQFcDadiWix13JgYjA=="
+secured: "081uDwAW29/s5+FI7hCqfkwsKoYNdscSLVIvk7X5yZ7v9MT7OqpK5d9IN5h/WSyvJfF9m9vm8J8n5tO/Im4lR7ruD8NWNkUnuLKskmDnZvVirOLJFuq1s1AKBrQhDcF3iXd0HpuS81HaZtJSziOoDd9GPymIhOg4/t0J4t/RMyMR/oOlDNNx1CLWl2ZWIpQsNRrNIfqax9yASt9GRlbM2X6Nyh2fxmonSnjkf4OkZuUdhiLy1FToEThYYdogJ7XyMtz0T/FG/Ra5ragq9sruqQRaYKzfB+zr563wShmbViHwVLU5gYa/v9Cp+R5YMR9cDdWnWjzZfdkc8XKRSRWj8x+Rv6JkQ42Kx2fuGEeNbso=;SpwOSYFmNnEYm5qRh2ix2g=="
 ---
 

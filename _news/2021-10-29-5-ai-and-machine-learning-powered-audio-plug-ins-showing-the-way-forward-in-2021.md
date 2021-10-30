@@ -7,7 +7,7 @@ originalUrl: "https://www.gearnews.com/5-ai-and-machine-learning-powered-audio-p
 webUrl: "https://www.gearnews.com/5-ai-and-machine-learning-powered-audio-plug-ins-showing-the-way-forward-in-2021/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and Machine Learning Market- Industry Predictions For Coming Years from 2021 to 2027"
-    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence and Machine Learning Industry from its research database Artificial Intelligence and Machine Learning Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence and Machine"
-    publishedDateTime: 2021-10-25T13:55:00Z
-    webUrl: "https://www.openpr.com/news/2440565/artificial-intelligence-and-machine-learning-market-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2440565/artificial-intelligence-and-machine-learning-market-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440565/artificial-intelligence-and-machine-learning-market-industry"
+  - title: "Best Artificial Intelligence Learning Resources Online in 2021"
+    excerpt: "Stay current with the best artificial intelligence learning resources online available now. The artificial intelligence market is booming, with an expected annual growth of 35.6% CAGR from 2021 to 2026."
+    publishedDateTime: 2021-10-26T00:14:00Z
+    webUrl: "https://www.techopedia.com/best-artificial-intelligence-learning-resources-online-in-2021/2/34566"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
+      name: Techopedia
+      domain: techopedia.com
+    quality: 43
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua25281817_g.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Global Speech & Voice Recognition Systems Market 2021 Research Studies Overview with Segments and Industry Growth by 2027"
-    excerpt: "A new research market study report titled Global Speech & Voice Recognition Systems Market 2021 by Company, Regions, Type and Application, Forecast to 2027 has been featured by MarketsandResearch.biz."
-    publishedDateTime: 2021-10-27T03:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2021-research-studies-overview-with-segments-and-industry-growth-by-2027-2021-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.techopedia.com/images/uploads/artificial-intelligence-learning-resources.jpg"
+        width: 902
+        height: 600
         isCached: true
 
 secured: "gtbG0N6u+m2GmWKBbbVaqETyYvFH97UL4HjQ0xnfxC6n2wFDufkN5Ts23Mj8bPdi+fJZ7kxy1/r5uc/DtLEIUgt7DTU+baVnS4EPExwm0f7BM5IyM1i3G5d1Ri4NzQoLBO2QNz/a4eRN7lgleYd3KFbi0CkjqXRfZmt5EgbdyDCJpK65XCaxCt7Hgo032EQhbLUTMCJOBLfuatCeEjsZXPSWSCYUoUj6H7hdj9OKWzfbmVd3FuOfoMe1lgPDXfs7UlenDgki3qnVq0VdgAMtQ9QBRWD5IAj9CDYgVG4VZnpjcolty/um/2pJ89Q6HlELqCh9y3ry9zorlbrxdyg/j92wi528c5QwTzjt0FkR4WauoyCCdldC9LS0wbx7E3W1H6u6Z3cKpL5jHpka+ATluCjN45+YMSpTUAWlQkoIwZl5N6fjj18AIcLimvpaw5pFIL7lHvoyh8lMN15P3965pakgib1zKoQpbTdXLT0J6j/TMs+pwK2RUdnwlk15tn0Z9RWXDuPjiETbEaeIaCQsFA==;3vKZytR11aJEVQAL47O7rw=="

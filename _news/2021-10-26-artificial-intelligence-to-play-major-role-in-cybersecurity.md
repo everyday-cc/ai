@@ -30,22 +30,6 @@ images:
 related:
   - title: "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security"
     excerpt: "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology."
-    publishedDateTime: 2021-10-25T14:40:00Z
-    webUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
-    ampWebUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
-    type: article
-    provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 88
-    images:
-      - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security"
-    excerpt: "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology."
     publishedDateTime: 2021-10-25T19:54:00Z
     webUrl: "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
     ampWebUrl: "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"

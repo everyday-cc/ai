@@ -30,66 +30,87 @@ images:
     isCached: true
 
 related:
-  - title: "The State of AI in 2021: Language models, healthcare, ethics, and AI agnosticism"
-    excerpt: "Healthcare is just getting started with its AI moment, bigger language models mean bigger complications, and there may now be a third pole for AGI."
-    publishedDateTime: 2021-10-25T13:41:00Z
-    webUrl: "https://www.zdnet.com/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/"
+  - title: "Top 10 Companies in Artificial Intelligence in Retail Market Industry 2021 By Fortune Business insights"
+    excerpt: "The global\"Artificial Intelligence in Retail Market\"is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-10-27T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 116
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
-      - url: "https://www.zdnet.com/a/img/resize/cc7c6b5a2d1bd2322b59c93c7c0f67399a5f6fc8/2020/10/26/8d555a8e-93f7-4d63-bd13-e40696bdc433/quantum-computing.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 783
+        height: 630
         isCached: true
-  - title: "The ethics of artificial intelligence"
-    excerpt: "Maura R. Grossman, JD, Ph.D., is a Research Professor in the Cheriton School of Computer Science, an Adjunct Professor at Osgoode Hall Law School, and an affiliate faculty member of the Vector Institute for Artificial Intelligence."
-    publishedDateTime: 2021-10-27T12:20:00Z
-    webUrl: "https://techxplore.com/news/2021-10-ethics-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-ethics-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-ethics-artificial-intelligence.amp"
+  - title: "Deep Learning in Machine Vision Market Outlook 2026: Top Companies, Trends and Growth Factors Details for Business Development"
+    excerpt: "Deep Learning in Machine Vision Market” provides a comprehensive analysis of the market. The analysis includes market"
+    publishedDateTime: 2021-10-26T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-outlook-2026-top-companies-trends-and-growth-factors-details-for-business-development-2021-10-26"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 78
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/the-ethics-of-artifici.jpg"
-        width: 1280
-        height: 720
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial intelligence in banking 2021: How banks use AI"
-    excerpt: "AI-based systems are becoming an integral part of many enterprises in banking and finance, helping them stand out in the market."
-    publishedDateTime: 2021-10-25T13:02:00Z
-    webUrl: "https://knowtechie.com/artificial-intelligence-in-banking-2021-how-banks-use-ai/"
+  - title: "AI in Auto Insurance Market Insights Shared in Detailed Report 2021 till 2028"
+    excerpt: "New York United States AI in Auto Market report will provide one with overall market analysis statistics various trends drivers opportunities restraints and every minute data relating to the AI in Auto market necessary for forecasting its revenue"
+    publishedDateTime: 2021-10-26T11:07:00Z
+    webUrl: "https://www.openpr.com/news/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
+    ampWebUrl: "https://www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
     type: article
     provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 52
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
     images:
-      - url: "https://knowtechie.com/wp-content/uploads/2021/01/simple-online-banking-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://cdn.openpr.com/U/a/Ua26697026_g.jpg"
+        width: 800
+        height: 531
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Analysis, Current and Future Trends 2021 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Rep"
-    publishedDateTime: 2021-10-27T06:42:00Z
-    webUrl: "https://menafn.com/1103053008/Artificial-Intelligence-In-Healthcare-Market-Analysis-Current-and-Future-Trends-2021-2030"
+  - title: "Top 10 Companies in Image Recognition Market Industry 2021 By Fortune Business insights"
+    excerpt: "The globalImage Recognition Marketis expected to rise with an impressive CAGR and generate the highest revenue by"
+    publishedDateTime: 2021-10-27T11:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-image-recognition-market-industry-2021-by-fortune-business-insights-2021-10-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fashion Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2024"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 03:16 /Comserve / -- MarketsandMarkets expects the global AI in fashion market to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at a Compound Annual Growth Rate (CAGR) of 40."
+    publishedDateTime: 2021-10-26T09:42:00Z
+    webUrl: "https://menafn.com/1103046901/AI-in-Fashion-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2024"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 44
+    quality: 19
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?9554"
-        width: 375
+      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+        width: 300
         height: 250
         isCached: true
+  - title: "Global Machine Learning (ML) Intelligent Process Automation Market Business Intelligence Report and Strategic Insights By 2028"
+    excerpt: "Others have been further segmented into human resource management, incident resolution, and service orchestration. Machine learning (ML) intelligent process automation has also been segmented on the basis of vertical into banking, financial services ..."
+    publishedDateTime: 2021-10-29T20:48:00Z
+    webUrl: "https://chipdesignmag.com/global-machine-learning-ml-intelligent-process-automation-market-business-intelligence-report-and-strategic-insights-by-2028/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 8
 
 secured: "P39QnnMYUJNQM1cJINdt4X8n4J/Rnx34zkJfdwLHRr/SKnjC3CDO7UgJs0Zn9HwzLD2ftflR2dEI2tPlfx1MftTQ/CKEPJ+B8fXorkLjajeM0yVLFU27xEn4qdcaISgCqFZZJ9b4xjT7/RHAi7620MXmI+bn2GsB69R8Vezt9RjsRxOj+b4KCuDODrhJD56Vlxq159aFV2stlRE5OnEjgKXUM7h2sC9JXKC2XgFehB3PKbEQfHbGkINsZG5hd85/zevVPINXhM+qRLgWU3VRRErIrf6pI/QJMBds/I9Ja/kZRVZ0JjQIPQ5RO9HsfJ60u9weNtOv5SA5AFuwq11c0CqyM3nX5YcH8uQUjDVaycU=;gw+jn99eVHL7889j3SMq8A=="
 ---

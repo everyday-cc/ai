@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/oct/29/yeah-were-spooked
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/oct/29/yeah-were-spooked-ai-starting-to-have-big-real-world-impact-says-expert"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "2 Artificial Intelligence Stocks That Have Spooked Investors"
-    excerpt: "Both stocks are far off their all-time highs, but that does not mean they don’t have bright futures. Lemonade’s AI is making waves in insurance, and so far, no other incumbent in the industry has duplicated its model."
-    publishedDateTime: 2021-10-25T14:33:00Z
-    webUrl: "https://www.fool.com/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 87
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F647585%2Fperson-thinking-about-a-problem-at-a-desk.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "/5wmTiBH4uGf2chAD+fW64zd62HoHrJ89392dAYpZmG2hc4b4WvX31NGYNs0gAc0CmUe/zf/6QJemjh6MDMrSCRMVyJqoWd1W4l4go+irP+xnuNSL+Ay/U0ddonaeUEWew2Q3YjIlTPQvuvtEsdjAOTU7Ie62haO85xxTdh8is4NgMDE7r/roweWFa1KTUuF7t3WMkCBcJ8W1bLFOZZ3XO+T5+MrCpjTr96TMgplQV7MC1Z/jgPMy+dCap072lGUEP+qvl6j63VUUyTwIz+jsPvZvChB1cAh5zDYDwvSxNQt8qLIz6v/rb1e7aemrjpv8XWDx5W2po3QgbKmUnU+Yl7K5m+wB+YLntMfwpObe+Y1Z6uiPnwN5TLhUMvZxXkCgTFH7LUtzFiktGQeTLa8dcmq7DEl5WuqLjb2MAAKngNNFr1J8SdW5FNPzg0Dvo8Jmb6I2MnsotC8G3eqAU1WQxRgdl4rQlpt235uI+zKn1cO2ZPqEC0KRooahnZbQlnmaZi4OP6s3M2RaYLFPjKntA==;7n9O1iqaDk5LxDSFH8I7tA=="
 ---

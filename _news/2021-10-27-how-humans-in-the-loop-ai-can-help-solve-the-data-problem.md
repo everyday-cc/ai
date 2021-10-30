@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How would Artificial Intelligence change the trends in Digital Marketing"
-    excerpt: "More often than not, we hear about Artificial Intelligence taking over the world, and Digital Marketing changing the ways brands have communicated over the years. What possibly could be the result if the two merge well?"
-    publishedDateTime: 2021-10-25T13:31:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-would-artificial-intelligence-change-trends-digital-isha-nisar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 33
   - title: "Risks of the Artificial Intelligence Revolution and How Food Processors Can Mitigate Them"
     excerpt: "Artificial intelligence (AI) is revolutionizing the food processing industry. From sorting to safety and compliance to ensuring employees’ personal hygiene procedures, it’s becoming such an important aspect of the industry that it’s expected to have a compound annual growth rate of 45% between now and 2026."
     publishedDateTime: 2021-10-25T16:41:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.automation.com/en-us/articles/october-2021/new-bistell
 webUrl: "https://www.automation.com/en-us/articles/october-2021/new-bistelligence-spin-off-manufacturing-ai"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,50 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "GfK launches AI-supported intelligence platform 'gfknewron' in UAE"
-    excerpt: "GfK, a leading provider of consumer and market intelligence, analytics and consulting services, launched gfknewron, its integrated, AI-powered software platform in the Middle East. gfknewron is an important step in GfK's transformation from classical market researcher towards an AI-powered data analytics and consulting company."
-    publishedDateTime: 2021-10-25T14:22:00Z
-    webUrl: "https://www.khaleejtimes.com/business/gfk-launches-ai-supported-intelligence-platform-gfknewron-in-uae"
-    ampWebUrl: "https://amp.khaleejtimes.com/business/gfk-launches-ai-supported-intelligence-platform-gfknewron-in-uae"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/gfk-launches-ai-supported-intelligence-platform-gfknewron-in-uae"
+  - title: "Cellebrite Expands Industry-Leading Digital Intelligence Platform with the Launch of SaaS Based Investigative Digital Evidence Management System"
+    excerpt: "Cellebrite Guardian Simplifies and Secures Digital Evidence Management, Sharing, & Review as Part of a Public Safety Agency's Investigative"
+    publishedDateTime: 2021-10-26T11:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cellebrite-expands-industry-leading-digital-intelligence-platform-with-the-launch-of-saas-based-investigative-digital-evidence-management-system-1030899090"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 57
-    images:
-      - url: "https://amp.khaleejtimes.com/storyimage/KT/20211025/ARTICLE/211029474/AR/0/AR-211029474.jpg&NCS_modified=20211025153736&MaxH=225&imageVersion=16by9"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "New BISTelligence Spin-Off Focused on Manufacturing AI Excellence"
-    excerpt: "BISTelligence, a leading supplier of manufacturing AI-based solutions and services for high-tech and industrial manufacturing, launched early last month, is focused on expanding its innovative new asset performance management (APM) solutions for industrial manufacturing through a newly created division,"
-    publishedDateTime: 2021-10-25T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-engineering-b243c80805d94e878df628cc50afac8c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Maximizing data driven business growth: GfK launches AI-supported intelligence platform \"gfknewron\" in the Middle East"
-    excerpt: "GfK, a leading provider of consumer and market intelligence, analytics and consulting services, launches gfknewron, its integrated, AI-powered software platform in the Middle East. gfknewron is an important step in GfK's transformation"
-    publishedDateTime: 2021-10-27T03:07:00Z
-    webUrl: "https://www.lelezard.com/en/news-20067178.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 15
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 0
 
 secured: "SQiFZ2E0tEvFoLK8+eS3ky1ReM9ynzwxCHilMUvBe8O5m57UY+M9rxSD0YjRVF5Fb+IljIkqrjcplkX1lI54y3t8FlHSomBXv11zwcRz9QLl3ihBiRWSkAAjc3vh9rvyFfpekzhOsRm4E8scDzk+Dy08g5ZiHlkLS4Wk7pZVNNPuR0hkuw5Wn7wL+y8qFARfhVn8q+OzAdMigwunkmK1yXxxGeH39g74ia4kfF6VfzuPOSn6G4a4jHu0ngajWm/zDLOJ5QoCWpXxGsmLF3ny6BtepRsGvL2obY20XoHYjFNDUVDPAofjS66DS4bjacQyst4FT3jnFc7wadWac0T3EdkecpMgz1ZYhBOhPBvrwEJ3uu3OavXT+FczO6G3IeSCZdxyCmU6LnQHMUkR+VbVwpSco0sjnJPYzZ4U8GjueS1MWBwVpICMA/z6aVOirArcld792fUVcSmN3Qhpd5OT4CCYRZSrteSEAJIAi9APYBL3+xV4YWUgTAlF+tLsKmnrUUUk+WJ6/Ty6qog/xFhA8Q==;qQgXo3XwQE/UYiyzZbAArQ=="
 ---

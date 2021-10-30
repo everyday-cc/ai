@@ -26,6 +26,22 @@ images:
     height: 275
     isCached: true
 
+related:
+  - title: "Startup Develops Technology to Monitor Fast Food Workers"
+    excerpt: "A computer vision startup claims it has the solution to improving fast food worker performance. The startup, Agot AI, comes from Pittsburgh and its plan involves the installation of cameras in fast food kitchens."
+    publishedDateTime: 2021-10-30T06:56:00Z
+    webUrl: "https://www.manufacturing.net/video/video/21796933/startup-develops-technology-to-monitor-fast-food-workers"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/10/mm1034.617c172b5d70f.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "+18AFodyv7HXSQk3M1asED8RhMjvIw8K1Hg/khry0sRlIdYkKPOfureErfN+B/FSEq1HYZNADVAJnWwry1L2hidc+XlYhLu7J3oq6gP3nqN+KrleZrGFMzeR2DqmU1lH/jlXj+7Hn5waDCSvn5OksPkELvxoklgCMAyqWN1BQwaSxVJLsB01bc5x+06aLk0Ece7Z4McYMukLWfd/r+uW2Tq38qQl77UrWg1H3XEe7sAQLcB0Hqwy5XclFl68wrWr6NB4ArB3v5msJ7jolX+HmpUYn82v0WGqCcc6QJkvQ8BGjz9tMpbQiiMhVfx3b8gget7c2WgtTSVmZ4Ti5EJascf/Rit+DWTnliOfaOSILtI=;u++aj14eBWGfw4D20fYN2A=="
 ---
 

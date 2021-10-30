@@ -55,20 +55,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Fintech Mortgage Lender Button Finance Raises $2M Seed Round"
-    excerpt: "Button Finance Inc. a fintech mortgage lender focused on home equity, closed a $2 million seed raise. Button Finance says it will use its latest round of funding to further develop its proprietary technology."
-    publishedDateTime: 2021-10-25T14:00:00Z
-    webUrl: "https://nationalmortgageprofessional.com/news/fintech-mortgage-lender-button-finance-raises-2m-seed-round"
-    type: article
-    provider:
-      name: National Mortgage Professional Magazine
-      domain: nationalmortgageprofessional.com
-    quality: 54
-    images:
-      - url: "https://nationalmortgageprofessional.com/sites/default/files/2021-10/Button%20Finance%20New%20Logo.jpg"
-        width: 600
-        height: 300
-        isCached: true
   - title: "4 Top Fintech Stocks To Watch Before November 2021"
     excerpt: "Hot Fintech Stocks For Your Watchlist Right Now. As the world continues to evolve with technology, fintech stocks continue to draw traction among investors in the stock market."
     publishedDateTime: 2021-10-27T21:00:00Z

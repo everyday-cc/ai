@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103056890/Factored-Named-as-AWS-Partner-Networ
 webUrl: "https://menafn.com/1103056890/Factored-Named-as-AWS-Partner-Network-Select-Consulting-Partner-to-Enhance-AI-Implementation-in-the-Americas"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,43 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Arturo Joins the AWS Partner Network"
-    excerpt: "Arturo, an artificial intelligence-powered (AI) platform that derives property insights and predictive analytics from aerial and satellite imagery, today announced that it has joined the Amazon Web Services (AWS) Partner Network (APN)."
-    publishedDateTime: 2021-10-25T14:00:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-cf30463736c74d48a081a9fc065316f7"
+  - title: "Cancer Treatment Centers of America in Phoenix Incorporates Artificial Intelligence System for Enhanced Colonoscopy Screenings"
+    excerpt: "1. Hassan C, et al. New artificial intelligence system: first validation study versus experienced endoscopists for colorectal polyp detection. Gut. 2020;69(5):799-800 2. Corley DA, et al. Adenoma detection rate and risk of colorectal cancer and death."
+    publishedDateTime: 2021-10-28T16:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/cancer-treatment-centers-of-america-in-phoenix-incorporates-artificial-intelligence-system-for-enhanced-colonoscopy-screenings/article_28cda8ec-48e1-5880-a439-617406653f02.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 9
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/1/78/178ca8bb-242d-54eb-ba33-562d45e09448/617ac64a634f4.image.jpg?resize=1119%2C630"
+        width: 1119
+        height: 630
         isCached: true
-  - title: "Insurtech Arturo joins AWS partner network"
-    excerpt: "Arturo, an artificial intelligence-powered (AI) platform that derives property insights and predictive analytics from aerial and satellite imagery, today announced that it has joined the Amazon Web Services (AWS) Partner Network (APN)."
-    publishedDateTime: 2021-10-25T19:43:00Z
-    webUrl: "https://www.finextra.com/pressarticle/89944/insurtech-arturo-joins-aws-partner-network"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Arturo Joins the AWS Partner Network"
-    excerpt: "Arturo, an AI-powered platform that derives insights and analytics from aerial and satellite imagery, has joined the AWS Partner Network."
-    publishedDateTime: 2021-10-25T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211025005490/en/Arturo-Joins-the-AWS-Partner-Network"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "3K8dRRZ8cHT3mcLkLDgyTJ86OgpuUBl9PdfOdyGzIpS74cDf5k4Zv23AIUsbevy1ZJQ4FxplBajrQQGfb1tsgo1udHyMBulMpK9kc5K3m+2ja0y/guxWx7/q/QpuHD/8W+0UzD/73fyRPPbfSDrMYJFVOYAeequN84fYB6cAnpp6CCNzDa1rbhuA0+9pEmDuOlmg3o9FnG0j1XkhQ/CTeLTSmXKNuwkUcvlSJvuZkvmMeVsM3l6ZVnucx4/ZOgqUdf+sgKm26nTd/iBn1GAn93THktokO+rKFxbYBos28ul5zQKKmZWE8CjpVQ1QyJSn/ZggUBcQUhaX7QQgIu3qm5dQ20PVc4ba/0v5s0OZu/A=;EtAqsS6EHFPOQZzJwZw0Cg=="
 ---

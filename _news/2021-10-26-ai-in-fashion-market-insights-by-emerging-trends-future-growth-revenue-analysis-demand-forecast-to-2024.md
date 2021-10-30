@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Trends 2021: Industry Size, Share, Business Strategy, Growth, Revenue, Demand, Applications and Forecast to 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “Artificial Intelligence Market”"
+    publishedDateTime: 2021-10-26T10:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-trends-2021-industry-size-share-business-strategy-growth-revenue-demand-applications-and-forecast-to-2025-2021-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Machine Learning (ML) Intelligent Process Automation Market Business Intelligence Report and Strategic Insights By 2028"
     excerpt: "Others have been further segmented into human resource management, incident resolution, and service orchestration. Machine learning (ML) intelligent process automation has also been segmented on the basis of vertical into banking, financial services ..."
     publishedDateTime: 2021-10-29T20:48:00Z

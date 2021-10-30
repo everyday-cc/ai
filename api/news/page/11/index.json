@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-10-19-making-the-case-for-and-against-police-use-of-facial-recognition-technology.md",
+      "title": "Making the case for and against police use of facial recognition technology",
+      "excerpt": "In this week’s Computer Weekly, as the Met Police enhances its facial recognition capabilities, we examine the pros and cons of law enforcement use of the technology. Three in five IT professionals want a new job – is there a tech exodus in the industry?",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-case-for-and-against-police-use-of-facial-recognition-technology",
+      "originalUrl": "https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-case-for-and-against-police-use-of-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/Top_10_ASEAN_IT_stories_of_2019.jpg",
+          "width": 333,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-desperate-for-workers-restaurants-turn-to-robots.md",
+      "title": "Desperate for Workers, Restaurants Turn to Robots",
+      "excerpt": "They can make French fries, mix drinks and even clean toilets, and they never ask for a raise. But they also break down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
+      "originalUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/20/multimedia/20SP-ROBOTS-INYT1/merlin_195923337_42e6ecac-a4fd-4252-99a5-21c3e6313e43-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/19/business/restaurants-robots-workers.amp.html",
+      "publishedDateTime": "2021-10-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-language-translation-engine-devnagri-raises-600000-in-seed-round.md",
       "title": "Language translation engine Devnagri raises $600,000 in seed round",
       "excerpt": "The platform combines Neural Machine Translation with ML to make the internet accessible to 90% of Indians and solve the problem of \"lack of content in Indian languages\"",
@@ -1063,101 +1158,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-facial-recognition-in-uk-schools-prompts-blowback.md",
-      "title": "Facial recognition in UK schools prompts blowback",
-      "excerpt": "Privacy campaigners slammed the British government's plan on Monday to use facial recognition on thousands of schoolchildren in Scotland, warning that Britain is veering away from the EU on basic principles of data protection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/",
-      "originalUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/10/18/GettyImages-1168367638-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/",
-      "publishedDateTime": "2021-10-18T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-ai-ethics-maturity-model-a-company-guide.md",
-      "title": "AI ethics maturity model: A company guide",
-      "excerpt": "How to develop a maturity model for building an ethical and responsible AI practice. By Vala Afshar | October 18, 2021 | Topic: Artificial Intelligence According to the research by Kathy Baxter, principal architect for Salesforce's ethical AI practice,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-ethics-maturity-model/",
-      "originalUrl": "https://www.zdnet.com/article/ai-ethics-maturity-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6108d89fdf0408e6971ff38495dfe2c6eabe3315/2021/10/14/5a004e69-3267-429f-97f1-4e3f6fb3b1d8/bax1.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-maturity-model/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-maturity-model/",
-      "publishedDateTime": "2021-10-18T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -51,20 +51,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Fintech Mortgage Lender Button Finance Raises $2M Seed Round"
-    excerpt: "Button Finance Inc. a fintech mortgage lender focused on home equity, closed a $2 million seed raise. Button Finance says it will use its latest round of funding to further develop its proprietary technology."
-    publishedDateTime: 2021-10-25T14:00:00Z
-    webUrl: "https://nationalmortgageprofessional.com/news/fintech-mortgage-lender-button-finance-raises-2m-seed-round"
-    type: article
-    provider:
-      name: National Mortgage Professional Magazine
-      domain: nationalmortgageprofessional.com
-    quality: 54
-    images:
-      - url: "https://nationalmortgageprofessional.com/sites/default/files/2021-10/Button%20Finance%20New%20Logo.jpg"
-        width: 600
-        height: 300
-        isCached: true
   - title: "Australian fintech Completes Major US Acquisition"
     excerpt: "Melbourne based Remitter acquires US-based Mercantile Adjustment Bureau following successful USD 12m cap raise -  Expands headcount to over 180 staff - Future global acquisitions"
     publishedDateTime: 2021-10-29T08:00:00Z

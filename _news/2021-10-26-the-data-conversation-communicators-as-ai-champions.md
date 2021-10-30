@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vonage Adds Conversational Commerce with Acquisition of Jumper.ai"
-    excerpt: "This purchase adds to Vonage’s acquisition of conversational AI startup, Over.ai it made in August of 2019. Vonage entered the cloud API market when it acquired Nexmo in 2016. It has been a leader and visionary in recognizing the future of cloud ..."
-    publishedDateTime: 2021-10-25T14:55:00Z
-    webUrl: "https://www.eweek.com/networking/vonage-adds-conversational-commerce-with-acquisition-of-jumper-ai/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/wires-technology.jpg"
-        width: 1920
-        height: 1277
-        isCached: true
   - title: "The Coming Convergence of NFTs and Artificial Intelligence"
     excerpt: "Building AI capabilities into the lifecycle of NFTs opens the door to forms of intelligent ownership, says the CEO of IntoTheBlock."
     publishedDateTime: 2021-10-25T18:43:00Z

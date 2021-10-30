@@ -28,7 +28,7 @@ related:
   - title: "ABB Invests in Building Technology Startup BrainBox AI"
     excerpt: "ABB Technology Ventures leads BrainBox AI’s Series A investment round. Launched in 2019, BrainBox AI has pioneered the use of artificial intelligence to reduce energy costs and carbon emissions from Heating,"
     publishedDateTime: 2021-10-28T19:29:00Z
-    webUrl: "https://www.newswiretoday.com/news/176528/"
+    webUrl: "https://www.newswiretoday.com/news/176528/ABB-Invests-in-Building-Technology-Startup-BrainBox-AI/"
     type: article
     provider:
       name: Newswire Today

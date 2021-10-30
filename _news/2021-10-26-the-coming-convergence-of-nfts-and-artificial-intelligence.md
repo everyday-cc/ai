@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Vonage Adds Conversational Commerce with Acquisition of Jumper.ai"
-    excerpt: "This purchase adds to Vonage’s acquisition of conversational AI startup, Over.ai it made in August of 2019. Vonage entered the cloud API market when it acquired Nexmo in 2016. It has been a leader and visionary in recognizing the future of cloud ..."
-    publishedDateTime: 2021-10-25T14:55:00Z
-    webUrl: "https://www.eweek.com/networking/vonage-adds-conversational-commerce-with-acquisition-of-jumper-ai/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/wires-technology.jpg"
-        width: 1920
-        height: 1277
-        isCached: true
 
 secured: "w1KsaYbIKpRwOOy1egWv1c5O5TgqVN1uNmiQ+zxh8FCxMznaIx78A6K+lDKPgmTFN4lzAHXuSw4XhQJ7EibTOagZqlZK1OFYVaKwNKMwqeQNU8YhDk21u3r9wowca6N6aAQPg88LT88hgY+Oik99U+wWPt5bf5soVYD6YVlKbxBUwATNt7kvgQf2ocVFbuKllbE0J8VaIa7Fu0kNt/LVFdvlMP/9wEnPdiQzqYuXbLOKgF0U4Nzb2kRZWxjNqf84LIqufXXcnqyWW9ffOtMjnEDsMCIbVoqlCAwcWBe4+2t2oKWFTwhHqYXUSzkItVKQbEIyPjm2b66uD+b3AKY0Xk4IM3kjdO5e0JmwDIdEqE0gh2t0Efek01AnrQLvFwtl4vZK7kQxf+IIXRqhpQjD7ZB8Ik7zLU1SlUBaa0VVXF7/NOhJpGMzCGkspMRO3XJjUsltNLlVMevR1jxJ19sVIg33VmoMCmwAL6DgO23YFdcaigtLO6CfmbowTbbu7Pc75vWjEXdb/ubHJ/7Pc7cMtw==;0TgAVf29ioNzXa9OYNATDQ=="
 ---

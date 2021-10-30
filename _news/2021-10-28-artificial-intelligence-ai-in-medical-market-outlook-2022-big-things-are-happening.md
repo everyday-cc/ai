@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103063711/Artificial-Intelligence-AI-in-Medica
 webUrl: "https://menafn.com/1103063711/Artificial-Intelligence-AI-in-Medical-Market-Outlook-2022-Big-Things-are-Happening"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 376
     height: 249
     isCached: true
-
-related:
-  - title: "Artificial Intelligence (AI) in Energy"
-    excerpt: "Innovative advances in artificial intelligence (AI) in energy are improving the way the world consumes, sells, and creates energy at a time when the environmental impacts of the global power grid are under constant scrutiny."
-    publishedDateTime: 2021-10-25T13:05:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-energy/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 56
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-6-scaled.jpeg"
-        width: 2560
-        height: 1600
-        isCached: true
 
 secured: "8WLKA/lLB1zl9Cphla8TZPme5HPa3J+hHj9G69HyvX2Ne0oiWjpFgPHf2HPbbk7Sb9Xmb2SO4HjpzTagK/Jh1sLf8/7ASs7NsVnyj/swExoe7feRNVhyb0zGt/n0fpn8AmxQrNkXKwM7jW3w56CXRBZqZZ28FXO6WmLwhGrJ25vef80bu6kaocQsJJUwt2eUDhnqKse4APRN4b3lIYgesP929ywFO3HbVwtu5VI7e90yJAmS1Xgg0NKDwTDdnw3tH08cXSiXth6g/Zm1Mfx6rCFL623bFWVkSJZxEjHd8cCHvZkpDd9158Xz5opO6EHubH5KWCAiYmzP4uGoW2ZeECA6/fySviPdGGtJxzohl9k=;PxWFxoVmbbJ6WAAIELaNBQ=="
 ---
