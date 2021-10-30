@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook's language gaps weaken screening of hate, terrorism"
-    excerpt: "In countries like Afghanistan and Myanmar, these loopholes have allowed inflammatory language to flourish on the platform, while in Syria and the Palestinian territories, Facebook suppresses ordinary speech,"
-    publishedDateTime: 2021-10-26T03:46:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 44
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Facebook grilled by UK lawmakers making online safety rules"
     excerpt: "British lawmakers are grilling Facebook and other tech giants over how they handle online safety as European efforts to regulate social media companies gain momentum"
     publishedDateTime: 2021-10-28T16:16:00Z
@@ -132,20 +116,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEGElTUS2N7Rg/article-cover_image-shrink_720_1280/0/1635252474701?e=1640822400&v=beta&t=EPadhTgPpfo3AHvvsQgikfR-025QqsfvVNFz8ODcUS8"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Facebook comes under scrutiny in India"
-    excerpt: "Facebook has come under intense scrutiny for being unable to reign in hate speech and fake news in India, as reported in the 'Facebook Papers'."
-    publishedDateTime: 2021-10-26T03:38:00Z
-    webUrl: "https://www.linkedin.com/news/story/facebook-comes-under-scrutiny-in-india-5169028/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C561AAQFh-XFRjL4TmQ/storylineheaderimage-shrink_400_400/0/1635218934053?e=1635310800&v=beta&t=idsUWigUvVHfSQBFd3Q2p6wV056zTS3jjqzjyguFLYk"
-        width: 400
-        height: 266
         isCached: true
   - title: "Facebook is spending more, and these companies are getting the money"
     excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"

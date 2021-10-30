@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-r
 webUrl: "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-regulation-growing-old"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/artificial-intelligence-2167835_1920_36.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "People or profit? Facebook papers show deep conflict within"
-    excerpt: "Facebook the company is losing control of Facebook the product — not to mention the last shreds of its carefully crafted, decade-old image as a benevolent company just wanting to connect the world. Thousands of pages of internal documents provided to Congress by a former employee depict an internally conflicted company where data on the harms it causes is abundant,"
-    publishedDateTime: 2021-10-26T03:31:00Z
-    webUrl: "https://www.chron.com/news/article/People-or-profit-Facebook-papers-show-deep-16561189.php"
-    ampWebUrl: "https://www.chron.com/news/amp/People-or-profit-Facebook-papers-show-deep-16561189.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/People-or-profit-Facebook-papers-show-deep-16561189.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Before Going Meta, Mark Zuckerberg Must Fix Facebook"
     excerpt: "No matter what Facebook is called now ... Although the conference was officially called the Dartmouth Summer Research Project on Artificial Intelligence, many attendees balked at that term, invented by McCarthy. “I won’t swear I hadn’t seen it ..."

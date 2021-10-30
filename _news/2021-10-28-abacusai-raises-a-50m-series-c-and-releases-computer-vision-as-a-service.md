@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
-excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,"
-publishedDateTime: 2021-10-27T17:25:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2"
-webUrl: "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2"
+excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company"
+publishedDateTime: 2021-10-27T17:24:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html"
+webUrl: "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html"
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Abacus.ai snags $50M Series C as it expands into computer vision use cases"
@@ -72,6 +66,6 @@ related:
         height: 512
         isCached: true
 
-secured: "GKOiX2P8EJairTkfXQ8uQft8ttJcguN2mLYe7h2MMnTo6xdcEI5IE9zY4cF3Dauku+XWpqlCkqtQlPCP4+wBafnp2YneNsuwPS6nB+CDmh1WHmxRpMdL5ne7MGmFkJUZF+5fPGOlvYv/7RxVkL/LytnyB25Xpg4jtv+JSAF8VN8iI4YdAmrkiPF/CpVTxEafbYjEMDPhjkwyTV/UbkulyZpI/d02szkiSJUnSRj1VBOhzelA3R7/nmjSY+kwPOgyzuRdezljuMiQzxKkS1+quMZetmlvMsK3SGOlUpV5YRBs1n3ogmwLOCe8YKo/coJc0o7aHZ48a4AyEj6GXWo63AABWUY7DyUFKPK2AOWYq2c=;H1TvZuUugyBTemjRpOvTdA=="
+secured: "P+iv33JQnrlK/bAVf7JMFGGFeGYfkl2GZ3oN8t3XWD0INbcycylmbB+QBZ8AV/IJAzCZlSkYBHOELqK4+J0YnuFMSfXJ1uaREDgtO/YFaXuo5CWZ/DuarYSz7E1k7WLOyX9RT1OvVuwJj8uuxbacvLLJ+cbkdFcASGZa1Ez/n3XY7oDlj1y2OTuYG+HMhZO0ACgPOuBmPyHDrYFr4ZGchbDNXcmovIDBE/dyEsNcRGGMzMUQAP1cZxUUaPLZlLbx9setLMn9Kt9YINQ506NEkoeoTyLRnImAtPQDNKnxoTTkZyEa5Fv6eu7hBF/Ue5webd4GMK70C+pxKDUOzhZwR91yr3FrTCQmu0nec9aXAhw=;HQLgrAD0IgRkiF+6FIom4A=="
 ---
 

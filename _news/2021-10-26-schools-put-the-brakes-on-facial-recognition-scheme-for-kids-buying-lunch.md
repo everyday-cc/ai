@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/schools-put-the-brakes-on-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
 type: article
 quality: 68
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Red or blue, US communities want brakes on government use of facial recognition"
+    excerpt: "The movement to corral facial recognition with local and state laws continues, and it is showing up in red, law-and-order states like Indiana."
+    publishedDateTime: 2021-10-28T15:40:00Z
+    webUrl: "https://www.biometricupdate.com/202110/red-or-blue-us-communities-want-brakes-on-government-use-of-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
   - title: "Facial recognition in schools: systems deployed in Europe and the US amid privacy concerns"
     excerpt: "New facial recognition systems are being deployed across school campuses around the world, while others are being removed amidst privacy concerns."

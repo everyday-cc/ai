@@ -3,8 +3,8 @@ category: news
 title: "Ai Weiwei Traces a Century of Making Authorities Squirm"
 excerpt: "A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China."
 publishedDateTime: 2021-10-30T14:00:00Z
-originalUrl: "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000?mod=lead_feature_below_a_pos1"
-webUrl: "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000?mod=lead_feature_below_a_pos1"
+originalUrl: "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000"
+webUrl: "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000"
 type: article
@@ -24,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://images.wsj.net/im-426238"
+  - url: "https://images.wsj.net/im-426503/social"
     width: 1280
-    height: 1920
+    height: 640
     isCached: true
 
 related:
@@ -47,6 +47,6 @@ related:
         height: 550
         isCached: true
 
-secured: "WZD2WvVlooz37M667DRAyl31NrNPT7etbsFqcTIJtfEZAvneuNN81EypX5SO0P/WvNt9cRJQv5xzwzjKlwMvpOSk4n+bjXvi8+CgORNrkl6uI6I8Ybqv6rtIl9Sy68nHKJAbY/nJzVQE3bUjphEksYYHaQ8HBsmO+XN0wuqU5wYV1INiFCI4NHDhJlNzXp5S0syMYv0fKfB9BRzqUn/2a569ktXIvWIuaUohalPTOCXiIGbAXb4TMAU6R+gP5xmKmIictrn8lt0BFOtTK0ltVTwm/MHKnC5hGMABwi0y1PuuZgKjNA+TFR/45sJVt1/h4LGpQ8TVeDou+t9fg4Sm5vz4d7B6TlsIuJqymTkLNhspHVYt9EUksJ7CkqKSzvh8FPmyS9dW5EGYRCoNGbYiuhn7M+uxUnIXd76BNYhDg1ZPiX/hga2jrJzyjNLWnHmfPap1KsMcSy6L2Hz3lG833fY8TsPJrhzIdx5IiSGGBIb0kDqiYuS9+n+wL9+GnP17aba/IRqEFo0Oqi17LjrsSA==;/r7FpODyD7F/fANOikbBmQ=="
+secured: "RXatCWQnMxuSTT+geQeI2mK0H1LH7qfEbnWd/B5eb4bJVGTRS6FFMbazpMTsNaHReHzVhNIezE5XZ9lzQU3f0vHBqUhvsaH7wCxVh4pbVrc+8bPG4epBjhzg9cPbbXBoIsudUI4sJANOp4ikwzU2Q8qGU6wIuYKgYXmnTGON1uyDBwLpg6PQoplCaBZlZnpGZMagvVkls8XXRilqmjydMOJ5M9F6xYvJ2rAv1bYhRHsOBrohFGEAjFZJuJ9+Eo2zzQU1TvQYPlm0EDGwmuEn8HB3yI3hN/G8HeHH4hrxULmy5Zv+AEfVfoLHd35/IQy+qsQQdejeu6PWDCoWCt4dpQBw30TXm2M8EO9LKM3emj8=;1bJ22pN9C5VxYjtGhbfE7Q=="
 ---
 

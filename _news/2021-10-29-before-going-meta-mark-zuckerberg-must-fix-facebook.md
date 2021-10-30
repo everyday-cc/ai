@@ -51,22 +51,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "People or profit? Facebook papers show deep conflict within"
-    excerpt: "Facebook the company is losing control of Facebook the product — not to mention the last shreds of its carefully crafted, decade-old image as a benevolent company just wanting to connect the world. Thousands of pages of internal documents provided to Congress by a former employee depict an internally conflicted company where data on the harms it causes is abundant,"
-    publishedDateTime: 2021-10-26T03:31:00Z
-    webUrl: "https://www.chron.com/news/article/People-or-profit-Facebook-papers-show-deep-16561189.php"
-    ampWebUrl: "https://www.chron.com/news/amp/People-or-profit-Facebook-papers-show-deep-16561189.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/People-or-profit-Facebook-papers-show-deep-16561189.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "I5gw4pnv63dVzD43a+8hOAlG3KOu+1HrRndMYtgXzmCvdogmb8jRA0CFNz5HAG1uLvqwysADuO4clI4Yi0w7Mw6MGVBQYz7LGT7NxLbpPBjx8w8wEGMSLO1c1zfaszs5n306gqcd6GFHwa2QOmO+PKozIM1ZxPShNvQoCNfR1k1aGzDZCbsgMr0gGpT5npIP2cQD6DBs++5lXUUykKKW1/oBo6QdsExwvi4uiN5lWS80+DHtfB0rf0E49W0yxOBTuz8XzhvCTPHHOiSVWVZeEv0TcFQQdwodQjyOEPO1V8hR1fEvI2ep5x+GhJJsIeozmakXItpMaYFQ9bC4wGfBwem4f8bByfQL4tWHImEjfqW/GUm4x8X73IAS6v8gTH9COMTlwdDJBCgZ/G+f7/SXnlRZpaEj/nfon5aLO8/Kuv7vh5RWVT8IPDEg18yTfyrBO30BfEiGeNtcu9rT3b0qvcfACfWDIOU9exfr9aMxk1Sx3OHG7/Im+zaLloYof/ZwcjVoGh29OYvZ7lBU27Ab2A==;jVJP8lOWC8vmnImejb9H3A=="
 ---

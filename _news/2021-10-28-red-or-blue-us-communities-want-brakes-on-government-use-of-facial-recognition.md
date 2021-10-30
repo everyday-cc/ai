@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Face recognition in schools normalizes surveillance — and threatens kids’ privacy"
-excerpt: "Facial recognition identifies and authenticates people’s identities by detecting, capturing, and matching faces to images from a database"
-publishedDateTime: 2021-10-30T08:00:00Z
-originalUrl: "https://thenextweb.com/news/face-recognition-schools-normalizes-surveillance-threatens-kids-privacy-syndication"
-webUrl: "https://thenextweb.com/news/face-recognition-schools-normalizes-surveillance-threatens-kids-privacy-syndication"
+title: "Red or blue, US communities want brakes on government use of facial recognition"
+excerpt: "The movement to corral facial recognition with local and state laws continues, and it is showing up in red, law-and-order states like Indiana."
+publishedDateTime: 2021-10-28T15:40:00Z
+originalUrl: "https://www.biometricupdate.com/202110/red-or-blue-us-communities-want-brakes-on-government-use-of-facial-recognition"
+webUrl: "https://www.biometricupdate.com/202110/red-or-blue-us-communities-want-brakes-on-government-use-of-facial-recognition"
 type: article
-quality: 64
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: The Next Web
-  domain: thenextweb.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Biometric Companies
+  domain: biometricupdate.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FFR.jpg&signature=2b9999bdb61bc5ee662b4732041d94c3"
-    width: 1280
-    height: 640
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+    width: 1800
+    height: 734
     isCached: true
 
 related:
@@ -40,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
+  - title: "Face recognition in schools normalizes surveillance — and threatens kids’ privacy"
+    excerpt: "Facial recognition identifies and authenticates people’s identities by detecting, capturing, and matching faces to images from a database"
+    publishedDateTime: 2021-10-30T08:00:00Z
+    webUrl: "https://thenextweb.com/news/face-recognition-schools-normalizes-surveillance-threatens-kids-privacy-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 64
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FFR.jpg&signature=2b9999bdb61bc5ee662b4732041d94c3"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Facial recognition in schools: here are the risks to children"
     excerpt: "Several schools in Scotland have paused the rollout of facial recognition technology in school canteens following inquiries from the UK Information Commissioner’s Office."
     publishedDateTime: 2021-10-27T19:04:00Z
@@ -84,20 +94,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Red or blue, US communities want brakes on government use of facial recognition"
-    excerpt: "The movement to corral facial recognition with local and state laws continues, and it is showing up in red, law-and-order states like Indiana."
-    publishedDateTime: 2021-10-28T15:40:00Z
-    webUrl: "https://www.biometricupdate.com/202110/red-or-blue-us-communities-want-brakes-on-government-use-of-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
   - title: "Facial recognition in schools: systems deployed in Europe and the US amid privacy concerns"
     excerpt: "New facial recognition systems are being deployed across school campuses around the world, while others are being removed amidst privacy concerns."
     publishedDateTime: 2021-10-27T21:25:00Z
@@ -129,6 +125,6 @@ related:
         height: 382
         isCached: true
 
-secured: "qrxhpvVmixENpcIITWNFM1HO5KPCvr9YiUpuIemoItABhBHgkxjV+SrCWfkOW03RLG8kk/z7ooRY+EoMHyf1KbuQT9THSoeWpO4Ilu6uCgkX2o3gr2nO/2azUxbBAX7vTy84HzET19G10R6siW5P1bsGUvhAa0kza2nVMFezQfbbjNxe4GcCRyQ8jZ9PLTkoJqlHs66sqFe+jvff+AWU1RYAjf7Mw4brZg1H3iHeozmIhO7Cat/DZ7M8BsWy8aLbF2rBct7xqz6NCnH2tM8QJ+yuuxqsFHMnuIi60ZX5m9XtKg7pj/Poay4awuwQRPJBnv1zLz/AR9KW65zu5sEETPuELqnP0/At60yeiOzOytSAHFgzUQgNTRj3RwoxK8/NnBVcHa6BWGLVovkMSNWCKv223kPmBJznw50S6GvLJCLDprfpAMhOujEmLjBAu/ktJIfDNhfm8FtLuuNvu5BRP0c42HyytKRMOLXItUwnXbK881tC7lG/rA87ir3cbbeuDiG2hBmNXmeGnXPal7y5Gw==;/8D3VdME7rZo7W7DdH891w=="
+secured: "Yt3fZTmC+cjQ+uy9eAaltvtCw8DKpsKQM3iTKOn9nq6KOkGXUM8bSW6WSv/Uvd+tpO7KFBb0KqxNeHH0L0/dvMhbQmARmBtcLrgd9uGoDyzR107XVUuGe6k6QyvBpY2txjpelU1PyfROzfFDmUeFyHn4x43jwEoOBTPdIWSBBN7MIS1GNqYA/ZOUggVyUdH27qAhvvgcZ3EuBuHAAga0KWLLzbi8jD+N/ZLBYAoyOvtFIuKPBQLZ97aoEpPuzPE2XfUhkaZljXEh+0GXQngXuBzuX+Nm4C3ce5mZ/COSi1Kb6dzG+BA9Qx75/x7xEKNVvcKqEE67mvw28JhaVEMZ3LzWm9QKeIyE3y2me5/i2sM=;OW5s0dV+689gkesK2H/1MA=="
 ---
 

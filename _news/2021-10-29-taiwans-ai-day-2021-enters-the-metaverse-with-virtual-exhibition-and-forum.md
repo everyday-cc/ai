@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Taiwan’s AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
-excerpt: "TAIPEI, TAIWAN - Media OutReach - 29 October 2021 - Taiwan’s top annual event for artificial intelligence, AI Day 2021, assembled key international stakeholders from across public and private sectors at Gaming Space in Taipei from October 27 to 28 morning,"
-publishedDateTime: 2021-10-29T13:05:00Z
-originalUrl: "https://apnews.com/press-release/news-direct-corporation/technology-business-taiwan-taipei-artificial-intelligence-f53af3c7b20046344a5e978a491e9ab6"
-webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-business-taiwan-taipei-artificial-intelligence-f53af3c7b20046344a5e978a491e9ab6"
+title: "Taiwan's AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
+excerpt: "TAIPEI, TAIWAN - Media OutReach - 29 October 2021 - Taiwan's top annual event for artificial intelligence, AI Day 2021, assembled key international stakeholders from across public and private sectors at Gaming Space in Taipei from October 27 to 28 morning,"
+publishedDateTime: 2021-10-29T13:01:00Z
+originalUrl: "https://www.wicz.com/story/45084671/taiwans-ai-day-2021-enters-the-metaverse-with-virtual-exhibition-and-forum"
+webUrl: "https://www.wicz.com/story/45084671/taiwans-ai-day-2021-enters-the-metaverse-with-virtual-exhibition-and-forum"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://public.newsdirect.com/134607972/geWzL9vh.jpeg"
+    width: 1000
+    height: 666
     isCached: true
 
 related:
@@ -70,6 +70,6 @@ related:
         height: 333
         isCached: true
 
-secured: "qCCUuf4/jZd3nmzUwvpyNbEQ+262gwYel3EP/kkVJJ/8B9cmvpknyKLYtcrzTZtGI8uzy/QpslVENNQrSJ4NX0JtGQRgGcbykHgG6Bt5+cVYwx3CeVh0n0c1c3raDsR0ZM7Ou/kClgFL/IZtga+NOcp4OI+V36WRNWEqBjyHlINQarsPS3MyiwHWRcaZBwnk+yTmOGVs9NadJnC2D91LXZDUM2Yb731cQTOAxhe+m3vLdJOtLc9ky1Fj9AjmFgBL7Agv87W1WQ+6dyDkVKVRqTtjhuILRVshTANYdFjDCXvU+g4uxhJ92+OF+5aQLI6FWNgLg0MhWzqrbsDbSwxgHIQn5miomPTv8OX+fJVCiAA=;vVUZZ7m5rjO3kTwEUdSkqA=="
+secured: "+8d7vUofZh7YE1egwXVWM95DJhNdwctJcndpbiJn8gcLguIOifm1qcMIpJiD6H3DzB9hiR2bzOMEnwONWHCQ4DNXFsT3iT9/La8LiWYCjuZ766tNnJcb2ohW3NnvriWcxESdjVoLRy3vk+yD0nmATKedWNNDaCxMrI4hNGslTbzD+NzS0YCbET7C2H8EyNrXnR3mZ+UDf0CAVPrZ2shbAvBKUU6Hv4CMeqSy3Wrrr+3dRyoCYTTkAI7TI/te2nNV9Cz6fi3OATABO2WkCchUanXnzKpebod8kCNf0hwQR35M1Xhbg+nl823IxQX3vfqCAZpsvtgnBuNxufSd7EtBCh33Sh94Lz5XXNAVWNk7Rq8=;wc7Uu3KefzyHNhvS8cpLCQ=="
 ---
 

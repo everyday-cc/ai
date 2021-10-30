@@ -40,19 +40,19 @@ related:
         width: 300
         height: 226
         isCached: true
-  - title: "Taiwan’s AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
-    excerpt: "TAIPEI, TAIWAN - Media OutReach - 29 October 2021 - Taiwan’s top annual event for artificial intelligence, AI Day 2021, assembled key international stakeholders from across public and private sectors at Gaming Space in Taipei from October 27 to 28 morning,"
-    publishedDateTime: 2021-10-29T13:05:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-business-taiwan-taipei-artificial-intelligence-f53af3c7b20046344a5e978a491e9ab6"
+  - title: "Taiwan's AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
+    excerpt: "TAIPEI, TAIWAN - Media OutReach - 29 October 2021 - Taiwan's top annual event for artificial intelligence, AI Day 2021, assembled key international stakeholders from across public and private sectors at Gaming Space in Taipei from October 27 to 28 morning,"
+    publishedDateTime: 2021-10-29T13:01:00Z
+    webUrl: "https://www.wicz.com/story/45084671/taiwans-ai-day-2021-enters-the-metaverse-with-virtual-exhibition-and-forum"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: FOX 40 WICZ TV
+      domain: wicz.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://public.newsdirect.com/134607972/geWzL9vh.jpeg"
+        width: 1000
+        height: 666
         isCached: true
   - title: "Taiwan’s AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
     excerpt: "He reveals his organization’s belief that edge computing will include machine learning accelerator chips, then goes on to introduce the thinking behind federated machine learning in AI."

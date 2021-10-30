@@ -94,6 +94,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Red or blue, US communities want brakes on government use of facial recognition"
+    excerpt: "The movement to corral facial recognition with local and state laws continues, and it is showing up in red, law-and-order states like Indiana."
+    publishedDateTime: 2021-10-28T15:40:00Z
+    webUrl: "https://www.biometricupdate.com/202110/red-or-blue-us-communities-want-brakes-on-government-use-of-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
   - title: "Council suspends facial recognition software scheme in school canteens that scanned pupils faces as they bought lunch over privacy concerns"
     excerpt: "Nine schools in North Ayrshire in Scotland became the first in the UK to start using the system on a long-term basis last week after a pilot project in Gateshead last year."
     publishedDateTime: 2021-10-26T14:44:00Z
