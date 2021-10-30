@@ -57,22 +57,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Amazon signs deal with UK spy agencies to boost use of AI for espionage: Report"
-    excerpt: "GCHQ said it would not comment on reports about its relationships with tech suppliers. AWS declined to comment on the report."
-    publishedDateTime: 2021-10-26T01:36:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/amazon-signs-deal-with-uk-spy-agencies-to-boost-use-of-ai-for-espionage-report-101635211901156.html"
-    ampWebUrl: "https://www.hindustantimes.com/world-news/amazon-signs-deal-with-uk-spy-agencies-to-boost-use-of-ai-for-espionage-report-101635211901156-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/amazon-signs-deal-with-uk-spy-agencies-to-boost-use-of-ai-for-espionage-report-101635211901156-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 53
-    images:
-      - url: "https://images.hindustantimes.com/img/2021/10/26/1600x900/rss_amazon_east_india_company_congress_pawan_khera_1632746070329_1635212101256.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "AWS wins contract to provide cloud storage to UK spy agencies"
     excerpt: "U.K.’s spy agencies to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence for espionage. The Financial Times reports the AWS deal was championed by GCHQ,"
     publishedDateTime: 2021-10-27T01:06:00Z

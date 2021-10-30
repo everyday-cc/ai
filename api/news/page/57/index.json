@@ -2,6 +2,361 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-09-16-hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay.md",
+      "title": "HP Inc. Rolls Out New Management Services For The Hybrid World That’s Here To Stay",
+      "excerpt": "Many Desktop as a Service (DaaS) popping up, including Microsoft recently announced ... On top of all these services, the direction of many notebooks is toward thin and light ACPCs; a good example ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/16/hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/16/hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614383c8abe52d277cb2efce%2F0x0.png",
+          "width": 1200,
+          "height": 644,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks.md",
+      "title": "Freebirds Partners With Dallas-Based Now Cuisine for Burrito-Bowl Robot Kiosks",
+      "excerpt": "\"It’s just cool that a Texas-based AI and robotics company can help a Texas-based burrito company expand in ways we could only imagine just a few years ago,\" says Alex Eagle, Chief Executive Officer for Freebirds World Burrito.",
+      "sourceUrl": null,
+      "webUrl": "https://dallasinnovates.com/freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks/",
+      "originalUrl": "https://dallasinnovates.com/freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s24806.pcdn.co/wp-content/uploads/2021/09/Freebirds-Takeout-Station-970jpg.jpg",
+          "width": 970,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dallasinnovates.com",
+        "domain": "dallasinnovates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-live-webinar-driving-healthcare-decisions-with-natural-language-processing.md",
+      "title": "Live Webinar: Driving Healthcare Decisions with Natural Language Processing",
+      "excerpt": "Dr. Sabita Sankar, VP of Business Development at HUMA.AI, will sit down with Natalie Yeadon, to discuss “human-centric AI” and how to automate healthcare through human language, with special focus on the applications for Medical Affairs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pmlive.com/pmhub/healthcare_conferences_meetings_events/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
+      "originalUrl": "https://www.pmlive.com/pmhub/healthcare_conferences_meetings_events/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PMLiVE",
+        "domain": "pmlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-hpcai-in-the-spotlight-jensen-huang-named-to-time-magazines-most-influential-people-list.md",
+      "title": "HPC/AI in the Spotlight: Jensen Huang Named to Time Magazine’s Most Influential People List",
+      "excerpt": "Estranged royalty, movie stars and Olympic athletes have influence, sure, but if you want to build a list of people with lasting impact then Time magazine got it right when it named Jensen Huang to its list of the 100 most influential people of 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/09/hpc-ai-in-the-spotlight-jensen-huang-named-to-time-magazines-most-influential-people-list/",
+      "originalUrl": "https://insidehpc.com/2021/09/hpc-ai-in-the-spotlight-jensen-huang-named-to-time-magazines-most-influential-people-list/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2018/03/DGX-2.jpg",
+          "width": 592,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-bioxcel-therapeutics-presents-results-from-ongoing-phase-2-trial-of-bxcl701-in-combination-with.md",
+      "title": "BioXcel Therapeutics Presents Results from Ongoing Phase 2 Trial of BXCL701 in Combination with ...",
+      "excerpt": "BXCL701 plus KEYTRUDA® (pembrolizumab) demonstrates encouraging anti-tumor activity in heavily pre-treated mCRPC patients with adenocarcinoma. BXCL701 combination continues to ex",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-health-coronavirus-pandemic-tumors-b2036ef8ae606cd13d47ba18d80905db",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-health-coronavirus-pandemic-tumors-b2036ef8ae606cd13d47ba18d80905db",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-walmart-self-driving-delivery-service-coming-to-three-cities.md",
+      "title": "Walmart Self-Driving Delivery Service Coming to Three Cities",
+      "excerpt": "Ford Motor Co. and Argo AI have joined forces with Walmart to roll out an autonomous vehicle delivery service in Washington, D.C.; Miami, Fla.; and Austin, Texas. The service is expected to grow to other cities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities",
+      "originalUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/ff20296/2147483647/strip/true/crop/1000x521+0+122/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa2%2Fdb%2F736321c7494893e7b9af8e18eb7c%2Fshutterstock-2022062486.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities?_amp=true",
+      "publishedDateTime": "2021-09-15T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-the-machine-learning-imperative-empowering-businesses-to-innovate-faster.md",
+      "title": "The Machine Learning Imperative: Empowering Businesses to Innovate Faster",
+      "excerpt": "Machine Learning (ML) took centre stage at AWS reInvent from being a key focus in the opening keynote by CEO Andy Jassy, to the entire focus of the inaugural ML keynote by Swami Sivasubramanian, VP of",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
+      "originalUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Machine_Learning_Imperative-_Empowering_Businesses_to_Innovate_Faster.jpeg",
+          "width": 1282,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-spark-new-zealand-implements-agile-work-practices-to-embrace-business-change.md",
+      "title": "Spark New Zealand Implements Agile Work Practices To Embrace Business Change",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives deeper into Spark New Zealand’s which is the largest telecommunications and digital services. Patrick Moorhead interviews Kallol Dutta, Tribe Lead- Data & Automation of Spark New Zealand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/15/spark-new-zealand-implements-agile-work-practices-to-embrace-business-change/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/15/spark-new-zealand-implements-agile-work-practices-to-embrace-business-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614264492def9c510ff5c3fa%2F0x0.jpg",
+          "width": 936,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/15/spark-new-zealand-implements-agile-work-practices-to-embrace-business-change/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/09/15/spark-new-zealand-implements-agile-work-practices-to-embrace-business-change/amp/",
+      "publishedDateTime": "2021-09-15T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-5-real-ai-threats-that-make-the-terminator-look-like-kindergarten-cop.md",
       "title": "5 real AI threats that make The Terminator look like Kindergarten Cop",
       "excerpt": "SKYNET, SKYNET, SKYNET. Everyone's always going on about Terminators and killer robots, but the real horror posed by future AI is from Facebook and Google.",
@@ -781,331 +1136,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-dutch-ai-semiconductor-startup-axelera-ai-launches-with-12-million-seed-round.md",
-      "title": "Dutch AI Semiconductor Startup Axelera AI Launches With $12 Million Seed Round",
-      "excerpt": "AI semiconductor startup Axelera AI announced today that it has successfully closed a seed investment round of $12 million. The round was led by emerg",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210915005028/en/Dutch-AI-Semiconductor-Startup-Axelera-AI-Launches-With-12-Million-Seed-Round",
-      "originalUrl": "https://www.businesswire.com/news/home/20210915005028/en/Dutch-AI-Semiconductor-Startup-Axelera-AI-Launches-With-12-Million-Seed-Round",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-aws-to-build-new-uci-track-champions-league-data-platform-for-discovery.md",
-      "title": "AWS to build new UCI Track Champions League data platform for Discovery",
-      "excerpt": "The new AWS fan engagement platform for the UCI Track Champions League is part of new tie-up with media giant's events arm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportspromedia.com/news/aws-uci-track-champions-league-discovery-sports-events-app-cycling-amazon/?blocktaxonomy=smartseries",
-      "originalUrl": "https://www.sportspromedia.com/news/aws-uci-track-champions-league-discovery-sports-events-app-cycling-amazon/?blocktaxonomy=smartseries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SportsPro",
-        "domain": "sportspromedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-dish-selects-ibms-software-for-new-cloud-native-5g-network.md",
-      "title": "Dish Selects IBM's Software for New Cloud-Native 5G Network",
-      "excerpt": "IBM and Dish will apply and implement customized AI-powered automation and network orchestration software to create the first greenfield cloud-native 5G network in the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvtechnology.com/news/dish-selects-ibms-software-for-new-cloud-native-5g-network",
-      "originalUrl": "https://www.tvtechnology.com/news/dish-selects-ibms-software-for-new-cloud-native-5g-network",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/x2NWaAXax7jBGeBQocpCAG-1200-80.png",
-          "width": 1200,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/news/dish-selects-ibms-software-for-new-cloud-native-5g-network",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/dish-selects-ibms-software-for-new-cloud-native-5g-network",
-      "publishedDateTime": "2021-09-15T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data.md",
-      "title": "NHS Artificial Intelligence provider reports 160% growth, promising to transform healthcare with better data",
-      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its data-led solutions are increasingly embraced by NHS trusts, private healthcare providers and pharmaceutical companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg",
-          "width": 267,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-discovery-sportss-uci-goes-on-aws.md",
-      "title": "Discovery Sports’s UCI goes on AWS",
-      "excerpt": "Amazon Web Services (AWS), an Amazon company, has announced a new partnership with Discovery Sports Events, a portfolio of sports brands that reach more than 13",
-      "sourceUrl": null,
-      "webUrl": "https://advanced-television.com/2021/09/15/discovery-sportss-uci-goes-on-aws/",
-      "originalUrl": "https://advanced-television.com/2021/09/15/discovery-sportss-uci-goes-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://advanced-television.com/wp-content/uploads/2020/03/cyclingUCI-scaled-e1583155839900.jpg",
-          "width": 560,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Advanced Television",
-        "domain": "advanced-television.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-russia-broad-facial-recognition-use-undermines-rights.md",
-      "title": "Russia: Broad Facial Recognition Use Undermines Rights",
-      "excerpt": "Russian authorities continue expanding their use of facial recognition technology across the country, with no regulation, oversight, or data protection and against the backdrop of misidentification reports,",
-      "sourceUrl": null,
-      "webUrl": "https://www.hrw.org/news/2021/09/15/russia-broad-facial-recognition-use-undermines-rights",
-      "originalUrl": "https://www.hrw.org/news/2021/09/15/russia-broad-facial-recognition-use-undermines-rights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hrw.org/sites/default/files/media_2021/09/202109eca_russia_camkremlin.jpg",
-          "width": 4000,
-          "height": 2690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Human Rights Watch",
-        "domain": "hrw.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-ex-google-exec-describes-4-top-dangers-of-artificial-intelligence.md",
-      "title": "Ex-Google exec describes 4 top dangers of artificial intelligence",
-      "excerpt": "In a new interview, AI expert Kai-Fu Lee explained the top four dangers of burgeoning AI technology: externalities, personal data risks, inability to explain consequential choices, and warfare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/ex-google-exec-describes-4-151942496.html",
-      "originalUrl": "https://www.aol.com/finance/ex-google-exec-describes-4-151942496.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/OMCFK28Dt4bhHOLgwlqBeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDk-/https://s.yimg.com/uu/api/res/1.2/wA97bRVi0JuYSHK2o64MYQ--~B/aD0zNjcxO3c9NTE4NzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_yahoo_finance_433/0afeb9c49cce1078761e83686c42e25e",
-          "width": 1200,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-the-top-uk-fintech-trends-to-watch-in-2021.md",
-      "title": "The Top UK Fintech Trends to Watch in 2021",
-      "excerpt": "UK fintech is booming and has reportedly attracted $5.7bn worth of capital in the first 6 months of 2021 through 317 deals completed.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/technology-and-ai/top-uk-fintech-trends-watch-2021",
-      "originalUrl": "https://fintechmagazine.com/technology-and-ai/top-uk-fintech-trends-watch-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1125968713.jpg.png?itok=2J3F74uM",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

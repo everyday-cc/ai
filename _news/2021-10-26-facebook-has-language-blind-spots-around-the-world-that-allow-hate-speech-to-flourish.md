@@ -43,17 +43,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Facebook Whistleblower Makes Case for Social Media Curbs to British Parliament"
-    excerpt: "LONDON — Facebook has lurched from controversy to controversy since Mark Zuckerberg started it as a Harvard undergrad in 2004. But the actions of Frances Haugen, a former product manager, have created a backlash and public relations crisis that"
-    publishedDateTime: 2021-10-26T02:48:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-whistleblower-makes-case-for-social-media-curbs-to-british-parliament/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-whistleblower-makes-case-for-social-media-curbs-to-british-parliament/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-whistleblower-makes-case-for-social-media-curbs-to-british-parliament/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 20
 
 secured: "a8ywcCZb3Pr8WTQ/WBjMOeCBCALDHz/nJzrA4HBekpKBwieUtfNjEeG8tixaXq0jv0EiB/GpZFd3j2JKpYqnOnMCyDe9VwnfWNbqW+1F1iP3yWyng9sUvcjhTuxgbuNNhtYEpL50o/5h2BrSnFI0lZffkgHlX45k2m/dGFoteSSP3W0K8Da18BpjdbDbLjH4YAo2uxGPIetv1jUowBafZt0taE+izjhXwiSV2HmalxU2O2kSlK5fNaqllzcjpDDShH9NfzWCScWKf7kW+uvYTWsTcyDNfoefVODmTfHSunOGQqWxUcSBSzHpCOlBFWiL5zok8tiIXp0gfy/dgJTv1DXu6HYV+BH1xdmxX484l6F0DHNGA4Wk5zxPnmdj8wfKKbNPIVXvGfkE57R4KzGRWwIxX/EgfQykNR83auLeTYZ2csHjHwf/2hnVFn04AK0nEpntet+iQQT8ahsc2wj4yWTmmOE7sG8pxHV0+wZZE3ohnt+Gh0U8nRPcdCMAztGjnClbebFHClaxreWzB9hHOw==;lYRyPt9lxFDHeF9d7Fd+Kg=="
 ---

@@ -4,11 +4,10 @@ title: "New Bill Would Secure Government Contractors' Use of AI"
 excerpt: "Two Senate leaders on Thursday introduced legislation that would form a working group charged with monitoring the security of AI data obtained by federal"
 publishedDateTime: 2021-10-22T20:48:00Z
 originalUrl: "https://www.inforisktoday.com/new-bill-would-secure-government-contractors-use-ai-a-17786"
-webUrl: "https://www.inforisktoday.com/new-bill-would-secure-government-contractors-use-ai-a-17786"
+webUrl: "https://www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/"
+ampWebUrl: "https://www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/amp"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: Info Risk Today
@@ -18,11 +17,11 @@ topics:
   - AI
 
 images:
-  - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/new-bill-would-secure-government-contractors-use-ai-showcase_image-2-a-17786.jpg"
-    width: 860
-    height: 520
+  - url: "https://media.wired.com/photos/615f6fab0208edf75baf39bd/master/pass/AI-Bill-of-Rights.jpg"
+    width: 2400
+    height: 1350
     isCached: true
 
-secured: "nFd9ZRHKzlJN0vkh5RMrAuWKDur+Vl47HfvK4debmYnA+tJzU4w0fkBAB6IHLczZC58bjLAsPZbijQTouOSAHS+D0lpJKPTdkLdPiEpc2tmuGlhONVIqGFe9kFh5yxe68dmg8FjITwgBf4ULsw5QmKleikf9pz0HBx6CTSYz0r41yJMG3gVcbMgJDetMhMHkXFV1h1zphetyV4abiS6Kp9q2uNyIujod7LnL1fRSP9Q+AfGr+q9tL7bxIOOi1TzJmsf5mgDwLf03k1KgYKL91Me1N2buCr+wNq0wMYJsSB6lasGM1U/lAyb0Q+NwNeBEXvFponoq4H3JJtkOcKPzu3UDOrxG41aOLFgTKvEO//v2AvZFw9z7IA7Mb0vdPitckkVq2M6In8oRhuG+QU3BQkvSvtC66hayrrE2+dJLwWjm4fesY84R0kvyElLH8LxqzyTdOPAvcbUBMuLlJZe/1ahC9RFKJ6cqkG9EP4AHcYJN/VMcmINen7LNNX65wqJrd6lYFEoJOXXD4ZpAiZEdFA==;/EoKLggBwDfwmn5ahMjz2Q=="
+secured: "VgIYAjGSwGPRRlMAJ4wpAhb1kRsQNDP8SjXrvSZrtMoWnxaaidppK8LyOv+0rTDBOk8RA7ElLaqMECWzxdjHRvJWbrC2yzUXU75eA3EzEBjPhnw0O4RP2ykaw93XRGKnLKgFlHXE07Qc3D8jn7Tj4Jp645BA0YIU/YgjDZMVMv/9wOSk1jS/Qcg/AcFtjfyKzvshn2pZ+LzLQ5n8AyVC2foK5wFICiQCyWTtIxnJARhkR0ppgDvhPNvCsQq231gRLVlNyU9mOHPmoJAecMPg66G6uxyyg9dAQofRMIi5XQ/5qNS+FdcUgiDnJ2Z3aYNQiJ0YRDhyLDtGJxmPYd8Em6FS6hi66hI//Tl1xeWoeQY=;p6yFLjGFe14vIxsgf8FtaA=="
 ---
 

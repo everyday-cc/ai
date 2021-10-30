@@ -2,6 +2,145 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-10-22-create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart.md",
+      "title": "Create a dashboard with SEC text for financial NLP in Amazon SageMaker JumpStart",
+      "excerpt": "Amazon SageMaker JumpStart helps you quickly and easily get started with machine learning (ML) and provides a set of solutions for the most common use cases that can be trained and deployed readily with just a few clicks. JumpStart also includes a collection of multimodal financial text analysis tools,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-22T08:32:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings.md",
+      "title": "Momentum in Azure Cloud to Aid Microsoft (MSFT) Q1 Earnings",
+      "excerpt": "Microsoft MSFT is scheduled to report first-quarter fiscal 2022 results on Oct 26. The company’s quarterly numbers are likely to have been driven by the continued strength in its cloud platform — Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22",
+      "originalUrl": "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp",
+      "publishedDateTime": "2021-10-22T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-18-tech-deals-for-the-weekend-black-friday-like-prices-on-tvs-bluetooth-speakers-robot-vacuums-and-more.md",
+      "title": "18 Tech Deals for The Weekend: Black Friday-Like Prices On TVs, Bluetooth Speakers, Robot Vacuums And More",
+      "excerpt": "If you love gadgets, this is a good weekend is looking good. Here are deals on Bluetooth speakers, electric scooters, TVs and streaming boxes, not to mention a slew of other gadgets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6171dfc6690a0277b2699717%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1500%26cropY1%3D139%26cropY2%3D1264",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/amp/",
+      "publishedDateTime": "2021-10-22T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-senior-industry-leaders-need-to-learn-about-ai.md",
       "title": "Senior industry leaders need to learn about AI",
       "excerpt": "Bradley Merrill Thompson of Epstein Becker Green encourages company leaders to develop an understanding of the vocabulary and workings of AI given the present and emerging legal risks and liabilities.",
@@ -454,17 +593,17 @@
       "title": "Facebook AI Wants To See The World Through Your Eyes, And That’s Scary",
       "excerpt": "Facebook recently kicked off a research project that portrays the company’s ambition to push the limits of first-person perception. The Ego4D project offers a massive collection of first-person video and supporting data along with a set of challenges for researchers to feed computers to learn and extract useful information from it.",
       "sourceUrl": null,
-      "webUrl": "https://www.gizbot.com/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html",
+      "webUrl": "https://ai.facebook.com/research/publications/ego4d-unscripted-first-person-video-from-around-the-world-and-a-benchmark-suite-for-egocentric-perception",
       "originalUrl": "https://www.gizbot.com/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizbot.com/img/2021/10/3-1634885552.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/244780342_592679151865430_7743889725254708657_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=BengilrXQCUAX_Uvykc&_nc_oc=AQmZr38mh6v7c_2e-JzUAVeRsEoTjr1z7UuZoUJWgB02Fr1EMJDNt2Pa6dT4pS7A87A&_nc_ht=scontent-sea1-1.xx&oh=0c975663f9e499ef91f0dc81ef4edb56&oe=61829BD2",
+          "width": 3840,
+          "height": 2160,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -472,8 +611,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.gizbot.com/amphtml/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html",
-      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-10-21T23:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -488,7 +627,6 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -1025,126 +1163,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-global-robotaxi-market-size-share-analysis-report-forecast-to-2026.md",
-      "title": "Global Robotaxi Market, Size, Share, Analysis Report & Forecast to 2026",
-      "excerpt": "The robotaxi is a self driving taxi that takes leverage of AI, ML, Iot and other technologies for ride-hailing. The rising trend of autonomous vehicle, zero emission vehicles, and new mobility ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2436075/global-robotaxi-market-size-share-analysis-report-forecast",
-      "originalUrl": "https://www.openpr.com/news/2436075/global-robotaxi-market-size-share-analysis-report-forecast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2436075/global-robotaxi-market-size-share-analysis-report-forecast",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2436075/global-robotaxi-market-size-share-analysis-report-forecast",
-      "publishedDateTime": "2021-10-21T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc.md",
-      "title": "Tech Top 5: Brainchip nabs US patent for Akida AI chip, jumps almost 15pc",
-      "excerpt": "Brainchip granted US patent, while Elmo boosts revenue and Ansarada expands into GRC market; also semiconductor and cybersecurity updates.",
-      "sourceUrl": null,
-      "webUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/",
-      "originalUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stockhead.com.au/wp-content/uploads/2021/10/ezgif.com-crop-6.gif",
-          "width": 480,
-          "height": 269,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/?amp",
-      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/?amp",
-      "publishedDateTime": "2021-10-21T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stockhead",
-        "domain": "stockhead.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-poll-do-you-think-ai-chips-on-phones-have-lived-up-to-the-hype.md",
-      "title": "Poll: Do you think AI chips on phones have lived up to the hype?",
-      "excerpt": "Dedicated AI chips have been available on smartphones for quite a few years now, but have they lived up to the hype?",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
-      "originalUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
-      "publishedDateTime": "2021-10-21T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

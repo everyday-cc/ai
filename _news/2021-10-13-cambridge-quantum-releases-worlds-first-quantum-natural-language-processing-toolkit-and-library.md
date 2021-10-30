@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-excerpt: "CAMBRIDGE, England, Oct. 13, 2021 /PRNewswire/ -- Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for Quantum Natural Language Processing (QNLP)."
-publishedDateTime: 2021-10-13T07:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-releases-worlds-first-quantum-natural-language-processing-toolkit-and-library-301398725.html"
-webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-releases-worlds-first-quantum-natural-language-processing-toolkit-and-library-301398725.html"
+excerpt: "2021 /PRNewswire/ -- Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for Quantum Natural Language Processing (QNLP). The toolkit is called lambeq ..."
+publishedDateTime: 2021-10-13T09:49:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20211013ln37909/cambridge-quantum-releases-worlds-first-quantum-natural-language-processing-toolkit-and-library"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20211013ln37909/cambridge-quantum-releases-worlds-first-quantum-natural-language-processing-toolkit-and-library"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "L3poaE+oJq+Z3s4Buk+QJFSJrDkgpvjIls2p0TvcTNpARlYbKPZeFUPDqOHP4rW8yrCNsJ2t6tYXQc8lsXAQNiYuqlZ8fvcLeCBBmNBN/98zKeR48XU3p12g0blyI5+FOamdIgD7uGCHwTUKJDCgZLqdllcFRMuKIfAe6+84nfwxykXVuRK/Wrw9QmXGqQdfkqXZL10HEPr+pZ9tZ1/izNAJ60WVTRxF3E24Y2as8dfM6CWs6KYwU4WZhRM647VtrYyBPnX/kwe1LVvAQSYc9E2ezKjmOrVPK5T3QQ++WmLOPVuJSTmg70h+D5acDt2TSgH0ss4eYClyvIQbx/yZeGzZ/SuirPaSHvSbYfpa/p8=;lMDUoQzCyMGD+Y5QnFWbQw=="
+secured: "6tPizcCl5o/cp1JMHui2YWlPlKTYn740In4Pnp1G7Ohyg6YfUbaci/HspOJEpHr4Bo7MhuraKqfkqgLckc6F4odUb51Tze4qhjmt5ZsS1OPRKSKHgOIIz3lQ1rv/P9FvUxh0p2CmP9g3Qmu63iuKsA6b9javlPf4Et956CbxeOxz0YfT/7Kn2UpbSLV535aYDSETIbDS/nTP52z0cJ59GizKHDMvx7p1HYKMgU3d337NmLYm9QGnY1A61i1B02h+8fJEzpELMhYiN4Sa9mF+TAUl3DywRp00ZgTHhA3xEu45Yj1R9JeWeAULrEX/wl8IsyWLRcfZ0CzOpgTgZjuNC2igwEwcWON5v8gSf+2fiNs=;2rN03yq/LVzfFeQoR0dg/A=="
 ---
 

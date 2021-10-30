@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Measuring the industry buzz over artificial intelligence"
-    excerpt: "Mentions of artificial intelligence within the filings of companies in the food industry rose 17% between the first and second quarters of 2021."
-    publishedDateTime: 2021-10-27T14:59:00Z
-    webUrl: "https://www.just-food.com/features/measuring-food-industry-buzz-over-artificial-intelligence/"
-    type: article
-    provider:
-      name: Just-Food
-      domain: just-food.com
-    quality: 37
-    images:
-      - url: "https://www.just-food.com/wp-content/uploads/sites/35/2021/10/web-g2c2f13934_1920-e1633617194829.jpg"
-        width: 1555
-        height: 1012
-        isCached: true
 
 secured: "xa7AYvQOZFKmz7UaaB046a8lITdTjzJHBTobvgXfDoxYWrTYN5UF55NrRnZTsumNwdC+0meA/pOf8/8moL7Xe1fyN/ZVwCdlTmrxNWb2rq09tA9xu6JpUHgwMSZAxoZiFeGimF1kSo/PRzGCn+aOYJG0myMxLjMNPVo+DyLiJ2jGkbyCb8PFgQhdMb+w7kuogJ51mc7X6qa1bzPuWmRGRO1Anx9RQKcvo/ek9ngrM20QkVPv9zq6smQj0BZB2MHLf0etME/HC98aniLSxn4e03YCcqNEqLeYXqOQ+kKA3tj4ibksW9I9KC+4DTAm1QWJy1cbFjUwfxC6DDBGLpbRL4/V1f2KDsgE5Tz9xeP4dGV2ndmAALN/9hUyYxOlEJFyT1/Wg5tgW9BTPzBa5p9uhJYmnFDimerKPoXsNdA2fKx8VbrZ019He+RehpRnP31H6+TbKR+Drp1WnL43FhzF6b54dTs5qYafzL93qFr+qwQC6n1Xu/5jESovmc60bGwAlJcs2hxhhpPqATJKdIM/8w==;+Yx965Og5fOq6yXmg4LY4A=="
 ---

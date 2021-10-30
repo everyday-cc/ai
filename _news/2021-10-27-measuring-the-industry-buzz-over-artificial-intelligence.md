@@ -24,37 +24,65 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Keeping Watch Over Government Spending"
-    excerpt: "For example, AI helps convert appropriation bills into structured data ... How do you identify which problem area(s) to start with for your automation and cognitive technology projects? Justin Marsico: We work closely with our federal process improvement ..."
-    publishedDateTime: 2021-10-30T14:06:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/"
+  - title: "Security AI is the next big thing"
+    excerpt: "This isn't a takeover by cybersecurity AI; it's a force multiplier for security teams and doing a lot of work behind the scenes."
+    publishedDateTime: 2021-10-30T19:15:00Z
+    webUrl: "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/"
+    ampWebUrl: "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617d508009fce0bdf8ec75db%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3020%26cropY1%3D144%26cropY2%3D2409"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/Cybertron-Full-small.jpg?w=1200&strip=all"
         width: 1200
-        height: 900
+        height: 601
         isCached: true
-  - title: "Discovering exoplanets using artificial intelligence"
-    excerpt: "By implementing artificial intelligence techniques similar to those used in autonomous cars, a team from the UNIGE and the UniBE, in partnership with the company Disaitek, has discovered a new method for detecting exoplanets."
-    publishedDateTime: 2021-10-27T13:46:00Z
-    webUrl: "https://phys.org/news/2021-10-exoplanets-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2021-10-exoplanets-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-exoplanets-artificial-intelligence.amp"
+  - title: "Could facial recognition be the future of airport security? Delta Air Lines is testing it out"
+    excerpt: "Delta Air Lines is testing new facial recognition technology to reduce the time it takes between arriving at the airport and getting passengers in their seats."
+    publishedDateTime: 2021-10-27T14:55:00Z
+    webUrl: "https://www.cbsnews.com/news/facial-recognition-delta-tsa/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facial-recognition-delta-tsa/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facial-recognition-delta-tsa/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: CBS News
+      domain: cbsnews.com
+    quality: 80
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/discovering-exoplanets.jpg"
-        width: 750
-        height: 329
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/10/27/74e2026c-5dbd-4e4c-b22e-a58946177334/thumbnail/1200x630/0d6b4f218d53176e5bbb7711870521fc/1027-cbsmornings-deltabiometrics-barnett-824031-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Artificial Intelligence is Changing the World of Finance and Investing"
+    excerpt: "Artificial Intelligence (AI) is a popular trend these days, but it seems so abstract that it is easy to assume only people savvy with technology should be concerned about it. This is far from the truth."
+    publishedDateTime: 2021-10-30T19:11:00Z
+    webUrl: "https://www.proshareng.com/news/Tech-Trends/How-Artificial-Intelligence-is-Changing-/59681"
+    type: article
+    provider:
+      name: Nigeria
+      domain: proshareng.com
+    quality: 52
+    images:
+      - url: "https://www.proshareng.com/admin/upload/news/59681-proshare.jpg"
+        width: 2079
+        height: 1439
+        isCached: true
+  - title: "7 Edits That Will Soon Be A Thing of the Past Thanks to AI"
+    excerpt: "It uses machine learning artificial intelligence (AI) to scan an image ... the complex patterns in the bottom-right However, things start to go awry when you're working with more complex shapes ..."
+    publishedDateTime: 2021-10-29T21:27:00Z
+    webUrl: "https://fstoppers.com/gear/7-edits-will-soon-be-thing-past-thanks-ai-585040"
+    type: article
+    provider:
+      name: Fstoppers
+      domain: fstoppers.com
+    quality: 37
+    images:
+      - url: "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2021/10/img-7-edits-past-thanks-ai-main-image.jpg"
+        width: 1185
+        height: 670
         isCached: true
 
 secured: "Xzf7Fkbm6jWw5pMquX02VzdaA6fQM3tMvZ9CtLINp6XwO0IGcKkzOWsEI8UvdWUCKRAuTBRETWfqZpqjpvMMktcVh7jEi0SCAyx8Z7xlqvqsg8EbGrHw/P5fPrpa8aGJV2nGpxp49miqvTu/oWNj7ijzsh1Ze4BWQRbKnox8Q4MjgRHMYBMByHlPBIolFS7C5JzKcvZeawnyMQAmAvZ14PI/tUBzuAVFlCsd+w3duAsq6aMCpwH3GMmdV4KB66HOBwBgQPB+vRhL75ZB8yKRXQ8DwfyLFfBkn+WbfPfWZl6R7Ub4UmjRU2s4uQvZEbQrfc3FKI4bwctpEoqpCSLfA7DzvxytO0qEA+9I+gIoQBf6hYEKW7SzodrcLFJJL2iPG2Bg5N4MFZ9JumNy+n8zOfV82Hie2RKd2dYX4GnEoWu4y5Qm+DAmfy25gIR7ENwp8ipcWKdAHZtGfE+JTjfksReAnYaY2kBJXTK3bBhcYLj+wnp/KF2VhN0RmxRnoFqbsgR7y5ye1+f7DNLLQiqNhw==;FtHxkP9dJoVYNk39QdfWlg=="

@@ -1,56 +1,28 @@
 ---
 category: news
 title: "Gitex 2021: New innovations in self-driving transportation, smart parking to be unveiled by RTA"
-excerpt: "Dubai's Roads and Transport Authority (RTA) will unveil technology that uses artificial intelligence (AI) in cycling tracks to count the number of u"
-publishedDateTime: 2021-10-16T18:51:00Z
-originalUrl: "https://menafn.com/1102980287/Gitex-2021-New-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-RTA"
-webUrl: "https://menafn.com/1102980287/Gitex-2021-New-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-RTA"
+excerpt: "Dubai's Roads and Transport Authority (RTA) will unveil technology that uses artificial intelligence (AI ... projects qualified for the finals of the Dubai World Challenge for Self-Driving Transport 2021. “RTA has an integrated roadmap for the future ..."
+publishedDateTime: 2021-10-16T23:45:00Z
+originalUrl: "https://www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta"
+webUrl: "https://www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta"
+ampWebUrl: "https://www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta?amp=1"
+cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta?amp=1"
 type: article
-quality: 12
-heat: -1
-published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Khaleej Times
+  domain: khaleejtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-10/16/KT_5e015image_story.jpg"
-    width: 1024
-    height: 531
+  - url: "https://image.khaleejtimes.com?uuid=4707ce77-230a-5048-af0b-1ba6a5c4d314&function=cropresize&type=preview&source=false&q=75&crop_w=0.92188&crop_h=0.99999&x=0.03906&y=0&width=1200&height=675"
+    width: 1200
+    height: 675
     isCached: true
 
-related:
-  - title: "Gitex 2021: AI tech in cycling tracks to detect if riders are wearing helmets"
-    excerpt: "New artificial intelligence technology in Dubai’s cycling tracks can detect if riders are wearing helmets, Dubai’s Roads and Transport Authority ( RTA) said on Sunday. The smart technology is being displayed at the ongoing Gitex technology week,"
-    publishedDateTime: 2021-10-17T14:18:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Gitex_2021_AI_tech_in_cycling_tracks_to_detect_if_riders_are_wearing_helmets-SNG_252780138/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_252780138/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_252780138/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 34
-  - title: "RTA and EVOTEQ to hold live demo of the use of AI in Cycling Tracks' solution at GITEX 2021"
-    excerpt: "RTA and EVOTEQ to hold live demo of the use of AI in Cycling Tracks' solution at GITEX 2021    Using AI in Cycling Tracks' sol"
-    publishedDateTime: 2021-10-17T17:40:00Z
-    webUrl: "https://menafn.com/1102983338/RTA-and-EVOTEQ-to-hold-live-demo-of-the-use-of-AI-in-Cycling-Tracks-solution-at-GITEX-2021"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?165345"
-        width: 375
-        height: 249
-        isCached: true
-
-secured: "Sq/9MX5ZKKbn+mLsjccryE28Bxjaf3s53njXKL9iFoK6XJnYySib1ac5ppi03Jx2DjJ3kJQEVzbgFbmD00Hc8J9FB+3mz5wrRbSzeCoSkwpSAuLn0y3J+7Zr9Eq9A9PmXY0Vaf9A/i+NEgsZd8GyPmOPC7x4OwHhwurK4UpHEXb98miUAd1sA8RYDNGkk6SUzeAptrCNekPu4xXC4NRxCVC0Dh0JhN2D4meEukpojFrPEvFPaNlnKzihouTR8siqVyWdYNU4oOQ6LD+hEwxAT2Xt40Z1Bw0jDaz6Z0U28aOYVc0FVCzOnXg3jTDpxPg91khSyJqcqAy6uMQIlAEpd2KvINsPMUGvx0KXo5S3tKJf16LaMneRi3GXWuLale72U7+3hnpQSs0tg/DW1lGSe4NUiOBoQ2Ot4l88UR3ipqQ9PGDd5ipvihJEs3aOPVag4feBwWm3iBJloIyTV1vAdGguu+cZLV0zNLj1dJw8CQJ40SAHXNu4nAkzoxsFwSMxqbw5yOF3pLWsKXLHOXFQ/g==;ReMTIu9zy0SAZSXr/jRPAA=="
+secured: "3Ca2slW3mJ4Il71mu2PJX2KeKKpr2QfBWa6f6NLYj7oztEmQEITGycfvV5qQ58l7PB5NwlhxbIuD6Dks3vZRZKcVkhn4vcBP/1oDC6YSRCwhGBxX4vc9qyXQFHxYc9QHNs3YSVIAyPDSzMex7HNp1jQxmYRs8pavI1fP+63pQ0NK6vDDE4YwMdS/GgH9lD4Ly+Zo0U6VtFgrXmry02p8ACv0OlWuzcZqyUwGBZfpFmwwTjnIeBMl+4YDJ2lhlS2sQ+NH28Fqvl0pBUN2P1Q/V1x8O9oAssRFmMWcEEyIvFLajb8H5HT6eUGgAsHTY3cniKOhePqeUsbAqEKpyeZeijHj+WmPIwPocHpBoMswKRw=;WAOwVNdgmrcBLDY2U4xMJQ=="
 ---
 
