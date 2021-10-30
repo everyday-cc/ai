@@ -40,20 +40,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "An Artificial Intelligence Strategy for NATO"
-    excerpt: "At their October 2021 meeting, Allied Defence Ministers formally adopted an Artificial Intelligence Strategy for NATO. Current and former NATO staff with direct involvement in the development and implementation of the Strategy outline its main features and objectives."
-    publishedDateTime: 2021-10-25T09:40:00Z
-    webUrl: "https://www.nato.int/docu/review/articles/2021/10/25/an-artificial-intelligence-strategy-for-nato/index.html"
-    type: article
-    provider:
-      name: NATO
-      domain: nato.int
-    quality: 39
-    images:
-      - url: "https://www.nato.int/docu/review/images/9a325a_3_ai-and-the-military_rand-corporation_tn450.jpg"
-        width: 450
-        height: 243
-        isCached: true
   - title: "Nato defence ministers agree to artificial intelligence strategy"
     excerpt: "The strategy establishes standards of responsible use of AI technologies. Defence ministers of Nato have agreed to the treaty’s first-ever strategy for artificial intelligence (AI). Nato allies have According to Nato,"
     publishedDateTime: 2021-10-25T15:13:00Z

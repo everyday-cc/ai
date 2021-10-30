@@ -135,28 +135,6 @@ related:
       name: Automation World
       domain: automationworld.com
     quality: 49
-  - title: "AI in Hardware Market New events in technology and market size forecast by 2027 | Microsoft, Apple"
-    excerpt: "The new study on the Global AI in Hardware Market 2021 2027 analyzes the crucial capabilities key infrastructures major organizations evaluates measures to attain potential success in the AI in Hardware industry Because of the in depth overview of the"
-    publishedDateTime: 2021-10-25T09:10:00Z
-    webUrl: "https://www.openpr.com/news/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-  - title: "Artificial Intelligence in Video Games Market Astonishing Growth with Top Influencing Key Players like Ubisoft, EA, Tencent, Sony, Microsoft"
-    excerpt: "The Artificial Intelligence in Video Games Market research report added by MarketInsightsReports gives a holistic view of the market from 2016 to 2027 which includes factors such as market drivers restraints opportunities and challenges The market has been studied for"
-    publishedDateTime: 2021-10-25T09:48:00Z
-    webUrl: "https://www.openpr.com/news/2439866/artificial-intelligence-in-video-games-market-astonishing"
-    ampWebUrl: "https://www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
 
 secured: "qeyiS/nDBa02/n93Mx4HpdiwUHANOmw41fELFZAfEsE5SV3m+UT59cEJuExI2OlMFzSxFaNnLsY9jkSvdKOvoM9mMVzYI7HevtnLQDviuMqZA3JIW3NwU2qXQxJGs4bRGJlvGG6je+PLP1MwRDmPti+C6KoA4cIdgl8CgIr8R6mQjzsKg387rzxfpk8GlCyOI3tfuSEokJqSeaEQL+eTCHMnBfpsMbJvBaKDz93tCfRNTGrC0hnzI66eSVMU33ld0ILgI0W3gf69Cw9xuxB1ZKVmSuYsFszjYL8LF/mdQJov7PCuMRfzKd6UZLqTpltd2qBVmJneMkOHz7LEnx675sUpU/WbifyGmBmsqHGo+fS0mO0aDEm5eQ4+Y0K/gUU8rW1xwoVFW14cuifYsd7C4YGRnZEYmPjOvjKSHQV77Ouu0XJO0zJWWztApXWzMl7IFJKnawnQ8RnUMSROBbUt1hzeAMERQGASxYjSaJeOlRBL68KeTY482ONMaRJZjmRsy30/sdB3b6sO0JdDoPqiCw==;XEWuZiOGn2o26DwrQphg8A=="
 ---

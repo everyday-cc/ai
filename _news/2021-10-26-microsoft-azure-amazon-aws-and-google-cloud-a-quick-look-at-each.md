@@ -126,17 +126,6 @@ related:
       name: Automation World
       domain: automationworld.com
     quality: 49
-  - title: "AI in Hardware Market New events in technology and market size forecast by 2027 | Microsoft, Apple"
-    excerpt: "The new study on the Global AI in Hardware Market 2021 2027 analyzes the crucial capabilities key infrastructures major organizations evaluates measures to attain potential success in the AI in Hardware industry Because of the in depth overview of the"
-    publishedDateTime: 2021-10-25T09:10:00Z
-    webUrl: "https://www.openpr.com/news/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439790/ai-in-hardware-market-new-events-in-technology-and-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
   - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
     excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
     publishedDateTime: 2021-10-29T19:05:00Z
@@ -151,17 +140,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial Intelligence in Video Games Market Astonishing Growth with Top Influencing Key Players like Ubisoft, EA, Tencent, Sony, Microsoft"
-    excerpt: "The Artificial Intelligence in Video Games Market research report added by MarketInsightsReports gives a holistic view of the market from 2016 to 2027 which includes factors such as market drivers restraints opportunities and challenges The market has been studied for"
-    publishedDateTime: 2021-10-25T09:48:00Z
-    webUrl: "https://www.openpr.com/news/2439866/artificial-intelligence-in-video-games-market-astonishing"
-    ampWebUrl: "https://www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439866/artificial-intelligence-in-video-games-market-astonishing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
 
 secured: "q70a9+UNl04fHALOeM+2v6jKpldyS7JyFcovSVxFj3TnOwaMuWIe0MEFWr/17Dg7rgx82l7mpSd1qj+btme17aJLk41FYlqbY2VZtk6wu9UU68NOazqBsIGhTxhbbKCcGbpK/TgWQCXwvugkoQY30QwSvK/eH3TxekcfejMQqxKas+6mth5eUYU7I58t8SZCcBHz6e2pPxtITSdUIT9gjfS3mTjjrNDSPQKI42BjS544FReyrPFqCLlQuExsOVEppUfe4vSn2CsJKSkLiU3RqUrbysp9rrebye58bX5O30p99i3lOAXawtCfruVaTtsutTUKeB6HUpEZmIrkyvFBkMfDE63OwFuqfyR4DwUBurdellPxqeA5WopVDJKaC5V6td3haNam2F6NKZNL2Y++NlUOu0nNuDPZdbvQz8/0Rch0hFyIs/sAL2Z6RFZDPSPVfj5be5Ty219knw+G28UcmFWJlTV9s9EGAvNqWIwIm+Q9O6mUDdQixCtYcqxf4r2gi3/tgcOD8gCCnQ5oDmWfug==;2dNHhwY42Fb9bOZQbw93nw=="
 ---

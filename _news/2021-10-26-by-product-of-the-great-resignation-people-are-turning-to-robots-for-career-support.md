@@ -57,22 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI-driven app helps teens with mental health support"
-    excerpt: "Mental health help is now a download away, as personalised artificial intelligence-driven app Vive Teens makes its debut."
-    publishedDateTime: 2021-10-25T09:07:00Z
-    webUrl: "https://www.itweb.co.za/content/Olx4zMknOyg756km"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/Olx4zMknOyg756km"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Olx4zMknOyg756km"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 57
-    images:
-      - url: "https://lh3.googleusercontent.com/T_DKo3uvMQVt_JODysTdMJj-lCUpf48W0diFUtzllTVPQ0QGTlePfKQOXxWZvBD01auze-nJvnarLnzTQELwGY8AoyYA3itqXWwg=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
   - title: "82% of People Believe Robots Can Support Their Career Better Than Humans"
     excerpt: "People are turning to robots to support their career development after the COVID-19 pandemic left them feeling lonely and disconnected from their own lives, according to a new study by Oracle and Workplace Intelligence,"
     publishedDateTime: 2021-10-26T09:00:00Z

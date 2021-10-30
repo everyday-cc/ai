@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 508
         isCached: true
-  - title: "Google's Pixel 6 processor brings AI photo features"
-    excerpt: "Google has unveiled its latest smartphone, containing the tech giant's first self-designed computer chip. The Pixel 6 contains Google's \"Tensor\" processor, which it says enables new phone features powered by artificial intelligence and machine learning."
-    publishedDateTime: 2021-10-25T09:10:00Z
-    webUrl: "https://www.linkedin.com/pulse/googles-pixel-6-processor-brings-ai-photo-features-xin-meng"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGQ2Hd54oWqhA/article-cover_image-shrink_600_2000/0/1635152125816?e=1640822400&v=beta&t=4J5KmRc6UEORcRIZlt2tCA2XxSdOxW2MIVDZEuXlZhc"
-        width: 921
-        height: 488
-        isCached: true
 
 secured: "n5GIWhmv0jBve4OQXb+XSStLUjFeOyE6IZQBryreE6Vd8cf4wt4MUCOK/293qcIwLKQDOYvdJ3rm0ho+rbx1XBApEpawDAB2Sqrf3/mvPtQ/pPxFkkLoBeQ4NmToRJ+C3fKVMd98CY0LNo0m0YORmLFNn2XW5fT571xviOI69sC83aVJNrolw4yLYeR/uC1FYbcyfUSk9AIUGkRz6m4L5EBNmn5vbOfe1plVdAgZidgh7zV/WTwWByVN34TuldjULbCSOcBJnKOoVF2BOkroXVQ2iXJg0vfmw24JwxSciKbWDmxkqNT0x/p1PiND8JfqHa5NFPKVBOnHW2OkJIFDX3Wd2YFZAH/qsiLLi2Gs0xYwiK7fJQsiyBj5gRxpXRPF9UnU3YtwIk5r+kaP74EiXWp+SX1DZ1bjCyW3j1yY31uLo7QppFbW7KNTOfN6p1nvZSospZDwEjx8YrOrws/iXHZrmtNiyPRAqxV2VBpf3IlvvkCEwsHusQX9NVJVRtSwWPAHhiuV9nx27aLEt+PV6g==;vWTDms7l2ppMvzk8MC+QEw=="
 ---

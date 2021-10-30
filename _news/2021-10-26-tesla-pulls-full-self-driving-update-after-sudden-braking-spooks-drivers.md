@@ -93,22 +93,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Pulls Full Self Driving Beta Due to Multiple Issues"
-    excerpt: "Tesla has dealt with multiple issues with its AutoPilot feature and is now having to do the same with the Full Self Driving beta, according to CEO."
-    publishedDateTime: 2021-10-25T10:25:00Z
-    webUrl: "https://www.maketecheasier.com/tesla-pulls-full-self-driving-beta/"
-    ampWebUrl: "https://www.maketecheasier.com/tesla-pulls-full-self-driving-beta/?amp"
-    cdnAmpWebUrl: "https://www-maketecheasier-com.cdn.ampproject.org/c/s/www.maketecheasier.com/tesla-pulls-full-self-driving-beta/?amp"
-    type: article
-    provider:
-      name: maketecheasier.com
-      domain: maketecheasier.com
-    quality: 74
-    images:
-      - url: "https://www.maketecheasier.com/assets/uploads/2021/10/Tesla-Full-Self-Driving-Featured.jpg"
-        width: 1350
-        height: 675
-        isCached: true
   - title: "Tesla pulls Full Self-Driving update due to 'issues'"
     excerpt: "Tesla has rolled back the latest version of its Full Self-Driving car software, from version 10.3 back to version 10.2. The Full Self-Driving (FSD) is optional software that enables a number of autonomous driving features in Tesla cars (though it does not really enabled autonomous driving without driver supervision)."
     publishedDateTime: 2021-10-25T15:00:00Z
@@ -227,22 +211,6 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/Tesla-Full-Self-Driving-Beta-Hero.jpg"
         width: 1500
         height: 742
-        isCached: true
-  - title: "Tech Bytes: Apple Macbook Pro shipping delays, Tesla self-driving issues, Clubhouse pinned links"
-    excerpt: "Apple is warning of delays when it comes to their new laptops, Tesla is pulling new software due to issues and Clubhouse is allowing users to pin links to the top of their audio rooms."
-    publishedDateTime: 2021-10-25T10:48:00Z
-    webUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-apple-macbook-pro-shipping-delays-tesla-self-driving-issues-clubhouse-pinned-links/"
-    ampWebUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-apple-macbook-pro-shipping-delays-tesla-self-driving-issues-clubhouse-pinned-links/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-apple-macbook-pro-shipping-delays-tesla-self-driving-issues-clubhouse-pinned-links/amp/"
-    type: article
-    provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 46
-    images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
-        width: 1001
-        height: 563
         isCached: true
   - title: "Tesla Rolled Back Full Self-Driving Beta Because Of 'Some Issues'"
     excerpt: "Look, it's beta software, these things happen. It's beta software controlling 4,000 pounds of car on public roads, but come on, don't be a luddite"

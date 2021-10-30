@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/alida-brings-deeper-ai-analytics-and-cxm
 webUrl: "https://customerthink.com/alida-brings-deeper-ai-analytics-and-cxm-integrations-to-fall-2021-product-release/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -22,86 +22,6 @@ images:
     width: 1280
     height: 1280
     isCached: true
-
-related:
-  - title: "Four Phases Of Analytics Evolution: From Spreadsheets To AI Workbenches"
-    excerpt: "Four phases of growth in analytics tech. getty. Many years ago, I went looking for some “desktop AI”—artificial intelligence that would allow me to tease out trends in data."
-    publishedDateTime: 2021-10-25T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/"
-    ampWebUrl: "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174516510646884d19ee044%2F0x0.jpg"
-        width: 1200
-        height: 794
-        isCached: true
-  - title: "AI Weekly: The perils of AI analytics for police body cameras"
-    excerpt: "Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next. In 2015, spurred by calls for greater police accountability, the federal ..."
-    publishedDateTime: 2021-10-29T21:00:00Z
-    webUrl: "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/"
-    ampWebUrl: "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/08/GettyImages-695011490.jpg?w=1200&strip=all"
-        width: 1200
-        height: 816
-        isCached: true
-  - title: "How AI and security guards work together using video analytics"
-    excerpt: "How AI and humans can work together is a longstanding debate. As society progresses technologically, there’s always the worry of robots taking over jobs. Self-checkout tills, automated"
-    publishedDateTime: 2021-10-25T10:59:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/ai-security-guards-work-video-analytics-co-13009-ga.1635145208.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/ai-security-guards-work-video-analytics-co-13009-ga.1635145208.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/ai-security-guards-work-video-analytics-co-13009-ga.1635145208.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 74
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/artificial-intelligence-and-machine-learning-offer-actionable-risk-intelligence-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
-  - title: "Evolution of Voice AI"
-    excerpt: "Evolution of Voice AI The progression of technology in the field of Voice AI has been exceptional! Read more to know about the current state 18312660"
-    publishedDateTime: 2021-10-25T17:01:00Z
-    webUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/evolution-of-voice-ai-18312660"
-    ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/evolution-of-voice-ai-18312660-amp.html"
-    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/evolution-of-voice-ai-18312660-amp.html"
-    type: article
-    provider:
-      name: El Clasificado
-      domain: elclasificado.com
-    quality: 57
-    images:
-      - url: "https://elclasificado.com/photos/0b/a3/0ba3d9b18f7b447881fdf64234a84156/l.jpg?image=0"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Zesty.ai Introduces Predictive Wildfire Risk Analytics Solution"
-    excerpt: "American property insurance and climate risk analytics startup Zesty.ai has unveiled a predictive wildfire risk analytics solution, Z-FIRE a data-driven model powered by AI and comprehensive fire science."
-    publishedDateTime: 2021-10-25T10:25:00Z
-    webUrl: "https://www.just-auto.com/research-reports/zesty-ai-introduces-predictive-wildfire-risk-analytics-solution/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 37
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_714285595.jpg"
-        width: 500
-        height: 334
-        isCached: true
 
 secured: "Bkam4OcMPdKetTV+w9cYRw6OPBgxSb3qIsk4cpuT/n4lHHfGOJbBcYXxCUMvBOI0CKaRTUGN1DAP8loT/3CilwXQFarnksFWC78dEB+AyRq1p4/c/5zOpLWFyRS6Pp8eQHDFFGRbR0FkwZQKmqYBeCIppVdeWA8TqGnkN5jzO5SMIjQrPwJo7CU0c2GCdSgCSxdqvPy8g03ZDZwZYb8/X7LX+Wk0BayENFa63Sot695vmJ51GMrTsdyWsMuhb9lgFyQe9gZgzwvIVLRg3tSTLEGmvFxzxDatQW3rm7RPjr6tIN7xf5xetSSuViukxC29tL4y/3kr76SOh1pLJdNLuKx/D4NjgoEEWSggQJALFuQ=;9SVJKboyVwCjrvbPk7YKUQ=="
 ---

@@ -26,81 +26,115 @@ images:
     isCached: true
 
 related:
-  - title: "Four Phases Of Analytics Evolution: From Spreadsheets To AI Workbenches"
-    excerpt: "Four phases of growth in analytics tech. getty. Many years ago, I went looking for some “desktop AI”—artificial intelligence that would allow me to tease out trends in data."
-    publishedDateTime: 2021-10-25T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/"
-    ampWebUrl: "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/"
+  - title: "The evolution of speech recognition technology"
+    excerpt: "About the Author Graeme John Cole is a contributor for Rev, creator of the world's most accurate automatic speech recognition engine, Rev.ai. Today, we all carry KITT in our pockets. We sigh when KITT answers the phone at the bank. The personality isn’t ..."
+    publishedDateTime: 2021-10-30T00:19:00Z
+    webUrl: "https://www.techradar.com/sg/news/the-evolution-of-speech-recognition-technology"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: TechRadar
+      domain: techradar.com
     quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174516510646884d19ee044%2F0x0.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/bQttsYAKmrwusDNeEaNGnC-1200-80.jpeg"
         width: 1200
-        height: 794
+        height: 675
         isCached: true
-  - title: "AI Weekly: The perils of AI analytics for police body cameras"
-    excerpt: "Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next. In 2015, spurred by calls for greater police accountability, the federal ..."
-    publishedDateTime: 2021-10-29T21:00:00Z
-    webUrl: "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/"
-    ampWebUrl: "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/amp/"
+  - title: "Airlines turn to facial recognition technology ahead of holiday rush"
+    excerpt: "The travel industry is gearing up for what could be its since the coronavirus pandemic began, and at least one U.S. airline is aiming to make things easier and faster."
+    publishedDateTime: 2021-10-27T12:01:00Z
+    webUrl: "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460"
+    ampWebUrl: "https://goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/08/GettyImages-695011490.jpg?w=1200&strip=all"
-        width: 1200
-        height: 816
-        isCached: true
-  - title: "How AI and security guards work together using video analytics"
-    excerpt: "How AI and humans can work together is a longstanding debate. As society progresses technologically, there’s always the worry of robots taking over jobs. Self-checkout tills, automated"
-    publishedDateTime: 2021-10-25T10:59:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/ai-security-guards-work-video-analytics-co-13009-ga.1635145208.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/ai-security-guards-work-video-analytics-co-13009-ga.1635145208.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/ai-security-guards-work-video-analytics-co-13009-ga.1635145208.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 74
     images:
-      - url: "https://www.sourcesecurity.com/img/news/612/artificial-intelligence-and-machine-learning-offer-actionable-risk-intelligence-920x533.jpg"
-        width: 612
-        height: 355
+      - url: "https://s.abcnews.com/images/GMA/delta-airlines-biometric-boarding-01-ht-llr-211026_1635280415660_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Zesty.ai Introduces Predictive Wildfire Risk Analytics Solution"
-    excerpt: "American property insurance and climate risk analytics startup Zesty.ai has unveiled a predictive wildfire risk analytics solution, Z-FIRE a data-driven model powered by AI and comprehensive fire science."
-    publishedDateTime: 2021-10-25T10:25:00Z
-    webUrl: "https://www.just-auto.com/research-reports/zesty-ai-introduces-predictive-wildfire-risk-analytics-solution/"
+  - title: "Speechmatics pushes forward recognition of accented English"
+    excerpt: "Speech recognition has gone from convenient to crucial over the last few years as smart speakers and driving assist modes have taken off — but not everyone’s voice is recognized equally well. Speechmatics claims to have the most inclusive and accurate model out there,"
+    publishedDateTime: 2021-10-26T19:17:00Z
+    webUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/"
+    ampWebUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 37
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_714285595.jpg"
-        width: 500
-        height: 334
+      - url: "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-496729620.jpg?w=1024"
+        width: 1024
+        height: 767
         isCached: true
-  - title: "Alida Brings Deeper AI, Analytics, and CXM Integrations to Fall 2021 Product Release"
-    excerpt: "Alida, a visionary leader in Total Experience Management (TXM), today delivered its Fall 2021 product release. Alida brings new capabilities in customer experience (CX), employee experience (EX), product experience (PX),"
-    publishedDateTime: 2021-10-26T17:28:00Z
-    webUrl: "https://customerthink.com/alida-brings-deeper-ai-analytics-and-cxm-integrations-to-fall-2021-product-release/"
+  - title: "Delta is introducing hands-free facial recognition technology to quicken the security process ahead of the busy holiday season — see how it works"
+    excerpt: "Source: Delta Air Lines In November, Delta will roll out a one-of-a-kind facial recognition technology dedicated to domestic travel out of its Atlanta hub, building upon its biometric systems already in place for international passengers. Source ..."
+    publishedDateTime: 2021-10-28T18:56:00Z
+    webUrl: "https://www.businessinsider.com/photos-show-delta-air-lines-new-facial-recognition-technology-2021-10"
+    ampWebUrl: "https://www.businessinsider.com/photos-show-delta-air-lines-new-facial-recognition-technology-2021-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/photos-show-delta-air-lines-new-facial-recognition-technology-2021-10?amp"
     type: article
     provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 30
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
-        width: 1280
-        height: 1280
+      - url: "https://i.insider.com/617970c089b91c00185a8daa?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Patient Privacy Concerns Emerge Over Facial Recognition Tech"
+    excerpt: "Surveyed patients expressed concerns over data governance, usage, and patient privacy relating to facial recognition technology being used in medical research."
+    publishedDateTime: 2021-10-25T17:00:00Z
+    webUrl: "https://healthitsecurity.com/news/patient-privacy-concerns-emerge-over-facial-recognition-tech"
+    ampWebUrl: "https://healthitsecurity.com/news/amp/patient-privacy-concerns-emerge-over-facial-recognition-tech"
+    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/patient-privacy-concerns-emerge-over-facial-recognition-tech"
+    type: article
+    provider:
+      name: IT Security
+      domain: healthitsecurity.com
+    quality: 59
+    images:
+      - url: "https://healthitsecurity.com/images/sized/GettyImages-991470640-39a26234983c4eca9381530cb872a66d.jpg"
+        width: 480
+        height: 278
+        isCached: true
+  - title: "Speech And Voice Recognition Technologies Market is Booming Worldwide | Nuance, IBM, Sensory"
+    excerpt: "Advance Market Analytics published a new research publication on Speech And Voice Recognition Technologies Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving"
+    publishedDateTime: 2021-10-27T11:13:00Z
+    webUrl: "https://www.openpr.com/news/2444172/speech-and-voice-recognition-technologies-market-is-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2444172/speech-and-voice-recognition-technologies-market-is-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2444172/speech-and-voice-recognition-technologies-market-is-booming"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua27415428_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "New tech allows face-recognition payment"
+    excerpt: "A biometrics tech firm located in Netherlands called VisionLabs disclosed a payment machine that lets clients pay for products with a glance only.<br"
+    publishedDateTime: 2021-10-25T12:41:00Z
+    webUrl: "https://menafn.com/1103038857/New-tech-allows-face-recognition-payment"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_77_menafn.jpg"
+        width: 512
+        height: 341
         isCached: true
 
 secured: "7YCsjThKH+qzKCJciktU9q9pLdt55z5kuho9H8++LhwnmoTfUnT+tvIXtuBHc/WXcc7VZv7ndqJyONiqgSeegBGjmsZg0yvg5yJyDYdwuOy+Sa+doJbJhPu+SbvkseVQwvQLUZDVwx8w09sSpXHM9s6QVvjO7MYZnaHtopzPx48eF1hk+k/pNHwoL41nmQIQXTpLm/JH1sikt1TSpcnDZ9uTdR9feIYJVkmjayrABeHtS2E14Z/Rk2JgGBfilndTECiCOkS8tcq8I10IYaGR3rmCnIn/h/H9EpcH7shSKzca56ozdt1uawE2lLWITXRvsjijrF9SMNkOdJ5UheBU//q7UDnSUtdoi7SGWI/3RvffpMP7Dw0abMU01IYZIxFRSFNUm/eCQ8uesB4zCMPpJ8cnSdemXxdsT/+F0WNLRBQBWAm6KmMd70QuUCFAp3ewUhXf6++HZcrdWqMaU1k1cQuvc6tY94C0KUKDuQuawStyqmY7+vuJIuEravJz90fKqxhsCqL1I5HlVg9LaVZ8yg==;L3PrJM/fQGlU+J7AifDu4A=="

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-20-looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with.md",
+      "title": "Looking For A Career In Robotics: Here Are The Online Resources To Start With",
+      "excerpt": "In this article, we introduce you to the top five online courses on robotics that will come in handy when it comes to specialisation.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with/",
+      "originalUrl": "https://analyticsindiamag.com/looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/10/Looking-For-A-Career-In-Robotics-Here-Are-The-Online-Resources-To-Start-With-A-Bang.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-4-top-surgical-robotics-stocks-to-watch-this-week.md",
       "title": "4 Top Surgical Robotics Stocks To Watch This Week",
       "excerpt": "Do You Have These Robotics Stocks On Your Watchlist Right Now? The health care industry has been evolving at an exponential pace due to the advancement of technology. Well, surgical robotics has been a big part of this evolution.",
@@ -1293,49 +1336,6 @@
       "provider": {
         "name": "SourceSecurity",
         "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-how-ai-is-being-used-in-robotics.md",
-      "title": "How AI is Being Used in Robotics",
-      "excerpt": "Artificial intelligence (AI) is driving the robotics market into various areas, including mobile robots on the factory floor, robots that can do a large number of tasks rather than being specialized on one, and robots that can stay in control of inventory ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-robotics/",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg",
-          "width": 2560,
-          "height": 1493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-10T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
         "images": null,
         "publishers": null,
         "authors": null

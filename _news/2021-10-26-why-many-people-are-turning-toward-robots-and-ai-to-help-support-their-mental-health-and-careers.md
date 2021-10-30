@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://x-default-stgec.uplynk.com/ausw/slices/596/45bf940c346f431c9be273b8942ab6eb/59640f3b51cd412a9b3c3b83a2107ec5/poster_da477495870d4fc9a826480e882ccebe.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "AI-driven app helps teens with mental health support"
-    excerpt: "Mental health help is now a download away, as personalised artificial intelligence-driven app Vive Teens makes its debut."
-    publishedDateTime: 2021-10-25T09:07:00Z
-    webUrl: "https://www.itweb.co.za/content/Olx4zMknOyg756km"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/Olx4zMknOyg756km"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Olx4zMknOyg756km"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 57
-    images:
-      - url: "https://lh3.googleusercontent.com/T_DKo3uvMQVt_JODysTdMJj-lCUpf48W0diFUtzllTVPQ0QGTlePfKQOXxWZvBD01auze-nJvnarLnzTQELwGY8AoyYA3itqXWwg=w816-h428"
-        width: 761
-        height: 428
         isCached: true
   - title: "82% of People Believe Robots Can Support Their Career Better Than Humans"
     excerpt: "People are turning to robots to support their career development after the COVID-19 pandemic left them feeling lonely and disconnected from their own lives, according to a new study by Oracle and Workplace Intelligence,"
