@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "ActionIQinc"
   url: "https://twitter.com/ActionIQinc"
-  followers: 1215
+  followers: 1216
 
 locations:
   - Mountain View, CA
