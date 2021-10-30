@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla pulls latest Full Self-Driving beta less than a day after release"
-    excerpt: "Tesla boss Elon Musk said on Sunday the automaker had pulled the latest version of its Full Self-Driving feature after discovering a number of issues with it."
-    publishedDateTime: 2021-10-25T11:40:00Z
-    webUrl: "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/tesla-fsd-demo.jpg"
-        width: 1135
-        height: 682
-        isCached: true
   - title: "Tesla starts rolling out Full Self-Driving Beta 10.3 after a false start"
     excerpt: "Tesla has restarted the rollout of its Full Self-Driving Beta 10.3 update after a false start with a lot of bugs had them revert to the previous version. Tesla FSD Beta 10.3 was supposed to come Friday,"
     publishedDateTime: 2021-10-25T13:25:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "NTSB head criticizes Tesla's self-driving features, calls them 'misleading'"
-    excerpt: "NTSB Chairwoman Jennifer Homendy called the company's use of \"Full Self-Driving\" for its latest driver-assist systems \"misleading.\""
-    publishedDateTime: 2021-10-26T16:36:00Z
-    webUrl: "https://www.cnbc.com/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106905792-1625177109302-Tesla-fire-PA1.jpg?v=1625234854"
-        width: 4032
-        height: 3024
         isCached: true
   - title: "Elon Musk announces Tesla Full Self-Driving Beta 10.4 update as rollout slows down"
     excerpt: "Elon Musk has announced the upcoming release of Tesla’s Full Self-Driving Beta 10.4 update as Tesla slows down the rollout. Earlier this week, Tesla started rolling out Full Self-Driving Beta 10.3. The update came after a false start last weekend when Tesla pushed the update with some problems and ended up reverting back to 10."
@@ -159,22 +127,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/10/25/14/49611365-0-image-a-8_1635167555543.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Tesla withdraws self-driving beta over software issues"
-    excerpt: "Tesla has withdrawn its latest \"full self-driving\" car software update after drivers complained of problems. Some drivers reported intermittent issues such as safety alerts sounding, despite no danger being present."
-    publishedDateTime: 2021-10-25T12:24:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-59037344?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-59037344.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-59037344.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/EF25/production/_118712216_gettyimages-910879198.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Gov Official Tears Apart Tesla’s “Full Self-Driving” Feature"
     excerpt: "It’s misleading.” Full Self-Driving is an optional $10,000 add-on to Tesla’s Autopilot suite. The feature has repeatedly come under scrutiny, especially once Tesla started testing a beta version of the software with the help of a small subset of drivers on public roads in October 2020."

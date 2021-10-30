@@ -119,20 +119,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Facebook Papers may be the biggest crisis in the company's history"
-    excerpt: "Facebook has confronted whistleblowers, PR firestorms and Congressional inquiries in recent years. But now it faces a combination of all three at once in what could be the most intense and wide-ranging crisis in the company's 17-year history."
-    publishedDateTime: 2021-10-25T13:00:00Z
-    webUrl: "https://www.kitv.com/story/45039921/the-facebook-papers-may-be-the-biggest-crisis-in-the-companys-history"
-    type: article
-    provider:
-      name: KITV
-      domain: kitv.com
-    quality: 24
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/21596801_G.jpg?lastEditedDate=1635148751000"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Facebook comes under scrutiny in India"
     excerpt: "Facebook has come under intense scrutiny for being unable to reign in hate speech and fake news in India, as reported in the 'Facebook Papers'."
     publishedDateTime: 2021-10-26T03:38:00Z

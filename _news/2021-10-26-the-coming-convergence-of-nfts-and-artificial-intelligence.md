@@ -7,7 +7,7 @@ originalUrl: "https://www.coindesk.com/business/2021/10/25/the-coming-convergenc
 webUrl: "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to create music for NFTs (guest column)"
-    excerpt: "This is a guest post by Rory Kenny, CEO and co-founder of AI-powered music creation platform Loudly, who we have previously featured in a Startup Profile. Loudly’s platform allows AI music to be quickly generated and iterated – and Rory explains below how this kind of AI-generated music could be helpful to creators of musical"
-    publishedDateTime: 2021-10-29T12:52:00Z
-    webUrl: "https://musically.com/2021/10/29/using-ai-to-create-music-for-nfts-guest-column/"
+  - title: "The Data Conversation: Communicators As AI Champions"
+    excerpt: "We can better explain AI to everyone by focusing more on the data, its transformation and its outputs and less on models."
+    publishedDateTime: 2021-10-26T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/amp/"
     type: article
     provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://musically.com/wp-content/uploads/2021/10/ST_Energy-White1.jpg"
-        width: 1608
-        height: 1084
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vonage Adds Conversational Commerce with Acquisition of Jumper.ai"
+    excerpt: "This purchase adds to Vonage’s acquisition of conversational AI startup, Over.ai it made in August of 2019. Vonage entered the cloud API market when it acquired Nexmo in 2016. It has been a leader and visionary in recognizing the future of cloud ..."
+    publishedDateTime: 2021-10-25T14:55:00Z
+    webUrl: "https://www.eweek.com/networking/vonage-adds-conversational-commerce-with-acquisition-of-jumper-ai/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/wires-technology.jpg"
+        width: 1920
+        height: 1277
         isCached: true
 
 secured: "w1KsaYbIKpRwOOy1egWv1c5O5TgqVN1uNmiQ+zxh8FCxMznaIx78A6K+lDKPgmTFN4lzAHXuSw4XhQJ7EibTOagZqlZK1OFYVaKwNKMwqeQNU8YhDk21u3r9wowca6N6aAQPg88LT88hgY+Oik99U+wWPt5bf5soVYD6YVlKbxBUwATNt7kvgQf2ocVFbuKllbE0J8VaIa7Fu0kNt/LVFdvlMP/9wEnPdiQzqYuXbLOKgF0U4Nzb2kRZWxjNqf84LIqufXXcnqyWW9ffOtMjnEDsMCIbVoqlCAwcWBe4+2t2oKWFTwhHqYXUSzkItVKQbEIyPjm2b66uD+b3AKY0Xk4IM3kjdO5e0JmwDIdEqE0gh2t0Efek01AnrQLvFwtl4vZK7kQxf+IIXRqhpQjD7ZB8Ik7zLU1SlUBaa0VVXF7/NOhJpGMzCGkspMRO3XJjUsltNLlVMevR1jxJ19sVIg33VmoMCmwAL6DgO23YFdcaigtLO6CfmbowTbbu7Pc75vWjEXdb/ubHJ/7Pc7cMtw==;0TgAVf29ioNzXa9OYNATDQ=="

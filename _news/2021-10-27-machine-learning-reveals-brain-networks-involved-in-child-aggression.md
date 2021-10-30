@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-10-machine-reveals-brain-network
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-machine-reveals-brain-networks-involved.amp"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

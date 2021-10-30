@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html"
 type: article
 quality: 84
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://www.adn.com/resizer//4bA7mMGJo8BxsB-NTS-5CcpcLfM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/GEGTA2GOZZGEHKDWSRXE4OK7VM.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The Facebook Papers may be the biggest crisis in the company's history"
-    excerpt: "Facebook has confronted whistleblowers, PR firestorms and Congressional inquiries in recent years. But now it faces a combination of all three at once in what could be the most intense and wide-ranging crisis in the company's 17-year history."
-    publishedDateTime: 2021-10-25T13:00:00Z
-    webUrl: "https://www.kitv.com/story/45039921/the-facebook-papers-may-be-the-biggest-crisis-in-the-companys-history"
-    type: article
-    provider:
-      name: KITV
-      domain: kitv.com
-    quality: 24
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/21596801_G.jpg?lastEditedDate=1635148751000"
-        width: 500
-        height: 333
         isCached: true
   - title: "China's ByteDance is Disrupting Facebook"
     excerpt: "History will show Silicon Valley will have failed because it used algorithms that prioritized profits over people. ByteDance has superior AI to Facebook and a better understanding of young consumers."

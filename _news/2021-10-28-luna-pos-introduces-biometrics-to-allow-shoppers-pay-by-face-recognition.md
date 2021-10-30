@@ -49,15 +49,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "authID.ai Challenges the Industry to Replace One-Time Passwords with Facial Biometric Authentication Solution"
-    excerpt: "Following its mission to eliminate one-time passwords and account fraud, identity authentication as-a-service provider authID.ai [Nasdaq: AUID] (formerly Ipsidy), today announced its biometric authentication solution,"
-    publishedDateTime: 2021-10-25T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-authidai-challenges-industry-replace-one-time-passwords-with-/2021/10/25/9476225.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "mq2iptWXzVASJ9ilUQG3fjbrV53y2YBLA7ndBFa1CSkwhymS5VkxwZQqAzXE3hrbt2/VlNtWu4hnv17SRQgDb6b5rrxoh9OVnELP41zMbzOBbWY1WGUBzv52+xF7CB8oxwd84rfKsmFjLx5YXfPvh9tldxQTTUE2DglYaepKas0sm1FglktXpTPW+pdYCZvG5jn8eyd7DgF3TPB74wdZ4AhisIzFxupD8+Qv85eZtLcAFKvGK1JkeA2gnDiSwR5cB9sacIdQsPz+aYSjazi6m9Plg4L+LKTqNB+zVA1UstJvfijIHZC4V+Jew0wlR4GqLbMgueYwrYBNWwVZCmiT1Borhci/vPWCTj3zh5DvJW0=;oKMVi37Djc0E4kEtJQHaVA=="
 ---

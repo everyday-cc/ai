@@ -106,6 +106,20 @@ related:
         width: 921
         height: 432
         isCached: true
+  - title: "Women in Cloud, Microsoft, Coursera and IAMCP Partner to Provide Azure Training and Certification"
+    excerpt: "Women in Cloud (WiC) is excited to announce a collaboration with Microsoft and Coursera to distribute Azure Training and Certification Scholarships to women in India, through their #empowHERfamily initiative that brings together resources across corporate,"
+    publishedDateTime: 2021-10-30T04:52:00Z
+    webUrl: "https://menafn.com/1103074549/Women-in-Cloud-Microsoft-Coursera-and-IAMCP-Partner-to-Provide-Azure-Training-and-Certification"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
     excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
     publishedDateTime: 2021-10-27T00:17:00Z

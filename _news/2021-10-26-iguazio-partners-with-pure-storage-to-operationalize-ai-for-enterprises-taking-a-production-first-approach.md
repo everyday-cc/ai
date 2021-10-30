@@ -53,6 +53,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "The Top Ways to Use AI in Education"
+    excerpt: "AI in the education market was predicted to rise to $10.38 billion by 2026 (by 45.12% annually). AI EdTech startups are attracting millions of dollars in funding and millions of users. AI use cases in learning demonstrate such kinds of applications as AI in training,"
+    publishedDateTime: 2021-10-28T03:21:00Z
+    webUrl: "https://www.techopedia.com/the-top-ways-to-use-ai-in-education/2/34589"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 54
+    images:
+      - url: "https://images.techopedia.com/images/uploads/ai-in-education.jpg"
+        width: 902
+        height: 600
+        isCached: true
 
 secured: "GeL6ePcQcWA+QrYCLwVXBqQhGnFzXMxC4yodSc+I/HWwyv2t9M+L0U6NeXYk5pKV01JUnIQ/S9ngQCV+oFJudl5NA4JYson7oKzJX2VjK47GVD+d+qtW68ZEZ1xYhm/KIQ232MuvSwUeYUJJ+djrSwm75pY79DycQ+Fc/ScVl3bRIDWoLh13tlgnhLyKeA1JWNhgefKeYEohJJLpQEhKyRyHkT8ulxM4hBffRibC663FhAHKrKEb577535J9EArINzyvedhhW4qYIGRESxcU1cVmUEv6sRC73uYPjwn3yPnKxj81ArT9NEv7DYq6FMYKUp1zxSi11oyDCW+FUi3KqIFpoBdk28xWj754RpwGKo4=;CYsiMzI6H0hu4v3VFg+uCQ=="
 ---

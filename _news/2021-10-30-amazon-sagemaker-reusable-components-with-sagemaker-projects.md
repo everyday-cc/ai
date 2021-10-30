@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Enhance your machine learning development by using a modular architecture with Amazon SageMaker projects"
-excerpt: "One of the main challenges in a machine learning (ML) project implementation is the variety and high number of development artifacts and tools used. This includes code in notebooks, modules for data processing and transformation, environment configuration, inference pipeline, and orchestration code."
-publishedDateTime: 2021-10-27T21:49:06Z
-originalUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-your-machine-learning-development-by-using-a-modular-architecture-with-amazon-sagemaker-projects/"
-webUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-your-machine-learning-development-by-using-a-modular-architecture-with-amazon-sagemaker-projects/"
+title: "Amazon SageMaker reusable components with SageMaker Projects"
+excerpt: "This solution shows how to deliver reusable and self-contained custom components to Amazon SageMaker environment using AWS Service Catalog, AWS CloudFormation, SageMaker Projects and SageMaker"
+publishedDateTime: 2021-10-30T04:26:00Z
+originalUrl: "https://github.com/aws-samples/amazon-sagemaker-reusable-components"
+webUrl: "https://github.com/aws-samples/amazon-sagemaker-reusable-components"
 type: article
-quality: 89
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: AWS
-  domain: aws.amazon.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GitHub
+  domain: github.com
 
 topics:
-  - AI
   - AWS AI
-  - Machine Learning
+  - AI
 
 images:
-  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/22/ML6147-image011-1.jpg"
-    width: 500
-    height: 540
+  - url: "https://opengraph.githubassets.com/7b6adb010f734d21d175470eeb8fed463a3f383a3f7407c5d7540ebd428ff6af/aws-samples/amazon-sagemaker-reusable-components"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -72,6 +67,20 @@ related:
         width: 1260
         height: 532
         isCached: true
+  - title: "Enhance your machine learning development by using a modular architecture with Amazon SageMaker projects"
+    excerpt: "One of the main challenges in a machine learning (ML) project implementation is the variety and high number of development artifacts and tools used. This includes code in notebooks, modules for data processing and transformation, environment configuration, inference pipeline, and orchestration code."
+    publishedDateTime: 2021-10-27T21:49:06Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-your-machine-learning-development-by-using-a-modular-architecture-with-amazon-sagemaker-projects/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/22/ML6147-image011-1.jpg"
+        width: 500
+        height: 540
+        isCached: true
   - title: "Onboard OneLogin SSO users to Amazon SageMaker Studio"
     excerpt: "Amazon SageMaker is a fully managed service that provides every machine learning (ML) developer and data scientist the ability to build, train, and deploy ML models at scale. Amazon SageMaker Studio is a web-based, integrated development environment (IDE) for ML. Amazon SageMaker Studio provides all"
     publishedDateTime: 2021-10-27T20:39:37Z
@@ -100,21 +109,7 @@ related:
         width: 350
         height: 450
         isCached: true
-  - title: "Amazon SageMaker reusable components with SageMaker Projects"
-    excerpt: "This solution shows how to deliver reusable and self-contained custom components to Amazon SageMaker environment using AWS Service Catalog, AWS CloudFormation, SageMaker Projects and SageMaker"
-    publishedDateTime: 2021-10-30T04:26:00Z
-    webUrl: "https://github.com/aws-samples/amazon-sagemaker-reusable-components"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 39
-    images:
-      - url: "https://opengraph.githubassets.com/7b6adb010f734d21d175470eeb8fed463a3f383a3f7407c5d7540ebd428ff6af/aws-samples/amazon-sagemaker-reusable-components"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "5/gbpIz8M7qNy7UhkBY4kuRwjkLvo5kHJgjDiMxlga7TX2KlOVDPRiAbEIDCko6ldc2GRZwe/vZJHmMWcP4uZNzNe/pD3Hi9OSJr4OLRs61da2EOA1OlGdevD8DSrIi7R5csX7QI0TbqxqAzl9PS+xEtNZnUtSGYHryDmBf1AKv/xMZrAmRrI/+VppET3buvRcrb3ysszsRe2nkxsEMTIJr3NRTtJ+jJhsSd2vdf8Tc86g9dFYIy9Kou5NjX1YthzmTRzwATWxQZ9AvDVXi1w17WIGgJVrGtN8L7bZ84teH3m3RMeBwOOMpe3gDJ4J8yVaorFYFgGIEQQIwqLk1ZjT7cTM58TZSVAzJsTTSQu6I=;qDt3T2RW3nhd7iP8T/uQww=="
+secured: "cBIVAhRrZn/kkG/qPtYa9xTyB1WYSZ9Shbihh2blWjsCLLwiHykaUjcsh1V0EMrp3+7g5Ovfk8AjHY+2Agej4MuuKSenF14p334P9p9/oZ9urjGlOCTlJB5Gcm3QRkcwqDiI2V2PGxfq65o14wKt7UBfSh1Ix+6aFd2dVbIXLrQSjG7X+NQl5FQy+owUwVfvrTzIhmAmb6Y+0qOrhjuhoV9Y/YysN0dQsQgV6eGi/xBu7jOc37wD8BMknzuakLWbS/wxORNTfKDCyGnsrp6GrZsJKpNPPNmpRcOdVHu/9KRMRAY1qJy058AKO1Z4juIAayDJ9n1A5Ef/CEv4B/xTDN7xy7PHus3654NWLMX0o7I=;4l896Dycbm4rVE/sdWcx6Q=="
 ---
 

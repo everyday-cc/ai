@@ -90,20 +90,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Artificial Intelligence in Construction Market 2021: Share, Growth, Evolving Technology, Trends and Industry Analysis 2024"
-    excerpt: "Artificial Intelligence in Construction Market” report explore recent market growths and competitive strategies, such"
-    publishedDateTime: 2021-10-25T11:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2021-share-growth-evolving-technology-trends-and-industry-analysis-2024-2021-10-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "P39QnnMYUJNQM1cJINdt4X8n4J/Rnx34zkJfdwLHRr/SKnjC3CDO7UgJs0Zn9HwzLD2ftflR2dEI2tPlfx1MftTQ/CKEPJ+B8fXorkLjajeM0yVLFU27xEn4qdcaISgCqFZZJ9b4xjT7/RHAi7620MXmI+bn2GsB69R8Vezt9RjsRxOj+b4KCuDODrhJD56Vlxq159aFV2stlRE5OnEjgKXUM7h2sC9JXKC2XgFehB3PKbEQfHbGkINsZG5hd85/zevVPINXhM+qRLgWU3VRRErIrf6pI/QJMBds/I9Ja/kZRVZ0JjQIPQ5RO9HsfJ60u9weNtOv5SA5AFuwq11c0CqyM3nX5YcH8uQUjDVaycU=;gw+jn99eVHL7889j3SMq8A=="
 ---

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Google Cloud, Microsoft Azure revenues drive strong growth to tech giants' earnings"
-excerpt: "Microsoft and Google have revealed robust quarterly earnings results, with Azure and Google Cloud leading the way ... the platform's \"leadership in real-time data analytics and AI.\" Google Cloud comprises both Google Cloud Platform (GCP) and Workspace ..."
-publishedDateTime: 2021-10-27T20:57:00Z
-originalUrl: "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
-webUrl: "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
-ampWebUrl: "https://www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
-cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
+title: "Women in Cloud, Microsoft, Coursera and IAMCP Partner to Provide Azure Training and Certification"
+excerpt: "Women in Cloud (WiC) is excited to announce a collaboration with Microsoft and Coursera to distribute Azure Training and Certification Scholarships to women in India, through their #empowHERfamily initiative that brings together resources across corporate,"
+publishedDateTime: 2021-10-30T04:52:00Z
+originalUrl: "https://menafn.com/1103074549/Women-in-Cloud-Microsoft-Coursera-and-IAMCP-Partner-to-Provide-Azure-Training-and-Certification"
+webUrl: "https://menafn.com/1103074549/Women-in-Cloud-Microsoft-Coursera-and-IAMCP-Partner-to-Provide-Azure-Training-and-Certification"
 type: article
-quality: 98
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: TechSpot
-  domain: techspot.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-27-image-21.jpg"
-    width: 1600
-    height: 911
+  - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+    width: 300
+    height: 250
     isCached: true
 
 related:
@@ -62,6 +56,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
         width: 970
         height: 545
+        isCached: true
+  - title: "Google Cloud, Microsoft Azure revenues drive strong growth to tech giants' earnings"
+    excerpt: "Microsoft and Google have revealed robust quarterly earnings results, with Azure and Google Cloud leading the way ... the platform's \"leadership in real-time data analytics and AI.\" Google Cloud comprises both Google Cloud Platform (GCP) and Workspace ..."
+    publishedDateTime: 2021-10-27T20:57:00Z
+    webUrl: "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 98
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-27-image-21.jpg"
+        width: 1600
+        height: 911
         isCached: true
   - title: "LivePerson acquires VoiceBase and Tenfold for its conversational AI platform"
     excerpt: "LivePerson has acquired two startups, VoiceBase and Tenfold, to bolster its expanding conversational AI platform."
@@ -102,20 +112,6 @@ related:
         width: 921
         height: 432
         isCached: true
-  - title: "Women in Cloud, Microsoft, Coursera and IAMCP Partner to Provide Azure Training and Certification"
-    excerpt: "Women in Cloud (WiC) is excited to announce a collaboration with Microsoft and Coursera to distribute Azure Training and Certification Scholarships to women in India, through their #empowHERfamily initiative that brings together resources across corporate,"
-    publishedDateTime: 2021-10-30T04:52:00Z
-    webUrl: "https://menafn.com/1103074549/Women-in-Cloud-Microsoft-Coursera-and-IAMCP-Partner-to-Provide-Azure-Training-and-Certification"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
     excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
     publishedDateTime: 2021-10-27T00:17:00Z
@@ -154,6 +150,6 @@ related:
         height: 720
         isCached: true
 
-secured: "T0VC4kZIkVhwn2dB4KSSayCN62izN1ZsXP9msKj13d0zV/fWAbNyKEjJJxNc3sccvB8EC4TXx4iBfmydfeOezM4LYYj/ilXO6OpDMxwizq3X7bBelCm4rU6uzRfb9TSHzkHOB9ReWEjeUaudNTHwic3KDmbi7EYMrQ/SMyqEUOpQTORZi894sUyMjy9UXM/jYxX94D5YQwf6+PRtazFqXdbZIEPmBL0I9IfCGA7kgxx2wDCt+WymKyPELrbs4hC8gumU3HGeHAjpqvb4S4LcLmD3EOrHtOjtYyUxuNJuqRGzRXStYUjXZ/K1U1+xZoKB51aOdzKrF1VrMwMckSSSlr86U5FZjUQ0pITu6zw2AnJ5h28iodA0rYFVh5eVFSHRBTioRLw/9b0tXDi0OsC8RwpalJewUF+cDgVnCV1m+4xhXBSWnVqkguQtn61JwolCP0OL7XaIRUYsqAJ09kKg3OrTZJpT8NOinRF/x/qkiRZaQZs5FJjHwXNvy9eyaErbLRd1t0XA/ieEp9F76SuBLg==;8L3D/zYTZKCmCMK5Sxg2Qw=="
+secured: "UzQVRPpgjbNV4Uuu8QhmSJMyIPxSpqoN+uXhMaiwANFhzqBbiKuQtfscOmXrwYrCzZ+RgMn4BROu+9r1xbJafgOfqPYpQ7K4mceVRbKMVLLFgE/rGavEYbsj9Xj6bCd0+VSHFrHvmVDroTwgo0ilw2mUaB3b5HzEkTiyDtsVk3iu+NEIjfCIgI6jdoZKcevdFD5qkafPKKgYNKX/+CRTp0YI3trtcODtqPSR3B629w8vcFaLi2D1FVMtx4/WzaCO/T+5Opwa71LniinCAhfe+dJjIsEoV9OS5ErGHuUeyRmWrQS9ow0IFIWSs4a5414Y6VTXQxMzz3CXme/pKXvS6LZAF1NtxIjvd69K1j4THto=;UcVLNWD++wY4ca5DErvOXQ=="
 ---
 

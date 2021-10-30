@@ -100,6 +100,20 @@ related:
         width: 350
         height: 450
         isCached: true
+  - title: "Amazon SageMaker reusable components with SageMaker Projects"
+    excerpt: "This solution shows how to deliver reusable and self-contained custom components to Amazon SageMaker environment using AWS Service Catalog, AWS CloudFormation, SageMaker Projects and SageMaker"
+    publishedDateTime: 2021-10-30T04:26:00Z
+    webUrl: "https://github.com/aws-samples/amazon-sagemaker-reusable-components"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
+    images:
+      - url: "https://opengraph.githubassets.com/7b6adb010f734d21d175470eeb8fed463a3f383a3f7407c5d7540ebd428ff6af/aws-samples/amazon-sagemaker-reusable-components"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "R7UtrL3Vj1vR54petUsRLFneM6wiFA66W9UprUCnvZcWWOK4vJkioEvxLm4dQu2hxFJETxv5z7Q8vAun8rPeb07DYElct8mR+iGjn6Lrc9aQLDaCbRG8cz2UCZTusvAQ6vTpJzs2U36Xozxf34IWtZivm5/QeSoaKkMRDd/6DMI3PjCOyJRR+hBsV4Tbu7stn2TAKe/OxwA0+fH7J2jxl8Z+hXOmj4LgJMa6NE00lT7akkKR1IGNya+HSYI6njxiU8K1ouJljINnDxHcfriP9Dtg4As64IKZ/N14NmHRCvHX1GlHrxxW2lA6NbtKQo6mXgNYk6fD9IWGR+T7hd3PkEhv7yxJXnDMENi1BokSGWk=;4zEjUNYx9BQTsQ81e2tQLg=="
 ---

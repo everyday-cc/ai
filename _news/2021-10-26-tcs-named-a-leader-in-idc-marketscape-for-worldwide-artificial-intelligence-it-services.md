@@ -28,17 +28,17 @@ images:
 related:
   - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets™"
     excerpt: "CHICAGO, Oct. 29, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Computer Vision ..."
-    publishedDateTime: 2021-10-29T13:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027--exclusive-report-by-marketsandmarkets-301411884.html"
+    publishedDateTime: 2021-10-29T16:12:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027---exclusive-report/article_76e6767d-827a-55ea-b152-f3bf1df17c14.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
+        width: 669
+        height: 229
         isCached: true
   - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarketstm"
     excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Computer Vision),"
@@ -63,15 +63,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 13
-  - title: "TCS Named a Leader in IDC MarketScape for Worldwide Artificial Intelligence IT Services"
-    excerpt: "Report Cites Tata Consultancy Services’ Comprehensive End-to-End Life Cycle of AI IT Services Portfolio and Strategies on Delivery Model, Innovation and R&D, and Employee Retention, as Key Strengths NEW YORK | MUMBAI,"
-    publishedDateTime: 2021-10-25T11:13:00Z
-    webUrl: "https://www.tcs.com/tcs-leader-idc-marketscape-worldwide-artificial-intelligence-it-services"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 9
 
 secured: "O9xcslPdm3laz1H+WMOMK9IGLUPQyCChl71Vp+PU0WfCuhvrB0QV04Q4C89j15c1kUZcLx5sJI8bfVZhp/DPX880fB5/WzCmyEqakqmnG2meCmMo9AHT3BuLi93FsByxTjrU4E8YilKrRFla76FhkPFvNcSHSLa/oAcNO5LTKPMLwS0LbKpxQ0zZ+ZxmJE2hY2ijIry2KGxzQwnwxZ4lPaYODMvWslZXgtE/IrPML3hwlwViww4fzsBzmSKquqCzAcMzqa2RShR/MguNkmRbhMobCbwS5YFL6/BCYl66M3l4xjlxjpcvcAw0vw1DnSG4T5+JVDHFg4y0lZuqdBCm1eGOQ4mv05QxyS8pkKwDLWh6/ixh+kG3GmBqh3I+e9kKY1KRymWfn3sKvTb+TjvqzmBpvWis5ZS4at9ruO2TYlrt/ZMpxBIL0SZIspXw4UU5ZomEbTUiax5ioHs2AbvkSTN9Abj6FcSvBuwjFSO8VHKhe5oYyxiyNsx9NOjjPan5st667saryJsPhDzAmwFxsQ==;iyt/DhJ2Q2dFxvQdEqFoWQ=="
 ---

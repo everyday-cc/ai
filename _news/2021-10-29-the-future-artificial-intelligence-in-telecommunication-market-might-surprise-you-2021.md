@@ -38,20 +38,6 @@ related:
         width: 626
         height: 442
         isCached: true
-  - title: "Teradata and H2O.ai Partnership Accelerates Enterprise AI Adoption in the Cloud"
-    excerpt: "Oct 25, 2021-- Teradata (NYSE: TDC), the connected multi-cloud data platform for enterprise analytics company, and artificial intelligence (AI) cloud platform provider H2O.ai, today announced the integration of H2O AI Hybrid Cloud,"
-    publishedDateTime: 2021-10-25T13:01:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-75da6a2464524266975aef1bacb868e4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "HFw3UrL1Qqhs2w/JmhKAASEZKnd8uqwXawLdqF6T2ZHePS9Vc/xO8bIvB5SlGF1VrXA9atqvKdUJDUh7dlSR5RyDeUk6CybxPj/apj5F45UM6Wy2RP+X9DBpXurPhcHT13CXlrJd3pU0yy2NDdAlGfCBF0CyJOc+kkPRgyWc8T76noQmyim9abewzUkC7eCdcVj6NRablCsOj1WVd0Mm5pX6zKL4CohhPFsinjtlgolxzTdjMCmPIv3Sbd6fIkBq5WdgaJE9iVxVVwqwWNP36fQzgDev8XW9YgWu/j8+gcQznUwB+5PMav876DXoyfLXU065RxRCCyelIhndLJ9xRMKVHjn8sk1KQR5GxmLIld/c4n7OyLKbmdiwy8uQRB+9ZJ8WEzZ2eb7zS0ICU2pIe9sN0wW2QzrdFAvw+tZO4Xy3AKbD8u6rrIOYYnJH/ynZwI+4lOP1CBWRAhogRYgVQ7PiWkAcCwVDQMlwsNYRGj2XZnPBsX1RyngNxy2jRlmKQ6aFx0WdDRXWaYlCqK+TZA==;4Ao7NJ9CeGgCBoIimGMFfw=="
 ---

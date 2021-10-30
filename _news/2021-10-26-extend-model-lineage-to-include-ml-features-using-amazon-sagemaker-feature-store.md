@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/"
 type: article
 quality: 101
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
         width: 350
         height: 450
+        isCached: true
+  - title: "Amazon SageMaker reusable components with SageMaker Projects"
+    excerpt: "This solution shows how to deliver reusable and self-contained custom components to Amazon SageMaker environment using AWS Service Catalog, AWS CloudFormation, SageMaker Projects and SageMaker"
+    publishedDateTime: 2021-10-30T04:26:00Z
+    webUrl: "https://github.com/aws-samples/amazon-sagemaker-reusable-components"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
+    images:
+      - url: "https://opengraph.githubassets.com/7b6adb010f734d21d175470eeb8fed463a3f383a3f7407c5d7540ebd428ff6af/aws-samples/amazon-sagemaker-reusable-components"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "kBXF0wlsj9H8WIcdXXfsfIUz+wqd+IbNJxkSDAmV2tmPDdMRQCgsrGfU/Zu+TBxlxdh1LPjqMhgylu5SH2KBDWJmvq0uw+whM/3zj87Hg42793mn8KzYC8Yze6PtqnGCJuK0NPKjkNsZpwOsXYtAt67l3ydYjp+TeXmFx3yYmDglbMKJi3vKUbgS6NcYSZ7Oj+X3iqDBq6tH4bax2C7vG851YtqeVd8WXy7jZPVaEAbG+Cxh/nB9ZXYSXB3/HEoG20vfRBP/uxaxJ3G6n50HOsYUQZXBxI7QeP9np+7xfXvM9c1LMMXliYh6+WQ2UjTLRHpc00GM0rAQitvHwA3JaN7nx9AZ9eXTy+6ivShs9Fs=;oLuVOVNPFRC321uOgC0tGg=="

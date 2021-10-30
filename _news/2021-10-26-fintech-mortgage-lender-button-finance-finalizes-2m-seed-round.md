@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-len
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2021/pr-newswire_500_4_1558.jpg?itok=942fFmJj"
         width: 763
         height: 509
+        isCached: true
+  - title: "China's JD.com tries to take finance out of its fintech arm"
+    excerpt: "While Nasdaq-listed JD.com has long been widely seen as one of China's top online retailers, the growth path of its fintech arm has been anything but consistent. Even its name has changed several times."
+    publishedDateTime: 2021-10-30T04:13:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/Caixin/China-s-JD.com-tries-to-take-finance-out-of-its-fintech-arm"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F1%252F4%252F0%252F37130414-3-eng-GB%252FCropped-1635481733AP_21236792916874.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
   - title: "New Fintech Regulations to Be Discussed by the U.S. Congress"
     excerpt: "A congressional committee is anticipated to address the need for a new regulatory approach to financial technology in America"

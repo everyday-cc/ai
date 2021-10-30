@@ -72,36 +72,6 @@ related:
         width: 750
         height: 329
         isCached: true
-  - title: "How artificial intelligence is transforming the hiring process?"
-    excerpt: "Artificial intelligence and machine learning, these two names are changing business practices and workplaces tremendously. Artificial intelligence can help business applications in many ways, like with AI businesses can understand their customers better with"
-    publishedDateTime: 2021-10-25T11:18:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-transforming-the-hiring-process/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-transforming-the-hiring-process/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-transforming-the-hiring-process/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/10/pic-2-2.png"
-        width: 322
-        height: 356
-        isCached: true
-  - title: "The Coming AI Transformation of Care Delivery"
-    excerpt: "A glimpse at AI’s near future in helping health care professionals make better decisions to improve care quality, patient safety, and efficiency. The Deputy Director General, Chief Medical Officer, and Chief Innovation Officer for Sheba Medical Center and the Chief of the Division of General Internal Medicine and Primary Care for Brigham and Women’s Hospital discuss the role of artificial intelligence on various aspects of health care delivery in 10 years and what organizations need to do to get ready for its use in decision support,"
-    publishedDateTime: 2021-10-25T13:01:00Z
-    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0378"
-    type: article
-    provider:
-      name: The New England Journal of Medicine
-      domain: nejm.org
-    quality: 37
-    images:
-      - url: "https://s3.amazonaws.com/production-nejm-nav-images/3Kplus-woman_photo.jpg"
-        width: 525
-        height: 350
-        isCached: true
 
 secured: "PxLRzietPr2N7EDR/DQXvfxHR8Rdaj1bIE1ssB92SjLopFS1iWxK8Mhj1XUQDXA7Bv+LTWO6neWvvT2XV/x2ZM7vFHpmvHXOByakH7HS5Cm8mLvDGj+fIFN0yUb6y8mOimZ822r+0Oi8blAl/FnKiHWY3FiXSaHhJbZVH5M19dIRQaonuZR7X/NKL87idzqptKfcFVuQyFbSYQERMBVivt9vRV0IXlliRNYep9aAlVIyl2yEc2zfF9QpeMfhfIecOjoRz8N8lk7bBo6MVQmC+Y3RONTOnBSat46QHMcxZG4uhtkP8fxh7V24vAopEO0yeHramB3x7Lpu3pyPings750+8/QF1E9a+Eo5Hkz8rXjS2oaarNBDJfnZZMy6Fpgax3hEug93eHdxqSrz0ogioCrdTCMdGtoQzOyEvPlX80bQ13XOYFShpuAI41eWrsSBYfOYW9iOxmyFoj8spqP/Et1QCX5sFPnBqs7UkoaftI1ObTjpXj4999kuhbyS7U3brJvorcbRBLKsz15WLtC8KA==;nxI12ZzpMJGFXx9tKZPjpA=="
 ---

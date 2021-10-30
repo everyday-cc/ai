@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Revolutionary Ways Fintech is Boosting the Property Industry"
-excerpt: "Discover the most disruptive ways fintech expands the property sector, from digital-only lending and fractional ownership, to property-backed stablecoins"
-publishedDateTime: 2021-10-29T09:10:00Z
-originalUrl: "https://fintechmagazine.com/technology-and-ai/revolutionary-ways-fintech-boosting-property-industry"
-webUrl: "https://fintechmagazine.com/technology-and-ai/revolutionary-ways-fintech-boosting-property-industry"
+title: "China's JD.com tries to take finance out of its fintech arm"
+excerpt: "While Nasdaq-listed JD.com has long been widely seen as one of China's top online retailers, the growth path of its fintech arm has been anything but consistent. Even its name has changed several times."
+publishedDateTime: 2021-10-30T04:13:00Z
+originalUrl: "https://asia.nikkei.com/Spotlight/Caixin/China-s-JD.com-tries-to-take-finance-out-of-its-fintech-arm"
+webUrl: "https://asia.nikkei.com/Spotlight/Caixin/China-s-JD.com-tries-to-take-finance-out-of-its-fintech-arm"
 type: article
-quality: 24
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: fintechmagazine
-  domain: fintechmagazine.com
+  name: NIKKEI
+  domain: nikkei.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/property-ladder-made-of-wooden-toy-houses.jpg.png?itok=veSXrwG0"
-    width: 1200
-    height: 630
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F1%252F4%252F0%252F37130414-3-eng-GB%252FCropped-1635481733AP_21236792916874.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+    width: 1024
+    height: 512
     isCached: true
 
 related:
@@ -96,20 +96,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "China's JD.com tries to take finance out of its fintech arm"
-    excerpt: "While Nasdaq-listed JD.com has long been widely seen as one of China's top online retailers, the growth path of its fintech arm has been anything but consistent. Even its name has changed several times."
-    publishedDateTime: 2021-10-30T04:13:00Z
-    webUrl: "https://asia.nikkei.com/Spotlight/Caixin/China-s-JD.com-tries-to-take-finance-out-of-its-fintech-arm"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F1%252F4%252F0%252F37130414-3-eng-GB%252FCropped-1635481733AP_21236792916874.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "New Fintech Regulations to Be Discussed by the U.S. Congress"
     excerpt: "A congressional committee is anticipated to address the need for a new regulatory approach to financial technology in America"
     publishedDateTime: 2021-10-27T08:31:00Z
@@ -121,6 +107,20 @@ related:
     quality: 24
     images:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/picture%20of%20the%20US%20capitol%20building%20blended%20with%20the%20American%20flag.jpg.png?itok=jIyyI_P5"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Revolutionary Ways Fintech is Boosting the Property Industry"
+    excerpt: "Discover the most disruptive ways fintech expands the property sector, from digital-only lending and fractional ownership, to property-backed stablecoins"
+    publishedDateTime: 2021-10-29T09:10:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/revolutionary-ways-fintech-boosting-property-industry"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/property-ladder-made-of-wooden-toy-houses.jpg.png?itok=veSXrwG0"
         width: 1200
         height: 630
         isCached: true
@@ -153,6 +153,6 @@ related:
         height: 400
         isCached: true
 
-secured: "MRqNz7Zd/tGq2yeCrtZXP3QEz6C56JmEFQ+lovnE+MaLt5hqkqsdzaslwHNI9+8KuR3VSCO6YjDTHLdHb3/RqZAeOjEBO1Qu7F0zW2pUzh0HFPG8RXhoey9xpqmw2XFQu1/VSme45bDNHENtFnNRRQKMeAc1pOwwlC3fAgxlMCzjLc5ynlGeRD6r6WmuV1EJ43kPqOTIlu0vXSoz2cAjFLhuqvM94yFWKRhaa+XTG4xh5SOM46Yegx1Gn8n8DYezk2YIJbtSXqmF0f6KHL0bfQ5RpGYXsFx4CYXeJq2rYx1DOiiaj/GKVVRZ2fgMmwHoS+Q9b/0YfSetzKHaExxhNc8cMeIxhdWeMZqLtrpeNq4oC6cVyYFjWi1n8ogBWoTEf1OVd0BjzTkOq0M700GlZFsUrDhrQ1cai9h+G2FVM1w2b9ek4nC2YImI6/lHdyACRFUQThJEvMcGtgh40dBNJK7vGj1YjBCItBQEUNEsqOlFLi2DSm/X2XtPM8Byu9DcGPbHZZX2WvZ5vTo1u8tDPg==;3OQqlKgpabUu3lLwMMS/DQ=="
+secured: "h8NK9+Aj5SemFK/uvTEiFUoIuoH6Mzm719WAqTawx8Nsb0Ig2f3oFHOWqvPVex0s807Jub313Mfc94wZcAx889V1Qnv+wHUJO+TuXGE3KSSPkaEOSHKlOgd9HRbLTjf6TESK57zYrb3QE8KFYtVqUAufHZBbScwon5z8+iT/2rmkjrZk/JmskubujZH2Zsw3hTaS8DBwS5S0goBXdR3uVyeDWyCAaJ/IFsFyKorU472b5rvbCowxqPx24wvjThpm1P+IturFwLkkS1ZuGZI4XDXba+3X9ndGroXRp+8I23FjlwSfdLno54TOb6Unew4SdJgP+JkrI0qzHmdrYgILszvJo/ZiQymiAkKChvyjojU=;sZ0UKrRlzT/ejkcJIRZk/Q=="
 ---
 

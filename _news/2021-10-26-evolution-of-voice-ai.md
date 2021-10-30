@@ -122,20 +122,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "New tech allows face-recognition payment"
-    excerpt: "A biometrics tech firm located in Netherlands called VisionLabs disclosed a payment machine that lets clients pay for products with a glance only.<br"
-    publishedDateTime: 2021-10-25T12:41:00Z
-    webUrl: "https://menafn.com/1103038857/New-tech-allows-face-recognition-payment"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_77_menafn.jpg"
-        width: 512
-        height: 341
-        isCached: true
 
 secured: "7YCsjThKH+qzKCJciktU9q9pLdt55z5kuho9H8++LhwnmoTfUnT+tvIXtuBHc/WXcc7VZv7ndqJyONiqgSeegBGjmsZg0yvg5yJyDYdwuOy+Sa+doJbJhPu+SbvkseVQwvQLUZDVwx8w09sSpXHM9s6QVvjO7MYZnaHtopzPx48eF1hk+k/pNHwoL41nmQIQXTpLm/JH1sikt1TSpcnDZ9uTdR9feIYJVkmjayrABeHtS2E14Z/Rk2JgGBfilndTECiCOkS8tcq8I10IYaGR3rmCnIn/h/H9EpcH7shSKzca56ozdt1uawE2lLWITXRvsjijrF9SMNkOdJ5UheBU//q7UDnSUtdoi7SGWI/3RvffpMP7Dw0abMU01IYZIxFRSFNUm/eCQ8uesB4zCMPpJ8cnSdemXxdsT/+F0WNLRBQBWAm6KmMd70QuUCFAp3ewUhXf6++HZcrdWqMaU1k1cQuvc6tY94C0KUKDuQuawStyqmY7+vuJIuEravJz90fKqxhsCqL1I5HlVg9LaVZ8yg==;L3PrJM/fQGlU+J7AifDu4A=="
 ---

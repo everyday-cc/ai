@@ -50,15 +50,6 @@ related:
       name: The Paypers
       domain: thepaypers.com
     quality: 18
-  - title: "authID.ai Challenges the Industry to Replace One-Time Passwords with Facial Biometric Authentication Solution"
-    excerpt: "Following its mission to eliminate one-time passwords and account fraud, identity authentication as-a-service provider authID.ai [Nasdaq: AUID] (formerly Ipsidy), today announced its biometric authentication solution,"
-    publishedDateTime: 2021-10-25T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-authidai-challenges-industry-replace-one-time-passwords-with-/2021/10/25/9476225.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Ef3oXwt8M4LCBH/TfXrTmuXBba4BK5MTgm2kUkZdbIR8NovzgqDm5P/VlA8sC7TitCp9R/sTbuZ7LaOa9f9tUPLAkakovLEJuAu4aXlYIwWT4IyNbrWVBN7lwwBFHSg7BlQoKjcSPrFG8ZBCEvTmHn0aLexuLpVbU1rRkiRiRQQUPozkmV3v7+2hcSZ0MsIrKL2EEAOVAKeDOlBooep6O/01XLy2+qHKT+TkJewgpwsIJVIX8cU3IhqFwwTH8CjWfDdM74QzDC3VWoVoXN5HrHNaADrm+HyCGmbGhsfWafmbvbXKzY2uko/GA1BYfWCmlq+2qrqkrs3vdNx3WZD8j4RqkHleCESfpEDa1cLzajo=;Ca1EHyHctPzrwO+4kNghPA=="
 ---

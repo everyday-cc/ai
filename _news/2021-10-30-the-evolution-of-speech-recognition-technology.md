@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/sg/amp/news/the-evolution-of-speech-recogn
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       - url: "https://cdn.openpr.com/U/a/Ua27415428_g.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "New tech allows face-recognition payment"
-    excerpt: "A biometrics tech firm located in Netherlands called VisionLabs disclosed a payment machine that lets clients pay for products with a glance only.<br"
-    publishedDateTime: 2021-10-25T12:41:00Z
-    webUrl: "https://menafn.com/1103038857/New-tech-allows-face-recognition-payment"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_77_menafn.jpg"
-        width: 512
-        height: 341
         isCached: true
 
 secured: "fr+zcMNMPSt+WW/2zBKJxxpT2wGpUoHXZwfxiuWi/D+2BU4pGm+dmuMNkafXRlReU16YbteAZrkkPmhZ7+hiEvF+VrQddBbtqa2mIt3182Rrmc8xMfp5suKBiG8uEVssVyDS9EKuDYgeDuUmiYWaClkKtBUnH90SF4NRiQA0Kx98rPdCrzb+ffW6ZZe0eHUTUEtRyL0nPk7t29f0YkSpEOkfRQaS33u+LHwKFZK1Ko2YrDVqRihBE6uotLRl/CQ9E5+xbEfRTZM2bPYd8hENaz9w0sWDOHfAlyV9mcEFpMh2rajkKESeFnTKmUxCwVjBJh/eTF38NaVS3CiWRCNRoLUiq5MMoFlGjGUXpYSbQLg=;GHSpfoXugwTI2b5vZSFGAQ=="

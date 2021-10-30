@@ -75,22 +75,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Schools pause facial recognition lunch plans"
-    excerpt: "Nine schools in North Ayrshire have paused use of facial recognition technology days after introducing it, following UK's Information Commissioner's Office (ICO) inquiries. The schools wanted pupils to use the system for contactless lunch payments."
-    publishedDateTime: 2021-10-25T11:16:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-59037346.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-59037346.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-59037346.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/14259/production/_121212528_b52d4b5c-cb48-419c-8608-650ff3e3746d.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Delta launching facial recognition tech trial at Atlanta airport"
     excerpt: "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate."
     publishedDateTime: 2021-10-27T12:31:00Z

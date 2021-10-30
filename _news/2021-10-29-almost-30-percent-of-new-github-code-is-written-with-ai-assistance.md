@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91984-almost-30-percent-new-github
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91984-almost-30-percent-new-github-code-written-ai.html"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

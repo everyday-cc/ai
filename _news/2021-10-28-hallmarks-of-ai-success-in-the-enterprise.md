@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Teradata and H2O.ai Partnership Accelerates Enterprise AI Adoption in the Cloud"
-    excerpt: "Oct 25, 2021-- Teradata (NYSE: TDC), the connected multi-cloud data platform for enterprise analytics company, and artificial intelligence (AI) cloud platform provider H2O.ai, today announced the integration of H2O AI Hybrid Cloud,"
-    publishedDateTime: 2021-10-25T13:01:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-75da6a2464524266975aef1bacb868e4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "The Future Artificial Intelligence in Telecommunication Market Might Surprise You 2021"
     excerpt: "In this case Artificial Intelligence plays a key role because it is used to predict and analyze issues faster than human. Artificial Intelligence will make the fifth generation of mobile networks more open enabling connectivity to predictability."
     publishedDateTime: 2021-10-29T10:50:00Z

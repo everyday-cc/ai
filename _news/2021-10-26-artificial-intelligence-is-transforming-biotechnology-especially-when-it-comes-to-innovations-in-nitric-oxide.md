@@ -56,20 +56,6 @@ related:
       name: medtechintelligence.com
       domain: medtechintelligence.com
     quality: 41
-  - title: "Bridging Technology Gaps to Drive Healthcare Interoperability"
-    excerpt: "For interoperability to move forward and have a widespread impact on the healthcare industry, it must connect existing and emerging modes of health data exchange."
-    publishedDateTime: 2021-10-25T12:01:00Z
-    webUrl: "https://ehrintelligence.com/news/bridging-technology-gaps-to-drive-healthcare-interoperability"
-    type: article
-    provider:
-      name: EHR Intelligence
-      domain: ehrintelligence.com
-    quality: 39
-    images:
-      - url: "https://ehrintelligence.com/images/site/article_headers/_normal/2021-10-22-GettyImages-931682882-Converted.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Top 10 Artificial Intelligence Technologies"
     excerpt: "Artificial intelligence is a technological blow that has continued to take the world by storm since 1955. Check out the top 10 artificial intelligence technologies streamlined with widespread sub-technologies ranging from biometrics and computer vision to intelligent devices."
     publishedDateTime: 2021-10-27T05:37:00Z

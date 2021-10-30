@@ -66,20 +66,6 @@ related:
       name: medtechintelligence.com
       domain: medtechintelligence.com
     quality: 41
-  - title: "Bridging Technology Gaps to Drive Healthcare Interoperability"
-    excerpt: "For interoperability to move forward and have a widespread impact on the healthcare industry, it must connect existing and emerging modes of health data exchange."
-    publishedDateTime: 2021-10-25T12:01:00Z
-    webUrl: "https://ehrintelligence.com/news/bridging-technology-gaps-to-drive-healthcare-interoperability"
-    type: article
-    provider:
-      name: EHR Intelligence
-      domain: ehrintelligence.com
-    quality: 39
-    images:
-      - url: "https://ehrintelligence.com/images/site/article_headers/_normal/2021-10-22-GettyImages-931682882-Converted.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "The need for technology is fueling the growth of AI in the transportation and logistics markets"
     excerpt: "AI in the transportation and logistics market is expected to reach US$3.8 billion and US$6.5 billion respectively. Check out what are the factors fueling the growth of AI in the transportation and AI in the logistics market."
     publishedDateTime: 2021-10-25T19:30:00Z
