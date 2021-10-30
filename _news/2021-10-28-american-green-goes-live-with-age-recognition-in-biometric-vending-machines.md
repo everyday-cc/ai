@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202110/american-green-goes-live-wi
 webUrl: "https://www.biometricupdate.com/202110/american-green-goes-live-with-age-recognition-in-biometric-vending-machines"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Solution Provider, VisionLabs, Introduces New Biometric Payment Hardware"
-    excerpt: "VisionLabs, the facial recognition company, has announced the launch of its biometric payment hardware — the VisionLabs LUNA POS Terminal. The certified terminal is the first payment device to enable traditional credit card payments and biometric facial recognition payments."
-    publishedDateTime: 2021-10-25T18:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/10/182097-facial-recognition-solution-provider-visionlabs-introduces-new-biometric-payment-hardware/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182097-facial-recognition-solution-provider-visionlabs-introduces-new-biometric-payment-hardware/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182097-facial-recognition-solution-provider-visionlabs-introduces-new-biometric-payment-hardware/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 49
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face.jpeg"
-        width: 1280
-        height: 1270
-        isCached: true
   - title: "Luna POS introduces biometrics to allow shoppers pay by face recognition"
     excerpt: "Indonesia-based mobile payments company <a href=' target='_blank'>Luna POS has created a biometric payment system in partnership with machine learning solution provider <a href=' target='_blank'>VisionLabs to allow facial"
     publishedDateTime: 2021-10-28T12:30:00Z

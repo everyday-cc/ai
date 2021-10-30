@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-models-pre
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 1000
     isCached: true
-
-related:
-  - title: "Artificial intelligence sheds light on how the brain processes language"
-    excerpt: "In the past few years, artificial intelligence models of language have become very good at certain tasks. Most notably, they excel at predicting the next word in a string of text; this technology helps search engines and texting apps predict the next word you are going to type."
-    publishedDateTime: 2021-10-25T19:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/26-brain.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "zqAIBPtmLQkYV6AMrwrUAHOYZVVOJPvkcdgULExcClKVDbapB8LZr2ztN2bB6ofMoRqIRVevlMu6/9PFjssCNJlT4rBJKOhEfKuk9su2xRfbcyMRbbkVWC9vi60wloTTjecpdZnMf7k2He5iBGithLkEpW5BKMB5C2ww8cd/RPZ1LNV2bpQjbM/hF3lHW65iUR4ZuuI0+8SYc37Yuy+xbAUgR6j/cEMPOf66lZdwMeFkST9+LZbUjBPjyPqtgZi6yLJGEbNDIpUxgg17UM/rtgA/fh0Yt5K149pZk4vbshYlV8Ya3E1GGlaSJjgJHZvnB29mqg08hJ247JsQo6B1ShdTmeOG5S6Cj6QPowBYpM5ZB+6I3d0B1WKud/ooVqxZho3NuYf3R6Z8PIvTrK1EbYyqZLkdLCAw//sJmCbDiFsyxgSN3mRST8gtsPvV+P+64RhsgQIieDXsxGIyLyEqw+H6mB1QdTYR7umMziCbXxpGZdptAwhOgcwNQOLlMLOjiVZV/Sc+Mgb2HpI0HpSvYg==;MntpdA+T0xmM4pHoF6DFlQ=="
 ---

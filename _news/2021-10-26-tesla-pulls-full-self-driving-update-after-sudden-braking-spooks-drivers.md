@@ -45,17 +45,6 @@ related:
         width: 4032
         height: 3024
         isCached: true
-  - title: "U.S. NTSB Head Criticizes Tesla Over Vehicle Self-Driving Feature"
-    excerpt: "NTSB Chair Jennifer Homendy wrote a letter to Tesla Chief Executive Elon Musk about his decision to let drivers request access to \"Full Self-Driving Beta technology\" before the au"
-    publishedDateTime: 2021-10-25T17:35:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-10-25/tesla-submits-partial-response-in-us-auto-safety-probe-memo"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-10-25/tesla-submits-partial-response-in-us-auto-safety-probe-memo?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-10-25/tesla-submits-partial-response-in-us-auto-safety-probe-memo?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
   - title: "Gov Official Tears Apart Tesla’s “Full Self-Driving” Feature"
     excerpt: "It’s misleading.” Full Self-Driving is an optional $10,000 add-on to Tesla’s Autopilot suite. The feature has repeatedly come under scrutiny, especially once Tesla started testing a beta version of the software with the help of a small subset of drivers on public roads in October 2020."
     publishedDateTime: 2021-10-27T21:16:00Z

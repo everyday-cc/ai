@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-feat
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b436a6c6625cb095f129bac4ac5a77dd.gif"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How AI is driving powerful new Photoshop features — and shaping Adobe’s product strategy"
+    excerpt: "Adobe is leveraging deep learning to improve its image editing apps. In turn, the use of AI is shaping Adobe’s product strategy."
+    publishedDateTime: 2021-10-30T11:25:00Z
+    webUrl: "https://thenextweb.com/news/ai-driving-powerful-photoshop-features-and-shaping-adobe-product-strategy-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 58
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FGraphic-design-is-my-passion.jpg&signature=9492163f4b35a6d6c15e89279fc2f589"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Adobe MAX 2021: New innovations and AI-powered features for Photoshop CC"
     excerpt: "Adobe MAX kicks off today! The free virtual event will showcase the latest and greatest innovations and updates to Adobe’s popular software programs including their best photo editing software Photoshop CC,"

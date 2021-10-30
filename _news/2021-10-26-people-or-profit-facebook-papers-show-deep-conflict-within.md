@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/People-or-profit-Facebook-papers-show
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/People-or-profit-Facebook-papers-show-deep-16561189.php"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,22 +27,43 @@ images:
     isCached: true
 
 related:
-  - title: "‘The Facebook Papers': What They Are and Takeaways From the Leaks"
-    excerpt: "Internal company documents obtained by a former Facebook employee-turned-whistleblower reveal a troubled, internally conflicted company, where data on the harms it causes is abundant, but solutions are halting at best."
-    publishedDateTime: 2021-10-25T17:47:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/the-facebook-papers-what-they-are-and-takeaways-from-the-leaks/3349930/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/the-facebook-papers-what-they-are-and-takeaways-from-the-leaks/3349930/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/the-facebook-papers-what-they-are-and-takeaways-from-the-leaks/3349930/?amp"
+  - title: "After the Facebook Papers, what’s next for, err, Meta?"
+    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its ... Teenage users of the Facebook app in the US have shrunk by 13% since 2019, according to the company’s own research."
+    publishedDateTime: 2021-10-28T20:07:00Z
+    webUrl: "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-regulation-growing-old"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 44
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
     images:
-      - url: "https://media.nbcnewyork.com/2021/10/facebook-logo-facebook-generic.jpeg?quality=85&strip=all&fit=1024%2C576"
-        width: 1024
-        height: 576
+      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-9-1.jpg&signature=3c8ce726468cfc55b53bf6e549d93ffe"
+        width: 1280
+        height: 640
         isCached: true
+  - title: "Metaverse Here We Come: Why This Matterport Analyst Is Bullish As Facebook Rebrands"
+    excerpt: "The partnership was for creating the largest-ever dataset of 3D indoor spaces via Facebook AI Research. “We believe this was the first step towards a much broader Facebook and Matterport ..."
+    publishedDateTime: 2021-10-29T20:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/metaverse-here-we-come-why-this-matterport-analyst-is-bullish-as-facebook-rebrands-1030916419"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/artificial-intelligence-2167835_1920_36.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Before Going Meta, Mark Zuckerberg Must Fix Facebook"
+    excerpt: "No matter what Facebook is called now ... Although the conference was officially called the Dartmouth Summer Research Project on Artificial Intelligence, many attendees balked at that term, invented by McCarthy. “I won’t swear I hadn’t seen it ..."
+    publishedDateTime: 2021-10-29T13:41:00Z
+    webUrl: "https://www.wired.com/story/plaintext-zuckerberg-fix-facebook-meta/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 34
 
 secured: "+jN4rzWmlHYXOf/yQfllhWT1VWKELC2lQkHN9151+NmYXo9I+AfgJsQjKDT1oCV2ZEqnPiuQ22LYElOPRjZLWPzjywP1BU5Y5EqSh7S6zW+ZKv4VZ6hvQXSCLpUc6EQLowWn68Tk/Q4fnTDwAvdPrEwC+swO6Z4J6LuIpv8uwRuW+WpJSZk75y1ShseD22jFrF64SBy6rJwtNhGGis42ZkPvBT+97mPMTvevFiBtWuG+bWcWpVBppJAtnDVjK9yEHXm3A5G8sMtgGpWJBHgZ3oI7oiQdYzG7RSMdW9NlLObkdZNu695QCiHaoWzPBvWe9Xv4pIFlZzcj7fxQ43LQSxW4TcAvUERRYJb1/NW8jlk=;PXGMIZRjPBiU9lL2bOuD0Q=="
 ---

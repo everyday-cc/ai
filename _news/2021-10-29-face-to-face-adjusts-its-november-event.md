@@ -7,7 +7,7 @@ originalUrl: "https://wfuogb.com/14092/uncategorized/face-to-face-adjusts-its-no
 webUrl: "https://wfuogb.com/14092/uncategorized/face-to-face-adjusts-its-november-event/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 900
     height: 300
     isCached: true
-
-related:
-  - title: "5 Top Cybersecurity Stocks To Watch Before November 2021"
-    excerpt: "Cybersecurity Stocks For Your November 2021 Watchlist. While investors eagerly await major tech company earnings in the stock market this week, cybersecurity stocks should not b"
-    publishedDateTime: 2021-10-25T18:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-top-cybersecurity-stocks-to-watch-before-november-2021-2021-10-25"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-top-cybersecurity-stocks-to-watch-before-november-2021-2021-10-25?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-top-cybersecurity-stocks-to-watch-before-november-2021-2021-10-25?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "vHFwbcGtvX35iHIkulwBHYa+7SnWdQwkDx+Bo/JFJemMdVcKIa9diPPy5hwwMJ0XAYIN6CLznFavrTFuaKutLBPy/f6/KWCr320YK7YxN4mdPTCh3B0SfUNPZe8msTvsDxAncHT0c3G2Dabd1U3OPBNsrxb0BvdvKmQDqqQOUdJt4BxDtRzRXVfvbEl8M2PHnM7N5Ma362+vNxLFhqzLe02JBCuJu1zw7sYM1XQBS4obaq132XcVOhwngwGq1L0l9kNCaVT17xSMKAi0j77dp0YQr0GaGMEs3Sg2UJsLoK/EVjcJb0vlznFh8LsVNYc0m1ky6VC1wf0WzXWBd8mIkak70y7m82IHdIKAf7vHdW0=;iSzrQGJZr0Bh7cLX4qD+0Q=="
 ---

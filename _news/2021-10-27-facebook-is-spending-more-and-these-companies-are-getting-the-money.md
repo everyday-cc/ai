@@ -113,6 +113,92 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Media Outlets Flood the Zone With News of Facebook's Failure"
+    excerpt: "\"The many exposés reveal a toxic but highly profitable revenue model that's driving Facebook’s reluctance to safeguard democracy and stop the spread of hate and disinformation.\""
+    publishedDateTime: 2021-10-25T21:13:00Z
+    webUrl: "https://www.commondreams.org/views/2021/10/25/media-outlets-flood-zone-news-facebooks-failure"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 39
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-10/facebook_zuckerberg-1.jpg?h=fae7ad3b&itok=Dzqc-MD5"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Lawmakers investigating Facebook Inc. and other online giants turn attention to ..."
+    excerpt: "Lawmakers weighing how to limit the spread of disinformation on Facebook and other social media giants are turning their attention to regulating the"
+    publishedDateTime: 2021-10-26T18:01:00Z
+    webUrl: "https://en.mogaznews.com/World-News/1851237/Lawmakers-investigating-Facebook-Inc-and-other-online-giants-turn-attention-to-.html"
+    ampWebUrl: "https://en.mogaznews.com/World-News/amp/1851237"
+    cdnAmpWebUrl: "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/World-News/amp/1851237"
+    type: article
+    provider:
+      name: en.mogaznews.com
+      domain: mogaznews.com
+    quality: 38
+    images:
+      - url: "https://en.mogaznews.com/temp/resized/medium_2021-10-26-3b666c2fc5.jpg"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "China's ByteDance is Disrupting Facebook"
+    excerpt: "History will show Silicon Valley will have failed because it used algorithms that prioritized profits over people. ByteDance has superior AI to Facebook and a better understanding of young consumers."
+    publishedDateTime: 2021-10-26T13:10:00Z
+    webUrl: "https://www.linkedin.com/pulse/chinas-bytedance-disrupting-facebook-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEGElTUS2N7Rg/article-cover_image-shrink_720_1280/0/1635252474701?e=1640822400&v=beta&t=EPadhTgPpfo3AHvvsQgikfR-025QqsfvVNFz8ODcUS8"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Facebook comes under scrutiny in India"
+    excerpt: "Facebook has come under intense scrutiny for being unable to reign in hate speech and fake news in India, as reported in the 'Facebook Papers'."
+    publishedDateTime: 2021-10-26T03:38:00Z
+    webUrl: "https://www.linkedin.com/news/story/facebook-comes-under-scrutiny-in-india-5169028/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C561AAQFh-XFRjL4TmQ/storylineheaderimage-shrink_400_400/0/1635218934053?e=1635310800&v=beta&t=idsUWigUvVHfSQBFd3Q2p6wV056zTS3jjqzjyguFLYk"
+        width: 400
+        height: 266
+        isCached: true
+  - title: "The Facebook Papers may be the biggest crisis in the company's history"
+    excerpt: "Facebook has confronted whistleblowers, PR firestorms and Congressional inquiries in recent years. But now it faces a combination of all three at once in what could be the most intense and wide-ranging crisis in the company's 17-year history."
+    publishedDateTime: 2021-10-25T19:07:00Z
+    webUrl: "https://www.wrcbtv.com/story/45041764/the-facebook-papers-may-be-the-biggest-crisis-in-the-companys-history?clienttype=mobile"
+    type: article
+    provider:
+      name: WRCB
+      domain: wrcbtv.com
+    quality: 24
+    images:
+      - url: "https://WRCB.images.worldnow.com/images/21597636_G.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Facebook wants to turbo-charge smart glasses. Researcher wonders if it can do it right"
+    excerpt: "A computer security and privacy researcher looks at Facebook's smart-glasses project and found concerns for the recordable world as well as for the recorder."
+    publishedDateTime: 2021-10-27T17:47:00Z
+    webUrl: "https://www.biometricupdate.com/202110/facebook-wants-to-turbo-charge-smart-glasses-researcher-wonders-if-it-can-do-it-right"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Facebook is spending more, and these companies are getting the money"
     excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
     publishedDateTime: 2021-10-26T12:59:00Z

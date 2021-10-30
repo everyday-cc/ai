@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-27-good-machine-learning-practice-for-medical-device-development-guiding-principles.md",
+      "title": "Good Machine Learning Practice for Medical Device Development: Guiding Principles",
+      "excerpt": "The U.S. Food and Drug Administration (FDA ... the development of Good Machine Learning Practice (GMLP). These guiding principles will help promote safe, effective, and high-quality medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles",
+      "originalUrl": "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Center for Food Safety and Applied Nutrition",
+        "domain": "fda.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-robot-taxi-boats-take-to-the-water-in-amsterdam.md",
       "title": "Robot taxi boats take to the water in Amsterdam",
       "excerpt": "The self-driving boat, dubbed Roboat III, is the creation of MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the Senseable City Laboratory, and the Amsterdam Institute for Advanced Metropolitan Solutions.",
@@ -1097,58 +1140,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-ibm-announces-advances-and-new-collaborations-in-ai-powered-automation-5g-connectivity-and-security-at-mobile-world-congress-los-angeles.md",
-      "title": "IBM Announces Advances and New Collaborations in AI-Powered Automation, 5G Connectivity and Security at Mobile World Congress Los Angeles",
-      "excerpt": "Today IBM (NYSE: IBM) announced new collaborations and expanded partner relationships to further the company's capabilities in hybrid cloud, AI, network automation and s (MWC LA). These innovations highlight IBM's role in helping the telecommunications industry evolve as 5G and Edge Computing redefine how business and consumers connect.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-announces-advances-and-new-collaborations-in-ai-powered-automation-5g-connectivity-and-security-at-mobile-world-congress-los-angeles-1030901288",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-announces-advances-and-new-collaborations-in-ai-powered-automation-5g-connectivity-and-security-at-mobile-world-congress-los-angeles-1030901288",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     },
     {

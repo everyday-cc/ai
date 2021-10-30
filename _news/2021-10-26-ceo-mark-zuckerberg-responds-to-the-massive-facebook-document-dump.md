@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Before Going Meta, Mark Zuckerberg Must Fix Facebook"
-    excerpt: "No matter what Facebook is called now ... Although the conference was officially called the Dartmouth Summer Research Project on Artificial Intelligence, many attendees balked at that term, invented by McCarthy. “I won’t swear I hadn’t seen it ..."
-    publishedDateTime: 2021-10-29T13:41:00Z
-    webUrl: "https://www.wired.com/story/plaintext-zuckerberg-fix-facebook-meta/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 34
 
 secured: "tO7B+BLDXc1KdkHz2pCBdji+lfUE+ONj5RJb+Fi+NBrKcWcSRFG0UHyjOZoGLGUUC1EcOrQ3qHsVhxtWYl76CqdZqoRrdWgCJR/5QeJqfZKxrHBwJ/78mkYFQO7GTSHqPQwCdIvlfRVye9E4ic/woascV0zvRrsi3lwZPxcYBlzK5dMiPYHyonyNELw247azZQDKCok+2UiKr+JsU3C2gNFJ0Vm9DD9c2w3J0mEfjKcXlLxUSylKrG/OL0SJ4ZaCj46soLJEcFIza6Ugsnx4PFzp4Ry44Xc7JFn5VZ8NB676TAO29IAWGCMCrbcH1Q5g1EE4jVByg+K4z9yj0rekoslh5opXH8+M66YOmrKdlX0=;KIvz3S3FOXPn2vXgEB43Yg=="
 ---

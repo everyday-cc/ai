@@ -39,15 +39,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "Connectly.ai Becomes a WhatsApp Business Solutions Provider"
-    excerpt: "Connectly.ai, a conversational commerce company that simplifies how message-first businesses transform connections into revenue, has been designated o"
-    publishedDateTime: 2021-10-25T18:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211025005190/en/Connectly.ai-Becomes-a-WhatsApp-Business-Solutions-Provider"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
 
 secured: "urBBmfYP6hhPN4IJCQwrTCKDkxIJhvlxB1srgSg0aXDaxD+JHqjZrATXUsM23Cbtl+RNMSDMvfO1lW9HRJPygRDICq7vAJFnNZgzxttWXuIt7lQxgXe6qz/MfUaMlyqcL1RMNPKetwJIBLob46dBja55M617wcVMPDBgXXviGPP9F8Hw9BgBZv3TvSDfHDfyabwCVqGN7tq8bsB4QEuzoMAIIEFE25mjt0976MKVFZ2qDE5BvOPdx6BqeIK9fRhK8y7+1p2n8gfl8lP3Otolty9wJXAzHSf6igxEmm54dtZInN7FUwcaCmtlk1J4/L+jdFJOsAWbmsZTc8o7PtU0ZBMsntbdk6/h3h/+rQq8wns=;LVQQ/s24DmfZ5GLfjf/Gxw=="
 ---

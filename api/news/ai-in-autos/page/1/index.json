@@ -262,7 +262,7 @@
       "originalUrl": "https://www.cnbc.com/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -691,10 +691,10 @@
     {
       "path": "_news/2021-10-21-baidu-inc-bidu-outpaces-stock-market-gains-what-you-should-know.md",
       "title": "Baidu Inc. (BIDU) Outpaces Stock Market Gains: What You Should Know",
-      "excerpt": "From self-driving cars to consumer data analysis ... Click to get this free report Baidu, Inc. (BIDU): Free Stock Analysis Report To read this article on Zacks.com click here.",
+      "excerpt": "I n the latest trading session, Baidu Inc. (BIDU) closed at $180.96, marking a +1.09% move from the previous day. The stock outpaced the S&P 500's daily gain of 0.37%. Prior to today's trading, shares of the web search company had gained 14.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-inc--bidu-outpaces-stock-market-gains--what-you-should-know-10647624",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-inc--bidu-outpaces-stock-market-gains--what-you-should-know-10647624",
+      "webUrl": "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -702,23 +702,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T21:36:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20?amp",
+      "publishedDateTime": "2021-10-20T14:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

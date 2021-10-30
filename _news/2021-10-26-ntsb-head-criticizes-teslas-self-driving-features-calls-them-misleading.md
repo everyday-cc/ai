@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. NTSB Head Criticizes Tesla Over Vehicle Self-Driving Feature"
-    excerpt: "NTSB Chair Jennifer Homendy wrote a letter to Tesla Chief Executive Elon Musk about his decision to let drivers request access to \"Full Self-Driving Beta technology\" before the au"
-    publishedDateTime: 2021-10-25T17:35:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-10-25/tesla-submits-partial-response-in-us-auto-safety-probe-memo"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-10-25/tesla-submits-partial-response-in-us-auto-safety-probe-memo?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-10-25/tesla-submits-partial-response-in-us-auto-safety-probe-memo?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
   - title: "Tesla pulls Full Self-Driving update after sudden braking spooks drivers"
     excerpt: "Tesla’s Full Self-Driving software lived up to its “beta” label this weekend. On Saturday morning, CEO Elon Musk announced a delay for the 10.3 update after internal quality-assurance testers discovered that the new version performed worse at left turns at traffic lights than previous versions."
     publishedDateTime: 2021-10-25T20:42:00Z

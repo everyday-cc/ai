@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-10-22-google-is-still-all-in-on-health-care-chief-health-officer-karen-desalvo.md",
+      "title": "Google is still 'all in' on health care: Chief health officer Karen DeSalvo",
+      "excerpt": "IBM has long attempted to make its AI Watson a major player in health care, and now other major technology companies, especially consumer-facing ones, are increasingly interested in health-care ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/21/google-is-all-in-on-health-care-again.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/21/google-is-all-in-on-health-care-again.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106963617-1634781012100-gettyimages-1283059533-273741final.jpeg?v=1634781062",
+          "width": 5000,
+          "height": 3750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/21/google-is-all-in-on-health-care-again.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/21/google-is-all-in-on-health-care-again.html",
+      "publishedDateTime": "2021-10-22T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-aws-makes-its-panorama-appliance-generally-available.md",
       "title": "AWS makes its Panorama Appliance generally available",
       "excerpt": "Customers can update their computer vision application in Amazon SageMaker and deploy the model to the AWS Panorama Appliance, thanks to the device's full integration with Amazon SageMaker.",
@@ -804,49 +856,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-21-baidu-inc-bidu-outpaces-stock-market-gains-what-you-should-know.md",
-      "title": "Baidu Inc. (BIDU) Outpaces Stock Market Gains: What You Should Know",
-      "excerpt": "From self-driving cars to consumer data analysis ... Click to get this free report Baidu, Inc. (BIDU): Free Stock Analysis Report To read this article on Zacks.com click here.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-inc--bidu-outpaces-stock-market-gains--what-you-should-know-10647624",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-inc--bidu-outpaces-stock-market-gains--what-you-should-know-10647624",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T21:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-21-brainchip-begins-taking-orders-of-akida-ai-processor-development-kits.md",
       "title": "BrainChip Begins Taking Orders of Akida AI Processor Development Kits",
       "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced BrainChip will be taking orders of two development kits for its Akida™ advanced neural networking processor,",
@@ -886,6 +895,40 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-baidu-inc-bidu-outpaces-stock-market-gains-what-you-should-know.md",
+      "title": "Baidu Inc. (BIDU) Outpaces Stock Market Gains: What You Should Know",
+      "excerpt": "I n the latest trading session, Baidu Inc. (BIDU) closed at $180.96, marking a +1.09% move from the previous day. The stock outpaced the S&P 500's daily gain of 0.37%. Prior to today's trading, shares of the web search company had gained 14.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20?amp",
+      "publishedDateTime": "2021-10-20T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1068,49 +1111,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-us-air-force-teams-with-uk-on-machine-learning-demo.md",
-      "title": "US Air Force teams with UK on machine learning demo",
-      "excerpt": "By sharing data and machine learning algorithms, the two countries were able to improve situational awareness for war fighters in a demonstration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/CmSkjK0LuGwWeGDLXmB8GBzgViI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/RT4BUYK7P5BCHORIBCZAVETTLQ.jpeg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

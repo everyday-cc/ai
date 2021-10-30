@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI is driving powerful new Photoshop features — and shaping Adobe’s product strategy"
+    excerpt: "Adobe is leveraging deep learning to improve its image editing apps. In turn, the use of AI is shaping Adobe’s product strategy."
+    publishedDateTime: 2021-10-30T11:25:00Z
+    webUrl: "https://thenextweb.com/news/ai-driving-powerful-photoshop-features-and-shaping-adobe-product-strategy-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 58
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FGraphic-design-is-my-passion.jpg&signature=9492163f4b35a6d6c15e89279fc2f589"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "eFIZ9puz8hMa7D/NyJNaPmQ6b11wrISZZpyv0Dx9dpKHscCbPoVCNS4assxuJxgeR0tDzhx2bCUvykIsuF4BmBwmkxjkjKvV0vEsApvCuqT5XZ1kbHCDDahYdQYkN/2ebfU3xCxQdk3o692b4eJoku73Y4BCunZKoPPFK5I346Et0ozVHXlfU9ZeP75ui4Kvj9hWAPl2aM3eKw89KyO1c+DyVDnYm9yYbBQSycrre0y7mW88cFnCabORXZkpfa3Zw5vfmZfvN8dIEwsSwSZklzZE3i7hvuI7VmPaNYQiQ6LzyZ7mMAKsExkak5JpInuVRjowol8Cm13PqoGwKLO240Atil/M962qKLiRfXks73o=;m7h3rmEJjAG+lOw9mKqDvA=="
 ---

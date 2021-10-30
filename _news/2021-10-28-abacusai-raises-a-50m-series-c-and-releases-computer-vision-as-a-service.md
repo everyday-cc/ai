@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
-excerpt: "As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue, Index Ventures, and Alkeon. Series C ..."
-publishedDateTime: 2021-10-27T18:41:00Z
-originalUrl: "https://www.wkyt.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/"
-webUrl: "https://www.wkyt.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/"
+excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company"
+publishedDateTime: 2021-10-27T17:24:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html"
+webUrl: "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: WKYT
-  domain: wkyt.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
@@ -66,6 +66,6 @@ related:
         height: 512
         isCached: true
 
-secured: "JrQiDnymj08flS+QjPW2JJvqC83RjNpj0Eyj+vhHyQJbHiofxGyY/QkOgMxL+7LIs5iSgg/TT4gX3jzNl5NwTYNVUq7mTzUMOrdFgXRqKtbgpQhqDYpPe57+tDSxPkoPOX+K33BH9oKmO3PB5WsPROhT54bBy+UGctua5vUjYv0o00K3ybK6FTxFsL4D3RhIi8DSM5HgJK854NxBOn5TcC9brPOmkSTKLRqQWs5o5ww4yCclQifVlRH3U06KzW5fLCw1lpyG61XPp6oAW0ZnIRqkWYPYjWbn3VwUAAR9+GQyeb7vJIgMZ5nvhhohURY8ip6TIrR120mUCZ1MsvLIvlGQ0b7j42lsNoDe+9FiRxY=;4YRph+Ln5b7IZHLSFeI5UQ=="
+secured: "IzZytqu3v1rCgZaPNr3ARx59iDoG7Z9YnbB6ZPco8MBhaWyz951emq3gk9RXeMBQrdw2vn4BacKBxrQUb//BMnonQvfnh7LtbSnZS7vUvlPGzrF6k4WXwyjUQAm804w+pbg/hRbZrdgWivv1UaKclw7DLqUxvaTa6WdwcKVorpXBYDT90Q31yyxMGxRSm9qfflPJKD2F4YhJDgjzCXpX+seh4WiuzTusov4FO2zHPfTCzC6aXyi46IlEUswgQD5b1eA3Xr3UrMt1EedmSsiiB5PlZ/Fed0V7/QvRJuxM/ykjV3SFv8kjg4BdrynWlUEP4Mws6nGnu4FwAG6Cru5zAqBegIQP9OTeWY5H3qFl+Ng=;xgHahBbmt0DvhbxV9wGDeg=="
 ---
 

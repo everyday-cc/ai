@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "The Coming Convergence of NFTs and Artificial Intelligence"
-    excerpt: "Building AI capabilities into the lifecycle of NFTs opens the door to forms of intelligent ownership, says the CEO of IntoTheBlock."
-    publishedDateTime: 2021-10-25T18:43:00Z
-    webUrl: "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 39
-    images:
-      - url: "https://www.coindesk.com/resizer/337Dm4j0iUQkmYa0l8YD8QPsAXQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LANV5ORSRJAIRN7KPVV7V2ZCDE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "8KGvqN8N+vVH4NArDYl0NAMTADqOzgtrnFhN+u2/1L/kZfl6kpxUuKomeJgfspQRYwy8aoe5dLInYu5HeJn2tAwSrB0O6rmGDSkiMLCaD3at7NlaBgGUqImYoM3r8ebdV4HolN4iK89JJ9KONCjehoBWX5GQHAM2Yoh5V2X55DEOpnZ1a2DaSlvVY1yRqllJtn2SV7EF/t5fnxdeVmcrQpdAInN47UHFvvTSNOl5FRf0ofkdJ4EROgeMQFaubw96GmfG2D6vddkoXdeL1VOqJKAEWNMQbVE3DfCSaQDY7TucwckmTtMEU1vq5t8rrZcqxs6IOwx2YrGLJ3HcFdhigjQzBZwiVvEKPRt74zjEwb85JplfEJfmkqtt8wLUhZe26oXKZicbdLA/KAgQ5r8zKEXrSxEofl/ETNl5WTdiOQV73ETdQgj0kya4DvNJvFsfUJqlPFkCmBobhePn7d21gZQUYsH+aHwqRK/z23NHX9h0Pk9Bue3xW4YPKkgUMM7XIrkCtgcxpXeU4sM5X27+Dw==;fQ4OuCsgLr1ndkEIuHUTBw=="
 ---

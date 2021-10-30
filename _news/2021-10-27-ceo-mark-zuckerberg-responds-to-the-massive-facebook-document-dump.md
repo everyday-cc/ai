@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Before Going Meta, Mark Zuckerberg Must Fix Facebook"
-    excerpt: "No matter what Facebook is called now ... Although the conference was officially called the Dartmouth Summer Research Project on Artificial Intelligence, many attendees balked at that term, invented by McCarthy. “I won’t swear I hadn’t seen it ..."
-    publishedDateTime: 2021-10-29T13:41:00Z
-    webUrl: "https://www.wired.com/story/plaintext-zuckerberg-fix-facebook-meta/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 34
   - title: "CEO Mark Zuckerberg responds to the massive Facebook document dump"
     excerpt: "CEO Mark Zuckerberg kicked off Facebook's quarterly earnings call by addressing the latest wave of coverage based on a trove of leaked internal documents on Monday.\"Good faith criticism helps us ge"
     publishedDateTime: 2021-10-26T16:28:00Z

@@ -25,51 +25,99 @@ images:
     isCached: true
 
 related:
-  - title: "The Facebook whistle-blower brings her campaign to Europe after her disclosures."
-    excerpt: "Beginning a European tour in Britain, the former Facebook manager was questioned by policymakers drafting tougher tech regulations."
-    publishedDateTime: 2021-10-25T18:05:00Z
-    webUrl: "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html"
-    ampWebUrl: "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 84
-    images:
-      - url: "https://static01.nyt.com/images/2021/10/25/business/25economy-briefing-facebook-haugen/25economy-briefing-facebook-haugen-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Frances Haugen: Key moments from Facebook whistleblower's UK parliamentary testimony"
-    excerpt: "The former Facebook product engineer answered questions from lawmakers on regulation, Instagram Kids and whether she thought Facebook was evil."
-    publishedDateTime: 2021-10-25T19:24:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/"
+  - title: "Facebook is expanding smart glasses research into cars via BMW"
+    excerpt: "Facebook's still trying to make AR-enabled, AI-assisted smart glasses happen. The company announced plans to field-test its camera and sensor-studded Project Aria glasses, designed for research on future AR glasses in more places, and even in cars."
+    publishedDateTime: 2021-10-28T17:46:00Z
+    webUrl: "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 67
+    quality: 74
     images:
-      - url: "https://www.cnet.com/a/img/b08c5Epe3NTGTrmK4QYvTgFuIsQ=/1200x630/2021/10/25/943d7bc3-8a31-4cd3-9a2c-eeb0a0b39f77/screenshot-2021-10-25-at-14-36-38.png"
+      - url: "https://www.cnet.com/a/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "After the Facebook Papers, what’s next for, err, Meta?"
-    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its ... Teenage users of the Facebook app in the US have shrunk by 13% since 2019, according to the company’s own research."
-    publishedDateTime: 2021-10-28T20:07:00Z
-    webUrl: "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-regulation-growing-old"
+  - title: "Facebook, now Meta, is expanding smart glasses research into cars via BMW"
+    excerpt: "Facebook's still trying to make AR-enabled, AI-assisted smart glasses happen. The company announced plans to field-test its camera and sensor-studded Project Aria glasses, designed for research on future AR glasses in more places,"
+    publishedDateTime: 2021-10-28T17:15:00Z
+    webUrl: "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
+      name: CNET
+      domain: cnet.com
+    quality: 73
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-9-1.jpg&signature=3c8ce726468cfc55b53bf6e549d93ffe"
-        width: 1280
-        height: 640
+      - url: "https://www.cnet.com/a/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facebook's new smart glasses may be impressive, but they also raise serious privacy and security concerns"
+    excerpt: "Consumers have raised concerns about the glasses' facial recognition technology, too-discreet recording feature, and data collection capacity."
+    publishedDateTime: 2021-10-26T12:54:00Z
+    webUrl: "https://www.businessinsider.com/facebooks-new-smart-glasses-raise-privacy-concerns-2021-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/613ba480a30aeb0018b4ff81?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Facebook's language gaps weaken screening of hate, terrorism"
+    excerpt: "In countries like Afghanistan and Myanmar, these loopholes have allowed inflammatory language to flourish on the platform, while in Syria and the Palestinian territories, Facebook suppresses ordinary speech,"
+    publishedDateTime: 2021-10-26T03:46:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 44
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Facebook's language gaps weaken screening of hate"
+    excerpt: "An examination of files reveals that in some of the world's most volatile regions, terrorist content and hate speech proliferate on Facebook because the company remains short on moderators who speak local languages and understand cultural contexts."
+    publishedDateTime: 2021-10-25T19:30:00Z
+    webUrl: "https://www.wdio.com/national/facebook-language-gaps-weaken-screening-of-hate/6280168/"
+    ampWebUrl: "https://amp.wdio.com/articles/facebook-language-gaps-weaken-screening-of-hate-6280168.html"
+    cdnAmpWebUrl: "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/facebook-language-gaps-weaken-screening-of-hate-6280168.html"
+    type: article
+    provider:
+      name: WDIO
+      domain: wdio.com
+    quality: 44
+    images:
+      - url: "https://www.wdio.com/WDIO_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Facebook grilled by UK lawmakers making online safety rules"
+    excerpt: "British lawmakers are grilling Facebook and other tech giants over how they handle online safety as European efforts to regulate social media companies gain momentum"
+    publishedDateTime: 2021-10-28T16:16:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/facebook-google-twitter-face-grilling-uk-lawmakers-80829884"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/facebook-google-twitter-face-grilling-uk-lawmakers-80829884"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/facebook-google-twitter-face-grilling-uk-lawmakers-80829884"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_964514ad0dff4266ac35e14f18ad8d42_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Media Outlets Flood the Zone With News of Facebook's Failure"
     excerpt: "\"The many exposés reveal a toxic but highly profitable revenue model that's driving Facebook’s reluctance to safeguard democracy and stop the spread of hate and disinformation.\""
@@ -129,17 +177,6 @@ related:
         width: 400
         height: 266
         isCached: true
-  - title: "Facebook Whistleblower Makes Case for Social Media Curbs to British Parliament"
-    excerpt: "LONDON — Facebook has lurched from controversy to controversy since Mark Zuckerberg started it as a Harvard undergrad in 2004. But the actions of Frances Haugen, a former product manager, have created a backlash and public relations crisis that"
-    publishedDateTime: 2021-10-26T02:48:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-whistleblower-makes-case-for-social-media-curbs-to-british-parliament/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-whistleblower-makes-case-for-social-media-curbs-to-british-parliament/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-whistleblower-makes-case-for-social-media-curbs-to-british-parliament/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 20
   - title: "Facebook wants to turbo-charge smart glasses. Researcher wonders if it can do it right"
     excerpt: "A computer security and privacy researcher looks at Facebook's smart-glasses project and found concerns for the recordable world as well as for the recorder."
     publishedDateTime: 2021-10-27T17:47:00Z
@@ -154,22 +191,24 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "'Instagram may NEVER be safe for 14-year-olds': Whistleblower Frances Haugen quotes Facebook's OWN research - and says social media giant won't sacrifice a 'slither of profit ..."
-    excerpt: "Ms Haugen said Facebook was 'very good at dancing with data' to suggest it was successfully clamping down on toxic content but in reality its 'negligence' is pushing users towards extremism."
-    publishedDateTime: 2021-10-26T01:01:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10128197/Facebook-whistleblower-Frances-Haugen-gives-evidence-MPs-scrutinising-online-safety-bill.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10128197/amp/Facebook-whistleblower-Frances-Haugen-gives-evidence-MPs-scrutinising-online-safety-bill.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10128197/amp/Facebook-whistleblower-Frances-Haugen-gives-evidence-MPs-scrutinising-online-safety-bill.html"
+  - title: "Facebook is spending more, and these companies are getting the money"
+    excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
+    publishedDateTime: 2021-10-26T12:59:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20211026401/facebook-is-spending-more-and-these-companies-are-getting-the-money"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/10/25/16/49618083-0-image-a-36_1635176206001.jpg"
-        width: 636
-        height: 382
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 4
+  - title: "Facebook is spending more, and these companies are getting the money"
+    excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
+    publishedDateTime: 2021-10-27T07:22:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20211027352/facebook-is-spending-more-and-these-companies-are-getting-the-money"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 4
 
 secured: "Rk1knBhh0SdGZZKZ6l/AkG3jiZV8JTKioFyrVnhFSaqy7GiTwIv+XV6Zu+K/aHBZDtdxzdQVX27hXQwwMs4g5dIQrL3+u+IwBdk7eGMsf8JlyV8prcPDl9WsZyiHx04GAzSBiVEep9MrtuHqPpNi86ClnyiTa0vr4eanbrWzWuGp1xKTUGhm5a5hMdBWPARMzbUi4pww+4GKrVjWH+62ZLrJk/KP8haY1KULVaYVAt2JSxeMZ7GHq/8Jmno/EVTQHDvbZnj7qNpHDAKSoyAfsnJteqB8vvl0+GTVxUrIqpzuIKR1BZdHMBpDUuU8RSvk35b0rYXN2ELxQ3bzbNQRTNxx6LupNAUpl3QD5PeMCXWe5Q5YVobqeTIGaqECcvU8y/KNNakyCkveflYXvaylBgukO2wCRMFV1Zkf3Rrz9IDxr+mUOHWAuQFUXpGeOHDYZKkacqomKXIx63t8kmZjjQ5wUNw61aR5nQwMMesdpMsgXI8JL2zVAffJESeCZyjaepxDxxj4fmMIET15GnzQ3A==;uYrOrnkV6f2dAspagCZvhg=="
 ---
