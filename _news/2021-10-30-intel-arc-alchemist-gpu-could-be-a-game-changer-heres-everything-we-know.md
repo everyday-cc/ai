@@ -43,6 +43,20 @@ related:
         width: 708
         height: 442
         isCached: true
+  - title: "The Intel Arc Alchemist GPU has the potential to be a game changer"
+    excerpt: "On paper, the new Intel Arc Alchemist GPU appears to be just the ticket, with performance comparable to Nvidia’s RTX 3070. The GPU is still some time away, with a release date of Q1 2022, but YouTuber Moore’s Law is Dead claims to have offered a first glimpse at what the card will look like — or what it presently looks like in its pre-production condition,"
+    publishedDateTime: 2021-10-30T16:57:00Z
+    webUrl: "https://techstory.in/the-intel-arc-alchemist-gpu-has-the-potential-to-be-a-game-changer/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/Wccftech.jpg"
+        width: 1480
+        height: 721
+        isCached: true
 
 secured: "33YYwA3o1VosNhEE0VwweYh/kTc3Y6wpKgWNrV9XVI0crQ1Ft/47vdUG/1pcEBGyESHN8W487DSIS+17xZ/kxfoocPlW8NF9YaGx/uGv4q8gi2PxQVNf/MJycxtFfeXWJvCJ2MFywlIGjNYp5K/SMuwwpKJArYrgPsKSMIPSSJR9bTZE4Gn1+mGuUhw5Dqx2xD76mxtryPtRFHYGgfd+segGGgAGjUkDxCdEamaPdzsOuqvQcxUZwUFdaclKIT3IPAEW8qWvqps6j+NZnfhG0vcHOzSXAHvjQqVwB1t2HBNDRdIPr1G5NX/wLqxN9WLmsTItRsoW/DkE5zfOY2utkfrJx6wFEMIaq2BEvivqI/AQIjn2TKcPBBfSpynmICSS4NUw3Hwxk4FFaIEKPB6lhRB34+c4amVTXuuz9chIfIQAa66vmG45cxiku+6KLtfFYOSTAS5UoKG0p1jnQqDA0PsD/ukUqrUXAKGb/bKr5E2S/GNOHDFbTGHSs8OadMHxbS86yzeiQwaMAVXC4lSTiQ==;T74z59G0BWghnncU8HsU/A=="
 ---

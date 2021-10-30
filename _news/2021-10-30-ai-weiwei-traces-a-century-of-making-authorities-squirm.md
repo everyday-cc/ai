@@ -3,8 +3,8 @@ category: news
 title: "Ai Weiwei Traces a Century of Making Authorities Squirm"
 excerpt: "A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China."
 publishedDateTime: 2021-10-30T14:00:00Z
-originalUrl: "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000"
-webUrl: "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000"
+originalUrl: "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000?mod=lead_feature_below_a_pos1"
+webUrl: "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000?mod=lead_feature_below_a_pos1"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 550
         isCached: true
 
-secured: "zA5vsaYiPtomcReZerPFZjgZeEPy2/I1Go/HYp0draXFCSp0Dyp+3yStR+61+g1puBzVH1hy6b6EG10Y36XtjpdBYER5e3ZCNDPd5E7GCT4Qd28DAruSzHZvRukpxjEQxCUvxzpzdSA9p8aBerQFwIUWFl3w5y9hgB9+iuto0EiJUwYtLtfRFCe8Z2ztqrt/v7tCZR4IQCnrqAiAohSDR+Fqv7CdYA2EHBg8CfwrWdMm4mxSpqC3CuUAhMyIlNUAS1rO1VZZHpXQ/PkDh7mANrex+VpmR/dNL+Ia+HDzq4KN64BsMueP3IkQGc+jwwEBvu9ItHAig8d2bjHIhVkBfcAJD2QsxIKbn0Wk8jENe3g=;4KLgQA8L4EDD+qGUW+RYfg=="
+secured: "adQSe+8BzM1mYUERbereoWO4AetaQ7ORGFMFspxv7hh1lpvGUmJHj0/fp+pJeZz4BLtcOZkOLGW0X3006gU1ZZ//k8ByMfwFBx6b9xMNo0+igK8ySnqWr02dGRa73DCKyHxZHGO4KtReM/7es32LT0JSp2bbk7Wpl/es2ERfTFyXkHsoV5PLw9hiRHMp0b5eZQ91+dkgropKQhpPBRL3mYXecs5LD0Aqbe0/6sRXBmBG0bPgBYTi2p4Z6ZN0Hduvp8WSqFq1a18N3YRN45U7iMoBFrmuRhymKLY+cWFVz7vMjsxjW/tSBzd7v3rUdyZYzs8M1/i4yyGMLWV0c4PTocdeeijEJEGRsuE9iqWQkO8=;DDURKAICGbLyYyCFZJ0Rxw=="
 ---
 

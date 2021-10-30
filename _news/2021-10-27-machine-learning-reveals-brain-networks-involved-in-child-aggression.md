@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Machine learning reveals brain networks involved in child aggression"
-excerpt: "Child psychiatric disorders, such as oppositional defiant disorder and attention-deficit/hyperactivity disorder (ADHD), can feature outbursts of anger and physical aggression. A better understanding of what drives these symptoms could help inform treatment strategies."
-publishedDateTime: 2021-10-26T22:02:00Z
-originalUrl: "https://medicalxpress.com/news/2021-10-machine-reveals-brain-networks-involved.html"
-webUrl: "https://medicalxpress.com/news/2021-10-machine-reveals-brain-networks-involved.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-10-machine-reveals-brain-networks-involved.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-machine-reveals-brain-networks-involved.amp"
+excerpt: "In the first study of its kind, Yale researchers use machine learning to find large-scale neural connections linked to aggressive behavior in children."
+publishedDateTime: 2021-10-27T00:09:26Z
+originalUrl: "https://news.yale.edu/2021/10/26/machine-learning-reveals-brain-networks-involved-child-aggression"
+webUrl: "https://news.yale.edu/2021/10/26/machine-learning-reveals-brain-networks-involved-child-aggression"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Yale Environment 360
+  domain: yale.edu
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-revea.jpg"
-    width: 1022
-    height: 594
+  - url: "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/ynews-angry-child2.jpg?itok=ST5YUgKx"
+    width: 766
+    height: 402
     isCached: true
 
-secured: "yhYi2jsqG+AEem2QYCz86HHLR1kHfmKpcylysX8XRlWvxGGT+MFqswAlWbqZCJKD8U7YKUirOYQ8IGMzdOamDWLGTBtfgm82dPAM0sWg2ytNMXFqVgbm09LXCISUp5XlEuYcZBZjiXl7kKkPh4PTyXh124q52mAzWbzNPxg2wW/7dTuep4zLIjU1jgXHgc2DGNGyM5SckjGvh16tzcGA9YY1Z1bj55YJNXGL8s5eoOkSxW9lvd512ch9yslvXXtFfKjgfCzYdIZP7B+dc91+b5y44B4+2Laiw0Fclon2le4LeLbXvwLMN/+2cUnaELzyet6m9ALd+c7VGG0bAiw4DuSDwIAmRHkm+9z22MNzB7t1JOUj+iLasCgDSLknbXF0kfBF4pWTSbPZu6K6DDXX+BiIXmi9+/NFIDzv46CfmFosuJFRsGHpl1ig+hv+EKxJghCmQODGyTUpI9n/7tEUi0r00WkgkHuUoH118bQV1xjJF2WD9WxeaMQe3cWkJdbYIWR9F/ig3Ezl3dyzjoJWQA==;6IQm3ZROr3YhisYzuvSPxA=="
+secured: "nuU7XifjlN5A+aogz/VImZ+hVhgjzO5ZzMfJAOq/IXno1ViTjb9tYrejdvgxoH7A26f6LEoJS8kiG7B7nxPWeRbkeuh0OO17gzuFNm8fu8/MQqBhPTzSC7ZoOJEP6c91i66coJs/g78eHXSNk/X5ixK478q1JW8e8wIZwMbFM/ySlU3TDy7d8atZ+d7G3f3Do81WKOQolSXoPSjoTMKTqJIAmSpNIfRs9BYH7sb+KM+CHDcvVvNOC6zYfcNEXaO2TcCvUC0meAExsBK3vzO2XIa/FLOw7ySLwxiUbmTAoyBxXowAyZ6pNQht3wxeG9lht93pvYe8uICsru2YQPO8KiKTEdR1zrngqBkEmSlVsmU=;XvkYvBmBhE+sM2ntkoejcw=="
 ---
 

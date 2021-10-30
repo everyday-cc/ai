@@ -73,6 +73,20 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "Machine Learning Market 2021: Industry Size, Share, Revenue, Business Growth, Demand and Applications Market Research Report to 2026"
+    excerpt: "Machine Learning Market” provides a comprehensive analysis of the market. The analysis includes market by segments"
+    publishedDateTime: 2021-10-28T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-industry-size-share-revenue-business-growth-demand-and-applications-market-research-report-to-2026-2021-10-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Trends 2021: Industry Size, Share, Business Strategy, Growth, Revenue, Demand, Applications and Forecast to 2025"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “Artificial Intelligence Market”"
     publishedDateTime: 2021-10-26T10:46:00Z

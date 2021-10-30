@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103051903/Robotaxi-Market-Analysis-with-Ongoin
 webUrl: "https://menafn.com/1103051903/Robotaxi-Market-Analysis-with-Ongoing-Trends-Market-Revenue"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotaxi Market – Analysis with Ongoing Trends & Market Revenue"
-    excerpt: "Baidu has developed an autonomous driving platform called Apollo. They have partnered with the Swedish car maker, Volvo, to produce self-driving cars for their fleet. Baidu has decided to start ..."
-    publishedDateTime: 2021-10-26T00:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/robotaxi-market-analysis-with-ongoing-trends-market-revenue"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.abnewswire.com/uploads/1635224832.jpeg"
-        width: 650
-        height: 396
-        isCached: true
   - title: "China's Baidu is Turning Production Vehicles into Robotaxis With its Factory-installed Autonomous Driving System"
     excerpt: "Chinese technology giant Baidu Inc. is developing an entire mobility ecosystem in China around self-driving vehicles as part of its Apollo autonomous driving platform. To support its plans, the company is working with China’s leading automakers to install its autonomous driving hardware during production,"
     publishedDateTime: 2021-10-29T01:44:00Z

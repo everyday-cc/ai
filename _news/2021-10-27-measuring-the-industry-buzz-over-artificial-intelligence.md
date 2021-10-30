@@ -34,11 +34,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617d508009fce0bdf8ec75db%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3020%26cropY1%3D144%26cropY2%3D2409"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Discovering exoplanets using artificial intelligence"
+    excerpt: "By implementing artificial intelligence techniques similar to those used in autonomous cars, a team from the UNIGE and the UniBE, in partnership with the company Disaitek, has discovered a new method for detecting exoplanets."
+    publishedDateTime: 2021-10-27T13:46:00Z
+    webUrl: "https://phys.org/news/2021-10-exoplanets-artificial-intelligence.html"
+    ampWebUrl: "https://phys.org/news/2021-10-exoplanets-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-exoplanets-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/discovering-exoplanets.jpg"
+        width: 750
+        height: 329
         isCached: true
 
 secured: "Xzf7Fkbm6jWw5pMquX02VzdaA6fQM3tMvZ9CtLINp6XwO0IGcKkzOWsEI8UvdWUCKRAuTBRETWfqZpqjpvMMktcVh7jEi0SCAyx8Z7xlqvqsg8EbGrHw/P5fPrpa8aGJV2nGpxp49miqvTu/oWNj7ijzsh1Ze4BWQRbKnox8Q4MjgRHMYBMByHlPBIolFS7C5JzKcvZeawnyMQAmAvZ14PI/tUBzuAVFlCsd+w3duAsq6aMCpwH3GMmdV4KB66HOBwBgQPB+vRhL75ZB8yKRXQ8DwfyLFfBkn+WbfPfWZl6R7Ub4UmjRU2s4uQvZEbQrfc3FKI4bwctpEoqpCSLfA7DzvxytO0qEA+9I+gIoQBf6hYEKW7SzodrcLFJJL2iPG2Bg5N4MFZ9JumNy+n8zOfV82Hie2RKd2dYX4GnEoWu4y5Qm+DAmfy25gIR7ENwp8ipcWKdAHZtGfE+JTjfksReAnYaY2kBJXTK3bBhcYLj+wnp/KF2VhN0RmxRnoFqbsgR7y5ye1+f7DNLLQiqNhw==;FtHxkP9dJoVYNk39QdfWlg=="

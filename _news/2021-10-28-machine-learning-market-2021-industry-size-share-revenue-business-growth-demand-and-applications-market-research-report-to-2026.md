@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Deep Learning in Machine Vision Market Outlook 2026: Top Companies, Trends and Growth Factors Details for Business Development"
-excerpt: "Deep Learning in Machine Vision Market” provides a comprehensive analysis of the market. The analysis includes market"
-publishedDateTime: 2021-10-26T09:07:00Z
-originalUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-outlook-2026-top-companies-trends-and-growth-factors-details-for-business-development-2021-10-26"
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-outlook-2026-top-companies-trends-and-growth-factors-details-for-business-development-2021-10-26"
+title: "Machine Learning Market 2021: Industry Size, Share, Revenue, Business Growth, Demand and Applications Market Research Report to 2026"
+excerpt: "Machine Learning Market” provides a comprehensive analysis of the market. The analysis includes market by segments"
+publishedDateTime: 2021-10-28T09:02:00Z
+originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-industry-size-share-revenue-business-growth-demand-and-applications-market-research-report-to-2026-2021-10-28"
+webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-industry-size-share-revenue-business-growth-demand-and-applications-market-research-report-to-2026-2021-10-28"
 type: article
-quality: 56
+quality: 38
 heat: -1
 published: false
 
@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning in Machine Vision Market Outlook 2026: Top Companies, Trends and Growth Factors Details for Business Development"
+    excerpt: "Deep Learning in Machine Vision Market” provides a comprehensive analysis of the market. The analysis includes market"
+    publishedDateTime: 2021-10-26T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-outlook-2026-top-companies-trends-and-growth-factors-details-for-business-development-2021-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Auto Insurance Market Insights Shared in Detailed Report 2021 till 2028"
     excerpt: "New York United States AI in Auto Market report will provide one with overall market analysis statistics various trends drivers opportunities restraints and every minute data relating to the AI in Auto market necessary for forecasting its revenue"
     publishedDateTime: 2021-10-26T11:07:00Z
@@ -68,20 +82,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market 2021: Industry Size, Share, Revenue, Business Growth, Demand and Applications Market Research Report to 2026"
-    excerpt: "Machine Learning Market” provides a comprehensive analysis of the market. The analysis includes market by segments"
-    publishedDateTime: 2021-10-28T09:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-industry-size-share-revenue-business-growth-demand-and-applications-market-research-report-to-2026-2021-10-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -125,6 +125,6 @@ related:
       domain: chipdesignmag.com
     quality: 8
 
-secured: "9e91cyTx+j4uqDC4r3jQ88Tr3ZUCvylktS9ZMmPGNiX0wCRsBEq3f7cugJEE5TspMJynPJmbTaISBrwpd07k8QJGDI1UM1QTuZIjPvNH7/R+e30UyosnZ0XZfx4g2uGzhsSDsCXQRIys86Vs82emicpk4EsNgwzn9TueZUaZ+RNlkwCZzHcku31Xg2zRevXZ7eYOG7aN6sqjBBl8A/d5b/fj9e9g1mNvqRK75T1Vp7ps7ZtfyyvHUr90zDhjtc0YtnSRSGbI85v3AKIgvCi9bkHets6y9dmGsvVhE17RxG02FMjmmbr+834DX9PNCzHI6xkmDfxYWx5sA/rjQMPgpnDq/96/zeZv2GgtITWfn0Y=;H0qKl9MjcjcGmFikFqpcTg=="
+secured: "7RCa71Z14x/7wUR/SxW6qL1KZuqfM/f/UuViVBGyo3UYps1opELc9jPN4g3CJAz1Gj7dYQ+26U9yZYKeJ/lbYo0VePIYaNjjs5OO2PSOgXBWL5J0H35p6ypO7n9O2x4mqKqrnQWnW+2oFbN9bAztXFpyUTpAYZTOSUxSPgYnH5OKnfVgl2kpLXpaeBlEmT8F05DyL/C/QhU5TX3mQVwzvb83gSBtCdtjRbOY6YT+aS/KjM+HrmRq8//QPpc39FFCOSMuU46jJPDktpy4eJRKnkrFzJMdnyIGWSU0p38xJLaVKiAcZwKW2LF39umKFip74LJm7x1OPx+Zw6vu3WtSDs/4csPuKS6Lyjj9ZdKdaMM=;bH2t5USirZXh5no7JDM+Uw=="
 ---
 
