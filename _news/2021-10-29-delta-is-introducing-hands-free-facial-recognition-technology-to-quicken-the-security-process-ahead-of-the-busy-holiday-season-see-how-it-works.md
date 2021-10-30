@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "The evolution of speech recognition technology"
+    excerpt: "About the Author Graeme John Cole is a contributor for Rev, creator of the world's most accurate automatic speech recognition engine, Rev.ai. Today, we all carry KITT in our pockets. We sigh when KITT answers the phone at the bank. The personality isn’t ..."
+    publishedDateTime: 2021-10-29T22:46:00Z
+    webUrl: "https://www.techradar.com/in/news/the-evolution-of-speech-recognition-technology"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/the-evolution-of-speech-recognition-technology"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/the-evolution-of-speech-recognition-technology"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/bQttsYAKmrwusDNeEaNGnC-1200-80.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Airlines turn to facial recognition technology ahead of holiday rush"
     excerpt: "The travel industry is gearing up for what could be its since the coronavirus pandemic began, and at least one U.S. airline is aiming to make things easier and faster."
     publishedDateTime: 2021-10-27T12:01:00Z
@@ -47,6 +63,22 @@ related:
       - url: "https://s.abcnews.com/images/GMA/delta-airlines-biometric-boarding-01-ht-llr-211026_1635280415660_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Speechmatics pushes forward recognition of accented English"
+    excerpt: "Speech recognition has gone from convenient to crucial over the last few years as smart speakers and driving assist modes have taken off — but not everyone’s voice is recognized equally well. Speechmatics claims to have the most inclusive and accurate model out there,"
+    publishedDateTime: 2021-10-26T19:17:00Z
+    webUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/"
+    ampWebUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-496729620.jpg?w=1024"
+        width: 1024
+        height: 767
         isCached: true
   - title: "Patient Privacy Concerns Emerge Over Facial Recognition Tech"
     excerpt: "Surveyed patients expressed concerns over data governance, usage, and patient privacy relating to facial recognition technology being used in medical research."
@@ -64,19 +96,35 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "Facial recognition technologies already used in 11 EU countries and counting, report says"
-    excerpt: "Law enforcement authorities in 11 European countries are already using biometric recognition systems in their investigations and eight more are to follow, a new study points out,"
-    publishedDateTime: 2021-10-26T07:45:00Z
-    webUrl: "https://www.euractiv.com/section/data-protection/news/facial-recognition-technologies-already-used-in-11-eu-countries-and-counting-report-says/"
+  - title: "Speech And Voice Recognition Technologies Market is Booming Worldwide | Nuance, IBM, Sensory"
+    excerpt: "Advance Market Analytics published a new research publication on Speech And Voice Recognition Technologies Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving"
+    publishedDateTime: 2021-10-27T11:13:00Z
+    webUrl: "https://www.openpr.com/news/2444172/speech-and-voice-recognition-technologies-market-is-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2444172/speech-and-voice-recognition-technologies-market-is-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2444172/speech-and-voice-recognition-technologies-market-is-booming"
     type: article
     provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 30
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
     images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/FR-2-800x450.jpg"
+      - url: "https://cdn.openpr.com/U/a/Ua27415428_g.jpg"
         width: 800
-        height: 450
+        height: 533
+        isCached: true
+  - title: "New tech allows face-recognition payment"
+    excerpt: "A biometrics tech firm located in Netherlands called VisionLabs disclosed a payment machine that lets clients pay for products with a glance only.<br"
+    publishedDateTime: 2021-10-25T12:41:00Z
+    webUrl: "https://menafn.com/1103038857/New-tech-allows-face-recognition-payment"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_77_menafn.jpg"
+        width: 512
+        height: 341
         isCached: true
 
 secured: "mmB5rAcAZRrKk4Ot7Ctt7EM3TkbchVYxtcesOehlYlp2B/g9aqtGqfYNhRkuP0DMB/azZSgGscFrAx696DpE/Ls1mdCQVt1CHPouSd+gyWq423N2U0QwfnyuP6bEM+5rIhtvgBhwAFpFLRpoB5QKOf/5nUx7+HPScyl3zDFMCTMPkQVhUFg1P/9jBk0RHZhE73vonFyd3yGhT5GiQLUdT0x1csxDu4KXmVACs8vbs6Z8RCNTglUo/HjOry+WDNa6QudSCPciwdF1Xdb1Je9YHDuz33hmDtxmjgLfrqcel70JH6ZI6gFM76hjG8pJXFHRK/K5HllnduB0LX2oBamolb1QJBuA6sXcgumWrL8TJLJUTSOmC5e90FRJTGIkphGsr5VrjQWJRNZ2rkl4v4FvoSRcA/rbHmfl7W2k45KX5p2nhMKvV+V9HRlZs+6QjHV2IEHJd3vP2o5s0NlwyliEt/H8EkEsXjHuDAEAYvUpoM6ktjgl3bEvnlCsTp3X0zaYOhywKnAvsGYkSw8MLDzudA==;0yULvUdcqL/600Nh8XRq7w=="

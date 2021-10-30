@@ -23,22 +23,6 @@ images:
     height: 516
     isCached: true
 
-related:
-  - title: "Can AI help predict the future of Earth?"
-    excerpt: "AI offers additional possibilities and greater accuracy for climate models. Computer simulations that scientists use to understand the evolution of the Earth’s climate offer a wealth of information to public officials and corporations planning for the future."
-    publishedDateTime: 2021-10-26T07:50:00Z
-    webUrl: "https://gadget.co.za/can-ai-help-predict-the-future-of-earth/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2021/10/pexels-photo-695299.jpeg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
-
 secured: "9JVnTpMjDRgAijsDTlhDETk0f7fggkL1QHxr5onYydjC+TBGZTvm9pOFqSpig+887PNJGjwXilO/aFCKULCVURPjt24M3tyPQPxFCqO9YGEWGZftbGjEbdxu4QdQHbfazUWtowz5k2D5gw3VrOXA7NAU5g3/WACgSbQj19zpN9bghcgeL031MICTzzDtVzZGxfaQU4VB11oEBUVfoiITELhK+tMkpi+r0eMyN0hHsdKaLiZj2SrcMx2o0mjshlAVHZaZUTCxfwqzKo65MP6tGpQpiSkYr4t5T/I6CdA2/uIk4sD2+cDDGRG/RZDP4q7249OwK4y8yo7NLqL47yof/DIoxDFHxfljthScdYXw32g=;Z2Wvftlhix8lMGha3ZpErw=="
 ---
 

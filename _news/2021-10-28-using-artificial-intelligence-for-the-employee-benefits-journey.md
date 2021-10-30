@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benefitspro.com/2021/10/28/using-artificial-intelligence
 cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/?amp=1"
 type: article
 quality: 61
-heat: 63
+heat: 61
 published: false
 
 provider:

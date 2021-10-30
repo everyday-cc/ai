@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 1270
         isCached: true
-  - title: "New tech allows face-recognition payment"
-    excerpt: "A biometrics tech firm located in Netherlands called VisionLabs disclosed a payment machine that lets clients pay for products with a glance only.<br"
-    publishedDateTime: 2021-10-25T12:41:00Z
-    webUrl: "https://menafn.com/1103038857/New-tech-allows-face-recognition-payment"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_77_menafn.jpg"
-        width: 512
-        height: 341
-        isCached: true
   - title: "American Green goes live with age recognition in biometric vending machines"
     excerpt: "American Green has made face biometric and age verification fully operational on its cannabis and CBD vending machines for customer onboarding."
     publishedDateTime: 2021-10-27T21:51:00Z

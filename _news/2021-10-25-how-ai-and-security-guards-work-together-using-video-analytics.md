@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 794
         isCached: true
+  - title: "AI Weekly: The perils of AI analytics for police body cameras"
+    excerpt: "Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next. In 2015, spurred by calls for greater police accountability, the federal ..."
+    publishedDateTime: 2021-10-29T21:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/"
+    ampWebUrl: "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/GettyImages-695011490.jpg?w=1200&strip=all"
+        width: 1200
+        height: 816
+        isCached: true
   - title: "Evolution of Voice AI"
     excerpt: "Evolution of Voice AI The progression of technology in the field of Voice AI has been exceptional! Read more to know about the current state 18312660"
     publishedDateTime: 2021-10-25T17:01:00Z

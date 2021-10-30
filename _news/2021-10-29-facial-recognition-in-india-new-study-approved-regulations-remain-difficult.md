@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202110/facial-recognition-in-india
 webUrl: "https://www.biometricupdate.com/202110/facial-recognition-in-india-new-study-approved-regulations-remain-difficult"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Biometric Companies
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ready facial recognition market among French soccer clubs restrained by regulator"
+    excerpt: "Soccer clubs in France are tempted by the possibility of keeping violent spectators out of the stands without hindering their fans through facial recognition."
+    publishedDateTime: 2021-10-29T20:56:00Z
+    webUrl: "https://www.biometricupdate.com/202110/ready-facial-recognition-market-among-french-soccer-clubs-restrained-by-regulator"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/03/15134221/55E317FA-8810-497C-953C-2C2FF536DCE5.jpeg"
+        width: 1512
+        height: 672
+        isCached: true
   - title: "Yuma Regional Medical Center earns recognition as digital leaders in healthcare"
     excerpt: "The Yuma Regional Medical Center (YRMC) has announced they have received recognition for being the \"Most Wired\" organization in acute care and ambulatory areas."
     publishedDateTime: 2021-10-26T00:19:00Z

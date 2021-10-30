@@ -137,20 +137,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla pulls its new Full Self-Driving beta due to software 'issues'"
-    excerpt: "U.S. electric car maker Tesla Inc on Sunday rolled back the latest version of its Full Self-Driving (FSD) beta software, less than a day after its release, after users complained of false collision warnings and other issues."
-    publishedDateTime: 2021-10-25T05:25:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/tesla-pulls-its-new-full-self-driving-beta-due-software-issues-2021-10-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/Zm3CWzgt53K4S06T6qYaJKRfeeU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S2YLXVCFOFLAFHDUGLJWY2AD6Y.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
     excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla Inc's decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
     publishedDateTime: 2021-10-25T16:35:00Z
@@ -313,20 +299,6 @@ related:
       - url: "https://blogapp.bitdefender.work/hotforsecurity/content/images/2021/10/tesla-drive.jpeg"
         width: 800
         height: 420
-        isCached: true
-  - title: "Tesla halts Full Self-Driving beta 10.3 rollout, Elon Musk says they’re ‘seeing some issues’"
-    excerpt: "A new version of Teslas Full Self-Driving (FSD) beta build was released over the weekend. However, the company later pulled out beta version 10.3 as CEO Elon Musk said the update was spotted with some issues."
-    publishedDateTime: 2021-10-25T06:48:00Z
-    webUrl: "https://www.econotimes.com/Tesla-halts-Full-Self-Driving-beta-103-rollout-Elon-Musk-says-theyre-seeing-some-issues-1619882"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 28
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202110256a11885139a875351_th_1024x0.jpg"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "1SjwSU7qRIoMuB91i3+ev606cQndw4jJy5vGG08Koyljq0p8ewyXqT2WtFzmM/AuF6G3V5XH2KaBrPxveIj5oSQvJc2/XekJQio6v+5IyqapaU9Afh5k6XI9c0CH9MJaZuvfXYmxCltDdls2u5sc3rHX11plwiN9720E/WONkuFbX4LPqlR3gfexXnqMXik+s/PcXd/RBhMxSm5m9HMZhmp1Vb8O4G3MInC3J3dglNow3AbQeSF+I8Qe9P95NnGrTOp3zWtrZm+HzjZ0F0k2SadB0fa90wYPtMHgHal4fI5G9UXVifLgb0BXj+3chFyYpu9Pt+QKmSHkIt1hCCrjx8uAaEZC/Ap8Bm0xGrLqG7Fb7hq6PfzONsapLA5ViDrCvSOnipN+tw4M6HXWctmcwW/Kky8KgeA3+JOI6Hhc7UBfNpdwonqs3PwRfk/fAS8vTIwcaveCLaiLTeeQe+02BxtA9B0BS2eQbpXDS/+ruTnDF3JUKBm5p0Rwi6niGMN07OQECA253IjYWZAZWVzctA==;2iqZVp9TfK9N5XL4IO0KEw=="

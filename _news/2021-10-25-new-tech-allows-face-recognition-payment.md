@@ -25,68 +25,102 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Solution Provider, VisionLabs, Introduces New Biometric Payment Hardware"
-    excerpt: "VisionLabs, the facial recognition company, has announced the launch of its biometric payment hardware — the VisionLabs LUNA POS Terminal. The certified terminal is the first payment device to enable traditional credit card payments and biometric facial recognition payments."
-    publishedDateTime: 2021-10-25T18:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/10/182097-facial-recognition-solution-provider-visionlabs-introduces-new-biometric-payment-hardware/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182097-facial-recognition-solution-provider-visionlabs-introduces-new-biometric-payment-hardware/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182097-facial-recognition-solution-provider-visionlabs-introduces-new-biometric-payment-hardware/amp/"
+  - title: "The evolution of speech recognition technology"
+    excerpt: "About the Author Graeme John Cole is a contributor for Rev, creator of the world's most accurate automatic speech recognition engine, Rev.ai. Today, we all carry KITT in our pockets. We sigh when KITT answers the phone at the bank. The personality isn’t ..."
+    publishedDateTime: 2021-10-29T22:46:00Z
+    webUrl: "https://www.techradar.com/in/news/the-evolution-of-speech-recognition-technology"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/the-evolution-of-speech-recognition-technology"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/the-evolution-of-speech-recognition-technology"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 49
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face.jpeg"
-        width: 1280
-        height: 1270
+      - url: "https://cdn.mos.cms.futurecdn.net/bQttsYAKmrwusDNeEaNGnC-1200-80.jpeg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "American Green goes live with age recognition in biometric vending machines"
-    excerpt: "American Green has made face biometric and age verification fully operational on its cannabis and CBD vending machines for customer onboarding."
-    publishedDateTime: 2021-10-27T21:51:00Z
-    webUrl: "https://www.biometricupdate.com/202110/american-green-goes-live-with-age-recognition-in-biometric-vending-machines"
+  - title: "Airlines turn to facial recognition technology ahead of holiday rush"
+    excerpt: "The travel industry is gearing up for what could be its since the coronavirus pandemic began, and at least one U.S. airline is aiming to make things easier and faster."
+    publishedDateTime: 2021-10-27T12:01:00Z
+    webUrl: "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460"
+    ampWebUrl: "https://goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
+      name: ABC
+      domain: abcnews.go.com
+    quality: 74
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/27174712/vending-machine.jpg"
-        width: 900
-        height: 600
+      - url: "https://s.abcnews.com/images/GMA/delta-airlines-biometric-boarding-01-ht-llr-211026_1635280415660_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Luna POS introduces biometrics to allow shoppers pay by face recognition"
-    excerpt: "Indonesia-based mobile payments company <a href=' target='_blank'>Luna POS has created a biometric payment system in partnership with machine learning solution provider <a href=' target='_blank'>VisionLabs to allow facial"
-    publishedDateTime: 2021-10-28T12:30:00Z
-    webUrl: "https://thepaypers.com/digital-identity-security-online-fraud/luna-pos-introduces-biometrics-to-allow-shoppers-pay-by-face-recognition--1252424"
+  - title: "Speechmatics pushes forward recognition of accented English"
+    excerpt: "Speech recognition has gone from convenient to crucial over the last few years as smart speakers and driving assist modes have taken off — but not everyone’s voice is recognized equally well. Speechmatics claims to have the most inclusive and accurate model out there,"
+    publishedDateTime: 2021-10-26T19:17:00Z
+    webUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/"
+    ampWebUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
     type: article
     provider:
-      name: The Paypers
-      domain: thepaypers.com
-    quality: 18
-  - title: "European Parliament Calls for Bans on AI-based Biometric Recognition in Public Spaces, Predictive Policing, and Social Scoring"
-    excerpt: "Privacy News Online reported on an important set of proposals from the European Commission to regulate the use of artificial intelligence biometric recognition"
-    publishedDateTime: 2021-10-25T09:17:00Z
-    webUrl: "https://www.privateinternetaccess.com/blog/european-parliament-calls-for-bans-on-ai-based-biometric-recognition-in-public-spaces-predictive-policing-and-social-scoring/"
-    type: article
-    provider:
-      name: Private Internet Access
-      domain: privateinternetaccess.com
-    quality: 11
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://www.privateinternetaccess.com/blog/wp-content/uploads/2021/10/2560px-Debate_European_Parliament_Copyright_in_the_digital_Single_Market.jpg"
-        width: 2560
-        height: 1920
+      - url: "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-496729620.jpg?w=1024"
+        width: 1024
+        height: 767
         isCached: true
-  - title: "authID.ai Challenges the Industry to Replace One-Time Passwords with Facial Biometric Authentication Solution"
-    excerpt: "Following its mission to eliminate one-time passwords and account fraud, identity authentication as-a-service provider authID.ai [Nasdaq: AUID] (formerly Ipsidy), today announced its biometric authentication solution,"
-    publishedDateTime: 2021-10-25T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-authidai-challenges-industry-replace-one-time-passwords-with-/2021/10/25/9476225.htm"
+  - title: "Delta is introducing hands-free facial recognition technology to quicken the security process ahead of the busy holiday season — see how it works"
+    excerpt: "Source: Delta Air Lines In November, Delta will roll out a one-of-a-kind facial recognition technology dedicated to domestic travel out of its Atlanta hub, building upon its biometric systems already in place for international passengers. Source ..."
+    publishedDateTime: 2021-10-28T18:56:00Z
+    webUrl: "https://www.businessinsider.com/photos-show-delta-air-lines-new-facial-recognition-technology-2021-10"
+    ampWebUrl: "https://www.businessinsider.com/photos-show-delta-air-lines-new-facial-recognition-technology-2021-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/photos-show-delta-air-lines-new-facial-recognition-technology-2021-10?amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/617970c089b91c00185a8daa?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Patient Privacy Concerns Emerge Over Facial Recognition Tech"
+    excerpt: "Surveyed patients expressed concerns over data governance, usage, and patient privacy relating to facial recognition technology being used in medical research."
+    publishedDateTime: 2021-10-25T17:00:00Z
+    webUrl: "https://healthitsecurity.com/news/patient-privacy-concerns-emerge-over-facial-recognition-tech"
+    ampWebUrl: "https://healthitsecurity.com/news/amp/patient-privacy-concerns-emerge-over-facial-recognition-tech"
+    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/patient-privacy-concerns-emerge-over-facial-recognition-tech"
+    type: article
+    provider:
+      name: IT Security
+      domain: healthitsecurity.com
+    quality: 59
+    images:
+      - url: "https://healthitsecurity.com/images/sized/GettyImages-991470640-39a26234983c4eca9381530cb872a66d.jpg"
+        width: 480
+        height: 278
+        isCached: true
+  - title: "Speech And Voice Recognition Technologies Market is Booming Worldwide | Nuance, IBM, Sensory"
+    excerpt: "Advance Market Analytics published a new research publication on Speech And Voice Recognition Technologies Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving"
+    publishedDateTime: 2021-10-27T11:13:00Z
+    webUrl: "https://www.openpr.com/news/2444172/speech-and-voice-recognition-technologies-market-is-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2444172/speech-and-voice-recognition-technologies-market-is-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2444172/speech-and-voice-recognition-technologies-market-is-booming"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua27415428_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "89vcT079TNmePeGqWGwnh30v3uN577O9OtvozfE41aG9DfyAlYzck6YhjY/Zw5jPaVy7thBrdqqvCdAjp+Iu3Uf6yxvBp9Noz80hZVde5uniSu98osqUoWkbPRTQ6C0HMuUdCZHSpkLCVCo559Q7T73vd3L6ikGllcLNm2s3L4kLDDb2c9FB7Mddw5/fGIFMtANMnKTPCXHRmBg/7l2WqWVjH+tkUJ+8Ks3CSXIYTJ0lraRZJPv2sUnDsHzkFdPO2i40AeB1l8vsNtgAo2ikulecy9JWPQ8B4rmAF+WnNGxQo9YsL3zO117/uz5pa2fweL1XEKeP4caXPLOyhzw+7u/w9q7/BJZYGpcAuX2ro7tBV9qIaIEumEFRwL1RFHwHOkHg8eJFm9tnUg/3mMFn9MmJd/D3rXj0y9cakvZbHwGQdlrcemXtWKky9u37mJ7PbM6k9zNZm1fTv6nZiQzL0XeTVGUa/O4mcEa8gG6tzmzvv4t+UQXgYdysNHzG14nFaEr8oJEjUuuxmQG/aKUZiA==;R3c7xB0zll2t6vx2U3gxPw=="
 ---

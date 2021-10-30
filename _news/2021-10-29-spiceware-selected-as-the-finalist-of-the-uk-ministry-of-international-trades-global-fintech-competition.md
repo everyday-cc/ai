@@ -2,21 +2,17 @@
 category: news
 title: "Spiceware selected as the Finalist of the UK Ministry of International Trade's Global Fintech Competition"
 excerpt: "The UK's Ministry of International Trade runs a Global Entrepreneur Program (GEP) for innovative technology companies wishing to enter the UK. In conjunction with the program, the annual Global Fintech Competition awards competitive global Fintech companies with innovative solutions such as AI technology,"
-publishedDateTime: 2021-10-29T14:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/spiceware-selected-as-the-finalist-of-the-uk-ministry-of-international-trade-s-global-fintech-competition-1030915183"
-webUrl: "https://markets.businessinsider.com/news/stocks/spiceware-selected-as-the-finalist-of-the-uk-ministry-of-international-trade-s-global-fintech-competition-1030915183"
+publishedDateTime: 2021-10-29T13:26:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/10/29/9480653.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/10/29/9480653.htm"
 type: article
-quality: 37
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -158,6 +154,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fintech: The New World of Opportunities & Danger"
+    excerpt: "With unprecedented and disruptive change affecting economies throughout the world, financial technology (fintech) holds the promise of delivering financial inclusion and innovation in both advanced and emerging market economies."
+    publishedDateTime: 2021-10-28T07:10:00Z
+    webUrl: "https://www.linkedin.com/pulse/fintech-new-world-opportunities-danger-chin-lai-the"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHnwUyHAgAM2g/article-cover_image-shrink_600_2000/0/1635065854096?e=1640822400&v=beta&t=ZU-DloQQ6gWRl67Fr_U6oN9AFHEDZKlzli97CaIPW_E"
+        width: 427
+        height: 240
+        isCached: true
   - title: "Revolutionary Ways Fintech is Boosting the Property Industry"
     excerpt: "Discover the most disruptive ways fintech expands the property sector, from digital-only lending and fractional ownership, to property-backed stablecoins"
     publishedDateTime: 2021-10-29T09:10:00Z
@@ -187,6 +197,6 @@ related:
         height: 406
         isCached: true
 
-secured: "AolJA5hSliaWc/tL85qw0ijPYbKyGgBDFltqxlQNL+3xYAsRoJRZ0X5dw02MtSiQi2IlLzvdPJHbXpx78/CRWXVS8Z28khpizcBHpNYoIVUDxASup8pWwL75+kar78uQ/+X/cL4MQsD3GY6VIyiq3Hk52mlhjwdINGIx9XjjZc1YB6WFri6cmZoZg2CLA/K384cBR95DuWUX/y0q1XrjnRWVQtF89DRWOXznda7aw5adNlI/8kaqIfUjm5hQYZecQLnb0BYwFoPe0Nac+aXsmWoKhcz/5Bzw0jDiFEtV89rudsrVrEJsBxVwBDCqozFNO1SLSrx173PX6XENp7Zjaiu71GJFoyZntXCpttiIf0nAc6KZahZ7KKJ0HMWRr6t0OYltzJ2rAgTb4rhEvm+q3X82W3B1waqeWy6wmzeSpcnWeVUigeZ/PMUaqX61n5mkOsYk9bWKNv1LcMcWv00wNUuuxPIdESGvL9RMws2G0PjZbD7mPtr5+Y26eG4wOhUr832VyczkWO2BQRghArFZDw==;y5ha8vT3TL9wSIEr6hTrHQ=="
+secured: "B8mTdnmkX0LbP/cRJB8deBwzTY2BqzwUTWXWn33SRhlFElZIkMxYkKzX9qPS1CO9m8a8DcjuWpHombAtJOoL7NGBP2qaXwQUjpz0liDkZ0s5uNNHatE20VyOsukVELoYGG1WBESOJ3ht7RZ6JkxsPOCUijqphws9+n1zWToFntUs02zlmnfQQ7NJyY5RZ1JJT9FoBG6ca2d8mQ7IwOqUcoeL2n/GrLj8bTR0DWsxST8Dk+HOv+h1amQbFSCwGdeyYyIEWnPEFW4egmNRFObOcIWOEZ29VSN2gV1g3UKOOTLfsjxuuR6DYU48/oQUkR4HbeWqj8XjqiCQFXYzuh8gZOyjNGwOGB3xEdUd0trYhv4=;n0fb197ZQM65/Ois0is/5Q=="
 ---
 

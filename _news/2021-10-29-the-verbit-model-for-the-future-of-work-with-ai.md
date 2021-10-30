@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Focusrite FAST Verb: reverb plug-in with artificial intelligence"
-    excerpt: "Adventures in AI aside, Focusrite's FAST Verb offers three verbs at your disposal - Natural, Balanced and Artificial."
-    publishedDateTime: 2021-10-25T05:58:00Z
-    webUrl: "https://www.gearnews.com/focusrite-fast-verb-reverb-plug-in-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Xotic
-      domain: gearnews.com
-    quality: 37
-    images:
-      - url: "https://www.gearnews.com/wp-content/uploads/2021/10/focusrite-the-collective-fast-verb-770x425-1.jpeg"
-        width: 770
-        height: 425
-        isCached: true
   - title: "The Future of AI Driven Market Research"
     excerpt: "Over the past few years, the world of market research and surveys has seen the emergence of Artificial Intelligence (AI). AI tools, which are finding their way into almost every industry, hold the potential to change the game entirely."
     publishedDateTime: 2021-10-26T18:52:00Z

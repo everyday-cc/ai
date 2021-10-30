@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp"
 type: article
 quality: 89
-heat: 289
+heat: 269
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/02JRq7FamguNJrHfmSAhcGQ/hero-image.fill.size_1200x675.v1635174008.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tesla pulls its new Full Self-Driving beta due to software 'issues'"
-    excerpt: "U.S. electric car maker Tesla Inc on Sunday rolled back the latest version of its Full Self-Driving (FSD) beta software, less than a day after its release, after users complained of false collision warnings and other issues."
-    publishedDateTime: 2021-10-25T05:25:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/tesla-pulls-its-new-full-self-driving-beta-due-software-issues-2021-10-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/Zm3CWzgt53K4S06T6qYaJKRfeeU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S2YLXVCFOFLAFHDUGLJWY2AD6Y.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
     excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla Inc's decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
@@ -317,20 +303,6 @@ related:
       - url: "https://blogapp.bitdefender.work/hotforsecurity/content/images/2021/10/tesla-drive.jpeg"
         width: 800
         height: 420
-        isCached: true
-  - title: "Tesla halts Full Self-Driving beta 10.3 rollout, Elon Musk says they’re ‘seeing some issues’"
-    excerpt: "A new version of Teslas Full Self-Driving (FSD) beta build was released over the weekend. However, the company later pulled out beta version 10.3 as CEO Elon Musk said the update was spotted with some issues."
-    publishedDateTime: 2021-10-25T06:48:00Z
-    webUrl: "https://www.econotimes.com/Tesla-halts-Full-Self-Driving-beta-103-rollout-Elon-Musk-says-theyre-seeing-some-issues-1619882"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 28
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202110256a11885139a875351_th_1024x0.jpg"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "LfSASSftLi9/oCApTPIEPvQR0GIsETwwMPaa5sdZLOkYtibNf8gcLld7mP8Te7EcXeJC9I5xaTmKk0IrzWfAPzIVM/5K7etWbluAV4PfMp95cS3D4eNTbee3tEaaXkBcdtw60NNcvXGN42ajh21AU81kysJWhErlpvaAEYM9FQ7zIhkfIhjRjFrpkg6fNypsQgIsvldv3gdCFZfPUx3N6Vn9GxDUQ9ENlXQT7n3r2D+rDXiH2LqX/+r1+6/RHqI6QFkpSa1K/23v4fnqcYs4AGxAZ/4bgKhTu0p0JwU34jYN+V/Rgj7WZAwCrR76OUGk8nCsGSHd30aJYqwfmICrjcfxJ2L/RFKpyfBV4ogRbR/SNkssXB2ccrMMAB6ouLXzKjFw5JgX3yN77TmkXH97Bv8utn8ledpgHA2OXGb9HrT5W2eZwUgSgVNbzCgH2rS2lMy8BvQRqv4XJb63tg/Z18wW9w/6NrChcveK+ynwfDXa+1PFDlC28uXNTP9J4xAgIDMazYNbHOuaZjl+qI8zXA==;MbpIxrR2KEHY7TUuHnJsYw=="

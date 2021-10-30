@@ -98,20 +98,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Spiceware selected as the Finalist of the UK Ministry of International Trade's Global Fintech Competition"
-    excerpt: "The UK's Ministry of International Trade runs a Global Entrepreneur Program (GEP) for innovative technology companies wishing to enter the UK. In conjunction with the program, the annual Global Fintech Competition awards competitive global Fintech companies with innovative solutions such as AI technology,"
-    publishedDateTime: 2021-10-29T14:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/spiceware-selected-as-the-finalist-of-the-uk-ministry-of-international-trade-s-global-fintech-competition-1030915183"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1673453/image_819222_7352417.jpg"
-        width: 566
-        height: 400
-        isCached: true
   - title: "Tech Behind MSME Fintech Startup ARTH"
     excerpt: "Mumbai-based fintech startup ARTH provides financial assistance to women-led enterprises with limited or no online adoption."
     publishedDateTime: 2021-10-25T08:30:00Z
@@ -168,6 +154,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fintech: The New World of Opportunities & Danger"
+    excerpt: "With unprecedented and disruptive change affecting economies throughout the world, financial technology (fintech) holds the promise of delivering financial inclusion and innovation in both advanced and emerging market economies."
+    publishedDateTime: 2021-10-28T07:10:00Z
+    webUrl: "https://www.linkedin.com/pulse/fintech-new-world-opportunities-danger-chin-lai-the"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHnwUyHAgAM2g/article-cover_image-shrink_600_2000/0/1635065854096?e=1640822400&v=beta&t=ZU-DloQQ6gWRl67Fr_U6oN9AFHEDZKlzli97CaIPW_E"
+        width: 427
+        height: 240
+        isCached: true
   - title: "Revolutionary Ways Fintech is Boosting the Property Industry"
     excerpt: "Discover the most disruptive ways fintech expands the property sector, from digital-only lending and fractional ownership, to property-backed stablecoins"
     publishedDateTime: 2021-10-29T09:10:00Z
@@ -181,6 +181,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/property-ladder-made-of-wooden-toy-houses.jpg.png?itok=veSXrwG0"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Spiceware selected as the Finalist of the UK Ministry of International Trade's Global Fintech Competition"
+    excerpt: "The UK's Ministry of International Trade runs a Global Entrepreneur Program (GEP) for innovative technology companies wishing to enter the UK. In conjunction with the program, the annual Global Fintech Competition awards competitive global Fintech companies with innovative solutions such as AI technology,"
+    publishedDateTime: 2021-10-29T13:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/29/9480653.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
+    images:
+      - url: "https://mma.prnewswire.com/media/1673453/image_819222_7352417.jpg"
+        width: 566
+        height: 400
         isCached: true
 
 secured: "7xz+I4Tc/MARNZhtYBG0GuxeOFvvB/E5HAuBC5s+CnTYaABY3Vzcib+uh4XfAObKlXmFqI5u6E8vMFOPZ0Yx6rKLjZR9LUhUl6AYgLYsxgx6tXKT8dNh8piazo2LTsqXKoMFPmMzIJ5ZJKnNl4DDOYx5Ok1oB0FPYUdq81F6apd+M/UodN2l9ao8ghtW8e1V/TzmrcrCgaP+37M3koCeXQBKNp4w2ok5HJCxtrp1YVyW3LhlfNZyVicGvJmX48cKBlgQki9KW3091NQg6fvCfeYijOejO8sbBemO5Zac8adJcXn73oJKUznRiRtCkQO0C5hJRDjKBRrZFE7TYsUF8wqTl1sKjCdyV0ANXGGYlRNyKIeDD3FG9L+Kzg04z2xQFTBZje4Y3l1eGopXSllAeBAjr2Vk3qR6EMw/xWPBryMVQe2up4J3B8mWKBFvkO3JpAl9NnvH+BskwHmq3nZIsLti+TkKFJB3psrhyxfbpoY6RGdPE/UcKt45Vuh4AmqyqPjDd8sZ7mSf0/4j15ypBg==;k2oY1h0hSG6Ov2Yvs/UxPQ=="

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-
 ampWebUrl: "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/"
 type: article
-quality: 83
-heat: 93
+quality: 85
+heat: 95
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all"
@@ -40,6 +41,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "mX28EmDpbSazjLgJ7zVhdzK8xdQTLTEZdhzxFGFbZOzeUHNxbXIdxRBhLwl0BMKvObkc3jOFb5pCp4GyDBxodz2OZrnrvPFHs2Ah98baExPeoc7qQk90x6up2/UBPxgngwgKGUYSzLDpkjEEplLJfo6O6Arq9R3of50Mkba0fiNFZc8YAIxqkqsqx1iAiQ4QjAbENTj99OVL6Ej2wIo0oXWRbSKLsghnlaOe5XvYcp8NR7Jk/clDCP564H8Jt1YLQxiJmq6/3c/fqF+xo65qtN8o4tGodUX/yOnv9F/Jyk1XGJEQWu9MObsH9yk/yxws1EYQph9Swf6b7+KrwjQJd3vQ7QvlxZ9SVD4I7dIo9iA=;NaJlKqEGSiTSXtKtk/1I1g=="
+secured: "C6rOOjia1NxFMJB2NLQQi/rzDb5ysQHdqK3WHCjzmAvf8NGgLORahtTSiI6Cu0ASvFyg1v7HJGKXgOEYztp9Fj7KvIlGGWiOSFOsea38Zxx/H4jCeZLC5BAiQzEH3VCfbyjLNH9iIQ4K5hUbXQT4gaQ3ND88rMNuyzacEDgEKJ1Yvs3BxvR1cebLayBNnFo5OeAKWeEwU61a5VJm4Vbj9tv0H61u2BZsItetHLRbJ2auLNhnLNgi/g8MaLv+ZluobGa1G+eaXNwkSYjr4s7sgs2b1obMQ1IUBtkomYAEqXJ8cb08wu5rdgwSHTWp5jmvd/LiPArV+x/HnBtKL8Rmz/XBocYAVrO9IgduFybrfspY7amOWwRXxvNrZUmqbDQrzjD5ZRHV23FO/kjXcinECR2A3y8n70S046+nRVEvwBulJUQGCP2svd3jiAeRVlaKr67gHy9rhC/Bc/N2e6JFhae06jsRrifXFTOoyvCDRUJ5HPcUJLWjakWLtHy9zJpp7vK9eQ7njXBGHh8Dl84pOg==;iOp9S62cEyxfNqrlPdkVwA=="
 ---
 

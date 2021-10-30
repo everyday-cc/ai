@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/yuval-harari-human-hack/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/yuval-harari-human-hack/amp"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 600
     height: 315
     isCached: true
+
+related:
+  - title: "Expert warns that artificial intelligence could soon be able to 'hack' human beings"
+    excerpt: "A world-renowned historian and philosopher is warning that humanity needs to begin regulating artificial intelligence and data collection globally or risk being “hacked.” In an upcoming inte ..."
+    publishedDateTime: 2021-10-29T22:28:00Z
+    webUrl: "https://thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack"
+    ampWebUrl: "https://thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 51
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_brainhandwritingstudy_051321istock_1.jpg"
+        width: 1440
+        height: 880
+        isCached: true
 
 secured: "x6X4Y4wDFW9ACPHLhnIz3aQsuw0fhoobiVLp15022vhQYhSGpiVElAfAL/iuuTI4mv9OcEt07IzcTU8BaXhq8VDqV9SR/Im9hW3HM1yFeSMErrKY5hHXgN4GRYojJDkP8rbdmCt50SHdLM5LuhlDNdzKFiVdMcmtZ/1pWDp45p4c9lsR6320PUbRTx7nHGgo80fkZHMke6fz3GuAM20yO3tC0BR9xlknN1FPkbM+1+5Csx3zVXWCVOn6iWjvn6Fz2fAxpYh0BNlES7Y1XLsnecrI9ISj9MisOCTzHLS+/vqVFSy8zvQ5e59Qq359k9i+UzASp00e4lxl0H0qjF6ZAGP2MC2hu4qXJS/VhXdk59ix/Fue7Wp9ibKW6wYJtFhoTcAV1QdEM3U/vbHm0jvLw+j5kMNF1+iz03q2M+LxMYRXOFvmifnP/pw7BwH1H08e51xc+Q27lY5J6FSELOFvgWKL7BFwIhOGDIbJ9PbEIa7OkB+KQKmIu2yQ7H62ZGI0lT1whzGRmRakHpSXTxMJNw==;/Ywggl63qAPqX29LSmH8AA=="
 ---

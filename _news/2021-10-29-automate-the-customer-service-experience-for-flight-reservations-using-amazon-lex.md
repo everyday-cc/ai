@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Build conversational experiences for retail order management using Amazon Lex"
+    excerpt: "Retailers want to stay engaged with their customers as they move seamlessly between digital channels and physical storefronts. By delivering personalized and consistent experiences across a range of retail touchpoints, companies can drive brand loyalty. Customers contact retailers’ customer support for"
+    publishedDateTime: 2021-10-29T22:04:54Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-retail-order-management-using-amazon-lex/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/Lex-Retail-image001-961x630.png"
+        width: 961
+        height: 630
+        isCached: true
   - title: "Build conversational experiences for auto insurance using Amazon Lex"
     excerpt: "Auto insurance companies are focusing on digital innovations to meet customer needs. Digital-first engagements provide tailored coverage, transparent information, and seamless experiences. The shift to virtual channels for customer service that occurred during the pandemic is unlikely to revert to traditional"
     publishedDateTime: 2021-10-29T19:04:37Z
@@ -42,6 +56,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/1-6098-Architecture.jpg"
         width: 800
         height: 495
+        isCached: true
+  - title: "Deliver natural and efficient customer service experiences to mobile subscribers with Amazon Lex"
+    excerpt: "Mobile service providers manage a high volume of customer service calls daily. Rapidly evolving network technology and device innovations are shaping customer expectations. Delighting callers with a quick interaction is core to a successful customer experience strategy. Mobile subscribers contact customer"
+    publishedDateTime: 2021-10-29T22:14:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deliver-natural-and-efficient-customer-service-experiences-to-mobile-subscribers-with-amazon-lex/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 76
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/Ext_Blog_Mobile_services_image001-737x630.png"
+        width: 737
+        height: 630
         isCached: true
 
 secured: "O0wDpkA2sqPcYFGBkK3KNApyZTBSZnWdeg8qWTMdvlzEVJQLMM99QJ9JIv7kkjZK/0iDJvUtCw2P/BSy4oA68wwCKGh9vZYnCULb8O9J9VxSXxTkGCCDV+1OpeG2Ua11suXuvai9SZ9O94XVFy2xVOBTXGeNsXFyTnf0MYUfAnfwUvGZwTjxWBQ2UyMHfz6cdFRC15kFBlIDRw07kGr7DM0er9EBlU03XA/Tz4E7mp0K93Jjjoj171JDoxqiBYqYPaKpizCJImjJclJ/fq3cpQNSegEC+68vgyZ4TbNvw9v+IpbNLLpHe9wvbr4KbNy/3kBtIAXLaWQbtSCcgSNaDFipRfK9W6DMNpOpBk9eRlc=;Ujw7dh24hGHZfeiV893u1A=="

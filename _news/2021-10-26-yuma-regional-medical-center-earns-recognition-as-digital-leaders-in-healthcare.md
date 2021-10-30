@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 1109
         isCached: true
+  - title: "Ready facial recognition market among French soccer clubs restrained by regulator"
+    excerpt: "Soccer clubs in France are tempted by the possibility of keeping violent spectators out of the stands without hindering their fans through facial recognition."
+    publishedDateTime: 2021-10-29T20:56:00Z
+    webUrl: "https://www.biometricupdate.com/202110/ready-facial-recognition-market-among-french-soccer-clubs-restrained-by-regulator"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/03/15134221/55E317FA-8810-497C-953C-2C2FF536DCE5.jpeg"
+        width: 1512
+        height: 672
+        isCached: true
 
 secured: "K4kvtJMYHbTP4dt29ruOMTXlbPKtHdCSoT6bBodWRattkRnPUUg7WDHtkbKu1xLt1h0DlR6tvWzLi4B9+uid+AwfkiDo0Ed5D1drG8brecClpIraBdmtySqBLLEmwO1e3rHDtxuzb7JyFIh+gxb7yngeQqkHenibiNoEiOvGUO5b6KAzzax5rHQsnEIO6WaCx9tAAy99Je7hW5w52wHvdWb3F7wm6MEJhwHkWhX00arBYHNDjTIpN6SIgOFIs30oBqCoGDJaGfURaOGP37b5ZiGZn+UlNzuA42IVqU+9H7snmack9c8TIX4X0iJtfgIbW5YPBKNrMoiTYNm1ip6jFXO53c5uwj5NsHJ+JzPIzQTrNbc/oWFGWHQNZK3DmXu+013GjZZB+oxUMGhXJnufsM/Y9cD8i3ioUCPDBZvGiQMxKO3VzqvZK1RCoHlyBLNwIE8uc28vg61Lzxvd9LDYYJO0g/qDRF6Offhuf3j0I8sp9T44Il7WO+SV+1M2bYDHiGqdTNBWHpV6dUPrQWcpFw==;ACC0+rsrrpH08J9Om5kmuw=="
 ---

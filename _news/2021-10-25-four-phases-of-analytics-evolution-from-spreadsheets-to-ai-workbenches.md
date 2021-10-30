@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Weekly: The perils of AI analytics for police body cameras"
+    excerpt: "Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next. In 2015, spurred by calls for greater police accountability, the federal ..."
+    publishedDateTime: 2021-10-29T21:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/"
+    ampWebUrl: "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/GettyImages-695011490.jpg?w=1200&strip=all"
+        width: 1200
+        height: 816
+        isCached: true
   - title: "How AI and security guards work together using video analytics"
     excerpt: "How AI and humans can work together is a longstanding debate. As society progresses technologically, there’s always the worry of robots taking over jobs. Self-checkout tills, automated"
     publishedDateTime: 2021-10-25T10:59:00Z

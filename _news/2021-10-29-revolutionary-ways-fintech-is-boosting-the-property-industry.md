@@ -98,20 +98,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Spiceware selected as the Finalist of the UK Ministry of International Trade's Global Fintech Competition"
-    excerpt: "The UK's Ministry of International Trade runs a Global Entrepreneur Program (GEP) for innovative technology companies wishing to enter the UK. In conjunction with the program, the annual Global Fintech Competition awards competitive global Fintech companies with innovative solutions such as AI technology,"
-    publishedDateTime: 2021-10-29T14:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/spiceware-selected-as-the-finalist-of-the-uk-ministry-of-international-trade-s-global-fintech-competition-1030915183"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1673453/image_819222_7352417.jpg"
-        width: 566
-        height: 400
-        isCached: true
   - title: "Tech Behind MSME Fintech Startup ARTH"
     excerpt: "Mumbai-based fintech startup ARTH provides financial assistance to women-led enterprises with limited or no online adoption."
     publishedDateTime: 2021-10-25T08:30:00Z
@@ -167,6 +153,34 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/picture%20of%20the%20US%20capitol%20building%20blended%20with%20the%20American%20flag.jpg.png?itok=jIyyI_P5"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fintech: The New World of Opportunities & Danger"
+    excerpt: "With unprecedented and disruptive change affecting economies throughout the world, financial technology (fintech) holds the promise of delivering financial inclusion and innovation in both advanced and emerging market economies."
+    publishedDateTime: 2021-10-28T07:10:00Z
+    webUrl: "https://www.linkedin.com/pulse/fintech-new-world-opportunities-danger-chin-lai-the"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHnwUyHAgAM2g/article-cover_image-shrink_600_2000/0/1635065854096?e=1640822400&v=beta&t=ZU-DloQQ6gWRl67Fr_U6oN9AFHEDZKlzli97CaIPW_E"
+        width: 427
+        height: 240
+        isCached: true
+  - title: "Spiceware selected as the Finalist of the UK Ministry of International Trade's Global Fintech Competition"
+    excerpt: "The UK's Ministry of International Trade runs a Global Entrepreneur Program (GEP) for innovative technology companies wishing to enter the UK. In conjunction with the program, the annual Global Fintech Competition awards competitive global Fintech companies with innovative solutions such as AI technology,"
+    publishedDateTime: 2021-10-29T13:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/29/9480653.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
+    images:
+      - url: "https://mma.prnewswire.com/media/1673453/image_819222_7352417.jpg"
+        width: 566
+        height: 400
         isCached: true
   - title: "DFIN Partners with Hong Kong Fintech Week 2021 Global Fast Track; Spotlights Innovative Fintech Enterprises"
     excerpt: "PRNewswire/ -- (NYSE: DFIN), a leading risk and compliance company, today announced its partnership with Hong Kong FinTech Week 2021 Global Fast"

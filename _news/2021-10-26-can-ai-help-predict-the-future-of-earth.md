@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is at the heart of investments"
-    excerpt: "Türk Telekom invested in TT Ventures, a corporate venture capital company, and Syntonym, Optiyol, QuantWifi and B2Metric companies that produce artificial intelligence-based solutions. TT Ventures selected 3 of the investments from startups that graduated from the PILOT acceleration program."
-    publishedDateTime: 2021-10-25T08:11:00Z
-    webUrl: "https://www.bthaber.com/artificial-intelligence-is-at-the-heart-of-investments/"
+  - title: "Why flat-Earthers are a clear and present threat to an AI-powered society"
+    excerpt: "If these ideas are not challenged, he fears that as with supporters of “intelligent design,” proponents of a flat Earth will start running ... can do things that no AI can do."
+    publishedDateTime: 2021-10-29T22:10:00Z
+    webUrl: "https://thenextweb.com/news/why-flat-earthers-clear-present-threat-ai-powered-society"
     type: article
     provider:
-      name: bthaber.com
-      domain: bthaber.com
-    quality: 37
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 66
     images:
-      - url: "https://www.bthaber.com/wp-content/uploads/2020/09/STM_Outlook_Yapay_Zeka_gorsel_web.jpg"
-        width: 800
-        height: 516
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fflatearthstress2.jpg&signature=6d6a8881336eaf1838c9ec8c0c0c1fed"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "na1v7UuEfKQyWttY50pOOXWbIJ9b315nsPh3M70MhHnWlcRGyI8Pvf0XQKlRhjyUbSyZr9B8Gt7UfnlQjILyhA8mrPtAdGRrDLQeOEO9h8S6vSTCQMc2hCxMLEXIVPOFHYuvNiMDzoxv3YkqBzMB/6qp2BER6F+vTefTIYpjBvG3RGzINk73avDzOMeeNdSjSPZqxcGJnX4zjG8ZS1ECHGahgtG+U7GNM4G1gchIDbX6rVn63PTGTVwpMZWs/H2BUj0zXmE1XeKTCRVJGpRviGAL9uSQRsUlds3+fLSrgyA9iHe7+FuldGJdCmD2dv4Vk6puzx/aQomCf7qJHbjf6OsWo7VkC3cZfRL+9kfJN70=;AGh67yTUXNl0fhGNxiLK8w=="

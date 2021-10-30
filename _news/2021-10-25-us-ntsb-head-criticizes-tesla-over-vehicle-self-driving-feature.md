@@ -139,20 +139,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla pulls its new Full Self-Driving beta due to software 'issues'"
-    excerpt: "U.S. electric car maker Tesla Inc on Sunday rolled back the latest version of its Full Self-Driving (FSD) beta software, less than a day after its release, after users complained of false collision warnings and other issues."
-    publishedDateTime: 2021-10-25T05:25:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/tesla-pulls-its-new-full-self-driving-beta-due-software-issues-2021-10-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/Zm3CWzgt53K4S06T6qYaJKRfeeU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S2YLXVCFOFLAFHDUGLJWY2AD6Y.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "U.S. NTSB Head Criticizes Tesla Over Vehicle Self-Driving Feature"
     excerpt: "NTSB Chair Jennifer Homendy wrote a letter to Tesla Chief Executive Elon Musk about his decision to let drivers request access to \"Full Self-Driving Beta technology\" before the au"
     publishedDateTime: 2021-10-25T17:35:00Z
@@ -317,20 +303,6 @@ related:
       - url: "https://blogapp.bitdefender.work/hotforsecurity/content/images/2021/10/tesla-drive.jpeg"
         width: 800
         height: 420
-        isCached: true
-  - title: "Tesla halts Full Self-Driving beta 10.3 rollout, Elon Musk says they’re ‘seeing some issues’"
-    excerpt: "A new version of Teslas Full Self-Driving (FSD) beta build was released over the weekend. However, the company later pulled out beta version 10.3 as CEO Elon Musk said the update was spotted with some issues."
-    publishedDateTime: 2021-10-25T06:48:00Z
-    webUrl: "https://www.econotimes.com/Tesla-halts-Full-Self-Driving-beta-103-rollout-Elon-Musk-says-theyre-seeing-some-issues-1619882"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 28
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202110256a11885139a875351_th_1024x0.jpg"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "4QPMIn7bXWHtCsi82q7fmeigudFPZjrJFNvrcvRI1rw+bE8y2Txeu6vOea8fTzNgRj3y4WVpKY5mIbTozRtR+gJWXONpfInxtIJY3WzBJDDLIsilyF2t17ygC/5oDPOKqG6SrMGQbtcXH0MC6/z7fhgnOprNQeZGG5DETMi+mIbemN1Sv6RgAonbjs959ErKHQbbJKLhGZo2bYP6kQxwue+ECn+eDaGnTPNc9cH/mBW08AKJwChl2xRf1ThHTsgSBc3I8dW08fJTElgw4m5PSngCFr1iK7PhjVuL+U4ou6zcWSXoEAKJ+5f7Kh4ud3WGAty1pKu1FKHBfs7QL/zH1nUdFbC/550+T93tpzYo7g6sIowRyDqlzYQ0ZaleydFab5en4UQt0BLCX1u2G3d1SxjRdWqvnOpfh/aWsimF/FqyICDKsCF7hlI7ASFjHK9L6eem+HtQl7nzkCQ0CO171CFwNP8J7V3eGaAyKVOIkudYouwvnGikMpBwQP0xjzmH2h5koHovJ4yIG8iMQ+pb7Q==;5LhiW52nKJLAiFDxRav5/w=="

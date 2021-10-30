@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Focusrite FAST Verb: reverb plug-in with artificial intelligence"
-    excerpt: "Adventures in AI aside, Focusrite's FAST Verb offers three verbs at your disposal - Natural, Balanced and Artificial."
-    publishedDateTime: 2021-10-25T05:58:00Z
-    webUrl: "https://www.gearnews.com/focusrite-fast-verb-reverb-plug-in-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Xotic
-      domain: gearnews.com
-    quality: 37
-    images:
-      - url: "https://www.gearnews.com/wp-content/uploads/2021/10/focusrite-the-collective-fast-verb-770x425-1.jpeg"
-        width: 770
-        height: 425
-        isCached: true
 
 secured: "CtNxq9hsmICLGxnSGHaz3APNSzUVUoI6lFHhPp/6Q4DVkcBOwFX2/2cOtd+Y2qYeuCAlrrwfYgvK8S5etkkOG7QxoS65bhzingI1YaLN8NOdZ8zY4jeFzDfFg1e0X7tz1aI5IrTkT2/Wa6YUaLCSG5clTJbpjdGEK5p3S415ELghXTUQY+jFS58LGBAnliH5uJFrEcxLd3hrODlpZdJZaYjBjMBEjCMgQ/C5j/CZeQ1irL0H2U6n3pWYdC/cdMjSRd7XCLOIpg78SitQ0b9B7ArF0k2awqeKmj08SXzZzky8bQG9O8uE2rPwhxufvl5FbPorBSnqIdn4hYuY/vlX8sDpctU6comIHV8lbnKQFGo=;gYw8KSkqEEKx56ztho+HaQ=="
 ---
