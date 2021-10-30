@@ -62,13 +62,13 @@ related:
         height: 512
         isCached: true
   - title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
-    excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company"
-    publishedDateTime: 2021-10-27T17:24:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html"
+    excerpt: "As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue, Index Ventures, and Alkeon. Series C ..."
+    publishedDateTime: 2021-10-27T18:41:00Z
+    webUrl: "https://www.wkyt.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WKYT
+      domain: wkyt.com
     quality: 32
 
 secured: "ZhBatMJGTr9qgn7EXGafDyXb1MbxOUEbtZw/WGiXJ00Eawm8uWd0zOFu93nrHkBMc75ZoABJNxj5LwSbY/JMt3Ym+JWQCqeFvjiyCcLpPNRt61BfdR2Myol8Oake/bYrsJjozuE+FDzxUv0AL+6hIB+Ud9k8HPZBCPuXbXDi6MES3U+/14HJTrxQRr41WN3rtL1o1xV3LdmyWVIl/jeZckYhbExCKAFQ8QLfPTY/Gy6VGGstIJxyYuy0Fp/GGZpXNutssQyVb8d0C9v8P2iAA/5rHAnbcj10tJfTjkCAhmCXXF2coG6gNp9dzF7rxJx7ocDNHzISULxI6LN6FxtC2lLabXaG167StEvYUGPwziIR/KAJ9LVZ4JpuTJbSTIePFwS/zV7VYlnLhOLT8eLYBVYBF31AKd+TnbvZ9nBRNVtuLgVKYVOGDRb4A9WH97xBY+OqXZc98Q3uih+fCOrmpK4vS7/wNqc1J9miMgFmCHlrLgIciJ/iByZDPllxXjOJGhA77JDJrqcIcQ/Bkm7acA==;yk6T/bThLMfcSCGWFDsHFA=="

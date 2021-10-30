@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook the company is losing control of Facebook the product"
-    excerpt: "The crisis exposed by the documents shows how Facebook, despite its regularly avowed good intentions, appears to have slow-walked or sidelined efforts to address real harms the social network has magnified and sometimes created."
-    publishedDateTime: 2021-10-25T15:24:00Z
-    webUrl: "https://www.adn.com/nation-world/2021/10/25/facebook-the-company-is-losing-control-of-facebook-the-product/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 24
-    images:
-      - url: "https://www.adn.com/resizer//4bA7mMGJo8BxsB-NTS-5CcpcLfM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/GEGTA2GOZZGEHKDWSRXE4OK7VM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "China's ByteDance is Disrupting Facebook"
     excerpt: "History will show Silicon Valley will have failed because it used algorithms that prioritized profits over people. ByteDance has superior AI to Facebook and a better understanding of young consumers."
     publishedDateTime: 2021-10-26T13:10:00Z

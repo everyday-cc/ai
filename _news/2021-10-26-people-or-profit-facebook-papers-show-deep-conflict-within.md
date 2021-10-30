@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/People-or-profit-Facebook-papers-show
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/People-or-profit-Facebook-papers-show-deep-16561189.php"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "People or profit? Facebook papers show deep conflict within"
-    excerpt: "Facebook the company is losing control of Facebook the product — not to mention the last shreds of its carefully crafted, decade-old image as a benevolent company just wanting to connect the world. Thousands of pages of internal documents provided to Congress by a former employee depict an internally conflicted company where data on the harms it causes is abundant,"
-    publishedDateTime: 2021-10-25T15:59:00Z
-    webUrl: "https://www.expressnews.com/news/article/People-or-profit-Facebook-papers-show-deep-16561189.php"
-    ampWebUrl: "https://www.expressnews.com/business/amp/People-or-profit-Facebook-papers-show-deep-16561189.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/business/amp/People-or-profit-Facebook-papers-show-deep-16561189.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/37/41/21624901/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "‘The Facebook Papers': What They Are and Takeaways From the Leaks"
     excerpt: "Internal company documents obtained by a former Facebook employee-turned-whistleblower reveal a troubled, internally conflicted company, where data on the harms it causes is abundant, but solutions are halting at best."
     publishedDateTime: 2021-10-25T17:47:00Z

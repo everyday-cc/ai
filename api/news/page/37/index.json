@@ -2,6 +2,315 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-09-30-ai-innovations-in-healthcare.md",
+      "title": "AI Innovations In Healthcare",
+      "excerpt": "This blog discusses AI Innovations in Healthcare and provides examples of where AI is advancing to increase leadership knowledge. A reference to the The AI Dilemma, a new book by Dr. Cindy Gordon, author of this blog is also highlighted to learn more about AI innovations in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155baf730e0300ed464a735%2F0x0.jpg",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/",
+      "publishedDateTime": "2021-09-30T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-top-five-ways-ai-is-revolutionizing-the-financial-planning-industry.md",
+      "title": "Top Five Ways AI Is Revolutionizing The Financial Planning Industry",
+      "excerpt": "Here's a look at the different segments of the financial planning and analysis (F&PA) industry that are experiencing a revolution propelled by AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84ba18d777c465dc98852a%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/amp/",
+      "publishedDateTime": "2021-09-30T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-ais-push-to-understand-psychiatry-research-has-the-potential-to-tackle-mental-illness.md",
+      "title": "AI's push to understand psychiatry research has the potential to tackle mental illness",
+      "excerpt": "Psychiatry researchers are using AI to tackle mental illness, with the goal of creating more effective and personalized treatment plans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9",
+      "originalUrl": "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff8a8fabde805001980beed?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9?amp",
+      "publishedDateTime": "2021-09-30T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-egypts-ministry-of-supply-and-internal-trade-automates-wheat-silos-processes-in-collaboration-with-ibm-and-acme-saico.md",
+      "title": "Egypt's Ministry of Supply and Internal Trade Automates Wheat Silos Processes in Collaboration with IBM and ACME SAICO",
+      "excerpt": "By offering IBM's AI and hybrid cloud approach ... Authority for Supply Commodities through IBM Cognos Analytics with Watson connected to the automation platform in use. As part of the sustainable ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/egypt-s-ministry-of-supply-and-internal-trade-automates-wheat-silos-processes-in-collaboration-with-ibm-and-acme-saico-1030824303",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/egypt-s-ministry-of-supply-and-internal-trade-automates-wheat-silos-processes-in-collaboration-with-ibm-and-acme-saico-1030824303",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-blue-prism-investor-coast-to-reject-15-billion-vista-takeover.md",
+      "title": "Blue Prism Investor Coast to Reject $1.5 Billion Vista Takeover",
+      "excerpt": "Coast Capital plans to vote against Vista Equity Partners’s 1.1 billion-pound ($1.5 billion) bid for U.K. automation software developer Blue Prism Group Plc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-30/coast-to-vote-against-blue-prism-deal-slams-rushed-process",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-30/coast-to-vote-against-blue-prism-deal-slams-rushed-process",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilxTf6AP_6us/v0/1200x565.jpg",
+          "width": 1200,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-tasqai-promising-faster-data-annotation-for-ai-development-raises-4m.md",
+      "title": "Tasq.ai, promising faster data annotation for AI development, raises $4M",
+      "excerpt": "Tasq.ai announces its $4M seed round, offering a unique value perspective in data annotation for AI developers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/",
+      "originalUrl": "https://venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1295429677-1-e1629146386206.jpg?fit=800%2C560&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/amp/",
+      "publishedDateTime": "2021-09-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle.md",
       "title": "Is Identity Theft Fraud? Here’s How AI And Graphing Tools Help Solve The Puzzle",
       "excerpt": "While identity theft and fraud are related, they’re not equivalent, which means that relying solely on PII and credit bureau data to verify someone is who they say they are is a dangerous — and incomplete — approach.",
@@ -922,264 +1231,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-venture-capital-investments-in-artificial-intelligence.md",
-      "title": "Venture capital investments in artificial intelligence",
-      "excerpt": "New analysis of global investments by venture capitalists (VC) in private companies focused on artificial intelligence (AI) found VC investments in AI to be growing at a dramatic pace. The United States and the People’s Republic of China are",
-      "sourceUrl": null,
-      "webUrl": "https://www.oecd-ilibrary.org/science-and-technology/venture-capital-investments-in-artificial-intelligence_f97beae7-en;jsessionid=ExL93HSzRrDDB_HAI5qaSboz.ip-10-240-5-159",
-      "originalUrl": "https://www.oecd.org/publications/venture-capital-investments-in-artificial-intelligence-f97beae7-en.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "OECD",
-        "domain": "oecd.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-johnson-controls-chooses-ava-robotics-to-power-the-new-tyco-security-robot-designed-for-business-applications.md",
-      "title": "Johnson Controls chooses Ava Robotics to power the new Tyco Security Robot, designed for business applications",
-      "excerpt": "Taking a unified approach to solve existing and emerging challenges within the workplace, including for specific and evolving building and facility security needs, this robot is designed to bring access control ... in a thief’s mind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/johnson-controls-ava-robotics-tyco-security-robot-business-applications-co-2900-ga-co-8421-ga-co-1632394913-ga-npr.1632928848.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/johnson-controls-ava-robotics-tyco-security-robot-business-applications-co-2900-ga-co-8421-ga-co-1632394913-ga-npr.1632928848.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/johnson-controls-tyco-brand-renews-support-for-british-superbike-team-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/johnson-controls-ava-robotics-tyco-security-robot-business-applications-co-2900-ga-co-8421-ga-co-1632394913-ga-npr.1632928848.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/johnson-controls-ava-robotics-tyco-security-robot-business-applications-co-2900-ga-co-8421-ga-co-1632394913-ga-npr.1632928848.html",
-      "publishedDateTime": "2021-09-29T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says.md",
-      "title": "Amazon's new $1,000 home-patrolling robot is flawed and could fall down stairs, report says",
-      "excerpt": "Amazon's new home robot Astro may not be ready for the real world, Vice reported, citing two unnamed sources who worked on the project. Amazon announced Astro on Tuesday, touting it as a mobile ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says/articleshow/86615774.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says/articleshow/86615774.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/86615601.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says/amp_articleshow/86615774.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says/amp_articleshow/86615774.cms",
-      "publishedDateTime": "2021-09-29T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-understanding-the-levels-of-self-driving-cars.md",
-      "title": "Understanding The Levels Of Self-Driving Cars",
-      "excerpt": "Why AI Autonomous Cars Aren't Yet Paying Attention To Honking Horns   - AI Trends Since semi-autonomous cars require a human driver, the adoption of those types of cars won’t be markedly different from driving conventional vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "originalUrl": "https://www.linkedin.com/pulse/understanding-levels-self-driving-cars-leslie-liu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qCqAueTrozgVBXDQ6AYvA-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tomsguide.com/amp/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "publishedDateTime": "2021-09-29T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference.md",
-      "title": "Apple’s Senior Director of AI and ML to speak at NVIDIA GTC 2021 conference",
-      "excerpt": "NVIDIA on Wednesday announced the next edition of its annual GTC conference, where the company brings together industry professionals to introduce and discuss new technologies. This year, NVIDIA GTC will have Apple’s Senior Director of AI and ML research Samy Bengio as one of the speakers.",
-      "sourceUrl": null,
-      "webUrl": "https://9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/",
-      "originalUrl": "https://9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/NVIDIA-GTC-2021.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/amp/",
-      "publishedDateTime": "2021-09-29T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-legal-framework-for-artificial-intelligence-advances-in-brazil.md",
-      "title": "Legal framework for artificial intelligence advances in Brazil",
-      "excerpt": "The Congress passed a bill that outlines guidelines for public policies and principles to be followed by companies, which now needs to be voted by the Senate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/legal-framework-for-artificial-intelligence-advances-in-brazil/",
-      "originalUrl": "https://www.zdnet.com/article/legal-framework-for-artificial-intelligence-advances-in-brazil/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/legal-framework-for-artificial-intelligence-advances-in-brazil/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/legal-framework-for-artificial-intelligence-advances-in-brazil/",
-      "publishedDateTime": "2021-09-29T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

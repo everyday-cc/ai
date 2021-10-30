@@ -1,23 +1,24 @@
 ---
 category: news
 title: "Baidu Inc. (BIDU) Outpaces Stock Market Gains: What You Should Know"
-excerpt: "I n the latest trading session, Baidu Inc. (BIDU) closed at $180.96, marking a +1.09% move from the previous day. The stock outpaced the S&P 500's daily gain of 0.37%. Prior to today's trading, shares of the web search company had gained 14."
-publishedDateTime: 2021-10-20T21:50:00Z
-originalUrl: "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20"
-webUrl: "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20"
+excerpt: "From self-driving cars to consumer data analysis ... Click to get this free report Baidu, Inc. (BIDU): Free Stock Analysis Report To read this article on Zacks.com click here."
+publishedDateTime: 2021-10-21T04:36:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-inc--bidu-outpaces-stock-market-gains--what-you-should-know-10647624"
+webUrl: "https://markets.businessinsider.com/news/stocks/baidu-inc--bidu-outpaces-stock-market-gains--what-you-should-know-10647624"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "0t+wHtQ0nlKTvOkIsNZHlDPbW/hVBpNGM4XLsapkJEUAJypi6a5lECxaoEi+55no0LOZHA2qcnrn7OrzqDRR4SSJ5B+hskmvmvyPZZGQ7sT87dpGG5Z1rYyQt+1zbwhH2zgoJqDqTDAcwREz/suU68FAuL2VoZw/c5T07fDPgPbgol/CE3uNaLXc7/ard5LUjmGsfzE62Z1SUNcq/QUooK/GCQ+u0bYLkt3ATTHjzvQb5g1rftqw5wy1uUkBqLNrbRdxF6V8C46bzGxuGHVL8fjR7A0Lsc9w2a2eVWqaEGFCaCjiU8RajKcCup8a7kvhiUY8+O7/rNH7ypOOmYvx98LASDhGc5UD1vjGwpD7y4E=;rhbOR/lwl2SK+8uHhzAzyw=="
+secured: "ZpucGNnRiqYL3tfgVSwxtUqEC5POtKa2Ue01rjFbDlMwViVVNT7szYESGMtEqRHBNNNQ5qCoVTRC/7MitkVF26eVU7CvOpwJRsS2cy3Ops/Bu4jdWUA03RWoGfMnPAyuxNNC9ate2CMiBgw9EOc5Wu6X9kVFTyAKNnsahLR7ji5CVD6m+1WgoCJ1U7NGOXLMTOyqF4ibvWx3bXOAtbbP1PnZrAEMPQTmuJvHJ+XxlHjfqq7BT2OSkD9VuZLKG5ws+OiagWSQ5SElfdKlqidMkhTwQIAXg6YD84roxfGGRBlbesHScw+0n8CKl0MqJXfo201EuCFHvDozzYluQ7f77dgbXCFRquGxRdiRZLALYHQ=;dtPaTyRiN7V2krbFa943MA=="
 ---
 

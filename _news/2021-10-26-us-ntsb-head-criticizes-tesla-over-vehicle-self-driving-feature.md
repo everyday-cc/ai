@@ -41,20 +41,6 @@ related:
         width: 4032
         height: 3024
         isCached: true
-  - title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
-    excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla Inc's decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
-    publishedDateTime: 2021-10-25T16:35:00Z
-    webUrl: "https://www.reuters.com/article/tesla-investigation/update-2-u-s-ntsb-head-criticizes-tesla-over-vehicle-self-driving-feature-idUSL1N2RL0ZP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/OMt-Q2Hm81EOoyhLCyLx100pEGU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NRLMN75CQ5JPLMNEPKAFQEQK2M.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla pulls Full Self-Driving update after sudden braking spooks drivers"
     excerpt: "Tesla’s Full Self-Driving software lived up to its “beta” label this weekend. On Saturday morning, CEO Elon Musk announced a delay for the 10.3 update after internal quality-assurance testers discovered that the new version performed worse at left turns at traffic lights than previous versions."
     publishedDateTime: 2021-10-25T20:42:00Z

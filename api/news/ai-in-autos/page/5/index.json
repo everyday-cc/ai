@@ -2,6 +2,197 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-18-artificial-intelligence-success-is-tied-to-ability-to-augment-not-just-automate.md",
+      "title": "Artificial intelligence success is tied to ability to augment, not just automate",
+      "excerpt": "Artificial intelligence is only a tool ... to solve than had been anticipated. The design of self-driving cars requires integration of a range of technologies including sensor fusion, AI planning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-success-is-tied-to-ability-to-augment-not-just-automate/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-success-is-tied-to-ability-to-augment-not-just-automate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0b4bdd7e3bd7d86fa990d8b0814727af97858730/2021/09/18/9f8cc20f-ef3d-4c2f-a617-0c732979497e/cn-tower-toronto-photo-by-joe-mckendrck.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-success-is-tied-to-ability-to-augment-not-just-automate/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-success-is-tied-to-ability-to-augment-not-just-automate/",
+      "publishedDateTime": "2021-09-18T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight.md",
+      "title": "Baidu-Backed DeepWay Unveils Smart New Energy Heavy-Duty Truck to Automate Road Freight",
+      "excerpt": "Powered by Baidu's globally recognized AI technology ... The first generation of Xingtu is designed to enable L3 self-driving on high-speed freight routes and achieve L4 capabilities on these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-automate-road-freight",
+      "originalUrl": "https://www.asiaone.com/business/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-automate-road-freight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-automate-road-freight?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-automate-road-freight?amp",
+      "publishedDateTime": "2021-09-18T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu.md",
+      "title": "China’s Baidu unveils autonomous driving ‘robot truck’ Xingtu",
+      "excerpt": "Baidu’s open-source autonomous driving platform Apollo has spawned Xingtu, an electric ‘robot truck’, as mainland China’s artificial intelligence and search engine giant revs up the development of next-generation vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/18/44b8b9a0-17b7-11ec-ab69-f2bfe93835cf_image_hires_023635.JPG?itok=HjlXUvBM&v=1631903802",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "publishedDateTime": "2021-09-17T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight.md",
+      "title": "Baidu-Backed DeepWay Unveils Smart New Energy Heavy-Duty Truck to Automate Road Freight",
+      "excerpt": "Powered by Baidu's globally recognized AI technology ... The first generation of Xingtu is designed to enable L3 self-driving on high-speed freight routes and achieve L4 capabilities on these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22986992/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22986992/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1628715/Xingtu.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22986992",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22986992",
+      "publishedDateTime": "2021-09-17T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-tesla-will-make-sure-you-are-a-good-driver-before-giving-you-access-to-full-self-driving-beta.md",
       "title": "Tesla will make sure you are a good driver before giving you access to Full Self-Driving Beta",
       "excerpt": "Elon Musk said that Tesla will use its telemetry data to make sure customers are “good” drivers before allowing them to access its Full Self-Driving Beta software. This is a tricky situation since those customers already paid for the software.",
@@ -1137,178 +1328,6 @@
         "name": "Khaleej Times",
         "domain": "khaleejtimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-driverless-cars-technology-brings-dream-a-step-closer.md",
-      "title": "Driverless cars: Technology brings dream a step closer",
-      "excerpt": "At this month’s CES technology show in Las Vegas, chipmaker Nvidia launched the Drive PX 2 in-­vehicle artificial intelligence platform for driverless operation. Nvidia says the PX2 has the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/business/technology/driverless-cars-technology-brings-dream-a-step-closer/news-story/cf07ac9cdf48b0934551afe33acbb71a",
-      "originalUrl": "https://www.theaustralian.com.au/business/technology/driverless-cars-technology-brings-dream-a-step-closer/news-story/cf07ac9cdf48b0934551afe33acbb71a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-dubai-eyes-the-future-with-self-driving-cabs.md",
-      "title": "Dubai eyes the future with self-driving cabs",
-      "excerpt": "aims to overhaul the taxi sector by employing artificial intelligence and smart systems. And as a step towards that, the RTA has already begun laying the groundwork by signing a partnership agreement with General Motors-backed Cruise to run driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/uae/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
-      "originalUrl": "https://www.zawya.com/uae/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/210412111336ZRVZ.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/SNG_241845934/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_241845934/",
-      "publishedDateTime": "2021-09-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-4-self-driving-truck-stocks-you-need-to-keep-an-eye-on.md",
-      "title": "4 Self-Driving Truck Stocks You Need to Keep an Eye On",
-      "excerpt": "The global economy is moving toward several exciting trends that lead to new and interesting investment areas like self-driving truck stocks. Driverless vehicles promise a revolution in safety and ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/09/4-self-driving-truck-stocks-you-need-to-keep-an-eye-on/",
-      "originalUrl": "https://investorplace.com/2021/09/4-self-driving-truck-stocks-you-need-to-keep-an-eye-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2021/09/shutterstock_1850697253.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/09/4-self-driving-truck-stocks-you-need-to-keep-an-eye-on/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/09/4-self-driving-truck-stocks-you-need-to-keep-an-eye-on/amp/",
-      "publishedDateTime": "2021-09-09T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-russias-yandex-to-start-tests-for-self-driving-taxis-in-moscow.md",
-      "title": "Russia’s Yandex to start tests for Self Driving Taxis in Moscow",
-      "excerpt": "Yandex is planning on starting field tests for its self driving taxis in Moscow, Russia. This would allow the people living in the Capital city to experience the future by taking a ride in the new autonomous vehicles later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/09/09/russias-yandex-to-start-tests-for-self-driving-taxis-in-moscow/",
-      "originalUrl": "https://www.gizmochina.com/2021/09/09/russias-yandex-to-start-tests-for-self-driving-taxis-in-moscow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/09/Yandex-Autonomous-Taxi.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

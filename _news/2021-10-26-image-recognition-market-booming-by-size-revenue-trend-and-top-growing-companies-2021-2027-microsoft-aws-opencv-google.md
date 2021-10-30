@@ -85,33 +85,6 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "Facial Recognition Market Size and Forecast 2028 | Key Companies – NEC Corporation, Aware, Cognitec Systems, Gemalto, Thales, Idemia"
-    excerpt: "Facial Recognition Market was valued at USD 3.04 Billion in 2019 and is projected to reach USD 9.95 Billion by 2027, growing at a CAGR of 15.87% from 2020 to 2027. Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-10-25T16:24:00Z
-    webUrl: "https://manometcurrent.com/facial-recognition-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/facial-recognition-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/facial-recognition-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/TIP-6-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "AI in Logistics and Supply Chain Management Market Size and Forecast 2028 | Key Companies – IBM, Microsoft, Google, Amazon, Alibaba, Nauto"
-    excerpt: "The AI in Logistics and Supply Chain Management Market report provides vital information that prepares market players to give fierce competition to their toughest competitors based on growth, sales, and revenue,"
-    publishedDateTime: 2021-10-25T16:52:00Z
-    webUrl: "https://manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
   - title: "Text-to-Speech Market with Attractiveness, Competitive Landscape & Forecasts to 2027| Nuance Communication, Microsoft, Sensory"
     excerpt: "As a result of expanding penetration of AI, analytics, and IoT systems in the region, APAC is witnessing significant momentum for speech recognition solutions integrated into text-to-speech. Countries establish various beneficial regulations for increasing ..."
     publishedDateTime: 2021-10-29T13:15:00Z

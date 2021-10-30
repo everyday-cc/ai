@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
-    excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla Inc's decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
-    publishedDateTime: 2021-10-25T16:35:00Z
-    webUrl: "https://www.reuters.com/article/tesla-investigation/update-2-u-s-ntsb-head-criticizes-tesla-over-vehicle-self-driving-feature-idUSL1N2RL0ZP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/OMt-Q2Hm81EOoyhLCyLx100pEGU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NRLMN75CQ5JPLMNEPKAFQEQK2M.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "U.S. NTSB Head Criticizes Tesla Over Vehicle Self-Driving Feature"
     excerpt: "NTSB Chair Jennifer Homendy wrote a letter to Tesla Chief Executive Elon Musk about his decision to let drivers request access to \"Full Self-Driving Beta technology\" before the au"
     publishedDateTime: 2021-10-25T17:35:00Z

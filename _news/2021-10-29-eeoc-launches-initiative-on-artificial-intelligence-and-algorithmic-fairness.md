@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "7 health systems that recently launched AI initiatives"
-    excerpt: "Here are seven health systems that launched initiatives focused on healthcare artificial intelligence in the last three months. UnityPoint Health-Des Moines (Iowa) and Qventus partnered to use AI to improve patient flow,"
-    publishedDateTime: 2021-10-25T16:59:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/7-health-systems-that-recently-launched-ai-initiatives.html"
+  - title: "Artificial Intelligence Tools Targeted in New EEOC Initiative"
+    excerpt: "The U.S. Equal Employment Opportunity Commission will examine how artificial intelligence tools are “fundamentally changing” employment decisions."
+    publishedDateTime: 2021-10-28T18:09:00Z
+    webUrl: "https://news.bloomberglaw.com/in-house-counsel/artificial-intelligence-tools-targeted-in-new-eeoc-initiative"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 37
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
-        width: 400
-        height: 300
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/70c3270/2147483647/crop/5000x1922%2B0%2B823/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fc6%2Fd5%2F8e1301b640128cebfe49836f9643%2Fgettyimages-1201696536.jpg"
+        width: 960
+        height: 369
         isCached: true
 
 secured: "lc2vWpYD08chEwVOX3LQbUHDjV+yQqzXePYoXpgZlCABhjGn8ABIrH25ohQbx7lFzGf6mMpaOSL87HqMxQzbABktNmfgNzMRvumj1kBNOWYlk/Mrm7B2ko7VrS3i/K8OBdiGkioW3yjh0pTryMXcWu+Oudi/JFYw2u9lKBa+rVErCnsA22+Tl1qEOMxDXERl5laSQ5KdHZ3egOMivsITzeii0LUPH1Qwqo+hgv3Jx6yJzoM9MQhbNwCjfZGjNrQtmRMDEziEG6PrEymfc9hYNzGlS4Wx6ftTvPnHG+yM0uMsjUocM9W6bAPOFRgd+d+WO+75l8BfePx1IM34gj0rVDWKnBcYbgcZZduDMt3KigQ=;qLW6TajGMaoWQzWdacl6kg=="

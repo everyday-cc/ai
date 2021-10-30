@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-12-ai-and-pr-how-tech-adoption-could-impact-your-job.md",
+      "title": "AI And PR: How Tech Adoption Could Impact Your Job",
+      "excerpt": "The technological revolution continues to impact public relations (PR) at an impressive speed. Not long ago, many in the PR industry steered away from adopting PR tech powered by artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/amp/",
+      "publishedDateTime": "2021-10-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics.md",
+      "title": "House Task Force on Artificial Intelligence to Hold Hearing on Ethics",
+      "excerpt": "On Wednesday, October 13, the House Committee on Financial Services, Task Force on Artificial Intelligence (AI) will hold a hearing to discuss ethics and AI. According to the hearing memo, in financial services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/h-heyerlein-on-Unsplash-AI-technology-Data-Artificial-Intelligence.jpg",
+          "width": 1280,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/amp/",
+      "publishedDateTime": "2021-10-11T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-former-senior-pentagon-official-says-china-is-kicking-our-ass-in-artificial-intelligence.md",
       "title": "Former Senior Pentagon Official Says China is Kicking Our Ass in Artificial Intelligence",
       "excerpt": "A former senior Pentagon official recently quit his job over frustrations with the government’s apparent inability to make meaningful headway on artificial intelligence and cybersecurity—two areas he says China will likely surpass us in if we don’t get our shit together.",
@@ -1324,92 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-19-pentagon-shapes-future-war-advanced-ai-enables-integrated-attacks-in-matter-of-seconds.md",
-      "title": "Pentagon Shapes Future War: Advanced AI Enables Integrated Attacks in Matter of Seconds",
-      "excerpt": "By Security Television Network, Author: by Kris Osborn, Warrior Maven Click here for updates on this story September 18, 2021 (Security Television Network) — (Washington, D.C.) The Army’s “Project Convergence,",
-      "sourceUrl": null,
-      "webUrl": "https://localnews8.com/cnn-regional/2021/09/18/pentagon-shapes-future-war-advanced-ai-enables-integrated-attacks-in-matter-of-seconds/",
-      "originalUrl": "https://localnews8.com/cnn-regional/2021/09/18/pentagon-shapes-future-war-advanced-ai-enables-integrated-attacks-in-matter-of-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://localnews8.b-cdn.net/2021/06/US-World-logo-new_KIFIMIFI.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-19T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News 8",
-        "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-19-should-we-care-about-philosophy-of-ai-in-the-mena-region.md",
-      "title": "Should we care about Philosophy of AI in the Mena region?",
-      "excerpt": "Aliah Yacoub is an AI philosopher and head of techQualia at Egypt-based Synapse Analytics, a data science and AI company",
-      "sourceUrl": null,
-      "webUrl": "https://www.wamda.com/2021/09/care-philosophy-ai-mena-region",
-      "originalUrl": "https://www.wamda.com/2021/09/care-philosophy-ai-mena-region",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.wamda.com/thumbnails/d25799fc6c04f7e.png",
-          "width": 686,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-18T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wamda.com",
-        "domain": "wamda.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

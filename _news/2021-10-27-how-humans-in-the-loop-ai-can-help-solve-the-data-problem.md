@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Risks of the Artificial Intelligence Revolution and How Food Processors Can Mitigate Them"
-    excerpt: "Artificial intelligence (AI) is revolutionizing the food processing industry. From sorting to safety and compliance to ensuring employees’ personal hygiene procedures, it’s becoming such an important aspect of the industry that it’s expected to have a compound annual growth rate of 45% between now and 2026."
-    publishedDateTime: 2021-10-25T16:41:00Z
-    webUrl: "https://www.foodprocessing.com/articles/2021/mitigating-risks-with-ai/"
-    type: article
-    provider:
-      name: Food Processing
-      domain: foodprocessing.com
-    quality: 10
 
 secured: "bvyvQ0sM00e/n2cbDxXJHkjJdsL9oHRveRQYPVzc+sRv0hLcotLjcL+bzZ+zsm5yMHZmCZm3Va/Ywye4WWRFmqvIs+Czwsxu5VKeHZjtDvdnG+wDu0qwroovR6CueVsLfaIK9XMAgRTfAjurINiRLi0DOfVb6Dx8mvZqvnghKZISlvzZRODC8eearxBNuxOqCkOwlAjOlKd6tN2+1V6YxoXiK7lBn7UUaJaHTuElz5RV+BAaPIQwZZCOK/AwjtbEPyVT9Cq6hd114ALzb5jqidd1qONrenq2uQmKr/7vGc+SxP/JxTf9551vU3hPlFaPvfEwIjvxzOTr/zsCi88OMvzerXzZTdzeQIjdgGjBS1DTzSbQ2jJ740/58FIW+a9Fja4ipBEZ9NuMH5v4rGe9ceHsdBzWYsTfxVTRAoIhKhmixTLAzmlQFQP9GqcAcAyo8yTmWZJ+fLxzZGZHIvO2N1119MUnKrQcQ0VWMQrgzFLTrj9o9fyWY+Y/IeUodXOkawIUEvbEQE3HDfwX5NczGg==;/g8lYwMUny0oAeLMZBulyQ=="
 ---

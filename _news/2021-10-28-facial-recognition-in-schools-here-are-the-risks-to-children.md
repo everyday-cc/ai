@@ -38,6 +38,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
+  - title: "Face recognition in schools normalizes surveillance — and threatens kids’ privacy"
+    excerpt: "Facial recognition identifies and authenticates people’s identities by detecting, capturing, and matching faces to images from a database"
+    publishedDateTime: 2021-10-30T08:00:00Z
+    webUrl: "https://thenextweb.com/news/face-recognition-schools-normalizes-surveillance-threatens-kids-privacy-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 64
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FFR.jpg&signature=2b9999bdb61bc5ee662b4732041d94c3"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Schools suspend use of facial recognition after backlash"
     excerpt: "The Information Commissioner's Office wants organisations to consider a 'less intrusive' approach where possible"
     publishedDateTime: 2021-10-27T06:41:00Z

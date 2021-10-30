@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-26-iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details.md",
+      "title": "IIT Delhi to offer MTech in Machine Intelligence and Data Science. Check details",
+      "excerpt": "IIT Delhi's Senate, the faculty body responsible for taking all major educational decisions, has approved the proposed programme titled ‘M Tech in Machine Intelligence and Data Science’ (MINDS)",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
+      "originalUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/10/26/600x338/185614e0-310a-11ec-901b-e0eb6ffe225f_1635240619247_1635240635839.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
+      "publishedDateTime": "2021-10-26T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-ai-powered-spend-management-platform-yokoy-secures-26m.md",
+      "title": "AI-powered spend management platform Yokoy secures $26M",
+      "excerpt": "Yokoy, a company developing spend management tools for enterprises, has raised $26 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
+      "originalUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
+      "publishedDateTime": "2021-10-26T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-byju-innovation-labs-bridging-the-teacher-student-gap-with-ai-ml.md",
+      "title": "Byju Innovation Labs: Bridging the teacher-student gap with AI, ML",
+      "excerpt": "With an aim to solve moonshot problems, Byju's lab initiative hopes to consistently innovate internally to solve education's biggest challenges with technology to avoid becoming obsolete",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
+      "originalUrl": "https://www.forbesindia.com/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2021/Oct/img_170429_devroy.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
+      "publishedDateTime": "2021-10-26T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-how-ai-could-solve-supply-chain-shortages-and-save-christmas.md",
       "title": "How AI could solve supply chain shortages and save Christmas",
       "excerpt": "Long live supply chains stress-tested with AI digital twins. With the supply-chain disruptions of the past two years showing no signs of easing anytime soon, businesses are turning to a new generation of AI-powered simulations called digital twins to help them get goods and services to customers on time.",
@@ -52,7 +189,7 @@
       "originalUrl": "https://www.zdnet.com/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -191,7 +328,7 @@
       "originalUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -433,7 +570,7 @@
       "originalUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1072,152 +1209,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-omniscient-master-teaches-ai-drone-real-flying-skills-in-virtual-world.md",
-      "title": "Omniscient Master Teaches AI Drone Real Flying Skills In Virtual World",
-      "excerpt": "A team from the University of Zurich (UZH) trained AI to fly a drone in a virtual environment full of obstacles before letting it out in the real world, where it outperformed piloting software. Training AI in virtual environments could have huge implications for drones and robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/10/25/omniscient-master-teaches-ai-drone-real-flying-skills-in-virtual-world/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/10/25/omniscient-master-teaches-ai-drone-real-flying-skills-in-virtual-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176a5fc9ef080218f4d1794%2F0x0.jpg",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/10/25/omniscient-master-teaches-ai-drone-real-flying-skills-in-virtual-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/10/25/omniscient-master-teaches-ai-drone-real-flying-skills-in-virtual-world/amp/",
-      "publishedDateTime": "2021-10-25T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education.md",
-      "title": "How Should We Approach the Ethical Considerations of AI in K-12 Education?",
-      "excerpt": "We live in a world fundamentally transformed by our own creations. Once imagined only in science fiction, artificial intelligence now powers much of",
-      "sourceUrl": null,
-      "webUrl": "https://www.edsurge.com/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
-      "originalUrl": "https://www.edsurge.com/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/14446/How_Should_We_Approach_the_Ethical_Considerations_of_AI_in_K-1634587066.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop",
-          "width": 640,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
-      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
-      "publishedDateTime": "2021-10-25T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdSurge",
-        "domain": "edsurge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it.md",
-      "title": "The Use Of Artificial Intelligence In Business Codifies Gendered Ageism. How Do We Fix It?",
-      "excerpt": "As more organizations adopt AI and use data to make decisions like hiring, what are the consequences of not involving a diverse set of individuals, especially women, in the design process?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/",
-      "originalUrl": "https://www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174762f6160a396701d73f3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/amp/",
-      "publishedDateTime": "2021-10-25T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -95,33 +95,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
-  - title: "Facial Recognition Market Size and Forecast 2028 | Key Companies – NEC Corporation, Aware, Cognitec Systems, Gemalto, Thales, Idemia"
-    excerpt: "Facial Recognition Market was valued at USD 3.04 Billion in 2019 and is projected to reach USD 9.95 Billion by 2027, growing at a CAGR of 15.87% from 2020 to 2027. Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-10-25T16:24:00Z
-    webUrl: "https://manometcurrent.com/facial-recognition-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/facial-recognition-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/facial-recognition-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/TIP-6-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "AI in Logistics and Supply Chain Management Market Size and Forecast 2028 | Key Companies – IBM, Microsoft, Google, Amazon, Alibaba, Nauto"
-    excerpt: "The AI in Logistics and Supply Chain Management Market report provides vital information that prepares market players to give fierce competition to their toughest competitors based on growth, sales, and revenue,"
-    publishedDateTime: 2021-10-25T16:52:00Z
-    webUrl: "https://manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
 
 secured: "ifioQW3emTpHo+XWa8TvtohqpwdqNsaEvn3pNT2ZEXDoTKHcT8sLLmyPTQJFwzlhfavvAiQQSHxrRMsrKd5JQdFGlieGUN6HaxKvvNRXMd3MKGhuOSkxrPTfotgkwo+ZBX4ijk84tsisjizS8j+jyLkLv3Ri9n+blJRU/HUsYihkKtgix9AWeD5Ps5v94aPHkzkmD/9w7kJPNK3CLUU//J5HUVZ3hlwqDd3pE+DMUPXTdAMtua7xKZBTvgq5HFcMhsqlbOh7DXZqUFKAez0ihDi5dTECMTFQCCbMzEqzyltvRHmqce3fYsHAhOD+sD7X15IBJPyMZx1cNoRHHiMmJFhGdZQkolgtViPfI5WgSyg=;44HXhGVuwz/4OhtbqUJP4A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/why-flat-earthers-clear-present-threat
 webUrl: "https://thenextweb.com/news/why-flat-earthers-clear-present-threat-ai-powered-society"
 type: article
 quality: 66
-heat: 77
+heat: 76
 published: true
 
 provider:

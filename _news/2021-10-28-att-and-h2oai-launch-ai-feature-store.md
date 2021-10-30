@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "AT&T and H2O collab on feature store for AI developers"
+    excerpt: "Telecom giant AT&T and AI cloud firm H2O have jointly launched an AI feature store to help organizations accelerate AI development."
+    publishedDateTime: 2021-10-30T05:50:00Z
+    webUrl: "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/"
+    ampWebUrl: "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2012/07/att-logo.jpg?w=1200&strip=all"
+        width: 640
+        height: 426
+        isCached: true
   - title: "AT&T and H2O.ai Launch Co-Developed Artificial Intelligence Feature Store with Industry-First Capabilities"
     excerpt: "Building features is time consuming work, and typically data scientists build features from scratch every time they start a new project. Data scientists and AI experts spend up to 80% of their ..."
     publishedDateTime: 2021-10-28T13:45:00Z

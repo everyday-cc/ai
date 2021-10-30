@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html"
 type: article
 quality: 84
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://en.mogaznews.com/temp/resized/medium_2021-10-26-3b666c2fc5.jpg"
         width: 700
         height: 450
-        isCached: true
-  - title: "Facebook the company is losing control of Facebook the product"
-    excerpt: "The crisis exposed by the documents shows how Facebook, despite its regularly avowed good intentions, appears to have slow-walked or sidelined efforts to address real harms the social network has magnified and sometimes created."
-    publishedDateTime: 2021-10-25T15:24:00Z
-    webUrl: "https://www.adn.com/nation-world/2021/10/25/facebook-the-company-is-losing-control-of-facebook-the-product/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 24
-    images:
-      - url: "https://www.adn.com/resizer//4bA7mMGJo8BxsB-NTS-5CcpcLfM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/GEGTA2GOZZGEHKDWSRXE4OK7VM.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "China's ByteDance is Disrupting Facebook"
     excerpt: "History will show Silicon Valley will have failed because it used algorithms that prioritized profits over people. ByteDance has superior AI to Facebook and a better understanding of young consumers."
