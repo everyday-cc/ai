@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-29-after-the-facebook-papers-whats-next-for-err-meta.md",
+      "title": "After the Facebook Papers, what’s next for, err, Meta?",
+      "excerpt": "Writer at Neural by TNW — Thomas covers AI in all its ... Teenage users of the Facebook app in the US have shrunk by 13% since 2019, according to the company’s own research.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-regulation-growing-old",
+      "originalUrl": "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-regulation-growing-old",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-9-1.jpg&signature=3c8ce726468cfc55b53bf6e549d93ffe",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-facial-recognition-in-india-new-study-approved-regulations-remain-difficult.md",
+      "title": "Facial recognition in India: new study approved, regulations remain difficult",
+      "excerpt": "NITI Aayog, the National Institution for Transforming India, has recently approved a new study into the implementation of facial recognition in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202110/facial-recognition-in-india-new-study-approved-regulations-remain-difficult",
+      "originalUrl": "https://www.biometricupdate.com/202110/facial-recognition-in-india-new-study-approved-regulations-remain-difficult",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg",
+          "width": 1600,
+          "height": 1109,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-introducing-pathways-a-next-generation-ai-architecture.md",
       "title": "Introducing Pathways: A next-generation AI architecture",
       "excerpt": "When I reflect on the past two decades of computer science research, few things inspire me more than the remarkable progress we’ve seen in the field of artificial intelligence.In 2001, some colleagues sitting just a few feet away from me at Google realized they could use an obscure technique called machine",
@@ -62,7 +157,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -785,7 +880,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/393896",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1111,100 +1206,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers.md",
-      "title": "This Restuarant Chain Is Putting Robots In Charge Of Its Deep Fryers",
-      "excerpt": "Advertisement The robotic technology startup behind the burger-flipping robot, Miso Robotics, announced a collaboration with Inspire Brands’ Buffalo Wild Wings on Thursday. Flippy Wings is a “robotic chicken wing frying solution” that helps brands maximise chicken wing output,",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/",
-      "originalUrl": "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/10/4fcb5faddfdec3c5dcdd640168970b0a6747.jpg",
-          "width": 1300,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/amp/",
-      "publishedDateTime": "2021-10-27T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform.md",
-      "title": "LivePerson acquires VoiceBase and Tenfold for its conversational AI platform",
-      "excerpt": "LivePerson has acquired two startups, VoiceBase and Tenfold, to bolster its expanding conversational AI platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/",
-      "originalUrl": "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/04/rob_185_final.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/",
-      "publishedDateTime": "2021-10-27T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -105,20 +105,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Media Outlets Flood the Zone With News of Facebook's Failure"
-    excerpt: "\"The many exposés reveal a toxic but highly profitable revenue model that's driving Facebook’s reluctance to safeguard democracy and stop the spread of hate and disinformation.\""
-    publishedDateTime: 2021-10-25T21:13:00Z
-    webUrl: "https://www.commondreams.org/views/2021/10/25/media-outlets-flood-zone-news-facebooks-failure"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 39
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-10/facebook_zuckerberg-1.jpg?h=fae7ad3b&itok=Dzqc-MD5"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "China's ByteDance is Disrupting Facebook"
     excerpt: "History will show Silicon Valley will have failed because it used algorithms that prioritized profits over people. ByteDance has superior AI to Facebook and a better understanding of young consumers."
     publishedDateTime: 2021-10-26T13:10:00Z

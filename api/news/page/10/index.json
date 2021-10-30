@@ -2,6 +2,83 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-10-20-vocal-about-local-can-india-have-its-own-facebook-google.md",
+      "title": "Vocal about local? Can India have its own Facebook & Google?",
+      "excerpt": "(1.87%), Baidu (1.1%), Yandex (0.54% ... It can afford to, simply because they got into the ‘self-reliance’ mode many years before the necessity of doing so finally dawned on us.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-75797074,imgsize-213606,width-1200,height-628,overlay-etbrandequity/vocal-about-local-can-india-have-its-own-facebook-google.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
+      "publishedDateTime": "2021-10-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-happiest-minds-technologies-happiest-minds-included-in-now-tech-robotic-process-automation-services-analyst-report.md",
+      "title": "Happiest Minds Technologies: Happiest Minds included in Now Tech: Robotic Process Automation Services analyst report",
+      "excerpt": "SAN JOSE, Calif., LONDON and BENGALURU, India, Oct. 19, 2021 /PRNewswire/ -- Happiest Minds Technologies Limited (NSE: HAPPSTMNDS), a 'Born Digital. Born Agile', Mindful IT Company, today announced",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54238133-happiest-minds-technologies-happiest-minds-included-in-now-tech-robotic-process-automation-services-analyst-report-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54238133-happiest-minds-technologies-happiest-minds-included-in-now-tech-robotic-process-automation-services-analyst-report-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-credo-ai-launches-out-of-stealth-with-55-million-to-help-companies-with-ethical-ai.md",
       "title": "Credo AI launches out of stealth with $5.5 million to help companies with “ethical AI”",
       "excerpt": "There are many in the world of AI who worry about its implications. One of those people is Navrina Singh, a former product manager for Qualcomm, then Microsoft, who saw firsthand at Microsoft how a Twitter bot it developed in 2016 as an experiment in “conversational understanding,",
@@ -1080,83 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-aion-labs-powered-by-biomed-x-launches-first-global-call-for-application-artificial-intelligence-for-antibody-design.md",
-      "title": "AION Labs, Powered by BioMed X, Launches First Global Call for Application: Artificial Intelligence for Antibody Design",
-      "excerpt": "AION Labs, Israel-based alliance of AstraZeneca, Merck, Pfizer, Teva, Israel Biotech Fund and Amazon Web Services (AWS), to start first global crowdsourcing initiative based on the innovation model of",
-      "sourceUrl": null,
-      "webUrl": "https://www.hawaiinewsnow.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/",
-      "originalUrl": "https://www.hawaiinewsnow.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHNL",
-        "domain": "hawaiinewsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk.md",
-      "title": "Facial Recognition School Lunch Payments Spark Privacy Concerns In UK",
-      "excerpt": "We're introducing Facial Recognition!” cheerily opens a flyer given to some parents in Scotland, describing a new method to pay for school lunches. Howeve",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
-      "originalUrl": "https://www.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/ec3440b1-2754-55eb-9036-0ab8685f3156/default-1634645033-child-facial-recognition.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
-      "publishedDateTime": "2021-10-19T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

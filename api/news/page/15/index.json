@@ -2,6 +2,91 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-10-16-study-ai-can-help-diagnose-mental-health-disorders-where-access-to-care-lacking.md",
+      "title": "Study: AI can help diagnose mental health disorders where access to care lacking",
+      "excerpt": "Artificial intelligence, or AI, may be able to screen people for mental health disorders without the need for a specialist's assessment, a study published Friday by GigaScience found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2021/10/15/AI-machine-learning-mental-health-diagnosis-study/8781634316118/",
+      "originalUrl": "https://www.upi.com/Science_News/2021/10/15/AI-machine-learning-mental-health-diagnosis-study/8781634316118/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/8781634316118/2021/1/08b07f7fa731fef4c669fd8b2a898d46/v1.5/Study-AI-can-help-diagnose-mental-health-disorders-where-access-to-care-lacking.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/10/15/AI-machine-learning-mental-health-diagnosis-study/8781634316118/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/10/15/AI-machine-learning-mental-health-diagnosis-study/8781634316118/",
+      "publishedDateTime": "2021-10-15T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-16-the-rise-of-ai-surveillance.md",
+      "title": "The rise of AI surveillance",
+      "excerpt": "This article is part of \"The age of surveillance,\" a special report on artificial intelligence. Welcome to the dark side of artificial intelligence. As a technology, AI has been touted as a silver bullet for many of society’s ills. It has the potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/",
+      "originalUrl": "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/05/26/GettyImages-1168367645-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/amp/",
+      "publishedDateTime": "2021-10-15T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-ai-powered-personalization-provider-qubit-gets-acquired-by-coveo.md",
       "title": "AI-powered personalization provider Qubit gets acquired by Coveo",
       "excerpt": "AI-powered relevance platform Coveo acquired Qubit, a leader in AI-powered personalization technology for merchandising teams.",
@@ -1102,83 +1187,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-seeq-expands-machine-learning-support-to-democratize-data-science-innovation.md",
-      "title": "Seeq Expands Machine Learning Support to Democratize Data Science Innovation",
-      "excerpt": "New initiative facilitates the integration of machine learning algorithms from open source, third party and customer data science teams into Seeq applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
-      "originalUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/c87f3858-574b-4646-8810-5bfab7d95b8d/Seeq-news-Oct-14-2021-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future.md",
-      "title": "Artificial Intelligence in Video Games Market Is Likely to Experience a Tremendous Growth in Near Future",
-      "excerpt": "Click To get SAMPLE PDF of Global Artificial Intelligence in Video Games Market (Including Full TOC, Table & Figures) Global Artificial Intelligence in Video Games Market and Competitive Analysis Know your current market situation!",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
-      "publishedDateTime": "2021-10-14T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

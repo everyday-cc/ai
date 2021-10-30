@@ -114,34 +114,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Facial-recognition system for school meals halted over privacy fears"
-    excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
-    publishedDateTime: 2021-10-25T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/school-meals-facial-recognition-system-halted-over-privacy-fears-jkhtd295h"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F739d7170-35b2-11ec-8ef4-8e6db1a4b82a.jpg?crop=3144%2C1769%2C0%2C164&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "School meals facial-recognition system halted over privacy fears"
-    excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
-    publishedDateTime: 2021-10-25T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/school-meals-facial-recognition-system-halted-over-privacy-fears-jkhtd295h"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F739d7170-35b2-11ec-8ef4-8e6db1a4b82a.jpg?crop=3144%2C1769%2C0%2C164&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "qrxhpvVmixENpcIITWNFM1HO5KPCvr9YiUpuIemoItABhBHgkxjV+SrCWfkOW03RLG8kk/z7ooRY+EoMHyf1KbuQT9THSoeWpO4Ilu6uCgkX2o3gr2nO/2azUxbBAX7vTy84HzET19G10R6siW5P1bsGUvhAa0kza2nVMFezQfbbjNxe4GcCRyQ8jZ9PLTkoJqlHs66sqFe+jvff+AWU1RYAjf7Mw4brZg1H3iHeozmIhO7Cat/DZ7M8BsWy8aLbF2rBct7xqz6NCnH2tM8QJ+yuuxqsFHMnuIi60ZX5m9XtKg7pj/Poay4awuwQRPJBnv1zLz/AR9KW65zu5sEETPuELqnP0/At60yeiOzOytSAHFgzUQgNTRj3RwoxK8/NnBVcHa6BWGLVovkMSNWCKv223kPmBJznw50S6GvLJCLDprfpAMhOujEmLjBAu/ktJIfDNhfm8FtLuuNvu5BRP0c42HyytKRMOLXItUwnXbK881tC7lG/rA87ir3cbbeuDiG2hBmNXmeGnXPal7y5Gw==;/8D3VdME7rZo7W7DdH891w=="
 ---

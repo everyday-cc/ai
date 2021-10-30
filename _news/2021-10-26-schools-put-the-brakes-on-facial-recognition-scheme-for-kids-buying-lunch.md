@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/schools-put-the-brakes-on-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
 type: article
 quality: 68
-heat: 148
+heat: 128
 published: true
 
 provider:
@@ -112,34 +112,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/10/26/15/49659575-0-image-a-335_1635258544801.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Facial-recognition system for school meals halted over privacy fears"
-    excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
-    publishedDateTime: 2021-10-25T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/school-meals-facial-recognition-system-halted-over-privacy-fears-jkhtd295h"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F739d7170-35b2-11ec-8ef4-8e6db1a4b82a.jpg?crop=3144%2C1769%2C0%2C164&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "School meals facial-recognition system halted over privacy fears"
-    excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
-    publishedDateTime: 2021-10-25T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/school-meals-facial-recognition-system-halted-over-privacy-fears-jkhtd295h"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F739d7170-35b2-11ec-8ef4-8e6db1a4b82a.jpg?crop=3144%2C1769%2C0%2C164&resize=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "bqZTLBAYRx22181jat8ibBrl6/sGbE+V5EENHepLO+wROJloTd74h5LbQlQUw3TWZUJQhI5b/RnzQBNR5fUzblsuhoQzmb7r7JPjXMMG9qQwAdnD5wxsY/K9BXdJQRFFoVcrs3mqgxe1I95y52NFOy/7b2nmsJv9qeyJajzh1inIchwXl4XmLrowbELZGPqB1O586URoG4Bnx3bf0N8eQr92AX8m0StkKqIkiRIpBIzp60OmBljQJ70ziJAZ3nF4ib8xAatwGFRS7C/+n/4AHOko9S0tweIk5MdE6B85F3gGOqqWN4rb1BynRMygoFPGtilFX4GC4fx5hPvXErKD/MBkwua/IbSJwa6M6t9WurDQkhpNQBhTj+Wmwk6LbX2FHIBANc3bfbo8w7mGmPXqRPeC6W9i8uOtvqgX34QHCoW6EUjVLVDSq1KA4T0fgRMVWl23W30DEFGRKjVN/R2wf80sa3NHtzcKAF2IMQDDuSnmXx06ePe+bWlrPPX5XfiLQI9tS70BF/u1kTqHh4cpyQ==;OEzeuQ8Se/PRboOdjDCNPQ=="

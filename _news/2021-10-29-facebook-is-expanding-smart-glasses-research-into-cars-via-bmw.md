@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototy
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_964514ad0dff4266ac35e14f18ad8d42_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Media Outlets Flood the Zone With News of Facebook's Failure"
-    excerpt: "\"The many exposés reveal a toxic but highly profitable revenue model that's driving Facebook’s reluctance to safeguard democracy and stop the spread of hate and disinformation.\""
-    publishedDateTime: 2021-10-25T21:13:00Z
-    webUrl: "https://www.commondreams.org/views/2021/10/25/media-outlets-flood-zone-news-facebooks-failure"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 39
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-10/facebook_zuckerberg-1.jpg?h=fae7ad3b&itok=Dzqc-MD5"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Lawmakers investigating Facebook Inc. and other online giants turn attention to ..."
     excerpt: "Lawmakers weighing how to limit the spread of disinformation on Facebook and other social media giants are turning their attention to regulating the"

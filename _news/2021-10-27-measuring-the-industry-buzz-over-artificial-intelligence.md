@@ -24,17 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI for good – The fleet industry’s pioneering role"
-    excerpt: "Embracing artificial intelligence (AI) is a transformational growth move for any business that needs a faster and more accurate path to product development."
-    publishedDateTime: 2021-10-26T17:26:00Z
-    webUrl: "https://www.ccjdigital.com/technology/article/15280379/the-fleet-industrys-pioneering-role-in-artificial-intelligence"
+  - title: "AI Is Keeping Watch Over Government Spending"
+    excerpt: "For example, AI helps convert appropriation bills into structured data ... How do you identify which problem area(s) to start with for your automation and cognitive technology projects? Justin Marsico: We work closely with our federal process improvement ..."
+    publishedDateTime: 2021-10-30T14:06:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/"
     type: article
     provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/10/GettyImages_1310293181.617301f9a972f.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617d508009fce0bdf8ec75db%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3020%26cropY1%3D144%26cropY2%3D2409"
         width: 1200
         height: 900
         isCached: true

@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-29T19:50:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-supply-chain-market-may-set-new-pears"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-supply-chain-market-may-set-new-pears"
 type: article
-quality: 48
+quality: 52
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"

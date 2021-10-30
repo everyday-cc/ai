@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/artanddesign/2021/oct/30/ai-weiwei-it-is
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2021/oct/30/ai-weiwei-it-is-so-positive-to-be-poor-as-a-child-you-understand-how-vulnerable-our-humanity-can-be"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "For His Father and His Son, Ai Weiwei Is Determined to Leave a Trace"
-    excerpt: "OF JOYS AND SORROWS A Memoir By Ai Weiwei Translated by Allan H. Barr “You’re just a pawn in the game, you know,” a public security officer summarily informs Ai Weiwei, China’s most controversial — and to the Chinese Communist Party,"
-    publishedDateTime: 2021-10-30T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/10/30/books/review/1000-years-of-joys-and-sorrows-ai-weiwei.html"
-    ampWebUrl: "https://www.nytimes.com/2021/10/30/books/review/1000-years-of-joys-and-sorrows-ai-weiwei.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/30/books/review/1000-years-of-joys-and-sorrows-ai-weiwei.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 87
-    images:
-      - url: "https://static01.nyt.com/images/2021/10/19/books/review/Fan1/merlin_174157326_a1b27497-c7d3-485c-ba81-cef9b21fa5b1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "2hobeXoFd7XyEq5proSR3DYCr7ff8wf3Yr4Y5rEnqCXcaE5NA4Cgc677xoYIi7uh7wnfrEgzRPpAAYsSKhF78lDCkFLhnCefKEWfixer8ETVsnPYhxeYc/pbzshGq03+S62QbQhbuayTv4VIUoR22WwYnOjqqccRkC3it1W6mYDlcrgemyiHhW4SIdsa9jlmfONyim+EKhTJPpUCtrIS2Y+OSynSJH29jAX9nEbZQi8/gm8pjyKEEpRxdGoDQyAl8f16mEBrNAYwQ1+fdZURTaaGMSmw9fOe9uM++Mdshr6qywryVfeGhUMmIn5hX/koTrJxY2THQzNmE261MDcBAPN5OHeQWbdQOVGpHKNMqRgGYbt+y1T/HGMahMElMdfo7rUExVw8TfZPlRojuqutA03rBWqpzajK9jsg/BkQm89K8mdDfvmgwcqwn3wu/A0UIUBa1OdDVjD88XXFDdzheaJCsfce9TOYaGjymZ7oSveufryevP5VZM8/NkgBM/VtZi9VQdImdnd/gjgdnFSopg==;KAqHXavECenFvsFXOjTpeA=="
 ---

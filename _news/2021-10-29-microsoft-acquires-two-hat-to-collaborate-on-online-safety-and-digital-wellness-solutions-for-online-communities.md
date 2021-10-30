@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/money/smallbusiness/microsoft-acquires-t
 webUrl: "https://blogs.microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/"
 type: article
 quality: 118
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
         width: 970
         height: 545
-        isCached: true
-  - title: "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
-    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027."
-    publishedDateTime: 2021-10-25T22:46:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 67
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg"
-        width: 390
-        height: 220
         isCached: true
   - title: "Women in Cloud, Microsoft, Coursera and IAMCP Partner to Provide Azure Training and Certification"
     excerpt: "Women in Cloud (WiC) is excited to announce a collaboration with Microsoft and Coursera to distribute Azure Training and Certification Scholarships to women in India, through their #empowHERfamily initiative that brings together resources across corporate,"

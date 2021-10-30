@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-30-ai-is-keeping-watch-over-government-spending.md",
+      "title": "AI Is Keeping Watch Over Government Spending",
+      "excerpt": "For example, AI helps convert appropriation bills into structured data ... How do you identify which problem area(s) to start with for your automation and cognitive technology projects? Justin Marsico: We work closely with our federal process improvement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617d508009fce0bdf8ec75db%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3020%26cropY1%3D144%26cropY2%3D2409",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/",
+      "publishedDateTime": "2021-10-30T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-ai-weiwei-traces-a-century-of-making-authorities-squirm.md",
+      "title": "Ai Weiwei Traces a Century of Making Authorities Squirm",
+      "excerpt": "A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
+      "originalUrl": "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-426238",
+          "width": 1280,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
+      "publishedDateTime": "2021-10-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons.md",
       "title": "Activ Surgical harnesses AI and machine learning to collaborate with surgeons",
       "excerpt": "With machine learning, Activ Surgical's autonomous model can annotate a one-hour surgical video 20,000 times faster than humans can.",
@@ -51,57 +153,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-for-his-father-and-his-son-ai-weiwei-is-determined-to-leave-a-trace.md",
-      "title": "For His Father and His Son, Ai Weiwei Is Determined to Leave a Trace",
-      "excerpt": "OF JOYS AND SORROWS A Memoir By Ai Weiwei Translated by Allan H. Barr “You’re just a pawn in the game, you know,” a public security officer summarily informs Ai Weiwei, China’s most controversial — and to the Chinese Communist Party,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/10/30/books/review/1000-years-of-joys-and-sorrows-ai-weiwei.html",
-      "originalUrl": "https://www.nytimes.com/2021/10/30/books/review/1000-years-of-joys-and-sorrows-ai-weiwei.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/10/19/books/review/Fan1/merlin_174157326_a1b27497-c7d3-485c-ba81-cef9b21fa5b1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/10/30/books/review/1000-years-of-joys-and-sorrows-ai-weiwei.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/30/books/review/1000-years-of-joys-and-sorrows-ai-weiwei.amp.html",
-      "publishedDateTime": "2021-10-30T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -251,7 +302,7 @@
       "originalUrl": "https://www.techradar.com/sg/news/the-evolution-of-speech-recognition-technology",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -303,7 +354,7 @@
       "originalUrl": "https://thenextweb.com/news/why-flat-earthers-clear-present-threat-ai-powered-society",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -698,6 +749,57 @@
       ]
     },
     {
+      "path": "_news/2021-10-29-democratizing-ai-to-transform-your-business-in-an-unpredictable-future.md",
+      "title": "Democratizing AI To Transform Your Business In An Unpredictable Future",
+      "excerpt": "AI is no longer just a tool for data scientists ... enhancing overall enterprise operations. Business users can start leveraging AutoAI models in minutes, providing advanced predictive power for a broad range of staff, not just data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ab08b6fd5210c145ece8a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/",
+      "publishedDateTime": "2021-10-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities.md",
       "title": "Microsoft acquires Two Hat to collaborate on online safety and digital wellness solutions for online communities",
       "excerpt": "Today, we are excited to announce that Microsoft has acquired Two Hat, a leading content moderation solution provider offering protection measures for online communities with a vision to build better experiences for everyone.",
@@ -706,7 +808,7 @@
       "originalUrl": "https://www.msn.com/en-us/money/smallbusiness/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/ar-AAQ68e3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1134,101 +1236,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-after-the-facebook-papers-whats-next-for-err-meta.md",
-      "title": "After the Facebook Papers, what’s next for, err, Meta?",
-      "excerpt": "Writer at Neural by TNW — Thomas covers AI in all its ... Teenage users of the Facebook app in the US have shrunk by 13% since 2019, according to the company’s own research.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-regulation-growing-old",
-      "originalUrl": "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-regulation-growing-old",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-9-1.jpg&signature=3c8ce726468cfc55b53bf6e549d93ffe",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-facial-recognition-in-india-new-study-approved-regulations-remain-difficult.md",
-      "title": "Facial recognition in India: new study approved, regulations remain difficult",
-      "excerpt": "NITI Aayog, the National Institution for Transforming India, has recently approved a new study into the implementation of facial recognition in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202110/facial-recognition-in-india-new-study-approved-regulations-remain-difficult",
-      "originalUrl": "https://www.biometricupdate.com/202110/facial-recognition-in-india-new-study-approved-regulations-remain-difficult",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg",
-          "width": 1600,
-          "height": 1109,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

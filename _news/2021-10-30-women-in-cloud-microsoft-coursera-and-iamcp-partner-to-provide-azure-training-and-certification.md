@@ -71,22 +71,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
-    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027."
-    publishedDateTime: 2021-10-25T22:46:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 67
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Khoros Collaborates with AWS to Integrate Amazon Connect Into its Award-Winning Digital Contact Center Solution"
     excerpt: "Khoros, an award-winning leader in digital-first customer engagement software and services, today announced an expanded collaboration with Amazon Web Services, Inc. (AWS) which will include an integration with Amazon Connect,"
     publishedDateTime: 2021-10-26T23:16:00Z

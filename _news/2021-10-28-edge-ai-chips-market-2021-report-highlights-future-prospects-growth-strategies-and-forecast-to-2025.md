@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Diagnostics Market 2021 Opportunities, Challenges, Key Players, Trend and Forecast by 2027"
-    excerpt: "MarketsandResearch.biz has declared the addition of a new research report titled Global Artificial Intelligence"
-    publishedDateTime: 2021-10-25T21:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-diagnostics-market-2021-opportunities-challenges-key-players-trend-and-forecast-by-2027-2021-10-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in Medical Diagnostics Market 2021 Study Scope, Key Segments, Industry Trends, Size and Forecast to 2027"
     excerpt: "Global Artificial Intelligence in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2027 introduced by MarketsandResearch.biz considers the market structure of the market through the analysis of its various sub-segments."
     publishedDateTime: 2021-10-25T23:09:00Z

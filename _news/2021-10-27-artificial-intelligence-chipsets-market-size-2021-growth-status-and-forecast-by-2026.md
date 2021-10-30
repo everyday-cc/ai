@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-2021-growth-status-and-forecast-by-2026-2021-10-27"
 type: article
 quality: 61
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Diagnostics Market 2021 Opportunities, Challenges, Key Players, Trend and Forecast by 2027"
-    excerpt: "MarketsandResearch.biz has declared the addition of a new research report titled Global Artificial Intelligence"
-    publishedDateTime: 2021-10-25T21:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-diagnostics-market-2021-opportunities-challenges-key-players-trend-and-forecast-by-2027-2021-10-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge AI Chips Market 2021 Report Highlights, Future Prospects, Growth Strategies and Forecast to 2025"
     excerpt: "Global Edge AI Chips Market Research Report 2021-2025, provides an in-depth analysis of market size, share, drivers, constraints, and other factors. Additionally, for the projection period of 2025, this research includes an estimated observation of many ..."
     publishedDateTime: 2021-10-28T10:37:00Z

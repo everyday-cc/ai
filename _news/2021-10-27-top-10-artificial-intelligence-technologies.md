@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Artificial Intelligence Is Transforming Biotechnology, Especially When It Comes To Innovations In Nitric Oxide"
-    excerpt: "Recent advancements in biotechnology have immense potential to help address many global problems; climate change, an aging society, food security, energy security, and infectious diseases."
-    publishedDateTime: 2021-10-25T22:52:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/10/25/artificial-intelligence-is-transforming-biotechnology-especially-when-it-comes-to-innovations-in-nitric-oxide/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/25/artificial-intelligence-is-transforming-biotechnology-especially-when-it-comes-to-innovations-in-nitric-oxide/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/25/artificial-intelligence-is-transforming-biotechnology-especially-when-it-comes-to-innovations-in-nitric-oxide/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61765102b25d995df0407787%2F0x0.jpg"
-        width: 1200
-        height: 827
-        isCached: true
   - title: "The Growing Role of Artificial Intelligence in Telehealth"
     excerpt: "The application of AI in telehealth to allow doctors to make real-time, data-driven rich choices is a key component in generating a better patient experience and improved health outcomes."
     publishedDateTime: 2021-10-26T17:40:00Z
