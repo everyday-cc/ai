@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk Says ‘Some Issues’ Have Forced Tesla to Pull Newest Full Self-Driving Beta"
-    excerpt: "Although Musk didn't identify the issues that led to the rollback, some drivers said they experienced problems with Autopilot and Traffic Aware Cruise Control."
-    publishedDateTime: 2021-10-25T07:17:00Z
-    webUrl: "https://gizmodo.com/elon-musk-says-some-issues-have-forced-tesla-to-pull-1847927184"
-    ampWebUrl: "https://gizmodo.com/elon-musk-says-some-issues-have-forced-tesla-to-pull-1847927184/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/elon-musk-says-some-issues-have-forced-tesla-to-pull-1847927184/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 82
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/005e08baa1e379dada5ebd383405b28b.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Tesla Pulls Full Self Driving Beta Due to Multiple Issues"
     excerpt: "Tesla has dealt with multiple issues with its AutoPilot feature and is now having to do the same with the Full Self Driving beta, according to CEO."
     publishedDateTime: 2021-10-25T10:25:00Z
@@ -175,22 +159,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/10/25/14/49611365-0-image-a-8_1635167555543.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Here's why Tesla has pulled its Full Self-Driving beta"
-    excerpt: "The setback comes as Tesla is under regulatory scrutiny over the safety of its semi-autonomous driving technology, which it calls \"FSD.\""
-    publishedDateTime: 2021-10-25T07:22:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/heres-why-tesla-has-pulled-its-full-self-driving-beta/articleshow/87252351.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/heres-why-tesla-has-pulled-its-full-self-driving-beta/amp_articleshow/87252351.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/heres-why-tesla-has-pulled-its-full-self-driving-beta/amp_articleshow/87252351.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87252351,imgsize-67564,width-800/87252351.jpg"
-        width: 800
-        height: 560
         isCached: true
   - title: "Tesla withdraws self-driving beta over software issues"
     excerpt: "Tesla has withdrawn its latest \"full self-driving\" car software update after drivers complained of problems. Some drivers reported intermittent issues such as safety alerts sounding, despite no danger being present."

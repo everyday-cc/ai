@@ -3,10 +3,10 @@ category: news
 title: "ABB Invests in Building Technology Startup BrainBox AI"
 excerpt: "ABB Technology Ventures leads BrainBox AI’s Series A investment round. Launched in 2019, BrainBox AI has pioneered the use of artificial intelligence to reduce energy costs and carbon emissions from Heating,"
 publishedDateTime: 2021-10-28T19:29:00Z
-originalUrl: "https://www.newswiretoday.com/news/176528/"
-webUrl: "https://www.newswiretoday.com/news/176528/"
+originalUrl: "https://www.newswiretoday.com/news/176528/ABB-Invests-in-Building-Technology-Startup-BrainBox-AI/"
+webUrl: "https://www.newswiretoday.com/news/176528/ABB-Invests-in-Building-Technology-Startup-BrainBox-AI/"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: newswiretoday.com
 
 topics:
+  - AI in Robotics
   - AI
 
 related:
@@ -33,6 +34,6 @@ related:
         height: 568
         isCached: true
 
-secured: "q5g1Z9RJ4CF/a+1P3sUNv/v7c7eg6QUzyTnkeXsu5k0QVROWgCCxoGIMWFJcfAMwOL2afLRctUxlcsDIKv2blIE7WK4ym6MA9s9fCNorD+zAcgHhwUsFy/YI6Nwou6031WCq/pcOZUfkU5vKbK50f2k015jnl16/I/eS3Bj3cKTfu6Rex08QvOjLd/79hkgCNsttKkKrvs/l1P/dV2DmkrkM6yI/IebEQ9PuIZOlSeafkY6xL/geD8+x5CO2h+cYHY77jn0Uu/LJd0bNn5pFwluZLLnobzQEJOo+kBe+fuHJXsw1MN3uRDInwKU7fi1pKx+xS8NsDRH+kvx8oIammBh+4lz5cLGoOB/Hupenjt+7NLzKDbAjubB23S1dcRfgCmGQQhLoQmJPbaCtGgUi76y5FZE3H9H/nCelFYwtfDfxYA+rs3Kwa7y9usYxKGiIWuTRBjdUOL5bObA4WojuaW20+akEAGvX4s3pIoiJVw/SD9GuGLY7vomvFLocUVZaLbQeK+FZO1C9iP8e2MOWCw==;DwqqBB6wuNln47so8itOpQ=="
+secured: "eDZ7RsqbUAygXwWHDmcp5qjIgyoA1VV5lwwjuD2fbqCmjmZogh6HPQTckA6BBPZ/N50HtIaQaeyLnC7UfL6x5BHB6rhqLcxnsBq9A2q18BKY6jNpKuiRUm0JF2Bi61HpEI/2/EEdXHGX6wlkizCKuktECa7LP1g+8hnXgmgFC4WZawE6FMHBIARhWEnKKER/RLFkqNCHt2JstAnaLQgR5N86tYGWzzbGbleAsObmX6AvciiKxfBKrZJttgusoLUlDMhP84b6o1ZdVz7Pi5tynYmU6YoIauRePy8jNyvgf0zx+NAKGHxDgZwPW43X9nGnzpeGmr2UW16PShtQCDkYRvKt36AG6jbGnXdpy70y2Et4DUfkg/B6gn2/+n0o4fixaK5xEn0Oes+jiS2KaV+lMw/F7IvSr3Ax+B6YcHVyLpTMxTSSw8o9w0i33WaSRS6BNOpZvyRWzwy8iEsf6JXxK7jX8J4M1WGmmxxpaBpoMOYiUgRZ2/nuu9GpJFtsZp6V8opEued/+qaPiqrGDM+COw==;5NTNFDBQJAtMAk0ILSQzdQ=="
 ---
 

@@ -37,6 +37,45 @@ related:
         width: 2646
         height: 1512
         isCached: true
+  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
+    excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
+    publishedDateTime: 2021-10-27T04:43:00Z
+    webUrl: "https://menafn.com/1103052426/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Lidar for Self-Driving Car Market Overview, Industry Top Manufactures, Market Size, Industry Growth Analysis and Forecast: 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” “Lidar for Self-Driving Car Market” forecast gives a current review of the market size, including definitions, division,"
+    publishedDateTime: 2021-10-26T08:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-overview-industry-top-manufactures-market-size-industry-growth-analysis-and-forecast-2027-2021-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Gesture Recognition Market, Size, Share, Analysis Report & Forecast to 2026"
+    excerpt: "The global gesture recognition market is expected to grow at a significant CAGR during the forecast period The Gesture Recognition System GRS integrates imaging and computer technologies to read a specific gesture language by using specified mathematical algorithms Gesture recognition"
+    publishedDateTime: 2021-10-27T09:12:00Z
+    webUrl: "https://www.openpr.com/news/2443753/global-gesture-recognition-market-size-share-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2443753/global-gesture-recognition-market-size-share-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2443753/global-gesture-recognition-market-size-share-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
 secured: "tNRNjNPOX3uTWPqpQrKHyzgxD824SE3J9wpAxnC2GFWXVgZoCEtTX6ZfpMVGGb/pYRZQ5wGYzZ17bIzFFDZjyloWS7vV0FfdF5pdm8d6l+HrTH6/fzfIiBMBHsg3mfMlrDESLlnUEG+MGF7cVAcwgegR9TjDnITYk3txSfIbnYl7ytP5KP0dGbZdmkjtMoLJg62PrZ+5xwGE45m5JVV1PegxCcinAnNpKZwtriDXlb5A2WkJ1uBLuFpdJmbxXnVvyWotRvxC/oXlchyQckpTpehRPoLn8RNhqnjEkkBYRanDelLHpdW7q58ay4oJQoy5KRdCBChsNKyKURneiCsGi1VhckMGPBEqUY1GhW4rCdc=;3yJ0Mk8WL73SZcXfSWIVcA=="
 ---

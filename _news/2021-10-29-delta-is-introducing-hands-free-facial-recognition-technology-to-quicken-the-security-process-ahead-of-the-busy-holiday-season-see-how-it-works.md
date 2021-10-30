@@ -34,10 +34,10 @@ images:
 related:
   - title: "The evolution of speech recognition technology"
     excerpt: "About the Author Graeme John Cole is a contributor for Rev, creator of the world's most accurate automatic speech recognition engine, Rev.ai. Today, we all carry KITT in our pockets. We sigh when KITT answers the phone at the bank. The personality isn’t ..."
-    publishedDateTime: 2021-10-29T22:46:00Z
-    webUrl: "https://www.techradar.com/in/news/the-evolution-of-speech-recognition-technology"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/the-evolution-of-speech-recognition-technology"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/the-evolution-of-speech-recognition-technology"
+    publishedDateTime: 2021-10-30T00:19:00Z
+    webUrl: "https://www.techradar.com/sg/news/the-evolution-of-speech-recognition-technology"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology"
     type: article
     provider:
       name: TechRadar

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/3638061/gitex-middle-eastern-it-leaders-
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3638061/gitex-middle-eastern-it-leaders-confront-challenges-to-ai-deployment.amp.html"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI Challenge: Monster Engagements"
+    excerpt: "An AI Challenge for the SDSU AI Club. Contribute to AgentWombat/monster-engagements development by creating an account on GitHub."
+    publishedDateTime: 2021-10-30T01:28:00Z
+    webUrl: "https://github.com/AgentWombat/monster-engagements"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 37
+    images:
+      - url: "https://opengraph.githubassets.com/b6f413fe3cb4cf6a1f5aecd1f0ae549a34dc6af134cea2e118c6f4933a897361/AgentWombat/monster-engagements"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "ni8ZKDxPMq/w7N2qsrcnDjx6CsntaILgr0HPRFJ+lNEHqEcFnx/TOqPjnjGnFbk1qjgTnHjCS6IreIAyZkc/b/5DAZ6FxG2k8kobNSA3M46wG/DN0DR6NtIA5cdD2RSvVpIoqvCf7ftKQ/N9D9YVWaMHFsdhxgyVTdPilMpXdfrKbE4EfTxAeBsUfRPl3e23eV568RVbaOAjQHzb4UxtfYmU6Cjw7bnh1nwEf7MlsL/80iieGC6nt3lNX3vNqeG3gbUO9NP+AR272vFnTLcW+Ui55SnXmSKu9Q9JETgfBfhIi7r2OsQmi9jxVyZvmvdmiCGWa5actGIAAhjMXO8CBbsPzW00y+jSx4WdyNUbkHU=;TWAAy02dndvgZQ/ipCMPlg=="
 ---

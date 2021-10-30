@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/scientists-ai-whale-language/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/scientists-ai-whale-language/amp"
 type: article
 quality: 159
-heat: 179
+heat: 180
 published: true
 
 provider:

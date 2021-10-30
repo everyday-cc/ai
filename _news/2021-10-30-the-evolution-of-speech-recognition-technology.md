@@ -2,11 +2,11 @@
 category: news
 title: "The evolution of speech recognition technology"
 excerpt: "About the Author Graeme John Cole is a contributor for Rev, creator of the world's most accurate automatic speech recognition engine, Rev.ai. Today, we all carry KITT in our pockets. We sigh when KITT answers the phone at the bank. The personality isn’t ..."
-publishedDateTime: 2021-10-29T22:46:00Z
-originalUrl: "https://www.techradar.com/in/news/the-evolution-of-speech-recognition-technology"
-webUrl: "https://www.techradar.com/in/news/the-evolution-of-speech-recognition-technology"
-ampWebUrl: "https://www.techradar.com/in/amp/news/the-evolution-of-speech-recognition-technology"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/the-evolution-of-speech-recognition-technology"
+publishedDateTime: 2021-10-30T00:19:00Z
+originalUrl: "https://www.techradar.com/sg/news/the-evolution-of-speech-recognition-technology"
+webUrl: "https://www.techradar.com/sg/news/the-evolution-of-speech-recognition-technology"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology"
 type: article
 quality: 89
 heat: 149
@@ -126,6 +126,6 @@ related:
         height: 341
         isCached: true
 
-secured: "hMVg16Gh5w/y0RT4tYnebJ7LsKwcZ7Y/gvPgz/UXZwMcBBhjwweB2Qpr3uaUlHwLxUBcPUDFB25UuxI9lTeI/HzM4N+yzKxn0LqvE9wmkUWAv/csqLiP/LpjsQtgk7z5Xrh3Xmn5oXBqsf7p4Q7OfFCQ9RH5FSXzdgXTWYfN6x4AsP43tNkCFruUgfKziIJhqZlFbelkv6YtSxTFmu4W1w9durQ5pG1jivwXunX6/CtHz+g2A7i3FlHAsGTRL1ubcoGLgUuPOaWVUSCr9cmHjmg6dnHkE+BE0UvWmKbUFFqxoU6Hq0wA0q+a8+5x1OQEgxyoqP7w+JScJcnQEiCX3QjGsxhHf4w3nnLCrttQmug=;GwcwNun5EOL1rCCT4PpSXw=="
+secured: "fr+zcMNMPSt+WW/2zBKJxxpT2wGpUoHXZwfxiuWi/D+2BU4pGm+dmuMNkafXRlReU16YbteAZrkkPmhZ7+hiEvF+VrQddBbtqa2mIt3182Rrmc8xMfp5suKBiG8uEVssVyDS9EKuDYgeDuUmiYWaClkKtBUnH90SF4NRiQA0Kx98rPdCrzb+ffW6ZZe0eHUTUEtRyL0nPk7t29f0YkSpEOkfRQaS33u+LHwKFZK1Ko2YrDVqRihBE6uotLRl/CQ9E5+xbEfRTZM2bPYd8hENaz9w0sWDOHfAlyV9mcEFpMh2rajkKESeFnTKmUxCwVjBJh/eTF38NaVS3CiWRCNRoLUiq5MMoFlGjGUXpYSbQLg=;GHSpfoXugwTI2b5vZSFGAQ=="
 ---
 

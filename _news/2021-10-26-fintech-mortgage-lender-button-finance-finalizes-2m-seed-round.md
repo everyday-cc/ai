@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-len
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "5 Ways FinTech is Transforming the Daily Routine"
-    excerpt: "FinTech is maturing and financial management has become simple and accessible like never before. , CGO at Smart IT discusses further"
-    publishedDateTime: 2021-10-25T08:04:00Z
-    webUrl: "https://www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/amp/"
+  - title: "Keeping An “AI” On Fintech: AI-Based Use Cases Poised To Take Financial Services To The Next Level"
+    excerpt: "What AI and ML use cases are applicable to fintech? Financial services have their own set of common AI and ML use cases. These include, but are not limited to cost reduction, process automation, spend reconciliation,"
+    publishedDateTime: 2021-10-26T19:33:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2021/10/26/keeping-an-ai-on-fintech-ai-based-use-cases-poised-to-take-financial-services-to-the-next-level/"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 55
     images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
-        width: 880
-        height: 400
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6178577f1114e88d79887539%2F0x0.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Fintech Mortgage Lender Button Finance Raises $2M Seed Round"
     excerpt: "Button Finance Inc. a fintech mortgage lender focused on home equity, closed a $2 million seed raise. Button Finance says it will use its latest round of funding to further develop its proprietary technology."
@@ -84,48 +82,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Tech Behind MSME Fintech Startup ARTH"
-    excerpt: "Mumbai-based fintech startup ARTH provides financial assistance to women-led enterprises with limited or no online adoption."
-    publishedDateTime: 2021-10-25T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/tech-behind-msme-fintech-startup-arth/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/arth-1-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Hong Kong Fintech Week 2021 to Lead Scaling up for Fintech Future"
-    excerpt: "Invest Hong Kong (InvestHK) announced details of Hong Kong Fintech Week 2021, themed “Scaling Fintech Future Together”, which will be held in hybrid form, comprising both physical and virtual formats,"
-    publishedDateTime: 2021-10-26T01:15:00Z
-    webUrl: "https://fintechnews.sg/56604/events/hong-kong-fintech-week-2021-to-lead-scaling-up-for-fintech-future/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/10/MW_FinTech_300x250_2.4.png?x45653"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Pandora Papers and the role of 6AMLD in fintech fraud risk"
-    excerpt: "Garient Evans, SVP Identity Solutions at Trulioo talks about the impact the Pandora Papers and the pandemic will have on regulations and risk in fintech"
-    publishedDateTime: 2021-10-26T09:16:00Z
-    webUrl: "https://fintechmagazine.com/fraud-and-cybersecurity/pandora-papers-and-role-6amld-fintech-fraud-risk"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/pandoraJ.jpg.png?itok=TtWzhyCN"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New Fintech Regulations to Be Discussed by the U.S. Congress"
     excerpt: "A congressional committee is anticipated to address the need for a new regulatory approach to financial technology in America"
     publishedDateTime: 2021-10-27T08:31:00Z
@@ -139,20 +95,6 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/picture%20of%20the%20US%20capitol%20building%20blended%20with%20the%20American%20flag.jpg.png?itok=jIyyI_P5"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Fintech: The New World of Opportunities & Danger"
-    excerpt: "With unprecedented and disruptive change affecting economies throughout the world, financial technology (fintech) holds the promise of delivering financial inclusion and innovation in both advanced and emerging market economies."
-    publishedDateTime: 2021-10-28T07:10:00Z
-    webUrl: "https://www.linkedin.com/pulse/fintech-new-world-opportunities-danger-chin-lai-the"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHnwUyHAgAM2g/article-cover_image-shrink_600_2000/0/1635065854096?e=1640822400&v=beta&t=ZU-DloQQ6gWRl67Fr_U6oN9AFHEDZKlzli97CaIPW_E"
-        width: 427
-        height: 240
         isCached: true
   - title: "Revolutionary Ways Fintech is Boosting the Property Industry"
     excerpt: "Discover the most disruptive ways fintech expands the property sector, from digital-only lending and fractional ownership, to property-backed stablecoins"
@@ -168,6 +110,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The fintech sentiment: Autumn Budget 2021 and the impact on the industry"
+    excerpt: "Fintech companies welcomed this potential investment ... “The government should stop treating AI as a buzzword and put its money where its mouth is to create real solutions for the very real problems that SMEs face – like slow invoice payments."
+    publishedDateTime: 2021-10-28T15:24:00Z
+    webUrl: "https://www.finextra.com/the-long-read/280/the-fintech-sentiment-autumn-budget-2021-and-the-impact-on-the-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 23
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/280.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Spiceware selected as the Finalist of the UK Ministry of International Trade's Global Fintech Competition"
     excerpt: "The UK's Ministry of International Trade runs a Global Entrepreneur Program (GEP) for innovative technology companies wishing to enter the UK. In conjunction with the program, the annual Global Fintech Competition awards competitive global Fintech companies with innovative solutions such as AI technology,"
     publishedDateTime: 2021-10-29T13:26:00Z
@@ -181,20 +137,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1673453/image_819222_7352417.jpg"
         width: 566
         height: 400
-        isCached: true
-  - title: "DFIN Partners with Hong Kong Fintech Week 2021 Global Fast Track; Spotlights Innovative Fintech Enterprises"
-    excerpt: "PRNewswire/ -- (NYSE: DFIN), a leading risk and compliance company, today announced its partnership with Hong Kong FinTech Week 2021 Global Fast"
-    publishedDateTime: 2021-10-27T11:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dfin-partners-with-hong-kong-fintech-week-2021-global-fast-track-spotlights-innovative-fintech-enterprises/article_9778d072-c961-5f32-b684-c31007440cef.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 6
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/15/c1527f9e-e079-5ba3-86a9-c3336e776292/604f3b615021d.image.jpg?resize=750%2C406"
-        width: 750
-        height: 406
         isCached: true
 
 secured: "5qCvcqI45oFK6Ny724OhwtiP9xoWlvB7DwGSF1gGRiJvOUoyWC900jhdJEFDO4LREkrhBWEE/2Dbz3kf3AkXlIKFMreVh9oYlG4PzjHHv4sudlfMwuTaf85/7BOlbLQVqq2256CbffJNI2ut5UsUk125uCEJ44ncptQdyjb0fkODYVq5m+RPP1caWKFw5QKyHwz04zfbx+9MM+VJVvzJGyEfh6GRJSpat4w5eBbVUQZvGsnu5ZytHpiAt9PW+hX2ev+XjGkE+mxmhImpY/XqcMapwC+Fg9ZXdYBSuMi0UBDO9npqwai6wZflzdZa3Ur0itIn+uRVgud8gHJGYVTdH7mf+wNCPLOyh7rrgRSTwYd/ggs/MapVIDcJP1MRVfUe0JmRgfytnjM7wjoFTeTbVUZnWV24hO5sRTZuGI8DwIwQIiNCB3Bw0kYCtPNR6BMo4FJk8sR8skDBlogUIlKAkxUQbrjIri61CDLW9VGsf9zJjOdmtWi/V/RNjriB/sYVcebA4/zD8P9HO6JgH7rmrA==;oidd3zylQYFBAwGbUw4zDw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2440649/artificial-intelligence-in-bfsi-m
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440649/artificial-intelligence-in-bfsi-market-to-witness-notable"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -24,40 +24,6 @@ images:
     width: 800
     height: 457
     isCached: true
-
-related:
-  - title: "AI in IoT Market to Witness Notable Growth by 2027 Covid-19 Analysis | Microsoft (US), PTC (US)"
-    excerpt: "AI in IoT market report points out problem areas in the business and also presented what areas can expand the business by increasing the customer base It also helps you make sound market decisions and develop effective strategies This AI"
-    publishedDateTime: 2021-10-25T08:58:00Z
-    webUrl: "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
-    ampWebUrl: "https://www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 62
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua25568936_g.jpg"
-        width: 780
-        height: 470
-        isCached: true
-  - title: "Computer Assisted Coding (CAC) Software Market will Witness Huge Growth till 2027 & Covid-19 Analysis | Optum, Trucode"
-    excerpt: "This Computer Assisted Coding CAC Software market report s aim is to provide data on market forecasts channel features end user market key pricing structure and several regions Aside from that it addresses key business areas key companies their profiles"
-    publishedDateTime: 2021-10-27T17:01:00Z
-    webUrl: "https://www.openpr.com/news/2444878/computer-assisted-coding-cac-software-market-will-witness"
-    ampWebUrl: "https://www.openpr.com/amp/2444878/computer-assisted-coding-cac-software-market-will-witness"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2444878/computer-assisted-coding-cac-software-market-will-witness"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 20
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua27735429_g.jpg"
-        width: 600
-        height: 300
-        isCached: true
 
 secured: "1+Jlgxypowiwy5GESdbrXDUTzxotLCDgmMTDn5M3WGg+qWlE34RyGEp2bI82+FwFytWgv28vfY5YjSPtctrsrIBdEv5aUEHbwMS8rW3b9IzS5O//CIYyPQKZyMj08xPQ8UGYAViekF9uz8W5VqqP/WXkwxWJ5AXulcOMIz1Pqh1myqxo7QT3o4qD3TIae1QcmEOZOy+xBYdnvr5Ic+7PnQdJtShMj4ckDPKyzDKhEfpeZZD1fVAJkLXaRGyLs2TtY0IqpTz+0PK/idcyJpaLMrqNu+e/7CFaQLHF74SqJmK2R/py7Hr/GIyjUgUVCAGB54jSw7+1MSHWiEzF7zQSHhpfFOYW0sdbf9nDgDB9OH1tFbi3Yc2Jrlkdn6z6Pvq2c9aSuTGIWPTWMCKHPy8pgsZh6MMiSw/7xbIkDs04NLCksmutZXqbfDKmfCNWCUf3osJe8K/71Fzyu1SyTHK1fStNarkaiJNUhQxHpD6oUN5QW7SJ1qqAAGM4Wyk3sRoU3jWtnZwGYo5p+ZA7Nx2M7g==;MbWAZ2BJhJI9/c7YNx5G9Q=="
 ---

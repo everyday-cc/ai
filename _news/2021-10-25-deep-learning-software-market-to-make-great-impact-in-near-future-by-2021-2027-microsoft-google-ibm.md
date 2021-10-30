@@ -84,17 +84,6 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "AI in Social Media Market Size and Forecast 2028 | Key Companies – Facebook, Google, Twitter, AWS, IBM, Clarabridge"
-    excerpt: "The AI in Social Media Market report comprises broadly analyzed data and information on the AI in Social Media market with a detailed analysis of key models, emerging trends, infrastructure properties,"
-    publishedDateTime: 2021-10-25T07:08:00Z
-    webUrl: "https://manometcurrent.com/ai-in-social-media-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/ai-in-social-media-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-social-media-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
   - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
     excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
     publishedDateTime: 2021-10-26T06:51:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/5-top-cybersecurity-stocks-to-watch-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-top-cybersecurity-stocks-to-watch-before-november-2021-2021-10-25?amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Nasdaq
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AI for Cybersecurity Market to Show Incredible Growth by 2027 | Cynet, Status Today"
-    excerpt: "Various crucial findings depicted in this AI for Cybersecurity market report are the result of primary and secondary research carried out by the analysts In order to provide the relevant data analysts and financial experts take great efforts to bring"
-    publishedDateTime: 2021-10-25T09:01:00Z
-    webUrl: "https://www.openpr.com/news/2439710/ai-for-cybersecurity-market-to-show-incredible-growth-by-2027"
-    ampWebUrl: "https://www.openpr.com/amp/2439710/ai-for-cybersecurity-market-to-show-incredible-growth-by-2027"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439710/ai-for-cybersecurity-market-to-show-incredible-growth-by-2027"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua25223866_g.jpg"
-        width: 600
-        height: 300
-        isCached: true
   - title: "Face to Face adjusts its November event"
     excerpt: "Former Secretary of Defense Chuck Hagel will join former Secretary of State Madeleine Albright on Nov. 9 at 7:30 p.m. in the Lawrence Joel Memorial Coliseum for a discussion hosted by the Face to Face speaker forum."
     publishedDateTime: 2021-10-28T19:42:00Z

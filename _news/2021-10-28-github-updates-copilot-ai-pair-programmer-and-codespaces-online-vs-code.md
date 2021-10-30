@@ -7,7 +7,7 @@ originalUrl: "https://visualstudiomagazine.com/articles/2021/10/27/github-update
 webUrl: "https://copilot.github.com/"
 type: article
 quality: 135
-heat: 135
+heat: 136
 published: true
 
 provider:

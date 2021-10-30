@@ -96,17 +96,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 40
-  - title: "AI in Social Media Market Size and Forecast 2028 | Key Companies – Facebook, Google, Twitter, AWS, IBM, Clarabridge"
-    excerpt: "The AI in Social Media Market report comprises broadly analyzed data and information on the AI in Social Media market with a detailed analysis of key models, emerging trends, infrastructure properties,"
-    publishedDateTime: 2021-10-25T07:08:00Z
-    webUrl: "https://manometcurrent.com/ai-in-social-media-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/ai-in-social-media-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-social-media-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
   - title: "Facial Recognition Market Size and Forecast 2028 | Key Companies – NEC Corporation, Aware, Cognitec Systems, Gemalto, Thales, Idemia"
     excerpt: "Facial Recognition Market was valued at USD 3.04 Billion in 2019 and is projected to reach USD 9.95 Billion by 2027, growing at a CAGR of 15.87% from 2020 to 2027. Get | Download Sample Copy with TOC,"
     publishedDateTime: 2021-10-25T16:24:00Z
