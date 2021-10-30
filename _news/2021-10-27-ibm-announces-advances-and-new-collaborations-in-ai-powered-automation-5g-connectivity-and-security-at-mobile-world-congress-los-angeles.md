@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-announces-adva
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-announces-advances-and-new-collaborations-in-ai-powered-automation-5g-connectivity-and-security-at-mobile-world-congress-los-angeles-1030901288"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 400
     height: 209
     isCached: true
-
-related:
-  - title: "Khoros Collaborates with AWS to Integrate Amazon Connect Into its Award-Winning Digital Contact Center Solution"
-    excerpt: "Khoros, an award-winning leader in digital-first customer engagement software and services, today announced an expanded collaboration with Amazon Web Services, Inc. (AWS) which will include an integration with Amazon Connect,"
-    publishedDateTime: 2021-10-26T23:16:00Z
-    webUrl: "https://www.register-herald.com/region/khoros-collaborates-with-aws-to-integrate-amazon-connect-into-its-award-winning-digital-contact-center/article_fbf24ce9-c9d7-56f0-a461-2bd012841d48.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 19
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "tEmnRV3rUaUFi7xp3N03ogfO8N6aGhryl+kSbsqUodi49fcSwecc50qrQ0OBhsaxdqtqmQB5zEeoLF3GnN68vRF/EPGOTaGUL05V+VeODyRn6Lun8ffoo+XDHy7vYTpK4nHh2Tk8V0hNpfNsKKHML9bwPWXlp1nyHSuEirpTidVqBTRTjTAW5GKqUJpxiCv4z/Sf8RfE1l2RRm/0f9iz/C/d0lwIhhJ0B941vK8bXuvFUk6YUvTnYsB/DlqwjnulDTFx3hTn98qbUMhVAGMjzx/aZAyPvgUzscwDdEli6agwd4hjZI6Y6UCe5dD3bT0mnpwTZXf3PaAiUd8oy7N1qtTPDtA3TXYW9xzgwnYBmUwNr/3kmBn2bVe0goLTJLNPRfSpBJ/O95EZePPYbQklSYFIlynrhcsFNQUN2a+jm6330qF4uiPLVF98BpITjG8GIlS4juQ4SjmomTbolwWewpX9v6ahh1CpVOWd5aaaDgT1v/P1Sy6/Y3Ji8o1tFi15NHsxQ5dTemgcoGLyXGRTvg==;A0cyFNBDsB7Wcv9JJ3rtDg=="
 ---

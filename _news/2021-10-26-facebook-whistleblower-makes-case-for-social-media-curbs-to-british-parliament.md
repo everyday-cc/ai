@@ -21,37 +21,37 @@ topics:
   - AI
 
 related:
-  - title: "Frances Haugen: Key moments from Facebook whistleblower's UK parliamentary testimony"
-    excerpt: "The former Facebook product engineer answered questions from lawmakers on regulation, Instagram Kids and whether she thought Facebook was evil."
-    publishedDateTime: 2021-10-25T19:24:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/"
+  - title: "Facebook Doesn't Amplify Hate, Supports Safety Legislation, Exec Tells British Lawmakers"
+    excerpt: "What I can say is that we have AI that's designed to identify hate speech,\" Davis said. She said Facebook supports the U.K.'s safety legislation and defended the company's handling of internal research on how Instagram can harm teens by encouraging eating ..."
+    publishedDateTime: 2021-10-28T21:02:00Z
+    webUrl: "https://www.newsweek.com/facebook-doesnt-amplify-hate-supports-safety-legislation-exec-tells-british-lawmakers-1643646"
+    ampWebUrl: "https://www.newsweek.com/facebook-doesnt-amplify-hate-supports-safety-legislation-exec-tells-british-lawmakers-1643646?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-doesnt-amplify-hate-supports-safety-legislation-exec-tells-british-lawmakers-1643646?amp=1"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
+      name: Newsweek
+      domain: newsweek.com
+    quality: 65
     images:
-      - url: "https://www.cnet.com/a/img/b08c5Epe3NTGTrmK4QYvTgFuIsQ=/1200x630/2021/10/25/943d7bc3-8a31-4cd3-9a2c-eeb0a0b39f77/screenshot-2021-10-25-at-14-36-38.png"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1921832/facebook-scrutiny.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "'Instagram may NEVER be safe for 14-year-olds': Whistleblower Frances Haugen quotes Facebook's OWN research - and says social media giant won't sacrifice a 'slither of profit ..."
-    excerpt: "Ms Haugen said Facebook was 'very good at dancing with data' to suggest it was successfully clamping down on toxic content but in reality its 'negligence' is pushing users towards extremism."
-    publishedDateTime: 2021-10-26T01:01:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10128197/Facebook-whistleblower-Frances-Haugen-gives-evidence-MPs-scrutinising-online-safety-bill.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10128197/amp/Facebook-whistleblower-Frances-Haugen-gives-evidence-MPs-scrutinising-online-safety-bill.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10128197/amp/Facebook-whistleblower-Frances-Haugen-gives-evidence-MPs-scrutinising-online-safety-bill.html"
+  - title: "Facebook has language blind spots around the world that allow hate speech to flourish"
+    excerpt: "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English."
+    publishedDateTime: 2021-10-26T14:20:00Z
+    webUrl: "https://www.wlwt.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+    ampWebUrl: "https://www.wlwt.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
+      name: WLWT
+      domain: wlwt.com
+    quality: 37
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/10/25/16/49618083-0-image-a-36_1635176206001.jpg"
-        width: 636
-        height: 382
+      - url: "https://kubrick.htvapps.com/vidthumb/images/facebook-hacked-thumbnail-for-web-1631821710.png?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "CHaVJIVgxF/MKOsk75VYJC8+nCIdUjo95gVOSb0ZGQc9v7vyQB/Vvyz4/2ZJ2fXpL2UNRmK03sZznFc6gj4qeB+zIWZf7lTPLGb0jqdkjBWhGurCOl3Sb95cnRXpu27PTdZWM7L+PiQ4fgW1o3U9ZS8p8QnAihnrAhjttOn7f30f043NONtve4js1X7fj4Jyf+mrlQC6m3C+kzLdNzMuT+Xzi7KCKrOp28h8h/2xxhbMkskGJ398PS2KUIawvchyUKYDYwUkL32kCdyJzhdFbAkq1VSDc4/Mbp4Alkd+PgRkccFj6FjArG8w6FEJf45/Nz0PZwN6BY11E+XP9wzCAqkGUiBVq/IGa7gEbBMFtFU=;nGERalV98JRFljkhULpo8A=="

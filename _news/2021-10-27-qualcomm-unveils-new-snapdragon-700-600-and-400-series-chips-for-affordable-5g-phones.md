@@ -85,6 +85,20 @@ related:
         width: 2048
         height: 1212
         isCached: true
+  - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
+    excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
+    publishedDateTime: 2021-10-29T19:05:00Z
+    webUrl: "https://chipdesignmag.com/global-artificial-intelligence-for-edge-devices-market-2021-development-status-microsoft-qualcomm-intel-google/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 32
+    images:
+      - url: "https://i1.wp.com/blog.softmahal.com/wp-content/uploads/2020/01/enabling-intelligent-edge-devices-through-ai-camera-a-microsoft-azure-iot-starter-kit-featured-1280x720-1.jpg?fit=1280%2C720&ssl=1"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "7uul0f4EFRAymfAiwN8b6e72W64A8FBIu2PP9FdhjLgQAq/D5WZNReDSdggjagSPuMS0r5xnxtVEAACD77OMQdFK4t1rAk8m5qYYHRzKustz9yWd8lJ/dV01P1rr1APETQ6BuTpfZXy1nlH+NgN1WntiC2uoR3TmBMOMad2rsvZwj/ICUOid8KLtbzuViJXHcVczplv/02YOQbpBD2T7HfQfEkGSOlqcIF8MPwB3Lids36sMpnAV5sJIb4lgdBtiCUGWHhjm2miIjkg5MtdFOmWBP9t7BlLA6fZPI4U+2V28zx9NVwWclxQyr33m0zy4o7A/Rsr2l6Ev+51Ya4cSxRnvYSLmiZtY8QnNHyvvA8bQIGKISAfrFuFUbjHwEJ8tWBB6VBZYSOngO5omQBUzcDk+NkyuhyYGOj1DE93P0g4iAfHAIJ45d0UABmitbti0Bau9wyAO+pfsdqxS5DI5MV2rW83/hquAssOdvB9eLM/iySdfyXq9sbEup8xZVeyBj9dTAaJRelwz6eGY0/P+cg==;b8w2I70eRAFJTCzaTttwrg=="
 ---

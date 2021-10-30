@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-powers-transformation-a
 webUrl: "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Microsoft
@@ -23,134 +23,35 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Microsoft acquires AI-powered moderation platform Two Hat"
-    excerpt: "Microsoft today announced that it acquired Two Hate, an AI-powered moderation platform, for an undisclosed amount."
-    publishedDateTime: 2021-10-29T14:05:00Z
-    webUrl: "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/"
-    ampWebUrl: "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/"
+  - title: "Over 70 AI start-ups to be showcased at upcoming NVIDIA GTC global conference"
+    excerpt: "Participants in the upcoming global NVIDIA GTC conference will have the opportunity to discover over 70 innovative AI start-ups from around the world. The start-ups, which are innovating for sectors ranging from automotive to industrial safety, are ..."
+    publishedDateTime: 2021-10-28T06:51:00Z
+    webUrl: "https://www.itweb.co.za/content/j5alrMQajAoMpYQk"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/j5alrMQajAoMpYQk"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/j5alrMQajAoMpYQk"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microsoft Azure and Google Cloud results soar as the world goes digital"
-    excerpt: "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services revenue. Similarly, Google Cloud revenues neared $5 billion thanks to a 45% jump,"
-    publishedDateTime: 2021-10-27T11:45:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 104
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
-  - title: "Google Cloud, Microsoft Azure revenues drive strong growth to tech giants' earnings"
-    excerpt: "Microsoft and Google have revealed robust quarterly earnings results, with Azure and Google Cloud leading the way ... the platform's \"leadership in real-time data analytics and AI.\" Google Cloud comprises both Google Cloud Platform (GCP) and Workspace ..."
-    publishedDateTime: 2021-10-27T20:57:00Z
-    webUrl: "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 98
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-27-image-21.jpg"
-        width: 1600
-        height: 911
-        isCached: true
-  - title: "LivePerson acquires VoiceBase and Tenfold for its conversational AI platform"
-    excerpt: "LivePerson has acquired two startups, VoiceBase and Tenfold, to bolster its expanding conversational AI platform."
-    publishedDateTime: 2021-10-27T17:35:00Z
-    webUrl: "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/"
-    ampWebUrl: "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/04/rob_185_final.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft Azure, Amazon AWS and Google Cloud: A Quick Look at Each"
-    excerpt: "Microsoft Azure is the first player to offer the full suite of services to developers. It offers a wide range of products and has one of the most mature enterprise-grade clouds."
-    publishedDateTime: 2021-10-26T11:06:00Z
-    webUrl: "https://www.linkedin.com/pulse/microsoft-azure-amazon-aws-google-cloud-quick-look-each-andrew-frost"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 71
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE5a14hWGJugw/article-cover_image-shrink_600_2000/0/1635246231199?e=1640822400&v=beta&t=FTeIfVv5_WE6giaKpgHD1BOTHkpX2rJm0yI1c8ZaPfI"
-        width: 921
-        height: 432
-        isCached: true
-  - title: "Women in Cloud, Microsoft, Coursera and IAMCP Partner to Provide Azure Training and Certification"
-    excerpt: "Women in Cloud (WiC) is excited to announce a collaboration with Microsoft and Coursera to distribute Azure Training and Certification Scholarships to women in India, through their #empowHERfamily initiative that brings together resources across corporate,"
-    publishedDateTime: 2021-10-30T04:52:00Z
-    webUrl: "https://menafn.com/1103074549/Women-in-Cloud-Microsoft-Coursera-and-IAMCP-Partner-to-Provide-Azure-Training-and-Certification"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
-    excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
-    publishedDateTime: 2021-10-27T00:17:00Z
-    webUrl: "https://www.digitimes.com/news/a20211026PR201.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
+      name: ITWeb
+      domain: itweb.co.za
     quality: 54
     images:
-      - url: "https://www.digitimes.com/newsshow/20211026PR201_files/1_2b.jpg"
-        width: 1280
-        height: 853
+      - url: "https://www.itweb.co.za/static/pictures/2021/10/Serge-Lemonde-NVIDIA.JPG"
+        width: 400
+        height: 439
         isCached: true
-  - title: "Advantech MIC-710AIX is now Microsoft Azure Certified for IoT"
-    excerpt: "Advantech, the leading provider of industrial AI system, today announced its MIC-710AIX edge AI platform has joined Microsoft Azure Certified for Internet of Things (IoT), ensuring customers get IoT solutions up and running quickly with hardware and software that has been pre-tested and verified to work with Microsoft Azure IoT services."
-    publishedDateTime: 2021-10-27T19:35:00Z
-    webUrl: "https://www.automationworld.com/supplier-news/news/21796709/advantech-advantech-mic710aix-is-now-microsoft-azure-certified-for-iot"
+  - title: "OnviSource partners with Voicegain for Speech Recognition based on Deep Learning technologies and the Edge Architecture powered by Nvidia GPUs"
+    excerpt: "OnviSource, a leading provider of intelligent automation solutions for workforce optimization, contact center operation analytics and automation, customer experience management, and business process automation,"
+    publishedDateTime: 2021-10-26T13:20:00Z
+    webUrl: "https://kdhnews.com/news/texas/onvisource-partners-with-voicegain-for-speech-recognition-based-on-deep-learning-technologies-and-the-edge/article_e7296e2f-3984-562b-a60f-2acf001ec59f.html"
     type: article
     provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 49
-  - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
-    excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
-    publishedDateTime: 2021-10-29T19:05:00Z
-    webUrl: "https://chipdesignmag.com/global-artificial-intelligence-for-edge-devices-market-2021-development-status-microsoft-qualcomm-intel-google/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 32
+      name: Killeen Daily Herald
+      domain: kdhnews.com
+    quality: 35
     images:
-      - url: "https://i1.wp.com/blog.softmahal.com/wp-content/uploads/2020/01/enabling-intelligent-edge-devices-through-ai-camera-a-microsoft-azure-iot-starter-kit-featured-1280x720-1.jpg?fit=1280%2C720&ssl=1"
-        width: 1280
-        height: 720
+      - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "WB7JxbsO+CeYI7ZbdV1WTY/O33IbE9rsrkQkBHtmOoGMWheg32obZG9dqdi89+scT9X5sVS2uWnPZ7XF03V5yomLpXXe5IolZIaw1Oxdqwf6r/Z1+Bb23ku0jV0cu9gr6eZlHtdJHF+dGbZI9hwhclqpRsG5/gdmvIKA8qHg3MJ1Xxh2WZxIkXM9yvjkMgR/fvK/6pcKr+r7/+gLN0pJNYhEtD8X0ept98ZchKXmn1S0ui/1/Km/wRvyycGZR39x0V/fS1NSKS62vwtCAHknZkcY0VWaL5DKlQeoLo9OK/tUoygyJ33xmjbn3Rcy2QGi06RcF8nhb54JRdr8LZZi79UqFzziIFm593KIGQwfgVY=;rPwMvYEbL9YRL4pHg3KxOw=="

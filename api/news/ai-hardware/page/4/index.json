@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-15-brytlyt-unleashes-serverless-gpu-acceleration-for-analytics.md",
+      "title": "Brytlyt Unleashes Serverless GPU-Acceleration for Analytics",
+      "excerpt": "All functionality is also enhanced by integrated AI and speed of thought processing power. Formally considered an out-of-reach resource, Brytlyt is making advanced GPU-accelerated analytics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/brytlyt-unleashes-serverless-gpu-acceleration-for-analytics-301377668.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/brytlyt-unleashes-serverless-gpu-acceleration-for-analytics-301377668.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1315458/Brytlyt_Logo.jpg?p=facebook",
+          "width": 2697,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-ai-edge-hardware-startup-deep-vision-nabs-35m.md",
       "title": "AI edge hardware startup Deep Vision nabs $35M",
       "excerpt": "Deep Vision, a company developing an AI accelerator chip and software suite for edge computing workloads, today announced that it closed a $35 million series B financing round led by Tiger Global, with participation from Exfinity Venture Partners,",

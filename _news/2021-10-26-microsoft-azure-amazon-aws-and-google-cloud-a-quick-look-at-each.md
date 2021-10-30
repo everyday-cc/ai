@@ -30,38 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft acquires AI-powered moderation platform Two Hat"
-    excerpt: "Microsoft today announced that it acquired Two Hate, an AI-powered moderation platform, for an undisclosed amount."
-    publishedDateTime: 2021-10-29T14:05:00Z
-    webUrl: "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/"
-    ampWebUrl: "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microsoft Azure and Google Cloud results soar as the world goes digital"
-    excerpt: "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services revenue. Similarly, Google Cloud revenues neared $5 billion thanks to a 45% jump,"
-    publishedDateTime: 2021-10-27T11:45:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 104
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "Google Cloud, Microsoft Azure revenues drive strong growth to tech giants' earnings"
     excerpt: "Microsoft and Google have revealed robust quarterly earnings results, with Azure and Google Cloud leading the way ... the platform's \"leadership in real-time data analytics and AI.\" Google Cloud comprises both Google Cloud Platform (GCP) and Workspace ..."
     publishedDateTime: 2021-10-27T20:57:00Z
@@ -78,45 +46,6 @@ related:
         width: 1600
         height: 911
         isCached: true
-  - title: "LivePerson acquires VoiceBase and Tenfold for its conversational AI platform"
-    excerpt: "LivePerson has acquired two startups, VoiceBase and Tenfold, to bolster its expanding conversational AI platform."
-    publishedDateTime: 2021-10-27T17:35:00Z
-    webUrl: "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/"
-    ampWebUrl: "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/04/rob_185_final.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft powers transformation at NVIDIA GTC Fall—GPU technology conference"
-    excerpt: "This year during NVIDIA GTC 21, we’re spotlighting some of the most transformational applications powered by NVIDIA accelerated computing that highlights our commitment to edge, on-premises, and cloud computing. Registration is free, so sign up to learn how Microsoft is powering transformation."
-    publishedDateTime: 2021-10-27T09:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
-  - title: "Women in Cloud, Microsoft, Coursera and IAMCP Partner to Provide Azure Training and Certification"
-    excerpt: "Women in Cloud (WiC) is excited to announce a collaboration with Microsoft and Coursera to distribute Azure Training and Certification Scholarships to women in India, through their #empowHERfamily initiative that brings together resources across corporate,"
-    publishedDateTime: 2021-10-30T04:52:00Z
-    webUrl: "https://menafn.com/1103074549/Women-in-Cloud-Microsoft-Coursera-and-IAMCP-Partner-to-Provide-Azure-Training-and-Certification"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
     excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
     publishedDateTime: 2021-10-27T00:17:00Z
@@ -131,6 +60,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "GPS Navigation Software Market to Witness Stunning Growth | Google, Microsoft, Navigon, TomTom"
+    excerpt: "Advance Market Analytics published a new research publication on GPS Navigation Software Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers"
+    publishedDateTime: 2021-10-26T11:45:00Z
+    webUrl: "https://www.openpr.com/news/2442302/gps-navigation-software-market-to-witness-stunning-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua26572229_g.jpg"
+        width: 450
+        height: 450
+        isCached: true
   - title: "Advantech MIC-710AIX is now Microsoft Azure Certified for IoT"
     excerpt: "Advantech, the leading provider of industrial AI system, today announced its MIC-710AIX edge AI platform has joined Microsoft Azure Certified for Internet of Things (IoT), ensuring customers get IoT solutions up and running quickly with hardware and software that has been pre-tested and verified to work with Microsoft Azure IoT services."
     publishedDateTime: 2021-10-27T19:35:00Z
@@ -140,20 +85,17 @@ related:
       name: Automation World
       domain: automationworld.com
     quality: 49
-  - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
-    excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
-    publishedDateTime: 2021-10-29T19:05:00Z
-    webUrl: "https://chipdesignmag.com/global-artificial-intelligence-for-edge-devices-market-2021-development-status-microsoft-qualcomm-intel-google/"
+  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
+    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
+    publishedDateTime: 2021-10-26T06:51:00Z
+    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
     type: article
     provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 32
-    images:
-      - url: "https://i1.wp.com/blog.softmahal.com/wp-content/uploads/2020/01/enabling-intelligent-edge-devices-through-ai-camera-a-microsoft-azure-iot-starter-kit-featured-1280x720-1.jpg?fit=1280%2C720&ssl=1"
-        width: 1280
-        height: 720
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
 
 secured: "q70a9+UNl04fHALOeM+2v6jKpldyS7JyFcovSVxFj3TnOwaMuWIe0MEFWr/17Dg7rgx82l7mpSd1qj+btme17aJLk41FYlqbY2VZtk6wu9UU68NOazqBsIGhTxhbbKCcGbpK/TgWQCXwvugkoQY30QwSvK/eH3TxekcfejMQqxKas+6mth5eUYU7I58t8SZCcBHz6e2pPxtITSdUIT9gjfS3mTjjrNDSPQKI42BjS544FReyrPFqCLlQuExsOVEppUfe4vSn2CsJKSkLiU3RqUrbysp9rrebye58bX5O30p99i3lOAXawtCfruVaTtsutTUKeB6HUpEZmIrkyvFBkMfDE63OwFuqfyR4DwUBurdellPxqeA5WopVDJKaC5V6td3haNam2F6NKZNL2Y++NlUOu0nNuDPZdbvQz8/0Rch0hFyIs/sAL2Z6RFZDPSPVfj5be5Ty219knw+G28UcmFWJlTV9s9EGAvNqWIwIm+Q9O6mUDdQixCtYcqxf4r2gi3/tgcOD8gCCnQ5oDmWfug==;2dNHhwY42Fb9bOZQbw93nw=="
 ---

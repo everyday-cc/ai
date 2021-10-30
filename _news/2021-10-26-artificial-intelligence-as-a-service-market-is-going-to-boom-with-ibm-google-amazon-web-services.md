@@ -26,60 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
-    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027."
-    publishedDateTime: 2021-10-25T22:46:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
+  - title: "Natural Language Processing (NLP) Software Market Next Big Thing | Major Giants Google, Explosion AI, IBM"
+    excerpt: "(MENAFN- iCrowdNewsWire) HTF MI introduce new research on Global Natural Language Processing (NLP) Software covering micro level of analysis by competitors and key business segments. The Global ..."
+    publishedDateTime: 2021-10-29T12:41:00Z
+    webUrl: "https://menafn.com/1103070693/Natural-Language-Processing-NLP-Software-Market-Next-Big-Thing-Major-Giants-Google-Explosion-AI-IBM"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 67
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 52
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg"
-        width: 390
-        height: 220
+      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+        width: 300
+        height: 250
         isCached: true
-  - title: "GPS Navigation Software Market to Witness Stunning Growth | Google, Microsoft, Navigon, TomTom"
-    excerpt: "Advance Market Analytics published a new research publication on GPS Navigation Software Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers"
-    publishedDateTime: 2021-10-26T11:45:00Z
-    webUrl: "https://www.openpr.com/news/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua26572229_g.jpg"
-        width: 450
-        height: 450
-        isCached: true
-  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
-    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
-    publishedDateTime: 2021-10-26T06:51:00Z
-    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
-  - title: "Text-to-Speech Market with Attractiveness, Competitive Landscape & Forecasts to 2027| Nuance Communication, Microsoft, Sensory"
-    excerpt: "As a result of expanding penetration of AI, analytics, and IoT systems in the region, APAC is witnessing significant momentum for speech recognition solutions integrated into text-to-speech. Countries establish various beneficial regulations for increasing ..."
-    publishedDateTime: 2021-10-29T13:15:00Z
-    webUrl: "https://www.openpr.com/news/2448160/text-to-speech-market-with-attractiveness-competitive"
-    ampWebUrl: "https://www.openpr.com/amp/2448160/text-to-speech-market-with-attractiveness-competitive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2448160/text-to-speech-market-with-attractiveness-competitive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
 
 secured: "k0yeCtCa2s4jsa8CcUOjpF05RXLZM2DsXynGoOso0DwzJ2GeITPdpj524xEwPc+rFafOim3BNHAeCCmMLWb9muJd1sibDGQkqi3tO4+VeQ1ksIHxyf+GmWjA2Wn1KXKrRTN5qi+S+bO4riCN3T4qpysdyiN0hBIIDRp0NtLS99p2dyawai3/RlxQFnxog+RrXmzbYaFk+jqcds8lm0N2yB7jKdFEndA2GeHyby1H51wsIRnXnmam/VtcJHdVy7QlyD9iEIIueZrNOP3ItTqvEwvUlo7Uk6n7bGmRg3m/gJTGcM8/KkzlUux/jo316I4gZQvFoxMETNWNiXJ4cGld69PMmxw7qLjVZ8JdRHde1C4=;2qVFnZzBtp+8Ji89rkSqpg=="
 ---

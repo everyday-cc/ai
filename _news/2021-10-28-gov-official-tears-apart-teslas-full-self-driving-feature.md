@@ -43,20 +43,6 @@ related:
         width: 4032
         height: 3024
         isCached: true
-  - title: "Tesla pulls Full Self-Driving update after sudden braking spooks drivers"
-    excerpt: "Tesla’s Full Self-Driving software lived up to its “beta” label this weekend. On Saturday morning, CEO Elon Musk announced a delay for the 10.3 update after internal quality-assurance testers discovered that the new version performed worse at left turns at traffic lights than previous versions."
-    publishedDateTime: 2021-10-25T20:42:00Z
-    webUrl: "https://arstechnica.com/cars/2021/10/tesla-pulls-full-self-driving-update-after-sudden-braking-spooks-drivers/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 68
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/06/GettyImages-910881692-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Government Official Slams Tesla’s Full Self-Driving Feature – Says Tesla Needs To Do More"
     excerpt: "Driving” feature when it was launched but it was revealed that it is a software suite that doesn’t enable full self-driving. This made it fairly unpopular among federal regulators. In a Tuesday interview with CNBC,"
     publishedDateTime: 2021-10-28T18:40:00Z

@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft acquires Two Hat to collaborate on online safety and digital wellness solutions for online communities"
+    excerpt: "Today, we are excited to announce that Microsoft has acquired Two Hat, a leading content moderation solution provider offering protection measures for online communities with a vision to build better experiences for everyone."
+    publishedDateTime: 2021-10-29T13:00:04Z
+    webUrl: "https://blogs.microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/"
+    type: article
+    provider:
+      name: microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/
+      domain: microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/
+    quality: 118
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/10/Project-Fresh-Hero-Image-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft acquires AI-powered moderation platform Two Hat"
     excerpt: "Microsoft today announced that it acquired Two Hate, an AI-powered moderation platform, for an undisclosed amount."
     publishedDateTime: 2021-10-29T14:05:00Z
@@ -47,60 +61,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google Cloud, Microsoft Azure revenues drive strong growth to tech giants' earnings"
-    excerpt: "Microsoft and Google have revealed robust quarterly earnings results, with Azure and Google Cloud leading the way ... the platform's \"leadership in real-time data analytics and AI.\" Google Cloud comprises both Google Cloud Platform (GCP) and Workspace ..."
-    publishedDateTime: 2021-10-27T20:57:00Z
-    webUrl: "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
+  - title: "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
+    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027."
+    publishedDateTime: 2021-10-25T22:46:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 98
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 67
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-27-image-21.jpg"
-        width: 1600
-        height: 911
-        isCached: true
-  - title: "LivePerson acquires VoiceBase and Tenfold for its conversational AI platform"
-    excerpt: "LivePerson has acquired two startups, VoiceBase and Tenfold, to bolster its expanding conversational AI platform."
-    publishedDateTime: 2021-10-27T17:35:00Z
-    webUrl: "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/"
-    ampWebUrl: "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/04/rob_185_final.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft powers transformation at NVIDIA GTC Fall—GPU technology conference"
-    excerpt: "This year during NVIDIA GTC 21, we’re spotlighting some of the most transformational applications powered by NVIDIA accelerated computing that highlights our commitment to edge, on-premises, and cloud computing. Registration is free, so sign up to learn how Microsoft is powering transformation."
-    publishedDateTime: 2021-10-27T09:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
-  - title: "Microsoft Azure, Amazon AWS and Google Cloud: A Quick Look at Each"
-    excerpt: "Microsoft Azure is the first player to offer the full suite of services to developers. It offers a wide range of products and has one of the most mature enterprise-grade clouds."
-    publishedDateTime: 2021-10-26T11:06:00Z
-    webUrl: "https://www.linkedin.com/pulse/microsoft-azure-amazon-aws-google-cloud-quick-look-each-andrew-frost"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 71
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE5a14hWGJugw/article-cover_image-shrink_600_2000/0/1635246231199?e=1640822400&v=beta&t=FTeIfVv5_WE6giaKpgHD1BOTHkpX2rJm0yI1c8ZaPfI"
-        width: 921
-        height: 432
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg"
+        width: 390
+        height: 220
         isCached: true
   - title: "Women in Cloud, Microsoft, Coursera and IAMCP Partner to Provide Azure Training and Certification"
     excerpt: "Women in Cloud (WiC) is excited to announce a collaboration with Microsoft and Coursera to distribute Azure Training and Certification Scholarships to women in India, through their #empowHERfamily initiative that brings together resources across corporate,"
@@ -116,43 +91,31 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
-    excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
-    publishedDateTime: 2021-10-27T00:17:00Z
-    webUrl: "https://www.digitimes.com/news/a20211026PR201.html"
+  - title: "Khoros Collaborates with AWS to Integrate Amazon Connect Into its Award-Winning Digital Contact Center Solution"
+    excerpt: "Khoros, an award-winning leader in digital-first customer engagement software and services, today announced an expanded collaboration with Amazon Web Services, Inc. (AWS) which will include an integration with Amazon Connect,"
+    publishedDateTime: 2021-10-26T23:16:00Z
+    webUrl: "https://www.register-herald.com/region/khoros-collaborates-with-aws-to-integrate-amazon-connect-into-its-award-winning-digital-contact-center/article_fbf24ce9-c9d7-56f0-a461-2bd012841d48.html"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 19
     images:
-      - url: "https://www.digitimes.com/newsshow/20211026PR201_files/1_2b.jpg"
-        width: 1280
-        height: 853
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
-  - title: "Advantech MIC-710AIX is now Microsoft Azure Certified for IoT"
-    excerpt: "Advantech, the leading provider of industrial AI system, today announced its MIC-710AIX edge AI platform has joined Microsoft Azure Certified for Internet of Things (IoT), ensuring customers get IoT solutions up and running quickly with hardware and software that has been pre-tested and verified to work with Microsoft Azure IoT services."
-    publishedDateTime: 2021-10-27T19:35:00Z
-    webUrl: "https://www.automationworld.com/supplier-news/news/21796709/advantech-advantech-mic710aix-is-now-microsoft-azure-certified-for-iot"
+  - title: "Text-to-Speech Market with Attractiveness, Competitive Landscape & Forecasts to 2027| Nuance Communication, Microsoft, Sensory"
+    excerpt: "As a result of expanding penetration of AI, analytics, and IoT systems in the region, APAC is witnessing significant momentum for speech recognition solutions integrated into text-to-speech. Countries establish various beneficial regulations for increasing ..."
+    publishedDateTime: 2021-10-29T13:15:00Z
+    webUrl: "https://www.openpr.com/news/2448160/text-to-speech-market-with-attractiveness-competitive"
+    ampWebUrl: "https://www.openpr.com/amp/2448160/text-to-speech-market-with-attractiveness-competitive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2448160/text-to-speech-market-with-attractiveness-competitive"
     type: article
     provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 49
-  - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
-    excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
-    publishedDateTime: 2021-10-29T19:05:00Z
-    webUrl: "https://chipdesignmag.com/global-artificial-intelligence-for-edge-devices-market-2021-development-status-microsoft-qualcomm-intel-google/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 32
-    images:
-      - url: "https://i1.wp.com/blog.softmahal.com/wp-content/uploads/2020/01/enabling-intelligent-edge-devices-through-ai-camera-a-microsoft-azure-iot-starter-kit-featured-1280x720-1.jpg?fit=1280%2C720&ssl=1"
-        width: 1280
-        height: 720
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
 
 secured: "iLHjp2ktgY6flZR8Hqz34gwkeXh3YkLQfelrksnTOqzIaLkjfnpHYPiy1kxMeXb00gJ0vb2Nl5W6+N+HR4iaOBk+AALYHwzpTKq/1t4d/qLFhV2qzbwKEU/63taGK25uQ0XwGVQ2EgIhSVOfLv/WXM8b4Mm6FUIz4JaxPGS7nbnguFYg1WLipYhm+Fj40W7bk4PJmqLdChPODIBEPsc4WW5o0NfrusmP5UnzrBV3JmdZsllIVdbWMz3MHr5mwfq/d5cx19wJVLQv3A0XF1K83RZGIUNxFk2poaiMPjnRtdiGPqjDJNk6z/B1OU6xf4xwy6XL63/CkTH63BhaehtY72NmLeIAg//gJ8WbIwXqZxE=;yGVUoFG9vE4aslOKCzB8nw=="
 ---

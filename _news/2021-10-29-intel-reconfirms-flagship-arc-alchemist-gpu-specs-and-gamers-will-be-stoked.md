@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/intel-flagship-arc-alchemist-gpu-sp
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 708
     height: 442
     isCached: true
+
+related:
+  - title: "Intel Arc Alchemist GPU could be a game changer — here’s everything we know"
+    excerpt: "And, on paper, the upcoming Intel Arc Alchemist GPU looks like it could be just the ticket, offering similar performance to Nvidia’s RTX 3070. Expected in Q1 2022, the GPU is still some way away, but YouTuber Moore’s Law is Dead claims to have provided a first look as to what the card will look like — or what it currently looks like in its pre-production state,"
+    publishedDateTime: 2021-10-30T11:37:00Z
+    webUrl: "https://www.tomsguide.com/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YNs5YuUAdeASvBtZ2rvTL7-1200-80.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3mK2Z20816B+S71VmDFTz/VX2ZidrfTkftDPR2mUeZSdYOx1ehNp9ih/OXNduaxBjuH/MFVM6SdDbqF91Iorzh4mgFAG6E7LP2YmQt6Im7LOjDAUcmmBDFOqjLfofT+pY3BMaX70WHQgCT6xt8Dv5+yr6yaCx252+qPYs9CVOBMjNmGxbSBlBMIUjioQ9z1udgsk6eP974gA4jPs6+WwtqOHmgwGv6/aSDsX9CHntOvKJz1WAPB5smQ5i51lHvrm8tPf0xbrUyp0vFY++iSSZ+B4sMmjyFAyLpX4VujJLJ11P7R66YOfOHc4zOhdmzY7ja6H2bU9sMNRlFkp8YNYgTim5Y1sGoi7cHsYGqg60dC7h25f4/GshJd1AKNsFjxD1gq4xZmrBLNGmYKSXydcS2qoc3PXXbJXLpqcWS3yvFCFWBI2G+CB9Aw7tYNPjvXUFjCn9X53jvnQ1T+OKwXKqlwfHBxTKa6O25VnCxhxERSzDiKrLBhr7UTcYExguZb0GlQQD0BJeVEleX7ndAAlbA==;VAUL5kPfvIL1ZjxnpT8/ww=="
 ---

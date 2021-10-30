@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/10/Qualcomm-Snapdragon-chipsets.jpg"
         width: 2048
         height: 1212
+        isCached: true
+  - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
+    excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
+    publishedDateTime: 2021-10-29T19:05:00Z
+    webUrl: "https://chipdesignmag.com/global-artificial-intelligence-for-edge-devices-market-2021-development-status-microsoft-qualcomm-intel-google/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 32
+    images:
+      - url: "https://i1.wp.com/blog.softmahal.com/wp-content/uploads/2020/01/enabling-intelligent-edge-devices-through-ai-camera-a-microsoft-azure-iot-starter-kit-featured-1280x720-1.jpg?fit=1280%2C720&ssl=1"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "cP/gERL46u49VttXTP2tE4x0TXVjaXqYPf5KaBK0iZRNdN3DZna8mUK5nD/Kgy7hFTeibzB1EHyDoVHJuy985SrHtG0Ny/lg7Ajwx3qeLmbOQ6in+BoCkOEgyjiF6xFrur7Uh4fDkRKtTl1gc6KcdOY8eqR+NutQDVZ+4EyymeE0GP4CN8O3uezMcCeLgqimdHvkVc/Y2pSB9f24YSXhXIoCCLFptsrNeMqrt701F9lEKMtGgoux652cMxbit8X1WQ0/IZj16kZbnvKpO2CM9o8inpSIEafvVghTAJSZw4pZoG0gHFcSlxekdTLGfUl9xlQz2RCgJXhEM4BX6iZiYNT/yLpUAR7K5TlmPbxz9iaxfhu8m7NDtBBXjV8EEIq+8WWdcYI5ZBDCKWD32B3mHVUA/fazeHGAt607gKpGvDAacbXc4MZc2/bL7C4TSAGe6EG+tOrc6ztFLjk2u5v66q8XBhbYqkBqOIl6Uwy5gqpDGMdnzQUT8q4srHW/zOPZS/Y9HrkLciLUnNbfcRV+0A==;/T+xd0iH8VN2f4olZ5KrNg=="

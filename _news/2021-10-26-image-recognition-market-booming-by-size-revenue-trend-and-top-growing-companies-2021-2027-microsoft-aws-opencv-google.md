@@ -23,21 +23,49 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
-    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027."
-    publishedDateTime: 2021-10-25T22:46:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
+  - title: "Google Cloud, Microsoft Azure revenues drive strong growth to tech giants' earnings"
+    excerpt: "Microsoft and Google have revealed robust quarterly earnings results, with Azure and Google Cloud leading the way ... the platform's \"leadership in real-time data analytics and AI.\" Google Cloud comprises both Google Cloud Platform (GCP) and Workspace ..."
+    publishedDateTime: 2021-10-27T20:57:00Z
+    webUrl: "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 67
+      name: TechSpot
+      domain: techspot.com
+    quality: 98
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg"
-        width: 390
-        height: 220
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-27-image-21.jpg"
+        width: 1600
+        height: 911
+        isCached: true
+  - title: "Microsoft Azure, Amazon AWS and Google Cloud: A Quick Look at Each"
+    excerpt: "Microsoft Azure is the first player to offer the full suite of services to developers. It offers a wide range of products and has one of the most mature enterprise-grade clouds."
+    publishedDateTime: 2021-10-26T11:06:00Z
+    webUrl: "https://www.linkedin.com/pulse/microsoft-azure-amazon-aws-google-cloud-quick-look-each-andrew-frost"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 71
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE5a14hWGJugw/article-cover_image-shrink_600_2000/0/1635246231199?e=1640822400&v=beta&t=FTeIfVv5_WE6giaKpgHD1BOTHkpX2rJm0yI1c8ZaPfI"
+        width: 921
+        height: 432
+        isCached: true
+  - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
+    excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
+    publishedDateTime: 2021-10-27T00:17:00Z
+    webUrl: "https://www.digitimes.com/news/a20211026PR201.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://www.digitimes.com/newsshow/20211026PR201_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "GPS Navigation Software Market to Witness Stunning Growth | Google, Microsoft, Navigon, TomTom"
     excerpt: "Advance Market Analytics published a new research publication on GPS Navigation Software Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers"
@@ -55,31 +83,15 @@ related:
         width: 450
         height: 450
         isCached: true
-  - title: "Artificial Intelligence as a Service Market is going to Boom with IBM, Google, Amazon Web Services"
-    excerpt: "The latest study released on the Global Artificial Intelligence as a Service Market by AMA Research evaluates market size, trend, and forecast to 202"
-    publishedDateTime: 2021-10-26T06:41:00Z
-    webUrl: "https://menafn.com/1103043712/Artificial-Intelligence-as-a-Service-Market-is-going-to-Boom-with-IBM-Google-Amazon-Web-Services"
+  - title: "Advantech MIC-710AIX is now Microsoft Azure Certified for IoT"
+    excerpt: "Advantech, the leading provider of industrial AI system, today announced its MIC-710AIX edge AI platform has joined Microsoft Azure Certified for Internet of Things (IoT), ensuring customers get IoT solutions up and running quickly with hardware and software that has been pre-tested and verified to work with Microsoft Azure IoT services."
+    publishedDateTime: 2021-10-27T19:35:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/21796709/advantech-advantech-mic710aix-is-now-microsoft-azure-certified-for-iot"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?832665"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "Text-to-Speech Market with Attractiveness, Competitive Landscape & Forecasts to 2027| Nuance Communication, Microsoft, Sensory"
-    excerpt: "As a result of expanding penetration of AI, analytics, and IoT systems in the region, APAC is witnessing significant momentum for speech recognition solutions integrated into text-to-speech. Countries establish various beneficial regulations for increasing ..."
-    publishedDateTime: 2021-10-29T13:15:00Z
-    webUrl: "https://www.openpr.com/news/2448160/text-to-speech-market-with-attractiveness-competitive"
-    ampWebUrl: "https://www.openpr.com/amp/2448160/text-to-speech-market-with-attractiveness-competitive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2448160/text-to-speech-market-with-attractiveness-competitive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
+      name: Automation World
+      domain: automationworld.com
+    quality: 49
 
 secured: "rxRKX0bb5vrD90ucxoulpGM3lUHcNgovxOExQ6CYaTtQsg1IYrDMw/DxcrjbWi62aOhtBJtKoHw+ey0YEK5z4mpvr3zuQ0st3pFdP3X8UG6y45t1CqoCs7BwxEQjH4bDequPracujQfx3EXN9clJ4qMxxtU4xNykKI4tT1H7TaMVvbDzO4EiMdSVxwdOnbm2OspBVsmpXD2v8H0bosiwbuuP4J+7t3EVAfV8+qGrZ1GRNPXkgunvAS+ZLkcqlFGpdhHaOysTS3hwVjzV1EORDxIfY4OOGYtV9EZv3IEaoroMvYYG3tqyUsY5DfVmwkpb6RuzYS+IVVZBshGwc0VYkO23eNLlGFjBcl45nYoeB/Y=;QMC42JgkWfdwEQAEyJikWw=="
 ---

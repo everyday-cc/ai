@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-30-activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons.md",
+      "title": "Activ Surgical harnesses AI and machine learning to collaborate with surgeons",
+      "excerpt": "With machine learning, Activ Surgical's autonomous model can annotate a one-hour surgical video 20,000 times faster than humans can.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/",
+      "originalUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1251551899-e1635530619575.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/amp/",
+      "publishedDateTime": "2021-10-30T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-legaltech-startup-vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives.md",
       "title": "Legaltech Startup Vakilsearch Raises $10 Mn To Accelerate Its AI And ML Initiatives",
       "excerpt": "“With this investment, we will leverage the strengths of Vakilsearch and accelerate our Artificial Intelligence (AI) and Machine ... India CEO Manish Modi. The startup had raised $2 Mn from ...",
@@ -555,51 +607,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-deep-learning-software-market-size-and-forecast-2028-key-companies-microsoft-express-scribe-nuance-google-ibm-aws.md",
-      "title": "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS",
-      "excerpt": "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1",
-      "publishedDateTime": "2021-10-25T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     },
     {

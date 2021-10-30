@@ -26,29 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "LivePerson acquires VoiceBase and Tenfold to power scaled Voice AI innovation"
-    excerpt: "Through these acquisitions, three powerful technologies combine to create a unified, AI-enabled system for customer experience: VoiceBase’s superior speech recognition and analytics capabilities, Tenfold’s advanced voice,"
-    publishedDateTime: 2021-10-27T15:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-5906129d68124670d985ee12d29c830d"
+  - title: "Microsoft powers transformation at NVIDIA GTC Fall—GPU technology conference"
+    excerpt: "This year during NVIDIA GTC 21, we’re spotlighting some of the most transformational applications powered by NVIDIA accelerated computing that highlights our commitment to edge, on-premises, and cloud computing. Registration is free, so sign up to learn how Microsoft is powering transformation."
+    publishedDateTime: 2021-10-27T09:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
+  - title: "Over 70 AI start-ups to be showcased at upcoming NVIDIA GTC global conference"
+    excerpt: "Participants in the upcoming global NVIDIA GTC conference will have the opportunity to discover over 70 innovative AI start-ups from around the world. The start-ups, which are innovating for sectors ranging from automotive to industrial safety, are ..."
+    publishedDateTime: 2021-10-28T06:51:00Z
+    webUrl: "https://www.itweb.co.za/content/j5alrMQajAoMpYQk"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/j5alrMQajAoMpYQk"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/j5alrMQajAoMpYQk"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.itweb.co.za/static/pictures/2021/10/Serge-Lemonde-NVIDIA.JPG"
+        width: 400
+        height: 439
         isCached: true
-  - title: "LivePerson acquires VoiceBase and Tenfold to power scaled Voice AI innovation"
-    excerpt: "Through these acquisitions, three powerful technologies combine to create a unified, AI-enabled system for customer experience: VoiceBase's superior speech recognition and analytics capabilities, Tenfold's advanced voice,"
-    publishedDateTime: 2021-10-27T19:25:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/10/27/9478853.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
 
 secured: "QPstj8y5Ub8fY3VrFdaN9XqOlaDB1j0YNBTG8Y5saqE3m/yV8aEdcfchaMHHGEXbgkqa/k5EMMhZTkcO56vxO79o9i+ebvdSMHUaFDwUfgOGiKsHo7G/e9gPDhReGedZcnW6TLhG3U+swDICaiEnOlRGhAFlBzpS+OuIyCqIq+Ra0VQaHEfvsAq/iRa9vjgFz7RuFFnJJYGLBJGSTTIeXAPMuwykIPSF0OQoCUihxS655zHr0aHVi1aFst3s56Ss1pmxXSnzDIHsoSDcGbeC+TP2KBRVY1R/JVG5O2ozhCKquswIEt7CYAj/mXwZ91GP74BFSKpWGO0Ce/isVUGruKcry5JRdjnhLJWHLL5x3P0=;5jZU0zQJU1A6SCfYb6ko1w=="
 ---

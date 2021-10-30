@@ -2,6 +2,258 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-27-intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu.md",
+      "title": "Intel partners with Google to deploy ‘Mount Evans’ ASIC-based GPU",
+      "excerpt": "Intel has announced that it partnered with Google to deploy the chipmaker's IPU across Google Cloud infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/",
+      "originalUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1208499003-e1631641886627.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/amp/",
+      "publishedDateTime": "2021-10-27T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-abacusai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases.md",
+      "title": "Abacus.ai snags $50M Series C as it expands into computer vision use cases",
+      "excerpt": "Abacus.ai wants to build an AI platform that simplifies machine learning model creation, while still leaving room for power users. Today the company announced a $50 million Series C. At the same time,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
+      "originalUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-imsev208-063.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
+      "publishedDateTime": "2021-10-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-intel-challenges-amd-and-nvidia-with-new-ai-technologies-amid-renewed-developer-commitments.md",
+      "title": "Intel Challenges AMD And NVIDIA With New AI Technologies Amid Renewed Developer Commitments",
+      "excerpt": "Intel renews AI Technologies with Sapphire Rapids CPU and Ponte Vecchio GPUs. But can they do better than AMD and NVIDIA?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6178729f3f1896228c1e3a3e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2687%26cropY1%3D0%26cropY2%3D1512",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
+      "publishedDateTime": "2021-10-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022.md",
+      "title": "Self-driving company Cruise on track for early commercial operations in 2022",
+      "excerpt": "General Motors CEO Mary Barra is “pretty confident” that the driver will be out of Cruise vehicles by 2022, as the company looks to enter early commercial operations for autonomous robotaxi and delivery services.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/27/self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022/",
+      "originalUrl": "https://techcrunch.com/2021/10/27/self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Cruise-car-in-San-Francisco-streets.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/27/self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022/amp/",
+      "publishedDateTime": "2021-10-27T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-scientists-are-working-on-an-ai-to-let-us-talk-to-whales.md",
+      "title": "Scientists Are Working on an AI to Let Us Talk to Whales",
+      "excerpt": "An interdisciplinary team of scientists have launched a project with the goal of decoding and potentially communicating with sperm whales.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/scientists-ai-whale-language",
+      "originalUrl": "https://futurism.com/the-byte/scientists-ai-whale-language",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/10/decode-whale-language-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/scientists-ai-whale-language/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/scientists-ai-whale-language/amp",
+      "publishedDateTime": "2021-10-27T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-good-machine-learning-practice-for-medical-device-development-guiding-principles.md",
       "title": "Good Machine Learning Practice for Medical Device Development: Guiding Principles",
       "excerpt": "The U.S. Food and Drug Administration (FDA ... the development of Good Machine Learning Practice (GMLP). These guiding principles will help promote safe, effective, and high-quality medical ...",
@@ -649,6 +901,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-27-microsoft-powers-transformation-at-nvidia-gtc-fallgpu-technology-conference.md",
+      "title": "Microsoft powers transformation at NVIDIA GTC Fall—GPU technology conference",
+      "excerpt": "This year during NVIDIA GTC 21, we’re spotlighting some of the most transformational applications powered by NVIDIA accelerated computing that highlights our commitment to edge, on-premises, and cloud computing. Registration is free, so sign up to learn how Microsoft is powering transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T02:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales.md",
       "title": "Report: 81% of online retailers increase AI budget to boost holiday sales",
       "excerpt": "AI is becoming an essential tool in ecommerce, used to enable targeted campaigns and improve supply chain management.",
@@ -942,307 +1237,6 @@
         "AI Hardware",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever.md",
-      "title": "AI deployments: Is your organization a transformer, pathseeker, starter or underachiever?",
-      "excerpt": "AI-fueled organizations address strategy, operations, culture and change management and ecosystems, according to Deloitte's latest State of AI in the Enterprise report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/26/cef0cad3-f8a5-4538-ba45-784daf3c801d/resize/1200x/445309360b3a3b023507b870fd0d0ef1/deloitte-state-of-ai.jpg",
-          "width": 1200,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
-      "publishedDateTime": "2021-10-26T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store.md",
-      "title": "Extend model lineage to include ML features using Amazon SageMaker Feature Store",
-      "excerpt": "Feature engineering is expensive and time-consuming, which may lead you to adopt a feature store for managing features across teams and models. Unfortunately, machine learning (ML) lineage solutions have yet to adapt to this new concept of feature management. To achieve the full benefits of a feature",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/21/ML-6028-image001.png",
-          "width": 861,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T14:11:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale.md",
-      "title": "Salesforce’s Kathy Baxter and Amazon’s Nashlie Sephus talk keeping AI ethical at Enterprise scale",
-      "excerpt": "AI and big data are an important part of most enterprise-scale companies now, but that very scale can make it difficult to employ them safely and ethically. Kathy Baxter at Salesforce and Nashlie Sephus at AWS have made ethical AI and data collection their business over the last few years,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/",
-      "originalUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/kathy_Amazon_post.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/amp/",
-      "publishedDateTime": "2021-10-26T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-iit-d-to-start-pg-course-with-focus-on-ai-next-yr.md",
-      "title": "IIT-D to start PG course with focus on AI next yr",
-      "excerpt": "Delhi on Tuesday said that a new postgraduate programme focused on artificial intelligence would be started .",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/delhi/iit-d-to-start-pg-course-with-focus-on-ai-next-yr/articleshow/87289779.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/delhi/iit-d-to-start-pg-course-with-focus-on-ai-next-yr/articleshow/87289779.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/delhi/iit-d-to-start-pg-course-with-focus-on-ai-next-yr/amp_articleshow/87289779.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/iit-d-to-start-pg-course-with-focus-on-ai-next-yr/amp_articleshow/87289779.cms",
-      "publishedDateTime": "2021-10-26T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds.md",
-      "title": "Infrastructure and data issues hamper companies adopting AI, study finds",
-      "excerpt": "More than three-quarters of companies say that they have AI models that never come into use. For 20% of companies, the numbers look even worse, with only 10% of their models making it into production.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/26/infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/10/26/infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/26/infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/infrastructure-and-data-issues-hamper-companies-adopting-ai-study-finds/amp/",
-      "publishedDateTime": "2021-10-26T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine.md",
-      "title": "GATC Health Corp chooses Syndi Health to accelerate artificial intelligence training and advance personalized medicine",
-      "excerpt": "Syndi Health and GATC Health Corp today announced they have entered a development agreement, which could accelerate GATC Health's product development and publication release timelines by as much as 50 percent.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1669428/GATC_Logo.jpg",
-          "width": 603,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

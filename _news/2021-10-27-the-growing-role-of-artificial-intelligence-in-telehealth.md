@@ -66,20 +66,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "The need for technology is fueling the growth of AI in the transportation and logistics markets"
-    excerpt: "AI in the transportation and logistics market is expected to reach US$3.8 billion and US$6.5 billion respectively. Check out what are the factors fueling the growth of AI in the transportation and AI in the logistics market."
-    publishedDateTime: 2021-10-25T19:30:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-in-the-transportation-and-logistics-market-to-reach-us6-5-billion-by-2025/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 25
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/124019.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Edge AI accelerators are just sand without future-ready software"
     excerpt: "Unlike GPUs, which have established programming models and software toolchains, AI processors are confronted with lack in software support."
     publishedDateTime: 2021-10-27T15:45:00Z

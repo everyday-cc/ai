@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/facebook-doesnt-amplify-hate-supports-safet
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-doesnt-amplify-hate-supports-safety-legislation-exec-tells-british-lawmakers-1643646?amp=1"
 type: article
 quality: 65
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facebook Whistleblower Makes Case for Social Media Curbs to British Parliament"
+    excerpt: "LONDON — Facebook has lurched from controversy to controversy since Mark Zuckerberg started it as a Harvard undergrad in 2004. But the actions of Frances Haugen, a former product manager, have created a backlash and public relations crisis that"
+    publishedDateTime: 2021-10-26T02:48:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-whistleblower-makes-case-for-social-media-curbs-to-british-parliament/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-whistleblower-makes-case-for-social-media-curbs-to-british-parliament/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-whistleblower-makes-case-for-social-media-curbs-to-british-parliament/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 20
 
 secured: "bUo9gTdZ+Jssp6OMMV1Kf1hFysy5OKafxb17tMdYVrdKZg/LZvdRVymsqcBBo3MKTpA+x83YlVl8OCTjoEj0euCtgmEKSpgZDd/ZcOGQtLRALnWt90mj+DbYDUPAcTtWqQqAUedbMsNJFmG2PdoQn1RCmnIdpG1APL4Rj2nxWt+GJLmXPrnVFOPTkWoG7iozMDP5RSHYZzf+44oZhWWVsiJ5jur3uTd8/HjMcJeZ9Q3JFLhUu77rQFAXFBy0Cu1HUOdwpbk+Xcm8S5sVocid9ueL6Bg3hZ9+Epl+NZ5wsYT+1k0Fv61G22YfHB9/RJx0PSySgHIZMsOOpeFShZ0Iiz5m4Dg7Sdn4BXceWu6bcHqEY0TAZlBh/P3yiusSnA8SVQeKioibimY4gH9SVCc1XdtSBRvq3/J7eb/oTbm2KkjGckNATREZlcSphPqxCJmVH5tCuGdaaIfNSUMXPcjvu68ct5FX5IO8zjut9q4vhnMCh+748+ABVIttxGm1thtQoP6p6tjojJ0DDA0X/4Gkyg==;cGN+JTVRyB9RBDyvTotDSw=="
 ---

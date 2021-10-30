@@ -22,6 +22,52 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Microsoft acquires Two Hat to collaborate on online safety and digital wellness solutions for online communities"
+    excerpt: "Today, we are excited to announce that Microsoft has acquired Two Hat, a leading content moderation solution provider offering protection measures for online communities with a vision to build better experiences for everyone."
+    publishedDateTime: 2021-10-29T13:00:04Z
+    webUrl: "https://blogs.microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/"
+    type: article
+    provider:
+      name: microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/
+      domain: microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/
+    quality: 118
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/10/Project-Fresh-Hero-Image-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Microsoft acquires AI-powered moderation platform Two Hat"
+    excerpt: "Microsoft today announced that it acquired Two Hate, an AI-powered moderation platform, for an undisclosed amount."
+    publishedDateTime: 2021-10-29T14:05:00Z
+    webUrl: "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/"
+    ampWebUrl: "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Microsoft Azure and Google Cloud results soar as the world goes digital"
+    excerpt: "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services revenue. Similarly, Google Cloud revenues neared $5 billion thanks to a 45% jump,"
+    publishedDateTime: 2021-10-27T11:45:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
     excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027."
     publishedDateTime: 2021-10-25T22:46:00Z
@@ -38,47 +84,34 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "GPS Navigation Software Market to Witness Stunning Growth | Google, Microsoft, Navigon, TomTom"
-    excerpt: "Advance Market Analytics published a new research publication on GPS Navigation Software Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers"
-    publishedDateTime: 2021-10-26T11:45:00Z
-    webUrl: "https://www.openpr.com/news/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua26572229_g.jpg"
-        width: 450
-        height: 450
-        isCached: true
-  - title: "Artificial Intelligence as a Service Market is going to Boom with IBM, Google, Amazon Web Services"
-    excerpt: "The latest study released on the Global Artificial Intelligence as a Service Market by AMA Research evaluates market size, trend, and forecast to 202"
-    publishedDateTime: 2021-10-26T06:41:00Z
-    webUrl: "https://menafn.com/1103043712/Artificial-Intelligence-as-a-Service-Market-is-going-to-Boom-with-IBM-Google-Amazon-Web-Services"
+  - title: "Women in Cloud, Microsoft, Coursera and IAMCP Partner to Provide Azure Training and Certification"
+    excerpt: "Women in Cloud (WiC) is excited to announce a collaboration with Microsoft and Coursera to distribute Azure Training and Certification Scholarships to women in India, through their #empowHERfamily initiative that brings together resources across corporate,"
+    publishedDateTime: 2021-10-30T04:52:00Z
+    webUrl: "https://menafn.com/1103074549/Women-in-Cloud-Microsoft-Coursera-and-IAMCP-Partner-to-Provide-Azure-Training-and-Certification"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 42
+    quality: 56
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?832665"
-        width: 333
+      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+        width: 300
         height: 250
         isCached: true
-  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
-    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
-    publishedDateTime: 2021-10-26T06:51:00Z
-    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+  - title: "Khoros Collaborates with AWS to Integrate Amazon Connect Into its Award-Winning Digital Contact Center Solution"
+    excerpt: "Khoros, an award-winning leader in digital-first customer engagement software and services, today announced an expanded collaboration with Amazon Web Services, Inc. (AWS) which will include an integration with Amazon Connect,"
+    publishedDateTime: 2021-10-26T23:16:00Z
+    webUrl: "https://www.register-herald.com/region/khoros-collaborates-with-aws-to-integrate-amazon-connect-into-its-award-winning-digital-contact-center/article_fbf24ce9-c9d7-56f0-a461-2bd012841d48.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 19
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "ifioQW3emTpHo+XWa8TvtohqpwdqNsaEvn3pNT2ZEXDoTKHcT8sLLmyPTQJFwzlhfavvAiQQSHxrRMsrKd5JQdFGlieGUN6HaxKvvNRXMd3MKGhuOSkxrPTfotgkwo+ZBX4ijk84tsisjizS8j+jyLkLv3Ri9n+blJRU/HUsYihkKtgix9AWeD5Ps5v94aPHkzkmD/9w7kJPNK3CLUU//J5HUVZ3hlwqDd3pE+DMUPXTdAMtua7xKZBTvgq5HFcMhsqlbOh7DXZqUFKAez0ihDi5dTECMTFQCCbMzEqzyltvRHmqce3fYsHAhOD+sD7X15IBJPyMZx1cNoRHHiMmJFhGdZQkolgtViPfI5WgSyg=;44HXhGVuwz/4OhtbqUJP4A=="
 ---

@@ -31,6 +31,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 52
+  - title: "Artificial Intelligence in Supply Chain Market May Set a New Epic Growth Story"
+    excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Supply Chain Market Insights, to 2026” with 232 pages and enriched with self-explained Tables and charts in presentable format."
+    publishedDateTime: 2021-10-29T19:50:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-supply-chain-market-may-set-new-pears"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 48
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
   - title: "Blockchain AI Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2025"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 00:13 /Comserve / -- The global blockchain AI market size is projected to grow from USD 228 million in 2020 to USD 703 million by 2025, at a Compound Annual Growth Rate (CAGR) of 25."
     publishedDateTime: 2021-10-26T05:41:00Z

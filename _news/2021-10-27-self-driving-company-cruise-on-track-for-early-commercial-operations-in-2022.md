@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/27/self-driving-company-cruise-on-tra
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 75
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Self-Driving Trucks Could Be Solution to Supply Chain Woes"
-    excerpt: "Ariel Wolf, general counsel for the Self-Driving Coalition, an industry group promoting autonomous vehicles, joined Cheddar to discuss the ongoing supply chain woes partially attributed to a lack of truck drivers."
-    publishedDateTime: 2021-10-25T20:27:00Z
-    webUrl: "https://cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes"
-    ampWebUrl: "https://cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes.amp"
-    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes.amp"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 59
-    images:
-      - url: "https://img.chdrstatic.com/media/47bf0278-2a54-4c47-b3b1-9ccb5f29b5c7.jpg?width=1200&source=backend&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "wZ5oKGectq/xVdDFcFdahIkNFQ776IVxU0SXFnomu3qrZBUnARP0bDCzzC4FBr+uux/mfKF+35td5b4Fvi1v36o0MMpC1ioiQyEHqrR8RMssKPVwQEGXCYqyQQgeodc9C2732PQrEB7rYsaa4pRGKkBs/FOE8Yqngx3jQ+PDZd1DR7sIG86g0YMzOASI711Sjwjy+eBrWWijegyvZ0w4iz2xEhUG4W/ZDXBal75UgQ5VmSeoKS2+kMI+SVnYxmOgJ9u1M2OE4l9CZlZRzNXuIGNzFhh/4tauaVhIuwEcXS3KmZceEQaBgXFndr1dzI08D01C0qxu9GFbUAa2Xl2IE8eDFqqm2BzookOwzCwTQT+MvoGQGWHEkYqtlrMyC8+oTwIJDfrx+XUMPPdxZ2ecVB6XnFir1IBDpFWlFFbd+JpX5wo2crfH0s76DwVEbmt2rYMLoWsDlA2sL91fRvfdSq2d2cFPx7nyhdMsnM4da3CUT2d8VMH3uoZabIgttSBDYNGRLUH6Sv1ljnLAR22jvg==;F2TKK68aDlY87j9Qo4iliA=="
 ---

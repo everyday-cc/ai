@@ -81,22 +81,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Facebook's language gaps weaken screening of hate"
-    excerpt: "An examination of files reveals that in some of the world's most volatile regions, terrorist content and hate speech proliferate on Facebook because the company remains short on moderators who speak local languages and understand cultural contexts."
-    publishedDateTime: 2021-10-25T19:30:00Z
-    webUrl: "https://www.wdio.com/national/facebook-language-gaps-weaken-screening-of-hate/6280168/"
-    ampWebUrl: "https://amp.wdio.com/articles/facebook-language-gaps-weaken-screening-of-hate-6280168.html"
-    cdnAmpWebUrl: "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/facebook-language-gaps-weaken-screening-of-hate-6280168.html"
-    type: article
-    provider:
-      name: WDIO
-      domain: wdio.com
-    quality: 44
-    images:
-      - url: "https://www.wdio.com/WDIO_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Facebook grilled by UK lawmakers making online safety rules"
     excerpt: "British lawmakers are grilling Facebook and other tech giants over how they handle online safety as European efforts to regulate social media companies gain momentum"
     publishedDateTime: 2021-10-28T16:16:00Z
@@ -170,20 +154,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C561AAQFh-XFRjL4TmQ/storylineheaderimage-shrink_400_400/0/1635218934053?e=1635310800&v=beta&t=idsUWigUvVHfSQBFd3Q2p6wV056zTS3jjqzjyguFLYk"
         width: 400
         height: 266
-        isCached: true
-  - title: "The Facebook Papers may be the biggest crisis in the company's history"
-    excerpt: "Facebook has confronted whistleblowers, PR firestorms and Congressional inquiries in recent years. But now it faces a combination of all three at once in what could be the most intense and wide-ranging crisis in the company's 17-year history."
-    publishedDateTime: 2021-10-25T19:07:00Z
-    webUrl: "https://www.wrcbtv.com/story/45041764/the-facebook-papers-may-be-the-biggest-crisis-in-the-companys-history?clienttype=mobile"
-    type: article
-    provider:
-      name: WRCB
-      domain: wrcbtv.com
-    quality: 24
-    images:
-      - url: "https://WRCB.images.worldnow.com/images/21597636_G.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Facebook wants to turbo-charge smart glasses. Researcher wonders if it can do it right"
     excerpt: "A computer security and privacy researcher looks at Facebook's smart-glasses project and found concerns for the recordable world as well as for the recorder."

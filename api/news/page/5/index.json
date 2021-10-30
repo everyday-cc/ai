@@ -2,6 +2,299 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-26-aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table.md",
+      "title": "AWS wins deal to store UK spy agencies' work, brings AI to the table",
+      "excerpt": "The UK's spy agencies will move top secret data to AWS data centers and gain access to its artificial intelligence tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/",
+      "originalUrl": "https://www.zdnet.com/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/13bc191e6c7643df0b3930684177fc754f3eabc3/2021/10/06/42e4848e-e92e-4e87-9a51-fa1f779b23d9/20211006-danny-zuzana.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/",
+      "publishedDateTime": "2021-10-26T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-the-data-conversation-communicators-as-ai-champions.md",
+      "title": "The Data Conversation: Communicators As AI Champions",
+      "excerpt": "We can better explain AI to everyone by focusing more on the data, its transformation and its outputs and less on models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/amp/",
+      "publishedDateTime": "2021-10-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-itmo-itmo-signs-russias-first-ai-ethics-code.md",
+      "title": "ITMO: ITMO Signs Russia’s First AI Ethics Code",
+      "excerpt": "The first Russian AI code of ethics establishes general ethical principles and standards of conduct to guide those involved in activities using artificial intelligence. This has to do with ethical asp",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
+      "originalUrl": "https://indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/ITMO_University-1-1024x724.png",
+          "width": 1024,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
+      "publishedDateTime": "2021-10-26T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-the-3-steps-to-building-an-ai-powered-organization.md",
+      "title": "The 3 Steps To Building An AI-Powered Organization",
+      "excerpt": "Despite awareness about the potential of AI, leaders struggle to build an organization with AI at its core. The three-box solution helps organizations use AI to optimize their business today while innovating for exponential growth in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/10/26/the-3-steps-to-building-an-ai-powered-organization/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/10/26/the-3-steps-to-building-an-ai-powered-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617726ced00338e8a7016b8f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2453%26cropY1%3D117%26cropY2%3D1496",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-amazon-gets-contract-from-british-spy-agencies-to-increase-use-of-ai-for-espionage.md",
+      "title": "Amazon gets contract from British spy agencies to increase use of AI for espionage",
+      "excerpt": "British spy agencies have signed a deal with Amazon Web Services to host classified material in a deal to boost the use of AI for espionage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/10/26/amazon-gets-contract-from-british-spy-agencies-for-ai-espionage/",
+      "originalUrl": "https://www.gizmochina.com/2021/10/26/amazon-gets-contract-from-british-spy-agencies-for-ai-espionage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/02/Amazon-Logo.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-ethics-guidance-issued-for-machine-learning-in-research.md",
+      "title": "Ethics guidance issued for machine learning in research",
+      "excerpt": "The UK Statistics Authority’s Centre for Applied Data Ethics has published ethics guidance focused on the use of machine learning for research and official statistics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/ethics_guidance_issued_for_machine_learning_in_research/id/5090982",
+      "originalUrl": "https://www.research-live.com/article/news/ethics_guidance_issued_for_machine_learning_in_research/id/5090982",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5090982&name=ethics-guidance-issued-for-machine-learning-in-research",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5090982&name=ethics-guidance-issued-for-machine-learning-in-research",
+      "publishedDateTime": "2021-10-26T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details.md",
       "title": "IIT Delhi to offer MTech in Machine Intelligence and Data Science. Check details",
       "excerpt": "IIT Delhi's Senate, the faculty body responsible for taking all major educational decisions, has approved the proposed programme titled ‘M Tech in Machine Intelligence and Data Science’ (MINDS)",
@@ -232,7 +525,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -317,51 +610,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-deep-learning-software-market-size-and-forecast-2028-key-companies-microsoft-express-scribe-nuance-google-ibm-aws.md",
-      "title": "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS",
-      "excerpt": "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1",
-      "publishedDateTime": "2021-10-25T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -957,259 +1205,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-addressing-ais-biggest-problem-trust.md",
-      "title": "Addressing AI’s Biggest Problem: Trust",
-      "excerpt": "For AI to gain mass adoption, it needs to be trusted by governments, enterprises and users directly or indirectly impacted by such applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/25/addressing-ais-biggest-problem-trust/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/25/addressing-ais-biggest-problem-trust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600203d32263d67c03ef9d7d%2F0x0.jpg",
-          "width": 1200,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/25/addressing-ais-biggest-problem-trust/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/25/addressing-ais-biggest-problem-trust/amp/",
-      "publishedDateTime": "2021-10-25T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-google-stresses-hybrid-security-all-in-customers-at-cloud-next-21.md",
-      "title": "Google Stresses Hybrid, Security, All-In Customers At Cloud Next ‘21",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as two weeks ago was busy for us tech analysts, tech events from Google, Apple and Dell. While there isn’t enough time or space to cover everything out of the event,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/10/25/google-stresses-hybrid-security-all-in-customers-at-cloud-next-21/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/10/25/google-stresses-hybrid-security-all-in-customers-at-cloud-next-21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176ba18dadd695a2f836895%2F0x0.png",
-          "width": 1200,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/10/25/google-stresses-hybrid-security-all-in-customers-at-cloud-next-21/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/10/25/google-stresses-hybrid-security-all-in-customers-at-cloud-next-21/amp/",
-      "publishedDateTime": "2021-10-25T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-artificial-intelligence-and-machine-learning-market-industry-predictions-for-coming-years-from-2021-to-2027.md",
-      "title": "Artificial Intelligence and Machine Learning Market- Industry Predictions For Coming Years from 2021 to 2027",
-      "excerpt": "DeepResearchReports has uploaded a latest report on Artificial Intelligence and Machine Learning Industry from its research database Artificial Intelligence and Machine Learning Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence and Machine",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2440565/artificial-intelligence-and-machine-learning-market-industry",
-      "originalUrl": "https://www.openpr.com/news/2440565/artificial-intelligence-and-machine-learning-market-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua25281817_g.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2440565/artificial-intelligence-and-machine-learning-market-industry",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440565/artificial-intelligence-and-machine-learning-market-industry",
-      "publishedDateTime": "2021-10-25T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-driving-ai-adoption-with-explainability-at-the-core.md",
-      "title": "Driving AI Adoption With Explainability At The Core",
-      "excerpt": "Some business leaders are still wary of enterprise-wide AI adoption and are taking a one-step-at-a-time approach toward it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048e165345b4ab79c3f331a%2F0x0.jpg",
-          "width": 1140,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/amp/",
-      "publishedDateTime": "2021-10-25T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism.md",
-      "title": "The State of AI in 2021: Language models, healthcare, ethics, and AI agnosticism",
-      "excerpt": "Healthcare is just getting started with its AI moment, bigger language models mean bigger complications, and there may now be a third pole for AGI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
-      "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cc7c6b5a2d1bd2322b59c93c7c0f67399a5f6fc8/2020/10/26/8d555a8e-93f7-4d63-bd13-e40696bdc433/quantum-computing.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 783,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
-      "publishedDateTime": "2021-10-25T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

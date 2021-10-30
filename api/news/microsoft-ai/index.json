@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-29-microsoft-acquires-ai-powered-moderation-platform-two-hat.md",
-      "title": "Microsoft acquires AI-powered moderation platform Two Hat",
-      "excerpt": "Microsoft today announced that it acquired Two Hate, an AI-powered moderation platform, for an undisclosed amount.",
+      "path": "_news/2021-10-29-microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities.md",
+      "title": "Microsoft acquires Two Hat to collaborate on online safety and digital wellness solutions for online communities",
+      "excerpt": "Today, we are excited to announce that Microsoft has acquired Two Hat, a leading content moderation solution provider offering protection measures for online communities with a vision to build better experiences for everyone.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/",
-      "originalUrl": "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/",
+      "webUrl": "https://blogs.microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/",
+      "originalUrl": "https://www.msn.com/en-us/money/smallbusiness/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/ar-AAQ68e3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 178,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/10/Project-Fresh-Hero-Image-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,23 +76,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/",
-      "publishedDateTime": "2021-10-29T07:05:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T06:00:04-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/",
+        "domain": "microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -102,8 +93,7 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI",
-        "Facebook AI"
+        "Microsoft AI"
       ]
     },
     {
@@ -156,6 +146,101 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-google-cloud-microsoft-azure-revenues-drive-strong-growth-to-tech-giants-earnings.md",
+      "title": "Google Cloud, Microsoft Azure revenues drive strong growth to tech giants' earnings",
+      "excerpt": "Microsoft and Google have revealed robust quarterly earnings results, with Azure and Google Cloud leading the way ... the platform's \"leadership in real-time data analytics and AI.\" Google Cloud comprises both Google Cloud Platform (GCP) and Workspace ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
+      "originalUrl": "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-27-image-21.jpg",
+          "width": 1600,
+          "height": 911,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
+      "publishedDateTime": "2021-10-27T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-microsoft-powers-transformation-at-nvidia-gtc-fallgpu-technology-conference.md",
+      "title": "Microsoft powers transformation at NVIDIA GTC Fall—GPU technology conference",
+      "excerpt": "This year during NVIDIA GTC 21, we’re spotlighting some of the most transformational applications powered by NVIDIA accelerated computing that highlights our commitment to edge, on-premises, and cloud computing. Registration is free, so sign up to learn how Microsoft is powering transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T02:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI Hardware"
       ]
     },
     {
@@ -273,7 +358,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -315,51 +400,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-deep-learning-software-market-size-and-forecast-2028-key-companies-microsoft-express-scribe-nuance-google-ibm-aws.md",
-      "title": "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS",
-      "excerpt": "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1",
-      "publishedDateTime": "2021-10-25T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1325,50 +1365,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-seeq-expands-machine-learning-support-to-democratize-data-science-innovation.md",
-      "title": "Seeq Expands Machine Learning Support to Democratize Data Science Innovation",
-      "excerpt": "New initiative facilitates the integration of machine learning algorithms from open source, third party and customer data science teams into Seeq applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
-      "originalUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/c87f3858-574b-4646-8810-5bfab7d95b8d/Seeq-news-Oct-14-2021-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

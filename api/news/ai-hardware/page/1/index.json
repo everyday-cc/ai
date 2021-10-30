@@ -211,6 +211,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-27-microsoft-powers-transformation-at-nvidia-gtc-fallgpu-technology-conference.md",
+      "title": "Microsoft powers transformation at NVIDIA GTC Fall—GPU technology conference",
+      "excerpt": "This year during NVIDIA GTC 21, we’re spotlighting some of the most transformational applications powered by NVIDIA accelerated computing that highlights our commitment to edge, on-premises, and cloud computing. Registration is free, so sign up to learn how Microsoft is powering transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T02:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip.md",
       "title": "Amazon launches AWS instances powered by Habana’s AI accelerator chip",
       "excerpt": "Amazon has launched new AWS instances powered by Habana's Gaudi, a chip that accelerates the training of AI models.",
@@ -273,7 +316,7 @@
       "originalUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1411,58 +1454,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers.md",
-      "title": "AI Startup MosaicML Comes Out Of Stealth To Aid AI Developers",
-      "excerpt": "Nervana and Intel, leads the new company focused on improving the efficiency of AI Training Training a deep neural network takes a lot of computational horsepower.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165f8cf45f04e14c76729e4%2F0x0.jpg",
-          "width": 1200,
-          "height": 1228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/",
-      "publishedDateTime": "2021-10-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

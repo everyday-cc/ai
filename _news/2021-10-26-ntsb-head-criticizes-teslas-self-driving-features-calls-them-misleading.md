@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla pulls Full Self-Driving update after sudden braking spooks drivers"
-    excerpt: "Tesla’s Full Self-Driving software lived up to its “beta” label this weekend. On Saturday morning, CEO Elon Musk announced a delay for the 10.3 update after internal quality-assurance testers discovered that the new version performed worse at left turns at traffic lights than previous versions."
-    publishedDateTime: 2021-10-25T20:42:00Z
-    webUrl: "https://arstechnica.com/cars/2021/10/tesla-pulls-full-self-driving-update-after-sudden-braking-spooks-drivers/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 68
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/06/GettyImages-910881692-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Gov Official Tears Apart Tesla’s “Full Self-Driving” Feature"
     excerpt: "It’s misleading.” Full Self-Driving is an optional $10,000 add-on to Tesla’s Autopilot suite. The feature has repeatedly come under scrutiny, especially once Tesla started testing a beta version of the software with the help of a small subset of drivers on public roads in October 2020."
     publishedDateTime: 2021-10-27T21:16:00Z
