@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/adobe-project-in-between-preview-13001757
 webUrl: "https://www.engadget.com/adobe-project-in-between-preview-130017575.html"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Photoshop’s AI Is Now So Fast That Hovering Over Objects Instantly Creates Perfect Masks"
-    excerpt: "In a major update to Adobe Photoshop today, slicing up a photo will soon be as easy as browsing the web, because like hyperlinks, the object you want to select becomes almost instantly highlighted the moment your cursor hovers over it."
-    publishedDateTime: 2021-10-26T20:20:00Z
-    webUrl: "https://gizmodo.com/photoshop-s-ai-is-now-so-fast-that-hovering-over-object-1847936878"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 58
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b436a6c6625cb095f129bac4ac5a77dd.gif"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How AI is driving powerful new Photoshop features — and shaping Adobe’s product strategy"
     excerpt: "Adobe is leveraging deep learning to improve its image editing apps. In turn, the use of AI is shaping Adobe’s product strategy."
     publishedDateTime: 2021-10-30T11:25:00Z

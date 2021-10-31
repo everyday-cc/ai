@@ -64,22 +64,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Speechmatics pushes forward recognition of accented English"
-    excerpt: "Speech recognition has gone from convenient to crucial over the last few years as smart speakers and driving assist modes have taken off — but not everyone’s voice is recognized equally well. Speechmatics claims to have the most inclusive and accurate model out there,"
-    publishedDateTime: 2021-10-26T19:17:00Z
-    webUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/"
-    ampWebUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-496729620.jpg?w=1024"
-        width: 1024
-        height: 767
-        isCached: true
   - title: "Want to participate in the latest automation revolution? Go for a career in Robotics"
     excerpt: "Now is your chance to join the latest automation revolution around the corner by becoming an expert in Robotics. What is Robotics Robotics is an interdisciplinary subject that connects science, engineering and technology to manufacture robots."
     publishedDateTime: 2021-10-31T08:13:00Z

@@ -25,33 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Keeping An “AI” On Fintech: AI-Based Use Cases Poised To Take Financial Services To The Next Level"
-    excerpt: "What AI and ML use cases are applicable to fintech? Financial services have their own set of common AI and ML use cases. These include, but are not limited to cost reduction, process automation, spend reconciliation,"
-    publishedDateTime: 2021-10-26T19:33:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2021/10/26/keeping-an-ai-on-fintech-ai-based-use-cases-poised-to-take-financial-services-to-the-next-level/"
+  - title: "4 Top Fintech Stocks To Watch Before November 2021"
+    excerpt: "Hot Fintech Stocks For Your Watchlist Right Now. As the world continues to evolve with technology, fintech stocks continue to draw traction among investors in the stock market."
+    publishedDateTime: 2021-10-27T21:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 55
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6178577f1114e88d79887539%2F0x0.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Fintech: The New World of Opportunities & Danger"
-    excerpt: "With unprecedented and disruptive change affecting economies throughout the world, financial technology (fintech) holds the promise of delivering financial inclusion and innovation in both advanced and emerging market economies."
-    publishedDateTime: 2021-10-28T07:10:00Z
-    webUrl: "https://www.linkedin.com/pulse/fintech-new-world-opportunities-danger-chin-lai-the"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "New Fintech Regulations to Be Discussed by the U.S. Congress"
+    excerpt: "A congressional committee is anticipated to address the need for a new regulatory approach to financial technology in America"
+    publishedDateTime: 2021-10-27T08:31:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/new-fintech-regulations-be-discussed-us-congress"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: fintechmagazine
+      domain: fintechmagazine.com
     quality: 24
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHnwUyHAgAM2g/article-cover_image-shrink_600_2000/0/1635065854096?e=1640822400&v=beta&t=ZU-DloQQ6gWRl67Fr_U6oN9AFHEDZKlzli97CaIPW_E"
-        width: 427
-        height: 240
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/picture%20of%20the%20US%20capitol%20building%20blended%20with%20the%20American%20flag.jpg.png?itok=jIyyI_P5"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face to Face adjusts its November event"
+    excerpt: "Former Secretary of Defense Chuck Hagel will join former Secretary of State Madeleine Albright on Nov. 9 at 7:30 p.m. in the Lawrence Joel Memorial Coliseum for a discussion hosted by the Face to Face speaker forum."
+    publishedDateTime: 2021-10-28T19:42:00Z
+    webUrl: "https://wfuogb.com/14092/uncategorized/face-to-face-adjusts-its-november-event/"
+    type: article
+    provider:
+      name: Old Gold & Black
+      domain: wfuogb.com
+    quality: 24
+    images:
+      - url: "https://wfuogb.com/wp-content/uploads/2021/10/F2F-Digital-Assets_Twitter-Cover-1500x500-1-900x300.jpeg"
+        width: 900
+        height: 300
         isCached: true
 
 secured: "h8NK9+Aj5SemFK/uvTEiFUoIuoH6Mzm719WAqTawx8Nsb0Ig2f3oFHOWqvPVex0s807Jub313Mfc94wZcAx889V1Qnv+wHUJO+TuXGE3KSSPkaEOSHKlOgd9HRbLTjf6TESK57zYrb3QE8KFYtVqUAufHZBbScwon5z8+iT/2rmkjrZk/JmskubujZH2Zsw3hTaS8DBwS5S0goBXdR3uVyeDWyCAaJ/IFsFyKorU472b5rvbCowxqPx24wvjThpm1P+IturFwLkkS1ZuGZI4XDXba+3X9ndGroXRp+8I23FjlwSfdLno54TOb6Unew4SdJgP+JkrI0qzHmdrYgILszvJo/ZiQymiAkKChvyjojU=;sZ0UKrRlzT/ejkcJIRZk/Q=="

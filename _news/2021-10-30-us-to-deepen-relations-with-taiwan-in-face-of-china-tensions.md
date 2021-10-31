@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "China's PLA Employs AI Technology To Simulate War Games Aiding Taiwan Invasion: Reports"
+    excerpt: "The report stated that PLA has examined nearly 350 artificial intelligence-related equipment deals between Chinese troops and state-owned defence entities."
+    publishedDateTime: 2021-10-31T13:25:00Z
+    webUrl: "https://www.republicworld.com/world-news/china/chinas-pla-employs-ai-technology-to-simulate-war-games-aiding-taiwan-invasion-reports.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/china/chinas-pla-employs-ai-technology-to-simulate-war-games-aiding-taiwan-invasion-reports.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/china/chinas-pla-employs-ai-technology-to-simulate-war-games-aiding-taiwan-invasion-reports.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 49
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/srphm0rttz3b6tck_1635683915.jpeg"
+        width: 768
+        height: 439
+        isCached: true
   - title: "U.S. to deepen relations with Taiwan in face of China tensions"
     excerpt: "The U.S. switched diplomatic recognition of China from the ruling Nationalist Party government in Taipei to the Communist Party in Beijing in 1979, but has continued to maintain a strong unofficial relationship with the self-ruled island. Oudkirk declined ..."
     publishedDateTime: 2021-10-29T15:34:00Z

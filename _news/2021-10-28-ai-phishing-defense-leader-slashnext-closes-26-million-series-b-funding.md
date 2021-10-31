@@ -55,20 +55,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Plask, Whose AI-Based Tech Converts Video Into Animation, Raises $2.6M"
-    excerpt: "South Korean tech startup Plask has raised US$2.56 million in pre-Series A funding, as it prepares to bring its automated animation tool to the market. The technology eliminates the necessity for motion capture by creating animation directly from video motion."
-    publishedDateTime: 2021-10-26T19:39:00Z
-    webUrl: "https://www.cartoonbrew.com/tech/plask-whose-ai-based-tech-converts-video-into-animation-raises-2-6m-210087.html"
-    type: article
-    provider:
-      name: Cartoon Brew
-      domain: cartoonbrew.com
-    quality: 37
-    images:
-      - url: "http://www.cartoonbrew.com/wp-content/uploads/2021/10/plask.jpg"
-        width: 1280
-        height: 600
-        isCached: true
 
 secured: "1o3MkB7VPZuU8SqVI8adVsVrXT33msshR2ej2RSlbCiqEecwGCXP3szTY0J8ahNe3XK9iOKrUDR7NKN/jmiSPMZwmO6bkiQs6+c7+DeA25wfMvtAv942I3jvxVmq8prnNkIDVsG5wT5tdgazxsNfUQXBi+6ImTjTPA/BOnG1jrqYPn/q9wD7pZowKXNMM8tWtMnSXt6TevSvLWF1KgW1g70qC59PdKrXfCheho6F4oNrkV5SOtfbEq1QAQ21qav8/pu274EXAq882PoS7DQw03ZqiKJBPYscspv8sfSsR4KoHESmdPaIoBU9hUNyu3ziPM0b1yvLnyW673tYO0Nhu0h4LawzOpoLoAo9+Eq75EfNvTWNVqIfVsCQp7HYzLez9CBB2FS6YmNtVxju12CBVZstck+743xVUHeHy+HU/kq9x3TTFbDLh4hwQiVGBkgpkPJhi6r/H90SwoHnwU0v6Yyb6ANBmTdbc9ZaBECg/Sh0KBlHSrusT9Hj5W4Dyhke+kcohx5fsBaPJV8YiS3+dA==;isnY+5tO/12zJTbogYeSbA=="
 ---

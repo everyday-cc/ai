@@ -42,20 +42,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "Photoshop’s AI Is Now So Fast That Hovering Over Objects Instantly Creates Perfect Masks"
-    excerpt: "In a major update to Adobe Photoshop today, slicing up a photo will soon be as easy as browsing the web, because like hyperlinks, the object you want to select becomes almost instantly highlighted the moment your cursor hovers over it."
-    publishedDateTime: 2021-10-26T20:20:00Z
-    webUrl: "https://gizmodo.com/photoshop-s-ai-is-now-so-fast-that-hovering-over-object-1847936878"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 58
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b436a6c6625cb095f129bac4ac5a77dd.gif"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "9m7PitxssTMGJjssaZ5CE/LLh2pDMEOWHLFhSEUaUvswWej/Mml7Jz+7EIuM6qnI4/WuDxYjG4SzeFnHY8d+Ea7rOnyOwBpOSCKfxorp2I3OQ776+gloMFTbhBNRl2nT9l5RFPxzAm8eJTDw4wJLQru4DJLAcySV4zsEQYBlt1/jYbU4PVzwi2HM6NFw8KvG/BM94QDoMH7D/EXPygUrVDzcYL9zuk6v/yw3rRYZpgkbLFXYp+3hXPLuKXG6bdmz0rhV4ApfbPso/yG3lRLH5s65N/Sdu45z7lCkpMUe4MIsIhlUztKCxbXC8/q+xl+LB1UZ2iMjb+6TJDPSTQ2tlnCMHkfW0amJTPcZ8uwslxZAWNAaIgpiQ1oIzYmdgmhsH1vlOFzoS/XQ1EaTXK0X6GI3E8vTAO7LfApp8LkY+cImdlt+B0u9mRk65M7Bkx5b9aLANxWZOdzoW3xVg7PLPuFcaC5O8cdfRER1SbAQRlRsArH9HzLBHe4kn7N2g4VKQNU09qRZrtYO+cwdC5Mfbw==;hXBBX9O6kADd3rDul02pfw=="
 ---

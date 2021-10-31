@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/sg/amp/news/the-evolution-of-speech-recogn
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://s.abcnews.com/images/GMA/delta-airlines-biometric-boarding-01-ht-llr-211026_1635280415660_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Speechmatics pushes forward recognition of accented English"
-    excerpt: "Speech recognition has gone from convenient to crucial over the last few years as smart speakers and driving assist modes have taken off — but not everyone’s voice is recognized equally well. Speechmatics claims to have the most inclusive and accurate model out there,"
-    publishedDateTime: 2021-10-26T19:17:00Z
-    webUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/"
-    ampWebUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-496729620.jpg?w=1024"
-        width: 1024
-        height: 767
         isCached: true
   - title: "Delta is introducing hands-free facial recognition technology to quicken the security process ahead of the busy holiday season — see how it works"
     excerpt: "Source: Delta Air Lines In November, Delta will roll out a one-of-a-kind facial recognition technology dedicated to domestic travel out of its Atlanta hub, building upon its biometric systems already in place for international passengers. Source ..."
