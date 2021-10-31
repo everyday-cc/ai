@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-10-21-robot-artist-ai-da-released-by-egyptian-border-guards.md",
+      "title": "Robot artist Ai-Da released by Egyptian border guards",
+      "excerpt": "A British-built robot that uses cameras and a robotic arm to create abstract art has been released after Egyptian authorities detained it at customs. Ai-Da, named for the mathematician Ada Lovelace, was seized by border agents last week who feared her robotics may have been hiding covert spy tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
+      "originalUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/CB3B/production/_121172025_gettyimages-1318598041.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-58993682.amp",
+      "publishedDateTime": "2021-10-21T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-microsoft-and-amd-will-give-away-a-halo-infinite-radeon-rx-6900-xt-gpu.md",
       "title": "Microsoft and AMD will give away a 'Halo Infinite' Radeon RX 6900 XT GPU",
       "excerpt": "Not only have Microsoft and AMD teamed up to add ray-tracing to the game sometime after launch, they created a limited-edition Radeon RX 6900 XT Halo Infinite graphics card. The GPU’s design is based on Master Chief's Mjolnir armor,",
@@ -1022,57 +1065,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power.md",
-      "title": "Deci snaps up $21M for tech to build better AI models based on available data and compute power",
-      "excerpt": "Building usable models to run AI algorithms requires not just adequate data to train systems, but also the right hardware subsequently to run them. But because the theoretical and practical are often not the same thing,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/",
-      "originalUrl": "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1088155680.jpeg?w=1024",
-          "width": 1024,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/amp/",
-      "publishedDateTime": "2021-10-20T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

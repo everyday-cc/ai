@@ -7,8 +7,8 @@ originalUrl: "https://customerthink.com/how-ai-artificial-intelligence-will-impa
 webUrl: "https://customerthink.com/how-ai-artificial-intelligence-will-impact-t-shirt-printing-industry/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: CustomerThink
@@ -37,20 +37,6 @@ related:
       - url: "https://2021media.s3.amazonaws.com/2021/10/dice-g3e2759ca6_640.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "AI for good – The fleet industry’s pioneering role"
-    excerpt: "Embracing artificial intelligence (AI) is a transformational growth move for any business that needs a faster and more accurate path to product development."
-    publishedDateTime: 2021-10-26T17:26:00Z
-    webUrl: "https://www.ccjdigital.com/technology/article/15280379/the-fleet-industrys-pioneering-role-in-artificial-intelligence"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 37
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/10/GettyImages_1310293181.617301f9a972f.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 900
         isCached: true
 
 secured: "Njiq2e/Z0JCo/3EoF/rJquqBigxnEwLXpJRZCacGRmVRiM/HkX1K77O5jTrnvbPV5e6Ga8J+/Dmiy5x8tzO5dN0ryjpon/wdZBDz+0b5og5wVj2Adw/8XQsKlv2/60TiDWEG70ziyM5z7/wMvZb+RcaeHlt5ACN0GFPoE1zbMMOvXk+pqzQmn4GA49YAAao3rk5T57zEf07xvcZy6ibYckf2EC4TdOUogbna1f38z1gzPTe4LFkJ9wbYEVPwoWgidU8iPFBenzAYRwOJLd584pxMuJ8ndXYvDhGWZ2/jfvOHnRwSPa5gL9mR4GRvAMu8L5QMzLsH62KDAcrv8iPR3DLxZBHh/P1kEQOxdjINtjo=;/IXRT0nwyqQ+Ka+AyBKhQQ=="

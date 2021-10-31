@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Biggest Artificial Intelligence (AI) Trends In 2022"
-    excerpt: "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species."
-    publishedDateTime: 2021-10-29T07:17:00Z
-    webUrl: "https://www.linkedin.com/pulse/biggest-artificial-intelligence-ai-trends-2022-tawfiq-al-ahmad"
+  - title: "Use Of Artificial Intelligence (AI) In Content Marketing Was Huge In 2022, Says Scalenut Founder"
+    excerpt: "Scalenut is a next-gen AI-powered platform for content research and content creation. From short-form to long-form, its AI writes everything."
+    publishedDateTime: 2021-10-31T11:54:00Z
+    webUrl: "https://www.outlookindia.com/website/story/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 76
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGhLBST971aaw/article-cover_image-shrink_600_2000/0/1635491674793?e=1640822400&v=beta&t=M7dBnBCaWnRvCYSMMd1wFj4kgmt8zow-pt_iZS30E4U"
-        width: 900
-        height: 500
+      - url: "https://images.outlookindia.com/public/uploads/articles/2021/10/31/Mayank-Jain-Co-Founder-Scalenut1_550_550.jpg"
+        width: 550
+        height: 367
         isCached: true
 
 secured: "8WLKA/lLB1zl9Cphla8TZPme5HPa3J+hHj9G69HyvX2Ne0oiWjpFgPHf2HPbbk7Sb9Xmb2SO4HjpzTagK/Jh1sLf8/7ASs7NsVnyj/swExoe7feRNVhyb0zGt/n0fpn8AmxQrNkXKwM7jW3w56CXRBZqZZ28FXO6WmLwhGrJ25vef80bu6kaocQsJJUwt2eUDhnqKse4APRN4b3lIYgesP929ywFO3HbVwtu5VI7e90yJAmS1Xgg0NKDwTDdnw3tH08cXSiXth6g/Zm1Mfx6rCFL623bFWVkSJZxEjHd8cCHvZkpDd9158Xz5opO6EHubH5KWCAiYmzP4uGoW2ZeECA6/fySviPdGGtJxzohl9k=;PxWFxoVmbbJ6WAAIELaNBQ=="

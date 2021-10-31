@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-10-19-facial-recognition-in-uk-schools-prompts-blowback.md",
+      "title": "Facial recognition in UK schools prompts blowback",
+      "excerpt": "Privacy campaigners slammed the British government's plan on Monday to use facial recognition on thousands of schoolchildren in Scotland, warning that Britain is veering away from the EU on basic principles of data protection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/",
+      "originalUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/10/18/GettyImages-1168367638-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/",
+      "publishedDateTime": "2021-10-18T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-ai-ethics-maturity-model-a-company-guide.md",
       "title": "AI ethics maturity model: A company guide",
       "excerpt": "How to develop a maturity model for building an ethical and responsible AI practice. By Vala Afshar | October 18, 2021 | Topic: Artificial Intelligence According to the research by Kathy Baxter, principal architect for Salesforce's ethical AI practice,",
@@ -686,10 +729,10 @@
     {
       "path": "_news/2021-10-18-wandisco-announces-general-availability-of-livedata-platform-for-azure.md",
       "title": "WANdisco Announces General Availability of LiveData Platform for Azure",
-      "excerpt": "Zero-downtime, data-first automated platform for Hadoop to Azure migration accelerates time to business insights in the cloud",
+      "excerpt": "WANdisco (LSE: WAND), the LiveData company, today announced the general availability of LiveData Platform for Microsoft Azure, an",
       "sourceUrl": null,
-      "webUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
-      "originalUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
+      "webUrl": "https://www.prnewswire.com/news-releases/wandisco-announces-general-availability-of-livedata-platform-for-azure-301401519.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/wandisco-announces-general-availability-of-livedata-platform-for-azure-301401519.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -702,8 +745,8 @@
       "publishedDateTime": "2021-10-18T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KKTV11",
-        "domain": "kktv.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1136,49 +1179,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-all-new-computer-vision-technology-easily-expands-drive-thru-visibility-helps-reduce-drive-offs.md",
-      "title": "All-New Computer Vision Technology Easily Expands Drive-Thru Visibility, Helps Reduce Drive-Offs",
-      "excerpt": "HME Hospitality and Specialty Communications is excited to announce the launch of its all-new video detection, a breakthrough restaurant technology that seamlessly expands",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/all-new-computer-vision-technology-easily-expands-drive-thru-visibility-helps-reduce-drive-offs/article_1bbc4592-648f-5098-bb9c-dd676f6d6739.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/all-new-computer-vision-technology-easily-expands-drive-thru-visibility-helps-reduce-drive-offs/article_1bbc4592-648f-5098-bb9c-dd676f6d6739.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

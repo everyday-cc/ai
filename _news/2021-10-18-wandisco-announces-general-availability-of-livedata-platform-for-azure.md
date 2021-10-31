@@ -1,20 +1,20 @@
 ---
 category: news
 title: "WANdisco Announces General Availability of LiveData Platform for Azure"
-excerpt: "Zero-downtime, data-first automated platform for Hadoop to Azure migration accelerates time to business insights in the cloud"
+excerpt: "WANdisco (LSE: WAND), the LiveData company, today announced the general availability of LiveData Platform for Microsoft Azure, an"
 publishedDateTime: 2021-10-18T13:00:00Z
-originalUrl: "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/"
-webUrl: "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/"
+originalUrl: "https://www.prnewswire.com/news-releases/wandisco-announces-general-availability-of-livedata-platform-for-azure-301401519.html"
+webUrl: "https://www.prnewswire.com/news-releases/wandisco-announces-general-availability-of-livedata-platform-for-azure-301401519.html"
 type: article
 
 provider:
-  name: KKTV11
-  domain: kktv.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "FURaugZUCyAJNHcHOhd0I9su9KUF0aI48VXSZZuauqbsOaV9IIycMH0qoGcq/g8XM0xrnNSc68mHt15p/TwKkP/49om0s1AExXijYHtRAPpfbYnTvqTRjmo5EVwxa5F0epy+2DH7n9KmhUN11JWROg3BlzSMQvKlfKhkEWcdREQktJtBm7MfgIGZYQ902z4dnTudFdBJjZuq9f555PMz17Zpdbb/gJGDRAT3FIlMmtDixgSbhIqPDFndAQh3NgquxkoaXa+YlfJD1tJUugaRms7XhydDDHOTqeKeCc0LklZo2mvgpZgeGKYYFtiQtEPrBZ41Qvfsv/Ok4/h5b7UBnaEpu2KRIJQBn25FraszkAI=;44IU2D2mY4kYWJiNCR0j+g=="
+secured: "KVTjwVVUoJxtFpypyS+y+K2M0UzTFISHDbHy36fd/b0LPtfAwAJr8VIqEI5rTAq2zfn2C/FKRBaPwEz26OhTeIRgvev4aI1bPkn3ilFnmoMBMcybPL9uC/3wmGF/hZQ5X0//B6wNBuqxEEYE1RF2kYmBCroXJrgkS8dJJHwFgGNV2sEO/snH8JrTzA+8i7uV7j64NAlbwtBgr0uOD3F/KZqygQ4zjmdvInYn9iadeJYPW0Pts5+RoWLgjipgkkP2+BcsltV3hPX1x4bOG/mMf8HQy+2essBPeNhIM4imd917aEUJkTPh5fenRGLBUqEzXaVoywkeC/7UdQB77k5lqlB9mu869HOLRo52IgRlWFk=;WrUEA/zCq0rVEikkDDSPWA=="
 ---
 

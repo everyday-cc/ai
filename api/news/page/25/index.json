@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-10-10-nasa-chief-says-artificial-intelligence-will-affect-every-aspect-of-our-lives.md",
+      "title": "NASA Chief Says Artificial Intelligence Will Affect Every Aspect of Our Lives",
+      "excerpt": "Artificial Intelligence (AI), Advanced Robotics ... governance and technology, citing driverless car and robots as two examples to be featured in the near future. He discussed the pros and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/editorchoice/jordanian-nasa-academic-teaches-focuses-artificial-intelligence-1197702",
+      "originalUrl": "https://www.albawaba.com/editorchoice/jordanian-nasa-academic-teaches-focuses-artificial-intelligence-1197702",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/Do_zBs_W4AAcDBS.jpg?itok=9QIKtEOB",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/editorchoice/jordanian-nasa-academic-teaches-focuses-artificial-intelligence-1197702",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editorchoice/jordanian-nasa-academic-teaches-focuses-artificial-intelligence-1197702",
+      "publishedDateTime": "2021-10-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-10-no-humans-allowed-artificial-intelligence-for-faster-smarter-testing-tomorrow.md",
       "title": "No humans allowed: Artificial intelligence for faster, smarter testing tomorrow",
       "excerpt": "Artificial Intelligence (AI) is reshaping our day ... involved in our lives from listening devices in our homes to driverless cars on the road. AI has delivered personalized content in useful ...",
@@ -1111,57 +1154,6 @@
         "name": "Khaleej Times",
         "domain": "khaleejtimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-algolia-only-26-of-retailers-use-ai-optimized-search.md",
-      "title": "Algolia: Only 26% of retailers use AI-optimized search",
-      "excerpt": "AI is a lesser used tool for generating personalized recommendations, yet companies that embrace AI-driven search are reaping the benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/",
-      "originalUrl": "https://venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/ecommerce-3688436.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/amp/",
-      "publishedDateTime": "2021-10-08T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

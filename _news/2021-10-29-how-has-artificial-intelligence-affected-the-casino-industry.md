@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI for good – The fleet industry’s pioneering role"
-    excerpt: "Embracing artificial intelligence (AI) is a transformational growth move for any business that needs a faster and more accurate path to product development."
-    publishedDateTime: 2021-10-26T17:26:00Z
-    webUrl: "https://www.ccjdigital.com/technology/article/15280379/the-fleet-industrys-pioneering-role-in-artificial-intelligence"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 37
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/10/GettyImages_1310293181.617301f9a972f.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "2n5Gd62ky2uhJGQA5El8hbLXwBaQsklprXo4bvF8pv5cHvO2NhmJ69NCGV56M9k3SOwJAtw1kQoU64QP8NIrv0yCf2nNhGbFnCGBeQqhffWARXy/3Tq8jaEEBzq4kJhhBMYmtJiyiVLoRaTVEyo8yZZd7Kpww1DItKX2wOb9jChBxEafgI6gQyvJ4k1Tebhva3b5GVAxe+MrWvOmdmwqwY0JGqY8j2c5ZAk9um+LWvNcmZrhSQcBJbxfbRFyETp8TS2JY41q5NjqVTuQ2+SY8tHnjYT7sknkern8+1NQOXCW3LZqMLz7OIfxpNpnVu2bSgO35/CR9H4UN3UPHOVJ/pjJHuGmyF0pc7+3K36QsnJr7swb6P/RjEEegEBjDz6aPng0jqnq7k9uoIBRXogDj+vcuszozs4KQ8GkjHtvOfqJN0DfmKLqrT4kuAjGGiF99BcrwPpWszjzSozID8MzWgP8O562J2E5rUQRiqgv+V5LGRjH2NqD/ehP7CS8AVDfRuw5+fSP/k+zhjXNSopxZg==;DcRR+1mqW49vK+McKh/X5A=="
 ---

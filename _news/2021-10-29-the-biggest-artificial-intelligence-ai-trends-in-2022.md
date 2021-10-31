@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/biggest-artificial-intelligence-ai-
 webUrl: "https://www.linkedin.com/pulse/biggest-artificial-intelligence-ai-trends-2022-tawfiq-al-ahmad"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 900
     height: 500
     isCached: true
-
-related:
-  - title: "Artificial Intelligence (AI) in Medical Market Outlook 2022: Big Things are Happening"
-    excerpt: "and the changing investment structure of the Global Artificial Intelligence (AI) in Medical Market . Some of the key players profiled in the study are NVIDIA, Intel, IBM, Google, Microsoft, AWS ..."
-    publishedDateTime: 2021-10-28T10:40:00Z
-    webUrl: "https://menafn.com/1103063711/Artificial-Intelligence-AI-in-Medical-Market-Outlook-2022-Big-Things-are-Happening"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 47
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?596801"
-        width: 376
-        height: 249
-        isCached: true
 
 secured: "nUZFGKktuSeYZdh+KZWpjNF0gLEhMiq8l3zruFbxZE8d8Y17K/pYw8zzC8OwNkFSdV+SfUxObLv2w6yrfbUWxBHfqjTVpm8UVP+PKsxpb4Yb/kM0OhAtxWGPbMHyXgMfS9c8AxvxW/CapHIqjw9UJ+MivC3SOVBjMIERY03FGEJLM7taDj+YFQ0MYxEY9/22uf3vHzWerjF5k6yJx5ldUO+XBjCLcbTZ2gVr7kGLrY0JNBy8mQeqBAeB7i9MZkIzZfafkEcxvretl3Q9E2rQwSv51Mg7YhaMWgwFJE7A1cwu/7frOfZXSW6U1yGddjSvJdBmj75GpmkSIQ8+aN8UDOaNr6nSiOEHLA7q1n147FTAHJvauv+2bJFOW+4i1MOUKWxuyvNfcBBpu+CTCNWHTHDTDnWFt0n/ydEqc+jVUONfad0XTJv2qRQPjbSR14XqsGtLWv5TpWinHa7ddYZoUgETi/4w5qRhI9XTGXIoXRpFfpecE6onvKjvTmzdo4t79dHBuPquUWtiMGVNjwpfhA==;eYhITOP1+URof90+rJJhDA=="
 ---

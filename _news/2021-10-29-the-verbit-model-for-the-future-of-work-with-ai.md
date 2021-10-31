@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The Future of AI Driven Market Research"
-    excerpt: "Over the past few years, the world of market research and surveys has seen the emergence of Artificial Intelligence (AI). AI tools, which are finding their way into almost every industry, hold the potential to change the game entirely."
-    publishedDateTime: 2021-10-26T18:52:00Z
-    webUrl: "https://customerthink.com/the-future-of-ai-driven-market-research/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/robot-507811.jpg"
-        width: 4961
-        height: 3508
-        isCached: true
 
 secured: "5m/yiCeNRZuEhsTvf9OBYulUTnn1mfSMqu1AcPDZBuHD/pVdDMZBAS09y+fa0H5B4D2lY29H6ecHzQ3GuTJsIKH3xdJ1qIqw0uUN0dCUfBJCnVhmW7u64ouxDU5o0wTZxi/0fDQaNx4zUV8F3p4rpE69kkkSEOiTgai4YMpKamJGO/eeb9Qvus338MoafsZRWpXsgjvrA2eTTqfGN+d9LJHA3VKShlm8nnijdRFA6sQGovDW2aKnJpEgG5rAnTYUNYPSXDQ45Ar4n4VpqncA68qn06Ln4LXPG4jCi2nSgYSthHTlYUbjES3Z1evWfCbBret+Q4T8LoEqyPrhzWKXx8IPFPj4jD3OH0aK4i18w/bf0/b5Frc4cgz8v6+v0GAgxqAzOiuyQw981/TqCG4cz7nX5sSmFRjKsGIdbL4sasfwXge2+BrU0N6jK1CpDAh31EY84TddZztqJuoPDady1h5keqGyF1bhM+0D8yFSaN2xL08eajnRfcWaYW5IfL88J1+KfzZ5/QoWwBgcDiikDQ==;7xKdzSDCAgFhOrbA6e6btg=="
 ---

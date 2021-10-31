@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-10-20-deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power.md",
+      "title": "Deci snaps up $21M for tech to build better AI models based on available data and compute power",
+      "excerpt": "Building usable models to run AI algorithms requires not just adequate data to train systems, but also the right hardware subsequently to run them. But because the theoretical and practical are often not the same thing,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/",
+      "originalUrl": "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1088155680.jpeg?w=1024",
+          "width": 1024,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/amp/",
+      "publishedDateTime": "2021-10-20T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-ai-is-now-table-stakes-why-that-keeps-it-leaders-up-at-night.md",
       "title": "AI Is Now Table Stakes — Why That Keeps IT Leaders Up At Night",
       "excerpt": "AI has long been touted as offering transformative impact across businesses — and the great promise of AI has finally arrived.",
@@ -1097,58 +1148,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer.md",
-      "title": "Google's Tensor chip aims to make the Pixel 6 smarter and last longer",
-      "excerpt": "In an interview with CNET, Google executives talk about why they went through the trouble of building a chip for the newest Pixel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/9KBAW8InGVbWcaoh_mZAkq5ZeJQ=/1200x630/2021/10/17/57b1bbc8-52d9-484a-a190-1a411d6cf8f4/google-tensor-jpeg.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/",
-      "publishedDateTime": "2021-10-19T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-29-robots-to-clean-nyc-skyscrapers.md",
+      "title": "Robots to clean NYC skyscrapers",
+      "excerpt": "The use case makes a lot of sense: managers of every commerce building in major U.S. cities need some way to clean their building's exterior glass. In fact, window cleaning is $40B global market. The surfaces involved are generally uniform and the path predictable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
+      "originalUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b656a675bbd1838bfbf9bdff16eb479741d8edae/2021/10/28/37ceec2f-0fc4-4223-82ef-92fab5b771a2/skyline-window-cleaning.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
+      "publishedDateTime": "2021-10-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-us-to-deepen-relation-with-taiwan-in-face-of-china-tensions.md",
       "title": "US to deepen relation with Taiwan in face of China tensions",
       "excerpt": "The U.S. switched diplomatic recognition of China from the ruling Nationalist Party government in Taipei to the Communist Party in Beijing in 1979, but has continued to maintain a strong unofficial relationship with the self-ruled island. Oudkirk declined ...",
@@ -353,7 +405,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1160,40 +1212,6 @@
         "AI Ethics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-4-top-fintech-stocks-to-watch-before-november-2021.md",
-      "title": "4 Top Fintech Stocks To Watch Before November 2021",
-      "excerpt": "Hot Fintech Stocks For Your Watchlist Right Now. As the world continues to evolve with technology, fintech stocks continue to draw traction among investors in the stock market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27?amp",
-      "publishedDateTime": "2021-10-27T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

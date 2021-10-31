@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototy
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_964514ad0dff4266ac35e14f18ad8d42_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Lawmakers investigating Facebook Inc. and other online giants turn attention to ..."
-    excerpt: "Lawmakers weighing how to limit the spread of disinformation on Facebook and other social media giants are turning their attention to regulating the"
-    publishedDateTime: 2021-10-26T18:01:00Z
-    webUrl: "https://en.mogaznews.com/World-News/1851237/Lawmakers-investigating-Facebook-Inc-and-other-online-giants-turn-attention-to-.html"
-    ampWebUrl: "https://en.mogaznews.com/World-News/amp/1851237"
-    cdnAmpWebUrl: "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/World-News/amp/1851237"
-    type: article
-    provider:
-      name: en.mogaznews.com
-      domain: mogaznews.com
-    quality: 38
-    images:
-      - url: "https://en.mogaznews.com/temp/resized/medium_2021-10-26-3b666c2fc5.jpg"
-        width: 700
-        height: 450
         isCached: true
   - title: "Facebook wants to turbo-charge smart glasses. Researcher wonders if it can do it right"
     excerpt: "A computer security and privacy researcher looks at Facebook's smart-glasses project and found concerns for the recordable world as well as for the recorder."

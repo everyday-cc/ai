@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-27-nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.md",
+      "title": "Nvidia GeForce RTX 3070 vs. AMD Radeon RX 6800: Which GPU should you buy?",
+      "excerpt": "We compare Nvidia's GeForce RTX 3070 and AMD's Radeon RX 6800 across a wide range of metrics. Performance matters—but the price may matter even more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/544303/nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.html",
+      "originalUrl": "https://www.pcworld.com/article/544303/nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2021/10/P1000516.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/544303/nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/544303/nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.html/amp",
+      "publishedDateTime": "2021-10-27T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-microsoft-powers-transformation-at-nvidia-gtc-fallgpu-technology-conference.md",
       "title": "Microsoft powers transformation at NVIDIA GTC Fall—GPU technology conference",
       "excerpt": "This year during NVIDIA GTC 21, we’re spotlighting some of the most transformational applications powered by NVIDIA accelerated computing that highlights our commitment to edge, on-premises, and cloud computing. Registration is free, so sign up to learn how Microsoft is powering transformation.",
@@ -1165,58 +1217,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking.md",
-      "title": "Vancouver Fraser Port Authority Improves Supply Chain Visibility With Computer Vision-Based Container Tracking",
-      "excerpt": "With AWS Panorama, Deloitte is helping the port authority develop a new class of insights on its physical operations that will improve collaboration with supply chain partners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/",
-      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176ea4756ac37e705249128%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/amp/",
-      "publishedDateTime": "2021-10-26T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

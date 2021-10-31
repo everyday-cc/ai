@@ -3,10 +3,10 @@ category: news
 title: "ABB Invests in Building Technology Startup BrainBox AI"
 excerpt: "ABB Technology Ventures leads BrainBox AI’s Series A investment round. Launched in 2019, BrainBox AI has pioneered the use of artificial intelligence to reduce energy costs and carbon emissions from Heating,"
 publishedDateTime: 2021-10-28T19:29:00Z
-originalUrl: "https://www.newswiretoday.com/news/176528/"
-webUrl: "https://www.newswiretoday.com/news/176528/"
+originalUrl: "https://www.newswiretoday.com/news/176528/ABB-Invests-in-Building-Technology-Startup-BrainBox-AI/"
+webUrl: "https://www.newswiretoday.com/news/176528/ABB-Invests-in-Building-Technology-Startup-BrainBox-AI/"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: newswiretoday.com
 
 topics:
+  - AI in Robotics
   - AI
 
 related:
@@ -33,6 +34,6 @@ related:
         height: 568
         isCached: true
 
-secured: "yf90BC7OXtRTTRLYw1pywaqAJl2p0qqQTLNDL6HVTaiDyplCC6KkkEJj+Yb7DdeH5IGivS4D52fn/zkNgzRI4T9L90yWkqOLEqKGWMWZ4BZZpejKkabcXAQp/Q3+9HF2duNhPXc6IRANcHUjNGtu5dcQk3aplfIyOnKmHbLxWgBuSfYQcu6Z91X81NJPZLEJLGo+9Zwuz4y0PSU7rGbwK672IqwIt9b/gG/RCXXPROQb3pVxGJo/wc6lY/7n08pYR7d6X1OK5w+jaRoePyQ3vZefx3HczPWcy3WEUDRrc1q14XPXu0HjOpBKLM4ZqX4OqhPgWYDN09OFCQ8dvUVVp5GVApDzu6GnjgtrHDP2P5UVj2xVRIDr46Or5URfqLUuJfv44/id0hVBHeldDfUrG+5mA9F2IwG+AmMOYcd56oUYSLjB0Tamgb48jw8t8lXGwM1AYDO05gIcJc8kKO9lGbsuowIpX5bMhm1qF4lEpRTzEmVn2nkNrOJmsO0fHvsIfAH6nHlWTz2F4wyc+NO/AQ==;AMtyEjiMUb2BwqnU6stYsA=="
+secured: "fyir7UNqnkohf+cBdBN4kD+7NF0qGX3/fXNBw2IvKrl6S3BHd3V8RoGxXbS960LFrwjvBdym7SPXPOaoJlA4NoIrb5SwQrUMAj5ujH9KKIDbFrCxui5ysDxmr+FcxeTC9Kr5CJ+rT8lOZCaQrI9+NFNbEYXu3R2/ART45Y+dGkEx6fiqadqswz3u4jqPE5UpiJkDS7SiLa0SGEGKLOGe5QnWaRDlN4RWT66JNfCmogS7JLQ68lQmX8TNGdAK6+wRec89dFphSK3F7QWQvi5QsVnZeq6Ci8dsm5wUZsmFJOmfnQF/cuv8QifokXwgVxiq/b+PFsB1L71bFqUHNJVdmoXT013ATwfoLw0rLooYBUhBXjGVnSLA3ybIp5DZcF9BTwwOXaiAdGR5yXIIWHrARs9EKmJKISXjssLJioFboqY276uLAZ6QpVRbivrHE6tF+a3RFY30jgneO/+1zUoW3tOLpPAE4PAFwTIeHm9BCunPr0aLAq4g1DFbD7DITo8DCrtKxeAE6GItASSbB2CZ/Q==;ubwESuh32rnONeXbnbqDQg=="
 ---
 
