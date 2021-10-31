@@ -41,36 +41,6 @@ related:
         width: 1600
         height: 911
         isCached: true
-  - title: "Microsoft Azure, Amazon AWS and Google Cloud: A Quick Look at Each"
-    excerpt: "Microsoft Azure is the first player to offer the full suite of services to developers. It offers a wide range of products and has one of the most mature enterprise-grade clouds."
-    publishedDateTime: 2021-10-26T11:06:00Z
-    webUrl: "https://www.linkedin.com/pulse/microsoft-azure-amazon-aws-google-cloud-quick-look-each-andrew-frost"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 71
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE5a14hWGJugw/article-cover_image-shrink_600_2000/0/1635246231199?e=1640822400&v=beta&t=FTeIfVv5_WE6giaKpgHD1BOTHkpX2rJm0yI1c8ZaPfI"
-        width: 921
-        height: 432
-        isCached: true
-  - title: "GPS Navigation Software Market to Witness Stunning Growth | Google, Microsoft, Navigon, TomTom"
-    excerpt: "Advance Market Analytics published a new research publication on GPS Navigation Software Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers"
-    publishedDateTime: 2021-10-26T11:45:00Z
-    webUrl: "https://www.openpr.com/news/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua26572229_g.jpg"
-        width: 450
-        height: 450
-        isCached: true
   - title: "Advantech MIC-710AIX is now Microsoft Azure Certified for IoT"
     excerpt: "Advantech, the leading provider of industrial AI system, today announced its MIC-710AIX edge AI platform has joined Microsoft Azure Certified for Internet of Things (IoT), ensuring customers get IoT solutions up and running quickly with hardware and software that has been pre-tested and verified to work with Microsoft Azure IoT services."
     publishedDateTime: 2021-10-27T19:35:00Z

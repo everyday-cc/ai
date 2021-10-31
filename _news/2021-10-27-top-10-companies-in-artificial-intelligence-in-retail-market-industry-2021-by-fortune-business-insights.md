@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-arti
 webUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Auto Insurance Market Insights Shared in Detailed Report 2021 till 2028"
-    excerpt: "New York United States AI in Auto Market report will provide one with overall market analysis statistics various trends drivers opportunities restraints and every minute data relating to the AI in Auto market necessary for forecasting its revenue"
-    publishedDateTime: 2021-10-26T11:07:00Z
-    webUrl: "https://www.openpr.com/news/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
-    ampWebUrl: "https://www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua26697026_g.jpg"
-        width: 800
-        height: 531
-        isCached: true
   - title: "Top 10 Companies in Image Recognition Market Industry 2021 By Fortune Business insights"
     excerpt: "The globalImage Recognition Marketis expected to rise with an impressive CAGR and generate the highest revenue by"
     publishedDateTime: 2021-10-27T11:09:00Z

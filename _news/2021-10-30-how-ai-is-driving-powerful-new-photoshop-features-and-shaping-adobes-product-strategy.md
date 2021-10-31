@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Photoshop update brings new Sensei AI features to desktop, Raw camera support to iPad"
-    excerpt: "Adobe MAX is here, and the company’s most popular editing software is unsurprisingly getting a host of updates for the occasion. The most significant updates are landing on Photoshop for desktop,"
-    publishedDateTime: 2021-10-26T13:01:00Z
-    webUrl: "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/"
-    ampWebUrl: "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/"
+  - title: "Adobe's Project In-Between uses AI to create 'living photos'"
+    excerpt: "As part of its \"sneaks\" session today, Adobe will demo Project In-Between: an AI-based tool that creates what the company calls \"living photos\" from separate still images. Using Adobe Sensei AI, the tool makes an animation between two or more photos with a single click."
+    publishedDateTime: 2021-10-27T13:31:00Z
+    webUrl: "https://www.engadget.com/adobe-project-in-between-preview-130017575.html"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 82
+      name: Engadget
+      domain: engadget.com
+    quality: 67
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/10/Photoshop-update-brings-new-Sensei-AI-features-to-desktop-Raw-camera-support-to-iPad.jpg"
-        width: 1440
-        height: 950
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/9eab3980-3722-11ec-be5f-3f90f7e9f1a5"
+        width: 1600
+        height: 1000
         isCached: true
   - title: "Photoshop’s AI Is Now So Fast That Hovering Over Objects Instantly Creates Perfect Masks"
     excerpt: "In a major update to Adobe Photoshop today, slicing up a photo will soon be as easy as browsing the web, because like hyperlinks, the object you want to select becomes almost instantly highlighted the moment your cursor hovers over it."
@@ -57,22 +55,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b436a6c6625cb095f129bac4ac5a77dd.gif"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Adobe MAX 2021: New innovations and AI-powered features for Photoshop CC"
-    excerpt: "Adobe MAX kicks off today! The free virtual event will showcase the latest and greatest innovations and updates to Adobe’s popular software programs including their best photo editing software Photoshop CC,"
-    publishedDateTime: 2021-10-26T13:00:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/adobe-max-2021-new-innovations-and-ai-powered-features-for-photoshop-cc"
-    ampWebUrl: "https://www.digitalcameraworld.com/amp/news/adobe-max-2021-new-innovations-and-ai-powered-features-for-photoshop-cc"
-    cdnAmpWebUrl: "https://www-digitalcameraworld-com.cdn.ampproject.org/c/s/www.digitalcameraworld.com/amp/news/adobe-max-2021-new-innovations-and-ai-powered-features-for-photoshop-cc"
-    type: article
-    provider:
-      name: digitalcameraworld.com
-      domain: digitalcameraworld.com
-    quality: 56
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/A78Cbcwg5pwbo2Q79z5odi-1200-80.jpg"
-        width: 1200
-        height: 508
         isCached: true
 
 secured: "9m7PitxssTMGJjssaZ5CE/LLh2pDMEOWHLFhSEUaUvswWej/Mml7Jz+7EIuM6qnI4/WuDxYjG4SzeFnHY8d+Ea7rOnyOwBpOSCKfxorp2I3OQ776+gloMFTbhBNRl2nT9l5RFPxzAm8eJTDw4wJLQru4DJLAcySV4zsEQYBlt1/jYbU4PVzwi2HM6NFw8KvG/BM94QDoMH7D/EXPygUrVDzcYL9zuk6v/yw3rRYZpgkbLFXYp+3hXPLuKXG6bdmz0rhV4ApfbPso/yG3lRLH5s65N/Sdu45z7lCkpMUe4MIsIhlUztKCxbXC8/q+xl+LB1UZ2iMjb+6TJDPSTQ2tlnCMHkfW0amJTPcZ8uwslxZAWNAaIgpiQ1oIzYmdgmhsH1vlOFzoS/XQ1EaTXK0X6GI3E8vTAO7LfApp8LkY+cImdlt+B0u9mRk65M7Bkx5b9aLANxWZOdzoW3xVg7PLPuFcaC5O8cdfRER1SbAQRlRsArH9HzLBHe4kn7N2g4VKQNU09qRZrtYO+cwdC5Mfbw==;hXBBX9O6kADd3rDul02pfw=="

@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/humans-in-the-loop-how-people-can-ensure-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/humans-in-the-loop-how-people-can-ensure-artificial-intelligence-success/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/humans-in-the-loop-how-people-can-ensure-artificial-intelligence-success/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/3e340deff61c10afb5c22b87e7b82acb6a1acaf6/2021/10/30/fd8733e0-ca6a-468f-bbf0-963b05978469/buildings-with-rose-new-york-city-march-2021-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"

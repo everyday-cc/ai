@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/aws-signs-deal-with-british-spy-age
 webUrl: "https://www.itnews.com.au/news/aws-signs-deal-with-british-spy-agencies-571795"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS wins deal to store UK spy agencies' work, brings AI to the table"
-    excerpt: "The UK's spy agencies will move top secret data to AWS data centers and gain access to its artificial intelligence tools."
-    publishedDateTime: 2021-10-26T12:07:00Z
-    webUrl: "https://www.zdnet.com/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/13bc191e6c7643df0b3930684177fc754f3eabc3/2021/10/06/42e4848e-e92e-4e87-9a51-fa1f779b23d9/20211006-danny-zuzana.jpg?width=1200&height=675&fit=crop&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AWS wins contract to provide cloud storage to UK spy agencies"
     excerpt: "U.K.’s spy agencies to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence for espionage. The Financial Times reports the AWS deal was championed by GCHQ,"
     publishedDateTime: 2021-10-27T01:06:00Z

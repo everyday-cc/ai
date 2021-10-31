@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Embracing Automation And AI To Drive The Next Wave Of Success"
+    excerpt: "Automating manual and repetitive activities has helped many organizations survive the past couple of years while giving others the foundation to grow and thrive."
+    publishedDateTime: 2021-10-29T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617aa2261f5347ebbfa8f207%2F0x0.jpg"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Could facial recognition be the future of airport security? Delta Air Lines is testing it out"
     excerpt: "Delta Air Lines is testing new facial recognition technology to reduce the time it takes between arriving at the airport and getting passengers in their seats."
     publishedDateTime: 2021-10-27T14:55:00Z
@@ -83,6 +99,20 @@ related:
       - url: "https://www.just-food.com/wp-content/uploads/sites/35/2021/10/web-g2c2f13934_1920-e1633617194829.jpg"
         width: 1555
         height: 1012
+        isCached: true
+  - title: "AI in Aqua Farming is Changing The Future of Fish Growth"
+    excerpt: "Artificial intelligence has emerged out to be no less than a saviour for fish farming. AI has aided in a number of ways to not just increase the growth of fish but also to tackle a number of challenges that arise in the aquaculture industry."
+    publishedDateTime: 2021-10-31T05:33:00Z
+    webUrl: "https://www.analyticsinsight.net/ai-in-aqua-farming-is-changing-the-future-of-fish-growth/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/AI-in-Aqua-Farming-.jpeg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "3L5HswRAGUNZ1mn3cZZYXnqdzz+9Nk/dYzA80P0n/ILQVMw8u9LogJexklC1obNtp2RzUMVl4ODdL77iIcqTHyubFlYorhr6l96ozDUhJRmZjLAHCXo5UdKvfUhTSU6LPQg1Xf3U6XPNGK+EY2aLW72gB90PBimABB2HmTwYi1xIji+Qaq6HfbdXSxJL5nvyres/eFpcvg0CgIKIBPJX6G6cJMojD7Xs4E5zSHrbFCnuPzBv6yTv4Tn0BYj3kWMFkFHvjIEd7Cs/gyGKzjPW1MSpU/ujz0WJhyQgoITqqPDy7vbxVulPsw5QEkZw3wEAsQ8kzGDMWCFOz+/JU37JSQWIWTZEplltZ4MXVe6JS/kbO1DWYY5JGJlF9k7k8lz3JYxpZldbbgHDsMOzc0nxaT+wFARGIBizJXt9LUwzEmMHkCb01aVm6riuxKkfooIrgFuK/38SnybBDX9/oNXvdXH4VuFQVTAfutTvUWOaRe9ArqFBrzkcdFKM0IaOmi7rvJtOSOWod7GH/OeZDaOzJQ==;lRso46B/FR98ftnMiQE+CQ=="

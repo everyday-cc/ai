@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Speechmatics pushes forward recognition of accented English"
-excerpt: "Speech recognition has gone from convenient to crucial over the last few years as smart speakers and driving assist modes have taken off — but not everyone’s voice is recognized equally well. Speechmatics claims to have the most inclusive and accurate model out there,"
-publishedDateTime: 2021-10-26T19:17:00Z
-originalUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/"
-webUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/"
-ampWebUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
+title: "US airlines to test facial recognition technology this holiday season"
+excerpt: "Delta Air Lines is set to launch a first-of-its-kind pilot program that will use facial recognition technology at two of America's largest airports -- Atlanta and Detroit"
+publishedDateTime: 2021-10-30T09:04:00Z
+originalUrl: "https://www.malaysiasun.com/news/271613631/us-airlines-to-test-facial-recognition-technology-this-holiday-season"
+webUrl: "https://www.malaysiasun.com/news/271613631/us-airlines-to-test-facial-recognition-technology-this-holiday-season"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Malaysia Sun
+  domain: malaysiasun.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-496729620.jpg?w=1024"
-    width: 1024
-    height: 767
+  - url: "https://cdn.bignewsnetwork.com/cus1635489322107.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -63,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Speechmatics pushes forward recognition of accented English"
+    excerpt: "Speech recognition has gone from convenient to crucial over the last few years as smart speakers and driving assist modes have taken off — but not everyone’s voice is recognized equally well. Speechmatics claims to have the most inclusive and accurate model out there,"
+    publishedDateTime: 2021-10-26T19:17:00Z
+    webUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/"
+    ampWebUrl: "https://techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/speechmatics-pushes-forward-recognition-of-accented-english/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-496729620.jpg?w=1024"
+        width: 1024
+        height: 767
+        isCached: true
   - title: "Delta is introducing hands-free facial recognition technology to quicken the security process ahead of the busy holiday season — see how it works"
     excerpt: "Source: Delta Air Lines In November, Delta will roll out a one-of-a-kind facial recognition technology dedicated to domestic travel out of its Atlanta hub, building upon its biometric systems already in place for international passengers. Source ..."
     publishedDateTime: 2021-10-28T18:56:00Z
@@ -78,20 +88,6 @@ related:
       - url: "https://i.insider.com/617970c089b91c00185a8daa?width=1200&format=jpeg"
         width: 1024
         height: 512
-        isCached: true
-  - title: "US airlines to test facial recognition technology this holiday season"
-    excerpt: "Delta Air Lines is set to launch a first-of-its-kind pilot program that will use facial recognition technology at two of America's largest airports -- Atlanta and Detroit"
-    publishedDateTime: 2021-10-30T09:04:00Z
-    webUrl: "https://www.malaysiasun.com/news/271613631/us-airlines-to-test-facial-recognition-technology-this-holiday-season"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1635489322107.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Speech And Voice Recognition Technologies Market is Booming Worldwide | Nuance, IBM, Sensory"
     excerpt: "Advance Market Analytics published a new research publication on Speech And Voice Recognition Technologies Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving"
@@ -124,6 +120,6 @@ related:
         height: 533
         isCached: true
 
-secured: "Fx4s81wSPPqib3pi9ZgIVNKNdaI9/VNDoNuin8GBSJuJ4oxCaECdQ1TRnRx/tHD0cKPAlaOZ/FDI+LPhdY6oYSpILsoaKLA/ezeypgdpiEcGeu3vVInMdqCG9KOPWKk8Ov1QV9FUnD3oW5+UNHtqlvfn/fO+X5npOmyU73FWtnfNl59Ey25ePYpAsIpiBSfp9ZzDFxgm39ZY3MfDt1ZibJxDX+NZv6C/smwHKK274hj5zZ9tDHHzJk9+Q78yBmiju/S5TBXG8CYqi/NL6j7hAZi4ispMSH931NPQ0NEiqwLlM0t6JwvGxltPoOD3fXQTZvrqrNeUQOicF3gFmeUsOK1GQkefva/lF0LDYyGbMpzH02cOEPW0PonRF413pT99t0cLvFc66oPJHXt/KfCnLWDMuESH5kkeXMhVIPrzqf/3+vlJ2sL5L+rDCRAYenOGpdF65aTcUXX/DuuaLCvRMEBCi0fafdT9u71vcK0DCbYhtzOcFqoaG4bwJXeh/hoA1r9wI/0irg+SAc+9zM+dfQ==;NzewDXh4z2i0hMzzKIBN7A=="
+secured: "1rb5kvB3HmNMX2d+ktDKFSw/pPAJguFkphqOujDzt13GliDwkPyybNvYJWyfNQLO1TxEb2438zkh4JRA/l1pCnA4mD/IN+1YENVGIi1vNlSmOG3LRZFCT5R2lIsRuIq5T/RvORnDmuWdLak+rEE6Ua6U5ekSk/KmfFRRSdRnqa7kD8ydu5drN2u34J1s5ijn9RBQ2oTrywGZzIi8hyT55zpV2Ho956KkB3b/Lz2SbxqKs0WKJQ3Iz835PQM05/pnZ8IhClxmUE8MFr+MNDFNwd3LRZWOhvwpy1E8+rJxceOWO1N/14uRTm5Ckkhsj14iWxC/YFLP1yXoF4sacuXMWlJPpwAlpVVRBFYTwMSBGHE=;MHNBn7GGxyk2u+Xa/2hCkg=="
 ---
 

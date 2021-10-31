@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Photoshop update brings new Sensei AI features to desktop, Raw camera support to iPad"
-    excerpt: "Adobe MAX is here, and the company’s most popular editing software is unsurprisingly getting a host of updates for the occasion. The most significant updates are landing on Photoshop for desktop,"
-    publishedDateTime: 2021-10-26T13:01:00Z
-    webUrl: "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/"
-    ampWebUrl: "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/"
+  - title: "Adobe's Project In-Between uses AI to create 'living photos'"
+    excerpt: "As part of its \"sneaks\" session today, Adobe will demo Project In-Between: an AI-based tool that creates what the company calls \"living photos\" from separate still images. Using Adobe Sensei AI, the tool makes an animation between two or more photos with a single click."
+    publishedDateTime: 2021-10-27T13:31:00Z
+    webUrl: "https://www.engadget.com/adobe-project-in-between-preview-130017575.html"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 82
+      name: Engadget
+      domain: engadget.com
+    quality: 67
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/10/Photoshop-update-brings-new-Sensei-AI-features-to-desktop-Raw-camera-support-to-iPad.jpg"
-        width: 1440
-        height: 950
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/9eab3980-3722-11ec-be5f-3f90f7e9f1a5"
+        width: 1600
+        height: 1000
         isCached: true
   - title: "How AI is driving powerful new Photoshop features — and shaping Adobe’s product strategy"
     excerpt: "Adobe is leveraging deep learning to improve its image editing apps. In turn, the use of AI is shaping Adobe’s product strategy."
@@ -57,22 +55,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FGraphic-design-is-my-passion.jpg&signature=9492163f4b35a6d6c15e89279fc2f589"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Adobe MAX 2021: New innovations and AI-powered features for Photoshop CC"
-    excerpt: "Adobe MAX kicks off today! The free virtual event will showcase the latest and greatest innovations and updates to Adobe’s popular software programs including their best photo editing software Photoshop CC,"
-    publishedDateTime: 2021-10-26T13:00:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/adobe-max-2021-new-innovations-and-ai-powered-features-for-photoshop-cc"
-    ampWebUrl: "https://www.digitalcameraworld.com/amp/news/adobe-max-2021-new-innovations-and-ai-powered-features-for-photoshop-cc"
-    cdnAmpWebUrl: "https://www-digitalcameraworld-com.cdn.ampproject.org/c/s/www.digitalcameraworld.com/amp/news/adobe-max-2021-new-innovations-and-ai-powered-features-for-photoshop-cc"
-    type: article
-    provider:
-      name: digitalcameraworld.com
-      domain: digitalcameraworld.com
-    quality: 56
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/A78Cbcwg5pwbo2Q79z5odi-1200-80.jpg"
-        width: 1200
-        height: 508
         isCached: true
 
 secured: "n5GIWhmv0jBve4OQXb+XSStLUjFeOyE6IZQBryreE6Vd8cf4wt4MUCOK/293qcIwLKQDOYvdJ3rm0ho+rbx1XBApEpawDAB2Sqrf3/mvPtQ/pPxFkkLoBeQ4NmToRJ+C3fKVMd98CY0LNo0m0YORmLFNn2XW5fT571xviOI69sC83aVJNrolw4yLYeR/uC1FYbcyfUSk9AIUGkRz6m4L5EBNmn5vbOfe1plVdAgZidgh7zV/WTwWByVN34TuldjULbCSOcBJnKOoVF2BOkroXVQ2iXJg0vfmw24JwxSciKbWDmxkqNT0x/p1PiND8JfqHa5NFPKVBOnHW2OkJIFDX3Wd2YFZAH/qsiLLi2Gs0xYwiK7fJQsiyBj5gRxpXRPF9UnU3YtwIk5r+kaP74EiXWp+SX1DZ1bjCyW3j1yY31uLo7QppFbW7KNTOfN6p1nvZSospZDwEjx8YrOrws/iXHZrmtNiyPRAqxV2VBpf3IlvvkCEwsHusQX9NVJVRtSwWPAHhiuV9nx27aLEt+PV6g==;vWTDms7l2ppMvzk8MC+QEw=="

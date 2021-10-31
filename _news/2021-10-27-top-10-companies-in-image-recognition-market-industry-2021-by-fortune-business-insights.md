@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Auto Insurance Market Insights Shared in Detailed Report 2021 till 2028"
-    excerpt: "New York United States AI in Auto Market report will provide one with overall market analysis statistics various trends drivers opportunities restraints and every minute data relating to the AI in Auto market necessary for forecasting its revenue"
-    publishedDateTime: 2021-10-26T11:07:00Z
-    webUrl: "https://www.openpr.com/news/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
-    ampWebUrl: "https://www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua26697026_g.jpg"
-        width: 800
-        height: 531
-        isCached: true
   - title: "Machine Learning Market 2021: Industry Size, Share, Revenue, Business Growth, Demand and Applications Market Research Report to 2026"
     excerpt: "Machine Learning Market” provides a comprehensive analysis of the market. The analysis includes market by segments"
     publishedDateTime: 2021-10-28T09:02:00Z

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Convergence of AI and blockchain in the metaverse"
-    excerpt: "A digital reality that combines aspects of social media, online gaming, augmented reality, cryptocurrencies and virtual reality is how Investopedia defines “metaverse.” Forbes magazine calls it the mirror world of alternate digital realities where people work,"
-    publishedDateTime: 2021-10-26T12:16:00Z
-    webUrl: "https://businessmirror.com.ph/2021/10/26/convergence-of-ai-and-blockchain-in-the-metaverse/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 39
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/09/Joseph-Araneta-Gamboa.jpg"
-        width: 300
-        height: 226
-        isCached: true
   - title: "Taiwan's AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
     excerpt: "TAIPEI, TAIWAN - Media OutReach - 29 October 2021 - Taiwan's top annual event for artificial intelligence, AI Day 2021, assembled key international stakeholders from across public and private sectors at Gaming Space in Taipei from October 27 to 28 morning,"
     publishedDateTime: 2021-10-29T13:01:00Z

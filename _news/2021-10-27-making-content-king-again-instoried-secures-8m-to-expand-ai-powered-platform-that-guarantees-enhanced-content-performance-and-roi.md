@@ -70,15 +70,6 @@ related:
         width: 810
         height: 506
         isCached: true
-  - title: "Bridgeweave and IIFL Securities Announce Partnership to Provide AI Powered Investment Insights"
-    excerpt: "Bridgeweave, a UK based fintech, today announced a partnership with IIFL Securities Limited, one of India’s leading brokerage and investment advisory firms. IIFL will offer Bridgeweave’s flagship InvestorAi app for AI powered investments insights and premium content to its clients."
-    publishedDateTime: 2021-10-26T12:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211026005515/en/Bridgeweave-and-IIFL-Securities-Announce-Partnership-to-Provide-AI-Powered-Investment-Insights"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "4f7jaI6eiwtfK509dy+sgirtQHh5RyDgQHlaYBObrW1ivSWwzbfPRB4JSytpfvt4RS7g7kpCQmJ4hX0mGZ0s7RlkmR9fAmKRU7xrev4YqInDolKQ2vwV5xiZr8eQEe3M8y7kyQJ78E4pULDF9d80NC9l7cW4eTcdUyIaQHkfw6XEOJQ2EBf4cbHOnpqAVGGZO2H2h0/9YukKlqflnmf/JQPrl6V2em8WK7Y+jPiEYPsG7ufvbIpY5ndHAsChPckSeLX/Zsbi5AM9V2vFiW4i3WJzNT/FD1Vbf8C+Ml2udI9nZ1X8oheg/2NRyOHkqih9k7sxGeitonDWnC1b+64w7wSvmXupCBBigZ62Rx0fD+o=;PCChY10G9JBtqHxfwUP9Ow=="
 ---

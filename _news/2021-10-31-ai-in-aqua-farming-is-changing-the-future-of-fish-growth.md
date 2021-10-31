@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Could facial recognition be the future of airport security? Delta Air Lines is testing it out"
-excerpt: "Delta Air Lines is testing new facial recognition technology to reduce the time it takes between arriving at the airport and getting passengers in their seats."
-publishedDateTime: 2021-10-27T14:55:00Z
-originalUrl: "https://www.cbsnews.com/news/facial-recognition-delta-tsa/"
-webUrl: "https://www.cbsnews.com/news/facial-recognition-delta-tsa/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/facial-recognition-delta-tsa/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facial-recognition-delta-tsa/"
+title: "AI in Aqua Farming is Changing The Future of Fish Growth"
+excerpt: "Artificial intelligence has emerged out to be no less than a saviour for fish farming. AI has aided in a number of ways to not just increase the growth of fish but also to tackle a number of challenges that arise in the aquaculture industry."
+publishedDateTime: 2021-10-31T05:33:00Z
+originalUrl: "https://www.analyticsinsight.net/ai-in-aqua-farming-is-changing-the-future-of-fish-growth/"
+webUrl: "https://www.analyticsinsight.net/ai-in-aqua-farming-is-changing-the-future-of-fish-growth/"
 type: article
-quality: 80
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Analytics Insight
+  domain: analyticsinsight.net
 
 topics:
-  - Computer Vision
   - AI
-  - AI in Security
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/10/27/74e2026c-5dbd-4e4c-b22e-a58946177334/thumbnail/1200x630/0d6b4f218d53176e5bbb7711870521fc/1027-cbsmornings-deltabiometrics-barnett-824031-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/AI-in-Aqua-Farming-.jpeg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -59,6 +55,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617aa2261f5347ebbfa8f207%2F0x0.jpg"
         width: 1200
         height: 798
+        isCached: true
+  - title: "Could facial recognition be the future of airport security? Delta Air Lines is testing it out"
+    excerpt: "Delta Air Lines is testing new facial recognition technology to reduce the time it takes between arriving at the airport and getting passengers in their seats."
+    publishedDateTime: 2021-10-27T14:55:00Z
+    webUrl: "https://www.cbsnews.com/news/facial-recognition-delta-tsa/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facial-recognition-delta-tsa/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facial-recognition-delta-tsa/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 80
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/10/27/74e2026c-5dbd-4e4c-b22e-a58946177334/thumbnail/1200x630/0d6b4f218d53176e5bbb7711870521fc/1027-cbsmornings-deltabiometrics-barnett-824031-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How Artificial Intelligence is Changing the World of Finance and Investing"
     excerpt: "Artificial Intelligence (AI) is a popular trend these days, but it seems so abstract that it is easy to assume only people savvy with technology should be concerned about it. This is far from the truth."
@@ -102,21 +114,7 @@ related:
         width: 1185
         height: 670
         isCached: true
-  - title: "AI in Aqua Farming is Changing The Future of Fish Growth"
-    excerpt: "Artificial intelligence has emerged out to be no less than a saviour for fish farming. AI has aided in a number of ways to not just increase the growth of fish but also to tackle a number of challenges that arise in the aquaculture industry."
-    publishedDateTime: 2021-10-31T05:33:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-in-aqua-farming-is-changing-the-future-of-fish-growth/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/AI-in-Aqua-Farming-.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "pk4LguUB/8xRsII8QlYjFZIvqjEruULX25CovcDvXxPK7zE+yzQ2IQbpAkfqhjQnhTOgnangveZfP3DPmr7H/X3ljoNCKwauzwTU2gIj36Kl1rrew5/rBp++FG78x81ZN5SLmZQc7gk42cFQA5jbLp/woZxG4E9/jvU8OCEy76aX4MNnuv58VkaOk3DbeIE5qOgMN/fgH4T/cLKvUilYX3n19lGfG9skzm7M4Uz+doRHt7O+pEc5XIiTytL0g/iRttMRDgPUZxRqQcK1kYz73c1fgNUMil76GlXPU8Ei8WG+ksomi9KDSwbN+ttClzXjgVaLfyRrtgiIHP8/YoZKSOxt8nYY1DAKwLuysJ2qwjk=;EuuvFEeyqKQ8IqWxm+sKrQ=="
+secured: "MLGjQKxUFFL1bGAYhX3QpQyikLqa30jGWnmLDz+xeapgtKRD3miqoPf9SQIhf/Zt1hTgjBrUvyjwGUTq9132hD4kcc5R6R+2OgIWTGy0ra4futzZLbeUVJsYciikaNQd75CXshLMyCI9q/GTbDAnvFi5kpOATKks5Pf7OsGO/kD2r/WjauV4Ft9SeZMv1vpBrOwvwQf5dEEnYwD0pBQSuXt88/+I553G00l8Zj62zNhpjs9OR4iz5JPGpcMF//H0Woah7ZDJrGZGt9dvSMJp6bVN7Qorblzu5WGN//glj9L/PV5JO2J55fwAP5DNvdsmBVLOF7yWZr0Cf9P47XEZHSQBRgWsJTukNZPi4JX/pIc=;E7qQ5v71CgLyqCwml5ffWQ=="
 ---
 

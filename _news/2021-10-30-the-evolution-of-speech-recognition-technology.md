@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/sg/amp/news/the-evolution-of-speech-recogn
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology"
 type: article
 quality: 89
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://i.insider.com/617970c089b91c00185a8daa?width=1200&format=jpeg"
         width: 1024
         height: 512
+        isCached: true
+  - title: "US airlines to test facial recognition technology this holiday season"
+    excerpt: "Delta Air Lines is set to launch a first-of-its-kind pilot program that will use facial recognition technology at two of America's largest airports -- Atlanta and Detroit"
+    publishedDateTime: 2021-10-30T09:04:00Z
+    webUrl: "https://www.malaysiasun.com/news/271613631/us-airlines-to-test-facial-recognition-technology-this-holiday-season"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1635489322107.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Speech And Voice Recognition Technologies Market is Booming Worldwide | Nuance, IBM, Sensory"
     excerpt: "Advance Market Analytics published a new research publication on Speech And Voice Recognition Technologies Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving"

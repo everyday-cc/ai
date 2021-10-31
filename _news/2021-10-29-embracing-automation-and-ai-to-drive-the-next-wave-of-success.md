@@ -1,30 +1,32 @@
 ---
 category: news
-title: "Could facial recognition be the future of airport security? Delta Air Lines is testing it out"
-excerpt: "Delta Air Lines is testing new facial recognition technology to reduce the time it takes between arriving at the airport and getting passengers in their seats."
-publishedDateTime: 2021-10-27T14:55:00Z
-originalUrl: "https://www.cbsnews.com/news/facial-recognition-delta-tsa/"
-webUrl: "https://www.cbsnews.com/news/facial-recognition-delta-tsa/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/facial-recognition-delta-tsa/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facial-recognition-delta-tsa/"
+title: "Embracing Automation And AI To Drive The Next Wave Of Success"
+excerpt: "Automating manual and repetitive activities has helped many organizations survive the past couple of years while giving others the foundation to grow and thrive."
+publishedDateTime: 2021-10-29T11:30:00Z
+originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/"
+webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/amp/"
 type: article
-quality: 80
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
   - AI
-  - AI in Security
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/10/27/74e2026c-5dbd-4e4c-b22e-a58946177334/thumbnail/1200x630/0d6b4f218d53176e5bbb7711870521fc/1027-cbsmornings-deltabiometrics-barnett-824031-640x360.jpg"
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617aa2261f5347ebbfa8f207%2F0x0.jpg"
     width: 1200
-    height: 630
+    height: 798
     isCached: true
 
 related:
@@ -44,21 +46,21 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Embracing Automation And AI To Drive The Next Wave Of Success"
-    excerpt: "Automating manual and repetitive activities has helped many organizations survive the past couple of years while giving others the foundation to grow and thrive."
-    publishedDateTime: 2021-10-29T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/amp/"
+  - title: "Could facial recognition be the future of airport security? Delta Air Lines is testing it out"
+    excerpt: "Delta Air Lines is testing new facial recognition technology to reduce the time it takes between arriving at the airport and getting passengers in their seats."
+    publishedDateTime: 2021-10-27T14:55:00Z
+    webUrl: "https://www.cbsnews.com/news/facial-recognition-delta-tsa/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facial-recognition-delta-tsa/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facial-recognition-delta-tsa/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: CBS News
+      domain: cbsnews.com
+    quality: 80
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617aa2261f5347ebbfa8f207%2F0x0.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/10/27/74e2026c-5dbd-4e4c-b22e-a58946177334/thumbnail/1200x630/0d6b4f218d53176e5bbb7711870521fc/1027-cbsmornings-deltabiometrics-barnett-824031-640x360.jpg"
         width: 1200
-        height: 798
+        height: 630
         isCached: true
   - title: "How Artificial Intelligence is Changing the World of Finance and Investing"
     excerpt: "Artificial Intelligence (AI) is a popular trend these days, but it seems so abstract that it is easy to assume only people savvy with technology should be concerned about it. This is far from the truth."
@@ -117,6 +119,6 @@ related:
         height: 720
         isCached: true
 
-secured: "pk4LguUB/8xRsII8QlYjFZIvqjEruULX25CovcDvXxPK7zE+yzQ2IQbpAkfqhjQnhTOgnangveZfP3DPmr7H/X3ljoNCKwauzwTU2gIj36Kl1rrew5/rBp++FG78x81ZN5SLmZQc7gk42cFQA5jbLp/woZxG4E9/jvU8OCEy76aX4MNnuv58VkaOk3DbeIE5qOgMN/fgH4T/cLKvUilYX3n19lGfG9skzm7M4Uz+doRHt7O+pEc5XIiTytL0g/iRttMRDgPUZxRqQcK1kYz73c1fgNUMil76GlXPU8Ei8WG+ksomi9KDSwbN+ttClzXjgVaLfyRrtgiIHP8/YoZKSOxt8nYY1DAKwLuysJ2qwjk=;EuuvFEeyqKQ8IqWxm+sKrQ=="
+secured: "8qcr2QR59qsshXboTS05psWoOLgVNKwDENEoC8tRTOzjXrtfIprS+TSoVCvgLLB+im/HgqJpNyjSzfk4LfQ1drzQwQUikTBb0P+5GF8pdpPRKzYODAML9PQS9+RZEZlNp4qcovb90aJq4SX0P6jKo9V2omjR04iLShlE6Z9RSnLVVa4ZJiQfbVi4XZua2ZB7FtVi3zMs3+3YQ88E1cEVMsfpp/d68ijXrXdfkVrKCRNiBT6JIgTJImkfL32kmEVzByNKgfv3FhQPbPubeNXgJONi1tufE2o/B3nRsPGy9c/L2VfFFCR9/42E4ce5DQbDRll6bBbLMDtqnwtWNmJQuH4D8fmsUw06xNk7EJjTV9M=;MyCBI4MaKboC2vvg18bu3g=="
 ---
 

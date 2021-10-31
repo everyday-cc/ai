@@ -25,47 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The 3 Steps To Building An AI-Powered Organization"
-    excerpt: "Despite awareness about the potential of AI, leaders struggle to build an organization with AI at its core. The three-box solution helps organizations use AI to optimize their business today while innovating for exponential growth in the future."
-    publishedDateTime: 2021-10-26T11:06:00Z
-    webUrl: "https://www.forbes.com/sites/ganeskesari/2021/10/26/the-3-steps-to-building-an-ai-powered-organization/"
+  - title: "MG Motor partners with visual inspection solutions startup for AI-based vehicle assessment"
+    excerpt: "\"Our association with CamCom introduces our customers to AI-based car inspection modules at our service centres. It is a valuable addition to our bouquet of technologies,\" MG Motor India Chief Commercial Officer Gaurav Gupta said in a statement."
+    publishedDateTime: 2021-10-29T12:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/auto/auto-news/mg-motor-partners-with-visual-inspection-solutions-startup-for-ai-based-vehicle-assessment/articleshow/87368168.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/auto/auto-news/mg-motor-partners-with-visual-inspection-solutions-startup-for-ai-based-vehicle-assessment/amp_articleshow/87368168.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/auto-news/mg-motor-partners-with-visual-inspection-solutions-startup-for-ai-based-vehicle-assessment/amp_articleshow/87368168.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: India Times
+      domain: indiatimes.com
+    quality: 47
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617726ced00338e8a7016b8f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2453%26cropY1%3D117%26cropY2%3D1496"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The 3 Principals of Building Anti-Bias AI"
-    excerpt: "Why your company needs to apply best practices in eliminating discriminatory bias in your artificial-intelligence systems -- and key principles in applying them."
-    publishedDateTime: 2021-10-27T13:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/389964"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1634674831-GettyImages-1173479069.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "The Top Ways to Use AI in Education"
-    excerpt: "AI in the education market was predicted to rise to $10.38 billion by 2026 (by 45.12% annually). AI EdTech startups are attracting millions of dollars in funding and millions of users. AI use cases in learning demonstrate such kinds of applications as AI in training,"
-    publishedDateTime: 2021-10-28T03:21:00Z
-    webUrl: "https://www.techopedia.com/the-top-ways-to-use-ai-in-education/2/34589"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 54
-    images:
-      - url: "https://images.techopedia.com/images/uploads/ai-in-education.jpg"
-        width: 902
-        height: 600
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-29350,msid-87368340/mg-motor-1580018299.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "GeL6ePcQcWA+QrYCLwVXBqQhGnFzXMxC4yodSc+I/HWwyv2t9M+L0U6NeXYk5pKV01JUnIQ/S9ngQCV+oFJudl5NA4JYson7oKzJX2VjK47GVD+d+qtW68ZEZ1xYhm/KIQ232MuvSwUeYUJJ+djrSwm75pY79DycQ+Fc/ScVl3bRIDWoLh13tlgnhLyKeA1JWNhgefKeYEohJJLpQEhKyRyHkT8ulxM4hBffRibC663FhAHKrKEb577535J9EArINzyvedhhW4qYIGRESxcU1cVmUEv6sRC73uYPjwn3yPnKxj81ArT9NEv7DYq6FMYKUp1zxSi11oyDCW+FUi3KqIFpoBdk28xWj754RpwGKo4=;CYsiMzI6H0hu4v3VFg+uCQ=="

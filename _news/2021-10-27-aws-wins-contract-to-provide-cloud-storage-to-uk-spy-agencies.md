@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS wins deal to store UK spy agencies' work, brings AI to the table"
-    excerpt: "The UK's spy agencies will move top secret data to AWS data centers and gain access to its artificial intelligence tools."
-    publishedDateTime: 2021-10-26T12:07:00Z
-    webUrl: "https://www.zdnet.com/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/13bc191e6c7643df0b3930684177fc754f3eabc3/2021/10/06/42e4848e-e92e-4e87-9a51-fa1f779b23d9/20211006-danny-zuzana.jpg?width=1200&height=675&fit=crop&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AWS signs deal with British spy agencies"
     excerpt: "Britain's spy agencies have given a contract to Amazon Web Services (AWS) to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence (AI) for espionage,"
     publishedDateTime: 2021-10-26T19:30:00Z

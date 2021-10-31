@@ -25,47 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The 3 Steps To Building An AI-Powered Organization"
-    excerpt: "Despite awareness about the potential of AI, leaders struggle to build an organization with AI at its core. The three-box solution helps organizations use AI to optimize their business today while innovating for exponential growth in the future."
-    publishedDateTime: 2021-10-26T11:06:00Z
-    webUrl: "https://www.forbes.com/sites/ganeskesari/2021/10/26/the-3-steps-to-building-an-ai-powered-organization/"
+  - title: "The awkward grant of patents to artificial intelligence"
+    excerpt: "It’s pointless because AI can’t even speak for itself, as of now, let alone wilfully exercise the rights granted"
+    publishedDateTime: 2021-10-26T16:58:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/the-awkward-grant-of-patents-to-artificial-intelligence-11635267216589.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/the-awkward-grant-of-patents-to-artificial-intelligence/amp-11635267216589.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-awkward-grant-of-patents-to-artificial-intelligence/amp-11635267216589.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: Mint
+      domain: livemint.com
+    quality: 57
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617726ced00338e8a7016b8f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2453%26cropY1%3D117%26cropY2%3D1496"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The 3 Principals of Building Anti-Bias AI"
-    excerpt: "Why your company needs to apply best practices in eliminating discriminatory bias in your artificial-intelligence systems -- and key principles in applying them."
-    publishedDateTime: 2021-10-27T13:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/389964"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1634674831-GettyImages-1173479069.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Iguazio Partners with Pure Storage to Operationalize AI for Enterprises Taking a Production-First Approach"
-    excerpt: "\"Most organizations starting out with AI initially focus on research and model development ... Red Hat, Inc., the world's leading provider of open source solutions, today announced Azure Red Hat OpenShift on Microsoft Azure for U.S. Government as a ..."
-    publishedDateTime: 2021-10-26T13:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-20065734.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 21
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://images.livemint.com/img/2021/10/26/600x338/AI-kCzC--621x414@LiveMint_1635267236688.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "bbyMsI/ppkIGe7Ihpx92+Q+pWJJ9G3LIKH8cafzsgiMOxTti2d38ZAdq3MR+9n/TxNaC9jrEHZ1Rvth452X+RxgUaWj+v0OPjLtuEbVxZJYtTJhp8bD1qTjNxpeYtxXihbTAzaJgALql1CWFtGrU/zIUY0391Z2U0D5Bf3cJDUfNcSeO8Uz55YVuwCGd2IEFnyazc4kgmKGazW/Og054fb0WOZFmo2dcn9R8y9ztkqdp6cbMkiCViZZR7yMQN6ZVZol/avOGilMhZ8N9RQ1kqtYLxM7BzWXLJB5V21ACXT5q53yjDn3mF8u5/2T9F/Kn52WAo8LiOlKr4ITd2WqTgbx7lP2w7MI//I31uggmpPHAsaKsKTvoyP92UZbGu1qily4ebtRsVXrjRXKFtdOjCqfNfSxxNVLMzzQ5NuntwiS/ijcXDAQQ+HNqmgZZaJgImZu1ti6SdEyrDMR/UEYtlikYBnAvA9YHx/rGVF+0OwEYTwhYNsT67vT+u3jcKtsaaEogBaTmB2f1B/uO4TBTLA==;f0XQ9ZOvMDIaf8V8uxABsA=="

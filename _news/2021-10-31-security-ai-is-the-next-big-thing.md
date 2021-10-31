@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Embracing Automation And AI To Drive The Next Wave Of Success"
+    excerpt: "Automating manual and repetitive activities has helped many organizations survive the past couple of years while giving others the foundation to grow and thrive."
+    publishedDateTime: 2021-10-29T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617aa2261f5347ebbfa8f207%2F0x0.jpg"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Could facial recognition be the future of airport security? Delta Air Lines is testing it out"
     excerpt: "Delta Air Lines is testing new facial recognition technology to reduce the time it takes between arriving at the airport and getting passengers in their seats."
     publishedDateTime: 2021-10-27T14:55:00Z
@@ -88,6 +104,20 @@ related:
       - url: "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2021/10/img-7-edits-past-thanks-ai-main-image.jpg"
         width: 1185
         height: 670
+        isCached: true
+  - title: "AI in Aqua Farming is Changing The Future of Fish Growth"
+    excerpt: "Artificial intelligence has emerged out to be no less than a saviour for fish farming. AI has aided in a number of ways to not just increase the growth of fish but also to tackle a number of challenges that arise in the aquaculture industry."
+    publishedDateTime: 2021-10-31T05:33:00Z
+    webUrl: "https://www.analyticsinsight.net/ai-in-aqua-farming-is-changing-the-future-of-fish-growth/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/AI-in-Aqua-Farming-.jpeg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "uiMjcbbTXN9oeNrdLxU6gRoF4D+rpKwbaTV5Ne5XVK4Dcg5ReGZ5S1pkKIxS/CQPyyh8X9BCG1qFufVqz2lfkWUa/GftQ0AsP1qwtKi2wIiMqUBHGOeHlVfKQ5nMuIxDiC8T7tMvANa/XDCMtmw0QrctaK6BAehR7+OT+KHTIJZJtwoivZ5JS8Eom7N2hzA/FkTRyFWDjqYAx/X47QaD8W5BZaqGmfvX6cwOXbHl1y4sad6DhA4QCQOmWsUaS0LbQPgl/9NENw29J6XQ52Py6GzUDmXBAP3VtM7E8LJC5jVZfzQATBO7+PW6TyAaija27bhOG3ygVx7q6gDSnp61jdRTULI5PTH30BUy0aS8P9UKa4AcjdVI+tB7pPMLHvX7pVYbDL8KD9hocwoG8iZ5n0epcrR2wUjmswdvdwQBV5Mohy2o5oMQBmSxuyhpuz5aSG27dps+xZ17aCUNzGHib2nh5XkR//kZtDAE+ioKgAdB/wgjstcK0a8TuRRkcsola0gjbHlewg6/rnv7woQ2kQ==;+VWX9CkQwhGbE+6Cm/gbZg=="

@@ -25,6 +25,19 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "ISeeYouCare, Inc. Announces New AI-Driven Personalized Virtual Care Solution for In-Home and In-Patient Medical Services Delivery"
+    excerpt: "ISeeYouCare in collaboration with CSI Engineering announces another advancement in patient care with the world's first AI-driven Automated Voice using Speech Synthesis and"
+    publishedDateTime: 2021-10-30T22:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/10/p23771441/iseeyoucare-inc-announces-new-ai-driven-personalized-virtual-care-solution-for-in-home-and-in-pati"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23771441"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23771441"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
+
 secured: "t11tRoG2DATBaW4PaE3L7CzhUdJZ0wOD/uTBDTdJtcovsOFIl0n2IDGZaQBxX2t0CG7L7CU6WI0IpwazkvxsDSwPu9xhQ+SacDDzJCRPFBbv3VJWOliXLQvOwVclMCK/VPGASDQ4Oz8vNSkW3ez2QNXqpVwjYmtcMgMur40t+QTRefmuHb4zapBJ9G89vIM++P2CJ34Btc4coE8QlZY5Jrn/l07A55ZYTUzRvgUaAd+YzWi1l8bgoEDrrlbStyqTaRGARAObsrymuLx1guZoYl0HzZm1vRfMImlXU1E1YkHfXCDcLJwr+FTmh/gRpjnC2g+Ig7UOJxAe0j06LucHtHx0dYPRosrcWDqC24KsST4=;+VN8RexuUsFqMly/fk0oog=="
 ---
 

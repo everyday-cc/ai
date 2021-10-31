@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook's new smart glasses may be impressive, but they also raise serious privacy and security concerns"
-    excerpt: "Consumers have raised concerns about the glasses' facial recognition technology, too-discreet recording feature, and data collection capacity."
-    publishedDateTime: 2021-10-26T12:54:00Z
-    webUrl: "https://www.businessinsider.com/facebooks-new-smart-glasses-raise-privacy-concerns-2021-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/613ba480a30aeb0018b4ff81?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facebook grilled by UK lawmakers making online safety rules"
     excerpt: "British lawmakers are grilling Facebook and other tech giants over how they handle online safety as European efforts to regulate social media companies gain momentum"
     publishedDateTime: 2021-10-28T16:16:00Z
@@ -117,15 +103,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facebook is spending more, and these companies are getting the money"
-    excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
-    publishedDateTime: 2021-10-26T12:59:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20211026401/facebook-is-spending-more-and-these-companies-are-getting-the-money"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
   - title: "Facebook is spending more, and these companies are getting the money"
     excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
     publishedDateTime: 2021-10-27T07:22:00Z

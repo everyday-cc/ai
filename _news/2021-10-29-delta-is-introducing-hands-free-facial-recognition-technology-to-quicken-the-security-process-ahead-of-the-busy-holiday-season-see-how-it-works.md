@@ -80,6 +80,20 @@ related:
         width: 1024
         height: 767
         isCached: true
+  - title: "US airlines to test facial recognition technology this holiday season"
+    excerpt: "Delta Air Lines is set to launch a first-of-its-kind pilot program that will use facial recognition technology at two of America's largest airports -- Atlanta and Detroit"
+    publishedDateTime: 2021-10-30T09:04:00Z
+    webUrl: "https://www.malaysiasun.com/news/271613631/us-airlines-to-test-facial-recognition-technology-this-holiday-season"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1635489322107.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Speech And Voice Recognition Technologies Market is Booming Worldwide | Nuance, IBM, Sensory"
     excerpt: "Advance Market Analytics published a new research publication on Speech And Voice Recognition Technologies Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving"
     publishedDateTime: 2021-10-27T11:13:00Z
