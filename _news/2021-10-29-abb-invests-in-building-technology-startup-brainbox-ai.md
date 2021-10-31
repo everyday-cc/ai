@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-28T19:29:00Z
 originalUrl: "https://www.newswiretoday.com/news/176528/"
 webUrl: "https://www.newswiretoday.com/news/176528/"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "BrainBox AI announces $24 million to fuel energy-saving tech for commercial buildings"

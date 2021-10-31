@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/amp/"
 type: article
 quality: 87
-heat: 128
+heat: 127
 published: true
 
 provider:

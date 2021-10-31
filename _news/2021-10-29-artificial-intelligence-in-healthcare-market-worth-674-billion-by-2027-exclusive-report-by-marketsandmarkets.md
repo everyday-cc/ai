@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "CHICAGO, Oct. 29, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Computer Vision ..."
-publishedDateTime: 2021-10-29T13:33:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027--exclusive-report-by-marketsandmarkets-301411884.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027--exclusive-report-by-marketsandmarkets-301411884.html"
+excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Comput"
+publishedDateTime: 2021-10-29T13:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027---exclusive-report/article_76e6767d-827a-55ea-b152-f3bf1df17c14.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027---exclusive-report/article_76e6767d-827a-55ea-b152-f3bf1df17c14.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-    width: 666
-    height: 350
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
+    width: 669
+    height: 229
     isCached: true
 
 related:
@@ -77,6 +77,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "Uud9x8AXcGxD0vWpNNqiWnKTqVhQVyx7L+c0NL+vY8MolgLpzx9R86c2Cq6bpKnovLe20VevFO9cm7BxproTnXTE8/vwSCkbcM4ril8M0kcZCMEV0hiUsDa6Q+0x6sxjgqSyVvOlxWui92E5HDZzWj4GJXXAINVuNgStIC1vrAJRwpYZvHAyQogbD+5t/bQlrwnTPtfyWXZztIDxUWJtfZwO5V1NeMum7Tq1weQMTFOZlguWlxoq7JrS0reQxZJFICUulIpv++h9hf+RCNhvPtwMA2q9ThslRCRj++mL/lsHerebmeBm0SnQYM8YG5g95pcbh1vazWUvMIYh7VfYBBWwM2Vt6U/17+R94PpTG1k=;Gs9dpEnPx0AKtPJO3udbHg=="
+secured: "WcY64jUL/d7zoKwdQA+JeuRiehlhGDQgSkDG7Pr+XYvQwO1DFHseFUJGFYc/kp3hmbr2fjJw8puJgwwLWIJzl0R5/m6P87JcLeELcVQeqSXyJ2VG5DG5G5biYmgjfdAIrZdFEki07u2wKKOS7YvnbStD7/Yc6YclsPs3mAugvujcxTRL55a22h3Nl29onh3eRhiWGXnAzUAXvmhOqw0/m0EuuFeP9U5EddPN0f4sQiXBW/FC5TP4NusAt1F8fKx7xJiHWWKAudDxE+AUT+PduvcOEvB+gPXgVqDf2V0yP2PTdAR4VTbtE+X61ADnq4wMOd3/cm14dtjQSco3i+7AF+MWaEsfT+DmQjSInf2TKpo=;IEICYQSrouVMcOpjqnFYTg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.futurecar.com/4960/China’s-Baidu-is-Turning-Producti
 webUrl: "https://www.futurecar.com/4960/China’s-Baidu-is-Turning-Production-Vehicles-into-Robotaxis-With-its-Factory-installed-Autonomous-Driving-System"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 799
     height: 533
     isCached: true
-
-related:
-  - title: "Robotaxi Market - Analysis with Ongoing Trends & Market Revenue"
-    excerpt: "Baidu has developed an autonomous driving platform called Apollo. They have partnered with the Swedish car maker, Volvo, to produce self-driving cars for their fleet. Baidu has decided to start ..."
-    publishedDateTime: 2021-10-27T02:13:00Z
-    webUrl: "https://menafn.com/1103051903/Robotaxi-Market-Analysis-with-Ongoing-Trends-Market-Revenue"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2021-10/26/G_95ec1image_story.jpeg"
-        width: 650
-        height: 396
-        isCached: true
-  - title: "Natural Language Processing Market Insights by Emerging Trends, Revenue Analysis, Demand Forecast till 2020"
-    excerpt: "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Oct 28, 2021, 04:45 /Comserve / -- Natural Language Processing Market - The advent of Electronic Health Records (EHR) has prioritized the use of ..."
-    publishedDateTime: 2021-10-28T09:40:00Z
-    webUrl: "https://menafn.com/1103062503/Natural-Language-Processing-Market-Insights-by-Emerging-Trends-Revenue-Analysis-Demand-Forecast-till-2020"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?596801"
-        width: 376
-        height: 249
-        isCached: true
 
 secured: "5JRmMV6ofoOqemYYqkRlBexnDthG9RiiJNSkGunjFx8k9EDZefHE3P+Kcvp7MBlI6Kxb9kRYJuR/+UGBmdAqRvdNKMKVZAwP8celgr137Q8tNWx/R3JRKLuUbGh4p6H91vH3EYuVN+LPerAYXbfQp08nNzf1sJ/X1w3D0+6CUgWfWnlPbUgpoZhcZ31H2/JSO1U5dV31ep58Ek7C5URNxwannfPep0SNv7SjD2BSEh54g4/wT0xI1qg7QwS9iJD2qIxJlzDAwtqeTBkT9sjlgLw/XJ4tKrtPmOyb7La1QowAoPbmtaSsUjLpvxo3nM4GNj+4gC0F5IIUOAOqEDUFwt4H2trFJHVlKxd2pAVgZwBtMc5WlzdviD1ngfF6SLAP9X+0mw9T/AX1JM9OeX8VkJgfGb4hdUUcirLdgjHmdldvpBtORxQjs2ZUm8zvQR8GTnth/UvMFJQA/p2lyjiD6MJtGySZl2LBGmpRuVBNCshFaMK+3897SfmrSR1wrOlq66JOwxUpcVBNUBCwaG7tLw==;mxgK7LVl4eqLL4tH3/6clw=="
 ---

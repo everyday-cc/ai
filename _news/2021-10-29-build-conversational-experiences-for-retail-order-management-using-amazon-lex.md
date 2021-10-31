@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-conversational
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-retail-order-management-using-amazon-lex/"
 type: article
 quality: 101
-heat: 132
+heat: 131
 published: true
 
 provider:

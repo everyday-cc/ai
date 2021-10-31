@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/27/self-driving-company-cruise-on-tra
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022/amp/"
 type: article
 quality: 71
-heat: 71
+heat: 75
 published: true
 
 provider:
