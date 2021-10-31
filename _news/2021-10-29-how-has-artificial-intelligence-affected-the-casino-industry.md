@@ -7,7 +7,7 @@ originalUrl: "https://hometownstation.com/news-articles/how-has-artificial-intel
 webUrl: "https://hometownstation.com/news-articles/how-has-artificial-intelligence-affected-the-casino-industry-394740"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI (Artificial Intelligence) Will Impact T-shirt Printing Industry?"
+    excerpt: "Artificial Intelligence is a new force that is reallocating the ideas of following fashion trends from the traditional to the modern, both in terms of choosing the products and manufacturing them and taking into consideration environmental impact and consumer preferences."
+    publishedDateTime: 2021-10-31T06:35:00Z
+    webUrl: "https://customerthink.com/how-ai-artificial-intelligence-will-impact-t-shirt-printing-industry/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 52
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/visual-marketing-for-non-designers-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI for good – The fleet industry’s pioneering role"
     excerpt: "Embracing artificial intelligence (AI) is a transformational growth move for any business that needs a faster and more accurate path to product development."
     publishedDateTime: 2021-10-26T17:26:00Z
@@ -38,20 +52,6 @@ related:
       - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/10/GettyImages_1310293181.617301f9a972f.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Filings buzz in the power industry: 16% increase in artificial intelligence mentions in Q2 of 2021"
-    excerpt: "Mentions of artificial intelligence within the filings of companies in the power industry rose 16% between the first and second quarters of 2021. In total, the frequency of sentences related to artificial intelligence between July 2020 and June 2021 was 190% increase than in 2016 when GlobalData,"
-    publishedDateTime: 2021-10-26T13:51:00Z
-    webUrl: "https://www.power-technology.com/features/power-industry-artificial-intelligence-filings-mentions/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 23
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/poweraimentionslead.jpg"
-        width: 1920
-        height: 1280
         isCached: true
 
 secured: "2n5Gd62ky2uhJGQA5El8hbLXwBaQsklprXo4bvF8pv5cHvO2NhmJ69NCGV56M9k3SOwJAtw1kQoU64QP8NIrv0yCf2nNhGbFnCGBeQqhffWARXy/3Tq8jaEEBzq4kJhhBMYmtJiyiVLoRaTVEyo8yZZd7Kpww1DItKX2wOb9jChBxEafgI6gQyvJ4k1Tebhva3b5GVAxe+MrWvOmdmwqwY0JGqY8j2c5ZAk9um+LWvNcmZrhSQcBJbxfbRFyETp8TS2JY41q5NjqVTuQ2+SY8tHnjYT7sknkern8+1NQOXCW3LZqMLz7OIfxpNpnVu2bSgO35/CR9H4UN3UPHOVJ/pjJHuGmyF0pc7+3K36QsnJr7swb6P/RjEEegEBjDz6aPng0jqnq7k9uoIBRXogDj+vcuszozs4KQ8GkjHtvOfqJN0DfmKLqrT4kuAjGGiF99BcrwPpWszjzSozID8MzWgP8O562J2E5rUQRiqgv+V5LGRjH2NqD/ehP7CS8AVDfRuw5+fSP/k+zhjXNSopxZg==;DcRR+1mqW49vK+McKh/X5A=="

@@ -1,22 +1,29 @@
 ---
 category: news
 title: "MIT Centre for Future Skills Excellence concludes the 5-Week, Short Term Course on Artificial Intelligence for teachers"
-excerpt: "Robotics, Cyber Security, Cloud Computing, Blockchain, etc. The short-term course on Artificial Intelligence was inaugurated on Sept. 27, 2021 with insights & blessings from the Top Global ..."
-publishedDateTime: 2021-10-31T04:55:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20211031/3847578.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20211031/3847578.html"
+excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE), MIT Art, Design and Technology University concluded its unique 5-week and 2-credit Short-Term Course on Artificial Intelligence in Education"
+publishedDateTime: 2021-10-31T07:00:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/mit-centre-for-future-skills-excellence-concludes-the-5-week-short-term-course-on-artificial-intelligence-for-teachers-121103100322_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/mit-centre-for-future-skills-excellence-concludes-the-5-week-short-term-course-on-artificial-intelligence-for-teachers-121103100322_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/mit-centre-for-future-skills-excellence-concludes-the-5-week-short-term-course-on-artificial-intelligence-for-teachers-121103100322_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mit-centre-for-future-skills-excellence-concludes-the-5-week-short-term-course-on-artificial-intelligence-for-teachers-121103100322_1.html"
 type: article
-quality: 0
-heat: -1
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/31/full/20211031100052.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "MIT Centre for Future Skills Excellence Concludes the 5-Week, Short Term Course on Artificial Intelligence for Teachers"
@@ -34,6 +41,6 @@ related:
         height: 267
         isCached: true
 
-secured: "34TcHoXn8UwvNrVIpCLZ9xJ5mvFoCkbWQCxRuvnimKrMUgg6Io1Nzc2qNhZ3+VqHtuIrXj9UO8SKnwQM+jQT1HiCVSs7Rr7CHgL4676L0XaHOwQxdCP+heiW5g25TC8wyie2TbU1nF1Nzl+DKmTGMa4c8WrR16sA4r2IzD+cNeIjAhc1RqybBRKFIZdmar/6r/Xcuz6mRlf40PCw97kr7DrMV3aUTmpNJAIICc4vxSzdqisNtWT0D0O7JAo+uOpDLVAXsxUVo3MfsIrTNUJm+UxzV4vs9mlkw1oT+pJOA4/hFQKHLQn+XVy1vhYSSwQY/cu9lmrPnKa3PnTbyCSWPtNuEs2tAKdCFsTK20mivLc=;HwlHZm989v/MfPji3u+cZA=="
+secured: "vtKpnun7/rEj7NiozHoAZq69MVpvhOqQjwY3BmIxSEwOY0mgsA8rYW0Ih62P6DvcbS1To5xhljezOAJzeQId7wV23lL6gGK7Hx/FrrEtsvFN/ohJaKBCcSBs9tHSl5snV07ymwmEAqm9DDF+p6JSy9KMiXOCReJPdMK7R7ZU5XU0XCckklsn5ZavGlOm+dubl2nfiicFoaJUmDqvtDkmW0X8kWYvwcxFM0MJVwPbDVoKPxEcgDZTEwW4krrsXr1e5X0JRVvxGs70WEoHwpr4hS0Dt8gvyir49AZ6nvXMFeKaA3XCOpkBfceh6KhwPiCN4t34gMRkQwC8iBMjBklaWxbLeFo4C/DlS+pv6hV0mTQ=;BFgOzcL4vcSIq2lVU+HQGg=="
 ---
 

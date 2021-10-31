@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-29-us-to-deepen-relation-with-taiwan-in-face-of-china-tensions.md",
+      "title": "US to deepen relation with Taiwan in face of China tensions",
+      "excerpt": "The U.S. switched diplomatic recognition of China from the ruling Nationalist Party government in Taipei to the Communist Party in Beijing in 1979, but has continued to maintain a strong unofficial relationship with the self-ruled island. Oudkirk declined ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/",
+      "originalUrl": "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10060-prod.cdn.arcpublishing.com/resizer/nXIU0jcYwnSsJHClfE_GA1NiNVs=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/WJMCWFRPM7TMX3VJUDFD3E2Q3E.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-fox13memphis-com.cdn.ampproject.org/c/s/www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/?outputType=amp",
+      "publishedDateTime": "2021-10-29T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX13 Memphis",
+        "domain": "fox13memphis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-nykaa-ipo-oversubscribed-by-482-times-on-day-2-qib-portion-booked-472-times.md",
       "title": "Nykaa IPO oversubscribed by 4.82 times on Day 2, QIB portion booked 4.72 times",
       "excerpt": "Falguni Nayar-promoted and private equity firm TPG-backed FSN E-Commerce Ventures’ maiden public offer was oversubscribed by 4.82 times ... its financial metrics and cementing its position going forward and hence recommend investors to Subscribe to ...",
@@ -143,58 +186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-facebook-doesnt-amplify-hate-supports-safety-legislation-exec-tells-british-lawmakers.md",
-      "title": "Facebook Doesn't Amplify Hate, Supports Safety Legislation, Exec Tells British Lawmakers",
-      "excerpt": "What I can say is that we have AI that's designed to identify hate speech,\" Davis said. She said Facebook supports the U.K.'s safety legislation and defended the company's handling of internal research on how Instagram can harm teens by encouraging eating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/facebook-doesnt-amplify-hate-supports-safety-legislation-exec-tells-british-lawmakers-1643646",
-      "originalUrl": "https://www.newsweek.com/facebook-doesnt-amplify-hate-supports-safety-legislation-exec-tells-british-lawmakers-1643646",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1921832/facebook-scrutiny.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/facebook-doesnt-amplify-hate-supports-safety-legislation-exec-tells-british-lawmakers-1643646?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-doesnt-amplify-hate-supports-safety-legislation-exec-tells-british-lawmakers-1643646?amp=1",
-      "publishedDateTime": "2021-10-28T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -362,7 +353,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -414,7 +405,7 @@
       "originalUrl": "https://www.cfr.org/blog/us-leadership-artificial-intelligence-still-possible",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -509,7 +500,7 @@
       "originalUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1085,7 +1076,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/393896",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1172,45 +1163,27 @@
       ]
     },
     {
-      "path": "_news/2021-10-28-google-cloud-microsoft-azure-revenues-drive-strong-growth-to-tech-giants-earnings.md",
-      "title": "Google Cloud, Microsoft Azure revenues drive strong growth to tech giants' earnings",
-      "excerpt": "Microsoft and Google have revealed robust quarterly earnings results, with Azure and Google Cloud leading the way ... the platform's \"leadership in real-time data analytics and AI.\" Google Cloud comprises both Google Cloud Platform (GCP) and Workspace ...",
+      "path": "_news/2021-10-28-4-top-fintech-stocks-to-watch-before-november-2021.md",
+      "title": "4 Top Fintech Stocks To Watch Before November 2021",
+      "excerpt": "Hot Fintech Stocks For Your Watchlist Right Now. As the world continues to evolve with technology, fintech stocks continue to draw traction among investors in the stock market.",
       "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
-      "originalUrl": "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
+      "webUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27",
+      "originalUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 74,
       "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-27-image-21.jpg",
-          "width": 1600,
-          "height": 911,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
-      "publishedDateTime": "2021-10-27T13:57:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27?amp",
+      "publishedDateTime": "2021-10-27T14:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1219,7 +1192,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Finance",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototy
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://en.mogaznews.com/temp/resized/medium_2021-10-26-3b666c2fc5.jpg"
         width: 700
         height: 450
-        isCached: true
-  - title: "China's ByteDance is Disrupting Facebook"
-    excerpt: "History will show Silicon Valley will have failed because it used algorithms that prioritized profits over people. ByteDance has superior AI to Facebook and a better understanding of young consumers."
-    publishedDateTime: 2021-10-26T13:10:00Z
-    webUrl: "https://www.linkedin.com/pulse/chinas-bytedance-disrupting-facebook-michael-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEGElTUS2N7Rg/article-cover_image-shrink_720_1280/0/1635252474701?e=1640822400&v=beta&t=EPadhTgPpfo3AHvvsQgikfR-025QqsfvVNFz8ODcUS8"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Facebook wants to turbo-charge smart glasses. Researcher wonders if it can do it right"
     excerpt: "A computer security and privacy researcher looks at Facebook's smart-glasses project and found concerns for the recordable world as well as for the recorder."

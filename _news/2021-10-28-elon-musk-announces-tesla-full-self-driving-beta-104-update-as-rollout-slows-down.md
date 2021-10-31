@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-d
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Rolled Back Full Self-Driving Beta Because Of 'Some Issues'"
-    excerpt: "Look, it's beta software, these things happen. It's beta software controlling 4,000 pounds of car on public roads, but come on, don't be a luddite"
-    publishedDateTime: 2021-10-26T13:30:00Z
-    webUrl: "https://jalopnik.com/tesla-rolled-back-full-self-driving-beta-because-of-som-1847932757"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 39
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e88b80f10bc359590fd239f909ca5bb7.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla reverses \"Full self-driving\" beta update after sudden braking reports"
     excerpt: "Driving\" beta update it had sent to some drivers' cars, after reports that a software bug could cause vehicles to emergency brake unexpectedly, or experience phantom forward-collision alerts."
     publishedDateTime: 2021-10-27T12:49:00Z

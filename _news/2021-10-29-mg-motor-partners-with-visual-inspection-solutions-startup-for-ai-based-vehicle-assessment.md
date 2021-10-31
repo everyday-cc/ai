@@ -25,22 +25,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Iguazio Partners with Pure Storage to Operationalize AI for Enterprises Taking a Production-First Approach"
-    excerpt: "\"Most organizations starting out with AI initially focus on research and model development ... Red Hat, Inc., the world's leading provider of open source solutions, today announced Azure Red Hat OpenShift on Microsoft Azure for U.S. Government as a ..."
-    publishedDateTime: 2021-10-26T13:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-20065734.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 21
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-
 secured: "hYZsw57NerNjZ3Hcz2C8bJZlUXNtDhuB6yr/CaV2lPRIjYoyuRK4dQRl3uT3YFYd7T15oEyz86Ar9OVfioLK9rCE1aoXX6bxu0OMOIHuvwtnJNMVnH1K0pqZMYetMId1ud89y5IVlE5rZG/tdBk2V9w3iFs/5ksb81M/CeAd+us+KF0NQ/ycqYJ0DwQ8kBFKjY0hn3A3nrxK5PYIQiv5Vbo3Z1HVB2vvk4+n1Q6oIqn8/4le0LWIWI+ybANcx2gWzrZzh0IbD3nOhPpxsMOvAxASNhB9kJltv+W/DPsruDz+1r1DuT6aLUD/BLtcbU52k5fPjo9P8CVijRvDXdqYfDKtWSDXlk5ew1rTuzkNvr0=;Eaf8ycJLid1DPcyKX0Incw=="
 ---
 

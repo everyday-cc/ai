@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-mit-centre-future-skills-excellenc
 webUrl: "https://www.tmcnet.com/usubmit/-mit-centre-future-skills-excellence-concludes-5-week-/2021/10/30/9481015.htm"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -25,14 +25,21 @@ images:
 
 related:
   - title: "MIT Centre for Future Skills Excellence concludes the 5-Week, Short Term Course on Artificial Intelligence for teachers"
-    excerpt: "Robotics, Cyber Security, Cloud Computing, Blockchain, etc. The short-term course on Artificial Intelligence was inaugurated on Sept. 27, 2021 with insights & blessings from the Top Global ..."
-    publishedDateTime: 2021-10-31T04:55:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20211031/3847578.html"
+    excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE), MIT Art, Design and Technology University concluded its unique 5-week and 2-credit Short-Term Course on Artificial Intelligence in Education"
+    publishedDateTime: 2021-10-31T07:00:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/mit-centre-for-future-skills-excellence-concludes-the-5-week-short-term-course-on-artificial-intelligence-for-teachers-121103100322_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/mit-centre-for-future-skills-excellence-concludes-the-5-week-short-term-course-on-artificial-intelligence-for-teachers-121103100322_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mit-centre-for-future-skills-excellence-concludes-the-5-week-short-term-course-on-artificial-intelligence-for-teachers-121103100322_1.html"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
+      name: Business Standard
+      domain: business-standard.com
+    quality: 33
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/31/full/20211031100052.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "8majaKHvUKNW1jKiaCQDXleKzhfU/DP0xN5cQIfnHhjmnHh7ykifJHoaB8xrv/TNvddaspivjsGv8wRM7qEC4GoQtwZE4qvWFqGhYnAmbvUJAhR4jAyeCx0XNjTJ40hjvUflPDFNrYifdi9CtOISZAAMFiCgeNc5C3tf08+Bsh0lFMaOxzxvGKXrj15U9MGyQyLvjyGL6KaC8BDmRXdiy62vzwIlk/xmtlwkp4iz7WAxj6AwGuAD7REJX88+A9Qj1et5gxDuFbb1b2FjwA2V/gOAK0XaxOhAY7y8S7sY3k00VQ8eir23/2xo12l6ajHO4POj1nnpQIyETZDNK0nvDkMisrBPqq87kHc5WL4GIvnCzfgfpzRk9aNGb+sjWg7Ay/jgRm4HvNey96njyMobDy/ETOvBWeSTLhVoHL0iEyUjb8HvKNYxyANi8YPx11dDf5zYsQLYtw6laJT1oaf/Ue3f/ZYVX2IHzH32K1GRVu7c9kdE+2zW7c8mhFthkFe6NET1/W7vVCb9EejLsKwGOw==;E05F5R3BZ8aG/P5fDqEkMg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cfr.org/blog/us-leadership-artificial-intelligence-still
 cdnAmpWebUrl: "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/us-leadership-artificial-intelligence-still-possible?amp"
 type: article
 quality: 157
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Pentagon AI Chief Responds to USAF Software Leader Who Quit in Frustration"
-    excerpt: "Weeks after the Air Force’s first chief software officer resigned in frustration, a top military official says Nicholas Chaillan was wrong to assert that China is gaining advantage while the Pentagon moves too slowly to develop software."
-    publishedDateTime: 2021-10-26T14:57:00Z
-    webUrl: "https://www.govexec.com/defense/2021/10/pentagon-ai-chief-responds-usaf-software-leader-who-quit-frustration/186374/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 35
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2021/10/26/6434735_1-1/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "/H97ogDs0rDSE8TM6TTxVwdwmKiXHaoF1QjP6MFuI2CCs/LsR6138z2NRzOJ9kHPxKCOTU7rDriZjpuwRxlfmeL/1tyLToZFKWjBwYcTSUaDtOZeIvD6GZthKPadRvoTvCbK5txakAFTX4bYwmZGgnhwxjFv9fiQ3hU1t4fwfynofs+osWvYoSPn106PPpJ6j4Ar8oLrtrbwFZyqGdqf3xADtjDnnQhJ8DacC5GW2MKeIWZfAlswFdz1INKLUO92QE1E4OFuPhObFQoPqtNiycGpC+kofgZJ1Td04lkGnLEz3gjIDe/sWQQ8T/tayRy2Vmg1nKqjLj/2p2X8yvwTz4BJUhzX5MyULQXkM+V+wQJn3By9tPfjkPIa2kBfXAWODMrvY/s6nLTN4Ic28wZxn1zyYDS35EBsdYS1oR8ExHGfC8AJjWR+qWVN+O9pnD+N9OduxNDodV9NJiZqVD/4KYIWYZ3e8T7+iKwKTvapsh9ZACYAK0wtLmw7+Ojo/WLEbXIe+UfYk7lYMQ7TP19WiVRUzftj/2L+CpmwSAzd9LQ=;MI/NrAWYDthkR1fKHUbAug=="
 ---

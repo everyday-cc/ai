@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/fintech-new-world-opportunities-dan
 webUrl: "https://www.linkedin.com/pulse/fintech-new-world-opportunities-danger-chin-lai-the"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,36 @@ images:
     width: 427
     height: 240
     isCached: true
+
+related:
+  - title: "Keeping An “AI” On Fintech: AI-Based Use Cases Poised To Take Financial Services To The Next Level"
+    excerpt: "What AI and ML use cases are applicable to fintech? Financial services have their own set of common AI and ML use cases. These include, but are not limited to cost reduction, process automation, spend reconciliation,"
+    publishedDateTime: 2021-10-26T19:33:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2021/10/26/keeping-an-ai-on-fintech-ai-based-use-cases-poised-to-take-financial-services-to-the-next-level/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 55
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6178577f1114e88d79887539%2F0x0.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "China's JD.com tries to take finance out of its fintech arm"
+    excerpt: "While Nasdaq-listed JD.com has long been widely seen as one of China's top online retailers, the growth path of its fintech arm has been anything but consistent. Even its name has changed several times."
+    publishedDateTime: 2021-10-30T04:13:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/Caixin/China-s-JD.com-tries-to-take-finance-out-of-its-fintech-arm"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F1%252F4%252F0%252F37130414-3-eng-GB%252FCropped-1635481733AP_21236792916874.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "bDJNl+0ORZJyp4R6spfCtrmsKojiZWPsuD+P2q0aR1e+LtZeCHv6U9qXqmXefv+zeQ52DDxwUOyDmmT7RJ7l5HOcndlHe6r7n2TYzTyHI+60QllkHa3pc5R2bj71lUfW+PyNcGXsSD1Xb4ZQd8JfEwBrckHSQZA8cjBFaXAfVGOt88HksdRbLrULfudXGCZiQ/N3a4CAfghaHcFUW/xk5QTPXGLC92dFiX9rBbFTWqgpXHQb+jUdE0auqrHReNDNGddw9VoqZnIcD/au4OreWaMm5eNwCbvum8Wo5plNqNq0F53lOcmif4Aw11+k7yxDcl6t/jYIoi/urf/j4pT4rMWD7SRdz7XwR0ebeBWGjawNw0YWm0QAcdBIotp9c3vvZNKhNpQCpjnlP0J2odnwDq3P+jIcxQpW5bKQuQUjdygBFP2GfI7HDXW0nd3RYuO9FAHw2AQ0LH40RxMJQ0HtiV1nHT+inGwd1jPRBOd/DjiTC0HoG/RoHvNvLQJBI3fBEPJvkvHrZEZqhI2AQ82SuQ==;UxQIH8l3CYiMw61UgaOaFA=="
 ---

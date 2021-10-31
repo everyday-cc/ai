@@ -41,22 +41,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Council suspends facial recognition software scheme in school canteens that scanned pupils faces as they bought lunch over privacy concerns"
-    excerpt: "Nine schools in North Ayrshire in Scotland became the first in the UK to start using the system on a long-term basis last week after a pilot project in Gateshead last year."
-    publishedDateTime: 2021-10-26T14:44:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10132529/Council-suspends-facial-recognition-software-scheme-school-canteens.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10132529/amp/Council-suspends-facial-recognition-software-scheme-school-canteens.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10132529/amp/Council-suspends-facial-recognition-software-scheme-school-canteens.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 25
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/10/26/15/49659575-0-image-a-335_1635258544801.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "aA4llqvq4dUJG97oBMbeUWZ/H2oo+fB8wr0WWeqBTz/wIzkV9EgoRrd8TprReXSUCr6TQmIw5biuTLOYknUAI7dDEglq6azw6J0Yi93bIxlLoCEHoJW4w8IfOkOWT0YN2gY3RzJdGrIXapPS/hzkfnln3Sp4F05Pm0sF+z1vqVtiFy9ZsfP/IZd3v+BdSBZTfw3SRrDhuFa/HCR4i2X+TTyOA41+AQPaqRiUuKB0/uE2efCGnUd3VRpZ40/J/nWhH2Kv9H/5gakRoP3mXaA378q4qifzip7OllfbppOc95op8PlZVObz+pdca6ToXuNg1KvceQNioo4JFqyN9EoFHNujYNEvhBeL/45dg5cAprTzLOC1VoXF5PnXxNAym5F43M0WFBHCWXeLZ8Xk/o78hqjwylzsyPGM3SLWBK7nFILxW8dm5K/R4mlNVW0LYEiDpU71lGTsWlcUvOuYzYekv3VQQPk1dGdNT7ey2yf1fNwaujwm+j0jG7YFugF2IyHyVUfBBNOO93eYzveNOV2K4g==;n45cINmou77Z6nE8deK1Xw=="
 ---

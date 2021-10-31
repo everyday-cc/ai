@@ -7,7 +7,7 @@ originalUrl: "https://chipdesignmag.com/artificial-intelligence-ai-software-mark
 webUrl: "https://chipdesignmag.com/artificial-intelligence-ai-software-market-giants-spending-is-going-to-boom-with-datadog-manageengine-growithis-ai-field-management-acobot/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 425
     isCached: true
-
-related:
-  - title: "Artificial Intelligence (AI) in Education Market is Going to Boom with Knewton, Metacog, Blackboard"
-    excerpt: "Global Artificial Intelligence (AI) in Education Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact"
-    publishedDateTime: 2021-10-26T14:44:00Z
-    webUrl: "https://menafn.com/1103049383/Artificial-Intelligence-AI-in-Education-Market-is-Going-to-Boom-with-Knewton-Metacog-Blackboard"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 55
-    images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "Z1N4wN1siDZfxm87uXBcBneoT+s81P3wFr2H7LHvQPGUD+thVSuX8pmf4NLL/sW0bPULmXCI5XyN0sQt4CiyzlQoy7dTqQdNhkkud2gzklsEDk/519H8B/nAbo9FBcpB4GpiVRXVr0AUf0EO95/IUHgagVeZm8d2re0XYwk8JhLOgPnx9fKPSUlvzM8eWcwRhuJ5hQPygac8zeXcizbxyvQXSIqE810YTtwZ+wYYttwGlesTc3LDs7cdvHgWDskmpCM8O/y9gTxBwTKfPz5YxCEsUKEDKFKFKm8xNOPU/1cyF/GaaJPe+FGyalEp6iE0/H4O9kr3XMOXYnJ6+RN3e03Ezl2dOYhBxPQw4OX9xzNw8NOq8X0+8VNNURxrv6JT4UT3q++V3iwtkaJ5E/V4mTeO1ZrPKTBb5iibGnByz741wxZ/6yDGX/xiDgZTATbOIhvf1XGivPVbpydnaN/dzuBviitPttCud7KJjscGsNhJ0sKjQrTFTdu+2g6HiknUs9AfI465x7xp67OKbWhlow==;t7LwYlPWbEtQKGh/evb/kg=="
 ---

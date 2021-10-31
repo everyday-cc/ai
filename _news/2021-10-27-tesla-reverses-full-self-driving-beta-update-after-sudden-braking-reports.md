@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Rolled Back Full Self-Driving Beta Because Of 'Some Issues'"
-    excerpt: "Look, it's beta software, these things happen. It's beta software controlling 4,000 pounds of car on public roads, but come on, don't be a luddite"
-    publishedDateTime: 2021-10-26T13:30:00Z
-    webUrl: "https://jalopnik.com/tesla-rolled-back-full-self-driving-beta-because-of-som-1847932757"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 39
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e88b80f10bc359590fd239f909ca5bb7.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "GIIhyvcGM8CYJEzLH8pDo8v6Q2I7Fi1KMaHruSx7jHRSiaSEC1a/SXfUgDuxkiRRfUV9piY1y0vkFByObTwwFkxMH0nmHI+XBJ5OPfVMYNznyinc4megXOfeOULT5S5Z29B4qCX06TElRs0D3GT2u8Larxd4xH2Ek0xgfjX7eRHqfI3JqXYJNjLtUE1oRTlVhdafNB5PqZpGGNd1zbhFfme3YGy3oJmOph5DCH2IUo+CbtZmnkq0LfaAZZCUbO8kJxwaDlBzSegl5YAD+/AG6ufpmE0LqilY8pvg/LLeKozeRg6nOtJElkjvOHQI+AoeCE9s3QHvx7iqB8bHxjERimcCSAqxClJmluHDPNNYfHhAEFZUpF4pzfSh5qz6i19XK/Z+9b6BJtQ7uRD+RjnCQXaE5KPkypg8bMe9t00q0BOq0xS44qBgT0RdPn4vyd2fRrwwov8e4l+IZ7/e4Z7IxeMB2a7oSa4Lzv1DW8vDBhcNAdJB6sf0oJsXvWNeih15XBtwymva/BAN14ZK4fy3Jw==;c2w5UQGDljIP2C1flvriKg=="
 ---
