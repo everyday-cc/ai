@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-arti
 webUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27"
 type: article
 quality: 66
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,43 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Companies in Image Recognition Market Industry 2021 By Fortune Business insights"
-    excerpt: "The globalImage Recognition Marketis expected to rise with an impressive CAGR and generate the highest revenue by"
-    publishedDateTime: 2021-10-27T11:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-image-recognition-market-industry-2021-by-fortune-business-insights-2021-10-27"
+  - title: "Advancing AI Revenue Growth Insights In The Transportation And Logistics Industry - Industry Series: Blog #4"
+    excerpt: "This is the 4th blog in an AI Transportation and Logistics Industry series, which looks at revenue growth and optimization use cases & highlights innovation developments in leading giants like: FedEx,"
+    publishedDateTime: 2021-10-31T14:58:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industryindustry-series-blog-4/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industryindustry-series-blog-4/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industryindustry-series-blog-4/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ead445f8f04e43defb687%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 632
         isCached: true
-  - title: "Machine Learning Market 2021: Industry Size, Share, Revenue, Business Growth, Demand and Applications Market Research Report to 2026"
-    excerpt: "Machine Learning Market” provides a comprehensive analysis of the market. The analysis includes market by segments"
-    publishedDateTime: 2021-10-28T09:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-industry-size-share-revenue-business-growth-demand-and-applications-market-research-report-to-2026-2021-10-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning (ML) Intelligent Process Automation Market Business Intelligence Report and Strategic Insights By 2028"
-    excerpt: "Others have been further segmented into human resource management, incident resolution, and service orchestration. Machine learning (ML) intelligent process automation has also been segmented on the basis of vertical into banking, financial services ..."
-    publishedDateTime: 2021-10-29T20:48:00Z
-    webUrl: "https://chipdesignmag.com/global-machine-learning-ml-intelligent-process-automation-market-business-intelligence-report-and-strategic-insights-by-2028/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 8
 
 secured: "nIxVnC5R4WpSMb0qjxj2dNdMiKbJbbyqgL0Fhmn1ouh7J3uc3KFhwS3PfrR0SU+OzNF5D5gjpWuebvUv7W6ITWGGdxYv3u+7+Z7jZPrplOpFkKqfD5OU4MYm6vqTogX6nKcxF6DNw/UhLbfI+lsTPOKd8iHwYZheqsZAj2HS9MtZIEmEOpyYJWQMChk3lGLVx5nuG9b5U2/kovithQ6crcesEEy2/NKJV1oE9+dXOkVtkFyZtAPzvE60Lw49DeSmKc94/rcUZt4DQcGDxXSys78hQlfwWLfNd2uo7ljhGxfB22AIamcuWq5uO4OQJopT4dl0LjcRSOVMy5CJzGWXlq1TPzJBWNUmIwZIk8nVHiE=;OgpekCuvsK5JFeJGTwFIzA=="
 ---

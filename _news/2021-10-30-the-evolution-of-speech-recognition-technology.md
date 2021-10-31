@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/sg/amp/news/the-evolution-of-speech-recogn
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology"
 type: article
 quality: 89
-heat: 149
+heat: 150
 published: true
 
 provider:

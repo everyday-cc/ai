@@ -2,6 +2,245 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-29-the-verbit-model-for-the-future-of-work-with-ai.md",
+      "title": "The Verbit Model For The Future Of Work With AI",
+      "excerpt": "Verbit is a very successful startup. The 4-year-old developer of an AI-powered transcription and captioning platform has reached unicorn status in June, raising $157 million at a valuation of over $1 billion, for a total of $319 million raised to date.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617bff85b283ba2bfd0cb124%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1843%26cropY1%3D0%26cropY2%3D1036",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/amp/",
+      "publishedDateTime": "2021-10-29T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-democratizing-ai-to-transform-your-business-in-an-unpredictable-future.md",
+      "title": "Democratizing AI To Transform Your Business In An Unpredictable Future",
+      "excerpt": "AI is no longer just a tool for data scientists ... enhancing overall enterprise operations. Business users can start leveraging AutoAI models in minutes, providing advanced predictive power for a broad range of staff, not just data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ab08b6fd5210c145ece8a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/",
+      "publishedDateTime": "2021-10-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities.md",
+      "title": "Microsoft acquires Two Hat to collaborate on online safety and digital wellness solutions for online communities",
+      "excerpt": "Today, we are excited to announce that Microsoft has acquired Two Hat, a leading content moderation solution provider offering protection measures for online communities with a vision to build better experiences for everyone.",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/",
+      "originalUrl": "https://www.msn.com/en-us/money/smallbusiness/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/ar-AAQ68e3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/10/Project-Fresh-Hero-Image-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T06:00:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/",
+        "domain": "microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-voice-tech-coming-soon-to-a-classroom-near-you.md",
+      "title": "Voice Tech: Coming Soon To A Classroom Near You",
+      "excerpt": "Education publishing multinational Scholastic worked on its own speech recognition software in the late 1990s, but abandoned the project in the face of technical problems. But advances in artificial intelligence and machine learning mean it is a technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/",
+      "originalUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617b19822609716213144981%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/amp/",
+      "publishedDateTime": "2021-10-29T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-ai-powered-chatbots-how-the-pandemic-fueled-innovation.md",
+      "title": "AI-Powered Chatbots: How the Pandemic Fueled Innovation",
+      "excerpt": "When talking about personal health, businesses need to tread lightly and with sensitivity, which conversational AI achieves. Employee health also needed to be tracked every day, in case anyone was to start displaying COVID-19 related symptoms. With the ...",
+      "sourceUrl": null,
+      "webUrl": "https://retailtouchpoints.com/topics/customer-experience/ai-powered-chatbots-how-the-pandemic-fueled-innovation",
+      "originalUrl": "https://retailtouchpoints.com/topics/customer-experience/ai-powered-chatbots-how-the-pandemic-fueled-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2021/10/Copy-of-RTP-ViewPoints-Image-Template-32.jpg",
+          "width": 1680,
+          "height": 945,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://retailtouchpoints.com/topics/customer-experience/ai-powered-chatbots-how-the-pandemic-fueled-innovation/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/customer-experience/ai-powered-chatbots-how-the-pandemic-fueled-innovation/amp",
+      "publishedDateTime": "2021-10-29T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-luxsecurity-luxembourg-sa-and-smp-robotics-collaborate-on-security-robots-deployment-in-luxembourg-and-the-eu.md",
       "title": "Luxsecurity Luxembourg SA and SMP Robotics collaborate on security robots deployment in Luxembourg and the EU",
       "excerpt": "They will be able to control the work of robots, located in different protected areas ... With video analytics, how would this scenario play out? It’s pretty mind-blowing. As soon as security is alerted, they can work with the video analytics tools ...",
@@ -891,21 +1130,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-28-artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-1783-billion-by-2027.md",
-      "title": "Artificial Intelligence in the Education Sector Market Size Forecasted to be Worth USD 17.83 Billion by 2027",
-      "excerpt": "The global artificial intelligence in the education sector market is expected to be valued at USD 17.83 billion by 2027 from USD 1.08 Billion in 2019, registering a CAGR of 43.8% through the forecast period,",
+      "path": "_news/2021-10-28-aws-releases-amazon-ec2-dl1-instances-that-train-machine-learning-models.md",
+      "title": "AWS Releases Amazon EC2 DL1 Instances that Train Machine Learning Models",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, is releasing Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models. DL1 instances are powered by Gaudi accelerators from Habana Labs (an Intel company) to provide up to 40% better price performance for training machine learning models than the latest GPU-powered Amazon EC2 instances,",
       "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/",
+      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx",
+      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 100,
       "tags": null,
       "images": [
         {
-          "url": "https://techbullion.com/wp-content/uploads/2021/10/Artificial-Intelligence-in-the-Education.png",
-          "width": 2646,
-          "height": 1512,
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -913,13 +1152,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/amp/",
-      "publishedDateTime": "2021-10-28T06:29:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T06:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
+        "name": "dbta.com",
+        "domain": "dbta.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -929,8 +1168,9 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI",
-        "AI in Education"
+        "AWS AI"
       ]
     },
     {
@@ -966,236 +1206,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-slashnext-which-uses-ai-to-combat-phishing-raises-26m.md",
-      "title": "SlashNext, which uses AI to combat phishing, raises $26M",
-      "excerpt": "“Our technology has logged more than 2.5 million [phishing] threats hiding in legitimate infrastructures like Amazon Web Services, Outlook, Sharepoint, and Microsoft Azure. [SlashNext’s AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
-      "originalUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/fly-d-9PivUW7l1m4-unsplash-e1631050913938.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
-      "publishedDateTime": "2021-10-28T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-artificial-intelligence-is-now-part-of-us-air-forces-kill-chain.md",
-      "title": "Artificial Intelligence Is Now Part Of U.S. Air Force’s ‘Kill Chain’",
-      "excerpt": "The U.S.A.F. revealed recently that it had used artificial intelligence to aid targeting decisions for the first time. It turns out that this was not simply an experimental one-off use to test the technology: AI is embedded in the Air Force’s targeting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617a9d30b0511aeedee7de16%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/amp/",
-      "publishedDateTime": "2021-10-28T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-artificial-intelligence-in-supply-chain-market-2021-detailed-report.md",
-      "title": "Artificial Intelligence in Supply Chain Market 2021 | Detailed Report",
-      "excerpt": "Global Artificial Intelligence in Supply Chain Market 2021-2027, has been prepared based on an in-depth market analysis with inputs from industry experts. The report covers the market landscape and its growth prospects in the coming years. The report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed",
-      "originalUrl": "https://www.openpr.com/news/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed",
-      "publishedDateTime": "2021-10-28T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-legaltech-startup-vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives.md",
-      "title": "Legaltech Startup Vakilsearch Raises $10 Mn To Accelerate Its AI And ML Initiatives",
-      "excerpt": "“With this investment, we will leverage the strengths of Vakilsearch and accelerate our Artificial Intelligence (AI) and Machine ... India CEO Manish Modi. The startup had raised $2 Mn from ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/",
-      "originalUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2021/10/vakilsearch-featured.jpg",
-          "width": 1360,
-          "height": 1020,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/amp/",
-      "publishedDateTime": "2021-10-28T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-healthtech-startup-ziniai-raises-pre-series-a-funding-from-solarus-group.md",
-      "title": "Healthtech Startup Zini.ai Raises Pre-Series A Funding From Solarus Group",
-      "excerpt": "Zini.ai, an AI-powered multilingual virtual physician ... from patients to healthcare professionals. We believe that the startup is solving a large unmet need in the market and it has the potential to become a defining brand in the category it operates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/393896",
-      "originalUrl": "https://www.entrepreneur.com/article/393896",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1635407197-DrRohitSharma-CEOandFounder-Grainpad-Ziniv1.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

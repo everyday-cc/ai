@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-middle-east-amazoncom-inc-7cd4f96c07344e0eb23982e2a82378c7"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models."
-    publishedDateTime: 2021-10-30T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/10/30/aws-announces-general-availability-of-amazon-ec2-dl1-instances/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 34
 
 secured: "vSyTY2AzfaS7BFPtnU0iKaFUYVFNjcxKv1Il0LRz8t4MaOQj6T7Mn8KTwqyWor8V8YMlLw7js7Momh3/s4wjSGJhgRz38J/hpi1cGW9NP/A1HIZZDvaaISxydSbIXuMP6TXgoeu/F+YdlxnOjmMHEJIi+xNXZpJ1TuBZUx0Jo1Lg9IKx6vDBxByLtQ73zW/FzwwAcmeh5ZYwR6iqdZPO1QOhhEjVbljqVjwJzpg5EseOCEN6JQmJ27t5XzyZKK5K454sDckgoBSS125rhaRddAvMtU57bsJ4zE+ptTqneLxBjwSrYbcEiyAhTUAFhRIlKyFuRQ21ksC92qlQC50TZKfs84f9jESAtc2dbrcG8ls=;2JLvBQeIz3ed5k5n7PSeUQ=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Extend model lineage to include ML features using Amazon SageMaker Feature Store"
-    excerpt: "Feature engineering is expensive and time-consuming, which may lead you to adopt a feature store for managing features across teams and models. Unfortunately, machine learning (ML) lineage solutions have yet to adapt to this new concept of feature management. To achieve the full benefits of a feature"
-    publishedDateTime: 2021-10-26T21:11:12Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/21/ML-6028-image001.png"
-        width: 861
-        height: 464
-        isCached: true
   - title: "How iProperty.com.my accelerates property-based ML model delivery with Amazon SageMaker"
     excerpt: "This post was created in collaboration with Mohammed Alauddin, Data Engineering and Data Science Regional Manager, and Kamal Hossain, Lead Data Scientist at iProperty.com.my, now part of PropertyGuru Group. iProperty.com.my is the market-leading property portal in Malaysia and is now part of the PropertyGuru"
     publishedDateTime: 2021-10-27T22:58:02Z
@@ -94,20 +80,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/24/ML3071-image001-1260x559.png"
         width: 1260
         height: 559
-        isCached: true
-  - title: "Review Jamb: SageMaker- The legend of Jay Casteel"
-    excerpt: "Jay Casteel is a man of steel. He's a friend for real. He's a Sagemaker. He's a dream taker. He's a dream shaker. He's a man. Last but certainly not least, he's our fearless leader."
-    publishedDateTime: 2021-10-27T20:43:00Z
-    webUrl: "https://www.amazon.co.uk/Review-Jamb-SageMaker-legend-Casteel/dp/B09GTGVV63"
-    type: article
-    provider:
-      name: Amazon Associates UK
-      domain: amazon.co.uk
-    quality: 39
-    images:
-      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
-        width: 350
-        height: 450
         isCached: true
 
 secured: "I+xCay4mixnssbcptpcd7Eyb0kUS2j2g0DRyUhhKXrIcDJdtvhx1H6vyj8SEF6jOX/C4rpdsLfzJNnXi8Rmmb3kiHUi8eENvneJ0Wqsmq2ibdfmAV5FgYGkBRYdjm3HZMPI1drx/yKIlBLgQ/kb8Z8KSw5s0hOrgXGKp2WGZ1BrZohBqu6STZXLEFLVnwksBUdDCbCvM1JhG4rdD8UMvf9vC5QgGMcVJ0FrIWI6kkglLAQTauKEN74Xz7jlUN1l1yXyT08Afx5t3EwsYZvuJTONRHTwJrLu/IQyVNdtmZ2+mVVai+LQ+tx3Fy4WDX4kKr7Zf40viEU/uDxvr1fQbCNiPKuIWMruVcweI8D5fCC52bLhh2XpXcJH1etPeh5Pbgp8B6f1QiqSvWj4HYNCLVfQokXQ1Du84ivmrzgQ+IdnuRMqkdGuMRPF5mc0cpylu5TqKi0Do6lPp3W5l+bxZ73kLYJXiY/BC02oa6EfppZMgmqTCDijlgVvMzAr41tCTvgo2sgZkEeh4+EGon4aO2g==;fBciWQA6KvWoWi7z80gPPA=="

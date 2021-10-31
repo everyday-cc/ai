@@ -75,6 +75,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tech Time: Delta Air Lines launches new facial recognition software"
+    excerpt: "To streamline the check-in process at the airport, Delta Air Lines is introducing new facial recognition technology to airport security."
+    publishedDateTime: 2021-10-31T15:21:00Z
+    webUrl: "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/"
+    ampWebUrl: "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 74
+    images:
+      - url: "https://d1vhqlrjc8h82r.cloudfront.net/10-31-2021/t_36a7d442f26b4d2085ef3805536c4fcc_name_image.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Delta launching facial recognition tech trial at Atlanta airport"
     excerpt: "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate."
     publishedDateTime: 2021-10-27T12:31:00Z

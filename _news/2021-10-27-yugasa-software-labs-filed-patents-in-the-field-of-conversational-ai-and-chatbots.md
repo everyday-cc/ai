@@ -40,6 +40,22 @@ related:
         width: 1680
         height: 945
         isCached: true
+  - title: "AI & Rule-Based Chatbots: What’s Your Business Choice?"
+    excerpt: "The digital age has led to high customer expectations. From eCommerce, healthcare, marketing, or finance, instant communication is essential"
+    publishedDateTime: 2021-10-31T14:00:00Z
+    webUrl: "https://www.business2community.com/marketing-automation/ai-rule-based-chatbots-whats-your-business-choice-02438685"
+    ampWebUrl: "https://www.business2community.com/marketing-automation/ai-rule-based-chatbots-whats-your-business-choice-02438685/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing-automation/ai-rule-based-chatbots-whats-your-business-choice-02438685/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/10/benefits-of-chatbots-for-businesses-776%D1%85517-900x600.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "sFDx3TNWgCNJEFiag9F9kR/evr2g2h2/bx1kX6EUT96f4Anz/IkQF4Kf+X1hQzlI+v5AAaylb0g5XqBvdUV8ezcSiHtwIsX40XoqG4HKBnmZ02W+QVcd9oWmSyVdYt6L16dMywUb3NAMtOT/8xbxgOWLFpWOhg8ONmwXEYupo1B0IR25G2y6w5cZm6YkRItET7AgxzvfLBtdYShuczxAbE+sr33O5n0IOpqFgnSGLH+JxVmqvpYYopu5X/Aq+SWPDxBNteLYK0qJaWZ2kJDef7ellwAcp1SQbxyfkum3fUROEq5jw30Xzv5pz3CX4a88MOQUDbyF5YPSeRoI2fKUvj4uJnjUEyXb37e47BO4k3I=;2SBhvGO6hqNY0NbKry9i2g=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://retailtouchpoints.com/topics/customer-experience/ai-powered-
 cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/customer-experience/ai-powered-chatbots-how-the-pandemic-fueled-innovation/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Retail TouchPoints
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI & Rule-Based Chatbots: What’s Your Business Choice?"
+    excerpt: "The digital age has led to high customer expectations. From eCommerce, healthcare, marketing, or finance, instant communication is essential"
+    publishedDateTime: 2021-10-31T14:00:00Z
+    webUrl: "https://www.business2community.com/marketing-automation/ai-rule-based-chatbots-whats-your-business-choice-02438685"
+    ampWebUrl: "https://www.business2community.com/marketing-automation/ai-rule-based-chatbots-whats-your-business-choice-02438685/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing-automation/ai-rule-based-chatbots-whats-your-business-choice-02438685/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/10/benefits-of-chatbots-for-businesses-776%D1%85517-900x600.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Yugasa Software Labs filed patents in the field of Conversational AI and Chatbots"
     excerpt: "Yugasa Software Labs is a renowned software development firm that offers a range of customised AI, IoT, and Mobility solutions."
     publishedDateTime: 2021-10-27T07:31:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: dbta.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon launches AWS instances powered by Habana’s AI accelerator chip"
-    excerpt: "Amazon has launched new AWS instances powered by Habana's Gaudi, a chip that accelerates the training of AI models."
-    publishedDateTime: 2021-10-26T22:00:00Z
-    webUrl: "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/"
-    ampWebUrl: "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 123
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
     excerpt: "AWS announces availability of Amazon EC2 DL1 instances featuring Gaudi accelerators from Habana Labs for training machine learning models"
     publishedDateTime: 2021-10-27T00:25:00Z
@@ -50,6 +34,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 34
+  - title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models."
+    publishedDateTime: 2021-10-30T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/10/30/aws-announces-general-availability-of-amazon-ec2-dl1-instances/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
     quality: 34
   - title: "AWS Announces GA of Habana Labs-powered EC2 DL1 Instances"
     excerpt: "AWS has announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances designed for training machine learning models and powered by Gaudi accelerators from Habana Labs (an Intel company)."

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intuit Accelerator Combines Fintech For Good With AI"
+    excerpt: "Fintech for good startup Bankuish is one of seven early-stage companies in the Intuit Prosperity Accelerator: AI. The five-month program is for fledgling fintech companies that target consumers and small businesses in North America and want to use AI to build better platforms."
+    publishedDateTime: 2021-10-31T15:16:00Z
+    webUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617eab2488106dd6e6ec75db%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "4 Top Fintech Stocks To Watch Before November 2021"
     excerpt: "Hot Fintech Stocks For Your Watchlist Right Now. As the world continues to evolve with technology, fintech stocks continue to draw traction among investors in the stock market."
     publishedDateTime: 2021-10-27T21:00:00Z
@@ -36,6 +52,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Australian fintech Completes Major US Acquisition"
+    excerpt: "Melbourne based Remitter acquires US-based Mercantile Adjustment Bureau following successful USD 12m cap raise -  Expands headcount to over 180 staff - Future global acquisitions"
+    publishedDateTime: 2021-10-29T08:00:00Z
+    webUrl: "https://www.asiaone.com/business/australian-fintech-completes-major-us-acquisition"
+    ampWebUrl: "https://www.asiaone.com/business/australian-fintech-completes-major-us-acquisition?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/australian-fintech-completes-major-us-acquisition?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 44
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2021/pr-newswire_500_4_1558.jpg?itok=942fFmJj"
+        width: 763
+        height: 509
+        isCached: true
   - title: "China's JD.com tries to take finance out of its fintech arm"
     excerpt: "While Nasdaq-listed JD.com has long been widely seen as one of China's top online retailers, the growth path of its fintech arm has been anything but consistent. Even its name has changed several times."
     publishedDateTime: 2021-10-30T04:13:00Z
@@ -50,19 +82,47 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Face to Face adjusts its November event"
-    excerpt: "Former Secretary of Defense Chuck Hagel will join former Secretary of State Madeleine Albright on Nov. 9 at 7:30 p.m. in the Lawrence Joel Memorial Coliseum for a discussion hosted by the Face to Face speaker forum."
-    publishedDateTime: 2021-10-28T19:42:00Z
-    webUrl: "https://wfuogb.com/14092/uncategorized/face-to-face-adjusts-its-november-event/"
+  - title: "Revolutionary Ways Fintech is Boosting the Property Industry"
+    excerpt: "Discover the most disruptive ways fintech expands the property sector, from digital-only lending and fractional ownership, to property-backed stablecoins"
+    publishedDateTime: 2021-10-29T09:10:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/revolutionary-ways-fintech-boosting-property-industry"
     type: article
     provider:
-      name: Old Gold & Black
-      domain: wfuogb.com
+      name: fintechmagazine
+      domain: fintechmagazine.com
     quality: 24
     images:
-      - url: "https://wfuogb.com/wp-content/uploads/2021/10/F2F-Digital-Assets_Twitter-Cover-1500x500-1-900x300.jpeg"
-        width: 900
-        height: 300
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/property-ladder-made-of-wooden-toy-houses.jpg.png?itok=veSXrwG0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fintech challenges | Balance history"
+    excerpt: "Balance history. The challenge in this project asks to solve a common problem in the banking sector: calculating the daily balances of a bank account from a k"
+    publishedDateTime: 2021-10-31T14:08:00Z
+    webUrl: "https://github.com/gbagolin/faireai-fintech-challenge"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 24
+    images:
+      - url: "https://opengraph.githubassets.com/fcbb02ef49b09b1c09f13e2b3cd22a3b0fb4f8b46b3566987d96cb7fda7e3d24/gbagolin/faireai-fintech-challenge"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Spiceware selected as the Finalist of the UK Ministry of International Trade's Global Fintech Competition"
+    excerpt: "The UK's Ministry of International Trade runs a Global Entrepreneur Program (GEP) for innovative technology companies wishing to enter the UK. In conjunction with the program, the annual Global Fintech Competition awards competitive global Fintech companies with innovative solutions such as AI technology,"
+    publishedDateTime: 2021-10-29T13:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/29/9480653.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
+    images:
+      - url: "https://mma.prnewswire.com/media/1673453/image_819222_7352417.jpg"
+        width: 566
+        height: 400
         isCached: true
 
 secured: "8GRmUAx+b1sPGuD+TmanzfH+PpT6//w+VoONcwNOpF9x91CSvYC+DFLTYziZblhLdUxutStKm7SgIEevspRMrK4QltE2wUTi4A40U4NTsli03xsPNfmVTcfxouYrX0iP6AEUQjQ0vNhlgvmWR+Mm+KWBWry9kRGa1S70R3Ak3+ShvZgs/EjlVAQW3q4xxz9hzHxppdBeILmga505kRuWiT2K5h12E7zCjnXoN/zJwG1FCeJyZvqkguvnN5mpKDT4+ji2HzN2NRD2IyfDraJ2oI7cH3ay7N5Awp3UU/m9u0SAMXvnNK2wxCAVAsvZh8vvegWW97ZD+L+Ty1chvpWM1Ly/WiPcq+WaVlQhilDUm2g=;nZzxKHU0Sq5d3S/YI34HPw=="

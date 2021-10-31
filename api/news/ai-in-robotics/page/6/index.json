@@ -2,40 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-09-24-nasdaq-yewno-global-artificial-intelligence-and-big-data-index.md",
-      "title": "Nasdaq Yewno Global Artificial Intelligence and Big Data Index",
-      "excerpt": "The Nasdaq Yewno Global Artificial Intelligence and Big Data Index ... In contrast, less than half of ROBO Global Robotics and Automation Index is based in the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nasdaq-yewno-global-artificial-intelligence-and-big-data-index-2021-09-15",
-      "originalUrl": "https://www.nasdaq.com/articles/nasdaq-yewno-global-artificial-intelligence-and-big-data-index-2021-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nasdaq-yewno-global-artificial-intelligence-and-big-data-index-2021-09-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nasdaq-yewno-global-artificial-intelligence-and-big-data-index-2021-09-15?amp",
-      "publishedDateTime": "2021-09-24T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-24-the-7-biggest-artificial-intelligence-ai-trends-in-2022.md",
       "title": "The 7 Biggest Artificial Intelligence (AI) Trends In 2022",
       "excerpt": "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species.",
@@ -1353,6 +1319,40 @@
       "provider": {
         "name": "Big Think",
         "domain": "bigthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-artificial-intelligence-market-to-grow-at-a-cagr-of-245-by-2030-tmr.md",
+      "title": "Artificial Intelligence Market to grow at a CAGR of ~24.5% by 2030 – TMR",
+      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ~ 29% during the forecast period,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/?amp=1",
+      "publishedDateTime": "2021-09-17T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
         "images": null,
         "publishers": null,
         "authors": null

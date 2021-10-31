@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/"
 type: article
 quality: 98
-heat: -1
-published: false
+heat: 138
+published: true
 
 provider:
   name: AWS
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Extend model lineage to include ML features using Amazon SageMaker Feature Store"
-    excerpt: "Feature engineering is expensive and time-consuming, which may lead you to adopt a feature store for managing features across teams and models. Unfortunately, machine learning (ML) lineage solutions have yet to adapt to this new concept of feature management. To achieve the full benefits of a feature"
-    publishedDateTime: 2021-10-26T21:11:12Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/21/ML-6028-image001.png"
-        width: 861
-        height: 464
-        isCached: true
   - title: "Build Custom SageMaker Project Templates – Best Practices"
     excerpt: "SageMaker Projects give organizations the ability to easily setup and standardize developer environments for data scientists and CI/CD systems for MLOps Engineers. With SageMaker Projects, MLOps engineers or organization admins can define templates which bootstrap the ML Workflow with source version"
     publishedDateTime: 2021-10-27T18:10:24Z
@@ -85,20 +71,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/24/ML3071-image001-1260x559.png"
         width: 1260
         height: 559
-        isCached: true
-  - title: "Review Jamb: SageMaker- The legend of Jay Casteel"
-    excerpt: "Jay Casteel is a man of steel. He's a friend for real. He's a Sagemaker. He's a dream taker. He's a dream shaker. He's a man. Last but certainly not least, he's our fearless leader."
-    publishedDateTime: 2021-10-27T20:43:00Z
-    webUrl: "https://www.amazon.co.uk/Review-Jamb-SageMaker-legend-Casteel/dp/B09GTGVV63"
-    type: article
-    provider:
-      name: Amazon Associates UK
-      domain: amazon.co.uk
-    quality: 39
-    images:
-      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
-        width: 350
-        height: 450
         isCached: true
   - title: "Amazon SageMaker reusable components with SageMaker Projects"
     excerpt: "This solution shows how to deliver reusable and self-contained custom components to Amazon SageMaker environment using AWS Service Catalog, AWS CloudFormation, SageMaker Projects and SageMaker"

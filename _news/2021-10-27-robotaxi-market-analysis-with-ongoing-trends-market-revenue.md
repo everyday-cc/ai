@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing Market Insights by Emerging Trends, Revenue Analysis, Demand Forecast till 2020"
+    excerpt: "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Oct 28, 2021, 04:45 /Comserve / -- Natural Language Processing Market - The advent of Electronic Health Records (EHR) has prioritized the use of ..."
+    publishedDateTime: 2021-10-28T09:40:00Z
+    webUrl: "https://menafn.com/1103062503/Natural-Language-Processing-Market-Insights-by-Emerging-Trends-Revenue-Analysis-Demand-Forecast-till-2020"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?596801"
+        width: 376
+        height: 249
+        isCached: true
   - title: "China's Baidu is Turning Production Vehicles into Robotaxis With its Factory-installed Autonomous Driving System"
     excerpt: "Chinese technology giant Baidu Inc. is developing an entire mobility ecosystem in China around self-driving vehicles as part of its Apollo autonomous driving platform. To support its plans, the company is working with China’s leading automakers to install its autonomous driving hardware during production,"
     publishedDateTime: 2021-10-29T01:44:00Z

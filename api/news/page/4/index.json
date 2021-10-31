@@ -2,21 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-10-27-top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights.md",
-      "title": "Top 10 Companies in Artificial Intelligence in Retail Market Industry 2021 By Fortune Business insights",
-      "excerpt": "The global\"Artificial Intelligence in Retail Market\"is expected to rise with an impressive CAGR and generate the",
+      "path": "_news/2021-10-27-top-indian-robotics-start-ups-that-have-gained-funding-in-2021.md",
+      "title": "Top Indian Robotics Start-ups that have Gained Funding in 2021",
+      "excerpt": "India has been evolving as the biggest start-ups ecosystem. In which robotics start-ups have a great visible space. Let’s know more about the Indian robotics start-ups funding in 2021 in this article.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27",
+      "webUrl": "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/",
+      "originalUrl": "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-Indian-Robotics-Startups-that-have-Gained-Funding-in-2021.jpg",
+          "width": 900,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,100 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T03:55:00-07:00",
+      "publishedDateTime": "2021-10-27T05:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads.md",
+      "title": "Dubai to soon have regulation to pave way for driverless cars on roads",
+      "excerpt": "Dubai: Dubai expects in 2022 to complete the regulation needed to allow self-driving cars on the roads by 2023, a senior official said on Wednesday. Ahmed Hashim Bahrozyan, CEO of the Public Transport Agency of Dubai’s Roads and Transport Authority (RTA) told reporters: “We are quite fast compared to other cities in issuing the regulation [to govern self-driving cars on the roads].",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
+      "originalUrl": "https://gulfnews.com/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2021/10/27/neolix-driverless-delivery-car-rta-2021-challenge-winner-1635335845846_17cc19cb7f4_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
+      "publishedDateTime": "2021-10-27T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-google-tensor-gets-crushed-by-apple-a15-in-machine-learning-despite-being-a-ml-centric-chip.md",
+      "title": "Google Tensor gets crushed by Apple A15 in machine learning despite being a ML-centric chip",
+      "excerpt": "The Google Tensor processor is supposed be all about machine learning but it got crushed by the Apple A15 Bionic in the Geekbench ML app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/10/27/google-tensor-gets-crushed-by-apple-a15-in-machine-learning/",
+      "originalUrl": "https://www.gizmochina.com/2021/10/27/google-tensor-gets-crushed-by-apple-a15-in-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/10/google-tensor-featured.png",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,6 +135,60 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts.md",
+      "title": "Computer vision platform Cogniac nabs $20M to bolster its customer acquisition efforts",
+      "excerpt": "Cogniac, a startup developing computer vision technology primarily for industrial and manufacturing companies, raised $20 million in capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/",
+      "originalUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/amp/",
+      "publishedDateTime": "2021-10-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -285,58 +425,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-27-artificial-intelligence-chipsets-market-size-2021-growth-status-and-forecast-by-2026.md",
-      "title": "Artificial Intelligence Chipsets Market Size 2021| Growth, Status and Forecast by 2026",
-      "excerpt": "Additionally, the development of smarter robots, including control of connected devices and virtual assistants, is likely to boost the product demand in Artificial Intelligence chipsets market. The enterprises are also inclined more toward the ML and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-2021-growth-status-and-forecast-by-2026-2021-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-2021-growth-status-and-forecast-by-2026-2021-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-27-nightly-news-full-broadcast-october-26th.md",
       "title": "Nightly News Full Broadcast (October 26th)",
       "excerpt": "FDA panel recommends Pfizer’s Covid vaccine for kids ages 5 to 11, powerful nor’easter hits East Coast, and how facial recognition will change the way you travel.",
@@ -367,6 +455,58 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-global-ai-in-computer-vision-market-2021-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2027.md",
+      "title": "Global AI In Computer Vision Market 2021 Industry Key Player, Trend and Segmented Data, Demand and Forecast by 2027",
+      "excerpt": "MarketsandResearch.biz has deployed an intelligence report entitled Global AI In Computer Vision Market 2021-2027 that is the complete creation of meticulous primary and secondary research. The report thoroughly covers analyzed insights in view of the market along with its ever-changing patterns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2027-2021-10-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2027-2021-10-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 262,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1088,143 +1228,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-ai-driven-3d-animation-startup-plask-raises-us256-million-in-pre-series-a-funding.md",
-      "title": "AI-Driven 3D Animation Startup Plask Raises US$2.56 million in Pre-Series A Funding",
-      "excerpt": "AI-driven animation startup Plask has raised US$2.56 million in pre-Series A funding to bring their cutting-edge cloud-based animation technology to customers globally. The funding round was led by Smilegate Investment,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-south-korea-animation-technology-5739f8f85d9241af9f868b9f4dec81c1",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-south-korea-animation-technology-5739f8f85d9241af9f868b9f4dec81c1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-qualcomm-unveils-latest-mobile-chips-for-mid-range-and-budget-devices.md",
-      "title": "Qualcomm unveils latest mobile chips for mid-range and budget devices",
-      "excerpt": "Qualcomm has added four new Snapdragon mobile chips to its portfolio for both 4G and 5G-capable handsets at varying budget ranges. The Snapdragon 778G Plus 5G, 695 5G, 480 Plus 5G, and 680 4G chips are now official,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
-      "originalUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1635255685/itpro/Qualcomm_Snapdragon_Refresh_Oct_2021.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
-      "publishedDateTime": "2021-10-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-teaching-robots-to-think-like-us-brain-cells-electrical-impulses-steer-robot-though-maze.md",
-      "title": "Teaching robots to think like us: Brain cells, electrical impulses steer robot though maze",
-      "excerpt": "Can intelligence be taught to robots? Advances in physical reservoir computing, a technology that makes sense of brain signals, could contribute to creating artificial intelligence machines that think like us.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.html",
-      "originalUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/teaching-robots-to-thi.jpg",
-          "width": 854,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.amp",
-      "publishedDateTime": "2021-10-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

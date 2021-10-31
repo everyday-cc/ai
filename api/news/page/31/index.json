@@ -2,6 +2,186 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-10-06-ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022.md",
+      "title": "AI in Fintech Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022",
+      "excerpt": "Japan, Japan, Wed, 06 Oct 2021 06:13:30 / Comserve Inc. / -- The market for AI in Fintech is expected to grow from USD 1,337.7 million in 2017 to USD 7,305.6 million by 2022, at a Compound Annual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022-2021-10-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022-2021-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-koreai-which-develops-workflow-automation-technologies-raises-70m.md",
+      "title": "Kore.ai, which develops workflow automation technologies, raises $70M",
+      "excerpt": "Kore.ai, a startup developing a platform for enterprise workflow automation, has raised $70 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/",
+      "originalUrl": "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/",
+      "publishedDateTime": "2021-10-05T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-mobile-artificial-intelligence-ai-market.md",
+      "title": "Mobile Artificial Intelligence (AI) Market",
+      "excerpt": "Allied Market Research published an exclusive report titled Mobile Artificial Intelligence AI Market by Technology Node 20 28nm 10nm 7nm and Others Component Hardware Software and Services and Application Smartphones Cameras Drones Automotive Robotics AR VR and Others Global Opportunity",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2418361/mobile-artificial-intelligence-ai-market-size-is-expected",
+      "originalUrl": "https://www.openpr.com/news/2418361/mobile-artificial-intelligence-ai-market-size-is-expected",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/a/Ua06400465_g.jpg",
+          "width": 790,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai-market-size-is-expected",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai-market-size-is-expected",
+      "publishedDateTime": "2021-10-05T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
+      "title": "Singapore Patrol Robots Stoke Fears Of Surveillance State",
+      "excerpt": "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221",
+      "originalUrl": "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/10/05/armed-with-seven-cameras-a-xavier-robot-in.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a.md",
       "title": "Autify advances no-code AI-powered software testing automation platform with $10M Series A",
       "excerpt": "While working as a software engineer in Japan, Singapore and San Francisco for the past 10 years, Ryo Chikazawa, CEO and co-founder of Autify, came to realize that there’s one common problem in the software development industry;",
@@ -992,196 +1172,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-akridata-launches-worlds-first-edge-data-platform-for-data-centric-ai.md",
-      "title": "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI",
-      "excerpt": "Decentralized Software Accelerates Access to Relevant AI Data, Handles Ingest, Catalog, and Exploration of Complex AI Data, and Enables Traceable AI Across Industries",
-      "sourceUrl": null,
-      "webUrl": "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/",
-      "originalUrl": "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPLC",
-        "domain": "kplctv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-ex-uber-driver-takes-legal-action-over-racist-face-recognition-software.md",
-      "title": "Ex-Uber driver takes legal action over ‘racist’ face-recognition software",
-      "excerpt": "UK driver alleges his account was illegally deactivated when Uber software decided he was not who he said he was",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software",
-      "originalUrl": "https://www.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/55c54451224be3752e08c4b3ee40e9886df70ba7/0_217_6500_3900/master/6500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c819f6205781f6edad3b66bedd92282b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software",
-      "publishedDateTime": "2021-10-05T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-robots-give-greeces-postal-service-speed-boost.md",
-      "title": "Robots give Greece's postal service speed boost",
-      "excerpt": "There's a new addition to Greece's postal service: a fleet of yellow robots sorting through the mail. Fifty-five small, four-wheeled autonomous mobile robots -- or AMR's -- powered by artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/robots-give-greeces-postal-service-speed-boost-2021-10-05/",
-      "originalUrl": "https://www.reuters.com/technology/robots-give-greeces-postal-service-speed-boost-2021-10-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/mw--lj5UsgWqAMr7Rax6sj6IVLk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R2WEQVYR3ZNKFC3PWJSIQACGEU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-facebook-whistleblower-testifies-in-congress.md",
-      "title": "Facebook whistleblower testifies in Congress",
-      "excerpt": "The Facebook whistleblower who released tens of thousands of pages of internal research and documents will testify today before a Senate subcommittee about the company's impact on kids. Follow here for the latest news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/business/live-news/facebook-senate-hearing-10-05-21/index.html",
-      "originalUrl": "https://www.cnn.com/business/live-news/facebook-senate-hearing-10-05-21/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/1fa57818-51d7-476d-b66d-5dfcfe95abc3.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html",
-      "publishedDateTime": "2021-10-05T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

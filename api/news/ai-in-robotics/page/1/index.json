@@ -471,58 +471,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-27-artificial-intelligence-chipsets-market-size-2021-growth-status-and-forecast-by-2026.md",
-      "title": "Artificial Intelligence Chipsets Market Size 2021| Growth, Status and Forecast by 2026",
-      "excerpt": "Additionally, the development of smarter robots, including control of connected devices and virtual assistants, is likely to boost the product demand in Artificial Intelligence chipsets market. The enterprises are also inclined more toward the ML and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-2021-growth-status-and-forecast-by-2026-2021-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-2021-growth-status-and-forecast-by-2026-2021-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-26-why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers.md",
       "title": "Why Many People Are Turning Toward Robots And AI To Help Support Their Mental Health And Careers",
       "excerpt": "I interviewed Yvette Cameron, Oracle Cloud HCM senior vice-president, to learn more about how technology, artificial intelligence and robots can help workers with their mental health matters and careers.",
@@ -1412,6 +1360,58 @@
         "name": "BBC",
         "domain": "bbc.co.uk",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-egypt-detains-artist-robot-ai-da-before-historic-pyramid-show.md",
+      "title": "Egypt detains artist robot Ai-Da before historic pyramid show",
+      "excerpt": "Sculpture and its futuristic creator held for 10 days, possibly in fear she is part of spying plot",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "originalUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ba9e0913ba3b1f81fb67f2afed82643fb05f4429/0_261_6448_3869/master/6448.jpg?width=620&quality=85&auto=format&fit=max&s=daf32ce56cd4dc914d3f6e73e61adb54",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "publishedDateTime": "2021-10-20T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
