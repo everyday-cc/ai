@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum?amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum?amp"
 type: article
 quality: 106
-heat: 117
+heat: 116
 published: true
 
 provider:

@@ -45,14 +45,19 @@ related:
         height: 433
         isCached: true
   - title: "AI-Driven 3D Animation Startup Plask Raises US$2.56 million in Pre-Series A Funding"
-    excerpt: "AI-driven animation startup Plask has raised US$2.56 million in pre-Series A funding to bring their cutting-edge cloud-based animation technology to c"
-    publishedDateTime: 2021-10-26T15:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211026005059/en/AI-Driven-3D-Animation-Startup-Plask-Raises-US2.56-million-in-Pre-Series-A-Funding"
+    excerpt: "AI-driven animation startup Plask has raised US$2.56 million in pre-Series A funding to bring their cutting-edge cloud-based animation technology to customers globally. The funding round was led by Smilegate Investment,"
+    publishedDateTime: 2021-10-26T15:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-south-korea-animation-technology-5739f8f85d9241af9f868b9f4dec81c1"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "h2k7ALhy2LqNjxVPYGp1jAWFT11CQW4vzvsBKMpZpgmIIbrkdZgAut8gNIc1Ne5I4bKD+SdvUZo9Tpo8L+m1ZJh2fJOqmxNYHw4tu3uv5fX4cGp/RLFowKjrqROrulCqtMAnU4/1axim50WvBaTJbmKmonqbabIuK9xWdp1jGAk2EvP6dcKpf4mBMcgjSq6eZ4TazsgFQ0nAqMBXt24AFKBWfv+Fa9rClKOQmS9KJy2GKGSpQU6RU+Hnp6wdtnrTxgDBkmptEtJGBwJ5zgZAqGgjVwismMkctOn1IKRgCLg5f6ZIuNXJjfUqYwG08xnZSZbbenSjxv/gkHDUt/j+Jx6EI8J2Ks4P5ssQBoxJ5O7EqUHUnUPh104H++NPcbFPNR+CR+kded1TGZIBr4cN5/4QiYpIpwwjLZYgsBcTa1fcR8DAvZLY+6Ii3ZT/EMe1p3xIy2xkD4ue5aCGg2XGMXAp5MG/Bs2e5J2I73ArnLmZMXZa62KmdsmwQXvVFa/ORfkp4FkNIJz0FVvvCQR3Ag==;GM8rg5Z7/2YdVQKv8J7cpw=="
 ---

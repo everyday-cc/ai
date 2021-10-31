@@ -39,20 +39,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Lending start-up Button Finance raises $2 million in seed round funding"
-    excerpt: "Button Finance, a fintech mortgage lender focused on home equity, has raised $2 million in a seed round for hiring new talent and developing its proprietary technology, a release said on Monday. Hildene Capital Management,"
-    publishedDateTime: 2021-10-26T07:06:00Z
-    webUrl: "https://www.mpamag.com/us/news/general/lending-start-up-button-finance-raises-2-million-in-seed-round-funding/314324"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 54
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/073/0270_637708287919262702.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "How a Newsroom in India Gave Rural Women a Voice"
     excerpt: "The all-women Dalit newspaper Khabar Lahariya is being recognized with a Courage in Journalism award for its work helping marginalized communities"
     publishedDateTime: 2021-10-28T18:35:00Z

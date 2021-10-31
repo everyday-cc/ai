@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-mach
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "IIT Delhi to offer new MTech course in machine intelligence and data science"
-    excerpt: "The students will be expected to work on industry-relevant AI problems since they will be co-advised by an IIT Delhi professor and a researcher from the sponsoring company."
-    publishedDateTime: 2021-10-26T07:49:00Z
-    webUrl: "https://indianexpress.com/article/education/iit-delhi-to-offer-new-mtech-course-in-machine-intelligence-and-data-science-7591250/"
-    ampWebUrl: "https://indianexpress.com/article/education/iit-delhi-to-offer-new-mtech-course-in-machine-intelligence-and-data-science-7591250/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iit-delhi-to-offer-new-mtech-course-in-machine-intelligence-and-data-science-7591250/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 41
-    images:
-      - url: "https://images.indianexpress.com/2021/10/Students-4.jpeg"
-        width: 1200
-        height: 667
         isCached: true
   - title: "IIT Delhi To Offer MTech In Machine Intelligence And Data Science"
     excerpt: "Indian Institute of Technology (IIT) Delhi has announced a new postgraduate programme, ‘MTech in Machine Intelligence and Data Science (MINDS)'."

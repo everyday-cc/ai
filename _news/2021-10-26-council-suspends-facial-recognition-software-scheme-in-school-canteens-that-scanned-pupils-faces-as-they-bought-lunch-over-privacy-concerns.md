@@ -27,31 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Schools put the brakes on facial recognition scheme for kids buying lunch"
-    excerpt: "Schools in the United Kingdom have paused the rollout of facial recognition scans in cafeterias following backlash from data watchdogs and privacy advocates. Last week, the Information Commissioner's Office (ICO),"
-    publishedDateTime: 2021-10-26T08:21:00Z
-    webUrl: "https://www.zdnet.com/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 68
-  - title: "Face recognition in schools normalizes surveillance — and threatens kids’ privacy"
-    excerpt: "Facial recognition identifies and authenticates people’s identities by detecting, capturing, and matching faces to images from a database"
-    publishedDateTime: 2021-10-30T08:00:00Z
-    webUrl: "https://thenextweb.com/news/face-recognition-schools-normalizes-surveillance-threatens-kids-privacy-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 64
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FFR.jpg&signature=2b9999bdb61bc5ee662b4732041d94c3"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Facial recognition in schools: here are the risks to children"
     excerpt: "Several schools in Scotland have paused the rollout of facial recognition technology in school canteens following inquiries from the UK Information Commissioner’s Office."
     publishedDateTime: 2021-10-27T19:04:00Z
@@ -95,34 +70,6 @@ related:
       - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Red or blue, US communities want brakes on government use of facial recognition"
-    excerpt: "The movement to corral facial recognition with local and state laws continues, and it is showing up in red, law-and-order states like Indiana."
-    publishedDateTime: 2021-10-28T15:40:00Z
-    webUrl: "https://www.biometricupdate.com/202110/red-or-blue-us-communities-want-brakes-on-government-use-of-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
-  - title: "Facial recognition in schools: systems deployed in Europe and the US amid privacy concerns"
-    excerpt: "New facial recognition systems are being deployed across school campuses around the world, while others are being removed amidst privacy concerns."
-    publishedDateTime: 2021-10-27T21:25:00Z
-    webUrl: "https://www.biometricupdate.com/202110/facial-recognition-in-schools-systems-deployed-in-europe-and-the-us-amid-privacy-concerns"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
-        width: 1100
-        height: 734
         isCached: true
 
 secured: "vhjK5RPT0r+dOrZgY7w2vgKZDTAjdgBksBZI2EcInYD17d16GQ+obPSAY6WTT+bP0IoNf1dWx9c016UrHUzCM8M58+AeQeGA/7vj5LMu6DO6jsFbsNSUjPQa46gwtBOdFh+ffGnf4ToxPkK7+WBRGE1C8ANyL1ixD8Z+qHJ2CeeFTyGPD7/KK8jcXriZD/PJDJdFJVkIdm8SOvw7NTPYIH6sZG/6zWbkXrqBhpe2ZGmlTohEWVzfK7u8p4jYBwGFFG+tq8dMRh4ExioV7rmfZFb+QwRudrJW51PZnCKddlsLIeXG7b49UDXBdOEzOg390ZM42TT4hZI/kbVgvDIe1VD/Vu0d16bHqDMZvqf0s8fLscQ6dWVOI9CL60KYfQjLO9jKAh8prD8BxaMumeADHAGQNg3P9JOc86iTtPZrtzn6KFT2BYn7RMrDayVxmaVR09gfBlJ6pmgXv5HrgEyRTNPJtoq4QPgm/dx+loTosWoQNsfDFIdX7QwOMU2imUaE12OHkvq6yvxEhk/a+jz+5A==;11g4Rr0fz6S6rb4k0Ve3jg=="

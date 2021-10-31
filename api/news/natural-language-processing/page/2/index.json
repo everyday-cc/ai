@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-13-natural-language-processing-market-comprehensive-insights-2021-to-2028-ibm-aws-apple-intel.md",
+      "title": "Natural Language Processing Market Comprehensive Insights 2021 to 2028: IBM, AWS, APPLE, INTEL",
+      "excerpt": "The Insight Partners provides you global research analysis on “Natural Language Processing Market” and forecast to 2028. The research report provides deep insights into the global market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2428144/natural-language-processing-market-comprehensive-insights",
+      "originalUrl": "https://www.openpr.com/news/2428144/natural-language-processing-market-comprehensive-insights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/a/Ua13661220_g.jpg",
+          "width": 800,
+          "height": 463,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2428144/natural-language-processing-market-comprehensive-insights",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428144/natural-language-processing-market-comprehensive-insights",
+      "publishedDateTime": "2021-10-13T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-cambridge-quantum-releases-worlds-first-quantum-natural-language-processing-toolkit-and-library.md",
       "title": "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library",
       "excerpt": "CAMBRIDGE, England, Oct. 13, 2021 /PRNewswire/ -- Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for Quantum Natural Language Processing (QNLP).",
@@ -1290,59 +1334,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-translate-and-analyze-text-using-sql-functions-with-amazon-redshift-amazon-translate-and-amazon-comprehend.md",
-      "title": "Translate and analyze text using SQL functions with Amazon Redshift, Amazon Translate, and Amazon Comprehend",
-      "excerpt": "You may have tables in your Amazon Redshift data warehouse or in your Amazon Simple Storage Service (Amazon S3) data lake full of records containing customer case notes, product reviews, and social media messages, in many languages. Your task is to identify the products that people are talking about,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-and-analyze-text-using-sql-functions-with-amazon-redshift-amazon-translate-and-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-and-analyze-text-using-sql-functions-with-amazon-redshift-amazon-translate-and-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/28/ML-5741-image002.png",
-          "width": 407,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T11:03:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

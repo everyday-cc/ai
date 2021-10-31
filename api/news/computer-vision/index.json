@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-30-face-recognition-in-schools-normalizes-surveillance-and-threatens-kids-privacy.md",
+      "title": "Face recognition in schools normalizes surveillance — and threatens kids’ privacy",
+      "excerpt": "Facial recognition identifies and authenticates people’s identities by detecting, capturing, and matching faces to images from a database",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/face-recognition-schools-normalizes-surveillance-threatens-kids-privacy-syndication",
+      "originalUrl": "https://thenextweb.com/news/face-recognition-schools-normalizes-surveillance-threatens-kids-privacy-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FFR.jpg&signature=2b9999bdb61bc5ee662b4732041d94c3",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-30T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-samsungs-jet-bot-ai-robot-vacuum-is-a-must-have-for-pet-owners.md",
       "title": "Samsung's Jet Bot AI+ robot vacuum is a must-have for pet owners",
       "excerpt": "The Samsung JetBot AI+ looks like the robot vacuum of the future, and has some ultramodern tech under the hood. Credit: leah stodart / mashable Despite their overall hands-off capabilities, most robot vacuums require some sort of pre-cleaning to avoid eaten phone chargers or socks.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -75,6 +127,49 @@
       "provider": {
         "name": "FOX13 Memphis",
         "domain": "fox13memphis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-facial-recognition-in-schools-here-are-the-risks-to-children.md",
+      "title": "Facial recognition in schools: here are the risks to children",
+      "excerpt": "Several schools in Scotland have paused the rollout of facial recognition technology in school canteens following inquiries from the UK Information Commissioner’s Office.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/facial-recognition-in-schools-here-are-the-risks-to-children-170341",
+      "originalUrl": "https://theconversation.com/facial-recognition-in-schools-here-are-the-risks-to-children-170341",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/428514/original/file-20211026-25-138af68.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/facial-recognition-in-schools-here-are-the-risks-to-children-170341",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-in-schools-here-are-the-risks-to-children-170341",
+      "publishedDateTime": "2021-10-27T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1330,85 +1425,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras.md",
-      "title": "Facial Recognition Fail Spurs Bid to Ban It From Police Cameras",
-      "excerpt": "One such lawmaker was Assemblyman Phil Ting, D-San Francisco, was matched with a mug shot by Amazon’s facial recognition software called Rekognition despite never having been arrested. “This is a demonstration that this software is not ready for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/",
-      "originalUrl": "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/amp/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/amp/",
-      "publishedDateTime": "2021-10-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-survey-more-than-half-of-us-adults-wary-about-facial-recognition-tech-in-healthcare.md",
-      "title": "Survey: More than half of U.S. adults wary about facial recognition tech in healthcare",
-      "excerpt": "Many adults in the United States are concerned about the use of facial recognition technology in hospitals, medical practices and other healthcare settings, a survey published Thursday by PLOS ONE found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/",
-      "originalUrl": "https://www.upi.com/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/4971634236004/2021/1/16342373043805/v1.5/Survey-More-than-half-of-US-adults-wary-about-facial-recognition-tech-in-healthcare.jpg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/",
-      "publishedDateTime": "2021-10-14T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

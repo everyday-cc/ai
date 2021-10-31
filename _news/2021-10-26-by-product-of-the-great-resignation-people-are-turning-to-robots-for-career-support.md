@@ -57,15 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "82% of People Believe Robots Can Support Their Career Better Than Humans"
-    excerpt: "People are turning to robots to support their career development after the COVID-19 pandemic left them feeling lonely and disconnected from their own lives, according to a new study by Oracle and Workplace Intelligence,"
-    publishedDateTime: 2021-10-26T09:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/82-of-people-believe-robots-can-support-their-career-better-than-humans-1030898383"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
 
 secured: "mLtHKsgJcFluLzskwMqbpGH5j5Z5UeojJcN9imyGVSAL5T3nIIEkCh87psvYmHm6U54XKipNXyDYaU3szTy391DhCU45OTq3gW6BdIHV3zBaWVd7yfKM9SrL6o4TbBZcCCX2wRgGO33jQN6smvFFOlwQA7X7dBsY0NEHJOkNYzcVKTaAfEZmvStDcyd11GdluC08QYKVjLEFS8PmfunPx4W+5i3JYWaEP0SBhFozs9GOta7+YXM1kKBruUKVVNE/EZcTkTyHlaZQNa4vVKbTCMb0Hu+faSCmDDnA0ljqNEe6r+wJDPgPHHKuuujqFiM3w1v1QaU2MGdEbqv+1lE8J1h9tzlgIDWhBI89T+isZdY=;7rdnRBkg2mdV7jcOmgzKzQ=="
 ---

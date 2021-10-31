@@ -41,20 +41,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Lending start-up Button Finance raises $2 million in seed round funding"
-    excerpt: "Button Finance, a fintech mortgage lender focused on home equity, has raised $2 million in a seed round for hiring new talent and developing its proprietary technology, a release said on Monday. Hildene Capital Management,"
-    publishedDateTime: 2021-10-26T07:06:00Z
-    webUrl: "https://www.mpamag.com/us/news/general/lending-start-up-button-finance-raises-2-million-in-seed-round-funding/314324"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 54
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/073/0270_637708287919262702.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Analytics Insight features top machine learning master’s degree courses in India for students"
     excerpt: "This article outlines the top machine learning Master’s Degree courses in India for students who are interested in machine learning in India. Click here for Master’s degree courses like Master of Science in Machine Learning."
     publishedDateTime: 2021-10-27T11:00:00Z

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -252,6 +252,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-30-face-recognition-in-schools-normalizes-surveillance-and-threatens-kids-privacy.md",
+      "title": "Face recognition in schools normalizes surveillance — and threatens kids’ privacy",
+      "excerpt": "Facial recognition identifies and authenticates people’s identities by detecting, capturing, and matching faces to images from a database",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/face-recognition-schools-normalizes-surveillance-threatens-kids-privacy-syndication",
+      "originalUrl": "https://thenextweb.com/news/face-recognition-schools-normalizes-surveillance-threatens-kids-privacy-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FFR.jpg&signature=2b9999bdb61bc5ee662b4732041d94c3",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-30T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-att-and-h2o-collab-on-feature-store-for-ai-developers.md",
       "title": "AT&T and H2O collab on feature store for AI developers",
       "excerpt": "Telecom giant AT&T and AI cloud firm H2O have jointly launched an AI feature store to help organizations accelerate AI development.",
@@ -311,7 +363,7 @@
       "originalUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -355,7 +407,7 @@
       "originalUrl": "https://www.techradar.com/sg/news/the-evolution-of-speech-recognition-technology",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -399,6 +451,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-30-lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability.md",
+      "title": "LG And A•kin To Develop AI Home Helpers For Families Living With Disability",
+      "excerpt": "Sydney and San Francisco-based AI and robotics startup a•kin, who have developed robotics alongside the likes of NASA, are currently working towards one such important staging post. Smart speakers like Amazon Alexa and Google Home are already ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/10/30/lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability/",
+      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/10/30/lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617df25a39a5c6d6f606fdde%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/10/30/lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/10/30/lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability/amp/",
+      "publishedDateTime": "2021-10-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack-human-beings.md",
       "title": "Expert warns that artificial intelligence could soon be able to 'hack' human beings",
       "excerpt": "A world-renowned historian and philosopher is warning that humanity needs to begin regulating artificial intelligence and data collection globally or risk being “hacked.” In an upcoming inte ...",
@@ -429,57 +533,6 @@
         "name": "The Hill",
         "domain": "thehill.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-why-flat-earthers-are-a-clear-and-present-threat-to-an-ai-powered-society.md",
-      "title": "Why flat-Earthers are a clear and present threat to an AI-powered society",
-      "excerpt": "If these ideas are not challenged, he fears that as with supporters of “intelligent design,” proponents of a flat Earth will start running ... can do things that no AI can do.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-flat-earthers-clear-present-threat-ai-powered-society",
-      "originalUrl": "https://thenextweb.com/news/why-flat-earthers-clear-present-threat-ai-powered-society",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fflatearthstress2.jpg&signature=6d6a8881336eaf1838c9ec8c0c0c1fed",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-29T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -552,7 +605,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1168,48 +1221,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-nykaa-ipo-oversubscribed-by-482-times-on-day-2-qib-portion-booked-472-times.md",
-      "title": "Nykaa IPO oversubscribed by 4.82 times on Day 2, QIB portion booked 4.72 times",
-      "excerpt": "Falguni Nayar-promoted and private equity firm TPG-backed FSN E-Commerce Ventures’ maiden public offer was oversubscribed by 4.82 times ... its financial metrics and cementing its position going forward and hence recommend investors to Subscribe to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/74782def-1046-4ea5-b796-0802cfb90260",
-      "originalUrl": "https://www.moneycontrol.com/news/business/ipo/nykaa-ipo-oversubscribed-by-1-64-times-on-day-2-qib-portion-booked-1-39-times-7647391.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9fa36cd1-fe9e-4cec-9fa2-03e6c6b0f5b0.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/74782def-1046-4ea5-b796-0802cfb90260",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/74782def-1046-4ea5-b796-0802cfb90260",
-      "publishedDateTime": "2021-10-28T22:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

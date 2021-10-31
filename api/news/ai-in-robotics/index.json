@@ -10,7 +10,7 @@
       "originalUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -43,6 +43,58 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability.md",
+      "title": "LG And A•kin To Develop AI Home Helpers For Families Living With Disability",
+      "excerpt": "Sydney and San Francisco-based AI and robotics startup a•kin, who have developed robotics alongside the likes of NASA, are currently working towards one such important staging post. Smart speakers like Amazon Alexa and Google Home are already ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/10/30/lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability/",
+      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/10/30/lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617df25a39a5c6d6f606fdde%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/10/30/lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/10/30/lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability/amp/",
+      "publishedDateTime": "2021-10-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -384,7 +436,7 @@
       "originalUrl": "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -479,7 +531,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1360,58 +1412,6 @@
         "name": "BBC",
         "domain": "bbc.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-egypt-detains-artist-robot-ai-da-before-historic-pyramid-show.md",
-      "title": "Egypt detains artist robot Ai-Da before historic pyramid show",
-      "excerpt": "Sculpture and its futuristic creator held for 10 days, possibly in fear she is part of spying plot",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
-      "originalUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ba9e0913ba3b1f81fb67f2afed82643fb05f4429/0_261_6448_3869/master/6448.jpg?width=620&quality=85&auto=format&fit=max&s=daf32ce56cd4dc914d3f6e73e61adb54",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
-      "publishedDateTime": "2021-10-20T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

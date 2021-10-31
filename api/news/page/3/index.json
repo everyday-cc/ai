@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-28-mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.md",
+      "title": "McDonald's enters strategic partnership with IBM to automate drive-thru lanes",
+      "excerpt": "McDonald's has entered a strategic partnership with IBM to help the fast-food chain automate its drive-thru lanes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106891207-1622645077770-gettyimages-1133268648-MCDONALDS_TECH.jpeg?v=1622645106",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
+      "publishedDateTime": "2021-10-27T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-github-updates-copilot-ai-pair-programmer-and-codespaces-online-vs-code.md",
       "title": "GitHub Updates Copilot 'AI Pair Programmer' and Codespaces (Online VS Code)",
       "excerpt": "Microsoft-owned GitHub announced several updates to its sprawling development and code repository platform, including two fairly new offerings: GitHub Copilot, described as an 'AI pair programmer,' and GitHub Codespaces,",
@@ -138,6 +189,49 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-facial-recognition-in-schools-here-are-the-risks-to-children.md",
+      "title": "Facial recognition in schools: here are the risks to children",
+      "excerpt": "Several schools in Scotland have paused the rollout of facial recognition technology in school canteens following inquiries from the UK Information Commissioner’s Office.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/facial-recognition-in-schools-here-are-the-risks-to-children-170341",
+      "originalUrl": "https://theconversation.com/facial-recognition-in-schools-here-are-the-risks-to-children-170341",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/428514/original/file-20211026-25-138af68.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/facial-recognition-in-schools-here-are-the-risks-to-children-170341",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-in-schools-here-are-the-risks-to-children-170341",
+      "publishedDateTime": "2021-10-27T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -348,7 +442,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -797,7 +891,7 @@
       "originalUrl": "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -840,7 +934,7 @@
       "originalUrl": "https://gulfnews.com/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1131,101 +1225,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-microsoft-powers-transformation-at-nvidia-gtc-fallgpu-technology-conference.md",
-      "title": "Microsoft powers transformation at NVIDIA GTC Fall—GPU technology conference",
-      "excerpt": "This year during NVIDIA GTC 21, we’re spotlighting some of the most transformational applications powered by NVIDIA accelerated computing that highlights our commitment to edge, on-premises, and cloud computing. Registration is free, so sign up to learn how Microsoft is powering transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T02:00:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales.md",
-      "title": "Report: 81% of online retailers increase AI budget to boost holiday sales",
-      "excerpt": "AI is becoming an essential tool in ecommerce, used to enable targeted campaigns and improve supply chain management.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/",
-      "originalUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-6228-000619-e1634748179549.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/amp/",
-      "publishedDateTime": "2021-10-26T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

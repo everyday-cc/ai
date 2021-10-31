@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medtechintelligence.com/column/the-growing-role-of-artif
 cdnAmpWebUrl: "https://www-medtechintelligence-com.cdn.ampproject.org/c/s/www.medtechintelligence.com/column/the-growing-role-of-artificial-intelligence-in-telehealth/amp/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -20,45 +20,6 @@ topics:
   - AI
   - AI in Healthcare
   - AI in Robotics
-
-related:
-  - title: "Accelerating healthcare AI innovation with Zero Trust technology"
-    excerpt: "From research to diagnosis to treatment, AI has the potential to improve outcomes for some treatments by 30 to 40 percent and reduce costs by up to 50 percent. Obtaining the large data sets necessary for generalizability, transparency, and reducing bias has historically been difficult and time-consuming."
-    publishedDateTime: 2021-10-26T08:00:44Z
-    webUrl: "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 106
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f91858d1-a3a3-4e76-8543-32fa605f702f.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Top 10 Artificial Intelligence Technologies"
-    excerpt: "Artificial intelligence is a technological blow that has continued to take the world by storm since 1955. Check out the top 10 artificial intelligence technologies streamlined with widespread sub-technologies ranging from biometrics and computer vision to intelligent devices."
-    publishedDateTime: 2021-10-27T05:37:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-technologies/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Artificial-Intelligence-2.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Edge AI accelerators are just sand without future-ready software"
-    excerpt: "Unlike GPUs, which have established programming models and software toolchains, AI processors are confronted with lack in software support."
-    publishedDateTime: 2021-10-27T15:45:00Z
-    webUrl: "https://www.edn.com/edge-ai-accelerators-are-just-sand-without-future-ready-software/"
-    type: article
-    provider:
-      name: EDN
-      domain: edn.com
-    quality: 19
 
 secured: "/wvY4k1goPVpcoEPL0AbMDH53sSEveBAbtNdSgPAhE03a687LmXgcGQIrIcnwg94B/ZPKqUQZGUPxmG3CMtxv7XscDC/bBUU7Qs1ezHC869khuyA8pOVqQ6qG/Dmv8UCP2KOfQZP4hXbyPOvVBQLPFiDbKYgNlVimN+K1HX/WHcheCYgvbhL410xJTt+HJDBL7q96Ce+yMxcUxkz0uMOWEpy1btduUNg7OQCPV/scemkmZfpPXPiYE3xYUCBo5qnWnB7S4hND3IYGGdCU6sXre3J/nagaeEZDQpa+Sl63YKbqo0i2Yn5SBS4cS0CRGCSsGn8gMXudd3iOkEcgXT6n4fnIEgutMsdecumpeWyKrolUbs/qKd1RkHq7IzpQlswkLV2CcMfx6fO8TMxVArD5l7sCZyLBVHONDO00H9z9dUQmdjFe9zvd42PAIH0Uwc3Oe1ejhhzlD+4bKdDgF/CfK6XusdkKLC/d1fmRZLtHg7hPg47qifq/r/maXs2584+3sb1Dx9t9BHWFzXEtnlS+Q==;T7vD9Ygje51h4I/7l7rHtQ=="
 ---

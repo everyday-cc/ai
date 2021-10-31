@@ -73,22 +73,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "IIT Delhi to offer new MTech course in machine intelligence and data science"
-    excerpt: "The students will be expected to work on industry-relevant AI problems since they will be co-advised by an IIT Delhi professor and a researcher from the sponsoring company."
-    publishedDateTime: 2021-10-26T07:49:00Z
-    webUrl: "https://indianexpress.com/article/education/iit-delhi-to-offer-new-mtech-course-in-machine-intelligence-and-data-science-7591250/"
-    ampWebUrl: "https://indianexpress.com/article/education/iit-delhi-to-offer-new-mtech-course-in-machine-intelligence-and-data-science-7591250/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iit-delhi-to-offer-new-mtech-course-in-machine-intelligence-and-data-science-7591250/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 41
-    images:
-      - url: "https://images.indianexpress.com/2021/10/Students-4.jpeg"
-        width: 1200
-        height: 667
-        isCached: true
 
 secured: "nFMIzoSS6LMbolRgAVk1jXVr/zoUbMEGA/3PGED3lYcDwp+oxlZxPXfZ++tbk9TkM0cKacBDhUtl5bKwDwR74KxNMssGuBSg/bYFp0Ky2n8dBCOJPr/OoZTk2H2WA1t8EYgYIp4zv0ogGkvtkw1hKxUgL/XDS/Pwy0UJhthb9LHWH1Xzx3VGOMU7FNPJgx/ee+Iuqmq6AwrlRfYFu4wlZ8vnZ5MvvbWwrQtL2ot9cu3/L+3N00bP5Li4a4dDTw1RoSxkbNGFcD+s45XRSJdixa3kDaD3PwxrxUc7t+Mde/UuY0YPXIVYNZaiqsBNueM+GzT75m2fJjND+UzVP+sbyWhuJGlQz5JgIuFPOhbOkyw=;7mE65AKtpqlJat4/MjVQtA=="
 ---

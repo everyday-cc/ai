@@ -51,20 +51,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Lidar for Self-Driving Car Market Overview, Industry Top Manufactures, Market Size, Industry Growth Analysis and Forecast: 2027"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” “Lidar for Self-Driving Car Market” forecast gives a current review of the market size, including definitions, division,"
-    publishedDateTime: 2021-10-26T08:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-overview-industry-top-manufactures-market-size-industry-growth-analysis-and-forecast-2027-2021-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "YFuQc3UoMaM80B5rTb9aE/Q6itJHrJC9nLenrMHvvT9ZTb4qtbcum79i6rmjqAomU3gc4laVFag+l4illrjIWUPINADuJ+dWm2XVPFpUiN4rlUzi+eeWyTLLgethURAE5A9ypHVqnFkTvy7hiT99Awe/lkFydERiErXOSEz0RHZjYJ3fI8fxqhh5IG57EV2MPljhDMOyqeoioVFzUeIZ8BhfgyEd05lj8//xww+l3GsO9xNWkeHRBW+L3g35WV3JLV53m1parO3FXLcRcCdVO2JddhY5rRHbY+WO32h3nvirNuwjsAbOMjSnVNq9BY4jiyJnoHIZsFGc+h3BhihuVJtKjaK+5Hs4PMQXM+9bU/I=;HYuDjjuK/aCV74hRWVrZiw=="
 ---
