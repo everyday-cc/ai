@@ -42,6 +42,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "World-renowned philosopher calls for worldwide regulation of artificial intelligence and says humans are at risk of being 'HACKED'"
+    excerpt: "The feature, which airs Sunday night, is highlighted by Harari suggesting that the reach of artificial intelligence could leave our information in the hands of 'a powerful few.'"
+    publishedDateTime: 2021-10-30T22:12:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10147617/Israeli-historian-Yuval-Harari-warns-humans-cooperate-stop-human-hacking.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10147617/amp/Israeli-historian-Yuval-Harari-warns-humans-cooperate-stop-human-hacking.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10147617/amp/Israeli-historian-Yuval-Harari-warns-humans-cooperate-stop-human-hacking.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 29
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/30/17/49835447-0-image-a-6_1635610163808.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "x6X4Y4wDFW9ACPHLhnIz3aQsuw0fhoobiVLp15022vhQYhSGpiVElAfAL/iuuTI4mv9OcEt07IzcTU8BaXhq8VDqV9SR/Im9hW3HM1yFeSMErrKY5hHXgN4GRYojJDkP8rbdmCt50SHdLM5LuhlDNdzKFiVdMcmtZ/1pWDp45p4c9lsR6320PUbRTx7nHGgo80fkZHMke6fz3GuAM20yO3tC0BR9xlknN1FPkbM+1+5Csx3zVXWCVOn6iWjvn6Fz2fAxpYh0BNlES7Y1XLsnecrI9ISj9MisOCTzHLS+/vqVFSy8zvQ5e59Qq359k9i+UzASp00e4lxl0H0qjF6ZAGP2MC2hu4qXJS/VhXdk59ix/Fue7Wp9ibKW6wYJtFhoTcAV1QdEM3U/vbHm0jvLw+j5kMNF1+iz03q2M+LxMYRXOFvmifnP/pw7BwH1H08e51xc+Q27lY5J6FSELOFvgWKL7BFwIhOGDIbJ9PbEIa7OkB+KQKmIu2yQ7H62ZGI0lT1whzGRmRakHpSXTxMJNw==;/Ywggl63qAPqX29LSmH8AA=="
 ---

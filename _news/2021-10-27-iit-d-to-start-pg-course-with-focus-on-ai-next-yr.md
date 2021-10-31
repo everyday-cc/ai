@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/city/delhi/iit-d-to-start-pg-course-with-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/iit-d-to-start-pg-course-with-focus-on-ai-next-yr/amp_articleshow/87289779.cms"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: India Times
@@ -41,20 +41,6 @@ related:
       - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2021/06/08/257e96103523436d2f6d44f518f4683b_original.JPG?impolicy=abp_images&imwidth=1200"
         width: 720
         height: 540
-        isCached: true
-  - title: "AI industries to get IIT boost"
-    excerpt: "Indian Institute of Technology Madras Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI) is launching the ‘RBCDSAI Industrial Consortium’ to provide information resources support on cutting-edge technologies to industries working on Artificial Intelligence."
-    publishedDateTime: 2021-10-26T05:13:00Z
-    webUrl: "https://newstodaynet.com/index.php/2021/10/26/ai-industries-to-get-iit-boost/"
-    type: article
-    provider:
-      name: The News Today
-      domain: newstodaynet.com
-    quality: 39
-    images:
-      - url: "https://newstodaynet.com/wp-content/uploads/2021/04/iit-madras-students-get-more-ppos-this-year.jpg"
-        width: 1200
-        height: 900
         isCached: true
 
 secured: "EAzxqWA6XFH6NBOYxUkk4+HEhVPPFLCCSwFsQAuj9LlaDHFlqRlIH56HeaygqvUfV9tgXvWVq7AP8b9xJbxQuEfVWzsMPA/wACmJFMYKASDqVwb3O2Jx0ql7yUPldMdNsE8Eo+PlwqvmuY7UzZ/y3GF9DzSeoiIKj34xNM+zvWSYH3mE6JVojgxjofDBqTqvcE8TugnVQBv6r6+lAmSoEnrvQN4ft8J7KrIRuQtxi+w+rshRbTcopOhekrVB5YE6DAdvAOgkybbs8NCtCyjM3W10iLVAmiR1R4rNFzfEbZjV/33JE5xcBSpGVdMrZlb8lNSSH26vmOpdM261f8MqIe/2ceznpvLpRFqn9Nq8/S0=;Dxuq7M41jsJnQDBoTRtP5g=="

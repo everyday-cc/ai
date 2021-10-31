@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91967-google-cloud-microsoft-azure
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
 type: article
 quality: 98
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -84,17 +84,6 @@ related:
       name: Automation World
       domain: automationworld.com
     quality: 49
-  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
-    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
-    publishedDateTime: 2021-10-26T06:51:00Z
-    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
 
 secured: "T0VC4kZIkVhwn2dB4KSSayCN62izN1ZsXP9msKj13d0zV/fWAbNyKEjJJxNc3sccvB8EC4TXx4iBfmydfeOezM4LYYj/ilXO6OpDMxwizq3X7bBelCm4rU6uzRfb9TSHzkHOB9ReWEjeUaudNTHwic3KDmbi7EYMrQ/SMyqEUOpQTORZi894sUyMjy9UXM/jYxX94D5YQwf6+PRtazFqXdbZIEPmBL0I9IfCGA7kgxx2wDCt+WymKyPELrbs4hC8gumU3HGeHAjpqvb4S4LcLmD3EOrHtOjtYyUxuNJuqRGzRXStYUjXZ/K1U1+xZoKB51aOdzKrF1VrMwMckSSSlr86U5FZjUQ0pITu6zw2AnJ5h28iodA0rYFVh5eVFSHRBTioRLw/9b0tXDi0OsC8RwpalJewUF+cDgVnCV1m+4xhXBSWnVqkguQtn61JwolCP0OL7XaIRUYsqAJ09kKg3OrTZJpT8NOinRF/x/qkiRZaQZs5FJjHwXNvy9eyaErbLRd1t0XA/ieEp9F76SuBLg==;8L3D/zYTZKCmCMK5Sxg2Qw=="
 ---

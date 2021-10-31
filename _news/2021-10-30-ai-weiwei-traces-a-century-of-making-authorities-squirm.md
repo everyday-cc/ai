@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-makin
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,7 +46,21 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "1000 Years of Joys and Sorrows by Ai Weiwei review — the artist on his lifelong battle with China"
+    excerpt: "In the first line of his fictional autobiography, Dickens’s David Copperfield asks whether he will turn out to be the hero of his own story. I’m not sure the qu"
+    publishedDateTime: 2021-10-30T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/1000-years-of-joys-and-sorrows-by-ai-weiwei-review-the-artist-on-his-lifelong-battle-with-china-ptbpjm2z3"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fe6dc2122-365c-11ec-a14e-75e3a4bcdc4c.jpg?crop=2250%2C1266%2C0%2C80&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "RXatCWQnMxuSTT+geQeI2mK0H1LH7qfEbnWd/B5eb4bJVGTRS6FFMbazpMTsNaHReHzVhNIezE5XZ9lzQU3f0vHBqUhvsaH7wCxVh4pbVrc+8bPG4epBjhzg9cPbbXBoIsudUI4sJANOp4ikwzU2Q8qGU6wIuYKgYXmnTGON1uyDBwLpg6PQoplCaBZlZnpGZMagvVkls8XXRilqmjydMOJ5M9F6xYvJ2rAv1bYhRHsOBrohFGEAjFZJuJ9+Eo2zzQU1TvQYPlm0EDGwmuEn8HB3yI3hN/G8HeHH4hrxULmy5Zv+AEfVfoLHd35/IQy+qsQQdejeu6PWDCoWCt4dpQBw30TXm2M8EO9LKM3emj8=;1bJ22pN9C5VxYjtGhbfE7Q=="
+secured: "yvQx7bgUe77DM97xGzz+qsZaCmPqNaomEdyiHnaePFzJRzDYbeUdQdSR09Bh2cpITdz55k+ChYisPWs3dwBgzXwsnodFAeIZmilP+x22t4kYgNvXxE8aFwYbvB3PwTPxhPqE8c19Mq+xuiQ8CxIHHluzTIuAbH9x06dDp/oS/MeolhxeG0pktEFmA1RqvvMwCM/NmCHq13GojROUYb0AYbr8yrphlYDDGETM4TLc7G4UTIfgiCKjXIy7hzhN37D5jtXSevidtAA/aYLhb+oTOWeWlpCNCN+8onW0RwUC/stkAocxjHWbmwxixTL9XyF2kPHqQm6txuRokWjAPYFvnAP/XKAUAEa9+PV7QEfTlpymVmkn1sfQdr3Z2dorHIVAVt4wcO04n2heiMSFhZbUcsXYVltch+CE0AEFqsGinUPQQhZ4WSxuUImOHJSoafJ0DlV0PrNYd0pJC78nrb4+iHNn2ESyvibKGH9xOjglfWKkV3o+AKkboJ6UosdSDI8KJhE6V9xyeIvrHni30oKvcg==;lwivNtQyX4o2yCaI44kzCg=="
 ---
 

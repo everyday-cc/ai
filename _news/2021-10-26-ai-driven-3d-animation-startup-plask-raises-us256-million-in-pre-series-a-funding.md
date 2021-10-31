@@ -1,27 +1,21 @@
 ---
 category: news
 title: "AI-Driven 3D Animation Startup Plask Raises US$2.56 million in Pre-Series A Funding"
-excerpt: "AI-driven animation startup Plask has raised US$2.56 million in pre-Series A funding to bring their cutting-edge cloud-based animation technology to customers globally. The funding round was led by Smilegate Investment,"
-publishedDateTime: 2021-10-26T15:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-south-korea-animation-technology-5739f8f85d9241af9f868b9f4dec81c1"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-south-korea-animation-technology-5739f8f85d9241af9f868b9f4dec81c1"
+excerpt: "AI-driven animation startup Plask has raised US$2.56 million in pre-Series A funding to bring their cutting-edge cloud-based animation technology to c"
+publishedDateTime: 2021-10-26T15:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211026005059/en/AI-Driven-3D-Animation-Startup-Plask-Raises-US2.56-million-in-Pre-Series-A-Funding"
+webUrl: "https://www.businesswire.com/news/home/20211026005059/en/AI-Driven-3D-Animation-Startup-Plask-Raises-US2.56-million-in-Pre-Series-A-Funding"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Healthtech Startup Zini.ai Raises Pre-Series A Funding From Solarus Group"
@@ -55,6 +49,6 @@ related:
         height: 433
         isCached: true
 
-secured: "t5hgK4FlGE/8qoorYkUHEVAIm/oopcUhUcdxfaOXtyoKSXGZupnOCKNXNldTVfbbA1lD3GNK1/Wyv49Dt/dauP2aPg++NzdaUiWJCrKk1nqfjEnw+f+lj/iZaFg0/SV/CBtQJDdO4yarjNQkWyj+y/LShuKgrsvmhtIFDThnAoS8Wtk/pGiutUgmaxhyez0a8xKXDlOUjQnIZBIgSSb3rbxkta89OYZ8N2389Td7R5uTdMi200sGzTVtKubOVhmqNEteCCoBx9r5MF98om2EyzM/6UOlnsiPbhl7a/Kz93fottj51clsdZKfWGVIhbovHual/K4rnZsYqbsOdQg8rkthHdg4yLaib0PmvbV41gQ=;konZVVuH/kLXCy1tfMFmPg=="
+secured: "Xb5klrAcFyz+cJX9+fERQ2FXw1PXkVkkUvQRreDs2vwo8CI2xANBzIRzrHXj4jVyXlJprixjISpfWqxdGq0bkjxnY9H2/VnTmg1KqziiupDQyOLZxTjuMz7MXEDDg8tGzyxFp8qL/u1wT7oTqcKgL6+falFeeclMl+QDMy5AF/CYzjKNdCiXpV6sgRj8gW5amXVEVgOoayWmNThT/jMlYYVeVO05EteHhEgQ0ZBYIKye1egOSt3npWycTQBZ5PapMTXeBH8FghNWcOME3mRhiRHyP8pjs+uMpMeRsJmU7YjS9EWv/EgbcI6xCt/NQa+2AHSSTc2Mu8kCA2Ic5AkRYEKNxExPzgAbIxNcMUecxVo=;YLxH7SXgzs5TIXlbKYlfSQ=="
 ---
 

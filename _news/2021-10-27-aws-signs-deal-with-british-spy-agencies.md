@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon signs deal with British spy agencies to boost use of AI for espionage"
-    excerpt: "Spy agency GCHQ has been using basic forms of AI such as translation technology for years but is now stepping up its use."
-    publishedDateTime: 2021-10-26T05:42:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 54
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/tdkil9/article37172156.ece/ALTERNATES/LANDSCAPE_615/amazon-AFPjpg"
-        width: 615
-        height: 384
-        isCached: true
   - title: "AWS wins contract to provide cloud storage to UK spy agencies"
     excerpt: "U.K.’s spy agencies to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence for espionage. The Financial Times reports the AWS deal was championed by GCHQ,"
     publishedDateTime: 2021-10-27T01:06:00Z

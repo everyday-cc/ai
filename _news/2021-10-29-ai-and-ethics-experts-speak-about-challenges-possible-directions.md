@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/ai-ethics-experts-spe
 webUrl: "https://www.eweek.com/big-data-and-analytics/ai-ethics-experts-speak-about-challenges-directions/"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

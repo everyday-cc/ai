@@ -79,17 +79,6 @@ related:
         width: 450
         height: 450
         isCached: true
-  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
-    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
-    publishedDateTime: 2021-10-26T06:51:00Z
-    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
 
 secured: "sEQqnguYx7SxmJHHEwxCOmP+SIvolxKt9dAMupSQSwqkcbdYbcvHcON9sz0TJ2/gd9Q7dq9vAd2ZNHZ1I8CbRFhvOLTxJmmZ7itkKj9QcwSl2ZhTDI7CdaBViMSxe9O612cYO/5pVxGa27WH08yPvvRVx+mzZRIkjnlUV2R9nuLVh9UJgw0Q4372DVBN74ZZzbN45n8w4uvEvYdK3e7r5EHRBJmfeYBAXpsiWw3zG1PnBi9ew/bUwRVfUIoTHWw6798iHJos4W+PC5C/1vSfgTppbOwc1igeOBpC3HgDINtqC6z0evPx4MwsJJfORonou1zyCbvnlXuw0wAj8sEZDUPP13AM+qS2GMmASEAzfaM=;QI9k8Y8p5Mig23uhETfRZw=="
 ---

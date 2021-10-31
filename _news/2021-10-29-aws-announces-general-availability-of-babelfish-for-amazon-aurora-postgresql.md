@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS Announces General Availability of Babelfish for Amazon Aurora PostgreSQL"
-excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Babelfish for Amazon Aurora PostgreSQL-Compatible Edition, a new capability that allows customers to run applications written for Microsoft ( News - Alert) SQL Server directly on Amazon Aurora with little to no code changes."
-publishedDateTime: 2021-10-28T23:41:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-babelfish-amazon-aurora-postgresql-/2021/10/28/9480379.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-babelfish-amazon-aurora-postgresql-/2021/10/28/9480379.htm"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Babelfish for Amazon Aurora PostgreSQL-Compatible Edition, a new capability that allows customers to run applications written for Microsoft SQL Server directly on Amazon Aurora with little to no code changes."
+publishedDateTime: 2021-10-28T20:17:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-middle-east-amazoncom-inc-7cd4f96c07344e0eb23982e2a82378c7"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-middle-east-amazoncom-inc-7cd4f96c07344e0eb23982e2a82378c7"
 type: article
-quality: 31
-heat: -1
+quality: 51
+heat: 61
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
@@ -29,6 +35,6 @@ related:
       domain: insidebigdata.com
     quality: 34
 
-secured: "U3P6ArhTzm3yC7U3SMEpqiaIa6d/u9JRjpcJwKPL7wpiAQjqxh0XDYW2NElClvhq8UZuYqbROaVN0ZFgSTMWJLlXxxCm0P6dZz7zq3DVWga6okTcHLCqL4A51AF+GZTxRyP1NeupnOQjLaj9/6ToCiC0gUDNsLplab0t6LNcikvCFk0PSksBDItWwtA5btAupqPe9O7xq2G9Lco5eykJcUCYa0iMQrEnH6uRqNqGJqXDASJugRQch/W5E2Yj+2UCDyxk0sgC/M9lzermAcj0yZuymiKxRgnB36wnKmWWTz7J9yIjPcNzEhWnMidzHig1RSkiFWE9iCMeWvn9y6Tm3ovZ4359i7nGH4Z7jSwdO5I=;rLiwWjnPiXRKHlW8uPrEGA=="
+secured: "qSn8/DccmUFTaZuEyQXwbWTmei/gfI4sukWt2h2woIY9rZ61Si7GtFq20qvVhTIFnLfKXTz8BbW7Kqoe9L/htSCFI88JmOi/+XDgRiqblMLJfZ1PsW8WpIgiJQvsreQ1XruaiCi6PhfPuVpWmBoY9sZG6+YeY/FG5O9DHTAdSgL7aCYn1PC+NXhPQNK381MJolnt/VLw/iAVFmsNvOPLHETOA6N2Pc9vAeKYenYzTNki/F/WiD/2UBUfSujMOTC+LsC80fUdIsZpW09QLXicEpfHvNyHK7CBjIY1IKSH8M/BKX49dgvsYvc41s8Tr2evrm7pb+8eZNbfIZlLDJPFes+tanSah7LDHLjeSB9WUgM=;fuXbZyunypV18Zasw1M8HQ=="
 ---
 

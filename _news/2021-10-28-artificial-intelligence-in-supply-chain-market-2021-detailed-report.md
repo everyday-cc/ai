@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2446457/artificial-intelligence-in-supply
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 27
-  - title: "Blockchain AI Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2025"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 00:13 /Comserve / -- The global blockchain AI market size is projected to grow from USD 228 million in 2020 to USD 703 million by 2025, at a Compound Annual Growth Rate (CAGR) of 25."
-    publishedDateTime: 2021-10-26T05:41:00Z
-    webUrl: "https://menafn.com/1103043696/Blockchain-AI-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?832665"
-        width: 333
-        height: 250
-        isCached: true
 
 secured: "aLWLF5sOEXnY+lvEuKvykrRUqXdoVcKx3AYBDlEotYsSdGUbc9lobw11oq9QJPD0aPyR6PPiG1wg1CUmZIn+v47PuNfwQsbJ8lQ6XUFjMdj5PpekDP68KIybfW6HFRYPa9a8he75XDn4O9KPKSzbY3dSPuAS9gHZWx+Lq2ZdpujY6pMBBiEDqfjmeOP1ZLzbYnkkot4UbNTvAM7Rvv1VAb4RL1qwAm4NeUJHFOeauhM5oLUEB2Lr+V25u0ppkRz6WNADJCZWUhBM3HtbPl79+u1cs+6Qx1WVnpw3AVfazEHzhuiBjxlA89Z/r/y/NM4fW8lcbB7XAKnPIoNTOymBL5rth5Rv0oWOIB84ul8cA8k=;UaVq6UvhuQPLS7KUWBcA4Q=="
 ---

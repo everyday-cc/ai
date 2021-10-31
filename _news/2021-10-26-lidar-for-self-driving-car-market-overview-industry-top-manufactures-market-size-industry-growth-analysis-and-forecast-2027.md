@@ -59,17 +59,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "The healthcare artificial intelligence market is expected to grow at a CAGR of 42.7% from 2020 to 2027 to reach at USD 52.7 billion by 2027."
-    excerpt: "The factors such as increasing funding for healthcare artificial intelligence growing demand for personalized therapy large pool of healthcare data and growing use of AI in reducing healthcare cost are expected to propel the growth of the overall healthcare artificial"
-    publishedDateTime: 2021-10-26T06:29:00Z
-    webUrl: "https://www.openpr.com/news/2441255/the-healthcare-artificial-intelligence-market-is-expected"
-    ampWebUrl: "https://www.openpr.com/amp/2441255/the-healthcare-artificial-intelligence-market-is-expected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441255/the-healthcare-artificial-intelligence-market-is-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
   - title: "Global Gesture Recognition Market, Size, Share, Analysis Report & Forecast to 2026"
     excerpt: "The global gesture recognition market is expected to grow at a significant CAGR during the forecast period The Gesture Recognition System GRS integrates imaging and computer technologies to read a specific gesture language by using specified mathematical algorithms Gesture recognition"
     publishedDateTime: 2021-10-27T09:12:00Z

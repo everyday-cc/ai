@@ -81,17 +81,6 @@ related:
       name: Automation World
       domain: automationworld.com
     quality: 49
-  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
-    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
-    publishedDateTime: 2021-10-26T06:51:00Z
-    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
 
 secured: "aREzlvo/epMfjdxoDkIT7x9AEAAsly6SX5lm9oJZBmnz7WhU9lWXjCxDxySbkefrm1l8VxPYgMYZ5nLOtklXabF79Yl5maHMruLTum78qD574lyu5GeQ1viUE3WkyPfthoxBxlCVpKKfUAQwfpPmuIo1tqhYQLcrgbSAXMdpI/ciOrOMV/S8w48zMiaxJwibWfNUet+q6qD9ZY8Hlwoe5yd3xVJZzvuzugh3e5vvVxWICcqgrhr3yEkKYzkSvgVkdRz4yipSoPpqL6UJzZlMDSbwIEBV+tO8oXav/1tb890MjntNylKDGhwDtgRK6YtJEsSAb38+12OCke3ptgUaLO6gzeRIXbUiVknFGk4DBAfSqZFBGMQI2nkGS8DFhRooAcf9UlQ6MuXQfRYCuxjAmtHzpn493aIbtBOGkh6c8dsxJ2v/RmrVdVe0AYcoT5zaPq2sW8yzviDkuM5Vh1oQ3VOFk3UwQMUyAfrEpJlyvcryek4iWHsrceNK5WogmevYyAom6wgmatg1qfzxDAWvgQ==;xqV8PYRAT8UQYw0tTBaK5w=="
 ---
