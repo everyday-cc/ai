@@ -55,20 +55,6 @@ related:
         width: 568
         height: 439
         isCached: true
-  - title: "Qualcomm’s unveiled the new chips that’ll power most 2022’s cheap phones"
-    excerpt: "Qualcomm has unveiled the four newest chipsets in the 7, 6 and 4-series to improve performance across the high, mid and entry-level tiers"
-    publishedDateTime: 2021-10-26T15:04:00Z
-    webUrl: "https://www.trustedreviews.com/news/snapdragon778g-plus-5g-specs-4176046"
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 38
-    images:
-      - url: "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/10/Qualcomm-Snapdragon-chipsets.jpg"
-        width: 2048
-        height: 1212
-        isCached: true
 
 secured: "nMPwNCAaMLAILQP/a9DY4UjAiWWZtsMBlvCYxbnf8bArKLqsXZTEbl1eNUZrRM/b3qLqfQAhLG4rHZO6vuBlcvceRxxhqIwITfiWULdgh37FvAr6iCouO5+Ium5Qe/Unz/Rc2OgqNjdy+kn+HZRc4QQBWXESLNwaOv6YaQ+pEjn5MAXI9lhV+IS16YxI7NxF7o0E3P3eKub4ajHw9tnWHYyBfZOf/izNaqIsvtEliLnpOZIyRcPqzsTblpittGvdmZZp9KPM+ZFjAyeUnQWAwgTlY2MVdgJ19bShi9p9lRN/UbuO47AIlBb6kWCgdT2YvDETiC/Kpj2gqK0zG1S7eL5nu/NjUyGatktu3hYrEejC45knTjpQVJc9ANdR0HktypNCPlNMbe0koJsRRg2QXnlnRC0GkwfZ04XF/j6waHZfuPojrME0kfqFIEC72RgwDj0k8dQwYebnGx40tWhM+OeQVFYEKGf/jSLbQXVovxmsMDA4ymZ8Aeyn3OhYhuWkvg6x9v42c+JTeeQk0SRNGA==;boLKz4YLDG3Tz9c8HLhZ3g=="
 ---

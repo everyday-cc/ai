@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/changing-america/respect/579196-expert-warns-tha
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack?amp"
 type: article
 quality: 51
-heat: 71
+heat: 73
 published: true
 
 provider:

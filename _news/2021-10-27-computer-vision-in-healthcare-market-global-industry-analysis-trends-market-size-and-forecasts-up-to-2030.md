@@ -42,6 +42,20 @@ related:
         width: 2646
         height: 1512
         isCached: true
+  - title: "The Top Ways to Use AI in Education"
+    excerpt: "AI in the education market was predicted to rise to $10.38 billion by 2026 (by 45.12% annually). AI EdTech startups are attracting millions of dollars in funding and millions of users. AI use cases in learning demonstrate such kinds of applications as AI in training,"
+    publishedDateTime: 2021-10-28T03:21:00Z
+    webUrl: "https://www.techopedia.com/the-top-ways-to-use-ai-in-education/2/34589"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 54
+    images:
+      - url: "https://images.techopedia.com/images/uploads/ai-in-education.jpg"
+        width: 902
+        height: 600
+        isCached: true
   - title: "Global Gesture Recognition Market, Size, Share, Analysis Report & Forecast to 2026"
     excerpt: "The global gesture recognition market is expected to grow at a significant CAGR during the forecast period The Gesture Recognition System GRS integrates imaging and computer technologies to read a specific gesture language by using specified mathematical algorithms Gesture recognition"
     publishedDateTime: 2021-10-27T09:12:00Z

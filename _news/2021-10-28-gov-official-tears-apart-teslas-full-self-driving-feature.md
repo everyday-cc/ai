@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "NTSB head criticizes Tesla's self-driving features, calls them 'misleading'"
-    excerpt: "NTSB Chairwoman Jennifer Homendy called the company's use of \"Full Self-Driving\" for its latest driver-assist systems \"misleading.\""
-    publishedDateTime: 2021-10-26T16:36:00Z
-    webUrl: "https://www.cnbc.com/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
+  - title: "Elon Musk announces Tesla Full Self-Driving Beta 10.4 update as rollout slows down"
+    excerpt: "Elon Musk has announced the upcoming release of Tesla’s Full Self-Driving Beta 10.4 update as Tesla slows down the rollout. Earlier this week, Tesla started rolling out Full Self-Driving Beta 10.3. The update came after a false start last weekend when Tesla pushed the update with some problems and ended up reverting back to 10."
+    publishedDateTime: 2021-10-28T16:30:00Z
+    webUrl: "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/"
+    ampWebUrl: "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
+      name: Electrek
+      domain: electrek.co
+    quality: 83
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106905792-1625177109302-Tesla-fire-PA1.jpg?v=1625234854"
-        width: 4032
-        height: 3024
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Government Official Slams Tesla’s Full Self-Driving Feature – Says Tesla Needs To Do More"
     excerpt: "Driving” feature when it was launched but it was revealed that it is a software suite that doesn’t enable full self-driving. This made it fairly unpopular among federal regulators. In a Tuesday interview with CNBC,"
@@ -58,6 +58,20 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/Tesla-Full-Self-Driving-Beta-Hero.jpg"
         width: 1500
         height: 742
+        isCached: true
+  - title: "Tesla reverses \"Full self-driving\" beta update after sudden braking reports"
+    excerpt: "Driving\" beta update it had sent to some drivers' cars, after reports that a software bug could cause vehicles to emergency brake unexpectedly, or experience phantom forward-collision alerts."
+    publishedDateTime: 2021-10-27T12:49:00Z
+    webUrl: "https://www.bitdefender.com/blog/hotforsecurity/tesla-reverses-full-self-driving-beta-update-after-sudden-braking-reports/"
+    type: article
+    provider:
+      name: Bitdefender
+      domain: bitdefender.com
+    quality: 37
+    images:
+      - url: "https://blogapp.bitdefender.work/hotforsecurity/content/images/2021/10/tesla-drive.jpeg"
+        width: 800
+        height: 420
         isCached: true
 
 secured: "KEwo6RKana8l86a2M/0bukS+9UO1DtUyWEZrpjKVxfX/Rgj56VXO6LoPfITjiHbvorngZBnZJCtcBk1iWBgyplCSx1W8MrK5suAYJe097O0ds0KKCKT8j1YpQgmIzOCR4/EmjYIXHy99sd7HprDUP4RD9EvvK+L8SAaq58aDLxKKrg+rTAzH/PKO1cRPAUhTIKKCRJNutUpeeAtY7CSafc05sx3Qesw6LUOwt48Ci7IwrYhrByFQw6J/UGwR32fHTnbaJGBF0IBn5a5hKtrMgL5Mz4fbCurbt7FOLclpvxvGJxFUSUt4csP1DmzUDNnMEzKH/oEFsjo52iZHlogFUjJ9H+++tJVpWjnMSkVBaX60KgKe1cq5oJ8Pvioa1cGzkVBherZDWMBA2RjuvldVKq3UOsO7GVo2rcLa94D/y5c6zfCouMsQIaWxn6jNX2D44bHXjJolVNlcB60mQxQ0deUf7zwV/YrIDBOjrzpzihYuAmm+XZcHbAXmgEVBhCJmS0CbonbrAlHAKFRL/hQFCg==;VK0FwV0D9wN7oach0bW+jA=="

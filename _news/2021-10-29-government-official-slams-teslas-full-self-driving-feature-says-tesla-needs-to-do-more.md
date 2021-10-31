@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "NTSB head criticizes Tesla's self-driving features, calls them 'misleading'"
-    excerpt: "NTSB Chairwoman Jennifer Homendy called the company's use of \"Full Self-Driving\" for its latest driver-assist systems \"misleading.\""
-    publishedDateTime: 2021-10-26T16:36:00Z
-    webUrl: "https://www.cnbc.com/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/26/ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.html"
+  - title: "Elon Musk announces Tesla Full Self-Driving Beta 10.4 update as rollout slows down"
+    excerpt: "Elon Musk has announced the upcoming release of Tesla’s Full Self-Driving Beta 10.4 update as Tesla slows down the rollout. Earlier this week, Tesla started rolling out Full Self-Driving Beta 10.3. The update came after a false start last weekend when Tesla pushed the update with some problems and ended up reverting back to 10."
+    publishedDateTime: 2021-10-28T16:30:00Z
+    webUrl: "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/"
+    ampWebUrl: "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
+      name: Electrek
+      domain: electrek.co
+    quality: 83
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106905792-1625177109302-Tesla-fire-PA1.jpg?v=1625234854"
-        width: 4032
-        height: 3024
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Gov Official Tears Apart Tesla’s “Full Self-Driving” Feature"
     excerpt: "It’s misleading.” Full Self-Driving is an optional $10,000 add-on to Tesla’s Autopilot suite. The feature has repeatedly come under scrutiny, especially once Tesla started testing a beta version of the software with the help of a small subset of drivers on public roads in October 2020."
@@ -58,6 +58,20 @@ related:
       - url: "https://wp-assets.futurism.com/2021/10/official-tears-apart-tesla-full-self-driving-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Tesla reverses \"Full self-driving\" beta update after sudden braking reports"
+    excerpt: "Driving\" beta update it had sent to some drivers' cars, after reports that a software bug could cause vehicles to emergency brake unexpectedly, or experience phantom forward-collision alerts."
+    publishedDateTime: 2021-10-27T12:49:00Z
+    webUrl: "https://www.bitdefender.com/blog/hotforsecurity/tesla-reverses-full-self-driving-beta-update-after-sudden-braking-reports/"
+    type: article
+    provider:
+      name: Bitdefender
+      domain: bitdefender.com
+    quality: 37
+    images:
+      - url: "https://blogapp.bitdefender.work/hotforsecurity/content/images/2021/10/tesla-drive.jpeg"
+        width: 800
+        height: 420
         isCached: true
 
 secured: "Ax1TjnTB5EDq8Q0eLtC4Pea39FgEpo1ZqJodjrpoxs8SYbFkPvAFQ6hSQhaKacrKi0OC0Jrf+Q586aSltsljOVO37yFVN9qHjqw/xPMMUjHdBZdZk7tmXvp+HF1vGAQdpff0Y5HmtezIqwUvozfJFHHTqkE84FSCJioxjmxyvVzk+RnSUfsL/RMltBBd1j7kRkC56TBY/WiN1lR3Rz1Rf4dlINnkOTlnIGc09gJYe/0qX9r6M40yV/RpV7rK6jPfe2I+qGt/B+nTxcHhN+By3NCmA+plj0AgdsVWtVzMRllbsfWAHOxF72kP0tH00PhNg51jwXb8i1YZ+PZq07+KK4yXIO8L3ubyXljrOPscV8OIbcBjBNsdE1l3B2tdovZ2fMRGnlMsJHuzPbswQcH6umap68W29cPOQPtk2mOInU533n/0Q0v2y31pRNgubv2PtVWPHzyPWyRAsiqrbkozpr6WIG6zvbsB67R5jYNyZfZUlQWxKFV9U423PxJ5bh9kAc+JXntJo2UL9w2cIfuBaw==;NRu27N+71cTi7sfJ5Z3RvQ=="

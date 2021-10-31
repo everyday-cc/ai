@@ -25,22 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "The awkward grant of patents to artificial intelligence"
-    excerpt: "It’s pointless because AI can’t even speak for itself, as of now, let alone wilfully exercise the rights granted"
-    publishedDateTime: 2021-10-26T16:58:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/the-awkward-grant-of-patents-to-artificial-intelligence-11635267216589.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/the-awkward-grant-of-patents-to-artificial-intelligence/amp-11635267216589.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-awkward-grant-of-patents-to-artificial-intelligence/amp-11635267216589.html"
+  - title: "Artificial Intelligence in the Education Sector Market Size Forecasted to be Worth USD 17.83 Billion by 2027"
+    excerpt: "The global artificial intelligence in the education sector market is expected to be valued at USD 17.83 billion by 2027 from USD 1.08 Billion in 2019, registering a CAGR of 43.8% through the forecast period,"
+    publishedDateTime: 2021-10-28T13:29:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
+      name: Impacts
+      domain: techbullion.com
+    quality: 55
     images:
-      - url: "https://images.livemint.com/img/2021/10/26/600x338/AI-kCzC--621x414@LiveMint_1635267236688.jpg"
-        width: 600
-        height: 337
+      - url: "https://techbullion.com/wp-content/uploads/2021/10/Artificial-Intelligence-in-the-Education.png"
+        width: 2646
+        height: 1512
         isCached: true
+  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
+    excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
+    publishedDateTime: 2021-10-27T04:43:00Z
+    webUrl: "https://menafn.com/1103052426/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Global Gesture Recognition Market, Size, Share, Analysis Report & Forecast to 2026"
+    excerpt: "The global gesture recognition market is expected to grow at a significant CAGR during the forecast period The Gesture Recognition System GRS integrates imaging and computer technologies to read a specific gesture language by using specified mathematical algorithms Gesture recognition"
+    publishedDateTime: 2021-10-27T09:12:00Z
+    webUrl: "https://www.openpr.com/news/2443753/global-gesture-recognition-market-size-share-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2443753/global-gesture-recognition-market-size-share-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2443753/global-gesture-recognition-market-size-share-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
 secured: "bbyMsI/ppkIGe7Ihpx92+Q+pWJJ9G3LIKH8cafzsgiMOxTti2d38ZAdq3MR+9n/TxNaC9jrEHZ1Rvth452X+RxgUaWj+v0OPjLtuEbVxZJYtTJhp8bD1qTjNxpeYtxXihbTAzaJgALql1CWFtGrU/zIUY0391Z2U0D5Bf3cJDUfNcSeO8Uz55YVuwCGd2IEFnyazc4kgmKGazW/Og054fb0WOZFmo2dcn9R8y9ztkqdp6cbMkiCViZZR7yMQN6ZVZol/avOGilMhZ8N9RQ1kqtYLxM7BzWXLJB5V21ACXT5q53yjDn3mF8u5/2T9F/Kn52WAo8LiOlKr4ITd2WqTgbx7lP2w7MI//I31uggmpPHAsaKsKTvoyP92UZbGu1qily4ebtRsVXrjRXKFtdOjCqfNfSxxNVLMzzQ5NuntwiS/ijcXDAQQ+HNqmgZZaJgImZu1ti6SdEyrDMR/UEYtlikYBnAvA9YHx/rGVF+0OwEYTwhYNsT67vT+u3jcKtsaaEogBaTmB2f1B/uO4TBTLA==;f0XQ9ZOvMDIaf8V8uxABsA=="
 ---

@@ -91,6 +91,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Want to participate in the latest automation revolution? Go for a career in Robotics"
+    excerpt: "Now is your chance to join the latest automation revolution around the corner by becoming an expert in Robotics. What is Robotics Robotics is an interdisciplinary subject that connects science, engineering and technology to manufacture robots."
+    publishedDateTime: 2021-10-31T08:13:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/career/want-to-participate-in-the-latest-automation-revolution-go-for-a-career-in-robotics/cid/1836694"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/career/want-to-participate-in-the-latest-automation-revolution-go-for-a-career-in-robotics/cid/1836694"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/want-to-participate-in-the-latest-automation-revolution-go-for-a-career-in-robotics/cid/1836694"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 67
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2021/Oct/1635665724_shutterstock_596821169-1.jpg"
+        width: 558
+        height: 374
+        isCached: true
   - title: "US airlines to test facial recognition technology this holiday season"
     excerpt: "Delta Air Lines is set to launch a first-of-its-kind pilot program that will use facial recognition technology at two of America's largest airports -- Atlanta and Detroit"
     publishedDateTime: 2021-10-30T09:04:00Z

@@ -37,6 +37,20 @@ related:
         width: 2646
         height: 1512
         isCached: true
+  - title: "The Top Ways to Use AI in Education"
+    excerpt: "AI in the education market was predicted to rise to $10.38 billion by 2026 (by 45.12% annually). AI EdTech startups are attracting millions of dollars in funding and millions of users. AI use cases in learning demonstrate such kinds of applications as AI in training,"
+    publishedDateTime: 2021-10-28T03:21:00Z
+    webUrl: "https://www.techopedia.com/the-top-ways-to-use-ai-in-education/2/34589"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 54
+    images:
+      - url: "https://images.techopedia.com/images/uploads/ai-in-education.jpg"
+        width: 902
+        height: 600
+        isCached: true
   - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
     excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
     publishedDateTime: 2021-10-27T04:43:00Z

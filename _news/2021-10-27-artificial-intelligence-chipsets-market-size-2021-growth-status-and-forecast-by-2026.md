@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-2021-growth-status-and-forecast-by-2026-2021-10-27"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
+  - title: "Automatic Speech Recognition Market Size,Growth 2021–Global Industry Analysis, Trends, Market Demand, Opportunities and Forecast 2025"
+    excerpt: "Global Automatic Speech Recognition Market Report provides strategic insights into market opportunities, trends,"
+    publishedDateTime: 2021-10-28T05:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-sizegrowth-2021global-industry-analysis-trends-market-demand-opportunities-and-forecast-2025-2021-10-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Construction Market 2021-2026: Trends, Scope, Demand, Opportunity and Forecast"
     excerpt: "The Artificial Intelligence in Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Artificial Intelligence in market It particularly sheds light"
     publishedDateTime: 2021-10-27T11:24:00Z

@@ -44,9 +44,9 @@ related:
   - title: "Intel Arc Alchemist GPU could be a game changer — here’s everything we know"
     excerpt: "And, on paper, the upcoming Intel Arc Alchemist GPU looks like it could be just the ticket, offering similar performance to Nvidia’s RTX 3070. Expected in Q1 2022, the GPU is still some way away, but YouTuber Moore’s Law is Dead claims to have provided a first look as to what the card will look like — or what it currently looks like in its pre-production state,"
     publishedDateTime: 2021-10-30T11:37:00Z
-    webUrl: "https://www.tomsguide.com/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
+    webUrl: "https://www.tomsguide.com/uk/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
     type: article
     provider:
       name: Tom's Guide

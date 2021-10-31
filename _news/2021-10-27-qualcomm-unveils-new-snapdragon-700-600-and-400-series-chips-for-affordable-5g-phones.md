@@ -9,7 +9,7 @@ ampWebUrl: "https://beebom.com/qualcomm-snapdragon-700-600-and-400-series-chips-
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/qualcomm-snapdragon-700-600-and-400-series-chips-affordable-5g-phones/amp/"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.telecompaper.com/content/qualcomm_snapdragon__5g.png"
         width: 568
         height: 439
-        isCached: true
-  - title: "Qualcomm’s unveiled the new chips that’ll power most 2022’s cheap phones"
-    excerpt: "Qualcomm has unveiled the four newest chipsets in the 7, 6 and 4-series to improve performance across the high, mid and entry-level tiers"
-    publishedDateTime: 2021-10-26T15:04:00Z
-    webUrl: "https://www.trustedreviews.com/news/snapdragon778g-plus-5g-specs-4176046"
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 38
-    images:
-      - url: "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/10/Qualcomm-Snapdragon-chipsets.jpg"
-        width: 2048
-        height: 1212
         isCached: true
 
 secured: "7uul0f4EFRAymfAiwN8b6e72W64A8FBIu2PP9FdhjLgQAq/D5WZNReDSdggjagSPuMS0r5xnxtVEAACD77OMQdFK4t1rAk8m5qYYHRzKustz9yWd8lJ/dV01P1rr1APETQ6BuTpfZXy1nlH+NgN1WntiC2uoR3TmBMOMad2rsvZwj/ICUOid8KLtbzuViJXHcVczplv/02YOQbpBD2T7HfQfEkGSOlqcIF8MPwB3Lids36sMpnAV5sJIb4lgdBtiCUGWHhjm2miIjkg5MtdFOmWBP9t7BlLA6fZPI4U+2V28zx9NVwWclxQyr33m0zy4o7A/Rsr2l6Ev+51Ya4cSxRnvYSLmiZtY8QnNHyvvA8bQIGKISAfrFuFUbjHwEJ8tWBB6VBZYSOngO5omQBUzcDk+NkyuhyYGOj1DE93P0g4iAfHAIJ45d0UABmitbti0Bau9wyAO+pfsdqxS5DI5MV2rW83/hquAssOdvB9eLM/iySdfyXq9sbEup8xZVeyBj9dTAaJRelwz6eGY0/P+cg==;b8w2I70eRAFJTCzaTttwrg=="

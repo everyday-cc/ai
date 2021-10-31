@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Airlines turn to facial recognition technology ahead of holiday rush"
-excerpt: "The travel industry is gearing up for what could be its since the coronavirus pandemic began, and at least one U.S. airline is aiming to make things easier and faster."
-publishedDateTime: 2021-10-27T12:01:00Z
-originalUrl: "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460"
-webUrl: "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460"
-ampWebUrl: "https://goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
-cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
+title: "Want to participate in the latest automation revolution? Go for a career in Robotics"
+excerpt: "Now is your chance to join the latest automation revolution around the corner by becoming an expert in Robotics. What is Robotics Robotics is an interdisciplinary subject that connects science, engineering and technology to manufacture robots."
+publishedDateTime: 2021-10-31T08:13:00Z
+originalUrl: "https://www.telegraphindia.com/edugraph/career/want-to-participate-in-the-latest-automation-revolution-go-for-a-career-in-robotics/cid/1836694"
+webUrl: "https://www.telegraphindia.com/edugraph/career/want-to-participate-in-the-latest-automation-revolution-go-for-a-career-in-robotics/cid/1836694"
+ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/career/want-to-participate-in-the-latest-automation-revolution-go-for-a-career-in-robotics/cid/1836694"
+cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/want-to-participate-in-the-latest-automation-revolution-go-for-a-career-in-robotics/cid/1836694"
 type: article
-quality: 74
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Telegraph
+  domain: telegraphindia.com
 
 topics:
-  - Computer Vision
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/GMA/delta-airlines-biometric-boarding-01-ht-llr-211026_1635280415660_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://assets.telegraphindia.com/telegraph/2021/Oct/1635665724_shutterstock_596821169-1.jpg"
+    width: 558
+    height: 374
     isCached: true
 
 related:
@@ -42,6 +42,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/bQttsYAKmrwusDNeEaNGnC-1200-80.jpeg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Airlines turn to facial recognition technology ahead of holiday rush"
+    excerpt: "The travel industry is gearing up for what could be its since the coronavirus pandemic began, and at least one U.S. airline is aiming to make things easier and faster."
+    publishedDateTime: 2021-10-27T12:01:00Z
+    webUrl: "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460"
+    ampWebUrl: "https://goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 74
+    images:
+      - url: "https://s.abcnews.com/images/GMA/delta-airlines-biometric-boarding-01-ht-llr-211026_1635280415660_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Speechmatics pushes forward recognition of accented English"
     excerpt: "Speech recognition has gone from convenient to crucial over the last few years as smart speakers and driving assist modes have taken off — but not everyone’s voice is recognized equally well. Speechmatics claims to have the most inclusive and accurate model out there,"
@@ -74,22 +90,6 @@ related:
       - url: "https://i.insider.com/617970c089b91c00185a8daa?width=1200&format=jpeg"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Want to participate in the latest automation revolution? Go for a career in Robotics"
-    excerpt: "Now is your chance to join the latest automation revolution around the corner by becoming an expert in Robotics. What is Robotics Robotics is an interdisciplinary subject that connects science, engineering and technology to manufacture robots."
-    publishedDateTime: 2021-10-31T08:13:00Z
-    webUrl: "https://www.telegraphindia.com/edugraph/career/want-to-participate-in-the-latest-automation-revolution-go-for-a-career-in-robotics/cid/1836694"
-    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/career/want-to-participate-in-the-latest-automation-revolution-go-for-a-career-in-robotics/cid/1836694"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/want-to-participate-in-the-latest-automation-revolution-go-for-a-career-in-robotics/cid/1836694"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 67
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2021/Oct/1635665724_shutterstock_596821169-1.jpg"
-        width: 558
-        height: 374
         isCached: true
   - title: "US airlines to test facial recognition technology this holiday season"
     excerpt: "Delta Air Lines is set to launch a first-of-its-kind pilot program that will use facial recognition technology at two of America's largest airports -- Atlanta and Detroit"
@@ -136,6 +136,6 @@ related:
         height: 533
         isCached: true
 
-secured: "yNeSyrQVjZbFuUv4UTinOSBrFeSLgOAcwESUFrvnPrHbIx9eKbGjy1HCI3Fp5UaR9QInUWXeGty1sIt+OR/yjJHGBVkNhM23jiKQXf+FlZlaso99UFjpOYJymhYFoDLlYx70q21lYHZ1Pj+90V1oHnO9F98/POtmL7jc51CTWqbUH3ycwWCzpHw8QuiY4A5pspMdjQRFrhO7j7n56vroEvfpQGZ9gMwPVOcX720Mya6plM7V+VC555++u5SQ1c1spuFD2xsOfqK1TbPGyHfJAD43V9cy+xC3OtUi8BWpXbFCnrjg/iRWRogbU00tIIJ91dTWDy4tVQ82o6/ihhZrHD1bVQQCJxIixyZrR9GRMhbQZufEBUnU1h4UYw88WESNVDP8Qyyav4jsV8d/PNMFgUt22ksvfMLr9nBPQ8IFw2hl0YXVWUupUSXzHjjvwZikFAPw+cgTkBq+0xMtjs1NL2v/qNWb+3cCov5wjQdtFhvedDjVBsj9R8k284ICKgj3H3NnRFhij4Jf3tnJ1t5XeQ==;9gJ/DRvuSkMchXMt6jstNA=="
+secured: "mDvlU6eVOdJb/4q6ySoNTk0o8QK1xnrdB3uPb+I71kIhYaHEl7RcsKWFos/DqWs6SuUPpZrRa8pn0zVbqh5nntzq/xxLb4Bw7IZXaKVAZOBnV+O/0WGmWq55wZW6/61p5b8ZKasPHl/2INwor00YqDdgNjckq+FOb3547Bn6HNa3M1GIH7Br3kw6DhPm43VV0a9MLfWwKPFSGDqRH48Stm9ndi/J3MP51wD1uPTwLVbFTLVooqlElft8PZsXjALdjE6RBuVBtfp0yGSH1KkhAnC1V6v99BNgpLuP0gGT2qaK8pgYqx31JgtyBtl/LI30IR/vOhYCZD6VnkQErkcuKRLOSy21+l707QQ+GIFdST8=;VYnmT8xVs0j50pRI3IIcNA=="
 ---
 

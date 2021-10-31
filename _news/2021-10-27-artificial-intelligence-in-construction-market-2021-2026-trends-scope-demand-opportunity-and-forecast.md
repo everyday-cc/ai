@@ -45,6 +45,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
+  - title: "Automatic Speech Recognition Market Size,Growth 2021–Global Industry Analysis, Trends, Market Demand, Opportunities and Forecast 2025"
+    excerpt: "Global Automatic Speech Recognition Market Report provides strategic insights into market opportunities, trends,"
+    publishedDateTime: 2021-10-28T05:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-sizegrowth-2021global-industry-analysis-trends-market-demand-opportunities-and-forecast-2025-2021-10-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Chatbots Market will experience a noticeable growth during the forecast period 2021-2027"
     excerpt: "The Global Artificial Intelligence Chatbots Market initiative will look into current global market circumstances. MarketQuest.biz created this research to provide its customers with a comprehensive understanding of the market and to aid them in developing ..."
     publishedDateTime: 2021-10-28T16:03:00Z
