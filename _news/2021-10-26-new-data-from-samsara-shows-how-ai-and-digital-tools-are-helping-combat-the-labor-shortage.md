@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/new-data-from-sams
 webUrl: "https://markets.businessinsider.com/news/stocks/new-data-from-samsara-shows-how-ai-and-digital-tools-are-helping-combat-the-labor-shortage-1030900491"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,37 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "How AI could solve supply chain shortages and save Christmas"
-    excerpt: "Long live supply chains stress-tested with AI digital twins. With the supply-chain disruptions of the past two years showing no signs of easing anytime soon, businesses are turning to a new generation of AI-powered simulations called digital twins to help them get goods and services to customers on time."
-    publishedDateTime: 2021-10-26T09:13:00Z
-    webUrl: "https://www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/"
-    ampWebUrl: "https://www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/amp/"
+  - title: "U.S. lawmakers investigating how Facebook Inc. and other online platforms shape users' world views are considering new rules for their artificial intelligence algorithms"
+    excerpt: "Lawmakers weighing how to limit the spread of disinformation on Facebook and other social media giants are turning their attention to regulating the powerful algorithms that drive them."
+    publishedDateTime: 2021-10-26T16:40:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10132791/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10132791/amp/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10132791/amp/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 157
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 10
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/digitaltwins-1.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Could Artificial Intelligence Save the Holiday Shopping Season?"
-    excerpt: "However, businesses are turning to new artificial intelligence-powered (AI) simulations, known as “digital twins,” to help get products and services to consumers on time – especially as we head into the holiday shopping season. These digital twins ..."
-    publishedDateTime: 2021-10-28T22:23:00Z
-    webUrl: "https://www.natlawreview.com/article/could-artificial-intelligence-save-holiday-shopping-season"
-    ampWebUrl: "https://www.natlawreview.com/article/could-artificial-intelligence-save-holiday-shopping-season?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/could-artificial-intelligence-save-holiday-shopping-season?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 57
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
+      - url: "https://i.dailymail.co.uk/1s/2021/10/26/17/49663707-0-image-a-2_1635265326901.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "epwHy+VxdGbFXziO9PZboi7rREVmrpQkoJCGfvZAMoUc3OepE2s/QE/+x6e1INuxU2S2W6gznX+DAxYVweFLDnkuml2a9YK+tYps7e/J1HkbL4J3JVbBsQY4otbd5X8JeAZR9d4JFVY++Rm42ogUWRY2LsqGwW0L+jcdbugNT2U6OBw0PiQSrVlOdZp4k8HGor9o9FAq6o8MKqvIyKPcvq/hC5v5ChqVpRConIazRu2PK0iDK2DUCbz6rFfo8e1IyxQWCkQeEAHDrLHUrSCoUNT/SOlXHoJexuUy9LYRizbtY36XeFPuGimNNuqHzMSvtCW5SaJ6lUJnshBYTzWMUedAYHyFxdC5RYCfwT+CtW6oqqO2hgS8qs6AwFCEZkgy5KHrdlRVfbE+z7jf7gBx+NOjLubSsmq9c9g92XXORynMRwc9YKunQDi9AVJkrSJNIMO8ZADcoGFWS5gQOwnVGc+cd2FkXKr6phHzwLNg/lBLOMOLWqe7ehJtlE29v7agvn5AIgmE43ISlszp0QXHxw==;a6GQAIqvq1J06OxeNOnmYg=="

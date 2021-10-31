@@ -24,52 +24,61 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered spend management platform Yokoy secures $26M"
-    excerpt: "Yokoy, a company developing spend management tools for enterprises, has raised $26 million in venture capital."
-    publishedDateTime: 2021-10-26T09:30:00Z
-    webUrl: "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/"
-    ampWebUrl: "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/"
+  - title: "How Instoried Is Using AI To Turn Your Content Into Something People Actually Want To Read"
+    excerpt: "Enter Instoried, which is today announcing the completion of an $8m funding round as it launches its content enhancement platform in the US. Powered by artificial intelligence (AI), Instoried provides instant feedback on the written content created by businesses and individuals,"
+    publishedDateTime: 2021-10-26T16:43:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/"
+    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61782f4d6dade68bd54813b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2175%26cropY1%3D339%26cropY2%3D1562"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "AI Spend Management Platform Yokoy Raises $26 Million Series A"
-    excerpt: "Yokoy, a firm that provides an AI-based spend management service for midsize and enterprise companies, has raised $26 million in a Series A round, according to a note from the company. The funding round was led by Left Lane Capital,"
-    publishedDateTime: 2021-10-26T09:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/10/182116-ai-spend-management-platform-yokoy-raises-26-million-series-a/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182116-ai-spend-management-platform-yokoy-raises-26-million-series-a/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182116-ai-spend-management-platform-yokoy-raises-26-million-series-a/amp/"
+  - title: "AI-based startup Instoried raises $8 Mn funding"
+    excerpt: "Instoried has raised $8 million in its funding round in order to strengthen its technology stack, expand its team, and enter new markets"
+    publishedDateTime: 2021-10-27T06:28:00Z
+    webUrl: "https://thetechportal.com/2021/10/27/ai-based-startup-instoried-raises-8-mn-funding/"
+    ampWebUrl: "https://thetechportal.com/2021/10/27/ai-based-startup-instoried-raises-8-mn-funding/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/10/27/ai-based-startup-instoried-raises-8-mn-funding/?amp"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
+      name: thetechportal.com
+      domain: thetechportal.com
     quality: 57
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/04/50-Dollars-Grant-Money-Cash-Spend-Pay.jpeg"
-        width: 1198
-        height: 1280
+      - url: "https://thetechportal.com/wp-content/uploads/2021/10/Sharmin-Ali-CEO-Founder-Instoried_2.jpeg"
+        width: 2175
+        height: 2336
         isCached: true
-  - title: "Swiss AI-powered spend management platform Yokoy raises $26 million"
-    excerpt: "Zurich-based spend management platform Yokoy has raised $26 million in a Series A round. The tool uses a combination of AI tools and API integrations to automate expense management, supplier […]"
-    publishedDateTime: 2021-10-26T09:45:00Z
-    webUrl: "https://tech.eu/brief/swiss-ai-powered-spend-management-platform-yokoy-raises-26-million/"
+  - title: "AI-driven content startup Instoried raises $8 mn led by Pritt Investment, 9Unicorns"
+    excerpt: "Instoried Research Labs Pvt. Ltd, an artificial intelligence-based startup focussed on content marketing, has raised $8 million"
+    publishedDateTime: 2021-10-27T05:00:00Z
+    webUrl: "https://www.vccircle.com/ai-driven-content-startup-instoried-raises-8-mn-led-by-pritt-investment-9unicorns"
     type: article
     provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 37
+      name: VCCircle
+      domain: vccircle.com
+    quality: 31
     images:
-      - url: "https://tech.eu/wp-content/uploads/2021/10/pewpewkitty-1.png"
-        width: 960
-        height: 545
+      - url: "https://assets.vccircle.com/uploads/2021/10/artificialintelligencerfxlvv.jpg"
+        width: 810
+        height: 506
         isCached: true
+  - title: "Bridgeweave and IIFL Securities Announce Partnership to Provide AI Powered Investment Insights"
+    excerpt: "Bridgeweave, a UK based fintech, today announced a partnership with IIFL Securities Limited, one of India’s leading brokerage and investment advisory firms. IIFL will offer Bridgeweave’s flagship InvestorAi app for AI powered investments insights and premium content to its clients."
+    publishedDateTime: 2021-10-26T12:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211026005515/en/Bridgeweave-and-IIFL-Securities-Announce-Partnership-to-Provide-AI-Powered-Investment-Insights"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
 
 secured: "4f7jaI6eiwtfK509dy+sgirtQHh5RyDgQHlaYBObrW1ivSWwzbfPRB4JSytpfvt4RS7g7kpCQmJ4hX0mGZ0s7RlkmR9fAmKRU7xrev4YqInDolKQ2vwV5xiZr8eQEe3M8y7kyQJ78E4pULDF9d80NC9l7cW4eTcdUyIaQHkfw6XEOJQ2EBf4cbHOnpqAVGGZO2H2h0/9YukKlqflnmf/JQPrl6V2em8WK7Y+jPiEYPsG7ufvbIpY5ndHAsChPckSeLX/Zsbi5AM9V2vFiW4i3WJzNT/FD1Vbf8C+Ml2udI9nZ1X8oheg/2NRyOHkqih9k7sxGeitonDWnC1b+64w7wSvmXupCBBigZ62Rx0fD+o=;PCChY10G9JBtqHxfwUP9Ow=="
 ---

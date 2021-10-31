@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/iit-guwahati-launch
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/iit-guwahati-launches-btech-degree-in-data-science-and-artificial-intelligence/cid/1836126"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Delhi to offer MTech in Machine Intelligence and Data Science. Check details"
-    excerpt: "IIT Delhi's Senate, the faculty body responsible for taking all major educational decisions, has approved the proposed programme titled ‘M Tech in Machine Intelligence and Data Science’ (MINDS)"
-    publishedDateTime: 2021-10-26T09:31:00Z
-    webUrl: "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html"
-    ampWebUrl: "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 54
-    images:
-      - url: "https://images.livemint.com/img/2021/10/26/600x338/185614e0-310a-11ec-901b-e0eb6ffe225f_1635240619247_1635240635839.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "IIT Delhi School of Artificial Intelligence to Offer New MTech in Machine Intelligence and Data Science"
     excerpt: "IIT Delhi will offer an MTech in machine intelligence and data science from July 2022 onwards through its School of Artificial Intelligence"
     publishedDateTime: 2021-10-27T11:15:00Z
@@ -57,20 +41,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "IIT Delhi To Offer MTech In Machine Intelligence And Data Science"
-    excerpt: "Indian Institute of Technology (IIT) Delhi has announced a new postgraduate programme, ‘MTech in Machine Intelligence and Data Science (MINDS)'."
-    publishedDateTime: 2021-10-26T09:38:00Z
-    webUrl: "https://www.ndtv.com/education/iit-delhi-offer-mtech-in-machine-intelligence-and-data-science"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 24
-    images:
-      - url: "https://cache.careers360.mobi/media/article_images/2021/10/26/iit_delhi_image.jpg"
-        width: 860
-        height: 430
         isCached: true
 
 secured: "4QTQ+ubVz3b8nWsFMmvBGdMpLCpHqFhiGUeHmDuza2RNpEGmqRZpOkQD1K8JzrnzI/JuzEqbgi+RwLtrEVKDAkrazscjS4wQDbxfKJJXWpmhnM98gf35bCPn2d9TAPnaV27qJ1JHzWddxyxUjdu8PSsqxAlxbSX1qSFdd50FjuqOZiUI8lhMmV27vpU5jKuMJLVNibI01kjJ1sLdGvHjvsY+NpjyH1eOYrsfHqTyaLv8H0ySQUGcxhkxe+tc21g+uRM08aARQnXbIhOqxNdPQKWzFfcj3Bl6401AKwqXG+6wEkNWXU4z7a35+MpWTtblNntPob8jTaXhVYLVuOPl4kS1eXTbrhKidLO2HSZ97piyUFxma8G1uvqTre1U9G/91reTFjF9LXeTe96I66bzyDaLm3lhiu4DedIyq+JABF1/LlNZ7/7cv31Kkb8TyHqBkSXf69gU5Rlnrm7Y7XiBLns/PUENBjdD4e374ok1PoialJqRY89zDGgcZD7E/yPWc92DfcK/6DZhXO1vwQ4ahw==;oTvgJ5k8JQOYoVyE4mo8qQ=="

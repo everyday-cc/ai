@@ -57,20 +57,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "North Ayrshire Council to pause the use of facial recognition tech in schools"
-    excerpt: "Nine schools in North Ayrshire that had introduced facial recognition technology for school lunches have decided to pause it. Indeed, the schools were using the system so that pupils could pay for their lunch with limited physical contact."
-    publishedDateTime: 2021-10-26T09:28:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/north-ayrshire-council-to-pause-the-use-of-facial-recognition-tech-in-schools/"
-    type: article
-    provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 36
-    images:
-      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "vhjK5RPT0r+dOrZgY7w2vgKZDTAjdgBksBZI2EcInYD17d16GQ+obPSAY6WTT+bP0IoNf1dWx9c016UrHUzCM8M58+AeQeGA/7vj5LMu6DO6jsFbsNSUjPQa46gwtBOdFh+ffGnf4ToxPkK7+WBRGE1C8ANyL1ixD8Z+qHJ2CeeFTyGPD7/KK8jcXriZD/PJDJdFJVkIdm8SOvw7NTPYIH6sZG/6zWbkXrqBhpe2ZGmlTohEWVzfK7u8p4jYBwGFFG+tq8dMRh4ExioV7rmfZFb+QwRudrJW51PZnCKddlsLIeXG7b49UDXBdOEzOg390ZM42TT4hZI/kbVgvDIe1VD/Vu0d16bHqDMZvqf0s8fLscQ6dWVOI9CL60KYfQjLO9jKAh8prD8BxaMumeADHAGQNg3P9JOc86iTtPZrtzn6KFT2BYn7RMrDayVxmaVR09gfBlJ6pmgXv5HrgEyRTNPJtoq4QPgm/dx+loTosWoQNsfDFIdX7QwOMU2imUaE12OHkvq6yvxEhk/a+jz+5A==;11g4Rr0fz6S6rb4k0Ve3jg=="
 ---

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ensemble-based machine learning algorithms accurately predict anti-cancer drug responses"
-    excerpt: "Today, machine learning, artificial intelligence, and algorithmic advancements made by research scientists and engineers are driving more targeted medical therapies through the power of prediction."
-    publishedDateTime: 2021-10-28T00:03:00Z
-    webUrl: "https://www.news-medical.net/news/20211027/Ensemble-based-machine-learning-algorithms-accurately-predict-anti-cancer-drug-responses.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20211027/Ensemble-based-machine-learning-algorithms-accurately-predict-anti-cancer-drug-responses.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211027/Ensemble-based-machine-learning-algorithms-accurately-predict-anti-cancer-drug-responses.aspx"
+  - title: "Machine learning helps to predict blackouts caused by storms"
+    excerpt: "Doctoral candidate Roope Tervo will defend his doctoral dissertation on computer science at Aalto University on 2 November 2021. The thesis studies using machine learning on weather impact predictions focusing on the power outage and train delay predictions."
+    publishedDateTime: 2021-10-28T14:06:00Z
+    webUrl: "https://techxplore.com/news/2021-10-machine-blackouts-storms.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-machine-blackouts-storms.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-machine-blackouts-storms.amp"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 50
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-helps-1.jpg"
+        width: 1380
+        height: 600
         isCached: true
 
 secured: "ekYt85IjLzIMsCkB5XtylnxmrgXsVdXej/vmrMcN1yb/H+Yc1iT9epRXSBEpmGBQo9C9efBeSlwKSJ38eIxDWhlSsO1jA4gXF8+I5U9DwJp91W3QVBwqkzH+qKQpgpNnp2sUZ3m9e8+UyhzYWPGtxHkZmIIhHpl65OGLgAYSa3m26R5DRvZlZDoMNF14a1bTn/auhpHdgHwPYifVU4ewhJ/YrqdhxXgN95dOWFzHIA4I5ozTj/YhmqLhMXrIF1niZRdxgs4AmYPb4QP7k8ycjimWRu+aw0yJ3WEWjoYQ+wSLwOVGcjchzOd2LnnCCKbihZS2lPf2yDnQU3ZIcTTtU/SCZSseHHtaCv51eFTQWQQ5UxWzkal/1JUZLlq3icMpwF7s4STjbK+JM1h86IB/FCFsg8CceWRf1xw2qMGuG1zn84gFUDbYZ0UT5Dov2XXe2wObGowjlf+6+8z9GWy2F1WFGya6ikjFfjcB0JQs/Njds/PySL0zeT80ssOPI+HH1Ec1/JZFYdI4p1wE8vrh7w==;vxR5tztu4D/nEMBJRQrMVw=="

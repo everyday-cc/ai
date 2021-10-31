@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/one-drop-delivers-
 webUrl: "https://markets.businessinsider.com/news/stocks/one-drop-delivers-novel-ai-powered-solution-for-cardiovascular-disease-prevention-1030904494"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Business Insider
@@ -26,24 +26,6 @@ images:
     width: 400
     height: 210
     isCached: true
-
-related:
-  - title: "AAEON Releases Two Powerful Solutions for AI Edge Server and Industrial Automation"
-    excerpt: "AAEON, a leading manufacturer of industrial embedded platforms, announces a pair of systems designed for high performance applications, the BOXER-6840-CFL and BOXER-8332AI."
-    publishedDateTime: 2021-10-26T10:20:00Z
-    webUrl: "https://www.azosensors.com/news.aspx?newsID=14777"
-    ampWebUrl: "https://www.azosensors.com/amp/news.aspx?newsID=14777"
-    cdnAmpWebUrl: "https://www-azosensors-com.cdn.ampproject.org/c/s/www.azosensors.com/amp/news.aspx?newsID=14777"
-    type: article
-    provider:
-      name: Azo Sensors
-      domain: azosensors.com
-    quality: 53
-    images:
-      - url: "https://d10lvax23vl53t.cloudfront.net/images/news/ImageForNews_14777_16352376402024347.png"
-        width: 2000
-        height: 1306
-        isCached: true
 
 secured: "YgQJhglk3u726OWGp4alJ2+kW3L8wC54Z5Tk3tgVKAimF1mqjge3YL+wOie8DtauLCoS6h20bDOUS7LVB4BH/EpJkSde2IU3VQ59tExzKKmoE6pbaG2bNkgy3HxcU7ws8xIVgJ7klQeBxPubvnmQx3QHdFmWdBMrgHoWpUE8ww6pdZiMEY24Fj3lx1m2PQwJySI4dZ0Er1m8dv5sgfmcxx4QFxXLfYJOWzNDQ27nBoczSzey63N81Fesi4/qsvSDTc5dqJ2p+kI7DFd3MMomD+u8fPTuc1BX2HgQWict0p4dKolhKSKWRPVFSdPUteakURTg7FhFgLld89KQa6/y3H5D3IlLyPRbIsai8C1sPNUSfrbWma9f8/+xJ1E2N9oWprrj444+V7ew4EqtEYz6BQcLBY4E/45SX7QOMwPg/Kq8yGBu8tkzXHrqz4/2VL+ujs9rC0NK8wJdiIlh4ltwYpoe/cCpWJSPpjjP5H4Xm2S6EwYcf38Vl0r4DRG9tQJjRFAIlMufFnJPyeXrNseysg==;/RIOp+vuAAH++ROFrPg3Jg=="
 ---

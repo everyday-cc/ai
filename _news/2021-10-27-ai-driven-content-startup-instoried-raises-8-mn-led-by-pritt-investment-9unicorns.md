@@ -65,6 +65,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 7
+  - title: "Making content king again: Instoried secures $8M to expand AI-powered platform that guarantees enhanced content performance and ROI"
+    excerpt: "Instoried, the only AI-powered pre-publication sentiment analysis tool that enhances content performance in real-time has raised $8M in funding from Pritt Investment Partners and 9Unicorns with participation from Mumbai Angels,"
+    publishedDateTime: 2021-10-27T13:05:00Z
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-business-90c4e85fb8dcbf77cff0b11424c80d18"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 7
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "wRzccxZ5MK+BsmqZcRo9grFF1Tyt51Pa8vlFYOOD5DoXzZ7MIGqUsdmKI+uQYO37pSuBEoTH5tqhlUgC1KGoxTP/nS8kpOTGxPCcod2EXbVmbpWWSZStmeu1hTze8e/xLiDEDw1q+mG1yPhgyrl9i9FskUT8w4eJ95EJ5UeyQRpDK5/wrc/YC4cRjUlaF2A1+RjaU0DQblzZftuEnvDUBnv1V0aAtpAap09SR69KGlkw2rcrSYNc1CoicnpjvZJ75Fwguw/a5E9/v04VaTjnttol/mVfsSWfnbNc+G2Y0CAuHtP8q5W9YAxGxYV5fh57zSx+15wvHZ0lDK44Y+eGXkgOY4d5U5vHJrG97Tfvj1RQfWa0A48hc11ILvim2y5U2P4LXRCko+nCxYH3JNM910wHx2uZ7+rrDg2rWjipPLWLiMlqtTvG+Nhp9E7q49dkiF28b2fDw16otNFwKWsLjl+3ieCOIEdDTJXR739u2I7IHe5rQv8Ks+gENXCcGEw0W12LoV3r4jz268y/uHzy7Q==;3pno4IyrNxXeFStmgL6Zxw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/facial-recognition-in-schools-here-a
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-in-schools-here-are-the-risks-to-children-170341"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/691e627/cd75934c-215f-493a-b2df-1015f2f48059/6/School-370x229.jpg"
         width: 370
         height: 229
-        isCached: true
-  - title: "North Ayrshire Council to pause the use of facial recognition tech in schools"
-    excerpt: "Nine schools in North Ayrshire that had introduced facial recognition technology for school lunches have decided to pause it. Indeed, the schools were using the system so that pupils could pay for their lunch with limited physical contact."
-    publishedDateTime: 2021-10-26T09:28:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/north-ayrshire-council-to-pause-the-use-of-facial-recognition-tech-in-schools/"
-    type: article
-    provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 36
-    images:
-      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "Council suspends facial recognition software scheme in school canteens that scanned pupils faces as they bought lunch over privacy concerns"
     excerpt: "Nine schools in North Ayrshire in Scotland became the first in the UK to start using the system on a long-term basis last week after a pilot project in Gateshead last year."

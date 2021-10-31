@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/"
 type: article
 quality: 77
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 7
+  - title: "Making content king again: Instoried secures $8M to expand AI-powered platform that guarantees enhanced content performance and ROI"
+    excerpt: "Instoried, the only AI-powered pre-publication sentiment analysis tool that enhances content performance in real-time has raised $8M in funding from Pritt Investment Partners and 9Unicorns with participation from Mumbai Angels,"
+    publishedDateTime: 2021-10-27T13:05:00Z
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-business-90c4e85fb8dcbf77cff0b11424c80d18"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 7
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "8hEbJtp+p3ovwGIHXepMHohSmHfm+95dhUK/XI2SNWp+NzAuI2lhh8f49teLgswxbplN/dXuL4mB4u+7ua9PL54VwiYz71mBe0/InkJPeXusQkyUpOabxMETHDUpGxFlwqqtctd/ig5pTGO6EnTZIO6RoiKfP9ks/JsEAFbAzBG48VkQFqOImnO09Ul/eY7oJxhbc47OkG6vP9kvFWG/vFbmLw70GgcKyxnT2v9ZhgjVOliEzjOGHphfe4nCjvyDDSRq+g6odXdwu4rNX+p1qaHWATTLHo6nsEmM4yb0tbaWFd8aP3lIk4vi4tUNxdOJWO5J5L2YLp+nNQ4LxL0xWnCxrrZsFKy21NV6bpnEwUsY2Ya6rbHR0MRNywD8/1whxUcQsPYCvvdaQV+sfs1TxcHlf79aV1M+BUE164HUpVK2lOE6q9CbFxAwNmIqavJuKhWRzUNCl3pscNdzwt2sXCpXwwuBww4HR2aYazXhu7g0DTi5maH8QpqF4fRlLU1CbnpaBMIpq1qjSJhlIFtlGQ==;beW2C1VNKnhX2NroqdL0kQ=="
 ---

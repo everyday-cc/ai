@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning in Machine Vision Market Outlook 2026: Top Companies, Trends and Growth Factors Details for Business Development"
-    excerpt: "Deep Learning in Machine Vision Market” provides a comprehensive analysis of the market. The analysis includes market"
-    publishedDateTime: 2021-10-26T09:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-outlook-2026-top-companies-trends-and-growth-factors-details-for-business-development-2021-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Auto Insurance Market Insights Shared in Detailed Report 2021 till 2028"
     excerpt: "New York United States AI in Auto Market report will provide one with overall market analysis statistics various trends drivers opportunities restraints and every minute data relating to the AI in Auto market necessary for forecasting its revenue"
     publishedDateTime: 2021-10-26T11:07:00Z
@@ -91,34 +77,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Trends 2021: Industry Size, Share, Business Strategy, Growth, Revenue, Demand, Applications and Forecast to 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “Artificial Intelligence Market”"
-    publishedDateTime: 2021-10-26T10:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-trends-2021-industry-size-share-business-strategy-growth-revenue-demand-applications-and-forecast-to-2025-2021-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Fashion Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2024"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 03:16 /Comserve / -- MarketsandMarkets expects the global AI in fashion market to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at a Compound Annual Growth Rate (CAGR) of 40."
-    publishedDateTime: 2021-10-26T09:42:00Z
-    webUrl: "https://menafn.com/1103046901/AI-in-Fashion-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2024"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "GcaGNb6QoyJSzmbiZVTchLFtdYxpUdFFl2dTenYzLllPaoyHzzrYzAWOp59cA2xQSyKtCuHmPQtYkisuiyhxsyoG5A+xMjaIXQ5tsfc8LwQ2aIMFgjqBy4ruFRuYu6R9whs2WVqZT5NJz0SnpkCZJ3vJPK3k6Rtwnc3caK9s4Z6BAmQ4YlAaB5HXZ2G1l0DC+7dzVzj7XpppeocV7Dzp/8MVRsLbQFpIqfky0lDkiKXBwAaIvGbw9rYKe/VHQXnMkCT+Y1GZHxsVprQL1J8mT50Qpt0Hs1mjRQlMvY4Q4BzozoZcORRSnfuh7uBqOsOF5MxJXNLGAvV9NR5StjKE0U08+cwlJRjGDKqmoAw8Pow=;2EqPMUDZiEk7c/ALsSMWyg=="

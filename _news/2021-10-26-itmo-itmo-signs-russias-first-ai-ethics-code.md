@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethi
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

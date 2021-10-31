@@ -59,20 +59,6 @@ related:
         width: 1572
         height: 1080
         isCached: true
-  - title: "On the road to regulating self-driving cars"
-    excerpt: "As cars start driving themselves, to what extent should they be able to explain their actions? A UN body puts that question and others to the public."
-    publishedDateTime: 2021-10-27T07:00:00Z
-    webUrl: "https://www.swissinfo.ch/eng/politics/on-the-road-to-regulating-self-driving-cars/47042470"
-    type: article
-    provider:
-      name: Swissinfo
-      domain: swissinfo.ch
-    quality: 24
-    images:
-      - url: "https://www.swissinfo.ch/resource/image/47042590/landscape_ratio16x9/1920/1080/f66c5b5558179fd0bbb47387bb53620e/018355EA8A3384C48B57E591B6A388B8/338075149_highres.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "juSknoE/xzqnj7DYnUttDcZBiUE+TTpws5JiW4nAYDWPHt2Kjqx/UGOJucSdEXsU1QToOT51XWFJbO39z0zBRiJ774ACOjgHdBGI8Tv3QjezWs4UoDov7GSzNn4AvGA2FsVtZYkbFqW1GZp0pN656uTdKY+6aDpyIxHhCUgB9KAtXqEVXmKvyCDJddkJGcGtxagvxRhoeatHN538I6zhLL1DBDLr9K0PhMvIwFcKVWYQK0kLie2J0b7pzHt4seBA5mBfwm/LOjRQj02TYwDx3KlWPBPFfBBTvLTxToaRsgjZ4bn3dJKOzeQwNrYXPL2PPBIN37jn5GRdh/LnEjx9iG6M3zIViXKZNv0vD1/Kam0=;0R+p3IYUXiylfYNiX8xrUg=="
 ---

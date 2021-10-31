@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/how-ai-can-equip-customer-service-for-th
 webUrl: "https://customerthink.com/how-ai-can-equip-customer-service-for-the-holiday-surge/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1788
     height: 1677
     isCached: true
+
+related:
+  - title: "Could Artificial Intelligence Save the Holiday Shopping Season?"
+    excerpt: "However, businesses are turning to new artificial intelligence-powered (AI) simulations, known as “digital twins,” to help get products and services to consumers on time – especially as we head into the holiday shopping season. These digital twins ..."
+    publishedDateTime: 2021-10-28T22:23:00Z
+    webUrl: "https://www.natlawreview.com/article/could-artificial-intelligence-save-holiday-shopping-season"
+    ampWebUrl: "https://www.natlawreview.com/article/could-artificial-intelligence-save-holiday-shopping-season?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/could-artificial-intelligence-save-holiday-shopping-season?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
 
 secured: "aKM7QG8DjgzcZLmYPzDH47ZjkicLcAo4Itq5f4GoRfLX9qYEehUSDMvd73qnwZKEBg+Xhps0u1LqxoI+hLMPlrtvOPD5mEZhmvu4OmSL1S7znX0n8IBCtkqXtAUgsucg3+FX3whLutlhNE+LHtQi3Ofo9aDOl4lweo20CTgtOfeapidtGfymVXMDGkybNmUtc9itGNIDJ8CwjBgM5LsitDowaHqD+RcOHudPjVx+iQpjueGqxDUybmjmCFw6gLfK7XApeAZBMZ/MFYsEtk36MeMhORSuKOQ9whLNnQxHLNazRmI5AikpUL4M+PxgHK4N3sKnSDi7wbQhPTEEDgK5Ktci3XRwsl2xxxjxk6tTbAY=;s/ICcms6+c4TsdhmjplnmQ=="
 ---

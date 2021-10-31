@@ -200,7 +200,7 @@
       "originalUrl": "https://theconversation.com/facial-recognition-in-schools-here-are-the-risks-to-children-170341",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -494,7 +494,7 @@
       "originalUrl": "https://techcrunch.com/2021/10/27/self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -934,7 +934,7 @@
       "originalUrl": "https://gulfnews.com/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1022,57 +1022,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-27-one-drop-delivers-novel-ai-powered-solution-for-cardiovascular-disease-prevention.md",
-      "title": "One Drop Delivers Novel AI-Powered Solution For Cardiovascular Disease Prevention",
-      "excerpt": "One Drop, a leader in precision health solutions for people living with chronic conditions worldwide, today announced the release of a digital, AI-enabled cardiovascular disease (CVD) prevention module.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/one-drop-delivers-novel-ai-powered-solution-for-cardiovascular-disease-prevention-1030904494",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/one-drop-delivers-novel-ai-powered-solution-for-cardiovascular-disease-prevention-1030904494",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/996367/One_Drop_app_images.jpg",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-27-computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts.md",
       "title": "Computer vision platform Cogniac nabs $20M to bolster its customer acquisition efforts",
       "excerpt": "Cogniac, a startup developing computer vision technology primarily for industrial and manufacturing companies, raised $20 million in capital.",
@@ -1133,7 +1082,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1225,6 +1174,49 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-microsoft-powers-transformation-at-nvidia-gtc-fallgpu-technology-conference.md",
+      "title": "Microsoft powers transformation at NVIDIA GTC Fall—GPU technology conference",
+      "excerpt": "This year during NVIDIA GTC 21, we’re spotlighting some of the most transformational applications powered by NVIDIA accelerated computing that highlights our commitment to edge, on-premises, and cloud computing. Registration is free, so sign up to learn how Microsoft is powering transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T02:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI Hardware"
       ]
     }
   ],

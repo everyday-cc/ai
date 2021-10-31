@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/"
 type: article
 quality: 85
-heat: 96
+heat: 95
 published: true
 
 provider:
