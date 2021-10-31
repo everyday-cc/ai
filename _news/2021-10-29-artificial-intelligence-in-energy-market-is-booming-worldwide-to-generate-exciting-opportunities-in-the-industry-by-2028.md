@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Computer Vision in Healthcare Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027"
+    excerpt: "Global Computer Vision in Healthcare Market 2021-2027 unveiled by MarketsandResearch.biz contains an extensive assessment of the business vertical and features the distinctive market segments. The report provides brief information about market size,"
+    publishedDateTime: 2021-10-28T01:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Top 10 Companies in Image Recognition Market Industry 2021 By Fortune Business insights"
     excerpt: "The globalImage Recognition Marketis expected to rise with an impressive CAGR and generate the highest revenue by"
     publishedDateTime: 2021-10-27T11:09:00Z
@@ -38,43 +52,117 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech & Voice Recognition Systems Market 2021 Research Studies Overview with Segments and Industry Growth by 2027"
-    excerpt: "A new research market study report titled Global Speech & Voice Recognition Systems Market 2021 by Company, Regions, Type and Application, Forecast to 2027 has been featured by MarketsandResearch.biz."
-    publishedDateTime: 2021-10-27T03:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2021-research-studies-overview-with-segments-and-industry-growth-by-2027-2021-10-26"
+  - title: "Edge AI Chips Market 2021 Report Highlights, Future Prospects, Growth Strategies and Forecast to 2025"
+    excerpt: "Global Edge AI Chips Market Research Report 2021-2025, provides an in-depth analysis of market size, share, drivers, constraints, and other factors. Additionally, for the projection period of 2025, this research includes an estimated observation of many ..."
+    publishedDateTime: 2021-10-28T10:37:00Z
+    webUrl: "https://www.openpr.com/news/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    ampWebUrl: "https://www.openpr.com/amp/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+  - title: "Automatic Speech Recognition Market Size,Growth 2021–Global Industry Analysis, Trends, Market Demand, Opportunities and Forecast 2025"
+    excerpt: "Global Automatic Speech Recognition Market Report provides strategic insights into market opportunities, trends,"
+    publishedDateTime: 2021-10-28T05:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-sizegrowth-2021global-industry-analysis-trends-market-demand-opportunities-and-forecast-2025-2021-10-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 29
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Insights by Emerging Trends, Revenue Analysis, Demand Forecast till 2020"
-    excerpt: "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Oct 29, 2021, 01:16 /Comserve / -- The advanced facial recognition market is expected to witness an optimistic view by end users due to the ..."
-    publishedDateTime: 2021-10-29T06:40:00Z
-    webUrl: "https://menafn.com/1103068618/Facial-Recognition-Market-Insights-by-Emerging-Trends-Revenue-Analysis-Demand-Forecast-till-2020"
+  - title: "Machine Learning Market 2021: Industry Size, Share, Revenue, Business Growth, Demand and Applications Market Research Report to 2026"
+    excerpt: "Machine Learning Market” provides a comprehensive analysis of the market. The analysis includes market by segments"
+    publishedDateTime: 2021-10-28T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-industry-size-share-revenue-business-growth-demand-and-applications-market-research-report-to-2026-2021-10-28"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Global Machine Learning (ML) Intelligent Process Automation Market Business Intelligence Report and Strategic Insights By 2028"
-    excerpt: "Others have been further segmented into human resource management, incident resolution, and service orchestration. Machine learning (ML) intelligent process automation has also been segmented on the basis of vertical into banking, financial services ..."
-    publishedDateTime: 2021-10-29T20:48:00Z
-    webUrl: "https://chipdesignmag.com/global-machine-learning-ml-intelligent-process-automation-market-business-intelligence-report-and-strategic-insights-by-2028/"
+  - title: "Edge AI Hardware Market 2021 Disclosing Latest Trends and Advancement Outlook 2026"
+    excerpt: "The Edge AI Hardware Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Edge AI Hardware market It particularly sheds light on market"
+    publishedDateTime: 2021-10-27T10:56:00Z
+    webUrl: "https://www.openpr.com/news/2444048/edge-ai-hardware-market-2021-disclosing-latest-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2444048/edge-ai-hardware-market-2021-disclosing-latest-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2444048/edge-ai-hardware-market-2021-disclosing-latest-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+  - title: "Mobile Artificial Intelligence Market Key Players, Industry Demand, Overview And Supply Chain Analysis, Forecast To 2026"
+    excerpt: "The Mobile Artificial Intelligence Market report offers an in-depth assessment of market dynamics, the competitive landscape, segments, and regions in order to help readers to become familiar with the Mobile Artificial Intelligence market. It particularly ..."
+    publishedDateTime: 2021-10-28T10:24:00Z
+    webUrl: "https://www.openpr.com/news/2446027/mobile-artificial-intelligence-market-key-players-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2446027/mobile-artificial-intelligence-market-key-players-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446027/mobile-artificial-intelligence-market-key-players-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
+  - title: "Artificial Intelligence in Construction Market 2021-2026: Trends, Scope, Demand, Opportunity and Forecast"
+    excerpt: "The Artificial Intelligence in Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Artificial Intelligence in market It particularly sheds light"
+    publishedDateTime: 2021-10-27T11:24:00Z
+    webUrl: "https://www.openpr.com/news/2444188/artificial-intelligence-in-construction-market-2021-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2444188/artificial-intelligence-in-construction-market-2021-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2444188/artificial-intelligence-in-construction-market-2021-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 20
+  - title: "Surgical Robots Market 2021 Growth, Prominent Players: Intuitive Surgical Inc., Stryker Corporation, Verb Surgical Inc., Renishaw PLC"
+    excerpt: "The Surgical Robots Market report offers an in-depth assessment of ... advanced precision, and real-time artificial intelligence (AI)-driven motion tracking and synchronization treatment delivery for all stereotactic radiosurgery (SRS) and stereotactic ..."
+    publishedDateTime: 2021-10-28T10:38:00Z
+    webUrl: "https://www.openpr.com/news/2446068/surgical-robots-market-2021-growth-prominent-players"
+    ampWebUrl: "https://www.openpr.com/amp/2446068/surgical-robots-market-2021-growth-prominent-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446068/surgical-robots-market-2021-growth-prominent-players"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 8
+  - title: "Emotion Artificial Intelligence Market To Offer Increased Growth Prospects For Manufacturers With Current Trends And Forecast Period Of 2021-2028"
+    excerpt: "A new study on the Emotion Artificial Intelligence Market makes a detailed assessment of current opportunities, upcoming revenue areas, and current and projected valuations of various segments, gauging the economic impact of COVID-19. The assessments that ..."
+    publishedDateTime: 2021-10-29T10:42:00Z
+    webUrl: "https://chipdesignmag.com/emotion-artificial-intelligence-market-to-offer-increased-growth-prospects-for-manufacturers-with-current-trends-and-forecast-period-of-2021-2028/"
     type: article
     provider:
       name: Chip Design
       domain: chipdesignmag.com
-    quality: 8
+    quality: 0
+    images:
+      - url: "https://marketreserach167078276.files.wordpress.com/2021/10/market-research-india-2.jpg?w=750"
+        width: 750
+        height: 371
+        isCached: true
+  - title: "Automotive Artificial Intelligence Software Market Segmentation By High Corporations, Major Applications, Key Regions, Product Demand, Forecast 2028"
+    excerpt: "Stratagem Market Insights announced that it’s published an exclusive report namely Global Automotive Artificial Intelligence Software Market by Size, Share, Growth, Competitive Landscape, and Application,"
+    publishedDateTime: 2021-10-30T05:17:00Z
+    webUrl: "https://chipdesignmag.com/automotive-artificial-intelligence-software-market-segmentation-by-high-corporations-major-applications-key-regions-product-demand-forecast-2028/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 0
+    images:
+      - url: "https://marketresearch488204729.files.wordpress.com/2021/10/555-5557416_software-development-team-digital-marketing-clipart.png"
+        width: 1321
+        height: 938
+        isCached: true
 
 secured: "hCU9te3uO8eQrm1KFZnn8CtxufNxcZSXkOLwIex1qelg1hL1CRQQFVweAfS0pc+j9HOfRllgf+43QSbB/DLULkm6EEoaDUvK/PhpSq8xOXB+RSWSsT5N4N88G4EGWpbwtR6ukvqQ0OUj4Vd3ySzd3HafILuVE1QHvoTs+cYWHhsn8dSg+nb0LqOO5x+eQxI3ZiMMiMsMOuauRIo//Mpu/Mgi9q0WtoJThO6UlISbvmlulq9fH0tUbchC7Pdso4N8byQJw1XFcXeTP+dzc+zYyA34rrXK8L12h36Q6roaDlMDAOn7yuB4v96HDNDdkDvivGAfqfxLVtLFWa1DtYgUxlTvoOM3/j+06tMBCJu2dxg=;aAXOMMmj7QoctBkkj6x35w=="
 ---

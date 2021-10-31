@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Top 10 Companies in Image Recognition Market Industry 2021 By Fortune Business insights"
-excerpt: "The globalImage Recognition Marketis expected to rise with an impressive CAGR and generate the highest revenue by"
-publishedDateTime: 2021-10-27T11:09:00Z
-originalUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-image-recognition-market-industry-2021-by-fortune-business-insights-2021-10-27"
-webUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-image-recognition-market-industry-2021-by-fortune-business-insights-2021-10-27"
+title: "Global Computer Vision in Healthcare Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027"
+excerpt: "Global Computer Vision in Healthcare Market 2021-2027 unveiled by MarketsandResearch.biz contains an extensive assessment of the business vertical and features the distinctive market segments. The report provides brief information about market size,"
+publishedDateTime: 2021-10-28T01:17:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27"
+webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27"
 type: article
-quality: 46
-heat: -1
-published: false
+quality: 56
+heat: 166
+published: true
 
 provider:
   name: MarketWatch
@@ -21,6 +21,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -29,15 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Computer Vision in Healthcare Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027"
-    excerpt: "Global Computer Vision in Healthcare Market 2021-2027 unveiled by MarketsandResearch.biz contains an extensive assessment of the business vertical and features the distinctive market segments. The report provides brief information about market size,"
-    publishedDateTime: 2021-10-28T01:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27"
+  - title: "Top 10 Companies in Image Recognition Market Industry 2021 By Fortune Business insights"
+    excerpt: "The globalImage Recognition Marketis expected to rise with an impressive CAGR and generate the highest revenue by"
+    publishedDateTime: 2021-10-27T11:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-image-recognition-market-industry-2021-by-fortune-business-insights-2021-10-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -169,6 +170,6 @@ related:
         height: 938
         isCached: true
 
-secured: "mgcFsu4sALB7iitp7MKD7fiBNJzeaO6Uomi3CSkZFVKFzvxsO/wE8JG9F8LOLjJ3SMFzCv7N/GzcrU1w4rkmgyDqmQAAh0m0OxQ5cNlj/6QDvEDuOcc1lov3fFqVqxgpITqCkoduJouK5jaqKEhFu0M5tIvZ3jvgUQiS0ETJOx+ruNLLVWWDGnUId/7tueuvO9EaX2ev/kbhadUYI2kgiaoDAUajc2GszuvCRTcGLKOjiHxSz8koLJpbaQgdEMKIZ7mjG2wiS2PqIaC94HTsso+ufFU1h2ppy7gUVASBXzyk9lQaDIMut2+yMLcFAguxaB4tQc+EbNK/tpcFD3MlZexzRuZQVdIU1SZy6luIOv8=;4lPivf8DIuiP/OJKBoJxJA=="
+secured: "p36VHNhyVjkzJNmOuAe0tocDLPgHQpNzHEDLHzWMZR9nKMRO7j06YnczOmG76yal0jx8inZeezs8BQZbj6UM5c8d61sOKbSFwSpDWXlT1NjbMd7pugJ+0rNhn7hLCDF9bpV+YlwqOE7a0kTZpKfLuBOoacCszV4TEbpDxSGDSfVMK3GVlmnmlfBqJi6YT7pvOR/qNd5fqoR5f4ombQ1ller0xBPltCSPuws/pz5z9U5+NeCZrubmlKvROzUD0PbQsUhz1ajVewnmDwJlpBrFwdbInYrvePS/QcHOIjBuEpftcPT+kg02N7ghIIGdsP59h21We6GXb078w70v0eLmRLwP0Ih2SUb/IjwNiynJ1Tw=;9JpzFu1YuQOHQEYkY8XhjA=="
 ---
 

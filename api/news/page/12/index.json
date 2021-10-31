@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-10-19-artificial-networks-learn-to-smell-like-the-brain.md",
+      "title": "Artificial networks learn to smell like the brain",
+      "excerpt": "Using machine learning, a computer model can teach itself to smell in just a few minutes. When it does, researchers have found, it builds a neural network that closely mimics the olfactory circuits that animal brains use to process odors.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-10-artificial-networks-brain.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-10-artificial-networks-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-networks-le.jpg",
+          "width": 792,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-10-artificial-networks-brain.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-artificial-networks-brain.amp",
+      "publishedDateTime": "2021-10-19T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-wejo-integrates-with-microsoft-mapping-services-to-provide-real-time-transportation-data.md",
       "title": "Wejo Integrates With Microsoft Mapping Services to Provide Real-Time Transportation Data",
       "excerpt": "Wejo, a global leader in connected vehicle data, today announced an expanded collaboration with Microsoft through which Wejo's real-time mapping and traffic data will be integrated with Microsoft mapping services to deliver enhanced accuracy,",
@@ -1090,57 +1133,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics.md",
-      "title": "Data intelligence provider Alation acquires AI insights company Lyngo Analytics",
-      "excerpt": "Data intelligence firm Alation has acquired AI data insights company Lyngo Analytics, citing more presence in enterprise data culture.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/",
-      "originalUrl": "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/",
-      "publishedDateTime": "2021-10-18T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

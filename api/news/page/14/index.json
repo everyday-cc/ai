@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-10-18-wandisco-announces-general-availability-of-livedata-platform-for-azure.md",
+      "title": "WANdisco Announces General Availability of LiveData Platform for Azure",
+      "excerpt": "Zero-downtime, data-first automated platform for Hadoop to Azure migration accelerates time to business insights in the cloud",
+      "sourceUrl": null,
+      "webUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
+      "originalUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KKTV11",
+        "domain": "kktv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-data-transformation-platform-metrolinkai-raises-22m.md",
       "title": "Data transformation platform Metrolink.ai raises $22M",
       "excerpt": "Metrolink.ai, a startup developing a data transformation and management platform, has raised $22 million in venture funding.",
@@ -1113,58 +1147,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-advancing-ai-telematics-in-the-transportation-and-logistics-industry-series-blog-2.md",
-      "title": "Advancing AI Telematics In The Transportation And Logistics Industry Series : Blog #2",
-      "excerpt": "This is the second blog in the AI Transportation and logistics industry. This blog focuses on advancing AI telematics and provides an overview of current state and future state developments. Key questions for CEOs and Board Directors on leading AI are highlighted for digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616b25abb8e77ff44783f395%2F0x0.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/amp/",
-      "publishedDateTime": "2021-10-17T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

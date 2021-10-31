@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Comput"
-publishedDateTime: 2021-10-29T13:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027---exclusive-report/article_76e6767d-827a-55ea-b152-f3bf1df17c14.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027---exclusive-report/article_76e6767d-827a-55ea-b152-f3bf1df17c14.html"
+excerpt: "CHICAGO, Oct. 29, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Computer Vision ..."
+publishedDateTime: 2021-10-29T13:33:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027--exclusive-report-by-marketsandmarkets-301411884.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027--exclusive-report-by-marketsandmarkets-301411884.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
-    width: 669
-    height: 229
+  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+    width: 666
+    height: 350
     isCached: true
 
 related:
@@ -38,20 +38,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
         width: 669
         height: 229
-        isCached: true
-  - title: "Machine Learning Market 2021: Industry Size, Share, Revenue, Business Growth, Demand and Applications Market Research Report to 2026"
-    excerpt: "Machine Learning Market” provides a comprehensive analysis of the market. The analysis includes market by segments"
-    publishedDateTime: 2021-10-28T09:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-industry-size-share-revenue-business-growth-demand-and-applications-market-research-report-to-2026-2021-10-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarketstm"
     excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Computer Vision),"
@@ -77,6 +63,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "WcY64jUL/d7zoKwdQA+JeuRiehlhGDQgSkDG7Pr+XYvQwO1DFHseFUJGFYc/kp3hmbr2fjJw8puJgwwLWIJzl0R5/m6P87JcLeELcVQeqSXyJ2VG5DG5G5biYmgjfdAIrZdFEki07u2wKKOS7YvnbStD7/Yc6YclsPs3mAugvujcxTRL55a22h3Nl29onh3eRhiWGXnAzUAXvmhOqw0/m0EuuFeP9U5EddPN0f4sQiXBW/FC5TP4NusAt1F8fKx7xJiHWWKAudDxE+AUT+PduvcOEvB+gPXgVqDf2V0yP2PTdAR4VTbtE+X61ADnq4wMOd3/cm14dtjQSco3i+7AF+MWaEsfT+DmQjSInf2TKpo=;IEICYQSrouVMcOpjqnFYTg=="
+secured: "8HdwsWFBz61t7DHdB1Cd8hfkJd9oxd4VSupVCycRar7v1wot4X5gEL86GGZDp4MX/a0zUP64nCyUiZm7PmiNTO8QrOPCIUGl+GuX6z9PkEu+HqUdkVrmpyYMgwzevW83fpn9iW6JJAUADztKjO2yQbQJH3uFVp5lvP9EACeoJIth1RdmaNIzt19hFQCiGxuplhc+MNy+xcvN0AVNZljgITKrJb15W52/DDxMXlhrKJ2zhra0wF114u3hFhAxW0nYrrO1zuVw9xIWg9dpmEiiHfURNhXZuamJPvlJWI6udbinqBG8Std047Fnv0G8hBNxJ/l/CPARHW2ap/nVhTNGpVAHIcPbLYTyMY1xXXjt6vw=;4u8wkqMQb/ISLJiOl5/kUg=="
 ---
 

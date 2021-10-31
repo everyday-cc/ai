@@ -51,20 +51,6 @@ related:
         width: 902
         height: 600
         isCached: true
-  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
-    excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
-    publishedDateTime: 2021-10-27T04:43:00Z
-    webUrl: "https://menafn.com/1103052426/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "YFuQc3UoMaM80B5rTb9aE/Q6itJHrJC9nLenrMHvvT9ZTb4qtbcum79i6rmjqAomU3gc4laVFag+l4illrjIWUPINADuJ+dWm2XVPFpUiN4rlUzi+eeWyTLLgethURAE5A9ypHVqnFkTvy7hiT99Awe/lkFydERiErXOSEz0RHZjYJ3fI8fxqhh5IG57EV2MPljhDMOyqeoioVFzUeIZ8BhfgyEd05lj8//xww+l3GsO9xNWkeHRBW+L3g35WV3JLV53m1parO3FXLcRcCdVO2JddhY5rRHbY+WO32h3nvirNuwjsAbOMjSnVNq9BY4jiyJnoHIZsFGc+h3BhihuVJtKjaK+5Hs4PMQXM+9bU/I=;HYuDjjuK/aCV74hRWVrZiw=="
 ---

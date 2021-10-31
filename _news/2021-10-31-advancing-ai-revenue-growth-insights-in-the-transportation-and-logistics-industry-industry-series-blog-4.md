@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Advancing AI Smarter Intelligence Everything In The Transportation And Logistics Industry - Industry Series: Blog #5"
+    excerpt: "This is the fifth blog in the advancing AI Smarter Intelligence Everything in the Transportation and Logistics Industry Series."
+    publishedDateTime: 2021-10-31T21:36:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-smarter-intelligence-everything-in-the-transportation-and-logistics-industryindustry-series-blog-5/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-smarter-intelligence-everything-in-the-transportation-and-logistics-industryindustry-series-blog-5/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-smarter-intelligence-everything-in-the-transportation-and-logistics-industryindustry-series-blog-5/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617f0bc8a6635fb8a6c45b32%2F0x0.jpg"
+        width: 1200
+        height: 686
+        isCached: true
 
 secured: "ESHWeSwalXqnkTXGSaw6v5gQOjbAUse6S+zxe6aApAfQ2qrZdFSiIwOdVaDBqBAdkuIcrGPBHiVgQeS4kASO13rwDSnfZ+kfv1agp0A6aHECsygG31gSe6l17qCiOZapI7HRsWC1CC2zKxKF/M0DArJw9iihnOVo2o/jVRAmECB79Lty0DQ5A/tgC13VqNT/5SF6EZFmayLMlfWul/OGOE45rPBCWovQC53etcMz3DqkpcHvEaX5M9rdx0smeMh+RjhcYmzncRpYSX44d6/GZ8iheCedotUDkDQQeOyg6E5pISee2+1NXE3kUrih+47x6FaBP+9BHqk6eCIQPnvygk9VpATaXCQpXoKKj+NtwZ1M6kecYpeMQ23iHoL6/smLsRcLrtSW2xZbNHV33hiwoamJJle3/eD3RfBUcxbH5djDuO2qfSR1QBAnkjcCh/qatFZWWe6qYHAMKRb5SdhJMUHnYRaY6UlS7K/+3qdOdxZ7StNikdRObab9gPIGvb5b3nQHzm7TmOfwJ6rB8UqxUA==;KRdfXYhOS6rLtrhdLLxS+g=="
 ---

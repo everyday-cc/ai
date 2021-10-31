@@ -41,20 +41,6 @@ related:
         width: 2646
         height: 1512
         isCached: true
-  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
-    excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
-    publishedDateTime: 2021-10-27T04:43:00Z
-    webUrl: "https://menafn.com/1103052426/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Global Gesture Recognition Market, Size, Share, Analysis Report & Forecast to 2026"
     excerpt: "The global gesture recognition market is expected to grow at a significant CAGR during the forecast period The Gesture Recognition System GRS integrates imaging and computer technologies to read a specific gesture language by using specified mathematical algorithms Gesture recognition"
     publishedDateTime: 2021-10-27T09:12:00Z

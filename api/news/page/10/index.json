@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-10-21-at-mass-stem-week-kickoff-mit-raise-announces-day-of-ai.md",
+      "title": "At Mass STEM Week kickoff, MIT RAISE announces Day of AI",
+      "excerpt": "Leaders from MIT and Massachusetts state government kicked off the fourth annual Massachusetts STEM Week at the Media Lab. Speakers emphasized the importance of STEM education and career pathways for learners of all ages and backgrounds,",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/mass-stem-week-kickoff-mit-raise-announces-day-ai-1020",
+      "originalUrl": "https://news.mit.edu/2021/mass-stem-week-kickoff-mit-raise-announces-day-ai-1020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202110/Mass-STEM-Week-presentation-00.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-us-air-force-teams-with-uk-on-machine-learning-demo.md",
       "title": "US Air Force teams with UK on machine learning demo",
       "excerpt": "By sharing data and machine learning algorithms, the two countries were able to improve situational awareness for war fighters in a demonstration.",
@@ -272,8 +323,8 @@
       "title": "Moveworks pioneers the first multilingual AI platform built to support global companies",
       "excerpt": "Moveworks, the AI platform that automates support at work, today announced two critical product enhancements that allow global workforces to stay productive from anywhere. The first is multilingual support: Moveworks now understands and resolves requests from employees,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-e2a77142352288890ed20768ec8842c8",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-e2a77142352288890ed20768ec8842c8",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-e2a77142352288890ed20768ec8842c8",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-e2a77142352288890ed20768ec8842c8",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1099,49 +1150,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-gep-doubles-global-partner-network-to-deliver-superior-procurement-and-supply-chain-transformation-to-customers.md",
-      "title": "GEP Doubles Global Partner Network To Deliver Superior Procurement And Supply Chain Transformation To Customers",
-      "excerpt": "GEP, a leading provider of procurement and supply chain strategy, software and managed services to Fortune 500 and Global 2000 enterprises worldwide, announced today that the number of new partner companies joining the GEP Partner United program grew by 114% since January 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gep-doubles-global-partner-network-to-deliver-superior-procurement-and-supply-chain-transformation-to-customers-1030878751",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/gep-doubles-global-partner-network-to-deliver-superior-procurement-and-supply-chain-transformation-to-customers-1030878751",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
