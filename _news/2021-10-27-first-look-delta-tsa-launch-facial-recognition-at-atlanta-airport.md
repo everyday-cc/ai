@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-lo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How facial recognition will change the way you travel"
-    excerpt: "Delta Air Lines and the TSA are rolling out facial recognition software at Atlanta’s Hartsfield–Jackson International Airport. NBC News’ Tom Costello takes us there for a closer look at what fliers can expect as the technology will soon be in airports across the country."
-    publishedDateTime: 2021-10-26T23:05:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/how-facial-recognition-will-change-the-way-you-travel-124677189642"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo124677189642"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124677189642"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/1635289423930_nn_tco_tfot_facial_recognition_211026_1920x1080-9bwbc6.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Delta Airlines Using Facial Recognition to Check-in Travelers"
     excerpt: "A new facial recognition technology being used by Delta Airlins will analyze people's faces and compare them to passport information stored in a TSA database. Local Health Departments Prepare As ..."
     publishedDateTime: 2021-10-28T02:33:00Z

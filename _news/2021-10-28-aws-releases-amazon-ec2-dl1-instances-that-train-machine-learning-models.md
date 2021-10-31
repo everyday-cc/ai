@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx"
 type: article
 quality: 70
-heat: 100
+heat: 80
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
 
 related:
   - title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
-    excerpt: "AWS announces availability of Amazon EC2 DL1 instances featuring Gaudi accelerators from Habana Labs for training machine learning models"
-    publishedDateTime: 2021-10-27T00:25:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211026006274/en/AWS-Announces-General-Availability-of-Amazon-EC2-DL1-Instances"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
-  - title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models."
     publishedDateTime: 2021-10-30T13:00:00Z
     webUrl: "https://insidebigdata.com/2021/10/30/aws-announces-general-availability-of-amazon-ec2-dl1-instances/"
@@ -44,15 +35,6 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 34
-  - title: "AWS Announces GA of Habana Labs-powered EC2 DL1 Instances"
-    excerpt: "AWS has announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances designed for training machine learning models and powered by Gaudi accelerators from Habana Labs (an Intel company)."
-    publishedDateTime: 2021-10-26T23:14:00Z
-    webUrl: "https://insidehpc.com/2021/10/aws-announces-ga-of-habana-labs-powered-ec2-dl1-instances/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "xJeg4M+vdIBIKsq0k4LetfJiZzNApbmj2wy2wPhhNgcGd2Xaq1XhSb/W/lVB9lBvhuecH0T1SwIvTZ0R1RFxWiBuhZYJKsa19HdB/zRDyasAv/IB/CwhtgNLAeSLPY4erRejSFnPLqYm4ZX6ZnRYSWZHrue5tnrPnpncjHzU9dIPNg/7nFmgFpMvz8Ms0AnQaDUD94heO1QepEccJ0rkCXV5JNzuQoma+AAVLLcpv/2T0m8yn/5cP/Z9pWUiXiW6McrXomJUIUjmU7o8am5TPxDV7XUd2A5RoJuF5YXBg4El3Yb+8F5ytwrZamLGBQ8bxu5iP/u9FfB3VQIst1wo6lawP9mlM8yc3EaAFv59EKo=;tI+rXKs85bugCdefM+zCVA=="
 ---

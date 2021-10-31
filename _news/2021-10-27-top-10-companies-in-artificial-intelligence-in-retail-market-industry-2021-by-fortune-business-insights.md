@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Advancing AI Revenue Growth Insights In The Transportation And Logistics Industry Series: Blog #5"
+    excerpt: "This is the fifth blog in the Advancing AI in the Transportation Industry, focused on drones and references innovations by Amazon."
+    publishedDateTime: 2021-10-31T16:02:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ebb5620c4d03eab6729d8%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Advancing AI Revenue Growth Insights In The Transportation And Logistics Industry - Industry Series: Blog #4"
     excerpt: "This is the 4th blog in an AI Transportation and Logistics Industry series, which looks at revenue growth and optimization use cases & highlights innovation developments in leading giants like: FedEx,"
     publishedDateTime: 2021-10-31T14:58:00Z
@@ -38,7 +54,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 68
+    quality: 70
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ead445f8f04e43defb687%2F0x0.jpg"
         width: 1200

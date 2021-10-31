@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-supply-chai
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-supply-chain-market-may-set-new-pears"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,41 @@ images:
     width: 1400
     height: 800
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Supply Chain Market 2021 | Detailed Report"
+    excerpt: "Global Artificial Intelligence in Supply Chain Market 2021-2027, has been prepared based on an in-depth market analysis with inputs from industry experts. The report covers the market landscape and its growth prospects in the coming years. The report ..."
+    publishedDateTime: 2021-10-28T12:40:00Z
+    webUrl: "https://www.openpr.com/news/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed"
+    ampWebUrl: "https://www.openpr.com/amp/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+  - title: "Edge AI Chips Market 2021 Report Highlights, Future Prospects, Growth Strategies and Forecast to 2025"
+    excerpt: "Global Edge AI Chips Market Research Report 2021-2025, provides an in-depth analysis of market size, share, drivers, constraints, and other factors. Additionally, for the projection period of 2025, this research includes an estimated observation of many ..."
+    publishedDateTime: 2021-10-28T10:37:00Z
+    webUrl: "https://www.openpr.com/news/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    ampWebUrl: "https://www.openpr.com/amp/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+  - title: "Mobile Artificial Intelligence Market Key Players, Industry Demand, Overview And Supply Chain Analysis, Forecast To 2026"
+    excerpt: "The Mobile Artificial Intelligence Market report offers an in-depth assessment of market dynamics, the competitive landscape, segments, and regions in order to help readers to become familiar with the Mobile Artificial Intelligence market. It particularly ..."
+    publishedDateTime: 2021-10-28T10:24:00Z
+    webUrl: "https://www.openpr.com/news/2446027/mobile-artificial-intelligence-market-key-players-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2446027/mobile-artificial-intelligence-market-key-players-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446027/mobile-artificial-intelligence-market-key-players-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
 
 secured: "+0RvR6dCuSSRNbXiXoRBWT3ovS6bGahj/FKnFHvX3WXiRnw+Qf06L6Je7cDrIiQ/ZwXY4Y/Mpdi47LKgMwUGyu6/QVP1FI7gtUnIlstn8mGWCDfmBhsyMyruXhT1vAWFKJeQQ6s0qR6Ngrwf7kF1u6FIklw1NiFCaUUpYeveWsTUiob2NkFK7CO23NcDC3aLdP20coXVjptJn1e53VOWDcipGx5zWucBiqdmlvmXvLCuUUKysI7eJ1syeAoWkjAQW5XGcicAoHcUDDcgJVB3fEnOee9l5ggg4Ruhh6T/NsSC4reOHyfM9iLMJv0CjuFhQlCpdrY31G+GSB42XmSpjrPmAezSrvj/0pZh5mv80GQ=;m2Vz1ZCuy/X5ZQfzMpjeIw=="
 ---

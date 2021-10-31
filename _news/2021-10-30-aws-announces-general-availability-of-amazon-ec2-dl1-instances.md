@@ -33,24 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
-    excerpt: "AWS announces availability of Amazon EC2 DL1 instances featuring Gaudi accelerators from Habana Labs for training machine learning models"
-    publishedDateTime: 2021-10-27T00:25:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211026006274/en/AWS-Announces-General-Availability-of-Amazon-EC2-DL1-Instances"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
-  - title: "AWS Announces GA of Habana Labs-powered EC2 DL1 Instances"
-    excerpt: "AWS has announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances designed for training machine learning models and powered by Gaudi accelerators from Habana Labs (an Intel company)."
-    publishedDateTime: 2021-10-26T23:14:00Z
-    webUrl: "https://insidehpc.com/2021/10/aws-announces-ga-of-habana-labs-powered-ec2-dl1-instances/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "wQZ0DHxcmpzccmJyk/51AabUrUmR/PQfio6v9bIp0RxUsv53ZPVY5+lUfDli4gAQmo3rtmXVA1FSl+pKieez4j5fed0i8zT/x8YwrtSUTOrwEFZtC/TdEbMlFGFDpNGeCMIES4ESCXqUUUaWoXWQKLmX4Ohx//uWiHNTfPxuO+PMnHnsNko30AFOn5DjRbZsAnDEpg+zAdCIv9c9NsFYZbVz2j5p2EzGwTdAXDJPgek/ObiT4dkNT6EF1aUbm8RvNWOySAtHG6zkOgujTr2hNGGN2iq/1QEWtH56PUVnSQi91qtBgGnpGR6ekgMPyMpbBu0VhNwy3Y5AQyZtz6cmOAXKF4GgVRkcVkbZusp76CxjfIwfp+/d5xvUqub+lyHJLjplBDG1WQGv7MPS+9ZNCVGZcM6WgfFoJL15ryYUA8Mp5NwclWYb8RFu7NvnrVlIPD6bd8D0ST452Lr8Dh/fg5VE/2WlUHEdsq/+tdIzyav2VUYq9bSs9saqYBrOYO9lYEdgg0m09LiKh1lB1cmPCA==;/rtv8P/741I+AG6Z34AEKw=="
 ---

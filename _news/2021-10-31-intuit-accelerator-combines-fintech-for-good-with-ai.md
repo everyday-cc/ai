@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-co
 ampWebUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
 type: article
-quality: 87
-heat: 157
+quality: 89
+heat: 159
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617eab2488106dd6e6ec75db%2F0x0.jpg"
@@ -128,6 +129,6 @@ related:
         height: 400
         isCached: true
 
-secured: "1nLFLbhsNPXNWxy8kjVJHogwy5uwlekXeRF13efwEdChNSfy6Cyl2jl3BmaKB7EjlQ9U+xWU36XCUVgI4/CD4z+ZTx+w8MUvSdE8nZKDp2EJss0FSccQbYqjMksVLSQpRQo3kSbuRMO1GxaPsjSXnso/1ub5TX0mmBEsB7F04wJJZg3WT9UqqpxfxKksZeconI/L/gnaPhMS3WcrvRINPGADQ9wpT8YVwzeSL+QaZAbXvQxGJlivIWVmCb8GrrfnEirn8uWXuo8h2AqE+rnCHFwTp++8SM75Uwa3GCLlzBeCL5tXgTnvobi+CMCt/hXKmVvYhIK4H/1qfhYxF6zi08GGJ4SmlOOyD5UBfci41cQ=;f7YMANW5jDU4zNoNvqjA2g=="
+secured: "bsYLX203dHTtCpHT/5srNZgOdQTaYw5m+EOtELzgYf1OugHer5EWNu96hDAU8PGBUBj1WfuolTaHPIdZRuMRM3U0vzgGe7miVl8F7D9SOmpCxiqF86fPF8BwDRXUyaNoEsDmxcht3oXG4IxEyFqA8Cyfcw/HjDZ/bzXS7xv3O0NEJ/LjQqQMrTlPvLIK3YeIpDKViRAIFiSnxtYg2GEJ518pWaV468uEUbgir/glf/trzKGyoPH+GF6xydMwft2U+LklafRR/f8DR7LloCNwqpjo9Rq7HPH3JEL+mPNABy5wTBBclYJ4ECwNgeNdwsmMwSxHyC+PS42HgfmEwqc7H4Aqys/eELIr1hfpO5K12f2n5YLd2D2ObQ3sw4eusJt/KhzK4c3gh9IEhb9h/+5KCtOE4++cRlyB9SFEkDndPBzz9Tk/wv1Jg01VZpL7VOH8h3P4O8Ut54HXMUdzcZg4R+0DH8LHhzQOGCdBqQo8SjXjVl1T2pmNFvWY5C98WfWbUqgTtkaU1DyVdsUBDaJF9A==;fjOFOkcAyMMXRYYrWVId5A=="
 ---
 

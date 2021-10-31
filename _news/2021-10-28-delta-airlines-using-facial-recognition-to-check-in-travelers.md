@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "How facial recognition will change the way you travel"
-    excerpt: "Delta Air Lines and the TSA are rolling out facial recognition software at Atlanta’s Hartsfield–Jackson International Airport. NBC News’ Tom Costello takes us there for a closer look at what fliers can expect as the technology will soon be in airports across the country."
-    publishedDateTime: 2021-10-26T23:05:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/how-facial-recognition-will-change-the-way-you-travel-124677189642"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo124677189642"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124677189642"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/1635289423930_nn_tco_tfot_facial_recognition_211026_1920x1080-9bwbc6.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tech Time: Delta Air Lines launches new facial recognition software"
     excerpt: "To streamline the check-in process at the airport, Delta Air Lines is introducing new facial recognition technology to airport security."
     publishedDateTime: 2021-10-31T15:21:00Z

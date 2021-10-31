@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "How facial recognition will change the way you travel"
-    excerpt: "Delta Air Lines and the TSA are rolling out facial recognition software at Atlanta’s Hartsfield–Jackson International Airport. NBC News’ Tom Costello takes us there for a closer look at what fliers can expect as the technology will soon be in airports across the country."
-    publishedDateTime: 2021-10-26T23:05:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/how-facial-recognition-will-change-the-way-you-travel-124677189642"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo124677189642"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124677189642"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/1635289423930_nn_tco_tfot_facial_recognition_211026_1920x1080-9bwbc6.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Delta Airlines Using Facial Recognition to Check-in Travelers"
     excerpt: "A new facial recognition technology being used by Delta Airlins will analyze people's faces and compare them to passport information stored in a TSA database. Local Health Departments Prepare As ..."
     publishedDateTime: 2021-10-28T02:33:00Z
@@ -134,6 +118,6 @@ related:
         height: 641
         isCached: true
 
-secured: "KqYZdZfDljQf4wIWuSSR4lwYxpF1y4x4zTzT3uRahCFx/2HQozHjwno8xrDAF3rkZgZZZZZXQ74q2rDnaCRRBF9WqUUgC8lCWnA89sn0BWNaCH1A8f970z+Q7S9HJQe9W7AhoBloY3sPXfw64rwI8/i7C4yIxL4+yo4f7ooVzZdIZZq22W25fNyZZtuPkxZbqlmHIFEjpz7LMwxsfA0RFRiedrdCOWdgC+bTjdeo+VWGnjD1FbHmMfmPWRzfrCRYZJEwckrOVEROoqTkpMw+r3ZK5ODO+kkwlD0BZxlbvqeYkOKMVbzXt1Srxe0FyvyqpJtJc9HVIJfMfwObiRBNAv6xHu/TCJm2VfNApkxgx8c=;UDtka68EQUeIc0X3dzwkOA=="
+secured: "qzxw5Pd7B9nKHLcQYoM2CfRQQ/AoysaEqj/960fVBI4E38W8AeQQQjL7oHz7CbZeMzY224jT+eUOOcUUxRWHEmPSjK+jjr+GqhFuYKZEUps1M+mTZ3GRQkgeZxjElmBlW+su4RG9iKTZ3aElJOqDm+9QLH3gO6RgjJTgU2E/py8Fch4viVozlw0jLNoRxcGIaE0hvClA4xLVcO2Vl4jjfQ7RVEXkDOqdnEgpVMPKRE8Z8Q/Oed5RKuydoIvG9aiRdL27M/5MC+H9N2RtRua1Ji7oRPlLpVV2eom8haGukvy1vHwp8iT2fyA5SihVF6qN+J1fwi+6RuMsZvNWLA6ZTvW8XLlWOx1Mp/H/g6uEWzX1dyITxkeFe31m+beqHbBBuSzi+OKyFEjnyUCOdxnKUIwMEwYY2JhW8qATf278YYcnulBjeckQWULf8QVHfO/fXhHALcrKiKxKSQz2KMfBsqF3qbOQOsgEf2REV92p25E/JLfWKYMZLobDxNchQm+lQ0BgS43IKZ+W+AwezJk57Q==;DEJl/hIOGaKOvMQdvN1JvQ=="
 ---
 

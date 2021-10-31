@@ -76,20 +76,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Khoros Collaborates with AWS to Integrate Amazon Connect Into its Award-Winning Digital Contact Center Solution"
-    excerpt: "Khoros, an award-winning leader in digital-first customer engagement software and services, today announced an expanded collaboration with Amazon Web Services, Inc. (AWS) which will include an integration with Amazon Connect,"
-    publishedDateTime: 2021-10-26T23:16:00Z
-    webUrl: "https://www.register-herald.com/region/khoros-collaborates-with-aws-to-integrate-amazon-connect-into-its-award-winning-digital-contact-center/article_fbf24ce9-c9d7-56f0-a461-2bd012841d48.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 19
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Text-to-Speech Market with Attractiveness, Competitive Landscape & Forecasts to 2027| Nuance Communication, Microsoft, Sensory"
     excerpt: "As a result of expanding penetration of AI, analytics, and IoT systems in the region, APAC is witnessing significant momentum for speech recognition solutions integrated into text-to-speech. Countries establish various beneficial regulations for increasing ..."
     publishedDateTime: 2021-10-29T13:15:00Z

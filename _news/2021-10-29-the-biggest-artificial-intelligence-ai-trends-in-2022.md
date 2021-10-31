@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-29T07:17:00Z
 originalUrl: "https://www.linkedin.com/pulse/biggest-artificial-intelligence-ai-trends-2022-tawfiq-al-ahmad"
 webUrl: "https://www.linkedin.com/pulse/biggest-artificial-intelligence-ai-trends-2022-tawfiq-al-ahmad"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGhLBST971aaw/article-cover_image-shrink_600_2000/0/1635491674793?e=1640822400&v=beta&t=M7dBnBCaWnRvCYSMMd1wFj4kgmt8zow-pt_iZS30E4U"

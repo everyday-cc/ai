@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenu
 ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industryindustry-series-blog-4/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industryindustry-series-blog-4/amp/"
 type: article
-quality: 68
-heat: 78
-published: true
+quality: 70
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ead445f8f04e43defb687%2F0x0.jpg"
@@ -30,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Advancing AI Revenue Growth Insights In The Transportation And Logistics Industry Series: Blog #5"
+    excerpt: "This is the fifth blog in the Advancing AI in the Transportation Industry, focused on drones and references innovations by Amazon."
+    publishedDateTime: 2021-10-31T16:02:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ebb5620c4d03eab6729d8%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Top 10 Companies in Artificial Intelligence in Retail Market Industry 2021 By Fortune Business insights"
     excerpt: "The global\"Artificial Intelligence in Retail Market\"is expected to rise with an impressive CAGR and generate the"
     publishedDateTime: 2021-10-27T10:55:00Z
@@ -45,6 +62,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xLRa7LhFVvs+B6dQapG7Hb5rbvZfsJPlVjaQxKGNoeIC+nE2RzB0JjGairlI68JnHNdUMXYTeBDxq8KXAygT7SC3hJh2KENv13NRW8ZpjDGGGjI14ZbNmg2EKRn9WH7Z6LDjJCbSGCHR/KlToIn9aagowdYnOkg+tNHAF4guRNe6+k//gdj7WwFmz6uiUkMeO8h669Ko5oxp+Mb1g1BjGONKyewuauxgsGo+GgC0wOIXWhA49PsWCxFzg0JuM1Besdodx3hEObYkQYB2XgZLYgSoQsSo5kD5qplj2sqqcYUpb05SkirK302FjgUD+aR2tBVup0AFwANPQJyAHSalK663MHgvmGT5Hg83pdc/wi8=;XIv2OgamBu3ymcEnwuAIzA=="
+secured: "ESHWeSwalXqnkTXGSaw6v5gQOjbAUse6S+zxe6aApAfQ2qrZdFSiIwOdVaDBqBAdkuIcrGPBHiVgQeS4kASO13rwDSnfZ+kfv1agp0A6aHECsygG31gSe6l17qCiOZapI7HRsWC1CC2zKxKF/M0DArJw9iihnOVo2o/jVRAmECB79Lty0DQ5A/tgC13VqNT/5SF6EZFmayLMlfWul/OGOE45rPBCWovQC53etcMz3DqkpcHvEaX5M9rdx0smeMh+RjhcYmzncRpYSX44d6/GZ8iheCedotUDkDQQeOyg6E5pISee2+1NXE3kUrih+47x6FaBP+9BHqk6eCIQPnvygk9VpATaXCQpXoKKj+NtwZ1M6kecYpeMQ23iHoL6/smLsRcLrtSW2xZbNHV33hiwoamJJle3/eD3RfBUcxbH5djDuO2qfSR1QBAnkjcCh/qatFZWWe6qYHAMKRb5SdhJMUHnYRaY6UlS7K/+3qdOdxZ7StNikdRObab9gPIGvb5b3nQHzm7TmOfwJ6rB8UqxUA==;KRdfXYhOS6rLtrhdLLxS+g=="
 ---
 

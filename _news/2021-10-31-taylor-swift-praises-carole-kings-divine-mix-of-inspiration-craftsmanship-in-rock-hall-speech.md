@@ -26,6 +26,22 @@ images:
     height: 1200
     isCached: true
 
+related:
+  - title: "Read Taylor Swift's Touching Speech Before Carole King was Inducted into the Rock & Roll Hall of Fame"
+    excerpt: "Carole King was inducted into the Rock & Roll Hall of Fame, Variety reported. While King was inducted in 1990 with husband and collaborator Gerry Goffin as a songwriter, she was inducted last night as a solo recording artist."
+    publishedDateTime: 2021-10-31T14:45:00Z
+    webUrl: "https://www.broadwayworld.com/bwwmusic/article/Read-Taylor-Swifts-Touching-Speech-Before-Carole-King-was-Inducted-into-the-Rock-Roll-Hall-of-Fame-20211031"
+    type: article
+    provider:
+      name: BroadwayWorld
+      domain: broadwayworld.com
+    quality: 9
+    images:
+      - url: "https://cloudimages.broadwayworld.com/columnpiccloud/1250-6db1f8ae639b211c1a258fb064665681.jpg"
+        width: 1250
+        height: 625
+        isCached: true
+
 secured: "i/EGpOFRsqP0pEeWcPk/2C+VrIBA1Y3QleFKc9cJKarR6IsdkuSwm1Z5vM/+oSDHS8TIT9cqjCJfmpdHaybjp+0OM8YI5qByACJ103SQdCEjET6/TXpqp6swWh4RqrPoFHS3kIorD9TcTIj16L1yvWxJWAmhyuunQgjAp2CltLFUxHRvWin7I3CLPnqP8AF1ZCqjZ8QK8/jvfbgc9HqA47pdJzKsCZipaMRWjGQJ/QSkvMRGRMIb1adJR/ivXWe5E6VyIUJFhFTUU2ppptWmp+/ngvyV/bTVonuWibVTtyd8v62xsAu6WS2ufiLxxWJbIkf3GY5FLEx6ZiCfn8+9Y/hYoweFFMGfU42GWIPXvzU=;PBA/BtZZdq/hhTRslns6zg=="
 ---
 

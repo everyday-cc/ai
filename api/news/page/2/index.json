@@ -112,7 +112,7 @@
       "originalUrl": "https://www.msn.com/en-us/money/smallbusiness/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/ar-AAQ68e3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -1138,7 +1138,7 @@
       "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1174,21 +1174,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-28-monashees-backs-grain-trading-startup-tarken.md",
-      "title": "Monashees backs grain trading startup Tarken",
-      "excerpt": "As its startup market accelerates ... To give similar transparency to grain trading in Brazil, Tarken set up an AI tool that pulls in data from different sources and generates a price for every ...",
+      "path": "_news/2021-10-28-artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-1783-billion-by-2027.md",
+      "title": "Artificial Intelligence in the Education Sector Market Size Forecasted to be Worth USD 17.83 Billion by 2027",
+      "excerpt": "The global artificial intelligence in the education sector market is expected to be valued at USD 17.83 billion by 2027 from USD 1.08 Billion in 2019, registering a CAGR of 43.8% through the forecast period,",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/",
-      "originalUrl": "https://techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/",
+      "webUrl": "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/",
+      "originalUrl": "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/tarken_screencap.png?w=1024",
-          "width": 1024,
-          "height": 574,
+          "url": "https://techbullion.com/wp-content/uploads/2021/10/Artificial-Intelligence-in-the-Education.png",
+          "width": 2646,
+          "height": 1512,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1196,23 +1196,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/amp/",
-      "publishedDateTime": "2021-10-28T06:01:00-07:00",
+      "ampWebUrl": "https://techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-the-education-sector-market-size-forecasted-to-be-worth-usd-17-83-billion-by-2027/amp/",
+      "publishedDateTime": "2021-10-28T06:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1221,7 +1212,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Education"
       ]
     }
   ],

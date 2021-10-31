@@ -24,20 +24,57 @@ images:
     isCached: true
 
 related:
-  - title: "Why is Bfsi Artificial Intelligence Market Booming Worldwide ? Know The Latest Trends And Top Market Players"
-    excerpt: "To Understand How Our Report Can Bring A Difference To Your Business Strategy, Request A Sample Report:  The Global Bfsi Artificial Intelligence market report is provided for the international markets as well as development trends,"
-    publishedDateTime: 2021-10-30T06:17:00Z
-    webUrl: "https://chipdesignmag.com/why-is-bfsi-artificial-intelligence-market-booming-worldwide-know-the-latest-trends-and-top-market-players/"
+  - title: "Top 10 Companies in Image Recognition Market Industry 2021 By Fortune Business insights"
+    excerpt: "The globalImage Recognition Marketis expected to rise with an impressive CAGR and generate the highest revenue by"
+    publishedDateTime: 2021-10-27T11:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-image-recognition-market-industry-2021-by-fortune-business-insights-2021-10-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Speech & Voice Recognition Systems Market 2021 Research Studies Overview with Segments and Industry Growth by 2027"
+    excerpt: "A new research market study report titled Global Speech & Voice Recognition Systems Market 2021 by Company, Regions, Type and Application, Forecast to 2027 has been featured by MarketsandResearch.biz."
+    publishedDateTime: 2021-10-27T03:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2021-research-studies-overview-with-segments-and-industry-growth-by-2027-2021-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Insights by Emerging Trends, Revenue Analysis, Demand Forecast till 2020"
+    excerpt: "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Oct 29, 2021, 01:16 /Comserve / -- The advanced facial recognition market is expected to witness an optimistic view by end users due to the ..."
+    publishedDateTime: 2021-10-29T06:40:00Z
+    webUrl: "https://menafn.com/1103068618/Facial-Recognition-Market-Insights-by-Emerging-Trends-Revenue-Analysis-Demand-Forecast-till-2020"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Global Machine Learning (ML) Intelligent Process Automation Market Business Intelligence Report and Strategic Insights By 2028"
+    excerpt: "Others have been further segmented into human resource management, incident resolution, and service orchestration. Machine learning (ML) intelligent process automation has also been segmented on the basis of vertical into banking, financial services ..."
+    publishedDateTime: 2021-10-29T20:48:00Z
+    webUrl: "https://chipdesignmag.com/global-machine-learning-ml-intelligent-process-automation-market-business-intelligence-report-and-strategic-insights-by-2028/"
     type: article
     provider:
       name: Chip Design
       domain: chipdesignmag.com
-    quality: 18
-    images:
-      - url: "https://marketresearch488204729.files.wordpress.com/2021/10/business-analysis-data-analytics-man-working-desk-graph-charts-diagram-chalkboard_284092-1424.jpg"
-        width: 626
-        height: 481
-        isCached: true
+    quality: 8
 
 secured: "hCU9te3uO8eQrm1KFZnn8CtxufNxcZSXkOLwIex1qelg1hL1CRQQFVweAfS0pc+j9HOfRllgf+43QSbB/DLULkm6EEoaDUvK/PhpSq8xOXB+RSWSsT5N4N88G4EGWpbwtR6ukvqQ0OUj4Vd3ySzd3HafILuVE1QHvoTs+cYWHhsn8dSg+nb0LqOO5x+eQxI3ZiMMiMsMOuauRIo//Mpu/Mgi9q0WtoJThO6UlISbvmlulq9fH0tUbchC7Pdso4N8byQJw1XFcXeTP+dzc+zYyA34rrXK8L12h36Q6roaDlMDAOn7yuB4v96HDNDdkDvivGAfqfxLVtLFWa1DtYgUxlTvoOM3/j+06tMBCJu2dxg=;aAXOMMmj7QoctBkkj6x35w=="
 ---

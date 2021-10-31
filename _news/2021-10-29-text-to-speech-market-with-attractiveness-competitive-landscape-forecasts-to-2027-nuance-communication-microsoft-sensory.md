@@ -82,20 +82,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Khoros Collaborates with AWS to Integrate Amazon Connect Into its Award-Winning Digital Contact Center Solution"
-    excerpt: "Khoros, an award-winning leader in digital-first customer engagement software and services, today announced an expanded collaboration with Amazon Web Services, Inc. (AWS) which will include an integration with Amazon Connect,"
-    publishedDateTime: 2021-10-26T23:16:00Z
-    webUrl: "https://www.register-herald.com/region/khoros-collaborates-with-aws-to-integrate-amazon-connect-into-its-award-winning-digital-contact-center/article_fbf24ce9-c9d7-56f0-a461-2bd012841d48.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 19
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "ifioQW3emTpHo+XWa8TvtohqpwdqNsaEvn3pNT2ZEXDoTKHcT8sLLmyPTQJFwzlhfavvAiQQSHxrRMsrKd5JQdFGlieGUN6HaxKvvNRXMd3MKGhuOSkxrPTfotgkwo+ZBX4ijk84tsisjizS8j+jyLkLv3Ri9n+blJRU/HUsYihkKtgix9AWeD5Ps5v94aPHkzkmD/9w7kJPNK3CLUU//J5HUVZ3hlwqDd3pE+DMUPXTdAMtua7xKZBTvgq5HFcMhsqlbOh7DXZqUFKAez0ihDi5dTECMTFQCCbMzEqzyltvRHmqce3fYsHAhOD+sD7X15IBJPyMZx1cNoRHHiMmJFhGdZQkolgtViPfI5WgSyg=;44HXhGVuwz/4OhtbqUJP4A=="
 ---

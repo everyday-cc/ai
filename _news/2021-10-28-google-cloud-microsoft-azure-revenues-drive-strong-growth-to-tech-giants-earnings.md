@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91967-google-cloud-microsoft-azure
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html"
 type: article
 quality: 98
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pegatron to offer one-stop-shop 5G O-RAN service using Microsoft Azure"
-    excerpt: "Pegatron Corporation officially founded its O-RAN technology team as a successor to its highly successful x86 design legacy. The new team is dedicated to the development of 5G O-RAN CU and DU base station products."
-    publishedDateTime: 2021-10-27T00:17:00Z
-    webUrl: "https://www.digitimes.com/news/a20211026PR201.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://www.digitimes.com/newsshow/20211026PR201_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Advantech MIC-710AIX is now Microsoft Azure Certified for IoT"
     excerpt: "Advantech, the leading provider of industrial AI system, today announced its MIC-710AIX edge AI platform has joined Microsoft Azure Certified for Internet of Things (IoT), ensuring customers get IoT solutions up and running quickly with hardware and software that has been pre-tested and verified to work with Microsoft Azure IoT services."
     publishedDateTime: 2021-10-27T19:35:00Z
