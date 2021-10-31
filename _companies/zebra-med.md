@@ -13,11 +13,6 @@ linkedin:
 crunchbase:
   url: "https://www.crunchbase.com/organization/zebra-medical-vision"
 
-twitter:
-  username: "ZebraMedVision"
-  url: "https://twitter.com/ZebraMedVision"
-  followers: 2087
-
 size: 51-200 employees
 yearFounded: 2014
 locations:
