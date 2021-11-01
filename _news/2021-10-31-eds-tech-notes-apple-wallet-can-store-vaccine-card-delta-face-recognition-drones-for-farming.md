@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Delta Airlines Using Facial Recognition to Check-in Travelers"
-    excerpt: "A new facial recognition technology being used by Delta Airlins will analyze people's faces and compare them to passport information stored in a TSA database. Local Health Departments Prepare As ..."
-    publishedDateTime: 2021-10-28T02:33:00Z
-    webUrl: "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/"
-    ampWebUrl: "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp"
-    type: article
-    provider:
-      name: CBS Detroit
-      domain: cbslocal.com
-    quality: 74
-    images:
-      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/A37/DED/A37DED67A23E096BAE785B57DF9F72CA.jpg?Expires=1729987200&KeyName=mcpkey1&Signature=aurFBxgHrBcuZZ6Law-LjsYkO8k"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Tech Time: Delta Air Lines launches new facial recognition software"
-    excerpt: "To streamline the check-in process at the airport, Delta Air Lines is introducing new facial recognition technology to airport security."
-    publishedDateTime: 2021-10-31T15:21:00Z
-    webUrl: "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/"
-    ampWebUrl: "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 74
-    images:
-      - url: "https://d1vhqlrjc8h82r.cloudfront.net/10-31-2021/t_36a7d442f26b4d2085ef3805536c4fcc_name_image.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Ed's Tech Notes: iPhone Stores Vaccine Data, Delta Face Recognition, Drones For Farming"
     excerpt: "Phone users can now store their vaccine information into their apple wallet but extra steps will be needed. Delta Airlines testing facial recognition for some of their loyalty program members, and Purdue University is testing drones for farming."
     publishedDateTime: 2021-10-31T13:13:00Z

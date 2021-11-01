@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2446457/artificial-intelligence-in-supply
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 82
+published: true
 
 provider:
   name: openpr.com
@@ -34,6 +34,28 @@ related:
         width: 1400
         height: 800
         isCached: true
+  - title: "Edge AI Chips Market 2021 Report Highlights, Future Prospects, Growth Strategies and Forecast to 2025"
+    excerpt: "Global Edge AI Chips Market Research Report 2021-2025, provides an in-depth analysis of market size, share, drivers, constraints, and other factors. Additionally, for the projection period of 2025, this research includes an estimated observation of many ..."
+    publishedDateTime: 2021-10-28T10:37:00Z
+    webUrl: "https://www.openpr.com/news/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    ampWebUrl: "https://www.openpr.com/amp/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446055/edge-ai-chips-market-2021-report-highlights-future-prospects"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+  - title: "Mobile Artificial Intelligence Market Key Players, Industry Demand, Overview And Supply Chain Analysis, Forecast To 2026"
+    excerpt: "The Mobile Artificial Intelligence Market report offers an in-depth assessment of market dynamics, the competitive landscape, segments, and regions in order to help readers to become familiar with the Mobile Artificial Intelligence market. It particularly ..."
+    publishedDateTime: 2021-10-28T10:24:00Z
+    webUrl: "https://www.openpr.com/news/2446027/mobile-artificial-intelligence-market-key-players-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2446027/mobile-artificial-intelligence-market-key-players-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446027/mobile-artificial-intelligence-market-key-players-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
 
 secured: "aLWLF5sOEXnY+lvEuKvykrRUqXdoVcKx3AYBDlEotYsSdGUbc9lobw11oq9QJPD0aPyR6PPiG1wg1CUmZIn+v47PuNfwQsbJ8lQ6XUFjMdj5PpekDP68KIybfW6HFRYPa9a8he75XDn4O9KPKSzbY3dSPuAS9gHZWx+Lq2ZdpujY6pMBBiEDqfjmeOP1ZLzbYnkkot4UbNTvAM7Rvv1VAb4RL1qwAm4NeUJHFOeauhM5oLUEB2Lr+V25u0ppkRz6WNADJCZWUhBM3HtbPl79+u1cs+6Qx1WVnpw3AVfazEHzhuiBjxlA89Z/r/y/NM4fW8lcbB7XAKnPIoNTOymBL5rth5Rv0oWOIB84ul8cA8k=;UaVq6UvhuQPLS7KUWBcA4Q=="
 ---

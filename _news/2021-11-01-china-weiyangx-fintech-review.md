@@ -59,6 +59,22 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Banc of California Considers Further Backing of FinTech Finexio"
+    excerpt: "After participating in FinTech Finexio’s recent $8 million funding round, Banc of California is mulling the possibility of investing in the startup once again."
+    publishedDateTime: 2021-11-01T16:19:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/banc-of-california-considers-further-backing-of-fintech-finexio/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/banc-of-california-considers-further-backing-of-fintech-finexio/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/banc-of-california-considers-further-backing-of-fintech-finexio/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1554323627-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "China's JD.com tries to take finance out of its fintech arm"
     excerpt: "While Nasdaq-listed JD.com has long been widely seen as one of China's top online retailers, the growth path of its fintech arm has been anything but consistent. Even its name has changed several times."
     publishedDateTime: 2021-10-30T04:13:00Z
@@ -154,6 +170,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
+  - title: "Austin startup wins Fintech Frontier's latest pitch contest"
+    excerpt: "An Austin-based startup claimed the top prize in Fintech Frontier's latest pitch competition in Cincinnati. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in the pitch competition that was part of StartupCincy Week."
+    publishedDateTime: 2021-11-01T19:35:00Z
+    webUrl: "https://www.bizjournals.com/austin/news/2021/11/01/sigo-seguros-wins-fintech-frontier.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "zy7tSvfghsZJTMB+7rhlHrrwKq4BqUZfbP5laRpiYGaB+a9P39tKRc4EsZTvQ/IXI5tlt3PzOX+yrM61BLtmq12j4JmfltyUT1OXKLiImptWVCrjKgQz5yEOV6Eqw7tck0lLBI+TcEswhEjzbZJZE1PG4/jU6jb7AifWGXhEti69VNxljY7r+eMcMgwo0mzP6qxKXgWa2XSIyRwzthGbD9ONzexHGgrweSmhN9jX6vFE4W7Ur6JR25Yh7+ZGH5hkvkC/zfkOUCUnPZsfW1RE0nW1UQ9x//pv2G07IHqQdhtsEHteppFJXgyL8lz4y42VSK6Bnk17vMF8biT/JR+lIQFILruJb2+ymH6Z/NBBvZQvdmujXEvI02aAL+sd1LTaFL0U7ZBh2Tq9YdwWvChuam6lsJCPJ+YNZ2hXUb6cwfDe2r7nnRlpN5JQ6q6cXu/Pw20Zh15VoWwXaMNN5Phji5E+hvpJXbU1cvTtAMBTHMqFG+142HhcaaIXW2J6dX4LZY+L16V/41L3yVgLqJuDLw==;+MlopM+MJBXSh/X9H8ld4A=="
 ---

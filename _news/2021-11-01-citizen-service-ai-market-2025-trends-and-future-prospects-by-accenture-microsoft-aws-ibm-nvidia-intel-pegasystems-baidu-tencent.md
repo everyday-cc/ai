@@ -63,6 +63,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Artificial Intelligence (AI) in Media and Entertainment Market Is Booming Worldwide | Wipro Limited, Google Inc, NVIDIA"
+    excerpt: "Get the inside scoop of the Sample Artificial Intelligence (AI) in Media and Entertainment report @: jcmarketresearch.com/report-details/1468817/sample Research Methodology while conducting the study of “Global Artificial Intelligence (AI) in Media and Entertainment Market Data Survey Report 2029” Secondary research Our Artificial Intelligence (AI) in Media and Entertainment industry analyst refer a broad array of industry sources for our secondary,"
+    publishedDateTime: 2021-11-01T16:21:00Z
+    webUrl: "https://chipdesignmag.com/artificial-intelligence-ai-in-media-and-entertainment-market-is-booming-worldwide-wipro-limited-google-inc-nvidia/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 28
+    images:
+      - url: "https://chipdesignmag.com/wp-content/uploads/2021/11/Global-Artificial-Intelligence-AI-in-Media-and-Entertainment-Market-Including-Key-Players-Market-Share-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
 
 secured: "BrlioIz1jPfUD63wacuSRcXZfpPk+fqA+VhfjKctEL6BfpN3UGr7wwBIle7HDhrf0tLWRluMTNieGNxC72CwZ9UgXARtSibViCd3LBD6J5/AcdIM7uTZSqXIq8pJwNWye+RQ5o54NInjiiGFGMsj/Oj1LQ8Q2cbPb+PRJt9nmF/E/TZCln++HUdXkasuHcy64ANhiiEMtAfx4RIyuGJRiokJP3AZW5XbHJIGIOkqxTqgBgPMpdtX82aOZVOZ3ov8YE3C2URklXI77EMCO2nLN77A7tkoszKOusg6koqvImSu/cst9BtwqN3i4sXI/OwLaPtwvez09jK7IR9lO1jBn36BSbEgBpi2KDB9l+UXRaU=;Zwip7aG1bLWokkR7KgFdoQ=="
 ---

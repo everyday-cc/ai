@@ -1,39 +1,30 @@
 ---
 category: news
 title: "3M Names America's Top Young Scientist of 2021: 14-Year-Old Sarah Park, for Music Therapy Treatment to Improve Mental Health"
-excerpt: "M (@3M) and Discovery Education (@DiscoveryEd) have named 14-year-old Sarah Park from Jacksonville, Fla. the winner of the 2021 3M Young Scientist Challenge ( #YoungScientist ), the nation's premier middle school science competition."
-publishedDateTime: 2021-10-20T14:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-3m-names-americas-top-young-scientist-2021-14-/2021/10/20/9473912.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-3m-names-americas-top-young-scientist-2021-14-/2021/10/20/9473912.htm"
+excerpt: "ST. PAUL, Minn. and SILVER SPRING, Md., Oct. 20, 2021 /PRNewswire/ -- 3M (@3M) and Discovery Education (@DiscoveryEd) have named 14-year-old"
+publishedDateTime: 2021-10-20T16:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/3m-names-america-s-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health-1030882271"
+webUrl: "https://markets.businessinsider.com/news/stocks/3m-names-america-s-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health-1030882271"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "3M Names America’s Top Young Scientist of 2021:14-Year-Old Sarah Park, for Music Therapy Treatment to Improve Mental Health"
-    excerpt: "M (@3M) and Discovery Education (@DiscoveryEd) have named 14-year-old Sarah Park from Jacksonville, Fla. the winner of the 2021"
-    publishedDateTime: 2021-10-22T23:36:00Z
-    webUrl: "https://www.eschoolnews.com/2021/10/22/3m-names-americas-top-young-scientist-of-202114-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health/"
-    type: article
-    provider:
-      name: eSchool News
-      domain: eschoolnews.com
-    quality: 13
-    images:
-      - url: "https://www.eschoolnews.com/files/2021/10/Discovery-3M-Young-Scientist-Winner.jpg"
-        width: 500
-        height: 500
-        isCached: true
+images:
+  - url: "https://mma.prnewswire.com/media/1665091/2021_3M_Young_Scientist_Winner_Sarah_Park.jpg"
+    width: 400
+    height: 400
+    isCached: true
 
-secured: "gozJXPzmhtXUsxzwLCIX95wCQL9m1Ck+8HEfyOqhc/iTXhOIgjVJecLJtpFNx6NUgmCHXE+DTWyz0+6ufvUdOpowlT3ozJTig9Pmque52Cz9crwDTvBQpOOVM14gHFmEA2h2CZbHJGv73KPgtGuqwINUos5PToV6yTR2s/iMmI1dsY5k9GguuQZAb9L9I4K/EaNZKKRvxf0hueLO/E9m+demYVL7Yu4FY5Cvqx+Ic94Knt4ajnAPPRCKNtCTfs1tWbfM4u0HYWNFQ4dUf5jHpRI2LqN3lZc2YUifZkvw7kUZOkBNgpU2UNOd/bhwQXX9Pnnpo4g0KJTPy+pxZYlCTvS4FHaZxLSFX6PddKcLAaM6tP4apmMcXsxGautBHG1AKLKuLzJtTvzEZxNk7lhb1lnjJVVYTOLRnBlBsfzY35sMANn94XmfhJfZ2GU0IYc6aGg7j+Y/02C63NE0QWKgOslx2EvWPWJ6FH9Br00Xzy/uJ5nZRchII0VmxivAK/65YnY/fOpUXvuYmqV6k+Pt9g==;hmbEQz0Ys3Pl+IR1lYmKtQ=="
+secured: "DyFyAYMvoV42k1hpYjroQYqmnS2HrY0wEmhGGElEo9pbJ8Z7djn9/qEyA5E0pn5eyMIhqkHl7rwavq+qlxuT+PZPbznZy0UwVIOIyMYgIILmJqgw/2WpgVu2wUnoAGFVVuTmLyYzC8DIXc/Xw/FyDpi++Iz9IDiRBXJD4scgWLCfQvxUQ5rpcUrIVZfjDb3ffbici22iNAHkOAEWF9dtzLYrkA+WhMrgGmr7ylbCh8DzHJkdZKfFWGWfBc9H/TUZGBal0xdA9qAUm8cqKI7MvpiyEpnT8T+uJzLdYibnsJPYbxU/gHvvNlQkLqGZSf2Z+uBixjyTnmWbChQOtpmpBxcOLrAZUkK8uV901wEKFQ0=;1/o3Jet1nFcpCg7vfY6aag=="
 ---
 

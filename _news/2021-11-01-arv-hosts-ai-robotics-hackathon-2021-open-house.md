@@ -1,27 +1,27 @@
 ---
 category: news
 title: "ARV hosts AI & Robotics Hackathon 2021: Open House"
-excerpt: "AI and Robotics Ventures (ARV), the technology development and venture building spin-off from PTTEP, organized special panel discussion sessions at AI & Robotics Hackathon 2021: Open House in two topics: Quantum Cryptography: The Future of Cyber Security,"
-publishedDateTime: 2021-11-01T09:16:00Z
-originalUrl: "https://www.newswit.com/en/LN9T"
-webUrl: "https://www.newswit.com/en/LN9T"
+excerpt: "Featuring panel discussions on the future of AI and robotics development and opportunities with leading gurus in cyber security and subsea machine learning spheres AI and Robotics Ventures (ARV), the technology development and venture building spin-off from PTTEP,"
+publishedDateTime: 2021-11-01T02:16:00Z
+originalUrl: "https://www.thaipr.net/en/exhibition_en/3116139"
+webUrl: "https://www.thaipr.net/en/exhibition_en/3116139"
 type: article
 quality: 69
 heat: 79
 published: true
 
 provider:
-  name: academy
-  domain: newswit.com
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.newswit.com/img/f/20211101/59222587f864878b9c7a2675a06c13bd-0.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.thaipr.net/wp-content/uploads/2021/11/OPPO-Reno6-Pro-5G_Thumbnail-768x402.jpg"
+    width: 768
+    height: 402
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 500
         isCached: true
 
-secured: "7LDmcv/h9b/pHMRDz6AMenW+x6UDOLXf/YGJvcv3cF+hemqaCJOagjMMAboEY6NYHDlKjErIV45C94Ky6unc47G6+rzbCQ8kY3jerwqs+9QSZCul6JjoXbLOQBkjacnXBSV/9zmQQz/KhXWzHV5879goswV0ySQrCjNLoJYPe7y+gSrYWcno9+stULhXMthq3DwNrsHuKY2wDpv0COYMnJ6WoyexfEd4GjxF1LLqtiyWCRoJlFVi+6pQ1bzMS525eIHPRNTMotPFiV1tY95Cn8+3rKmL7zMn6ReK963ChTXBtyE8a+f9E7q2pXwZbe1n4hzb6ryZtP54tzE+COqbBFgiTcw5vdnoK1U7a6OlTVs=;h0qYEI7iIsgxWusUOvSgug=="
+secured: "Ja5OL97D5KYktrzRac/zgu/y0C5EUhtUej9yHG+LUCA9gvHiZuHL2vdC7/3brarQcl9n6H2l/IjqrXYyv+gRGWndEMnG6FsouVd+9r+csX4RKMbl2eR5Ae9m1d323mkJTUq60B/4wo7G5t+6a7rbgvzCOroHufIqj4rscIYgK7vRSj4oFQW8+sJs+M1u+xxO0uxHCFnbww8RoEA/c7IysPO8Gb2iUHyzf2TomVnkYLsR3wg4nt5PnwslR+RfxZz7Y6dyAQoJFY6UF/fBMWyJutS1NEQiGMbO2XNLrGRSHej1PrezNh33XB8pYOWV+t8o7BvoWwetxxCf4uZ9jT2XQbnhx3v3cGDR/K+xkhwqzJg=;t3So4JZb76eVgeUzhVq/AA=="
 ---
 

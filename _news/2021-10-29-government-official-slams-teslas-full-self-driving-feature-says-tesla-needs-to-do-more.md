@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Watch Tesla’s Full Self-Driving Beta 10.3 Driving in Toronto [VIDEO]"
+    excerpt: "Canadians have been waiting on Tesla’s Full Self-Driving (FSD) beta to make its way north of the border ever since Elon Musk, the company’s CEO, said Canada would be the Level 2 driver assistance system’s next destination last year in November."
+    publishedDateTime: 2021-11-01T18:43:00Z
+    webUrl: "https://www.iphoneincanada.ca/tesla/watch-teslas-full-self-driving-beta-10-3-driving-in-toronto-video/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 39
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/11/fsd-beta-canada-10.3.jpg"
+        width: 800
+        height: 449
+        isCached: true
 
 secured: "Ax1TjnTB5EDq8Q0eLtC4Pea39FgEpo1ZqJodjrpoxs8SYbFkPvAFQ6hSQhaKacrKi0OC0Jrf+Q586aSltsljOVO37yFVN9qHjqw/xPMMUjHdBZdZk7tmXvp+HF1vGAQdpff0Y5HmtezIqwUvozfJFHHTqkE84FSCJioxjmxyvVzk+RnSUfsL/RMltBBd1j7kRkC56TBY/WiN1lR3Rz1Rf4dlINnkOTlnIGc09gJYe/0qX9r6M40yV/RpV7rK6jPfe2I+qGt/B+nTxcHhN+By3NCmA+plj0AgdsVWtVzMRllbsfWAHOxF72kP0tH00PhNg51jwXb8i1YZ+PZq07+KK4yXIO8L3ubyXljrOPscV8OIbcBjBNsdE1l3B2tdovZ2fMRGnlMsJHuzPbswQcH6umap68W29cPOQPtk2mOInU533n/0Q0v2y31pRNgubv2PtVWPHzyPWyRAsiqrbkozpr6WIG6zvbsB67R5jYNyZfZUlQWxKFV9U423PxJ5bh9kAc+JXntJo2UL9w2cIfuBaw==;NRu27N+71cTi7sfJ5Z3RvQ=="
 ---

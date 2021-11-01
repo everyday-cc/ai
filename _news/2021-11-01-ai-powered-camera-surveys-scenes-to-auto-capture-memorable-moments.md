@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/photography/canon-powershot-px-camera/?amp=true
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/canon-powershot-px-camera/?amp=true"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 334
         isCached: true
 
-secured: "atBi1W/UhHgQ6dUhXhjU3bP05tEqlHeNzcCuQEIFEmbcKbnTxgR/TLNdPglBCuYTSGk73IeloDUCSZeYdKNklg6RWZ66EGxPZAxRVN8dQ5o8BlGc3D/l8xW+nnEd5eIF4y2WM+LrbfZkQctzMjAIQZU+Q2o/kHXG/hMR+9AbIzK0yA9iVYmeuaqp2pvpmEGybKkoBbK8AyNZPbXhrebEuiIzZ3EO+IU2xahLURiE3jpYdubomameSLPftlp8iX4hty5+7H9ouvCHyMVBWBe79dMe4BZLEDEZpSnGsIjn02VaA1qFzrIQaQ1LpOQsYIGbUDdspn6aPXvPfTtUtMHogGBhXhM/FY2ZWBigoQFN77s=;KrcR+0ujO5cWydhth2jJpA=="
+secured: "gT+n1mO978Vy86LqO3zx4Xm1YcVvyFGAUDgRYnxnTi9J6FCi5btfdDo9L078zLCt0SM5J/mjRwlnQpFrfvPLAB6ew1O4AfJV4lWlK+TMZc2jnXA0NavMnNQKDfiWhGPoQRLHBWkcAPJ31zfDgvdO1AAWuPFEssFQuBjOn5hpG/m25N4P1uksGwS25IS2em8YQl+uSswvIkMF3qxTeuEsvIEhVHUi5fioPG2Gr3zCssq4jfGZvyxSZ+a7rfpaRpbL8b6CEn7KNXked4d8ro6bZqXgpPdSqzrHx9ltlKAHmO9zteovPfMof1jWcwaId7dilYLfGQM86zLjXejIQhdGRyt/rLrTcmXknhyu6SFtg/DpaPq7Rg0cwfcRfIfuiMnxSua0R9ZHPaIB6VcqAO41eIdAoI9ei0b3vmdYgHHvkqLUnFZvl0z99a6zcTPE0rIIdgVBhm72YKVsQjYcS/+Kj58OMWCU0U0hx/x4byZjzlCw/v+cRdcP2+OLPvXX96HoOwUo8APUopMlv5A1ybcEWg==;Lrpnf/7eFpKzZyOK6K+FRQ=="
 ---
 

@@ -53,20 +53,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Northwell and startup studio Aegis form AI investment venture"
-    excerpt: "Aegis Ventures plans to invest at least $100 million for artificial intelligence companies launched through the joint venture."
-    publishedDateTime: 2021-10-28T01:05:00Z
-    webUrl: "https://www.modernhealthcare.com/operations/northwell-and-startup-studio-aegis-form-ai-investment-venture"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 37
-    images:
-      - url: "https://www.modernhealthcare.com/s3/files/styles/800x600/public/december%202019%20photo_AI_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "$100M Northwell-backed joint venture will give clinical, commercial guidance to budding AI companies"
     excerpt: "Young AI companies supported by the joint venture will have access to the health system's clinical data and experts as well as the venture firm's commercialization experience."
     publishedDateTime: 2021-10-28T16:49:00Z
