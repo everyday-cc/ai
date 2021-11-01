@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "This Group Pushed More AI in US Security—and Boosted Big Tech"
+    excerpt: "The commission also suggested new investment in training AI experts, research inside and outside the Pentagon, and support for US semiconductor development. The group’s overall message? Artificial intelligence is central to the country's destiny and safety—and to competing with China’s plans to dominate in commercial and military AI."
+    publishedDateTime: 2021-11-01T14:30:00Z
+    webUrl: "https://www.cnas.org/press/in-the-news/this-group-pushed-more-ai-in-us-security-and-boosted-big-tech"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 56
+    images:
+      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/title/artificial-intelligence-prediction-technology-AI.jpg?mtime=20210628093817&focal=none"
+        width: 1024
+        height: 644
+        isCached: true
   - title: "How Artificial Intelligence is Changing the World of Finance and Investing"
     excerpt: "Artificial Intelligence (AI) is a popular trend these days, but it seems so abstract that it is easy to assume only people savvy with technology should be concerned about it. This is far from the truth."
     publishedDateTime: 2021-10-30T19:11:00Z
@@ -101,6 +115,6 @@ related:
         height: 720
         isCached: true
 
-secured: "WdmJSJNjse8mmX8bx3CtmccfTFm0RMYr1OOzHpvRwPVeDBzeXbvSIjAXmlAJIeLJ/fuyVG6BwXbTNzCfC2dUpwOwc60m/hQS4/Mmwisbd0fYw8dsZUeCzFAtUbpibLVU0qWK8GSmwhmS1JkeXlQv9uoTQ4oMxjCfdAF6PbP8JF3jR3PtZyfeltY+2lY/wQf+AHiyAYm3UBjFsoleJ+trf8UNJiB1FXWo/Yfr7Zf7xNG8FI9oaRWH2+Tb/JIm7H6L1J2QlNpPC5LVddFjEzBQcgapyFOEYUqXo01Tm0X6cBuvWwA/UVXGVVLEY9Y9dNFxGm5TsLZrWD2bz6pjz0nRQC0QX4F5QZMJgsD9NOQfv7w=;7rs9i022LHtRkxKlbpwKOw=="
+secured: "+6VwskOHwPgIfJHvYetLsKXPO6l+LovirmgIoIpbtafZbwWlsvkrj6NXgvi1cFlX2nyRhNvKfnLWGBp7OFE9PURvvIge59vKGe20XVxVzf7SB6iH8tWysyPZfqptE8piAXvDJVegbzEJmGalLngsocrvAmQH6FNuwdgIPjgOhqu1XG9WbUZiXcTw2Ysp6kTBAM+TRPrAGPol6qcasQsbA/gNwaMW+2kaMqk2eYyrKauzw8kMlIHpwu8R7QHnQiA8KZO7vbihgICzHL95pyXR4VJBspKg8vid0/1uqeJoSEgL6YLSFYkBT8WxHl9YcZxUX0arsx2Y+jcYCwYcq3sxSYiDZiDfyqNxtAidTDyDHEvKn1yyvljTVdSu7/71oJaxgejPBe83taDRixJiM0FvAaL+PB+J4p9t55rSlF1dApEoGYe4S2ijxSfzOFJ6Gu0wF1+/WJE/EN6gV7ImUmFK9AXHNURIYJM6LJh8mBGOdQTQsm2U20ArnChMZo18J/u9qDVowVs2EI46Upuqy8CCIg==;s5IOy3ynHYpUHe3jRwmozg=="
 ---
 

@@ -129,6 +129,15 @@ related:
         width: 566
         height: 400
         isCached: true
+  - title: "Here's which startup won Fintech Frontier's latest pitch contest"
+    excerpt: "A Texas-based startup claimed the top prize in Fintech Frontier's latest pitch competition. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in Fintech Frontier's latest pitch competition as part of StartupCincy Week."
+    publishedDateTime: 2021-11-01T15:25:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2021/11/01/sigo-seguros-wins-fintech-frontier.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "zy7tSvfghsZJTMB+7rhlHrrwKq4BqUZfbP5laRpiYGaB+a9P39tKRc4EsZTvQ/IXI5tlt3PzOX+yrM61BLtmq12j4JmfltyUT1OXKLiImptWVCrjKgQz5yEOV6Eqw7tck0lLBI+TcEswhEjzbZJZE1PG4/jU6jb7AifWGXhEti69VNxljY7r+eMcMgwo0mzP6qxKXgWa2XSIyRwzthGbD9ONzexHGgrweSmhN9jX6vFE4W7Ur6JR25Yh7+ZGH5hkvkC/zfkOUCUnPZsfW1RE0nW1UQ9x//pv2G07IHqQdhtsEHteppFJXgyL8lz4y42VSK6Bnk17vMF8biT/JR+lIQFILruJb2+ymH6Z/NBBvZQvdmujXEvI02aAL+sd1LTaFL0U7ZBh2Tq9YdwWvChuam6lsJCPJ+YNZ2hXUb6cwfDe2r7nnRlpN5JQ6q6cXu/Pw20Zh15VoWwXaMNN5Phji5E+hvpJXbU1cvTtAMBTHMqFG+142HhcaaIXW2J6dX4LZY+L16V/41L3yVgLqJuDLw==;+MlopM+MJBXSh/X9H8ld4A=="
 ---

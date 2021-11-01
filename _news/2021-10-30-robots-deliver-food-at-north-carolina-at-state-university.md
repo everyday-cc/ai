@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-n
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 59
+published: false
 
 provider:
   name: Government Technology
@@ -25,40 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Talk about mobile meals. Robots now deliver food on N.C. A&T's campus in Greensboro"
-    excerpt: "The university and its food services provider, Sodexo, have partnered with a company called Starship Technologies, which provides the self-driving robots. The company works with some other colleges ac"
-    publishedDateTime: 2021-10-27T22:05:00Z
-    webUrl: "https://greensboro.com/news/local/education/talk-about-mobile-meals-robots-now-deliver-food-on-n-c-a-ts-campus-in/article_6854f26c-3692-11ec-b4a1-535b13e2b72a.html"
-    ampWebUrl: "https://greensboro.com/news/local/education/talk-about-mobile-meals-robots-now-deliver-food-on-n-c-a-ts-campus-in/article_6854f26c-3692-11ec-b4a1-535b13e2b72a.amp.html"
-    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/news/local/education/talk-about-mobile-meals-robots-now-deliver-food-on-n-c-a-ts-campus-in/article_6854f26c-3692-11ec-b4a1-535b13e2b72a.amp.html"
-    type: article
-    provider:
-      name: News & Record
-      domain: greensboro.com
-    quality: 53
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/b/e7/be7be414-36a3-11ec-9e40-7bd5fa0bd768/617867603da57.image.jpg?resize=1024%2C586"
-        width: 1024
-        height: 586
-        isCached: true
-  - title: "WATCH NOW: Talk about mobile meals. Robots now deliver food on N.C. A&T's campus in Greensboro"
-    excerpt: "The university and its food services provider, Sodexo, have partnered with a company called Starship Technologies, which provides the self-driving robots. The company works with some other colleges ac"
-    publishedDateTime: 2021-10-27T22:05:00Z
-    webUrl: "https://greensboro.com/news/local/education/watch-now-talk-about-mobile-meals-robots-now-deliver-food-on-n-c-a-ts/article_6854f26c-3692-11ec-b4a1-535b13e2b72a.html"
-    ampWebUrl: "https://greensboro.com/news/local/education/watch-now-talk-about-mobile-meals-robots-now-deliver-food-on-n-c-a-ts/article_6854f26c-3692-11ec-b4a1-535b13e2b72a.amp.html"
-    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/news/local/education/watch-now-talk-about-mobile-meals-robots-now-deliver-food-on-n-c-a-ts/article_6854f26c-3692-11ec-b4a1-535b13e2b72a.amp.html"
-    type: article
-    provider:
-      name: News & Record
-      domain: greensboro.com
-    quality: 47
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/b/e7/be7be414-36a3-11ec-9e40-7bd5fa0bd768/617867603da57.image.jpg?resize=1024%2C586"
-        width: 1024
-        height: 586
-        isCached: true
 
 secured: "7Afv02e0h1f4gRAlewU6P3B0kLl4SlPaORnoUkjQaK5Kase3veBDiFD4PSb63jVghOnett+9KlIzegx6p2623a05GOy3uNYq5U3e8LcbmFOuzxqmBgYdSeRM6EG6zVsJZFVnmzDIZWXRVf7EFjPS+ULnKPrlKMmukYjSmQhjl8m2a6KlelIpE18wz2g18gs+wsdpLCMI0ZuP+xc2YTZXLQByEgn0a6rZPxAjva7KwyL8EZWkA+C1+1faLaUWPlt9R8mqnVKAtmXvBMSgMqDETgkcVT8c4Jfv8S30S6jGijNZtUxgCYgp+XHNN8PPu3oLjRCyJ6jpv2SYW52mMBw4j8rnbRnY02zwKdaBlG/hqdcUQ84HTeiD0boWi55I0uQwlIeq+MlNSzwtiYdyN7qLyIiXavb0no7C+IXiGGpo+grUY5ZFtT/JUn8osdDR71NLj5DH3mhO5Ss4sNV7v8jA4c0KDGJ7vLbnOEqcKJEPEYuVBypKKGhLzajhswB57+pH/GUZn2SDMDMGpNItIi6dkg==;VcW6s4MTphFzgOQH9vprEQ=="
 ---

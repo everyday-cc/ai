@@ -7,7 +7,7 @@ originalUrl: "https://chipdesignmag.com/global-machine-learning-ml-intelligent-p
 webUrl: "https://chipdesignmag.com/global-machine-learning-ml-intelligent-process-automation-market-business-intelligence-report-and-strategic-insights-by-2028/"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,40 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+
+related:
+  - title: "Why Should Humankind Strive To Build Artificial General Intelligence?"
+    excerpt: "Artificial intelligence, or AI, has been a buzzword for a while now. Although it has its own set of rewards and accolades mustered through disciplines like machine learning (ML), deep learning (DL) and natural language processing (NLP),"
+    publishedDateTime: 2021-11-01T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bff049e58c7220248800%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "SETI: Why extraterrestrial intelligence is more likely to be artificial than biological"
+    excerpt: "This could be a transition to fully artificial intelligence. AI may even be able to evolve, creating better and better versions of itself on a faster-than-Darwinian timescale for billions of years. Organic human-level intelligence would then be just a ..."
+    publishedDateTime: 2021-10-31T11:44:00Z
+    webUrl: "https://www.space.com/extraterrestrial-intelligence-artificial-biological"
+    ampWebUrl: "https://www.space.com/amp/extraterrestrial-intelligence-artificial-biological"
+    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/extraterrestrial-intelligence-artificial-biological"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 34
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/wvCKJsBx4AAacGmffBgNCi-1200-80.jpeg"
+        width: 1200
+        height: 924
+        isCached: true
 
 secured: "GcaGNb6QoyJSzmbiZVTchLFtdYxpUdFFl2dTenYzLllPaoyHzzrYzAWOp59cA2xQSyKtCuHmPQtYkisuiyhxsyoG5A+xMjaIXQ5tsfc8LwQ2aIMFgjqBy4ruFRuYu6R9whs2WVqZT5NJz0SnpkCZJ3vJPK3k6Rtwnc3caK9s4Z6BAmQ4YlAaB5HXZ2G1l0DC+7dzVzj7XpppeocV7Dzp/8MVRsLbQFpIqfky0lDkiKXBwAaIvGbw9rYKe/VHQXnMkCT+Y1GZHxsVprQL1J8mT50Qpt0Hs1mjRQlMvY4Q4BzozoZcORRSnfuh7uBqOsOF5MxJXNLGAvV9NR5StjKE0U08+cwlJRjGDKqmoAw8Pow=;2EqPMUDZiEk7c/ALsSMWyg=="
 ---

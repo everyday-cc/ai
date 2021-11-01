@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/microsoft-brings-out-the-orbit-datas
 webUrl: "https://analyticsindiamag.com/microsoft-brings-out-the-orbit-dataset-few-shot-learning-using-teachable-object-recognition/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Microsoft Ignite Ask the Experts: Protecting Azure Data, Easier than Ever"
+    excerpt: "Backup up data in the cloud and especially in hybrid and multicloud environments is hugely important. Tomorrow at Microsoft Ignite I am happy to let you know that I will be joining Rick Vanover and Karinne Bessette from Veeam to talk about how you can protect your data in Azure and hybrid cloud environments."
+    publishedDateTime: 2021-11-01T15:46:00Z
+    webUrl: "https://www.thomasmaurer.ch/2021/11/microsoft-ignite-ask-the-experts-protecting-azure-data-easier-than-ever/"
+    type: article
+    provider:
+      name: thomasmaurer.ch
+      domain: thomasmaurer.ch
+    quality: 53
+    images:
+      - url: "https://www.thomasmaurer.ch/wp-content/uploads/2020/12/Thomas-Maurer-Logo-2021-220.jpg"
+        width: 572
+        height: 220
+        isCached: true
 
 secured: "T5e8o9bUSxeDSSP14wCQn/lWPxy7xzlzNFqb7Fx8ei8/ejXfdCn3jb03gaLp6a8CeVboyLWkqWV3T2OzxodLVrGEtf4OkEXaGWlU2f2KkkaLDgiwIyaXXmpqSq59S1a2+bA/8ROFsLEo6FDR4E8bABt4/i6f5dlbI5KsZ/VmkvhnDtUpWraFuxZgI6kKvWqM+sYwd32K4vwDG4cebpYbeA3XTe0lnan0JvIcZqz7DlqQ+z0NF6JEgi/8YPr32YhbCVJLOgqGngV1IYr8X1ETMllto2XVEC4SvtikzVaqV5e4YlHNhDbdDgkb6AHHURJa/CmnnlpDZyi4FAcZK+1VcXepUxVMIg9ngHocuOG1/2AwhtDvqHep9W19U8MTAjTJocQ3gZhEtMtXhxvKqc/Yj23JmdConJrDX4F6WZEfrPI2/MNzqgOSWb8q7T8Jf+tqaududY8y3NUnx5SCgFOhLaFrIJkLTStw9d0jRgCLH3dt+S0R7El9QhcYJg0LLn0shJMA6+FrRNoa/wz++0uMXg==;n5XYZG+pE4Mv662zYPJ5+Q=="
 ---

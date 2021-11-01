@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/22752986/meta-facebook-andrew-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
 type: article
 quality: 74
-heat: 124
+heat: 125
 published: true
 
 provider:
@@ -104,6 +104,6 @@ related:
         height: 333
         isCached: true
 
-secured: "sKhj5ovddQ5qxzwzH5WeMnVu3T0vHMzLIjs4BZ2PFC2GWN6Os6FEoj2GcbFS7eC7v7v4rBxdrSxYL5FS5FcSoi9IHBCvQfmvYTN5D22oxi/PFsnfPtRg/V+3jtsb+nRbciGnhQQf95HGKV0SYxTh5NUN4I8XGYIBSmKxLBCoPybmQs5FTWfu56xL+29sq69LtBlS1IhTYek07/gqFgjAo6HzY0ugkf5d3bf9oxi9ynNrkrf+mEl3yw8rG7KuQaqXG0VHSC/Nyo6rsT3C5QpuJVYW7S2AOYZ8Y52ekDWLnSDEfVv4JJwkYSv/S68EV15PS/NW16cE3GD9pxIaL1y12hwSQptOynge8qVWljZJs1g=;OiXFN5QR3ZoNu61Z87DV/w=="
+secured: "rudrj4Dx7eI2dRVTDNcSKeWjDKVok7JfZrMKXP9Ii23WA6AmiNgR6Xi9j/PJ+PLAd1kVc4aXYSuijU/xX/LHpeFJ/9n9BE5/IYT9AZHZinG+jzMvLIQrQuVDOvfn27fZi1Rui57tbx9Y4CgpH5iofubvMbq8Qufbho60l9ookuOF0UOPjUlBaX6TTaQdFuTOGAAgBiIZ2CSuG3dgRjmVTKRPt5/4nmXFFpQsPhIWPXU7q+tPtvtVVOmfWk92+lWdixJhJLpl+QjVFlwv0BaUSmUclFcF13du2lDaY+CWOFmV7O2+9eEIBK2QjliIJRsKHigxFvJckshmzdAxSdfijx7h3SRNGKaVCX/EwbxVDvCJU30QQGWjoecixagTJwbXdR1PdaMutqrSinDWgGizSBkCjcVEuY+/T8JZRhdid7SzssDBtrSVRdV1y4iVAyt2T9cnefgW3AXjnUUamI+VNqTbh5y4Gz2eaNeBsaP8Dv/k54PeapQd7toT5LgsW+zcYXLsWHEtgCZwETonSfL+4Q==;0irGzrZAhidy43CF4Vl5eQ=="
 ---
 

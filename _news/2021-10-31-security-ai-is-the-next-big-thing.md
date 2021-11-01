@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/taming-the-data-deluge.jpg"
         width: 469
         height: 600
+        isCached: true
+  - title: "This Group Pushed More AI in US Security—and Boosted Big Tech"
+    excerpt: "The commission also suggested new investment in training AI experts, research inside and outside the Pentagon, and support for US semiconductor development. The group’s overall message? Artificial intelligence is central to the country's destiny and safety—and to competing with China’s plans to dominate in commercial and military AI."
+    publishedDateTime: 2021-11-01T14:30:00Z
+    webUrl: "https://www.cnas.org/press/in-the-news/this-group-pushed-more-ai-in-us-security-and-boosted-big-tech"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 56
+    images:
+      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/title/artificial-intelligence-prediction-technology-AI.jpg?mtime=20210628093817&focal=none"
+        width: 1024
+        height: 644
         isCached: true
   - title: "How Artificial Intelligence is Changing the World of Finance and Investing"
     excerpt: "Artificial Intelligence (AI) is a popular trend these days, but it seems so abstract that it is easy to assume only people savvy with technology should be concerned about it. This is far from the truth."

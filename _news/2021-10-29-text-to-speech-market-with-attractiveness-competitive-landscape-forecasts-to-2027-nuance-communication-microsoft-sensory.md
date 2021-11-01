@@ -66,6 +66,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Sonrai Security Joins Microsoft Intelligent Security Association; Sonrai Dig Listed as Preferred Solution on Microsoft Azure Marketplace"
+    excerpt: "Sonrai Security, an established leader in enterprise cloud security, strengthens its relationship with Microsoft by joining the Microsoft intelligent Security Association (MISA) for integrations with Microsoft Azure services."
+    publishedDateTime: 2021-11-01T15:53:00Z
+    webUrl: "https://www.lelezard.com/en/news-20075238.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 53
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "ifioQW3emTpHo+XWa8TvtohqpwdqNsaEvn3pNT2ZEXDoTKHcT8sLLmyPTQJFwzlhfavvAiQQSHxrRMsrKd5JQdFGlieGUN6HaxKvvNRXMd3MKGhuOSkxrPTfotgkwo+ZBX4ijk84tsisjizS8j+jyLkLv3Ri9n+blJRU/HUsYihkKtgix9AWeD5Ps5v94aPHkzkmD/9w7kJPNK3CLUU//J5HUVZ3hlwqDd3pE+DMUPXTdAMtua7xKZBTvgq5HFcMhsqlbOh7DXZqUFKAez0ihDi5dTECMTFQCCbMzEqzyltvRHmqce3fYsHAhOD+sD7X15IBJPyMZx1cNoRHHiMmJFhGdZQkolgtViPfI5WgSyg=;44HXhGVuwz/4OhtbqUJP4A=="
 ---

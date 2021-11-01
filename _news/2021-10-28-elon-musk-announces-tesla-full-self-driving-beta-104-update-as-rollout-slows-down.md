@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-d
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gov Official Tears Apart Tesla’s “Full Self-Driving” Feature"
-    excerpt: "It’s misleading.” Full Self-Driving is an optional $10,000 add-on to Tesla’s Autopilot suite. The feature has repeatedly come under scrutiny, especially once Tesla started testing a beta version of the software with the help of a small subset of drivers on public roads in October 2020."
-    publishedDateTime: 2021-10-27T21:16:00Z
-    webUrl: "https://futurism.com/the-byte/official-tears-apart-tesla-full-self-driving"
-    ampWebUrl: "https://futurism.com/official-tears-apart-tesla-full-self-driving/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/official-tears-apart-tesla-full-self-driving/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2021/10/official-tears-apart-tesla-full-self-driving-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Government Official Slams Tesla’s Full Self-Driving Feature – Says Tesla Needs To Do More"
     excerpt: "Driving” feature when it was launched but it was revealed that it is a software suite that doesn’t enable full self-driving. This made it fairly unpopular among federal regulators. In a Tuesday interview with CNBC,"
     publishedDateTime: 2021-10-28T18:40:00Z

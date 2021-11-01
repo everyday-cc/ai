@@ -1,0 +1,30 @@
+---
+category: news
+title: "Top 10 robotics stories of October"
+excerpt: "DeepMind acquiring MuJoCo and Waymo's self-driving cars getting stuck on a dead-end street in SF captured your attention in October 2021."
+publishedDateTime: 2021-11-01T14:41:00Z
+originalUrl: "https://www.therobotreport.com/top-10-robotics-stories-of-october-2021/"
+webUrl: "https://www.therobotreport.com/top-10-robotics-stories-of-october-2021/"
+type: article
+quality: 86
+heat: 86
+published: true
+
+provider:
+  name: The Robot Report
+  domain: therobotreport.com
+
+topics:
+  - Google AI
+  - AI
+  - AI in Robotics
+
+images:
+  - url: "https://www.therobotreport.com/wp-content/uploads/2021/11/october-2021-recap-web.jpg"
+    width: 800
+    height: 600
+    isCached: true
+
+secured: "E06Cdfks0eSiPLQZe+csMbZUlk7Ew0nvZfArfFh84IfQAGxaJGevqnTYN4yknV4EixEB6u3E6/bXqoHslL/KvPTd1bS9baKlz4YsLwlm48KJbLSzUOl8yLPbedCjKNNJU85nFvvs0LrGXdsoq0qQjnI6UMUaQDL6+z0xTmjcbJX8KvdC0pwMn4nV547QFmuekOTBl+lGuCZlZGgI3w+OYxtqUz7+Od9/dOo50f0ZQn7UQdAwfSax8C1DnBpjFwvjqlAXKbnwJ/aRZQyUmtzG34FxWMTz4tA1cZ98FG6l1veMUUhTAUp7Kk8fcE3UtEMENmUEk0g52g6JyRdSVsNiAJiu3aS2FZ3xEF0BtzXkeOo=;PBGc2W7H8BcPsvTlv4NCtA=="
+---
+

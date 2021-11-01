@@ -62,6 +62,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Ai Weiwei Is Trying to Find His Way Home"
+    excerpt: "The artist and activist on his new memoir, the true cost of freedom, and why home is sometimes about much more than where the heart is"
+    publishedDateTime: 2021-11-01T12:00:00Z
+    webUrl: "https://www.harpersbazaar.com/culture/art-books-music/a37932458/ai-weiwei-november-2021/"
+    type: article
+    provider:
+      name: Harper's Bazaar
+      domain: harpersbazaar.com
+    quality: 37
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hbz110121voicesweiwei-001-1635530728.jpg?crop=1.00xw:0.720xh;0,0.207xh&resize=1200:*"
+        width: 1200
+        height: 603
+        isCached: true
   - title: "1000 Years of Joys and Sorrows by Ai Weiwei review — the artist on his lifelong battle with China"
     excerpt: "In the first line of his fictional autobiography, Dickens’s David Copperfield asks whether he will turn out to be the hero of his own story. I’m not sure the qu"
     publishedDateTime: 2021-10-30T23:01:00Z

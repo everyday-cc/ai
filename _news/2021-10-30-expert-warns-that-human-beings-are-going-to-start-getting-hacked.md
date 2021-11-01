@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sapiens Author Warns That Human Brains Could Be Hacked if AI Is Not Regulated"
+    excerpt: "World-renowned science author Yuval Noah Harari said that someday human brains could be hacked into if emerging AI systems are not properly regulated."
+    publishedDateTime: 2021-11-01T15:59:00Z
+    webUrl: "https://interestingengineering.com/sapiens-author-warns-that-human-brains-could-be-hacked-if-ai-is-not-regulated"
+    ampWebUrl: "https://amp.interestingengineering.com/sapiens-author-warns-that-human-brains-could-be-hacked-if-ai-is-not-regulated"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/sapiens-author-warns-that-human-brains-could-be-hacked-if-ai-is-not-regulated"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOpl8dbOW/sizes/sapiens-author-warns-that-human-brains-could-be-hacked-if-ai-is-not-regulated_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Expert warns that artificial intelligence could soon be able to 'hack' human beings"
     excerpt: "A world-renowned historian and philosopher is warning that humanity needs to begin regulating artificial intelligence and data collection globally or risk being “hacked.” In an upcoming inte ..."
     publishedDateTime: 2021-10-29T22:28:00Z

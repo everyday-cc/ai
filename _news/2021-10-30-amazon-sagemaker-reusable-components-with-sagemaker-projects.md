@@ -7,7 +7,7 @@ originalUrl: "https://github.com/aws-samples/amazon-sagemaker-reusable-component
 webUrl: "https://github.com/aws-samples/amazon-sagemaker-reusable-components"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "How iProperty.com.my accelerates property-based ML model delivery with Amazon SageMaker"
-    excerpt: "This post was created in collaboration with Mohammed Alauddin, Data Engineering and Data Science Regional Manager, and Kamal Hossain, Lead Data Scientist at iProperty.com.my, now part of PropertyGuru Group. iProperty.com.my is the market-leading property portal in Malaysia and is now part of the PropertyGuru"
-    publishedDateTime: 2021-10-27T22:58:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/07/ML-4574-image001.png"
-        width: 721
-        height: 421
-        isCached: true
-  - title: "Enhance your machine learning development by using a modular architecture with Amazon SageMaker projects"
-    excerpt: "One of the main challenges in a machine learning (ML) project implementation is the variety and high number of development artifacts and tools used. This includes code in notebooks, modules for data processing and transformation, environment configuration, inference pipeline, and orchestration code."
-    publishedDateTime: 2021-10-27T21:49:06Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-your-machine-learning-development-by-using-a-modular-architecture-with-amazon-sagemaker-projects/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/22/ML6147-image011-1.jpg"
-        width: 500
-        height: 540
-        isCached: true
 
 secured: "I+xCay4mixnssbcptpcd7Eyb0kUS2j2g0DRyUhhKXrIcDJdtvhx1H6vyj8SEF6jOX/C4rpdsLfzJNnXi8Rmmb3kiHUi8eENvneJ0Wqsmq2ibdfmAV5FgYGkBRYdjm3HZMPI1drx/yKIlBLgQ/kb8Z8KSw5s0hOrgXGKp2WGZ1BrZohBqu6STZXLEFLVnwksBUdDCbCvM1JhG4rdD8UMvf9vC5QgGMcVJ0FrIWI6kkglLAQTauKEN74Xz7jlUN1l1yXyT08Afx5t3EwsYZvuJTONRHTwJrLu/IQyVNdtmZ2+mVVai+LQ+tx3Fy4WDX4kKr7Zf40viEU/uDxvr1fQbCNiPKuIWMruVcweI8D5fCC52bLhh2XpXcJH1etPeh5Pbgp8B6f1QiqSvWj4HYNCLVfQokXQ1Du84ivmrzgQ+IdnuRMqkdGuMRPF5mc0cpylu5TqKi0Do6lPp3W5l+bxZ73kLYJXiY/BC02oa6EfppZMgmqTCDijlgVvMzAr41tCTvgo2sgZkEeh4+EGon4aO2g==;fBciWQA6KvWoWi7z80gPPA=="
 ---

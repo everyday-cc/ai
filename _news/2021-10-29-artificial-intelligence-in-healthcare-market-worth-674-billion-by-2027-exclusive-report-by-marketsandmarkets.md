@@ -27,17 +27,17 @@ images:
 related:
   - title: "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ..."
-    publishedDateTime: 2021-10-28T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html"
+    publishedDateTime: 2021-10-28T13:41:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301410858.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 49
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
-        width: 669
-        height: 229
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
         isCached: true
   - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarketstm"
     excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Computer Vision),"
@@ -53,6 +53,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Conversational AI Market worth $18.4 billion by 2026 - Exclusive Report by MarketsandMarketstm"
+    excerpt: "According to a research report \"Conversational AI Market by Component (Solutions and Services), Type (Chatbots and IVA), Technology (NLP and ASR), Business Function (Sales and Marketing, and Operations),"
+    publishedDateTime: 2021-11-01T15:00:00Z
+    webUrl: "https://www.lelezard.com/en/news-20075927.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 27
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets"
     excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine"
     publishedDateTime: 2021-10-29T17:11:00Z
@@ -63,6 +77,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "JnCl507wDw7hSYSht5FWithNa4WAZiRqxrihZeNs0s9Vy1lD6QpgbH/XSSh8bGTVGn6KCeDN7QtWMZ3M6wwG2t7SowmcBVjmXryQ75HbDoeQUttZ9Ktei8i78yZwasUCSgNWEpVZ13NTzl55qlRvzpV8VC0q62OSwrm8I6m+HNf+0CMjd9Rp5F9AFN/U38/yc9IQcOeNs1jW8rs8ZbwhBw4qIWw8KUpzrxsGhQ+Ds//J4epXVvKpCdOlDwOOJfBDsoubW3VIUzmJc6yBhthbU6ujqzYNvKk+J9j1J0DIgQT5zKowdTsYAg/0Et58masr1BIM9Qskx4NZH4jz3SyVH86UOmiSDkzk+bknYTeRSig=;5vfVZcMv48T/IdrXntAHXw=="
+secured: "8nBeG3D96Nig0Dq1bvUl1k8ADRX26a0W3/qCth6s7e98YELKcky5bRPDNMZeZFjRQA+vqKW9QIE9f8iHjYxtRp/JLtRIZZbN0vFYcyLuKC7N5U1EYmdpMX4RTuszPa3/PPTZYzm7Rv6UsP2D1s3oJT48acUtpbq6wBRVwWy+aZnZPyJxX7INxlN3I8CzZscWdsb9Y6/3E4XUN20lke1Lc0WhaPvs//lOZXV85A/YiwnyTYcwH64e8gpyNcLQ9Rsex5uydlsXjhttZAiP223LQZ9zql1aN6pRQ0e2XKdyo8R+bE+dYcKnvwJefua50pMH7SLBwYRf6BFkJFYZ9tDD/xcbBWgBpW5JAUP0v9ohyqMd2Dv5nawSLpepHxuJwwM+EQ+eXwrh/eB32w2Ug9uzpTFCLh3ZpWsSooG1PtjOrn4XsO0zHHQ5djt3ZETMluhowPAjnMtCJT/uJ5WQYEbH4fl7WuS9zEnOnqYrkz3rMDWWTwMSgFag69XjhukyLc7KnXUoquNl+GSpiA23sTFtMw==;hGBdVZDan5KG9UIQ1baXeg=="
 ---
 

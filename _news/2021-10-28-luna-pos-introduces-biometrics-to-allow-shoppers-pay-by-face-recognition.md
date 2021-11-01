@@ -7,7 +7,7 @@ originalUrl: "https://thepaypers.com/digital-identity-security-online-fraud/luna
 webUrl: "https://thepaypers.com/digital-identity-security-online-fraud/luna-pos-introduces-biometrics-to-allow-shoppers-pay-by-face-recognition--1252424"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "American Green goes live with age recognition in biometric vending machines"
-    excerpt: "American Green has made face biometric and age verification fully operational on its cannabis and CBD vending machines for customer onboarding."
-    publishedDateTime: 2021-10-27T21:51:00Z
-    webUrl: "https://www.biometricupdate.com/202110/american-green-goes-live-with-age-recognition-in-biometric-vending-machines"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/27174712/vending-machine.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "mq2iptWXzVASJ9ilUQG3fjbrV53y2YBLA7ndBFa1CSkwhymS5VkxwZQqAzXE3hrbt2/VlNtWu4hnv17SRQgDb6b5rrxoh9OVnELP41zMbzOBbWY1WGUBzv52+xF7CB8oxwd84rfKsmFjLx5YXfPvh9tldxQTTUE2DglYaepKas0sm1FglktXpTPW+pdYCZvG5jn8eyd7DgF3TPB74wdZ4AhisIzFxupD8+Qv85eZtLcAFKvGK1JkeA2gnDiSwR5cB9sacIdQsPz+aYSjazi6m9Plg4L+LKTqNB+zVA1UstJvfijIHZC4V+Jew0wlR4GqLbMgueYwrYBNWwVZCmiT1Borhci/vPWCTj3zh5DvJW0=;oKMVi37Djc0E4kEtJQHaVA=="
 ---

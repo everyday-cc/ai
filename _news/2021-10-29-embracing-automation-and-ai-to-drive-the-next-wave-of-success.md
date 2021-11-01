@@ -62,6 +62,20 @@ related:
         width: 469
         height: 600
         isCached: true
+  - title: "This Group Pushed More AI in US Security—and Boosted Big Tech"
+    excerpt: "The commission also suggested new investment in training AI experts, research inside and outside the Pentagon, and support for US semiconductor development. The group’s overall message? Artificial intelligence is central to the country's destiny and safety—and to competing with China’s plans to dominate in commercial and military AI."
+    publishedDateTime: 2021-11-01T14:30:00Z
+    webUrl: "https://www.cnas.org/press/in-the-news/this-group-pushed-more-ai-in-us-security-and-boosted-big-tech"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 56
+    images:
+      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/title/artificial-intelligence-prediction-technology-AI.jpg?mtime=20210628093817&focal=none"
+        width: 1024
+        height: 644
+        isCached: true
   - title: "How Artificial Intelligence is Changing the World of Finance and Investing"
     excerpt: "Artificial Intelligence (AI) is a popular trend these days, but it seems so abstract that it is easy to assume only people savvy with technology should be concerned about it. This is far from the truth."
     publishedDateTime: 2021-10-30T19:11:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-01T12:12:00Z
 originalUrl: "https://www.engadget.com/facebook-is-enabling-a-new-generation-of-touchy-feely-robots-120016974.html"
 webUrl: "https://www.engadget.com/facebook-is-enabling-a-new-generation-of-touchy-feely-robots-120016974.html"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/95bffc80-3802-11ec-bdfc-f316a562d4f3"
@@ -116,6 +117,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "YMz/70Q1pR/TgiFsigUx7FkiULl82H+feSyTtBgi2QmUwDE5texwufdFuCmBHmB/meSRoTkZGcJy0+/KysbRt9jHcfgxbdOaUa4rzMX27ebaYKaCxIy42Yo67s/SSqBDYHLBDsopEK3MZWYtemHA5C+R1VhEJQYPB795ppAev6UY75M8fnqQrhAwpG0DwnuhIqLYWUkGC9vr5+410gUUcg7ckIA09NupyQO2a3U+hGIdWuQj6TS5P9Hh6SD/kxfciFuLBirog97tI8rC+xUJryOHhxrOHfGjy28I5M3jzn6XenSiZan5EDZDWyFVdgppsdpxsklRGxr0fTgBkAHR0m40sHSMPNEsxbFbWu+r1Jg=;SVfjWE3a1jsjPeh6MavIbQ=="
+secured: "0LgBLmuZgYMs3HVaEUOq3XjfpMUmJ7Ythlz3c32R6Una2exQfmyeAq+V2C0ULnQviQFDb02CpyUkM+EsDJGvfcNkxy27IoRYL+RkN8IFmPsMDhgYw5aqTnt2aySSv23kwkShwmuMRh1nCmHygBlAbGYBuU8fFY4uxatS4GmOq0jLEKvsjHmTZeW1EFVFvw0eb0ZwOyaIHMu4+MzhGRJ/VF5LaeI1Fx5r+yecLh1mO3/qKX4xF02hW0PAFLVqk9tggdN6kwKnI5veYQ3Hw+Xq556+bXKAUWlCPnNxG661vusjb2e2AIkMkfqYyWrJYR7s9saHB1n2hZZsoUom6XETB39ouRdd+jJdOPPI5rHGXT38fUorZ62CALUYY7x4NmcS1fYKUHEmirQNqBhrwCCksYYQvPBeaz/+faE81tsUkh0lcd2R6sMlEllnhUq4XRH5puou8YB7oFrC0wlw/BcxiqaRsp96R53Nitejmsp/2T4PIL0f8d3ZxAjP79IE8z9YB0e6PaeB23TFXD9gJrCQTQ==;FgOzTKoGmg4fj7dfEf6/0g=="
 ---
 

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "New InsurTech100 Companies are Transforming the Insurance Industry, According to FinTech Global"
-excerpt: "COVID-19 restrictions saw the use of digital insurance channels surge along with the level of customer expectations, which caused technological innovation to accelerate at a faster pace than ever before."
-publishedDateTime: 2021-11-01T13:42:00Z
-originalUrl: "https://www.lelezard.com/en/news-20075557.html"
-webUrl: "https://www.lelezard.com/en/news-20075557.html"
+excerpt: "Analysts and industry experts selected this year's 100 from a screened list of over 1,400 companies produced by FinTech Global, a specialist research firm. Companies were recognized for their innovative use of technology to enhance the customer experience or facilitate a potential step-change in efficiency or performance across the insurance value chain."
+publishedDateTime: 2021-11-01T13:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-new-insurtech100-companies-transforming-insurance-industry-according-fintech-/2021/11/01/9481482.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-new-insurtech100-companies-transforming-insurance-industry-according-fintech-/2021/11/01/9481482.htm"
 type: article
-quality: 12
-heat: 12
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "jfmylmvNFLSJ4rvn25okPfaX4JksBZQUc/sOpy6Fb21mkpAKppB7lcAK66E0NV74Z7zQ23K+lVTSFjKB0x27GrCY8PEctefbTEtTycArI02dJEYozNRe3xnmsujh1PCK7eFiZgFNwokUMbhXOg/np01VJA+o2//DT9KayoOly6mQ1JQ0d/ZO/aBPZGbMcDrLwxdsh0rlrf7DRN9F0p+xuwWkJlqgpOCtcx8Q9ABbP0jH0Kw2mxwbg7es5UwFrfr67Gau+0exy2bsuOItOWI/5Apvj08lGZ14yrYKJ/S0xx6ppiNpuTqgAJ8HiH37KejmwlrLsM+sbtM8/37G9YB/R3Brsp7gRjUePJYjlsPe+8U=;ViZGVoKuQWov4Hj7bRbiiA=="
+secured: "f3MAv1FzTgWJgxOrWnfhH7EOysIH+rQCSY7IHHTdA921DJwW+gYQFqpIolRnR5Svv9LtyicmQ22h4qrUxOg9YtlCDuBGCV+3G6ZtbNFCzMN2D9jDt8VkIzw3Fl3daD04cpGXyWZNGmNs4XFAmZb+sqW6QnGyNtxNpnlBWFnAfPkrTBA0DpzFXR8/xK0pGsU/upnYgX4rG5FmRHH9dPKyuqQ1EGVUeLvuGINtjTbXeC6U8L1zndstqYkDDlSFJbZ6sdGMP4MTmdc5Wlqw43AwesngigfSR+RPRnJ86rayGXe10JC8p+RTjRshPIu0Yk9uH/yJwVwhcv5J515hybpoc8dYvucJFVEgowTu3nLU5hI=;H3xc3NRmRIHWBUYfbLeDIg=="
 ---
 

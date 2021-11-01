@@ -39,20 +39,6 @@ related:
         width: 1546
         height: 1049
         isCached: true
-  - title: "Northwell Teams With Aegis Ventures to Foster AI-Driven Healthcare Startups"
-    excerpt: "The new joint venture will focus on applying artificial intelligence to improve health quality and equity and lower costs."
-    publishedDateTime: 2021-10-27T22:30:00Z
-    webUrl: "https://www.wsj.com/articles/northwell-teams-with-aegis-ventures-to-foster-ai-driven-healthcare-startups-11635375600"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 82
-    images:
-      - url: "https://images.wsj.net/im-424834/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Northwell and Aegis Ventures form artificial intelligence partnership"
     excerpt: "Northwell Health New York’s largest health care provider, and Aegis Ventures, a New York-based startup studio, today announced they are forming a joint venture (JV) that will ideate, launch, and scale AI-driven companies to address health care’s most challenging quality,"
     publishedDateTime: 2021-10-28T16:39:00Z

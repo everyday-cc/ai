@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/humans-in-the-loop-how-peop
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/humans-in-the-loop-how-people-can-ensure-artificial-intelligence-success/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 1600
     isCached: true
-
-related:
-  - title: "Hallmarks of AI Success in the Enterprise"
-    excerpt: "We’re in the midst of a rapid uptake of AI in the enterprise across the board, but there are big differences in the results and the workflows in these AI"
-    publishedDateTime: 2021-10-27T21:26:00Z
-    webUrl: "https://www.datanami.com/2021/10/27/hallmarks-of-ai-success-in-the-enterprise/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/business_people_shutterstock_1_metamorworks.jpg"
-        width: 626
-        height: 442
-        isCached: true
 
 secured: "qEfBIVYLwFiFmcvmt1A8MFUFNTm4tDQPRt91BUvQmXi+qbiUgU7j3SC0G2qCo8yIvYBfe3ElUi3RFZUbsGbYKL4VJ5xou5xGfdVmIiSFHn5Jwuq5TsV5ZVVzo4sf78cAPfNUXuw4qbbyD+jJ7qoI7a77heMshN9zSHs3LT5UaN1PhFg9CmHIokVocNgQGmd7i0Iyt8Ynn2kyK4kayGBpklZaBzVHfjXHx5EPR9hC/TLpq+Pvx0B29UIYOoyK1OHMoUlVqYMEGhU56kLEglPlTdDJVbi6ywkiGKggOKrSg4kuTbmwlSvvUzXBLEn6MPI8Zs7zd6S2pSrim9ghiUAY/OCSTvnVDb3Oxtto49AXjY2pxYuXrghV44KJqiUbutLXTCkx7L0hGKpbg4iTzMmUaODDm6yBD723dubsUYNKYHongU8Mq/PfHfGhoSoYr/DTCCzX7ghXp25ibYV3zOTvZVaZsR21ZdJaAw6MByvkDVKzkwslImzNfmGA0Zs8VfXQHvPpTy0PXPJHWw/Lbhn71g==;ExyPyX7FWXU3UFuUMC4s7w=="
 ---

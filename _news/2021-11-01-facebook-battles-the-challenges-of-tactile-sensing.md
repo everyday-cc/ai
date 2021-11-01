@@ -71,7 +71,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/95bffc80-3802-11ec-bdfc-f316a562d4f3"
         width: 4896
@@ -116,6 +116,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "0SVb0uubZqUMbR/hdEhnJ8UnIWuE+2CD9YB3P7Wa2ZMXiOtjnCr52QtiI0+NFubDeLS6nnvMA4WmhGIORQ4WDl7lqsc7Aq9iwE7pxKCkGx/l0uZCDDRRNGskXY3x+KYBDpHPY7o3JtPGN4yGX3ZaaMzHTEU+pAHmoPrKY3NOa2lGcPz7tVe9mK/7XtSXthUW03kD59DEu5OzZpS1vj1ebJ1B/OW6C49Aql0rLl29HNeUF9v4F/LG242oQxiU7narJAK9lHJf+dUK4S6M7W4IGVqjdf75EPhcVZ6b/5Xk75/HKKqZiTZ7dDFj+GHW+eryaKR10KI87D2InRsRaOROEPlbsad2B7VS3urlPorG4Kw=;gybMSSW2mEEQ9GpLMG2Xog=="
+secured: "bnYaupBJTGmPf73PKQ+MOeEsUIXKfLg/mnIpwtVUs2nZnESMDYZ/tze+zcOQG/POQP0FAnz1yrZlfQcc9ewtu8EEtXev3Agw0A1PhDmi4+Ek83US6cq9o4Nkm2RE3BwJA1bj465ekcPv6fyRG3R4/fvJzk26MNVbZTMFhREWEJWinstRWFdeK95SLMbVIzgpLwCZEh+547WnJyKYGUdl/k8WqR/5jAtcYVyYOoLxX0Nt5FLyNE0oAt2oocdBn8D1p+2Go167xEM3JBQUlyMTv54eF7ZUFmpcDqbUNzAteh/4926pEaHWOHu/XwRJq5jM54V4EHVy+SkPN73o6CER2ym6iKDx6Hpgay/oOhwhT40r6s8FMdav7SUl8zm5MJO1PBtNDYfRCKJKiDTh9YB62LCF+kytzkwmLKK/nP+8FwSH5HJ/8R91EnaoBNchQwb1iLPOFw1BMidSW3mG8i3G/Mro7I2TwgRMIr3jjpYWwk1xA6iM7+kCZXrOQgkvqALzU8EUHgRxv9bMP75lfqlpgg==;712IZGzznFE72DpXWgxUFQ=="
 ---
 

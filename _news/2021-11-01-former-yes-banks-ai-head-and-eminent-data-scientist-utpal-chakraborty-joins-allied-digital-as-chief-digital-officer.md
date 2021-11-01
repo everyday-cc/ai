@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Former Yes Bank's AI Head and Eminent Data Scientist, Utpal Chakraborty joins Allied Digital as Chief Digital Officer"
-excerpt: "Allied Digital in its ongoing endeavour to acquire talent has onboarded Utpal Chakraborty the Former Head of Artificial Intelligence of YES Bank in the leader"
-publishedDateTime: 2021-11-01T08:01:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/271625132/former-yes-bank-ai-head-and-eminent-data-scientist-utpal-chakraborty-joins-allied-digital-as-chief-digital-officer"
-webUrl: "https://www.bignewsnetwork.com/news/271625132/former-yes-bank-ai-head-and-eminent-data-scientist-utpal-chakraborty-joins-allied-digital-as-chief-digital-officer"
+excerpt: "Allied Digital in its ongoing endeavour to acquire talent, has onboarded Utpal Chakraborty, the Former Head of Artificial Intelligence of YES Bank in the leader"
+publishedDateTime: 2021-11-01T07:55:00Z
+originalUrl: "https://www.malaysiasun.com/news/271625132/former-yes-bank-ai-head-and-eminent-data-scientist-utpal-chakraborty-joins-allied-digital-as-chief-digital-officer"
+webUrl: "https://www.malaysiasun.com/news/271625132/former-yes-bank-ai-head-and-eminent-data-scientist-utpal-chakraborty-joins-allied-digital-as-chief-digital-officer"
 type: article
 quality: 31
 heat: 31
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Malaysia Sun
+  domain: malaysiasun.com
 
 topics:
   - AI in Finance
@@ -24,6 +24,6 @@ images:
     height: 420
     isCached: true
 
-secured: "0xqIp95vrSP3/PP5ZhpuHHTEAIBHd4IwHvd0U21clJmcoQFS5J4n4vjci0uHTbL5l+TyPI8mCCaOi2fzeKBxhoDvt99cVFKw5/DEYVIDhra0GdOX4PDQl1nA5qPhujybQk7/cRvN0ewilSOOVTA7U2TP5QKM+1r5PgPQWELNdaFKtLGk+8eyGn7SeH03cpUrGg4NSyFLs9TVwwPoogjdBPePxNDHNpLGdOvXLFfzd+MZ5pr/fLeD2Fwjfbqfk7rs7ffO9lfhzfDncdhB8UzayOwkdo/BHeeVlBWryDfh5gqZXrGEBTvjvJydIb4Hrj63IPFigZCiqucW5vi9xHF+hBnMu7ufMe9ypCZYfgrPafo=;0AeQJXUaQdfqi+GM/gc73g=="
+secured: "2MeHFbJI2jyTSGa3T53eRxTC3ykz9ffLI/QU44Uy9ygtaZUhEgel/9KdSi3b4SGDkGrAuDrpabQQJ/CWOPcGgv343SANd5N6sDL1fFk1PM4jF2Lm3jAR+Pay8/2W6CIA9s/hbITW7gnHrxbGHV0uPje5vksSsQoWAa2yuLKRr/9eVmp63I7U9kUlc5aGWhol3HMOqbI5cHxu4/9nOs/NRUrsc0Es7QoUMq69+JYPkKiXQuWptS0DsinC/hI3s8QJhmKO53yI1jpzRe3fQculc2ofWo7moLClyzpnTYIQDHSHrUUTtL75zILTqdaGx4qEnKo+yWip4exivUcptUhNDpSmbG5K+NU6JnKfZJx94GI=;S8+KvFzM8ZEncjBRhGrUGg=="
 ---
 

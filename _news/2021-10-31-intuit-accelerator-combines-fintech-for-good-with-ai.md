@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
         width: 566
         height: 400
         isCached: true
+  - title: "Here's which startup won Fintech Frontier's latest pitch contest"
+    excerpt: "A Texas-based startup claimed the top prize in Fintech Frontier's latest pitch competition. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in Fintech Frontier's latest pitch competition as part of StartupCincy Week."
+    publishedDateTime: 2021-11-01T15:25:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2021/11/01/sigo-seguros-wins-fintech-frontier.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "bsYLX203dHTtCpHT/5srNZgOdQTaYw5m+EOtELzgYf1OugHer5EWNu96hDAU8PGBUBj1WfuolTaHPIdZRuMRM3U0vzgGe7miVl8F7D9SOmpCxiqF86fPF8BwDRXUyaNoEsDmxcht3oXG4IxEyFqA8Cyfcw/HjDZ/bzXS7xv3O0NEJ/LjQqQMrTlPvLIK3YeIpDKViRAIFiSnxtYg2GEJ518pWaV468uEUbgir/glf/trzKGyoPH+GF6xydMwft2U+LklafRR/f8DR7LloCNwqpjo9Rq7HPH3JEL+mPNABy5wTBBclYJ4ECwNgeNdwsmMwSxHyC+PS42HgfmEwqc7H4Aqys/eELIr1hfpO5K12f2n5YLd2D2ObQ3sw4eusJt/KhzK4c3gh9IEhb9h/+5KCtOE4++cRlyB9SFEkDndPBzz9Tk/wv1Jg01VZpL7VOH8h3P4O8Ut54HXMUdzcZg4R+0DH8LHhzQOGCdBqQo8SjXjVl1T2pmNFvWY5C98WfWbUqgTtkaU1DyVdsUBDaJF9A==;fjOFOkcAyMMXRYYrWVId5A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103064702/SAFR-Provides-Facial-Recognition-ID-
 webUrl: "https://menafn.com/1103064702/SAFR-Provides-Facial-Recognition-ID-Authentication-for-Japanese-Government-Services-Access"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Red or blue, US communities want brakes on government use of facial recognition"
-    excerpt: "The movement to corral facial recognition with local and state laws continues, and it is showing up in red, law-and-order states like Indiana."
-    publishedDateTime: 2021-10-28T15:40:00Z
-    webUrl: "https://www.biometricupdate.com/202110/red-or-blue-us-communities-want-brakes-on-government-use-of-facial-recognition"
+  - title: "Japanese government selects SAFR face biometrics for in-person service access"
+    excerpt: "SAFR has recently been selected by the Japanese government to provide its face biometrics technology to support the country’s digitalization initiatives."
+    publishedDateTime: 2021-10-29T16:56:00Z
+    webUrl: "https://www.biometricupdate.com/202110/japanese-government-selects-safr-face-biometrics-for-in-person-service-access"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 35
+    quality: 21
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
         isCached: true
 
 secured: "Eb3DMYABWTLTSY2YODarHJ3feJH8MBPEF+qFUenxWUk04tVXduoJZx4dNQVyHDZx6rq0MAt8n8NR4E3VCTxrQ/nL1Eoexo4mZzmwh2Gvm8PYxT3mmDnFhkKG2j7LTdZkJ6spGn1EGFQOciHYfu9ikmTUjXTFhaarm7ArHjm/QHZmMzwYnWzjEL8rm5H+J5zUGuf4ZzSoRqaDTYHUKpIsLusfQEfVq+OlscQQ7sNtAwVrV8GnDJx+0Zg/pRPnGnZ92D+kkRif+PFo+dK2nHVagFuzqbg/icdJNywkwxlkxbkkq9A6WgqLNwVuvOIJa2V76g5dEd0i7UnASLzbWyafIrm1DMB7Va7ZAa7XM3fu7rw=;W23nrvIP/P99LyhSUt6vKg=="
