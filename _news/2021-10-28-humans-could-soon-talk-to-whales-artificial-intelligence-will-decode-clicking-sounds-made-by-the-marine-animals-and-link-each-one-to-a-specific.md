@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists Are Working on an AI to Let Us Talk to Whales"
-    excerpt: "An interdisciplinary team of scientists have launched a project with the goal of decoding and potentially communicating with sperm whales."
-    publishedDateTime: 2021-10-27T15:44:00Z
-    webUrl: "https://futurism.com/the-byte/scientists-ai-whale-language"
-    ampWebUrl: "https://futurism.com/scientists-ai-whale-language/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/scientists-ai-whale-language/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 159
-    images:
-      - url: "https://wp-assets.futurism.com/2021/10/decode-whale-language-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Humans could soon TALK to whales: AI is learning to decode clicking sounds made ..."
     excerpt: "The initiative, called Project CETI, is harnessing the power of artificial intelligence to interpret clicking sounds, or 'codas,' Sperm whales make"
     publishedDateTime: 2021-10-28T16:49:00Z

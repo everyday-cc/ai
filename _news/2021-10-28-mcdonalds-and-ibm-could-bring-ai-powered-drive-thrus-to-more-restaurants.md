@@ -61,6 +61,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "McDonald's looks to supersize its AI prowess via a new partnership with IBM"
+    excerpt: "McDonald's made some savvy AI investments; now it's time to take them to the next level, with IBM providing the secret sauce. McDonald’s decision to sell off its AI tech labs to IBM is a gambit that reflects the fast food firm’s digital forward thinking,"
+    publishedDateTime: 2021-11-01T09:20:00Z
+    webUrl: "https://diginomica.com/mcdonalds-looks-supersize-its-ai-prowess-new-partnership-ibm"
+    ampWebUrl: "https://diginomica.com/mcdonalds-looks-supersize-its-ai-prowess-new-partnership-ibm"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/mcdonalds-looks-supersize-its-ai-prowess-new-partnership-ibm"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2020-02/mcdonalds-Double-Quarter-Pounder.jpg"
+        width: 772
+        height: 440
+        isCached: true
   - title: "McDonald's Teams with IBM to Super-Size Drive-Thru Lane Tech"
     excerpt: "IBM’s acquisition of McD Tech Labs is a complement to its current work in AI and developing customer care solutions with IBM Watson, which is being used in multiple sectors to improve outcomes. Once the deal closes, the McD Tech Labs team will become ..."
     publishedDateTime: 2021-10-28T10:38:00Z

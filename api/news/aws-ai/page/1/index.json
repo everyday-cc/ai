@@ -309,6 +309,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-27-mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster.md",
+      "title": "Mux Partner Program Launches to Help Companies Bring Modern Video Experiences to Market Faster",
+      "excerpt": "From content delivery network (CDN) offerings like Fastly's edge cloud servers to popular content platforms, including Contentful, Sanity, and Strapi, Mux's Platform Partners can help developers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wjhg.com/prnewswire/2021/10/27/mux-partner-program-launches-help-companies-bring-modern-video-experiences-market-faster/",
+      "originalUrl": "https://www.wjhg.com/prnewswire/2021/10/27/mux-partner-program-launches-help-companies-bring-modern-video-experiences-market-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wjhg-prod.cdn.arcpublishing.com/resizer/0BLpjpxQZnTlpxtbi8Sym045azI=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/HF77FU6G7AQGBYAFLHQ3AIAA24.jpg",
+          "width": 980,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJHG",
+        "domain": "wjhg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-abacusai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases.md",
       "title": "Abacus.ai snags $50M Series C as it expands into computer vision use cases",
       "excerpt": "Abacus.ai wants to build an AI platform that simplifies machine learning model creation, while still leaving room for power users. Today the company announced a $50 million Series C. At the same time,",
@@ -1384,50 +1427,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-natural-language-processing-market-comprehensive-insights-2021-to-2028-ibm-aws-apple-intel.md",
-      "title": "Natural Language Processing Market Comprehensive Insights 2021 to 2028: IBM, AWS, APPLE, INTEL",
-      "excerpt": "The Insight Partners provides you global research analysis on “Natural Language Processing Market” and forecast to 2028. The research report provides deep insights into the global market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2428144/natural-language-processing-market-comprehensive-insights",
-      "originalUrl": "https://www.openpr.com/news/2428144/natural-language-processing-market-comprehensive-insights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua13661220_g.jpg",
-          "width": 800,
-          "height": 463,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2428144/natural-language-processing-market-comprehensive-insights",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428144/natural-language-processing-market-comprehensive-insights",
-      "publishedDateTime": "2021-10-13T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "AWS AI"
       ]

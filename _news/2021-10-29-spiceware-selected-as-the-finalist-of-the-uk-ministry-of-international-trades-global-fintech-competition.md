@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "4 FinTech Tweets you should see!"
+    excerpt: "FinTech companies like any other are now embracing social media to tell their stories, engage with their consumers, and leverage influence."
+    publishedDateTime: 2021-11-01T09:03:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-tweets-you-should-see/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Funding-wealth-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "B8mTdnmkX0LbP/cRJB8deBwzTY2BqzwUTWXWn33SRhlFElZIkMxYkKzX9qPS1CO9m8a8DcjuWpHombAtJOoL7NGBP2qaXwQUjpz0liDkZ0s5uNNHatE20VyOsukVELoYGG1WBESOJ3ht7RZ6JkxsPOCUijqphws9+n1zWToFntUs02zlmnfQQ7NJyY5RZ1JJT9FoBG6ca2d8mQ7IwOqUcoeL2n/GrLj8bTR0DWsxST8Dk+HOv+h1amQbFSCwGdeyYyIEWnPEFW4egmNRFObOcIWOEZ29VSN2gV1g3UKOOTLfsjxuuR6DYU48/oQUkR4HbeWqj8XjqiCQFXYzuh8gZOyjNGwOGB3xEdUd0trYhv4=;n0fb197ZQM65/Ois0is/5Q=="
 ---

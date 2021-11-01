@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "LivePerson acquires VoiceBase and Tenfold to power scaled Voice AI innovation"
-    excerpt: "Through these acquisitions, three powerful technologies combine to create a unified, AI-enabled system for customer experience: VoiceBase’s superior speech recognition and analytics capabilities, Tenfold’s advanced voice,"
-    publishedDateTime: 2021-10-27T15:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-5906129d68124670d985ee12d29c830d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "LivePerson acquires VoiceBase and Tenfold to power scaled Voice AI innovation"
     excerpt: "Through these acquisitions, three powerful technologies combine to create a unified, AI-enabled system for customer experience: VoiceBase's superior speech recognition and analytics capabilities, Tenfold's advanced voice,"
     publishedDateTime: 2021-10-27T19:25:00Z

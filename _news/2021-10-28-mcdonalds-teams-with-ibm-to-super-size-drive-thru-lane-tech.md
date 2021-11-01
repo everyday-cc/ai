@@ -73,6 +73,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "McDonald's looks to supersize its AI prowess via a new partnership with IBM"
+    excerpt: "McDonald's made some savvy AI investments; now it's time to take them to the next level, with IBM providing the secret sauce. McDonald’s decision to sell off its AI tech labs to IBM is a gambit that reflects the fast food firm’s digital forward thinking,"
+    publishedDateTime: 2021-11-01T09:20:00Z
+    webUrl: "https://diginomica.com/mcdonalds-looks-supersize-its-ai-prowess-new-partnership-ibm"
+    ampWebUrl: "https://diginomica.com/mcdonalds-looks-supersize-its-ai-prowess-new-partnership-ibm"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/mcdonalds-looks-supersize-its-ai-prowess-new-partnership-ibm"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2020-02/mcdonalds-Double-Quarter-Pounder.jpg"
+        width: 772
+        height: 440
+        isCached: true
   - title: "McDonald's Partners with IBM to Expand Voice-Ordering Technology"
     excerpt: "McDonald's revealed Wednesday that it's turning to IBM to accelerate growth of its automated voice-ordering technology. As part of the agreement, IBM will acquire McD Tech Labs, which was formed following the burger chain's 2019 acquisition of Apprente,"
     publishedDateTime: 2021-10-27T19:08:00Z

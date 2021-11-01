@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "4 FinTech Tweets you should see!"
+    excerpt: "FinTech companies like any other are now embracing social media to tell their stories, engage with their consumers, and leverage influence."
+    publishedDateTime: 2021-11-01T09:03:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-tweets-you-should-see/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Funding-wealth-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Spiceware selected as the Finalist of the UK Ministry of International Trade's Global Fintech Competition"
     excerpt: "The UK's Ministry of International Trade runs a Global Entrepreneur Program (GEP) for innovative technology companies wishing to enter the UK. In conjunction with the program, the annual Global Fintech Competition awards competitive global Fintech companies with innovative solutions such as AI technology,"
     publishedDateTime: 2021-10-29T13:26:00Z

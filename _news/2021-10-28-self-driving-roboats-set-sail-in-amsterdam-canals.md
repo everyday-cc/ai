@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 435
         isCached: true
-  - title: "Self-driving \"Roboats\" ready for testing on Amsterdam's canals"
-    excerpt: "Visitors to Amsterdam may soon spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash."
-    publishedDateTime: 2021-10-27T16:01:00Z
-    webUrl: "https://www.reuters.com/technology/self-driving-roboats-ready-testing-amsterdams-canals-2021-10-27/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/zZYDUJ-p7UhkMMtVmNdo8LblmsM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T63HTR7FABPTHG7M3UT5HCCUAM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Self-driving \"Roboats\" tested on Amsterdam's canals"
     excerpt: "Soon visitors to Amsterdam may spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash."
     publishedDateTime: 2021-10-27T19:00:00Z

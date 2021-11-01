@@ -6,9 +6,6 @@ publishedDateTime: 2021-10-27T16:12:00Z
 originalUrl: "https://www.wjhg.com/prnewswire/2021/10/27/mux-partner-program-launches-help-companies-bring-modern-video-experiences-market-faster/"
 webUrl: "https://www.wjhg.com/prnewswire/2021/10/27/mux-partner-program-launches-help-companies-bring-modern-video-experiences-market-faster/"
 type: article
-quality: 12
-heat: 12
-published: false
 
 provider:
   name: WJHG
@@ -24,6 +21,6 @@ images:
     height: 475
     isCached: true
 
-secured: "Z0fhLS3ClLS5LtReMNTqEirqzFG3PMT9j9avzTC0R8S51tqIOdCF8nV/YkOvqoAsHMAz5KAo57au2dDFoZ6kx+cMHbYUcBKE9NlUBkr0wj6IL0+nL6BQ7znPQQGwqzLuNp7h0YhUmjsLyb+hNXfRlddH89jSpuLfjuZrMK06t4ALeaSTTdvHjUHdbPODapLWMBQ/az2VLUHCnO648oaxL0teumkemZ7eBD5tbmTDgzcyqHQjyK4BUzY2LEifsT1oF7ph1lP+iRnV5pB2wLX2iU+/Kas59NGQdj0vamYFtN7VQxjLSNFAKa2OR4IyJ+7HNoYZg3BSPg2x2C1n16GJbK14Lb2Y2Y0N/25mIaM4WxQ=;s6vF1y8Hc4O2fyIPod6J+g=="
+secured: "a+uabw3aOMajEqCxIF/6b7oD2ylffTX0p0DJTcb8lfJuSyszwht9MABB1dEq7hfsXPaU4xb04jiaauzuSi8VeLNKploGs1GzI3/zIhtUh5P20shvPUyok0Vrv4B8+EUyUCMvfFnC3DQQJ61NoCVpqNB6CR/8cOC6CXHjB8w83tn4FbV8deloJBWqD265/XoCs3me7jC9OgzOk25dGDgI3VvJiJR47ogbUdYyaX7946PdQuDw98AH0fCAjEpV9Zj0VbRSJDf6HHK8dLB/aXf99POyzKkobRky6fM/McYsKtwTqkKEX1fI8mEVR0Z1t8xXm0H7rz7fEkV5KuEdibEQ2rUBvK/11Xd4Qa3a/JdR7Ss=;BINRIhnL2D5UjZS7kWNKlQ=="
 ---
 
