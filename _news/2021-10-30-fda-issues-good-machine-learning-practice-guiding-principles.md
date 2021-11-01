@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/fda-issues-good-machine-learnin
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/fda-issues-good-machine-learning-practice-guiding-principles?amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The National Law Review
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Good Machine Learning Practice for Medical Device Development: Guiding Principles"
-    excerpt: "The U.S. Food and Drug Administration (FDA ... the development of Good Machine Learning Practice (GMLP). These guiding principles will help promote safe, effective, and high-quality medical ..."
-    publishedDateTime: 2021-10-27T14:48:00Z
-    webUrl: "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles"
-    type: article
-    provider:
-      name: Center for Food Safety and Applied Nutrition
-      domain: fda.gov
-    quality: 134
-    images:
-      - url: "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Regulators release 10 principles for good machine learning practice"
     excerpt: "The document, which was issued by the US Food and Drug Administration (FDA), Health Canada, and the UK’s Medicines & Healthcare products Regulatory Agency (MHRA), is aimed at informing the work of the International Medical Devices Regulators Forum (IMDRF) and other international standards organizations as they tackle regulation of a growing number of medical devices that incorporate machine learning and artificial intelligence."
     publishedDateTime: 2021-10-27T18:15:00Z

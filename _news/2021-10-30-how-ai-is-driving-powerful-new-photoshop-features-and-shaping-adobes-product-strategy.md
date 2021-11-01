@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-driving-powerful-photoshop-features
 webUrl: "https://thenextweb.com/news/ai-driving-powerful-photoshop-features-and-shaping-adobe-product-strategy-syndication"
 type: article
 quality: 58
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe's Project In-Between uses AI to create 'living photos'"
-    excerpt: "As part of its \"sneaks\" session today, Adobe will demo Project In-Between: an AI-based tool that creates what the company calls \"living photos\" from separate still images. Using Adobe Sensei AI, the tool makes an animation between two or more photos with a single click."
-    publishedDateTime: 2021-10-27T13:31:00Z
-    webUrl: "https://www.engadget.com/adobe-project-in-between-preview-130017575.html"
+  - title: "5 AI and machine learning-powered audio plug-ins showing the way forward in 2021"
+    excerpt: "Here are 5 of the finer examples we have in 2021 of cutting-edge technologies assisting and improving the audio production process."
+    publishedDateTime: 2021-10-29T15:23:00Z
+    webUrl: "https://www.gearnews.com/5-ai-and-machine-learning-powered-audio-plug-ins-showing-the-way-forward-in-2021/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
+      name: Xotic
+      domain: gearnews.com
+    quality: 49
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/9eab3980-3722-11ec-be5f-3f90f7e9f1a5"
-        width: 1600
-        height: 1000
+      - url: "https://www.gearnews.com/wp-content/uploads/2021/10/Best-AI-Driven-Audio-Effect-Plugins.jpg"
+        width: 1540
+        height: 850
         isCached: true
 
 secured: "9m7PitxssTMGJjssaZ5CE/LLh2pDMEOWHLFhSEUaUvswWej/Mml7Jz+7EIuM6qnI4/WuDxYjG4SzeFnHY8d+Ea7rOnyOwBpOSCKfxorp2I3OQ776+gloMFTbhBNRl2nT9l5RFPxzAm8eJTDw4wJLQru4DJLAcySV4zsEQYBlt1/jYbU4PVzwi2HM6NFw8KvG/BM94QDoMH7D/EXPygUrVDzcYL9zuk6v/yw3rRYZpgkbLFXYp+3hXPLuKXG6bdmz0rhV4ApfbPso/yG3lRLH5s65N/Sdu45z7lCkpMUe4MIsIhlUztKCxbXC8/q+xl+LB1UZ2iMjb+6TJDPSTQ2tlnCMHkfW0amJTPcZ8uwslxZAWNAaIgpiQ1oIzYmdgmhsH1vlOFzoS/XQ1EaTXK0X6GI3E8vTAO7LfApp8LkY+cImdlt+B0u9mRk65M7Bkx5b9aLANxWZOdzoW3xVg7PLPuFcaC5O8cdfRER1SbAQRlRsArH9HzLBHe4kn7N2g4VKQNU09qRZrtYO+cwdC5Mfbw==;hXBBX9O6kADd3rDul02pfw=="

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Good Machine Learning Practice for Medical Device Development: Guiding Principles"
-    excerpt: "The U.S. Food and Drug Administration (FDA ... the development of Good Machine Learning Practice (GMLP). These guiding principles will help promote safe, effective, and high-quality medical ..."
-    publishedDateTime: 2021-10-27T14:48:00Z
-    webUrl: "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles"
-    type: article
-    provider:
-      name: Center for Food Safety and Applied Nutrition
-      domain: fda.gov
-    quality: 134
-    images:
-      - url: "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "FDA Issues Good Machine Learning Practice Guiding Principles"
     excerpt: "On October 27, 2021, pursuant to the Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device Action Plan (Action Plan), the US Food and Drug Administration (FDA) released its Good Machine Learning Practice for Medical Device ..."
     publishedDateTime: 2021-10-29T23:39:00Z

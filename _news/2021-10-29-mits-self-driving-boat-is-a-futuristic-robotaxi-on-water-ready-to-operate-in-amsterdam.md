@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot taxi boats take to the water in Amsterdam"
-    excerpt: "The self-driving boat, dubbed Roboat III, is the creation of MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the Senseable City Laboratory, and the Amsterdam Institute for Advanced Metropolitan Solutions."
-    publishedDateTime: 2021-10-27T14:00:00Z
-    webUrl: "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b28ff8b30f4357577c4bd78f6367cfa9959b5b56/2021/10/25/c75fd06e-1512-4c6e-9770-86eb11d8f1cc/screenshot-2021-10-25-at-10-58-37.png?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 791
-        isCached: true
   - title: "MIT’s CSAIL self-driving water taxis launched in the Amsterdam canals"
     excerpt: "Granted, there aren’t many cities where self-driving water taxis are a viable ... scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Senseable ..."
     publishedDateTime: 2021-10-29T17:38:00Z

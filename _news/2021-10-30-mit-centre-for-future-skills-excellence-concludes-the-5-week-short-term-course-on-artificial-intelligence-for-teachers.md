@@ -38,6 +38,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "MIT Centre for Future Skills Excellence Concludes the 5-Week Short Term Course on Artificial Intelligence for Teachers"
+    excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE), MIT Art, Design and Technology University concluded its unique 5-week and 2-credit Short-Term Course on Artificial Intelligence in Education that attempted to upskill teachers from various colleges and schools all over India,"
+    publishedDateTime: 2021-11-01T05:44:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2021/11/01/pwr7-mit-art-design-and-technology-university-pune.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 13
+    images:
+      - url: "https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg"
+        width: 540
+        height: 315
+        isCached: true
 
 secured: "8majaKHvUKNW1jKiaCQDXleKzhfU/DP0xN5cQIfnHhjmnHh7ykifJHoaB8xrv/TNvddaspivjsGv8wRM7qEC4GoQtwZE4qvWFqGhYnAmbvUJAhR4jAyeCx0XNjTJ40hjvUflPDFNrYifdi9CtOISZAAMFiCgeNc5C3tf08+Bsh0lFMaOxzxvGKXrj15U9MGyQyLvjyGL6KaC8BDmRXdiy62vzwIlk/xmtlwkp4iz7WAxj6AwGuAD7REJX88+A9Qj1et5gxDuFbb1b2FjwA2V/gOAK0XaxOhAY7y8S7sY3k00VQ8eir23/2xo12l6ajHO4POj1nnpQIyETZDNK0nvDkMisrBPqq87kHc5WL4GIvnCzfgfpzRk9aNGb+sjWg7Ay/jgRm4HvNey96njyMobDy/ETOvBWeSTLhVoHL0iEyUjb8HvKNYxyANi8YPx11dDf5zYsQLYtw6laJT1oaf/Ue3f/ZYVX2IHzH32K1GRVu7c9kdE+2zW7c8mhFthkFe6NET1/W7vVCb9EejLsKwGOw==;E05F5R3BZ8aG/P5fDqEkMg=="
 ---

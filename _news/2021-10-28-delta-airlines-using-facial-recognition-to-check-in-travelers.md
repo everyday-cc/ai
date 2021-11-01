@@ -9,7 +9,7 @@ ampWebUrl: "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-faci
 cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://d1vhqlrjc8h82r.cloudfront.net/10-31-2021/t_36a7d442f26b4d2085ef3805536c4fcc_name_image.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Delta rolls out facial recognition-enabled TSA checkpoint at Atlanta terminal"
-    excerpt: "Delta Airlines is rolling out a new way to get through TSA at their terminal in Atlanta -- and it has to do with your face."
-    publishedDateTime: 2021-10-27T14:02:00Z
-    webUrl: "https://www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/"
-    ampWebUrl: "https://www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/?outputType=amp"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 56
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/RKFR7CYDMBGOHNKBPSOVCBZXD4.jpg"
-        width: 5400
-        height: 3038
         isCached: true
   - title: "Delta Airlines Rolling Out Facial Recognition In Atlanta Airport"
     excerpt: "Delta Airlines is rolling out facial recognition technology — right before the busy travel season gets underway. The airline says that it's testing out the new technology at Hartsfield-Jackson airport in Atlanta."

@@ -1,26 +1,28 @@
 ---
 category: news
-title: "ABB India Unveils New AI-Enabled Corporate and Business Office Within Its Own Sustainable Manufacturing Campus"
-excerpt: "ABB India today announced that it has moved its corporate and business office to an integrated, sustainable, and digitalized facility within its own Peenya campus in Bangalore. The facility, named Disha,"
-publishedDateTime: 2021-11-01T05:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-abb-india-unveils-new-ai-enabled-corporate-business-/2021/11/01/9481064.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-abb-india-unveils-new-ai-enabled-corporate-business-/2021/11/01/9481064.htm"
+title: "ABB India unveils new AI-enabled corporate and business office within its own sustainable manufacturing campus"
+excerpt: "ABB India today announced that it has moved its corporate and business office to an integrated, sustainable, and digitalized facility within its own Peenya campus in Bengaluru. The facility, named Disha,"
+publishedDateTime: 2021-11-01T06:30:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/abb-india-unveils-new-ai-enabled-corporate-and-business-office-within-its-own-sustainable-manufacturing-campus-121110100448_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/abb-india-unveils-new-ai-enabled-corporate-and-business-office-within-its-own-sustainable-manufacturing-campus-121110100448_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/abb-india-unveils-new-ai-enabled-corporate-and-business-office-within-its-own-sustainable-manufacturing-campus-121110100448_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/abb-india-unveils-new-ai-enabled-corporate-and-business-office-within-its-own-sustainable-manufacturing-campus-121110100448_1.html"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1674556/ABB_India_Corporate_Office___Disha.jpg"
-    width: 400
-    height: 230
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/01/full/20211101114847.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -39,6 +41,6 @@ related:
         height: 419
         isCached: true
 
-secured: "7Ix9Gc1o7V3Y2B5mfImqwWaNdPxwRPxdoY6XSefgUdcfAC0V4JE2VprqQt1hslRzAra6LjrFhMs2aCq+Cd1/ZuN7yPyFvDfpEOjlvOSU6nHKGCvaUNjc8THpaHbOT1WtU//d5ZHDavOk6Qzj033OZ1g95hebcA62lQN3uI3BxemPkoGbyOq7xuT8gMX88s0XojNHlQLP1h2trQBRTOTZePmItUXZoI8C8u7g1ACSFzKSA0OWzEKxs6nzv7Oeofu+SP6dHyIMhbPjrIMTB0eejH5AG0Nq99FEFzu2WhG8uQ1POZwGQKxoNIRAoDR40Je4expmuLoK10O7IDW2DTxjZSgAr7QpfCZf4PzFXZU75Q0=;LHw7G8YGIcblOQBAv0ZCVw=="
+secured: "KFtXBqQum7HLYt5sG8Z+t0Yj8Br+YyiXLDhF1WppkH87GJp8Tytyq89eN3b05k5n4990dZlQpnD1jlnw8NXl5FkT/cssey7962VYlv65G0Sjw23HM1G9eoFN5GPLWuDwRo/Q7HDS7eZL8Y7xSWj/380Mea/YhYhQMxe/rBv9GmGBojDbST7s5FDv/D8DfblUACVfp0EQV+zNtwA2/JbPyODVgi2vLUl8a/dTBbKiV8ujU7NZbCgM8D/2iaL91pFokHOHZy97nnq2qTsSMsRqJLr2VfxILL6J3VBwpJxqIfAQN6iD0fnsrXPxKgZd/QweYDrbt509mZb2NLnGnF2eE5DMon5ZY4fPLhqPVW+Got8=;PByN6ZHOS+F0iBa7P11Wag=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-ac
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617f789c7aa77d3d07ecc29a%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 666
     isCached: true
 
-secured: "ZbB6zvI5BDF2caKl8gldL7yvF8/oqUc0oKLNT/5IG50jAVSdHO/MCuAEfS7u7a+KC83IPVjXEAda060KG8MRfyMKfegL5H4hnbn55G5JIWXxR+CuV0tPWJc0k5Zw63HQMVmJ/f8RcqtOLxWTkiqO8SHTZPYtxPq9M7LJ/ixHe3FHlmQ/HN68gYuK36boPuNZ9RPMEebzbxSnwuoe40N4Sttc9ksbELHtri6xCPVc5O1z313gCDu598NH0VqlYx7DIJXxI9Ar7SjRtH/S29FHP6u5xqqNJwgd6ckT+3gO9ZkS6R0V0Gf9kqJEXcE2srmcJSWIUNimc1wUR3JVfsKZGYvD9ZjX9eNzKXwsyuVCazs=;4DOfpXBkj1aAiFNm55iaMQ=="
+secured: "o1x6E2nvv6yLFKUDXSgqQg8mC+12XW3Q5xrJKOFbm9BRJFwgLdHtZxzP22DqqXwmr5G5dbRqsNcVRKzglpHqZegGhLNhnHFRQxTS3sWBMMFnYaLYfmmAlPFX8qFY6QPRsd1JxGctLXeF4yiDHA2LY8+erjs3R4+hThldlEXP9QYnlyunq98GB0857ciKpW98D5YBtaLaWYu9Box2QBvQZ6X/Yk+AvH3MRxx0VEvlm2/dCSz6aLVUA47IItQNLO733Z7QartrnIoG7YSx/xx0Jt4ZZAYb6IQxoYskkz55VnU0ImkmkTvwKZOPLz/4wXTSFzmvaTr9RCU/MOMxAQ4Nuelqfn1WFmRJc+mZ5g1ffxghYnaZsMChiEDM6qjKv9SRVm83SxBxjyI8f2DzkVKpdE11okvuskqtG9+n7wcXIw6r8/nVkwhYHm1nGX1hKuk7CNCJ4L2POyZCY2BqF0Wp7Hzan07LJ0/T/83+wybjNAX5+Qtd1GTlX7GemkfXU+HCq+SJMGE0y8abf8xxH7Nhtw==;oS/rIJsxkQqPVSH85hMo3w=="
 ---
 

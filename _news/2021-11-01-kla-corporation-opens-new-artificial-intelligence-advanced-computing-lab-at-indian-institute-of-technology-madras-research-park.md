@@ -24,21 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "ABB India Unveils New AI-Enabled Corporate and Business Office Within Its Own Sustainable Manufacturing Campus"
-    excerpt: "ABB India today announced that it has moved its corporate and business office to an integrated, sustainable, and digitalized facility within its own Peenya campus in Bangalore. The facility, named Disha,"
-    publishedDateTime: 2021-11-01T05:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-abb-india-unveils-new-ai-enabled-corporate-business-/2021/11/01/9481064.htm"
+  - title: "ABB India unveils new AI-enabled corporate and business office within its own sustainable manufacturing campus"
+    excerpt: "ABB India today announced that it has moved its corporate and business office to an integrated, sustainable, and digitalized facility within its own Peenya campus in Bengaluru. The facility, named Disha,"
+    publishedDateTime: 2021-11-01T06:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/abb-india-unveils-new-ai-enabled-corporate-and-business-office-within-its-own-sustainable-manufacturing-campus-121110100448_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/abb-india-unveils-new-ai-enabled-corporate-and-business-office-within-its-own-sustainable-manufacturing-campus-121110100448_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/abb-india-unveils-new-ai-enabled-corporate-and-business-office-within-its-own-sustainable-manufacturing-campus-121110100448_1.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1674556/ABB_India_Corporate_Office___Disha.jpg"
-        width: 400
-        height: 230
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/01/full/20211101114847.jpg"
+        width: 600
+        height: 450
         isCached: true
 
-secured: "mRXRyI9RdNMMkHtpLgoL6Su15xYZpQJxkn8GiYDL2X2foeqDkyVqvWdVkjWNauIc9HrwE2YbxecgD74/DzPbDypPTCMpKGS1QNBeo3XS++kuceACJktPdXLeEjXqhpw4QDW8HftoEynyN0aYnE4ER45SgM0FKPmGghxRou+EcW0O2uSUVTPZEnRjifAaqaWQSx+Tj74wtwup9kakr0439JOiij4jnXLUUHfraZFa8Rm808NNHXP86D/IcXrRVrpSXp+Gxhj961eIugjdRTMY51+3YBnlNWaL10cXl65VWMzabDmAeZmHyRfmTboOl8YPjDDab7MYjG0Fl79B0F+KeSW0eFJ4ZNf02U08Otr0yUk=;o2tIQJv+JBJlvT2lnw0cVg=="
+secured: "n7EpbamoTX+//rXWSefZaPgjHIu6GS8AKNsL9pnsIKdpEKoaigoc8ghgGCyOCb84xluep7xmOmrMPIgyQj3EU9AzhaROfaVxuxprOeRwPZN+3z+vVPRUfsMkx5snUKyKipm+/4zVTc21nCyIH0hZlJofgbpQjA9vPuMrJlLISYxCHkfJiFN5/TGBueoOz7ae5jVvbzR/SYYcU/sYWZWy76l8qcuooS+C6LGR5+LSjq5m5O9wDaJR5FzwsJp3VpXVspjHZfkB/56xJnLvtkcebmQwwFPWhw2Pq1esiMlYleprJXSDnasmT3bdTyRdkTQse6JGsDSg+ObR+kRgvl9GrG7i6cirdI4aeFw7OQhVTZLLVYQ+HvWF9yCIUQhXCObp8QC7EEi7xlLnHPLIqLnHF0SL8tG5zj7OQfDYVZpzRWgm5/1DjwBWOrPRhZHSh9K9q4LpOXFP9Ci5XUGwiYeIAV+oel5PCAWIUVGuBqMBxD37kqgmEdMdqNwZxe+8O9p5onWX7P1HwKOxrzIbfSGn0A==;dusEbohcr3hSdzcGJuNn8w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/cancer-treatm
 webUrl: "https://www.joplinglobe.com/region/national_business/cancer-treatment-centers-of-america-in-phoenix-incorporates-artificial-intelligence-system-for-enhanced-colonoscopy-screenings/article_28cda8ec-48e1-5880-a439-617406653f02.html"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 1119
     height: 630
     isCached: true
-
-related:
-  - title: "Factored Named as AWS Partner Network Select Consulting Partner to Enhance AI Implementation in the Americas"
-    excerpt: "Factored , a fast-growing business helping ambitious companies select, upskill and build high-performing data science, machine learning and AI engineering teams, today announced it has been granted Select Consulting Partner status in the AWS Partner Network (APN),"
-    publishedDateTime: 2021-10-27T13:43:00Z
-    webUrl: "https://menafn.com/1103056890/Factored-Named-as-AWS-Partner-Network-Select-Consulting-Partner-to-Enhance-AI-Implementation-in-the-Americas"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?126999"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Making content king again: Instoried secures $8M to expand AI-powered platform that guarantees enhanced content performance and ROI"
-    excerpt: "Instoried, the only AI-powered pre-publication sentiment analysis tool that enhances content performance in real-time has raised $8M in funding from Pritt Investment Partners and 9Unicorns with participation from Mumbai Angels,"
-    publishedDateTime: 2021-10-27T13:05:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-business-90c4e85fb8dcbf77cff0b11424c80d18"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "AGQDfZdfFckl2C5pw4RTPGJNaSa5XvBXm/iX1MGF1LZ9WyIDRPfARkbaOgAWy+6GIh0p8XcTXIBtv8SQKmBPccGZaV5868Os1j9LSaqYeehWnAaXz+qis0FlAZoHfHGIkpGGlBOsAyUgPqqTey8nWjwqjgG6vvc16so9cM6D3Lgpl01CtMiF0PYe8judNcQ9DW0IpKdXmzczHciQg2i0snm/mwvPkBgztXEip2HUUO5BbNkd+vS970eAf9CwQBBDNvvzZbATq7AmfTY4rS1XcrgcZUY9aQU/o14Uob/7BAkcnfgef5RB7YjfdNP/hinCYg53//f+UcmzymWfK3J4QH+BqSyJXryLXR08ss+QGmiLontukGFtS7iSNsS/1bCBuKcnpn8UJbfV6szP1MNDSnsz/TA313w6JUCqKW/MXFlxKLtVOFREQ1pJkah96Gm3Ywdq+ng2zkeQqRdaKYYpAg46W7N0E3nmnuwEjRqd5bjwRGlqNNlHkB18PK8ii+wwt4CkxwTgChz5ViokW+cLFQ==;5HzIYn9wDtUChWZEZ0Gh8A=="
 ---

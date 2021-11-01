@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototy
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Facebook grilled by UK lawmakers making online safety rules"
+    excerpt: "British lawmakers grilled Facebook on Thursday over how it handles online safety as European countries move to rein in the power of social media companies. Facebook’s head of safety said the tech giant supports regulation and has no business interest in providing people with an “unsafe experience."
+    publishedDateTime: 2021-10-31T10:54:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
   - title: "Facebook wants to turbo-charge smart glasses. Researcher wonders if it can do it right"
     excerpt: "A computer security and privacy researcher looks at Facebook's smart-glasses project and found concerns for the recordable world as well as for the recorder."
     publishedDateTime: 2021-10-27T17:47:00Z

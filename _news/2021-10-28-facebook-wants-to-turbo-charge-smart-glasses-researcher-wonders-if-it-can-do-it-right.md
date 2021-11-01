@@ -73,6 +73,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Facebook grilled by UK lawmakers making online safety rules"
+    excerpt: "British lawmakers grilled Facebook on Thursday over how it handles online safety as European countries move to rein in the power of social media companies. Facebook’s head of safety said the tech giant supports regulation and has no business interest in providing people with an “unsafe experience."
+    publishedDateTime: 2021-10-31T10:54:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
 
 secured: "tyqk1dgn0z3kT0SfrrUxqmvhX/IddWpf9gUzM+nNzwmUr1QmThLUExCnsOIzhyRlTOV90x2/qquW2jPSiDOyUPFBy7zmIn3UNh3O2zlRzYcTXEc7rLU7CC+hcAnjBrrOBZ0/WxwkdMQTWUiEmqBkCywQ+NjGa/TfVl78IV5gO42srgosNemi/BTNqU76KAExwDBZbEf02PjaeM5qdKzEF+KHuDd6F/Q6y6fbfWz/w5Ky1G25eE298s1hQPNHUIApp4XYSvB5N37oywCS93Kh5sN46Bm5hsJg/ajR5tWqC6VPz4tV8Pk7NkYiFzCgai9cOLelkUva61njsBqA68s7JdOsy4hketTJBf98X4DsXEaLdo6VVMgdlhH5ilagsTcuxnZ4Xe85rHNKMKcbSG0yVWAh2GCUT93wraI1UTAf3ZU/QmMH4+8P7ykG4RCadRGABYD9iBjnQWfc3WigBkk6pQN+hENE49gfY23BAeuydsDyGfWgOJwiaelPLfWqtA2TD/akrgj2lP5YAuV3zEzQmQ==;2bf+cLvy4OOIT0T4MZD5xg=="
 ---

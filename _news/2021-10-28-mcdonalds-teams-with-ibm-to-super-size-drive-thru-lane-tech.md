@@ -73,22 +73,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "McDonald’s is selling its automated ordering lab to IBM"
-    excerpt: "The burger giant is selling its McD Tech Labs, created after its 2019 purchase of Apprente, as part of an agreement with the tech giant to"
-    publishedDateTime: 2021-10-27T13:42:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/financing/mcdonalds-selling-its-automated-ordering-lab-ibm"
-    ampWebUrl: "https://restaurantbusinessonline.com/amp/financing/mcdonalds-selling-its-automated-ordering-lab-ibm"
-    cdnAmpWebUrl: "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/financing/mcdonalds-selling-its-automated-ordering-lab-ibm"
-    type: article
-    provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 44
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-10/background/400x600/McDonald%27s%20company%202.jpg?VersionId=y5a6xHc4WDegkLJK2xoHslTJBuBxw1hL"
-        width: 400
-        height: 236
-        isCached: true
   - title: "McDonald's Partners with IBM to Expand Voice-Ordering Technology"
     excerpt: "McDonald's revealed Wednesday that it's turning to IBM to accelerate growth of its automated voice-ordering technology. As part of the agreement, IBM will acquire McD Tech Labs, which was formed following the burger chain's 2019 acquisition of Apprente,"
     publishedDateTime: 2021-10-27T19:08:00Z

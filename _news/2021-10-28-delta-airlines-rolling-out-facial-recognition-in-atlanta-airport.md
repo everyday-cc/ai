@@ -57,22 +57,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Delta rolls out facial recognition-enabled TSA checkpoint at Atlanta terminal"
-    excerpt: "Delta Airlines is rolling out a new way to get through TSA at their terminal in Atlanta -- and it has to do with your face."
-    publishedDateTime: 2021-10-27T14:02:00Z
-    webUrl: "https://www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/"
-    ampWebUrl: "https://www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/local/2021/10/27/delta-rolls-out-facial-recognition-enabled-tsa-checkpoint-at-atlanta-terminal/?outputType=amp"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 56
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/RKFR7CYDMBGOHNKBPSOVCBZXD4.jpg"
-        width: 5400
-        height: 3038
-        isCached: true
   - title: "Ed's Tech Notes: iPhone Stores Vaccine Data, Delta Face Recognition, Drones For Farming"
     excerpt: "Phone users can now store their vaccine information into their apple wallet but extra steps will be needed. Delta Airlines testing facial recognition for some of their loyalty program members, and Purdue University is testing drones for farming."
     publishedDateTime: 2021-10-31T13:13:00Z
