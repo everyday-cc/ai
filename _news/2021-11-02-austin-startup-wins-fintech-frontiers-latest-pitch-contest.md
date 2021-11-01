@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-01T19:35:00Z
 originalUrl: "https://www.bizjournals.com/austin/news/2021/11/01/sigo-seguros-wins-fintech-frontier.html"
 webUrl: "https://www.bizjournals.com/austin/news/2021/11/01/sigo-seguros-wins-fintech-frontier.html"
 type: article
-quality: 2
+quality: 4
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 related:
   - title: "Intuit Accelerator Combines Fintech For Good With AI"

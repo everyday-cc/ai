@@ -1,57 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
-excerpt: "AWS announces availability of Amazon EC2 DL1 instances featuring Gaudi accelerators from Habana Labs for training machine learning models"
-publishedDateTime: 2021-10-27T00:25:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211026006274/en/AWS-Announces-General-Availability-of-Amazon-EC2-DL1-Instances"
-webUrl: "https://www.businesswire.com/news/home/20211026006274/en/AWS-Announces-General-Availability-of-Amazon-EC2-DL1-Instances"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models."
+publishedDateTime: 2021-10-26T20:26:00Z
+originalUrl: "https://www.galvnews.com/news_ap/business/article_4484c447-9b20-5f03-b4e1-d3491c81b571.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_4484c447-9b20-5f03-b4e1-d3491c81b571.html"
 type: article
-quality: 34
-heat: -1
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "AWS Releases Amazon EC2 DL1 Instances that Train Machine Learning Models"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, is releasing Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models. DL1 instances are powered by Gaudi accelerators from Habana Labs (an Intel company) to provide up to 40% better price performance for training machine learning models than the latest GPU-powered Amazon EC2 instances,"
-    publishedDateTime: 2021-10-28T13:46:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 70
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models."
-    publishedDateTime: 2021-10-30T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/10/30/aws-announces-general-availability-of-amazon-ec2-dl1-instances/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 34
-  - title: "AWS Announces GA of Habana Labs-powered EC2 DL1 Instances"
-    excerpt: "AWS has announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances designed for training machine learning models and powered by Gaudi accelerators from Habana Labs (an Intel company)."
-    publishedDateTime: 2021-10-26T23:14:00Z
-    webUrl: "https://insidehpc.com/2021/10/aws-announces-ga-of-habana-labs-powered-ec2-dl1-instances/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png"
+    width: 1920
+    height: 1080
+    isCached: true
 
-secured: "STkhvei9B7KNbSpkSYfuodxnTWtT9NhIvhbL8HPg0dAe3mxscOecj7KMCvROdu5ZxBun9HK81LYrU95OcikZlrcW7FC8YgdyZwt/i7lL8wzEQ/d2ZXFlzhAAcGLkdrKdTnNNVDySq2K63kmed2LfOl84GOUbAnlsuXNjq/p+OTDfdYMWrO0+Spm7OfLT5FFLdXncqz6H2wuqQyUoTpy1s/K/Fgg3uuVVQ14lbLtVcbxUlyrgW1xnbBQqEdXXi1FG6Aw32sniwrfncG/fL6ZuZP97vSoYXMN2sLDZibJix7BooAUk0H+FXJ6DquCjX1YZvxAMRoGsHPZn1rPVrc23bx/v3q597ln0fr5N7bLiHbs=;Buh/YS1+WKyFP5fY5K2B5w=="
+secured: "k6bGEqYBg3DSj6Q4U3iLBNIteULhemsaQ1lLtWaffJMhR6pEE//YKTqszDeCBdc/E0j/5AQOIqEyrKMzWcIadlTsklUB/pTlhpvwndt3FfpYG+Huwnt6eoPpXhKkyO53YEzKoRA5a2vYoPF+TdfLr+fdOJaHV4eJPwjv908B593+BZJTuk3g8OhnLn7Gnf3Ryp6GvuixuurN8ar+9Ta6ipozLKa3Jhe6sekiQyS0DT8HTJarKljxqNOr8KX5rf/gVubi712JBf7OIK0u2S8/QJKmtk/w7fzaMlBxrRBKBZ2X8A3X72SVAGyBE+J+nP1Q4I05kyfHU1vtEpMwktzQRtvetgXBd+ljW4/gvV2p6o4=;kk/Gw3kEvod4X5p16t5C9g=="
 ---
 

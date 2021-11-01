@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robot
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 777
         height: 518
         isCached: true
+  - title: "Works well with robots?"
+    excerpt: "As more artificial intelligence systems and robots aid human workers, building trust between them is key to getting the job done."
+    publishedDateTime: 2021-11-01T21:23:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59046.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
 
 secured: "iHTXvuQX+Z/hFs8+gQmuygdHkRn+dhv7WQ20Ru5PUb9Ii7Kx6anuDoVxXiTwjiSw/tS52BoqkNlvVXQYZP4COovURbmfuTz9KbAz0oNi+LwDdVZEv4cTRwwf55cCOHKAOtkI4qTj2psgnsvFgcwCUcG/GqXFM5bS4zAYe5/6f15ZC2cWIFlgxCpPohYty1Lbxgx+Q/NqHf8s9LoNIUqcrRHjmlTko6kfzLJMAI7VHctrRKWLNMzqT9HIY92SnqpDzsEaf8Dd67GJrb4Gg0dW3nWmgvW8Fx0iODwBLwExFcy/LT5v+ocRxxeN/PvtNApfszYZx1cCj4FIFzIVv1An5SdjsUXCB7R389kolFuPqes=;zC7pRIkp2rS+YcdNLrbHCg=="
 ---

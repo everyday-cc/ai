@@ -87,6 +87,22 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "FWPS Board of Directors earns Board of Distinction recognition"
+    excerpt: "This marks the sixth consecutive year the board has earned recognition. The Federal Way Public Schools (FWPS) Board of Directors has been recognized as a Board of Distinction for the sixth year in a row."
+    publishedDateTime: 2021-11-01T20:00:00Z
+    webUrl: "https://www.federalwaymirror.com/news/fwps-board-of-directors-earns-board-of-distinction-recognition/"
+    ampWebUrl: "https://www.federalwaymirror.com/news/fwps-board-of-directors-earns-board-of-distinction-recognition/?amp"
+    cdnAmpWebUrl: "https://www-federalwaymirror-com.cdn.ampproject.org/c/s/www.federalwaymirror.com/news/fwps-board-of-directors-earns-board-of-distinction-recognition/?amp"
+    type: article
+    provider:
+      name: Federal Way Mirror
+      domain: federalwaymirror.com
+    quality: 44
+    images:
+      - url: "https://www.federalwaymirror.com/wp-content/uploads/2021/11/27022036_web1_FWPS-T.jpg"
+        width: 1302
+        height: 868
+        isCached: true
 
 secured: "idqUww2mGQh8gWwIKEfe7qsrK62BrErNVNFuzmfiuqgVhm2dGeiONxFOyMTA+DQKuOKLPLY12VypGPwxC+Y+nYMCQvvNRAlzrzROTq49iDQf3PsQacdOU2zFjzj5R9NtEGEi/LPohPzhE0WhYZ4ZlI68eps0B7fbRNZiQqZj0wTU00EvNP3g4lV25/K+RUQmOjodYu4RcgNffc584YiMg799UDN4eJnOk8GD6oZgWr0yRCZZBWXdsKbG5qgUsVBVYfjYrNcYjRg85F9oJHK4lSXrFkrdE966HMxCH6+ylwMzYmMCsrw4Vx4CKvDK3KUnJKkZiZPCenagcKREDSkpvMs1ppt1aqljt85Ogz5Req8=;qOwRPrW8DBXWDU7z0bkxEg=="
 ---

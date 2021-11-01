@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at
 ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176deaaa5df8d50508ac034%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 636
     isCached: true
 
-secured: "aVk1QfHDCIDQtpGmrl9r4bj9zZFqkVvdxkaD/9heBIeBFl0GhhkyE0BgsZeKqR3FFjEZfIaDTzL8rRW3icj7djHjK8FdLkhTwz1rkdoEGYOJtYQbwfuW2gpDAscl4navXGRBqZMcWsU7/gUdvJAWKz03D44DZ0Clm9lOz84zE2fiG1BltnMCfwsxLXnbXH9f6XEjoL4ollDPqskg3Qoj6UXfJ74a7xcIY7UMC79KZ9rchc3XmaqLmf8PlguSl6maQWigwdLYesTBmDtr4OYKHL7zLGWQ5yblKRSSUFsT8EcusG+rvZmAwBTHmRZYvx6apBxfzbt9a+GYdBNWfgaj7mlz5VniPnrN0oV/DD079aI=;xWGkP763WvJ1PhT+ZFofOg=="
+secured: "r8+c4AJHVmmrLeY2Wn4sJUQhPeJ9KD+0tkHn7hgf+u5vub5IPVHUOI91yl3mCPcf+D+bKTG5ifCFJ3sQvJDEdKNFc6Wnm7Pk9O0i8HUTrhuZmC4m49ARW0SnFgRsKf7pOasI0sVeKEUm6aoVYnuq4u2yQYleHWXJkCuCxqhiJkZ4a3XAQzfthJoSd3xmHJ8YVN1Tg4vN+7u7PUpIwYdlkCcvEuTr/ZkRa7WbpjVFQLqtNISgLOxtLUlszyvOh9A9mHa5dB2y4QTOokJ2QhbeuIFkyI+0LYbonqbQL7lUMVsnrvuZA3n8THHmv/NUB3yv/6l+GMFHtSfzlslFWY3htCWxMBS6GGTOLIG8hZbA2hY5y7dWz7b1X2V7mu6lKciNFXnDpWEhDBRIs314Adox4w7Ibym1GBIjf4XuMuL/w+6lmM59fG6YehrB7i1KgiEylCpKu08nkW1eerJs01Vo4W9D11j+Qqar0Epmx6iQdj0C4NUGQXhBqTsiDi5XGbgekJyt91GvEJ7gFh1Yow31ig==;2Luu+h5rpQerGZhvaziYvA=="
 ---
 

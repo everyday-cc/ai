@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Older Teslas Need Upgraded Cameras To Get Full Self Driving"
+    excerpt: "Following the introduction of the latest Full Self-Driving Beta, it quickly emerged that no owners of older Tesla models had gained access to the system, despite achieving perfect 100/100 safety scores."
+    publishedDateTime: 2021-11-01T20:00:00Z
+    webUrl: "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/"
+    ampWebUrl: "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 74
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Watch Tesla’s Full Self-Driving Beta 10.3 Driving in Toronto [VIDEO]"
     excerpt: "Canadians have been waiting on Tesla’s Full Self-Driving (FSD) beta to make its way north of the border ever since Elon Musk, the company’s CEO, said Canada would be the Level 2 driver assistance system’s next destination last year in November."
     publishedDateTime: 2021-11-01T18:43:00Z

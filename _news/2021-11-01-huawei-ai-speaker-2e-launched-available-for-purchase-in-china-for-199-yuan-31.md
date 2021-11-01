@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/?amp=1"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

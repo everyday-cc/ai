@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/01/machine-learning-deployment-platf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i.ytimg.com/vi/gpO4y1mPMWA/hqdefault.jpg"
         width: 480
         height: 360
+        isCached: true
+  - title: "AI optimization startup OctoML nabs $85M after key chipmaker partnerships"
+    excerpt: "OctoML Inc., a startup founded by University of Washington computer scientists to make artificial intelligence models more efficient, today disclosed that it has closed a $85 million funding round. Lead investor Tiger Global Management was joined in the round by returning backers Addition,"
+    publishedDateTime: 2021-11-01T21:42:00Z
+    webUrl: "https://siliconangle.com/2021/11/01/ai-optimization-startup-octoml-nabs-85m-key-chipmaker-partnerships/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/octoml.png"
+        width: 718
+        height: 400
         isCached: true
 
 secured: "du+GxI44eIP+rxXlFUDk4UnN5GNA1fTJCLSBLN+V2yx3HRJCH2dzCiLPR/mT9lIBYkw5WgVfd6Fa2RVXc2TF7dL2U32bPsJrCyVgieFEZAsJMEXHtekiV8diCKiYDtKp82r6bXfYICWXnEkOOobpDLjiMJ0dbzd3qN+tLnkHwrMEOT8/ocmjmm9gKmDtAI3O+kUp141PJaAjI6Wp+7cWYmeEGscqMHtp+ZwmR8Xxn5s4PNEeROpTWZf8IO8UwOEkARtKWSp+MRqO4VkxDbMyVVgFn+/DdaDLicY3TSwng0Q06EDB8IUhavAshY+4GORm5Xvv43JCT0PVKwE8P4Nu8uNRxflVCkM+jUUeDjBgQvZbZnZff5ohCwfq5wZ3ByAm0/n2rBgRNs0UCe2fZ3NoKCTg4+gOh3+AhHLQSPRxCZjWZX1MMNhxzkg26jB6mdZpjb4JBGZS16LW82k6IQrkDA2lySL+WzA0eLkU4iN4GrjtI9oJOe1JxkNZn8Eih70wRFPDWBe7FZ409VsjTZg4dQ==;hGKU64blIKwmGW4rzWc/lQ=="

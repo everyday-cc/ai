@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Older Teslas Need Upgraded Cameras To Get Full Self Driving"
+    excerpt: "Following the introduction of the latest Full Self-Driving Beta, it quickly emerged that no owners of older Tesla models had gained access to the system, despite achieving perfect 100/100 safety scores."
+    publishedDateTime: 2021-11-01T20:00:00Z
+    webUrl: "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/"
+    ampWebUrl: "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 74
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Government Official Slams Tesla’s Full Self-Driving Feature – Says Tesla Needs To Do More"
     excerpt: "Driving” feature when it was launched but it was revealed that it is a software suite that doesn’t enable full self-driving. This made it fairly unpopular among federal regulators. In a Tuesday interview with CNBC,"
     publishedDateTime: 2021-10-28T18:40:00Z
@@ -58,6 +74,6 @@ related:
         height: 742
         isCached: true
 
-secured: "66EOBOz5Kjgaaxx5rPDgj1V6Sv1w7TzDX1DBiyQcYRdcTcy4Kw3cKw/3q+pb7X6Ruiy0l1vtQ2RYE/kkOY+GKI2l+gfu2QISeBGKbnW+LfBVW03ieCDf9wz4SKkbg4M9RlG2FuayEwRllCC1g9ScEvrniUxZtQGydQ9Oakl+7Xf6h13IPa3rnWmzBi69ooKEgdeOQYCn1a6DRXm9VIBAA7VyJuLlxOcVZCBslfAiJjnwmQHwkuGR0mjPKIIhLgyBRHb1vuU6YLQ8UlyVJbk3zyqSQCzkzgqsWgvbFR7OHEILE9ZuGNZsGhh+dgLaFMXKBS80YIG4eQB1PmjO4kUfNHojb5mYOUg+8SKUWJrT0HY=;JxBe1GkVDHZVotZHG3as4w=="
+secured: "QEu3rR8RJTcrJwHjptDXi8bw8fjaY7gyXvowMJqTcR1KRLBdnrCy9pCD9ks+xBSCZwv20DU6XGYa5s0LKaN43eIMS7EEd7b06fAq9R3HxQQLoTUSz+WiSLCYJtx4AqrRA9EBmGwOk1tM/bujUil/v2ShhVKvGnD0WUjJjzZLNvR4qbPKY5bqn2IftU/tGsox108JaVgXi3QDgvczpD019siGYAEg99RWK53dQLSdBJY+XFPYnlrcPjq/+yv+riybliQwOvTGF1PAChj8jHCMYvpbAZvALr1wAZjerySLv4RgZHOKZ7J1+KS3fv9+eTCqNLSZlqtkhAziMfWeFMf2iJ4H+5s+WzFTzkqiAa6geZhoA6rBPbMh9Y0rtpL59XTNIqJN4cwDWbZoBvObKeQ3L5lPOWwSyKOSgNTTefuyTbnOyVwvXKxGw6ZCvxSBUlZnhyMOcgykIOABaWNvKQF5x7twydiRLiTLZBb2eRQobjRXxLzTtVdGbyFZVpWmjRNVhL1inaeAWapbbhwCikhKyg==;H+8pqMl49PcK1JXhD3i+ag=="
 ---
 

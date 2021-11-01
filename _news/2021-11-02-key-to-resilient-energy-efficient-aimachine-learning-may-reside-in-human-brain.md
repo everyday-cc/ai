@@ -2,25 +2,27 @@
 category: news
 title: "Key to resilient energy-efficient AI/machine learning may reside in human brain"
 excerpt: "A clearer understanding of how a type of brain cell known as astrocytes function and can be emulated in the physics of hardware devices, may result in artificial intelligence (AI) and machine learning that autonomously self-repairs and consumes much less energy than the technologies currently do,"
-publishedDateTime: 2021-11-01T17:18:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/11/211101104858.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/11/211101104858.htm"
+publishedDateTime: 2021-11-01T20:54:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/933368"
+webUrl: "https://www.eurekalert.org/news-releases/933368"
 type: article
-quality: 60
-heat: 71
-published: true
+quality: 50
+heat: -1
+published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c146f169-594c-45dd-87e3-029d3fd741ac/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 225
+    isCached: true
 
 related:
   - title: "Key to resilient energy-efficient AI may reside in human brain"
@@ -40,6 +42,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "1YbyEwNik7jJahZW6qKRTMA/dbXhKqTCvDpR6pcOv2D/wzvjaaPeUPgeufyw4oh8ionLtTagFf5rl5l0M5It8syR6dAK4j95K/qMf/+jg0aOCxwMhaUovh6Z1pnZzGQfEj+XeRyYXgWEYESr+tQQwuiLtiNbZz0JBPMdYURhyJ/oGD/FmwLmuradDXsFCjf97eqY6wzICtY1hIaPsQAdXFd1mxm9XewN3eZPNOYwIsYonWt68xyPwDaHP20UiITBf0C9uKrFHlXQdOPyP0XFIdN+W1mVO1PKYeiZRBYbfjUW84MThAAVp/9CiwDYMpGen2MXeg317EAi9rfHbmtK7m+0fwGINSg3/JaGJ8vBXdg=;bF5pHTb4sXO0qFIZ7quAvA=="
+secured: "s+UeaOE7c4YwgeyboWOsnXSsOWefQTiglMRaBXdQldIIhfPL/xHVvk2bff4ZJaSs8lWGcHxPEbslx+1/SHjQqjlPFVijDAqDrgSd9YFEMK6JfH0wOc5UozwAjtMpfFj5HFPdX2WKG0f14aqutkYyAWxVB8hTBe9jqjN3WFTIA5aR4luqfdZyogNDXYssszvbKuzDg5yR6G7rzs+PI9Y9GqtjbXiNIzuWNtAWX0CPDvy9bbl6vWZJ/vscf3gAZIRJdo7Uzqko1J7UlkYFT5twZIbCxnxW5JzhFS5cuuNjF9rjstLpWtGX4Qh0W4nz2jWAh9JPh3i6cZ5k9YY026MLKdzF5kggVS2JxTJzTPwUjkA=;C9jZkjvI64hc4u5bzsBcMA=="
 ---
 

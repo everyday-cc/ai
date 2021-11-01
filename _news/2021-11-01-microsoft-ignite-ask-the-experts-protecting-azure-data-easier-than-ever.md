@@ -7,7 +7,7 @@ originalUrl: "https://www.thomasmaurer.ch/2021/11/microsoft-ignite-ask-the-exper
 webUrl: "https://www.thomasmaurer.ch/2021/11/microsoft-ignite-ask-the-experts-protecting-azure-data-easier-than-ever/"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 572
     height: 220
     isCached: true
-
-related:
-  - title: "Microsoft Brings Out The ORBIT Dataset: Few-Shot Learning Using Teachable Object Recognition"
-    excerpt: "In partnership with City, University of London, Microsoft has introduced the ORBIT dataset for accelerating real-world few-shot learning using teachable object recognition. The benchmark dataset has 3,"
-    publishedDateTime: 2021-10-28T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-brings-out-the-orbit-dataset-few-shot-learning-using-teachable-object-recognition/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 45
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/orbit-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "fQN9ZP7ug4awt7gNepL/Rx9/77V7KFK+vuUEUYC4C5bXYdUzCT3ptLKq4zA8qlvp+4oMk5Wn+zoS9bYrsAu1mfouDAKw/twCpWRJxNwrOKugylS4ILrNdrwQI6Z0xXjjZzqfSrlAje+ta5R6tnNxmZWi/1iydcIgyEpkDnO8aN3zfe9k7KwUw8QzoPqfAfc9eNv9dJduodqE6zHWWGGDcICGfnxXbXyuxGwbmfJAWcjsp1hIYqiqaSE+OmNXsfd7YXNE/6/t1qjVgkKnWwqMhoBB88aUUoo5Z7bKe9vlJGfXt13edkVToMyDzbXZFDxR2DqnVia1vZNtLcrxxhv73tr5tnmLH0l2143+1X7GGrKf0kJcurMoX6WoJid/NJUagcDKZAtv1czxJRpvY8KclWfgudQOkjAQdeL3P2TK1VstY+dtVqNwKxkFoVRL3NOSntOgsNeDVoNkKCIeRcQE6vu6Ov2Y67oa9CXEQVN2cEmQXsxzWyNRZ15/kyDieNJWPWt4ms1AVdTuyeuulEEDbw==;mpaFmA3BZokSBU2qJFQIsw=="
 ---

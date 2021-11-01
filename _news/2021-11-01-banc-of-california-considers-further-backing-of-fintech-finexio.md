@@ -178,8 +178,8 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 2
+    quality: 4
 
-secured: "gBt6h1QOQDXYUG98gtBAWUVI1r3TtxhKs2qEIsAdQKosfUItLUq/oVywHVRXXQwNsiIk2WRd805z8geBszcTG+R38OEFE4LyJjRsJFdXyY2CCwNnj83VrZcCOfVzgE2XzoivBxggopwrwE8t3c4rCaUOYFgbUxqH/bnBmxRA4WTRt4p0ctrKr5XE0hW6smKgHUdVcjcrhl7Jq59NIOe5UpScWJZXEpbS5BQqoOUnyJr6XeBs3pptUSZMsXC6VPt2NjI1r0pnYkl7nOa8l1oUdqfzSdqC2dakUWW0uQokpwgkySk3nEBCOWzsapzVRs+kblcikvb7VHTYpHquCoZyWZUjxzFHB/QaXfguxT/PPKc=;Py0T5wc4X9DsOrptqX5HUw=="
+secured: "pC/7OM/Gx680z85nWTXqki4Tzk4IEo07Tjt10zh5m3RK/8Ss2IMgSiTeAOVmQpyojCR/HrjzvCMospL8eCUejeFNfybeM8B4QlwOlomxM3sUJyWyE6siv+xGxreRwKfleksoTiDrkl9JR/oME1Qd8b1MoUZdmVjXe+ovPuEra1h+jX2trcOHZRD6Do0Mj6h1wp9RMXQkeheilKb+zk3WWxttu/PfYQKGsKIN4ky7shcQC5JG2zsdowiWHb7aChnQupFOh7z9sbDr+efJ3NVNUkFAFQgYgpgr1wO3JHULtsJAd/HglO5lNEV7j+qFdFGa3dcxRx+i1M4a4iBl2u53muT0Q8pQw30AK6riow9qOsKpLwrfMbvfKuklvvsCzV18+Z8dncudemOoiF9rDvSzn4M1iW16zKxwTVI2P5YqyNSb1ZEMYOX9eN/Hj0tc21zo9bX9fwQVFm5qlf9k4sj3yqQaG5YrJRf6bv2oTEAZZLwA/tq+pGYE6fGzuki8TVh5fa2AdHp8L5GkNk3A9fpsug==;kMYQAV/0/5AlvRa8OnHlfg=="
 ---
 

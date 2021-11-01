@@ -178,7 +178,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 2
+    quality: 4
 
 secured: "1++XEy++gDaZ+m+nsDaxiSl3iMZq6mgdwj/ZjSsATB/25mWttqb/55+ofliWOfQIRPa8fKlGg1zP2FL2/YAZ2bEmVD5t1529Wms+7yiwX04kOMIHEzfWGYmXJIS6H5IQAPSWF/ZIAw7y9c/vdvJ3T4yW2tuq/1YAyqgFyclLzkOH54rdq6ryQDu5sU0OarHu/L9M1L/j4mtAQWtllx52RCNU7ZcTRwWo1jcxOlb1VnJRYg7bghMvn1ALJwsArX4/voqnbG1zQmA90OI+mALI02N7QaopYADMO81oHIB+K4eGySxTnjuvl0hbgedJjK4kgDP8YfCEwsMORDA53fUdQzX6+okqsvAcuYwvTaCJOhQ=;1+dB0pyZm7xy+g+NKJz06g=="
 ---

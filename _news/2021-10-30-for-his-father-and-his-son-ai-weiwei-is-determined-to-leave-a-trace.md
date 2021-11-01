@@ -76,6 +76,20 @@ related:
         width: 1200
         height: 603
         isCached: true
+  - title: "BBC Sounds - 1000 Years of Joys and Sorrows by Ai Weiwei - Available Episodes"
+    excerpt: "Listen to the latest episodes of 1000 Years of Joys and Sorrows by Ai Weiwei on BBC Sounds"
+    publishedDateTime: 2021-11-01T21:06:00Z
+    webUrl: "https://www.bbc.co.uk/sounds/series/m00114cz"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 34
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1024x576/p0b14btb.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "1000 Years of Joys and Sorrows by Ai Weiwei review — the artist on his lifelong battle with China"
     excerpt: "In the first line of his fictional autobiography, Dickens’s David Copperfield asks whether he will turn out to be the hero of his own story. I’m not sure the qu"
     publishedDateTime: 2021-10-30T23:01:00Z

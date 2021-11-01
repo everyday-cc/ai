@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 650
         isCached: true
+  - title: "AI optimization startup OctoML nabs $85M after key chipmaker partnerships"
+    excerpt: "OctoML Inc., a startup founded by University of Washington computer scientists to make artificial intelligence models more efficient, today disclosed that it has closed a $85 million funding round. Lead investor Tiger Global Management was joined in the round by returning backers Addition,"
+    publishedDateTime: 2021-11-01T21:42:00Z
+    webUrl: "https://siliconangle.com/2021/11/01/ai-optimization-startup-octoml-nabs-85m-key-chipmaker-partnerships/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/octoml.png"
+        width: 718
+        height: 400
+        isCached: true
 
 secured: "+NjMvKeAjezT+sgqiEeOQrWU5F8j6SLgcptakui9iJTetVMwRKEuC4s6mJ0Rx9dDUwxw5acQ4xm9GsfIDrMXp/a1QppBsVhEp10WrQkJox95LHfdmrK2qGCTFAu9YxZNBDVmTK5iV2i3ah4b+f/GvGtKMl0H/zf5yqDNUybeNjrMqgXbRhFPpPulr7hWHSci92AQ8IQAElKFKC4YptVWwoJGSbLzoWWCyWBFPorG6j1hpuvGOcMahqXJcgElnFvqKX5smNOkJTtyruN/JjnUXJKeWWHXEn4TVBkGB2fkDfpf3lhNoikqTAKvC6TevxTdkERyI9GnMbQNUThFtrhgTHoujD+dhEE4r2iWKEtus9XcbKbjWOVXYrWrY8NZKAjTlZHzuZOalkvvvXJqL4E+YRKagLfn9Cgw/5uizyAz4veANzFA/fTV4BykvTnYSY5O3WYaaHnawx5Lj3IQUpKakD1UEXsPZv7pRRwfRtvjRuXjpdP9+OkYWgaPCNBo5rRs4iWjzuDBT7hRK7KGsHInhA==;edrLwV3EGr2J+yKogfPzYw=="
 ---

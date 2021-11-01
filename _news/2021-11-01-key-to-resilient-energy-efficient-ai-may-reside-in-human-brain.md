@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-11-key-resilient-energy-efficient-a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-key-resilient-energy-efficient-ai-reside.amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -28,13 +28,18 @@ images:
 related:
   - title: "Key to resilient energy-efficient AI/machine learning may reside in human brain"
     excerpt: "A clearer understanding of how a type of brain cell known as astrocytes function and can be emulated in the physics of hardware devices, may result in artificial intelligence (AI) and machine learning that autonomously self-repairs and consumes much less energy than the technologies currently do,"
-    publishedDateTime: 2021-11-01T17:18:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/11/211101104858.htm"
+    publishedDateTime: 2021-11-01T20:54:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/933368"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 60
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 50
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c146f169-594c-45dd-87e3-029d3fd741ac/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "jEo2a0eUsLD8WY8dpja7404ZqMpzgF9ziV5GaDEBjG3RGmBESSGmVlo6OiZQuTiorv6z/0KUPqKzSHpjEZ8u/lGzeBAmZF8rvgZOn+/9vPMxwiNXI2/bZRg99W0lROU8MELaTJClpjfNknaU2fR9dmg2C0UT1jkoaaHlCpr0ks2O4DvLTyWfOP1C88Q0bIxZdqqdmtuyFO1zKiJs/rhsOLdhkfame4VGJmKwxbTMK7fYfw77Fu6blUKTXvgmdbfZvPuRBjJtA8REQZmc3LFSCl/R9lhDBYNgEiNFgEncmouPtnHMXrKQ8KVmydvjFvYMQx9jB6aK6dnX0RTctWIJKdCWR6N6Jc1XMJjlVzjnlhwH/OsP/Is1IT8pIsdsBhzqOzUMAgRLI/ZxMDLzH+EWEpD670mbjTQokchPELegM8Alm0R50JxArjH+tK0WoZ9A5O/6s6UiQtmIdSCCAZXzpc6VghdIR26tiekoTfDESoqSo4BqqH5SOZS+LzcOYuPA4Lxw5Sd+YWdr3TuuohyB7w==;kQfmXdWBHODmQtuwHdHFvQ=="
 ---

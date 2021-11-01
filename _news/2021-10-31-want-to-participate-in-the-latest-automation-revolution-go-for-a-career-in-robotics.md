@@ -73,6 +73,22 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "FWPS Board of Directors earns Board of Distinction recognition"
+    excerpt: "This marks the sixth consecutive year the board has earned recognition. The Federal Way Public Schools (FWPS) Board of Directors has been recognized as a Board of Distinction for the sixth year in a row."
+    publishedDateTime: 2021-11-01T20:00:00Z
+    webUrl: "https://www.federalwaymirror.com/news/fwps-board-of-directors-earns-board-of-distinction-recognition/"
+    ampWebUrl: "https://www.federalwaymirror.com/news/fwps-board-of-directors-earns-board-of-distinction-recognition/?amp"
+    cdnAmpWebUrl: "https://www-federalwaymirror-com.cdn.ampproject.org/c/s/www.federalwaymirror.com/news/fwps-board-of-directors-earns-board-of-distinction-recognition/?amp"
+    type: article
+    provider:
+      name: Federal Way Mirror
+      domain: federalwaymirror.com
+    quality: 44
+    images:
+      - url: "https://www.federalwaymirror.com/wp-content/uploads/2021/11/27022036_web1_FWPS-T.jpg"
+        width: 1302
+        height: 868
+        isCached: true
   - title: "Voice And Speech Recognition Software Market To Be Driven By Technological Advancements In The Forecast Period Of 2021-2028"
     excerpt: "The Voice And Speech Recognition Software market report discusses in-depth the growth opportunities, challenges, growth drivers, and restraints, threats, and demands of the market. Further, the research assesses the regional market as well as the global market to gather the data into the scope of the Voice And Speech Recognition Software market."
     publishedDateTime: 2021-10-29T09:18:00Z

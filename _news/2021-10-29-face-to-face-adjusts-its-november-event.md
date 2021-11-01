@@ -24,6 +24,17 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "authID.ai to Report Third Quarter Fiscal Year 2021 Earnings on November 8"
+    excerpt: "ID.ai to Report Third Quarter Fiscal Year 2021 Earnings on November 8. Conference call and webcast to follow at 5.00 p.m. EST. DENVER, Nov. 01, 2021 (GLOBE NEWSWIRE) -- authID"
+    publishedDateTime: 2021-11-01T21:57:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/01/9481918.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 16
+
 secured: "vHFwbcGtvX35iHIkulwBHYa+7SnWdQwkDx+Bo/JFJemMdVcKIa9diPPy5hwwMJ0XAYIN6CLznFavrTFuaKutLBPy/f6/KWCr320YK7YxN4mdPTCh3B0SfUNPZe8msTvsDxAncHT0c3G2Dabd1U3OPBNsrxb0BvdvKmQDqqQOUdJt4BxDtRzRXVfvbEl8M2PHnM7N5Ma362+vNxLFhqzLe02JBCuJu1zw7sYM1XQBS4obaq132XcVOhwngwGq1L0l9kNCaVT17xSMKAi0j77dp0YQr0GaGMEs3Sg2UJsLoK/EVjcJb0vlznFh8LsVNYc0m1ky6VC1wf0WzXWBd8mIkak70y7m82IHdIKAf7vHdW0=;iSzrQGJZr0Bh7cLX4qD+0Q=="
 ---
 
