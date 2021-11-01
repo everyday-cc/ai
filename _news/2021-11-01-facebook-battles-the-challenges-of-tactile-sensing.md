@@ -77,6 +77,22 @@ related:
         width: 4896
         height: 3264
         isCached: true
+  - title: "Facebook researchers build better skin and fingertips for softer, more sensitive robots"
+    excerpt: "According to Facebook AI Research, the next generation of robots should be much better at feeling — not emotions, of course, but using the sense of touch. And to advance the ball in this relatively new area of AI and robotics research,"
+    publishedDateTime: 2021-11-01T17:27:00Z
+    webUrl: "https://techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/"
+    ampWebUrl: "https://techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/ReSkin-dog-shoe.gif"
+        width: 768
+        height: 432
+        isCached: true
   - title: "Facebook grilled by UK lawmakers making online safety rules"
     excerpt: "British lawmakers are grilling Facebook and other tech giants over how they handle online safety as European efforts to regulate social media companies gain momentum"
     publishedDateTime: 2021-10-28T16:16:00Z

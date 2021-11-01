@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F1%252F4%252F0%252F37130414-3-eng-GB%252FCropped-1635481733AP_21236792916874.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Imarticus Learning partners with Birla Institute of Management Technology (BIMTECH) to launch PGDMs in FinTech, AI & Data Science"
+    excerpt: "The Post-Graduate Diploma Program will offer learners hands-on training and expert guidance, equipping them to tackle real business problems by applying their learnings Further adding to its extensive course portfolio,"
+    publishedDateTime: 2021-11-01T12:06:00Z
+    webUrl: "https://indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
+    ampWebUrl: "https://indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 30
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
         isCached: true
   - title: "Revolutionary Ways Fintech is Boosting the Property Industry"
     excerpt: "Discover the most disruptive ways fintech expands the property sector, from digital-only lending and fractional ownership, to property-backed stablecoins"

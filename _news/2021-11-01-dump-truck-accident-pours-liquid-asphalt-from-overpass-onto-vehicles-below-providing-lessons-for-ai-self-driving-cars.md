@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/amp/"
 type: article
-quality: 63
-heat: 63
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d133c17070cc69341f362d%2F0x0.jpg%3FcropX1%3D344%26cropX2%3D1919%26cropY1%3D21%26cropY2%3D1203"
@@ -29,6 +30,6 @@ images:
     height: 901
     isCached: true
 
-secured: "doKCQaMweqJURSLJsSaRjpkv1AuNacc9kcF22nEG7n9XzZ2zNltv1lSH+CfQ+4JxSyBART2CXHpbbc8rCAQ5GDnlx9DF6r6Lmu+WglR/HwnIHEAqFssTTwxUuhqBIeKa33qj/fm+Ie0iXpzYxvYNvY1CqKPD9W8exGPXkdYvsYCL5FWyztMsEUfsZ/upGhTRyA2OqNlohlDBfSgJF3RmboveFCFHF5Zjp93IMQTIAOPliSkkpf0ft7AO3PrIMyl1OyPqZEX3hyLUO9sTsZ8eeXzDc+L/pOWiASNRpBJxM06dDZxEilfNZPRoSFQLn2uoEdYFrIgOF7clWYDEOjrWrU7+B6/AIcU7wE/83Khl4M4=;jpQijsTK+0yJCUxZ7vhn+g=="
+secured: "UyH3y3DUS+oWIgoTX4e1oJU4RFZ3TQ9CtIJJwZLAyvxvH03FcXQAqIJCMHoXp5lHDSsHcm6frD8mlD+VzWPISQ+o7r2qQmxGWrsleVvuZJIAsZtip4OPwSXxAkSB2pIIdLm4bxLKY5kH15VXf6HLsVaJ+uz1KF2t2mEJgUtj7IuNohA0GPrIo+CjhPBKDWdG4u3jvsznS/rHkPZUi3jXxYeH4Oy4ojipUh7losjFjnpF8kNFRfnqJf27EXYmB/pdHLjhG/T9WS6eJDApvs1QPL2CANSuZO/wYWfrC3/n8+nIrn8NpoUds73mvn3lCH5VOW9GsCTzQcNpJ6UszZUw0N4scXREJUGOxQBMKKGGmcpKnbw2Ar2J/xsLiTCjQ2CFtb8fKwOmK84jFerdOb0FcQTttH5jYK4YenChet02a155h8qbdgrxneq4NZSRO6mBO1OWdnfa4hfKMFhVhEZiVCq/klFjXQc5chKZ3vz43fzSNUw4Nq00EsgsAppAJoWmCkMxgzTiyO/hFCvgdaEoaw==;sUjyoTP3ePe6n71E789kYA=="
 ---
 

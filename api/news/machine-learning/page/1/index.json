@@ -2,21 +2,64 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-01-octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform.md",
-      "title": "OctoML raises $85M for it for its machine learning acceleration platform",
-      "excerpt": "OctoML, a Seattle-based startup that helps enterprises optimize and deploy their machine learning models, today announced that it has raised a $85 million Series C round led by Tiger Global Management.",
+      "path": "_news/2021-11-02-key-to-resilient-energy-efficient-aimachine-learning-may-reside-in-human-brain.md",
+      "title": "Key to resilient energy-efficient AI/machine learning may reside in human brain",
+      "excerpt": "A clearer understanding of how a type of brain cell known as astrocytes function and can be emulated in the physics of hardware devices, may result in artificial intelligence (AI) and machine learning that autonomously self-repairs and consumes much less energy than the technologies currently do,",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/",
-      "originalUrl": "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/",
+      "webUrl": "https://www.sciencedaily.com/releases/2021/11/211101104858.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/11/211101104858.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-machine-learning-deployment-platform-octoml-raises-85m.md",
+      "title": "Machine learning deployment platform OctoML raises $85M",
+      "excerpt": "OctoML, which helps companies deploy their machine models into production, has raised $85 million in a series C round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/",
+      "originalUrl": "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/gpO4y1mPMWA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/octo-ml.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 650,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +67,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/",
-      "publishedDateTime": "2021-11-01T08:00:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/",
+      "publishedDateTime": "2021-11-01T09:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -718,6 +761,50 @@
       ]
     },
     {
+      "path": "_news/2021-10-26-onvisource-partners-with-voicegain-for-speech-recognition-based-on-deep-learning-technologies-and-the-edge-architecture-powered-by-nvidia-gpus.md",
+      "title": "OnviSource partners with Voicegain for Speech Recognition based on Deep Learning technologies and the Edge Architecture powered by Nvidia GPUs",
+      "excerpt": "OnviSource, a leading provider of intelligent automation solutions for workforce optimization, contact center operation analytics and automation, customer experience management, and business process automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20065826.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20065826.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-deepdraper-a-technique-that-predicts-how-clothes-would-look-on-different-people.md",
       "title": "DeepDraper: A technique that predicts how clothes would look on different people",
       "excerpt": "In recent years, some computer scientists have been exploring the potential of deep-learning techniques for virtually dressing 3D digital versions of humans. Such techniques could have numerous valuable applications,",
@@ -1250,83 +1337,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-10-20T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-us-air-force-teams-with-uk-on-machine-learning-demo.md",
-      "title": "US Air Force teams with UK on machine learning demo",
-      "excerpt": "By sharing data and machine learning algorithms, the two countries were able to improve situational awareness for war fighters in a demonstration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/CmSkjK0LuGwWeGDLXmB8GBzgViI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/RT4BUYK7P5BCHORIBCZAVETTLQ.jpeg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-machine-learning-can-be-fair-and-accurate.md",
-      "title": "Machine learning can be fair and accurate",
-      "excerpt": "A CMU team aims to dispel that assumption in a new study, recently published in Nature Machine Intelligence. Rayid Ghani, a professor in the School of Computer Science's Machine Learning Department (MLD) and the Heinz College of Information Systems and Public Policy;",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/932216",
-      "originalUrl": "https://www.eurekalert.org/news-releases/932216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T10:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "EurekAlert!",

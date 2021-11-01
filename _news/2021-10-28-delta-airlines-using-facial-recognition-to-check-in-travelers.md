@@ -9,7 +9,7 @@ ampWebUrl: "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-faci
 cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://d1vhqlrjc8h82r.cloudfront.net/10-31-2021/t_36a7d442f26b4d2085ef3805536c4fcc_name_image.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Delta Airlines Rolling Out Facial Recognition In Atlanta Airport"
-    excerpt: "Delta Airlines is rolling out facial recognition technology — right before the busy travel season gets underway. The airline says that it's testing out the new technology at Hartsfield-Jackson airport in Atlanta."
-    publishedDateTime: 2021-10-28T00:28:00Z
-    webUrl: "https://www.newsy.com/stories/delta-airlines-rolling-out-facial-recognition-in-atlanta/"
-    type: article
-    provider:
-      name: Newsy
-      domain: newsy.com
-    quality: 54
-    images:
-      - url: "https://cdn.newsy.com/images/videos/m/1635381244_y0M4MP.jpg"
-        width: 640
-        height: 360
         isCached: true
   - title: "Ed's Tech Notes: iPhone Stores Vaccine Data, Delta Face Recognition, Drones For Farming"
     excerpt: "Phone users can now store their vaccine information into their apple wallet but extra steps will be needed. Delta Airlines testing facial recognition for some of their loyalty program members, and Purdue University is testing drones for farming."

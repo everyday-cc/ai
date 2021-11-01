@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Understanding finite-temperature quantum effects better with machine learning"
-excerpt: "The large number of interactions makes modeling quantum many-body systems challenging even for temperatures near absolute zero, but this becomes much harder as the temperature rises. Numerical methods that can account for the nontrivial interplay between thermal and quantum fluctuations require prohibitively high computational costs,"
-publishedDateTime: 2021-11-01T06:37:00Z
-originalUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=59034.php"
-webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=59034.php"
+excerpt: "Three RIKEN theoretical physicists have used neural networks to investigate the way atoms and electrons interact with each other at finite temperatures. This knowledge will help inform the development of future quantum technologies for advanced computation."
+publishedDateTime: 2021-11-01T16:21:00Z
+originalUrl: "https://phys.org/news/2021-11-finite-temperature-quantum-effects-machine.html"
+webUrl: "https://phys.org/news/2021-11-finite-temperature-quantum-effects-machine.html"
+ampWebUrl: "https://phys.org/news/2021-11-finite-temperature-quantum-effects-machine.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-finite-temperature-quantum-effects-machine.amp"
 type: article
-quality: 16
-heat: 16
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "3wPAa2YZ5MJl7C1z16rjVSBVp9Cq+KXgISrnZy2r9kdDxGF+lEB/Tr12I6Vbi7WXWUAVSAOgSZzUdXH3CwbSsRZph9D8n9bnhvwBty+sVSg+IsSTrnhxlKz/nvNGfE4OOnaC9HFgcsPa1JmJmUi6kpT/PKRNuuqDcaPkzWLVy30i7sykZymB3gOfrnN6UBgXJB6CV2DSV/FAz9LLG6rYF+OwXU0rvgiFitLHnvSXvr0gwdAxaCdtdjonP0/OcLuKswUx4uwWOXt52p0CF3WXySw6qR8JXHTQoVLf8wDgJJ4AYU/Joy7hB6ACjUVLlTc0SYVdmHIhWCjA5/bJtbaNSxD+bQrkp48IdGYGOfGm42lrEgnPgs7AXEwDVYOJCRQgfcfb2R2gr+L78D1aXIGdbXwP2Pi5PqsqgCqf5RJnKn6Igx1G9KcQ7H2tz4ZOGAO6b6zsH11niRnNQlSlKs3egmLAGcRQzsH1yjdiQIMjpNKev71tHVODt2Rc/JxcGKOrcWvwirPZA4y8L8HeKnNcbg==;bKKEHKXFVFv7d9/EtC+zng=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/understanding-finite-t.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "NjsROUThDHeLPjJUX8DIWIxmD0FV5TUcYAqaSwU62eex0kcNgSz1p4NAzoolkhGppfkWf4EdOdGjYe/SXBionFV4a1cd7VU2pOQVLwsbmu7cSdW2OLIyvh8IzXobbPy35GZks/Bc9qOFjaKu40nz63C2aAEAy1tK1ym+2xCRg5gb8W2MXrilj7g1ueJthNTRDFpttdtWuifZ7CBslh/WdMN5AZSIGbAF0maDbDTJD5UmIxcm55xCyUnfmHG0SdmYsk8B8BOwI/a/a5yhEa+bGUyJDYxtAbGMpNnEutatv2KVru0CyVUcnVAkufb7Kzy7k1yOi+0Sm7P79xbW7GMHPl3ZxzXSh73MqXXXEmpkAeI=;Es1fVKaI6iQXBmbEPpUAxw=="
 ---
 

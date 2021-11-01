@@ -1,0 +1,49 @@
+---
+category: news
+title: "Works Well With Robots? The Way Robots/AI and Humans Interact"
+excerpt: "Blame it on HAL 9000, Clippy’s constant cheerful interruptions, or any navigational system leading delivery drivers to dead-end destinations. In the workspace, people and robots don’t always get along."
+publishedDateTime: 2021-11-01T17:03:00Z
+originalUrl: "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/"
+webUrl: "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/"
+ampWebUrl: "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/"
+cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/"
+type: article
+quality: 74
+heat: -1
+published: false
+
+provider:
+  name: SciTech Daily
+  domain: scitechdaily.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://scitechdaily.com/images/Human-Robot-Interaction-Cooperation-777x518.jpg"
+    width: 777
+    height: 518
+    isCached: true
+
+related:
+  - title: "“Living With Robots” – An Excellent Non-Technical Overview Of Robotics"
+    excerpt: "This is a review of the third book sent to me recently by MIT Press, and the book is the best of the bunch. “Living With Robots,” by Ruth Aylett and Patricia A. Vargas is a good, non-technical book that discusses a number of issues with robots in human ..."
+    publishedDateTime: 2021-10-28T15:51:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D24%26cropY2%3D517"
+        width: 876
+        height: 493
+        isCached: true
+
+secured: "vLgFsvv/mypbvCoOBXwtDmVZj0kA4PzxgHaZHlJCCdI/sDCxYSD3T84SRZ0TTdYXCOdMxlUNerTDb9aYa/esvADJ04Qgnzk6L007wFAEToKCJOFmebpgWf1GY04IMONjZO+IfxV2sD8KN2HCF5dClDgXJ6FfdsW7hTSA4Q4v/Ju5NMlKWkFcyn8YpZKfDPG1qnw14hORJA7K28GJ6EdFjog48Cwg7YcHzG4kiaIv6KYQckoIm7o3UOnhoQS5ZoW5CvQAVyKq79GJcTROeqa7DKFcVn8f+gLm3IPZzlxSwRE8OtZ8RJfDHhI02ou0idbdr1BryYA/nWMSCfA04TF4EY5AwBBLEMJI4ltZ5DP/S3Q=;39phIGgU+oSClaBBhAjRHg=="
+---
+

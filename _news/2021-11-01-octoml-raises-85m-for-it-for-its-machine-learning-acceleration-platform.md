@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/"
 type: article
 quality: 118
-heat: 118
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,24 @@ images:
     height: 360
     isCached: true
 
-secured: "DaGFux6TYPjvSuZK4502mrAls5E7F7idIAq7N1oAhXVVe2WJdJy36LbvyCaDluBoLSt5VqT+MRlht3mXaTBv7IpJhfhn1jxXCQkp0JPedhfMiGgBwCkJ5uLyGdjwNw8nFum4UkkNTEwLcWeZYYf21JnKAhjk43lXEiie1gIBaqY/vGt4p8IgytIA5OexNoofZk2wrujVEkx3zwarSG2V3GUJ6XX++09Trl6YW3ICTCwIYpRH3Ut8MKeWn6azD20yXlWloM9dE8nrJYd955+3NIIGCJOgGcUz3JkpzDi1ahxI1MG3wg6/Ajbm8fTUvWkE7ABK5P4Qh0tzPmn3OnSynbzHAhKE0q9+lGNNdT5jcxQ=;DNmi8lmrqarspkq/Y3tbiA=="
+related:
+  - title: "Machine learning deployment platform OctoML raises $85M"
+    excerpt: "OctoML, which helps companies deploy their machine models into production, has raised $85 million in a series C round of funding."
+    publishedDateTime: 2021-11-01T16:04:00Z
+    webUrl: "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/"
+    ampWebUrl: "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 119
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/octo-ml.jpg?w=1200&strip=all"
+        width: 1200
+        height: 650
+        isCached: true
+
+secured: "+NjMvKeAjezT+sgqiEeOQrWU5F8j6SLgcptakui9iJTetVMwRKEuC4s6mJ0Rx9dDUwxw5acQ4xm9GsfIDrMXp/a1QppBsVhEp10WrQkJox95LHfdmrK2qGCTFAu9YxZNBDVmTK5iV2i3ah4b+f/GvGtKMl0H/zf5yqDNUybeNjrMqgXbRhFPpPulr7hWHSci92AQ8IQAElKFKC4YptVWwoJGSbLzoWWCyWBFPorG6j1hpuvGOcMahqXJcgElnFvqKX5smNOkJTtyruN/JjnUXJKeWWHXEn4TVBkGB2fkDfpf3lhNoikqTAKvC6TevxTdkERyI9GnMbQNUThFtrhgTHoujD+dhEE4r2iWKEtus9XcbKbjWOVXYrWrY8NZKAjTlZHzuZOalkvvvXJqL4E+YRKagLfn9Cgw/5uizyAz4veANzFA/fTV4BykvTnYSY5O3WYaaHnawx5Lj3IQUpKakD1UEXsPZv7pRRwfRtvjRuXjpdP9+OkYWgaPCNBo5rRs4iWjzuDBT7hRK7KGsHInhA==;edrLwV3EGr2J+yKogfPzYw=="
 ---
 

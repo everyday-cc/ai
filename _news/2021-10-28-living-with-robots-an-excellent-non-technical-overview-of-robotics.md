@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robot
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 876
     height: 493
     isCached: true
+
+related:
+  - title: "Works Well With Robots? The Way Robots/AI and Humans Interact"
+    excerpt: "Blame it on HAL 9000, Clippy’s constant cheerful interruptions, or any navigational system leading delivery drivers to dead-end destinations. In the workspace, people and robots don’t always get along."
+    publishedDateTime: 2021-11-01T17:03:00Z
+    webUrl: "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/"
+    ampWebUrl: "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 74
+    images:
+      - url: "https://scitechdaily.com/images/Human-Robot-Interaction-Cooperation-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
 
 secured: "iHTXvuQX+Z/hFs8+gQmuygdHkRn+dhv7WQ20Ru5PUb9Ii7Kx6anuDoVxXiTwjiSw/tS52BoqkNlvVXQYZP4COovURbmfuTz9KbAz0oNi+LwDdVZEv4cTRwwf55cCOHKAOtkI4qTj2psgnsvFgcwCUcG/GqXFM5bS4zAYe5/6f15ZC2cWIFlgxCpPohYty1Lbxgx+Q/NqHf8s9LoNIUqcrRHjmlTko6kfzLJMAI7VHctrRKWLNMzqT9HIY92SnqpDzsEaf8Dd67GJrb4Gg0dW3nWmgvW8Fx0iODwBLwExFcy/LT5v+ocRxxeN/PvtNApfszYZx1cCj4FIFzIVv1An5SdjsUXCB7R389kolFuPqes=;zC7pRIkp2rS+YcdNLrbHCg=="
 ---

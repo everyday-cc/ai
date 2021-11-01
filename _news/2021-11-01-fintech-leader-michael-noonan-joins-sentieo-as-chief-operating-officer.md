@@ -1,29 +1,23 @@
 ---
 category: news
 title: "FinTech Leader Michael Noonan Joins Sentieo as Chief Operating Officer"
-excerpt: "Sentieo , the leading next-generation financial research platform provider, announced the appointment of Michael Noonan to Chief Operating Officer. With an extensive background in private equity, banking,"
-publishedDateTime: 2021-11-01T12:52:00Z
-originalUrl: "https://menafn.com/1103083478/FinTech-Leader-Michael-Noonan-Joins-Sentieo-as-Chief-Operating-Officer"
-webUrl: "https://menafn.com/1103083478/FinTech-Leader-Michael-Noonan-Joins-Sentieo-as-Chief-Operating-Officer"
+excerpt: "Sentieo, the leading next-generation financial research platform provider, announced the appointment of Michael Noonan to Chief Operating Officer. With an extensive background in private equity, banking,"
+publishedDateTime: 2021-11-01T12:20:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fintech-leader-michael-noonan-joins-sentieo-as-chief-/2021/11/01/9481267.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fintech-leader-michael-noonan-joins-sentieo-as-chief-/2021/11/01/9481267.htm"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?9204"
-    width: 367
-    height: 250
-    isCached: true
-
-secured: "FlnCnJsWQdQBkYu7OZBBIovd9nePRj7rF61PqQz0MKn/M7GCjniW2Pb8jIuQXDJYwX3cWy3FCV40PC80TrHVZm2RxzKgDnhUDJSg55eDdJjAHXtMKMdboCUIChtCEP1HI+gsNHEwy2NraJjRuTK1A9oZuIyuq4MjoAuw059GuU2p+pWScScsPY4wI/Wg+d3nMlhgyQzRv2/CFQkPHCsYFVwvcK/OSsb34p0IUqUItUHo5wJxV/ca2b8AAETiWd3++8W/5t4CQCilk+Tccbis1/1yeVDjzdCKahNRWIb27HTDVaW5YvCf9ps7Sa9G0yLmevvcy8ZdW+/KQHXGgtab523vRQ4B904WKZUflpNCXso=;ivWXImOc5vNWF1FFi5MKOQ=="
+secured: "SORCrboPpg55VDjiuVZHkXe1DAYDlGLcDzfEPDewFLIq8zrb5Bs+zPbt60yPZA+w712oO2a7FywoE5WF4UR9clJ4xpfrJY+MR5asA8UqzJW6gI9r0hTDIJGuMoz9BKexvWypTBGoOfxRyP9raDh5PFzjLDN5HLPpc1x6GZYVrZ0Sa8mRWtekX5jbUDsuMxs6hyDTRIKPUmI4naCLqsQyN/aQYvb7yOOPzXOvQiMz/WVDJpdDw+bMJogsyoe2CTx/2seD1Qnb4jZsdo7MEprYZh3+j1eKi2GxsGrv6vuuIHCyU3yhDVcaetZAEZzH5vAHpYHYERKswVDARau/Mw7RM6dcWZyy64D5cs9Cy1aUhPE=;hrO8ilZtj2qsXZ3+su8YsQ=="
 ---
 

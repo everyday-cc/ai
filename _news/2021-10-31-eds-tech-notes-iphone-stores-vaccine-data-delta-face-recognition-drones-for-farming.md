@@ -59,20 +59,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Delta Airlines Rolling Out Facial Recognition In Atlanta Airport"
-    excerpt: "Delta Airlines is rolling out facial recognition technology — right before the busy travel season gets underway. The airline says that it's testing out the new technology at Hartsfield-Jackson airport in Atlanta."
-    publishedDateTime: 2021-10-28T00:28:00Z
-    webUrl: "https://www.newsy.com/stories/delta-airlines-rolling-out-facial-recognition-in-atlanta/"
-    type: article
-    provider:
-      name: Newsy
-      domain: newsy.com
-    quality: 54
-    images:
-      - url: "https://cdn.newsy.com/images/videos/m/1635381244_y0M4MP.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Ed's Tech Notes: Apple Wallet Can Store Vaccine Card, Delta Face Recognition, Drones For Farming"
     excerpt: "Phone users can now store their vaccine information into their apple wallet but extra steps will be needed. Delta Airlines testing facial recognition for some of their loyalty program members, and Purdue University is testing drones for farming."
     publishedDateTime: 2021-10-31T13:11:00Z

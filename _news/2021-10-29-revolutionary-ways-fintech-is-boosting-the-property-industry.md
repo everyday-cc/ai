@@ -87,6 +87,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Imarticus Learning partners with Birla Institute of Management Technology (BIMTECH) to launch PGDMs in FinTech, AI & Data Science"
+    excerpt: "The Post-Graduate Diploma Program will offer learners hands-on training and expert guidance, equipping them to tackle real business problems by applying their learnings Further adding to its extensive course portfolio,"
+    publishedDateTime: 2021-11-01T12:06:00Z
+    webUrl: "https://indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
+    ampWebUrl: "https://indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 30
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
   - title: "Fintech challenges | Balance history"
     excerpt: "Balance history. The challenge in this project asks to solve a common problem in the banking sector: calculating the daily balances of a bank account from a k"
     publishedDateTime: 2021-10-31T14:08:00Z

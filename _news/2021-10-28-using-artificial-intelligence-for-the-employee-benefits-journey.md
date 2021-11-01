@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benefitspro.com/2021/10/28/using-artificial-intelligence
 cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/?amp=1"
 type: article
 quality: 61
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Using conversational AI to support employees’ psychological needs"
+    excerpt: "Healthcare workers put on a brave face each day to serve those who are suffering, and in doing so they often put aside their personal self-care. The pressures of the job can lead to mental health issues, which are sadly compounded by caregivers’ feelings of guilt around needing care themselves. Sometimes,"
+    publishedDateTime: 2021-11-01T12:00:25Z
+    webUrl: "https://www.ibm.com/blogs/watson/2021/11/conversational-ai-employee-care/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 119
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/WA__Eastern_Health_blog_2000x1006_V2b.jpg"
+        width: 2000
+        height: 1001
+        isCached: true
 
 secured: "clugidgD2OJLtiHL5hjpFE4Dv6iMbbcLVnjvRxeasRwlnFYcuiVnMRUFhJQ+7EZXpor2/TD95Jc+Re+NyBvb/BLkmgtzi0ST4171cZv8piCuMuCTDSIuIO0sAnRsOihZJGYsoTMXG5fsxY8VKfxPn3peznd82grMtj0IWwloE4XC8BAxdFcvGVus7vf2AQ/V8/VYZUHtN2/eZi+HbHnxT2CdJCiweek2U/WWddGbi1e+lucyrLF+GOv6RhuhkMgB0UAD8S6QKO9p9APTMVbiCtuOaV54Cnba7rmEuktvTscnKu4WdTJftpNLqwyJd8xqMVtr3+uBszmKH5tW8OgSMw9LSGCaaXkbgy4swN9DuK4+OWX6ZRJ5QpZtjYDhquuEiIlIxhoBH5kte0RKYTMbkSABGzfuXj5jgAYietDiTghgh5PAbUfwfDj2jAqR9dNwwJ/xSqODnHEoqy/nxR/jhwxwfLQmI3kcy2Ulm0TJipjUjZSqOkM7u+R/ft3DtfWM2zfzJzQKAj29eBwUbhrdsA==;7vIJhqGJAXDXAWxzghwXUA=="
 ---
