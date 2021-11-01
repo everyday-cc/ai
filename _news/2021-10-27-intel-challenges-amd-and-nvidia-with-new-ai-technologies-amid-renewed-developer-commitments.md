@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/"
 type: article
 quality: 79
-heat: 91
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Top 10 Artificial Intelligence Technologies"
-    excerpt: "Artificial intelligence is a technological blow that has continued to take the world by storm since 1955. Check out the top 10 artificial intelligence technologies streamlined with widespread sub-technologies ranging from biometrics and computer vision to intelligent devices."
-    publishedDateTime: 2021-10-27T05:37:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-technologies/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Artificial-Intelligence-2.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "l4uvSQw9R27zzxUN9TeTMfJ90ypFh7MKZnNLW7Mf3FaFSBfYzsqPt7quV6y8wecqyu9NRv/+B1/7zXhdMyxBHSa1P3W2TTMmzeTlRta1RSQPINMfWH8W2bJURbytPx+huhlCWwCh7CDLRXgHNBEk08bwHVn76Rdp1zUkIt2uaR0MgifvzzWyVfFDYripmLlJwtzKr3/lzKSfXQm6Bezo1Vs/m54qV/X4upLy72ZSTDQN3/kYJEPhm10YwoShoXO1HkytnF54qV4cMra0Scl3WjCV0qphltu8X0NuAhAEP8kXb3sDXOtF39dFBQ8KJHz6Oqb52quNrVYWpBr9HfYR2GU1YB6A/9+Zbysv4strJ33+L3MzpjuLe8hHgBsHcGB24evvHuikthaznbs1nD+jM8ZecT3LXbodv96Abu5IdO+BEByKQPKNTI+mjdvdarEE8kG9gwhmQ9Ak8uOrJb25MSzfPhlcnpJ1R9jT01EGk60aM4xCIUNYO2AZkns1TTk1mwq6dZI3Y0+2g+XtfW6dSA==;32KT6UZ7Dy0ZA1YTv8FX0g=="
 ---

@@ -26,6 +26,22 @@ images:
     height: 608
     isCached: true
 
+related:
+  - title: "Afghanistan dispatches: ‘the Taliban are begging the US for recognition’"
+    excerpt: "Law students and lawyers in Afghanistan are filing reports with JURIST on the situation there after the Taliban takeover. Here, a Staff Correspondent for JURIST in Kabul offers"
+    publishedDateTime: 2021-10-31T05:14:00Z
+    webUrl: "https://www.jurist.org/news/2021/10/afghanistan-dispatches-the-taliban-are-begging-the-us-for-recognition/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 23
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/09/Afghanistan_1631488193.jpg"
+        width: 1280
+        height: 851
+        isCached: true
+
 secured: "j+jUqYyEfOtcQuQLFRwARo8majEE+vLfi10rfK972mqdQGVqVHvejcza7nx9vGKbybAhj8osSyNkqk1y3gMAcvGf72tNW5YokDUNvVoDwm5Lhije+T3kpxM8IuMm9iRvFC7tE4iiX4LbM1c8LaTlCLLuVgQ7tQDwnJgCLwXyMnSu1A08Meo+blB7x9gYWP7xiIwXyRHLL9V+eg0awGUA/tCoVXeyNcXPeRmxJclb0/g8/bEPGj76KphZadpvMeYnjMprbikUE6vuPupS+oJnR3YjNxXOu8CL0KVOPLidX1Lp+3eGgSlikWJ4Fn5VixV1FAn9ZBsDlA7p+97w4twVkKnJZf9XydNs1bFi0hDT9Ig=;eWloygJ1FDCzxOyy2sqoUw=="
 ---
 

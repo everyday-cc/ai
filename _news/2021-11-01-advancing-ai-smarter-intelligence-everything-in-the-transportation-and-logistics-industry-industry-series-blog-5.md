@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-smarte
 ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-smarter-intelligence-everything-in-the-transportation-and-logistics-industryindustry-series-blog-5/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-smarter-intelligence-everything-in-the-transportation-and-logistics-industryindustry-series-blog-5/amp/"
 type: article
-quality: 64
+quality: 66
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617f0bc8a6635fb8a6c45b32%2F0x0.jpg"
@@ -77,6 +78,6 @@ related:
         height: 630
         isCached: true
 
-secured: "M4s7ypj6g3X6q5z8y5TX2Z9WtlC3FRsSzHTo2nc7yqsu6bso0XCVDE2GnHc6m+aoWzReuq12qbwWhGtrzGOYOtTc/IVmiWtC+12UC7dr8xCG7T5PGp4NuhzyIw6xM0yPSf3orKKr1gdx/OtsrKx8HBzwtvfuUBUsUvLRrSSb6eUeuWeo/cGiHaphssNANeHDrWpGnZEqe1V9iV9kPZExgTlTaC8Ks7ShoI2D8bpTQ83Lgds7OIRuk8oXD0WDHqV+uMQivTVaqblrf+xvuIwV6wgQGUtxFaAPcbrGVFC21GCdlzCGZXYXpPtzaER9xaskmOv+9TF5WrxyIah4vXsiaShdORCCmoFSoVNrVqn3CQI=;YpS/LJO4Y+6yoHGgLMUKAQ=="
+secured: "Dga1/EMk7rSgnCMefVkPmkkvNlT4z/izRoPhbhXp7qasAryWmMKkwAgzMJmdTOiOaltkLWhe8nI0r/ThL3Nkv3l4eER36Ps8M77he39JbrX+jMRm+FcoiRD48ZC5wXpyhUCz5cJXlxevv9mTz+2uxmZL8/GorsfNgRSRDaXTpbsAq4WZVOQkjG8ddpjLIMaZwyQ39H259I0tE6vhDiXSOBPc76E5oXsRQYIWNEUAmpJelcbHMTM/n7PujFJLnza1fB5q3ibLlHV6MB24cuJoL5InCtmb7p0vV3olP8FYtGkU1X88+yyAyQeCphkINoVx/YRfiAwf2pk0esUo6ei7oIPCHaBtWIif8seSYoWVtFxj0PvMM8YJJ2B+/6CaZm7deTJ1QPmIY7sbAHT6pyUxPUDUjScOMo6bqVdwd7PDbiyXZV6fvL8LDiEFmMqgWp8pzywAf0I+rCgPXNTTFP9XhrufkDAZGFcpCIcTDgArUlM0iLg5tiSC53Ja9r+gtKg0u4UsfzJikmpD5KGHv3uPag==;yRSzd1NnZOWfLOyKN39ndw=="
 ---
 

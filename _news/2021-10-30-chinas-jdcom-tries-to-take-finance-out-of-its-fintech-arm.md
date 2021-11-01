@@ -68,6 +68,22 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "The above is a weekly synopsis of the biggest stories on Fintech in China provided by WeiyangX, part of Tsinghua University, in partnership with Crowdfund Insider. WeiyangX is the most influential website focusing on Fintech in China."
+    publishedDateTime: 2021-10-31T22:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/10/182366-china-weiyangx-fintech-review-220/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182366-china-weiyangx-fintech-review-220/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182366-china-weiyangx-fintech-review-220/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Beijing-China-Man-on-Motorcycle.jpeg"
+        width: 1280
+        height: 1214
+        isCached: true
   - title: "New Fintech Regulations to Be Discussed by the U.S. Congress"
     excerpt: "A congressional committee is anticipated to address the need for a new regulatory approach to financial technology in America"
     publishedDateTime: 2021-10-27T08:31:00Z

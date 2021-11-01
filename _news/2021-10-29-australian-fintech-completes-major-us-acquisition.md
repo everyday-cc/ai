@@ -54,6 +54,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "The above is a weekly synopsis of the biggest stories on Fintech in China provided by WeiyangX, part of Tsinghua University, in partnership with Crowdfund Insider. WeiyangX is the most influential website focusing on Fintech in China."
+    publishedDateTime: 2021-10-31T22:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/10/182366-china-weiyangx-fintech-review-220/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182366-china-weiyangx-fintech-review-220/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182366-china-weiyangx-fintech-review-220/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Beijing-China-Man-on-Motorcycle.jpeg"
+        width: 1280
+        height: 1214
+        isCached: true
   - title: "China's JD.com tries to take finance out of its fintech arm"
     excerpt: "While Nasdaq-listed JD.com has long been widely seen as one of China's top online retailers, the growth path of its fintech arm has been anything but consistent. Even its name has changed several times."
     publishedDateTime: 2021-10-30T04:13:00Z

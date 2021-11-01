@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-10-facial-recognition-schools-child
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-facial-recognition-schools-children.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1356
     height: 668
     isCached: true
-
-related:
-  - title: "Schools suspend use of facial recognition after backlash"
-    excerpt: "The Information Commissioner's Office wants organisations to consider a 'less intrusive' approach where possible"
-    publishedDateTime: 2021-10-27T06:41:00Z
-    webUrl: "https://www.computing.co.uk/news/4039273/schools-suspend-facial-recognition-backlash"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/691e627/cd75934c-215f-493a-b2df-1015f2f48059/6/School-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "PBrHs2/apsY3NLl/6+a3HnYaWxNqzwjn3vGI2CcuWgK23xcOOcXjvqhpechuI2NnFL8BoZ+eDwy19eK0DR5VjY7J1JG5e06eCdlj+5q9H0jfHemgiWWL2p3XBJ+I80opR/1d1pW6vix3L5ou6D75SImpxPmn9MkHkqtDZzIO4eZC8xFO+oh5nyNt37u0iiG5KwrZj89c2T+n4m5T2sZPcnEsIBMeZWEUaJMv7QqISVl2EO0LW5+/+VHVRg0T8tEGKtRfs6D+kOVaA7gXj18trgr8GNxS7CSg8Vtz+PciZkEl1iACEu8MkWsMNwxrDkRSqZ4pw6Mzf2D+UFZEXtE1RWyRm77Y8PVhfQ2UFK/LFAEr0B4hHvYANdpv6Z8Gf0+roKNAhF0m2btdwpPssSS4yQlfrZ4xkfgxkRaLBGMsb++HUZBDOXrjvJjchBYjM/KNXK96wJ5z2FiAjJ5UP6Onr/7qIsdw6JTUbgMuiJinSmQDJNYyQ7bPpqZkpxahFRfQYzgvLnHa/X4a6MW02wjD7Q==;Ia/HjklYyfws+pQcsXbvdg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/we-mapped-every-large-solar-plant-on
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-mapped-every-large-solar-plant-on-the-planet-using-satellites-and-machine-learning-170747"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 320
     height: 202
     isCached: true
+
+related:
+  - title: "We mapped every large solar plant on the planet using satellites and machine learning"
+    excerpt: "An astonishing 82% decrease in the cost of solar photovoltaic (PV) energy since 2010 has given the world a fighting chance to build a zero-emissions energy system which might be less costly than the fossil-fuelled"
+    publishedDateTime: 2021-10-31T23:31:00Z
+    webUrl: "https://www.econotimes.com/We-mapped-every-large-solar-plant-on-the-planet-using-satellites-and-machine-learning-1620330"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 32
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20211031fdc4c823742340f10_th_1024x0.jpg"
+        width: 496
+        height: 236
+        isCached: true
 
 secured: "qorFuViAgK12J2eLz6IRrZglYYejOtrU0UMDkGML9PcaPrG3m9fPvTRacQM30w7LTGr2g/KiTSws9mXsi1uaSF88E90O9QFIBoOtbCDiJ+GQzKx688noGHZlC0b8aXNPooYj6A4Ka/5Kl+CVCpUX7mme8x4p3dnN7ZeL5im6oWwfcIJ1seN+9MtqTI9H2QdAOYcbiJNowDnuxYRbLeq2Z+TC/9TcPVGu1NTQ0H6qOmxdBWPcsSRXLxMMy4kfAKrTejGLD/Pf+ZRCzrcw3Blh/NN7mTuOWT+oty67GT2yeSytByA0RtN32OunUr48sJ8EVjGoz94nNBVXQlnEhP3iI/HAXvHaeXXn2ImnSXVOuHYpRYvPTMr1x3ULDGGpLhZ9B9K88JUY+XKp2nH1qI9K7kFYqI0FWdiILb2R6v8JNYT4z7IaMD2AZYT9qfCHOPWuri712MHo5XDI12m7piuk2TfyjseVhRhKNkgvaJ6C/nWaBGjX8mycVAjt/BX0aH1qkNgoMJLtUMcEs1UEhPmWDw==;t380INieZhGp2MkS7g30wg=="
 ---
