@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "Top 10 Companies in Artificial Intelligence in Retail Market Industry 2021 By Fortune Business insights"
-    excerpt: "The global\"Artificial Intelligence in Retail Market\"is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-10-27T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Dga1/EMk7rSgnCMefVkPmkkvNlT4z/izRoPhbhXp7qasAryWmMKkwAgzMJmdTOiOaltkLWhe8nI0r/ThL3Nkv3l4eER36Ps8M77he39JbrX+jMRm+FcoiRD48ZC5wXpyhUCz5cJXlxevv9mTz+2uxmZL8/GorsfNgRSRDaXTpbsAq4WZVOQkjG8ddpjLIMaZwyQ39H259I0tE6vhDiXSOBPc76E5oXsRQYIWNEUAmpJelcbHMTM/n7PujFJLnza1fB5q3ibLlHV6MB24cuJoL5InCtmb7p0vV3olP8FYtGkU1X88+yyAyQeCphkINoVx/YRfiAwf2pk0esUo6ei7oIPCHaBtWIif8seSYoWVtFxj0PvMM8YJJ2B+/6CaZm7deTJ1QPmIY7sbAHT6pyUxPUDUjScOMo6bqVdwd7PDbiyXZV6fvL8LDiEFmMqgWp8pzywAf0I+rCgPXNTTFP9XhrufkDAZGFcpCIcTDgArUlM0iLg5tiSC53Ja9r+gtKg0u4UsfzJikmpD5KGHv3uPag==;yRSzd1NnZOWfLOyKN39ndw=="
 ---

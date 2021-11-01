@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/news/yuval-noah-harari-sapiens-60-minutes-2021-
 ampWebUrl: "https://www.cbsnews.com/amp/news/yuval-noah-harari-sapiens-60-minutes-2021-10-31/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/yuval-noah-harari-sapiens-60-minutes-2021-10-31/"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI
   - AI in Autos
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/31/f8bbdbf0-b2d8-4b95-9399-22dc42eef179/thumbnail/1200x630/1a50d83699d8e58506f74706c57403c2/ot-harari2research.jpg"

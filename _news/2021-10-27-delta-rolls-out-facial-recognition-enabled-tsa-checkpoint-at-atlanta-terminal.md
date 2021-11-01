@@ -75,20 +75,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Delta launching facial recognition tech trial at Atlanta airport"
-    excerpt: "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate."
-    publishedDateTime: 2021-10-27T10:31:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2021/10/27/delta-launching-facial-recognition-tech-trial-atlanta-airport/?outputType=apps"
-    type: article
-    provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
-    quality: 54
-    images:
-      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/dP6UpYmH25R4GuD9K19T4kaBRtY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QWAWNHE6TVHJLMWUWH7UUQKQSM.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Delta Airlines Rolling Out Facial Recognition In Atlanta Airport"
     excerpt: "Delta Airlines is rolling out facial recognition technology — right before the busy travel season gets underway. The airline says that it's testing out the new technology at Hartsfield-Jackson airport in Atlanta."
     publishedDateTime: 2021-10-28T00:28:00Z

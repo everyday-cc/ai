@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-rev
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ead445f8f04e43defb687%2F0x0.jpg"
         width: 1200
         height: 632
-        isCached: true
-  - title: "Top 10 Companies in Artificial Intelligence in Retail Market Industry 2021 By Fortune Business insights"
-    excerpt: "The global\"Artificial Intelligence in Retail Market\"is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-10-27T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-artificial-intelligence-in-retail-market-industry-2021-by-fortune-business-insights-2021-10-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Advancing AI Smarter Intelligence Everything In The Transportation And Logistics Industry - Industry Series: Blog #5"
     excerpt: "This is the fifth blog in the advancing AI Smarter Intelligence Everything in the Transportation and Logistics Industry Series."

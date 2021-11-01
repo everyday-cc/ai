@@ -507,6 +507,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-14-image-recognition-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2021.md",
+      "title": "Image Recognition Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2021",
+      "excerpt": "facial recognition, object recognition, pattern recognition, and optical character recognition. Based on component, the market is segmented into hardware, software, and services. Based on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2021-2021-10-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2021-2021-10-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T23:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-singapore-to-develop-mobile-defence-systems-with-ghost-robotics.md",
       "title": "Singapore to develop mobile defence systems with Ghost Robotics",
       "excerpt": "Defence Science and Technology Agency says it has inked a partnership agreement with Philadelphia-based Ghost Robotics to test and develop technologies as well as use cases for legged robots for security,",
@@ -1096,49 +1148,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-microsoft-azure-identity-management-features-pricing.md",
-      "title": "Microsoft Azure Identity Management: Features & Pricing",
-      "excerpt": "User Access Admin: Enables you to manage all user access to Azure resources. Identifying inconsistent access patterns can help you protect your company, this can all be done using security monitoring, alerts and machine learning. Usage reports can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusinessedge.com/it-management/microsoft-azure-identity-management-features-pricing/",
-      "originalUrl": "https://www.itbusinessedge.com/it-management/microsoft-azure-identity-management-features-pricing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/10/Microsoft-Azure-dashboard.png",
-          "width": 1458,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business Edge",
-        "domain": "itbusinessedge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

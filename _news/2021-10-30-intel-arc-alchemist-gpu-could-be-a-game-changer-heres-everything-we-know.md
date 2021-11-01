@@ -3,10 +3,10 @@ category: news
 title: "Intel Arc Alchemist GPU could be a game changer — here’s everything we know"
 excerpt: "And, on paper, the upcoming Intel Arc Alchemist GPU looks like it could be just the ticket, offering similar performance to Nvidia’s RTX 3070. Expected in Q1 2022, the GPU is still some way away, but YouTuber Moore’s Law is Dead claims to have provided a first look as to what the card will look like — or what it currently looks like in its pre-production state,"
 publishedDateTime: 2021-10-30T11:37:00Z
-originalUrl: "https://www.tomsguide.com/uk/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
-webUrl: "https://www.tomsguide.com/uk/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
-ampWebUrl: "https://www.tomsguide.com/uk/amp/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
-cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
+originalUrl: "https://www.tomsguide.com/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
+webUrl: "https://www.tomsguide.com/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
+ampWebUrl: "https://www.tomsguide.com/amp/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
+cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/intel-arc-alchemist-gpu-could-be-a-game-changer-heres-everything-we-know"
 type: article
 quality: 57
 heat: -1
@@ -58,6 +58,6 @@ related:
         height: 721
         isCached: true
 
-secured: "PzdQIhAWZoHxaZsXLjpVFst5VOG/9l4LkB7Sqp3aL+PEGaey8PgCh48FbKYENv7V5ZEYISf+bFFpwo9yK4fKtAUH7LfKgQC8wkRGoJuv2xR000lxQQk2bJJvPRxEF2q7lRYZVHpZUIZIHy6o7Elfnj9sgyNLcpXqTOahIbl28OZqtZFyThq50gGxhrBWK4rIwKVIybQE1MNFPFEes9ars+dGWpI+TN++pJQb/ZacTYTCyv8S0li9FJqFODsm629R3Q+7Ui5rPymLslCQzTKYJlT5RsEnjXBc4iyE9IrzcdJLYUcny5MStpuUrtiEgP0QAEjr036Imt8UiGsw1W9AN1g4PycrBpYzhG5hPDsjn9tXg0g1m1OsTsfpaNrr8PH4KtHTWi+umeFSPCOOLbfx/J7adziuzeYHylt3mEX2FRd5xIIJFKtdCfGZdHcm3pIUpIaUCbhoLMynovqtFsSMFcRI0gNoCBAMHsuq+SX4XKo1JkrX/EVMOxmhfwKqqvw+6B9a4eXsdr4bOP1+iNOMOw==;uzdBxc4iw5Gu703+dW9OGg=="
+secured: "b/weUuzmlqlR0DcuCfKMnJo2jNnCJ3czayrPSZYvRagSJeXszOSSGdeUSzzNexsvl/1Frh9CWWdnfyLKvBS4OPZGnw5Vx340lhVBEUaxyJnhbCAEXZKb+3EqBF8901DaQ0RLjr/F+06LCtgusf6jb0SQ1v70TQ9ic859YnwAWP04bngJDntQumJAAxE28RxlZQEcemfIgmjpJ8LFKugLW5sPM+5SnCvaJ/vaq6ukg1gZiMeu6V+MLfHkcc8a7QtMPmKXgT1fkUlrdGC7UdpNREoVlQsUZIHQT9eRIYMzxqHbHEk9WpyqnmDQwDa/AqB5pCm4jlrclQ497UlxQMA56TfwDczF9K5ZSu9Bqn4SV7s=;pg32nXEwlp3WP4vmO7ZHPQ=="
 ---
 
