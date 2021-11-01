@@ -9,7 +9,7 @@ ampWebUrl: "https://en.mogaznews.com/Technology/amp/1852321"
 cdnAmpWebUrl: "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/Technology/amp/1852321"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Humans may get to talk to whales, courtesy artificial intelligence"
+    excerpt: "With the goal of 'talking' to the majestic marine animals, a project to listen to, contextualise and translate the communication of Sperm whales was recently launched by a team of international scientists."
+    publishedDateTime: 2021-11-01T11:26:00Z
+    webUrl: "https://www.wionews.com/world/humans-may-get-to-talk-to-whales-courtesy-artificial-intelligence-425846"
+    ampWebUrl: "https://www.wionews.com/world/humans-may-get-to-talk-to-whales-courtesy-artificial-intelligence-425846/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/humans-may-get-to-talk-to-whales-courtesy-artificial-intelligence-425846/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 57
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/04/16/137005-untitled-design-2.jpg"
+        width: 918
+        height: 506
+        isCached: true
   - title: "Humans could soon TALK to whales: Artificial intelligence will decode clicking sounds made by the marine animals and link each one to a specific context to create a language ..."
     excerpt: "The initiative, called Project CETI, is harnessing the power of artificial intelligence to interpret clicking sounds, or 'codas,' Sperm whales make to communicate with one another."
     publishedDateTime: 2021-10-28T16:53:00Z

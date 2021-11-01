@@ -684,6 +684,40 @@
       ]
     },
     {
+      "path": "_news/2021-10-18-pagaya-partners-with-sofi-to-expand-access-to-financial-services-and-create-opportunities-for-customers.md",
+      "title": "Pagaya Partners With SoFi to Expand Access to Financial Services and Create Opportunities for Customers",
+      "excerpt": "Pagaya Technologies Ltd. (“Pagaya”), a financial technology company that enables financial institutions to expand access to more customers through its",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211018005244/en/Pagaya-Partners-With-SoFi-to-Expand-Access-to-Financial-Services-and-Create-Opportunities-for-Customers",
+      "originalUrl": "https://www.businesswire.com/news/home/20211018005244/en/Pagaya-Partners-With-SoFi-to-Expand-Access-to-Financial-Services-and-Create-Opportunities-for-Customers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-finch-capitals-state-of-european-fintech-as-record-amounts-of-capital-is-raised-signs-emerging-that-the-fintech-blast-is-slowing.md",
       "title": "Finch Capital’s State of European FinTech: as Record Amounts of Capital Is Raised, Signs Emerging That the FinTech Blast Is Slowing",
       "excerpt": "Few deals drive FinTech volumes, record number of mid-market M&A transactions, but European capital markets remain elusive for FinTech Today Finch Capital issued the 6th edition of its annual State of European FinTech Report for 2021.",
@@ -1297,58 +1331,6 @@
         "name": "fintechmagazine",
         "domain": "fintechmagazine.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-how-fintech-is-changing-the-insurance-industry.md",
-      "title": "How FinTech Is Changing The Insurance Industry",
-      "excerpt": "Article take from FinTech Magazine. The insurance industry has always been a complicated but firmly rooted environment, but advancements in technology have collided with customer needs, creating systemic challenges for the insurance industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/how-fintech-changing-insurance-industry-banq-ai",
-      "originalUrl": "https://www.linkedin.com/pulse/how-fintech-changing-insurance-industry-banq-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEGg8v3R79fEA/article-cover_image-shrink_600_2000/0/1633965955561?e=1640217600&v=beta&t=Y63Cbkp6bJc1FUkTSXa-8DGMh9RFFzHHa0TScgIiSos",
-          "width": 744,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

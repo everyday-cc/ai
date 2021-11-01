@@ -2,6 +2,163 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-26-the-facebook-whistle-blower-brings-her-campaign-to-europe-after-her-disclosures.md",
+      "title": "The Facebook whistle-blower brings her campaign to Europe after her disclosures.",
+      "excerpt": "Beginning a European tour in Britain, the former Facebook manager was questioned by policymakers drafting tougher tech regulations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
+      "originalUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/25/business/25economy-briefing-facebook-haugen/25economy-briefing-facebook-haugen-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html",
+      "publishedDateTime": "2021-10-25T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-the-best-kirby-games-ranked-from-best-to-worst.md",
+      "title": "The best Kirby games, ranked from best to worst",
+      "excerpt": "Looking at Kirby's entire catalogue of games is overwhelming. Here's our best attempt to go through all the best Kirby games and rank them from best to worst.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/",
+      "originalUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/kirby-star-allies-review-4.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/?amp",
+      "publishedDateTime": "2021-10-25T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-when-a-ghost-seemingly-has-taken-your-ai-self-driving-car.md",
+      "title": "When A Ghost Seemingly Has Taken Your AI Self-Driving Car",
+      "excerpt": "In the spirit of Halloween, consider whether a ghost can drive off or more rightly spirit away with your AI self-driving car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616f63a78381218bc51e3a22%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2024%26cropY1%3D0%26cropY2%3D1408",
+          "width": 1200,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/",
+      "publishedDateTime": "2021-10-25T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-rent-a-robot-is-a-game-changer-for-manufacturing.md",
       "title": "‘Rent-A-Robot’ Is A Game Changer For Manufacturing",
       "excerpt": "For years, cobots have been shown to make manufacturing processes faster and more efficient, but research shows that fewer than 10% of manufacturers use them. The “rent-a-robot” model—which is gaining steam across the country—can change that.",
@@ -1063,134 +1220,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-5-ways-fintech-is-transforming-the-daily-routine.md",
-      "title": "5 Ways FinTech is Transforming the Daily Routine",
-      "excerpt": "FinTech is maturing and financial management has become simple and accessible like never before. , CGO at Smart IT discusses further",
-      "sourceUrl": null,
-      "webUrl": "https://www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/",
-      "originalUrl": "https://www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/amp/",
-      "publishedDateTime": "2021-10-25T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world.md",
-      "title": "AI can turn a collection of 2D images into an explorable 3D world",
-      "excerpt": "A neural network can turn a selection of photographs of a scene into a 3D world that can then be viewed from any angle, and could eventually be used in the movie industry",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/",
-      "originalUrl": "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/10/22172439/PRI_206258270.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/amp/",
-      "publishedDateTime": "2021-10-25T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues.md",
-      "title": "Tesla Pulls Its New Full Self-Driving Beta Due to Software 'Issues'",
-      "excerpt": "U.S. electric car maker Tesla Inc on Sunday rolled back the latest version of its Full Self-Driving (FSD) beta software, less than a day after its release, after users complained of false collision warnings and other issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/top-news/articles/2021-10-24/tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues",
-      "originalUrl": "https://www.usnews.com/news/top-news/articles/2021-10-24/tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-24T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

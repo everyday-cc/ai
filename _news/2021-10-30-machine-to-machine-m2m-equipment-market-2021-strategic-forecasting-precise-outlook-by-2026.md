@@ -30,6 +30,20 @@ related:
       name: Chip Design
       domain: chipdesignmag.com
     quality: 17
+  - title: "Global Artificial Intelligence Chatbots Market will experience a noticeable growth during the forecast period 2021-2027"
+    excerpt: "The Global Artificial Intelligence Chatbots Market initiative will look into current global market circumstances. MarketQuest.biz created this research to provide its customers with a comprehensive understanding of the market and to aid them in developing ..."
+    publishedDateTime: 2021-10-28T16:03:00Z
+    webUrl: "https://chipdesignmag.com/global-artificial-intelligence-chatbots-market-will-experience-a-noticeable-growth-during-the-forecast-period-2021-2027/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 13
+    images:
+      - url: "https://miro.medium.com/max/628/1*UTh2YKtQH07DSCxjHc2mHA.png"
+        width: 628
+        height: 363
+        isCached: true
 
 secured: "b0p6tbEtvFCeC/QOh6VTvd939SCdiOpRUg+Ifb+N6H6PG7y7kdtonuc9aUP9r7wQh0ZAQXdbODRtztd0EbM9HTNFys4mYhBM3p2XOLpXTWN7Yh2MJgC7Wqnhr5He9OQGkzGtEcfRLC3ulW6/soFimC53QnjtaFUHrFeJTncSK8LIacIldToCPmj54tzP+bCBn/DhHroRo4dqNNRQsALWQC7xBNW1BoMH1TtR3gdnV4KI/SwWQ0TihnleEN69U3LeGQ9v2FzufL9zyfKMCqDqgSpn3kGIAMyFRCPlsBpo7JsThyNjZTTq44zPFOPzfMj9VesUxD3JkwsvCHB2RaSAjGZdm9WPZnh2AEEd/8tRRgg=;5js61D257iImJb8eM6fTIQ=="
 ---

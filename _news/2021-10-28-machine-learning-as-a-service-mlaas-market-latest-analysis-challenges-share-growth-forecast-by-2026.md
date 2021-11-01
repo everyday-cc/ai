@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Global Artificial Intelligence Chatbots Market will experience a noticeable growth during the forecast period 2021-2027"
+    excerpt: "The Global Artificial Intelligence Chatbots Market initiative will look into current global market circumstances. MarketQuest.biz created this research to provide its customers with a comprehensive understanding of the market and to aid them in developing ..."
+    publishedDateTime: 2021-10-28T16:03:00Z
+    webUrl: "https://chipdesignmag.com/global-artificial-intelligence-chatbots-market-will-experience-a-noticeable-growth-during-the-forecast-period-2021-2027/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 13
+    images:
+      - url: "https://miro.medium.com/max/628/1*UTh2YKtQH07DSCxjHc2mHA.png"
+        width: 628
+        height: 363
+        isCached: true
   - title: "Machine-to-Machine (M2M) Equipment Market 2021 Strategic Forecasting – Precise Outlook By 2026"
     excerpt: "The KRTI 4.0(TM) framework applies AI, cognitive/machine learning and machine-to-machine (M2M) capabilities to the industrial environment and addresses complex and expensive lifecycle management challenges faced by industry, utilities, transportation and ..."
     publishedDateTime: 2021-10-30T07:00:00Z

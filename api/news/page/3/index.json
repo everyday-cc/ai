@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-28-how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate.md",
+      "title": "How TourRadar automates the translation process using Amazon EventBridge and Amazon Translate",
+      "excerpt": "This is a guest post written by Gergely Kadi, Senior Systems Engineer and Martin Petraschek-Stummer, Senior Data Engineer at TourRadar. TourRadar is a travel marketplace to connect people to life-enriching travel experiences. When it was launched, TourRadar only offered tours and content in English.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/23/ML-2804-IMG1.png",
+          "width": 931,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T09:51:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-elon-musk-announces-tesla-full-self-driving-beta-104-update-as-rollout-slows-down.md",
+      "title": "Elon Musk announces Tesla Full Self-Driving Beta 10.4 update as rollout slows down",
+      "excerpt": "Elon Musk has announced the upcoming release of Tesla’s Full Self-Driving Beta 10.4 update as Tesla slows down the rollout. Earlier this week, Tesla started rolling out Full Self-Driving Beta 10.3. The update came after a false start last weekend when Tesla pushed the update with some problems and ended up reverting back to 10.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/",
+      "originalUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/",
+      "publishedDateTime": "2021-10-28T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-living-with-robots-an-excellent-non-technical-overview-of-robotics.md",
       "title": "“Living With Robots” – An Excellent Non-Technical Overview Of Robotics",
       "excerpt": "This is a review of the third book sent to me recently by MIT Press, and the book is the best of the bunch. “Living With Robots,” by Ruth Aylett and Patricia A. Vargas is a good, non-technical book that discusses a number of issues with robots in human ...",
@@ -693,7 +798,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1074,35 +1179,26 @@
       ]
     },
     {
-      "path": "_news/2021-10-27-mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster.md",
-      "title": "Mux Partner Program Launches to Help Companies Bring Modern Video Experiences to Market Faster",
-      "excerpt": "From content delivery network (CDN) offerings like Fastly's edge cloud servers to popular content platforms, including Contentful, Sanity, and Strapi, Mux's Platform Partners can help developers ...",
+      "path": "_news/2021-10-28-abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service.md",
+      "title": "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service",
+      "excerpt": "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company",
       "sourceUrl": null,
-      "webUrl": "https://www.wjhg.com/prnewswire/2021/10/27/mux-partner-program-launches-help-companies-bring-modern-video-experiences-market-faster/",
-      "originalUrl": "https://www.wjhg.com/prnewswire/2021/10/27/mux-partner-program-launches-help-companies-bring-modern-video-experiences-market-faster/",
+      "webUrl": "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wjhg-prod.cdn.arcpublishing.com/resizer/0BLpjpxQZnTlpxtbi8Sym045azI=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/HF77FU6G7AQGBYAFLHQ3AIAA24.jpg",
-          "width": 980,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T09:12:00-07:00",
+      "publishedDateTime": "2021-10-27T10:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WJHG",
-        "domain": "wjhg.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1112,113 +1208,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu.md",
-      "title": "Intel partners with Google to deploy ‘Mount Evans’ ASIC-based GPU",
-      "excerpt": "Intel has announced that it partnered with Google to deploy the chipmaker's IPU across Google Cloud infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/",
-      "originalUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1208499003-e1631641886627.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/amp/",
-      "publishedDateTime": "2021-10-27T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-abacusai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases.md",
-      "title": "Abacus.ai snags $50M Series C as it expands into computer vision use cases",
-      "excerpt": "Abacus.ai wants to build an AI platform that simplifies machine learning model creation, while still leaving room for power users. Today the company announced a $50 million Series C. At the same time,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
-      "originalUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-imsev208-063.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
-      "publishedDateTime": "2021-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

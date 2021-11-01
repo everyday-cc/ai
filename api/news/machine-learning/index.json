@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-01-how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team.md",
+      "title": "How to build scalable AI in 3 steps: Lessons from Capital One's ML team",
+      "excerpt": "\"When it's time to actually go to production, and then keep that model up and running 24-7 in some mission-critical application like transaction fraud, that is the hardest part,\" says Abhijit Bose, head of Capital One's Center for Machine Learning and Enterprise ML Platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/",
+      "publishedDateTime": "2021-11-01T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons.md",
       "title": "Activ Surgical harnesses AI and machine learning to collaborate with surgeons",
       "excerpt": "With machine learning, Activ Surgical's autonomous model can annotate a one-hour surgical video 20,000 times faster than humans can.",
@@ -51,49 +94,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-fda-issues-good-machine-learning-practice-guiding-principles.md",
-      "title": "FDA Issues Good Machine Learning Practice Guiding Principles",
-      "excerpt": "On October 27, 2021, pursuant to the Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device Action Plan (Action Plan), the US Food and Drug Administration (FDA) released its Good Machine Learning Practice for Medical Device ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/fda-issues-good-machine-learning-practice-guiding-principles",
-      "originalUrl": "https://www.natlawreview.com/article/fda-issues-good-machine-learning-practice-guiding-principles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/fda-issues-good-machine-learning-practice-guiding-principles?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/fda-issues-good-machine-learning-practice-guiding-principles?amp",
-      "publishedDateTime": "2021-10-29T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -236,7 +236,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {

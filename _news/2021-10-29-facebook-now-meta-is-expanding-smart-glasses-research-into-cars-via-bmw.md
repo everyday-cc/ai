@@ -74,20 +74,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
-  - title: "Facebook wants to turbo-charge smart glasses. Researcher wonders if it can do it right"
-    excerpt: "A computer security and privacy researcher looks at Facebook's smart-glasses project and found concerns for the recordable world as well as for the recorder."
-    publishedDateTime: 2021-10-27T17:47:00Z
-    webUrl: "https://www.biometricupdate.com/202110/facebook-wants-to-turbo-charge-smart-glasses-researcher-wonders-if-it-can-do-it-right"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 16
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "8ST/w/nsJWVsAs+pIKnDF4pKZyo0J5sxiXGGYucvGN1yjgU/hKgveZOxuFFm3PuOtQNtfLBQIFDXkLA2Hf5RCdViBea76iHS6Z2LLIAgkER+mmnw55fwY/2OOO8Uh4F9qv41i7lxPg9zTq34C2BwD+rfA1f7SaXTo9rFv7inqq3Coos4xDt5XS+arYAUWlDkWPDompUOI+sGmPkJWG0ckgYbOsXKVDNqUxDAxIAM04JoPZYE74Qpk2IlvpXMoZZArsGCR2sSctewqRqwToSuUXUNG65vIAnARfZfCOc9EYUb/dHAjpa8ELxS7d1oJYtb4QDXHJVNR5hsIHdag4nUxqiKh3oraQpSubDz7TiYy4UiKanGrHBerVWeH9ifU8fzgjNES9bNwyd4v6phLRHYrWn8JE9M4bq2FfxRyowmdQ2KOPjnavKAjnWAvEQacbJ8cuy3pxPOBYWbCRudNvHf872cUTA8tvYZyUzSKH+Fd9esWunB0/OlBE33AyfM1EwARaUkjcGZlLIeKnc7oCysPQ==;jUbgunqo6UQF0rQ6d6aQfA=="
 ---

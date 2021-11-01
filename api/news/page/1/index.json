@@ -2,6 +2,142 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-01-humans-may-get-to-talk-to-whales-courtesy-artificial-intelligence.md",
+      "title": "Humans may get to talk to whales, courtesy artificial intelligence",
+      "excerpt": "With the goal of 'talking' to the majestic marine animals, a project to listen to, contextualise and translate the communication of Sperm whales was recently launched by a team of international scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wionews.com/world/humans-may-get-to-talk-to-whales-courtesy-artificial-intelligence-425846",
+      "originalUrl": "https://www.wionews.com/world/humans-may-get-to-talk-to-whales-courtesy-artificial-intelligence-425846",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/04/16/137005-untitled-design-2.jpg",
+          "width": 918,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wionews.com/world/humans-may-get-to-talk-to-whales-courtesy-artificial-intelligence-425846/amp",
+      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/humans-may-get-to-talk-to-whales-courtesy-artificial-intelligence-425846/amp",
+      "publishedDateTime": "2021-11-01T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WION",
+        "domain": "wionews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-three-ways-a-causal-approach-can-improve-trust-in-ai.md",
+      "title": "Three Ways A Causal Approach Can Improve Trust In AI",
+      "excerpt": "If they win the trust of their workforce and customers, organizations will be well on the road to successfully adopting AI and automation — and delivering the business transformation they’ve aspired to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/three-ways-a-causal-approach-can-improve-trust-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/three-ways-a-causal-approach-can-improve-trust-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/three-ways-a-causal-approach-can-improve-trust-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/01/three-ways-a-causal-approach-can-improve-trust-in-ai/amp/",
+      "publishedDateTime": "2021-11-01T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team.md",
+      "title": "How to build scalable AI in 3 steps: Lessons from Capital One's ML team",
+      "excerpt": "\"When it's time to actually go to production, and then keep that model up and running 24-7 in some mission-critical application like transaction fraud, that is the hardest part,\" says Abhijit Bose, head of Capital One's Center for Machine Learning and Enterprise ML Platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/",
+      "publishedDateTime": "2021-11-01T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-arv-hosts-ai-robotics-hackathon-2021-open-house.md",
       "title": "ARV hosts AI & Robotics Hackathon 2021: Open House",
       "excerpt": "AI and Robotics Ventures (ARV), the technology development and venture building spin-off from PTTEP, organized special panel discussion sessions at AI & Robotics Hackathon 2021: Open House in two topics: Quantum Cryptography: The Future of Cyber Security,",
@@ -1086,143 +1222,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-fda-issues-good-machine-learning-practice-guiding-principles.md",
-      "title": "FDA Issues Good Machine Learning Practice Guiding Principles",
-      "excerpt": "On October 27, 2021, pursuant to the Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device Action Plan (Action Plan), the US Food and Drug Administration (FDA) released its Good Machine Learning Practice for Medical Device ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/fda-issues-good-machine-learning-practice-guiding-principles",
-      "originalUrl": "https://www.natlawreview.com/article/fda-issues-good-machine-learning-practice-guiding-principles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/fda-issues-good-machine-learning-practice-guiding-principles?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/fda-issues-good-machine-learning-practice-guiding-principles?amp",
-      "publishedDateTime": "2021-10-29T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack-human-beings.md",
-      "title": "Expert warns that artificial intelligence could soon be able to 'hack' human beings",
-      "excerpt": "A world-renowned historian and philosopher is warning that humanity needs to begin regulating artificial intelligence and data collection globally or risk being “hacked.” In an upcoming inte ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack",
-      "originalUrl": "https://thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ca_brainhandwritingstudy_051321istock_1.jpg",
-          "width": 1440,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack?amp",
-      "publishedDateTime": "2021-10-29T15:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-build-conversational-experiences-for-retail-order-management-using-amazon-lex.md",
-      "title": "Build conversational experiences for retail order management using Amazon Lex",
-      "excerpt": "Retailers want to stay engaged with their customers as they move seamlessly between digital channels and physical storefronts. By delivering personalized and consistent experiences across a range of retail touchpoints, companies can drive brand loyalty. Customers contact retailers’ customer support for",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-retail-order-management-using-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-retail-order-management-using-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/Lex-Retail-image001-961x630.png",
-          "width": 961,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-29T15:04:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

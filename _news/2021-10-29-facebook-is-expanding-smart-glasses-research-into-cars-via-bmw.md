@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototy
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
-  - title: "Facebook wants to turbo-charge smart glasses. Researcher wonders if it can do it right"
-    excerpt: "A computer security and privacy researcher looks at Facebook's smart-glasses project and found concerns for the recordable world as well as for the recorder."
-    publishedDateTime: 2021-10-27T17:47:00Z
-    webUrl: "https://www.biometricupdate.com/202110/facebook-wants-to-turbo-charge-smart-glasses-researcher-wonders-if-it-can-do-it-right"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 16
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "sAwUFdtBIb2PTcfy++e4KpQ7+r6Q3gfnI6oXUW2PcqOFOu7uz8OWAulKXrGva/BEtbLZSh0Sy7F1m1Z6Xlri8z8LXODh1w/pfhRG/tdrMwr5DNCbzVwT23J2igioptA8UNd+oQg6fPcR7yD5C/xr+eDET1Wr2fRtWV1fIpM1YII85qfHiFvaAVTvQBwHVNxGk+m2+G0z75r1mWtbgK/C0z+82wCezwqpeaj7FwehTgI+hSCOpxKjTc/7L9Go1Ld5yECYTKgEpvx2tlSDTZwaa71DGECz1Q8dCCs5WMOrx7k2DRBKtjyfDXthhTEy1FkVWKFCI7HgkJHn/juAmyUBvzUPh9Qp5Dc959cNgEZngw0=;FgV8sFVe1JLBg8yF0fQXdA=="
 ---

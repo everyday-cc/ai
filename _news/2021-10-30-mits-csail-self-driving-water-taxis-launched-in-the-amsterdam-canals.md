@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/29/mit-csail/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/29/mit-csail/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Self-driving \"Roboats\" tested on Amsterdam's canals"
-    excerpt: "Soon visitors to Amsterdam may spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash."
-    publishedDateTime: 2021-10-27T19:00:00Z
-    webUrl: "https://omaha.com/news/world/self-driving-roboats-tested-on-amsterdams-canals/video_2a5152c4-d0fd-55c8-9470-b3be0e4b90a9.html"
-    ampWebUrl: "https://omaha.com/news/world/self-driving-roboats-tested-on-amsterdams-canals/video_2a5152c4-d0fd-55c8-9470-b3be0e4b90a9.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/self-driving-roboats-tested-on-amsterdams-canals/video_2a5152c4-d0fd-55c8-9470-b3be0e4b90a9.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
   - title: "MIT’s Self-Driving Boat Is a Futuristic Robotaxi on Water, Ready to Operate in Amsterdam"
     excerpt: "MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ... According to the project’s representatives, this self-driving ship could easily operate 100% autonomously, 24/7, but for safety reasons, it is being monitored by an onshore ..."
     publishedDateTime: 2021-10-29T04:07:00Z

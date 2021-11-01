@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/fda-issues-good-machine-learnin
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/fda-issues-good-machine-learning-practice-guiding-principles?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The National Law Review
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Regulators release 10 principles for good machine learning practice"
-    excerpt: "The document, which was issued by the US Food and Drug Administration (FDA), Health Canada, and the UK’s Medicines & Healthcare products Regulatory Agency (MHRA), is aimed at informing the work of the International Medical Devices Regulators Forum (IMDRF) and other international standards organizations as they tackle regulation of a growing number of medical devices that incorporate machine learning and artificial intelligence."
-    publishedDateTime: 2021-10-27T18:15:00Z
-    webUrl: "https://www.raps.org/news-and-articles/news-articles/2021/10/regulators-release-10-principles-for-good-machine"
-    type: article
-    provider:
-      name: RAPS
-      domain: raps.org
-    quality: 39
-    images:
-      - url: "https://www.raps.org/RAPS/media/Advertising/2021/House/2021-Euro-Convergence-Promo-Graphics-Google-Bnner-300x250.png"
-        width: 300
-        height: 250
-        isCached: true
   - title: "FDA releases best practices for machine learning in medical device development"
     excerpt: "The US Food and Drug Administration (FDA), Health Canada, and the UK’s Medicines and Healthcare products Regulatory Agency (MHRA) released ten guiding principles for the use of machine learning in medical device development. Artificial intelligence (AI ..."
     publishedDateTime: 2021-10-29T17:27:00Z

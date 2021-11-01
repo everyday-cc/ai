@@ -69,20 +69,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Facebook wants to turbo-charge smart glasses. Researcher wonders if it can do it right"
-    excerpt: "A computer security and privacy researcher looks at Facebook's smart-glasses project and found concerns for the recordable world as well as for the recorder."
-    publishedDateTime: 2021-10-27T17:47:00Z
-    webUrl: "https://www.biometricupdate.com/202110/facebook-wants-to-turbo-charge-smart-glasses-researcher-wonders-if-it-can-do-it-right"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 16
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "l45BbhWcFJSBwFSPCUsU6p4wXMCUcjLtYXFg8z0Iw+ZIowoOSy0c2CqGDYeHGMDWtox4wTqtZJkVd8cw/T1dLlS2rt0E+Ej21Hh+CU3r7L8PVIBOnxriHA7GE/VLS/29zBII85NZGhRMRA6w9vTr81KPwkIzmdZXOYQQGGUWQEKNLxe1+AvrNDkug8877sbKQ2f2mlj4kXCEV9CNFW1LYJSxe9dwjF0EKKXwZlA4Iks1JmMxYr8VLCB0oP3brTcOMWy/G4uKw2j0iyFKEIKOQRDaLcC61DRVqvNPmqGNiuIDsa8OnTOLdOxQ3mHwDArR0BVfME7h7x6G3k3t9AdM/MYP7np8Du+MGnV6xdYKGMh2gLhxJkOehqoPINgUUwgfUxvUNG8NkwLNo/gT6Kpf50+F8VrWrvlMnK6x02qLiOMvR4ek/ZspVwL3najk9VWd7pYwET0rGlk9azuuSmpTI9zRrglwo9cvUb6LwS4lkKYVoKycI397eSJzd7atbX/bc/gW3ggvNHnFvRcUQIpAWw==;81IaX3yYAhpiWD9CUpy5TQ=="
 ---

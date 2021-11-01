@@ -24,20 +24,26 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision market size Perceive Substantial Growth during 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period."
-    publishedDateTime: 2021-10-27T18:02:00Z
-    webUrl: "https://www.pr-inside.com/computer-vision-market-size-perceive-substantial-growth-during-r4852547.htm"
+  - title: "Machine Learning as a Service (MLaaS) Market latest Analysis, Challenges, Share, Growth Forecast By 2026"
+    excerpt: "United States/WA: The global Machine Learning as a Service (MLaaS) market is estimated to account for US$ 38,063.0million by 2027 This data in statistical form covers a wide range of Machine Learning as a Service (MLaaS) industry criteria and standards ..."
+    publishedDateTime: 2021-10-28T10:14:00Z
+    webUrl: "https://chipdesignmag.com/machine-learning-as-a-service-mlaas-market-latest-analysis-challenges-share-growth-forecast-by-2026/"
     type: article
     provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 39
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 17
+  - title: "Machine-to-Machine (M2M) Equipment Market 2021 Strategic Forecasting – Precise Outlook By 2026"
+    excerpt: "The KRTI 4.0(TM) framework applies AI, cognitive/machine learning and machine-to-machine (M2M) capabilities to the industrial environment and addresses complex and expensive lifecycle management challenges faced by industry, utilities, transportation and ..."
+    publishedDateTime: 2021-10-30T07:00:00Z
+    webUrl: "https://www.openpr.com/news/2448472/machine-to-machine-m2m-equipment-market-2021-strategic"
+    ampWebUrl: "https://www.openpr.com/amp/2448472/machine-to-machine-m2m-equipment-market-2021-strategic"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2448472/machine-to-machine-m2m-equipment-market-2021-strategic"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 12
 
 secured: "3ur59BTGc1xrF/BJ8TjNxveZbVa7yNfn4AFvElfRyhNqSoOAEm8x/nuojq0C5XJyJ07yZG/9JIKwWijxgkvp7ozZqzz43kzlDwmN8pZZ/4RxCsQNHodSwSKxuvs4IG+IpVYNvbOTKkZ4XO+0TsUgAodYAjipW11D61AUU2T1WI2UQryRBMkKmpcwzga6/hG8FLZ86rsiBnG3tSdIvpN7ZWSuu3eMXqpKyQ1Bbr6YL79sBsRAIRmhtHGLID4lwR2H34nbcFVqm3fDgJH+JxCY32iejdluhFYZbBCIK7ZVC/1adrI5MC2KzYfV/Y6VeT+bRw/AukVUaE5w/7xouR4rkQOL3czli4FtTlgPClNzglg=;yMZcl4ddDDeOgQAWCbD+Pg=="
 ---

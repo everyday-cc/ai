@@ -55,17 +55,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Self-driving \"Roboats\" tested on Amsterdam's canals"
-    excerpt: "Soon visitors to Amsterdam may spot a self-driving watercraft the size of a small car cruising silently through its ancient canals, ferrying passengers or transporting goods or trash."
-    publishedDateTime: 2021-10-27T19:00:00Z
-    webUrl: "https://omaha.com/news/world/self-driving-roboats-tested-on-amsterdams-canals/video_2a5152c4-d0fd-55c8-9470-b3be0e4b90a9.html"
-    ampWebUrl: "https://omaha.com/news/world/self-driving-roboats-tested-on-amsterdams-canals/video_2a5152c4-d0fd-55c8-9470-b3be0e4b90a9.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/self-driving-roboats-tested-on-amsterdams-canals/video_2a5152c4-d0fd-55c8-9470-b3be0e4b90a9.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
 
 secured: "4BO9amboQQD1kVK27x2xQtPkzhk9gE4LKDmHTprUBghLupVVgoiDIz0F3Es9VgZHMVx+N+NjwrnWgRfqcWMsOZSmrOAhYaQ1xaG2kkg1sUtZh2XKCV0czRejWMYRLpI3ayGP2ook8958sdPn4k7Sh4fApZVPORnE1Dlfmk5WSTWLRfVJFLuV5ULrfcHd0tDhRf8+bmoeczt+QHSyt0aHoyisHhcAppRH4RFR4bL2PDdDBDriJN3ZAxnNrZsTI3+aVzw+6UxF39ifPBEeCPFKqJNp52Zdnq/WrES2+ZXkbaU++4RObQUeBKazGTjKCpML4mirZz1NRetJz2UHHzpqovJljZvkdWIFWkC9S4kUIfOKz8S0APyB8fh9xArBM2YlSPQLC2aeeN0aaztAOTGSM2fGdcE729kfCxiAfnttk5MF9cixpaYcWVy9wIREhKZGUBRgdRp02EoEE7vmnhiwR3Uh2gDP2K4ki/TE8mIVBYM7gWzxB0JVwOCRvjil74zTVDbDWWg8Ov80l4mmctcBEQ==;DiKFfyvjzd0v94Md22XS6w=="
 ---

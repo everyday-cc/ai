@@ -2,6 +2,134 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-10-25-5-ways-fintech-is-transforming-the-daily-routine.md",
+      "title": "5 Ways FinTech is Transforming the Daily Routine",
+      "excerpt": "FinTech is maturing and financial management has become simple and accessible like never before. , CGO at Smart IT discusses further",
+      "sourceUrl": null,
+      "webUrl": "https://www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/",
+      "originalUrl": "https://www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg",
+          "width": 880,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/amp/",
+      "publishedDateTime": "2021-10-25T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world.md",
+      "title": "AI can turn a collection of 2D images into an explorable 3D world",
+      "excerpt": "A neural network can turn a selection of photographs of a scene into a 3D world that can then be viewed from any angle, and could eventually be used in the movie industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/",
+      "originalUrl": "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/10/22172439/PRI_206258270.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/amp/",
+      "publishedDateTime": "2021-10-25T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues.md",
+      "title": "Tesla Pulls Its New Full Self-Driving Beta Due to Software 'Issues'",
+      "excerpt": "U.S. electric car maker Tesla Inc on Sunday rolled back the latest version of its Full Self-Driving (FSD) beta software, less than a day after its release, after users complained of false collision warnings and other issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/top-news/articles/2021-10-24/tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues",
+      "originalUrl": "https://www.usnews.com/news/top-news/articles/2021-10-24/tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-24T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier.md",
       "title": "How Moveworks’ AI platform broke through the multilingual NLP barrier",
       "excerpt": "Multilingual NLP in an enterprise context -- using no scripting or system-integration prework -- is the future of conversational AI.",
@@ -1048,136 +1176,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-embedded-news-week-robotics-rainforests-and-iot-security.md",
-      "title": "embedded news week: robotics, rainforests and IoT security",
-      "excerpt": "A roundup of this week’s embedded news includes robotics, IoT security and onboarding, automotive wireless charging and building automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
-      "originalUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/10/Infineon-Rain-Forest-Connection.jpg",
-          "width": 1700,
-          "height": 1130,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-eu-proposed-regulatory-regime-for-artificial-intelligence-ai-could-set-global-standard.md",
-      "title": "EU Proposed Regulatory Regime for Artificial Intelligence (AI) Could Set Global Standard",
-      "excerpt": "The European Union (EU) has launched the world’s first comprehensive legislative package to regulate AI.  The Artificial Intelligence Act (AIA), which is currently progressing through the E",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard",
-      "originalUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard?amp",
-      "publishedDateTime": "2021-10-22T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-arm-aiming-for-a-huge-ai-performance-boost-with-next-gen-gpu-architecture.md",
-      "title": "Arm Aiming For A Huge AI Performance Boost With Next-Gen GPU Architecture",
-      "excerpt": "As AI and machine learning capabilities play bigger roles in everyday tasks, companies like Arm must push the performance envelope.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
-      "originalUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/56582/content/small_arm_gpu_ai_brain.jpg",
-          "width": 708,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
-      "publishedDateTime": "2021-10-22T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

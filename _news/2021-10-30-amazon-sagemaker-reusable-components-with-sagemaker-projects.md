@@ -39,20 +39,6 @@ related:
         width: 721
         height: 421
         isCached: true
-  - title: "Build Custom SageMaker Project Templates – Best Practices"
-    excerpt: "SageMaker Projects give organizations the ability to easily setup and standardize developer environments for data scientists and CI/CD systems for MLOps Engineers. With SageMaker Projects, MLOps engineers or organization admins can define templates which bootstrap the ML Workflow with source version"
-    publishedDateTime: 2021-10-27T18:10:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-custom-sagemaker-project-templates-best-practices/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/12/ML-5456-triggeringpipeline-1260x532.png"
-        width: 1260
-        height: 532
-        isCached: true
   - title: "Enhance your machine learning development by using a modular architecture with Amazon SageMaker projects"
     excerpt: "One of the main challenges in a machine learning (ML) project implementation is the variety and high number of development artifacts and tools used. This includes code in notebooks, modules for data processing and transformation, environment configuration, inference pipeline, and orchestration code."
     publishedDateTime: 2021-10-27T21:49:06Z

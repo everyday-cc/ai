@@ -7,7 +7,7 @@ originalUrl: "https://www.publicnow.com/view/FF3250CA7F72041F26572DEFD5D3616A787
 webUrl: "https://www.publicnow.com/view/FF3250CA7F72041F26572DEFD5D3616A787DED5F"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
-    excerpt: "As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue, Index Ventures, and Alkeon. Series C ..."
-    publishedDateTime: 2021-10-27T19:01:00Z
-    webUrl: "https://www.wdbj7.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 32
 
 secured: "YJBMH1QU7yyig1sxCbbgjdDlaTbOSIzQdMPwT6FyBBSeUNQOy/Y9pwpBVWsMAe41RmCT0JbmZGHH/PM5VdlSGP/lYnMdDDdZSQknu6nFud4GuX+o566daEuwHMUjCnelrVGdZZH8sdXb6wAdWvNC/H+CkuW77yE4cxca8tD+VXoXv/6oZqwTGdYu0497Ltkmg46sd2Y9mQeFvCYkGnvK8+cdv+K8TMvodnBR61mMANZXNwFnrcTIcfCuh/l7b3Ev/HIWEeKM50kDEUA9RT4M8MIarIe72oef1rySzm4s8FXCA8OrtNmaiqerdppNg2o9Or/6PyXfmpKZt4pdYjFC2uSnVwYAT7s3W0BdWgijo/E=;e2TMLJX+vpzuHPs09a86Rg=="
 ---
