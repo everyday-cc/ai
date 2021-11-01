@@ -84,20 +84,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "New Fintech Regulations to Be Discussed by the U.S. Congress"
-    excerpt: "A congressional committee is anticipated to address the need for a new regulatory approach to financial technology in America"
-    publishedDateTime: 2021-10-27T08:31:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/new-fintech-regulations-be-discussed-us-congress"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/picture%20of%20the%20US%20capitol%20building%20blended%20with%20the%20American%20flag.jpg.png?itok=jIyyI_P5"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Revolutionary Ways Fintech is Boosting the Property Industry"
     excerpt: "Discover the most disruptive ways fintech expands the property sector, from digital-only lending and fractional ownership, to property-backed stablecoins"
     publishedDateTime: 2021-10-29T09:10:00Z
@@ -141,6 +127,6 @@ related:
         height: 400
         isCached: true
 
-secured: "3rkaNoN8B01GJ0uweZJ45KxRGYG/TVL4kXZzjth23nZ08IDbVVPardVNIaUPEsZK+dQnGmhBapKo397iklJcw49JXQHdZ8vU/vVa4Mq7r0y49yHA2Z2zwI04fBpaI/xSVPKU+q6rkNCrQ200yFnTfKPcCK52Ync6J9QgRe4kil3h7S6QnNRsn3ArYPpKnZ6ruuOYYLds6qR/7eGNRzVb1pWHRJiSZZIEpEGVIp9V0z32K+L2JMXez8ES0jk/sx8V6Jocd57joe5/OF87zd98lIpuajCLdTT8gsacrXMDNa7FAHgrdtSY19w9mT+aezmfXxiwRcPrlLo6R5X8CYmc5YwdBsZUxCoM127IkhB7r1Y=;okbk+BohxIgtMtOTKtMXtA=="
+secured: "zy7tSvfghsZJTMB+7rhlHrrwKq4BqUZfbP5laRpiYGaB+a9P39tKRc4EsZTvQ/IXI5tlt3PzOX+yrM61BLtmq12j4JmfltyUT1OXKLiImptWVCrjKgQz5yEOV6Eqw7tck0lLBI+TcEswhEjzbZJZE1PG4/jU6jb7AifWGXhEti69VNxljY7r+eMcMgwo0mzP6qxKXgWa2XSIyRwzthGbD9ONzexHGgrweSmhN9jX6vFE4W7Ur6JR25Yh7+ZGH5hkvkC/zfkOUCUnPZsfW1RE0nW1UQ9x//pv2G07IHqQdhtsEHteppFJXgyL8lz4y42VSK6Bnk17vMF8biT/JR+lIQFILruJb2+ymH6Z/NBBvZQvdmujXEvI02aAL+sd1LTaFL0U7ZBh2Tq9YdwWvChuam6lsJCPJ+YNZ2hXUb6cwfDe2r7nnRlpN5JQ6q6cXu/Pw20Zh15VoWwXaMNN5Phji5E+hvpJXbU1cvTtAMBTHMqFG+142HhcaaIXW2J6dX4LZY+L16V/41L3yVgLqJuDLw==;+MlopM+MJBXSh/X9H8ld4A=="
 ---
 

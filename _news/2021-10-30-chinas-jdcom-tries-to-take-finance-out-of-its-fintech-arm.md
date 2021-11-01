@@ -84,20 +84,6 @@ related:
         width: 1280
         height: 1214
         isCached: true
-  - title: "New Fintech Regulations to Be Discussed by the U.S. Congress"
-    excerpt: "A congressional committee is anticipated to address the need for a new regulatory approach to financial technology in America"
-    publishedDateTime: 2021-10-27T08:31:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/new-fintech-regulations-be-discussed-us-congress"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/picture%20of%20the%20US%20capitol%20building%20blended%20with%20the%20American%20flag.jpg.png?itok=jIyyI_P5"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Revolutionary Ways Fintech is Boosting the Property Industry"
     excerpt: "Discover the most disruptive ways fintech expands the property sector, from digital-only lending and fractional ownership, to property-backed stablecoins"
     publishedDateTime: 2021-10-29T09:10:00Z

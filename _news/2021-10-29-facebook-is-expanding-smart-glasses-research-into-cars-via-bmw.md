@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototy
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Facebook is spending more, and these companies are getting the money"
-    excerpt: "Facebook Inc. plans a spending spree for next year that could give a boost to networking providers and chip companies. The social-media giant disclosed Monday that it expects capital expenditures of $29 billion to $34 billion in 2022,"
-    publishedDateTime: 2021-10-27T07:22:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20211027352/facebook-is-spending-more-and-these-companies-are-getting-the-money"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
 
 secured: "sAwUFdtBIb2PTcfy++e4KpQ7+r6Q3gfnI6oXUW2PcqOFOu7uz8OWAulKXrGva/BEtbLZSh0Sy7F1m1Z6Xlri8z8LXODh1w/pfhRG/tdrMwr5DNCbzVwT23J2igioptA8UNd+oQg6fPcR7yD5C/xr+eDET1Wr2fRtWV1fIpM1YII85qfHiFvaAVTvQBwHVNxGk+m2+G0z75r1mWtbgK/C0z+82wCezwqpeaj7FwehTgI+hSCOpxKjTc/7L9Go1Ld5yECYTKgEpvx2tlSDTZwaa71DGECz1Q8dCCs5WMOrx7k2DRBKtjyfDXthhTEy1FkVWKFCI7HgkJHn/juAmyUBvzUPh9Qp5Dc959cNgEZngw0=;FgV8sFVe1JLBg8yF0fQXdA=="
 ---

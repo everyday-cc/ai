@@ -39,20 +39,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Qualcomm updates Snapdragon 4, 6, 7 series with new chips"
-    excerpt: "Qualcomm announced new Snapdragon smartphone processors across its 4, 6 and 7 series. Features from the top-end 8 series have been brought to the lower ranges, in order to address demand for popular segments in the premium and mid-range 5G and 4G"
-    publishedDateTime: 2021-10-27T07:45:00Z
-    webUrl: "https://www.telecompaper.com/news/qualcomm-updates-snapdragon-4-6-7-series-with-new-chips--1401995"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 39
-    images:
-      - url: "https://www.telecompaper.com/content/qualcomm_snapdragon__5g.png"
-        width: 568
-        height: 439
-        isCached: true
 
 secured: "qeyiS/nDBa02/n93Mx4HpdiwUHANOmw41fELFZAfEsE5SV3m+UT59cEJuExI2OlMFzSxFaNnLsY9jkSvdKOvoM9mMVzYI7HevtnLQDviuMqZA3JIW3NwU2qXQxJGs4bRGJlvGG6je+PLP1MwRDmPti+C6KoA4cIdgl8CgIr8R6mQjzsKg387rzxfpk8GlCyOI3tfuSEokJqSeaEQL+eTCHMnBfpsMbJvBaKDz93tCfRNTGrC0hnzI66eSVMU33ld0ILgI0W3gf69Cw9xuxB1ZKVmSuYsFszjYL8LF/mdQJov7PCuMRfzKd6UZLqTpltd2qBVmJneMkOHz7LEnx675sUpU/WbifyGmBmsqHGo+fS0mO0aDEm5eQ4+Y0K/gUU8rW1xwoVFW14cuifYsd7C4YGRnZEYmPjOvjKSHQV77Ouu0XJO0zJWWztApXWzMl7IFJKnawnQ8RnUMSROBbUt1hzeAMERQGASxYjSaJeOlRBL68KeTY482ONMaRJZjmRsy30/sdB3b6sO0JdDoPqiCw==;XEWuZiOGn2o26DwrQphg8A=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm updates Snapdragon 4, 6, 7 series with new chips"
-    excerpt: "Qualcomm announced new Snapdragon smartphone processors across its 4, 6 and 7 series. Features from the top-end 8 series have been brought to the lower ranges, in order to address demand for popular segments in the premium and mid-range 5G and 4G"
-    publishedDateTime: 2021-10-27T07:45:00Z
-    webUrl: "https://www.telecompaper.com/news/qualcomm-updates-snapdragon-4-6-7-series-with-new-chips--1401995"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 39
-    images:
-      - url: "https://www.telecompaper.com/content/qualcomm_snapdragon__5g.png"
-        width: 568
-        height: 439
-        isCached: true
   - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
     excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
     publishedDateTime: 2021-10-29T19:05:00Z

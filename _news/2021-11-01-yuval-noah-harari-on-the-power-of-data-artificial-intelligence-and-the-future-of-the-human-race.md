@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/news/yuval-noah-harari-sapiens-60-minutes-2021-
 ampWebUrl: "https://www.cbsnews.com/amp/news/yuval-noah-harari-sapiens-60-minutes-2021-10-31/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/yuval-noah-harari-sapiens-60-minutes-2021-10-31/"
 type: article
-quality: 44
-heat: 44
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI Ethics
 
 images:
   - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/31/f8bbdbf0-b2d8-4b95-9399-22dc42eef179/thumbnail/1200x630/1a50d83699d8e58506f74706c57403c2/ot-harari2research.jpg"
@@ -25,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "1VZqgTTX2wA77imnXHc6FAfGie3HtiykNNsgQE7wz5UMzU+VXEisxXggdGmEQRFDxM64MFdY8aaKzpP0VLoobTjgNmMuOW1cEU2nUwbtyzx9abkf5VNrMvVyDlnsG5c0FiM9B+CSLUj6jRmrbwY80pD8S+ZjVVk7C8J+y6Pyn+dcjIyORd9/4BjZhgZ9Eism/DPkkobpRDvanlc9iVtpxkOY6poTh/At5MkWd0FUtR/6/e3C8VYXk0keD/Ndd7ZMEeRoaejI40LUBbs3tctpwC4x+vZAIRu+Po71ZHr0EyD/1oOPeeOuMW3Se+GD6duuWposxnBKg5IeyDKhljNKhMTb8EEmk4sCiZCJyq1nmEc=;pFO+L6xMzfc5Q/7wPe5fnA=="
+secured: "7IJB1wkhIZYFG0We5dxtg37k6vRddefZKZ7ob0h3t/cmkFkwjjGPt8CvHHC2ODZXijMZnhzBynVdWwYkkSwnmFIvpyW/r092T12DX4OqgIC8PsJ7pvi5B/icUL8kuMkZxOMCGAfzrT0dR0Kgk0/aorRLwdBCoMS6USFVx1OrMWudVO9Jqcpf+zUO8s3WsEjDI1p7lhSUImP6TY/GL8J0KMeMO1bdFle6zkK2E1ixrxJZQkBZza+lYPIQIGQjZBEBvEZMxaxgE2cRDMnhIKcrehdKxCYoyhckO1re+7+7cMFWG+i2SFqLUjKA3dL/gGzWpElB5fKGZBsWN0D2IO10+7Ala2RQZ2dxdPyZegZ3wOT+DInMqb5Us4YrKR0mDP090drO6MyJVVfJaPbtE5N+D4MdFSnq2r74Ye7OO4h+eUcy+4LAZ4pfG+gwlVabaoi5mZ2jspDHlLpVdc1YsV/mL4nUyh+gPAaX6SUIg5Aya3roa3uoUuRIhyASUrG8H/sZy+3VfbsnCDnfyTb/nmO+sA==;SQ0Ia192EjpMeyet7+WitQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://retailtouchpoints.com/topics/customer-experience/ai-powered-
 cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/customer-experience/ai-powered-chatbots-how-the-pandemic-fueled-innovation/amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Retail TouchPoints
@@ -41,20 +41,6 @@ related:
       - url: "https://cdn.business2community.com/wp-content/uploads/2021/10/benefits-of-chatbots-for-businesses-776%D1%85517-900x600.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Yugasa Software Labs filed patents in the field of Conversational AI and Chatbots"
-    excerpt: "Yugasa Software Labs is a renowned software development firm that offers a range of customised AI, IoT, and Mobility solutions."
-    publishedDateTime: 2021-10-27T07:31:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/yugasa-software-labs-filed-patents-in-the-field-of-conversational-ai-and-chatbots-121102700705_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 32
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/27/full/20211027121049.jpg"
-        width: 600
-        height: 450
         isCached: true
 
 secured: "VJYT8SAaY3n9QeybmBpxe3/ZGFn2CtukYoKSrzGN12VVRlFMs4jYWnNE/cIDBPMTNDI9fOxVO3qJ2GaMEA2kvCKBhMmPpuGLznSgna/5aA1eWMokWEH9CtQGrtrvNRhn90Qf2v9KYhnvfbyDboHWm/upKVXB3eRy/v9r+5evIr7TDJN4DbNjMxYn3sPG6L2K49M5L4Yjoc49mbqGN6QhKrsvHH52DanJAT+J0Ko8NMh8VK5RC4oogPUaFronMLH8N1whMvTdr/afzXvxUHBe0ezfSt7QBsZzpDUHA/jgjs75ZkpUdsXhzxloB+YQL7+0KhzDvK8ueOaHp4PbT37c4EuYeb2MY9eMkpEIrbueaHtsHaN1CWyDTIpjlSG8QNaU3q3F6iVgxvt17QYo0LdVbgqhttxegpY1Vg61ZqrCBj1/ghjv7ARwN2NwN4VU89p85b9Y20I3SjRuiMctMfYXgNwmnYAzhrBhFMZVUn/Wxro8GTdgxT4YZEIhb4DngzVAz4mKG5fZecFf+3zBP6YTnQ==;ssDUgKmDQAXDXYhd/6X7zg=="

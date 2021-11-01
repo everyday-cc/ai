@@ -42,20 +42,6 @@ related:
         width: 1680
         height: 945
         isCached: true
-  - title: "Yugasa Software Labs filed patents in the field of Conversational AI and Chatbots"
-    excerpt: "Yugasa Software Labs is a renowned software development firm that offers a range of customised AI, IoT, and Mobility solutions."
-    publishedDateTime: 2021-10-27T07:31:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/yugasa-software-labs-filed-patents-in-the-field-of-conversational-ai-and-chatbots-121102700705_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 32
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/27/full/20211027121049.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "Y9IiA3uRfcW4rWP7WRaOnRMRM3oBe8/PT4j4uQEL2PlVD272bRZXSgvvd3zE7y3va6saDPxd5a6MlWEOLNMrjDeQXQmRfVViHegKnFSRHKeWgG5B7YWs/cUq869gBjCnkjSMDhzuClO0DsqaLDSBW20tG1NcUElkH469eUNZDmgnGFoec6CukSpLxEWI9SoWpawkAbZLuHufzP6RlnZOY6tkw5+QAtDTxxQ6KiRoLYa8xVREoqZLEwkrKEzDauIuMHBlOVmXtueAWaKh+LoT/NlVXi+b5XnjUx02zm+jg+90aEuLTjYaIczddGourkaIgbyfotLNfF7IF4kJldEBaxw5DOxCPwt8WhruoFPL+G/pwN903gQS6vucQUxN9iYAl+yMFGdX2WDMeCGE5tZjQMANWY0JRV8G+XLxt05sFvjYGCAARYetRiDTct11kO06mhfvgUhRcVTKNpBTmvb1zxWIZrLlUyQ0UZzfA0MfUrp5EWTklHkjgV19Rk+bFQa8OEX2DV4GgKVjc+4nmWrvqQ==;Wxeyz1B1+7423M4E1LDsUQ=="
 ---
