@@ -2,7 +2,7 @@
 name: "Socure"
 overview: "Socure provides a real-time predictive analytics platform that combines the newest forms of machine learning and artificial intelligence with digital, offline and social identity data to deliver the most accurate and robust KYC, identity verification and fraud risk prediction solution in the market."
 type: "profile"
-heat: 50
+heat: 71
 
 website: https://www.socure.com/
 
@@ -48,6 +48,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "xzmt6JeUgRiwOK5N5sxGyahEyE5ToOxKjtQoeCkDhCHityhmlV9g0TAAvgD957MGQxr6MTo/bwTH4cNHFLqHRJuBg351F8GojQZs0ZDHkedralOP5kHMRHOLGpDZdTIN0TrloWYiaybb0I9ToHCOUo9ZJdnIeAgkbqNVdYyQPLquERRHXTDg+VsG1WDhMGinngHg1N/us5ATZkV1DTxXDsCf8uhVsVVap7Z9XKxDLei8QyUZ3/pR8cbNI29o8HxBtv11LR5ZmzyNXugraOKcfESfA8SrmKoE+UYbiOF/ZrAOOO0Gxy0+NCcug8O9E05c51cNRXCwXjMaIGMvOW0g6orR4jRanuYAd3CKzLWlamMNRRakgyldRMoqsaasFK4F9JkU/rydQWRJ+8ojpZX1bs4oOb1jetUmFml6j8wiQ2U=;cBAazL2IFYuNMBvKMauoSg=="
+secured: "76QRj2JFde0K3m2OF1v+IeKLCnEm+a1ZwI1ebn/Od6fJVhRPrM71ceuD2XfjZvTIhJxqNqWdrqesqgbeiDDecY31zSdtipIFq3I7f/J7k8mt0UTD6Ft0WzkZ3DUBSqJtqibOpBWNarVhodc1yGxgWp7cwyejsbIYu9VXObRlvUBFLbnwHQHjgXRpTMXDI5Wr9HNYoZrhsp+XQwbw92kszdW+ni4Pj4cUBy3KkfqhsIw9av/XXT3Jf1kjnebZOqZBovECl7n74ALItICwnQSLB/Vow5/5jU518SfVJdwRpuvJm4HIGx/2vz8bDXIT0TcULEHI6cjahfiNpttQJZjevJKh+OyhzfMExoM7j+C1xSOZNDNpqw1sQCDDFm+OCoU5Pdn+WEb+zj5mJXjm/cx1KRpN4cAJkr2U7d/M7kyzBpk=;SvjOgUb7Wugsm/2axPpEkw=="
 ---
 
