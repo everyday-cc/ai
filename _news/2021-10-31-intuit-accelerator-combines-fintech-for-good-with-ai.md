@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Top Fintech Stocks To Watch Before November 2021"
-    excerpt: "Hot Fintech Stocks For Your Watchlist Right Now. As the world continues to evolve with technology, fintech stocks continue to draw traction among investors in the stock market."
-    publishedDateTime: 2021-10-27T21:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-before-november-2021-2021-10-27?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Australian fintech Completes Major US Acquisition"
     excerpt: "Melbourne based Remitter acquires US-based Mercantile Adjustment Bureau following successful USD 12m cap raise -  Expands headcount to over 180 staff - Future global acquisitions"
     publishedDateTime: 2021-10-29T08:00:00Z

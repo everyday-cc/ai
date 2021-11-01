@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-01-machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia.md",
+      "title": "Machine Learning in Retail Market 2021 is Booming Globally with Top Key Players- IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA",
+      "excerpt": "IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA, Google, Sentient Technologies, Salesforce, ViSenze Recently added report provided by QY Reports Machine Learning in Retail Market Presents an Analysis of Market Situation and Challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
+      "originalUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://chipdesignmag.com/wp-content/uploads/2021/10/market-research-1-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chip Design",
+        "domain": "chipdesignmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-31-intuit-accelerator-combines-fintech-for-good-with-ai.md",
       "title": "Intuit Accelerator Combines Fintech For Good With AI",
       "excerpt": "Fintech for good startup Bankuish is one of seven early-stage companies in the Intuit Prosperity Accelerator: AI. The five-month program is for fledgling fintech companies that target consumers and small businesses in North America and want to use AI to build better platforms.",
@@ -10,7 +56,7 @@
       "originalUrl": "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -233,6 +279,50 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-kbra-altman-launches-high-yield-return-forecasting-model-a-differentiated-approach-using-machine-learning-allows-the-model-to-keep-pace-with.md",
+      "title": "KBRA Altman Launches High Yield Return Forecasting Model: A Differentiated Approach Using Machine Learning Allows the Model to Keep Pace with Changing",
+      "excerpt": "KBRA Altman, a division of KBRA Analytics, is pleased to announce the launch of its new High Yield Return Forecasting Model. Unlike traditional approaches that examine bivariate relationships between the level of credit spreads and other economic variables,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=552624",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=552624",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -935,6 +1025,50 @@
       ]
     },
     {
+      "path": "_news/2021-10-14-what-are-the-threats-and-opportunities-of-data-science-and-machine-learning.md",
+      "title": "What are the threats and opportunities of data science and machine learning?",
+      "excerpt": "As with most things, many of the threats and challenges in using data science, artificial intelligence and machine learning ... working in financial services, to have access to reams of data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
+      "originalUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F6%2F2%2F2%2F2632266-11-eng-GB%2Fpexels-hitesh-choudhary-693859.jpg%3Fv1?source=ftadviser",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FTAdviser",
+        "domain": "ftadviser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-crime.md",
       "title": "Demystifying AI for AML: European Banking Federation and SAS help banks worldwide fight financial crime",
       "excerpt": "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide financial systems each year. That’s an astonishing 2-5% of global GDP. The European Banking Federation (EBF) – uniting 32 national banking associations in Europe,",
@@ -1200,137 +1334,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud.md",
-      "title": "FiVerity Unveils Machine Learning-Powered Solution to Detect and Prevent Cyber Fraud",
-      "excerpt": "US-based tech startup FiVerity has launched a new machine learning solution, Collaborative AI platform, to detect and prevent cybercrime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/",
-      "originalUrl": "https://www.just-auto.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_1602197377.jpg",
-          "width": 500,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-accenture-to-acquire-bridgei2i-expanding-capabilities-in-data-science-machine-learning-and-ai-powered-insights.md",
-      "title": "Accenture to Acquire BRIDGEi2i, Expanding Capabilities in Data Science, Machine Learning and AI-Powered Insights",
-      "excerpt": "Accenture (NYSE: ACN) has entered into an agreement to acquire BRIDGEi2i, an artificial intelligence (AI) and analytics firm headquartered in Bangalore, India, with additional offices in the US and Australia.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-bangalore-health-c556c1819c3548c6b3a52ebee48de471",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-bangalore-health-c556c1819c3548c6b3a52ebee48de471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-fintech-insurtech-live-day-one-overview-at-tobacco-dock.md",
-      "title": "FinTech & InsurTech Live: Day one overview at Tobacco Dock",
-      "excerpt": "Day one of FinTech and InsurTech Live comes to a close and we highlight some of the topics and discussions we have seen from day one of the hybrid event",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-one-overview-tobacco-dock",
-      "originalUrl": "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-one-overview-tobacco-dock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/IMG_1746.jpg.png?itok=QInUkdFr",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-13-5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds.md",
+      "title": "5 Best Artificial Intelligence and Robotics Stocks To Buy According To Hedge Funds",
+      "excerpt": "In this article, we discuss the 5 best artificial intelligence and robotics stocks to buy according to hedge funds. - All Parts",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989023/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989023/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/08/man-320276_1280.png",
+          "width": 1240,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-natural-language-processing-market-comprehensive-insights-2021-to-2028-ibm-aws-apple-intel.md",
       "title": "Natural Language Processing Market Comprehensive Insights 2021 to 2028: IBM, AWS, APPLE, INTEL",
       "excerpt": "The Insight Partners provides you global research analysis on “Natural Language Processing Market” and forecast to 2028. The research report provides deep insights into the global market ...",
@@ -333,10 +377,10 @@
     {
       "path": "_news/2021-10-12-cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure.md",
       "title": "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure",
-      "excerpt": "With the evolution of machine learning, the CAST AI team has developed an AI platform ... platform now supports both Google and Microsoft Azure public cloud platforms. \"The adoption of Kubernetes ...",
+      "excerpt": "About CAST AI CAST AI is the autonomous Kubernetes management platform that cuts cloud bills in half for AWS, GCP and Azure customers. CAST AI analyzes millions of data points, always looking for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wjhg.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/",
-      "originalUrl": "https://www.wjhg.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-1030859528",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-1030859528",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -346,12 +390,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T07:34:00-07:00",
+      "publishedDateTime": "2021-10-12T07:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WJHG",
-        "domain": "wjhg.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1350,58 +1403,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-create-amazon-sagemaker-projects-with-image-building-cicd-pipelines.md",
-      "title": "Create Amazon SageMaker projects with image building CI/CD pipelines",
-      "excerpt": "Amazon SageMaker projects are AWS Service Catalog provisioned products that enable you to easily create end-to-end machine learning (ML) solutions. SageMaker projects give organizations the ability to use templates that bootstrap ML solutions for your users to speed up the start time for ML development.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-with-image-building-ci-cd-pipelines/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-with-image-building-ci-cd-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/28/ML-5720-image017.jpg",
-          "width": 500,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T11:15:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

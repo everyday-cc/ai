@@ -2,6 +2,190 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-26-artificial-intelligence-and-machine-learning-play-a-role-in-endpoint-security.md",
+      "title": "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security",
+      "excerpt": "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology.",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "originalUrl": "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edtechmagazine.com/k12/k12/higher/k12/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "publishedDateTime": "2021-10-25T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-agencies-face-continued-challenges-making-security-data-ready-for-machine-learning.md",
+      "title": "Agencies face continued challenges making security data ready for machine learning",
+      "excerpt": "Proofpoint fraud expert Rob Holmes looks at how threat actors are exploiting agency supply chains to launch imposter email attacks and compromise agency networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/category/sponsored-content/",
+      "originalUrl": "https://www.fedscoop.com/category/sponsored-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
+          "width": 629,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony.md",
+      "title": "Frances Haugen: Key moments from Facebook whistleblower's UK parliamentary testimony",
+      "excerpt": "The former Facebook product engineer answered questions from lawmakers on regulation, Instagram Kids and whether she thought Facebook was evil.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/b08c5Epe3NTGTrmK4QYvTgFuIsQ=/1200x630/2021/10/25/943d7bc3-8a31-4cd3-9a2c-eeb0a0b39f77/screenshot-2021-10-25-at-14-36-38.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "publishedDateTime": "2021-10-25T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-kbra-altman-launches-high-yield-return-forecasting-model-a-differentiated-approach-using-machine-learning-allows-the-model-to-keep-pace-with.md",
+      "title": "KBRA Altman Launches High Yield Return Forecasting Model: A Differentiated Approach Using Machine Learning Allows the Model to Keep Pace with Changing",
+      "excerpt": "KBRA Altman, a division of KBRA Analytics, is pleased to announce the launch of its new High Yield Return Forecasting Model. Unlike traditional approaches that examine bivariate relationships between the level of credit spreads and other economic variables,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=552624",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=552624",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-the-facebook-whistle-blower-brings-her-campaign-to-europe-after-her-disclosures.md",
       "title": "The Facebook whistle-blower brings her campaign to Europe after her disclosures.",
       "excerpt": "Beginning a European tour in Britain, the former Facebook manager was questioned by policymakers drafting tougher tech regulations.",
@@ -1039,187 +1223,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-introduce-robotics-ai-in-curriculum.md",
-      "title": "Introduce robotics, AI in curriculum",
-      "excerpt": "Our annual survey of CXOs and decision makers has revealed that as we emerge from the current crisis, optimism with regard to AI has gone up significantly from 72 percent to 92 percent, and the rate of AI adoption has increased from 62 percent to 70 percent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
-      "originalUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.monitor.co.ug/resource/blob/3574060/bb0203f685069f14f00a1b5d66bf87f5/comm03pix-data.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
-      "cdnAmpWebUrl": "https://www-monitor-co-ug.cdn.ampproject.org/c/s/www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
-      "publishedDateTime": "2021-10-25T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Monitor",
-        "domain": "monitor.co.ug",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-welcome-to-the-algorithmic-nudging-debate-a-potent-ai-practice-with-ethical-implications.md",
-      "title": "Welcome to the algorithmic nudging debate - a potent AI practice with ethical implications",
-      "excerpt": "Nudging isn't new - but algorithmic nudging ups the ante. The AI ethics debate now extends to these new means of persuasion. It's an issue we should all take a look at, whether we're the nudger, or the nudgee.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications",
-      "originalUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-06/shutterstock-pathdoc-1076106332.jpg",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp",
-      "publishedDateTime": "2021-10-25T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19-analysis-microsoft-us-ptc-us.md",
-      "title": "AI in IoT Market to Witness Notable Growth by 2027 Covid-19 Analysis | Microsoft (US), PTC (US)",
-      "excerpt": "AI in IoT market report points out problem areas in the business and also presented what areas can expand the business by increasing the customer base It also helps you make sound market decisions and develop effective strategies This AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "originalUrl": "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua25568936_g.jpg",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "publishedDateTime": "2021-10-25T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025.md",
-      "title": "Artificial Intelligence (AI) Robots Market Share 2021 Analysis, Dynamics, Industry Size, Latest Trends and Industry Growth Research Report 2025",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry” “ Artificial Intelligence (AI) Robots Market ” report analyses the overview of the global market with respect to major regions and segmented by types and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 243,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

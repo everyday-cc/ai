@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-27-gpu-market-size-2021-industry-analysis-size-share-growth-by-2024.md",
+      "title": "GPU Market Size 2021: Industry Analysis, Size, Share, Growth by 2024",
+      "excerpt": "The overall GPU Market Size is projected to surpass $80 billion mark by 2024, according to a report by Global Market Insights, Inc. The accelerated adoption of AI & IoT technologies across a plethora of industrial sectors is expected to turn graphic processing unit (GPU) market into an extremely lucrative investment ground over the forthcoming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-size-2021-industry-analysis-size-share-growth-by-2024-2021-10-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-market-size-2021-industry-analysis-size-share-growth-by-2024-2021-10-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales.md",
+      "title": "Report: 81% of online retailers increase AI budget to boost holiday sales",
+      "excerpt": "AI is becoming an essential tool in ecommerce, used to enable targeted campaigns and improve supply chain management.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/",
+      "originalUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-6228-000619-e1634748179549.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/amp/",
+      "publishedDateTime": "2021-10-26T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-nightly-news-full-broadcast-october-26th.md",
+      "title": "Nightly News Full Broadcast (October 26th)",
+      "excerpt": "FDA panel recommends Pfizer’s Covid vaccine for kids ages 5 to 11, powerful nor’easter hits East Coast, and how facial recognition will change the way you travel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-october-26th-124680261894",
+      "originalUrl": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-october-26th-124680261894",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/NY-NN-XXXXXXXX_CLN_18_30_19_00_Nightly_News_with_Lester_Holt_AS_frame_5770-shy7m3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo124680261894",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124680261894",
+      "publishedDateTime": "2021-10-26T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-global-ai-in-computer-vision-market-2021-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2027.md",
       "title": "Global AI In Computer Vision Market 2021 Industry Key Player, Trend and Segmented Data, Demand and Forecast by 2027",
       "excerpt": "MarketsandResearch.biz has deployed an intelligence report entitled Global AI In Computer Vision Market 2021-2027 that is the complete creation of meticulous primary and secondary research. The report thoroughly covers analyzed insights in view of the market along with its ever-changing patterns,",
@@ -1070,143 +1217,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-fabric-brings-in-200m-as-it-passes-1b-in-valuation.md",
-      "title": "Fabric brings in $200M as it passes $1B in valuation",
-      "excerpt": "Micro-fulfillment technology company Fabric has closed a $200 million Series C financing round at a valuation of more than $1 billion, according to a Tuesday press release. The company, which has raised $336 million since it was founded, plans to use the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.grocerydive.com/news/fabric-brings-in-200m-as-it-passes-1b-in-valuation/608871/",
-      "originalUrl": "https://www.grocerydive.com/news/fabric-brings-in-200m-as-it-passes-1b-in-valuation/608871/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.grocerydive.com/user_media/cache/fd/11/fd11b30f8466332446de7488304b7d7f.jpg",
-          "width": 770,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "grocerydive.com",
-        "domain": "grocerydive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-hai-robotics-wins-nextgen-supply-chain-award.md",
-      "title": "Hai Robotics Wins NextGen Supply Chain Award",
-      "excerpt": "Hai Robotics provides efficient, intelligent, flexible, and customized warehouse automation solutions through robotics technology and AI algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/",
-      "originalUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://worldindustrialreporter.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/amp/",
-      "cdnAmpWebUrl": "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/amp/",
-      "publishedDateTime": "2021-10-26T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "worldindustrialreporter.com",
-        "domain": "worldindustrialreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad.md",
-      "title": "Photoshop update brings new Sensei AI features to desktop, Raw camera support to iPad",
-      "excerpt": "Adobe MAX is here, and the company’s most popular editing software is unsurprisingly getting a host of updates for the occasion. The most significant updates are landing on Photoshop for desktop,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
-      "originalUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/10/Photoshop-update-brings-new-Sensei-AI-features-to-desktop-Raw-camera-support-to-iPad.jpg",
-          "width": 1440,
-          "height": 950,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
-      "publishedDateTime": "2021-10-26T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

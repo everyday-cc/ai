@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91984-almost-30-percent-new-github
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91984-almost-30-percent-new-github-code-written-ai.html"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 2634
     height: 1440
     isCached: true
+
+related:
+  - title: "ML Ops with GitHub Actions and AML"
+    excerpt: "INFO: Please visit the following repository to get started with Github Actions for AML:  The repository gets actively ma"
+    publishedDateTime: 2021-11-01T08:05:00Z
+    webUrl: "https://github.com/RichardZhaoW/mlops-demo"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 41
+    images:
+      - url: "https://opengraph.githubassets.com/ed5718faea7d6c2405aa64c40cb0c2df0c3dfd19ddaa1631bfe36d91220742b8/RichardZhaoW/mlops-demo"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Lm1Cdjn2Ag2jEOlcEBO8MzASQGKwpwRkkLdQ5kN4ChAtP2ifsCWFhMZDhxRgST+O9Je7aNRqrzJmmgiIfaH5xV5b3ybk/WXzscDj5zEdtvf3Bit91MuRNlgZ0N7gIWbbBZsbccMXuHI0go4OjLL+/xI9OYBKkXOsaStPudk8b2SPyew1P+WMvtMePShm5X04SVWO8NSRK3I/Vwg0otRGiHvONSpXlTfskTAzDUOkHdM4fRzc8n0M01+Jmtc0dyUm7+WILHiLcf41DWCnOoj9Fnj+cvjN/ymPlmrBBWi1xApFreQ5Whkyw6Sm29uFO3YGoej8P/vyanox9CJr5A5Yi6D9y5MNkfsdFJllPg4CjQ0=;+5xnDBGRYmahcjuqVJmSQA=="
 ---

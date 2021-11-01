@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/startup-digital-humans-metaverse/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/startup-digital-humans-metaverse/amp"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,50 @@ images:
     isCached: true
 
 related:
+  - title: "Meta’s Andrew Bosworth on moving Facebook to the metaverse"
+    excerpt: "Facebook announced a major corporate rebrand by changing its company name to Meta. As CEO Mark Zuckerberg told The Verge, the new name is meant to solidify the social media giant’s long-term bet on building the metaverse."
+    publishedDateTime: 2021-11-01T13:15:00Z
+    webUrl: "https://www.theverge.com/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
+    ampWebUrl: "https://www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/gocpfVJsZ2xVv_TFg4LwynI6llo=/0x0:2050x1367/1400x933/filters:focal(861x520:1189x848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70073882/VRG_ILLO_Decoder_AndrewBosworth_s.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "After the Facebook Papers, what’s next for, err, Meta?"
+    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its ... Teenage users of the Facebook app in the US have shrunk by 13% since 2019, according to the company’s own research."
+    publishedDateTime: 2021-10-28T20:07:00Z
+    webUrl: "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-regulation-growing-old"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-9-1.jpg&signature=3c8ce726468cfc55b53bf6e549d93ffe"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Metaverse Here We Come: Why This Matterport Analyst Is Bullish As Facebook Rebrands"
+    excerpt: "The partnership was for creating the largest-ever dataset of 3D indoor spaces via Facebook AI Research. “We believe this was the first step towards a much broader Facebook and Matterport ..."
+    publishedDateTime: 2021-10-29T20:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/metaverse-here-we-come-why-this-matterport-analyst-is-bullish-as-facebook-rebrands-1030916419"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/artificial-intelligence-2167835_1920_36.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Taiwan's AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
     excerpt: "TAIPEI, TAIWAN - Media OutReach - 29 October 2021 - Taiwan's top annual event for artificial intelligence, AI Day 2021, assembled key international stakeholders from across public and private sectors at Gaming Space in Taipei from October 27 to 28 morning,"
     publishedDateTime: 2021-10-29T13:01:00Z

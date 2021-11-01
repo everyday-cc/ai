@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "McDonald's enters strategic partnership with IBM to automate drive-thru lanes"
-    excerpt: "McDonald's has entered a strategic partnership with IBM to help the fast-food chain automate its drive-thru lanes."
-    publishedDateTime: 2021-10-27T20:16:00Z
-    webUrl: "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 169
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106891207-1622645077770-gettyimages-1133268648-MCDONALDS_TECH.jpeg?v=1622645106"
-        width: 4000
-        height: 2667
-        isCached: true
   - title: "McDonald's and IBM could bring AI-powered drive-thrus to more restaurants"
     excerpt: "McDonald's might not be the only restaurant experimenting with AI-based order taking in the ... while bolstering IBM's Watson-powered customer service offerings. The deal is expected to close ..."
     publishedDateTime: 2021-10-28T14:24:00Z
@@ -88,20 +72,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/shutterstock_1727006647-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "McDonald's Partners with IBM to Expand Voice-Ordering Technology"
-    excerpt: "McDonald's revealed Wednesday that it's turning to IBM to accelerate growth of its automated voice-ordering technology. As part of the agreement, IBM will acquire McD Tech Labs, which was formed following the burger chain's 2019 acquisition of Apprente,"
-    publishedDateTime: 2021-10-27T19:08:00Z
-    webUrl: "https://www.qsrmagazine.com/fast-food/mcdonalds-partners-ibm-expand-voice-ordering-technology"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-08/mcdonaldsexterior.jpg?itok=khjw3OaX"
-        width: 765
-        height: 446
         isCached: true
 
 secured: "02yIGI4ds2ZuLeCMw0oN+Lw6C9W+i73MCT3y4rq4bQTWCBEQ4/Nb7t+hKtMOz7+82WddyiFTuaYc3yDChCoVM4TMHYNp4a0Ln/aKnzge/j67hInmjtqFfZoQyEkaiKKJ7ef6SmiGkYf/ZD1YBj9picUxokxN8fhNrLpoBJWALes3Z8DDA1cBeDFM5ddwIULlHCR3BLHIa7bMPsX72uTveukHe938H3fM8fOeTv6/jmDB0Ggn/ynhzyzvcJwIeGPAYlJUAf8CM1TBsGLp06TNaSZQ+r3cl552KsMV992bM8+Mjx+T+EtKuvF3h1yefVfeWtGdS5lR48WZnVYO7M3AQCGTWdPyNKbh/9l+f2QSldvwS3hoc+xGBaLJtj+ijs1SckRB25kzI7f9abCoPiOcApNw2ZDZq9IjtHpOxatdEz+qDvzYfwQPof/HsdQatgy+sI2IijLMlnSmPl/F+Dn8YHWAZaOsMa7IHbv1Q/nrTWLieJfBSsHfUd1YvJreb9tDqMtKYu9cg31Uqd9UQGD60Q==;DByFHOrb3FurA0pX2ouNXg=="

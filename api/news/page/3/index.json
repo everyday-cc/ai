@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-29-facebook-is-expanding-smart-glasses-research-into-cars-via-bmw.md",
+      "title": "Facebook is expanding smart glasses research into cars via BMW",
+      "excerpt": "Facebook's still trying to make AR-enabled, AI-assisted smart glasses happen. The company announced plans to field-test its camera and sensor-studded Project Aria glasses, designed for research on future AR glasses in more places, and even in cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
+      "originalUrl": "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
+      "publishedDateTime": "2021-10-28T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-us-leadership-in-artificial-intelligence-is-still-possible.md",
+      "title": "US Leadership in Artificial Intelligence is Still Possible",
+      "excerpt": "What does it mean to be first in developing applications of artificial intelligence (AI), and does it matter? In a recent interview, the former Chief Software Officer of the U.S. Air Force Nicolas Chaillan stated that he resigned in part because he ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cfr.org/blog/us-leadership-artificial-intelligence-still-possible",
+      "originalUrl": "https://www.cfr.org/blog/us-leadership-artificial-intelligence-still-possible",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cfr.org/sites/default/files/styles/full_width_xl/public/image/2021/10/RTXEC6PS-min_2.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cfr.org/blog/us-leadership-artificial-intelligence-still-possible?amp",
+      "cdnAmpWebUrl": "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/us-leadership-artificial-intelligence-still-possible?amp",
+      "publishedDateTime": "2021-10-28T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cfr.org",
+        "domain": "cfr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate.md",
       "title": "How TourRadar automates the translation process using Amazon EventBridge and Amazon Translate",
       "excerpt": "This is a guest post written by Gergely Kadi, Senior Systems Engineer and Martin Petraschek-Stummer, Senior Data Engineer at TourRadar. TourRadar is a travel marketplace to connect people to life-enriching travel experiences. When it was launched, TourRadar only offered tours and content in English.",
@@ -115,7 +209,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -264,6 +358,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-28-mcdonalds-and-ibm-could-bring-ai-powered-drive-thrus-to-more-restaurants.md",
+      "title": "McDonald's and IBM could bring AI-powered drive-thrus to more restaurants",
+      "excerpt": "McDonald's might not be the only restaurant experimenting with AI-based order taking in the ... while bolstering IBM's Watson-powered customer service offerings. The deal is expected to close ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/mcdonalds-ibm-ai-food-orders-131806578.html",
+      "originalUrl": "https://www.engadget.com/mcdonalds-ibm-ai-food-orders-131806578.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-images/2020-06/b72651f0-ab1b-11ea-ab97-77d87c130d3e",
+          "width": 5616,
+          "height": 3744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-this-program-can-give-ai-a-sense-of-ethicssometimes.md",
       "title": "This Program Can Give AI a Sense of Ethics—Sometimes",
       "excerpt": "Isaac Asimov’s famous Three Laws of Robotics popularized the idea that machines might follow human ethics, although the short stories that explored the idea highlighted contradictions in such simplistic reasoning. Search our artificial intelligence ...",
@@ -366,7 +512,7 @@
       "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -798,7 +944,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1082,134 +1228,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers.md",
-      "title": "This Restuarant Chain Is Putting Robots In Charge Of Its Deep Fryers",
-      "excerpt": "Advertisement The robotic technology startup behind the burger-flipping robot, Miso Robotics, announced a collaboration with Inspire Brands’ Buffalo Wild Wings on Thursday. Flippy Wings is a “robotic chicken wing frying solution” that helps brands maximise chicken wing output,",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/",
-      "originalUrl": "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/10/4fcb5faddfdec3c5dcdd640168970b0a6747.jpg",
-          "width": 1300,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/amp/",
-      "publishedDateTime": "2021-10-27T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform.md",
-      "title": "LivePerson acquires VoiceBase and Tenfold for its conversational AI platform",
-      "excerpt": "LivePerson has acquired two startups, VoiceBase and Tenfold, to bolster its expanding conversational AI platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/",
-      "originalUrl": "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/04/rob_185_final.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/",
-      "publishedDateTime": "2021-10-27T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service.md",
-      "title": "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service",
-      "excerpt": "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

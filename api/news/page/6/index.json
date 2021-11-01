@@ -2,6 +2,143 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-26-fabric-brings-in-200m-as-it-passes-1b-in-valuation.md",
+      "title": "Fabric brings in $200M as it passes $1B in valuation",
+      "excerpt": "Micro-fulfillment technology company Fabric has closed a $200 million Series C financing round at a valuation of more than $1 billion, according to a Tuesday press release. The company, which has raised $336 million since it was founded, plans to use the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.grocerydive.com/news/fabric-brings-in-200m-as-it-passes-1b-in-valuation/608871/",
+      "originalUrl": "https://www.grocerydive.com/news/fabric-brings-in-200m-as-it-passes-1b-in-valuation/608871/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.grocerydive.com/user_media/cache/fd/11/fd11b30f8466332446de7488304b7d7f.jpg",
+          "width": 770,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "grocerydive.com",
+        "domain": "grocerydive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-hai-robotics-wins-nextgen-supply-chain-award.md",
+      "title": "Hai Robotics Wins NextGen Supply Chain Award",
+      "excerpt": "Hai Robotics provides efficient, intelligent, flexible, and customized warehouse automation solutions through robotics technology and AI algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/",
+      "originalUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://worldindustrialreporter.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/amp/",
+      "cdnAmpWebUrl": "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/amp/",
+      "publishedDateTime": "2021-10-26T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "worldindustrialreporter.com",
+        "domain": "worldindustrialreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad.md",
+      "title": "Photoshop update brings new Sensei AI features to desktop, Raw camera support to iPad",
+      "excerpt": "Adobe MAX is here, and the company’s most popular editing software is unsurprisingly getting a host of updates for the occasion. The most significant updates are landing on Photoshop for desktop,",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
+      "originalUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/10/Photoshop-update-brings-new-Sensei-AI-features-to-desktop-Raw-camera-support-to-iPad.jpg",
+          "width": 1440,
+          "height": 950,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
+      "publishedDateTime": "2021-10-26T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-adobe-continues-its-ai-push-in-creative-cloud.md",
       "title": "Adobe continues its AI push in Creative Cloud",
       "excerpt": "Over the course of the last few years, Adobe has gone all-in on AI. At its MAX conference this year, that’s once again on full display across updates for virtually all of its products, powered by its Sensei AI platform.",
@@ -1054,146 +1191,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-artificial-intelligence-and-machine-learning-play-a-role-in-endpoint-security.md",
-      "title": "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security",
-      "excerpt": "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
-      "originalUrl": "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/k12/k12/higher/k12/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
-      "publishedDateTime": "2021-10-25T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-agencies-face-continued-challenges-making-security-data-ready-for-machine-learning.md",
-      "title": "Agencies face continued challenges making security data ready for machine learning",
-      "excerpt": "Proofpoint fraud expert Rob Holmes looks at how threat actors are exploiting agency supply chains to launch imposter email attacks and compromise agency networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/category/sponsored-content/",
-      "originalUrl": "https://www.fedscoop.com/category/sponsored-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony.md",
-      "title": "Frances Haugen: Key moments from Facebook whistleblower's UK parliamentary testimony",
-      "excerpt": "The former Facebook product engineer answered questions from lawmakers on regulation, Instagram Kids and whether she thought Facebook was evil.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/b08c5Epe3NTGTrmK4QYvTgFuIsQ=/1200x630/2021/10/25/943d7bc3-8a31-4cd3-9a2c-eeb0a0b39f77/screenshot-2021-10-25-at-14-36-38.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "publishedDateTime": "2021-10-25T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

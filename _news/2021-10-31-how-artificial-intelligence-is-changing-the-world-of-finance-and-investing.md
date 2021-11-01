@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Taming the data deluge by enriching AI algorithms with new processors"
+    excerpt: "An oncoming tsunami of data threatens to overwhelm huge data-rich research projects in such areas that range from the tiny neutrino to an exploding supernova, as well as the mysteries deep within the brain."
+    publishedDateTime: 2021-11-01T13:44:00Z
+    webUrl: "https://techxplore.com/news/2021-11-deluge-enriching-ai-algorithms-processors.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-deluge-enriching-ai-algorithms-processors.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-deluge-enriching-ai-algorithms-processors.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/taming-the-data-deluge.jpg"
+        width: 469
+        height: 600
+        isCached: true
   - title: "7 Edits That Will Soon Be A Thing of the Past Thanks to AI"
     excerpt: "It uses machine learning artificial intelligence (AI) to scan an image ... the complex patterns in the bottom-right However, things start to go awry when you're working with more complex shapes ..."
     publishedDateTime: 2021-10-29T21:27:00Z

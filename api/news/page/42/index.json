@@ -2,6 +2,231 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-09-29-next-wave-of-deep-learning-models-applications-markets-2021-focus-on-rnn-cnn-and-gan-researchandmarketscom.md",
+      "title": "Next Wave of Deep Learning Models & Applications Markets 2021: Focus on RNN, CNN, and GAN - ResearchAndMarkets.com",
+      "excerpt": "The “Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)” report has been added to ResearchAndMarkets.com’s offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-c75da96895804268aa68ebd35cad71f2",
+      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-c75da96895804268aa68ebd35cad71f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank.md",
+      "title": "Tech-Recruiting Startup Andela Raises $200 Million in Round Led by SoftBank",
+      "excerpt": "Andela uses AI to help employers look beyond Silicon Valley for talent and tap a broader range of markets such as Africa and Latin America",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "originalUrl": "https://www.wsj.com/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-408465?width=860&height=573",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "publishedDateTime": "2021-09-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-gbg-wins-best-aimachine-learning-innovation-of-the-year-award.md",
+      "title": "GBG wins Best AI/Machine Learning Innovation of the Year award",
+      "excerpt": "Judges praise GBG's technology for reducing false positives and improving fraud detection  SINGAPORE – Media OutReach – 29 Septem",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102884008/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award",
+      "originalUrl": "https://menafn.com/1102884008/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?43248",
+          "width": 445,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-ascertainment-of-veterans-with-metastatic-prostate-cancer-in-electronic-health-records-demonstrating-the-case-for-natural-language-processing.md",
+      "title": "Ascertainment of Veterans With Metastatic Prostate Cancer in Electronic Health Records: Demonstrating the Case for Natural Language Processing.",
+      "excerpt": "Prostate cancer (PCa) is among the leading causes of cancer deaths. While localized PCa has a 5-year survival rate approaching 100%, this rate drops to 31% for metastatic prostate cancer (mPCa). Thus,",
+      "sourceUrl": null,
+      "webUrl": "https://www.urotoday.com/recent-abstracts/urologic-oncology/prostate-cancer/132619-ascertainment-of-veterans-with-metastatic-prostate-cancer-in-electronic-health-records-demonstrating-the-case-for-natural-language-processing.html",
+      "originalUrl": "https://www.urotoday.com/recent-abstracts/urologic-oncology/prostate-cancer/132619-ascertainment-of-veterans-with-metastatic-prostate-cancer-in-electronic-health-records-demonstrating-the-case-for-natural-language-processing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.urotoday.com/images/journal_issues/EU-Vol-5-Issue-4-cover2x.jpg",
+          "width": 472,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UroToday",
+        "domain": "urotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-vice-president-calls-for-ai-solutions-in-agriculture-health-education.md",
+      "title": "Vice President calls for AI solutions in agriculture, health, education",
+      "excerpt": "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to delive..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103",
+      "publishedDateTime": "2021-09-28T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to-give-a-healthy-push-to-market-growth.md",
       "title": "United States Natural Language Processing Markets to 2026: Rapid Innovations in the Healthcare Industry to Give a Healthy Push to Market Growth",
       "excerpt": "DUBLIN, Sept. 28, 2021 /PRNewswire/ -- The \"United States Natural Language Processing Market, By Component (Solution and Services), By Deployment (On-Premise, Cloud), By Organization Size (SME's ...",
@@ -940,250 +1165,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-amazon-announces-astro-the-home-robot.md",
-      "title": "Amazon announces Astro the home robot",
-      "excerpt": "Amazon is launching Astro, its first household robot, powered by its Alexa smart home technology. The company said it can be remote-controlled when not at home, to check on pets, people, or home security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-58727057",
-      "originalUrl": "https://www.bbc.com/news/technology-58727057.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 389,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C262/production/_120726794_astromovingaroundhome.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-58727057.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58727057.amp",
-      "publishedDateTime": "2021-09-28T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazons-visual-id.md",
-      "title": "On Echo Show 15, Alexa will recognize your face thanks to Amazon's Visual ID",
-      "excerpt": "The facial recognition feature is designed to recognize you whenever you're in front of the camera, so Alexa can show you personalized content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/",
-      "originalUrl": "https://www.cnet.com/home/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/wSUdygEwDttHCwHEvFXE1Cdrr1Y=/1200x630/2021/09/28/4dcf3368-d754-460b-a198-30a291b1c153/screen-shot-2021-09-28-at-9-15-25-am.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/",
-      "publishedDateTime": "2021-09-28T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-heres-how-amazon-microsoft-and-google-stack-up-in-the-race-for-the-best-cloud-where-developers-can-build-software-with-artificial-intelligence.md",
-      "title": "Here's how Amazon, Microsoft, and Google stack up in the race for the best cloud where developers can build software with artificial intelligence",
-      "excerpt": "Amazon Web Services offers 26 AI services, Microsoft Azure offers 37, and Google Cloud Platform offers 11. As companies add AI to their products to grab a piece of the trillions of dollars in ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange.md",
-      "title": "IBM and Linux Foundation AI and Data announce Machine Learning eXchange",
-      "excerpt": "IBM and Linux Foundation AI (LFAI) launched Machine Learning eXchange (MLX) as a one stop shop for trusted data and AI artifacts.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/",
-      "originalUrl": "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2021/09/97bf82391c9f884f4ea785b3ffccb6de.png",
-          "width": 954,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-ai-based-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers.md",
-      "title": "AI-based tool to predict risk of cardiovascular diseases launched for healthcare providers",
-      "excerpt": "An artificial intelligence-based tool to predict risk of cardiovascular diseases for an early intervention was launched on Tuesday for healthcare providers across the country by a leading private healthcare group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/newsscroll/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
-      "originalUrl": "https://www.outlookindia.com/newsscroll/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
-      "publishedDateTime": "2021-09-28T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

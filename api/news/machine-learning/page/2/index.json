@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-20-pixel-6-tensor-cpu-design-revolves-around-machine-learning.md",
+      "title": "Pixel 6 Tensor CPU design revolves around Machine Learning",
+      "excerpt": "This shouldn’t really come as much of a surprise. Google is arguably one of the kings of machine learning (ML) and AI, technologies that it relies on to make sense of all the data it",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/",
+      "originalUrl": "https://www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/10/google-tensor-1.jpg",
+          "width": 1441,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/amp/",
+      "publishedDateTime": "2021-10-19T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-tensor-is-googles-camera-centric-chip-with-machine-learning-goodness.md",
+      "title": "Tensor Is Google’s Camera Centric Chip With Machine Learning Goodness",
+      "excerpt": "Leaks of the Pixel 6 and a new custom chip have been around since October. Yet, Google was quite excited to unveil the Tensor SoC at the event. To clarify, the Tensor chip is an AI wonderland that brings Google’s machine learning goodness right into users’ pockets.",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/google-tensor-explained/",
+      "originalUrl": "https://fossbytes.com/google-tensor-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2021/10/tensor-chip.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/google-tensor-explained/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/google-tensor-explained/amp/",
+      "publishedDateTime": "2021-10-19T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-innovations-in-training-using-artificial-intelligence-and-machine-learning.md",
       "title": "Innovations in training using artificial intelligence and machine learning",
       "excerpt": "Innovations in training using artificial intelligence and machine learning . Can Artificial Intelligence (AI) and Machine Learning get you ready for take-off or surgery? The PVCES",
@@ -601,6 +697,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-what-are-the-threats-and-opportunities-of-data-science-and-machine-learning.md",
+      "title": "What are the threats and opportunities of data science and machine learning?",
+      "excerpt": "As with most things, many of the threats and challenges in using data science, artificial intelligence and machine learning ... working in financial services, to have access to reams of data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
+      "originalUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F6%2F2%2F2%2F2632266-11-eng-GB%2Fpexels-hitesh-choudhary-693859.jpg%3Fv1?source=ftadviser",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FTAdviser",
+        "domain": "ftadviser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1238,146 +1378,6 @@
       "provider": {
         "name": "Daily",
         "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-attention-based-deep-neural-network-increases-detection-capability-in-sonar-systems.md",
-      "title": "Attention-based deep neural network increases detection capability in sonar systems",
-      "excerpt": "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/931330",
-      "originalUrl": "https://www.eurekalert.org/news-releases/931330",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-a-beginners-guide-to-artificial-intelligence.md",
-      "title": "A beginners guide to Artificial Intelligence",
-      "excerpt": "Less than a decade after breaking the Nazi encryption machine Enigma and helping the Allied Forces win World War II, mathematician Alan Turing changed history a second time with a simple question: \"Can machines think?",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
-      "originalUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFct8wJnAHVUg/article-cover_image-shrink_600_2000/0/1633989619308?e=1640217600&v=beta&t=MOZUWLFOIzsvwRk3THDoGpZlTUQuhHcKh_J8ZaJRxOI",
-          "width": 1060,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-rosaria-silipo-on-codeless-deep-learning-and-visual-programming.md",
-      "title": "Rosaria Silipo on Codeless Deep Learning and Visual Programming",
-      "excerpt": "But now I think deep learning has reached the more mature stage so that it's going to go out of those research labs and it's going to end up to be used by, I don't know, an accountant or a doctor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/podcasts/codeless-deep-learning-visual-programming/",
-      "originalUrl": "https://www.infoq.com/podcasts/codeless-deep-learning-visual-programming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/podcasts/codeless-deep-learning-visual-programming/en/headerimage/twitter_card-8-1633723757386.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null

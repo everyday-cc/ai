@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617aa2261f5347ebbfa8f207%2F0x0.jpg"
         width: 1200
         height: 798
+        isCached: true
+  - title: "Taming the data deluge by enriching AI algorithms with new processors"
+    excerpt: "An oncoming tsunami of data threatens to overwhelm huge data-rich research projects in such areas that range from the tiny neutrino to an exploding supernova, as well as the mysteries deep within the brain."
+    publishedDateTime: 2021-11-01T13:44:00Z
+    webUrl: "https://techxplore.com/news/2021-11-deluge-enriching-ai-algorithms-processors.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-deluge-enriching-ai-algorithms-processors.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-deluge-enriching-ai-algorithms-processors.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/taming-the-data-deluge.jpg"
+        width: 469
+        height: 600
         isCached: true
   - title: "How Artificial Intelligence is Changing the World of Finance and Investing"
     excerpt: "Artificial Intelligence (AI) is a popular trend these days, but it seems so abstract that it is easy to assume only people savvy with technology should be concerned about it. This is far from the truth."

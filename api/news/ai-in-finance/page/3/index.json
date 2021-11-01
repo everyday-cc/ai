@@ -2,6 +2,156 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-27-preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning.md",
+      "title": "Preparing for the 'golden age' of artificial intelligence and machine learning",
+      "excerpt": "The latest ZDNet survey on AI actionability and accountability finds that IT teams are taking a direct lead, with most companies building in-house systems. However, oversight of AI-generated decisions is lagging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/16/ac7869f1-2363-4269-a70c-ee49b6b9f6b2/resize/1200xauto/40a66bf643c6438a543924b6dd11d0e0/who-reviews-ai-or-ml-decisions.png",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "publishedDateTime": "2021-09-27T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-baker-mckenzie-taps-new-leads-for-data-and-machine-learning-team.md",
+      "title": "Baker McKenzie taps new leads for data and machine learning team",
+      "excerpt": "Baker McKenzie has tapped two \"co-founders\" to lead its new data science and machine learning team, artificial intelligence legal pro Brian Kuhn and Danielle Benecke, an IP and tech senior associate at the firm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/legalindustry/baker-mckenzie-taps-new-leads-data-machine-learning-team-2021-09-27/",
+      "originalUrl": "https://www.reuters.com/legal/legalindustry/baker-mckenzie-taps-new-leads-data-machine-learning-team-2021-09-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/YMXmz3luVzWweEX3uVzebea-X1Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X7JCW4RFGFO47EY5DC4JSWRXEM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry.md",
+      "title": "Will AI-led automation transform future of workforce for banking, financial services industry?",
+      "excerpt": "India has immense potential to leverage AI and each sector is a huge opportunity in itself as India leaps ahead with Digital Transformation in the coming decade../Representative image | Banking and financial services industry has always been on the forefront in adoption of technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
+      "originalUrl": "https://www.freepressjournal.in/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
+      "publishedDateTime": "2021-09-22T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-fintech-zest-ai-becomes-a-cuso.md",
       "title": "Fintech Zest AI Becomes a CUSO",
       "excerpt": "Zest AI, a Los Angeles-based provider of artificial intelligence-powered loan underwriting software, has further solidified its role in the credit union industry by officially becoming a CUSO, Zest AI announced Wednesday.",
@@ -1180,136 +1330,6 @@
       "provider": {
         "name": "Morningstar, Inc.",
         "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-aci-worldwide-ranked-in-the-top-20-largest-global-providers-of-financial-technology-by-idc-fintech-rankings.md",
-      "title": "ACI Worldwide Ranked in the Top 20 Largest Global Providers of Financial Technology by IDC FinTech Rankings",
-      "excerpt": "ACI Worldwide, a leading global provider of real-time payments and digital payment software solutions, today announced its ranking in the IDC (News - Alert) Financial Insights 2021 FinTech Rankings. ACI is ranked 19 on this international list of financial technology companies that were judged according to their global revenues attributed to financial institutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-machine-learning-is-moving-beyond-the-hype.md",
-      "title": "Machine learning is moving beyond the hype",
-      "excerpt": "Today, companies across every industry are deploying millions of machine learning models across multiple lines of business. Soon every enterprise will take part.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.html",
-      "originalUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_technology_abstract_layered_background_by_4x-image_gettyimages_1097235688-100817777-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.amp.html",
-      "publishedDateTime": "2021-09-14T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc.md",
-      "title": "Global Cloud AI in Fintech Market Comprehensive Insights – Autodesk, IBM, SAP, Fanuc",
-      "excerpt": "Cloud AI in Fintech Market is anticipated to develop at a solid speed in the coming years. The Market research report looks at the worldwide market’s size, share, cost structure, development, patterns,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/",
-      "originalUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2020/07/Fintech-Trends-Q2.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/?amp=1",
-      "publishedDateTime": "2021-09-14T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
         "images": null,
         "publishers": null,
         "authors": null

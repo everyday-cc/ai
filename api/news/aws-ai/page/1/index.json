@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-01-machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia.md",
+      "title": "Machine Learning in Retail Market 2021 is Booming Globally with Top Key Players- IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA",
+      "excerpt": "IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA, Google, Sentient Technologies, Salesforce, ViSenze Recently added report provided by QY Reports Machine Learning in Retail Market Presents an Analysis of Market Situation and Challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
+      "originalUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://chipdesignmag.com/wp-content/uploads/2021/10/market-research-1-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chip Design",
+        "domain": "chipdesignmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-build-conversational-experiences-for-retail-order-management-using-amazon-lex.md",
       "title": "Build conversational experiences for retail order management using Amazon Lex",
       "excerpt": "Retailers want to stay engaged with their customers as they move seamlessly between digital channels and physical storefronts. By delivering personalized and consistent experiences across a range of retail touchpoints, companies can drive brand loyalty. Customers contact retailers’ customer support for",
@@ -167,7 +213,7 @@
       "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -211,7 +257,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1385,50 +1431,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds.md",
-      "title": "5 Best Artificial Intelligence and Robotics Stocks To Buy According To Hedge Funds",
-      "excerpt": "In this article, we discuss the 5 best artificial intelligence and robotics stocks to buy according to hedge funds. - All Parts",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989023/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989023/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/08/man-320276_1280.png",
-          "width": 1240,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

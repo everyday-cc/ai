@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-28-mcdonalds-and-ibm-could-bring-ai-powered-drive-thrus-to-more-restaurants.md",
+      "title": "McDonald's and IBM could bring AI-powered drive-thrus to more restaurants",
+      "excerpt": "McDonald's might not be the only restaurant experimenting with AI-based order taking in the ... while bolstering IBM's Watson-powered customer service offerings. The deal is expected to close ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/mcdonalds-ibm-ai-food-orders-131806578.html",
+      "originalUrl": "https://www.engadget.com/mcdonalds-ibm-ai-food-orders-131806578.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-images/2020-06/b72651f0-ab1b-11ea-ab97-77d87c130d3e",
+          "width": 5616,
+          "height": 3744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-driving-ai-adoption-with-explainability-at-the-core.md",
       "title": "Driving AI Adoption With Explainability At The Core",
       "excerpt": "Some business leaders are still wary of enterprise-wide AI adoption and are taking a one-step-at-a-time approach toward it.",
@@ -1337,49 +1389,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-social-service-agencies-turn-to-the-cloud-and-ai-to-serve-families-in-crisis.md",
-      "title": "Social Service Agencies Turn to the Cloud and AI to Serve Families in Crisis",
-      "excerpt": "The pandemic and other crises have pushed social service agencies past their limits. They’ve struggled to process record-setting spikes in unemployment claims, housing assistance requests and other emergency services.",
-      "sourceUrl": null,
-      "webUrl": "https://statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis",
-      "originalUrl": "https://statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202109/ST_Q421_Delaney_Hero.jpg?itok=IVvTzz0J",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis?amp",
-      "cdnAmpWebUrl": "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis?amp",
-      "publishedDateTime": "2021-09-16T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statetechmagazine",
-        "domain": "statetechmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null

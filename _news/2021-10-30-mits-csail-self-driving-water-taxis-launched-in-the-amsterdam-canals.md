@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/29/mit-csail/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/29/mit-csail/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Roboats set sail in Amsterdam canals"
-    excerpt: "Scientists from MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Senseable City Laboratory, together with Amsterdam Institute for Advanced Metropolitan Solutions (AMS Institute) in the Netherlands,"
-    publishedDateTime: 2021-10-27T20:09:00Z
-    webUrl: "https://techxplore.com/news/2021-10-self-driving-roboats-amsterdam-canals.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/one-autonomous-taxi-pl.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "MIT’s Self-Driving Boat Is a Futuristic Robotaxi on Water, Ready to Operate in Amsterdam"
     excerpt: "MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ... According to the project’s representatives, this self-driving ship could easily operate 100% autonomously, 24/7, but for safety reasons, it is being monitored by an onshore ..."
     publishedDateTime: 2021-10-29T04:07:00Z

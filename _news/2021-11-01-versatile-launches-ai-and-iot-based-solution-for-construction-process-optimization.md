@@ -2,23 +2,23 @@
 category: news
 title: "Versatile Launches AI and IoT-Based Solution for Construction Process Optimization"
 excerpt: "American construction and industrial process startup Versatile has launched CraneView, an AI and IoT-based solution for construction process optimization."
-publishedDateTime: 2021-11-01T10:49:00Z
-originalUrl: "https://www.just-auto.com/research-reports/versatile-launches-ai-and-iot-based-solution-for-construction-process-optimization/"
-webUrl: "https://www.just-auto.com/research-reports/versatile-launches-ai-and-iot-based-solution-for-construction-process-optimization/"
+publishedDateTime: 2021-11-01T10:50:00Z
+originalUrl: "https://www.just-drinks.com/research-reports/versatile-launches-ai-and-iot-based-solution-for-construction-process-optimization/"
+webUrl: "https://www.just-drinks.com/research-reports/versatile-launches-ai-and-iot-based-solution-for-construction-process-optimization/"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Just Auto
-  domain: just-auto.com
+  name: Drinks
+  domain: just-drinks.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/11/shutterstock_1144060268.jpg"
+  - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/11/shutterstock_1144060268.jpg"
     width: 500
     height: 334
     isCached: true
@@ -41,6 +41,6 @@ related:
         height: 450
         isCached: true
 
-secured: "NifMH960JjthpvsD+p1LsgfI1450WoNw6TEGoXSEr6Kqr5YSr1m+KEmIEH8MwjQVaI8sx+4s7Qv7XRbOLj9sqgK5pDPIuwNUA1jMZH50R4RKRFCdom41Vrpiy7JTXEpeVLcL8jaoGjTESPKFVwVqLj5vuo24z0KKGsZskcXvzTWHRi+c1btZHnLL4YoJ51YBdZUvDRarL9nv0/Y2S9fyC7ECFYPEmbn6SBVWoPzeojxahRcQq3xqH69IN540QZ/xaN6d5kkss2yzx+ZWfyQhLUdR+LghFBnJZt8liK9raQbhKmLAXOMMpkc6HYQsHhAnRDnf5mIATtSP6G96Vm9unElLtwmUWI40W8S58flXnBE=;6ELf97w97VYU4chm1GdJRw=="
+secured: "Faxl/XZ6i+p8Vy9/m4BM5VZNDsiXvWQX/xJldxW9i3l5BKVBGmhnlxyJikwrMiYA4WfowJ2kbkca7WfZMkKTv3g39vAHLPSzcNixS98hbpr34pgl22zaFo0Pa0Gb8QqtcO0qX3dJU9XiNrfdomHHqEH0bm3q6NFdGUDdkJStchXcnMUIAAk3poYG4+C4l5T0AIOtPSgBnAMvKXplPzo6lxeG/Jz9DUj44bG7Bjb0GbInlumTqsnYLd0X/0MHPkxHOh2gxYUHFz0xXZgZ3iO5QSlrtMQB7L69Kgsvaayol2rayodJGS+ubxho7/6IXH8vjKzCKZ9IZdAJQrCeAYJtLqrLl5SoKS9ahVN+CNR1ChU=;9J/b0e/QyTLyP+LsT3gsVw=="
 ---
 

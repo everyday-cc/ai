@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robot
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 876
     height: 493
     isCached: true
-
-related:
-  - title: "Rule of the Robots: How Artificial Intelligence Will Transform Everything"
-    excerpt: "How Artificial Intelligence Will Transform Everything’ is authored by Martin Ford and was published on September 14th, 2021. Know the review here!"
-    publishedDateTime: 2021-10-27T19:30:00Z
-    webUrl: "https://www.analyticsinsight.net/time-for-book-review-rule-of-the-robots-by-martin-ford/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 53
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Time-for-Book-Review-‘Rule-of-the-Robots-by-Martin-Ford.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "iHTXvuQX+Z/hFs8+gQmuygdHkRn+dhv7WQ20Ru5PUb9Ii7Kx6anuDoVxXiTwjiSw/tS52BoqkNlvVXQYZP4COovURbmfuTz9KbAz0oNi+LwDdVZEv4cTRwwf55cCOHKAOtkI4qTj2psgnsvFgcwCUcG/GqXFM5bS4zAYe5/6f15ZC2cWIFlgxCpPohYty1Lbxgx+Q/NqHf8s9LoNIUqcrRHjmlTko6kfzLJMAI7VHctrRKWLNMzqT9HIY92SnqpDzsEaf8Dd67GJrb4Gg0dW3nWmgvW8Fx0iODwBLwExFcy/LT5v+ocRxxeN/PvtNApfszYZx1cCj4FIFzIVv1An5SdjsUXCB7R389kolFuPqes=;zC7pRIkp2rS+YcdNLrbHCg=="
 ---
