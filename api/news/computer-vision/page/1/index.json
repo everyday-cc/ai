@@ -141,6 +141,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-28-delta-airlines-using-facial-recognition-to-check-in-travelers.md",
+      "title": "Delta Airlines Using Facial Recognition to Check-in Travelers",
+      "excerpt": "A new facial recognition technology being used by Delta Airlins will analyze people's faces and compare them to passport information stored in a TSA database. Local Health Departments Prepare As ...",
+      "sourceUrl": null,
+      "webUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/",
+      "originalUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/A37/DED/A37DED67A23E096BAE785B57DF9F72CA.jpg?Expires=1729987200&KeyName=mcpkey1&Signature=aurFBxgHrBcuZZ6Law-LjsYkO8k",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp",
+      "cdnAmpWebUrl": "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp",
+      "publishedDateTime": "2021-10-27T19:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Detroit",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027.md",
       "title": "Global Computer Vision in Healthcare Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027",
       "excerpt": "Global Computer Vision in Healthcare Market 2021-2027 unveiled by MarketsandResearch.biz contains an extensive assessment of the business vertical and features the distinctive market segments. The report provides brief information about market size,",
@@ -149,7 +192,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -202,7 +245,7 @@
       "originalUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -1407,41 +1450,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-amazon-to-extend-ban-on-police-use-of-face-recognition-tech.md",
-      "title": "Amazon to Extend Ban on Police Use of Face Recognition Tech",
-      "excerpt": "Activists have targeted Amazon Web Services cloud computing unit's \"Rekognition\" facial recognition technology and Ring surveillance cameras used for home security. It was not clear the degree to which police have used the systems. Amazon last year called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "originalUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "publishedDateTime": "2021-10-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

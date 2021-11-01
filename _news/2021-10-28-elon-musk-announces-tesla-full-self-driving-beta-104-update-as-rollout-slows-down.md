@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-d
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/Tesla-Full-Self-Driving-Beta-Hero.jpg"
         width: 1500
         height: 742
-        isCached: true
-  - title: "Tesla reverses \"Full self-driving\" beta update after sudden braking reports"
-    excerpt: "Driving\" beta update it had sent to some drivers' cars, after reports that a software bug could cause vehicles to emergency brake unexpectedly, or experience phantom forward-collision alerts."
-    publishedDateTime: 2021-10-27T12:49:00Z
-    webUrl: "https://www.bitdefender.com/blog/hotforsecurity/tesla-reverses-full-self-driving-beta-update-after-sudden-braking-reports/"
-    type: article
-    provider:
-      name: Bitdefender
-      domain: bitdefender.com
-    quality: 37
-    images:
-      - url: "https://blogapp.bitdefender.work/hotforsecurity/content/images/2021/10/tesla-drive.jpeg"
-        width: 800
-        height: 420
         isCached: true
 
 secured: "ynwPG5sFofHahk3CTV2mb5cvVOW6RS2AVcB0VUTi8IsTpSCcqS6S/zoUVFVOt+XdTa1I5iIE/m20CcAseJdIQfG9lKwXf07jiKR/biIFjenwLIr60EzReH+MHHz+TL+YZoiDpXXG5qpytOlmjjmuPxlc0caBGCGx1bpAqA79CT6L6V3K3rNzemnTyUPeVd8JdcPHbFg0RdYT+lvze88OcEoclVVKsdvFvqRuzVkhcAiHEinLsC2y9xNg/UZwrfx1AeW9n0QSQKLRJDYf/kZiIZD9IwCdNT57YA4WenQMvrO8nCPm1nJhwztA5GdHQp4GGfoA85sZ3wCb5UPsgCh0iZETJ1BJMEz/LruBhkk+G7GBedGYB4oTD2HeIfkymfvgmuv5MDWYJGXpikkxG7JOuBWrcU5sZ3iEJobI7AVd4+IsVyHSNFrLapmXs2XwOsCF7RbqJU/7CmC4Di46IhmEbVxHzG7IcnOtL6lLmuHDpHsxRnyfYLzIRCjzhR4QTTU2QR40IyoHrc5OQmPNvzIj2w==;z3IqYYF48OjLI+Uv/STvGQ=="

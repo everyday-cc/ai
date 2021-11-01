@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-22-leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms.md",
+      "title": "Leopard Imaging Launches Hawk 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms",
+      "excerpt": "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced its new 3D Depth Hawk camera supporting the NVIDIA Jetson edge AI and Isaac robotics platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1030886910",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1030886910",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1667150/Leopard_I.jpg",
+          "width": 747,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-robot-artist-ai-da-released-by-egyptian-border-guards.md",
       "title": "Robot artist Ai-Da released by Egyptian border guards",
       "excerpt": "A British-built robot that uses cameras and a robotic arm to create abstract art has been released after Egyptian authorities detained it at customs. Ai-Da, named for the mathematician Ada Lovelace, was seized by border agents last week who feared her robotics may have been hiding covert spy tools.",
@@ -1301,49 +1354,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-robots-with-an-artificial-intelligence-system-began-operation-in-dubai-uae.md",
-      "title": "Robots with an artificial intelligence system began operation in Dubai, UAE",
-      "excerpt": "Security robots model S5.2 Picard started to protect commercial real estate. Picard is the most advanced model of robots in the new S5.2 series introduced in 2019.Security robots of this model",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/kwikset-diy-locks-access-control-920.gif",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "publishedDateTime": "2021-10-11T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
         "images": null,
         "publishers": null,
         "authors": null

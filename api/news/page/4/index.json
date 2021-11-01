@@ -2,6 +2,160 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-27-robot-taxi-boats-take-to-the-water-in-amsterdam.md",
+      "title": "Robot taxi boats take to the water in Amsterdam",
+      "excerpt": "The self-driving boat, dubbed Roboat III, is the creation of MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the Senseable City Laboratory, and the Amsterdam Institute for Advanced Metropolitan Solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
+      "originalUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b28ff8b30f4357577c4bd78f6367cfa9959b5b56/2021/10/25/c75fd06e-1512-4c6e-9770-86eb11d8f1cc/screenshot-2021-10-25-at-10-58-37.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 791,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
+      "publishedDateTime": "2021-10-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-unpacking-ai-and-key-drivers-for-modern-business-environments.md",
+      "title": "Unpacking AI And Key Drivers For Modern Business Environments",
+      "excerpt": "C-level business leaders such as chief information officers, chief technology officers and chief financial officers must strive to understand that. How quickly the adoption, efficiency and efficacy of these technologies work depends on the approach and blueprint that are developed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/amp/",
+      "publishedDateTime": "2021-10-27T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-adobes-project-in-between-uses-ai-to-create-living-photos.md",
+      "title": "Adobe's Project In-Between uses AI to create 'living photos'",
+      "excerpt": "As part of its \"sneaks\" session today, Adobe will demo Project In-Between: an AI-based tool that creates what the company calls \"living photos\" from separate still images. Using Adobe Sensei AI, the tool makes an animation between two or more photos with a single click.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/adobe-project-in-between-preview-130017575.html",
+      "originalUrl": "https://www.engadget.com/adobe-project-in-between-preview-130017575.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/9eab3980-3722-11ec-be5f-3f90f7e9f1a5",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality.md",
       "title": "This Automotive Company Revs Up Machine Learning To Turbocharge Engine Quality",
       "excerpt": "With help from SAP, Mumbai-based MHEL replaced its outmoded physical engine testing with virtual testing – using artificial intelligence and machine learning while incorporating data from a variety of sources.",
@@ -1100,153 +1254,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-how-machine-learning-speeds-up-power-bi-reports.md",
-      "title": "How machine learning speeds up Power BI reports",
-      "excerpt": "Machine learning delivers insights in Power BI reports—and it enables you to get a large amount of data into your reports to generate those insights more quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-machine-learning-speeds-up-power-bi-reports/",
-      "originalUrl": "https://www.techrepublic.com/article/how-machine-learning-speeds-up-power-bi-reports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/26/474c6c29-95d0-40b3-858b-07d93a25467f/resize/1200x/d5131a4c50e74c49613e984987cbbda4/shutterstock-1062915260.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
-      "publishedDateTime": "2021-10-26T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read.md",
-      "title": "How Instoried Is Using AI To Turn Your Content Into Something People Actually Want To Read",
-      "excerpt": "Enter Instoried, which is today announcing the completion of an $8m funding round as it launches its content enhancement platform in the US. Powered by artificial intelligence (AI), Instoried provides instant feedback on the written content created by businesses and individuals,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61782f4d6dade68bd54813b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2175%26cropY1%3D339%26cropY2%3D1562",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/",
-      "publishedDateTime": "2021-10-26T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-icaif21-showcases-how-artificial-intelligence-is-transforming-finance.md",
-      "title": "ICAIF'21 Showcases How Artificial Intelligence Is Transforming Finance",
-      "excerpt": "ACM, the Association for Computing Machinery, will hold the 2nd ACM International Conference on AI in Finance (ICAIF'21), virtually from November 3-5, 2021. More than 950 people registered for the inaugural conference,",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103049537/ICAIF21-Showcases-How-Artificial-Intelligence-Is-Transforming-Finance",
-      "originalUrl": "https://menafn.com/1103049537/ICAIF21-Showcases-How-Artificial-Intelligence-Is-Transforming-Finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/banners/b45ebf54-a.png",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

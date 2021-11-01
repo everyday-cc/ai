@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/program-give-ai-ethics-sometimes/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/program-give-ai-ethics-sometimes/amp"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 2400
     height: 1350
     isCached: true
-
-related:
-  - title: "The ethics of artificial intelligence"
-    excerpt: "Maura R. Grossman, JD, Ph.D., is a Research Professor in the Cheriton School of Computer Science, an Adjunct Professor at Osgoode Hall Law School, and an affiliate faculty member of the Vector Institute for Artificial Intelligence."
-    publishedDateTime: 2021-10-27T12:20:00Z
-    webUrl: "https://techxplore.com/news/2021-10-ethics-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-ethics-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-ethics-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 78
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/the-ethics-of-artifici.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "WnsgCnUpiOCMaVhSVLvoK1044qQ9TuLjCIn6hWDOs7Ggh1Q0mK+KEs/eEWDRpaRH9iGsrxFuwAGLOrz2vaLyKy/6JD9nzRsZ8frELVPIKoBAJy7/JVbv1Duj0DR24D/WzGMfGdwnOm1BTjZuyyMRVGEnC3Fkh1wWnVApGXpPbH+h8N+XcDjgBsSlHdKCzsh7j43unvLYFSw2tkfSmDmWk8O79NB0QhkdJGHQ10SvyYvvHBVJLawaX40pb8CEPHsO8ouGKQe4pTNHcq1ZXlwA1GNTQIiA7ZeAgGNzWpi0KyFpwjhqrRAE/fPQ+OmB0EBLxXwbvB1mMkVH/5jKvG794DwYpdJdvwuiX84ZBDO/XuzJgDv8nX640CLp8dFdROPnJa7i3qh1tV3cf+Tan7R7h9mvo7KaCo25xSZpN3aU8OkhLqwL60wnrDWdo7KoXAL45F5ldJ0r5TJLs+Ku/xHR0y1jYMZJ0tzOkH84OStFlRhY48GxzCmOUGQvU1XIp6+KAV2KqlnwEg8e16s05Rwc8g==;Cc2oOeGNBjn1xtogGwte6Q=="
 ---

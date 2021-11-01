@@ -42,6 +42,20 @@ related:
         width: 4000
         height: 2667
         isCached: true
+  - title: "McDonald's and IBM could bring AI-powered drive-thrus to more restaurants"
+    excerpt: "McDonald's might not be the only restaurant experimenting with AI-based order taking in the ... while bolstering IBM's Watson-powered customer service offerings. The deal is expected to close ..."
+    publishedDateTime: 2021-10-28T14:24:00Z
+    webUrl: "https://www.engadget.com/mcdonalds-ibm-ai-food-orders-131806578.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 68
+    images:
+      - url: "https://s.yimg.com/os/creatr-images/2020-06/b72651f0-ab1b-11ea-ab97-77d87c130d3e"
+        width: 5616
+        height: 3744
+        isCached: true
   - title: "McDonald’s is selling its automated ordering lab to IBM"
     excerpt: "The burger giant is selling its McD Tech Labs, created after its 2019 purchase of Apprente, as part of an agreement with the tech giant to"
     publishedDateTime: 2021-10-27T13:42:00Z

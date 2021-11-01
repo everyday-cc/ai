@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft Azure and Google Cloud results soar as the world goes digital"
-    excerpt: "Microsoft Cloud generated $20.7 billion in revenue for Q3 2021, which is an year on year increase of 36%, driven by a 50% growth in Azure and other cloud services revenue. Similarly, Google Cloud revenues neared $5 billion thanks to a 45% jump,"
-    publishedDateTime: 2021-10-27T11:45:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital/"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-and-google-cloud-results-soar-as-the-world-goes-digital"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 104
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "Text-to-Speech Market with Attractiveness, Competitive Landscape & Forecasts to 2027| Nuance Communication, Microsoft, Sensory"
     excerpt: "As a result of expanding penetration of AI, analytics, and IoT systems in the region, APAC is witnessing significant momentum for speech recognition solutions integrated into text-to-speech. Countries establish various beneficial regulations for increasing ..."
     publishedDateTime: 2021-10-29T13:15:00Z

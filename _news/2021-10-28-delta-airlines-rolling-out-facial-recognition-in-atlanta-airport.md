@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "First Look: Delta, TSA Launch Facial Recognition At Atlanta Airport"
-    excerpt: "The next step in airport automation has become a reality, just in time for the holidays. Delta Airlines, the Transportation Security Administration (TSA), and a travel tech company called Pangiam have partnered up to bring facial recognition technology to the Hartsfield–Jackson Atlanta International Airport (ATL)."
-    publishedDateTime: 2021-10-27T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/"
-    ampWebUrl: "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6179439eb80f6c3c90620ec3%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Delta Airlines Using Facial Recognition to Check-in Travelers"
     excerpt: "A new facial recognition technology being used by Delta Airlins will analyze people's faces and compare them to passport information stored in a TSA database. Local Health Departments Prepare As ..."
     publishedDateTime: 2021-10-28T02:33:00Z
@@ -89,19 +73,37 @@ related:
         width: 5400
         height: 3038
         isCached: true
-  - title: "The future of flying: Delta, TSA to launch touchless airport experience via facial recognition"
-    excerpt: "Delta Airlines is launching a pilot program that allows travelers to simply scan their face in order to drop their bag, pass through TSA, and board their flight."
-    publishedDateTime: 2021-10-28T02:33:00Z
-    webUrl: "https://www.whas11.com/video/travel/the-future-of-flying-delta-tsa-to-launch-touchless-airport-experience-via-facial-recognition/417-db5faf99-70ce-476b-888d-65cb506f2afc"
+  - title: "Ed's Tech Notes: iPhone Stores Vaccine Data, Delta Face Recognition, Drones For Farming"
+    excerpt: "Phone users can now store their vaccine information into their apple wallet but extra steps will be needed. Delta Airlines testing facial recognition for some of their loyalty program members, and Purdue University is testing drones for farming."
+    publishedDateTime: 2021-10-31T13:13:00Z
+    webUrl: "https://chicago.cbslocal.com/video/6151304-eds-tech-notes-iphone-stores-vaccine-data-delta-face-recognition-drones-for-farming/"
+    ampWebUrl: "https://chicago.cbslocal.com/video/6151304-eds-tech-notes-apple-wallet-can-store-vaccine-card-delta-face-recognition-drones-for-farming/?amp"
+    cdnAmpWebUrl: "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/video/6151304-eds-tech-notes-apple-wallet-can-store-vaccine-card-delta-face-recognition-drones-for-farming/?amp"
     type: article
     provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 42
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 51
     images:
-      - url: "https://media.whas11.com/assets/WHAS/images/ea893a1c-2574-48c7-b0e4-8c688281b6ba/ea893a1c-2574-48c7-b0e4-8c688281b6ba_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/F7C/F5D/F7CF5D8011202636A69CEFE2FF0E66ED.jpg?Expires=1730332800&KeyName=mcpkey1&Signature=S1SdWkZmWTCyZYUxKxxk_Uqe2rA"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Ed's Tech Notes: Apple Wallet Can Store Vaccine Card, Delta Face Recognition, Drones For Farming"
+    excerpt: "Phone users can now store their vaccine information into their apple wallet but extra steps will be needed. Delta Airlines testing facial recognition for some of their loyalty program members, and Purdue University is testing drones for farming."
+    publishedDateTime: 2021-10-31T13:11:00Z
+    webUrl: "https://chicago.cbslocal.com/video/6151304-eds-tech-notes-apple-wallet-can-store-vaccine-card-delta-face-recognition-drones-for-farming/"
+    ampWebUrl: "https://chicago.cbslocal.com/video/6151304-eds-tech-notes-apple-wallet-can-store-vaccine-card-delta-face-recognition-drones-for-farming/?amp"
+    cdnAmpWebUrl: "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/video/6151304-eds-tech-notes-apple-wallet-can-store-vaccine-card-delta-face-recognition-drones-for-farming/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 46
+    images:
+      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/F7C/F5D/F7CF5D8011202636A69CEFE2FF0E66ED.jpg?Expires=1730332800&KeyName=mcpkey1&Signature=S1SdWkZmWTCyZYUxKxxk_Uqe2rA"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "K4XDGPN7VtK4XAflPm/I9m31kUXptwzzsl4XcsOc7ZsiSVZuodAuw2S726KWrj/2kc0GajRXM1qrK50WR6gDtwV/aZoSnB67E63sKCrHdUj1XsWNFy82AzZ9aLzRf7A3xI9P64+DUkegsErCe0dPWCgBzPWnOvlBPf4e/OdJ4yXC5YI6KUtc6ZoVWkWlA6GF3psykx7Fz3O3iwqqYRym0XjV7yrza/NoaR/wUuPlS2xaJxqHA0E+PHGT1l+nFB9o2A5U+X/Zr7pNUG9xTWqmI3VFAq0PtuCa+hnXW9u2wWmoblGSDQea49Yw0R1uC87I4klPQ/qn/TuE9oLjT33rm+iVniEtFcHk261l3Iz8iTzS6jXIVR8t32LJO+zUL+Oy9ZJG2zS/rdX+fyK5ZMBKUnRACikEhGiLgZEYfAA8hO/hD42GFyaoUkbbYr+59jVCStXsZCoJLL+sdxD1no7jmPdoXmpR1cDC4ewf5Kd9ZJMd97T//gB7mgxnmgVlViG6P7HA84pDMkCP/SQKI86YNQ==;ygOEk8tNcvaIDhEOQsunHg=="

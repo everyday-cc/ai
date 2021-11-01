@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/"
 type: article
 quality: 204
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
-    excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,"
-    publishedDateTime: 2021-10-27T17:25:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 52
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Abacus.AI gets $50M in funding and dives into computer vision and hybrid AI models"
     excerpt: "Machine learning operations startup Abacus.AI Inc. is in the news today after raising $50 million in a new round of funding and launching platform updates that include support for hybrid deep learning models and a new computer vision-as-a-service offering."
     publishedDateTime: 2021-10-27T16:00:00Z
@@ -76,6 +62,24 @@ related:
         width: 940
         height: 512
         isCached: true
+  - title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
+    excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company"
+    publishedDateTime: 2021-10-27T17:24:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+  - title: "SKT’s CEO Announces Vision to Become AI & Digital Service Company"
+    excerpt: "SK Telecom (NYSE:SKM, hereinafter referred to as \"SKT\") today announced that CEO Ryu Young-sang held a town hall meeting to present the company's new vision to shape into an \"AI & Digital Infrastructure Service Company\" that creates new value through customer-oriented technologies and services,"
+    publishedDateTime: 2021-11-01T05:19:00Z
+    webUrl: "https://www.publicnow.com/view/FF3250CA7F72041F26572DEFD5D3616A787DED5F"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 17
 
 secured: "jMWlKUw53e9GAKNejzUsDNvSBicsix4e7n4dBtg5uyA3kWCefHgvGoRH+JNMNOsusBsQ9QdLhQ0SmHAtKO5E5GpNxsEEzIaxLOqy3cmuOuNU4QbJdHD8gg5J6yoegB1/+LYLp02FTtD7k3mdKeXXdt6mrYH5B3JTWoa3i82fRv0j8h35IXnjvBJKOwwnGNdrjusfRS2Tj9u4vTmdBYqAhsbgFiZL+ZanCEHrKbNYhBcG7LRJ7jlXi7x62LDRG7/V0mVSysQCs3k9lWvxzeusDqm1r7F4czOu16kk10FJFseygaHa1XXkpRyg3rEpgn38S8kUWgRpVt0YjHqHyCFSetCbG2fvA8o8kZgKdeBCfTZU7LqYNvU2HDgROLGYdNVRuda0yHQejV9Zph4w5jjfK3oIVpQtdtDqAP25EdjwRekbNwO8JK5CID2hOpV8qmEinh/af9DNuaTwIQ0cjjmg9sx8eUBq97Q5CU4iIhvi23HfwyMvbbkPkivpQVYr309+4kwywaMz0MWT3aE+J7J9Jrv/E7AC0g9Oh5ckGy1DmiE=;yZucgDJvOuVtaJ8Pzqgh3g=="
 ---

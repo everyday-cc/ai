@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
-excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,"
-publishedDateTime: 2021-10-27T17:25:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2"
-webUrl: "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2"
+excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company"
+publishedDateTime: 2021-10-27T17:24:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html"
+webUrl: "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html"
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Abacus.ai snags $50M Series C as it expands into computer vision use cases"
@@ -71,7 +65,16 @@ related:
         width: 940
         height: 512
         isCached: true
+  - title: "SKT’s CEO Announces Vision to Become AI & Digital Service Company"
+    excerpt: "SK Telecom (NYSE:SKM, hereinafter referred to as \"SKT\") today announced that CEO Ryu Young-sang held a town hall meeting to present the company's new vision to shape into an \"AI & Digital Infrastructure Service Company\" that creates new value through customer-oriented technologies and services,"
+    publishedDateTime: 2021-11-01T05:19:00Z
+    webUrl: "https://www.publicnow.com/view/FF3250CA7F72041F26572DEFD5D3616A787DED5F"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 17
 
-secured: "Or2Xh9ESdk4uc8PvXK0vx0sg2StiNeEkyJHCpIamA3yJ9oWEeu6A0TCNkHX1aN2eOh8V5hg8BM8+yACVKaJriXYG8nmYYYMJFolhVlIZWJ9J6X2DyhBmGpCW4gNHS1ufJ5y6I7B/J+V+94ko3RlBaGS9tltCPIjE0XJ/P2cx32afSj388kQk7VxBSotRGUPi+GhhBDSQuR8Uwtk6Kpdr49EOLdYMD62l7HAfOeA+iMHvqV8yRQdKYku4eWoDGAFEHDa8J0rcRoCzCLrwNPk3URsEy44Ea9DrQRJ45PusQDoORIP6HUDXJMkEMKEP/nbTTuCVus1OYbk63JrLhHe1lYZtIJ0LN6z2tkMB2EdxPa0=;coWDQGSpydB78lOraTld3w=="
+secured: "tIGietMUVu3XqxJ31ltPdUJbEDt+BDscXOZC/ZXTM0lGTVR4iDuq9G/k3XxNKbj58sva2Wus3TRfz7Ob8bQUGP6sEoySyW6PoyjDJsFAlwhWeyZOAinRQkkliaVl1JPCaKKymzsZHoduej+VEmETLZwibQbwR8qQ422NGsIUgdVEQUiPMbiG1H8TimyiBf4k5zo88JsH1UPg4WuOIuEK+8JcVi0AqbF69LZhCG4SgZQPvNw61lAomPOF38AkQK0AVzTPhReYIsXb1yNcJ+rzZmFtU7kB8Jl0+JANoP2ebkK+FULcDRksRB5rie9nvefMenQMMziPAxSb+xS058NAuO3AEAl8zW/1381JWI4A4us=;tsB/2yLIoh5WZKJfpbkPfg=="
 ---
 

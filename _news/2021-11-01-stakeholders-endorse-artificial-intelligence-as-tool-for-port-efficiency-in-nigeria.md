@@ -23,6 +23,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Nigeria: Stakeholders Endorse Artificial Intelligence As Tool for Port Efficiency in Nigeria"
+    excerpt: "Stakeholders in the Nigerian maritime industry have identified deeper application of technology as a way to achieving an efficient port system in Nigeria."
+    publishedDateTime: 2021-11-01T05:28:00Z
+    webUrl: "https://allafrica.com/stories/202111010103.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 26
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+
 secured: "r8m9MEHo4qe/Dbr1BLg3ocArjLAsMI+kPPSW6hMTu0FxWfkPCdzge1O9tyrzjQ/J//Z2YUDXyGoYXikuesy7Hvmhn7HwtmnTqYkF3BC+goLsbBF4HDvldc+l6/W/InA752smsPMQAxAIdJaCxoAfciD1vbhrPmV7IaepJK8JHuajN4qHjjdwMalKSt5ZgicXSLKvJv/H3JF15R04+xnUMHQ25Xcvj2oEnDkt2TM1yd/GMtq5UtyCRqeFqw30X+YCAyr0CSwpcQ3w9WWqMNPHy4lSsMdnNDCyrg3tdKlzqZF2Ib95KwMXtcW0LgDf6QF3bTkJwuXV2mRvQB7GHWIEWiaphX+qemCWPyIP3rg48oU=;y8qRHFMdI7DTj6ZqZEEX+w=="
 ---
 

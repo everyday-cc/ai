@@ -47,20 +47,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
-    excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,"
-    publishedDateTime: 2021-10-27T17:25:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 52
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Abacus.AI gets $50M in funding and dives into computer vision and hybrid AI models"
     excerpt: "Machine learning operations startup Abacus.AI Inc. is in the news today after raising $50 million in a new round of funding and launching platform updates that include support for hybrid deep learning models and a new computer vision-as-a-service offering."
     publishedDateTime: 2021-10-27T16:00:00Z
@@ -75,6 +61,24 @@ related:
         width: 940
         height: 512
         isCached: true
+  - title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
+    excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company"
+    publishedDateTime: 2021-10-27T17:24:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+  - title: "SKT’s CEO Announces Vision to Become AI & Digital Service Company"
+    excerpt: "SK Telecom (NYSE:SKM, hereinafter referred to as \"SKT\") today announced that CEO Ryu Young-sang held a town hall meeting to present the company's new vision to shape into an \"AI & Digital Infrastructure Service Company\" that creates new value through customer-oriented technologies and services,"
+    publishedDateTime: 2021-11-01T05:19:00Z
+    webUrl: "https://www.publicnow.com/view/FF3250CA7F72041F26572DEFD5D3616A787DED5F"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 17
 
 secured: "ZhBatMJGTr9qgn7EXGafDyXb1MbxOUEbtZw/WGiXJ00Eawm8uWd0zOFu93nrHkBMc75ZoABJNxj5LwSbY/JMt3Ym+JWQCqeFvjiyCcLpPNRt61BfdR2Myol8Oake/bYrsJjozuE+FDzxUv0AL+6hIB+Ud9k8HPZBCPuXbXDi6MES3U+/14HJTrxQRr41WN3rtL1o1xV3LdmyWVIl/jeZckYhbExCKAFQ8QLfPTY/Gy6VGGstIJxyYuy0Fp/GGZpXNutssQyVb8d0C9v8P2iAA/5rHAnbcj10tJfTjkCAhmCXXF2coG6gNp9dzF7rxJx7ocDNHzISULxI6LN6FxtC2lLabXaG167StEvYUGPwziIR/KAJ9LVZ4JpuTJbSTIePFwS/zV7VYlnLhOLT8eLYBVYBF31AKd+TnbvZ9nBRNVtuLgVKYVOGDRb4A9WH97xBY+OqXZc98Q3uih+fCOrmpK4vS7/wNqc1J9miMgFmCHlrLgIciJ/iByZDPllxXjOJGhA77JDJrqcIcQ/Bkm7acA==;yk6T/bThLMfcSCGWFDsHFA=="
 ---

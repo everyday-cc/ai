@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partn
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html"
 type: article
 quality: 169
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "McDonald's and IBM could bring AI-powered drive-thrus to more restaurants"
+    excerpt: "McDonald's might not be the only restaurant experimenting with AI-based order taking in the ... while bolstering IBM's Watson-powered customer service offerings. The deal is expected to close ..."
+    publishedDateTime: 2021-10-28T14:24:00Z
+    webUrl: "https://www.engadget.com/mcdonalds-ibm-ai-food-orders-131806578.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 68
+    images:
+      - url: "https://s.yimg.com/os/creatr-images/2020-06/b72651f0-ab1b-11ea-ab97-77d87c130d3e"
+        width: 5616
+        height: 3744
+        isCached: true
   - title: "McDonald’s Partners With IBM to Replace Drive-Thru Employees With AI"
     excerpt: "McDonald’s is partnering with IBM to implement artificial intelligence tech to take orders at its drive-thru lanes. “In my mind, IBM is the ideal partner for McDonald’s given their expertise in building AI-powered customer care solutions and voice recognition,"
     publishedDateTime: 2021-10-28T16:55:00Z

@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Top 10 Companies in Image Recognition Market Industry 2021 By Fortune Business insights"
-    excerpt: "The globalImage Recognition Marketis expected to rise with an impressive CAGR and generate the highest revenue by"
-    publishedDateTime: 2021-10-27T11:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-10-companies-in-image-recognition-market-industry-2021-by-fortune-business-insights-2021-10-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automatic Speech Recognition Market Size,Growth 2021–Global Industry Analysis, Trends, Market Demand, Opportunities and Forecast 2025"
     excerpt: "Global Automatic Speech Recognition Market Report provides strategic insights into market opportunities, trends,"
     publishedDateTime: 2021-10-28T05:15:00Z
@@ -88,17 +74,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 27
-  - title: "Artificial Intelligence in Construction Market 2021-2026: Trends, Scope, Demand, Opportunity and Forecast"
-    excerpt: "The Artificial Intelligence in Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Artificial Intelligence in market It particularly sheds light"
-    publishedDateTime: 2021-10-27T11:24:00Z
-    webUrl: "https://www.openpr.com/news/2444188/artificial-intelligence-in-construction-market-2021-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2444188/artificial-intelligence-in-construction-market-2021-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2444188/artificial-intelligence-in-construction-market-2021-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 20
   - title: "Artificial Intelligence In Energy Market Is Booming Worldwide To Generate Exciting Opportunities In The Industry By 2028"
     excerpt: "The Artificial Intelligence In Energy market report discusses in-depth the growth opportunities, challenges, growth drivers, and restraints, threats, and demands of the market. Further, the research assesses the regional market as well as the global market to gather the data into the scope of the Artificial Intelligence In Energy market."
     publishedDateTime: 2021-10-29T08:46:00Z

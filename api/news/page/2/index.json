@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-29-prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector.md",
+      "title": "Prevent fake account sign-ups in real time with AI using Amazon Fraud Detector",
+      "excerpt": "Implementing an effective fraud prevention system is one of the top priorities for businesses that operate online web or mobile platforms. Businesses report millions of dollars of lost revenue each year due to fraud. Platform abuse and fraud prevention largely remain reactive, and is achieved by studying",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/28/ML-6059-featured-1260x630.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T14:32:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras.md",
+      "title": "AI Weekly: The perils of AI analytics for police body cameras",
+      "excerpt": "Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next. In 2015, spurred by calls for greater police accountability, the federal ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/",
+      "originalUrl": "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/GettyImages-695011490.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/amp/",
+      "publishedDateTime": "2021-10-29T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-labor-shortages-outrank-cyber-threats-as-biggest-concern-for-tech-companies.md",
       "title": "Labor shortages outrank cyber threats as biggest concern for tech companies",
       "excerpt": "57% of tech executives responding to CNBC's Technology Executive Council survey said finding qualified employees is the biggest concern for their company right now. Respondents ranked it higher than supply chain issues and cyber security threats.",
@@ -249,7 +352,7 @@
       "originalUrl": "https://www.msn.com/en-us/money/smallbusiness/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/ar-AAQ68e3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -930,7 +1033,7 @@
       "originalUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1128,100 +1231,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-this-program-can-give-ai-a-sense-of-ethicssometimes.md",
-      "title": "This Program Can Give AI a Sense of Ethics—Sometimes",
-      "excerpt": "Isaac Asimov’s famous Three Laws of Robotics popularized the idea that machines might follow human ethics, although the short stories that explored the idea highlighted contradictions in such simplistic reasoning. Search our artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/program-give-ai-ethics-sometimes/",
-      "originalUrl": "https://www.wired.com/story/program-give-ai-ethics-sometimes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61786868a7da35fe9f08a807/master/pass/ai-morals-544024698.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/program-give-ai-ethics-sometimes/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/program-give-ai-ethics-sometimes/amp",
-      "publishedDateTime": "2021-10-28T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort.md",
-      "title": "Northwell, Aegis Ventures to team in multibillion-dollar AI effort",
-      "excerpt": "A new joint venture with Northwell Health and Aegis Ventures aims to be a multibillion-dollar game ... and other team members in developing methods, which, through AI, can “predict, diagnose ...",
-      "sourceUrl": null,
-      "webUrl": "https://libn.com/2021/10/28/northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort/",
-      "originalUrl": "https://libn.com/2021/10/28/northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://libn.com/files/2021/10/Northwell-Health-Exterior.jpg",
-          "width": 1546,
-          "height": 1049,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Long Island Business News",
-        "domain": "libn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

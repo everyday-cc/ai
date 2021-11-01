@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Airlines turn to facial recognition technology ahead of holiday rush"
-    excerpt: "The travel industry is gearing up for what could be its since the coronavirus pandemic began, and at least one U.S. airline is aiming to make things easier and faster."
-    publishedDateTime: 2021-10-27T12:01:00Z
-    webUrl: "https://abcnews.go.com/GMA/Travel/airlines-turn-facial-recognition-technology-ahead-holiday-rush/story?id=80799460"
-    ampWebUrl: "https://goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/travel/story/airlines-turn-facial-recognition-technology-ahead-holiday-rush-80799460"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 74
-    images:
-      - url: "https://s.abcnews.com/images/GMA/delta-airlines-biometric-boarding-01-ht-llr-211026_1635280415660_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Want to participate in the latest automation revolution? Go for a career in Robotics"
     excerpt: "Now is your chance to join the latest automation revolution around the corner by becoming an expert in Robotics. What is Robotics Robotics is an interdisciplinary subject that connects science, engineering and technology to manufacture robots."
     publishedDateTime: 2021-10-31T08:13:00Z
@@ -93,22 +77,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1635489322107.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Speech And Voice Recognition Technologies Market is Booming Worldwide | Nuance, IBM, Sensory"
-    excerpt: "Advance Market Analytics published a new research publication on Speech And Voice Recognition Technologies Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving"
-    publishedDateTime: 2021-10-27T11:13:00Z
-    webUrl: "https://www.openpr.com/news/2444172/speech-and-voice-recognition-technologies-market-is-booming"
-    ampWebUrl: "https://www.openpr.com/amp/2444172/speech-and-voice-recognition-technologies-market-is-booming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2444172/speech-and-voice-recognition-technologies-market-is-booming"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua27415428_g.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Voice And Speech Recognition Software Market To Be Driven By Technological Advancements In The Forecast Period Of 2021-2028"
     excerpt: "The Voice And Speech Recognition Software market report discusses in-depth the growth opportunities, challenges, growth drivers, and restraints, threats, and demands of the market. Further, the research assesses the regional market as well as the global market to gather the data into the scope of the Voice And Speech Recognition Software market."

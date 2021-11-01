@@ -2,6 +2,154 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-10-15-facebook-ego4d-tracking-your-when-how-what-and-who.md",
+      "title": "Facebook Ego4D tracking your When, How, What, and Who",
+      "excerpt": "Facebook releases a new pair of glasses with cameras, microphones, and proximity sensors aboard, remember this article. Today we’re taking a peek at some research posted",
+      "sourceUrl": null,
+      "webUrl": "https://ai.facebook.com/research/publications/ego4d-unscripted-first-person-video-from-around-the-world-and-a-benchmark-suite-for-egocentric-perception",
+      "originalUrl": "https://www.slashgear.com/facebook-ego4d-tracking-your-when-how-what-and-who-14695225/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/244780342_592679151865430_7743889725254708657_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=2a8MRoAFmnoAX_2IB53&_nc_oc=AQkLFNA0YdAWSi47bFnIWXRYizEKCuYbOcAKNdeJ911EuZC8H3RU7K9HSrQ-Q4VcGs4&_nc_ht=scontent-sea1-1.xx&oh=eb77d9d10d5b9a3f91015768c53d8e47&oe=616ED552",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-awss-bratin-saha-on-how-sagemaker-is-advancing-machine-learning.md",
+      "title": "AWS’s Bratin Saha on How SageMaker is Advancing Machine Learning",
+      "excerpt": "I spoke with Bratin Saha, VP and General Manager, Machine Learning Services, AWS, about how the cloud has enabled machine learning, and SageMaker’s ability to ease ML deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/awss-bratin-saha-on-how-sagemaker-is-advancing-machine-learning/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/awss-bratin-saha-on-how-sagemaker-is-advancing-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/10/New-eSPEAKS-thumbnail-1.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco.md",
+      "title": "Why are Waymo AVs flocking to one dead end in San Francisco?",
+      "excerpt": "There’s quite the conundrum going on in San Francisco’s Richmond District. Waymo self-driving vehicles, which recently started offering rides to select passengers in the city, are reportedly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/question-of-the-day/why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco",
+      "originalUrl": "https://www.govtech.com/question-of-the-day/why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/0ed328f/2147483647/strip/true/crop/940x490+0+46/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa0%2F40%2Ff54af073727f3f1d09fcd332e8ba%2Fwaymo.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/question-of-the-day/why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco?_amp=true",
+      "publishedDateTime": "2021-10-14T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-15-report-80-of-consumers-prefer-to-speak-with-ai-to-avoid-long-hold-times.md",
       "title": "Report: 80% of consumers prefer to speak with AI to avoid long hold times",
       "excerpt": "The survey also found that 91% of consumers reported that they've experienced poor customer service in the past six months.",
@@ -93,50 +241,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-seeq-expands-machine-learning-support-to-democratize-data-science-innovation.md",
-      "title": "Seeq Expands Machine Learning Support to Democratize Data Science Innovation",
-      "excerpt": "New initiative facilitates the integration of machine learning algorithms from open source, third party and customer data science teams into Seeq applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
-      "originalUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/c87f3858-574b-4646-8810-5bfab7d95b8d/Seeq-news-Oct-14-2021-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -266,6 +370,50 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-seeq-expands-machine-learning-support-to-democratize-data-science-innovation.md",
+      "title": "Seeq Expands Machine Learning Support to Democratize Data Science Innovation",
+      "excerpt": "Customer-developed algorithms in Seeq Data Lab—or machine learning operations platforms such as Microsoft Azure Machine Learning, Amazon SageMaker, Anaconda, and others—as part of data science ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1660673/Seeq_Expanded_ML_Support_release_image.jpg?p=facebook",
+          "width": 2513,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1032,162 +1180,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-the-evolution-of-computer-vision-and-its-impact-on-real-world-applications.md",
-      "title": "The Evolution Of Computer Vision And Its Impact On Real-World Applications",
-      "excerpt": "Present-day capabilities and applications are only scratching the surface of this technology's potential, which is nearly limitless.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolution-of-computer-vision-and-its-impact-on-real-world-applications/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolution-of-computer-vision-and-its-impact-on-real-world-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6166dee76a8d72827012fd29%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolution-of-computer-vision-and-its-impact-on-real-world-applications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolution-of-computer-vision-and-its-impact-on-real-world-applications/amp/",
-      "publishedDateTime": "2021-10-14T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-facebook-here-comes-the-ai-of-the-metaverse.md",
-      "title": "Facebook: Here comes the AI of the Metaverse",
-      "excerpt": "Facebook is has gathered thousands of hours of first-person video so that neural networks can be developed to operate more capably with data seen from a first-person point of view.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-here-comes-the-ai-of-the-metaverse/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-here-comes-the-ai-of-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cea33ab7569a2a56e6368d94900c1553c4e1067c/2021/10/14/acd9a5f9-79ea-4ae2-92b6-f51c656ce8b5/facebook-2021-before-after-detectron-modelfinal.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/",
-      "publishedDateTime": "2021-10-14T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric.md",
-      "title": "Facebook introduces dataset and benchmarks to make AI more ‘egocentric’",
-      "excerpt": "Facebook's latest long-term research project, Ego4D, focuses on developing AI with an 'egocentric,' first-person perspective.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/14/facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric/",
-      "originalUrl": "https://venturebeat.com/2021/10/14/facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/14/facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/14/facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric/amp/",
-      "publishedDateTime": "2021-10-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

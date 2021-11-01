@@ -98,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-30-humans-in-the-loop-it-takes-people-to-ensure-artificial-intelligence-success.md",
+      "title": "Humans in the loop: it takes people to ensure artificial intelligence success",
+      "excerpt": "When it comes to artificial intelligence, don't try to go it alone. IT departments, no matter how skilled and ready developers and data scientists may be, can only go so far past proofs of concept. It takes people --from all corners of the enterprise and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/humans-in-the-loop-how-people-can-ensure-artificial-intelligence-success/",
+      "originalUrl": "https://www.zdnet.com/article/humans-in-the-loop-how-people-can-ensure-artificial-intelligence-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3e340deff61c10afb5c22b87e7b82acb6a1acaf6/2021/10/30/fd8733e0-ca6a-468f-bbf0-963b05978469/buildings-with-rose-new-york-city-march-2021-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/humans-in-the-loop-how-people-can-ensure-artificial-intelligence-success/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/humans-in-the-loop-how-people-can-ensure-artificial-intelligence-success/",
+      "publishedDateTime": "2021-10-30T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-samsungs-jet-bot-ai-robot-vacuum-is-a-must-have-for-pet-owners.md",
       "title": "Samsung's Jet Bot AI+ robot vacuum is a must-have for pet owners",
       "excerpt": "The Samsung JetBot AI+ looks like the robot vacuum of the future, and has some ultramodern tech under the hood. Credit: leah stodart / mashable Despite their overall hands-off capabilities, most robot vacuums require some sort of pre-cleaning to avoid eaten phone chargers or socks.",
@@ -1370,59 +1422,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms.md",
-      "title": "Leopard Imaging Launches Hawk 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms",
-      "excerpt": "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced its new 3D Depth Hawk camera supporting the NVIDIA Jetson edge AI and Isaac robotics platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1030886910",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1030886910",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1667150/Leopard_I.jpg",
-          "width": 747,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
       ]
     }
   ],
