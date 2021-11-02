@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-03-aws-financial-services-for-payment-industry.md",
+      "title": "AWS Financial Services for Payment Industry",
+      "excerpt": "The payment industry is rapidly transforming and growing due to the influx of new methods, acquisitions, mergers and technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986",
+      "originalUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/10/AWS-Financial-Services-for-Payment-Industry.png",
+          "width": 600,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986/amp",
+      "publishedDateTime": "2021-11-02T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia.md",
       "title": "Machine Learning in Retail Market 2021 is Booming Globally with Top Key Players- IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA",
       "excerpt": "IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA, Google, Sentient Technologies, Salesforce, ViSenze Recently added report provided by QY Reports Machine Learning in Retail Market Presents an Analysis of Market Situation and Challenges.",
@@ -56,7 +100,7 @@
       "originalUrl": "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1273,50 +1317,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-uae-digital-first-bank-mashreq-neo-debuts-facial-recognition.md",
-      "title": "UAE Digital-First Bank Mashreq NEO Debuts Facial Recognition",
-      "excerpt": "Digital bank Mashreq NEO, based in the United Arab Emirates, is letting residents open bank accounts with facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/",
-      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/UAE-facial-recognition-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/",
-      "publishedDateTime": "2021-10-12T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

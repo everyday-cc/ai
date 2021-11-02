@@ -2,28 +2,22 @@
 category: news
 title: "Snapcommerce Announces Addition of E-Commerce and FinTech Veteran Joanne Bradford to Its Board of Directors to Accelerate Mobile Commerce Growth"
 excerpt: "Snapcommerce, the mobile commerce platform that maximizes consumer savings, announced today the appointment of Joanne Bradford to its board of directors. With over $100M USD in total funding and consistent high-double / triple-digit annual revenue growth,"
-publishedDateTime: 2021-11-02T16:06:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-e-commerce-035145cf4f5d4d07bb599f1acf368381"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-e-commerce-035145cf4f5d4d07bb599f1acf368381"
+publishedDateTime: 2021-11-02T16:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-snapcommerce-announces-addition-e-commerce-fintech-veteran-joanne-/2021/11/02/9482984.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-snapcommerce-announces-addition-e-commerce-fintech-veteran-joanne-/2021/11/02/9482984.htm"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "kTg6pRAsqF0rgfEBhj5Bu6PWfXDjuqKRukNBOhpE13pdEpu+XuTDGAvcmYjtyxmZKsZSeDT911GZAfwWlK5U2cudNOfqJcdGAAXUHgeJyoCjT6U7gv+omv6YgFxSRddK0T9WgOtoOdxFt4kGD4bLA8rhA32xowSFHG996sZSCLRjfzrXJM6FIVGo/HZOkcjVBtapCAsIRBLsvFfFqk62qSzbGn2Qn0WDqjcwbU/7QPWBKMJwDNFiAxTQLeeStqHoATydvUb7und8IXy1AkZKlUkVmTwJgybDDN/+2ept86f3Y2NqjoZy9mjnd95Xq2blXyq8gNy8bq/xdcLVzaFkD7iUqe93O/D4Smhdv4MsRxE=;CxUNOXbkdHlNruAw+Abrsw=="
+secured: "2FjwnUjUY2/u4oapSGGKOlxJc3JW+IJa/mbs+mDS3mCa9BYvykjOJmzVj/UP6jsWyc2eK9XdXRytnr1dvkYwsBMQpv/lezSzYqQmOwZ3c18UZog7bTtWB+317Zz8EpZgL3QlbznbfNVKK2U+purI/y4wx+353ifvKyENrX2UruQufyTU5W4X3RuPGTFff1OqjnsonrG2XeSIXe8u6WnffjxY/Unlf6VRkhVctXRJcvh4jwJ+5ZJu86TpP5LiL1fe4+s6U+JXIgR7z3wRlmwkRUfFBJNgmU0ALVKi2HqqyUECyT04tcYDo5MNp/AtVGYuARHly0KC0m9Q1IRn1NL3zteiTo9w9MGkHQp+KvUJdY4=;qdl5oJTeycLolZZgepajxQ=="
 ---
 

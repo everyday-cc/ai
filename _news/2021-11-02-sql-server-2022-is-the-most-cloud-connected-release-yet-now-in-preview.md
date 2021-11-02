@@ -3,8 +3,8 @@ category: news
 title: "SQL Server 2022 is the \"most cloud-connected\" release yet, now in preview"
 excerpt: "Microsoft has released a preview for SQL Server 2022, calling it its \"most cloud-connected\" release yet. Improvements on Azure include the introduction of Chaos Studio and OpenAI Service."
 publishedDateTime: 2021-11-02T15:00:00Z
-originalUrl: "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview"
-webUrl: "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview"
+originalUrl: "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/"
+webUrl: "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/"
 ampWebUrl: "https://www.neowin.net/amp/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 428
     isCached: true
 
-secured: "HZjd2sx1vqduVTevZu6aaShj8BPpMUYVvTzTk++azTr5MA97RXeeJtEFkUKX56sfLHTsrMCC3CNHzyJ1PBozEkTbqTfDSjW+vmihq90ILXs7oj5Kb32OWRVQrEDDMzAvuaY4NWHYwWFrt1NMmRv8q1jdup30kpEcd8CuHxtkTNbgw48WL4ZaOzuAHjT543n9o4vm0VeFkvBU+0x88Ql0WMZRUxZNCrZqtQi2SX6e0Mz8oHYsOoovqDAJY5+vFE3sq4VH+14V6qHz0mkqVad8Mr4+wc3x6E/whBwVBihKl4U/x/duu3SVRgn1r+RxDalGE/ftYgYPxZcT9UVsVvDsj9w+JpqWHS3lW+BoebeAgoFz9t7FFgxHtUF0U24gT8cPkrvGCTiDBw6fGH3WBC4j7uu4eL/SCGGZD9sRr08lmgsyhVgGg5+v7T0CrVcFt4jlJ6j9AfdUFgZeIt2vJ76nzNH/Mv90v7D4vWlJEXAsiUnIucGLflfzsLBYNUp3xLlEz9cNjQNYzSHPQx3bQuSU+Q==;8YK0YjWV1Nfb6dzz0anV7w=="
+secured: "3FF8fGLlEAu5Jdd/2YfhtwgmwWOd+rX1s81UATfbwm07c5AFNrMGEqsYJvT+oTRYEKNhyERojeivl9x/Ypi1dErEcZwygrIgddJ7BdoP0YETslTsUWCdG4GHdw1LzgUhDyfSDVHWDB5b86hwtn0IPHrn4ekAeb7DYLJct/Y6gWGJCcl0L47netqAwXwBQohnt9SyGiC91SwvNlTr6vuTR16dNUCX1+48C6uIm9zJFlGZjIjw4C2St8Y2RPYSPN0hMzCi18lyS0W4r5aKL+44Qu0hkXS32l7lT+paDUk6izUTzEF0c37J3okYCaw59mf8ZmZyNykS37xls0TmX5Y52voa3ve6/dI9MCHSrBGdecw=;ZasbGm+TK7xVQlvHYeCeAQ=="
 ---
 

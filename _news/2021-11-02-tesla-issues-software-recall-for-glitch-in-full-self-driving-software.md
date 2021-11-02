@@ -89,6 +89,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Tesla issues a recall over its latest self-driving update"
+    excerpt: "The software communication error reportedly impacted Tesla Model S, X, 3, and Y vehicles released from 2017 through 2021."
+    publishedDateTime: 2021-11-02T19:11:00Z
+    webUrl: "https://www.popsci.com/technology/tesla-recall-over-latest-self-driving-update/"
+    ampWebUrl: "https://www.popsci.com/technology/tesla-recall-over-latest-self-driving-update/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/tesla-recall-over-latest-self-driving-update/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2021/11/02/0x0-Model3_12-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Tesla recalls 12,000 vehicles due to glitch in ‘Full Self-Driving’ software"
     excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
     publishedDateTime: 2021-11-02T15:00:00Z

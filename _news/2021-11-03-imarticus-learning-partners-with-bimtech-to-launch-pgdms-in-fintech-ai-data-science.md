@@ -175,6 +175,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Benzinga Unveils Global Fintech Awards Finalists"
+    excerpt: "Those with the highest-ranked scores are acknowledged as the 2021 Benzinga Listmakers. Additionally, the nominee with the highest amount of votes from Benzinga’s Public Voting round wins the People’s Choice Award."
+    publishedDateTime: 2021-11-02T19:56:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-technology-27f14bf1b36d15696deac6d631c9100c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI Fintech for Buy Side Raises $47m"
     excerpt: "TIFIN, a fintech platform using AI for wealth and asset management, announced the successful closing of $47 million in Series C funding. TIFIN uses data and investment driven intelligence to drive personalization for wealth management,"
     publishedDateTime: 2021-11-02T05:00:00Z
@@ -217,6 +231,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "S8IdFQb2Ta/JVp6cChNyw7U2GUdre3PexJJH1DFuKPQZ+eCSPRGDdi0XOO9tQea2cToF0l6Pvzh1ISdeHhu6jgQno3GJUc30ToFKA8DENKGvfz4Moq6qnXiEsnNUSIoyydQqs0F+t5+mF6W91pWyrP8y9tgURP7IafMpz8q7wgzwzy0yP919Od7EHivTd77nf3QZ+wScrpcJhZuoM/QJUDz30a/s3wq8GL3ObwX185Q1k/n/BliaueBxACX+Z+un4wao3E00tfrXybh53vlB7ljL68WbP2TfHU0ShQx27gDf4y9ceMTHQovGHPTOsfXZOCaFHF9pzjWCS8WRPhFYGvOXyxWc7OTXUfIIgZwJuSE=;u/M+pb2relPxFxd6F8c8CA=="
+secured: "xp4o+bdE7ajhWzC5dkdsN/i02v+LSdLcr/pzukueaoJbNoOO8ZTT7K6PYpsRx6AXzCD8C7eCRNJ9J0S1zMBK5dYJ4j6Yi+r61a0NP4tBKMupgoB9XPI0Bo784HZ2yF0+F+rTJQppycq+iSFTZxTaLZOr9rtCRSSTEWF+HLEbUeL0Dr7dkYzzz7/ZzK5IqPRAgyC64/hh0HAbWPbtBdSQo+wj3HoWIu6n6r5RT0hEuLGwlCGuXczQqb67xYVJRqKqfZ/xlsUg4jyXBL8wSRUF06LSP8m8TReUR2HiEFXBGIK7D5N71fPmlYkroQIXPVlhrgxJUVHj/VpTpTcxlJOMLWHxH2tt72JWAiT2xn7AP7NjnAqNRejwuhJibnh8pjVT66sceNU8atLn/+0s4SElb3xk81fil4jw3Fe681kIPEtR7Xh9K5K3xLGp9SeprvhiVHNFkWn7AXK4wMWkMkmBuhDtDvbk/atU1a7XyNJ1GvMDLjquHzrA5D1R1xehREUgbgzdWsJ39KuRXpLQXqYrmA==;ud3Xb3fIWStWQVHxVS1O+g=="
 ---
 

@@ -38,6 +38,15 @@ related:
         width: 500
         height: 334
         isCached: true
+  - title: "Ansys signs agreement with AI software platform Oculii to advance autonomous vehicle radar systems"
+    excerpt: "Dayton, Ohio-based software startup Oculii has signed an agreement with Canonsburg-based Ansys Inc. to further the development of autonomous vehicle radar systems."
+    publishedDateTime: 2021-11-02T21:46:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2021/11/02/ansys-signs-agreement-with-oculii-av-radar.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "4DAWFpClnJfjY3qC53+tNNh53dGfqiNrjoPearXDRxaZBmO3GafukSxeA420/I/sVgd3rU+O5hqNZG4xfJTdui05m1yNTlzDFsWiYKE/ePCxQOy4gd7u3BlDe81LEAh7SNtBrwG52KlNQ+cubnwWfBjqxiiqHJqgM6cE04W7dbR6wbkupQ9TX81fAskD+WAwuCgWu60pYx25Kp6SUZ8LRn8otvwtVEoCClApHLrOypU4iXsSpiPXiqbnYTO5tI58IXAfJkercQCOC6gDET6nQp61Z7f4cOB9CUVpQ6dCvYKe/WMqG2ZBQ9ASp3Y/ThTtthVPkGqv3rs27sVVePqs0COZVLIeVscFn6ILbORpiwLNlnMknMF+rNrrOzE9OHH+SUrSSen/x9QBJyqrWh+kkK1ndneXoezOR5fNWqU0vFZ5R4jhZYiLHO8XJD3ZoKF0H19dVvRx2R1rKQ1PivbWDZbo81EortEcbQ7hBMUch1QtXjrLltaQtz138W5j+KoceTd96/vkYwglIVqxjUTfCg==;LOhZRV+YFZuWBmLdwKTaHQ=="
 ---

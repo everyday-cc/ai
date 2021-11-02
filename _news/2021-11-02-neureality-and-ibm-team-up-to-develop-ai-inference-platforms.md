@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-dev
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-develop-ai-inference-platforms/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Research and NeuReality Announce Partnership For AI"
+    excerpt: "IBM (NYSE: IBM) and NeuReality, an Israeli AI systems and semiconductor company, have signed an agreement to develop the next generation of high-performance AI inference platforms that will deliver disruptive cost and power consumption improvements for deep learning use cases."
+    publishedDateTime: 2021-11-02T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/11/02/ibm-research-and-neureality-announce-partnership-for-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618013cee0269118180aa325%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "IBM and NeuReality in AI Inference Platforms Partnership"
     excerpt: "IBM (NYSE: IBM) and NeuReality, an Israeli AI systems and semiconductor company, said they will develop a high-performance AI inference platforms designed to deliver cost and power consumption improvements for deep learning."
     publishedDateTime: 2021-11-02T11:00:00Z

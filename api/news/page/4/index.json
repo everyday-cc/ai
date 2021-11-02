@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-30-expert-warns-that-human-beings-are-going-to-start-getting-hacked.md",
+      "title": "Expert Warns That Human Beings Are Going to Start Getting Hacked",
+      "excerpt": "Yuval Harari, a world-renowned social philosopher and the bestselling author of “Sapiens,” has a stark warning: we need to start regulating AI, because otherwise big companies are going to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/yuval-harari-human-hack",
+      "originalUrl": "https://futurism.com/the-byte/yuval-harari-human-hack",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/10/genehack-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/yuval-harari-human-hack/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/yuval-harari-human-hack/amp",
+      "publishedDateTime": "2021-10-29T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-mits-csail-self-driving-water-taxis-launched-in-the-amsterdam-canals.md",
+      "title": "MIT’s CSAIL self-driving water taxis launched in the Amsterdam canals",
+      "excerpt": "Granted, there aren’t many cities where self-driving water taxis are a viable ... scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Senseable ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/29/mit-csail/",
+      "originalUrl": "https://techcrunch.com/2021/10/29/mit-csail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Roboat09%C2%A9MIT_AMS-Institute.jpg?w=1024",
+          "width": 1024,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/29/mit-csail/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/29/mit-csail/amp/",
+      "publishedDateTime": "2021-10-29T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-turning-to-robots-for-career-advice.md",
       "title": "Turning to Robots for Career Advice",
       "excerpt": "According to new research commissioned by Oracle, 80% of employees say they’re not satisfied with employer support and 72% of the US workforce think robots and artificial intelligence can support their careers better than humans. Joining us to explain ...",
@@ -681,6 +775,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-29-aventis-launches-ibm-ai-powered-course-recommendation-training-management-system-tms.md",
+      "title": "Aventis launches IBM AI Powered Course Recommendation Training Management System (TMS)",
+      "excerpt": "IBM Watson Powered AI Course Recommendation and Training Management System (TMS) which will greatly improve the productivity of their clients. Leveraging on IBM latest Deep Learning and NLP ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/aventis-launches-ibm-ai-powered-course-recommendation-training-management-system-tms",
+      "originalUrl": "https://www.digitaljournal.com/pr/aventis-launches-ibm-ai-powered-course-recommendation-training-management-system-tms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/d9abf77af7ea227e52d8ded0cb55de105d583fb5-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-facebook-is-expanding-smart-glasses-research-into-cars-via-bmw.md",
       "title": "Facebook is expanding smart glasses research into cars via BMW",
       "excerpt": "Facebook's still trying to make AR-enabled, AI-assisted smart glasses happen. The company announced plans to field-test its camera and sensor-studded Project Aria glasses, designed for research on future AR glasses in more places, and even in cars.",
@@ -1085,143 +1222,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-this-program-can-give-ai-a-sense-of-ethicssometimes.md",
-      "title": "This Program Can Give AI a Sense of Ethics—Sometimes",
-      "excerpt": "Isaac Asimov’s famous Three Laws of Robotics popularized the idea that machines might follow human ethics, although the short stories that explored the idea highlighted contradictions in such simplistic reasoning. Search our artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/program-give-ai-ethics-sometimes/",
-      "originalUrl": "https://www.wired.com/story/program-give-ai-ethics-sometimes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61786868a7da35fe9f08a807/master/pass/ai-morals-544024698.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/program-give-ai-ethics-sometimes/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/program-give-ai-ethics-sometimes/amp",
-      "publishedDateTime": "2021-10-28T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-artificial-intelligence-ai-robots-market-worth-353-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
-          "width": 669,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort.md",
-      "title": "Northwell, Aegis Ventures to team in multibillion-dollar AI effort",
-      "excerpt": "A new joint venture with Northwell Health and Aegis Ventures aims to be a multibillion-dollar game ... and other team members in developing methods, which, through AI, can “predict, diagnose ...",
-      "sourceUrl": null,
-      "webUrl": "https://libn.com/2021/10/28/northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort/",
-      "originalUrl": "https://libn.com/2021/10/28/northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://libn.com/files/2021/10/Northwell-Health-Exterior.jpg",
-          "width": 1546,
-          "height": 1049,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Long Island Business News",
-        "domain": "libn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

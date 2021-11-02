@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smart
 ampWebUrl: "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.wired.com/photos/613f8386924283bfff0bca68/master/pass/WIRED_Qualcomm_header%20gif%20rev.gif"
@@ -47,6 +48,6 @@ related:
         height: 800
         isCached: true
 
-secured: "IxqiXQdKvkHbujRxFe3qIHL3s+EREFWAsVP929ge8cChPN4tZjEcrEw1Q3lQMeePPDc+99pQhbpAOW1rjUM3oKZYbdG+EIyCni13z8+8mcfCPYAUhhWBSsj7SL4gJ2u0u64HkNgHFFBhs0keiKF2TmUq98GTmBAPlNIF7poyIcJlf9ZNIbwBZ+nzpggb610cREuE0fS00PHoH4NpDyy8MIW8jC21gXuOhwZzXy/zSjtAW+syWM+gPsLUPqKgdJaLhveklyTe/P+hsiwt592H6yrMdlqwvtLSFNJVEyBXiGqlBgUtGVpJg3x5Q0HGLEI2KwZkW9igqWtQrM/a9SRAVp0gMukK40PLi/R2mcaMuks=;UDfQzUHBk0LBMipIPtW7Fg=="
+secured: "co+vakne3u/tMlNpcrIaKrMYca0ZpqQU4yEX5ag+mcxBPlaiDX2kSf7H70PGZ1BuQ83PFqMi46dL8bUgqxEK0rt8lHmM5ne1KU6MrA9AdIqCctF97rC4kk9ViN66WmER+LA8RjVqzEcfbp0LtafhrwM0fa2A/bhuGdHKeguJu3JeQ8y+4g2WEkIdRLovZTywlQVyjuG1hDdNNNsbxNvzaFsIpDNAvBfmEsU5Q474tg9x0UPdDvvyafWfptCyVYIdjEYtQYpD8c8HPtT+NjQ/FxCgfsSPo5rlYmYSjl5vkoSCzOGSFJIKA2DmPMxHexAiIraSS+DgKP2ABPYddMCTlHYxLfkDIdwj1FWUKQ1XHbCZxryxkp7APPEJo94oQ78u7p7H0tOoE405+r9zT7wq4KiHrrdx/LN5FJf0mDhTSR0FZ0ZH/Fl8aX3g31bTQGvxNaq8pwSPIPdgr5LsabG/fE85+bSmc92U0+X/px22ZBXq79a+SGU9YfizhxsspIvyMVYugz7MaTNCIye/S977dA==;Qxv/RFNp3ZJT+YTk/Vv86w=="
 ---
 

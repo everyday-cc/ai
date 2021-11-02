@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Tesla issues a recall over its latest self-driving update"
+    excerpt: "The software communication error reportedly impacted Tesla Model S, X, 3, and Y vehicles released from 2017 through 2021."
+    publishedDateTime: 2021-11-02T19:11:00Z
+    webUrl: "https://www.popsci.com/technology/tesla-recall-over-latest-self-driving-update/"
+    ampWebUrl: "https://www.popsci.com/technology/tesla-recall-over-latest-self-driving-update/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/tesla-recall-over-latest-self-driving-update/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2021/11/02/0x0-Model3_12-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Tesla recalls 12,000 vehicles due to glitch in ‘Full Self-Driving’ software"
     excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
     publishedDateTime: 2021-11-02T15:00:00Z
@@ -151,6 +167,6 @@ related:
         height: 449
         isCached: true
 
-secured: "VUCUvy1s8fLZkVy6ydO3cgo4IVr/I2Ap+3atyyM5lc+mcj1uKKjlT3Ombebml5rAff0gI4IQlDLQCtvjEAbeoSlYPJTdq5meUVd3PbtR3MPJqtYtwf34Y7mId+w9RF/5EoOC4cVPV9YbwvixGwP4hZqE9FL0bX4eNdzmHn/W8pPzSj92y+qVzPE+m9ehenetcElEW4WGYLt9DkXJPeLPBPqzPoPSCVAxLbK/7J0LpRPTkrO+CZ4Jl3dkliyfaeLE3Vnk74bNwNSA6HDhCHUiqu4rK6bG500R72P272lhjE/fnMdrZ8mjWWK4qq41E65ERrOwRPPksNbLg4gxxeGKooVF8HoFcvBV/nhC4sIUpJA=;frfkF4+wle2giFq3Rk7Eag=="
+secured: "w/wcX/LpS0HahurUS+pv/75zvBdVCbpevZDeZPsqmlCo10e1zeqMM3QwJtPt5IZwZtTN5TkRsrtx3iNE18vWs9kvsiDcH0MqdHMscw3Sw1I2swoZDQwLbZJSNUdFGyQtu8tumxPCgZUvjOMepeH3Wd/zSRKGxnGflS6iigsM8Bq1+9lrzgieZCwx+pFCkdBF6lxnBHHz4aUdPFUIxBvFEYHMi6qlmQ3hubLenj8bt0rHLqSXPzpaZiTdxBRICTo2yEbOljPidSaytpqW6HHDA5pVOpzxW6+yzdNOEU4uwO8NWWeNDjM9An5vRb5eR5iX2EYCXJRB+2FUAHBJp8T6RouLu6/pp8uBEIsf8PzmQuLJ0jN/40jqKNyEhHWrp8FgjE5NNwAZmR/2Qb1l0LyaBR5/T3rPfZ3QRMxeYXgiR/KKVWByKOt4q7WDkZs1oj9hBcnc59tbJ5G/Jjj44NceSPrcPd4hIBkWnQMEXfv5ujqsbiDfSQXMwbKyUFXRZLIsPvCyPl7e8faAkE9idLhjxg==;b9lf9U5hY18yv5Y914kPhg=="
 ---
 

@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automate model retraining with Amazon SageMaker Pipelines when drift is detected"
+    excerpt: "Training your machine learning (ML) model and serving predictions is usually not the end of the ML project. The accuracy of ML models can deteriorate over time, a phenomenon known as model drift. Many factors can cause model drift, such as changes in model features. The accuracy of ML models can also"
+    publishedDateTime: 2021-11-02T21:01:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/22/ML-4030-image001.jpg"
+        width: 1895
+        height: 1091
+        isCached: true
   - title: "Host RStudio Connect and Package Manager for ML development in RStudio on Amazon SageMaker"
     excerpt: "Today, we announced RStudio on Amazon SageMaker, the first machine learning (ML) integrated development environment (IDE) in the cloud for data scientists working in R. The open-source language R and its rich ecosystem with more than 18,000 packages has been a top choice for statisticians, quant analysts,"
     publishedDateTime: 2021-11-02T19:55:49Z

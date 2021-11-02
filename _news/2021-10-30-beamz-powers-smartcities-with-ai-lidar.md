@@ -36,7 +36,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://media.wired.com/photos/613f8386924283bfff0bca68/master/pass/WIRED_Qualcomm_header%20gif%20rev.gif"
         width: 1920

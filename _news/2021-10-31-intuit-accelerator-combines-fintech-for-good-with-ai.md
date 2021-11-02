@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -178,6 +178,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Funding-wealth-1.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Benzinga Unveils Global Fintech Awards Finalists"
+    excerpt: "Those with the highest-ranked scores are acknowledged as the 2021 Benzinga Listmakers. Additionally, the nominee with the highest amount of votes from Benzinga’s Public Voting round wins the People’s Choice Award."
+    publishedDateTime: 2021-11-02T19:56:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-technology-27f14bf1b36d15696deac6d631c9100c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "AI Fintech for Buy Side Raises $47m"
     excerpt: "TIFIN, a fintech platform using AI for wealth and asset management, announced the successful closing of $47 million in Series C funding. TIFIN uses data and investment driven intelligence to drive personalization for wealth management,"

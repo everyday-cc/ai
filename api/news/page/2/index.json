@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-02-henry-kissinger-and-eric-schmidt-on-the-perils-of-military-brinkmanship-in-the-age-of-ai.md",
+      "title": "Henry Kissinger and Eric Schmidt on the Perils of Military Brinkmanship in the Age of AI",
+      "excerpt": "In this excerpt from their book, Kissinger, Schmidt, and Huttenlocher consider the transformations AI will impose on the planning, preparation and conduct of war. They conclude that humans remain essential to the equation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/2021/11/12/henry-kissinger-eric-schmidt-perils-military-brinkmanship-age-ai-1644516.html",
+      "originalUrl": "https://www.newsweek.com/2021/11/12/henry-kissinger-eric-schmidt-perils-military-brinkmanship-age-ai-1644516.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1923515/fe-age-ai-banner.jpg",
+          "width": 2000,
+          "height": 1323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/2021/11/12/henry-kissinger-eric-schmidt-perils-military-brinkmanship-age-ai-1644516.html?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/11/12/henry-kissinger-eric-schmidt-perils-military-brinkmanship-age-ai-1644516.html?amp=1",
+      "publishedDateTime": "2021-11-02T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-how-ai-creates-synthetic-speech.md",
+      "title": "How AI Creates Synthetic Speech",
+      "excerpt": "What is different these days is that the quality of synthesized speech is improving, thanks to several companies using AI to create voice skins for enterprise companies and content creators that give more options for turning text into speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6180e37b097087a68b795e53%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/amp/",
+      "publishedDateTime": "2021-11-02T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-of-global-execs-using-ai-over-75-report-ai-improves-team-culture.md",
       "title": "Of Global Execs Using AI, Over 75% Report AI Improves Team Culture",
       "excerpt": "More than 75% of managers who reported that their artificial intelligence implementations improved their team's decision-making and efficiency also saw improvements in collective learning (87%), team morale (79%),",
@@ -753,7 +857,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 394,
+      "heat": 464,
       "tags": null,
       "images": [
         {
@@ -1131,102 +1235,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-deepmind-takes-next-step-in-robotics-research.md",
-      "title": "DeepMind takes next step in robotics research",
-      "excerpt": "MuJoCo's free availability will have a positive impact on the work of scientists who are struggling with the costs of robotics research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
-      "originalUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
-      "publishedDateTime": "2021-10-31T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults.md",
-      "title": "UMass Lowell, partners to launch AI-robotics initiative to aid older adults",
-      "excerpt": "The quality of life for senior citizens is being improved through a new initiative developing robotics and artificial intelligence systems, and UMass Lowell researchers are among",
-      "sourceUrl": null,
-      "webUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/",
-      "originalUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lowellsun.com/wp-content/uploads/2021/10/low-l-umlrobotics-01.jpg?w=1024&#038;h=729",
-          "width": 1024,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/amp/",
-      "cdnAmpWebUrl": "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/amp/",
-      "publishedDateTime": "2021-10-31T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lowell Sun",
-        "domain": "lowellsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

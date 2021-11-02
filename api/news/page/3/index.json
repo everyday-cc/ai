@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-01-deepmind-takes-next-step-in-robotics-research.md",
+      "title": "DeepMind takes next step in robotics research",
+      "excerpt": "MuJoCo's free availability will have a positive impact on the work of scientists who are struggling with the costs of robotics research.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
+      "originalUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
+      "publishedDateTime": "2021-10-31T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults.md",
+      "title": "UMass Lowell, partners to launch AI-robotics initiative to aid older adults",
+      "excerpt": "The quality of life for senior citizens is being improved through a new initiative developing robotics and artificial intelligence systems, and UMass Lowell researchers are among",
+      "sourceUrl": null,
+      "webUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/",
+      "originalUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lowellsun.com/wp-content/uploads/2021/10/low-l-umlrobotics-01.jpg?w=1024&#038;h=729",
+          "width": 1024,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/amp/",
+      "cdnAmpWebUrl": "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/amp/",
+      "publishedDateTime": "2021-10-31T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Lowell Sun",
+        "domain": "lowellsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-31-advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5.md",
       "title": "Advancing AI Revenue Growth Insights In The Transportation And Logistics Industry Series: Blog #5",
       "excerpt": "This is the fifth blog in the Advancing AI in the Transportation Industry, focused on drones and references innovations by Amazon.",
@@ -104,7 +200,7 @@
       "originalUrl": "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1143,100 +1239,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-expert-warns-that-human-beings-are-going-to-start-getting-hacked.md",
-      "title": "Expert Warns That Human Beings Are Going to Start Getting Hacked",
-      "excerpt": "Yuval Harari, a world-renowned social philosopher and the bestselling author of “Sapiens,” has a stark warning: we need to start regulating AI, because otherwise big companies are going to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/yuval-harari-human-hack",
-      "originalUrl": "https://futurism.com/the-byte/yuval-harari-human-hack",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2021/10/genehack-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/yuval-harari-human-hack/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/yuval-harari-human-hack/amp",
-      "publishedDateTime": "2021-10-29T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-mits-csail-self-driving-water-taxis-launched-in-the-amsterdam-canals.md",
-      "title": "MIT’s CSAIL self-driving water taxis launched in the Amsterdam canals",
-      "excerpt": "Granted, there aren’t many cities where self-driving water taxis are a viable ... scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Senseable ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/29/mit-csail/",
-      "originalUrl": "https://techcrunch.com/2021/10/29/mit-csail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Roboat09%C2%A9MIT_AMS-Institute.jpg?w=1024",
-          "width": 1024,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/29/mit-csail/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/29/mit-csail/amp/",
-      "publishedDateTime": "2021-10-29T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

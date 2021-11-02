@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/29/mit-csail/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/29/mit-csail/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1024
     height: 435
     isCached: true
-
-related:
-  - title: "MIT’s Self-Driving Boat Is a Futuristic Robotaxi on Water, Ready to Operate in Amsterdam"
-    excerpt: "MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ... According to the project’s representatives, this self-driving ship could easily operate 100% autonomously, 24/7, but for safety reasons, it is being monitored by an onshore ..."
-    publishedDateTime: 2021-10-29T04:07:00Z
-    webUrl: "https://www.autoevolution.com/news/mits-self-driving-boat-is-a-futuristic-robotaxi-on-water-ready-to-operate-in-amsterdam-172904.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 15
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/mits-self-driving-boat-is-a-futuristic-robotaxi-on-water-ready-to-operate-in-amsterdam-172904-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
 secured: "qG+GJUu0CIUAWCZZVkjFr5rQr2ub89lT3JPCPd2aZ4YEM5R4/XgMEuBcVfO0Bbjq+tj7ZIE8dJHB4nnQ0vvG9eFKB0z62vbHFmMhueteHaRuxyS8Ht9ODZlDYjv+JFTLKp3f9oPdtFzxwzNo9oF+mNuuJdt7nA6JWNnsAlnzrYXpUnjpzlPxnf3CZBNg5H8c1/+sW4dJs9Y4k8eoVlKoonm/5+tb5+ACBFojjxMfmTeu6IprX+NF+QT/7D37ynVDj01k8zzYAFFBoTo60r8FX3ZfipgTPLA8EQRJZ1k8j0d6kYvTvQNJRyMvkdWGDthnpo/jXzCun98ot4BuyEb57O88VDPYMbD/UiRjrBHW6D1QETLvlMBMsxy8H+SySRh6rVyI6QKgVjM8FRds0DWkJrqSxPPX0ZBAEYLDO8s+pHdcCo1EHf0RQsqwmEUQHQsXLdqzsHQMXz5FLXXnQJ5h5EEKTCq8HljLeOc+CqXENUes4vvq6BGDBWtNP+Ly2oshkNODj1vZKW4cN0NO+X/USw==;hvtIpzmHsH3gxoJ5X0O79Q=="
 ---

@@ -2,6 +2,144 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-10-05-tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us.md",
+      "title": "Tortoise expands remote operated robotic delivery to convenience stores across the US",
+      "excerpt": "Tortoise is expanding its remote controlled delivery robots to convenience store chains across the U.S. through ... you’re just telling us which robot and where to drive it to,” said Shevelenko.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/",
+      "originalUrl": "https://techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/IMG_20210927_163206017_HDR-e1633312411157.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/amp/",
+      "publishedDateTime": "2021-10-05T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-potential-of-artificial-intelligence-to-accelerate-diagnosis-and-drug-discovery-for-covid-19.md",
+      "title": "Potential of artificial intelligence to accelerate diagnosis and drug discovery for COVID-19",
+      "excerpt": "The tests currently used to diagnose COVID-19 are based on real time reverse transcription polymerase chain reaction (RT-PCR), computed tomography medical imaging techniques and immunoassays. It takes 2 days to obtain results from the RT-PCR test and also shortage of test kits creating a requirement for alternate and rapid methods to accurately diagnose COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://peerj.com/articles/12073/",
+      "originalUrl": "https://peerj.com/articles/12073/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dfzljdn9uc3pi.cloudfront.net/2021/12073/1/fig-1-1x.jpg",
+          "width": 600,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PeerJ",
+        "domain": "peerj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-robots-at-dubai-expo-have-multiple-roles-while-interacting-with-visitors.md",
+      "title": "Robots at Dubai Expo have multiple roles while interacting with visitors",
+      "excerpt": "Dubai, the first World Expo ever held in the Middle East, Africa, and South Asia (MEASA) region got underway on Thursday, visitors to the",
+      "sourceUrl": null,
+      "webUrl": "https://english.alarabiya.net/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
+      "originalUrl": "https://english.alarabiya.net/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vid.alarabiya.net/images/2021/10/05/aec11461-ea75-4082-8b28-e9b168a5d468/aec11461-ea75-4082-8b28-e9b168a5d468_16x9_600x338.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
+      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
+      "publishedDateTime": "2021-10-05T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "العربية.نت",
+        "domain": "alarabiya.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-waymo-co-ceo-tekedra-mawakana-on-how-to-get-self-driving-taxis-to-the-mall.md",
       "title": "Waymo co-CEO Tekedra Mawakana on how to get self-driving taxis to the mall",
       "excerpt": "Waymo is working on self-driving taxis, which is a huge deal. Ride-sharing apps like Uber and Lyft have remade cities, allowed people to give up their cars, and generally connected the buttons you push on your phone to real things happening in the world more directly than almost any other app.",
@@ -972,144 +1110,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-microsoft-and-darktrace-partner-on-azure-and-ai-security-solutions.md",
-      "title": "Microsoft and Darktrace Partner on Azure and AI Security Solutions",
-      "excerpt": "Additionally, the deal includes a technology integration with Azure Sentinel, Microsoft's security information and event management solution. Also, the partnership is enabling Darktrace's AI to ...",
-      "sourceUrl": null,
-      "webUrl": "https://redmondmag.com/articles/2021/05/10/microsoft-and-darktrace-partner.aspx",
-      "originalUrl": "https://redmondmag.com/articles/2021/05/10/microsoft-and-darktrace-partner.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1NightStreetLightsTraffic.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Magazine",
-        "domain": "redmondmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-clearview-ai-says-it-can-do-the-computer-enhance-thing.md",
-      "title": "Clearview AI Says It Can Do the ‘Computer Enhance’ Thing",
-      "excerpt": "The co-founder and CEO of the sketchy face-recognition firm, Hoan Ton-That, says it's working on \"deblur\" and \"mask removal\" tools.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ai-says-it-can-do-the-computer-enhance-thin-1847795776",
-      "originalUrl": "https://gizmodo.com/clearview-ai-says-it-can-do-the-computer-enhance-thin-1847795776",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8727033124597022b06aafa62e5c4b9b.jpg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ai-says-it-can-do-the-computer-enhance-thin-1847795776/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-says-it-can-do-the-computer-enhance-thin-1847795776/amp",
-      "publishedDateTime": "2021-10-04T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-coverage-of-fdas-aiml-medical-devices-workshop-part-1-the-history-of-fda-software-regulation.md",
-      "title": "Coverage of FDA’s AI/ML Medical Devices Workshop - Part 1: The History of FDA Software Regulation",
-      "excerpt": "In anticipation of FDA’s virtual public workshop on transparency of artificial intelligence/machine learning (AI/ML)-enabled medical devices scheduled for October 14, 2021, we will be",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation",
-      "originalUrl": "https://www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation?amp",
-      "publishedDateTime": "2021-10-04T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

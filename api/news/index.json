@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-02-host-rstudio-connect-and-package-manager-for-ml-development-in-rstudio-on-amazon-sagemaker.md",
-      "title": "Host RStudio Connect and Package Manager for ML development in RStudio on Amazon SageMaker",
-      "excerpt": "Today, we announced RStudio on Amazon SageMaker, the first machine learning (ML) integrated development environment (IDE) in the cloud for data scientists working in R. The open-source language R and its rich ecosystem with more than 18,000 packages has been a top choice for statisticians, quant analysts,",
+      "path": "_news/2021-11-02-process-and-add-additional-file-formats-to-your-amazon-kendra-index.md",
+      "title": "Process and add additional file formats to your Amazon Kendra Index",
+      "excerpt": "If you have a corpus of internal documents that you frequently search through, Amazon Kendra can help you find your content faster and easier. These documents can be in different locations and repositories, and can be structured or unstructured. Amazon Kendra is a fully managed service backed by machine",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-rstudio-connect-and-package-manager-for-ml-development-in-rstudio-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-rstudio-connect-and-package-manager-for-ml-development-in-rstudio-on-amazon-sagemaker/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/process-and-add-additional-file-formats-to-your-amazon-kendra-index/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/process-and-add-additional-file-formats-to-your-amazon-kendra-index/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML-5364-image001-657x630.png",
-          "width": 657,
-          "height": 630,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/01/ML-4922-image001.jpg",
+          "width": 1011,
+          "height": 421,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T12:55:49-07:00",
+      "publishedDateTime": "2021-11-02T14:28:05-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -50,8 +50,103 @@
       ],
       "topics": [
         "AI",
-        "AWS AI",
-        "Machine Learning"
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected.md",
+      "title": "Automate model retraining with Amazon SageMaker Pipelines when drift is detected",
+      "excerpt": "Training your machine learning (ML) model and serving predictions is usually not the end of the ML project. The accuracy of ML models can deteriorate over time, a phenomenon known as model drift. Many factors can cause model drift, such as changes in model features. The accuracy of ML models can also",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/22/ML-4030-image001.jpg",
+          "width": 1895,
+          "height": 1091,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T14:01:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-aws-financial-services-for-payment-industry.md",
+      "title": "AWS Financial Services for Payment Industry",
+      "excerpt": "The payment industry is rapidly transforming and growing due to the influx of new methods, acquisitions, mergers and technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986",
+      "originalUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/10/AWS-Financial-Services-for-Payment-Industry.png",
+          "width": 600,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986/amp",
+      "publishedDateTime": "2021-11-02T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -158,7 +253,7 @@
       "originalUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -210,7 +305,7 @@
       "originalUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -249,7 +344,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -605,8 +701,8 @@
       "title": "SQL Server 2022 is the \"most cloud-connected\" release yet, now in preview",
       "excerpt": "Microsoft has released a preview for SQL Server 2022, calling it its \"most cloud-connected\" release yet. Improvements on Azure include the introduction of Chaos Studio and OpenAI Service.",
       "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview",
-      "originalUrl": "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview",
+      "webUrl": "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/",
+      "originalUrl": "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/",
       "featuredContent": null,
       "highlight": null,
       "heat": 73,
@@ -962,7 +1058,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-develop-ai-inference-platforms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1158,110 +1254,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-henry-kissinger-and-eric-schmidt-on-the-perils-of-military-brinkmanship-in-the-age-of-ai.md",
-      "title": "Henry Kissinger and Eric Schmidt on the Perils of Military Brinkmanship in the Age of AI",
-      "excerpt": "In this excerpt from their book, Kissinger, Schmidt, and Huttenlocher consider the transformations AI will impose on the planning, preparation and conduct of war. They conclude that humans remain essential to the equation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/2021/11/12/henry-kissinger-eric-schmidt-perils-military-brinkmanship-age-ai-1644516.html",
-      "originalUrl": "https://www.newsweek.com/2021/11/12/henry-kissinger-eric-schmidt-perils-military-brinkmanship-age-ai-1644516.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1923515/fe-age-ai-banner.jpg",
-          "width": 2000,
-          "height": 1323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/2021/11/12/henry-kissinger-eric-schmidt-perils-military-brinkmanship-age-ai-1644516.html?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/11/12/henry-kissinger-eric-schmidt-perils-military-brinkmanship-age-ai-1644516.html?amp=1",
-      "publishedDateTime": "2021-11-02T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-how-ai-creates-synthetic-speech.md",
-      "title": "How AI Creates Synthetic Speech",
-      "excerpt": "What is different these days is that the quality of synthesized speech is improving, thanks to several companies using AI to create voice skins for enterprise companies and content creators that give more options for turning text into speech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6180e37b097087a68b795e53%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/amp/",
-      "publishedDateTime": "2021-11-02T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

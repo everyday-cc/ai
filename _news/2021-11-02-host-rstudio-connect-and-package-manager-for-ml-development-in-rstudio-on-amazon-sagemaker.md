@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/host-rstudio-connect
 webUrl: "https://aws.amazon.com/blogs/machine-learning/host-rstudio-connect-and-package-manager-for-ml-development-in-rstudio-on-amazon-sagemaker/"
 type: article
 quality: 96
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automate model retraining with Amazon SageMaker Pipelines when drift is detected"
+    excerpt: "Training your machine learning (ML) model and serving predictions is usually not the end of the ML project. The accuracy of ML models can deteriorate over time, a phenomenon known as model drift. Many factors can cause model drift, such as changes in model features. The accuracy of ML models can also"
+    publishedDateTime: 2021-11-02T21:01:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/22/ML-4030-image001.jpg"
+        width: 1895
+        height: 1091
+        isCached: true
   - title: "Get started with RStudio on Amazon SageMaker"
     excerpt: "Today, we’re excited to announce RStudio on Amazon SageMaker, the industry’s first fully-managed RStudio integrated development environment (IDE) in the cloud. You can now bring the current RStudio licenses and migrate your self-managed RStudio environments to Amazon SageMaker in a few simple steps."
     publishedDateTime: 2021-11-02T19:48:45Z

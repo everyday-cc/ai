@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Robots hit the streets as demand for food delivery grows"
-excerpt: "Hundreds of little robots are now navigating college campuses and even some city sidewalks in the U.S., the U.K. and elsewhere."
-publishedDateTime: 2021-11-02T19:39:00Z
-originalUrl: "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
-webUrl: "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
-ampWebUrl: "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
-cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
+excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
+publishedDateTime: 2021-11-02T21:41:00Z
+originalUrl: "https://www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+webUrl: "https://www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+ampWebUrl: "https://www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Boston.com
-  domain: boston.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.boston.com/wp-content/uploads/2021/11/Robot_Food_Delivery_67862-6180b92c0ec28-scaled.jpg"
-    width: 2560
-    height: 1707
-    isCached: true
 
 related:
   - title: "Robots hit the streets as demand for food delivery grows"
@@ -92,6 +86,6 @@ related:
         height: 853
         isCached: true
 
-secured: "9GQ3vhJkRc5y3+UsGPnyLyiCPahS8XTlSvdQbuXouwBRnsh/aMUqtXdY4k0XCPn+imYbFYaydJEcW5KuKsUZhtH/LvR+tGBgCHc9UjrK4ZjEseZBGDzKsqBYEY7DzzdGxzVVoVtCoodRokk7Z5ljdiWCRvpKpDulZVBZ9nDXEz7pdzHJAWFkrmnpK8RxTbHIGTCLAa7PZUolLFh5J9V8AEkG1IEV7n/VqTY7pAjsZEHK5zI9Qm0SLYe8DMiF1oZt5nhFrL5zdlPd8L5GsO+R5KwB99t0xKxdWWiBSoWr8FGqkvEN7ib9F1R7ks16JgEVrogfETBaDkC0cAbyiYG0Zr1lgePFGH4vb9DWK9n8q7E=;LEe/FZ9Wy8vwzEYE/t/FgA=="
+secured: "QTY8iftEalzEobR+FL0Pck4Ua2TsZ+OlO/OT/AcB0oICFVZadfB6mgENolwzmWVwJuHLdOF3NDiq35m/ZWRQ8MGAznG5CpSTRBqr4AooYsFJBjGLhMqBfpFI1rg3lOuZgOc01d+QkszJliLmaYJ0Ixj6xTi23BuuTc61QZsl0olhaHjgK/JkAUAsl9zywS/JmQwEf97YPUSn+5xfuQz3lKiJhd6HpzuAeXYkEAEUORV+CU8yUVwX/VHkFmAh+RLsYFym6OVHqfnMG0Di81FNyhSeiKkQEvfr7XWhx+AY2wSn+xm4/GVLZIQ6H5LJTrV4GuztsdOT7gUH687xHJDaoWrKbi99uFuvgsqeZyNHlGga/Iq7TZP4IKpVJEhcUTVtd//BGkEyTvKaLDBJtsuIvES6FshsZS4zSDaqpSVix6ChHn7SVbzrvcHTEUiIff6WcvwxR0G2QAMN02SWj3mY89ni+om5OxmmoJbcUkoOWSBUbCR/qt/gZKe5EpfgvEBW/lVv+xtVlu/Zp1AWLEVI9w==;CN2Co7lVOUfTGZ0jYbU34g=="
 ---
 

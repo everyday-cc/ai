@@ -175,6 +175,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Benzinga Unveils Global Fintech Awards Finalists"
+    excerpt: "Those with the highest-ranked scores are acknowledged as the 2021 Benzinga Listmakers. Additionally, the nominee with the highest amount of votes from Benzinga’s Public Voting round wins the People’s Choice Award."
+    publishedDateTime: 2021-11-02T19:56:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-technology-27f14bf1b36d15696deac6d631c9100c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI Fintech for Buy Side Raises $47m"
     excerpt: "TIFIN, a fintech platform using AI for wealth and asset management, announced the successful closing of $47 million in Series C funding. TIFIN uses data and investment driven intelligence to drive personalization for wealth management,"
     publishedDateTime: 2021-11-02T05:00:00Z

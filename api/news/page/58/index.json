@@ -2,6 +2,127 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-09-20-german-gpu-sales-point-to-more-price-hikes-and-a-drop-in-availability-this-year.md",
+      "title": "German GPU sales point to more price hikes and a drop in availability this year",
+      "excerpt": "As we move into the later part of 2021, trends and evil rumours point to a worsening of both price and availability for GPU stock. That means it could be a while longer before the GPU shortage finally subsides and the ridiculous pricing we've been subject to fully balances out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/gpu-price-availability-trends-mean-GPU-shortage-unlikely-to-subside/",
+      "originalUrl": "https://www.pcgamer.com/gpu-price-availability-trends-mean-GPU-shortage-unlikely-to-subside/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TDUwJZywerjBr9g65GBRJR-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/gpu-price-availability-trends-mean-GPU-shortage-unlikely-to-subside/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/gpu-price-availability-trends-mean-GPU-shortage-unlikely-to-subside/",
+      "publishedDateTime": "2021-09-20T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-4-stocks-to-benefit-from-continued-demand-for-ai.md",
+      "title": "4 Stocks to Benefit From Continued Demand for AI",
+      "excerpt": "Thanks to these conveniences, companies around the world look set to increase their spending on AI solutions. Per a report by the International Data Corporation published on Aug 4, worldwide revenues for the AI market are expected to grow 15.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20",
+      "originalUrl": "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20?amp",
+      "publishedDateTime": "2021-09-20T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-ai-ethics-and-governance.md",
+      "title": "AI Ethics and Governance",
+      "excerpt": "In the year 2020, the global AI community – spanning across several alliances and borders – started accelerating discussion and agreements on how to envision and enforce them in existing and future AI technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.softwaretestingnews.co.uk/ai-ethics-and-governance/",
+      "originalUrl": "https://www.softwaretestingnews.co.uk/ai-ethics-and-governance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/08/Website-1024x585.jpg",
+          "width": 1024,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "softwaretestingnews.co.uk",
+        "domain": "softwaretestingnews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-altana-ai-raises-15m-series-a-investment-to-build-the-single-source-of-truth-on-the-global-supply-chain.md",
       "title": "Altana AI Raises $15M Series A Investment to Build the Single Source of Truth On the Global Supply Chain",
       "excerpt": "Altana AI has secured $15 million in Series A funding, led by GV (formerly Google Ventures). Floating Point, Ridgeline Partners, and",
@@ -1018,134 +1139,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-arc-applauds-direct-support-staff-during-recognition-week.md",
-      "title": "ARC applauds direct support staff during recognition week",
-      "excerpt": "Agency works to help people with intellectual and developmental disabilities live their best lives, spokesperson Jared West says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressrepublican.com/news/local_news/arc-applauds-direct-support-staff-during-recognition-week/article_56f6ebf5-265c-5f39-9fd8-a4271e11f388.html",
-      "originalUrl": "https://www.pressrepublican.com/news/local_news/arc-applauds-direct-support-staff-during-recognition-week/article_56f6ebf5-265c-5f39-9fd8-a4271e11f388.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/0/90/09029313-49e7-513c-b08a-7390e4774716/614552e903754.image.jpg?resize=450%2C600",
-          "width": 450,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Press-Republican",
-        "domain": "pressrepublican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-the-proposed-new-eu-regulatory-regime-for-artificial-intelligence-ai.md",
-      "title": "The Proposed New EU Regulatory Regime for Artificial Intelligence (AI)",
-      "excerpt": "Introduction In April 2021, the EU Commission (EC) proposed a suite of new legislative and non-legislative proposals related to artificial intelligence (AI): in a proposed Regulation laying down ru",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai",
-      "originalUrl": "https://www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai?amp",
-      "publishedDateTime": "2021-09-17T15:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-ask-sophia-the-robot-what-can-ai-teach-humans.md",
-      "title": "Ask Sophia the Robot: What can AI teach humans?",
-      "excerpt": "We can benefit from this. So, what can humans learn from robots? Artificial intelligence can view the world in a way that’s more objective, being present while still able to look toward the ...",
-      "sourceUrl": null,
-      "webUrl": "https://bigthink.com/hard-science/sophia-the-robot-ai/",
-      "originalUrl": "https://bigthink.com/hard-science/sophia-the-robot-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bigthink.com/wp-content/uploads/2020/03/origin-65.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big Think",
-        "domain": "bigthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

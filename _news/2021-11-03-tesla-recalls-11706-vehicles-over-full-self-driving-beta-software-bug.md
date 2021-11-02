@@ -93,6 +93,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Tesla issues a recall over its latest self-driving update"
+    excerpt: "The software communication error reportedly impacted Tesla Model S, X, 3, and Y vehicles released from 2017 through 2021."
+    publishedDateTime: 2021-11-02T19:11:00Z
+    webUrl: "https://www.popsci.com/technology/tesla-recall-over-latest-self-driving-update/"
+    ampWebUrl: "https://www.popsci.com/technology/tesla-recall-over-latest-self-driving-update/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/tesla-recall-over-latest-self-driving-update/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2021/11/02/0x0-Model3_12-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Tesla recalls 12,000 vehicles due to glitch in ‘Full Self-Driving’ software"
     excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
     publishedDateTime: 2021-11-02T15:00:00Z
@@ -151,6 +167,6 @@ related:
         height: 449
         isCached: true
 
-secured: "kATSpINFt2/v0ipHz98UsPM3AZHRkXnAMzRMsS5kCjFIddpqJuI3aZOf7UPedoVX3jShfoJguvibGtdkBI0LuI9NM9j762RTdZeO2pr0+jmSvJcmfmLB/JzsEmctX1oMAWBKts79KTsEQNoUbcWCsb/LpUdkbW5U0hWq+TgbuY9PVhpPA/ymSzCxJRVfKpwoLYUsmH5rXxs9Bbkms2kRoxZz0XJELzkYSfVk0RDPccahehtqXvZTeCjrxaPgo3Ji8z/pqqFjOO3tMO+V3crZ6V4qWW1HRGCIek7UnDUPqz2mtT5G7HlBi3faLMb5OQ73HKIXe6lHKrG72fBMfDvIJPew7wYi9I7eXrxp2KYN8EQ=;TNi4EJYQ70mny0Ri6HAUIw=="
+secured: "9AXyPqy0rhCtVpSbPYllgqb7YHHX+aQpeQX1Y+TlFk6E3G2/chhDeB1uP/Bblz2PtPzMJbcl4h9JlZgNmln1kbMfogRCacvhDloGUyOfi24f0RITG0PXWsFq/VfyvWL4f+twHpKXx4dENSg9Cn1WPOJp8yHzfnFEukgkaBwGvZuv95e2nLRhXdICch99hmESo6DlKFZedaHoZFPF+x0XNeYwaikGAZNkelx3K0j02RubDZV5xaz0JFaUa3RyqGeggbhLGCKEELb4JuYz8wg1TnIBlurPP5dv0se5d9GasvZsR039qDHV7uLGNx8c4nsI3EwMxAxSe/w+CvbyqcaRIbh64JJj8kv0izBwZUJAr5LV+LyTBbZk5bS3Hh4mzQesrYhp+cA9e2+B+CJUVpRRZigjVCgYWvQZaac4+MI/ZJu48YDaMqdUig9T+cQozWWXZglN9bpz+9EkIJiBRNDLHkhEv1B9eUTdLojOn+l/E7roh9oZ97PJfG0w+LcoupVin7YiUKE0GcarN36VxNngXQ==;I/26GV/dvLAH/6P0ZQxKPg=="
 ---
 

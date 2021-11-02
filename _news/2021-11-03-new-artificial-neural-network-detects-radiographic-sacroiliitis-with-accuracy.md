@@ -1,22 +1,30 @@
 ---
 category: news
 title: "New artificial neural network detects radiographic sacroiliitis with accuracy"
-excerpt: "New research presented this week at ACR Convergence, the American College of Rheumatology’s annual meeting, found that an innovative new artificial neural network can detect radiographic sacroiliitis in patients with suspected axial spondyloarthritis,"
-publishedDateTime: 2021-11-02T19:45:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/933602"
-webUrl: "https://www.eurekalert.org/news-releases/933602"
+excerpt: "New research presented this week at ACR Convergence, the American College of Rheumatology's annual meeting, found that an innovative new artificial neural network can detect radiographic sacroiliitis in patients with suspected axial spondyloarthritis,"
+publishedDateTime: 2021-11-02T21:01:00Z
+originalUrl: "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.html"
+webUrl: "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp"
 type: article
-quality: 16
-heat: -1
+quality: 56
+heat: 66
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/spine.jpg"
+    width: 2880
+    height: 1916
+    isCached: true
 
 related:
   - title: "Research: New artificial neural network detects radiographic sacroiliitis with accuracy"
@@ -34,6 +42,6 @@ related:
         height: 530
         isCached: true
 
-secured: "UHMvnlY/vj3Di+Kg5dDId1x9sAUkhI1VYpvGPPJiE7McvMc8wkas892DRvEo+Z4WmifswFHxgeqL0a6URME2yQd9/wScPx0avZZ8CKS/mn6huckoStHAuLWtjJe+CbpX1fbL9Uunoy7nrhtop/4GrKzJnSf6t5yW0nkQuNN3ojQP+N0qt3NqR3viyXOTAy3Qt1QV60i3/WwgnUAMHbXknXYLt/ha7E0o54ZcdSU0lTiIUXqjoTC6zZqaK2HUNA8vL7xplbz+Q6BwVkgEru90kc+0p04eg0WC5rRIj2uf6RgFcYbL+DRdT3CjXN3Yyn8bz92s2CTpE4OOv6O4YaGXNDw6W/mo1RWDdWGcapNn+YE=;ToeOMG2NdXx98YNBLDmejA=="
+secured: "6c1E8otLzuAExciuONyzbEEEqgGhqMwBvP3pzNSsNno5vL4ZMb3bSmFOc98WrftACwrHgTXvtr7zhydVLXGwqsZ3b9M8T7vhegZHZIkLc95XS6NGTCO7at/51pK7ljkIVJHknaQF2SespBVmRk0mzyRUhtKjS7yDOWD6ng7aWxdNihEsK0joZkqd0fRhSQdGzB7IVCfuMrzVyYGhbo5lGkEZXc/1NzWLNeGmKL78RQuOESmzcmD0qPEdN2BMDTke81SHYk7HedK54ftyd09izc2PlQCmMohaIta4DFl/HJ838uDCfoSJtTqsiGH0jTuD4GCfAn2OvnKx8/0oM3PXadyLvTXOHVHMYI2hfy/Mq/4=;WgkgQWdCkg0BptOWDB8TYQ=="
 ---
 

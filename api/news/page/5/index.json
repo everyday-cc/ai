@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-28-this-program-can-give-ai-a-sense-of-ethicssometimes.md",
+      "title": "This Program Can Give AI a Sense of Ethics—Sometimes",
+      "excerpt": "Isaac Asimov’s famous Three Laws of Robotics popularized the idea that machines might follow human ethics, although the short stories that explored the idea highlighted contradictions in such simplistic reasoning. Search our artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/program-give-ai-ethics-sometimes/",
+      "originalUrl": "https://www.wired.com/story/program-give-ai-ethics-sometimes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61786868a7da35fe9f08a807/master/pass/ai-morals-544024698.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/program-give-ai-ethics-sometimes/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/program-give-ai-ethics-sometimes/amp",
+      "publishedDateTime": "2021-10-28T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-artificial-intelligence-ai-robots-market-worth-353-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
+          "width": 669,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort.md",
+      "title": "Northwell, Aegis Ventures to team in multibillion-dollar AI effort",
+      "excerpt": "A new joint venture with Northwell Health and Aegis Ventures aims to be a multibillion-dollar game ... and other team members in developing methods, which, through AI, can “predict, diagnose ...",
+      "sourceUrl": null,
+      "webUrl": "https://libn.com/2021/10/28/northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort/",
+      "originalUrl": "https://libn.com/2021/10/28/northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://libn.com/files/2021/10/Northwell-Health-Exterior.jpg",
+          "width": 1546,
+          "height": 1049,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Long Island Business News",
+        "domain": "libn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-aws-releases-amazon-ec2-dl1-instances-that-train-machine-learning-models.md",
       "title": "AWS Releases Amazon EC2 DL1 Instances that Train Machine Learning Models",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, is releasing Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models. DL1 instances are powered by Gaudi accelerators from Habana Labs (an Intel company) to provide up to 40% better price performance for training machine learning models than the latest GPU-powered Amazon EC2 instances,",
@@ -937,24 +1074,33 @@
     {
       "path": "_news/2021-10-28-abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service.md",
       "title": "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service",
-      "excerpt": "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company",
+      "excerpt": "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T10:24:00-07:00",
+      "publishedDateTime": "2021-10-27T10:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1008,164 +1154,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu.md",
-      "title": "Intel partners with Google to deploy ‘Mount Evans’ ASIC-based GPU",
-      "excerpt": "Intel has announced that it partnered with Google to deploy the chipmaker's IPU across Google Cloud infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/",
-      "originalUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1208499003-e1631641886627.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/amp/",
-      "publishedDateTime": "2021-10-27T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-abacusai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases.md",
-      "title": "Abacus.ai snags $50M Series C as it expands into computer vision use cases",
-      "excerpt": "Abacus.ai wants to build an AI platform that simplifies machine learning model creation, while still leaving room for power users. Today the company announced a $50 million Series C. At the same time,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
-      "originalUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-imsev208-063.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
-      "publishedDateTime": "2021-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-intel-challenges-amd-and-nvidia-with-new-ai-technologies-amid-renewed-developer-commitments.md",
-      "title": "Intel Challenges AMD And NVIDIA With New AI Technologies Amid Renewed Developer Commitments",
-      "excerpt": "Intel renews AI Technologies with Sapphire Rapids CPU and Ponte Vecchio GPUs. But can they do better than AMD and NVIDIA?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6178729f3f1896228c1e3a3e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2687%26cropY1%3D0%26cropY2%3D1512",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
-      "publishedDateTime": "2021-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
