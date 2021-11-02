@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ericsson Tests New Safety Features on 5G Self-driving Bus with Partners"
+    excerpt: "The Ericsson-backed 5G Ride self-driving bus project has moved closer to full operations following a successful trial of remote digital"
+    publishedDateTime: 2021-11-02T00:39:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/21265-ericsson-tests-new-safety-features-on-5g-self-driving-bus-with-partners"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 24
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/49a047388736a483fca4d5573117b0d7.jpg?t=20211102_003555"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Ericsson says 5G Ride trial brings driverless buses closer to public operation"
     excerpt: "Equipment vendor Ericsson said the '5G Ride' self-driving bus project has moved closer to full operations following a trial of remote digital monitoring and on-board safety near its headquarters in the Kista district of Stockholm."
     publishedDateTime: 2021-11-01T13:38:00Z

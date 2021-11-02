@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2015/06/pinpoint-big-data-e1627663858889.jpg?w=1200&strip=all"

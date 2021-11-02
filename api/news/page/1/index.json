@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-02-ford-taps-non-it-professionals-to-broaden-its-ai-expertise.md",
+      "title": "Ford Taps Non-IT Professionals to Broaden Its AI Expertise",
+      "excerpt": "The auto maker has trained more than 1,000 employees on a platform it developed to put AI tools in the hands of people across the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "originalUrl": "https://www.wsj.com/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-427127/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "publishedDateTime": "2021-11-01T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-the-challenge-of-being-human-in-the-age-of-ai.md",
       "title": "The Challenge of Being Human in the Age of AI",
       "excerpt": "Reason is our primary means of understanding the world. How does that change if machines think?",
@@ -114,7 +165,7 @@
       "originalUrl": "https://newatlas.com/photography/canon-powershot-px-camera/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -165,7 +216,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -259,7 +310,7 @@
       "originalUrl": "https://www.therobotreport.com/top-10-robotics-stories-of-october-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -354,7 +405,7 @@
       "originalUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -605,7 +656,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/three-ways-a-causal-approach-can-improve-trust-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -688,49 +739,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-arv-hosts-ai-robotics-hackathon-2021-open-house.md",
-      "title": "ARV hosts AI & Robotics Hackathon 2021: Open House",
-      "excerpt": "AI and Robotics Ventures (ARV), the technology development and venture building spin-off from PTTEP, organized special panel discussion sessions at AI & Robotics Hackathon 2021: Open House in two topics: Quantum Cryptography: The Future of Cyber Security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswit.com/en/LN9T",
-      "originalUrl": "https://www.newswit.com/en/LN9T",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newswit.com/img/f/20211101/59222587f864878b9c7a2675a06c13bd-0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "academy",
-        "domain": "newswit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -832,6 +840,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-01-arv-hosts-ai-robotics-hackathon-2021-open-house.md",
+      "title": "ARV hosts AI & Robotics Hackathon 2021: Open House",
+      "excerpt": "Featuring panel discussions on the future of AI and robotics development and opportunities with leading gurus in cyber security and subsea machine learning spheres AI and Robotics Ventures (ARV), the technology development and venture building spin-off from PTTEP,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thaipr.net/en/exhibition_en/3116139",
+      "originalUrl": "https://www.thaipr.net/en/exhibition_en/3116139",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thaipr.net/wp-content/uploads/2021/11/Next-Gen-Ranger_Countdown-Final-Approved_TH_re-scaled-1-768x513.jpg",
+          "width": 768,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-31T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thaipr.net",
+        "domain": "thaipr.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-huawei-ai-speaker-2e-launched-available-for-purchase-in-china-for-199-yuan-31.md",
       "title": "Huawei AI Speaker 2e launched; available for purchase in China for 199 yuan ($31)",
       "excerpt": "As it has become difficult for Huawei to focus on the smartphone business because of the sanctions imposed by the United States, the Chinese giant has been focusing on other products. In line with that,",
@@ -840,7 +891,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1157,57 +1208,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all.md",
-      "title": "The D-Link Eagle Pro AI Router Brings Affordable WiFi 6 For All",
-      "excerpt": "D-Link is the latest brand to join the affordable WiFi 6 party with the new R15 Eagle Pro AI AX1500 smart router. This surprisingly small and lightweight router combines Wi-Fi 6 technology and artificial intelligence in a router that offers strong wireless coverage and higher speeds,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6168429acae3598d883ce0e8%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/amp/",
-      "publishedDateTime": "2021-10-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617aa2261f5347ebbfa8f207%2F0x0.jpg"
         width: 1200
         height: 798
+        isCached: true
+  - title: "Is AI the future of drive-thrus?"
+    excerpt: "Or maybe you already have… Restaurants have been experimenting more and more with AI and robots, especially as companies struggle to find entry-level workers. Last week, McDonald’s announced the sale of its Automated Order Taking (AOT) tech to IBM,"
+    publishedDateTime: 2021-11-02T00:49:00Z
+    webUrl: "https://thehustle.co/11022021-ai-drive-thrus/"
+    ampWebUrl: "https://thehustle.co/11022021-ai-drive-thrus/amp/"
+    cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/11022021-ai-drive-thrus/amp/"
+    type: article
+    provider:
+      name: The Hustle
+      domain: thehustle.co
+    quality: 59
+    images:
+      - url: "https://thehustle.co/wp-content/uploads/2021/11/News-Brief_2021-11-02T004841.697Z.jpg"
+        width: 600
+        height: 330
         isCached: true
   - title: "Taming the data deluge by enriching AI algorithms with new processors"
     excerpt: "An oncoming tsunami of data threatens to overwhelm huge data-rich research projects in such areas that range from the tiny neutrino to an exploding supernova, as well as the mysteries deep within the brain."

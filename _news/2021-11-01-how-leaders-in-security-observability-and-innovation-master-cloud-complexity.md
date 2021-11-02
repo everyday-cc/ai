@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-securi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 99
 published: true
 
 provider:

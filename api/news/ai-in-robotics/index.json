@@ -10,7 +10,7 @@
       "originalUrl": "https://www.therobotreport.com/top-10-robotics-stories-of-october-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -48,19 +48,19 @@
     {
       "path": "_news/2021-11-01-arv-hosts-ai-robotics-hackathon-2021-open-house.md",
       "title": "ARV hosts AI & Robotics Hackathon 2021: Open House",
-      "excerpt": "AI and Robotics Ventures (ARV), the technology development and venture building spin-off from PTTEP, organized special panel discussion sessions at AI & Robotics Hackathon 2021: Open House in two topics: Quantum Cryptography: The Future of Cyber Security,",
+      "excerpt": "Featuring panel discussions on the future of AI and robotics development and opportunities with leading gurus in cyber security and subsea machine learning spheres AI and Robotics Ventures (ARV), the technology development and venture building spin-off from PTTEP,",
       "sourceUrl": null,
-      "webUrl": "https://www.newswit.com/en/LN9T",
-      "originalUrl": "https://www.newswit.com/en/LN9T",
+      "webUrl": "https://www.thaipr.net/en/exhibition_en/3116139",
+      "originalUrl": "https://www.thaipr.net/en/exhibition_en/3116139",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.newswit.com/img/f/20211101/59222587f864878b9c7a2675a06c13bd-0.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.thaipr.net/wp-content/uploads/2021/11/Next-Gen-Ranger_Countdown-Final-Approved_TH_re-scaled-1-768x513.jpg",
+          "width": 768,
+          "height": 513,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -70,11 +70,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T02:16:00-07:00",
+      "publishedDateTime": "2021-10-31T19:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "academy",
-        "domain": "newswit.com",
+        "name": "thaipr.net",
+        "domain": "thaipr.net",
         "images": null,
         "publishers": null,
         "authors": null

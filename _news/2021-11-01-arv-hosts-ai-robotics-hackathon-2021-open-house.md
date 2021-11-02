@@ -1,27 +1,27 @@
 ---
 category: news
 title: "ARV hosts AI & Robotics Hackathon 2021: Open House"
-excerpt: "AI and Robotics Ventures (ARV), the technology development and venture building spin-off from PTTEP, organized special panel discussion sessions at AI & Robotics Hackathon 2021: Open House in two topics: Quantum Cryptography: The Future of Cyber Security,"
-publishedDateTime: 2021-11-01T09:16:00Z
-originalUrl: "https://www.newswit.com/en/LN9T"
-webUrl: "https://www.newswit.com/en/LN9T"
+excerpt: "Featuring panel discussions on the future of AI and robotics development and opportunities with leading gurus in cyber security and subsea machine learning spheres AI and Robotics Ventures (ARV), the technology development and venture building spin-off from PTTEP,"
+publishedDateTime: 2021-11-01T02:16:00Z
+originalUrl: "https://www.thaipr.net/en/exhibition_en/3116139"
+webUrl: "https://www.thaipr.net/en/exhibition_en/3116139"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:
-  name: academy
-  domain: newswit.com
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.newswit.com/img/f/20211101/59222587f864878b9c7a2675a06c13bd-0.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.thaipr.net/wp-content/uploads/2021/11/Next-Gen-Ranger_Countdown-Final-Approved_TH_re-scaled-1-768x513.jpg"
+    width: 768
+    height: 513
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 500
         isCached: true
 
-secured: "l08mYLUetRn1bDhlzX1FYZAASpcu7JjqCSBUxcuUcRH71nvODUJKmfJ4WzMZCfvN8zG0aMN44ubxExKmnrkvx7GNtklAe7gf9CRM+/S+Xm7HM1lunK3ekGL5g85mH2PyZB8lk/wXe7ycm6fN9k1LR+UU+NoGo4yi98iL/LeGcjj+nOLKPWozZ/lh3iLuI/wmAP5KGERMZX6CzFwz/9fLRSn2obnGZMFqg46n5kHs/UOpqLsV+Ep5YcmFOBx7CIccmff+vRVWHT8Hl0Avuwt/sa5h8RWNdln2Lc+j5naiQCnAG4x5bn9x4mDXVlyqxpJE7CX6vEb8rE1rNE+V64sMtgttFJVeYKJw9DdWXsAMZCM=;SyldzfX7seB8GoXSCPWY+g=="
+secured: "8VhfwgD2DzTGtkoSczUSx6SY/l41h45FJPvRxoSVYhRIi3oYcP05P87O89+ahBrF0spyMXhQODTy/C1+MOD7asbYWc553+b7kk0XGlqp2Q08vlPE+zjjP7XA3/pyBgAqavXwFCJsxp320E0OvVFcO++VsM6RjCGqWyrht1TwrVZ7afwqIG7inIkdkwCw0uxQ/T6yjPSwkam3IPRCkibjcK4WD/5zMVdNDb/lMHm21a0OSe5utx/nlxnGlDkHGyKKBWe80dHgOEis+l0MngNuTB5KYD1FIuc0Y4B0smdQkP8esAW4LNqwdPtyTap2aZT4uIaJ2JyMg/JbePhxtYcqP1Sk76Eq9ndMQgkqDNzK4xM=;Dw5d/rzb8DAvDhf1T5ZANw=="
 ---
 

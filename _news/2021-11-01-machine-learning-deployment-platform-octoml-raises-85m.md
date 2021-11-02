@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/01/machine-learning-deployment-platf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/"
 type: article
 quality: 119
-heat: 139
+heat: 140
 published: true
 
 provider:

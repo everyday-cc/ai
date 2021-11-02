@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
-excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company"
-publishedDateTime: 2021-10-27T17:24:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html"
-webUrl: "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html"
+excerpt: "As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue, Index Ventures, and Alkeon. With this ..."
+publishedDateTime: 2021-10-27T17:46:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/abacus-ai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service/article_4bedcf5c-d69b-585c-8c25-e8d43382d8d4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/abacus-ai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service/article_4bedcf5c-d69b-585c-8c25-e8d43382d8d4.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "eYuC1lQxgkKpQJDDunsdtmjdAGBWh1hgNh2wETmfFSFYjXlNhODNjEuWkDoEjMS9GvSTx1VlcYTHlGQu92MaGZ0z9uJze3oMA7Kh3WaejQmRjg6glKvR7v88G2Ji8OvmEv9rQhs3Z8cfgLUSAQtwITxKsnNtr7gE42DIyTV+Ev5PKi613bDf6sfcHidv028n5lcf+glAa7SZAamwa0d1LxW7uZUXgMYYpBTzth+IqrGqf8SQwxZkR6iM3Fp9HQq9JVVfZH/iseZ5dNAEebCKLw6AZpIK3QhVYk3hsimI/YOzEpOPHj3YiVnP7jlUrUMYwAUacBSLaNkQOLHyTfg6vb/FAc/eDpm62swC7UHy/2U=;PcPNWqEqpykL06YkccKpHg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "Pt5GJ/ChKNruduugDa4JvX0L9b2k6OZ4GWF9gI60sA5Yon++N6it3QIoOWU3imLf6TRUpZYvDHWcdG8AzONvhdUk//vJvIOdM4Jbvbulf6wVcoQVS88NdNacna5COL0GRYHuzsFNkj9IOzgqyHmp3QV25sFJKXB690AQSMrw+yUOBUxbErPqIVrbpEkepvJxZy94n0kkbZ+NUSW6ZTUSxeqO7aj4+8mFdy/AwoDH7cO3mbkj4KGKIe9qZ0+mD9SMPpraGM9qKmhGgqKVuuCp2X9R/g5MtIBGlafRvxV2Y5qQyaibHNZMICnVoBl7+aQvAgbYHXSwMiGJv0mgMkYEh8AWpel0cCBLD+PRQI0afqE=;xjxtZa4ZqyeSGLxZTW3yQg=="
 ---
 

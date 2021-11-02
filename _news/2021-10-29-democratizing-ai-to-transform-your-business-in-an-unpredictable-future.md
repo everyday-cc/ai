@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratiz
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Copy.ai Raises $11M To Accelerate AI Helping You Build Your Business"
+    excerpt: "Everyone thinks that artificial intelligence will replace humans. Chris Lu and Paul Yacoubian think otherwise. The two have raised $11M to further develop their AI-powered software, Copy.ai, to unleash human creativity."
+    publishedDateTime: 2021-11-02T00:52:00Z
+    webUrl: "https://www.forbes.com/sites/frederickdaso/2021/11/01/copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/frederickdaso/2021/11/01/copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2021/11/01/copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617e11cac07f785fa3d90cad%2F0x0.jpg"
+        width: 760
+        height: 400
+        isCached: true
   - title: "How can AI be used to run an online business?"
     excerpt: "TLDR Fueled by a great increase in online shopping, e-commerce platforms have been utilizing AI to improve the customer experience and optimize their business performance. AI has the power to customize websites for individual users,"
     publishedDateTime: 2021-10-29T16:01:00Z

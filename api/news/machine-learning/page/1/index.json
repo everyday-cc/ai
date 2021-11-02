@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1191,6 +1191,40 @@
       ]
     },
     {
+      "path": "_news/2021-10-24-is-data-a-differentiator-for-your-business-if-so-traditional-ocr-cannot-be-an-answer.md",
+      "title": "Is Data a Differentiator for Your Business? If So, Traditional OCR Cannot Be An Answer",
+      "excerpt": "In this contributed article, Ankur Goyal, CEO and co-founder of Impira, discusses how to make the most of your OCR investment with AutoML. Automated Machine Learning is a nascent AI technology that exposes the power of machine learning (ML) to a much broader audience than data scientists and technologists.",
+      "sourceUrl": null,
+      "webUrl": "https://insidebigdata.com/2021/10/22/is-data-a-differentiator-for-your-business-if-so-traditional-ocr-cannot-be-an-answer/",
+      "originalUrl": "https://insidebigdata.com/2021/10/22/is-data-a-differentiator-for-your-business-if-so-traditional-ocr-cannot-be-an-answer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-23T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-23-deep-learning-market-size-analysis-strategic-assessment-market-growth-and-forecasts-to-2026.md",
       "title": "Deep Learning Market Size Analysis, Strategic Assessment, Market Growth and Forecasts to 2026",
       "excerpt": "Deepmind Technologies Ltd. Deep learning can be considered as a subset of machine learning and consists of algorithms that allow a software to self-train to execute tasks such as image and speech ...",
@@ -1298,49 +1332,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-us-air-force-teams-with-uk-on-machine-learning-demo.md",
-      "title": "US Air Force teams with UK on machine learning demo",
-      "excerpt": "By sharing data and machine learning algorithms, the two countries were able to improve situational awareness for war fighters in a demonstration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/CmSkjK0LuGwWeGDLXmB8GBzgViI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/RT4BUYK7P5BCHORIBCZAVETTLQ.jpeg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
         "images": null,
         "publishers": null,
         "authors": null
