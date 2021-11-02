@@ -413,10 +413,10 @@
     {
       "path": "_news/2021-10-12-cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure.md",
       "title": "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure",
-      "excerpt": "About CAST AI CAST AI is the autonomous Kubernetes management platform that cuts cloud bills in half for AWS, GCP and Azure customers. CAST AI analyzes millions of data points, always looking for ...",
+      "excerpt": "With the evolution of machine learning, the CAST AI team has developed an AI platform ... platform now supports both Google and Microsoft Azure public cloud platforms. \"The adoption of Kubernetes ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-1030859528",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-1030859528",
+      "webUrl": "https://www.wjhg.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/",
+      "originalUrl": "https://www.wjhg.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -426,21 +426,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T07:11:00-07:00",
+      "publishedDateTime": "2021-10-12T07:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WJHG",
+        "domain": "wjhg.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/11/01/korean-autonomous-driving-startup-42d
 ampWebUrl: "https://techcrunch.com/2021/11/01/korean-autonomous-driving-startup-42dot-bags-88-5m-series-a-to-support-its-growth/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/korean-autonomous-driving-startup-42dot-bags-88-5m-series-a-to-support-its-growth/amp/"
 type: article
-quality: 65
-heat: 65
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/11/42dot_2.jpg?w=1024"
@@ -29,6 +30,6 @@ images:
     height: 576
     isCached: true
 
-secured: "bgxlICHOIvx7h8Eoz9tAf+B0hq1vQx5u3z8JNSIA4xB1lqmY8zPzPDG0nZME7XZ3vAmq9OsU67mLVSYhlQ2F7EtkkTlDYCeWiIRdvq01uZYbhhENa90hBrvuDs3mrME7DuKjjYwEsfmOkcOw2EQyyfB5v0pIo8dhmDoBk9spXm+7bFPxvadSlAtpoTSj2LVYCM1x9MrtQNG9/ca0XGd3bS8qyhRJdZd3q07kxr2ahPbAREYPSO/0RVSzC95pemMD4EbqIPidC8iXWyV3CJlMAa6D0+ObxDuOLaZg0rBMF8fULs/P7lZxFWZ1T+8ulR3JOgJJs+C4fMXL4qe9U4M721yRddxNjfePpXlqvWdIDS4=;xaDS3fbyxOzDzHeeQgqU8w=="
+secured: "nbpvkygMxgAXGGvf1S21fvGZGQOKgdC/lTDLjepWHwAs9jBmMan9pcGVTbXMSWmhme/WCFaHsdSG/akpsfwU9tCoNapLIn+D4zZ6xvENCfWSC7/Ch+8LtORS8Y94mWY5lEVJCVF6Ud89G207Fnma5HKlUwV+FnbKJ7LRcz5QN+XOmzgYb/CPfhBrxf2h0IoA5B3xs+gXGMAvzoLt2M1XJVHUZmomWoRr6h1pBqqwJ2JSstz/w2VFlzPnSUS9dk1NKLCJstnTWwED2a0FHynmBLbilLuZRva5Nx/LHS87A4JZt98dCGOG254R++bK45Nn1r2BNr+Wfa2eCffvV2/gCdmzBNXw4NrBwXgpBPrsnterf8g+/7KldBXQBHEhRiN7khVyuVA013ulfMkHmEVs+p2BuTPwUtw4Cr6U98LTCXemjyJ+dTmX9c+IC3pU6Kt8qp+MRdHfkp+emBBCtXo+4BU9s/NCr4gSoL/cL1SbvKi69Euy3m4OFenRhedNgFh2qDG+YWi4KQqlPD8KjD0Saw==;P6Dd9zmLMhaHmyrXizaYjQ=="
 ---
 

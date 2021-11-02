@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/new-ai-powered-ec2-instances-by-aws/"
 webUrl: "https://bestgamingpro.com/new-ai-powered-ec2-instances-by-aws/"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Releases Amazon EC2 DL1 Instances that Train Machine Learning Models"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, is releasing Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models. DL1 instances are powered by Gaudi accelerators from Habana Labs (an Intel company) to provide up to 40% better price performance for training machine learning models than the latest GPU-powered Amazon EC2 instances,"
-    publishedDateTime: 2021-10-28T13:46:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 70
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AWS Announces General Availability of Amazon EC2 DL1 Instances"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models."
     publishedDateTime: 2021-10-30T13:00:00Z

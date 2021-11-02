@@ -2,16 +2,16 @@
 category: news
 title: "Samsung and IBM Announce Call for Code Challenge to Honor Everyday Heroes"
 excerpt: "The partnership between Samsung and IBM extends over 30 years, starting with work on semiconductors and now mobility, AI, 5G, Industry 4.0 and networks. At SDC, Samsung and IBM Consulting are ..."
-publishedDateTime: 2021-10-26T19:47:00Z
-originalUrl: "https://www.marketwatch.com/press-release/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-2021-10-26?dist=bigcharts&tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-2021-10-26?dist=bigcharts&tesla=y"
+publishedDateTime: 2021-10-26T22:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-1030901159"
+webUrl: "https://markets.businessinsider.com/news/stocks/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-1030901159"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,12 +19,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "RBLquwhM2+vnQi45DWc+48ujIY6GpzvtQTgXfSc+oiC6eteRY9LBw1/htsUCS0j5fy/fxJFFMZivikfqt25GSj0qgWc+ETwVE/D+tsiskPaVT/yYNmoe7Nj3WVWZO32YNdDXYoPpl0eEX9q1Ms2VZYW9x/yiuKp/rJjxfluuGV5JSANP+NL/UwnJDLHdF/265YkrrnVlEDJJssBgMvpIALRUCcrOiiwJytO7+BJTPcHYvZ9+TOJpIKE0mSjwRUuy4zpW4/Hn3ynQl6wGG4GrObxFGvv6lIShZ0KmgIh0RSyAkzgcoA3FEOCpZFt1e8vp5RamuNl4aQIzsIN8NaznJElAuQKlPymGnxFmuZz1PZE=;C/BvpOxcTWsA2QlQ45SO0g=="
+secured: "IS76lHMb95PCovHygMPKoFfqH36uM/NWJnvanSlLcnpKCSsL5bIxVsy5Ha0V8q622HcxaD+xOJ19poqmg0axzL/6LsghWaiBuK9rutJJUQPH6lSTBnJRFLOniQoRe0B2k8j4vA9IUEBReMm/+3aZKEEeHAcPR0TvPnTlTiEc88Xq+Z2lBbN/8xHwBjryw13ZrTN0jp4Ubd/DqOioRoboDKY8WrEWXlehRVEykJq9ySyOzBuMP/vfMVmCESPHuPGqhsxqx1n+oLSiPNIl63UAjAuX1bDaxE8CDavHzYKWpe3C79czKcopMDxfsV7j3Ue9A2iQCxhjjv5EV91rD7RlMCNS3CL+wt71uNmsdf2acUo=;6r8oH32ZVJclWMM1X0fPlA=="
 ---
 

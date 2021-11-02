@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why is Bfsi Artificial Intelligence Market Booming Worldwide ? Know The Latest Trends And Top Market Players"
-    excerpt: "To Understand How Our Report Can Bring A Difference To Your Business Strategy, Request A Sample Report:  The Global Bfsi Artificial Intelligence market report is provided for the international markets as well as development trends,"
-    publishedDateTime: 2021-10-30T06:17:00Z
-    webUrl: "https://chipdesignmag.com/why-is-bfsi-artificial-intelligence-market-booming-worldwide-know-the-latest-trends-and-top-market-players/"
+  - title: "Telco industry sees AI as key to cutting energy demand from rising internet traffic"
+    excerpt: "Telco industry sees AI as key to cutting energy demand from rising internet traffic – Nokia/GSMA research. GSMA Intelligence surveyed 103 communication service pr"
+    publishedDateTime: 2021-11-02T06:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-united-nations-9af802df93b51ce2d6e6e61606cfc590"
     type: article
     provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 18
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
     images:
-      - url: "https://marketresearch488204729.files.wordpress.com/2021/10/business-analysis-data-analytics-man-working-desk-graph-charts-diagram-chalkboard_284092-1424.jpg"
-        width: 626
-        height: 481
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "hCU9te3uO8eQrm1KFZnn8CtxufNxcZSXkOLwIex1qelg1hL1CRQQFVweAfS0pc+j9HOfRllgf+43QSbB/DLULkm6EEoaDUvK/PhpSq8xOXB+RSWSsT5N4N88G4EGWpbwtR6ukvqQ0OUj4Vd3ySzd3HafILuVE1QHvoTs+cYWHhsn8dSg+nb0LqOO5x+eQxI3ZiMMiMsMOuauRIo//Mpu/Mgi9q0WtoJThO6UlISbvmlulq9fH0tUbchC7Pdso4N8byQJw1XFcXeTP+dzc+zYyA34rrXK8L12h36Q6roaDlMDAOn7yuB4v96HDNDdkDvivGAfqfxLVtLFWa1DtYgUxlTvoOM3/j+06tMBCJu2dxg=;aAXOMMmj7QoctBkkj6x35w=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/11/conversational-ai-employe
 webUrl: "https://www.ibm.com/blogs/watson/2021/11/conversational-ai-employee-care/"
 type: article
 quality: 119
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 2000
     height: 1001
     isCached: true
-
-related:
-  - title: "Using artificial intelligence for the employee benefits journey"
-    excerpt: "Many people feel uncomfortable with using artificial intelligence (AI), since it tends to ... want support and guidance tools to help them understand how to save for health care, retirement, and emergencies. But your team can barely handle all the employee ..."
-    publishedDateTime: 2021-10-28T13:28:00Z
-    webUrl: "https://www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/"
-    ampWebUrl: "https://www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/?amp=1"
-    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/10/28/using-artificial-intelligence-for-the-employee-benefits-journey/?amp=1"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 61
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/09/Multiple-Paths-Article-202109161130.jpg"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "Xp77pKQGoRvCyOOqzlIaezY0du+mB9blZfHolNN4anm5VcABWoFCVrf6vFIv9RB89NHYp9UrhRyzWRHe/H38m0BU+D8iEapygTXN/zSsHcpeUo4o7NnV52WmJXZa+tWnFoosiK+Io2JMvf/15CYyuzKKRC7nurOtL0QfUCJeM2xHubF1lcVxdOvfxGVjEuS/WwQWFAZ1aHhvyorSVY2VvdiYGvFpxsSg/zaQ04RSrw+oLyYjPgjO26sZs4fzfIh7YcUD/LpFm6vqzAFVwp0hJ0U3PlL+zkMD5W2ERGXsEhQdwNOP6PV+KZlVRFgyO2JLmW0zoF9j5z9qashzJrErni2esL9f2Uw0Mc6Faqzy9qg=;AFQmrFJ+P4YU8QMMPEed0Q=="
 ---

@@ -24,6 +24,7 @@ topics:
   - AWS AI
   - AI
   - Computer Vision
+  - Machine Learning
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-imsev208-063.jpg?w=1024"

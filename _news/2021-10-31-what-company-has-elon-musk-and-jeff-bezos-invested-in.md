@@ -33,7 +33,7 @@ related:
     provider:
       name: ICTSD
       domain: ictsd.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.ictsd.org/wp-content/uploads/2021/10/how-many-americans-jeff-bezos-facial-recognition.jpg"
         width: 550

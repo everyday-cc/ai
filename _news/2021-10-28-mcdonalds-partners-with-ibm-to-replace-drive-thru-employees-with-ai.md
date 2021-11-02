@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/mcdonalds-ibm-replace-drive-thru-employees/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mcdonalds-ibm-replace-drive-thru-employees/amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "McDonald's and IBM could bring AI-powered drive-thrus to more restaurants"
-    excerpt: "McDonald's might not be the only restaurant experimenting with AI-based order taking in the ... while bolstering IBM's Watson-powered customer service offerings. The deal is expected to close ..."
-    publishedDateTime: 2021-10-28T14:24:00Z
-    webUrl: "https://www.engadget.com/mcdonalds-ibm-ai-food-orders-131806578.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 68
-    images:
-      - url: "https://s.yimg.com/os/creatr-images/2020-06/b72651f0-ab1b-11ea-ab97-77d87c130d3e"
-        width: 5616
-        height: 3744
-        isCached: true
   - title: "McDonald's looks to supersize its AI prowess via a new partnership with IBM"
     excerpt: "McDonald's made some savvy AI investments; now it's time to take them to the next level, with IBM providing the secret sauce. McDonald’s decision to sell off its AI tech labs to IBM is a gambit that reflects the fast food firm’s digital forward thinking,"
     publishedDateTime: 2021-11-01T09:20:00Z

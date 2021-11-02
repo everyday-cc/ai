@@ -2,6 +2,161 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-26-cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex.md",
+      "title": "Cisco launches new AI-powered and hybrid event features for Webex",
+      "excerpt": "Cisco has launched a range of new features for Webex, including AI-powered noise reduction and a 'wellness' portal for teams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/",
+      "originalUrl": "https://venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/cisco-fullwidth-mw-12120.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/amp/",
+      "publishedDateTime": "2021-10-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-this-ai-resurrects-ancient-board-gamesand-lets-you-play-them.md",
+      "title": "This AI Resurrects Ancient Board Games—and Lets You Play Them",
+      "excerpt": "What tabletop games did our ancestors play in 1000 BCE? A new research project wants to find out, and make them playable online too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/",
+      "originalUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/617700c0a7da35fe9f08a7f7/master/pass/Games-Ancient-Games-Online-1226937967.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/amp",
+      "publishedDateTime": "2021-10-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-can-artificial-intelligence-take-the-guesswork-out-of-the-customer-journey.md",
+      "title": "Can Artificial Intelligence Take The Guesswork Out Of The Customer Journey?",
+      "excerpt": "From shopping malls and sports arenas, to train stations and city streets, C2RO is an AI-powered video analytics platform that captures anonymized data about people’s movement so organizations can improve the customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/10/26/can-artificial-intelligence-take-the-guesswork-out-of-the-customer-journey/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/10/26/can-artificial-intelligence-take-the-guesswork-out-of-the-customer-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615f342c6b96a12cd286bcaa%2F0x0.jpg",
+          "width": 1200,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/10/26/can-artificial-intelligence-take-the-guesswork-out-of-the-customer-journey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/10/26/can-artificial-intelligence-take-the-guesswork-out-of-the-customer-journey/amp/",
+      "publishedDateTime": "2021-10-26T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table.md",
       "title": "AWS wins deal to store UK spy agencies' work, brings AI to the table",
       "excerpt": "The UK's spy agencies will move top secret data to AWS data centers and gain access to its artificial intelligence tools.",
@@ -1022,154 +1177,6 @@
         "Machine Learning",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-agencies-face-continued-challenges-making-security-data-ready-for-machine-learning.md",
-      "title": "Agencies face continued challenges making security data ready for machine learning",
-      "excerpt": "Proofpoint fraud expert Rob Holmes looks at how threat actors are exploiting agency supply chains to launch imposter email attacks and compromise agency networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/category/sponsored-content/",
-      "originalUrl": "https://www.fedscoop.com/category/sponsored-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony.md",
-      "title": "Frances Haugen: Key moments from Facebook whistleblower's UK parliamentary testimony",
-      "excerpt": "The former Facebook product engineer answered questions from lawmakers on regulation, Instagram Kids and whether she thought Facebook was evil.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/b08c5Epe3NTGTrmK4QYvTgFuIsQ=/1200x630/2021/10/25/943d7bc3-8a31-4cd3-9a2c-eeb0a0b39f77/screenshot-2021-10-25-at-14-36-38.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "publishedDateTime": "2021-10-25T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-facebook-whistle-blower-brings-her-campaign-to-europe-after-her-disclosures.md",
-      "title": "The Facebook whistle-blower brings her campaign to Europe after her disclosures.",
-      "excerpt": "Beginning a European tour in Britain, the former Facebook manager was questioned by policymakers drafting tougher tech regulations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
-      "originalUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/10/25/business/25economy-briefing-facebook-haugen/25economy-briefing-facebook-haugen-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html",
-      "publishedDateTime": "2021-10-25T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

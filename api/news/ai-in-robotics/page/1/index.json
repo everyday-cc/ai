@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-02-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
+      "title": "Robots hit the streets as demand for food delivery grows",
+      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmur.com/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "originalUrl": "https://www.wmur.com/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap21305694967862-1-1635838711.jpg?crop=1.00xw:0.847xh;0,0.125xh&resize=1200:*",
+          "width": 1024,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wmur.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "publishedDateTime": "2021-11-01T23:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMUR9",
+        "domain": "wmur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-ford-taps-non-it-professionals-to-broaden-its-ai-expertise.md",
       "title": "Ford Taps Non-IT Professionals to Broaden Its AI Expertise",
       "excerpt": "The auto maker has trained more than 1,000 employees on a platform it developed to put AI tools in the hands of people across the company.",
@@ -1372,58 +1415,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-18-tech-deals-for-the-weekend-black-friday-like-prices-on-tvs-bluetooth-speakers-robot-vacuums-and-more.md",
-      "title": "18 Tech Deals for The Weekend: Black Friday-Like Prices On TVs, Bluetooth Speakers, Robot Vacuums And More",
-      "excerpt": "If you love gadgets, this is a good weekend is looking good. Here are deals on Bluetooth speakers, electric scooters, TVs and streaming boxes, not to mention a slew of other gadgets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6171dfc6690a0277b2699717%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1500%26cropY1%3D139%26cropY2%3D1264",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/amp/",
-      "publishedDateTime": "2021-10-22T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

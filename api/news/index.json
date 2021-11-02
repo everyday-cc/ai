@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-02-how-ai-creates-synthetic-speech.md",
+      "title": "How AI Creates Synthetic Speech",
+      "excerpt": "What is different these days is that the quality of synthesized speech is improving, thanks to several companies using AI to create voice skins for enterprise companies and content creators that give more options for turning text into speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6180e37b097087a68b795e53%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/amp/",
+      "publishedDateTime": "2021-11-02T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
+      "title": "Robots hit the streets as demand for food delivery grows",
+      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmur.com/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "originalUrl": "https://www.wmur.com/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap21305694967862-1-1635838711.jpg?crop=1.00xw:0.847xh;0,0.125xh&resize=1200:*",
+          "width": 1024,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wmur.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "publishedDateTime": "2021-11-01T23:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMUR9",
+        "domain": "wmur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-of-global-execs-using-ai-over-75-report-ai-improves-team-culture.md",
+      "title": "Of Global Execs Using AI, Over 75% Report AI Improves Team Culture",
+      "excerpt": "More than 75% of managers who reported that their artificial intelligence implementations improved their team's decision-making and efficiency also saw improvements in collective learning (87%), team morale (79%),",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1675608/MIT_Sloan_Management_Review_and_BCG.jpg",
+          "width": 400,
+          "height": 231,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-ford-taps-non-it-professionals-to-broaden-its-ai-expertise.md",
       "title": "Ford Taps Non-IT Professionals to Broaden Its AI Expertise",
       "excerpt": "The auto maker has trained more than 1,000 employees on a platform it developed to put AI tools in the hands of people across the company.",
@@ -555,7 +701,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2021/11/conversational-ai-employee-care/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1072,152 +1218,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5.md",
-      "title": "Advancing AI Revenue Growth Insights In The Transportation And Logistics Industry Series: Blog #5",
-      "excerpt": "This is the fifth blog in the Advancing AI in the Transportation Industry, focused on drones and references innovations by Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ebb5620c4d03eab6729d8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/amp/",
-      "publishedDateTime": "2021-10-31T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-tech-time-delta-air-lines-launches-new-facial-recognition-software.md",
-      "title": "Tech Time: Delta Air Lines launches new facial recognition software",
-      "excerpt": "To streamline the check-in process at the airport, Delta Air Lines is introducing new facial recognition technology to airport security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/",
-      "originalUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1vhqlrjc8h82r.cloudfront.net/10-31-2021/t_36a7d442f26b4d2085ef3805536c4fcc_name_image.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp",
-      "publishedDateTime": "2021-10-31T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-intuit-accelerator-combines-fintech-for-good-with-ai.md",
-      "title": "Intuit Accelerator Combines Fintech For Good With AI",
-      "excerpt": "Fintech for good startup Bankuish is one of seven early-stage companies in the Intuit Prosperity Accelerator: AI. The five-month program is for fledgling fintech companies that target consumers and small businesses in North America and want to use AI to build better platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617eab2488106dd6e6ec75db%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/",
-      "publishedDateTime": "2021-10-31T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
