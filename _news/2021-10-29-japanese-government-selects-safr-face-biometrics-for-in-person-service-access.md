@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "ID R&D voice biometrics integrated into development kit for easy IoT deployment"
+    excerpt: "The integration simplifies the building and testing of applications with advanced voice biometrics, according to the company announcement."
+    publishedDateTime: 2021-11-02T17:30:00Z
+    webUrl: "https://www.biometricupdate.com/202111/id-rd-voice-biometrics-integrated-into-development-kit-for-easy-iot-deployment"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/10131503/voice-biometrics.jpg"
+        width: 1040
+        height: 585
+        isCached: true
   - title: "Vivoka Adds ID R&D Voice Biometrics to the Latest Version of Its Voice Development Kit"
     excerpt: "Vivoka Voice Development Kit V3 with voice biometrics from ID R&D - Now available at  (Graphic: ) Vivoka’s user-friendly, graphical interface removes"
     publishedDateTime: 2021-11-02T10:19:00Z

@@ -2,6 +2,160 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-31-intuit-accelerator-combines-fintech-for-good-with-ai.md",
+      "title": "Intuit Accelerator Combines Fintech For Good With AI",
+      "excerpt": "Fintech for good startup Bankuish is one of seven early-stage companies in the Intuit Prosperity Accelerator: AI. The five-month program is for fledgling fintech companies that target consumers and small businesses in North America and want to use AI to build better platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617eab2488106dd6e6ec75db%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/",
+      "publishedDateTime": "2021-10-31T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-10-31-ai-is-now-learning-to-evolve-like-earthly-lifeforms.md",
+      "title": "AI is now learning to evolve like earthly lifeforms",
+      "excerpt": "Deep Evolutionary Reinforcement Learning creates virtual agents that can evolve both in their physical structure and learning capacities.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-learning-evolve-like-earthly-lifeforms-syndication",
+      "originalUrl": "https://thenextweb.com/news/ai-learning-evolve-like-earthly-lifeforms-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fheader-image-AI-is-now-learning-to-evolve-like-earthly-lifeforms_.jpg&signature=169821ae58721fe142dc914eb528906f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-31T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-31-the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all.md",
+      "title": "The D-Link Eagle Pro AI Router Brings Affordable WiFi 6 For All",
+      "excerpt": "D-Link is the latest brand to join the affordable WiFi 6 party with the new R15 Eagle Pro AI AX1500 smart router. This surprisingly small and lightweight router combines Wi-Fi 6 technology and artificial intelligence in a router that offers strong wireless coverage and higher speeds,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/",
+      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6168429acae3598d883ce0e8%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/amp/",
+      "publishedDateTime": "2021-10-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-31-neuron-bursts-can-mimic-a-famous-ai-learning-strategy.md",
       "title": "Neuron Bursts Can Mimic a Famous AI Learning Strategy",
       "excerpt": "A new model of learning centers on blasts of neural activity that act as teaching signals—approximating an algorithm called backpropagation.",
@@ -398,7 +552,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -449,7 +603,7 @@
       "originalUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -993,6 +1147,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-29-turning-to-robots-for-career-advice.md",
+      "title": "Turning to Robots for Career Advice",
+      "excerpt": "According to new research commissioned by Oracle, 80% of employees say they’re not satisfied with employer support and 72% of the US workforce think robots and artificial intelligence can support their careers better than humans. Joining us to explain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice",
+      "originalUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/596/45bf940c346f431c9be273b8942ab6eb/59640f3b51cd412a9b3c3b83a2107ec5/poster_da477495870d4fc9a826480e882ccebe.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true",
+      "cdnAmpWebUrl": "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true",
+      "publishedDateTime": "2021-10-29T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC Action News",
+        "domain": "abcactionnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-intel-reconfirms-flagship-arc-alchemist-gpu-specs-and-gamers-will-be-stoked.md",
       "title": "Intel Reconfirms Flagship Arc Alchemist GPU Specs And Gamers Will Be Stoked",
       "excerpt": "During its Architecture Day 2021 event earlier this year, Intel outlined its Xe Arc GPU roadmap ... and dedicated matrix engines (up to 16) for AI acceleration. Intel is calling those matrix ...",
@@ -1033,204 +1230,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-the-verbit-model-for-the-future-of-work-with-ai.md",
-      "title": "The Verbit Model For The Future Of Work With AI",
-      "excerpt": "Verbit is a very successful startup. The 4-year-old developer of an AI-powered transcription and captioning platform has reached unicorn status in June, raising $157 million at a valuation of over $1 billion, for a total of $319 million raised to date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617bff85b283ba2bfd0cb124%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1843%26cropY1%3D0%26cropY2%3D1036",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/amp/",
-      "publishedDateTime": "2021-10-29T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-democratizing-ai-to-transform-your-business-in-an-unpredictable-future.md",
-      "title": "Democratizing AI To Transform Your Business In An Unpredictable Future",
-      "excerpt": "AI is no longer just a tool for data scientists ... enhancing overall enterprise operations. Business users can start leveraging AutoAI models in minutes, providing advanced predictive power for a broad range of staff, not just data scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ab08b6fd5210c145ece8a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/",
-      "publishedDateTime": "2021-10-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-voice-tech-coming-soon-to-a-classroom-near-you.md",
-      "title": "Voice Tech: Coming Soon To A Classroom Near You",
-      "excerpt": "Education publishing multinational Scholastic worked on its own speech recognition software in the late 1990s, but abandoned the project in the face of technical problems. But advances in artificial intelligence and machine learning mean it is a technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/",
-      "originalUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617b19822609716213144981%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/amp/",
-      "publishedDateTime": "2021-10-29T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-luxsecurity-luxembourg-sa-and-smp-robotics-collaborate-on-security-robots-deployment-in-luxembourg-and-the-eu.md",
-      "title": "Luxsecurity Luxembourg SA and SMP Robotics collaborate on security robots deployment in Luxembourg and the EU",
-      "excerpt": "They will be able to control the work of robots, located in different protected areas ... With video analytics, how would this scenario play out? It’s pretty mind-blowing. As soon as security is alerted, they can work with the video analytics tools ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/video-surveillance-ai-infared-camera.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
-      "publishedDateTime": "2021-10-29T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

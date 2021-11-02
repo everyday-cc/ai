@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-11-how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape.md",
+      "title": "How Artificial Intelligence and Machine Learning is altering the marketing landscape?",
+      "excerpt": "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
+      "publishedDateTime": "2021-10-11T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-tesla-officially-starts-its-wider-release-of-full-self-driving-beta-in-the-us.md",
       "title": "Tesla officially starts its ‘wider release’ of Full Self-Driving Beta in the US",
       "excerpt": "Tesla has officially started its ‘wider release’ of Full Self-Driving Beta in the US, which consists of slowly allowing more owners to download based on their ‘safety score’. Tesla Full Self-Driving Beta Tesla’s Full Self-Driving Beta (FSD) enables Tesla vehicles to virtually drive themselves both on highways and city streets by simply entering a location",
@@ -1378,49 +1423,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-autonomous-vehicles-market-witness-stunning-growth-by-2028-renault-toyota-bmw.md",
-      "title": "Autonomous Vehicles Market Witness Stunning Growth By 2028 | Renault, Toyota, BMW",
-      "excerpt": "Autonomous vehicle also known as self-driving vehicles uses artificial intelligence AI software light detection ranging LiDAR and Radar sensing technology which is further used to monitor the car and",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/271378513/autonomous-vehicles-market-witness-stunning-growth-by-2028--renault-toyota-bmw",
-      "originalUrl": "https://www.bignewsnetwork.com/news/271378513/autonomous-vehicles-market-witness-stunning-growth-by-2028--renault-toyota-bmw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1633869282912.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-02T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

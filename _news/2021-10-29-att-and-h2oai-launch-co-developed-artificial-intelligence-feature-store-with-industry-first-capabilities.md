@@ -40,20 +40,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "AT&T and H2O.ai Team Up on Feature Store"
-    excerpt: "Telecom giant AT&T and AI startup H2O.ai have teamed up to co-develop a feature store, which the companies announced today. The jointly developed H2O AI Feature Store will be available for any company to help better manage their data science development ..."
-    publishedDateTime: 2021-10-28T23:53:00Z
-    webUrl: "https://www.datanami.com/2021/10/28/att-and-h2o-ai-team-up-on-feature-store/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/feature-store.png"
-        width: 718
-        height: 396
-        isCached: true
 
 secured: "CIrpIL5dMRVhxgFLLd8W0aECrDHH0k2NGNkgY4YHPr7ysOtY6uSt5m7VgiXhBto2XY7cO8Q+Cw5qQuM2F8uRWPvZTMtjWe9N72mjo5Rl+un+v7d+ypHH7qM44aLyXkZp8UGT0/rKqNsHWXeE5LIKCkArHb/zaGXmqduw7jlBYhjffxYKz50rhQpwym9l3Uhbxco5NYyGECWbIa0UrHnBlDTaDFm7cniOv6D1y540isNHK+T1SCJT+5Qq6dMJsmjqUI/tV6OKaY5gseo1HyofP7Jsn2ovmpARcqCXXOwmOOWEMODLFhFJL2pqa8CnL8V+9lBaHqwSmmYAM0fJvt7CnPCKg+74DVytx5x6imIwTvI=;ZsNxOLvZtVm/eJYQKKnd8Q=="
 ---

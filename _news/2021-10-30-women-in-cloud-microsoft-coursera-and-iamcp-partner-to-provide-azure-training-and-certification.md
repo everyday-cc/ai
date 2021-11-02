@@ -135,6 +135,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft is adding more AI smarts and other new tools to Office"
+    excerpt: "Microsoft is adding more predictive capabilities to Office via a set of new capabilities called Context IQ. Microsoft's new Loop collaboration app and components isn't the only new thing coming to Office."
+    publishedDateTime: 2021-11-02T15:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-is-adding-more-ai-smarts-and-other-new-tools-to-office/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-adding-more-ai-smarts-and-other-new-tools-to-office/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-adding-more-ai-smarts-and-other-new-tools-to-office/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "10 Big Microsoft Azure Announcements At Ignite Fall 2021"
     excerpt: "Azure Arc, Azure Active Directory, Azure Synapse, Azure Cognitive Services and Azure SQL and among the cloud tools Microsoft announced upgrades for this week during its Ignite conference."
     publishedDateTime: 2021-11-02T15:00:00Z
@@ -149,14 +160,28 @@ related:
         width: 610
         height: 458
         isCached: true
-  - title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
-    publishedDateTime: 2021-11-02T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
+  - title: "Ignite Nov '21: Here's everything Microsoft announced for Azure"
+    excerpt: "The November edition of Microsoft Ignite is here and Ignite has always been about IT professionals, so Azure is front and center. Topics include Azure AI, Data, Dev & Ecosystem, Hybrid, Infra, IoT, MIgration,"
+    publishedDateTime: 2021-11-02T15:13:00Z
+    webUrl: "https://www.onmsft.com/news/ignite-nov-21-all-the-azure-news"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/09/Microsoft-Azure-data-center.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
+    publishedDateTime: 2021-11-02T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
   - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
     excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."

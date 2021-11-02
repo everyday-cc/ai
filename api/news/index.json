@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-02-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
-      "title": "Robots hit the streets as demand for food delivery grows",
-      "excerpt": "Hundreds of little robots are now navigating college campuses and even some city sidewalks in the U.S., the U.K. and elsewhere.",
+      "path": "_news/2021-11-02-build-a-shelf-monitoring-application-using-aws-panorama.md",
+      "title": "Build a shelf monitoring application using AWS Panorama",
+      "excerpt": "Out-of-stock (OOS) is an essential metric tracked across the retail industry. Brick-and-mortar retailers seek to reduce their costs associated with OOS items, while simultaneously increasing shopper satisfaction without inventory surplus. A product can be OOS in three main ways: Distribution OOS, Store",
       "sourceUrl": null,
-      "webUrl": "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
-      "originalUrl": "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-shelf-monitoring-application-using-aws-panorama/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-shelf-monitoring-application-using-aws-panorama/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.boston.com/wp-content/uploads/2021/11/Robot_Food_Delivery_67862-6180b92c0ec28-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/01/ML-2364-image003-1260x548.png",
+          "width": 1260,
+          "height": 548,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,117 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1",
-      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1",
-      "publishedDateTime": "2021-11-02T08:39:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T10:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Boston.com",
-        "domain": "boston.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score.md",
+      "title": "XPeng launches ‘Smart Driving Points’ beta, eerily similar to Tesla’s ‘Safety Score’",
+      "excerpt": "XPeng will implement a 'Smart Driving Points' scoring system very similar to Tesla that ensures drivers don't abuse its self-driving tech.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/",
+      "originalUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/11/XPeng-Smart-Driving-Points.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/amp/",
+      "publishedDateTime": "2021-11-02T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
+      "title": "Robots hit the streets as demand for food delivery grows",
+      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "originalUrl": "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "cdnAmpWebUrl": "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "publishedDateTime": "2021-11-02T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "My San Antonio",
+        "domain": "mysanantonio.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -200,7 +304,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -753,6 +857,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-02-pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery.md",
+      "title": "Pharma startup Quris aims to use a ‘patient on a chip’ to target drug delivery",
+      "excerpt": "Pharma startup Quris aims to use AI, knowledge of the human genome, and a \"patient on a chip\" to improve drug delivery.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/",
+      "originalUrl": "https://venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/medical.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/amp/",
+      "publishedDateTime": "2021-11-02T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-reskin-aims-to-give-ai-a-sense-of-touch.md",
       "title": "ReSkin aims to give AI a sense of touch",
       "excerpt": "Humans take the sense of touch for granted, and it’s one of the most important types of input that we get in certain situations. Our sense of touch allows us to do things like feel how we",
@@ -865,7 +1021,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1111,143 +1267,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners.md",
-      "title": "'Cooperative Perception' Could Help Autonomous Vehicles See Pedestrians Around Corners",
-      "excerpt": "New technology developed by researchers in Australia could help self-driving vehicles steer clear of pedestrians and cyclists without a direct line of sight, according to researchers from University researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/",
-      "originalUrl": "https://www.msn.com/en-us/autos/news/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/ar-AAQcvuB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/02/16eedec7efe894e56e6d335cb51ef357-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/amp/",
-      "publishedDateTime": "2021-11-01T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/",
-        "domain": "com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge.md",
-      "title": "Untether AI Touts “At-Memory” Architecture, Promising Efficiency And Performance At The Edge",
-      "excerpt": "Untether AI recently emerged from stealth and described their architecture as being “At-Memory”, which the company claims will deliver leading performance and power efficiency. Most products that claim the latter deliver relatively weak performance (with the exception of Qualcomm’s CloudAI 100).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176deaaa5df8d50508ac034%2F0x0.jpg",
-          "width": 1200,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
-      "publishedDateTime": "2021-11-01T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-key-to-resilient-energy-efficient-aimachine-learning-may-reside-in-human-brain.md",
-      "title": "Key to resilient energy-efficient AI/machine learning may reside in human brain",
-      "excerpt": "A clearer understanding of how a type of brain cell known as astrocytes function and can be emulated in the physics of hardware devices, may result in artificial intelligence (AI) and machine learning that autonomously self-repairs and consumes much less energy than the technologies currently do,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/11/211101104858.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/11/211101104858.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

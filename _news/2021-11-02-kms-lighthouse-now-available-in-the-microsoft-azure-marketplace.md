@@ -1,18 +1,18 @@
 ---
 category: news
 title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
-publishedDateTime: 2021-11-02T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
-webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
+excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
+publishedDateTime: 2021-11-02T12:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -129,6 +129,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft is adding more AI smarts and other new tools to Office"
+    excerpt: "Microsoft is adding more predictive capabilities to Office via a set of new capabilities called Context IQ. Microsoft's new Loop collaboration app and components isn't the only new thing coming to Office."
+    publishedDateTime: 2021-11-02T15:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-is-adding-more-ai-smarts-and-other-new-tools-to-office/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-adding-more-ai-smarts-and-other-new-tools-to-office/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-adding-more-ai-smarts-and-other-new-tools-to-office/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "Women in Cloud, Microsoft, Coursera and IAMCP Partner to Provide Azure Training and Certification"
     excerpt: "Women in Cloud (WiC) is excited to announce a collaboration with Microsoft and Coursera to distribute Azure Training and Certification Scholarships to women in India, through their #empowHERfamily initiative that brings together resources across corporate,"
     publishedDateTime: 2021-10-30T04:52:00Z
@@ -156,6 +167,20 @@ related:
       - url: "https://www.crn.com/resources/026f-139ee8241c4f-fc3fe8f614e5-1000/msft-ignite-slide-1-real.jpg"
         width: 610
         height: 458
+        isCached: true
+  - title: "Ignite Nov '21: Here's everything Microsoft announced for Azure"
+    excerpt: "The November edition of Microsoft Ignite is here and Ignite has always been about IT professionals, so Azure is front and center. Topics include Azure AI, Data, Dev & Ecosystem, Hybrid, Infra, IoT, MIgration,"
+    publishedDateTime: 2021-11-02T15:13:00Z
+    webUrl: "https://www.onmsft.com/news/ignite-nov-21-all-the-azure-news"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/09/Microsoft-Azure-data-center.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
     excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
@@ -197,6 +222,6 @@ related:
       domain: openpr.com
     quality: 13
 
-secured: "dd5+1p4VVVUbW86Olq3JOlGl0gMdsi4TRS78LLAqkQ96/TUrrnG0D09Ka67IxLCSJ4VRvVzxZZ7+Y4m92KAcRJaHzKCpe3CAU6E6M/H5lbdf7cz8Txuwlmtz4/UQXqg/sGzB2gF87PBPIBpEQ9ejp8v/gq6KJRongo/djlS/N34Z0k/mXWAuww4jw4l1/b2WO8VB7zneFuBtxIQ+3kkLY1+qbLsMafIGSv5Dj+SDVmhDA9YlzOxj+UDtRbZ0sFp7dH4ykmiEPbTZoG5VLYGeyX9dBpPpCpOKs683lfJAzDwwfDD/Qm1NFXHSRyHTdtizX/gKV/0paaF30f/GcIpjKRgPpjZsCNNjypuFULIhIAI=;aQDyTWnxu4Q6KhOd7f93GA=="
+secured: "NPB9HL4FoSGY/RPTh45u/cC6CasimJDtFdIA1LqhnV1+qWsZuhL10Dd3yp/JNRGTkOljltph5h+V4pTjT6+E2azawpOlihaF5ZIzIYtbxXgLQOa5vZMevhGhUIrT1oYrTmRUTpdnl5R18yZVey0OwyYQGwVvPOV+Z22xIKGG0aqU6PsylP1Tyvhd5QO+426OBQo0uvD/9XrvfH8id9d5xfU0tFUy09pUiCT1wPYhVvtGq5d2NwtnAgaiCwtyD6POUuNa/veIc15SE0BC8YumYbbc8F+gvgjEVIb74ZideY1J2HRaWnQaCv9bHNZoJOurOey4hKerO/j/umWNC22ldjx5np6KpTsIGZuSwF8e3Kg=;HinSobmiDbi3kokuApZRgg=="
 ---
 

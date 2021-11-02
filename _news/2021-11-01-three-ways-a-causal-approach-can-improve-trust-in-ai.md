@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/three-ways
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/01/three-ways-a-causal-approach-can-improve-trust-in-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "5 Ways AI Can Improve Hiring for Both Employers and Candidates"
+    excerpt: "The cliché “it’s hard to find good people” is now so true that it hurts – so AI's assistance in this process is more important than ever."
+    publishedDateTime: 2021-11-02T16:29:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/5-ways-ai-can-improve-hiring-for-both-employers-and-candidates/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/08/typing-on-computer-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "PXLnIxYAj327uzY120XL/Gb+jrK8ySaTZHhGkE0bFIZ17oZ8WuLz0AN2vtNvCSd2DhZEq17RWY5WlUvbL3Imb9Uvg8SchS/BQvOOm5KBrnQX2uP4D6mD7einOsGwBCva+mkw9+CvctZCatmvGH4nEip5vrQrOa7bwyJNNUrIh/31mX/ouTlXjWv6OdG/H8WCz3bBJl9yKMIZQx/WKB8ESPlhd3xAdORLUGqgOm1JYAlRHjkCxPesMmzerysmv45GuxjVGlh8oTRdBCC5WaWavAKw4CwPxTeHnUfRj9oH5Ycd57y+tkTW8tBhV8Wil+zSxyeeua9I5zkdw9sv1xrz9dGwoSKQirurWxARCQPYSTZmVal/FbRKJSmWYyZ8poLIrgBE6d6zq/6hqa5uGqDVFPUHwJEnQGeZtUhOQB2iCvvfFvc5lxmQY3TiWyen2lXLSyIV7mOygVirC5Ydtm+f4J6o3LDi8MOJsru17AJ8YXh39fogAuqXEPcclS5okZ9Kqpk3TjD1AtATrmEWMLeHuQ==;Pbrrjggn7ku7FBOD4wy9Zw=="
 ---

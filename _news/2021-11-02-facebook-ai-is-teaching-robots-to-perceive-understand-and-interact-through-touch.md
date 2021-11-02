@@ -103,6 +103,70 @@ related:
         width: 3360
         height: 1896
         isCached: true
+  - title: "Facebook Shuttering Facial Recognition System, Will Delete Data From Over a Billion Users"
+    excerpt: "Facebook is shutting down its Face Recognition system and will delete the facial data of more than 1 billion of its users, Facebook parent"
+    publishedDateTime: 2021-11-02T17:43:00Z
+    webUrl: "https://www.macrumors.com/2021/11/02/facebook-shutting-down-face-recognition/"
+    ampWebUrl: "https://www.macrumors.com/2021/11/02/facebook-shutting-down-face-recognition/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/11/02/facebook-shutting-down-face-recognition/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 50
+    images:
+      - url: "https://images.macrumors.com/t/75J5IfUSoeMQCWn0gpzeSBjgmPU=/2000x/https://images.macrumors.com/article-new/2021/11/facebook-facial-recognition-disabled.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Facebook to shut down and delete its face-recognition system"
+    excerpt: "The social network said it will end its face-recognition system and delete the face prints of more than 1 billion people."
+    publishedDateTime: 2021-11-02T17:42:00Z
+    webUrl: "https://www.cbsnews.com/news/facebook-to-shut-down-and-delete-its-face-recognition-system/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-to-shut-down-and-delete-its-face-recognition-system/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-to-shut-down-and-delete-its-face-recognition-system/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/10/16/231706e1-d529-4620-b699-12fbec651b5b/thumbnail/1200x630/7f2b8cb2672e6ed6c3446bb7991ab987/cbsn-fusion-facebook-faces-renewed-scrutiny-over-business-practices-thumbnail-816789-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facebook’s face-recognition system to shut down"
+    excerpt: "More than a third of Facebook’s daily active users have opted in to have their faces recognized by the social network’s system."
+    publishedDateTime: 2021-11-02T17:43:00Z
+    webUrl: "https://chicago.suntimes.com/business/2021/11/2/22759676/facebook-face-recognition-system-shut-down-delete-data"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/business/2021/11/2/22759676/facebook-face-recognition-system-shut-down-delete-data"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/business/2021/11/2/22759676/facebook-face-recognition-system-shut-down-delete-data"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 44
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Facebook will shut down face-recognition system, delete prints of 1 billion people"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people. “This change will represent one of the largest shifts in facial"
+    publishedDateTime: 2021-11-02T17:37:00Z
+    webUrl: "https://ktla.com/news/nationworld/facebook-will-shut-down-face-recognition-system-delete-prints-of-1-billion-people/"
+    ampWebUrl: "https://ktla.com/news/nationworld/facebook-will-shut-down-face-recognition-system-delete-prints-of-1-billion-people/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/facebook-will-shut-down-face-recognition-system-delete-prints-of-1-billion-people/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 38
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/10/Facebook-1-2.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Before Going Meta, Mark Zuckerberg Must Fix Facebook"
     excerpt: "No matter what Facebook is called now ... Although the conference was officially called the Dartmouth Summer Research Project on Artificial Intelligence, many attendees balked at that term, invented by McCarthy. “I won’t swear I hadn’t seen it ..."
     publishedDateTime: 2021-10-29T13:41:00Z

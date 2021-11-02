@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-02-cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners.md",
+      "title": "'Cooperative Perception' Could Help Autonomous Vehicles See Pedestrians Around Corners",
+      "excerpt": "New technology developed by researchers in Australia could help self-driving vehicles steer clear of pedestrians and cyclists without a direct line of sight, according to researchers from University researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/",
+      "originalUrl": "https://www.msn.com/en-us/autos/news/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/ar-AAQcvuB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/02/16eedec7efe894e56e6d335cb51ef357-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/amp/",
+      "publishedDateTime": "2021-11-01T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/",
+        "domain": "com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge.md",
+      "title": "Untether AI Touts “At-Memory” Architecture, Promising Efficiency And Performance At The Edge",
+      "excerpt": "Untether AI recently emerged from stealth and described their architecture as being “At-Memory”, which the company claims will deliver leading performance and power efficiency. Most products that claim the latter deliver relatively weak performance (with the exception of Qualcomm’s CloudAI 100).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176deaaa5df8d50508ac034%2F0x0.jpg",
+          "width": 1200,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
+      "publishedDateTime": "2021-11-01T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-key-to-resilient-energy-efficient-aimachine-learning-may-reside-in-human-brain.md",
+      "title": "Key to resilient energy-efficient AI/machine learning may reside in human brain",
+      "excerpt": "A clearer understanding of how a type of brain cell known as astrocytes function and can be emulated in the physics of hardware devices, may result in artificial intelligence (AI) and machine learning that autonomously self-repairs and consumes much less energy than the technologies currently do,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/11/211101104858.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/11/211101104858.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-works-well-with-robots-the-way-robotsai-and-humans-interact.md",
       "title": "Works Well With Robots? The Way Robots/AI and Humans Interact",
       "excerpt": "Blame it on HAL 9000, Clippy’s constant cheerful interruptions, or any navigational system leading delivery drivers to dead-end destinations. In the workspace, people and robots don’t always get along.",
@@ -460,7 +597,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -564,7 +701,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/three-ways-a-causal-approach-can-improve-trust-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1071,160 +1208,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-intuit-accelerator-combines-fintech-for-good-with-ai.md",
-      "title": "Intuit Accelerator Combines Fintech For Good With AI",
-      "excerpt": "Fintech for good startup Bankuish is one of seven early-stage companies in the Intuit Prosperity Accelerator: AI. The five-month program is for fledgling fintech companies that target consumers and small businesses in North America and want to use AI to build better platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617eab2488106dd6e6ec75db%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/",
-      "publishedDateTime": "2021-10-31T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-ai-is-now-learning-to-evolve-like-earthly-lifeforms.md",
-      "title": "AI is now learning to evolve like earthly lifeforms",
-      "excerpt": "Deep Evolutionary Reinforcement Learning creates virtual agents that can evolve both in their physical structure and learning capacities.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-learning-evolve-like-earthly-lifeforms-syndication",
-      "originalUrl": "https://thenextweb.com/news/ai-learning-evolve-like-earthly-lifeforms-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fheader-image-AI-is-now-learning-to-evolve-like-earthly-lifeforms_.jpg&signature=169821ae58721fe142dc914eb528906f",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-31T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all.md",
-      "title": "The D-Link Eagle Pro AI Router Brings Affordable WiFi 6 For All",
-      "excerpt": "D-Link is the latest brand to join the affordable WiFi 6 party with the new R15 Eagle Pro AI AX1500 smart router. This surprisingly small and lightweight router combines Wi-Fi 6 technology and artificial intelligence in a router that offers strong wireless coverage and higher speeds,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6168429acae3598d883ce0e8%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/amp/",
-      "publishedDateTime": "2021-10-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -23,6 +23,22 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "Versatile Launches AI and IoT-Based Solution for Construction Process Optimization"
+    excerpt: "American construction and industrial process startup Versatile has launched CraneView, an AI and IoT-based solution for construction process optimization."
+    publishedDateTime: 2021-11-01T10:49:00Z
+    webUrl: "https://www.just-auto.com/research-reports/versatile-launches-ai-and-iot-based-solution-for-construction-process-optimization/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 31
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/11/shutterstock_1144060268.jpg"
+        width: 500
+        height: 334
+        isCached: true
+
 secured: "4DAWFpClnJfjY3qC53+tNNh53dGfqiNrjoPearXDRxaZBmO3GafukSxeA420/I/sVgd3rU+O5hqNZG4xfJTdui05m1yNTlzDFsWiYKE/ePCxQOy4gd7u3BlDe81LEAh7SNtBrwG52KlNQ+cubnwWfBjqxiiqHJqgM6cE04W7dbR6wbkupQ9TX81fAskD+WAwuCgWu60pYx25Kp6SUZ8LRn8otvwtVEoCClApHLrOypU4iXsSpiPXiqbnYTO5tI58IXAfJkercQCOC6gDET6nQp61Z7f4cOB9CUVpQ6dCvYKe/WMqG2ZBQ9ASp3Y/ThTtthVPkGqv3rs27sVVePqs0COZVLIeVscFn6ILbORpiwLNlnMknMF+rNrrOzE9OHH+SUrSSen/x9QBJyqrWh+kkK1ndneXoezOR5fNWqU0vFZ5R4jhZYiLHO8XJD3ZoKF0H19dVvRx2R1rKQ1PivbWDZbo81EortEcbQ7hBMUch1QtXjrLltaQtz138W5j+KoceTd96/vkYwglIVqxjUTfCg==;LOhZRV+YFZuWBmLdwKTaHQ=="
 ---
 

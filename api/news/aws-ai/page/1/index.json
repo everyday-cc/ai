@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-02-build-a-shelf-monitoring-application-using-aws-panorama.md",
+      "title": "Build a shelf monitoring application using AWS Panorama",
+      "excerpt": "Out-of-stock (OOS) is an essential metric tracked across the retail industry. Brick-and-mortar retailers seek to reduce their costs associated with OOS items, while simultaneously increasing shopper satisfaction without inventory surplus. A product can be OOS in three main ways: Distribution OOS, Store",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-shelf-monitoring-application-using-aws-panorama/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-shelf-monitoring-application-using-aws-panorama/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/01/ML-2364-image003-1260x548.png",
+          "width": 1260,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia.md",
       "title": "Machine Learning in Retail Market 2021 is Booming Globally with Top Key Players- IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA",
       "excerpt": "IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA, Google, Sentient Technologies, Salesforce, ViSenze Recently added report provided by QY Reports Machine Learning in Retail Market Presents an Analysis of Market Situation and Challenges.",
@@ -1369,41 +1421,6 @@
       "ampWebUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
       "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
       "publishedDateTime": "2021-10-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras.md",
-      "title": "Facial Recognition Fail Spurs Bid to Ban It From Police Cameras",
-      "excerpt": "One such lawmaker was Assemblyman Phil Ting, D-San Francisco, was matched with a mug shot by Amazon’s facial recognition software called Rekognition despite never having been arrested. “This is a demonstration that this software is not ready for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/",
-      "originalUrl": "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/amp/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/amp/",
-      "publishedDateTime": "2021-10-14T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Courthouse News Service",

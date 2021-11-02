@@ -2,6 +2,239 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-28-slashnext-which-uses-ai-to-combat-phishing-raises-26m.md",
+      "title": "SlashNext, which uses AI to combat phishing, raises $26M",
+      "excerpt": "“Our technology has logged more than 2.5 million [phishing] threats hiding in legitimate infrastructures like Amazon Web Services, Outlook, Sharepoint, and Microsoft Azure. [SlashNext’s AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
+      "originalUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/fly-d-9PivUW7l1m4-unsplash-e1631050913938.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
+      "publishedDateTime": "2021-10-28T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-artificial-intelligence-is-now-part-of-us-air-forces-kill-chain.md",
+      "title": "Artificial Intelligence Is Now Part Of U.S. Air Force’s ‘Kill Chain’",
+      "excerpt": "The U.S.A.F. revealed recently that it had used artificial intelligence to aid targeting decisions for the first time. It turns out that this was not simply an experimental one-off use to test the technology: AI is embedded in the Air Force’s targeting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617a9d30b0511aeedee7de16%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/amp/",
+      "publishedDateTime": "2021-10-28T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-intel-turns-focus-on-developers-with-new-pc-and-data-center-chips.md",
+      "title": "Intel turns focus on developers with new PC and data center chips",
+      "excerpt": "The development of new chips took centerstage at inaugural Intel Innovation event, with announcements spanning new products, developer tools, technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2021/10/intel-turns-focus-on-developers-with-new-pc-and-data-center-chips/",
+      "originalUrl": "https://techhq.com/2021/10/intel-turns-focus-on-developers-with-new-pc-and-data-center-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/10/intel-chip.jpeg",
+          "width": 480,
+          "height": 298,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-legaltech-startup-vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives.md",
+      "title": "Legaltech Startup Vakilsearch Raises $10 Mn To Accelerate Its AI And ML Initiatives",
+      "excerpt": "“With this investment, we will leverage the strengths of Vakilsearch and accelerate our Artificial Intelligence (AI) and Machine ... India CEO Manish Modi. The startup had raised $2 Mn from ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/",
+      "originalUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2021/10/vakilsearch-featured.jpg",
+          "width": 1360,
+          "height": 1020,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/amp/",
+      "publishedDateTime": "2021-10-28T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats.md",
+      "title": "NetWitness® Detect AI: Cloud-native machine learning for rapid detection of sophisticated threats",
+      "excerpt": "Home video setup: What you need to look and sound professional Artificial intelligence ethics policy Checklist: Onboarding and offboarding IT staff BYOD approval form",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
+      "publishedDateTime": "2021-10-28T00:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-ceti-project-launched-to-decode-whale-language.md",
       "title": "CETI Project Launched To Decode Whale Language",
       "excerpt": "We will now be able to talk to Whales! Yes, you read it right. A team of interdisciplinary scientists have launched a Project CETI with the goal of decoding and communicating with sperm whales. CETI- Cetacean Translation Initiative,",
@@ -609,10 +842,10 @@
     {
       "path": "_news/2021-10-28-abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service.md",
       "title": "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service",
-      "excerpt": "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company",
+      "excerpt": "As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue, Index Ventures, and Alkeon. Series C ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service-301410115.html",
+      "webUrl": "https://www.1011now.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/",
+      "originalUrl": "https://www.1011now.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -622,11 +855,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T10:24:00-07:00",
+      "publishedDateTime": "2021-10-27T10:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "1011 Now",
+        "domain": "1011now.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -933,255 +1166,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-good-machine-learning-practice-for-medical-device-development-guiding-principles.md",
-      "title": "Good Machine Learning Practice for Medical Device Development: Guiding Principles",
-      "excerpt": "The U.S. Food and Drug Administration (FDA ... the development of Good Machine Learning Practice (GMLP). These guiding principles will help promote safe, effective, and high-quality medical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles",
-      "originalUrl": "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Center for Food Safety and Applied Nutrition",
-        "domain": "fda.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-robot-taxi-boats-take-to-the-water-in-amsterdam.md",
-      "title": "Robot taxi boats take to the water in Amsterdam",
-      "excerpt": "The self-driving boat, dubbed Roboat III, is the creation of MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the Senseable City Laboratory, and the Amsterdam Institute for Advanced Metropolitan Solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "originalUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b28ff8b30f4357577c4bd78f6367cfa9959b5b56/2021/10/25/c75fd06e-1512-4c6e-9770-86eb11d8f1cc/screenshot-2021-10-25-at-10-58-37.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 791,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "publishedDateTime": "2021-10-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-unpacking-ai-and-key-drivers-for-modern-business-environments.md",
-      "title": "Unpacking AI And Key Drivers For Modern Business Environments",
-      "excerpt": "C-level business leaders such as chief information officers, chief technology officers and chief financial officers must strive to understand that. How quickly the adoption, efficiency and efficacy of these technologies work depends on the approach and blueprint that are developed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/27/unpacking-ai-and-key-drivers-for-modern-business-environments/amp/",
-      "publishedDateTime": "2021-10-27T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-adobes-project-in-between-uses-ai-to-create-living-photos.md",
-      "title": "Adobe's Project In-Between uses AI to create 'living photos'",
-      "excerpt": "As part of its \"sneaks\" session today, Adobe will demo Project In-Between: an AI-based tool that creates what the company calls \"living photos\" from separate still images. Using Adobe Sensei AI, the tool makes an animation between two or more photos with a single click.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/adobe-project-in-between-preview-130017575.html",
-      "originalUrl": "https://www.engadget.com/adobe-project-in-between-preview-130017575.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/9eab3980-3722-11ec-be5f-3f90f7e9f1a5",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-microsoft-unveils-sustainability-management-portal-for-businesses.md",
-      "title": "Microsoft unveils sustainability management portal for businesses",
-      "excerpt": "The SaaS solution is designed to help organizations record their environmental footprint, progress reports and reduce their emissions while also providing actionable steps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-unveils-sustainability-management-portal-for-businesses/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-unveils-sustainability-management-portal-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/511825a81435fabe2e4854367475962aa66b2d70/2021/10/27/6467ef10-0a8b-491a-9230-27d770d606ef/getting-started.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-unveils-sustainability-management-portal-for-businesses/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-sustainability-management-portal-for-businesses/",
-      "publishedDateTime": "2021-10-27T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

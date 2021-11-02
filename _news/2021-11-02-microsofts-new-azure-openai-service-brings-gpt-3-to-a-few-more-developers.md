@@ -125,6 +125,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft is adding more AI smarts and other new tools to Office"
+    excerpt: "Microsoft is adding more predictive capabilities to Office via a set of new capabilities called Context IQ. Microsoft's new Loop collaboration app and components isn't the only new thing coming to Office."
+    publishedDateTime: 2021-11-02T15:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-is-adding-more-ai-smarts-and-other-new-tools-to-office/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-adding-more-ai-smarts-and-other-new-tools-to-office/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-adding-more-ai-smarts-and-other-new-tools-to-office/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "Women in Cloud, Microsoft, Coursera and IAMCP Partner to Provide Azure Training and Certification"
     excerpt: "Women in Cloud (WiC) is excited to announce a collaboration with Microsoft and Coursera to distribute Azure Training and Certification Scholarships to women in India, through their #empowHERfamily initiative that brings together resources across corporate,"
     publishedDateTime: 2021-10-30T04:52:00Z
@@ -153,14 +164,28 @@ related:
         width: 610
         height: 458
         isCached: true
-  - title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
-    publishedDateTime: 2021-11-02T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
+  - title: "Ignite Nov '21: Here's everything Microsoft announced for Azure"
+    excerpt: "The November edition of Microsoft Ignite is here and Ignite has always been about IT professionals, so Azure is front and center. Topics include Azure AI, Data, Dev & Ecosystem, Hybrid, Infra, IoT, MIgration,"
+    publishedDateTime: 2021-11-02T15:13:00Z
+    webUrl: "https://www.onmsft.com/news/ignite-nov-21-all-the-azure-news"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/09/Microsoft-Azure-data-center.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
+    publishedDateTime: 2021-11-02T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
   - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
     excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
@@ -202,6 +227,6 @@ related:
       domain: openpr.com
     quality: 13
 
-secured: "CYmp+QwpW5+qNq1B966G2V1n2Otx1q/t4iEFNwjmz4l1J+apvREOYUZ4IXrxs3QCCpOeNQqnro+4t4QSZX69zkUOSbkyV/bruhHP3/TVHD31/ievOtXFEm/1TGMkvWJHH31XBh7E1079Z5TqCHYfKdxbXFeG+PYbDo+qTrT+t1se8KpUxpDfzlerNUOsh0StkwPP8On31ECRmTZGBz5F7bKdKnudfcIYYpYpqHaIE7ruuE85s7BArqVLuNaVS+IF2ywe0ZvTe7YNfUD2XGLQOcjjSJ6h/s9MbvVK1wDhBncFNFMLiYpbDKHSi7hlFCxJU3K7OcYP5GUfSPkde1JmAWBbxUZXtIGn6Gf9dyiGAu0=;bYd6vq2Zrmwzw4fm0kERfg=="
+secured: "68ccAwNCUoRm4EbqzmaZgkp3/l857f17jg6YHWIWq8HwbQRbEAaacyXuwnwQLVAyL17NK+Y74BWPtMa4nxpLQN5gvnGFgheHUdnu1U3dfFYOtjWZ7W/JQfuqQj5HYQ4fM1DO7EA7/wQ5hyBEevlerVdZoXpVsC6qUTAuRYPa3wpqAfikFwtqcWXDu/qntrAqEAETHai3agXhH9BZxkhkPf3c1WY+uDMzCFaEsM8r/EDe5KHG57APGrR63KhYA9shYWGfoZ3Am1PkQWOpz4sAWjaOsAvobho7UrsjqZGQYnBLV3/WSHctu182NEMBQm89TG1/r7Pyif1yy7voB5EJS69uwcJZGzo679FhLtdkI32LOQBKxqdaQmhfnM4YjTSfHESCM/cSSjMvs3XMTi/4dMnrKsMxONoEq1xTQhGuLfgoTeZ6Elua7RV5asGHUiUJRUb1Qre2/LJ69CRVEV8AhHcaIlUVkmfw8gEv4h+zACx4c4nYKaIX0jMKH5Lmx3KATwMHM6eV7VdP2BJy4nIw1Q==;s8gSrxtVGzrSbeIGVYPoug=="
 ---
 

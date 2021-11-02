@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-24-xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot.md",
+      "title": "Xpeng Unveils Plan to Go Beyond Cars With AI, Flying Car, Robot",
+      "excerpt": "The Guangzhou-based company also launched the prototype of a ridable robot horse at its so-called “Tech Day.” Xpeng said 60% of its users have paid for the assisted-driving feature, called the navigation-guided-pilot function,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-24/xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-24/xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDx9DkywNwMU/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-24T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-23-ajman-free-zone-launches-artificial-intelligence-and-robotic-hub.md",
+      "title": "Ajman Free Zone Launches “Artificial Intelligence and Robotic Hub”",
+      "excerpt": "In support of the UAE Strategy for Artificial Intelligence (AI) 2031, the Ajman Free Zone has launched its “Artificial Intelligence and Robotics Hub” at GITEX Global 2021. The free zone, which is part of the Ajman Government’s pavilion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/",
+      "originalUrl": "https://www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dubaichronicle.com/wp-content/uploads/2021/10/Image-scaled.jpg",
+          "width": 2560,
+          "height": 1300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/?amp",
+      "cdnAmpWebUrl": "https://www-dubaichronicle-com.cdn.ampproject.org/c/s/www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/?amp",
+      "publishedDateTime": "2021-10-23T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dubai Chronicle",
+        "domain": "dubaichronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-23-embedded-news-week-robotics-rainforests-and-iot-security.md",
       "title": "embedded news week: robotics, rainforests and IoT security",
       "excerpt": "A roundup of this week’s embedded news includes robotics, IoT security and onboarding, automotive wireless charging and building automation.",
@@ -1282,94 +1377,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-artificial-intelligence-ai-in-robotics-market-2021-is-expected-to-be-the-fastest-growing-segment-in-2028.md",
-      "title": "Artificial Intelligence (AI) in Robotics Market 2021 is expected to be the Fastest-growing Segment in 2028",
-      "excerpt": "This research report will give you deep insights about the Artificial Intelligence (AI) in Robotics Market and it will also help you in strategic decision making. The final research document is an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2425343/artificial-intelligence-ai-in-robotics-market-2021",
-      "originalUrl": "https://www.openpr.com/news/2425343/artificial-intelligence-ai-in-robotics-market-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2425343/artificial-intelligence-ai-in-robotics-market-2021",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2425343/artificial-intelligence-ai-in-robotics-market-2021",
-      "publishedDateTime": "2021-10-11T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-facebook-quietly-acquires-synthetic-data-startup-aireverie.md",
-      "title": "Facebook quietly acquires synthetic data startup AI.Reverie",
-      "excerpt": "Facebook has quietly acquire AI.Reverie, a startup that developed a platform and tools for synthetic data generation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
-      "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 413,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
-      "publishedDateTime": "2021-10-11T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI"
       ]
     }
   ],

@@ -4,19 +4,19 @@
     {
       "path": "_news/2021-11-02-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
       "title": "Robots hit the streets as demand for food delivery grows",
-      "excerpt": "Hundreds of little robots are now navigating college campuses and even some city sidewalks in the U.S., the U.K. and elsewhere.",
+      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
       "sourceUrl": null,
-      "webUrl": "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
-      "originalUrl": "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
+      "webUrl": "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "originalUrl": "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.boston.com/wp-content/uploads/2021/11/Robot_Food_Delivery_67862-6180b92c0ec28-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1",
-      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1",
-      "publishedDateTime": "2021-11-02T08:39:00-07:00",
+      "ampWebUrl": "https://www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "cdnAmpWebUrl": "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "publishedDateTime": "2021-11-02T09:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Boston.com",
-        "domain": "boston.com",
+        "name": "My San Antonio",
+        "domain": "mysanantonio.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -374,7 +374,7 @@
       "originalUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -449,6 +449,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-turning-to-robots-for-career-advice.md",
+      "title": "Turning to Robots for Career Advice",
+      "excerpt": "According to new research commissioned by Oracle, 80% of employees say they’re not satisfied with employer support and 72% of the US workforce think robots and artificial intelligence can support their careers better than humans. Joining us to explain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice",
+      "originalUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/596/45bf940c346f431c9be273b8942ab6eb/59640f3b51cd412a9b3c3b83a2107ec5/poster_da477495870d4fc9a826480e882ccebe.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true",
+      "cdnAmpWebUrl": "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true",
+      "publishedDateTime": "2021-10-29T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC Action News",
+        "domain": "abcactionnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -597,6 +640,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-artificial-intelligence-ai-robots-market-worth-353-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
+          "width": 669,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1309,101 +1395,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot.md",
-      "title": "Xpeng Unveils Plan to Go Beyond Cars With AI, Flying Car, Robot",
-      "excerpt": "The Guangzhou-based company also launched the prototype of a ridable robot horse at its so-called “Tech Day.” Xpeng said 60% of its users have paid for the assisted-driving feature, called the navigation-guided-pilot function,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-24/xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-24/xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDx9DkywNwMU/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-24T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-ajman-free-zone-launches-artificial-intelligence-and-robotic-hub.md",
-      "title": "Ajman Free Zone Launches “Artificial Intelligence and Robotic Hub”",
-      "excerpt": "In support of the UAE Strategy for Artificial Intelligence (AI) 2031, the Ajman Free Zone has launched its “Artificial Intelligence and Robotics Hub” at GITEX Global 2021. The free zone, which is part of the Ajman Government’s pavilion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/",
-      "originalUrl": "https://www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dubaichronicle.com/wp-content/uploads/2021/10/Image-scaled.jpg",
-          "width": 2560,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/?amp",
-      "cdnAmpWebUrl": "https://www-dubaichronicle-com.cdn.ampproject.org/c/s/www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/?amp",
-      "publishedDateTime": "2021-10-23T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dubai Chronicle",
-        "domain": "dubaichronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

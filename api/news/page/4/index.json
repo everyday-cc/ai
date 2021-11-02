@@ -2,6 +2,204 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-29-the-verbit-model-for-the-future-of-work-with-ai.md",
+      "title": "The Verbit Model For The Future Of Work With AI",
+      "excerpt": "Verbit is a very successful startup. The 4-year-old developer of an AI-powered transcription and captioning platform has reached unicorn status in June, raising $157 million at a valuation of over $1 billion, for a total of $319 million raised to date.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617bff85b283ba2bfd0cb124%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1843%26cropY1%3D0%26cropY2%3D1036",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/10/29/the-verbit-model-for-the-future-of-work-with-ai/amp/",
+      "publishedDateTime": "2021-10-29T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-democratizing-ai-to-transform-your-business-in-an-unpredictable-future.md",
+      "title": "Democratizing AI To Transform Your Business In An Unpredictable Future",
+      "excerpt": "AI is no longer just a tool for data scientists ... enhancing overall enterprise operations. Business users can start leveraging AutoAI models in minutes, providing advanced predictive power for a broad range of staff, not just data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ab08b6fd5210c145ece8a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/",
+      "publishedDateTime": "2021-10-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-voice-tech-coming-soon-to-a-classroom-near-you.md",
+      "title": "Voice Tech: Coming Soon To A Classroom Near You",
+      "excerpt": "Education publishing multinational Scholastic worked on its own speech recognition software in the late 1990s, but abandoned the project in the face of technical problems. But advances in artificial intelligence and machine learning mean it is a technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/",
+      "originalUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617b19822609716213144981%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/amp/",
+      "publishedDateTime": "2021-10-29T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-luxsecurity-luxembourg-sa-and-smp-robotics-collaborate-on-security-robots-deployment-in-luxembourg-and-the-eu.md",
+      "title": "Luxsecurity Luxembourg SA and SMP Robotics collaborate on security robots deployment in Luxembourg and the EU",
+      "excerpt": "They will be able to control the work of robots, located in different protected areas ... With video analytics, how would this scenario play out? It’s pretty mind-blowing. As soon as security is alerted, they can work with the video analytics tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/video-surveillance-ai-infared-camera.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
+      "publishedDateTime": "2021-10-29T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask.md",
       "title": "Google unveils 'Pathways', a next-gen AI that can be trained to multitask",
       "excerpt": "Today's AI models, according to Google's AI lead and co-founder of the Google Brain project, Jeff Dean, are at the one-trick pony phase – they are \"typically trained to do only one thing\". But a new approach called Pathways could provide something akin ...",
@@ -857,6 +1055,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-28-artificial-intelligence-ai-robots-market-worth-353-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
+          "width": 669,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort.md",
       "title": "Northwell, Aegis Ventures to team in multibillion-dollar AI effort",
       "excerpt": "A new joint venture with Northwell Health and Aegis Ventures aims to be a multibillion-dollar game ... and other team members in developing methods, which, through AI, can “predict, diagnose ...",
@@ -991,239 +1232,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-slashnext-which-uses-ai-to-combat-phishing-raises-26m.md",
-      "title": "SlashNext, which uses AI to combat phishing, raises $26M",
-      "excerpt": "“Our technology has logged more than 2.5 million [phishing] threats hiding in legitimate infrastructures like Amazon Web Services, Outlook, Sharepoint, and Microsoft Azure. [SlashNext’s AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
-      "originalUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/fly-d-9PivUW7l1m4-unsplash-e1631050913938.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
-      "publishedDateTime": "2021-10-28T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-artificial-intelligence-is-now-part-of-us-air-forces-kill-chain.md",
-      "title": "Artificial Intelligence Is Now Part Of U.S. Air Force’s ‘Kill Chain’",
-      "excerpt": "The U.S.A.F. revealed recently that it had used artificial intelligence to aid targeting decisions for the first time. It turns out that this was not simply an experimental one-off use to test the technology: AI is embedded in the Air Force’s targeting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617a9d30b0511aeedee7de16%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/amp/",
-      "publishedDateTime": "2021-10-28T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-intel-turns-focus-on-developers-with-new-pc-and-data-center-chips.md",
-      "title": "Intel turns focus on developers with new PC and data center chips",
-      "excerpt": "The development of new chips took centerstage at inaugural Intel Innovation event, with announcements spanning new products, developer tools, technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2021/10/intel-turns-focus-on-developers-with-new-pc-and-data-center-chips/",
-      "originalUrl": "https://techhq.com/2021/10/intel-turns-focus-on-developers-with-new-pc-and-data-center-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/10/intel-chip.jpeg",
-          "width": 480,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-legaltech-startup-vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives.md",
-      "title": "Legaltech Startup Vakilsearch Raises $10 Mn To Accelerate Its AI And ML Initiatives",
-      "excerpt": "“With this investment, we will leverage the strengths of Vakilsearch and accelerate our Artificial Intelligence (AI) and Machine ... India CEO Manish Modi. The startup had raised $2 Mn from ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/",
-      "originalUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2021/10/vakilsearch-featured.jpg",
-          "width": 1360,
-          "height": 1020,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/amp/",
-      "publishedDateTime": "2021-10-28T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats.md",
-      "title": "NetWitness® Detect AI: Cloud-native machine learning for rapid detection of sophisticated threats",
-      "excerpt": "Home video setup: What you need to look and sound professional Artificial intelligence ethics policy Checklist: Onboarding and offboarding IT staff BYOD approval form",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
-      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
-      "publishedDateTime": "2021-10-28T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

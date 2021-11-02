@@ -42,7 +42,7 @@ related:
   - title: "Miso Robotics Announces Flippy 2 Next Generation Flagship Product"
     excerpt: "Miso Robotics - the startup transforming the foodservice industry with intelligent automation - unveiled the newest model of Flippy, its flagship product, aptly named Flippy 2. Based on key learnings and feedback from innovation partner White Castle,"
     publishedDateTime: 2021-11-02T13:30:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=17721"
+    webUrl: "https://www.roboticstomorrow.com/news/2021/11/02/miso-robotics-announces-flippy-2-next-generation-flagship-product/17721/"
     type: article
     provider:
       name: Robotics Tomorrow

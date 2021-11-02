@@ -2,6 +2,256 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-10-26-hai-robotics-wins-nextgen-supply-chain-award.md",
+      "title": "Hai Robotics Wins NextGen Supply Chain Award",
+      "excerpt": "Hai Robotics provides efficient, intelligent, flexible, and customized warehouse automation solutions through robotics technology and AI algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/",
+      "originalUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://worldindustrialreporter.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/amp/",
+      "cdnAmpWebUrl": "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/amp/",
+      "publishedDateTime": "2021-10-26T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "worldindustrialreporter.com",
+        "domain": "worldindustrialreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad.md",
+      "title": "Photoshop update brings new Sensei AI features to desktop, Raw camera support to iPad",
+      "excerpt": "Adobe MAX is here, and the company’s most popular editing software is unsurprisingly getting a host of updates for the occasion. The most significant updates are landing on Photoshop for desktop,",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
+      "originalUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/10/Photoshop-update-brings-new-Sensei-AI-features-to-desktop-Raw-camera-support-to-iPad.jpg",
+          "width": 1440,
+          "height": 950,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
+      "publishedDateTime": "2021-10-26T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-adobe-continues-its-ai-push-in-creative-cloud.md",
+      "title": "Adobe continues its AI push in Creative Cloud",
+      "excerpt": "Over the course of the last few years, Adobe has gone all-in on AI. At its MAX conference this year, that’s once again on full display across updates for virtually all of its products, powered by its Sensei AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/",
+      "originalUrl": "https://techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/landscape_mixer.gif",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/amp/",
+      "publishedDateTime": "2021-10-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex.md",
+      "title": "Cisco launches new AI-powered and hybrid event features for Webex",
+      "excerpt": "Cisco has launched a range of new features for Webex, including AI-powered noise reduction and a 'wellness' portal for teams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/",
+      "originalUrl": "https://venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/cisco-fullwidth-mw-12120.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/amp/",
+      "publishedDateTime": "2021-10-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-this-ai-resurrects-ancient-board-gamesand-lets-you-play-them.md",
+      "title": "This AI Resurrects Ancient Board Games—and Lets You Play Them",
+      "excerpt": "What tabletop games did our ancestors play in 1000 BCE? A new research project wants to find out, and make them playable online too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/",
+      "originalUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/617700c0a7da35fe9f08a7f7/master/pass/Games-Ancient-Games-Online-1226937967.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/amp",
+      "publishedDateTime": "2021-10-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-can-artificial-intelligence-take-the-guesswork-out-of-the-customer-journey.md",
       "title": "Can Artificial Intelligence Take The Guesswork Out Of The Customer Journey?",
       "excerpt": "From shopping malls and sports arenas, to train stations and city streets, C2RO is an AI-powered video analytics platform that captures anonymized data about people’s movement so organizations can improve the customer experience.",
@@ -926,248 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-we-need-to-pay-attention-to-ai-bias-before-its-too-late.md",
-      "title": "We need to pay attention to AI bias before it's too late",
-      "excerpt": "Cognitive bias leads to AI bias, and the garbage-in/garbage-out axiom applies. Experts offer advice on how to limit the fallout from AI bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
-      "originalUrl": "https://www.techrepublic.com/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/25/cc0205d8-ff0a-4d0b-b4c6-a09713397ea1/resize/1200x/269e9cf0da4d09b32d22a62c64a5f3f2/shutterstock-1717584028.jpg",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
-      "publishedDateTime": "2021-10-25T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-utilizing-ai-to-improve-mass-transit.md",
-      "title": "Utilizing AI to improve mass transit",
-      "excerpt": "AI's capacity for data analysis has the potential to not only improve the current mass transit system, but reimagine it altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/",
-      "originalUrl": "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/avs-and-society-e1572293868810.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/amp/",
-      "publishedDateTime": "2021-10-25T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-artificial-intelligence-and-machine-learning-play-a-role-in-endpoint-security.md",
-      "title": "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security",
-      "excerpt": "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
-      "originalUrl": "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/k12/k12/higher/k12/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
-      "publishedDateTime": "2021-10-25T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-agencies-face-continued-challenges-making-security-data-ready-for-machine-learning.md",
-      "title": "Agencies face continued challenges making security data ready for machine learning",
-      "excerpt": "Proofpoint fraud expert Rob Holmes looks at how threat actors are exploiting agency supply chains to launch imposter email attacks and compromise agency networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/category/sponsored-content/",
-      "originalUrl": "https://www.fedscoop.com/category/sponsored-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony.md",
-      "title": "Frances Haugen: Key moments from Facebook whistleblower's UK parliamentary testimony",
-      "excerpt": "The former Facebook product engineer answered questions from lawmakers on regulation, Instagram Kids and whether she thought Facebook was evil.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/b08c5Epe3NTGTrmK4QYvTgFuIsQ=/1200x630/2021/10/25/943d7bc3-8a31-4cd3-9a2c-eeb0a0b39f77/screenshot-2021-10-25-at-14-36-38.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "publishedDateTime": "2021-10-25T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AT&T and H2O.ai Team Up on Feature Store"
-    excerpt: "Telecom giant AT&T and AI startup H2O.ai have teamed up to co-develop a feature store, which the companies announced today. The jointly developed H2O AI Feature Store will be available for any company to help better manage their data science development ..."
-    publishedDateTime: 2021-10-28T23:53:00Z
-    webUrl: "https://www.datanami.com/2021/10/28/att-and-h2o-ai-team-up-on-feature-store/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/feature-store.png"
-        width: 718
-        height: 396
-        isCached: true
   - title: "AT&T and H2O.ai Launch Co-Developed Artificial Intelligence Feature Store with Industry-First Capabilities"
     excerpt: "Building features is time consuming work, and typically data scientists build features from scratch every time they start a new project. Data scientists and AI experts spend up to 80% of their time on feature engineering, and because teams do not have a ..."
     publishedDateTime: 2021-10-29T07:50:00Z

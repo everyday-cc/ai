@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/industry/auto/auto-news/mg-motor-partner
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/auto-news/mg-motor-partners-with-visual-inspection-solutions-startup-for-ai-based-vehicle-assessment/amp_articleshow/87368168.cms"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Versatile Launches AI and IoT-Based Solution for Construction Process Optimization"
-    excerpt: "American construction and industrial process startup Versatile has launched CraneView, an AI and IoT-based solution for construction process optimization."
-    publishedDateTime: 2021-11-01T10:49:00Z
-    webUrl: "https://www.just-auto.com/research-reports/versatile-launches-ai-and-iot-based-solution-for-construction-process-optimization/"
+  - title: "MG Motor India partners AI-based startup for vehicle inspection, repair, service"
+    excerpt: "MG Motor India has collaborated with AI-powered startup, CamCom to have AI-enabled and image-based vehicle inspection processes at its service centres."
+    publishedDateTime: 2021-11-02T11:14:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/mg-motor-india-partners-ai-based-startup-for-vehicle-inspection-repair-service-41635743217792.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/mg-motor-india-partners-ai-based-startup-for-vehicle-inspection-repair-service/amp-41635743217792.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/mg-motor-india-partners-ai-based-startup-for-vehicle-inspection-repair-service/amp-41635743217792.html"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 31
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 52
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/11/shutterstock_1144060268.jpg"
-        width: 500
-        height: 334
+      - url: "https://images.hindustantimes.com/auto/img/2021/11/02/600x338/zs_ev_1579518157126_1635851639091.JPG"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "hYZsw57NerNjZ3Hcz2C8bJZlUXNtDhuB6yr/CaV2lPRIjYoyuRK4dQRl3uT3YFYd7T15oEyz86Ar9OVfioLK9rCE1aoXX6bxu0OMOIHuvwtnJNMVnH1K0pqZMYetMId1ud89y5IVlE5rZG/tdBk2V9w3iFs/5ksb81M/CeAd+us+KF0NQ/ycqYJ0DwQ8kBFKjY0hn3A3nrxK5PYIQiv5Vbo3Z1HVB2vvk4+n1Q6oIqn8/4le0LWIWI+ybANcx2gWzrZzh0IbD3nOhPpxsMOvAxASNhB9kJltv+W/DPsruDz+1r1DuT6aLUD/BLtcbU52k5fPjo9P8CVijRvDXdqYfDKtWSDXlk5ew1rTuzkNvr0=;Eaf8ycJLid1DPcyKX0Incw=="

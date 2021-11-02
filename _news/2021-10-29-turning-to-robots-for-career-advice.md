@@ -9,8 +9,8 @@ ampWebUrl: "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-ca
 cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: ABC Action News
@@ -43,6 +43,17 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "U.S. Employees Turn To Robots For Career Advice"
+    excerpt: "New research from Oracle reveals 72% of the U.S. workforce think robots and artificial intelligence can support their careers better than humans"
+    publishedDateTime: 2021-11-02T16:20:00Z
+    webUrl: "https://www.ktnv.com/morningblend/oracle-11-2-21"
+    ampWebUrl: "https://www.ktnv.com/morningblend/oracle-11-2-21?_amp=true"
+    cdnAmpWebUrl: "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/morningblend/oracle-11-2-21?_amp=true"
+    type: article
+    provider:
+      name: KTNV Las Vegas
+      domain: ktnv.com
+    quality: 39
 
 secured: "5hLhpXUJFsDQluk7NiE0pw3Lz/eZYVOUZIgVxJyUNpKWOhLNCyXtQjb7Y6vABURoIcfCmcqGipOAjKRPxSElEkjd/0ZMur9WCqXL2TfPzKyUCbjH5S+GSKifwgwmjX1bjPP0yHhGNgW1HbupgOqE06mkqf6l0vEhfh8jZWy7dazueXBJX3ln/F/MTZXaCoJ1dugF7oO87xuw5yjBXgi2iv33kXFxZuqktAtfohKpUq79NPGb6t1uSO0cDFgs07cIqZ+fiAb5RlqBhT5Egdr3WRDd/8UkIQwZfXHVaP8VLNKfgBrGg5Dt8iL28nvOOC0X7r2mndetIaDBv50BZBM3VcGWPbpK1WkCl+SsCTiVMlc=;28AARyzUqRAg13WvxuNgvg=="
 ---

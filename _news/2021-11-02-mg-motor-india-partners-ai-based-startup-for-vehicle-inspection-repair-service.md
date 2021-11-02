@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/mg-motor-india-partners-ai
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/mg-motor-india-partners-ai-based-startup-for-vehicle-inspection-repair-service/amp-41635743217792.html"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Coinbase to buy AI-driven platform Agara in its 1st startup acquisition in India"
-    excerpt: "Cryptocurrency exchange Coinbase has announced that it's buying Agara, an AI-driven autonomous voice agent startup, in its first startup acquisition in India. The size of the deal for the four-year-old startup,"
-    publishedDateTime: 2021-11-02T06:24:00Z
-    webUrl: "https://inshorts.com/en/news/coinbase-to-buy-aidriven-platform-agara-in-its-1st-startup-acquisition-in-india-1635834240236"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/coinbase-to-buy-aidriven-platform-agara-in-its-1st-startup-acquisition-in-india-1635834240236"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/coinbase-to-buy-aidriven-platform-agara-in-its-1st-startup-acquisition-in-india-1635834240236"
+  - title: "MG Motor partners with visual inspection solutions startup for AI-based vehicle assessment"
+    excerpt: "\"Our association with CamCom introduces our customers to AI-based car inspection modules at our service centres. It is a valuable addition to our bouquet of technologies,\" MG Motor India Chief Commercial Officer Gaurav Gupta said in a statement."
+    publishedDateTime: 2021-10-29T12:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/auto/auto-news/mg-motor-partners-with-visual-inspection-solutions-startup-for-ai-based-vehicle-assessment/articleshow/87368168.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/auto/auto-news/mg-motor-partners-with-visual-inspection-solutions-startup-for-ai-based-vehicle-assessment/amp_articleshow/87368168.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/auto-news/mg-motor-partners-with-visual-inspection-solutions-startup-for-ai-based-vehicle-assessment/amp_articleshow/87368168.cms"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 52
+      name: India Times
+      domain: indiatimes.com
+    quality: 47
     images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/2_tue/img_1635833365315_404.jpg?"
-        width: 1024
-        height: 682
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-29350,msid-87368340/mg-motor-1580018299.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "Ng8ywR0y83DsIPP3qQ2FJuRV66sOexZ3nKNbyHVL34e1AGZJz133GZd6TkxnnV0o5nJ0oV00FQQky3hs9LWh9EDOSy9g7RT9RcIevbZqF9muz/YYaofEuV8wUnSkc3JXxsveDHzcLhojzOiKSd8SHiafEJ02FqGl1whC5kRwElGogptK4fIJsV/jjt+zvECnVG9v5kSwi3nPL+S8rxeB9/dCqbwRpI7BMAW1acfZQ+su0taefFoQ9vp6iK6/OjG49kXNUmHF/XcOT8WzWgvmXhdEHriDaTf8yrqdJ3jpZjWHMWQ9J1kFkNUgI85EsRCJuTzODUM8IIrwZbb8KBxRbidRsDNli55iOs1npNwmszBw1CBPnT6+nwfWsKTKxaMLLqCAEn5iRo6rRSwalg4wSTXnuGwBQLOMhdF3ePYMvVq9RebLkPMa0wpElYLPpeFr4U8baj+KD9hICBA1iHI5/Nnpzr6MgdmK6HZuSdG4xzelgUyZ/QlM8GhEHhf0Z16g7zru8afeTEOZXdK0z7vL6w==;FHtaxf4IQG1FHuG/j+kDrw=="

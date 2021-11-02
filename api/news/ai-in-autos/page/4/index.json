@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-02-autonomous-vehicles-market-witness-stunning-growth-by-2028-renault-toyota-bmw.md",
+      "title": "Autonomous Vehicles Market Witness Stunning Growth By 2028 | Renault, Toyota, BMW",
+      "excerpt": "Autonomous vehicle also known as self-driving vehicles uses artificial intelligence AI software light detection ranging LiDAR and Radar sensing technology which is further used to monitor the car and",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/271378513/autonomous-vehicles-market-witness-stunning-growth-by-2028--renault-toyota-bmw",
+      "originalUrl": "https://www.bignewsnetwork.com/news/271378513/autonomous-vehicles-market-witness-stunning-growth-by-2028--renault-toyota-bmw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1633869282912.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-02T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report.md",
       "title": "GCC Artificial Intelligence Market 2021-26: Industry Trends, Size, Share, Analysis and Forecast Report",
       "excerpt": "According to IMARC Group's latest report, titled \"GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" the GCC artificial intelligence market grew at a CAGR of around 24% during 2015-2020.",
@@ -1350,50 +1393,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-the-royal-air-force-launches-first-trial-of-self-driving-technology-on-its-airbases-with-academy-of-robotics.md",
-      "title": "The Royal Air Force Launches First Trial of Self-Driving Technology on Its Airbases With Academy of Robotics",
-      "excerpt": "Academy of Robotics and the Royal Air Force announced a new trial deployment of autonomous vehicles on an airbase as part of the RAF’s Astra campaign to deliver next generation Air Force capability. This trial is the first time that autonomous vehicles have been deployed on a UK airbase by the RAF.",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/the-royal-air-force-launches-first-trial-of-self-driving-technology-on-its-airbases-with/article_6d44f6af-648c-5dae-9e5a-18fdb9af2fc2.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/the-royal-air-force-launches-first-trial-of-self-driving-technology-on-its-airbases-with/article_6d44f6af-648c-5dae-9e5a-18fdb9af2fc2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/e/05/e05efa5a-7d9c-5e88-8f85-1dc934d5fad8/614c2d534749d.image.jpg?resize=1200%2C607",
-          "width": 1200,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
