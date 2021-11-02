@@ -22,7 +22,7 @@ crunchbase:
 twitter:
   username: "Mobvoi_Official"
   url: "https://twitter.com/Mobvoi_Official"
-  followers: 52864
+  followers: 52865
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -49,6 +49,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=z-H_xsUFD68"
 
-secured: "wAWU+jQwsk524k0In+bjgBI/4QUvo8qmlLjZcsM/6loC5mrN7kXnyWLTGKO+ssePz+KyUZcqCmHt1P944umk4ghEEjAzvgAhQaxsVp96utQ+lDNrkqkT2KUVcignhph2A6K/OjTTxKDsqMVixn/vD65p00uiwvN4Cpqk3xm0A6rilObBvv3/uGZFpKgOz2cTxt4uVpnj03KOVSOyIt16huBQyCnee31a7x/txfsG6Tmt9y+tJ7+g59i1GKfIbsi2FvXObRxmcxWvPv13wKADOWe+FkmaM+hp7+Rk3QVN1XVOwh8UkogFbm1Uzn9nUXXlJfd9OkTEM8j1yyjlYoCqFpOY6U9VLMFVvzE7jiTbh5qwXuFHbXcbcbHeC5LNSjeptz2583j9qBVbdnPx+53GgSdn5H2EhKORov5OBKrocIA=;TA6tBoevueZ9LUsn6YL7FA=="
+secured: "VPF6muJdliAh7XOghHm4rd5dX2bq28ZCv7HrAqbgU7WVIDmf7oePxMp0cGJ9GOUmscgo3GHO0HkEpFZy94DrQN0aLFfIOGrI5p16lXM3zXna76Cwp0HgONEhOUa+Xp9Po0L8K4XLJ84Xu6kRsnZxIv0T6wokL4F4i+geDUJdtdzwkkwbhn4zHMoSU1CphFhBhgL2X6Wu9kN0B6Q5CUtKLAYcpWBYE48sTKNw0r7vh9pc1TM19VBJpRb7roLuuY34YLjJnkEmbS6wly9I/OtRRPoaW2SeUiowtczW//ozbpktiT9wX0ph320xbRznK6Jj4Ygw7bo3kQerE7BjlpDzRxF6KZr/fCuC6wYNdJzsqMON1fsX8s9IxyZoPeZn3+cbxwocgUQELBWc6NqaIHlxZd8d22KMHWnU8SIOoxGjPes=;I0YJdk1/f0s227GtueDnTg=="
 ---
 
