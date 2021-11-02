@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk announces Tesla Full Self-Driving Beta 10.4 update as rollout slows down"
-    excerpt: "Elon Musk has announced the upcoming release of Tesla’s Full Self-Driving Beta 10.4 update as Tesla slows down the rollout. Earlier this week, Tesla started rolling out Full Self-Driving Beta 10.3. The update came after a false start last weekend when Tesla pushed the update with some problems and ended up reverting back to 10."
-    publishedDateTime: 2021-10-28T16:30:00Z
-    webUrl: "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/"
-    ampWebUrl: "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Older Teslas Need Upgraded Cameras To Get Full Self Driving"
     excerpt: "Following the introduction of the latest Full Self-Driving Beta, it quickly emerged that no owners of older Tesla models had gained access to the system, despite achieving perfect 100/100 safety scores."
     publishedDateTime: 2021-11-01T20:00:00Z

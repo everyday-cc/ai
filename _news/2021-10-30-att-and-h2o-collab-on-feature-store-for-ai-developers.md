@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "AT&T and H2O.ai Launch AI Feature Store"
-    excerpt: "AT&T and H2O.ai have announced they have jointly built and have made available an artificial intelligence (AI) feature store to manage and reuse data and machine learning engineering capabilities. offering the features data scientists,"
-    publishedDateTime: 2021-10-28T16:41:00Z
-    webUrl: "https://insidehpc.com/2021/10/att-and-h2o-ai-launch-ai-feature-store/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 17
 
 secured: "YcRX+SspT5wVP/e9hu9EzTXC1wwd5ev5qvhSnaFtdFNFWKKk7afYLe+lhLeDptarxP4z9FVsa2dK1+jn8PIVbzvjjZ/zKEOn/RE2lQittuf+rXFTryVl6xGr4GcK05gxy117Cw8e/rZwSrzQUHfg8MQUNhw0T+BXOUI+ZsFAZafzZzlOQDXOR/7DX+NsZQ5gTp5IdyyutRFq1sbll7fSKrq7DcVTABlbBra6S7Hro+cjCb+vdE7Q/4E+8VZEEIYkquMmbjyHl8KqGLVH0m7EEiXVtWnZGvNf+R11DlCJGKWEh/5g2iBFC81O9bIqWlqHjRWAeziArnIePmr53BE1fimv+BT7aRyR2dmGprAZoAtQdGlyApDgOp5xMwTo7DLxhFNyImLUMTWHDmhadjnDB4B45cybPn2O+xUZCVQHPOJp+uoJRmU6Cq4n5qreyAneusTLsyx+ziNXiRIkknTOIwE14BWitMP8+5mePkVRxzm+ypVIMDlJ5gGn1Qxqe9SutNhk2gcrwnuI8ATR9F4/SA==;7KHi+EBfL7tYG/bpDsxuXw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/of-global-execs-us
 webUrl: "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Of Global Executives Using AI, Over 75% Report It Improves Team Culture"
+    excerpt: "New MIT Sloan Management Review and Boston Consulting Group Research Shows That Using AI Can Produce Cultural and Financial Business Benefits That Build on Each Other"
+    publishedDateTime: 2021-11-02T09:40:00Z
+    webUrl: "https://www.bcg.com/press/2november2021-global-executives-using-ai-75-report-it-improves-team-culture"
+    type: article
+    provider:
+      name: BCG
+      domain: bcg.com
+    quality: 39
+    images:
+      - url: "https://web-assets.bcg.com/dims4/default/1c34588/2147483647/strip/true/crop/2880x1512+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F6f%2Ffa%2F3ac582d94028ac1798313ae5806d%2Fthe-hidden-cultural-benefits-of-ai-rectangle-opt.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI use lifts team morale, research finds"
     excerpt: "Three-quarters of executives say AI implementation improves team morale, collaboration and collective learning, according to a research paper published Tuesday by MIT Sloan Management Review. Researchers surveyed 2,"
     publishedDateTime: 2021-11-02T04:47:00Z
@@ -43,6 +57,6 @@ related:
         height: 364
         isCached: true
 
-secured: "Qh8WqvarfTvxL8IHiuWtpO/FWC5C5vwQSDkX6FpcYtZuQn1vL/qluwfgYwL04rLD923mdJkqg2qrNYVcHFf7jx1/h9Ps/20qrxpFPsZiGhkqtZzocujAqCATyfW9vqSKOeQTgttoiD5NJz7jFRQG02yfjgL9raxFQcC5n44WYwhLIl2H4+pJfxN58oUhkgoa75YCa/2T16mEv9xGKuQZpSkcVBwXVab48PvXoMoFZdWF9kZ8wxVLIOAedhR77COQZNPlrzB2JDpxnvl8vqOu5lVckUqVi1aTPzUe/p1e3oEuRFgErsreqQ6F4hO1Z24dyFBLiIgu7ryscG+STqLwVQf8Gk5/NLenX9s2iA4F3CE=;uBKy8TCioNjyhX0xfYi5Bg=="
+secured: "RV05/X9p5EZ02YgAx1NXF/+DUDD9CKTe9Ws0vFOx9GWVUemRSNVHP6g0lo741F+8yot8YxTl238+MZy7O9WALRJ+5K6obpLufk2ypMVSmFDExwGqb52fZ4HVTB0DN+PQL7Dzn75Ch9OnMfZbj10OMrDq1Lmk6zDM1+7D+16KIKBoZAxfQ0/5/7Jx6uEsXS7dbhfy6ZASO0/jw2FX7q+Adw8wnXPYTg7tP+pF5tRT7hiEs8/lwoeN9u6IWClpOokHMghwm4UNFjAM+vmcCER1z+Df4MRe/dHYmZ/j1TRbqYTo9AKHtQg13oHcZiIyZIwNieViYHfPU8EIfQANkr3xiLE2IRhYg1JKPXezeROl/MT2VEhCilk2JqHLu+9DXiL6tHaZZWU9WGLftsSxU8I5+C3/qD9b8pqg9DVNDCveIXQy96Qp2mPIcLvGXzMQONsEgahnq5r8CUyqTAr9fk/PZwXKzC2WWk/9rmR2oig5so9RrpbtPXd+bNJJz/GPkoS/pWewQE/uvgjb69qTW95eGg==;GwcBkvEp4EamPNFGSTKOcA=="
 ---
 

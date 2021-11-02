@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Carscoops
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk announces Tesla Full Self-Driving Beta 10.4 update as rollout slows down"
-    excerpt: "Elon Musk has announced the upcoming release of Tesla’s Full Self-Driving Beta 10.4 update as Tesla slows down the rollout. Earlier this week, Tesla started rolling out Full Self-Driving Beta 10.3. The update came after a false start last weekend when Tesla pushed the update with some problems and ended up reverting back to 10."
-    publishedDateTime: 2021-10-28T16:30:00Z
-    webUrl: "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/"
-    ampWebUrl: "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Government Official Slams Tesla’s Full Self-Driving Feature – Says Tesla Needs To Do More"
     excerpt: "Driving” feature when it was launched but it was revealed that it is a software suite that doesn’t enable full self-driving. This made it fairly unpopular among federal regulators. In a Tuesday interview with CNBC,"
     publishedDateTime: 2021-10-28T18:40:00Z

@@ -24,22 +24,6 @@ images:
     height: 294
     isCached: true
 
-related:
-  - title: "Red or blue, US communities want brakes on government use of facial recognition"
-    excerpt: "The movement to corral facial recognition with local and state laws continues, and it is showing up in red, law-and-order states like Indiana."
-    publishedDateTime: 2021-10-28T15:40:00Z
-    webUrl: "https://www.biometricupdate.com/202110/red-or-blue-us-communities-want-brakes-on-government-use-of-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
-
 secured: "Cq9XWN6kmzGrHtKw7DoOS+M2/gGQeZVrrqkrNX7bKWnrchWwqMe0Bx2FakOcB2vDxvBovdfgWkvTcx8yy1ZwsVP+KvW0zSRk8fkBxY82DOaK/FkqFA6oL1SpDXXU+P+UaDe5UaRqOtxTEy3+7N+0XcpnLCUKywQxPnQx4aMkHGh+RDv8kOvb6GKABF+SN/SgbtKDcbo4sRD3yRoJdUL4UIyFP8pezUBOIZ2HkvFDzoqts87AX9mSP1IREEzsT3cKHeaoR9Hb4cHwr/0oc/LdqLho2/Mf/WTLXyFhwFcBwL9ic1M1aA2qGKvrZmzsg2SzjOyl5yvreGth1r9mtMI1HysuFJqWsol+pOg09CKrK/k=;WiVepqcN+nukyC1drtjqdQ=="
 ---
 

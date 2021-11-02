@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/mcdonalds-looks-supersize-its-ai-prowess-new-
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/mcdonalds-looks-supersize-its-ai-prowess-new-partnership-ibm"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 772
     height: 440
     isCached: true
-
-related:
-  - title: "McDonald’s Partners With IBM to Replace Drive-Thru Employees With AI"
-    excerpt: "McDonald’s is partnering with IBM to implement artificial intelligence tech to take orders at its drive-thru lanes. “In my mind, IBM is the ideal partner for McDonald’s given their expertise in building AI-powered customer care solutions and voice recognition,"
-    publishedDateTime: 2021-10-28T16:55:00Z
-    webUrl: "https://futurism.com/the-byte/mcdonalds-ibm-replace-drive-thru-employees"
-    ampWebUrl: "https://futurism.com/mcdonalds-ibm-replace-drive-thru-employees/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mcdonalds-ibm-replace-drive-thru-employees/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2021/10/mcdonalds-ibm-replace-drive-thru-employees-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "02yIGI4ds2ZuLeCMw0oN+Lw6C9W+i73MCT3y4rq4bQTWCBEQ4/Nb7t+hKtMOz7+82WddyiFTuaYc3yDChCoVM4TMHYNp4a0Ln/aKnzge/j67hInmjtqFfZoQyEkaiKKJ7ef6SmiGkYf/ZD1YBj9picUxokxN8fhNrLpoBJWALes3Z8DDA1cBeDFM5ddwIULlHCR3BLHIa7bMPsX72uTveukHe938H3fM8fOeTv6/jmDB0Ggn/ynhzyzvcJwIeGPAYlJUAf8CM1TBsGLp06TNaSZQ+r3cl552KsMV992bM8+Mjx+T+EtKuvF3h1yefVfeWtGdS5lR48WZnVYO7M3AQCGTWdPyNKbh/9l+f2QSldvwS3hoc+xGBaLJtj+ijs1SckRB25kzI7f9abCoPiOcApNw2ZDZq9IjtHpOxatdEz+qDvzYfwQPof/HsdQatgy+sI2IijLMlnSmPl/F+Dn8YHWAZaOsMa7IHbv1Q/nrTWLieJfBSsHfUd1YvJreb9tDqMtKYu9cg31Uqd9UQGD60Q==;DByFHOrb3FurA0pX2ouNXg=="
 ---

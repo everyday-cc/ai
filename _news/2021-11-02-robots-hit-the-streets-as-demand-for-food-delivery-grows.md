@@ -3,18 +3,18 @@ category: news
 title: "Robots hit the streets as demand for food delivery grows"
 excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
 publishedDateTime: 2021-11-02T06:46:00Z
-originalUrl: "https://www.wmur.com/article/robots-hit-streets-demand-food-delivery-grows/38129387"
-webUrl: "https://www.wmur.com/article/robots-hit-streets-demand-food-delivery-grows/38129387"
-ampWebUrl: "https://www.wmur.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387"
-cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387"
+originalUrl: "https://www.wlwt.com/article/robots-hit-streets-demand-food-delivery-grows/38129387"
+webUrl: "https://www.wlwt.com/article/robots-hit-streets-demand-food-delivery-grows/38129387"
+ampWebUrl: "https://www.wlwt.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387"
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: WMUR9
-  domain: wmur.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - AI in Robotics
@@ -60,6 +60,6 @@ related:
         height: 675
         isCached: true
 
-secured: "dL2tNHpQBNV/llTrs79ghtMvBeGI8PajP/oFFoPcMy0wUI1dUhwTJOOhlZrpm5Cs+6qeANVcHdsE5sypXIYmNfeOSzvAqSwH4DLcUQOymNwDYC+6OuhemN0gBRqNymmG/327wnI0cAYt2AI/T0QvYZf0tT5V728rBSjyH90aOEUX+4wqjlEtUvcQzXjl34kgNbv8CExHdUJyqEmyEHr2IlS6E1EgzaKf5mKuTA6MdMrDAPrtHTMj6FxGOZbcNDkXpKq8KBb1K7KrTMdoM33fNoTJdUd0prRcDfy3hcPWKQTydVExN9wFwgLa6lmwMRUWzdIsdKElLRdDIgyrjUmshx8Gc26kpsAz9VMXs7BTJfw=;aB6HvQRDna3xxE0/Zb/GYQ=="
+secured: "Au+WbbD9VhdxAfGSYX6+JQdNq97hNxpmG7JYcrPbMS23vkuQ+CCOfPseNgFcnkQ6xYW5FlTGPpAGzp6CTbHnrQkcjj3FnfPdO3TEhkrXGgggXkkBC3RHfTLu4XwgEEiIu0ukCCRLjWmEGhiGu4H0Z9a+xCvEMgmftUqe4TebXnd922pRDSbJaSwQ9ZnIityyXDz98yuyLMn2cKv+ZF/dFESlaK7WAAgp5qponQYrwENeHruz7nW+zcrWNCp1SuX5N2XvQz6F47w6q9gvcpMKvomnrRZQvTYgt8bxK/h9rz70rZWMOLwbixBwMK9KZulO6W07IQfenz3Uoslf6SUybh91k5NMMAXtK+i5dHytYeo=;JJlU2jhAXUYjsZZp/76ZQA=="
 ---
 

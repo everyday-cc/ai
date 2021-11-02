@@ -30,13 +30,13 @@ related:
   - title: "Robots hit the streets as demand for food delivery grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
     publishedDateTime: 2021-11-02T06:46:00Z
-    webUrl: "https://www.wmur.com/article/robots-hit-streets-demand-food-delivery-grows/38129387"
-    ampWebUrl: "https://www.wmur.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387"
+    webUrl: "https://www.wlwt.com/article/robots-hit-streets-demand-food-delivery-grows/38129387"
+    ampWebUrl: "https://www.wlwt.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
+      name: WLWT
+      domain: wlwt.com
     quality: 59
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap21305694967862-1-1635838711.jpg?crop=1.00xw:0.847xh;0,0.125xh&resize=1200:*"

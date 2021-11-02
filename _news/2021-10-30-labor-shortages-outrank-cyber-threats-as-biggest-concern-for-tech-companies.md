@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/29/labor-outranks-cyber-threats-as-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html"
 type: article
 quality: 170
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/1172a8e3fccff772b2ca75bb835e41aa.jpg?t=20211101_010929"
         width: 752
         height: 408
+        isCached: true
+  - title: "DISA Enlists AI to Fight Cyber Threats"
+    excerpt: "In the near term, Defense Information Systems Agency officials plan to strategically employ artificial intelligence capabilities for defensive cyber operations. “First of all, the threat has never been higher."
+    publishedDateTime: 2021-11-02T09:00:00Z
+    webUrl: "https://www.defenseone.com/threats/2021/11/disa-moves-combat-intensifying-cyber-threats-artificial-intelligence/186544/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 37
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2021/11/01/The_Defense_In_2500/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "ZjKFGxZgiFsenYRhQtuxeZu2RocNnPntg7gLpTNpe6FYVOwYZFa3NDL8L1jdwUVFdiOXpzUe15WnZOeYr/rvb8Y1dn/6eH7gsDPldZ9nKEPqmD//0p93HTPDqZAJfGvwpKPUR/8bW7e422ukYWlsCbPlbIC6hSFm2hRDuvty//KgYdJDsqBftRKERJrEUMaX5LlK9CQZPEoypE/Z6i8exv1NxLWjtu75Nrd7AySNJmcyH9cUwFW3jMS44NbfRTWQ/mrZLCCuY2zpnKU4hWLZp2OJ0j6LXlNn0Oip5po7WlsRbUtUNGVlems5X0E9/KZ4Z5+U9o1KZUfg1yphJt5Rnips3fiBYkwwbxn3r09RjaY=;dycP/rQLnmHtyzDgnsTK+A=="

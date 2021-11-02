@@ -2,12 +2,64 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-02-miso-robotics-announces-flippy-2-next-generation-flagship-product.md",
+      "title": "Miso Robotics Announces Flippy 2 Next Generation Flagship Product",
+      "excerpt": "Today, Miso Robotics – the startup transforming the foodservice industry with intelligent automation – unveiled the newest model of Flippy, its flagship product, aptly named Flippy 2. Based on key learnings and feedback from innovation partner White Castle,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-flippy-2-next-generation-flagship-product-1030924903",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-flippy-2-next-generation-flagship-product-1030924903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1676183/Flippy_2.jpg",
+          "width": 400,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
       "title": "Robots hit the streets as demand for food delivery grows",
       "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
       "sourceUrl": null,
-      "webUrl": "https://www.wmur.com/article/robots-hit-streets-demand-food-delivery-grows/38129387",
-      "originalUrl": "https://www.wmur.com/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "webUrl": "https://www.wlwt.com/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "originalUrl": "https://www.wlwt.com/article/robots-hit-streets-demand-food-delivery-grows/38129387",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
@@ -24,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wmur.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387",
-      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "ampWebUrl": "https://www.wlwt.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387",
       "publishedDateTime": "2021-11-01T23:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WMUR9",
-        "domain": "wmur.com",
+        "name": "WLWT",
+        "domain": "wlwt.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -95,6 +147,49 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-works-well-with-robots-the-way-robotsai-and-humans-interact.md",
+      "title": "Works Well With Robots? The Way Robots/AI and Humans Interact",
+      "excerpt": "Blame it on HAL 9000, Clippy’s constant cheerful interruptions, or any navigational system leading delivery drivers to dead-end destinations. In the workspace, people and robots don’t always get along.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/",
+      "originalUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Human-Robot-Interaction-Cooperation-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/",
+      "publishedDateTime": "2021-11-01T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1328,93 +1423,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-ajman-free-zone-launches-artificial-intelligence-and-robotic-hub.md",
-      "title": "Ajman Free Zone Launches “Artificial Intelligence and Robotic Hub”",
-      "excerpt": "In support of the UAE Strategy for Artificial Intelligence (AI) 2031, the Ajman Free Zone has launched its “Artificial Intelligence and Robotics Hub” at GITEX Global 2021. The free zone, which is part of the Ajman Government’s pavilion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/",
-      "originalUrl": "https://www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dubaichronicle.com/wp-content/uploads/2021/10/Image-scaled.jpg",
-          "width": 2560,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/?amp",
-      "cdnAmpWebUrl": "https://www-dubaichronicle-com.cdn.ampproject.org/c/s/www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/?amp",
-      "publishedDateTime": "2021-10-23T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dubai Chronicle",
-        "domain": "dubaichronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-embedded-news-week-robotics-rainforests-and-iot-security.md",
-      "title": "embedded news week: robotics, rainforests and IoT security",
-      "excerpt": "A roundup of this week’s embedded news includes robotics, IoT security and onboarding, automotive wireless charging and building automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
-      "originalUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/10/Infineon-Rain-Forest-Connection.jpg",
-          "width": 1700,
-          "height": 1130,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

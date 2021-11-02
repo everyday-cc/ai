@@ -38,6 +38,20 @@ related:
         width: 400
         height: 231
         isCached: true
+  - title: "Of Global Executives Using AI, Over 75% Report It Improves Team Culture"
+    excerpt: "New MIT Sloan Management Review and Boston Consulting Group Research Shows That Using AI Can Produce Cultural and Financial Business Benefits That Build on Each Other"
+    publishedDateTime: 2021-11-02T09:40:00Z
+    webUrl: "https://www.bcg.com/press/2november2021-global-executives-using-ai-75-report-it-improves-team-culture"
+    type: article
+    provider:
+      name: BCG
+      domain: bcg.com
+    quality: 39
+    images:
+      - url: "https://web-assets.bcg.com/dims4/default/1c34588/2147483647/strip/true/crop/2880x1512+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F6f%2Ffa%2F3ac582d94028ac1798313ae5806d%2Fthe-hidden-cultural-benefits-of-ai-rectangle-opt.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lQhnk2QvDfaW+ZrXxrZO4xSYB3unPHohPvQiTWiGKN63iQtUb2RutDS17ajUil35ZEoS5SI67khjjO7GOvOVQ32RrcxTPjcuZ7z/IWyVJ6heSjUZtfg8DgdEEIO2dP9EupnleeNnnI7QqXoWcFopfDIhB990BUVZ3olq4PWnXrraOm9KMYLf6DAgh84f/9kE+IX3ctOLyBlcapVKb7llGmyXDxPOBstnCLkKkl+wAUWc0EYjFBTK/QIYWwUKTF+UYWVzPMuD1vY20ocXnmG6V1Jo7+Wn7mw0HlN//gTOHsB4Oodx+NvxWFHYq8UJxugLQheB16obdsIPlS7ec9FvY4StwjC3ScLieZy7qaFjR0A=;oijrzdbLRmIc23JbAovYNg=="
 ---

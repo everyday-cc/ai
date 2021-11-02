@@ -54,15 +54,6 @@ related:
         width: 718
         height: 396
         isCached: true
-  - title: "AT&T and H2O.ai Launch AI Feature Store"
-    excerpt: "AT&T and H2O.ai have announced they have jointly built and have made available an artificial intelligence (AI) feature store to manage and reuse data and machine learning engineering capabilities. offering the features data scientists,"
-    publishedDateTime: 2021-10-28T16:41:00Z
-    webUrl: "https://insidehpc.com/2021/10/att-and-h2o-ai-launch-ai-feature-store/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 17
 
 secured: "CIrpIL5dMRVhxgFLLd8W0aECrDHH0k2NGNkgY4YHPr7ysOtY6uSt5m7VgiXhBto2XY7cO8Q+Cw5qQuM2F8uRWPvZTMtjWe9N72mjo5Rl+un+v7d+ypHH7qM44aLyXkZp8UGT0/rKqNsHWXeE5LIKCkArHb/zaGXmqduw7jlBYhjffxYKz50rhQpwym9l3Uhbxco5NYyGECWbIa0UrHnBlDTaDFm7cniOv6D1y540isNHK+T1SCJT+5Qq6dMJsmjqUI/tV6OKaY5gseo1HyofP7Jsn2ovmpARcqCXXOwmOOWEMODLFhFJL2pqa8CnL8V+9lBaHqwSmmYAM0fJvt7CnPCKg+74DVytx5x6imIwTvI=;ZsNxOLvZtVm/eJYQKKnd8Q=="
 ---

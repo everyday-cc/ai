@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-02-miso-robotics-announces-flippy-2-next-generation-flagship-product.md",
+      "title": "Miso Robotics Announces Flippy 2 Next Generation Flagship Product",
+      "excerpt": "Today, Miso Robotics – the startup transforming the foodservice industry with intelligent automation – unveiled the newest model of Flippy, its flagship product, aptly named Flippy 2. Based on key learnings and feedback from innovation partner White Castle,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-flippy-2-next-generation-flagship-product-1030924903",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-flippy-2-next-generation-flagship-product-1030924903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1676183/Flippy_2.jpg",
+          "width": 400,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-how-ai-creates-synthetic-speech.md",
       "title": "How AI Creates Synthetic Speech",
       "excerpt": "What is different these days is that the quality of synthesized speech is improving, thanks to several companies using AI to create voice skins for enterprise companies and content creators that give more options for turning text into speech.",
@@ -58,8 +110,8 @@
       "title": "Robots hit the streets as demand for food delivery grows",
       "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
       "sourceUrl": null,
-      "webUrl": "https://www.wmur.com/article/robots-hit-streets-demand-food-delivery-grows/38129387",
-      "originalUrl": "https://www.wmur.com/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "webUrl": "https://www.wlwt.com/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "originalUrl": "https://www.wlwt.com/article/robots-hit-streets-demand-food-delivery-grows/38129387",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
@@ -76,13 +128,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wmur.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387",
-      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "ampWebUrl": "https://www.wlwt.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387",
+      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/robots-hit-streets-demand-food-delivery-grows/38129387",
       "publishedDateTime": "2021-11-01T23:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WMUR9",
-        "domain": "wmur.com",
+        "name": "WLWT",
+        "domain": "wlwt.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -105,7 +157,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -129,6 +181,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-avoiding-shortcut-solutions-in-artificial-intelligence.md",
+      "title": "Avoiding shortcut solutions in artificial intelligence",
+      "excerpt": "MIT researchers developed a technique that reduces the tendency for contrastive learning models to use shortcuts, by forcing the model to focus on features in the data that it hadn’t considered before.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/shortcut-artificial-intelligence-1102",
+      "originalUrl": "https://news.mit.edu/2021/shortcut-artificial-intelligence-1102",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202111/MIT-Contrastive-Learning-01-press.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -253,6 +356,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-02-older-teslas-need-upgraded-cameras-to-get-full-self-driving.md",
+      "title": "Older Teslas Need Upgraded Cameras To Get Full Self Driving",
+      "excerpt": "Following the introduction of the latest Full Self-Driving Beta, it quickly emerged that no owners of older Tesla models had gained access to the system, despite achieving perfect 100/100 safety scores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/",
+      "originalUrl": "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/amp/",
+      "publishedDateTime": "2021-11-01T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge.md",
       "title": "Untether AI Touts “At-Memory” Architecture, Promising Efficiency And Performance At The Edge",
       "excerpt": "Untether AI recently emerged from stealth and described their architecture as being “At-Memory”, which the company claims will deliver leading performance and power efficiency. Most products that claim the latter deliver relatively weak performance (with the exception of Qualcomm’s CloudAI 100).",
@@ -344,6 +490,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-works-well-with-robots-the-way-robotsai-and-humans-interact.md",
+      "title": "Works Well With Robots? The Way Robots/AI and Humans Interact",
+      "excerpt": "Blame it on HAL 9000, Clippy’s constant cheerful interruptions, or any navigational system leading delivery drivers to dead-end destinations. In the workspace, people and robots don’t always get along.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/",
+      "originalUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Human-Robot-Interaction-Cooperation-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/",
+      "publishedDateTime": "2021-11-01T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -649,7 +838,7 @@
       "originalUrl": "https://www.theverge.com/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -794,48 +983,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-humans-may-get-to-talk-to-whales-courtesy-artificial-intelligence.md",
-      "title": "Humans may get to talk to whales, courtesy artificial intelligence",
-      "excerpt": "With the goal of 'talking' to the majestic marine animals, a project to listen to, contextualise and translate the communication of Sperm whales was recently launched by a team of international scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wionews.com/world/humans-may-get-to-talk-to-whales-courtesy-artificial-intelligence-425846",
-      "originalUrl": "https://www.wionews.com/world/humans-may-get-to-talk-to-whales-courtesy-artificial-intelligence-425846",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/04/16/137005-untitled-design-2.jpg",
-          "width": 918,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wionews.com/world/humans-may-get-to-talk-to-whales-courtesy-artificial-intelligence-425846/amp",
-      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/humans-may-get-to-talk-to-whales-courtesy-artificial-intelligence-425846/amp",
-      "publishedDateTime": "2021-11-01T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WION",
-        "domain": "wionews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1071,153 +1218,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-huawei-ai-speaker-2e-launched-available-for-purchase-in-china-for-199-yuan-31.md",
-      "title": "Huawei AI Speaker 2e launched; available for purchase in China for 199 yuan ($31)",
-      "excerpt": "As it has become difficult for Huawei to focus on the smartphone business because of the sanctions imposed by the United States, the Chinese giant has been focusing on other products. In line with that,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/",
-      "originalUrl": "https://www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/Huawei-AI-Speaker-2e-Featured.png",
-          "width": 726,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/?amp=1",
-      "publishedDateTime": "2021-10-31T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-deepmind-takes-next-step-in-robotics-research.md",
-      "title": "DeepMind takes next step in robotics research",
-      "excerpt": "MuJoCo's free availability will have a positive impact on the work of scientists who are struggling with the costs of robotics research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
-      "originalUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
-      "publishedDateTime": "2021-10-31T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults.md",
-      "title": "UMass Lowell, partners to launch AI-robotics initiative to aid older adults",
-      "excerpt": "The quality of life for senior citizens is being improved through a new initiative developing robotics and artificial intelligence systems, and UMass Lowell researchers are among",
-      "sourceUrl": null,
-      "webUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/",
-      "originalUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lowellsun.com/wp-content/uploads/2021/10/low-l-umlrobotics-01.jpg?w=1024&#038;h=729",
-          "width": 1024,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/amp/",
-      "cdnAmpWebUrl": "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/amp/",
-      "publishedDateTime": "2021-10-31T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lowell Sun",
-        "domain": "lowellsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototy
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -124,22 +124,6 @@ related:
       - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/11/FacebookAI-Robots.jpg?fit=950%2C634&ssl=1"
         width: 949
         height: 633
-        isCached: true
-  - title: "Facebook grilled by UK lawmakers making online safety rules"
-    excerpt: "British lawmakers are grilling Facebook and other tech giants over how they handle online safety as European efforts to regulate social media companies gain momentum"
-    publishedDateTime: 2021-10-28T16:16:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/facebook-google-twitter-face-grilling-uk-lawmakers-80829884"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/facebook-google-twitter-face-grilling-uk-lawmakers-80829884"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/facebook-google-twitter-face-grilling-uk-lawmakers-80829884"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_964514ad0dff4266ac35e14f18ad8d42_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Facebook grilled by UK lawmakers making online safety rules"
     excerpt: "British lawmakers grilled Facebook on Thursday over how it handles online safety as European countries move to rein in the power of social media companies. Facebook’s head of safety said the tech giant supports regulation and has no business interest in providing people with an “unsafe experience."

@@ -1,21 +1,25 @@
 ---
 category: news
 title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
-excerpt: "With the evolution of machine learning, the CAST AI team has developed an AI platform ... platform now supports both Google and Microsoft Azure public cloud platforms. \"The adoption of Kubernetes ..."
-publishedDateTime: 2021-10-12T14:34:00Z
-originalUrl: "https://www.wjhg.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/"
-webUrl: "https://www.wjhg.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/"
+excerpt: "About CAST AI CAST AI is the autonomous Kubernetes management platform that cuts cloud bills in half for AWS, GCP and Azure customers. CAST AI analyzes millions of data points, always looking for ..."
+publishedDateTime: 2021-10-12T14:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-1030859528"
+webUrl: "https://markets.businessinsider.com/news/stocks/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-1030859528"
 type: article
 
 provider:
-  name: WJHG
-  domain: wjhg.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
   - AWS AI
 
-secured: "xH1zQT9XkRQ7TtYQgq1LKhmizY9XQVRMIpLAGnDKQ4zwpQ8aVaT3MGrKTl5tr72JbvoyVhoi01ZAnPMqgqbcLqt5Ogce2iL4GKzVi8F2epHRr30PXzjScVrPcAsC7aSRndiO1QNO2wED800k1qAgQVWGArnwkCWqIGUCNSbr4Y8EGEFsW/iylDCH12+HB6jUkLxEpsHqBwiBGHt3L9v0wGSZxt851RuSvMB44AIUrc7KjDHV+8KFkdVnG3AX1gD0aXpGipbHHrCip3RLdyQZ3pQN8SN/8vY4GSrmu3BvAB8MXkZAupD5fJAAolTpQisQRw6qtNz48u6z2VVT0BkO/TMMCZNuBcEkFzFn1ac5XaU=;2azIQ9i8QWWLyROH4IU0aA=="
+secured: "LKWbTzhHHZT2nGR+c5NxTrcs1jtq2Lsh9YY0E1c+1qCVbiL0ai74gA/JgoGuUlHR3Hkh4qmvCxY8yAL+ciPaUNcW8HfOGlrrGOMU+ZjEC/eFlBKu7VEMerRXKR+L2Sg6a3cZ/ONxRvIFof/bIV2tZFERsrHIRoNKWVtCdoXVNPuHyZVPIDfnI+6L/LgXbrVkW8fODJ1aLwATiWXx9mdsdWAtBbIxip+qnP7k5IZXLNrMLeQKxHQW65vt+pDnuKWSQzuVpinXXMGiACDz2uC5war9yJlmetF0FkiyYODtzmry5EfsZroLAB/UXIAYS1Pt23MKaljBLGvDs2sCX64d1TdChCQmV5CmHfKAUobarE4=;yXV1Nd+xiW755E2Z4hSvdg=="
 ---
 
