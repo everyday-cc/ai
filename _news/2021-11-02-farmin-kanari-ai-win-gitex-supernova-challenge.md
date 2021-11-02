@@ -3,8 +3,8 @@ category: news
 title: "Farmin, Kanari AI win GITEX Supernova Challenge"
 excerpt: "UAE-based Farmin and Kanari AI have won the 2021 GITEX Future Stars’ Supernova Challenge for their achievements in the"
 publishedDateTime: 2021-11-02T12:22:00Z
-originalUrl: "https://www.wamda.com/2021/11/farmin-kanari-ai-win-gitex-supernova-challenge"
-webUrl: "https://www.wamda.com/2021/11/farmin-kanari-ai-win-gitex-supernova-challenge"
+originalUrl: "https://www.wamda.com/en/2021/11/farmin-kanari-ai-win-gitex-supernova-challenge"
+webUrl: "https://www.wamda.com/en/2021/11/farmin-kanari-ai-win-gitex-supernova-challenge"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 796
     isCached: true
 
-secured: "hfHR3w1cD6rl4EkpGHjn18ph4CJE0Fu7WMFJ5tNGl9nOdLcNMLK8oDCoO36NmvdUoQ5FA38sKHRQaHI6KLjg3f2f7PzKElkWn4E8IcDoKD8YyrKmvQqCalug9Tx7ocZhjIfk1ZFhOsDjvow59+aDhktd9oQaeZkt9YFR4ONuZfPPzhXM6OFr0jMmLo+noJDjZ64on9n/laP93sj+2Cy2xnKw9qxn9UltbGONSeTdZcr/NKqS2wfWBqwPGi+TFkkpyTDdJZs0zzRFsgSs9xrRu4mERgVtube49Hq53y8ucFL+yLi0dTOOdMyFms3+0YY1LW1iAgtprTqWS5tmRJs5Ef5RxaOOJbQr019qNaX2wlk=;N/RsYMwM8LEdg/tTkfMqqQ=="
+secured: "irFLjlvLEBusLx8vkErxPNqxBmD0ZZ+MdwuWEFvW1Lo2nkfZT04iQY5TGC2+ekZ8209NCjXVW3n9Fw/mipd92vmaBwrWXUFwOK29RiYSKSW3a88z8Wnv5a1fgC+cVcGvbSany7s6hCt0YqBfqFNs1zh1IxND0zP4feo/+H1LYolKLx5BRAng/C0pFMk9wNCslA1W39z4/hBPXdB00WLM3gYxtAItd4vkbFbkGxDf+uG0JIvb4VJUq6nAz1iqOHmOW9Dhyq2mGD85Uc9qR922gKf8+A1Sd1V965uSTuglaWJAYYU+MiFuwTFKqanLMe7Q/QvNtsG8cP9w2FyfxsbZUKe1v02wJYm6bBwTcb9dhek=;Zj0ggeHYdKD0EMvrX1AzPQ=="
 ---
 

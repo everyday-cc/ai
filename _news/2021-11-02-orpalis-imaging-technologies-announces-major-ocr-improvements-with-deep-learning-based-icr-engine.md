@@ -1,29 +1,30 @@
 ---
 category: news
 title: "ORPALIS Imaging Technologies Announces Major OCR Improvements with Deep Learning-based ICR engine"
-excerpt: "ORPALIS Imaging Technologies introduces its first ICR engine, improving its machine vision capabilities. This first version is dedicated to handwritten numerics located in boxes, and future versions will support more contexts."
-publishedDateTime: 2021-11-02T10:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/orpalis-imaging-technologies-announces-major-ocr-improvements-with-deep-learning-based-icr-engine/article_d9fb8fa9-5926-5ae8-ba88-a8b0a04d8c25.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/orpalis-imaging-technologies-announces-major-ocr-improvements-with-deep-learning-based-icr-engine/article_d9fb8fa9-5926-5ae8-ba88-a8b0a04d8c25.html"
+excerpt: "New ICR engineORPALIS Imaging Technologies introduces its first ICR engine, improving its machine vision capabilities. This first version is dedicated to handwritten numerics located in boxes, and future versions will support more contexts."
+publishedDateTime: 2021-11-02T10:09:00Z
+originalUrl: "https://www.lelezard.com/en/news-20077258.html"
+webUrl: "https://www.lelezard.com/en/news-20077258.html"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "+usRJMjiCl0AIJJQDG8JS8Ft9pXaGpCyeTPWSiWATbbZ/RGVa9cx+zKUqhkA4XgmRItBc5oVS2FNhwtDFeBrneh1SdjJnuRnyIDsCwrfsJr5WgNlHZsJk8XPC79U0+sPNJbg/6zTjnHvLKpTItfSkhKQ6Al8KnoBgbtBCg86PyAGN0/w0ARCZcQduKAzGzosxSuyvhn5x4bJsJA9x4hUohU7Ogw4NAZSC9Q04KAPsS+BFugU1nwcKp7LI2n/HX9CdDDYXcXkDCRJO20F/N6Qgx9tjn5zoGQrho2ItSyOEz0x0tlI4nyGfq3cF1qjDl3HWTSRH0RDaMCPeIDWBykmHei3wpVv1WNjKcT3kgDt348=;zXy2EY9O6j69B+S+YetXJg=="
+secured: "TFXbdjHs774Nl4W66XAvgmr8V1WBePfIZcpiiDoOdK/WEroXEPhdDz3hRKbIuEOImE1eWioQ4IR0QY1iY1+LJB0MlU79lA8WnnaeDvkIXdMsZTmfLT4mDJkjgIf7dKHE7DqC8DUuLN342s6hiIVkvv5yiok4Kf6dHO0ce8e8hIK+/rkxr3ErOzNhLXFRdLyUSKdbSVODo6hcnXTWeHIrRHfTEWX1SHrYddVhJ8ckaXTVtkXjNgqL7fPkN+Zf/BVhrDnOOE1derZBfO3Vxmtj3YosmnwkA6pUrhjn2kChP2QnVPlUG6SlZriGxX18eZr0LkKaTka/Wv+ZWSdMgX8nGgGyve3bPGySGK7SZrj7gSM=;m6duOOk12uEmiGAuWiD9hg=="
 ---
 

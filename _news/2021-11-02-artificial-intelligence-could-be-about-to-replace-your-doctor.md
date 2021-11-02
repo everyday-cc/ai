@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-02T13:42:00Z
 originalUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-could-be-about-to-replace-your-doctor"
 webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-could-be-about-to-replace-your-doctor"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: insurancenewsnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "xfL4hptdSGjurcvw/TM0rD8WnYIZGDvaJQN5Ovi+0kgQd/BpoloASzQZUnGQ0jCx4PWJglpBMcM6AlR2ArcxDOYOgT2nMPYTnpborFAcNFUImKEn3ZMaSztjGU3iDV+HzeGldXYinuhrQCJwJO5w/Qo7U9nZfets60O1OyBfmj4/1siiUYKgbbwQ0srv9OB5J5xomonavAW6nt0smRDcyx/Y2jMTe1GETE4U6cQgsVCgW71x6xdRPpumOAgcErd+6bYLGY1l/8j+8mO83aWQX++AXaUPp30FXF3wxiwTc4FhAklgQ0IsAzFc0qfPYNTPce+3jhDPT6Ht9nh+dE4KWxONJVoTW1KrUoHtLF1e+bg=;PfU+tWHQ/Y8dgo4mJrm1Lg=="
+secured: "W1ilsRrSmAg+XJvJbGcaBfFE4fAch8sf0Dz94zP6n6BUzCe5z7ll+1GhcWNgvsRoVwpoD5jcHI8YkZ4+rab3PQU0IF5fKoFevWWgH2wOsnYms9olpQs7Wc0ackOFfFnDOfi3SC8wJoHADrImu/2gnBYPLFGl/LroM1kuvGujFl/K8R2ZTPCJ1n6xzVJeJE0Jilp+9A12gOr2Kh+FfSxWk/IpFsSkL4w5ASkRME7717dD45gWR+PtkCzQrJcB6pnK9ttt6CVEDvLhep1oTY5oUIyUgG/R9T5sxW7Iz897/9ZqODbjVWM8PXbcPG2PwXDG6o3avxTP6GunzGM5urIEaEtXIJL1dUhPWqpJ8z1al1g=;78NjrnA9ENxuUwdKWFLz3g=="
 ---
 

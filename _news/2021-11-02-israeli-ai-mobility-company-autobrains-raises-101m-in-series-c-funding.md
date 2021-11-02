@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2021/11/israeli-mobility-autobrains-101m/"
 webUrl: "https://www.finsmes.com/2021/11/autobrains-raises-101m-in-series-c-funding.html"
 type: article
 quality: 137
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -38,7 +38,21 @@ related:
         width: 740
         height: 511
         isCached: true
+  - title: "Horizon3.ai Raises $30M Series B to Disrupt the Pentesting Market"
+    excerpt: "Horizon3.ai, a cybersecurity startup focused on autonomous penetration testing, today announced $30M in funding. Co-founded by former Splunk CTO, Snehal Antani, and Anthony Pillitiere, former Deputy CTO within the U."
+    publishedDateTime: 2021-11-02T14:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/horizon3-ai-raises-30m-series-b-to-disrupt-the-pentesting-market-1030927040"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/1676117/Horizon3ai_SeriesB_Reuters_3.jpg"
+        width: 400
+        height: 365
+        isCached: true
 
-secured: "3OK4nmyYw4/S7g+GCl0hbs1I7LzULrAJICy/FEd7YobAHwi+4bCqbB4YJvLu1ZaP8hnpG1UDQLttYa+dOm+uEtebzPdgPsMvm9jJvb23UCI3+MgtiREruU25ua598xIETBprN2xf5gcwN17Ha2vDluCpUzhzZBWmh2p4zq7IVaGVmC9L4k2i27KOwNZshph5WiwiiNaivAupoGmcdJs8HpBFsU2s/b7yBX4QPAtngsr+NXFawjvXzLqjQ1Q9CgyUARDFVo2aUslO0qpEduJTcruC5rrx++Yt3xF83PSXshXa9s5SoB17rLXeBd5qEbZBTNMhB8lx/Fluqr5bfpmq0ZWM0jyYRt4b4E8svRx6P88=;9CXa+46eiLna54sCrtOotA=="
+secured: "HrxCtTQcAgL4op1q51lrsAKqR7r6/zC03JrUxIH57snaft/uBGc3Aj06epqVOX8FHeXMUTMzQIoktIFsloSrBfL9zWsCV/CXV1JBiVF9OfcoCPMvKYNSxrKgly4ftLrb9eILwhVyKuigPP5kwbXHEH0yTl8h9dqOpKn5wkiKNoF0mDGl1KX2s+rH9AcExH7T5v7aq3NAzY6OrOAdSTVfpVuqLmgPZCWre59hm523L94hgIbfYWEFTXOkXZkrl7y0DJIIK+Vnn/rgfOk1OfbqEhptlkxBR+RCYcAOCpwt8H9lD2gC6uAJeDHVjWKrgzC+9G3rIP7hgWI4VadLwt7zyZldWAIjmQ6wG0j1xzqrzpUyMI2a0EIM5XVL9sP1BVBAh94TLA9qLceWNClRKnyATFEL4rnJ4587iOWH9HyKdfrjTdFtXFXtg96pELHQepTr5dRxvKBAnU+iSF4SbLRBq3asbuI4yHXmaeco3c3UFMtRTNR4nvIfLxP7njS/oSbcM+w08mI1mmAYH86SkjO7csUJOi9jvXhPVVTSRv4jjUM=;+5h9WhZqFNkJfIz6M1Xg2Q=="
 ---
 

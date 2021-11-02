@@ -73,6 +73,20 @@ related:
         width: 1302
         height: 868
         isCached: true
+  - title: "West Lafayette City Council approves ban on facial recognition technology"
+    excerpt: "The West Lafayette City Council approved an ordinance banning the use of facial recognition technology Monday night on a 5-4 vote. Last month, the council debated the pros and cons of the technology."
+    publishedDateTime: 2021-11-02T14:11:00Z
+    webUrl: "https://www.wbaa.org/government/2021-11-02/west-lafayette-city-council-approves-ban-on-facial-recognition-technology"
+    type: article
+    provider:
+      name: WBAA
+      domain: wbaa.org
+    quality: 38
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/d9dedbd/2147483647/strip/true/crop/5184x2722+0+367/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2Ff9%2F97b359b84c369da87d2e2dad51f1%2Fimg-5875.JPG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice And Speech Recognition Software Market To Be Driven By Technological Advancements In The Forecast Period Of 2021-2028"
     excerpt: "The Voice And Speech Recognition Software market report discusses in-depth the growth opportunities, challenges, growth drivers, and restraints, threats, and demands of the market. Further, the research assesses the regional market as well as the global market to gather the data into the scope of the Voice And Speech Recognition Software market."
     publishedDateTime: 2021-10-29T09:18:00Z

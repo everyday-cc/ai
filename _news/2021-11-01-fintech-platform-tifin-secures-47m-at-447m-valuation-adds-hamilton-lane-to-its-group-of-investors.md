@@ -26,6 +26,24 @@ images:
     height: 1188
     isCached: true
 
+related:
+  - title: "Fintech InvestCloud Introduces InvestCloud X, a Digital Communication, Planning, and Shopping Solution"
+    excerpt: "The platform “leverages AI trained on historical information to serve up custom ... Blockchain peer-to-peer / marketplace lending and other forms of Fintech. We are excited to announce thatSupporteo is now available forcrowdfunding investmentson StartEngine."
+    publishedDateTime: 2021-11-02T12:32:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/182432-fintech-investcloud-introduces-investcloud-x-a-digital-communication-planning-and-shopping-solution/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182432-fintech-investcloud-introduces-investcloud-x-a-digital-communication-planning-and-shopping-solution/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182432-fintech-investcloud-introduces-investcloud-x-a-digital-communication-planning-and-shopping-solution/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 28
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Grant-Money-Clouds-Obfuscate-Clarify--768x1024.jpg"
+        width: 768
+        height: 1024
+        isCached: true
+
 secured: "O//2NkgdpS0ZukDZ8M1on/aT1op2FIG6Zvo1hJrbFFo1iuK1kRsuHf71nlhQzHc2y1zPVKMDFXOwOSw0ZGm5RBOECD+RcMNFysoxGUT+6UPbvrVZWVYWtiSkrKFCcp09vPj2Pphv8T+c4Qt+C3ZdfGWtnRtad/kWzVsh8iXI85pddGWHbLQ3VWej3e/ezuRgAw7J/9wnmyCFre6Sj2WU+erouyz5wYZi3XFp+TtuGiul8mAK4IUJgsRJc+ovv1AYT2coX/cVEhp6D1FioJ7R7y0TfnoyMTjXR9ZQo+dh/EYeGUynyar67X6z92AF5hJAJ8lC/JYJ+GBzhu8FCT1rH585nnDtvJdrocLzCmw0eYtHYMxVUpm5jhJUCR20Km8QK8uY46lJKE1ZhpX9F+EyDB+TTiMwmaAHkDVqEaV7xjuINptQ+UmjA+IJnYx3gNpjf0kYsq4h82TE5lQ7fQ6D8ogOQgl6Vn+Erz3VoLngjgvzaix/dyl5NK1zGPEATDRJxDWoReDyTIN6pHxABW4Umw==;NjMRGjwhR6z24Pu0rIuJ4A=="
 ---
 

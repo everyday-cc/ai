@@ -2,6 +2,349 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-29-google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask.md",
+      "title": "Google unveils 'Pathways', a next-gen AI that can be trained to multitask",
+      "excerpt": "Today's AI models, according to Google's AI lead and co-founder of the Google Brain project, Jeff Dean, are at the one-trick pony phase – they are \"typically trained to do only one thing\". But a new approach called Pathways could provide something akin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
+      "originalUrl": "https://www.zdnet.com/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/58190d3b9be2f10b7c067e98f461e75b3a4c0dc0/2021/10/29/4802e0e3-058c-4b9b-bd4e-9761f806c7be/google-pathways-ai.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
+      "publishedDateTime": "2021-10-29T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-robots-to-clean-nyc-skyscrapers.md",
+      "title": "Robots to clean NYC skyscrapers",
+      "excerpt": "The use case makes a lot of sense: managers of every commerce building in major U.S. cities need some way to clean their building's exterior glass. In fact, window cleaning is $40B global market. The surfaces involved are generally uniform and the path predictable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
+      "originalUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b656a675bbd1838bfbf9bdff16eb479741d8edae/2021/10/28/37ceec2f-0fc4-4223-82ef-92fab5b771a2/skyline-window-cleaning.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
+      "publishedDateTime": "2021-10-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-us-to-deepen-relation-with-taiwan-in-face-of-china-tensions.md",
+      "title": "US to deepen relation with Taiwan in face of China tensions",
+      "excerpt": "The U.S. switched diplomatic recognition of China from the ruling Nationalist Party government in Taipei to the Communist Party in Beijing in 1979, but has continued to maintain a strong unofficial relationship with the self-ruled island. Oudkirk declined ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/",
+      "originalUrl": "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10060-prod.cdn.arcpublishing.com/resizer/nXIU0jcYwnSsJHClfE_GA1NiNVs=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/WJMCWFRPM7TMX3VJUDFD3E2Q3E.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-fox13memphis-com.cdn.ampproject.org/c/s/www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/?outputType=amp",
+      "publishedDateTime": "2021-10-29T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX13 Memphis",
+        "domain": "fox13memphis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-nykaa-ipo-oversubscribed-by-482-times-on-day-2-qib-portion-booked-472-times.md",
+      "title": "Nykaa IPO oversubscribed by 4.82 times on Day 2, QIB portion booked 4.72 times",
+      "excerpt": "Falguni Nayar-promoted and private equity firm TPG-backed FSN E-Commerce Ventures’ maiden public offer was oversubscribed by 4.82 times ... its financial metrics and cementing its position going forward and hence recommend investors to Subscribe to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/74782def-1046-4ea5-b796-0802cfb90260",
+      "originalUrl": "https://www.moneycontrol.com/news/business/ipo/nykaa-ipo-oversubscribed-by-1-64-times-on-day-2-qib-portion-booked-1-39-times-7647391.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9fa36cd1-fe9e-4cec-9fa2-03e6c6b0f5b0.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/74782def-1046-4ea5-b796-0802cfb90260",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/74782def-1046-4ea5-b796-0802cfb90260",
+      "publishedDateTime": "2021-10-28T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-ai-and-ethics-experts-speak-about-challenges-possible-directions.md",
+      "title": "AI and Ethics: Experts Speak about Challenges, Possible Directions",
+      "excerpt": "How do you see AI regulation proceeding? Any advice for organizations and companies that want to ensure that they build ethics into their AI deployment? What do you see, a few years (or several years) out for ethics in AI? Will the question of ethics be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-ethics-experts-speak-about-challenges-directions/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-ethics-experts-speak-about-challenges-directions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/10/New-eSPEAKS-thumbnail-5.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-clearview-ai-finally-takes-part-in-a-federal-accuracy-test.md",
+      "title": "Clearview AI finally takes part in a federal accuracy test.",
+      "excerpt": "But the test ... Though its accuracy had never been audited by NIST, Clearview AI claims thousands of local and state police departments as customers; a recent report from the Government Accountability Office also cited use by a number of federal agencies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.html",
+      "originalUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/29/business/28clearview-01/28clearview-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/28/technology/clearview-ai-test.amp.html",
+      "publishedDateTime": "2021-10-28T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-almost-30-percent-of-new-github-code-is-written-with-ai-assistance.md",
+      "title": "Almost 30 percent of new GitHub code is written with AI assistance",
+      "excerpt": "If you haven't heard of Copilot before, it's essentially the equivalent of the predictive text systems you'd find on Gmail or even your phone. You start",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91984-almost-30-percent-new-github-code-written-ai.html",
+      "originalUrl": "https://www.techspot.com/news/91984-almost-30-percent-new-github-code-written-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-28-image-28.jpg",
+          "width": 2634,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91984-almost-30-percent-new-github-code-written-ai.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91984-almost-30-percent-new-github-code-written-ai.html",
+      "publishedDateTime": "2021-10-28T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-introducing-pathways-a-next-generation-ai-architecture.md",
       "title": "Introducing Pathways: A next-generation AI architecture",
       "excerpt": "When I reflect on the past two decades of computer science research, few things inspire me more than the remarkable progress we’ve seen in the field of artificial intelligence.In 2001, some colleagues sitting just a few feet away from me at Google realized they could use an obscure technique called machine",
@@ -754,6 +1097,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-28-intel-turns-focus-on-developers-with-new-pc-and-data-center-chips.md",
+      "title": "Intel turns focus on developers with new PC and data center chips",
+      "excerpt": "The development of new chips took centerstage at inaugural Intel Innovation event, with announcements spanning new products, developer tools, technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2021/10/intel-turns-focus-on-developers-with-new-pc-and-data-center-chips/",
+      "originalUrl": "https://techhq.com/2021/10/intel-turns-focus-on-developers-with-new-pc-and-data-center-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/10/intel-chip.jpeg",
+          "width": 480,
+          "height": 298,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-legaltech-startup-vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives.md",
       "title": "Legaltech Startup Vakilsearch Raises $10 Mn To Accelerate Its AI And ML Initiatives",
       "excerpt": "“With this investment, we will leverage the strengths of Vakilsearch and accelerate our Artificial Intelligence (AI) and Machine ... India CEO Manish Modi. The startup had raised $2 Mn from ...",
@@ -838,378 +1224,6 @@
         "AI Ethics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-ceti-project-launched-to-decode-whale-language.md",
-      "title": "CETI Project Launched To Decode Whale Language",
-      "excerpt": "We will now be able to talk to Whales! Yes, you read it right. A team of interdisciplinary scientists have launched a Project CETI with the goal of decoding and communicating with sperm whales. CETI- Cetacean Translation Initiative,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techthirsty.com/ceti-project-launched-to-decode-whale-language/",
-      "originalUrl": "https://www.techthirsty.com/ceti-project-launched-to-decode-whale-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techthirsty.com/wp-content/uploads/2021/10/CETI-Project-Launched-To-Decode-Whale-Language.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Thirsty",
-        "domain": "techthirsty.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-nice-cxone-accelerates-cx-digital-transformation-with-new-integrated-intelligent-self-service-and-enlighten-ai-powered-agent-engagement-solutions.md",
-      "title": "NICE CXone Accelerates CX Digital Transformation with New Integrated Intelligent Self-Service and Enlighten AI-Powered Agent Engagement Solutions",
-      "excerpt": "The NICE CXone Fall 2021 release drives powerful CSAT improvements by creating frictionless customer experiences that start at brands’ digital doorsteps, spanning self-service and agent-assisted interactions NICE (Nasdaq: NICE) today announced the CXone Fall 2021 release,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20211028005480/nice-cxone-accelerates-cx-digital-transformation-with-new-integrated-intelligent-self-service-and-enlighten-ai-powered-agent-engagement-solutions",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20211028005480/nice-cxone-accelerates-cx-digital-transformation-with-new-integrated-intelligent-self-service-and-enlighten-ai-powered-agent-engagement-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-done-right-human-ethics-can-ensure-ai-bias-is-curbed.md",
-      "title": "Done right, human ethics can ensure AI bias is curbed",
-      "excerpt": "AI bias continues to be a prevailing problem when it comes to ensuring proper implementation of artificial intelligence (AI) in many industries. Since the",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/10/ethical-ai-ai-bias-is/",
-      "originalUrl": "https://techwireasia.com/2021/10/ethical-ai-ai-bias-is/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/10/000_94M3YD-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/10/ethical-ai-ai-bias-is/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/10/ethical-ai-ai-bias-is/",
-      "publishedDateTime": "2021-10-27T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-delta-airlines-using-facial-recognition-to-check-in-travelers.md",
-      "title": "Delta Airlines Using Facial Recognition to Check-in Travelers",
-      "excerpt": "A new facial recognition technology being used by Delta Airlins will analyze people's faces and compare them to passport information stored in a TSA database. Local Health Departments Prepare As ...",
-      "sourceUrl": null,
-      "webUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/",
-      "originalUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/A37/DED/A37DED67A23E096BAE785B57DF9F72CA.jpg?Expires=1729987200&KeyName=mcpkey1&Signature=aurFBxgHrBcuZZ6Law-LjsYkO8k",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp",
-      "cdnAmpWebUrl": "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp",
-      "publishedDateTime": "2021-10-27T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Detroit",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027.md",
-      "title": "Global Computer Vision in Healthcare Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027",
-      "excerpt": "Global Computer Vision in Healthcare Market 2021-2027 unveiled by MarketsandResearch.biz contains an extensive assessment of the business vertical and features the distinctive market segments. The report provides brief information about market size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-how-ipropertycommy-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker.md",
-      "title": "How iProperty.com.my accelerates property-based ML model delivery with Amazon SageMaker",
-      "excerpt": "This post was created in collaboration with Mohammed Alauddin, Data Engineering and Data Science Regional Manager, and Kamal Hossain, Lead Data Scientist at iProperty.com.my, now part of PropertyGuru Group. iProperty.com.my is the market-leading property portal in Malaysia and is now part of the PropertyGuru",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/07/ML-4574-image001.png",
-          "width": 721,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T15:58:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-google-cloud-microsoft-azure-revenues-drive-strong-growth-to-tech-giants-earnings.md",
-      "title": "Google Cloud, Microsoft Azure revenues drive strong growth to tech giants' earnings",
-      "excerpt": "Microsoft and Google have revealed robust quarterly earnings results, with Azure and Google Cloud leading the way ... the platform's \"leadership in real-time data analytics and AI.\" Google Cloud comprises both Google Cloud Platform (GCP) and Workspace ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
-      "originalUrl": "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-27-image-21.jpg",
-          "width": 1600,
-          "height": 911,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
-      "publishedDateTime": "2021-10-27T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.md",
-      "title": "McDonald's enters strategic partnership with IBM to automate drive-thru lanes",
-      "excerpt": "McDonald's has entered a strategic partnership with IBM to help the fast-food chain automate its drive-thru lanes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106891207-1622645077770-gettyimages-1133268648-MCDONALDS_TECH.jpeg?v=1622645106",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
-      "publishedDateTime": "2021-10-27T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

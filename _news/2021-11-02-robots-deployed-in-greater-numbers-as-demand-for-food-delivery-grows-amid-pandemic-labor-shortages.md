@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robots hit the streets as demand for food delivery grows"
+    excerpt: "Hundreds of little robots are now navigating college campuses and even some city sidewalks in the U.S., the U.K. and elsewhere."
+    publishedDateTime: 2021-11-02T15:39:00Z
+    webUrl: "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+    ampWebUrl: "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 59
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2021/11/Robot_Food_Delivery_67862-6180b92c0ec28-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Little Robots Like These Are Fulfilling More Food Orders as Demand for Delivery Grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
     publishedDateTime: 2021-11-02T05:14:00Z
@@ -59,21 +75,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Robots hit the streets as demand for food delivery grows"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas —  \"We saw demand for robot usage just go through the ceiling,"
-    publishedDateTime: 2021-11-02T13:30:00Z
-    webUrl: "https://billingsgazette.com/news/national/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_1e9aecda-0bf5-5405-b47d-c8b95d37733e.html"
-    type: article
-    provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/1/e9/1e9aecda-0bf5-5405-b47d-c8b95d37733e/618139fd83711.preview.jpg?crop=1919%2C1079%2C0%2C0&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
 
-secured: "ZSSZ6bMrg+OkmajVli1mYrHbquuAjtoOX9Y5WM/HKth+LCBBsqHepUzr48NchSQLTrl+knMkWzt/JTZVMoATfwRVcelXEW1G3le4idn6X42mEPqgIwirNSaAxAy4HcPIXd67Tcr+P3oXQE9TZdwPf9ZYcyvr9YLEHrPwK4EzUpwujW1m2EZ2mvQyScM1Q0T0sDUxVz8B+ZRWxF1ujZ7UU1hEWqkvqcJ0UcFzYzxJ62KcVrJwlbEdwxUpRjjTAB935k8R8l60Kq5VbCj5lYsiK2Aqj51x+APLFFF8ND6OvizZOMcNn39h/SeBIiAZ2Kv1Yo51zmkEOZ52Lm1IVScoVfFuz1f04SFTKRn368Zbr/U=;zyV+yENHmRTumK98fk/ByQ=="
+secured: "Pfh3pJ0Yz5GArk10On4wp6aoqo6HyNxGaC5YL2RmQgCiMx03YrIlZQhN6MlPAzZ7EVmAnKB+TWnGhjjG6d9JRB/DuT7+XfWO23wX2GKEAMl78qgRLvItRqlGGOxDb86RFSzWBbRD+6qsHM7lRtgRkKpJBCX2CAhjRPwqOR4PjJU0kBuLpcItjsWa2EiW5xymNf22/hBxSYr1CXeaBnfRlLU/SB5cR03umA7aLymjDPtPNSlozigme+o/sKna7SXOLDA02p6HzdR3Cgl5kt3A/H3LbOrOv9LJGrNSH/WUz67UsFO9BEhcUGilZKolbaS5qO7wRq72IJ7yo/RisAYiS635EtKOOWC2GUVK+4GRdDJkUkZzXviT2iheGF3s6nYSbGVxLUutWTnu7ntu+EnsCtgGsJFdb6Tm+eWsrpSqxLZLw+d2q+OhaP/yQ6w8xPgobriK9D/l0uM6Q5GfGL/70s5s9i5NHZ3dLBE7DGNaBamLctot6yD7RDAZfuh44mwwN8ktJPIRuG36SbxSH+RmSg==;H4L3RAnolAo3rq+ac0Y/8w=="
 ---
 

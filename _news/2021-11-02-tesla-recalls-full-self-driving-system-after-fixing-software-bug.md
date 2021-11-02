@@ -69,6 +69,38 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Tesla recalls 12,000 vehicles due to glitch in ‘Full Self-Driving’ software"
+    excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
+    publishedDateTime: 2021-11-02T15:00:00Z
+    webUrl: "https://www.wraltechwire.com/2021/11/02/tesla-recalls-12000-vehicles-due-to-glitch-in-full-self-driving-software/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/11/02/tesla-recalls-12000-vehicles-due-to-glitch-in-full-self-driving-software/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/02/tesla-recalls-12000-vehicles-due-to-glitch-in-full-self-driving-software/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/09/tesla-model-s-e1600854168949.png"
+        width: 912
+        height: 512
+        isCached: true
+  - title: "Tesla issues software recall for 12,000 vehicles over glitch in self-driving software"
+    excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
+    publishedDateTime: 2021-11-02T13:48:00Z
+    webUrl: "https://whnt.com/news/tesla-issues-software-recall-for-12000-vehicles-over-glitch-in-self-driving-software/"
+    ampWebUrl: "https://whnt.com/news/tesla-issues-software-recall-for-12000-vehicles-over-glitch-in-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/tesla-issues-software-recall-for-12000-vehicles-over-glitch-in-self-driving-software/amp/"
+    type: article
+    provider:
+      name: WHNT
+      domain: whnt.com
+    quality: 52
+    images:
+      - url: "https://whnt.com/wp-content/uploads/sites/20/2021/11/AP20245450915069.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Watch Tesla’s Full Self-Driving Beta 10.3 Driving in Toronto [VIDEO]"
     excerpt: "Canadians have been waiting on Tesla’s Full Self-Driving (FSD) beta to make its way north of the border ever since Elon Musk, the company’s CEO, said Canada would be the Level 2 driver assistance system’s next destination last year in November."
     publishedDateTime: 2021-11-01T18:43:00Z

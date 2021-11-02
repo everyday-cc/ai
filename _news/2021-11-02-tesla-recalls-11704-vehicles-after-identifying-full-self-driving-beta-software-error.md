@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after-identifying-full-self-driving-beta-software-error/amp/"
 type: article
 quality: 82
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -63,6 +63,38 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Tesla recalls 12,000 vehicles due to glitch in ‘Full Self-Driving’ software"
+    excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
+    publishedDateTime: 2021-11-02T15:00:00Z
+    webUrl: "https://www.wraltechwire.com/2021/11/02/tesla-recalls-12000-vehicles-due-to-glitch-in-full-self-driving-software/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/11/02/tesla-recalls-12000-vehicles-due-to-glitch-in-full-self-driving-software/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/02/tesla-recalls-12000-vehicles-due-to-glitch-in-full-self-driving-software/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/09/tesla-model-s-e1600854168949.png"
+        width: 912
+        height: 512
+        isCached: true
+  - title: "Tesla issues software recall for 12,000 vehicles over glitch in self-driving software"
+    excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
+    publishedDateTime: 2021-11-02T13:48:00Z
+    webUrl: "https://whnt.com/news/tesla-issues-software-recall-for-12000-vehicles-over-glitch-in-self-driving-software/"
+    ampWebUrl: "https://whnt.com/news/tesla-issues-software-recall-for-12000-vehicles-over-glitch-in-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/tesla-issues-software-recall-for-12000-vehicles-over-glitch-in-self-driving-software/amp/"
+    type: article
+    provider:
+      name: WHNT
+      domain: whnt.com
+    quality: 52
+    images:
+      - url: "https://whnt.com/wp-content/uploads/sites/20/2021/11/AP20245450915069.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Tesla Recalls Full Self-Driving System After Fixing Software Bug"
     excerpt: "Tesla Inc. recalled more than 11,700 cars after a software update to fix a flaw was found to increase the risk its so-called Full Self-Driving system could cause rear-end collisions."
     publishedDateTime: 2021-11-02T11:33:00Z
@@ -89,6 +121,6 @@ related:
         height: 449
         isCached: true
 
-secured: "Hn8/CtjVP0nMRcZMJLuP9JZfZqx99ebqsOHW2myLUzr8aYv0mLdoUdnXyMEWqQqBCLHMpolUBT+bWxkjX5VwZ9nGDYYaVBXeUiwmKi6dvPS1fnlcwyaWUr/2OjTTy2qqRjvfuTjUGhR6YxGaAhH6a+T3ywuSMKh8pNfzgbEJ2g4CAwXi0P/gJvYyHZxVFr0WQcM/Q61AS7TrQtnCDzo1J3r7jZPVCo6G4LF0No52khQcf8k+Wpplluj6T0pydxXiAEuuvw8k+MqMPhGvlc/6XRcm3X9SsmFFKuE0qFfEq/HU1qD0EU8Zo0D+NtlEtAWvrJbHRR7R4n32+w/mCcwVRXsXtOJqRYwLx9GqSu2ccko=;EyeXtbjpYhZIwi6DTfqeZw=="
+secured: "PF1wH6v2b9NnrlKAjBxRfyfNmITydzo3pGWjnzunoAdGRQxrLvKXUVKx0LfO0tJ1eZGoi5XebN5RV/ByJfJ3ZNLs0/YzMUI+QEgahzMlrFK/0RNsGG2JEKofHGhTV5AAYhXj9Og666XR4SzSDK5HN/mmA/gHVGYpdmZl/7pL7OMk1oGaKeI/l5CKPoAXgXGvVdVqobtwWxE2+dEqQxE4Wk5I/Hj7bFyc9e7m8z2sH77T3w4kID2aPMgFQzPFxxFuI+JDwyhh8+UoYV6fqyl4+1dpq+sv8vG/KK5qo7FH4+4YY86X6p4X2hjihVAaNp8GCiPbmKpTu7A2UiHY4bP41khV4hewHOcRxLlHn1ZwaT7PQunmPYm/yXXTGhktdc/wZlNpPpZ9kBu/mRRKzPv0x/S2jV8gK9+c+9w1HgkFEbFWKx3kQiQwhRJMa401tndM7ECgoVlOMIrYMze+O1GPWjVqh1ecbMA4/TgduDyaigHcA/fKERfluf55nRZ2NyH9eOgbpaux2rNzVWfuAjUnHw==;BvIC3TTiqfrn1Z3WfnTAIQ=="
 ---
 

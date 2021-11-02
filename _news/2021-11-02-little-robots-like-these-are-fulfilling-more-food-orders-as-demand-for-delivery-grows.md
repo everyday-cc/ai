@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/little-r
 cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3026856/?amp"
 type: article
 quality: 52
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC 10 Philadelphia
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robots hit the streets as demand for food delivery grows"
+    excerpt: "Hundreds of little robots are now navigating college campuses and even some city sidewalks in the U.S., the U.K. and elsewhere."
+    publishedDateTime: 2021-11-02T15:39:00Z
+    webUrl: "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+    ampWebUrl: "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 59
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2021/11/Robot_Food_Delivery_67862-6180b92c0ec28-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Little Robots Like This Are Fulfilling More Food Orders as Demand for Delivery Grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
     publishedDateTime: 2021-11-02T05:16:00Z
@@ -58,20 +74,6 @@ related:
       - url: "https://ktla.com/wp-content/uploads/sites/4/2021/11/AP21305694967862.jpg?w=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Robots hit the streets as demand for food delivery grows"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas —  \"We saw demand for robot usage just go through the ceiling,"
-    publishedDateTime: 2021-11-02T13:30:00Z
-    webUrl: "https://billingsgazette.com/news/national/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_1e9aecda-0bf5-5405-b47d-c8b95d37733e.html"
-    type: article
-    provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/1/e9/1e9aecda-0bf5-5405-b47d-c8b95d37733e/618139fd83711.preview.jpg?crop=1919%2C1079%2C0%2C0&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
         isCached: true
 
 secured: "UP0Ox6ubM9ii0L5Nuv+L6S6aXL8HK2ygHgTv6NA7Aw7VvcZY0ikTBc+oCTFI8OlgFBfipX26o6rQTTzaA8/6wcVHkN18okk/jyF+OEeRtFwBK5Mea+9GHsD45k0FyPqPplZkDNgjxE/xco1g7cmrhyG39N2mJpr2qYQ1Rz4m8GhUG9uTmI3ebetlcHE4l30N7Ni9Y07XjD1opXCiPQ7UFKNDSzwyiibcfQO7v3kuGdtXsXJErapbZQ4dT6gyKaOBi+z1HYFoYQ4IuTRxkXnI1lGkMW6Yf721OA4vt5leCAm7YutsQK4g/9h3EBHde9WDXrlXeQt+EadtSMwJLxrXkaBU/G/1RJGJzdIU2z7Sy7I=;QJ0WuQuuIFf05BIn2tezng=="

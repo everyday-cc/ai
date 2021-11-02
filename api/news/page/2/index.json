@@ -2,6 +2,404 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-02-works-well-with-robots-the-way-robotsai-and-humans-interact.md",
+      "title": "Works Well With Robots? The Way Robots/AI and Humans Interact",
+      "excerpt": "Blame it on HAL 9000, Clippy’s constant cheerful interruptions, or any navigational system leading delivery drivers to dead-end destinations. In the workspace, people and robots don’t always get along.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/",
+      "originalUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Human-Robot-Interaction-Cooperation-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/",
+      "publishedDateTime": "2021-11-01T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-ai-powered-camera-surveys-scenes-to-auto-capture-memorable-moments.md",
+      "title": "AI-powered camera surveys scenes to auto capture memorable moments",
+      "excerpt": "Canon turned to the Japanese crowd to fund development and production of an AI-powered photo/video camera that automatically captures scenes unfolding in front of it. Now the company has launched the device in Europe as the PowerShot PX.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/photography/canon-powershot-px-camera/",
+      "originalUrl": "https://newatlas.com/photography/canon-powershot-px-camera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/a338f35/2147483647/strip/true/crop/4614x3076+427+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe5%2F1d%2F9c42fabe446a9d51beaac3045927%2Fpowershot-px-find-out-more-1a385af89cf648a3aa0025dd1abb76bb.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/photography/canon-powershot-px-camera/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/canon-powershot-px-camera/?amp=true",
+      "publishedDateTime": "2021-11-01T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars.md",
+      "title": "Dump Truck Accident Pours Liquid Asphalt From Overpass Onto Vehicles Below, Providing Lessons For AI Self-Driving Cars",
+      "excerpt": "The recent news report about a dump truck that inadvertently spewed hot asphalt from an overpass onto a freeway is closely examined, and lessons for AI-based self-driving cars are gleaned from the harrowing event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d133c17070cc69341f362d%2F0x0.jpg%3FcropX1%3D344%26cropX2%3D1919%26cropY1%3D21%26cropY2%3D1203",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-11-01T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform.md",
+      "title": "OctoML raises $85M for it for its machine learning acceleration platform",
+      "excerpt": "OctoML, a Seattle-based startup that helps enterprises optimize and deploy their machine learning models, today announced that it has raised a $85 million Series C round led by Tiger Global Management.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/",
+      "originalUrl": "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gpO4y1mPMWA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/",
+      "publishedDateTime": "2021-11-01T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-top-10-robotics-stories-of-october.md",
+      "title": "Top 10 robotics stories of October",
+      "excerpt": "DeepMind acquiring MuJoCo and Waymo's self-driving cars getting stuck on a dead-end street in SF captured your attention in October 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/top-10-robotics-stories-of-october-2021/",
+      "originalUrl": "https://www.therobotreport.com/top-10-robotics-stories-of-october-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/11/october-2021-recap-web.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-why-should-humankind-strive-to-build-artificial-general-intelligence.md",
+      "title": "Why Should Humankind Strive To Build Artificial General Intelligence?",
+      "excerpt": "Artificial intelligence, or AI, has been a buzzword for a while now. Although it has its own set of rewards and accolades mustered through disciplines like machine learning (ML), deep learning (DL) and natural language processing (NLP),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bff049e58c7220248800%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/amp/",
+      "publishedDateTime": "2021-11-01T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-how-leaders-in-security-observability-and-innovation-master-cloud-complexity.md",
+      "title": "How Leaders In Security, Observability And Innovation Master Cloud Complexity",
+      "excerpt": "As organizations adopt microservices architectures, multiple public clouds and more, complexity will only increase.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
+      "originalUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61783b2546500e7920061744%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
+      "publishedDateTime": "2021-11-01T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-metas-andrew-bosworth-on-moving-facebook-to-the-metaverse.md",
+      "title": "Meta’s Andrew Bosworth on moving Facebook to the metaverse",
+      "excerpt": "Facebook announced a major corporate rebrand by changing its company name to Meta. As CEO Mark Zuckerberg told The Verge, the new name is meant to solidify the social media giant’s long-term bet on building the metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar",
+      "originalUrl": "https://www.theverge.com/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/gocpfVJsZ2xVv_TFg4LwynI6llo=/0x0:2050x1367/1400x933/filters:focal(861x520:1189x848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70073882/VRG_ILLO_Decoder_AndrewBosworth_s.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar",
+      "publishedDateTime": "2021-11-01T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-using-conversational-ai-to-support-employees-psychological-needs.md",
       "title": "Using conversational AI to support employees’ psychological needs",
       "excerpt": "Healthcare workers put on a brave face each day to serve those who are suffering, and in doing so they often put aside their personal self-care. The pressures of the job can lead to mental health issues, which are sadly compounded by caregivers’ feelings of guilt around needing care themselves. Sometimes,",
@@ -303,7 +701,7 @@
       "originalUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -827,394 +1225,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-neuron-bursts-can-mimic-a-famous-ai-learning-strategy.md",
-      "title": "Neuron Bursts Can Mimic a Famous AI Learning Strategy",
-      "excerpt": "A new model of learning centers on blasts of neural activity that act as teaching signals—approximating an algorithm called backpropagation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/neuron-bursts-can-mimic-a-famous-ai-learning-strategy/?bxid=6135c198731d496fb67b3e85&esrc=HeaderAndFooter&hashc=18e94e742165e1e48bd754cfafae708b7c59852fea2bbdbc2c3c14f17738af58&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
-      "originalUrl": "https://www.wired.com/story/neuron-bursts-can-mimic-a-famous-ai-learning-strategy/?bxid=6135c198731d496fb67b3e85&esrc=HeaderAndFooter&hashc=18e94e742165e1e48bd754cfafae708b7c59852fea2bbdbc2c3c14f17738af58&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/617bf827cb9b28f739668a86/191:100/w_1280,c_limit/Science_branbackprop_2880x1620_lede.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-31T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder.md",
-      "title": "Use Of Artificial Intelligence (AI) In Content Marketing Was Huge In 2022, Says Scalenut Founder",
-      "excerpt": "Scalenut is a next-gen AI-powered platform for content research and content creation. From short-form to long-form, its AI writes everything.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/website/story/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
-      "originalUrl": "https://www.outlookindia.com/website/story/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.outlookindia.com/public/uploads/articles/2021/10/31/Mayank-Jain-Co-Founder-Scalenut1_550_550.jpg",
-          "width": 550,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
-      "publishedDateTime": "2021-10-31T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-symantec.md",
-      "title": "Artificial Intelligence (AI) in Cyber Security Market Next Big Thing : Major Giants BAE Systems, Cisco, Symantec",
-      "excerpt": "Latest Study on Industrial Growth of Artificial Intelligence AI in Cyber Security Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the Artificial Intelligence AI in Cyber Security market The report contains different market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2448621/artificial-intelligence-ai-in-cyber-security-market-next-big",
-      "originalUrl": "https://www.openpr.com/news/2448621/artificial-intelligence-ai-in-cyber-security-market-next-big",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua31654763_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2448621/artificial-intelligence-ai-in-cyber-security-market-next-big",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2448621/artificial-intelligence-ai-in-cyber-security-market-next-big",
-      "publishedDateTime": "2021-10-31T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-security-ai-is-the-next-big-thing.md",
-      "title": "Security AI is the next big thing",
-      "excerpt": "This isn't a takeover by cybersecurity AI; it's a force multiplier for security teams and doing a lot of work behind the scenes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/",
-      "originalUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/Cybertron-Full-small.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/",
-      "publishedDateTime": "2021-10-30T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-ai-is-keeping-watch-over-government-spending.md",
-      "title": "AI Is Keeping Watch Over Government Spending",
-      "excerpt": "For example, AI helps convert appropriation bills into structured data ... How do you identify which problem area(s) to start with for your automation and cognitive technology projects? Justin Marsico: We work closely with our federal process improvement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617d508009fce0bdf8ec75db%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3020%26cropY1%3D144%26cropY2%3D2409",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/",
-      "publishedDateTime": "2021-10-30T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-ai-weiwei-traces-a-century-of-making-authorities-squirm.md",
-      "title": "Ai Weiwei Traces a Century of Making Authorities Squirm",
-      "excerpt": "A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
-      "originalUrl": "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-426503/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
-      "publishedDateTime": "2021-10-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons.md",
-      "title": "Activ Surgical harnesses AI and machine learning to collaborate with surgeons",
-      "excerpt": "With machine learning, Activ Surgical's autonomous model can annotate a one-hour surgical video 20,000 times faster than humans can.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/",
-      "originalUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1251551899-e1635530619575.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/amp/",
-      "publishedDateTime": "2021-10-30T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-from-a-hidden-picasso-nude-to-an-unfinished-beethoven-ai-uncovers-lost-art-and-new-challenges.md",
-      "title": "From a hidden Picasso nude to an unfinished Beethoven, AI uncovers lost art — and new challenges",
-      "excerpt": "Artificial intelligence is being used to bring lost works from the likes of Picasso and Beethoven back to life, but not everyone is celebrating the achievement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/lost-picasso-unfinished-beethoven-ai-uncovers-lost-art-new-challenges-rcna2905",
-      "originalUrl": "https://www.nbcnews.com/news/world/lost-picasso-unfinished-beethoven-ai-uncovers-lost-art-new-challenges-rcna2905",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-10/211013-picasso-2x1-mb-1520-a88fbc.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna2905",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna2905",
-      "publishedDateTime": "2021-10-30T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

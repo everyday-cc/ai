@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/firefighting-robots-go-au
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/firefighting-robots-go-autonomous/?amp=true"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 790
     height: 496
     isCached: true
+
+related:
+  - title: "Iron Ox releases autonomous farming robot"
+    excerpt: "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile support robot named Grover. Grover is not your average farmer."
+    publishedDateTime: 2021-11-02T13:27:00Z
+    webUrl: "https://www.producebluebook.com/2021/11/02/iron-ox-releases-autonomous-farming-robot/"
+    type: article
+    provider:
+      name: Produce Blue Book
+      domain: producebluebook.com
+    quality: 39
+    images:
+      - url: "https://www.producebluebook.com/wp-content/uploads/2021/11/iron-ox-grover.png"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "Jo6s2h/TIdg5JliTmheFC3XXxTbmam0WCrUggH9R/fjnl4BcruEDpBizzbnP6f5ly4dxa+47LoMKGmCvxJVOKtayMwpTBXneDIsQSBNWBrj4kXQj1jiHpW0bzlxg1tglFJ3m2rByZntibumcR8v7sNlu+p+0tx2M1+ceWXefwBc740fcGLtznKVHQAzz5zfR/mY7vcgDhHtAOwqFnuZZaBeeaYwd+dR6F0uZClbKVgfc6faKYLhzEhqpJTM/Wl5uKLwjMaD8ZIFAUnFrizNJlCkbTYcmUoBs2KCna3hn2Y6cr1idZcrtaCC0FSkjAWpsCSiAin7nnOtfOJHHvE15fxx42kTjuwdnl63tZ5DbOJb60kahG2no2WTsY4rPfA5QTToA/GRX02m3tTCpVkStYYVbwSoVf3SQA73v5bNQP0FPQIgrM8f28Yd30Eo97DONP80QHKXgTvrJ6vT+6QB4RhR6oR2cQ2LJuCqUnLj8YMsGUlXWeHRO0PGTcTtCKHwV4B/Nds6UqR5ftKdRraG+fA==;Oh6/gUdBdEP7wpQJYA1NbA=="
 ---

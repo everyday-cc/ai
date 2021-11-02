@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-an
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Invasion of the Food Delivery Robots? Here’s What the Future Holds for the Latest Tech"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots -- knee-high and able to hold around four large pizzas -- are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-02T15:56:00Z
+    webUrl: "https://altdriver.com/gearhead/ap-robot-food-delivery/"
+    ampWebUrl: "https://altdriver.com/gearhead/ap-robot-food-delivery/amp/"
+    cdnAmpWebUrl: "https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/gearhead/ap-robot-food-delivery/amp/"
+    type: article
+    provider:
+      name: altdriver.com
+      domain: altdriver.com
+    quality: 51
+    images:
+      - url: "https://dummyimage.com/300x250/cccccc/ffffff&text=Advertisement"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Works well with robots?"
     excerpt: "As more artificial intelligence systems and robots aid human workers, building trust between them is key to getting the job done."
     publishedDateTime: 2021-11-01T21:23:00Z

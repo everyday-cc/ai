@@ -2,6 +2,473 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-10-04-the-economy-of-the-future.md",
+      "title": "The economy of the future",
+      "excerpt": "It adds that innovations in cloud computing, quantum computing, digital manufacturing, and driverless vehicles stand to dramatically ... Advances in big data, smart products, 3D printing, artificial intelligence, robotics, medical technologies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347",
+      "originalUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2016/10/dig-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/blog/the-economy-of-the-future/80347?amp=1",
+      "publishedDateTime": "2021-10-03T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-alphafold-is-the-most-important-achievement-in-aiever.md",
+      "title": "AlphaFold Is The Most Important Achievement In AI—Ever",
+      "excerpt": "DeepMind's AlphaFold represents the first time a significant scientific problem has been solved by ... [+] AI. It can be difficult to distinguish between substance and hype in the field of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615740b33540fa024d235c55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1399%26cropY1%3D42%26cropY2%3D829",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/amp/",
+      "publishedDateTime": "2021-10-03T16:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-hangeul-in-the-age-of-ai-survival-of-the-fittest.md",
+      "title": "Hangeul in the age of AI: survival of the fittest?",
+      "excerpt": "Marion Eggert, a professor at the Korean Studies Department of Ruhr University in Bochum, Germany, said some of the strengths of Hangeul are its efficiency and that it can be computerized. In the age of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/10/142_316422.html?nans",
+      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/10/142_316422.html?nans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202110/04efffb5791a47bbba21492bfee7710a.jpg",
+          "width": 980,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316422",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316422",
+      "publishedDateTime": "2021-10-03T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-designs-dirty-secrets-and-how-to-address-experience-bias.md",
+      "title": "Design’s dirty secrets and how to address experience bias",
+      "excerpt": "If the solution to experience bias is variation in front-end design based on the needs of the individual, one way we can radically accelerate that is to understand where automation can be applied.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/",
+      "originalUrl": "https://techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1297927894.jpg?w=1024",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/amp/",
+      "publishedDateTime": "2021-10-03T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-amazons-astro-robot-a-feat-of-science-or-a-successful-product.md",
+      "title": "Amazon’s Astro robot: A feat of science or a successful product?",
+      "excerpt": "Astro, Amazon's latest innovation, like an Echo Show on wheels. It packs a lot of technology and shows just how far deep learning has come.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/",
+      "originalUrl": "https://venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/Amazon-Astro-robot1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/amp/",
+      "publishedDateTime": "2021-10-03T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-03-have-you-spotted-these-robots-around-expo-2020-dubai.md",
+      "title": "Have you spotted these robots around Expo 2020 Dubai?",
+      "excerpt": "The one-metre-tall orange-coloured robot is the official mascot and guardian of Mission Possible — The Opportunity Pavilion — you can find him around the walkways of Expo 2020 Dubai, dancing with his buddies and cracking a few jokes.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
+      "originalUrl": "https://gulfnews.com/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2021/10/03/RDS-ROBOT-EXPO-1633277737978_17c46f07c05_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
+      "publishedDateTime": "2021-10-03T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-03-what-we-can-learn-from-chinas-proposed-ai-regulations.md",
+      "title": "What we can learn from China’s proposed AI regulations",
+      "excerpt": "China's guidelines are the most comprehensive effort to date to regulate recommendation systems. They embody both best and worst practices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/",
+      "originalUrl": "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/China.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/amp/",
+      "publishedDateTime": "2021-10-03T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-03-the-7-biggest-artificial-intelligence-ai-trends-in-2022.md",
+      "title": "The 7 Biggest Artificial Intelligence (AI) Trends In 2022",
+      "excerpt": "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr/?midToken=AQGgi4xj0oeN-Q&fromEmail=fromEmail",
+      "originalUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr/?midToken=AQGgi4xj0oeN-Q&fromEmail=fromEmail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQG0c0tNZYneuA/article-cover_image-shrink_600_2000/0/1633266750161?e=1640217600&v=beta&t=AxxkyALE45yXAkd2ml5q5OWfmeoIyBKk-uwvdV_wma8",
+          "width": 1290,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-03T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-03-this-healthcare-company-is-using-ai-to-develop-drugs.md",
+      "title": "This Healthcare Company Is Using AI to Develop Drugs",
+      "excerpt": "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
+      "originalUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp",
+      "publishedDateTime": "2021-10-03T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-03-explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders.md",
+      "title": "Explained: Why Amazon’s Astro ‘robot on wheels’ has rankled privacy crusaders",
+      "excerpt": "The robot is designed to move around the home and keep a check on pets, and detect something unusual in the absence of the owner.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/",
+      "originalUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/10/227f04f9c0bc4cceaed880176ef570e9-227f04f9c0bc4cceaed880176ef570e9-2793bc1d66804cf08f75439792eebdc0.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/lite/",
+      "publishedDateTime": "2021-10-03T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-03-chinese-ai-gets-ethical-guidelines-for-the-first-time-aligning-with-beijings-goal-of-reining-in-big-tech.md",
       "title": "Chinese AI gets ethical guidelines for the first time, aligning with Beijing’s goal of reining in Big Tech",
       "excerpt": "China has revealed its first set of ethical ... Beijing's goals of reining in Big Tech's influence and becoming the global AI leader by 2030. Humans should have full decision-making power, the ...",
@@ -636,484 +1103,6 @@
         "name": "SciTech Daily",
         "domain": "scitechdaily.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-robots-artificial-intelligence-ai.md",
-      "title": "Robots + Artificial intelligence (AI)",
-      "excerpt": "And what should they actually look like anyway? About 332 results for Robots + Artificial intelligence (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/robots+artificialintelligenceai",
-      "originalUrl": "https://www.theguardian.com/technology/robots+artificialintelligenceai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-amd-aims-to-increase-efficiency-of-server-chips-30x-by-2025.md",
-      "title": "AMD aims to increase efficiency of server chips 30x by 2025",
-      "excerpt": "AMD aims to improve the efficiency of its server chips by 30x over the next four years by increasing performance while consuming less power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/",
-      "originalUrl": "https://www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcinvasion.com/wp-content/uploads/2021/10/AMD_EPYC_1480x882.jpg",
-          "width": 787,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/amp/",
-      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/amp/",
-      "publishedDateTime": "2021-10-01T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pcinvasion.com",
-        "domain": "pcinvasion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.md",
-      "title": "Sumo Logic enhances observability suite for app, infrastructure performance",
-      "excerpt": "The new DevSecOps-oriented tools, announced this week at the company's Illuminate virtual conference, are part of Sumo Logic's Continuous Intelligence platform, and designed to provide real-time, deeper insights into critical enterprise infrastructure and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html",
-      "originalUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/07/programmer_certification-skills_code_devops_glasses_student_by-kevin-unsplash-100764315-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html",
-      "publishedDateTime": "2021-10-01T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations.md",
-      "title": "Western Railways to install 2,729 cameras with face recognition system across 30 stations",
-      "excerpt": "Western Railways to install 2,729 cameras with face recognition system across 30 stations - These cameras have a tilt angle of 180 to 270 degrees that will help in 360 degrees of an area leaving no bl",
-      "sourceUrl": null,
-      "webUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767",
-      "originalUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/10/01/999016-camera.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp",
-      "cdnAmpWebUrl": "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp",
-      "publishedDateTime": "2021-10-01T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DNA India",
-        "domain": "dnaindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-translate-and-analyze-text-using-sql-functions-with-amazon-redshift-amazon-translate-and-amazon-comprehend.md",
-      "title": "Translate and analyze text using SQL functions with Amazon Redshift, Amazon Translate, and Amazon Comprehend",
-      "excerpt": "You may have tables in your Amazon Redshift data warehouse or in your Amazon Simple Storage Service (Amazon S3) data lake full of records containing customer case notes, product reviews, and social media messages, in many languages. Your task is to identify the products that people are talking about,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-and-analyze-text-using-sql-functions-with-amazon-redshift-amazon-translate-and-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-and-analyze-text-using-sql-functions-with-amazon-redshift-amazon-translate-and-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/28/ML-5741-image002.png",
-          "width": 407,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T11:03:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-interfaith-voices-on-the-importance-of-learning-and-education.md",
-      "title": "Interfaith Voices: On the importance of learning and education",
-      "excerpt": "Oregon schools are back in session. We are fortunate to live in communities where learning and education are valued and encouraged. Throughout history, learning has been a hallmark of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.gazettetimes.com/lifestyles/faith-and-values/interfaith-voices-on-the-importance-of-learning-and-education/article_6224a0ad-9cef-5fa5-be40-f2ea32597b35.html",
-      "originalUrl": "https://www.gazettetimes.com/lifestyles/faith-and-values/interfaith-voices-on-the-importance-of-learning-and-education/article_6224a0ad-9cef-5fa5-be40-f2ea32597b35.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/gazettetimes.com/content/tncms/assets/v3/editorial/f/c3/fc3b4672-bac2-5078-a528-8c793196e3c6/61574e84a46ca.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gazettetimes.com/lifestyles/faith-and-values/interfaith-voices-on-the-importance-of-learning-and-education/article_6224a0ad-9cef-5fa5-be40-f2ea32597b35.amp.html",
-      "cdnAmpWebUrl": "https://www-gazettetimes-com.cdn.ampproject.org/c/s/www.gazettetimes.com/lifestyles/faith-and-values/interfaith-voices-on-the-importance-of-learning-and-education/article_6224a0ad-9cef-5fa5-be40-f2ea32597b35.amp.html",
-      "publishedDateTime": "2021-10-01T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Corvallis Gazette-Times",
-        "domain": "gazettetimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms.md",
-      "title": "Nvidia, University of Toronto are making robotics research available to small firms",
-      "excerpt": "Despite progress in the field, research on robotics hands remains extremely expensive and limited to a few very wealthy companies and labs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco",
-      "originalUrl": "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Nvidia-robot-simulation-platform1-e1632850934828.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco&amp",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco&amp",
-      "publishedDateTime": "2021-10-01T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning.md",
-      "title": "AI Weekly: Amazon’s ‘custom’ AI features showcase the potential of unsupervised learning",
-      "excerpt": "Amazon's newly announced Custom Sounds and Custom Event Alerts features illustrate the potential of techniques like unsupervised learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/",
-      "originalUrl": "https://venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/amazon-alexa-echo-studio-echo-flex-fire-tv-cube-2-e1628020933987.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/amp/",
-      "publishedDateTime": "2021-10-01T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-statistical-natural-language-processing-market.md",
-      "title": "Statistical Natural Language Processing market",
-      "excerpt": "Statistical Natural Language Processing Market report gives a thorough analysis of this dynamic focus of this market with a secondary search. The report sheds light on the Statistical Natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2414594/statistical-natural-language-processing-market-to-see-huge",
-      "originalUrl": "https://www.openpr.com/news/2414594/statistical-natural-language-processing-market-to-see-huge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua01186854_g.jpg",
-          "width": 660,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2414594/statistical-natural-language-processing-market-to-see-huge",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2414594/statistical-natural-language-processing-market-to-see-huge",
-      "publishedDateTime": "2021-10-01T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-salesforce-adds-more-go-go-to-einstein-ai.md",
-      "title": "Salesforce Adds More Go-Go To Einstein AI",
-      "excerpt": "If automation-driven on-screen bots are still annoying, automation and Artificial Intelligence (AI) can still provide service-centric organizations with a boost… and that can be a human-delivered machine-powered boost if it’s done right.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/10/01/salesforce-adds-more-go-go-to-einstein-ai/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/10/01/salesforce-adds-more-go-go-to-einstein-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61572d8b4893d2eacb5a4574%2F0x0.jpg",
-          "width": 640,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/10/01/salesforce-adds-more-go-go-to-einstein-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/10/01/salesforce-adds-more-go-go-to-einstein-ai/amp/",
-      "publishedDateTime": "2021-10-01T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

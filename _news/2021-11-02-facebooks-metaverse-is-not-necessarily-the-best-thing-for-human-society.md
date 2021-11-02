@@ -43,6 +43,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "A New Skin That Helps Robots Feel Could Be Used to Build the Metaverse"
+    excerpt: "When the new skin touches something, its plastic part changes the magnetic field created by the embedded particles, and it could help shape the Metaverse."
+    publishedDateTime: 2021-11-02T14:59:00Z
+    webUrl: "https://interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse"
+    ampWebUrl: "https://amp.interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 59
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/o2Gzy4D4Op/sizes/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Metaverse Here We Come: Why This Matterport Analyst Is Bullish As Facebook Rebrands"
     excerpt: "The partnership was for creating the largest-ever dataset of 3D indoor spaces via Facebook AI Research. “We believe this was the first step towards a much broader Facebook and Matterport ..."
     publishedDateTime: 2021-10-29T20:17:00Z

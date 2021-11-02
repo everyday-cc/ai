@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Iron Mountain Wins Google Cloud Financial Services Customer Award"
-excerpt: "Google Cloud recognized Iron Mountain (News - Alert) for its expertise in mortgage document processing and investment in training machine learning models to automate ... and unlock insights for a large financial services company. \"We're proud to be one ..."
-publishedDateTime: 2021-10-21T10:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-iron-mounta-wins-google-cloud-financial-services-customer-/2021/10/21/9474465.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-iron-mounta-wins-google-cloud-financial-services-customer-/2021/10/21/9474465.htm"
+excerpt: "Iron Mountain Incorporated ® (NYSE:IRM), the global leader in innovative storage and information management services, today announced that it has received a Google Cloud Customer Award for its work with a large financial institution."
+publishedDateTime: 2021-10-21T10:00:00Z
+originalUrl: "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/"
+webUrl: "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "1J0AT+gPJz9QcK92u4624bs14UMHa42AX3hdlA3t8uyX4Jeryzd3fursmpixNpzEdiNtCScnkacQjZ2Xke23LlzztCxvS3SWsp/3WJcQvpFG4xCXZ44ZMKRtmKwi+yLB7n2UeyzWmKlvMQ1XpACf58YwWyWACIs5EjDV2i5eI6AIdl/5dvv2yKs62JHUSkqnUER0zV6Duh9rHmjsYwlJtVNJClj9MjMEpzPUz0BQANciMiJDOc4IZk7x5RannWaPD3XgrIrUk92BAID23sQtzFV8eezNiTanFsmEQoJ8Dz6i/5pXve0HEX0y+GTusbW0fM46HsFddJ34q3huNoilrEMNdwsikC41qJ8aCNs66Hg=;ylYedgydXtbtVwMiVEuAIA=="
+secured: "34HhI+lAozTbDtt6OLTIq1nF3WxC/hXfZ8M/WuHrrZXT2aTDpns4Bol2N/oT8sGa2UpbkWyV3Vfg0koJbjCu6bzG7qMHOy06/Uu4h9nLbRxh9J8pPDx6dPr7vw8zf0wpmMLU8wKdFdVghAxP4wXjvt9VTJMTxqSOI6DrzSxWDmZfHNfTBDnRJxJLt4jLFzpmYLlEOQBVZQvAc2MJ2XnB7+5dirTWqMEC4AJ8j/EqZQIFGzc3gbs9p/PS/rum6H0a/URtiCIkj/Nwi2syiLM6ccrW06aEUqoGvI0EhBWAz23jXBX9uUr+YbnucpVnBqU9i2Y7ho1J30DOun7VFmIqgUIYdFk/Fyr29h3nDfsAXuc=;b21I+MXbFNRBgvcPMc8XhQ=="
 ---
 

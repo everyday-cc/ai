@@ -35,6 +35,22 @@ related:
         width: 777
         height: 518
         isCached: true
+  - title: "Invasion of the Food Delivery Robots? Here’s What the Future Holds for the Latest Tech"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots -- knee-high and able to hold around four large pizzas -- are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-02T15:56:00Z
+    webUrl: "https://altdriver.com/gearhead/ap-robot-food-delivery/"
+    ampWebUrl: "https://altdriver.com/gearhead/ap-robot-food-delivery/amp/"
+    cdnAmpWebUrl: "https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/gearhead/ap-robot-food-delivery/amp/"
+    type: article
+    provider:
+      name: altdriver.com
+      domain: altdriver.com
+    quality: 51
+    images:
+      - url: "https://dummyimage.com/300x250/cccccc/ffffff&text=Advertisement"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "NaVmPHjoeDt7hOCesi7wNo0G1shVxf0JE4F+ns4PJFQbY4Utei5EVe8aySw9v3ywFVBy1vFKXaIbm7n5D5VWjl5uXGAG/yBtcR5QuEcflICGhSeZl/7Q77u2QMU6nFiZxbQU/msJGQ53jcVb51gv7m2FchHCgn4DPajQT9ZetinvW1Na+k/aJv44Y3YKLXhjZbssiCQCVf18+0+6rIqMtahgk3e1iskyw8LUYK38rcbJAoUkXkjTfnSxqe1DEDiPXl5VCBOBntK94uSKnkOuDaHltHs9rcLhKMTUvGHbFnwiMJIg38wSDIaHKkQ3JqCIgIgmYbUJa2poR8WN/NDDzq5/N101IVQumYXbc4wq0Wt8iKoFqStdex8ZZINmupYPtg6AUML20gHZo5cmBwSc2odWYJrFuigNIjkuh8Gsf7XcXLmbG903/3mp0yBPDoTXNKle6mDN0CzOWj0VUqoiO8oL1rFTw9a/N7NX6O6mDmt/fCgjrodalVpRC88uDOuWzo5BEhpuM3QU/C/lUxwtrg==;O7P54+lf+WNIIKdA+AzT5w=="
 ---

@@ -2,6 +2,394 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-31-neuron-bursts-can-mimic-a-famous-ai-learning-strategy.md",
+      "title": "Neuron Bursts Can Mimic a Famous AI Learning Strategy",
+      "excerpt": "A new model of learning centers on blasts of neural activity that act as teaching signals—approximating an algorithm called backpropagation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/neuron-bursts-can-mimic-a-famous-ai-learning-strategy/?bxid=6135c198731d496fb67b3e85&esrc=HeaderAndFooter&hashc=18e94e742165e1e48bd754cfafae708b7c59852fea2bbdbc2c3c14f17738af58&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
+      "originalUrl": "https://www.wired.com/story/neuron-bursts-can-mimic-a-famous-ai-learning-strategy/?bxid=6135c198731d496fb67b3e85&esrc=HeaderAndFooter&hashc=18e94e742165e1e48bd754cfafae708b7c59852fea2bbdbc2c3c14f17738af58&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/617bf827cb9b28f739668a86/191:100/w_1280,c_limit/Science_branbackprop_2880x1620_lede.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-31-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder.md",
+      "title": "Use Of Artificial Intelligence (AI) In Content Marketing Was Huge In 2022, Says Scalenut Founder",
+      "excerpt": "Scalenut is a next-gen AI-powered platform for content research and content creation. From short-form to long-form, its AI writes everything.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/website/story/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "originalUrl": "https://www.outlookindia.com/website/story/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.outlookindia.com/public/uploads/articles/2021/10/31/Mayank-Jain-Co-Founder-Scalenut1_550_550.jpg",
+          "width": 550,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "publishedDateTime": "2021-10-31T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-31-artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-symantec.md",
+      "title": "Artificial Intelligence (AI) in Cyber Security Market Next Big Thing : Major Giants BAE Systems, Cisco, Symantec",
+      "excerpt": "Latest Study on Industrial Growth of Artificial Intelligence AI in Cyber Security Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the Artificial Intelligence AI in Cyber Security market The report contains different market",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2448621/artificial-intelligence-ai-in-cyber-security-market-next-big",
+      "originalUrl": "https://www.openpr.com/news/2448621/artificial-intelligence-ai-in-cyber-security-market-next-big",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/a/Ua31654763_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2448621/artificial-intelligence-ai-in-cyber-security-market-next-big",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2448621/artificial-intelligence-ai-in-cyber-security-market-next-big",
+      "publishedDateTime": "2021-10-31T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-31-security-ai-is-the-next-big-thing.md",
+      "title": "Security AI is the next big thing",
+      "excerpt": "This isn't a takeover by cybersecurity AI; it's a force multiplier for security teams and doing a lot of work behind the scenes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/",
+      "originalUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/Cybertron-Full-small.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/",
+      "publishedDateTime": "2021-10-30T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-ai-is-keeping-watch-over-government-spending.md",
+      "title": "AI Is Keeping Watch Over Government Spending",
+      "excerpt": "For example, AI helps convert appropriation bills into structured data ... How do you identify which problem area(s) to start with for your automation and cognitive technology projects? Justin Marsico: We work closely with our federal process improvement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617d508009fce0bdf8ec75db%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3020%26cropY1%3D144%26cropY2%3D2409",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/",
+      "publishedDateTime": "2021-10-30T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-ai-weiwei-traces-a-century-of-making-authorities-squirm.md",
+      "title": "Ai Weiwei Traces a Century of Making Authorities Squirm",
+      "excerpt": "A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
+      "originalUrl": "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-426503/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
+      "publishedDateTime": "2021-10-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons.md",
+      "title": "Activ Surgical harnesses AI and machine learning to collaborate with surgeons",
+      "excerpt": "With machine learning, Activ Surgical's autonomous model can annotate a one-hour surgical video 20,000 times faster than humans can.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/",
+      "originalUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1251551899-e1635530619575.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/amp/",
+      "publishedDateTime": "2021-10-30T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-from-a-hidden-picasso-nude-to-an-unfinished-beethoven-ai-uncovers-lost-art-and-new-challenges.md",
+      "title": "From a hidden Picasso nude to an unfinished Beethoven, AI uncovers lost art — and new challenges",
+      "excerpt": "Artificial intelligence is being used to bring lost works from the likes of Picasso and Beethoven back to life, but not everyone is celebrating the achievement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/lost-picasso-unfinished-beethoven-ai-uncovers-lost-art-new-challenges-rcna2905",
+      "originalUrl": "https://www.nbcnews.com/news/world/lost-picasso-unfinished-beethoven-ai-uncovers-lost-art-new-challenges-rcna2905",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-10/211013-picasso-2x1-mb-1520-a88fbc.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna2905",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna2905",
+      "publishedDateTime": "2021-10-30T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-att-and-h2o-collab-on-feature-store-for-ai-developers.md",
       "title": "AT&T and H2O collab on feature store for AI developers",
       "excerpt": "Telecom giant AT&T and AI cloud firm H2O have jointly launched an AI feature store to help organizations accelerate AI development.",
@@ -105,7 +493,7 @@
       "originalUrl": "https://www.techradar.com/sg/news/the-evolution-of-speech-recognition-technology",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -750,49 +1138,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-29-microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities.md",
-      "title": "Microsoft acquires Two Hat to collaborate on online safety and digital wellness solutions for online communities",
-      "excerpt": "Today, we are excited to announce that Microsoft has acquired Two Hat, a leading content moderation solution provider offering protection measures for online communities with a vision to build better experiences for everyone.",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/",
-      "originalUrl": "https://www.msn.com/en-us/money/smallbusiness/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/ar-AAQ68e3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/10/Project-Fresh-Hero-Image-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-29T06:00:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/",
-        "domain": "microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-29-voice-tech-coming-soon-to-a-classroom-near-you.md",
       "title": "Voice Tech: Coming Soon To A Classroom Near You",
       "excerpt": "Education publishing multinational Scholastic worked on its own speech recognition software in the late 1990s, but abandoned the project in the face of technical problems. But advances in artificial intelligence and machine learning mean it is a technology ...",
@@ -886,349 +1231,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask.md",
-      "title": "Google unveils 'Pathways', a next-gen AI that can be trained to multitask",
-      "excerpt": "Today's AI models, according to Google's AI lead and co-founder of the Google Brain project, Jeff Dean, are at the one-trick pony phase – they are \"typically trained to do only one thing\". But a new approach called Pathways could provide something akin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
-      "originalUrl": "https://www.zdnet.com/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/58190d3b9be2f10b7c067e98f461e75b3a4c0dc0/2021/10/29/4802e0e3-058c-4b9b-bd4e-9761f806c7be/google-pathways-ai.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
-      "publishedDateTime": "2021-10-29T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-robots-to-clean-nyc-skyscrapers.md",
-      "title": "Robots to clean NYC skyscrapers",
-      "excerpt": "The use case makes a lot of sense: managers of every commerce building in major U.S. cities need some way to clean their building's exterior glass. In fact, window cleaning is $40B global market. The surfaces involved are generally uniform and the path predictable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
-      "originalUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b656a675bbd1838bfbf9bdff16eb479741d8edae/2021/10/28/37ceec2f-0fc4-4223-82ef-92fab5b771a2/skyline-window-cleaning.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
-      "publishedDateTime": "2021-10-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-us-to-deepen-relation-with-taiwan-in-face-of-china-tensions.md",
-      "title": "US to deepen relation with Taiwan in face of China tensions",
-      "excerpt": "The U.S. switched diplomatic recognition of China from the ruling Nationalist Party government in Taipei to the Communist Party in Beijing in 1979, but has continued to maintain a strong unofficial relationship with the self-ruled island. Oudkirk declined ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/",
-      "originalUrl": "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10060-prod.cdn.arcpublishing.com/resizer/nXIU0jcYwnSsJHClfE_GA1NiNVs=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/WJMCWFRPM7TMX3VJUDFD3E2Q3E.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-fox13memphis-com.cdn.ampproject.org/c/s/www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/?outputType=amp",
-      "publishedDateTime": "2021-10-29T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX13 Memphis",
-        "domain": "fox13memphis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-nykaa-ipo-oversubscribed-by-482-times-on-day-2-qib-portion-booked-472-times.md",
-      "title": "Nykaa IPO oversubscribed by 4.82 times on Day 2, QIB portion booked 4.72 times",
-      "excerpt": "Falguni Nayar-promoted and private equity firm TPG-backed FSN E-Commerce Ventures’ maiden public offer was oversubscribed by 4.82 times ... its financial metrics and cementing its position going forward and hence recommend investors to Subscribe to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/74782def-1046-4ea5-b796-0802cfb90260",
-      "originalUrl": "https://www.moneycontrol.com/news/business/ipo/nykaa-ipo-oversubscribed-by-1-64-times-on-day-2-qib-portion-booked-1-39-times-7647391.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9fa36cd1-fe9e-4cec-9fa2-03e6c6b0f5b0.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/74782def-1046-4ea5-b796-0802cfb90260",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/74782def-1046-4ea5-b796-0802cfb90260",
-      "publishedDateTime": "2021-10-28T22:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-ai-and-ethics-experts-speak-about-challenges-possible-directions.md",
-      "title": "AI and Ethics: Experts Speak about Challenges, Possible Directions",
-      "excerpt": "How do you see AI regulation proceeding? Any advice for organizations and companies that want to ensure that they build ethics into their AI deployment? What do you see, a few years (or several years) out for ethics in AI? Will the question of ethics be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-ethics-experts-speak-about-challenges-directions/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-ethics-experts-speak-about-challenges-directions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/10/New-eSPEAKS-thumbnail-5.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-clearview-ai-finally-takes-part-in-a-federal-accuracy-test.md",
-      "title": "Clearview AI finally takes part in a federal accuracy test.",
-      "excerpt": "But the test ... Though its accuracy had never been audited by NIST, Clearview AI claims thousands of local and state police departments as customers; a recent report from the Government Accountability Office also cited use by a number of federal agencies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.html",
-      "originalUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/29/business/28clearview-01/28clearview-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/28/technology/clearview-ai-test.amp.html",
-      "publishedDateTime": "2021-10-28T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-almost-30-percent-of-new-github-code-is-written-with-ai-assistance.md",
-      "title": "Almost 30 percent of new GitHub code is written with AI assistance",
-      "excerpt": "If you haven't heard of Copilot before, it's essentially the equivalent of the predictive text systems you'd find on Gmail or even your phone. You start",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "originalUrl": "https://www.techspot.com/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-28-image-28.jpg",
-          "width": 2634,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "publishedDateTime": "2021-10-28T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

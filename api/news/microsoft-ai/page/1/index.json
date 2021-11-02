@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-02-new-azure-openai-service-combines-access-to-powerful-gpt-3-language-models-with-azures-enterprise-capabilities.md",
+      "title": "New Azure OpenAI Service combines access to powerful GPT-3 language models with Azure’s enterprise capabilities",
+      "excerpt": "The post New Azure OpenAI Service combines access to powerful GPT-3 language models with Azure’s enterprise capabilities appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/new-azure-openai-service/",
+      "originalUrl": "https://blogs.microsoft.com/ai/new-azure-openai-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/11/OpenAI-Still-4-1200x630-1-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T08:00:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language.md",
+      "title": "New AI products from Microsoft include Context IQ and Azure Cognitive Services for Language",
+      "excerpt": "Microsoft detailed new AI innovations across its services at Ignite 2021, including Context IQ and Azure Cognitive Services for Language.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
+      "originalUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/",
+      "publishedDateTime": "2021-11-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview.md",
+      "title": "SQL Server 2022 is the \"most cloud-connected\" release yet, now in preview",
+      "excerpt": "Microsoft has released a preview for SQL Server 2022, calling it its \"most cloud-connected\" release yet. Improvements on Azure include the introduction of Chaos Studio and OpenAI Service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview",
+      "originalUrl": "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2016/05/sql-server_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/",
+      "publishedDateTime": "2021-11-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-why-ai-still-needs-humans-in-the-loop-at-least-for-now.md",
       "title": "Why AI still needs humans in the loop, at least for now",
       "excerpt": "If AI-generated writing becomes indistinguishable from human writing, we'll still need to check it carefully enough to see the mistakes",
@@ -115,7 +271,7 @@
       "originalUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -192,49 +348,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities.md",
-      "title": "Microsoft acquires Two Hat to collaborate on online safety and digital wellness solutions for online communities",
-      "excerpt": "Today, we are excited to announce that Microsoft has acquired Two Hat, a leading content moderation solution provider offering protection measures for online communities with a vision to build better experiences for everyone.",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/",
-      "originalUrl": "https://www.msn.com/en-us/money/smallbusiness/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/ar-AAQ68e3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/10/Project-Fresh-Hero-Image-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-29T06:00:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/",
-        "domain": "microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1293,93 +1406,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-moving-towards-a-modern-healthcare-future-with-hololens.md",
-      "title": "Moving towards a modern healthcare future with HoloLens",
-      "excerpt": "Pharmaceutical organisations are discovering multiple applications for mixed reality solutions. They can remotely share their science to accelerate discovery and development, support clinical trials,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyrecord.com/Article/moving-towards-a-modern-healthcare-future-with-hololens-126329",
-      "originalUrl": "https://www.technologyrecord.com/Article/moving-towards-a-modern-healthcare-future-with-hololens-126329",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10550/img-Hololens-in-healthcare_940x443.jpg",
-          "width": 940,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologyrecord.com",
-        "domain": "technologyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-general-availability-livedata-platform-for-azure.md",
-      "title": "General Availability – LiveData Platform for Azure",
-      "excerpt": "General Availability of LiveData Platform for Azure. Significant step achieved in converting pipeline customers, provid",
-      "sourceUrl": null,
-      "webUrl": "https://www.sharesmagazine.co.uk/news/market/LSE20211018070006_4146397/General-Availability-LiveData-Platform-for-Azure",
-      "originalUrl": "https://www.sharesmagazine.co.uk/news/market/LSE20211018070006_4146397/General-Availability-LiveData-Platform-for-Azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sharesmagazine.co.uk/images/logos/youinvest.png",
-          "width": 800,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-17T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sharesmagazine",
-        "domain": "sharesmagazine.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

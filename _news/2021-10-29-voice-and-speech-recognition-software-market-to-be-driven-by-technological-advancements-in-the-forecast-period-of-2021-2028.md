@@ -87,6 +87,20 @@ related:
         width: 1302
         height: 868
         isCached: true
+  - title: "West Lafayette City Council approves ban on facial recognition technology"
+    excerpt: "The West Lafayette City Council approved an ordinance banning the use of facial recognition technology Monday night on a 5-4 vote. Last month, the council debated the pros and cons of the technology."
+    publishedDateTime: 2021-11-02T14:11:00Z
+    webUrl: "https://www.wbaa.org/government/2021-11-02/west-lafayette-city-council-approves-ban-on-facial-recognition-technology"
+    type: article
+    provider:
+      name: WBAA
+      domain: wbaa.org
+    quality: 38
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/d9dedbd/2147483647/strip/true/crop/5184x2722+0+367/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2Ff9%2F97b359b84c369da87d2e2dad51f1%2Fimg-5875.JPG"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "idqUww2mGQh8gWwIKEfe7qsrK62BrErNVNFuzmfiuqgVhm2dGeiONxFOyMTA+DQKuOKLPLY12VypGPwxC+Y+nYMCQvvNRAlzrzROTq49iDQf3PsQacdOU2zFjzj5R9NtEGEi/LPohPzhE0WhYZ4ZlI68eps0B7fbRNZiQqZj0wTU00EvNP3g4lV25/K+RUQmOjodYu4RcgNffc584YiMg799UDN4eJnOk8GD6oZgWr0yRCZZBWXdsKbG5qgUsVBVYfjYrNcYjRg85F9oJHK4lSXrFkrdE966HMxCH6+ylwMzYmMCsrw4Vx4CKvDK3KUnJKkZiZPCenagcKREDSkpvMs1ppt1aqljt85Ogz5Req8=;qOwRPrW8DBXWDU7z0bkxEg=="
 ---

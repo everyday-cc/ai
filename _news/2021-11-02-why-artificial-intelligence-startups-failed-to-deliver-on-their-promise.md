@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-02T11:31:00Z
 originalUrl: "https://www.forbes.com/sites/theyec/2021/11/02/why-artificial-intelligence-startups-failed-to-deliver-on-their-promise/"
 webUrl: "https://www.forbes.com/sites/theyec/2021/11/02/why-artificial-intelligence-startups-failed-to-deliver-on-their-promise/"
 type: article
-quality: 84
-heat: 88
+quality: 86
+heat: 90
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618064ed63d836de461e3a26%2F0x0.jpg"
