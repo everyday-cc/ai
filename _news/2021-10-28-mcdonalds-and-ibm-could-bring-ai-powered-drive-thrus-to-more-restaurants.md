@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/mcdonalds-ibm-ai-food-orders-131806578.ht
 webUrl: "https://www.engadget.com/mcdonalds-ibm-ai-food-orders-131806578.html"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2020-02/mcdonalds-Double-Quarter-Pounder.jpg"
         width: 772
         height: 440
-        isCached: true
-  - title: "McDonald's Teams with IBM to Super-Size Drive-Thru Lane Tech"
-    excerpt: "IBM’s acquisition of McD Tech Labs is a complement to its current work in AI and developing customer care solutions with IBM Watson, which is being used in multiple sectors to improve outcomes. Once the deal closes, the McD Tech Labs team will become ..."
-    publishedDateTime: 2021-10-28T10:38:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/mcdonalds-teams-with-ibm-to-super-size-drive-thru-lane-tech/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/mcdonalds-teams-with-ibm-to-super-size-drive-thru-lane-tech/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/mcdonalds-teams-with-ibm-to-super-size-drive-thru-lane-tech/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/shutterstock_1727006647-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
 
 secured: "/SsZJP6o9dY2JxI/eQrTWZLmWl+A31KixrVJmtl19rivbyHyAmT2GpVynpnLc6yhQbRhDg+pM9GXYUw94/NG3cEu2+6LfVlOrw533T5UjT37ofy5iCIdZkPABnpY/wTvfOjP33oHqJEGK2A//c1ohAt1vMXCC8pAsZlN1JlBsbawLyyAH6WgETCFoq2y++MY8QjeUITwWu5/aTHqUqYvGqID8WveFiir5IJQ7OZsu1HsIUgJfRSTuw3Y8o+S87ULGTrRyCOM1KCvGqKovtOiFe7EMFD8pgKPayZmUzhO2oKtvSX48DQVkgn7EltRbmRtpa1dBm79VPIhZAdQGqswDUNqEHTDJd3CvQ/DtiU/FhI=;/Qu+39O9bzCUwEF9Zd7x1g=="

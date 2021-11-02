@@ -105,6 +105,22 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "One of Facebook’s first moves as Meta: Teaching robots to touch and feel"
+    excerpt: "Facebook AI Research, is working on touch sensors that can gather information about how objects feel in the real world."
+    publishedDateTime: 2021-11-01T17:20:00Z
+    webUrl: "https://www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/"
+    ampWebUrl: "https://www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 58
+    images:
+      - url: "https://www.popsci.com/uploads/2021/11/01/DIGIT-on-hand-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Facebook grilled by UK lawmakers making online safety rules"
     excerpt: "British lawmakers are grilling Facebook and other tech giants over how they handle online safety as European efforts to regulate social media companies gain momentum"
     publishedDateTime: 2021-10-28T16:16:00Z

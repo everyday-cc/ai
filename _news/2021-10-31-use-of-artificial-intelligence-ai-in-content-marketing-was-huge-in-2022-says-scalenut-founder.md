@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/website/amp/feature-use-of-artificial-i
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 550
     height: 367
     isCached: true
-
-related:
-  - title: "Artificial Intelligence (AI) in Medical Market Outlook 2022: Big Things are Happening"
-    excerpt: "and the changing investment structure of the Global Artificial Intelligence (AI) in Medical Market . Some of the key players profiled in the study are NVIDIA, Intel, IBM, Google, Microsoft, AWS ..."
-    publishedDateTime: 2021-10-28T10:40:00Z
-    webUrl: "https://menafn.com/1103063711/Artificial-Intelligence-AI-in-Medical-Market-Outlook-2022-Big-Things-are-Happening"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 47
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?596801"
-        width: 376
-        height: 249
-        isCached: true
 
 secured: "i71SOcFjJjoVDE4KGcEaTv5fQMxNxDmt99Ku4JdBsG+Qgq+eRNbYuEnTFRt0YwGThWBilOETi+sCmeFkvNFpCodkpp5xbo2UCrTgEMH0l5t6CIh6Ed/U4OF47rpsv4yZk1Kr0vImOiryYDWe032Ud66KI8UXwlevA2EZTgxxDfhVrjKSO1SuIXxUOckMnqaaD5tyXYOe7X1qLQud3sjY+MMtipSmW0yM7n5f0Vwwa+IqU/DMc3y0XedwUFKmHCEr+79CxnDBwE+oa+/h7NY6/KlXyJqMujuVSTOZCpq6Yuz5IIkFjKWOMdIBByavBIMGowPNQ7R8lAD6YIDsNrv/3PI4scgsa/of5KccqTsxBI7AaHNSs2VaZGfM1vfzhhLjzmePtJ1KGrR3+bUu0cU1rxQB3LKAW1xXCqO62dQEGcSFjJEHPZG9m/VoiQb+leftv+dVqxDJodl8C9i2c7PbhJuv99wER8iGRk1CF60GJG4tdFf2WxqGdWkqTlW4z3jfuf1jlB3QX8gvZeWKd6ryMA==;QYbPGXrAbFDi8Hg5V2adpg=="
 ---

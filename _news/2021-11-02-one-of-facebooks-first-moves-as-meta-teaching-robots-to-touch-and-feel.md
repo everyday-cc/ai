@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Facebook researchers build better skin and fingertips for softer, more sensitive robots"
-excerpt: "According to Facebook AI Research, the next generation of robots should be much better at feeling — not emotions, of course, but using the sense of touch. And to advance the ball in this relatively new area of AI and robotics research,"
-publishedDateTime: 2021-11-01T17:27:00Z
-originalUrl: "https://techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/"
-webUrl: "https://techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/"
-ampWebUrl: "https://techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/amp/"
+title: "One of Facebook’s first moves as Meta: Teaching robots to touch and feel"
+excerpt: "Facebook AI Research, is working on touch sensors that can gather information about how objects feel in the real world."
+publishedDateTime: 2021-11-01T17:20:00Z
+originalUrl: "https://www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/"
+webUrl: "https://www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/"
+ampWebUrl: "https://www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/?amp"
+cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/?amp"
 type: article
-quality: 66
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Popular Science
+  domain: popsci.com
 
 topics:
-  - Facebook AI
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2021/10/ReSkin-dog-shoe.gif"
-    width: 768
-    height: 432
+  - url: "https://www.popsci.com/uploads/2021/11/01/DIGIT-on-hand-scaled.jpg?auto=webp"
+    width: 2560
+    height: 1707
     isCached: true
 
 related:
@@ -93,21 +89,21 @@ related:
         width: 4896
         height: 3264
         isCached: true
-  - title: "One of Facebook’s first moves as Meta: Teaching robots to touch and feel"
-    excerpt: "Facebook AI Research, is working on touch sensors that can gather information about how objects feel in the real world."
-    publishedDateTime: 2021-11-01T17:20:00Z
-    webUrl: "https://www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/"
-    ampWebUrl: "https://www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/?amp"
+  - title: "Facebook researchers build better skin and fingertips for softer, more sensitive robots"
+    excerpt: "According to Facebook AI Research, the next generation of robots should be much better at feeling — not emotions, of course, but using the sense of touch. And to advance the ball in this relatively new area of AI and robotics research,"
+    publishedDateTime: 2021-11-01T17:27:00Z
+    webUrl: "https://techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/"
+    ampWebUrl: "https://techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/amp/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 58
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
     images:
-      - url: "https://www.popsci.com/uploads/2021/11/01/DIGIT-on-hand-scaled.jpg?auto=webp"
-        width: 2560
-        height: 1707
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/ReSkin-dog-shoe.gif"
+        width: 768
+        height: 432
         isCached: true
   - title: "Facebook AI Is Teaching Robots to Perceive, Understand, and Interact Through Touch"
     excerpt: "Facebook AI Research shared its progress on developing AI systems that can understand and interact through touch."
@@ -164,6 +160,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "uv+ViyiiupFbK9HNxSh6YCHh046MzWi0aY4OREFcOsT52fHzu0xBbwlo/5Ef0LLnjZrp7p+o+iSBGkZLO3MlndxYXgxazKVSdCKOShfkCjQqwLjwUUJ7RULFR47X/oRnMoITtZZfLK61jyBPXyz9xmfPBdNpaFtjemhfkQRxmNzp0Zq+4Da7HVQlwnf1eNFGy0zQlY0G0Nu7nabHZmCvCnu0CXV7tVqEEy7jooh3CkANLetmMwVYrfL9Z10nhjm/gQUJtvl7lTTE2Upb0mmP8Cj/INALzHnN8mvFJi/LVdoR1G1RZr7Gvn6xQcvcVaNYqmFP626OEH6M1NAogEebqid2dMt8xVMtohBWNE67b+3uYyU7izwai98kROEnkKQsgvzrga4GvKEOvb88gl14By3zRAyVDnQ5ytLrwwBynugA4ioS3jQpEHKvKuv/jydG4bE1E88ZuPEvEwNCuSIibYhRrBQ9mEDljGEjPOzsL7qZ4QxLqH7rT/IjU2zhu6sEIqKkjpDzAp39IaKHE3R8PQ==;wJ6yLvCGP+2Jyke61HO4Wg=="
+secured: "y6A0v89staAVv7ne+5DP7o+r+AFMoVg7WmIVU4fub63tAQRqbz00MDUjfJ2BX7xbv80yzQGLQvhxnlRouEqgBOEhtE+FSvnTtflFOz/T6toknoVFFYrSkeEnTQ0ujMO6/YvfJC8tT9Prm/a/6zBzsnXZIwU0Rg9FCb+y5TfPEirxYA38EnF4iiLN4o1oxDRU8GAPkaVgFHY0lfZ8LfQsTgGJW5etTRYAcn5TlRmpBy/g2AD3gbrTQhoAkmfArMWUBZK+AGHRVPV1G2PBRCE2Bv8Y2XJRdHVnUhuANTga78lbQuVlNrhsv78ZGoZegqvYc6PzKTduuVaoQBm/qYlyg68wGsXY5FgtJAGtKhGyCDo=;a1ihmN0EfsS5ooPgzx8bMw=="
 ---
 

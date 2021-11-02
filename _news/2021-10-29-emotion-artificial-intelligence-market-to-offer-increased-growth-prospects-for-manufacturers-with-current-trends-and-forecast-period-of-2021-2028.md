@@ -7,7 +7,7 @@ originalUrl: "https://chipdesignmag.com/emotion-artificial-intelligence-market-t
 webUrl: "https://chipdesignmag.com/emotion-artificial-intelligence-market-to-offer-increased-growth-prospects-for-manufacturers-with-current-trends-and-forecast-period-of-2021-2028/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 750
     height: 371
     isCached: true
+
+related:
+  - title: "Global Artificial Intelligence Chatbots Market will experience a noticeable growth during the forecast period 2021-2027"
+    excerpt: "The Global Artificial Intelligence Chatbots Market initiative will look into current global market circumstances. MarketQuest.biz created this research to provide its customers with a comprehensive understanding of the market and to aid them in developing ..."
+    publishedDateTime: 2021-10-28T16:03:00Z
+    webUrl: "https://chipdesignmag.com/global-artificial-intelligence-chatbots-market-will-experience-a-noticeable-growth-during-the-forecast-period-2021-2027/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 13
+    images:
+      - url: "https://miro.medium.com/max/628/1*UTh2YKtQH07DSCxjHc2mHA.png"
+        width: 628
+        height: 363
+        isCached: true
 
 secured: "Eb4VXvjkzSlRGD2TqKDO8MiyjwdBJHeqw1gW/BkF9uyzaeeFgkL3JRcV6o8XKi9wNLu7XU+OHh/0fHTZlne7NUaP4Q/E5U+kd/FnJBE1w9CLpWML1eIwamn5dlBEDensi9st3aZwqArLckqcQzTkZ8jKRvyc5XZo22wMuOyTq/mxGNFJas9Ck0Xhy8PNWOoWaE5CB/yTTJnSHk9ZpN9P4eF/YH0xrPp7y28g/R+Z2PMq93VYZ6cpKtC2l46wx2eEcZCuTghUV/EKw3m4PVnlzz2iBMnrQP4sSzgsH8KqjRYt+BmpX7eYLHSYQzVQcPguqrwpJwL7WpkSBTGQLuhVCtmNBM6W9Mg4kT8/T+doSt8=;enaszysmNbnoN8SVAB1xxQ=="
 ---

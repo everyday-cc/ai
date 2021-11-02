@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/ford-taps-non-it-professionals-to-broaden-
 ampWebUrl: "https://www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960"
 type: article
-quality: 87
-heat: 87
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI Hardware
 
 images:
   - url: "https://images.wsj.net/im-427127/social"
@@ -29,6 +31,6 @@ images:
     height: 640
     isCached: true
 
-secured: "drHmOmTKdZtYRbfVQPYWwpcNXRbt0wWHhUlEbaDntCTtrK+asEkvlA829VqIMj7+7vpZ+xchK5P5/4ee1bjeq3eEcJ09dFhHFfroTi9d8oHtxj5p0wU4XkMp0Cp/qo1xDU4EjCpGULGde9o70bnwjI3FMVbM7nHKWfBbHDiCdz1rC8kUr6CZTHCZTWS6b7DdpNHq0m8kcTEeDxicMHcJ+wGCoykX6cUS1Ra8e4CQ1Fj3q1h7iaNZ64s2KS+AE6v2W4CVDnyIJMKPU9YWlT2HlWKfJzgnzMQOVwo5genygJaacVimfQuLgs8RY1AoOjo4tv9tyCkqf/SHzyScJbev2X/gYeOWqgLKsuUtYfFRPT4=;lb/bebzJq0OWc27+VUy8GA=="
+secured: "sgK37X/07447fy4uHJF+qMyjzwN9vlG2LebvEDAeRWfbEfuLOjrlTyQ4NXF+ma5GZe6NYtq834WUFcChRMAvHIUI5/qxJmZTDfPxs3/7L5WbWReYEbCjLjGIJ5MdFt4aodDzA1IkULV+wQcEiwKb2XIsdhX2vmbIwnMkVw15bTuFyTCxjSvBmA4giyHMS1eL+afj2qOqBTIMwL8SpBuVawMoLDtJp1QPXH1EmoXlwR78NKsSj61t+aO+apjC9dVXUmrQwNky9Lia2QUc1ow7BzWd1+uL8UjfITYC6Ll8u2f4wKEEe+OvyeNOAZFPoGBk32kJHP3eg+LteQbSYjfaLX4eR1NANs5piVXm0DOEp/E+2hOFBOBQirYYVoKjTT8nZ9qN7HQw+fN+LLntCSVJetf6PJg+hG+5dlenGd0V2AvO3RPQdc8ukO9dBfxvRpezapHgPfxsHYyIZJflqm9BNCA0rt2sRvsM3MI5i3cHEj48iMN+VQpgXDt3Nyvl0C8b9R5iz0Ykp5i7poaSmT1M8A==;zAb7ik/gw5kddx5gDwdezg=="
 ---
 
