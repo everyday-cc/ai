@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/pr-newswire/20211029cn58022/jianp
 webUrl: "https://www.morningstar.com/news/pr-newswire/20211029cn58022/jianpu-technology-wins-top-fintech-innovation-award-and-reveals-business-developments-in-new-categories-and-markets"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Comdata and RoadSync Partner Up to Connect Logistics Companies with On-Demand Fintech Payments Solution"
+    excerpt: "Agreement Increases Cash Flow and Payments Efficiency for Drivers and CarriersBRENTWOOD, Tenn.--(BUSINESS WIRE)--Comdata, a FLEETCOR company and world leader in payment innovation, announced today that it has partnered with RoadSync,"
+    publishedDateTime: 2021-11-02T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=557561"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 8
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "c7cHk+BmuOBG1P5olE23NdXzhdAKrOmZkzELoUTy/U29VgusqRpVi4iMbJaL9mw70xV1AxO2pZTtDqjBw/u487Q6kBhMkQ0qLW8nNDazjsRPdlHcsvxQMVM6bQFZePNFbt0xt+u1xAsmy6iiWk9ovByFZTDyoVuHEb5kAOdyhvgQb2CXQJ6ndZj9XKZ5+IFtZdJw465uFhPZyEj56PSAwfyizaLcfeAf0o/BsFIf9barIpvioHCczRoz+QfnU7sKSfisVDPRwprvyct5eCR416aU04Q6wE6aZ6IraPQAsQ0Z2AbHDizi9f365WIpfzm40QMBE2437rqvrLN+mjcAddL0iIjzMIDfm3nBExuv/ok=;xcPdVdaVuGwQcHycYHibPg=="
 ---

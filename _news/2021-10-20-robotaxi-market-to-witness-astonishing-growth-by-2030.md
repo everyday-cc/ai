@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Robotaxi Market to Witness Astonishing Growth by 2030"
-excerpt: "The Robotaxi Market is projected to grow from 617 units in 2021 to reach 1,445,822 units by 2030, at a CAGR of 136.8%. Automotive companies are investing huge amounts in research and testing of self-driving technology."
-publishedDateTime: 2021-10-19T22:43:00Z
-originalUrl: "https://menafn.com/1102999852/Robotaxi-Market-to-Witness-Astonishing-Growth-by-2030"
-webUrl: "https://menafn.com/1102999852/Robotaxi-Market-to-Witness-Astonishing-Growth-by-2030"
+excerpt: "Attractive Opportunities in Robotaxi Market” Robotaxi Market by Application (Goods and Passenger), Level of Autonomy (L4 and L5), Vehicle (Car and"
+publishedDateTime: 2021-10-19T21:20:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/10/ab23452373/robotaxi-market-to-witness-astonishing-growth-by-2030"
+webUrl: "https://www.benzinga.com/pressreleases/21/10/ab23452373/robotaxi-market-to-witness-astonishing-growth-by-2030"
+ampWebUrl: "https://www.benzinga.com/amp/content/23452373"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23452373"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "Iz6zie3euW1IRTPefc7NAhbpKRpWZxGxkyofQLHvIADh9PzWN5qHD7bNvMNAGVIa1kNQYcTu5iKvxt32pqg8wEFtCL1jWEe7WBEXJjNh/Vix0iFomPW6UjuaOtoGD5+iTNXG9kTqregts+BlAyUR1zvVZoyXjb5B1l9fE503jjmxMDqpyPdlPTxoIgvqlNRcvB+dXD86cF9J5J1yVc5X/oBQrZQ5N5I5WAjkHkiPDJXqekum1NMyd1swG8JLVzkFedNww9BhdNxZavESYo9JQ1OuxNiHYrPNJLMTTs43nqHEOejRMoXI4lxOCkyoWy9KW9Yu3sTu/XfhzUEnrX/SQlEBQuSlGXdnpMFiTY8f1ODVS80X1VxfgjI1sW71E1fRhwtp+CcyZkjlAQXdhju8KIPEYpQEXosbaSP9S4SHO8rD2QBuMe2B01T2wHCGTcI384eBmZujPs2g4G9J9vp4HZPEbB2RRl5fNbAHvcqleW7g8n+lV8QB7uxaSydT+LK/YaSYkm/mSaK8E+ty1cOEtw==;k0xxYfgKQCQ9a4BMZEuyQA=="
+secured: "ePm4vb+bcaI37wScOS0vyg5mxss+JpmuSbBCo7V4CEL+0ynCAibQupd+ZClyGH6mTgo4wD5Tbo9vio9nB599+RkIVXyf63fSD0mdvq6kcdevTJVJgaJgpF2/zisAtQmZzsuDTZJ02/U9iUfjMUeGxESjoMYsYPxTop0THqkS1fCgBNNf57hNPi2AaxJFCOUDZ+UqllWFDyK+NBzfPu9Siz2aHADk5xuNVpWQc1UUmCTLqQZTCy0LopEeSXsHBIl4yCSSdGOfHwhYQZyvE1KnOKOFhUUr0kqrPKuZwgwoBtmCu3LGswSLT2zBzefJSakcLV8DELfg4FXnUfmgFraoC0yoiXtRMg/Y4f2GfyXQDZ2lINjNV4X5DllE/AVh3HHcnE1tK6+KF7nTVhv1yX8Kg6hDGASSZe1ds3DtCYUfsNylRhygFR11FtqC4obEfIuV7BLhX9L1mcSCLFzovmdqVwLKKq7kMdSvtqMTFZMqoii0+TjYkYauo8W8Kd9pQiHFi+gSMbCj3jyJGLN6W/Ehqw==;08mqtifo77oeN6btGBYFYQ=="
 ---
 

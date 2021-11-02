@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Slinger to Present at the Consumer Goods and Digital Services Virtual Conference"
-excerpt: "Through these acquisitions, Slinger intends to bring to market new mobile applications and technologies, subscription offerings to its consumers, AI analysis and tracking, performance sports data and video,"
-publishedDateTime: 2021-11-02T11:54:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/11/02/slinger-to-present-at-the-consumer-goods-and-digital-services-virtual-conference"
-webUrl: "https://stockhouse.com/news/press-releases/2021/11/02/slinger-to-present-at-the-consumer-goods-and-digital-services-virtual-conference"
+excerpt: "Slinger® (OTCQB: SLBG), a leading connected sports technology company, today announced that its CEO Mike Ballardie will be presenting at the Consumer Goods and Digital Services Virtual Investor Conference on Thursday,"
+publishedDateTime: 2021-11-02T11:47:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-153843b63daf193283373e3ccf14217d"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-153843b63daf193283373e3ccf14217d"
 type: article
-quality: 0
-heat: 0
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "cgoJI3oZ5QMwkt2zMM97upxvl5BeiMRt1qHc3vY4BrF4oV2HDdz6IrW8N/4bVI4rdppGHMwdlbJ5rV/hPVSO2H3mw7y/Ndj91xA1DvcbRQBWekuWHWlZeo3tANBXGg5giiXNRDfb8HolfzY5PfAP9exMkXMdyrvT3m++hFH6sc7qisOXAphE/EqX6v82l8ZSSqiBx905Sp4MsG1ohtJNV8k1njlGA474CmVagvqIRt1BOW+evaQWWwqQn+Gq6sjKKvhPSrwCD035EM/oEVXhNAed81AAiYK4S/ULcFnkVBYiprW171TpBkBUjYf8NBmOW0CSUFZqELJsH5o+82+ZnQ7niyhPyerPCuhHmsvyWJcenxK+yF7nrwFg8oQtIchFLmlKLJtqYplrfAsTEroiDjj9Sgp0lWEaLPOCTxDQbgv58r/OQidxniblnQ+h6ZDi8GR9I9pzQwIm7GLdXXsnh3RY5XeVvtyGWK2mviDqSdC6Ul/h0hbLcybdWZc74pdzU3aLVoS9WPAxLlUVdHLV0w==;fqYq9M1sA+3kURJKsh7Rlg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "S4H5Zl2GnC1huUdA/UVB2VxwJuOoNhqIJHlvB6SKmT8T6c+8xZktefG2bP9AY7ezGxNll9HX7lZxwy9TPFb3YRglW+ctlilMVoGCweTw8Vwc/1RWMXBYPqhFTJKcSzMffNwKVwLEfdVvEGOIlgF9O+/7Em5QEfexLCjw1wSsQM5975xwUvHuS24TMrA/wcVIh14B874BcRWRFM+KALxM/XVZoesq6gIiSN/Oq8nE/n2FDlBpNOhE4V3r46nyC2AZzNbgNuEGLEophvfPqHnqOHRYaGO1lQl/fu5bW/7LoUGA/WtLXKfGRY5eFCdXrTTuIWgHn0k8mspt+I2YRXrJ7DRq/5Hv5pZm91F2hg0WPrY=;hH/KeRQcQ6+v2ti3qkKn5A=="
 ---
 

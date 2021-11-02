@@ -8,9 +8,9 @@ webUrl: "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-mach
 ampWebUrl: "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/"
 type: article
-quality: 118
-heat: -1
-published: false
+quality: 218
+heat: 248
+published: true
 
 provider:
   name: TechCrunch
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 650
         isCached: true
+  - title: "Korean autonomous driving startup 42dot bags $88.5M Series A to accelerate its growth"
+    excerpt: "South Korea-based autonomous Transportation-as-a-Service (TaaS) startup, announced today it has raised $88.5 million (104 billion WON) in a Series A round of funding to advance its urban mobility operating system (UMOS)."
+    publishedDateTime: 2021-11-02T05:30:00Z
+    webUrl: "https://techcrunch.com/2021/11/01/korean-autonomous-driving-startup-42dot-bags-88-5m-series-a-to-support-its-growth/"
+    ampWebUrl: "https://techcrunch.com/2021/11/01/korean-autonomous-driving-startup-42dot-bags-88-5m-series-a-to-support-its-growth/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/korean-autonomous-driving-startup-42dot-bags-88-5m-series-a-to-support-its-growth/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/42dot_2.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AI optimization startup OctoML nabs $85M after key chipmaker partnerships"
     excerpt: "OctoML Inc., a startup founded by University of Washington computer scientists to make artificial intelligence models more efficient, today disclosed that it has closed a $85 million funding round. Lead investor Tiger Global Management was joined in the round by returning backers Addition,"
     publishedDateTime: 2021-11-01T21:42:00Z
@@ -62,6 +78,6 @@ related:
         height: 400
         isCached: true
 
-secured: "+NjMvKeAjezT+sgqiEeOQrWU5F8j6SLgcptakui9iJTetVMwRKEuC4s6mJ0Rx9dDUwxw5acQ4xm9GsfIDrMXp/a1QppBsVhEp10WrQkJox95LHfdmrK2qGCTFAu9YxZNBDVmTK5iV2i3ah4b+f/GvGtKMl0H/zf5yqDNUybeNjrMqgXbRhFPpPulr7hWHSci92AQ8IQAElKFKC4YptVWwoJGSbLzoWWCyWBFPorG6j1hpuvGOcMahqXJcgElnFvqKX5smNOkJTtyruN/JjnUXJKeWWHXEn4TVBkGB2fkDfpf3lhNoikqTAKvC6TevxTdkERyI9GnMbQNUThFtrhgTHoujD+dhEE4r2iWKEtus9XcbKbjWOVXYrWrY8NZKAjTlZHzuZOalkvvvXJqL4E+YRKagLfn9Cgw/5uizyAz4veANzFA/fTV4BykvTnYSY5O3WYaaHnawx5Lj3IQUpKakD1UEXsPZv7pRRwfRtvjRuXjpdP9+OkYWgaPCNBo5rRs4iWjzuDBT7hRK7KGsHInhA==;edrLwV3EGr2J+yKogfPzYw=="
+secured: "deSsvGpblopN3nZ2bSOxwxuCocFFfgjgARBzUSNJ99rqk+MPAraI1MkOpdAEm/OQ/JVtn31aE2QHmJY++noBVqw0FoYhJLQ8KEMiRo5wmrJ0aUDltJKcBQ5SheR4XU3086WXCVfC04LuHLfO4BlD/lB+sIZHpcWZqcADf/tr33fZ4oBTCPt+Edsw4H2NviyQzGR9ktYUyduw1mfkoKxCABuoFyrYrUuoKLRbJAv/S2XOtMLqjl0NP4jpIHK7pmv18o3rVGDVmbEqC9ok3uVA1O5E4p3XJG/RrpkLdnPkf5QnsprGwqOJmzJiUdZSvchHyaGKwBGUshBI64777de5cKbnf+De+yYeHA2Ynl/KpkrpSXZ/M/OtGZOu6c2fhqp4Y1L7Q1uYNFyj2g3oDeWBGSyTWKZqL3LTcxqVzVY6d43/gFGia9Vi23x8aPDAR1SUBRPBe2na3faLLtHkRb5JUDBq6qPtR+ZwZkdYb4+1QievSDkNu32/Gg0qYfSrihOgt0bpfB5M4BWlw1E3mvDN4igiCzoLCBRinJlOo//ItOI=;3g/zaJQce6bOkckC2V5vHA=="
 ---
 

@@ -105,6 +105,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Dubai hosts Fintech Surge and Future Blockchain Summit"
+    excerpt: "The 4th edition of Future Blockchain Summit and inaugural Fintech Surge proved their importance in charting the future for digital economies"
+    publishedDateTime: 2021-11-02T11:57:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/dubai-hosts-fintech-surge-and-future-blockchain-summit/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/11/Future-Blockchain-Summit-.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Revolutionary Ways Fintech is Boosting the Property Industry"
     excerpt: "Discover the most disruptive ways fintech expands the property sector, from digital-only lending and fractional ownership, to property-backed stablecoins"
     publishedDateTime: 2021-10-29T09:10:00Z

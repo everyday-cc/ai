@@ -89,6 +89,20 @@ related:
         width: 1280
         height: 1214
         isCached: true
+  - title: "Dubai hosts Fintech Surge and Future Blockchain Summit"
+    excerpt: "The 4th edition of Future Blockchain Summit and inaugural Fintech Surge proved their importance in charting the future for digital economies"
+    publishedDateTime: 2021-11-02T11:57:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/dubai-hosts-fintech-surge-and-future-blockchain-summit/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/11/Future-Blockchain-Summit-.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Imarticus Learning partners with Birla Institute of Management Technology (BIMTECH) to launch PGDMs in FinTech, AI & Data Science"
     excerpt: "The Post-Graduate Diploma Program will offer learners hands-on training and expert guidance, equipping them to tackle real business problems by applying their learnings Further adding to its extensive course portfolio,"
     publishedDateTime: 2021-11-01T12:06:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://medicine.buffalo.edu/news_and_events/news/2021/11/ionita-q
 webUrl: "https://medicine.buffalo.edu/news_and_events/news/2021/11/ionita-qasai-startup-13851.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Driving up artificial intelligence standards for medical devices"
-    excerpt: "How can public faith in medical devices with an artificial intelligence aspect be boosted? New guidance is a start."
-    publishedDateTime: 2021-10-28T19:16:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/driving-up-artificial-intelligence-standards-for-medical-devices/article"
+  - title: "Pasadena-based Artificial Intelligence Company Develops Software To Find Patients for Clinical Trials in Minutes"
+    excerpt: "Pasadena-based Deep 6 AI, which supplies clinical trial acceleration software to help defeat disease and get life-saving therapies to market faster, has launched Deep 6 for Life Sciences, a novel suite of AI software solutions for life science sponsors and contact research organizations."
+    publishedDateTime: 2021-10-30T12:59:00Z
+    webUrl: "https://www.pasadenanow.com/main/pasadena-based-artificial-intelligence-company-develops-software-to-find-patients-for-clinical-trials-in-minutes"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 41
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 16
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/EEE-1-2.jpg"
-        width: 995
-        height: 562
+      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2021/10/shutterstock_1850780563.jpg"
+        width: 740
+        height: 400
         isCached: true
 
 secured: "yMTlSYDKk4wSXOq7z1Grv/EP4r5NjvOV+0BtULNVgB3lnDwa4CiYeE1Yj2ejCYapWcCV5h9mtrBupZELaMDCc/368UTdCd2tK77Y07xBYocCMtrvhCmMj+7as+aCIBrbUZuOX8eWu/8c2Xx3ZKixMBUgXQD4beFuWAtiFodBeUg+u3q/josS2OoUMCPqYgS4PhH2aY5owRTGuZA6Qx8PgMnBLb+NxU1xhPgbXnVfgseVLK+XP5vhOquaqf7KCAGSjBxAIhsfjNbIwbk6sSWQDqlGPqZRB4laGEMcvWEGL52CpgsyJ3mK6x/dvT4l1wAK4oVv5+dSpV5fnbXt1INxLu+m90DOsks8YYL8uot/FVI=;mioTR3rI6tQuCrr0RyMYkA=="

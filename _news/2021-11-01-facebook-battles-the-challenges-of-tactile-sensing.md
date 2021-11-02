@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-t
 ampWebUrl: "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/amp/"
 type: article
-quality: 74
-heat: 164
+quality: 174
+heat: 254
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "After the Facebook Papers, what’s next for, err, Meta?"
-    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its ... Teenage users of the Facebook app in the US have shrunk by 13% since 2019, according to the company’s own research."
-    publishedDateTime: 2021-10-28T20:07:00Z
-    webUrl: "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-regulation-growing-old"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-9-1.jpg&signature=3c8ce726468cfc55b53bf6e549d93ffe"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Facebook’s AI teams are teaching robots to perceive the world through touch"
     excerpt: "They include a high-resolution robot fingertip sensor called DIGIT (pictured) and a thin and replaceable robotic “skin,” known as ReSkin, that can help AI robots to discern information such as an object’s texture,"
     publishedDateTime: 2021-11-01T12:00:00Z
@@ -153,6 +139,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "bnYaupBJTGmPf73PKQ+MOeEsUIXKfLg/mnIpwtVUs2nZnESMDYZ/tze+zcOQG/POQP0FAnz1yrZlfQcc9ewtu8EEtXev3Agw0A1PhDmi4+Ek83US6cq9o4Nkm2RE3BwJA1bj465ekcPv6fyRG3R4/fvJzk26MNVbZTMFhREWEJWinstRWFdeK95SLMbVIzgpLwCZEh+547WnJyKYGUdl/k8WqR/5jAtcYVyYOoLxX0Nt5FLyNE0oAt2oocdBn8D1p+2Go167xEM3JBQUlyMTv54eF7ZUFmpcDqbUNzAteh/4926pEaHWOHu/XwRJq5jM54V4EHVy+SkPN73o6CER2ym6iKDx6Hpgay/oOhwhT40r6s8FMdav7SUl8zm5MJO1PBtNDYfRCKJKiDTh9YB62LCF+kytzkwmLKK/nP+8FwSH5HJ/8R91EnaoBNchQwb1iLPOFw1BMidSW3mG8i3G/Mro7I2TwgRMIr3jjpYWwk1xA6iM7+kCZXrOQgkvqALzU8EUHgRxv9bMP75lfqlpgg==;712IZGzznFE72DpXWgxUFQ=="
+secured: "EhplzfQEOS1G08TmYDApfoh0anFrUPVyD6JlKbMlYtwmPjizFkicpkqMCjBGbm4VCVu5Qou5gQq/+GfI8lzUZapMfV+NYyEvVpTp2ddu18s5FhA3Ak8YZ5VqO4Edk7C8m0gizjQX6v2DnBGai/j7C+0Nhi+gEsFnJYlSA9XvmVJO6YosGkvNieJM9yd0ZOf+TKsvfrAC9XBBPZgehy99x/D+eKrjaFmvuC+Yn0v0SrJrtbZKBGBew+CqSzbjFNPjPmfuwj6tpet8nDvxNS8ewitnTEd5FgifQeofuvoAvyuQ4fta1liKI6YVucrwC2Ju3HKIz2KjzQLYBhiOuM0lURF3wr+SyjiqolRXoywozkB5M2D3pf+6s4LDJFvZSFGbJmvLt745f9DGdO4xnL4W6a3evzVqSBYYg8ZzB1TFee1bGOCtFQ5gelnWt05raVqCeDpMcqGRwWtlOzhwlBLZJLwavqTJdyL8ODMVyy2CeGxWRtpmq1lIR+rG0tVHbVu79yQz9ektQO9jzIyt9cv6pmNmgSiB7TzOtehFBoLcNIw=;FAZhtUlaX7NKrMfg2mYung=="
 ---
 

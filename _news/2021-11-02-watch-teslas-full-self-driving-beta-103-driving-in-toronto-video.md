@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla recalls 11,704 vehicles after identifying Full Self-Driving Beta software error"
+    excerpt: "Tesla voluntarily recalled nearly 11,704 vehicles after identifying a software error that could cause a false forward-collision warning or unexpected activation of the automatic emergency brake system,"
+    publishedDateTime: 2021-11-02T13:35:00Z
+    webUrl: "https://techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after-identifying-full-self-driving-beta-software-error/"
+    ampWebUrl: "https://techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after-identifying-full-self-driving-beta-software-error/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after-identifying-full-self-driving-beta-software-error/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1232815520.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Older Teslas Need Upgraded Cameras To Get Full Self Driving"
     excerpt: "Following the introduction of the latest Full Self-Driving Beta, it quickly emerged that no owners of older Tesla models had gained access to the system, despite achieving perfect 100/100 safety scores."
     publishedDateTime: 2021-11-01T20:00:00Z
@@ -41,6 +57,33 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "Tesla issues software recall for glitch in ‘Full Self-Driving’ software"
+    excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
+    publishedDateTime: 2021-11-02T13:09:00Z
+    webUrl: "https://www.wfla.com/news/recalls/tesla-issues-software-recall-for-glitch-in-full-self-driving-software/"
+    ampWebUrl: "https://www.wfla.com/news/recalls/tesla-issues-software-recall-for-glitch-in-full-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/recalls/tesla-issues-software-recall-for-glitch-in-full-self-driving-software/amp/"
+    type: article
+    provider:
+      name: WFLA
+      domain: wfla.com
+    quality: 59
+    images:
+      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2021/11/AP20245450915069.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Tesla Recalls Full Self-Driving System After Fixing Software Bug"
+    excerpt: "Tesla Inc. recalled more than 11,700 cars after a software update to fix a flaw was found to increase the risk its so-called Full Self-Driving system could cause rear-end collisions."
+    publishedDateTime: 2021-11-02T11:33:00Z
+    webUrl: "https://www.bnnbloomberg.ca/tesla-recalls-full-self-driving-system-after-fixing-software-bug-1.1675632"
+    ampWebUrl: "https://www.bnnbloomberg.ca/tesla-recalls-full-self-driving-system-after-fixing-software-bug-1.1675632.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/tesla-recalls-full-self-driving-system-after-fixing-software-bug-1.1675632.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 39
 
 secured: "QEu3rR8RJTcrJwHjptDXi8bw8fjaY7gyXvowMJqTcR1KRLBdnrCy9pCD9ks+xBSCZwv20DU6XGYa5s0LKaN43eIMS7EEd7b06fAq9R3HxQQLoTUSz+WiSLCYJtx4AqrRA9EBmGwOk1tM/bujUil/v2ShhVKvGnD0WUjJjzZLNvR4qbPKY5bqn2IftU/tGsox108JaVgXi3QDgvczpD019siGYAEg99RWK53dQLSdBJY+XFPYnlrcPjq/+yv+riybliQwOvTGF1PAChj8jHCMYvpbAZvALr1wAZjerySLv4RgZHOKZ7J1+KS3fv9+eTCqNLSZlqtkhAziMfWeFMf2iJ4H+5s+WzFTzkqiAa6geZhoA6rBPbMh9Y0rtpL59XTNIqJN4cwDWbZoBvObKeQ3L5lPOWwSyKOSgNTTefuyTbnOyVwvXKxGw6ZCvxSBUlZnhyMOcgykIOABaWNvKQF5x7twydiRLiTLZBb2eRQobjRXxLzTtVdGbyFZVpWmjRNVhL1inaeAWapbbhwCikhKyg==;H+8pqMl49PcK1JXhD3i+ag=="
 ---

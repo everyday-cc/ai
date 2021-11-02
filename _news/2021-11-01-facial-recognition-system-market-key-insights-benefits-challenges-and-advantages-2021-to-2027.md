@@ -24,22 +24,6 @@ images:
     height: 3854
     isCached: true
 
-related:
-  - title: "Facial Recognition Market Insights by Emerging Trends, Revenue Analysis, Demand Forecast till 2020"
-    excerpt: "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Oct 29, 2021, 01:16 /Comserve / -- The advanced facial recognition market is expected to witness an optimistic view by end users due to the ..."
-    publishedDateTime: 2021-10-29T06:40:00Z
-    webUrl: "https://menafn.com/1103068618/Facial-Recognition-Market-Insights-by-Emerging-Trends-Revenue-Analysis-Demand-Forecast-till-2020"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
-        isCached: true
-
 secured: "yJGFGNiNOxbo4TMaZc9cC7kUTkjK4Kf/o5hoyC2ZfHcqbDq705m0GIFws3+B0Jpc7rwVbm9jh9i88Wml9MLZQgTDgv+oMc7T8XEB/z4fpuYWDiVsEzOsNwQTYwrlSHb6UZ1SZBlqGmlfFEjThIuGrJjFJ4mOl2awdCHRC2yvZ2QmBwQDwaFYw5AlUJ9B9O7MrgrP7fEv9aJXZ0zXOjZlICYhZAM+mMy6QGQIVePYOHR4dU7CeXE0CDXAavPSjkjzf8cNVWwcQyluf+nYovA7aw9OrRHnWQ5mxyCaQMvYW8AYm4TEd/qPd55MJjTkPqkTpVYt7iIIld/bifq/h6MnvDSnDk+3Dg/pghlXdpCDyiqwMZzOP3PZGW2aNmWIT0tKQZGnPYXlQzkB8LgXKvT+bPjepkaCQha/hGfm6NNZue7vozDepi0ChvEukUUK9oBf+NEfBs1JiKH0dp30npu+TgLvk5nU/pNxzV+d9WMndxQ1MXQXvz0L9r34On1bblXA1qJH0cjp28fuvi6F84Fd7Q==;TzQ7BKHURSQVLEgvoC19jQ=="
 ---
 

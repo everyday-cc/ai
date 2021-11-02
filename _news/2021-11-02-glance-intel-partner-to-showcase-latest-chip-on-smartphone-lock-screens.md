@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Glance, Intel partner to showcase latest chip on smartphone lock screens"
-excerpt: "Homegrown lock screen content platform Glance on Tuesday partnered with tech giant Intel to launch an innovative campaign for the 11th Gen Intel Core"
-publishedDateTime: 2021-11-02T07:50:00Z
-originalUrl: "https://www.canindia.com/glance-intel-partner-to-showcase-latest-chip-on-smartphone-lock-screens/"
-webUrl: "https://www.canindia.com/glance-intel-partner-to-showcase-latest-chip-on-smartphone-lock-screens/"
+excerpt: "Homegrown lock screen content platform Glance on Tuesday partnered with tech giant Intel to launch an innovative campaign for the 11th Gen Intel Core processors on Glance's platform available on smartphone lock screens."
+publishedDateTime: 2021-11-02T13:27:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20211102/3849064.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20211102/3849064.html"
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: Canindia.com
-  domain: canindia.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://261502.smushcdn.com/165487/wp-content/uploads/2021/08/CIPLACEHOLDER.png?lossy=1&strip=0&webp=1"
-    width: 586
-    height: 390
-    isCached: true
-
-secured: "ecr7XaUAB6DdMsqWvUUd5r8dcu35EVRvqNUry30rtb5cPRxQRkLVsGndnB8RypO8vZ7GNlpstQNb1fXZm75HUHJpHQjsIyyh6gEDUvsIcQgJym4sP4d7MGW/M50rhEx2f9SItazE9KvGl4GQuIwtIovDVreuzGAXqB0UHHOm6RYWTj53UwqMbaTqtNqlSU4oM3Jnm/Cl7k4qBMil+C2gQ7KCmuGTtB/t538/Bw+JTnC7TF+8gsRGo7DwkbmtbXoeN0PqGhl0j85/thSDH/9GMPsKAlSj0paFpJt7X9ov9GRQF3xzjXYRN8UM7BW8a7QxMNatsfEWrkI56IcsjC4lvGpig6w7x4ECEf4e/2KBfAw=;4mLKQ3Wyu8por+o17cNmoQ=="
+secured: "dCXitSO8O9Yyxh0zi7WbHR2MBPyIVlBMGzAquhTbmpWznkPTnrcNXX9r75lJNVnlohK/HTqz+Mz8lm+ydD7ZoiSyOyq0QKzDtfeXTsdZZZBUDq0teTd4ilDngiuCEyZfhRnTFjUDstTqqw00miRvVX+aNjs4G//8tLAyF0K/UtXCiPAPkZ9J8dheaPNG2Xw5zRRu7fkKiSCFe3qV37AtJYNpfpHbm1o8Y7b36P2LKKkyprZfZBEGFDCLiQZEN1tT/R+s3fpxUuA7jm6ZUKg3tgKz2yJ4LtIQZZLfWf466tPb4MHjNqnN4WSf8i2JEjOsWK59NBkWk1YjAwMTO+ZnzTS6FfoAjZRPqQDd2gvgIQ0=;xv86Kt21P3zDxvBw7u3eTA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/theyec/2021/11/02/why-artificial-inte
 webUrl: "https://www.forbes.com/sites/theyec/2021/11/02/why-artificial-intelligence-startups-failed-to-deliver-on-their-promise/"
 type: article
 quality: 84
-heat: 84
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 750
     isCached: true
 
-secured: "zNduhLtvqur8Yn/VvL2XrjNMFDAzSguJ02l1kEpbmt/q1IqswkUOLkEcbf5S8/nEuwYitkxDVdv82qOLvKXGl/yH+SA8bJsiFCFIWGBiqPujh+3BFrMlNyvjdTQx0NCiQeNO25yWqzIyBnrRBXUlpYM4rgCIhRj+BXst9A1f4t2ugpoYJL4nHBLGF+XtpgD6N16UJCqL/pNwF0GToAmHnJWUFAs8G8CVj+Llu5CjQt14vP0OER5diAf80x8mPg0LPmRJkVXLNdF67nwf+Fouwd0sJDh2AOvnMcxt9C+DUQTxXJcpl/JL0ONF1lAwd13BgPywE7uSQh4cs+uXzpWFufHySQnzMnlDpI8SBqTqPnk=;ndd68dlfJyLRJKz4mVENaw=="
+secured: "twuaq993ZRe+XYUcyt6xMhLVa5sc0eGlMdbNn9rGchuEFrXxzTCEFhLIR29Y9CdVL9hYVo+K5PcDsZUQgSKs1c0zxSgtO0zgTxBmpe6MJOKSEbHqpP34oh+5Q5K2RNYn+uXyqlkAFFifxHxAZveEQQqhe50e9bSYy66O0G6KqTz557o5ztowtRW7bKpMTJNlXZSXgFbTFmLpvGO7laJGbLBAefDe2LLZR7goezRiK2NNPaliF46MMrBgTlT7c6q27w4fhRAqGYJHznnqEE8AZtfv48jQ1RzBR/TMUV58m7NRT23cJzNJ3CoZzORLwCojcFZGs8IAjBzMNcYpoe5jLycapaKgDyy9FJSXngLI/WaMvKvIksJum5JbJ2O72FktArj5066/xO/+XEdc63eNSDWg2ElklqxIIrgMX+r9aqu3G1BI0g0JvrJzDXoUwhDdgOBQzUVl+CJJ5vZHH8qMg3E3/JNqhd9d/KXC/X12zmpklsCWNAhLDklgAP00cXazNfxzZ+MS6H9/4+hqQbYbEg==;bVRnUEQ29FZTeNznwJm8eA=="
 ---
 

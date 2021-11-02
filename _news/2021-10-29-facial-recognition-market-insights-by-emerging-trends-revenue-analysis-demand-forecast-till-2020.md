@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition System Market Key Insights, Benefits, Challenges and Advantages 2021 to 2027"
-    excerpt: "Facial Recognition System Market Perspective 2021. Face recognition system find major application in public security using surveillance cameras to track the criminals. Moreover, g"
-    publishedDateTime: 2021-11-01T12:29:00Z
-    webUrl: "https://chipdesignmag.com/facial-recognition-system-market-key-insights-benefits-challenges-and-advantages-2021-to-2027/"
+  - title: "Ready facial recognition market among French soccer clubs restrained by regulator"
+    excerpt: "Soccer clubs in France are tempted by the possibility of keeping violent spectators out of the stands without hindering their fans through facial recognition."
+    publishedDateTime: 2021-10-29T20:56:00Z
+    webUrl: "https://www.biometricupdate.com/202110/ready-facial-recognition-market-among-french-soccer-clubs-restrained-by-regulator"
     type: article
     provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 27
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
     images:
-      - url: "https://www.themarketfeeds.com/seoimages/four.jpg"
-        width: 3250
-        height: 3854
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/03/15134221/55E317FA-8810-497C-953C-2C2FF536DCE5.jpeg"
+        width: 1512
+        height: 672
         isCached: true
 
 secured: "QkFtuYSKTKxYs+uyJiDOw5jal6bVPldTdw475eGCr+5+tZHqDurOJClymk9fzvYSOsEeFHIh/fi5BcUghLEtIFAlomhI0Soehl7Bq6kMMCE4S0H+8Tbd+zsnPZwmcvw1GQyMVKHr/kbAeOJdKJTXOCM5L8Cfhr8Khf5YJy5c3+8OHa6AsM3OPgpG3x3DHI6z8F+7imzndD1cXlvzEcToJQab0IujHYvwXknf3Gv1WkeRZbK5IigW2mH7HZN3OPiXBq7VCpRpyFejke/MdThq64+3ojv/hGakvLPB7EfdnKDyR4Nas+Ic4zQVRtevp5elH79J4fgJjgxLlDJP9GWaD6TI2f9htWQzJLdpjexKbrg=;PSpYujR0IZk9cZ5aPWqjQQ=="

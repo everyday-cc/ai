@@ -110,25 +110,34 @@
       "title": "Samsung and IBM Announce Call for Code Challenge to Honor Everyday Heroes",
       "excerpt": "The partnership between Samsung and IBM extends over 30 years, starting with work on semiconductors and now mobility, AI, 5G, Industry 4.0 and networks. At SDC, Samsung and IBM Consulting are ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-1030901159",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-1030901159",
+      "webUrl": "https://www.marketwatch.com/press-release/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-2021-10-26?dist=bigcharts&tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-2021-10-26?dist=bigcharts&tesla=y",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T15:10:00-07:00",
+      "publishedDateTime": "2021-10-26T12:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

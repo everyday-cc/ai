@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/11/01/machine-learning-deployment-platf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/"
 type: article
 quality: 119
-heat: 141
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -41,11 +41,27 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 118
+    quality: 218
     images:
       - url: "https://i.ytimg.com/vi/gpO4y1mPMWA/hqdefault.jpg"
         width: 480
         height: 360
+        isCached: true
+  - title: "Korean autonomous driving startup 42dot bags $88.5M Series A to accelerate its growth"
+    excerpt: "South Korea-based autonomous Transportation-as-a-Service (TaaS) startup, announced today it has raised $88.5 million (104 billion WON) in a Series A round of funding to advance its urban mobility operating system (UMOS)."
+    publishedDateTime: 2021-11-02T05:30:00Z
+    webUrl: "https://techcrunch.com/2021/11/01/korean-autonomous-driving-startup-42dot-bags-88-5m-series-a-to-support-its-growth/"
+    ampWebUrl: "https://techcrunch.com/2021/11/01/korean-autonomous-driving-startup-42dot-bags-88-5m-series-a-to-support-its-growth/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/korean-autonomous-driving-startup-42dot-bags-88-5m-series-a-to-support-its-growth/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/42dot_2.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "AI optimization startup OctoML nabs $85M after key chipmaker partnerships"
     excerpt: "OctoML Inc., a startup founded by University of Washington computer scientists to make artificial intelligence models more efficient, today disclosed that it has closed a $85 million funding round. Lead investor Tiger Global Management was joined in the round by returning backers Addition,"

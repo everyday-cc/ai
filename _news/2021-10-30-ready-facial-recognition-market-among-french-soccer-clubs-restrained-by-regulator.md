@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202110/ready-facial-recognition-ma
 webUrl: "https://www.biometricupdate.com/202110/ready-facial-recognition-market-among-french-soccer-clubs-restrained-by-regulator"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition in India: new study approved, regulations remain difficult"
-    excerpt: "NITI Aayog, the National Institution for Transforming India, has recently approved a new study into the implementation of facial recognition in the country."
-    publishedDateTime: 2021-10-28T20:01:00Z
-    webUrl: "https://www.biometricupdate.com/202110/facial-recognition-in-india-new-study-approved-regulations-remain-difficult"
+  - title: "Facial Recognition Market Insights by Emerging Trends, Revenue Analysis, Demand Forecast till 2020"
+    excerpt: "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Oct 29, 2021, 01:16 /Comserve / -- The advanced facial recognition market is expected to witness an optimistic view by end users due to the ..."
+    publishedDateTime: 2021-10-29T06:40:00Z
+    webUrl: "https://menafn.com/1103068618/Facial-Recognition-Market-Insights-by-Emerging-Trends-Revenue-Analysis-Demand-Forecast-till-2020"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 51
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
-        width: 1600
-        height: 1109
+      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "qPQjFJhSp9pi6HYZh9CLhmbMTekm33IRdUWgFRQfYS7QWEOtEOkcmnIPp+ZyxnWnfVe8aIvxkrbcICnAXEZKvoPfgckNl9zJjp5PCb6wz8v3kP6TIbub8qgr6HF1S8r7dwo5FJYJWGtSBmQlcGxhQAZE2T39qsxGrJ8S9OqXB2/aOBscOyVUFWvlqnqMeGTa82r8zOIghyHPCKk2JDVe5pUq1dmnH76XxBFEkfXD2DblCaoxU9V/WejSJc948jIRQqed4pY8tGPXnIITriAiMUiIA7WCR91Mw8LGYOhAP4Vil0dksQRbipRYGs7SRoHu4wjVikaF5g4WEVWq8t57nk9892h9uHdz8ok9VA9mAxaqDkgFr9NvW1Syk0dLWMeq2AvdFOumO0FurZZGbFOZrtsjjmOZ7hXJ1FJyx1tloLqm0LUzqFpL+payY2uEy7h4bS09q+O+YPjyYbhuuHTJuDqA7HPL2jAVNPqe/CgaF7fmQ08sdNm3cUmfzXicpKftlaPRWtkk2TczFelrWX2KQQ==;AH66pkj08RiKST7i0tD9Ew=="

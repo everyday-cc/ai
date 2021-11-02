@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Vivoka Adds ID R&D Voice Biometrics to the Latest Version of Its Voice Development Kit"
-excerpt: "Vivoka Voice Development Kit V3 with voice biometrics from ID R&D - Now available at  (Graphic: Business Wire) Vivoka’s user-friendly, graphical interface removes"
+excerpt: "Vivoka Voice Development Kit V3 with voice biometrics from ID R&D - Now available at  (Graphic: ) Vivoka’s user-friendly, graphical interface removes"
 publishedDateTime: 2021-11-02T10:19:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-france-biometrics-9076fab3a14b41c3aa8e4efc3c2e822f"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-france-biometrics-9076fab3a14b41c3aa8e4efc3c2e822f"
+originalUrl: "https://www.fltimes.com/business/national/vivoka-adds-id-r-d-voice-biometrics-to-the-latest-version-of-its-voice-development/article_d6445945-6d9b-5a68-889f-691232c68265.html"
+webUrl: "https://www.fltimes.com/business/national/vivoka-adds-id-r-d-voice-biometrics-to-the-latest-version-of-its-voice-development/article_d6445945-6d9b-5a68-889f-691232c68265.html"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Finger Lakes Times
+  domain: fltimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/eedition/0/04/00418bd7-79d7-5a0e-b8b8-91a6fa4520f8/618079b3812e3.preview-300.jpg?resize=300%2C600"
+    width: 300
+    height: 600
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 591
         isCached: true
 
-secured: "fExftgkp6j8PmkEQCMSe83Bw0unOvBQFu0g1vI/rYR7YLp7muEg0T8JqS0/aiqItJDR3EGiMDF0Z1Y+ow/mlFck8zGfRaxOtykwVAb5Kr/a+Oh/AfU/zXOGgBol4KsReNaJ9gJ4pfAn+sZJNtRFWmoepoBgRbV4cq1GvqdwS5z89yji5eeCeHF0PfqsBnWdxmFXHIZSTJ9I4TvMzU99FMiuZp3uBEcMZp+J50M7uvVEJoUjDr+UdAOAfbmvlJjFlouTFPDKeR4rDSlPmHVyvsrE4ytEinCTDbsqfW6/XLqMevEQ5IxxlaXZDdpy6VKi2Ur7D3AZWJSLeVbiDGyCg6BLFPragj2FxodLc6aCmFdE=;5JdqCCh82o9MSdjikEIKCA=="
+secured: "4Yltaz9TXToI9oC/D+iYTCGsD7lR/Esb79AOU6rKN79PPvljAnzQGz4iJovN7scNrVM96ZMYvGkCqiXnjlt0PrslCEcRJKcH/F6VhlO/pt1KCehbBMg7dDpiEY2CO2KVtFavEZ6g9zYAprDl1mqMsiU/9W9ObXsibFqazaP/+KsvFycY7Lg3RFj51FlbOssQ/lFiuI33fvwinXpijBFEWRwIetB7xXKFMptwe3ZR2c2/98DRPHDha1F72wihZ6ARupC2+KFIDTDi2Dyrw1od7a/KPPhhiBwdYZl/YFt39R298syNJXYjEHT4HQdBy8IfQf4VCRGVHztOkbWCWCF6yhi7Igyu4n6FmMgPaa7KSvU=;Dgg9Lq4Xj+gKgrV8yzoSow=="
 ---
 

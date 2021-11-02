@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-02T11:06:00Z
 originalUrl: "https://www.law.com/legaltechnews/2021/11/02/nervous-system-rethinking-voice-recognition-at-the-canada-border/"
 webUrl: "https://www.law.com/legaltechnews/2021/11/02/nervous-system-rethinking-voice-recognition-at-the-canada-border/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/11/International-Border-Crossing-767x633.jpg"
@@ -24,6 +25,6 @@ images:
     height: 633
     isCached: true
 
-secured: "yegm+QHbhdellJJvbe8NzZ+GfnEwiakJYFzacxkVz1u1MKKmEGGhEmS4FjifjjeW6Rd5lI1pBwS6GjeAACuSkTM1WPZmQI48a2DbTvn6LPVCXWMSWk6+HhgELJx5WV58DQKny4Olk+bqIjjQpfoB3TDiIHWZFZTKYHETDOZQZho1oarUp2WncEhGYGnV6IDBGsJCDR73XDHwjKAPtSpqu1wgHDvGuW0XLnfWvXPhChR8oG4rKTHh+Pc+LE0oeL8vVJjt35q2lv2qsNjPXaIEq3LB2kWdsGuCfgP5GY65mcAK3t91dzGjqTqHULSvjYKRVc53/ChIsoYq9VKypKrAr37vlRpDghQADXvbdJH/WsY=;9Z9UOUXo5ZkkPuDGzhKR1A=="
+secured: "FoMnhAg5dVjVThtSe/lP+NIH2R+U3hOsFKN0004ZiqJDY+vA1abpLbDgmLYkt0YOH+NUE3zQbeSr1Kpqh9HsQn4L/gCkn4TkaC+i0fglmuW9qkTRlSYEKKXJe7xWhTJ2jscB/ElLMq8x6uEIqFL92tSCRbVp93e1in5B4wYLjr6bmj2+NV199qhSxNoL6g7rNpLElb/DNwSZ/n5+iByTg8JyoJghdSF8wPbm0caZSlzznXWafbOTUoW8rE2VY6F+JKSjT6yWQ4shorw84qwZrZPOHqd8AlC8MZlCGEvKRpQXbyn+18YfRCIJDY5RKA2o/dGL12M6edKdbcfzLYj86ZNHaX5y2VoDm+CX+6nXEZxMFDWeGYpq4z3zLc2dufIFyUF7z9ye6jL+DXnyuy/Oyb3TRsQs9l8r0GMY6jL0O+sSqxwAhgN4gsG+QYTySHUhyqPGY0nhBeWAfmFOcL/9Lug32hdr0stj+2kV5+0G2G0PysruUF0VDeg6Bbe3yMlJDXYzqaklia8UaPdrNJXhkQ==;6Lwxk61ZEQ1716qo58txbw=="
 ---
 

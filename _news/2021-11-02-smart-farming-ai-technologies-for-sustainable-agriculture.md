@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Smart farming: AI technologies for sustainable agriculture"
-excerpt: "Changing climatic conditions, the shortage of skilled workers, the use of pesticides - a wide range of factors have an impact on the quality and flow of agricultural processes. Researchers are aiming to make this more efficient and sustainable by means of cloud and AI technologies."
-publishedDateTime: 2021-11-02T10:49:00Z
-originalUrl: "https://www.nanowerk.com/news2/green/newsid=59052.php"
-webUrl: "https://www.nanowerk.com/news2/green/newsid=59052.php"
+excerpt: "Changing climatic conditions, the shortage of skilled workers, the use of pesticides—a wide range of factors have an impact on the quality and flow of agricultural processes. Researchers at the Fraunhofer Institute for Telecommunications,"
+publishedDateTime: 2021-11-02T13:26:00Z
+originalUrl: "https://phys.org/news/2021-11-smart-farming-ai-technologies-sustainable.html"
+webUrl: "https://phys.org/news/2021-11-smart-farming-ai-technologies-sustainable.html"
+ampWebUrl: "https://phys.org/news/2021-11-smart-farming-ai-technologies-sustainable.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-smart-farming-ai-technologies-sustainable.amp"
 type: article
-quality: 39
-heat: 39
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.nanowerk.com/news2/green/id59052_1.png"
-    width: 500
-    height: 375
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/smart-farming-ai-techn.jpg"
+    width: 1440
+    height: 1080
     isCached: true
 
-secured: "MWv1mABmWyuEWSKrgJQWkGxBs2o8TkTFIsLss0DeSzmDWzho3yIISU2Mlhi/QSqO+7AMagslVNXnZ8TdevVsthaIFDf80OS0nqN+tgVY+lTLIe5FgnCqHiWgam09o1eZB0G9se2OxZk9HxYNj9bXhfoAisUHpcuQK8OujNycKDOPJIPi7/Xei7sUvXD3YJ+or7VRf5vnUuunjew2ItHE1pVuVGS8uOn+kbeJNCxHpw7WyxjL/6NIDNJGh3BLINt5YUlRI6AnZ6IFRNQnPTOG3OFTQ+jezDj/FAtpzc0rdoxaAdOHFm6sdT8tVh4GROtUvpVrnMlihmDsfGZIfj5WIW9gd123Si0WYHpa/PvNGds=;EZDg6HyhI4DBAm1fenwr9Q=="
+secured: "DVrD7N14FB/mVkhHTsF5ac261bMogtL4lGutL8a3ZnkafuWHc9KfP7DgdPFlgJ30le8IlfwCzaRc+yIlwCsE/RkCPG9aRaj6P/zXnDbL/A3yG9TLpFT0ukcqKGdXN9QPQrbZbnMsl8kqr46Os/T8b6k+oC1YMYchQEhZGIIRY44wX9qrLRHVxmV7+Ci1PZ6vkMKBlF2N5zt1FeJ6NtETt6CxPDSTRVlHArc57Nb7EIjuHlg/boZ0n5r62alxd34aYi/BkwFKTGBmcirvp37+KrmB6SRDYbHUnoPXsT47RV0L8Dd7OZmcHMG1+asYgFm6XvbCTUq/GZ01eBC1r9aD7WZxjIX+RwCZxR9SZssPGuA=;NLWsM/f6LuVxvEQ9vjuwtg=="
 ---
 

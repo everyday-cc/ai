@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F1%252F4%252F0%252F37130414-3-eng-GB%252FCropped-1635481733AP_21236792916874.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Dubai hosts Fintech Surge and Future Blockchain Summit"
+    excerpt: "The 4th edition of Future Blockchain Summit and inaugural Fintech Surge proved their importance in charting the future for digital economies"
+    publishedDateTime: 2021-11-02T11:57:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/dubai-hosts-fintech-surge-and-future-blockchain-summit/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/11/Future-Blockchain-Summit-.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Imarticus Learning partners with Birla Institute of Management Technology (BIMTECH) to launch PGDMs in FinTech, AI & Data Science"
     excerpt: "The Post-Graduate Diploma Program will offer learners hands-on training and expert guidance, equipping them to tackle real business problems by applying their learnings Further adding to its extensive course portfolio,"

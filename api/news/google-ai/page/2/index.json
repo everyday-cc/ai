@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-30-deepmind-ai-predicts-incoming-rainfall-with-high-accuracy.md",
+      "title": "DeepMind AI predicts incoming rainfall with high accuracy",
+      "excerpt": "Having flexed its muscles in predicting kidney injury, toppling Go champions and solving 50-year-old science problems, artificial intelligence company DeepMind is now dipping its toes in weather forecasting.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/",
+      "originalUrl": "https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e6a3fa7/2147483647/strip/true/crop/450x300+130+0/resize/1200x800!/format/webp/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0c%2F2a%2F6f5446b646bd850633c0c1663837%2Funnamed.gif",
+          "width": 710,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/?amp=true",
+      "publishedDateTime": "2021-09-29T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-how-ai-is-making-information-more-useful.md",
       "title": "How AI is making information more useful",
       "excerpt": "Today, there’s more information accessible at people’s fingertips than at any point in human history. And advances in artificial intelligence will radically transform the way we use that information, with the ability to uncover new insights that can help us both in our daily lives and in the ways we",

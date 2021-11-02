@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-excerpt: "CAMBRIDGE, England, Oct. 13, 2021 /PRNewswire/ -- Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for Quantum Natural Language Processing (QNLP)."
-publishedDateTime: 2021-10-13T07:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-releases-worlds-first-quantum-natural-language-processing-toolkit-and-library-301398725.html"
-webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-releases-worlds-first-quantum-natural-language-processing-toolkit-and-library-301398725.html"
+excerpt: "2021 /PRNewswire/ -- Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for Quantum Natural Language Processing (QNLP). The toolkit is called lambeq ..."
+publishedDateTime: 2021-10-13T09:49:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20211013ln37909/cambridge-quantum-releases-worlds-first-quantum-natural-language-processing-toolkit-and-library"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20211013ln37909/cambridge-quantum-releases-worlds-first-quantum-natural-language-processing-toolkit-and-library"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "PVbHLTJaX5GyOGvjnF5owWBSGTloLMVLHqb7E4P+f//MS2Zjhg1xlFG4WsLWO8Qk/5S+LywakfNL8wBYtgPN/VWo7QGyAMsHx7dDZh6kloQ8OpN1X63HMnmmQX9qg8gzZorZ6ZKRg/imjO6f8RJ3E+1YMTBZWxv7suwJAn5COT0YFEigNu4qMdbLEs/NlTM7DWWxwu1NAviFtmhjPbctRca40AyJA/A8mYqOfozhYf5ltHUsF9Lawlc9pm967qnGNepRVAYagy6KqEmNqPeQ2UpRN12t7Uf2hH0aJJepZMz8fHZbkU4kvxpMSN96/g1Y0biXif4r7X3+myISdb5/Oq7/Sw4g6ZI9US6BcWmrsS0=;eVZ4mkMSh5H9HvZYEkdMfg=="
+secured: "HlKKrc0VVlcAKY42TV6JhfFKj62/XfwKKGkFl4jB4rHZVfrEKe9/rGF2S2Ew8qu9QEl2yobJJxtEMk/Zz9+2cSojpLLYwLZs3nsG97fwO+iIdN054BbcE1Lnl91alvalwqVDLcfNf/h1afnIu6nfFSSon54p0apMe0RExSEAtz8SjKAUyMl4SaawxuHQsn/2txhC+U7xz+0ZrXsWgTaylFmLnCm+afqg9hs2LOk7+3X+kfBssu/X3/VVEnsmNXB4aUtgCGTUKQrDrvDreuCl3sjdOrrMuxFb273U5h3P+XRtVHa9tG55lGc/lBcHJAF2/zQN0cVK+RQyJNrkeJYEDSsQYqCTEXPdm0AwfY/fyis=;CQyQI2+5iYb7/kT/0lCbZg=="
 ---
 

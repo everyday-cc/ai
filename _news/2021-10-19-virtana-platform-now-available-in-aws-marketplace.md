@@ -1,23 +1,26 @@
 ---
 category: news
 title: "Virtana Platform Now Available In AWS Marketplace"
-excerpt: "Virtana, an AIOps observability company for hybrid cloud, announced the availability of Virtana Platform in AWS Marketplace. The digital catalog with thousands of software listings from independent software vendors (ISVs) makes it easy to find,"
-publishedDateTime: 2021-10-19T13:02:00Z
-originalUrl: "https://www.kotatv.com/prnewswire/2021/10/19/virtana-platform-now-available-aws-marketplace/"
-webUrl: "https://www.kotatv.com/prnewswire/2021/10/19/virtana-platform-now-available-aws-marketplace/"
+excerpt: "Visit the Virtana Platform AWS Marketplace profile to learn ... and multi-cloud environments. Using artificial intelligence for IT operations (AIOps) technologies, including machine learning ..."
+publishedDateTime: 2021-10-19T13:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/virtana-platform-now-available-in-aws-marketplace-301402779.html"
+webUrl: "https://www.prnewswire.com/news-releases/virtana-platform-now-available-in-aws-marketplace-301402779.html"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: KOTA TV
-  domain: kotatv.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "s2X/D0a/f3DR/6dacE1gl/omMYvWh34rFdYvA2qq14xrK1ysiJi4qZb9WLKyIBd4FN+ZxmrMexXkW8u7RJ8jflCOTXCIqBGabb02+frglBltXEeN2G+Q/mJFBSzx+ySo6hPRNa4PWaxe6sMK6CSKbpmoQp3jTg4I7NiCNAHOjk4pAi0X5nbSDj/DZ37W5iHYJ28BnIIwodiOlBW/cCXujsCThUKEQquADloZitg+PMzCoUHuJu462u9Tsw5y7d2KLsuFpuwf9XxysXsw+wUrVLKXgm7IbWioNEtrBfn07MDxNf1jZnJw4Z/87x0VbKPh2hDz9MzkDpNuoJGtNGR5F+WkF4qhPpUvs97QhCeA7e4FbNip+mE8ufSNzwjKeotj7BbtRqUDTYCPs84pY/LQXMQWkyk+1UAhJgWd6hiETkA97oGpsh+2bOnwqJ8qhFnE6iLlzQECO/W5covrTFVXGw/NSxwJJARceOTN47ff+yTKYZAEKKGN/U+19yRBNbkBy145V10A8NXnTcJ/IQq2ww==;SN0Mr4cuNB8iqqjdSn2ACA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1245497/Virtana__Logo.jpg?p=facebook"
+    width: 864
+    height: 452
+    isCached: true
+
+secured: "T0ni4ZdSgMWkPU0BZUMAKWZZjsf2XF4t67rmFqhc7PljOUD36K1Bfu92OKrarnnRbhyuOTJGYx7xuth5KBHj5yVsUxKuAZECTBhX5S5EE6Mc6b6s2Lr8RUo/nv59B26QYPvldt4kyeIcz/KoMfpWpYS7nn7Hr2PoDc97L4WpXYyAlHQkWGrkqIf3eb/ras28GEHt6SD0l856RcLWJGZ649ZfNB6SZBhY0w2AbuRegfPfniCZ7Gg+v2ka2nTquAulPbQ9EVTpAYvGzrfH5uVcby2WGELwVW05EO6Y1bU79IJ280k35yw/HR9FCIa2OuEadcOAzqtJ4SC6EawJNIaJKwEY6ge3zqPywnfkwVogoJ8=;qptuRYVxkdrx7R44+si1XA=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-23-embedded-news-week-robotics-rainforests-and-iot-security.md",
+      "title": "embedded news week: robotics, rainforests and IoT security",
+      "excerpt": "A roundup of this week’s embedded news includes robotics, IoT security and onboarding, automotive wireless charging and building automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
+      "originalUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2021/10/Infineon-Rain-Forest-Connection.jpg",
+          "width": 1700,
+          "height": 1130,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-22T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-18-tech-deals-for-the-weekend-black-friday-like-prices-on-tvs-bluetooth-speakers-robot-vacuums-and-more.md",
       "title": "18 Tech Deals for The Weekend: Black Friday-Like Prices On TVs, Bluetooth Speakers, Robot Vacuums And More",
       "excerpt": "If you love gadgets, this is a good weekend is looking good. Here are deals on Bluetooth speakers, electric scooters, TVs and streaming boxes, not to mention a slew of other gadgets.",
@@ -1336,49 +1380,6 @@
         "AI",
         "AI in Robotics",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-aris-robotics-on-a-mission-to-reduce-waste-in-the-world.md",
-      "title": "ARIS Robotics: On a mission to reduce waste in the world",
-      "excerpt": "The founders of the startup, ARIS Robotics, are on a mission to reduce waste in the world. Read about their journey right here!",
-      "sourceUrl": null,
-      "webUrl": "https://www.redbull.com/dk-da/aris-robotics%3A-on-a-mission-to-reduce-waste-in-the-world",
-      "originalUrl": "https://www.redbull.com/dk-da/aris-robotics%3A-on-a-mission-to-reduce-waste-in-the-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.redbull.com/images/c_fill,w_760,h_500,g_auto,f_auto,q_auto/redbullcom/2018/06/19/64eb4956-64fc-4286-b9fd-e6e34ff8f510/christian-horner-monaco",
-          "width": 760,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.redbull.com/dk-da/aris-robotics:-on-a-mission-to-reduce-waste-in-the-world",
-      "cdnAmpWebUrl": "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/dk-da/aris-robotics:-on-a-mission-to-reduce-waste-in-the-world",
-      "publishedDateTime": "2021-10-11T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Red Bull",
-        "domain": "redbull.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

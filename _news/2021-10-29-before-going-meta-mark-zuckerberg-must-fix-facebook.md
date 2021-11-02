@@ -33,7 +33,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 74
+    quality: 174
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all"
         width: 1200
@@ -84,20 +84,6 @@ related:
       - url: "https://www.popsci.com/uploads/2021/11/01/DIGIT-on-hand-scaled.jpg?auto=webp"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "After the Facebook Papers, what’s next for, err, Meta?"
-    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its ... Teenage users of the Facebook app in the US have shrunk by 13% since 2019, according to the company’s own research."
-    publishedDateTime: 2021-10-28T20:07:00Z
-    webUrl: "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-regulation-growing-old"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-9-1.jpg&signature=3c8ce726468cfc55b53bf6e549d93ffe"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Facebook’s AI teams are teaching robots to perceive the world through touch"
     excerpt: "They include a high-resolution robot fingertip sensor called DIGIT (pictured) and a thin and replaceable robotic “skin,” known as ReSkin, that can help AI robots to discern information such as an object’s texture,"
