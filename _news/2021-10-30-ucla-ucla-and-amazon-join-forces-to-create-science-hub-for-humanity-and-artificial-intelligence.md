@@ -3,8 +3,8 @@ category: news
 title: "UCLA: UCLA And Amazon Join Forces To Create Science Hub For Humanity And Artificial Intelligence"
 excerpt: "Several other top executives from Amazon attended the event, including Prem Natarajan, Alexa AI vice president of Natural Understanding; Gerard Medioni, vice president and distinguished scientist; and Pietro Perona,"
 publishedDateTime: 2021-10-30T16:45:00Z
-originalUrl: "https://patch.com/california/venice/ucla-ucla-amazon-join-forces-create-science-hub-humanity-artificial-intelligence"
-webUrl: "https://patch.com/california/venice/ucla-ucla-amazon-join-forces-create-science-hub-humanity-artificial-intelligence"
+originalUrl: "https://patch.com/california/studiocity/ucla-ucla-amazon-join-forces-create-science-hub-humanity-artificial"
+webUrl: "https://patch.com/california/studiocity/ucla-ucla-amazon-join-forces-create-science-hub-humanity-artificial"
 type: article
 quality: 26
 heat: 26
@@ -24,6 +24,6 @@ images:
     height: 600
     isCached: true
 
-secured: "+f84CWp7qnRLVGjLDQTLMtfEpGQUaoWYgtMIj6xPK+5u9HIyiGhrQv32hi0OSTDGPEi3ckK0MHoE8dzkXMO09QDFzzKv5LZ3CmfIogRfHCZDDY/0SavvbXIVlbj9OtfiR9R83Sj7PFb7+5+JhaQmAOH7HXSrQck301L3ftnSx1ra2cdnajrl45SQG/vgrJFtjm3a29FawS8tHDscmwH9++rk/o2we5brja5v08645u6nKzRFsK7XG6l9bQoKDU3GdLNja/C3RiokgOs59NwsRs8kBhgUXFRaYiSGeTSJEG2LQDoz3m13zasRBr+DzlzaLFa3F2JW2NlSEaBTX44AxEznGebBAkeRJoBB0lj2pWo=;UW3jEnelw5Y1/FaST6Ds4w=="
+secured: "4KesRQogUXKz5iYMJ4kXNByKWpYj9xJX/kONLMgjKTNAqJwvj6drbQdz7UCITQGYxYn8+wfdE/x9QgBzL+VreUdKTV26jT7xP2iJCvbgrZyD/8H/2h0yxdgBHiucqH/I5PIyFJ0t2T2DayihrNBYsUEBXuPdmsVkomvrws0Ygu82aGl3gs/dLYE2x0n+cd8BTOoPFzyEFdPlIONaaf/3lhGPZFm/oz6OGQs2RbwZlAN7h3Obb2GbwpelbRf4hq+aWMnaDQ9TacJ4vozIkiBUeraY12Z4C6B7Lo+MUBVG4DaqjpOy4YSTYOlCBEGtBbG1gcnLUrv1oH2gVPYIqKQ0j7alYUrRCl/Kc/DIFzVXnZg=;GoB8NJDmYm54C9OrNwTcFA=="
 ---
 

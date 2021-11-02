@@ -32,7 +32,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://mma.prnewswire.com/media/1675608/MIT_Sloan_Management_Review_and_BCG.jpg"
         width: 400

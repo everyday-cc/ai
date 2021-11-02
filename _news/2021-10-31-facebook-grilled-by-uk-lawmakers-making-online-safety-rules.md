@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Facebook is expanding smart glasses research into cars via BMW"
-    excerpt: "Facebook's still trying to make AR-enabled, AI-assisted smart glasses happen. The company announced plans to field-test its camera and sensor-studded Project Aria glasses, designed for research on future AR glasses in more places, and even in cars."
-    publishedDateTime: 2021-10-28T17:46:00Z
-    webUrl: "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facebook battles the challenges of tactile sensing"
     excerpt: "Facebook detailed its efforts to overcome challenges in tactile sensing, which include developing new sensors and modeling techniques."
     publishedDateTime: 2021-11-01T12:00:00Z
@@ -52,22 +36,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Facebook, now Meta, is expanding smart glasses research into cars via BMW"
-    excerpt: "Facebook's still trying to make AR-enabled, AI-assisted smart glasses happen. The company announced plans to field-test its camera and sensor-studded Project Aria glasses, designed for research on future AR glasses in more places,"
-    publishedDateTime: 2021-10-28T17:15:00Z
-    webUrl: "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 73
-    images:
-      - url: "https://www.cnet.com/a/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Facebook is enabling a new generation of touchy-feely robots"
     excerpt: "Facebook announced on Monday that it has developed a suite of tactile technologies that will impart a sense of touch into robots.."
@@ -115,6 +83,34 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "After the Facebook Papers, what’s next for, err, Meta?"
+    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its ... Teenage users of the Facebook app in the US have shrunk by 13% since 2019, according to the company’s own research."
+    publishedDateTime: 2021-10-28T20:07:00Z
+    webUrl: "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-regulation-growing-old"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-9-1.jpg&signature=3c8ce726468cfc55b53bf6e549d93ffe"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Facebook’s AI teams are teaching robots to perceive the world through touch"
+    excerpt: "They include a high-resolution robot fingertip sensor called DIGIT (pictured) and a thin and replaceable robotic “skin,” known as ReSkin, that can help AI robots to discern information such as an object’s texture,"
+    publishedDateTime: 2021-11-01T12:00:00Z
+    webUrl: "https://siliconangle.com/2021/11/01/facebooks-ai-teams-teaching-robots-perceive-world-touch/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/DIGIT_Hero_.png"
+        width: 3360
+        height: 1896
+        isCached: true
   - title: "Facebook AI Is Teaching Robots to Perceive, Understand, and Interact Through Touch"
     excerpt: "Facebook AI Research shared its progress on developing AI systems that can understand and interact through touch."
     publishedDateTime: 2021-11-01T22:29:00Z
@@ -131,6 +127,15 @@ related:
         width: 949
         height: 633
         isCached: true
+  - title: "Before Going Meta, Mark Zuckerberg Must Fix Facebook"
+    excerpt: "No matter what Facebook is called now ... Although the conference was officially called the Dartmouth Summer Research Project on Artificial Intelligence, many attendees balked at that term, invented by McCarthy. “I won’t swear I hadn’t seen it ..."
+    publishedDateTime: 2021-10-29T13:41:00Z
+    webUrl: "https://www.wired.com/story/plaintext-zuckerberg-fix-facebook-meta/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 34
   - title: "Inside Google and Facebook’s ad empires"
     excerpt: "There’s a vigorous public debate about the benefits and serious trade-offs of the digital worlds that Google and Facebook have created. They seem less mythical and imposing when you know that their empires are built on selling us more socks."
     publishedDateTime: 2021-11-01T13:00:00Z

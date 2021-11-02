@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna2905"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna2905"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Beethoven’s Unfinished Symphony finished with AI"
+    excerpt: "Beethoven started a symphony that he would never finish, artificial intelligence has finished Beethoven’s Unfinished Symphony."
+    publishedDateTime: 2021-11-02T10:03:00Z
+    webUrl: "https://www.geeky-gadgets.com/beethovens-unfinished-symphony-finished-02-11-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/Beethovens-Unfinished-Symphony.jpg"
+        width: 700
+        height: 451
+        isCached: true
   - title: "AI Completes Beethoven’s Unfinished Symphony Nearly 200 Years Later"
     excerpt: "AI Completes Beethoven's Unfinished Symphony Nearly 200 Years Later. Rutgers professor Ahmed Elgammal recounts his work at the intersection of deep learning, visual art and music."
     publishedDateTime: 2021-11-01T17:27:00Z

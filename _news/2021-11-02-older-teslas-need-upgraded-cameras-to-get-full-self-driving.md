@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Government Official Slams Tesla’s Full Self-Driving Feature – Says Tesla Needs To Do More"
-    excerpt: "Driving” feature when it was launched but it was revealed that it is a software suite that doesn’t enable full self-driving. This made it fairly unpopular among federal regulators. In a Tuesday interview with CNBC,"
-    publishedDateTime: 2021-10-28T18:40:00Z
-    webUrl: "https://wonderfulengineering.com/government-official-slams-teslas-full-self-driving-feature-says-tesla-needs-to-do-more/"
-    ampWebUrl: "https://wonderfulengineering.com/government-official-slams-teslas-full-self-driving-feature-says-tesla-needs-to-do-more/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/government-official-slams-teslas-full-self-driving-feature-says-tesla-needs-to-do-more/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 50
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/Tesla-Full-Self-Driving-Beta-Hero.jpg"
-        width: 1500
-        height: 742
-        isCached: true
   - title: "Watch Tesla’s Full Self-Driving Beta 10.3 Driving in Toronto [VIDEO]"
     excerpt: "Canadians have been waiting on Tesla’s Full Self-Driving (FSD) beta to make its way north of the border ever since Elon Musk, the company’s CEO, said Canada would be the Level 2 driver assistance system’s next destination last year in November."
     publishedDateTime: 2021-11-01T18:43:00Z

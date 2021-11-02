@@ -29,96 +29,129 @@ images:
     isCached: true
 
 related:
-  - title: "Meta’s Andrew Bosworth on moving Facebook to the metaverse"
-    excerpt: "Facebook announced a major corporate rebrand by changing its company name to Meta. As CEO Mark Zuckerberg told The Verge, the new name is meant to solidify the social media giant’s long-term bet on building the metaverse."
-    publishedDateTime: 2021-11-01T13:15:00Z
-    webUrl: "https://www.theverge.com/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
-    ampWebUrl: "https://www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
+  - title: "Facebook battles the challenges of tactile sensing"
+    excerpt: "Facebook detailed its efforts to overcome challenges in tactile sensing, which include developing new sensors and modeling techniques."
+    publishedDateTime: 2021-11-01T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/"
+    ampWebUrl: "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 74
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/gocpfVJsZ2xVv_TFg4LwynI6llo=/0x0:2050x1367/1400x933/filters:focal(861x520:1189x848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70073882/VRG_ILLO_Decoder_AndrewBosworth_s.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Metaverse Here We Come: Why This Matterport Analyst Is Bullish As Facebook Rebrands"
-    excerpt: "The partnership was for creating the largest-ever dataset of 3D indoor spaces via Facebook AI Research. “We believe this was the first step towards a much broader Facebook and Matterport ..."
-    publishedDateTime: 2021-10-29T20:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/metaverse-here-we-come-why-this-matterport-analyst-is-bullish-as-facebook-rebrands-1030916419"
+  - title: "Facebook is enabling a new generation of touchy-feely robots"
+    excerpt: "Facebook announced on Monday that it has developed a suite of tactile technologies that will impart a sense of touch into robots.."
+    publishedDateTime: 2021-11-01T12:12:00Z
+    webUrl: "https://www.engadget.com/facebook-is-enabling-a-new-generation-of-touchy-feely-robots-120016974.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: Engadget
+      domain: engadget.com
+    quality: 71
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/artificial-intelligence-2167835_1920_36.jpg"
-        width: 1024
-        height: 768
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/95bffc80-3802-11ec-bdfc-f316a562d4f3"
+        width: 4896
+        height: 3264
         isCached: true
-  - title: "A Startup Is Creating Digital Human Servants to Work in the Metaverse"
-    excerpt: "With digital people, we can create those constructs.” Cross hopes that the AI will be able to fulfill the future needs of flesh and blood humans, in and out of the metaverse — or even ..."
-    publishedDateTime: 2021-10-29T13:20:00Z
-    webUrl: "https://futurism.com/the-byte/startup-digital-humans-metaverse"
-    ampWebUrl: "https://futurism.com/startup-digital-humans-metaverse/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/startup-digital-humans-metaverse/amp"
+  - title: "Facebook researchers build better skin and fingertips for softer, more sensitive robots"
+    excerpt: "According to Facebook AI Research, the next generation of robots should be much better at feeling — not emotions, of course, but using the sense of touch. And to advance the ball in this relatively new area of AI and robotics research,"
+    publishedDateTime: 2021-11-01T17:27:00Z
+    webUrl: "https://techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/"
+    ampWebUrl: "https://techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/amp/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 42
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
     images:
-      - url: "https://wp-assets.futurism.com/2021/10/Digital-Humans-Are-Terrifying-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/ReSkin-dog-shoe.gif"
+        width: 768
+        height: 432
         isCached: true
-  - title: "Facebook's metaverse is 'not necessarily the best thing for human society'"
-    excerpt: "A former Google CEO has expressed concern that Facebook's Metaverse plans could be a very dangerous thing to society."
-    publishedDateTime: 2021-11-02T09:41:00Z
-    webUrl: "https://www.phonearena.com/news/facebook-metaverse-ai-virtual-reality-society_id136109"
-    ampWebUrl: "https://www.phonearena.com/amp/news/facebook-metaverse-ai-virtual-reality-society_id136109"
-    cdnAmpWebUrl: "https://www-phonearena-com.cdn.ampproject.org/c/s/www.phonearena.com/amp/news/facebook-metaverse-ai-virtual-reality-society_id136109"
+  - title: "One of Facebook’s first moves as Meta: Teaching robots to touch and feel"
+    excerpt: "Facebook AI Research, is working on touch sensors that can gather information about how objects feel in the real world."
+    publishedDateTime: 2021-11-01T17:20:00Z
+    webUrl: "https://www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/"
+    ampWebUrl: "https://www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/?amp"
     type: article
     provider:
-      name: Phone Arena
-      domain: phonearena.com
-    quality: 42
+      name: Popular Science
+      domain: popsci.com
+    quality: 60
     images:
-      - url: "https://m-cdn.phonearena.com/images/articles/381734-940/facebook-metaverse-eric-schmidt.jpg"
-        width: 939
-        height: 626
+      - url: "https://www.popsci.com/uploads/2021/11/01/DIGIT-on-hand-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Taiwan's AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
-    excerpt: "TAIPEI, TAIWAN - Media OutReach - 29 October 2021 - Taiwan's top annual event for artificial intelligence, AI Day 2021, assembled key international stakeholders from across public and private sectors at Gaming Space in Taipei from October 27 to 28 morning,"
-    publishedDateTime: 2021-10-29T13:01:00Z
-    webUrl: "https://www.wicz.com/story/45084671/taiwans-ai-day-2021-enters-the-metaverse-with-virtual-exhibition-and-forum"
+  - title: "Facebook’s AI teams are teaching robots to perceive the world through touch"
+    excerpt: "They include a high-resolution robot fingertip sensor called DIGIT (pictured) and a thin and replaceable robotic “skin,” known as ReSkin, that can help AI robots to discern information such as an object’s texture,"
+    publishedDateTime: 2021-11-01T12:00:00Z
+    webUrl: "https://siliconangle.com/2021/11/01/facebooks-ai-teams-teaching-robots-perceive-world-touch/"
     type: article
     provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://public.newsdirect.com/134607972/geWzL9vh.jpeg"
-        width: 1000
-        height: 666
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/DIGIT_Hero_.png"
+        width: 3360
+        height: 1896
         isCached: true
-  - title: "Taiwan’s AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
-    excerpt: "He reveals his organization’s belief that edge computing will include machine learning accelerator chips, then goes on to introduce the thinking behind federated machine learning in AI."
-    publishedDateTime: 2021-10-30T08:41:00Z
-    webUrl: "https://menafn.com/1103074958/Taiwans-AI-Day-2021-Enters-the-Metaverse-with-Virtual-Exhibition-and-Forum"
+  - title: "Facebook AI Is Teaching Robots to Perceive, Understand, and Interact Through Touch"
+    excerpt: "Facebook AI Research shared its progress on developing AI systems that can understand and interact through touch."
+    publishedDateTime: 2021-11-01T22:29:00Z
+    webUrl: "https://syncedreview.com/2021/11/01/facebook-ai-is-teaching-robots-to-perceive-understand-and-interact-through-touch/"
+    ampWebUrl: "https://syncedreview.com/2021/11/01/facebook-ai-is-teaching-robots-to-perceive-understand-and-interact-through-touch/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/01/facebook-ai-is-teaching-robots-to-perceive-understand-and-interact-through-touch/amp/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 53
     images:
-      - url: "https://menafn.com/updates/pr/2021-10/30/TAP_a751b066-4_Image_In_Body.jpg"
-        width: 500
-        height: 333
+      - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/11/FacebookAI-Robots.jpg?fit=950%2C634&ssl=1"
+        width: 949
+        height: 633
         isCached: true
+  - title: "Before Going Meta, Mark Zuckerberg Must Fix Facebook"
+    excerpt: "No matter what Facebook is called now ... Although the conference was officially called the Dartmouth Summer Research Project on Artificial Intelligence, many attendees balked at that term, invented by McCarthy. “I won’t swear I hadn’t seen it ..."
+    publishedDateTime: 2021-10-29T13:41:00Z
+    webUrl: "https://www.wired.com/story/plaintext-zuckerberg-fix-facebook-meta/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 34
+  - title: "Facebook grilled by UK lawmakers making online safety rules"
+    excerpt: "British lawmakers grilled Facebook on Thursday over how it handles online safety as European countries move to rein in the power of social media companies. Facebook’s head of safety said the tech giant supports regulation and has no business interest in providing people with an “unsafe experience."
+    publishedDateTime: 2021-10-31T10:54:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
+  - title: "Inside Google and Facebook’s ad empires"
+    excerpt: "There’s a vigorous public debate about the benefits and serious trade-offs of the digital worlds that Google and Facebook have created. They seem less mythical and imposing when you know that their empires are built on selling us more socks."
+    publishedDateTime: 2021-11-01T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/inside-google-and-facebooks-ad-empires/"
+    ampWebUrl: "https://www.seattletimes.com/business/inside-google-and-facebooks-ad-empires/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/inside-google-and-facebooks-ad-empires/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
 
 secured: "t6tkoN60O835PSGtaX970mcOPMFBLTTnXaDS2QBgC/I0+VnqO+I8I8FqZCpSZV9LDn+T74AzcdlE8DoHKhZ9Cvs3N9tGD9t1FFvQg5VxuRY9mR5r6EHdZ6SWchCA3qUn80VMwY30YXSB8cPDF7Ccaf5KWmJelzLV+Fo8QT45rL20IHRYUHCrORMNYsPQcRTrSCIN7fcwRkK8E8H/Zj1nnwVUlj4T1KVVArQ77/iC21OzSFSkF1oM1+qgKDV7atYH1ZduK6HJj4y683CLamKmULQ+k2/h6Xq72/FAOaSFCZwLi8zIkKM8VIevhbxHlnFXS5pT2Oq94ycrO+iuHNARQ/EMxYSkjdnyKQVx4EcTSjmA/ubcLFk4MuOKw/RaTMTVkFFSZHllSWI3zfoSbzxWk1Ui8zUdJWtQBewpyhBJUya6SQkblFXVk5bq9p6XIDSOaVg/INJij/wMBXQg6bqL9SL5NkjETAeE2r+6cI4r3OlLdewSTbB1UI2LjzUse5yovHd2PMxL67VKmv3Hb17vLg==;EzjH5CTrRAfbzbIJG4OVig=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 507
     isCached: true
 
+related:
+  - title: "General Motors Backed Radar Software Developer Oculii to be Acquired by Silicon Valley Computer Vision Company Ambarella Inc."
+    excerpt: "Ambarella Inc. (Nasdaq: AMBA), a Silicon Valley-based developer of semiconductors for high-definition video compression and computer vision processing, announced this week it has entered into a definitive agreement to acquire Oculii,"
+    publishedDateTime: 2021-10-28T23:00:00Z
+    webUrl: "https://www.futurecar.com/4961/General-Motors-Backed-Radar-Software-Developer-Oculii-to-be-Acquired-by-Silicon-Valley-Computer-Vision-Company-Ambarella-Inc"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 12
+    images:
+      - url: "https://img.futurecar.com/202110/28/l_617b2b3c2b5f1.jpeg"
+        width: 800
+        height: 571
+        isCached: true
+
 secured: "lceSIhcmYDj6E5SqvzAn/Y6vHKiDkwsjCt7JLTFvjRvOMWcqTBBt7ZhCcGxpuAWzVzAwpWE/eJ/UD70CN5H7GrutpK0S4hcfZlY8/vnRNeFif4zQRobx51MpRw2Ktxc8FNszBOSmflgnitS7OxzOJMm+EKM92xOps/1LC0AQtMa7PfTKTsDepxA5d1xqvO0whVV7460pjlXLEcyg62CSYk/26xx64dKEaR71vIxRnNQqUbmCi5uw5nl/9j5Sup03FPBeSqmCFQ6iTPOwyG5Peuf4VDpq/rAaOL8ytuFsk88g/DQlI7pfiqdQEq3JcoVTdPUKYt3PMxGAvnSje0mfY/G9XHof5unEK8U5+EoScwd8IV8e8rJUOqwv9n0F1g6i9I/p/CB2jQGsisk8f9KgvjOfRMZ9BpQenabD09rhLF5Aquk6rAAMyf9aUI6OjmpvDZG0ZJbQcI6McpH7pokrfdA/N+ISjoI/t4mj0s0NKi6/xCCIMCnKjYuV7EldHNA53Ab4k1dlL2OFVDTjxipyIA==;ZNGGpdQk3I/ihZdOmo+rZw=="
 ---
 

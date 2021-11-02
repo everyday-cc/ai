@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-comi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Robot food delivery, coming soon to a campus near you"
+    excerpt: "Robots navigate the Bowling Green State University campus in Bowling Green, Ohio on Thursday, Oct. 13, 2021. Robot food delivery is no longer the stuff of science fiction. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-02T11:12:00Z
+    webUrl: "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/11/Starship_Robot_AP_Asset_ID_19957182.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "2ECLzX5CydK5sg/RKcek3CCZ+nLenI6QPjm/CwfCJHrUd1aoe9PJ/LsdT8QBAbW3SRC/kvgXhxEjvpTD9ToHuL0ZsmJIktb1i4cnNDP9syov8g5eqNBV8q/nOffWGOKfw258I2eFtEN/zpu41iBcb28Y4Cr54+XIOGVXkwI7BJrAVWRN+QUkIUlqKRhCzQl4AUT9QxQB+eg3JTw9KlqCIU5JzY4LsXebKtH92fcYCwc64mkSMG0UJshVXbNfAEt13wKsO2MINyIjkfZ3p9QQABnvpNBIUVDUU68/kqqKpcV7PBe6/AhiKcusGD17H1X7LvM3nOSMbxOHVOQpoRl9bW27Q49McdXvVe8JQF4I/eCbVJ97ukRAdPaVhAQdrJE+1MEGlb+4Du36AfmGNvXIf5/fsaYyXSFytXT4O8LzrzXD5DCjoJ9qVMhBeHZM4B5yma8gnQhuVLgjAQOBa8WD9H8IZRg+RVdq/cnG65eXYfU7t69/UQzQdQMCXBdmsuhRIO63Pe3i5eRu5OHV/wKVTg==;MWT3VPiGe7m2xrxnoherLQ=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Government Official Slams Tesla’s Full Self-Driving Feature – Says Tesla Needs To Do More"
-    excerpt: "Driving” feature when it was launched but it was revealed that it is a software suite that doesn’t enable full self-driving. This made it fairly unpopular among federal regulators. In a Tuesday interview with CNBC,"
-    publishedDateTime: 2021-10-28T18:40:00Z
-    webUrl: "https://wonderfulengineering.com/government-official-slams-teslas-full-self-driving-feature-says-tesla-needs-to-do-more/"
-    ampWebUrl: "https://wonderfulengineering.com/government-official-slams-teslas-full-self-driving-feature-says-tesla-needs-to-do-more/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/government-official-slams-teslas-full-self-driving-feature-says-tesla-needs-to-do-more/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 50
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/Tesla-Full-Self-Driving-Beta-Hero.jpg"
-        width: 1500
-        height: 742
-        isCached: true
 
 secured: "QEu3rR8RJTcrJwHjptDXi8bw8fjaY7gyXvowMJqTcR1KRLBdnrCy9pCD9ks+xBSCZwv20DU6XGYa5s0LKaN43eIMS7EEd7b06fAq9R3HxQQLoTUSz+WiSLCYJtx4AqrRA9EBmGwOk1tM/bujUil/v2ShhVKvGnD0WUjJjzZLNvR4qbPKY5bqn2IftU/tGsox108JaVgXi3QDgvczpD019siGYAEg99RWK53dQLSdBJY+XFPYnlrcPjq/+yv+riybliQwOvTGF1PAChj8jHCMYvpbAZvALr1wAZjerySLv4RgZHOKZ7J1+KS3fv9+eTCqNLSZlqtkhAziMfWeFMf2iJ4H+5s+WzFTzkqiAa6geZhoA6rBPbMh9Y0rtpL59XTNIqJN4cwDWbZoBvObKeQ3L5lPOWwSyKOSgNTTefuyTbnOyVwvXKxGw6ZCvxSBUlZnhyMOcgykIOABaWNvKQF5x7twydiRLiTLZBb2eRQobjRXxLzTtVdGbyFZVpWmjRNVhL1inaeAWapbbhwCikhKyg==;H+8pqMl49PcK1JXhD3i+ag=="
 ---

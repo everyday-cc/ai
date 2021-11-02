@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-unveils-pathways-a-n
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: ZDNet
@@ -29,38 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Introducing Pathways: A next-generation AI architecture"
-    excerpt: "When I reflect on the past two decades of computer science research, few things inspire me more than the remarkable progress we’ve seen in the field of artificial intelligence.In 2001, some colleagues sitting just a few feet away from me at Google realized they could use an obscure technique called machine"
-    publishedDateTime: 2021-10-28T19:00:00Z
-    webUrl: "https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/"
-    ampWebUrl: "https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/pathways_3.gif"
-        width: 1048
-        height: 591
-        isCached: true
-  - title: "Google developing ‘next-generation’ AI capable of learning millions of tasks"
-    excerpt: "In 2016, the company’s researchers upgraded the AI powering Google Translate with the ability to translate text between two languages even if it wasn’t specifically trained to do so."
-    publishedDateTime: 2021-10-29T17:59:00Z
-    webUrl: "https://siliconangle.com/2021/10/29/google-developing-next-generation-ai-capable-learning-millions-tasks/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/google-1.png"
-        width: 863
-        height: 483
-        isCached: true
 
 secured: "qhdVMS1RiGmv6ErGz8q99gnvnn9B2RzYGirQnqWRPn9OKOM7ktIwIHW7w5iOSP7kmUtUjUi7JWihirns0h+SNSUduvbHQGFeWDEVBxn0HQ4vopF8UcF5WWMBR2z2gmIbEwMJofmLNTy675ndsNGKwRa9pHXfSdpfWfljYWRhR2nwXlvR88eLpAndnTobABwquLw9FEQImsyxbkvqtnySP3I95vy0FB1iVKt+2eC2E5KXCKFCArb1qa4r817e8GLUsfU3GcA8S8kgDq8xYt7Lwveb+5i5UKQ6Dz7MSZknXChWQp098jHkWV81YIsUWZ3ZcN0rV82v83qNw5/o/G3751QQl1aLRO5O3Q1WmvzjK474h8NiUDeTdAVd6wtoHNI2P/j/MnoJIP/OHVgsh3LcRchhG2DC8ZVqEB9ZRjSEOKPYsJeoWsHBKcaPYxlbItfMT0SYQWJ20BAe/hnOXUC5Py41JbyI7ZFJDWalncXevxZ0Eq89gwjSN9VSZB1EA87kcucTrRp4j0SZx6lb4l79nA==;uh2Jp5eyWBKgVRhYVl5dfg=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "After the Facebook Papers, what’s next for, err, Meta?"
-    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its ... Teenage users of the Facebook app in the US have shrunk by 13% since 2019, according to the company’s own research."
-    publishedDateTime: 2021-10-28T20:07:00Z
-    webUrl: "https://thenextweb.com/news/whats-next-for-facebook-meta-rebrand-regulation-growing-old"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-9-1.jpg&signature=3c8ce726468cfc55b53bf6e549d93ffe"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Metaverse Here We Come: Why This Matterport Analyst Is Bullish As Facebook Rebrands"
     excerpt: "The partnership was for creating the largest-ever dataset of 3D indoor spaces via Facebook AI Research. “We believe this was the first step towards a much broader Facebook and Matterport ..."
     publishedDateTime: 2021-10-29T20:17:00Z
@@ -100,6 +86,20 @@ related:
       - url: "https://m-cdn.phonearena.com/images/articles/381734-940/facebook-metaverse-eric-schmidt.jpg"
         width: 939
         height: 626
+        isCached: true
+  - title: "Visual AI panel and musings about photographers in Facebook’s metaverse"
+    excerpt: "Visual 1st held a panel of scientists and tech gurus called \"Visual AI — The One-Click Future and Beyond,\" discussing the role of AI in visual fields."
+    publishedDateTime: 2021-11-02T10:00:00Z
+    webUrl: "https://photofocus.com/opinion/visual-ai-panel-and-musings-about-photographers-in-facebooks-metaverse/"
+    type: article
+    provider:
+      name: Photofocus
+      domain: photofocus.com
+    quality: 41
+    images:
+      - url: "https://eadn-wc03-5047357.nxedge.io/cdn/wp-content/uploads/2021/10/markus-spiske-iar-afB0QQw-unsplash.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Taiwan's AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
     excerpt: "TAIPEI, TAIWAN - Media OutReach - 29 October 2021 - Taiwan's top annual event for artificial intelligence, AI Day 2021, assembled key international stakeholders from across public and private sectors at Gaming Space in Taipei from October 27 to 28 morning,"

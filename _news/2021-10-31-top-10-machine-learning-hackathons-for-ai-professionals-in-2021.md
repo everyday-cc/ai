@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "100% Virtual Artificial Intelligence Hackathon"
+    excerpt: "Stimulating the application of Artificial Intelligence within the development and technology ecosystem is vital to promote innovation in Mexico."
+    publishedDateTime: 2021-11-01T15:09:00Z
+    webUrl: "https://www.entrepreneur.com/article/394605"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1635779345-hackaton1.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "FJtcMHIYQE9ymRpZ13zaori3PtywxxYjj4TvQ5tjZfjKcG0K3F1H7K6DcMrH7tDkwgAABaCfloYz9TGkAc+hOISMi/ET2yenmkiEGVioyW3xauV/RlVnTXMBX/TIA9GekK78P4zgXrW6n6qa1WTxmrGJJPm8JM5sE8dMuhh0lykM6cG685Hm4ZCjtQSN3N+AH4Us+XDt10hOtrqSKkPxpSTaxHSR8IbDcgqmN7IGK00mPiVZvFDJyilKw2QUMN9PhaQe56BspBC0K+PJNQn03fyTV/t78KkNvbB6BJhYpzGEtKVAYyyNfeqw+YC/AClb2/SIPtz9MdskDl6IRVEL7DtN0uHItTKLwoT5GepqaeSnyzSJwS3J+mrN57TniLwo49/4D7XFObCPA+2VdcKjn5G/Jlgom0INntrEucA8mXzBvox0LRZ/+tbVrVAj4iTyI/FsddkqRF8LMvX3J9wE+b83usTLIMgOK7oB6Qvtd3yE2OzEzas9xWJw2787GirPkKWwQoZB4VFyjqx8roLdJQ==;UhZytFn3fEi2vkj7zELpUg=="
 ---

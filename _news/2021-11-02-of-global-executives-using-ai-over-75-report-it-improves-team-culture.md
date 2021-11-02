@@ -33,7 +33,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://mma.prnewswire.com/media/1675608/MIT_Sloan_Management_Review_and_BCG.jpg"
         width: 400
@@ -54,6 +54,6 @@ related:
         height: 364
         isCached: true
 
-secured: "Gj0CoEqYiKBOgZJM9kH8hT23d3azefGwqH+3LA/m4RV6cGYW7w7Qst1xoJ+oLUIU/3vBBzPSdpjWzZKCgGRyv3VFkZpB5sUqbmWr2ph9xWVt7fEOM5JwKIAEJD1wp4/0yCRwJunt+GQDCJflApPNtkkyoM+WzSlr9pS0EhyxiFnqqnYNbQ/4KVWH4gPK5joDza0XkX68sXBLvlm9PXZhgtA+uFHVC+Pi3xfUljTzYxblBmCG8j+UW32eveZF7PSDTUTfFijzq4klKxYO8rwS3s9GJMlXL2Y5/dy6eDwlofepOo8+aTbZS+Xi1vJG7HmA7micPA8BfA7LrRrbkTgJf4RYScgKQSRg+omfXrjDzFI=;NhjSovNnyjPfnLOAjCqulA=="
+secured: "ApLGDMdmkynqaA56pXiYkwiYTM5/DRioZ1NhPFwuKCEjhLHSHa2L54pgNpi7zoDfvRFvDTJ0AY0RpXNVoXL428BPdtIp3uLzLBhPG+oQCu/PcYEU9hpcPQ/gRzEnkSvUUtc7cDvp4KCQW8VIhNB6jUcwkRadftktOClW/tPvVSWTiENMhCuL3W2DucaIBpXWNNqnSfSUm5FnLM+5Rurz7t3d+OhL/rKEYOXKZDGnRQtOBjI6QfZiFLe2uLo0dE8RIGobWYuxNLg13iBNG4bm4d72zESbEgVdVtUs8ga3IamBaE5aWe4mnmwOsbapmJnkhZm//JEZCb4ciiKVf+eBKETUZ60wgg54+pXQfm1ANs09G+hor4n6AXLzjMABH/sz3sd6unJDr9hW4s42Q6RoPwPZ5WQiSP+s5AT14umT3RxQYGkNjNTftUv+O+mjckBhpw+SCU4WUbL/9XeN+Wsur322K2S0VgODJGV3ctF0vOJK1wpl40KYLQxpS/vlkNPzPpJDdKq7wllgRJ5TOJxKGQ==;GxVz9D+oVI9S89Ckh+8d/w=="
 ---
 

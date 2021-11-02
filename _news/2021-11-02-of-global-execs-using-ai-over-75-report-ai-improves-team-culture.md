@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-02T05:01:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643"
 webUrl: "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643"
 type: article
-quality: 67
-heat: 87
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://mma.prnewswire.com/media/1675608/MIT_Sloan_Management_Review_and_BCG.jpg"

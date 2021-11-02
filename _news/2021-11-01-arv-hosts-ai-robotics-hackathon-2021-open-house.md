@@ -7,7 +7,7 @@ originalUrl: "https://www.newswit.com/en/LN9T"
 webUrl: "https://www.newswit.com/en/LN9T"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "100% Virtual Artificial Intelligence Hackathon"
+    excerpt: "Stimulating the application of Artificial Intelligence within the development and technology ecosystem is vital to promote innovation in Mexico."
+    publishedDateTime: 2021-11-01T15:09:00Z
+    webUrl: "https://www.entrepreneur.com/article/394605"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1635779345-hackaton1.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Top 10 Machine Learning Hackathons for AI Professionals in 2021"
     excerpt: "There is a rise in machine learning hackathons. Online machine learning hackathons are quite popular. Hackathons in machine learning can help professionals. This article lists the top machine learning hackathons in 2021."
     publishedDateTime: 2021-10-31T12:30:00Z
