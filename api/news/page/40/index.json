@@ -2,6 +2,196 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-10-01-google-and-deepmind-face-lawsuit-over-deal-with-britains-national-health-service.md",
+      "title": "Google and DeepMind face lawsuit over deal with Britain’s National Health Service",
+      "excerpt": "DeepMind found itself in the spotlight in 2016 when the New Scientist reported that its collaboration with the U.K.'s National Health Service went beyond what was publicly announced. British law ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104485829-GettyImages-515689364.jpg?v=1633088344",
+          "width": 1024,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
+      "publishedDateTime": "2021-10-01T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-how-to-get-your-cloud-migration-strategy-right.md",
+      "title": "How To Get Your Cloud Migration Strategy Right",
+      "excerpt": "This transformational effort includes migrating workloads to Amazon Web Services, Microsoft Azure, and Google Cloud Platform, which may not have been historically deployed as cloud-ready applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/",
+      "originalUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615499ae3a419e32bc2c8594%2F0x0.jpg",
+          "width": 1200,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/amp/",
+      "publishedDateTime": "2021-10-01T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-tech-offerings.md",
+      "title": "M2P Fintech Acquires Saas Platform Origa.ai To Ramp Up Tech Offerings",
+      "excerpt": "M2P Fintech said in a press release the acquisition will help the firm to bolster its technology capabilities around new age collection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "originalUrl": "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.outlookindia.com/public/uploads/articles/2021/10/1/m2p_550_550.jpg",
+          "width": 550,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "publishedDateTime": "2021-10-01T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-honda-plans-new-air-taxi-robotics-and-space-technologies.md",
+      "title": "Honda plans new air taxi, robotics and space technologies",
+      "excerpt": "These areas include developing a new electric vertical take-off and landing (eVTOL) air taxi, new robots and space vehicles. The Honda eVTOL aircraft leverages Honda’s electrifi",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/17269/honda-plans-new-air-taxi-robotics-and-space-technologies",
+      "originalUrl": "https://electronics360.globalspec.com/article/17269/honda-plans-new-air-taxi-robotics-and-space-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electronics360.globalspec.com/images/assets/269/17269/Honda_eVTOL.jpg",
+          "width": 752,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions.md",
       "title": "IQ-AI says new publication shows impact of Imaging Biometrics software solutions",
       "excerpt": "Neurosurgery Open published a study that suggested that IB Clinic should be routinely used to optimise surgical guidance and pathologic diagnosis",
@@ -985,189 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-how-artificial-intelligence-can-change-education.md",
-      "title": "How Artificial Intelligence can change Education",
-      "excerpt": "Conversations about Artificial Intelligence usually involve robots, space exploration machines, and smart home devices. The impact of this technology on education is much less discussed, although AI could change it completely.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/how-artificial-intelligence-can-change-education/",
-      "originalUrl": "https://techbullion.com/how-artificial-intelligence-can-change-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/09/Artificial-Intelligence-Education.png",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/how-artificial-intelligence-can-change-education/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-can-change-education/amp/",
-      "publishedDateTime": "2021-09-30T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-tensorflow-1x-vs-tensorflow-2-behaviors-and-apis.md",
-      "title": "TensorFlow 1.x vs TensorFlow 2 - Behaviors and APIs",
-      "excerpt": "Under the hood, TensorFlow 2 follows a fundamentally different programming paradigm from TF1.x. This guide describes the fundamental differences between TF1.x and TF2 in terms of behaviors and the APIs, and how these all relate to your migration journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=zh-cn",
-      "originalUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=zh-cn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-create-amazon-sagemaker-projects-with-image-building-cicd-pipelines.md",
-      "title": "Create Amazon SageMaker projects with image building CI/CD pipelines",
-      "excerpt": "Amazon SageMaker projects are AWS Service Catalog provisioned products that enable you to easily create end-to-end machine learning (ML) solutions. SageMaker projects give organizations the ability to use templates that bootstrap ML solutions for your users to speed up the start time for ML development.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-with-image-building-ci-cd-pipelines/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-with-image-building-ci-cd-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/28/ML-5720-image017.jpg",
-          "width": 500,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T11:15:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-microsoft-announces-preview-of-on-demand-capacity-reservations-for-azure-virtual-machines.md",
-      "title": "Microsoft Announces Preview of On-Demand Capacity Reservations for Azure Virtual Machines",
-      "excerpt": "AI tools are slowly replacing the role of the ... Recently, Microsoft announced the preview of on-demand capacity reservations for Azure Virtual Machines (VMs). With this new feature for VMs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
-      "originalUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/09/azure-vm-ondemand-capacity/en/headerimage/generatedHeaderImage-1632562426442.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

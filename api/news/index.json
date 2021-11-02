@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-02-build-a-shelf-monitoring-application-using-aws-panorama.md",
-      "title": "Build a shelf monitoring application using AWS Panorama",
-      "excerpt": "Out-of-stock (OOS) is an essential metric tracked across the retail industry. Brick-and-mortar retailers seek to reduce their costs associated with OOS items, while simultaneously increasing shopper satisfaction without inventory surplus. A product can be OOS in three main ways: Distribution OOS, Store",
+      "path": "_news/2021-11-02-host-rstudio-connect-and-package-manager-for-ml-development-in-rstudio-on-amazon-sagemaker.md",
+      "title": "Host RStudio Connect and Package Manager for ML development in RStudio on Amazon SageMaker",
+      "excerpt": "Today, we announced RStudio on Amazon SageMaker, the first machine learning (ML) integrated development environment (IDE) in the cloud for data scientists working in R. The open-source language R and its rich ecosystem with more than 18,000 packages has been a top choice for statisticians, quant analysts,",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-shelf-monitoring-application-using-aws-panorama/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-shelf-monitoring-application-using-aws-panorama/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-rstudio-connect-and-package-manager-for-ml-development-in-rstudio-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-rstudio-connect-and-package-manager-for-ml-development-in-rstudio-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/01/ML-2364-image003-1260x548.png",
-          "width": 1260,
-          "height": 548,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML-5364-image001-657x630.png",
+          "width": 657,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T10:27:00-07:00",
+      "publishedDateTime": "2021-11-02T12:55:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -50,7 +50,259 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-trust-the-ai-you-decide.md",
+      "title": "Trust The AI? You Decide",
+      "excerpt": "I wrote about fatal flaws in algorithms that were developed to mitigate the COVID-19 pandemic. Now comes a flurry of articles on an algorithm developed by Epic to provide an early warning tool for sepsis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/11/02/trust-the-ai-you-decide/",
+      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/11/02/trust-the-ai-you-decide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61818f58d754d2e4514d1794%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/11/02/trust-the-ai-you-decide/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/11/02/trust-the-ai-you-decide/amp/",
+      "publishedDateTime": "2021-11-02T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-global-ai-powered-healthcare-solutions.md",
+      "title": "Global AI-Powered Healthcare Solutions",
+      "excerpt": "Babylon - Tech giant Microsoft has announced a new partnership with Babylon Cloud Services—a company specializing in digital self-care. Together the",
+      "sourceUrl": null,
+      "webUrl": "https://www.trendhunter.com/trends/babylon",
+      "originalUrl": "https://www.trendhunter.com/trends/babylon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.trendhunterstatic.com/thumbs/babylon.jpeg",
+          "width": 800,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.trendhunter.com/amp/trends/babylon",
+      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/babylon",
+      "publishedDateTime": "2021-11-02T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TrendHunter",
+        "domain": "trendhunter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-tesla-forced-to-recall-11704-vehicles-over-full-self-driving-glitch.md",
+      "title": "Tesla Forced to Recall 11,704 Vehicles Over Full Self-Driving Glitch",
+      "excerpt": "The software communication issue resulted in some vehicles automatically engaging their brakes, which could lead to rear-end collisions.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
+      "originalUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/69e4164c55ef29e39af285baf98e4c76.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp",
+      "publishedDateTime": "2021-11-02T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-meet-the-ai-powering-todays-smartest-smartphones.md",
+      "title": "Meet the AI Powering Today’s Smartest Smartphones",
+      "excerpt": "Artificial intelligence is increasingly becoming the differentiator that makes a new generation of smartphones truly clever. The ability of phones to generalize and determine what might happen next based on previous patterns and datasets—what’s known as machine learning—is,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/",
+      "originalUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/613f8386924283bfff0bca68/master/pass/WIRED_Qualcomm_header%20gif%20rev.gif",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp",
+      "publishedDateTime": "2021-11-02T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-automated-claims-processing-at-xactware-with-machine-learning-on-aws.md",
+      "title": "Automated claims processing at Xactware with machine learning on AWS",
+      "excerpt": "This blog post was co-authored, and includes an introduction, by Aaron Brunko, Senior Vice President, Claims Product at Xactware. Property insurance claims involving the valuation and replacement of personal belongings can be a painful process for everyone involved after a loss. From catastrophic events",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automated-claims-processing-at-xactware-with-machine-learning-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automated-claims-processing-at-xactware-with-machine-learning-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4776-image005-1260x613.png",
+          "width": 1260,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T11:10:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
       ]
     },
     {
@@ -114,7 +366,7 @@
       "originalUrl": "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -304,7 +556,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 266,
       "tags": null,
       "images": [
         {
@@ -344,7 +596,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -550,58 +803,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-tesla-recalls-11704-vehicles-after-identifying-full-self-driving-beta-software-error.md",
-      "title": "Tesla recalls 11,704 vehicles after identifying Full Self-Driving Beta software error",
-      "excerpt": "Tesla voluntarily recalled nearly 11,704 vehicles after identifying a software error that could cause a false forward-collision warning or unexpected activation of the automatic emergency brake system,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after-identifying-full-self-driving-beta-software-error/",
-      "originalUrl": "https://techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after-identifying-full-self-driving-beta-software-error/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1232815520.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after-identifying-full-self-driving-beta-software-error/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after-identifying-full-self-driving-beta-software-error/amp/",
-      "publishedDateTime": "2021-11-02T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1061,212 +1262,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-of-global-execs-using-ai-over-75-report-ai-improves-team-culture.md",
-      "title": "Of Global Execs Using AI, Over 75% Report AI Improves Team Culture",
-      "excerpt": "More than 75% of managers who reported that their artificial intelligence implementations improved their team's decision-making and efficiency also saw improvements in collective learning (87%), team morale (79%),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1675608/MIT_Sloan_Management_Review_and_BCG.jpg",
-          "width": 400,
-          "height": 231,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-avoiding-shortcut-solutions-in-artificial-intelligence.md",
-      "title": "Avoiding shortcut solutions in artificial intelligence",
-      "excerpt": "MIT researchers developed a technique that reduces the tendency for contrastive learning models to use shortcuts, by forcing the model to focus on features in the data that it hadn’t considered before.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/shortcut-artificial-intelligence-1102",
-      "originalUrl": "https://news.mit.edu/2021/shortcut-artificial-intelligence-1102",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202111/MIT-Contrastive-Learning-01-press.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T21:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-ford-taps-non-it-professionals-to-broaden-its-ai-expertise.md",
-      "title": "Ford Taps Non-IT Professionals to Broaden Its AI Expertise",
-      "excerpt": "The auto maker has trained more than 1,000 employees on a platform it developed to put AI tools in the hands of people across the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
-      "originalUrl": "https://www.wsj.com/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-427127/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
-      "publishedDateTime": "2021-11-01T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-the-challenge-of-being-human-in-the-age-of-ai.md",
-      "title": "The Challenge of Being Human in the Age of AI",
-      "excerpt": "Reason is our primary means of understanding the world. How does that change if machines think?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271",
-      "originalUrl": "https://www.wsj.com/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-427090/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271",
-      "publishedDateTime": "2021-11-01T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

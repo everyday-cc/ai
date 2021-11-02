@@ -1,18 +1,18 @@
 ---
 category: news
 title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
-publishedDateTime: 2021-11-02T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
+excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
+publishedDateTime: 2021-11-02T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
+webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
@@ -29,7 +29,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 124
+    quality: 126
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"
         width: 1200
@@ -222,6 +222,6 @@ related:
       domain: openpr.com
     quality: 13
 
-secured: "NPB9HL4FoSGY/RPTh45u/cC6CasimJDtFdIA1LqhnV1+qWsZuhL10Dd3yp/JNRGTkOljltph5h+V4pTjT6+E2azawpOlihaF5ZIzIYtbxXgLQOa5vZMevhGhUIrT1oYrTmRUTpdnl5R18yZVey0OwyYQGwVvPOV+Z22xIKGG0aqU6PsylP1Tyvhd5QO+426OBQo0uvD/9XrvfH8id9d5xfU0tFUy09pUiCT1wPYhVvtGq5d2NwtnAgaiCwtyD6POUuNa/veIc15SE0BC8YumYbbc8F+gvgjEVIb74ZideY1J2HRaWnQaCv9bHNZoJOurOey4hKerO/j/umWNC22ldjx5np6KpTsIGZuSwF8e3Kg=;HinSobmiDbi3kokuApZRgg=="
+secured: "W+mnkRvxUw4Ea32fePsDkEOlIskQTSoJ7fhL0xP3IQibvDw95L+adrQEbn5VCqdiSlT/l0WtMom5TlLnTymButdeT+/DdEnTkhCcWhYzZ5/CJO7cBSWL+0XI9ixTmAA+0duJ081uQT7EYEg7OZgswmkCVADdijHicWZzqZMesEJr2PeaJh00Wn/i/PTVjgYT8c3UbbgLsKjusyYNUcalH1+orFaY+nYf8XPZokPA32+HyxrvEKC8NsNcpJiGXwlQGCjGH/TKjZ5Aizq5DkbhQML+ZsAF1rJmzzXR+LhLTyp1R1on8uvC8VugafjhJAl1yz7EApH+fxwoMp9ZuoH6ky1Tcd9Azg55H+d9Y5Lm3ww=;LmRwIrx0TUiLNp/0T5uRoQ=="
 ---
 

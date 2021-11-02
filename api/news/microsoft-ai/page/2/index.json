@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-18-wandisco-announces-general-availability-of-livedata-platform-for-azure.md",
+      "title": "WANdisco Announces General Availability of LiveData Platform for Azure",
+      "excerpt": "Zero-downtime, data-first automated platform for Hadoop to Azure migration accelerates time to business insights in the cloud",
+      "sourceUrl": null,
+      "webUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
+      "originalUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KKTV11",
+        "domain": "kktv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-the-cloud-computing-ads-in-sports-games-are-out-of-control.md",
+      "title": "The Cloud Computing Ads in Sports Games Are Out of Control",
+      "excerpt": "Cloud commercials in sports are getting almost as ubiquitous as the grand (slash insanely annoying) DraftKings-FanDuel ad war of a few years back. Hardly a highlight can now pass without Google Cloud helping to spew an obscure comparison of baseball hitting averages or Amazon Web Services calculating the predicted overtaking times of Formula One drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-10-18/aws-google-cloud-and-azure-flood-the-airwaves-of-nfl-mlb-nhl",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-10-18/aws-google-cloud-and-azure-flood-the-airwaves-of-nfl-mlb-nhl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in6VwBsYKMkE/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-moving-towards-a-modern-healthcare-future-with-hololens.md",
       "title": "Moving towards a modern healthcare future with HoloLens",
       "excerpt": "Pharmaceutical organisations are discovering multiple applications for mixed reality solutions. They can remotely share their science to accelerate discovery and development, support clinical trials,",
@@ -1220,110 +1306,6 @@
         "name": "Datamation",
         "domain": "datamation.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-cloud-optimization-startup-cast-ai-raises-10m.md",
-      "title": "Cloud optimization startup Cast AI raises $10M",
-      "excerpt": "Cast AI, a startup company developing software that optimizes cloud spend, has raised $10 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/",
-      "originalUrl": "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1181407992.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/",
-      "publishedDateTime": "2021-10-08T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world.md",
-      "title": "The Data and AI landscape 2021: It a MAD, MAD, MAD world",
-      "excerpt": "Data and AI companies used to be considered tech companies. But the wave of IPOs and proliferation of unicorns is turning this market into its own sector. Our question is how sustainable is this MAD new world?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
-      "originalUrl": "https://www.zdnet.com/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/890f80640dd7706a6c82494d036edfe6dca1eeca/2021/10/07/2e0da503-fa3f-4701-8c59-09547ebc7693/data-and-ai-landscape-2021-small-1024x522.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
-      "publishedDateTime": "2021-10-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

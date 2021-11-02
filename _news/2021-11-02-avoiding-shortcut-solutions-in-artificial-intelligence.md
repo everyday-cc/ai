@@ -7,8 +7,8 @@ originalUrl: "https://news.mit.edu/2021/shortcut-artificial-intelligence-1102"
 webUrl: "https://news.mit.edu/2021/shortcut-artificial-intelligence-1102"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Massachusetts Institute of Technology
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global AI-Powered Healthcare Solutions"
+    excerpt: "Babylon - Tech giant Microsoft has announced a new partnership with Babylon Cloud Services—a company specializing in digital self-care. Together the"
+    publishedDateTime: 2021-11-02T19:21:00Z
+    webUrl: "https://www.trendhunter.com/trends/babylon"
+    ampWebUrl: "https://www.trendhunter.com/amp/trends/babylon"
+    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/babylon"
+    type: article
+    provider:
+      name: TrendHunter
+      domain: trendhunter.com
+    quality: 76
+    images:
+      - url: "https://cdn.trendhunterstatic.com/thumbs/babylon.jpeg"
+        width: 800
+        height: 552
+        isCached: true
   - title: "Avoiding Shortcut Solutions in Artificial Intelligence for More Reliable Predictions"
     excerpt: "A new method forces a machine learning model to focus on more data when learning a task, which leads to more reliable predictions. If your Uber driver takes a shortcut, you might get to your destination faster."
     publishedDateTime: 2021-11-02T09:42:00Z

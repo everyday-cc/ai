@@ -7,7 +7,7 @@ originalUrl: "https://shipandbunker.com/news/world/552451-delta-corp-buys-mariti
 webUrl: "https://shipandbunker.com/news/world/552451-delta-corp-buys-maritime-ai-start-up-quantship"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Delta Corp acquires maritime AI start-up Quantship"
+    excerpt: "Fast-growing logistic provider Delta Corp Shipping has acquired Quantship, a pioneering artificial intelligence (AI) platform, which utilises quant algorithms to unlock value in freight markets. Quantship was incubated at Entrepreneur First,"
+    publishedDateTime: 2021-11-02T18:30:00Z
+    webUrl: "https://splash247.com/delta-corp-acquires-maritime-ai-start-up-quantship/"
+    type: article
+    provider:
+      name: Splash 247
+      domain: splash247.com
+    quality: 37
+    images:
+      - url: "https://467222-1467340-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/11/Quantship.jpg"
+        width: 900
+        height: 540
+        isCached: true
 
 secured: "ddO95/+NM9CslZ1W0WG/7wlen9uhkpnelOI1Wui+4i868sTUkdpPxqJHXtK5hoslv3PxGGfaQgxKzx3oOVzuwWKsGS4d+eS1D6ewR1g0QzwROJjdweNCrmAYPy9EpgU1vJVeEk371fJuCFoiyc46Xl6BIOPzgfhEvZht20kX7LXOgRelmZ1sMrVYAgrT7DfCyH21xropthST4CYNnQD+pVmfaPGoNYdytMd9dIRyK5KCGa3y5r+bfwVbkZnfJsGbqruyBpwOD//oXgteXa2E+eyJYCoDynn12yLUlQZ5QslghCHBTOpi6Oa95nWqOlcaVPKlSTJwiKr2C9j7jlvz4fwUNwOVxxkq3gxwgkutyMaIl12eY6zMcwoR+IfTN6AODJIfwcadDT65M3l8PAX0IwafHt4LYTxrJD1/XtbhhwzXQ1TiKcp+7tlP0zcl0xz38VIdlLqQCY2sU+6Ph9uHW4fIH4O+0rg3snCnPJHUElIZGDaKNM2OYQVl/zdjMMPu6vsl0ENyMtGpPiJjXJCOIg==;uF+krD9Cl9/02tQpf3IS5Q=="
 ---

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-03-global-ai-powered-healthcare-solutions.md",
+      "title": "Global AI-Powered Healthcare Solutions",
+      "excerpt": "Babylon - Tech giant Microsoft has announced a new partnership with Babylon Cloud Services—a company specializing in digital self-care. Together the",
+      "sourceUrl": null,
+      "webUrl": "https://www.trendhunter.com/trends/babylon",
+      "originalUrl": "https://www.trendhunter.com/trends/babylon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.trendhunterstatic.com/thumbs/babylon.jpeg",
+          "width": 800,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.trendhunter.com/amp/trends/babylon",
+      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/babylon",
+      "publishedDateTime": "2021-11-02T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TrendHunter",
+        "domain": "trendhunter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-new-azure-openai-service-combines-access-to-powerful-gpt-3-language-models-with-azures-enterprise-capabilities.md",
       "title": "New Azure OpenAI Service combines access to powerful GPT-3 language models with Azure’s enterprise capabilities",
       "excerpt": "The post New Azure OpenAI Service combines access to powerful GPT-3 language models with Azure’s enterprise capabilities appeared first on The AI Blog.\n",
@@ -62,7 +106,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 266,
       "tags": null,
       "images": [
         {
@@ -102,7 +146,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -218,7 +263,7 @@
       "originalUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1022,6 +1067,50 @@
       ]
     },
     {
+      "path": "_news/2021-10-20-google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.md",
+      "title": "Google Cloud tools aim to ease machine learning, cross-cloud analytics",
+      "excerpt": "GCP is offering new data and machine learning tools designed to clear up data inefficiencies and ease application development for enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/692337/google-cloud-tools-aim-ease-machine-learning-cross-cloud-analytics/",
+      "originalUrl": "https://www.reseller.co.nz/article/692337/google-cloud-tools-aim-ease-machine-learning-cross-cloud-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_15.jpg",
+          "width": 472,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-happiest-minds-technologies-happiest-minds-included-in-now-tech-robotic-process-automation-services-analyst-report.md",
       "title": "Happiest Minds Technologies: Happiest Minds included in Now Tech: Robotic Process Automation Services analyst report",
       "excerpt": "SAN JOSE, Calif., LONDON and BENGALURU, India, Oct. 19, 2021 /PRNewswire/ -- Happiest Minds Technologies Limited (NSE: HAPPSTMNDS), a 'Born Digital. Born Agile', Mindful IT Company, today announced",
@@ -1320,92 +1409,6 @@
         "name": "WCAX3",
         "domain": "wcax.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-wandisco-announces-general-availability-of-livedata-platform-for-azure.md",
-      "title": "WANdisco Announces General Availability of LiveData Platform for Azure",
-      "excerpt": "Zero-downtime, data-first automated platform for Hadoop to Azure migration accelerates time to business insights in the cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
-      "originalUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KKTV11",
-        "domain": "kktv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-the-cloud-computing-ads-in-sports-games-are-out-of-control.md",
-      "title": "The Cloud Computing Ads in Sports Games Are Out of Control",
-      "excerpt": "Cloud commercials in sports are getting almost as ubiquitous as the grand (slash insanely annoying) DraftKings-FanDuel ad war of a few years back. Hardly a highlight can now pass without Google Cloud helping to spew an obscure comparison of baseball hitting averages or Amazon Web Services calculating the predicted overtaking times of Formula One drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-10-18/aws-google-cloud-and-azure-flood-the-airwaves-of-nfl-mlb-nhl",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-10-18/aws-google-cloud-and-azure-flood-the-airwaves-of-nfl-mlb-nhl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in6VwBsYKMkE/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

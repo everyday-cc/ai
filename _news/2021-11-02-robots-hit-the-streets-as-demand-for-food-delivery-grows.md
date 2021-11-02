@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-dema
 cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robots hit the streets as demand for food delivery grows"
+    excerpt: "Hundreds of little robots are now navigating college campuses and even some city sidewalks in the U.S., the U.K. and elsewhere."
+    publishedDateTime: 2021-11-02T19:39:00Z
+    webUrl: "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+    ampWebUrl: "https://www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/business/2021/11/02/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 59
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2021/11/Robot_Food_Delivery_67862-6180b92c0ec28-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Little Robots Like These Are Fulfilling More Food Orders as Demand for Delivery Grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
     publishedDateTime: 2021-11-02T05:14:00Z

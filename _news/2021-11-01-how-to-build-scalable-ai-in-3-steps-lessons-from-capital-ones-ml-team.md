@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-build-scalable-ai-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

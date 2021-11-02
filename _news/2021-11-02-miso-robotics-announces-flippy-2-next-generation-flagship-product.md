@@ -3,8 +3,8 @@ category: news
 title: "Miso Robotics Announces Flippy 2 Next Generation Flagship Product"
 excerpt: "Miso Robotics - the startup transforming the foodservice industry with intelligent automation - unveiled the newest model of Flippy, its flagship product, aptly named Flippy 2. Based on key learnings and feedback from innovation partner White Castle,"
 publishedDateTime: 2021-11-02T13:30:00Z
-originalUrl: "https://www.roboticstomorrow.com/news/2021/11/02/miso-robotics-announces-flippy-2-next-generation-flagship-product/17721/"
-webUrl: "https://www.roboticstomorrow.com/news/2021/11/02/miso-robotics-announces-flippy-2-next-generation-flagship-product/17721/"
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=17721"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=17721"
 type: article
 quality: 34
 heat: -1
@@ -33,21 +33,7 @@ related:
         width: 1038
         height: 612
         isCached: true
-  - title: "Miso Robotics Upgrades Burger-Flipping Robot with 'Flippy 2'"
-    excerpt: "Miso Robotics— the startup transforming the foodservice industry with intelligent automation—unveiled the newest model of Flippy, its flagship product, aptly named Flippy 2. B"
-    publishedDateTime: 2021-11-02T12:26:00Z
-    webUrl: "https://www.qsrmagazine.com/news/miso-robotics-upgrades-burger-flipping-robot-flippy-2"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 54
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-11/flippy2.jpg?itok=Bl9Jm_we"
-        width: 765
-        height: 446
-        isCached: true
 
-secured: "3SmGFURHRw40AQYFdltIEM/8/JvHWaczdypUnjvSobhS3gEOMvJcGNBw0bbAzC93CBTGgo42aWLDhhLJLgBcfF29KXZGKjcuRLer6hYhAMTfgHcH/1owJ6D18DFOvqcmLdA7s38p/xeOdC2C+MdiYFibVVlvJmVVsMrHGeEzErLD9D1nVo+yaYOh43rdlXrF2pQpJXzG2DJzl0UX3rvcwbCU4Nj/s+m3Fz1t6iWPi5weY0N5ir9MTd2iL4OHpbxqhLCQRtJBSjZp1JgHW9UWBS3SDE/AJG9udi5eoN/dHOfyJWt+/ldHj02TJoGhRwqKaXYVIMrW6hf/882tEMqrZAr93z9iMHuSMBPuMDFg4nI=;NGTbrEfTPbbGLgwSU/ipdg=="
+secured: "x3xncuqCpDpnkRGqw0jXgORcpnjl7411fJzawpDsQzWqE00L+xyafdrpIDhq1VQkJpB304Pkn4J7iWOIi2yfr4Q8ANHOwPED87oTmfhjmlUL86smRYzv5l24R+8ZPhVVpBZLv/wTK0qnCzqCrmeWTds79d69Bjclo4xjPrvlMowlwy/gZtd1owvt9q3HltWWdVpymd4W7Iqs0UgtqxCUPJAL+oS3w+rCGRMZAF8TwgfmeF/Qn9DjaBL094eOSioq9iUg9NBR9MoS/uivgnU8otafAFBHBKTD4wZUF/17AeQFSCAELdLEsHTGQLQZOrMGWY6Ui+1NqUJlaZErg3jxj+e2YOJSgRYSyPqMyHWRj7M=;SdsWe3xcQwG/PnoHoj38Aw=="
 ---
 

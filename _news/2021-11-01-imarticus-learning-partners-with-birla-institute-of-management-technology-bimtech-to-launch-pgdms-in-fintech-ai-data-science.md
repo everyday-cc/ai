@@ -119,6 +119,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Imarticus Learning partners with BIMTECH to launch PGDMs in FinTech, AI & Data Science"
+    excerpt: "Imarticus Learning, a professional education firm, and Birla Institute of Management Technology (BIMTECH), a B-school with a rich heritage, have launched Postgraduate Diploma in Management (PGDM) courses with specialisations in FinTech and AI & Data Science."
+    publishedDateTime: 2021-11-02T18:54:00Z
+    webUrl: "https://www.dailyexcelsior.com/imarticus-learning-partners-with-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 31
+    images:
+      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2021/10/ICC-t20-worldcup-india.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Revolutionary Ways Fintech is Boosting the Property Industry"
     excerpt: "Discover the most disruptive ways fintech expands the property sector, from digital-only lending and fractional ownership, to property-backed stablecoins"
     publishedDateTime: 2021-10-29T09:10:00Z

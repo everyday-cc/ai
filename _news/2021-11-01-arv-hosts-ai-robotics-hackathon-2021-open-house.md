@@ -7,7 +7,7 @@ originalUrl: "https://www.newswit.com/en/LN9T"
 webUrl: "https://www.newswit.com/en/LN9T"
 type: article
 quality: 69
-heat: 89
+heat: 90
 published: true
 
 provider:

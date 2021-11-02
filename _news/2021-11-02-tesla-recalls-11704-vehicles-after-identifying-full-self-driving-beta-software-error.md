@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after-identifying-full-self-driving-beta-software-error/amp/"
 type: article
 quality: 82
-heat: 142
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Forced to Recall 11,704 Vehicles Over Full Self-Driving Glitch"
+    excerpt: "The software communication issue resulted in some vehicles automatically engaging their brakes, which could lead to rear-end collisions."
+    publishedDateTime: 2021-11-02T18:40:00Z
+    webUrl: "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141"
+    ampWebUrl: "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/69e4164c55ef29e39af285baf98e4c76.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Older Teslas Need Upgraded Cameras To Get Full Self Driving"
     excerpt: "Following the introduction of the latest Full Self-Driving Beta, it quickly emerged that no owners of older Tesla models had gained access to the system, despite achieving perfect 100/100 safety scores."
     publishedDateTime: 2021-11-01T20:00:00Z
@@ -46,6 +62,20 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
         width: 1024
         height: 555
+        isCached: true
+  - title: "Tesla recalls 11,706 vehicles over Full Self-Driving Beta software bug"
+    excerpt: "The Texan automaker issued a recall for nearly 12,000 vehicles after an over-the-air software update introduced a new bug that can cause false activations of the cars' forward collision warning and automatic emergency braking (AEB) systems."
+    publishedDateTime: 2021-11-02T18:06:00Z
+    webUrl: "https://arstechnica.com/cars/2021/11/tesla-recalls-11706-vehicles-over-full-self-driving-beta-software-bug/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/tesla-warning-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Tesla issues software recall for glitch in ‘Full Self-Driving’ software"
     excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."

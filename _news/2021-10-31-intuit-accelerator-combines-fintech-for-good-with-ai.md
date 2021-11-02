@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
     quality: 39
     images:
       - url: "https://ibsintelligence.com/wp-content/uploads/2021/11/Future-Blockchain-Summit-.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Imarticus Learning partners with BIMTECH to launch PGDMs in FinTech, AI & Data Science"
+    excerpt: "Imarticus Learning, a professional education firm, and Birla Institute of Management Technology (BIMTECH), a B-school with a rich heritage, have launched Postgraduate Diploma in Management (PGDM) courses with specialisations in FinTech and AI & Data Science."
+    publishedDateTime: 2021-11-02T18:54:00Z
+    webUrl: "https://www.dailyexcelsior.com/imarticus-learning-partners-with-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 31
+    images:
+      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2021/10/ICC-t20-worldcup-india.jpg"
         width: 300
         height: 300
         isCached: true

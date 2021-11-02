@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-29-turning-to-robots-for-career-advice.md",
+      "title": "Turning to Robots for Career Advice",
+      "excerpt": "According to new research commissioned by Oracle, 80% of employees say they’re not satisfied with employer support and 72% of the US workforce think robots and artificial intelligence can support their careers better than humans. Joining us to explain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice",
+      "originalUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/596/45bf940c346f431c9be273b8942ab6eb/59640f3b51cd412a9b3c3b83a2107ec5/poster_da477495870d4fc9a826480e882ccebe.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true",
+      "cdnAmpWebUrl": "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true",
+      "publishedDateTime": "2021-10-29T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC Action News",
+        "domain": "abcactionnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-intel-reconfirms-flagship-arc-alchemist-gpu-specs-and-gamers-will-be-stoked.md",
+      "title": "Intel Reconfirms Flagship Arc Alchemist GPU Specs And Gamers Will Be Stoked",
+      "excerpt": "During its Architecture Day 2021 event earlier this year, Intel outlined its Xe Arc GPU roadmap ... and dedicated matrix engines (up to 16) for AI acceleration. Intel is calling those matrix ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
+      "originalUrl": "https://hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56646/content/Intel_Graphics_Card.jpg",
+          "width": 708,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
+      "publishedDateTime": "2021-10-29T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-the-verbit-model-for-the-future-of-work-with-ai.md",
       "title": "The Verbit Model For The Future Of Work With AI",
       "excerpt": "Verbit is a very successful startup. The 4-year-old developer of an AI-powered transcription and captioning platform has reached unicorn status in June, raising $157 million at a valuation of over $1 billion, for a total of $319 million raised to date.",
@@ -1128,101 +1214,6 @@
         "name": "Long Island Business News",
         "domain": "libn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-aws-releases-amazon-ec2-dl1-instances-that-train-machine-learning-models.md",
-      "title": "AWS Releases Amazon EC2 DL1 Instances that Train Machine Learning Models",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, is releasing Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models. DL1 instances are powered by Gaudi accelerators from Habana Labs (an Intel company) to provide up to 40% better price performance for training machine learning models than the latest GPU-powered Amazon EC2 instances,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta.com",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-monashees-backs-grain-trading-startup-tarken.md",
-      "title": "Monashees backs grain trading startup Tarken",
-      "excerpt": "As its startup market accelerates ... To give similar transparency to grain trading in Brazil, Tarken set up an AI tool that pulls in data from different sources and generates a price for every ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/",
-      "originalUrl": "https://techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/tarken_screencap.png?w=1024",
-          "width": 1024,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/amp/",
-      "publishedDateTime": "2021-10-28T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

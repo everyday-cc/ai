@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-02-host-rstudio-connect-and-package-manager-for-ml-development-in-rstudio-on-amazon-sagemaker.md",
+      "title": "Host RStudio Connect and Package Manager for ML development in RStudio on Amazon SageMaker",
+      "excerpt": "Today, we announced RStudio on Amazon SageMaker, the first machine learning (ML) integrated development environment (IDE) in the cloud for data scientists working in R. The open-source language R and its rich ecosystem with more than 18,000 packages has been a top choice for statisticians, quant analysts,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-rstudio-connect-and-package-manager-for-ml-development-in-rstudio-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-rstudio-connect-and-package-manager-for-ml-development-in-rstudio-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML-5364-image001-657x630.png",
+          "width": 657,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T12:55:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-automated-claims-processing-at-xactware-with-machine-learning-on-aws.md",
+      "title": "Automated claims processing at Xactware with machine learning on AWS",
+      "excerpt": "This blog post was co-authored, and includes an introduction, by Aaron Brunko, Senior Vice President, Claims Product at Xactware. Property insurance claims involving the valuation and replacement of personal belongings can be a painful process for everyone involved after a loss. From catastrophic events",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automated-claims-processing-at-xactware-with-machine-learning-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automated-claims-processing-at-xactware-with-machine-learning-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4776-image005-1260x613.png",
+          "width": 1260,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T11:10:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-key-to-resilient-energy-efficient-aimachine-learning-may-reside-in-human-brain.md",
       "title": "Key to resilient energy-efficient AI/machine learning may reside in human brain",
       "excerpt": "A clearer understanding of how a type of brain cell known as astrocytes function and can be emulated in the physics of hardware devices, may result in artificial intelligence (AI) and machine learning that autonomously self-repairs and consumes much less energy than the technologies currently do,",
@@ -10,7 +116,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2021/11/211101104858.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -105,7 +211,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1283,75 +1389,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-is-data-a-differentiator-for-your-business-if-so-traditional-ocr-cannot-be-an-answer.md",
-      "title": "Is Data a Differentiator for Your Business? If So, Traditional OCR Cannot Be An Answer",
-      "excerpt": "In this contributed article, Ankur Goyal, CEO and co-founder of Impira, discusses how to make the most of your OCR investment with AutoML. Automated Machine Learning is a nascent AI technology that exposes the power of machine learning (ML) to a much broader audience than data scientists and technologists.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2021/10/22/is-data-a-differentiator-for-your-business-if-so-traditional-ocr-cannot-be-an-answer/",
-      "originalUrl": "https://insidebigdata.com/2021/10/22/is-data-a-differentiator-for-your-business-if-so-traditional-ocr-cannot-be-an-answer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-23T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-deep-learning-market-size-analysis-strategic-assessment-market-growth-and-forecasts-to-2026.md",
-      "title": "Deep Learning Market Size Analysis, Strategic Assessment, Market Growth and Forecasts to 2026",
-      "excerpt": "Deepmind Technologies Ltd. Deep learning can be considered as a subset of machine learning and consists of algorithms that allow a software to self-train to execute tasks such as image and speech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2438892/deep-learning-market-size-analysis-strategic-assessment",
-      "originalUrl": "https://www.openpr.com/news/2438892/deep-learning-market-size-analysis-strategic-assessment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2438892/deep-learning-market-size-analysis-strategic-assessment",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2438892/deep-learning-market-size-analysis-strategic-assessment",
-      "publishedDateTime": "2021-10-22T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI",
         "Machine Learning"
       ]

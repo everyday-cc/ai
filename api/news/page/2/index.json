@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-02-of-global-execs-using-ai-over-75-report-ai-improves-team-culture.md",
+      "title": "Of Global Execs Using AI, Over 75% Report AI Improves Team Culture",
+      "excerpt": "More than 75% of managers who reported that their artificial intelligence implementations improved their team's decision-making and efficiency also saw improvements in collective learning (87%), team morale (79%),",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1675608/MIT_Sloan_Management_Review_and_BCG.jpg",
+          "width": 400,
+          "height": 231,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-ford-taps-non-it-professionals-to-broaden-its-ai-expertise.md",
+      "title": "Ford Taps Non-IT Professionals to Broaden Its AI Expertise",
+      "excerpt": "The auto maker has trained more than 1,000 employees on a platform it developed to put AI tools in the hands of people across the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "originalUrl": "https://www.wsj.com/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-427127/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "publishedDateTime": "2021-11-01T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-the-challenge-of-being-human-in-the-age-of-ai.md",
+      "title": "The Challenge of Being Human in the Age of AI",
+      "excerpt": "Reason is our primary means of understanding the world. How does that change if machines think?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271",
+      "originalUrl": "https://www.wsj.com/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-427090/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271",
+      "publishedDateTime": "2021-11-01T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners.md",
       "title": "'Cooperative Perception' Could Help Autonomous Vehicles See Pedestrians Around Corners",
       "excerpt": "New technology developed by researchers in Australia could help self-driving vehicles steer clear of pedestrians and cyclists without a direct line of sight, according to researchers from University researchers.",
@@ -104,7 +260,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2021/11/211101104858.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -345,7 +501,7 @@
       "originalUrl": "https://www.therobotreport.com/top-10-robotics-stories-of-october-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -440,7 +596,7 @@
       "originalUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -597,7 +753,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 394,
       "tags": null,
       "images": [
         {
@@ -701,7 +857,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/three-ways-a-causal-approach-can-improve-trust-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -752,7 +908,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -795,7 +951,7 @@
       "originalUrl": "https://www.newswit.com/en/LN9T",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1040,7 +1196,7 @@
       "originalUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1071,143 +1227,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-flippy-wings-the-chicken-wing-flipping-robot-developed-by-miso-robotics.md",
-      "title": "Flippy Wings the chicken wing flipping robot developed by Miso Robotics",
-      "excerpt": "The Flippy Wings robot, from the makers of Flippy the burger-flipping robot, is an autonomous robot designed to fry chicken wings in restaurants, thereby freeing up staff to take on higher value, customer facing tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://insights.globalspec.com/article/17578/flippy-wings-the-chicken-wing-flipping-robot-developed-by-miso-robotics",
-      "originalUrl": "https://insights.globalspec.com/article/17578/flippy-wings-the-chicken-wing-flipping-robot-developed-by-miso-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insights.globalspec.com/images/assets/578/17578/Miso_Robotics.png",
-          "width": 1038,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-31T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering360 News",
-        "domain": "globalspec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5.md",
-      "title": "Advancing AI Revenue Growth Insights In The Transportation And Logistics Industry Series: Blog #5",
-      "excerpt": "This is the fifth blog in the Advancing AI in the Transportation Industry, focused on drones and references innovations by Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ebb5620c4d03eab6729d8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/amp/",
-      "publishedDateTime": "2021-10-31T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-tech-time-delta-air-lines-launches-new-facial-recognition-software.md",
-      "title": "Tech Time: Delta Air Lines launches new facial recognition software",
-      "excerpt": "To streamline the check-in process at the airport, Delta Air Lines is introducing new facial recognition technology to airport security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/",
-      "originalUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1vhqlrjc8h82r.cloudfront.net/10-31-2021/t_36a7d442f26b4d2085ef3805536c4fcc_name_image.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp",
-      "publishedDateTime": "2021-10-31T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

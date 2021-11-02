@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-shelf-monito
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-shelf-monitoring-application-using-aws-panorama/"
 type: article
 quality: 89
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -27,6 +27,22 @@ images:
     width: 1260
     height: 548
     isCached: true
+
+related:
+  - title: "Automated claims processing at Xactware with machine learning on AWS"
+    excerpt: "This blog post was co-authored, and includes an introduction, by Aaron Brunko, Senior Vice President, Claims Product at Xactware. Property insurance claims involving the valuation and replacement of personal belongings can be a painful process for everyone involved after a loss. From catastrophic events"
+    publishedDateTime: 2021-11-02T18:10:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automated-claims-processing-at-xactware-with-machine-learning-on-aws/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 121
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4776-image005-1260x613.png"
+        width: 1260
+        height: 613
+        isCached: true
 
 secured: "A39BCFfKvypXpkQxWQmdS2K16rs+SQGPnDFywzpbOPSJ12AtNYFmR3dS5qwzl6b2hInv3jfAWG90Mq2UZDK+ztvdGUCArT0ZHOcLTkjSrsTt9jHT0KzoUUchUj0yTdy0h+h5EkwXo/U0vXiSeSriZUnpNRU6Or1ojKbo64CsN9+NLU76rRBfGLFuze3+4SeYl97OVqC6dNdK/93oM7FwYYgt+xckfoo/R4Rw1VG2aio7frv0Y08HIRrSppoI8zVICJcffq27DuW5O4eoR4V2EMENffoLu2Hwb81JT6p4T+ICQgNtC36jGPVZMK6RuPU7cDSDLjbuQAgJIbJY4sg9BMjKTOS/cdXmM2s4X5zzSvU=;/VRT1QCQ7DzkGdpePlrOrw=="
 ---

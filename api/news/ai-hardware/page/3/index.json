@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-05-neural-magic-which-offers-software-for-growing-edge-ai-market-gets-30-million-boost.md",
+      "title": "Neural Magic, which offers software for growing edge AI market, gets $30 million boost",
+      "excerpt": "The market for edge AI is exploding, and Neural Magic aims to give developers the flexibility to deploy AI on commodity processors already located in the edge location.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/05/neural-magic-which-offers-software-for-growing-edge-ai-market-gets-30-million-boost/",
+      "originalUrl": "https://venturebeat.com/2021/10/05/neural-magic-which-offers-software-for-growing-edge-ai-market-gets-30-million-boost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/5c60c00216bb6e80224b063b_NeuralMagic-Work-20193-e1572466367885.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/05/neural-magic-which-offers-software-for-growing-edge-ai-market-gets-30-million-boost/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/neural-magic-which-offers-software-for-growing-edge-ai-market-gets-30-million-boost/amp/",
+      "publishedDateTime": "2021-10-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-global-gpu-for-deep-learning-market-2021-latest-trends-industry-parameters-and-competitive-landscape-by-2027.md",
       "title": "Global GPU for Deep Learning Market 2021 Latest Trends, Industry Parameters and Competitive Landscape by 2027",
       "excerpt": "The most recent paper released by MRInsights.biz called Global GPU for Deep Learning Market Growth 2021-2027 offers a comprehensive critical assessment that includes many aspects of product definition,",
@@ -1377,58 +1429,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-the-companys-fall-lineup-has-something-for-every-taste-and-budget.md",
-      "title": "The company's fall lineup has something for every taste and budget",
-      "excerpt": "After Dell, Asus, and Lenovo, HP is the latest manufacturer launching new devices designed for Microsoft's upcoming Windows 11 operating system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
-      "originalUrl": "https://www.techspot.com/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-21-image-22.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
-      "publishedDateTime": "2021-09-21T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

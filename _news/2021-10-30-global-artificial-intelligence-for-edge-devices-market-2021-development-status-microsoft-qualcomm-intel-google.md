@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 124
+    quality: 126
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"
         width: 1200
@@ -189,13 +189,13 @@ related:
         height: 768
         isCached: true
   - title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
-    publishedDateTime: 2021-11-02T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
+    publishedDateTime: 2021-11-02T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 49
   - title: "Cognitive Solution Market In-Depth Analysis including key players Microsoft, Cisco, Amazon.com, IBM, HPE,"
     excerpt: "We interviewed various key sources of supply and demand in the course of the Primary Research to obtain qualitative and quantitative information related to Cognitive Solution report. Main sources of supply include key industry members, subject matter ..."

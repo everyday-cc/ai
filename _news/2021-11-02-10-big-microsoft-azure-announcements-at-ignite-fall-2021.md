@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 124
+    quality: 126
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"
         width: 1200
@@ -175,13 +175,13 @@ related:
         height: 768
         isCached: true
   - title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
-    publishedDateTime: 2021-11-02T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
+    publishedDateTime: 2021-11-02T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 49
   - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
     excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
@@ -223,6 +223,6 @@ related:
       domain: openpr.com
     quality: 13
 
-secured: "j8+AHj84nnSIo4d1FvdUBwwm3IkBU/Ai4YxCLH2OGwdywOQycmm39+QmxvJEsLI//iAVpnSvPXDJdAtMgMhjjnZwU6TcfkJxVX2ecTJR6n7Ubha/MvmdAC/2RHSuspVb3kv6D9NuYZ4Z1sJ2AhcZcXfw5Pp+tsA05M3P8B+I16f5/Epm+2iN098xk3g429v9hBTIIVcLzYgRmR66WmHHnOhqxrNHbBFaoaBXXF1MMUC7ihcLAjGu+z3JpmfysRIbOBjUzgsVdOm2GDFCPQ/yCNUH6AGkg79w5WNnUD7wArJCLzBvU126iWQ4yvbDZGudl58uw3F2QT2Z/C9S8Z4oJ0Ztognaht6drFIV+e63P7U=;fBn7qVPMjEyM7O9iI29y5w=="
+secured: "zmSDZfodk2F8LdKA9IL/iIY61t46c8MjoKRKZWXFwpdYleRNRqzeGADNzmOeGwEVC7EB1QE2jz0ZqrXmQEOEPGu1L3czeWI96RzXhOAhjA30c3tM/vlkMpaVQ0y2d9VGVVICR0KayT4hmgRRVL+8OSjd3SfCXuGaIgYZL7M2fpDuJvfmFTydydvO4IWwZfF+d35MirNqmqWq7FApR9LAAb2EA2GR4xqjKv0X8G4/AbAxbeZdXOtqL6x0QSQX1iBQMZZbOLTbAcn7ubCzCO3eqRjT5I1iEia7em57G6jCQtytX1GfreHFSJMHsmE1U8Dft9rVmvBvsqJfsZVJkESDGhY25bk0X6yZVViJHUX/t5X8nUxkZ3f6b2jMzkm4j+8s6jvTaXdxAS+QqNmSk7RK48uFGwg0eEDYHKmKl437ZpP12BJq7aI6QzxuZPaDlBDZEPBZ6kYBIQdPcEZZUnRhj1yFtCb2qYV/BODU64+ksAYd6JeyTkwUHPSDWZBxTKnqZ2KT8TWQCGLF0C9gqBD/zw==;bHku8QR9owd4OATFhx2SRg=="
 ---
 

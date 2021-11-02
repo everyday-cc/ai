@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-02-new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language.md",
+      "title": "New AI products from Microsoft include Context IQ and Azure Cognitive Services for Language",
+      "excerpt": "Microsoft detailed new AI innovations across its services at Ignite 2021, including Context IQ and Azure Cognitive Services for Language.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
+      "originalUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/",
+      "publishedDateTime": "2021-11-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-henry-kissinger-and-eric-schmidt-on-the-perils-of-military-brinkmanship-in-the-age-of-ai.md",
       "title": "Henry Kissinger and Eric Schmidt on the Perils of Military Brinkmanship in the Age of AI",
       "excerpt": "In this excerpt from their book, Kissinger, Schmidt, and Huttenlocher consider the transformations AI will impose on the planning, preparation and conduct of war. They conclude that humans remain essential to the equation.",
@@ -481,10 +534,10 @@
     {
       "path": "_news/2021-10-26-facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish.md",
       "title": "Facebook has language blind spots around the world that allow hate speech to flourish",
-      "excerpt": "Even in the languages it does support ... \"It does take time to develop the AI. It does take time to translate the community standards and things like that,\" said Evelyn Douek, a senior research ...",
+      "excerpt": "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English.",
       "sourceUrl": null,
-      "webUrl": "https://www.wbaltv.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290",
-      "originalUrl": "https://www.wbaltv.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290",
+      "webUrl": "https://www.wlwt.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290",
+      "originalUrl": "https://www.wlwt.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -501,13 +554,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wbaltv.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290",
-      "cdnAmpWebUrl": "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290",
-      "publishedDateTime": "2021-10-26T08:24:00-07:00",
+      "ampWebUrl": "https://www.wlwt.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290",
+      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290",
+      "publishedDateTime": "2021-10-26T07:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WBALTV11",
-        "domain": "wbaltv.com",
+        "name": "WLWT",
+        "domain": "wlwt.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1351,58 +1404,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-state-of-ai-report-tracks-transformers-in-critical-infrastructure.md",
-      "title": "State of AI Report tracks transformers in critical infrastructure",
-      "excerpt": "Critical infrastructure, life sciences and LMMs loom large in the latest State of AI Report from venture capitalists.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/",
-      "originalUrl": "https://venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/main-image-homepage-3-e1611744189157.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/amp/",
-      "publishedDateTime": "2021-10-18T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
