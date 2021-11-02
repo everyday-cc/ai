@@ -7,7 +7,7 @@ originalUrl: "https://www.ictsd.org/business/jeff-bezos/what-are-jeff-bezos-and-
 webUrl: "https://www.ictsd.org/business/jeff-bezos/what-are-jeff-bezos-and-elon-musk-investing-in-now/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "how many americans jeff bezos facial recognition?"
+    excerpt: "Related Questions Why did IBM stop facial recognition? In their decision to not sell general-purpose facial recognition technolo"
+    publishedDateTime: 2021-11-02T04:05:00Z
+    webUrl: "https://www.ictsd.org/business/jeff-bezos/how-many-americans-jeff-bezos-facial-recognition/"
+    type: article
+    provider:
+      name: ICTSD
+      domain: ictsd.org
+    quality: 39
+    images:
+      - url: "https://www.ictsd.org/wp-content/uploads/2021/10/how-many-americans-jeff-bezos-facial-recognition.jpg"
+        width: 550
+        height: 413
+        isCached: true
   - title: "what company has elon musk and jeff bezos invested in?"
     excerpt: "Related Questions 2 billion dollars in? Pilot, a Silicon Valley accounting start-up, raised money from Jeff Bezos and other"
     publishedDateTime: 2021-10-30T20:09:00Z

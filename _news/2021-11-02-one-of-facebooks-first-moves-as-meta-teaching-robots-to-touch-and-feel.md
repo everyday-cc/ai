@@ -8,7 +8,7 @@ webUrl: "https://www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/"
 ampWebUrl: "https://www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/?amp"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.popsci.com/uploads/2021/11/01/DIGIT-on-hand-scaled.jpg?auto=webp"

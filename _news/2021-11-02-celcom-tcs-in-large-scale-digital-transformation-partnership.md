@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "TCS, Celcom Partnership Expands for Digital Transformation"
+    excerpt: "TCS, Celcom Partnership Expands for Digital Transformation - Tata Consultancy Services (TCS) is spreading its partnership with Celcom Axiata Berhad (Celcom), a"
+    publishedDateTime: 2021-11-02T04:44:00Z
+    webUrl: "https://www.siliconindia.com/news/business/tcs-celcom-partnership-expands-for-digital-transformation-nid-217281-cid-3.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 24
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/i2ALg61R.jpg"
+        width: 570
+        height: 367
+        isCached: true
+
 secured: "lwT1659LEpRW8nu1LbdDkCYaMXV8TCzAq0a5rzpHhsZlCd5+j9nUVp6VV4m8skmyB8v/vONKVp5NdFDWUg+jyDZ7cPFAvlxeuGnZv5ApwMbRNoerSRgFGckcws3d/PdGO3VnSxpMXmcE0Dd5K/bHPpK+QVAj+vL3tuW5zLHrsWMCT/KIWD9QX3AFitid3UnaaLBeh403ECOJzLN3i1yNJMGGcTY1lSLXnjMbAZRlmQC4kpri4y/sYRgl91imlGSsLTGWadF9PNwo4EpzvwvJI+WnscUA9gCt9jttXiKTbUaNBHdR9zLeip4zRRxiVZRqksypng0b8XY7Kt9OG5P1Q+YG84D91Ea/jHNoa/r8rjo=;BJiCVcYzj0ircleXT89nDw=="
 ---
 

@@ -147,6 +147,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "AI Fintech for Buy Side Raises $47m"
+    excerpt: "TIFIN, a fintech platform using AI for wealth and asset management, announced the successful closing of $47 million in Series C funding. TIFIN uses data and investment driven intelligence to drive personalization for wealth management,"
+    publishedDateTime: 2021-11-02T05:00:00Z
+    webUrl: "https://www.tradersmagazine.com/news/ai-fintech-for-buy-side-raises-47m/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 19
   - title: "Spiceware selected as the Finalist of the UK Ministry of International Trade's Global Fintech Competition"
     excerpt: "The UK's Ministry of International Trade runs a Global Entrepreneur Program (GEP) for innovative technology companies wishing to enter the UK. In conjunction with the program, the annual Global Fintech Competition awards competitive global Fintech companies with innovative solutions such as AI technology,"
     publishedDateTime: 2021-10-29T13:26:00Z

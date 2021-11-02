@@ -2,27 +2,25 @@
 category: news
 title: "Key to resilient energy-efficient AI/machine learning may reside in human brain"
 excerpt: "A clearer understanding of how a type of brain cell known as astrocytes function and can be emulated in the physics of hardware devices, may result in artificial intelligence (AI) and machine learning that autonomously self-repairs and consumes much less energy than the technologies currently do,"
-publishedDateTime: 2021-11-01T20:54:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/933368"
-webUrl: "https://www.eurekalert.org/news-releases/933368"
+publishedDateTime: 2021-11-01T17:18:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/11/211101104858.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/11/211101104858.htm"
 type: article
-quality: 50
-heat: -1
-published: false
+quality: 60
+heat: 70
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - Machine Learning
-
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c146f169-594c-45dd-87e3-029d3fd741ac/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 225
-    isCached: true
+  - AI
 
 related:
   - title: "Key to resilient energy-efficient AI may reside in human brain"
@@ -42,6 +40,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "Qwp3dzTlv/rz20i8a/4AShK6Tkdf2y0emY4fxRbFH4PLv/dwCiQVxIMvkEd9UzYrdwoyq6ccmiQ5dXS9GrtPG9pEh3YL/FfCr9H84GsI70BZoz032ZD7Wv6Phiz8ueJz5JuYKIDtWpv/ieVnSdZIDPWK9TO59oQeiPkN5HtOni0bu5apiSUcNCUlh+X18Pu85L5m8ZvioTh+ko2/mppiPEhytrZGz/ERPGiwvUMNwhCt62r/iPs/dqznO4YGMTN8naBXsn81QawH4+iW6WEtHUd3iF5Z2pxL6VJqWi1rgyG/wrwHjYLAdRJMdfFazhgQf0+/6UqQ4xYIRJfURb8JAZ17ZMNwD2POrs3EeSI9+Ol/dmZlm2aBONv10x5BgV0ymFokVvsaqKx+SPJ6ScnnUgUT8PtJFTdQjf4OS2eCBt+4CszXg+I8N1vsbEd2oxcC1LtQebKjyk0W5kcdFXqAgudqZydF1MQPd8fp9YWDnom7xkl3ZmYhJlFotAYkCImP5vn9cUK4B3g6rpEZ0YFfxA==;7BmWw08DSlOEbK30m0WnYQ=="
+secured: "HnI6BKdJ40UxC2mp+Hv8QqEZ/xn4H1HbuWHpbVASQKBHsro0qguD90cMURKusmG4HbK3s2cxlY+WZhz4iU2PiPAGlyNgEmW4Is3A7ikQ0oaOrcOnqr07HihYAfEYd114IErPmmfb6gDwMJZR+Q+QaKP4lsR0QuuGJerwMDD0L2ruq+btzCPMBjgnd62EXbzJ4dihCdsiFgvTWDZA4wi1zHycye80NQY5tuQb16lZoi0B306HMNES4K80hEwjr0qHD9X0Nfq5bfx2YHt7Rw3V/4S1R4+X6Vo58WWoCTendVlVfO/NOyQvGCqFrfwkZRROT10jSexctvKV58/SKju1MP/bGkdIP1By3Pb1DVbfltY=;3T7cQAX09q6XwZe190w25A=="
 ---
 

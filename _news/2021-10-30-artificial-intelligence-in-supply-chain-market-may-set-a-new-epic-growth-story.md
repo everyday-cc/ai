@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-supply-chai
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-supply-chain-market-may-set-new-pears"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1400
     height: 800
     isCached: true
-
-related:
-  - title: "Artificial Intelligence in Supply Chain Market 2021 | Detailed Report"
-    excerpt: "Global Artificial Intelligence in Supply Chain Market 2021-2027, has been prepared based on an in-depth market analysis with inputs from industry experts. The report covers the market landscape and its growth prospects in the coming years. The report ..."
-    publishedDateTime: 2021-10-28T12:40:00Z
-    webUrl: "https://www.openpr.com/news/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed"
-    ampWebUrl: "https://www.openpr.com/amp/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2446457/artificial-intelligence-in-supply-chain-market-2021-detailed"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
 
 secured: "+0RvR6dCuSSRNbXiXoRBWT3ovS6bGahj/FKnFHvX3WXiRnw+Qf06L6Je7cDrIiQ/ZwXY4Y/Mpdi47LKgMwUGyu6/QVP1FI7gtUnIlstn8mGWCDfmBhsyMyruXhT1vAWFKJeQQ6s0qR6Ngrwf7kF1u6FIklw1NiFCaUUpYeveWsTUiob2NkFK7CO23NcDC3aLdP20coXVjptJn1e53VOWDcipGx5zWucBiqdmlvmXvLCuUUKysI7eJ1syeAoWkjAQW5XGcicAoHcUDDcgJVB3fEnOee9l5ggg4Ruhh6T/NsSC4reOHyfM9iLMJv0CjuFhQlCpdrY31G+GSB42XmSpjrPmAezSrvj/0pZh5mv80GQ=;m2Vz1ZCuy/X5ZQfzMpjeIw=="
 ---

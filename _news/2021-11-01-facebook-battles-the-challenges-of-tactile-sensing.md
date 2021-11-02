@@ -103,7 +103,7 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://www.popsci.com/uploads/2021/11/01/DIGIT-on-hand-scaled.jpg?auto=webp"
         width: 2560

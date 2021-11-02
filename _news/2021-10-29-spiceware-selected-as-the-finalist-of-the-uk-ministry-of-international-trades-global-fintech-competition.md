@@ -161,6 +161,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "AI Fintech for Buy Side Raises $47m"
+    excerpt: "TIFIN, a fintech platform using AI for wealth and asset management, announced the successful closing of $47 million in Series C funding. TIFIN uses data and investment driven intelligence to drive personalization for wealth management,"
+    publishedDateTime: 2021-11-02T05:00:00Z
+    webUrl: "https://www.tradersmagazine.com/news/ai-fintech-for-buy-side-raises-47m/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 19
   - title: "Here's which startup won Fintech Frontier's latest pitch contest"
     excerpt: "A Texas-based startup claimed the top prize in Fintech Frontier's latest pitch competition. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in Fintech Frontier's latest pitch competition as part of StartupCincy Week."
     publishedDateTime: 2021-11-01T15:25:00Z
