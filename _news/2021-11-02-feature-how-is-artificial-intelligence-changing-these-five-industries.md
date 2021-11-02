@@ -3,8 +3,8 @@ category: news
 title: "FEATURE: How is artificial intelligence changing these five industries?"
 excerpt: "Technology is growing at an exponential rate. Smart devices are integrated into our everyday activities, from heating system to coffee machine"
 publishedDateTime: 2021-11-01T21:31:00Z
-originalUrl: "https://thenantwichnews.co.uk/2021/11/01/feature-how-is-artificial-intelligence-changing-these-five-industries/?cat=6211"
-webUrl: "https://thenantwichnews.co.uk/2021/11/01/feature-how-is-artificial-intelligence-changing-these-five-industries/?cat=6211"
+originalUrl: "https://thenantwichnews.co.uk/2021/11/01/feature-how-is-artificial-intelligence-changing-these-five-industries/"
+webUrl: "https://thenantwichnews.co.uk/2021/11/01/feature-how-is-artificial-intelligence-changing-these-five-industries/"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 466
     isCached: true
 
-secured: "cyZLSUMCv/9D8Oz1Av25wXj4kaPm7j0HZczYBdIUF70rdmkCHEqtZulnOvSBWX8raYV2b5/8nVs33D8utU4Yoa/Iwgw9JqpFUmkAMdUSOb9DoNEcmyPUobffqvDOMum5sleDH5WL90UBmX3uwUzxNvn21V0UoR4PRWrQrPobIw2MeyoKNIn389Ijo3ODQZ0DVGEybmNaeNylBpI0varNG+SNHyDnN3xLJClwdZezQtR9ZCWL/PbFpbfirDNsMj6Gexkm516ZRzbbU7J1vKelRRchhzGc626aemNBNh9Txb+24EDJibk+1eptazcb6vErg9jEqTGnYoirBL7HIjos4E9rSt4jKt0ERawpoM2FiTU=;4KNlaIWQkFLR0uhSmhT4xg=="
+secured: "82CbisIh11lN1+6lu89Q6OJXuyBlS8Xt+ywT7aFSR2+e2FxizrIGmq2w1MTGmDsUxiEz3ZzErBq9byZ/I/ImlHiXwuICSyCCg0Nx50EFOlIdgCkSaseC6fmeKuee9mvMawhs52ZdTujo8D9vYIl+tfrbN3+fPPYG6syPAY81NxaiBtsfLIfMd8DNjZmN4+e5XIiSasgr02cNPNCpQP+rOtzbbGtzm/p9+5Q07xsiAUA0vnNIOm5NmXWcq4ypxszyVaZW/9REBmHt3+X9r/JBhDEpfef4UX0F7olIsohbObbFbRM7k/Wag/Ormyq8Ng8/P6j70aGy7GS0ngKTRsFc3xg337bKEHyutQ4XWH9YL3Y=;uhCxIQBxWOMhURMzzna/Ug=="
 ---
 

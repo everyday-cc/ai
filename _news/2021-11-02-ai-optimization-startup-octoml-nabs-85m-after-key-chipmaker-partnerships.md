@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-01T21:42:00Z
 originalUrl: "https://siliconangle.com/2021/11/01/ai-optimization-startup-octoml-nabs-85m-key-chipmaker-partnerships/"
 webUrl: "https://siliconangle.com/2021/11/01/ai-optimization-startup-octoml-nabs-85m-key-chipmaker-partnerships/"
 type: article
-quality: 36
+quality: 53
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/octoml.png"
@@ -57,6 +58,6 @@ related:
         height: 360
         isCached: true
 
-secured: "rZqHrcK491KV4RcNaL0Otxdtuhwppt2qIEVocqQeiWsl2k4rEoP/7KNFsMScTCeomjDa0noFf+ggHS3IGmvtvwfgLXCUJtoj+5wZZh/LUgl7w9zH8rBnGK6WkLbMhxDNZlf1Hg9RLXy+l4EEqkkCAy/uPpGk+MhpOw0VE79DtXxG+2F4utVeTkKLxJypww7gVYn6jytiR31/InTyB2rnirAAabTyuZaWWpYki3nnNiab6JPHjemqn7yKLP04n4KYuvJgeVOwOB55hWJLhYzZFBwmOTfR4rujd/aG5S+rRgw0g8956QfWL2gHM7oDkmxoSui5N469Mfs2fghPQedx1TgauPjorerwWy0pr1ry72Q=;s862ooQY3WzldsHjWoAsnQ=="
+secured: "+WAixupp1LUSAQHjIa1w2qRBXhAGamVa57UMM3Tq6SRmP2L9pKalUefNZ4MuPn5yfewUIsOM3yauKrv7CMhApkzsKDOhzoQAozB24Yo+NozVcQ3eQf/aZm/jNe++65KZRtSNwOgf/Jhfmi+KE1qv6Ob7DgCc6TwDpQXsys3IuvNACpzPhSTIiePD4PHP3yHhoVY/0sD8x8CFtY7EzX/pOh6pb7je2eLKEqKST+lGf4YuOdc23e1R0/VKaXpkR36U2h05ezRFvdThKkcFQtthKPWxJpwP6g5Cx+Cd2hOxNpv2ltCsyr7mA07z0tF4WBIWOMLVKHEwh4XBOwvyZXYN7RWfiUgeK1kPrfD2kUpzaPzLaVgo9QMoVEeq1ImCJyFqOaMZZx2Vvkiv8n4h574pDxUcmyya4VSVQF6vt4Dqhg5yE8TRV+tsIo6LFLc6FRbjKNiGmO2hpqocEGtMbBy0QeolA2dcFi0bayIUCMzcO7GoMAA3f2d230YxX83x11L33aOAuOwvqjoaS7IBHrAWEw==;44vSImjrLTe6XbbpOhREzA=="
 ---
 

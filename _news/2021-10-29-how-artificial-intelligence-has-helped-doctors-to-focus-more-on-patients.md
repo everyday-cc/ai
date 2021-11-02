@@ -8,8 +8,8 @@ webUrl: "https://www.ciol.com/how-artificial-intelligence-has-helped-doctors/"
 ampWebUrl: "https://www.ciol.com/how-artificial-intelligence-has-helped-doctors/amp/"
 cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/how-artificial-intelligence-has-helped-doctors/amp/"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.ciol.com/wp-content/uploads/2021/10/Healthtech.jpg"

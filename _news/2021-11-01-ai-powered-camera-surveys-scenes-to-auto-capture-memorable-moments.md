@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/photography/canon-powershot-px-camera/?amp=true
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/canon-powershot-px-camera/?amp=true"
 type: article
 quality: 87
-heat: 99
+heat: 100
 published: true
 
 provider:

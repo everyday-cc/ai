@@ -7,7 +7,7 @@ originalUrl: "https://www.newswit.com/en/LN9T"
 webUrl: "https://www.newswit.com/en/LN9T"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
         height: 500
         isCached: true
 
-secured: "GWybRMXoSIr9Umbk12Fg56aEo7QI3/aY2cwkWXjm4gcuz7Ghx21p9IGKF+1SShF/3/H4XJzE6CdaBR10nmmL8oBT9VbRaKjB0oI371j+xHfkQ0RnI4I3gPz/cSaAdloZQ7Yfh+1ljrhVoJofyzepiNVh3Zdzj5bdFmG6YCp5Sz/GJ9DUBjuDAeJVna5Nln2dr4stkoQtBRy5uUC0vDmMxOmupt1gLC1uXTEmJABkKXKAA5qEFyEwQBypZL9T0aBzpxv5c3gDKEzYpIqqK5u93iQo/KNzVjmnCGwqQo4A6hfwbdpctLWqQFFlHBLnGNZkI4C69e+4HJAG1Ri8mTJ7yF8KA2Xirf6HIVGqgghOE4s=;wEtFUxl+ciEdcYzc+VOjkA=="
+secured: "l08mYLUetRn1bDhlzX1FYZAASpcu7JjqCSBUxcuUcRH71nvODUJKmfJ4WzMZCfvN8zG0aMN44ubxExKmnrkvx7GNtklAe7gf9CRM+/S+Xm7HM1lunK3ekGL5g85mH2PyZB8lk/wXe7ycm6fN9k1LR+UU+NoGo4yi98iL/LeGcjj+nOLKPWozZ/lh3iLuI/wmAP5KGERMZX6CzFwz/9fLRSn2obnGZMFqg46n5kHs/UOpqLsV+Ep5YcmFOBx7CIccmff+vRVWHT8Hl0Avuwt/sa5h8RWNdln2Lc+j5naiQCnAG4x5bn9x4mDXVlyqxpJE7CX6vEb8rE1rNE+V64sMtgttFJVeYKJw9DdWXsAMZCM=;SyldzfX7seB8GoXSCPWY+g=="
 ---
 

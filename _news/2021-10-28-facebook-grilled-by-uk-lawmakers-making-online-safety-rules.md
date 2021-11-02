@@ -105,6 +105,22 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Facebook AI Is Teaching Robots to Perceive, Understand, and Interact Through Touch"
+    excerpt: "Facebook AI Research shared its progress on developing AI systems that can understand and interact through touch."
+    publishedDateTime: 2021-11-01T22:29:00Z
+    webUrl: "https://syncedreview.com/2021/11/01/facebook-ai-is-teaching-robots-to-perceive-understand-and-interact-through-touch/"
+    ampWebUrl: "https://syncedreview.com/2021/11/01/facebook-ai-is-teaching-robots-to-perceive-understand-and-interact-through-touch/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/01/facebook-ai-is-teaching-robots-to-perceive-understand-and-interact-through-touch/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 53
+    images:
+      - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/11/FacebookAI-Robots.jpg?fit=950%2C634&ssl=1"
+        width: 949
+        height: 633
+        isCached: true
   - title: "Facebook grilled by UK lawmakers making online safety rules"
     excerpt: "British lawmakers grilled Facebook on Thursday over how it handles online safety as European countries move to rein in the power of social media companies. Facebook’s head of safety said the tech giant supports regulation and has no business interest in providing people with an “unsafe experience."
     publishedDateTime: 2021-10-31T10:54:00Z

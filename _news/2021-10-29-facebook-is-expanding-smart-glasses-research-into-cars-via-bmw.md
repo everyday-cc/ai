@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototy
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/10/ReSkin-dog-shoe.gif"
         width: 768
         height: 432
+        isCached: true
+  - title: "Facebook AI Is Teaching Robots to Perceive, Understand, and Interact Through Touch"
+    excerpt: "Facebook AI Research shared its progress on developing AI systems that can understand and interact through touch."
+    publishedDateTime: 2021-11-01T22:29:00Z
+    webUrl: "https://syncedreview.com/2021/11/01/facebook-ai-is-teaching-robots-to-perceive-understand-and-interact-through-touch/"
+    ampWebUrl: "https://syncedreview.com/2021/11/01/facebook-ai-is-teaching-robots-to-perceive-understand-and-interact-through-touch/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/01/facebook-ai-is-teaching-robots-to-perceive-understand-and-interact-through-touch/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 53
+    images:
+      - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/11/FacebookAI-Robots.jpg?fit=950%2C634&ssl=1"
+        width: 949
+        height: 633
         isCached: true
   - title: "Facebook grilled by UK lawmakers making online safety rules"
     excerpt: "British lawmakers are grilling Facebook and other tech giants over how they handle online safety as European efforts to regulate social media companies gain momentum"

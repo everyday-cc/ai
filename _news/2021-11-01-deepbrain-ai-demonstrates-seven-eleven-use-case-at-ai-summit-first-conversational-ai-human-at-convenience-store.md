@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Deepbrain AI Demonstrates Seven-Eleven use case at AI Summit: First Conversational AI Human at Convenience Store"
-excerpt: "A subsidiary of Lotte Group, Seven Eleven's AI Kiosk includes Deepbrain AI's AI Human technology and additional innovative technologies for use in unmanned convenience stores. The Deepbrain AI Human provides promotional information including discounts and newly stocked items,"
-publishedDateTime: 2021-11-01T15:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-demonstrates-seven-eleven-use-case-at-ai-summit-first-conversational-ai-human-at-convenience-store-1030922390"
-webUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-demonstrates-seven-eleven-use-case-at-ai-summit-first-conversational-ai-human-at-convenience-store-1030922390"
+excerpt: "A subsidiary of Lotte Group, Seven Eleven’s AI Kiosk includes Deepbrain AI’s AI Human technology and additional innovative technologies for use in unmanned convenience stores."
+publishedDateTime: 2021-11-01T16:18:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-dcd8d5596ba76a04b4489537c1011f68"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-dcd8d5596ba76a04b4489537c1011f68"
 type: article
-quality: 46
-heat: 46
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1674781/image_819222_7615432.jpg"
-    width: 400
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "AUe/SjvngpkZm9K7VAIbsOnvM9o4ApgBXOKAy7QSn7Z4mmRjQQDjjQpDmaI+wzU+j8nBmLi9AGb8AfS0aw/O5ecT6TSHlvMjXB75KxYuYb5hkR+CTBAKKwYGN0GJj7S4grzn95StOfIoBRfB4BUnJeQWDH+nfGJSafuM3VCLG/B3ju6manadcsJFFtwgi3cEcklgNTjjpeEt034BbI7CLOR6k3cMQmshw7FxmlrzRE7jUuDtQSeggt9EZyYASBQG8HHDlmJqSsPRBc/rRDs+yQJNC8teXzMqMMl5uEef79rXpbtAsvgv5Jyrqsv8iQX+pAGZdsDghbMheyfBdQoEArzWhwcBJ64akiFmR83E0hg=;T4OCQWC1ylo2Zog43iYIag=="
+secured: "eqObgTgtTqXGLFrDD6PxL36iDcvj9pbTpbaCynN/DQH6HnYNZqXJ14+ln1ZwdiWHXSGPBnY7Fyg5+29jSBMjk0mXxSN0N++PEmE19tVHjRytyjmLQkpi4bopmwTJOSu/0IXdbCT5LCn0SREhyVLce4S5koVnasjqNVIbYwOKw1VJmdicTZJImP+9LMBRZuWTeIOi28quIRGzFN5/0QsRa1VbzqKP/reNrI1rBBNh1D7kgOumtk9bIaBx+qDLWgQ3amOV97BGIDwcV+Yj06td39TWTQT8ZHRwjWap/2yFf1ZJMNX49OdNGDqPgDk2CMi6K68OG3QuPPv0E5JV53tHUXYVTmwKMjOGg0JdpNdTbhc=;pVnS+xP8uMvo2E4fcuGA0A=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-29-robots-to-clean-nyc-skyscrapers.md",
+      "title": "Robots to clean NYC skyscrapers",
+      "excerpt": "The use case makes a lot of sense: managers of every commerce building in major U.S. cities need some way to clean their building's exterior glass. In fact, window cleaning is $40B global market. The surfaces involved are generally uniform and the path predictable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
+      "originalUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b656a675bbd1838bfbf9bdff16eb479741d8edae/2021/10/28/37ceec2f-0fc4-4223-82ef-92fab5b771a2/skyline-window-cleaning.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
+      "publishedDateTime": "2021-10-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-us-to-deepen-relation-with-taiwan-in-face-of-china-tensions.md",
       "title": "US to deepen relation with Taiwan in face of China tensions",
       "excerpt": "The U.S. switched diplomatic recognition of China from the ruling Nationalist Party government in Taipei to the Communist Party in Beijing in 1979, but has continued to maintain a strong unofficial relationship with the self-ruled island. Oudkirk declined ...",
@@ -301,7 +353,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1069,57 +1121,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-28-healthtech-startup-ziniai-raises-pre-series-a-funding-from-solarus-group.md",
-      "title": "Healthtech Startup Zini.ai Raises Pre-Series A Funding From Solarus Group",
-      "excerpt": "Zini.ai, an AI-powered multilingual virtual physician ... from patients to healthcare professionals. We believe that the startup is solving a large unmet need in the market and it has the potential to become a defining brand in the category it operates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/393896",
-      "originalUrl": "https://www.entrepreneur.com/article/393896",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1635407197-DrRohitSharma-CEOandFounder-Grainpad-Ziniv1.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-28-netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats.md",
       "title": "NetWitness® Detect AI: Cloud-native machine learning for rapid detection of sophisticated threats",
       "excerpt": "Home video setup: What you need to look and sound professional Artificial intelligence ethics policy Checklist: Onboarding and offboarding IT staff BYOD approval form",
@@ -1164,21 +1165,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-28-done-right-human-ethics-can-ensure-ai-bias-is-curbed.md",
-      "title": "Done right, human ethics can ensure AI bias is curbed",
-      "excerpt": "AI bias continues to be a prevailing problem when it comes to ensuring proper implementation of artificial intelligence (AI) in many industries. Since the",
+      "path": "_news/2021-10-28-ceti-project-launched-to-decode-whale-language.md",
+      "title": "CETI Project Launched To Decode Whale Language",
+      "excerpt": "We will now be able to talk to Whales! Yes, you read it right. A team of interdisciplinary scientists have launched a Project CETI with the goal of decoding and communicating with sperm whales. CETI- Cetacean Translation Initiative,",
       "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/10/ethical-ai-ai-bias-is/",
-      "originalUrl": "https://techwireasia.com/2021/10/ethical-ai-ai-bias-is/",
+      "webUrl": "https://www.techthirsty.com/ceti-project-launched-to-decode-whale-language/",
+      "originalUrl": "https://www.techthirsty.com/ceti-project-launched-to-decode-whale-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/10/000_94M3YD-450x300.jpg",
-          "width": 450,
-          "height": 300,
+          "url": "https://www.techthirsty.com/wp-content/uploads/2021/10/CETI-Project-Launched-To-Decode-Whale-Language.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1186,13 +1187,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/10/ethical-ai-ai-bias-is/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/10/ethical-ai-ai-bias-is/",
-      "publishedDateTime": "2021-10-27T19:50:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T22:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
+        "name": "Tech Thirsty",
+        "domain": "techthirsty.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1202,7 +1203,7 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "Natural Language Processing",
         "AI"
       ]
     }
