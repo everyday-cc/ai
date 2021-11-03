@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-driving-powerful-photoshop-features
 webUrl: "https://thenextweb.com/news/ai-driving-powerful-photoshop-features-and-shaping-adobe-product-strategy-syndication"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "How Adobe uses deep learning to improve its products"
+    excerpt: "Adobe is leveraging deep learning to improve its apps and solidify its position in the video and image editing market."
+    publishedDateTime: 2021-11-03T21:20:00Z
+    webUrl: "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/"
+    ampWebUrl: "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "9m7PitxssTMGJjssaZ5CE/LLh2pDMEOWHLFhSEUaUvswWej/Mml7Jz+7EIuM6qnI4/WuDxYjG4SzeFnHY8d+Ea7rOnyOwBpOSCKfxorp2I3OQ776+gloMFTbhBNRl2nT9l5RFPxzAm8eJTDw4wJLQru4DJLAcySV4zsEQYBlt1/jYbU4PVzwi2HM6NFw8KvG/BM94QDoMH7D/EXPygUrVDzcYL9zuk6v/yw3rRYZpgkbLFXYp+3hXPLuKXG6bdmz0rhV4ApfbPso/yG3lRLH5s65N/Sdu45z7lCkpMUe4MIsIhlUztKCxbXC8/q+xl+LB1UZ2iMjb+6TJDPSTQ2tlnCMHkfW0amJTPcZ8uwslxZAWNAaIgpiQ1oIzYmdgmhsH1vlOFzoS/XQ1EaTXK0X6GI3E8vTAO7LfApp8LkY+cImdlt+B0u9mRk65M7Bkx5b9aLANxWZOdzoW3xVg7PLPuFcaC5O8cdfRER1SbAQRlRsArH9HzLBHe4kn7N2g4VKQNU09qRZrtYO+cwdC5Mfbw==;hXBBX9O6kADd3rDul02pfw=="
 ---

@@ -71,6 +71,17 @@ related:
         width: 1000
         height: 561
         isCached: true
+  - title: "TuSimple, UPS mapping new self-driving routes in southern U.S. states"
+    excerpt: "Self-driving truck technology company TuSimple Holdings Inc TSP.O said on Wednesday it is mapping new freight lanes with UPS UPS.N from Arizona to Florida and has hit significant fuel savings for the package delivery company at highway speeds."
+    publishedDateTime: 2021-11-03T20:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03"
+    ampWebUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Self-driving car company Waymo makes first entry into city"
     excerpt: "Waymo, the autonomous car company owned by Google parent firm Alphabet, is launching in New York—but its vehicles will have drivers for the time being. Crain’s New York Business is the trusted voice of the New York business community—connecting businesses across the five boroughs by providing analysis and opinion on how to navigate New York’s complex business and political landscape."
     publishedDateTime: 2021-11-03T13:01:00Z
@@ -98,6 +109,20 @@ related:
       - url: "https://techaeris.com/wp-content/uploads/2021/11/Waymo.jpg"
         width: 1170
         height: 724
+        isCached: true
+  - title: "Self-driving tech descends on NYC"
+    excerpt: "Waymo is collecting data on the New York's chaotic streets and varying weather conditions to better inform its technology."
+    publishedDateTime: 2021-11-03T21:10:00Z
+    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-descends-on-nyc-5171868/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C561AAQHwDqDE1J8XgA/storylineheaderimage-shrink_400_400/0/1635967422504?e=1636066800&v=beta&t=NXAe3_hwjVCeDE57t-Tu6XjuH7tuBqh9lN1yuhg8-vs"
+        width: 400
+        height: 253
         isCached: true
   - title: "Video: Watch a Waymo self-driving car navigate San Francisco streets"
     excerpt: "Waymo started self-driving rides in San Francisco in an all-electric I-PACE vehicle equipped with the fifth generation of Waymo Driver autonomous software. The perception system allows these self-driving cars to navigate narrow,"

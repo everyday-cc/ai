@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/11/03/clearview-ai-australia-privacy-bre
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/clearview-ai-australia-privacy-breach/amp/"
 type: article
 quality: 85
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Privacy commission demands Clearview AI delete all facial recognition data collected in Australia"
+    excerpt: "Australian regulators have demanded that facial-recognition firm Clearview AI cease scraping the biometric data of Australian citizens and destroy all information and images previously gathered on"
+    publishedDateTime: 2021-11-03T20:46:00Z
+    webUrl: "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 91
+    images:
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2021/03/2021-03-23-ts3_thumbs-2c5.jpg"
+        width: 800
+        height: 560
+        isCached: true
   - title: "Australia says facial recognition software firm Clearview breached privacy law"
     excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data"
     publishedDateTime: 2021-11-03T18:03:00Z
@@ -88,6 +104,20 @@ related:
       - url: "https://live-production.wcms.abc-cdn.net.au/e4042c37a61d5b971733590b729d1e6c?impolicy=wcms_crop_resize&cropH=447&cropW=671&xPos=0&yPos=125&width=862&height=575"
         width: 671
         height: 447
+        isCached: true
+  - title: "Clearview AI’s Facial Recognition Platform Achieves Superior Accuracy and Reliability Across All Demographics in NIST Testing"
+    excerpt: "Clearview AI’s algorithm ranks No. 1 in the U.S. in all categories as verified by National Institute of Standards & Technology (NIST) Facial Recognition Vendor Test (FRVT)NEW YORK--(BUSINESS WIRE)--Clearview AI,"
+    publishedDateTime: 2021-11-01T10:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=556406"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 27
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "4dTZLOEn6rNPUk/ZNH4mhNP/5savWNPwbWfbU/mwJs4FmMpFcuq6k6nsvkK9dMxMINGuwWFZWbs3sr304SzUv6Sb6HBRIAKu2sxVri28/9kOoU3HPgHbcFjs857R34ZPqzPJvvWQgYLUY+N6RMELUrhx/ACo+5vMayDZrEVYgqOCaC5M4oijxILX779ADU/1qEivPc6oui4CFRyMB7TTKep4ty9bccZLCLBHakHNwvwhRxuhbp5pdIJnrBiu8eARRMv8fHI4Q9VttbYTjGqe+E1QJV69uBFIqQULOYyqvHuQzEnWKCcgQ45ZMBO7hJS69po1FCxwBuWjALzv3p3Rt4wowOPGzYzZxGOs6Ge0bpCjMMTDBK+3wtrcnlID4OnbCVnCsuyivRLhO3LJKxRVrF656OY2M7gxHzc2PZmbMPsVWbUwdT+V/08kTIXSVbmnqb3kFUGFfleyvs53YHVkc8sCt76pDgoplxAv8784H6Y5iqS9HBM6O5j2xiy71tgY7txSwfJKbcMQfGfxk6vtNA==;I3+HAhNrGv21rkn6fn4ibg=="

@@ -24,6 +24,17 @@ images:
     height: 420
     isCached: true
 
+related:
+  - title: "Engagely.ai Launches Voice AI Cloud to empower Contact Centers"
+    excerpt: "Engagley.ai, a leading Customer Engagement Automation Platform has launched the AI powered contact center automation platform on the cloud"
+    publishedDateTime: 2021-11-03T20:08:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/engagely-ai-launches-voice-ai-cloud-to-empower-contact-centers-878134541.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+
 secured: "Mk2e9d1ezrFxGnpds6zCh/or2l1PnOT7vKocQtFnGYIv5oluvChXYMpZH6v83s9fpEv9ZLtIJyelwsmSA3O2LvCtuAdvWQO2dktFkMoic7eajK72VYjIWkRJawsrwd9JUXxO2YVwQIOQpraYeR+ZxtCd/+FRB+a0agu0oc5+Bah8NdYHFvSjfI28RI6MC+NezgdmMg4p5SLVTe6GnTWJqQxhqOujcx0Sa7eKSOd4cCjXfkkhZ9bGKKZRIgwq3ECo8RqrMYdPwR1yPoWAqiGhQk36sHmk2kyOF6ytNvnmHi8I2GOUvT8IxWCXmldzaZbd667SBYt7nwwO19Rn4+h9l/RgU9mIiJmngEJpFG9sPzg=;3TbcdR7QYJaTqapl4JxtVQ=="
 ---
 

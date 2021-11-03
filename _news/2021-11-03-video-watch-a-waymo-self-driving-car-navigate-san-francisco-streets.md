@@ -65,6 +65,17 @@ related:
         width: 1000
         height: 561
         isCached: true
+  - title: "TuSimple, UPS mapping new self-driving routes in southern U.S. states"
+    excerpt: "Self-driving truck technology company TuSimple Holdings Inc TSP.O said on Wednesday it is mapping new freight lanes with UPS UPS.N from Arizona to Florida and has hit significant fuel savings for the package delivery company at highway speeds."
+    publishedDateTime: 2021-11-03T20:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03"
+    ampWebUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Hong Kong Airport Authority Plans Self-Driving Bus Service"
     excerpt: "The Hong Kong International Airport (HKIA) is preparing to launch an autonomous bus service, marking the latest step in its use of self-driving technology to enhance efficiency. The airport already operates driverless luggage trailers and unmanned patrol vehicles."
     publishedDateTime: 2021-11-03T12:31:00Z
@@ -106,6 +117,20 @@ related:
       - url: "https://techaeris.com/wp-content/uploads/2021/11/Waymo.jpg"
         width: 1170
         height: 724
+        isCached: true
+  - title: "Self-driving tech descends on NYC"
+    excerpt: "Waymo is collecting data on the New York's chaotic streets and varying weather conditions to better inform its technology."
+    publishedDateTime: 2021-11-03T21:10:00Z
+    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-descends-on-nyc-5171868/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C561AAQHwDqDE1J8XgA/storylineheaderimage-shrink_400_400/0/1635967422504?e=1636066800&v=beta&t=NXAe3_hwjVCeDE57t-Tu6XjuH7tuBqh9lN1yuhg8-vs"
+        width: 400
+        height: 253
         isCached: true
 
 secured: "GtSinRep8V98RCbSxR7h+VHyX0uFxWFKka5I2J4u9QfL1b21JNRfow6iZMtTxWeET77FM3U6e2FrnYK6sHMvZ6UQx1BwXJjUEM7yuZWI4fB4pqz1NDuVtDwKED+svNodTUtKdVWW42Dxw1T4Uu/qeQytnnPbxel6Nl+wUzjOBp7rIP83AjRJkolQEYRmXYES4gZ4qnOcuxis6n5ippDmkyr3j7dLT5KrUDiSqi+1JgIuZ1sCReZbDxhZeFvBdBwQz9rqCm6EGw9slf9O3lXxqpaiesgZBNCwRN2oO4xp+6B7Q8ck1emmcUnYLcDLjLrjy92JZre917UsBCBRypxD/ZDcNjXoDFb7BPFQmpXTQP8=;Ee1pfZTkAItaFP+sD2y26g=="

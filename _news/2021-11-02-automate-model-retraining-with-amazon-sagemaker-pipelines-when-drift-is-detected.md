@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automate-model-retra
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected/"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML-5807-image001.jpg"
         width: 3636
         height: 2260
-        isCached: true
-  - title: "Amazon SageMaker reusable components with SageMaker Projects"
-    excerpt: "This solution shows how to deliver reusable and self-contained custom components to Amazon SageMaker environment using AWS Service Catalog, AWS CloudFormation, SageMaker Projects and SageMaker"
-    publishedDateTime: 2021-10-30T04:26:00Z
-    webUrl: "https://github.com/aws-samples/amazon-sagemaker-reusable-components"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 39
-    images:
-      - url: "https://opengraph.githubassets.com/7b6adb010f734d21d175470eeb8fed463a3f383a3f7407c5d7540ebd428ff6af/aws-samples/amazon-sagemaker-reusable-components"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "JVRWi9pMZ0hM9odclYVRMJHGF1UfFbXnNqMIlGfztiLTLYcOb2wCkqD7NC2cHX3etouXlmlO/rv8aNGpnDjhNDf5g4gqOcGfGpxP7TO1+MvbVXI4xYB0PL8teQqdxvmgp0NCKf8Hq/IAaM3W5DTttaAMtn6uXWJCjbQg3uzHRh3N2w7Wl7R7PA1sBI0/Osn/232PECYuJQeUI4HIqC2aYAxzDYwtgHl3UfVZheVtj0BN79YbyQXuR+6SUWGmUSKh+Zy8dC0ZTnggccqlDBXIEuPSeHrerzkjiXvPnVMODcy/qOS4cMlz853WCO278bIyMqXk/St/xhnqALY7/azAtgvltPxBROQKI94LIsHYaxA=;WM4cfVmqV/9hMLP3h7s/QQ=="

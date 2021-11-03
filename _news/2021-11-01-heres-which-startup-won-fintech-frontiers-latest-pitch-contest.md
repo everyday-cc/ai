@@ -51,20 +51,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "China's JD.com tries to take finance out of its fintech arm"
-    excerpt: "While Nasdaq-listed JD.com has long been widely seen as one of China's top online retailers, the growth path of its fintech arm has been anything but consistent. Even its name has changed several times."
-    publishedDateTime: 2021-10-30T04:13:00Z
-    webUrl: "https://asia.nikkei.com/Spotlight/Caixin/China-s-JD.com-tries-to-take-finance-out-of-its-fintech-arm"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F1%252F4%252F0%252F37130414-3-eng-GB%252FCropped-1635481733AP_21236792916874.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Fintech challenges | Balance history"
     excerpt: "Balance history. The challenge in this project asks to solve a common problem in the banking sector: calculating the daily balances of a bank account from a k"
     publishedDateTime: 2021-10-31T14:08:00Z

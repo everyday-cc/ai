@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "How To Successfully Ride The Next Wave Of AI"
+    excerpt: "When it came to AI innovation, there were many sets of big waves to ride this year, like the advancements in computer vision, edge AI, and AI-driven software coding."
+    publishedDateTime: 2021-11-03T20:00:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-successfully-ride-the-next-wave-of-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-successfully-ride-the-next-wave-of-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-successfully-ride-the-next-wave-of-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "Is AI the future of drive-thrus?"
     excerpt: "Or maybe you already have… Restaurants have been experimenting more and more with AI and robots, especially as companies struggle to find entry-level workers. Last week, McDonald’s announced the sale of its Automated Order Taking (AOT) tech to IBM,"
     publishedDateTime: 2021-11-02T00:49:00Z

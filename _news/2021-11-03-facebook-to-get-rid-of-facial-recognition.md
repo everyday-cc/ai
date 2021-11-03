@@ -753,6 +753,20 @@ related:
         width: 750
         height: 546
         isCached: true
+  - title: "Facebook to Shut Down Face-Recognition System, Delete Data"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-03T21:34:00Z
+    webUrl: "https://www.snopes.com/ap/2021/11/03/facebook-to-shut-down-face-recognition-system-delete-data/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 24
+    images:
+      - url: "https://www.snopes.com/tachyon/2021/11/Facebook_Facial_Recognition_Shutdown_31952-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."
     publishedDateTime: 2021-11-02T21:27:00Z
@@ -772,6 +786,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "579GSy2yyRIpHYX6HSSu4++0Xzy8nYfgPPyHbN+uEygMeVCuhPGSaHFCSc0JN5UANnX/VxwK70V1a017IZgJ0Uf70rphznuz6veKuZPWraFrGwAJ13NSR2lju1VGuvPNwaRjD93ilEtsxpoS09Pg0RYe5ee+Xz3gijkmGX2ZoZ0znZcvrYVnxt1kLVcck8Uga8gxVQt4NMPU2F9Yqcawt4hQGxmi3qO2lLkGcyhxi0EMwZpUfba8H6ou1xWNmRS7Oa3fv5LXcC7EIsHTHqL54X+3MO+AujHzWeC8rs2rSkbc70Q2nTkyyT0Di/Ruj4iR6WxAIyiM6laLfZ0Qfp4pQaKIBmQxk9t3hF7H6cTdJbo=;K4uAd8Fb7ecbaC4JO3YqVQ=="
+secured: "W94Ks95Epj9+dF6ZvXLUoUuoLqSOVWplqY7lmoBIIxx+rnH78AZyT2JtyMSxqAi63jl6TwWE7knxz6RAdJRHkfAyAQ4pZZn0AGXSQ6ezSwGYRKhAWCytwV2U50djWbHEFgEs93f/8/HE2sCsz0BFxfaBxiGd8s8q63D7Oqa2CM/a2+b3i7vNX0dbYkL40YOJTde7CJ0OWx1+fKGfQbFOIXGAH9BtlgDmKdfI93cbcxklXO6LbhqCkV10LP3YyLxXx3dWGPrYDbBz+mKLSWrgwOPF5xBCOjo/RomNmsL+526xdpxY+KZPBgRnNXX+j4qoVSZ5CAwJh9FhmNWvZJgU/7p7X2KBgWdC50644NEPzbWXiTvNvQ8wXSjrKtc8TFxEXrPJH7egZyCLKhgZqXg/a8KUhERrB2dTm9d7A79paMoRfwThnnJWn7fHpNk6sidX+JxV/ZFn2eMAy44q0CTMmj8xEt9ugH5nHL7vOrD6k6o5l1aVc6hlBY0jx4hy+znJNyAWGYp8JsKFYnfZxylLmA==;j6OH05ScYGpWt9QJF6zV8Q=="
 ---
 

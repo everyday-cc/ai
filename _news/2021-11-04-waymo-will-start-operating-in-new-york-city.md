@@ -61,6 +61,17 @@ related:
         width: 1000
         height: 561
         isCached: true
+  - title: "TuSimple, UPS mapping new self-driving routes in southern U.S. states"
+    excerpt: "Self-driving truck technology company TuSimple Holdings Inc TSP.O said on Wednesday it is mapping new freight lanes with UPS UPS.N from Arizona to Florida and has hit significant fuel savings for the package delivery company at highway speeds."
+    publishedDateTime: 2021-11-03T20:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03"
+    ampWebUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Hong Kong Airport Authority Plans Self-Driving Bus Service"
     excerpt: "The Hong Kong International Airport (HKIA) is preparing to launch an autonomous bus service, marking the latest step in its use of self-driving technology to enhance efficiency. The airport already operates driverless luggage trailers and unmanned patrol vehicles."
     publishedDateTime: 2021-11-03T12:31:00Z
@@ -103,6 +114,20 @@ related:
         width: 1170
         height: 724
         isCached: true
+  - title: "Self-driving tech descends on NYC"
+    excerpt: "Waymo is collecting data on the New York's chaotic streets and varying weather conditions to better inform its technology."
+    publishedDateTime: 2021-11-03T21:10:00Z
+    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-descends-on-nyc-5171868/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C561AAQHwDqDE1J8XgA/storylineheaderimage-shrink_400_400/0/1635967422504?e=1636066800&v=beta&t=NXAe3_hwjVCeDE57t-Tu6XjuH7tuBqh9lN1yuhg8-vs"
+        width: 400
+        height: 253
+        isCached: true
   - title: "Video: Watch a Waymo self-driving car navigate San Francisco streets"
     excerpt: "Waymo started self-driving rides in San Francisco in an all-electric I-PACE vehicle equipped with the fifth generation of Waymo Driver autonomous software. The perception system allows these self-driving cars to navigate narrow,"
     publishedDateTime: 2021-11-03T12:27:00Z
@@ -113,6 +138,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "iFDwY0R0LvpiuWQV4QymZuTS6qe65XSFVdGEWlJH9cUw1CsdGECydQdlzGIuxXRL0YOP3GtNywg8vrcm9kZYaK6y80tRizTiJL9BzKmcaDkO2GpYNPELbIygjl4ZaJA8LVjqNBhlIj2G4EV3I00lAQOIdlKVy4Tz+fmKBMF1sc3q2OzPoecizUhh2Xd8XW3JEXEG0jIN56b96n5kDFEdn+sav2AyzfvzLTtFKPbrAEmQk2Fm8f/8MOwwVN639OIbZ6wwRWBEp9/xSfOYOcEVpIGeuIFbocRqIpUH82VEeoN1Cd4d6Pza49qKDx8GTo2KN8VI7b8T8oDYF6Vi+jWjiu1IMrT8jOjCwZ2ljBPE9do=;hJdv03VMJrGCsmA2PJ+LhQ=="
+secured: "V1vsvVNdZRoMhN4Ur262d2oV4/Ar/GweCzIkFmKJ/DnYUcJNGhlRKyJdwksE/5x5dWxMnUATdg9Zyt9GGvommVzpLqfMEkQXrzqZ1+/lfg96d1BcLNW7KTsK5TTEBIQEHcNDewtTpg8aXRWHRwfkOY85bP1XEd+aSFsT69+ZiQ2Gs+vJpbMhcvhl9fE31Q5o6K29ZruZnU44AuDj3MrnrqRl/MOx9auUAJFP5wCGPggkT20Sj+HwVWsFjMBpdz8YaAW0Yd7pWLJ+x8XGSLRFxZHuSJWuRhrQ38QlsIU2ZGVUDC3SgyGHSuMW5NMLRRbLLlc3JPSif7icawAvzzV9Ft+r3HF2bqi+C5aZN/VSlM5GsG8Pt3IFzzbL8KS3u/TmZZeBNjstGk1sSn3JuR44IwfCwIar1W5UH1V/82Pm0u8GW03pTEWUYmY9i6nkttJzbnzXqEuuUkaJvM9/qZuVZKLO/pgZkI8YwCZ+Syb0dAeG/0j2GuxnQ9WqEU6pNsrqVXkYrPl3+wCzWu+tCOdqjg==;b+Rie/gxauYNMNbEcVY0EA=="
 ---
 

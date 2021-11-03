@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/amp/"
 type: article
 quality: 174
-heat: 674
+heat: 684
 published: true
 
 provider:
@@ -752,6 +752,20 @@ related:
       - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1635936971/widgetdocs/Meta_AI_wve0h5.jpg"
         width: 750
         height: 546
+        isCached: true
+  - title: "Facebook to Shut Down Face-Recognition System, Delete Data"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-03T21:34:00Z
+    webUrl: "https://www.snopes.com/ap/2021/11/03/facebook-to-shut-down-face-recognition-system-delete-data/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 24
+    images:
+      - url: "https://www.snopes.com/tachyon/2021/11/Facebook_Facial_Recognition_Shutdown_31952-scaled.jpg"
+        width: 2560
+        height: 1706
         isCached: true
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."

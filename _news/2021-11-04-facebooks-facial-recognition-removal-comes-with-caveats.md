@@ -749,6 +749,20 @@ related:
         width: 750
         height: 546
         isCached: true
+  - title: "Facebook to Shut Down Face-Recognition System, Delete Data"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-03T21:34:00Z
+    webUrl: "https://www.snopes.com/ap/2021/11/03/facebook-to-shut-down-face-recognition-system-delete-data/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 24
+    images:
+      - url: "https://www.snopes.com/tachyon/2021/11/Facebook_Facial_Recognition_Shutdown_31952-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."
     publishedDateTime: 2021-11-02T21:27:00Z
@@ -768,6 +782,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "lXvqpVtNqC9VYJU6LwMUHLJ+DRJ4Vp8z0i7zVoVcqAOY+VNvAgiZYXRfu3rOj+53GkfJJVmhsS/B8nhl9O4YIO64Y4mOwrzfG4dnjP2BRdhaGP8G2aztRGkdvRC8OvxSqeIm0+OlTikoSlF8dtbqOpVbyM9N/jUBkY5VsyjUt80XZbX/xAhuaeynN8bYIbHGtFrTN7KdUp9Obh0aBFK0EfyYiY/R1P8A3wrwOdUioJIZLPxp2+jVGyOvmL2JACpS3m0VQy2bYRKZKdGbTBHUMXTfF7gGaBfXMJJOLI0Tdmlgxc4JvTxA3Z0k4GjLdZRMucOVLQeri92tCFC2GPx58g6DejedKv93Lp3GWyY6PWE=;zVuCHv2+cdZXt59PEYWXFQ=="
+secured: "tqmsiH/rI8NgT/AmePHBG+IULJlaZ0p/WrVew+p2UNj0GZiHXIxY9uBPKB3lf5TEOSEo2lXa94leGApW93Jin9NOW2dnfvkX+PDZZZQVRa12e6vEYC3r+V1lreS0h1wgHcRmTD2aHl/6srVaLAIxNEm1dXR4YI0vJYYLKFA0OOvl/0qMQqoW2oy/xX8rhTDguf7XR+y1nWsJWCEGPOeNl+OW+DRk/oYLyb1+HktJ5B6HvzVvJCAD2NRF/Nxqvm6+9MBWAGWIA+Lv+rDNgVeLrUZ8JC6APv4jKntK/SwkIwv1xmQi4CYS6sOIbnZjXC1bjhg77+bNfPpAo5kLo/VrP4UqrVpeE3LOBhhe0kGNnseXKqWXLeZ6Jb48ejgzlXEq0XOhK5OsNoYAKcrWzX52inwV350yNMz7we8w+NasFpKk6OoJpMMrOWg4VF0rZoxii4KTV+5ds1Qazf9FNtDyggzybP5a6jp4NktHoLaYKeH7+SH4Hi9tgpcHB1qO8+bVuN0gA+NqoIVlgaHBAf8Tow==;tVgJaWhcr+7yy27xLVGv/w=="
 ---
 

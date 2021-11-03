@@ -132,20 +132,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "Women in Cloud, Microsoft, Coursera and IAMCP Partner to Provide Azure Training and Certification"
-    excerpt: "Women in Cloud (WiC) is excited to announce a collaboration with Microsoft and Coursera to distribute Azure Training and Certification Scholarships to women in India, through their #empowHERfamily initiative that brings together resources across corporate,"
-    publishedDateTime: 2021-10-30T04:52:00Z
-    webUrl: "https://menafn.com/1103074549/Women-in-Cloud-Microsoft-Coursera-and-IAMCP-Partner-to-Provide-Azure-Training-and-Certification"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
-        width: 300
-        height: 250
-        isCached: true
   - title: "How Microsoft Uses Machine Learning"
     excerpt: "Microsoft uses machine learning to recognize patterns, improve operations and develop better products. By leveraging machine learning, Microsoft is helping users find new ways to integrate computing into their daily lives."
     publishedDateTime: 2021-11-02T23:28:00Z

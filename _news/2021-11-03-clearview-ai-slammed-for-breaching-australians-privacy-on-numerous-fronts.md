@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "Privacy commission demands Clearview AI delete all facial recognition data collected in Australia"
+    excerpt: "Australian regulators have demanded that facial-recognition firm Clearview AI cease scraping the biometric data of Australian citizens and destroy all information and images previously gathered on"
+    publishedDateTime: 2021-11-03T20:46:00Z
+    webUrl: "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 91
+    images:
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2021/03/2021-03-23-ts3_thumbs-2c5.jpg"
+        width: 800
+        height: 560
+        isCached: true
   - title: "Clearview AI told it broke Australia’s privacy law, ordered to delete data"
     excerpt: "Australia has found that controversial facial recognition company, Clearview AI, broke national privacy laws when it covertly collected citizens’ facial biometrics and incorporated them into its AI-powered identity matching service — which it sells to law enforcement"
     publishedDateTime: 2021-11-03T15:36:00Z
@@ -87,6 +103,20 @@ related:
       - url: "https://live-production.wcms.abc-cdn.net.au/e4042c37a61d5b971733590b729d1e6c?impolicy=wcms_crop_resize&cropH=447&cropW=671&xPos=0&yPos=125&width=862&height=575"
         width: 671
         height: 447
+        isCached: true
+  - title: "Clearview AI’s Facial Recognition Platform Achieves Superior Accuracy and Reliability Across All Demographics in NIST Testing"
+    excerpt: "Clearview AI’s algorithm ranks No. 1 in the U.S. in all categories as verified by National Institute of Standards & Technology (NIST) Facial Recognition Vendor Test (FRVT)NEW YORK--(BUSINESS WIRE)--Clearview AI,"
+    publishedDateTime: 2021-11-01T10:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=556406"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 27
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "ZKBekimsBuR5hCwE+ckFmKtIc6jU3DUV5sp1GHoGpGAFtYoebrzKGlIa5362VefPT/z3gIgjaREbjuyxXZnxhgBAYrjypSkVP7R/z9jB9Pd358Of+dqX2nujfY/oAEmUL1yew6ASUSRrCN2bY/4SOgmfgqrD7qQhvuCSwywbFXd2xysE1AgUNwkFgmQpPAfi88fWiZz/Nec6Z51ugDCdTezKA6OJPt1EdxEeLh3Tnxop19Qpta3Xo1kXYfjW/YCBEzaLEnXFmq24GQqzwe7vuZu8Lei6NwP1QDyuh/Jv8j2oLvT/SKTp9BwjI5KxLULRzVtB0aWDjtnk2gK3GUIX/F5OlTMBf8jn5MTnlPQ3WvEa2ehfQWnRd1MBhShAveKujiXbEkvzqFutuYTW5R7OfiJC+oFTUfP9CzjNY7zeTQqqAd4/aJn3EmWd40vA3F8qNbyGMP3UfpmEIu2KCjemZCKWS0EMQ2fhJDv4wPPOL0nh6aSug+4q/NKsp23H+eLv6A/C8L40do7a6DG73V/YLQ==;ncrNHSCLYFQ9Ow3SiLeaAg=="

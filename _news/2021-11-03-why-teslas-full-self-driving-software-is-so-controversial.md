@@ -181,18 +181,18 @@ related:
         height: 449
         isCached: true
   - title: "Tesla’s ‘full self-driving’ delights and annoys with Jekyll-and-Hyde personality, drivers say"
-    excerpt: "Drivers with Tesla’s “full self-driving” software often don’t know what their cars will do next. Tesla owners have been wowed by their cars’ new abilities, but some say they have also ..."
-    publishedDateTime: 2021-11-03T19:58:00Z
-    webUrl: "https://localnews8.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
+    excerpt: "By Matt McFarland, CNN Business Drivers with Tesla's \"full self-driving\" software often don't know what their cars will do next.Tesla owners have been"
+    publishedDateTime: 2021-11-03T19:47:00Z
+    webUrl: "https://keyt.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
+      name: KEYT
+      domain: keyt.com
     quality: 28
     images:
-      - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
-        width: 2560
-        height: 1441
+      - url: "https://keyt.b-cdn.net/2021/01/keyt_ls.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Q2gmwgJO+++p/0IaFIeVOcEyjppY4uLieZaWLPDFya0RrRERtkHITuZ+Hd7LBxBE6gJbTutbGFLgSLSPmlQMGJk2R66Z+QmU3CaJxDX/OSLhyCEdoOD/xI/X/tgGo35G1JDcoJpTa8iS4SDUM1CIBZg5jd45VFdkpre85WKUSR4fIQ22RM//m7ZUs74FyJOBnKgCRYNhkgBud4BdUi9S3sQzCswFmof2BATTbXm0m6HewO+kzviBTF7B1nP+L9X0LjPKq+F4+gej1muhiQxAazorwYpQud0a40jTMIj6sxkBV53iqPsf9nMCI0eSo67oF2k4ttFnf3s+VzYYkHy5LWM2Ts7jYYGpeb073BtECIIN26ZJsPsf2WgXrfBmBioaDZsGG0DzRGM2vL4yQ3YTzVIJRzcEusACPtoQUkYWpAQ1X5boMNyuraIpRDtX6aQOiJ8nNk6ZxLQXlJF8yDMQLuC3D3aKzQp3cNbl7t6NAsozhHrM0NVJTaHg0zlWDAv0CZPH2Gc7HBAI3isiYj+eGA==;sElGrHi+C+kkcp3BZmwTxg=="

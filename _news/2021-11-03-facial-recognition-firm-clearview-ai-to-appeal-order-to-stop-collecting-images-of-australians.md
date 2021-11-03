@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Privacy commission demands Clearview AI delete all facial recognition data collected in Australia"
+    excerpt: "Australian regulators have demanded that facial-recognition firm Clearview AI cease scraping the biometric data of Australian citizens and destroy all information and images previously gathered on"
+    publishedDateTime: 2021-11-03T20:46:00Z
+    webUrl: "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 91
+    images:
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2021/03/2021-03-23-ts3_thumbs-2c5.jpg"
+        width: 800
+        height: 560
+        isCached: true
   - title: "Clearview AI told it broke Australia’s privacy law, ordered to delete data"
     excerpt: "Australia has found that controversial facial recognition company, Clearview AI, broke national privacy laws when it covertly collected citizens’ facial biometrics and incorporated them into its AI-powered identity matching service — which it sells to law enforcement"
     publishedDateTime: 2021-11-03T15:36:00Z
@@ -90,7 +106,21 @@ related:
         width: 671
         height: 447
         isCached: true
+  - title: "Clearview AI’s Facial Recognition Platform Achieves Superior Accuracy and Reliability Across All Demographics in NIST Testing"
+    excerpt: "Clearview AI’s algorithm ranks No. 1 in the U.S. in all categories as verified by National Institute of Standards & Technology (NIST) Facial Recognition Vendor Test (FRVT)NEW YORK--(BUSINESS WIRE)--Clearview AI,"
+    publishedDateTime: 2021-11-01T10:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=556406"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 27
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
-secured: "DboUcS8OR84QuP4oFqlEs5DrA+nCBBXld/PPHv2BqL1gSVfKBLJr6B7nTozPgaFgMr+WqaLw2axzuknjUEiEBpDdPjhYdxEXg2exNDHQ8Ml6MrgJiS3VGmWQR93h68HIXlqoOUUeoRqujqVIlhbVZj64vebp5tuP5Ixt6Pz1CuNaQy0YJjxkHSzTfCeHchtu8ZN9kQ5MpRiTZzkEDZZlN3XEOXh2iFV12Sgxn99Cw0UmejMZFExJ7AZyNPHqHqP86CfXRH3qXZT7jLAPMBUZ44gZC6bRR8sQaJpB5BmvZuVghkz1Y1+ohI4OKpCKNO18K79PRW42jKQEZzru1KJOoNrjuln7xZ0Tj0OsZzSz+Hs=;az98mNCwzdcGss3Ug42Cjw=="
+secured: "ZLsyrIThJO1GXYZO8RkfgcN9zhaQExCdEx2Jw7QjqEfVuFbz14dAOn+HEIYhCDI/CDQVP13OFYEwarVjchn3n4/B2HRuuyoJeVcHyEvZUmOvMtGn5AcQuLp3YYmIoAzqjJj39ZvchxbGK09rZ8r+BfZfM72gidDbTkn73r6vmu5n2B9apswxZJJIYDFPNADdE0SWZ8ED5+QRUfYhRpkZtJqiOyhWGZpo6bnjSDEpnxDRujy8/TNdtpc/zbkBt5atzo7Yv+IwSj8Bw8vq/IwZc0KDpYFmqSO9Z2OL3X1tJh/+l4aSMejMOtB5fkBb+5mfbTczsOFzjkYQOyGCtKWEeki4v71D0mOyrlsE303yylpFILJ89S3+Skw08dSgMhYzOSz1V1zYgkMSBlBrq8cOI9NF1m8TYw+ss/7YDRyUtF9KylzfNuque8M8UfxOoh4H364mTSaMTiuqTAo3R8OmltHG/fvyH7wutb+shJ3EOc+2vQxKMJ32h+rDHnIthLB07wV/T/YDU577l4YrAaVwvw==;fdKHKOeLEXNZvAcN4jpK1A=="
 ---
 

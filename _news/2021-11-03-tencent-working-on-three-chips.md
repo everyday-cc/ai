@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tencent launches three self-designed chips in expansion drive, helping boost China’s semiconductor development efforts"
+    excerpt: "Internet giant Tencent unveiled on Wednesday its Zixiao artificial intelligence chip, Canghai video transcoding device and Xuanling network interface controller."
+    publishedDateTime: 2021-11-03T21:30:00Z
+    webUrl: "https://www.scmp.com/tech/tech-war/article/3154744/tencent-launches-three-self-designed-chips-expansion-drive-helping"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3154744/tencent-launches-three-self-designed-chips-expansion-drive-helping"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3154744/tencent-launches-three-self-designed-chips-expansion-drive-helping"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 65
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/03/94ab9de2-3c88-11ec-a1b3-e785d5c8830c_image_hires_195722.jpg?itok=rZ_1qZcy&v=1635940653"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tencent flags progress on three chips in development, investment effort"
     excerpt: "Best known for computer games and social media app WeChat,Tencent has been steadily investing in research and development of semiconductors."
     publishedDateTime: 2021-11-03T14:38:00Z
@@ -84,6 +100,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--LUu65h2S--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-11-03t055023z_3_lynxmpeha205e_rtroptp_3_china-games-huawei-tencent-holdings.jpg?itok=DngETqDz"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Tencent Unveils Three Computer Chips of Its Own Design"
+    excerpt: "Tencent Holdings Ltd. unveiled three computer chips of its own design Wednesday, joining a rush by Chinese tech companies to develop in-house integrated circuits in pursuit of a competitive edge amid a global chip shortage."
+    publishedDateTime: 2021-11-03T21:30:00Z
+    webUrl: "https://www.caixinglobal.com/2021-11-04/tencent-unveils-three-computer-chips-of-its-own-design-101800292.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-11-04/163597482893236_560_373.jpg"
+        width: 560
+        height: 359
         isCached: true
 
 secured: "gm7gLv4cSbOgvQ0LHPnT72Gy1h+VDLqBVLLwyzkFq15UI5wyOhkoWncoc9dIgfv6lr4uBrUgGgkDeDUY9iLAM84L9Qn5y8KgP4OiFDqUv7Ill4LxO4OsHA8rRgXTur00Gh7zcbv7KVwj73xuYkF/JASUL5SgjIFFo0FibBxhA2MOgyvvwXSYqCyKEPKUWuoVOblxXPGDgwubOUe5tnuPonpqzFxLrhk95PZaYlHweZpbCgMTWDnj9Jo09/B6EeCSQanzt8mAMMymwFzwi5JNGqpYE8T4CmH6xJb/uA3hVuxOpMbUf6m920pXScTm5Z5YM6s/5krkygC4PyCBnsJRKKlgJIlY4G4VL6zigkdGcUaW0QbaZTsYCih0wQjND621EyvClMY5ki6ZtqElW0xvPee3NETzh4Q2vabBxmbpcaiV6iqHAdNY4RAJc66Sjzy9509arWXho8iFV7MmUQJsWLL3iUxzSy/mTopgl8IoMIMBaWjBAiJjCzidi09XtnKZmYQFIBCXLXsoxZsCPxosaA==;s+RMNVqk8LzvFZ1/lTvOrw=="
