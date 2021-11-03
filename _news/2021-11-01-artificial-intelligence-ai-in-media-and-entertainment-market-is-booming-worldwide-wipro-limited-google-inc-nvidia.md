@@ -53,18 +53,18 @@ related:
         height: 480
         isCached: true
   - title: "Worldwide Surface Computing Industry to 2026 - Key Drivers and Restraints - ResearchAndMarkets.com"
-    excerpt: "The \"Surface Computing Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. Surface computing uses an advanced natural user interface (NUI) and eliminates the necessity of a keyboard and mouse for"
-    publishedDateTime: 2021-11-02T15:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-20079034.html"
+    excerpt: "The “Surface Computing Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. Surface computing uses an advanced natural user interface (NUI) and eliminates the necessity of a keyboard and mouse for input."
+    publishedDateTime: 2021-11-02T15:14:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-middle-east-health-ee8d2b4383fd43609362a62cf627b905"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Associated Press
+      domain: apnews.com
     quality: 25
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Global Self-driving Bus Market 2021 Key Players Data, Industry Analysis, Segmentation, Share, Size, Opportunities and Forecast to 2027"
     excerpt: "Another report by named, Global Self-driving Bus Market 2021-2027 has been added into its tremendous archive by MarketsandResearch.biz. The report presents a far-reaching investigation of the market assessing the market on a worldwide,"

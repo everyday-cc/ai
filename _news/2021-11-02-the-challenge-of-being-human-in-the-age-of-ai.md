@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/being-human-artifical-intelligence-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "AI Challenge: Monster Engagements"
-    excerpt: "An AI Challenge for the SDSU AI Club. Contribute to AgentWombat/monster-engagements development by creating an account on GitHub."
-    publishedDateTime: 2021-10-30T01:28:00Z
-    webUrl: "https://github.com/AgentWombat/monster-engagements"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 37
-    images:
-      - url: "https://opengraph.githubassets.com/b6f413fe3cb4cf6a1f5aecd1f0ae549a34dc6af134cea2e118c6f4933a897361/AgentWombat/monster-engagements"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "YPvi3nA2g+oh/EDmqN+2k5GgwW17qx/UQ3buKr7WhZjbHmfTKrVcMDv/6dN76TNw+54PC81EysoXlQ06i93hlxe1yAvDSjQOhygrPykKkKPAlyh0NpLzHg9/8vT7V96NSyBx8as/td6ILpEHj/YACW3aCPThos6djHuE4L7pYDY0u6AJ7Jxc6L/c/pWEz5SimxO4QXgDGLfPSzxjZmhbcZNR84Zae5UUgoHXM+sEnx64jRi/uoypRbLm2IZVYQuSpxnO4512dWRv2KHoCpenaH4EdQHMbR5587LBlF20dYbImoXuVQxbWN2p1DrkX64GDIuiD4lf5xlSULsBiC8j6PgGPY2LOUS6m8/KTcN6VMEAIQOKn7hibHXXG/XLGyPMDoyI/bmZ67SS4sSrrmOgi8uAOmBjFb1idXk5yVSumH/P40/jnLZl0pojg1zs6Jpo8TRPK6KYJZKa5PqGU157P2YIKs731F874SAG57tZIx9f6s7F3zKa2LQi8/saaNW9a49OLDz4jb5qbIRwWc+O5Q==;ZWQDrzPjP1wZa1k/dmd+6A=="
 ---

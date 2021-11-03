@@ -263,6 +263,20 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Facebook to get rid of facial recognition"
+    excerpt: "Facebook is shutting down its facial recognition program. The company, now known as Meta, will delete over 1 billion facial recognition templates."
+    publishedDateTime: 2021-11-03T16:39:00Z
+    webUrl: "https://www.cnbc.com/video/2021/11/03/facebook-to-get-rid-of-facial-recognition.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106970246-4ED4-QT-Facebook-110321.jpg?v=1635963267"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Facebook researchers build better skin and fingertips for softer, more sensitive robots"
     excerpt: "According to Facebook AI Research, the next generation of robots should be much better at feeling — not emotions, of course, but using the sense of touch. And to advance the ball in this relatively new area of AI and robotics research,"
     publishedDateTime: 2021-11-01T17:27:00Z
@@ -293,6 +307,17 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Governments must check Facebook really does scrap face recognition, whistleblower says"
+    excerpt: "Facebook FB.O whistleblower Frances Haugen welcomed Facebook's FB.O announcement that it would scrap facial recognition, but urged close government oversight of the move to ensure the social network lived up to its pledge."
+    publishedDateTime: 2021-11-03T17:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/governments-must-check-facebook-really-does-scrap-face-recognition-whistleblower-says-2021"
+    ampWebUrl: "https://www.nasdaq.com/articles/governments-must-check-facebook-really-does-scrap-face-recognition-whistleblower-says-2021?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/governments-must-check-facebook-really-does-scrap-face-recognition-whistleblower-says-2021?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 63
   - title: "Facebook is shutting down facial recognition system after a decade"
     excerpt: "Facebook plans to shut down its decade-old facial recognition system this month, deleting the face scan data of more than 1 billion users and effectively eliminating a feature that has fuelled privacy concerns,"
     publishedDateTime: 2021-11-03T08:25:00Z
@@ -578,6 +603,20 @@ related:
       - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Facebook’s facial recognition removal comes with caveats"
+    excerpt: "The company this week said it is deleting 1bn facial recognition templates — made through scans of users’ faces — and shutting down the features that automatically recognise people in photos and videos."
+    publishedDateTime: 2021-11-03T18:04:00Z
+    webUrl: "https://www.ft.com/content/dd906710-f0b0-42ef-9d89-309018e72aa7"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd3a4bd0-c1fb-4ca0-924c-cbe930f45751.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
         isCached: true
   - title: "Facebook will shut down face-recognition system, delete prints of 1 billion people"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people. “This change will represent one of the largest shifts in facial"

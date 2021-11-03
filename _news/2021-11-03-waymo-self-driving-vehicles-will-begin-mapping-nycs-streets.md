@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-he
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo will start operating in New York City"
+    excerpt: "Waymo will start testing its self-driving vans in New York City on November 4th, helping it prepare for heavy traffic and snow.."
+    publishedDateTime: 2021-11-03T19:32:00Z
+    webUrl: "https://www.engadget.com/waymo-self-driving-cars-new-york-city-130044539.html"
+    ampWebUrl: "https://www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/0a2fefa0-3c1b-11ec-bfeb-09e0beaa0f08"
+        width: 5287
+        height: 2974
+        isCached: true
   - title: "Waymo begins mapping NYC to improve autonomous driving tech"
     excerpt: "Waymo's vehicles will be driven manually at all times. The goal is to improve its autonomous driving technology. Waymo said \"we don’t have any immediate plans to launch [a robotaxi service] in New York City."
     publishedDateTime: 2021-11-03T12:59:00Z

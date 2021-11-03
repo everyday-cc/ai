@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Leaders in Artificial Intelligence Reconnect at ODSC West 2021 in San Francisco"
-excerpt: "ODSC, the largest applied data science conference is making a return in-person and virtually this November 16th-18th in San Francisco, California. This event is"
+excerpt: "ODSC, the largest applied data science conference is making a return in-person and virtually this November 16th-18th in"
 publishedDateTime: 2021-11-03T16:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/leaders-in-artificial-intelligence-reconnect-at-odsc-west-2021-in-san-francisco/article_f770c7e3-573f-5906-9afb-33a56a1bdb22.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/leaders-in-artificial-intelligence-reconnect-at-odsc-west-2021-in-san-francisco/article_f770c7e3-573f-5906-9afb-33a56a1bdb22.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/11/n23864287/leaders-in-artificial-intelligence-reconnect-at-odsc-west-2021-in-san-francisco"
+webUrl: "https://www.benzinga.com/pressreleases/21/11/n23864287/leaders-in-artificial-intelligence-reconnect-at-odsc-west-2021-in-san-francisco"
+ampWebUrl: "https://www.benzinga.com/amp/content/23864287"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23864287"
 type: article
 quality: 33
 heat: 33
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "GCVK9tG4ulWUhkMJDlm9hOo1EVeqD5igzNA3+QQEPOwLsnaNXLdNhWZjirQ/tzW0OunKV0A9oi8S9ave1CjoKSEZQWK/FfzNMqh4ZYhfrAOyaJHju7xX73pkIrMQjGx7Jzs1ilDtoxgTTsKi4ooGEA+xrbWVKH8GT1H3U8u/ni/URj+rt59DlHiZix65gFNr/WbJJ3pPJauEhKy13PLNzDO9y9DmFpgECH1pWRAfx7O4jp6bu2F1Vdj8AKdp6wcuBKMDYomjQ5WnRFpqEi46TIXSlSPBANHTSobNfEeaBCHOEm7JpMo4RifTXE5bHb175IQYfrMASLTxsQWtBMUbGfM0JNzLX5Vy4IVYJJUmbe8=;lY7pQCnubZ1VBLcekK5NCQ=="
+secured: "7BwCOxeaOgOc+6v212u8zSsRXVvZMc6pvr541ELhMiGuso8tTIX65RA8N5glLnXsjuiZgsrVCTxZwNsxmcCjxJqa0FSP8E5EQ1rBbqT/IVpJ9OmqIGCZJ7Ui6vBt0Z7uJeynqHEoMOwxFxoFhDl8DvdU+q7B/qDngEX+kvKM7AbSFbR+HCGcUy6n7hY2v+Ptq9zCu/eeKQfaBVbwke4tvi1HRM1W7brQie0n15yyMYUhQ3l11o4mrd8lCO88tAdlpGjpm+12ZP1HObG4QqM9AHB9rX1U9ujl8nT3jRmu6+GrgOy4hn7HlNCXoJFrMQvz5vP2oYPzzeQNHIlhyb1m5gHaW7Z0OMHQdFb/i/a2MRY=;XzoSeqPDO/QAO+0FGayW+w=="
 ---
 

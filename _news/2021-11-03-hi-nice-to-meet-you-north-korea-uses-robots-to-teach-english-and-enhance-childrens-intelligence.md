@@ -43,6 +43,22 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "North Korea Is Using Robots To ‘Enhance Children’s Intelligence’"
+    excerpt: "In an apparent step-up from virtual learning, North Korea is now using robots in order to teach the country’s children.  Footage of a humanoid robot in action was presented on state television KRT after leader Kim Jong-un issued a push for education reform and technological innovation;"
+    publishedDateTime: 2021-11-03T17:33:00Z
+    webUrl: "https://www.unilad.co.uk/technology/north-korea-is-using-robots-to-enhance-childrens-intelligence/"
+    ampWebUrl: "https://www.unilad.co.uk/technology/north-korea-is-using-robots-to-enhance-childrens-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/north-korea-is-using-robots-to-enhance-childrens-intelligence/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 59
+    images:
+      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F11%2FNorth_Korea_Robots.jpg"
+        width: 1200
+        height: 619
+        isCached: true
   - title: "North Korea using robots to teach children English and 'enhance intelligence'"
     excerpt: "North Korea is using humanoid robots to teach children subjects like English, maths and music. A toy-like robot with the country's flag on its chest was demonstrated on state television KRT following a push for education reform and technological innovation by North Korean leader Kim Jong Un."
     publishedDateTime: 2021-11-03T14:09:00Z

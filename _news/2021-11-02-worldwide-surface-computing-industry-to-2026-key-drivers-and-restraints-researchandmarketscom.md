@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Worldwide Surface Computing Industry to 2026 - Key Drivers and Restraints - ResearchAndMarkets.com"
-excerpt: "The \"Surface Computing Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. Surface computing uses an advanced natural user interface (NUI) and eliminates the necessity of a keyboard and mouse for"
-publishedDateTime: 2021-11-02T15:16:00Z
-originalUrl: "https://www.lelezard.com/en/news-20079034.html"
-webUrl: "https://www.lelezard.com/en/news-20079034.html"
+excerpt: "The “Surface Computing Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. Surface computing uses an advanced natural user interface (NUI) and eliminates the necessity of a keyboard and mouse for input."
+publishedDateTime: 2021-11-02T15:14:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-middle-east-health-ee8d2b4383fd43609362a62cf627b905"
+webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-middle-east-health-ee8d2b4383fd43609362a62cf627b905"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-    width: 421
-    height: 421
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -82,6 +82,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Z1OFQmP0NzA4ZlGpR+sIuAXlTpTY7PTP7NLhMXGOToZLtza4VxDvjGkrnx2ioE85tbYd1wu0zhShM3w7NpD/heVUazz8QEs0Q/qdF+d8gyrEm8xlKnUPIDuDjSgdAZeY26OrC/yQ4u5eB7EFvrZN0W7keUOKjzx6gXHIMsSfVkaRk9EJ3jNCKojk7ah3GOubS3irYTrA1WAxKMTWjPXwwI8eWkMV1J1W2Ioy18k2OZelTQdOzfOrDxmFIKhr8bO3OZ9C5MDXt196D9pKHuC0hYFusiyLCHI0cm723J+WgFJiAdRyNqL96eFyU7LOAXt6DuZX25YNVm8njkoNRmfFvsAx+sCtldyDfewD3vRl4xI=;4gB/uzchi/GC9K/QDadliw=="
+secured: "2WoCX+sX2lpcdLCILxz9G6OfjvyCKGKmoURT5fef40bcNhxMtXx5Jb8J4kkGZCiS4/1JwSE0bdNfkAmLC+Tnp9lj1K3Sf0DZ+qtpyHpkq87nCtp97LLJvcMeWjMS7NiJ4DkSJWSaGB00+SilhsVVVMLzsQflGkcArxq37XjQsJPx2N3bb39r/2HvM8AQkeSoTxWkSvOw5ghrKGqgAs4aiKflaIvryWk7Swb4cvYS61cdck09ZKXTFM9omdQ2Ff/6H/IyNnpPOo4RH7ktDq1atf39jbNUVVPkxh4nkwgb3v9R7SDx/hu4c0OFiDSBmJMY6Bvg2IhpdBy6Gud1SBqkNErFaKBVM2rz2hbvGJjiUsU=;AkbwhRndYqIEZ33bKBk9Xw=="
 ---
 

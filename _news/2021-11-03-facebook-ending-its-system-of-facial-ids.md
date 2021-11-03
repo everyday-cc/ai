@@ -273,6 +273,20 @@ related:
         width: 3780
         height: 2520
         isCached: true
+  - title: "Facebook to get rid of facial recognition"
+    excerpt: "Facebook is shutting down its facial recognition program. The company, now known as Meta, will delete over 1 billion facial recognition templates."
+    publishedDateTime: 2021-11-03T16:39:00Z
+    webUrl: "https://www.cnbc.com/video/2021/11/03/facebook-to-get-rid-of-facial-recognition.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106970246-4ED4-QT-Facebook-110321.jpg?v=1635963267"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Facebook researchers build better skin and fingertips for softer, more sensitive robots"
     excerpt: "According to Facebook AI Research, the next generation of robots should be much better at feeling — not emotions, of course, but using the sense of touch. And to advance the ball in this relatively new area of AI and robotics research,"
     publishedDateTime: 2021-11-01T17:27:00Z
@@ -303,6 +317,17 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Governments must check Facebook really does scrap face recognition, whistleblower says"
+    excerpt: "Facebook FB.O whistleblower Frances Haugen welcomed Facebook's FB.O announcement that it would scrap facial recognition, but urged close government oversight of the move to ensure the social network lived up to its pledge."
+    publishedDateTime: 2021-11-03T17:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/governments-must-check-facebook-really-does-scrap-face-recognition-whistleblower-says-2021"
+    ampWebUrl: "https://www.nasdaq.com/articles/governments-must-check-facebook-really-does-scrap-face-recognition-whistleblower-says-2021?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/governments-must-check-facebook-really-does-scrap-face-recognition-whistleblower-says-2021?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 63
   - title: "Facebook is shutting down facial recognition system after a decade"
     excerpt: "Facebook plans to shut down its decade-old facial recognition system this month, deleting the face scan data of more than 1 billion users and effectively eliminating a feature that has fuelled privacy concerns,"
     publishedDateTime: 2021-11-03T08:25:00Z
@@ -589,6 +614,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Facebook’s facial recognition removal comes with caveats"
+    excerpt: "The company this week said it is deleting 1bn facial recognition templates — made through scans of users’ faces — and shutting down the features that automatically recognise people in photos and videos."
+    publishedDateTime: 2021-11-03T18:04:00Z
+    webUrl: "https://www.ft.com/content/dd906710-f0b0-42ef-9d89-309018e72aa7"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd3a4bd0-c1fb-4ca0-924c-cbe930f45751.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Facebook will shut down face-recognition system, delete prints of 1 billion people"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people. “This change will represent one of the largest shifts in facial"
     publishedDateTime: 2021-11-02T17:37:00Z
@@ -729,6 +768,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "tdpEJd2VEI9mB03TA+Gbq3gBLV3KWB/+GtU83kjp1xI8XjUg0mN5CIAhY/6bvXwXCvC0r5k2t5n6CesIoim8ZLLY/SLHfu/jclcYDiKP06Ya9Yyj3I4Ie4XUeV/3/y20iYJPWaxe7ItPjB5cA8IMylWzWmoV3TwngFoHQXziTguggcAJvQnf59ufVSCm88B3GPrGTXyGVwEFBQqiMokTwxHwo69WN6rLlOBnlHGkxPTiACx0RYdzcsj8LTfAUQGFCmbqK9jQhDEJTZvni1A7r2SGeCnn50Vx3cjjJbKKE8rYXDSG9Ps8HrHpuGexszffA+1PFHLZydObB4l1QrUkRcneIXZd+XO3Mfq7tBNHfVM=;bKTrlUYV2k7BSm3gZVA4Qg=="
+secured: "RbCDjuEQGPI7u0oRZQyl6bvRace3qCItpYQE8AlMUVdIHrCUN3seOiDahCsJIoAoW+OWR8POa9j+QPzM1Rta+Wr9861iY1y354P1UQGm43eSGEbfHg7PF5TbDruV0614K1mr5V3/oYy/BK5ffidjDwcf37sxfd1FKT05KnBm1oT4Jy5jN5an68xZV7hqW1FqvC0CoRV0EaZkGwo7ZchzFPW3BFse2gY5V8FNd7neF6aeYF49Ug0KxzXJ39ROYoqB0tFgZCOSyMSoU3JBhIzWobhEMpFk675K/6KoRpYfAfVUVtntTcryExUprN7A3f1QIKPwOWNYK6lcBpcy55+IHeSIWmk3GaUXx3cIO69+62vjlVDhLX+tck9i/vGPHn4mRWc416QO2JFnqlINP17g74JBA10RyXn0sj2PBCEcpvir1fJJD74knnKDfBCGmKnhAB0HSGyhT4hxMfYAVmbG+zhNv5/c5Qtu4UNceR5/JbRRjompIWWSrF4znvkqBt2WNa0VD02mcjurXcgquA56Og==;8h0xBB7BRxT+xF58NLCBBw=="
 ---
 

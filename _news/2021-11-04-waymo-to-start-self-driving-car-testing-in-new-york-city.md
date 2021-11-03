@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Waymo will start operating in New York City"
+    excerpt: "Waymo will start testing its self-driving vans in New York City on November 4th, helping it prepare for heavy traffic and snow.."
+    publishedDateTime: 2021-11-03T19:32:00Z
+    webUrl: "https://www.engadget.com/waymo-self-driving-cars-new-york-city-130044539.html"
+    ampWebUrl: "https://www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/0a2fefa0-3c1b-11ec-bfeb-09e0beaa0f08"
+        width: 5287
+        height: 2974
+        isCached: true
   - title: "Waymo begins mapping NYC to improve autonomous driving tech"
     excerpt: "Waymo's vehicles will be driven manually at all times. The goal is to improve its autonomous driving technology. Waymo said \"we don’t have any immediate plans to launch [a robotaxi service] in New York City."
     publishedDateTime: 2021-11-03T12:59:00Z
@@ -93,6 +109,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "b6RVFQmDAwU7TeXHSi4JD28LKQz7GVLozh3JNJnzE+CNFuqs+u3FbFdVJX6lQykvhz+h4RsvQutAG1PgdV9LdDUkP9wQ3CQ3xB2jdmOM06luutbPeBZEz3NytxcsjeLirg0D5BT2pIyur6RNf0Hba0CQHsyi11lntWHnlX5lsan0rmUn8dih5CcE0UJ75Uu9aT8RVTwpRMZT9xsWN59YFOyHksITYzm4VX1KcqhXL+0JfkdOpl7KPAYRZaYcCq1NbOWk0tEFf+82JgErC9XnNhPRB4Kjc44Em+x1tRcFyOLOCWBeoH/dvmWYoSN3L7cPD1ZyoJwv4OUcHri5HoeEYDgbz2WywjQAEl+eN69utrE=;RPzK5Aok71NGfAxDuVuS9A=="
+secured: "lNeWyfJ1bMdZ2dnMb0nljIJTGFz7883ML7PAnFX6MNoSEmTXIPCGASPxUWpjUZhAKC5O9r1a0l8uZwFjaso6DTexXoSI9n6Q9ep/Sm4BTMt4gdPFlbB0ogdd2/239mb6agRpeJTt18tiFW2Ns4rqOe03f4TWrxFx4S0BaIzet5PmNvOg53PG/7k7oiROpAJvOklhdo1w8gm8Okn2CcsV0+fQxaXu4T9bFTsA1L3Q9SS69/pWEBbdEf5FEcQ5Y+DS2wCfuPAOprje64ygARQNEQiDT/zenuOIoLeR1gmhgNJUIASe/V/NXhmCuoquPp+2+wB7uOBxCBF0qqxVqfNh8xC/lOsz6KwORcrt848z3hc3mR8sRechViS9RJb1xU7r2q68n5ZEhP62QWo4ic7APl6r1QSzLo59MElaB651OGVms9wROQMF9Xs4Yo6NzyFWtnQ5sNUxScc9aMgcB2C9Sa+OSYnTkFxU5mdHC5C8hjkBRLwbjiI7Z20NSafIx+jpIYQQDxwYRzEycyn3jxt+tw==;Uh29JtaBUcBSc6Z4/ICTkw=="
 ---
 

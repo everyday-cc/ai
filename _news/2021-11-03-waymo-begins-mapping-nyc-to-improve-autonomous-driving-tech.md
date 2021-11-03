@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Waymo will start operating in New York City"
+    excerpt: "Waymo will start testing its self-driving vans in New York City on November 4th, helping it prepare for heavy traffic and snow.."
+    publishedDateTime: 2021-11-03T19:32:00Z
+    webUrl: "https://www.engadget.com/waymo-self-driving-cars-new-york-city-130044539.html"
+    ampWebUrl: "https://www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/0a2fefa0-3c1b-11ec-bfeb-09e0beaa0f08"
+        width: 5287
+        height: 2974
+        isCached: true
   - title: "Hong Kong Airport Authority Plans Self-Driving Bus Service"
     excerpt: "The Hong Kong International Airport (HKIA) is preparing to launch an autonomous bus service, marking the latest step in its use of self-driving technology to enhance efficiency. The airport already operates driverless luggage trailers and unmanned patrol vehicles."
     publishedDateTime: 2021-11-03T12:31:00Z

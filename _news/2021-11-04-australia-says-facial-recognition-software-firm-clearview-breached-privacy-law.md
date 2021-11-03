@@ -1,0 +1,92 @@
+---
+category: news
+title: "Australia says facial recognition software firm Clearview breached privacy law"
+excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data"
+publishedDateTime: 2021-11-03T18:03:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/australia-says-facial-recognition-software-firm-clearview-breached-pri-rcna4476"
+webUrl: "https://www.nbcnews.com/tech/tech-news/australia-says-facial-recognition-software-firm-clearview-breached-pri-rcna4476"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna4476"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna4476"
+type: article
+quality: 85
+heat: -1
+published: false
+
+provider:
+  name: NBC News
+  domain: nbcnews.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-11/211103-one-time-use-clearview-ai-se-200p-cadd54.jpg"
+    width: 2500
+    height: 1667
+    isCached: true
+
+related:
+  - title: "Clearview AI told it broke Australia’s privacy law, ordered to delete data"
+    excerpt: "Australia has found that controversial facial recognition company, Clearview AI, broke national privacy laws when it covertly collected citizens’ facial biometrics and incorporated them into its AI-powered identity matching service — which it sells to law enforcement"
+    publishedDateTime: 2021-11-03T15:36:00Z
+    webUrl: "https://techcrunch.com/2021/11/03/clearview-ai-australia-privacy-breach/"
+    ampWebUrl: "https://techcrunch.com/2021/11/03/clearview-ai-australia-privacy-breach/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/clearview-ai-australia-privacy-breach/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2015/10/shutterstock_113956645.jpg?w=1024"
+        width: 1024
+        height: 700
+        isCached: true
+  - title: "Clearview AI slammed for breaching Australians' privacy on numerous fronts"
+    excerpt: "Despite uncovering Clearview AI's intrusive practices, Australia's Information Commissioner conceded that the number of Australians who have had their biometric information scraped by the company was unknown."
+    publishedDateTime: 2021-11-03T01:38:00Z
+    webUrl: "https://www.zdnet.com/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 65
+  - title: "Facial recognition firm Clearview AI to appeal order to stop collecting images of Australians"
+    excerpt: "Company stands ground after watchdog finds it breached Australians’ privacy by scraping images online"
+    publishedDateTime: 2021-11-03T07:11:00Z
+    webUrl: "https://www.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 63
+    images:
+      - url: "https://i.guim.co.uk/img/media/9b8e05babaf9fcfff8634a9e89dbf5bcce73a207/1493_0_3799_2280/master/3799.jpg?width=620&quality=85&auto=format&fit=max&s=2952e1eef9cde6048259b3ac7ac52a9c"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Australian artificial intelligence research to help astronauts grow plants in space"
+    excerpt: "Within the next five years, astronauts will be growing vegetables in space with technology developed by Australian scientists."
+    publishedDateTime: 2021-11-02T20:26:00Z
+    webUrl: "https://www.abc.net.au/news/2021-11-03/research-to-grow-vegetables-in-space/100584946"
+    ampWebUrl: "https://amp.abc.net.au/article/100584946"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100584946"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 51
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/e4042c37a61d5b971733590b729d1e6c?impolicy=wcms_crop_resize&cropH=447&cropW=671&xPos=0&yPos=125&width=862&height=575"
+        width: 671
+        height: 447
+        isCached: true
+
+secured: "I0R92QiXJZ4r+69FhmE03cFyBsxb0zfhQ2urP8lLPYeyoCniQxnQZC8vP+Tau4vuhe15bcezr98aA8lZaiM3R+ijc9CIN+pEQJQNzbrCNRR18ICT6PWzRzG/BqNRp/FTlNmqbOu+LSyk7XGmklpdHvLoR1YM0xMyYS4oEju3hCp2Xblhax8xVKB8GvP646ArZCsOcN3Lx/cVofEfuVZcPAIeCtcdNehphHRcXapIuVBE9GnTrmY1ktwNL/VfGH3aBiXHN3q5tutzRf2Kc4hw9NNmnqYjX1CJ6DnZpS2x+DkmNm9wU4OWC5OIfAroVSuYlqu8qcHpS3pHVUjgWyiG/Z0akqAV/vs/v6h1n8AsVxE=;Da0M0Dw1RtgwDrOawuorDw=="
+---
+

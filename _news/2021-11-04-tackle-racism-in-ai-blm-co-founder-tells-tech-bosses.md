@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Tackle racism in AI, BLM co-founder tells tech bosses"
-excerpt: "\"at-above-post addthis_tool\" data-url=\" Catarina Demony LISBON (Reuters) -As concerns grow over racial bias in artificial intelligence, Black Lives Matter (BLM) co-founder Opal Tometi urged the tech sector to act fast against perpetuating racism in systems such as facial recognition."
-publishedDateTime: 2021-11-03T17:20:00Z
-originalUrl: "https://www.metro.us/tackle-racism-in-ai/"
-webUrl: "https://www.metro.us/tackle-racism-in-ai/"
-ampWebUrl: "https://www.metro.us/tackle-racism-in-ai/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/tackle-racism-in-ai/amp/"
+title: "Tackle Racism in AI, BLM Co-Founder Tells Tech Bosses"
+excerpt: "\"A lot of the algorithms, a lot of the data is racist,\" U.S. activist Tometi, who co-founded BLM in 2013, told Reuters on the sidelines of Lisbon's Web Summit. \"We need tech to truly understand every way it (racism) shows up in the technologies they are developing,"
+publishedDateTime: 2021-11-03T17:44:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-11-03/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-11-03/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses"
 type: article
-quality: 57
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI Ethics
   - AI
-
-images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportPoliticsNews/tagreuters.com2021binary_LYNXMPEHA20YV-BASEIMAGE.jpg"
-    width: 800
-    height: 534
-    isCached: true
 
 related:
   - title: "Tackle racism in AI, BLM co-founder tells tech bosses"
@@ -38,6 +35,6 @@ related:
       domain: nasdaq.com
     quality: 69
 
-secured: "62I8078SG2+hx2bf6RT+tSvifMMD1hYN+zhbtScfDmVjtz5uM2LiK1tdeYLa5zLSk3EK7qrTU8DTmT3aaz58rm31lAZj3MevxXnnQpQoAIlba6UxsCbxxXTR6bxdm7w1m3FSCu4uT03bQ8mXyKa95KJAyRzIlcI6aEDuUAXR8CsR2E4ioJLuxR/cIiIlZYWEGTrOeFKM0EyFf04BsbmIi8yiuY1eyvque+v814CajdKUyqZXcuLah/12/17CyJcHJk9hOTyYS0LPFDO6bLSu1WK7NWvHqK4aS2NlLWdqLBq4+TQrn4LVRs6NquPZ3wWiZdbNW6VFhqMVQBurEDuWSKeOnhuH/VZ96a9hTwZrEWc=;A55jV8YbpFoQGBeBanOcbA=="
+secured: "epQi1y8q8fD3wnre4Q9AjCKFmsR8wqP5RnRpGeJN9jUSjGJ3vWMbXY/DGCxX48aDlrqPHGOG3ESoqHXLKM0xczvliiQMLdv0RXCKMCIWTzOyRoofU7m/XPRPMXc9dCD0dUFl39+uiGLx6mCmSge9MZSEXvz6W5ES2I06L2CfAwEH5HqmQiiE8qbchDs5S+wOn9H3JPvKRltlW3JghSrQhToen1ojQvVEjHVcmQuFrmnMiZiVbO6IBXFIGw1sSyNO08TGMjPwzerA/UJuG9foGhvFKq2QMk/Mm5T6AE79wCRHy67RqsGiScYU9yCOnqFjLto51i0ZvlPMVDo/TZ8wevFqdYH4CHROsZKX1ehzUa6hcxsLr1fhRTTTHJb50NXOuPkPNSHQz1E0kD66u12O7H4RK5vZ/8WI0p3lur4AvuuKbbNxbK848gPTHYD0GMUUjMnO/VCzpsYws1zNzUggL/dk7j9qfQ7pKwoJlyBszjqRMQm1m7BWViK+4rQjbQ06nAW0PmaGrk2j6lkFnnO4hQ==;PClg+MnHHFnTmRBlILYZbA=="
 ---
 

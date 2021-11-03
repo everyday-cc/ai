@@ -21,22 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Tackle racism in AI, BLM co-founder tells tech bosses"
-    excerpt: "\"at-above-post addthis_tool\" data-url=\" Catarina Demony LISBON (Reuters) -As concerns grow over racial bias in artificial intelligence, Black Lives Matter (BLM) co-founder Opal Tometi urged the tech sector to act fast against perpetuating racism in systems such as facial recognition."
-    publishedDateTime: 2021-11-03T17:20:00Z
-    webUrl: "https://www.metro.us/tackle-racism-in-ai/"
-    ampWebUrl: "https://www.metro.us/tackle-racism-in-ai/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/tackle-racism-in-ai/amp/"
+  - title: "Tackle Racism in AI, BLM Co-Founder Tells Tech Bosses"
+    excerpt: "\"A lot of the algorithms, a lot of the data is racist,\" U.S. activist Tometi, who co-founded BLM in 2013, told Reuters on the sidelines of Lisbon's Web Summit. \"We need tech to truly understand every way it (racism) shows up in the technologies they are developing,"
+    publishedDateTime: 2021-11-03T17:44:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-11-03/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses"
     type: article
     provider:
-      name: Metro US
-      domain: metro.us
-    quality: 57
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportPoliticsNews/tagreuters.com2021binary_LYNXMPEHA20YV-BASEIMAGE.jpg"
-        width: 800
-        height: 534
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "J8iU64wuyXaG2j4EyiAUV6KaTKa+5L0cS/q/IijZXwmeEkZy1Iq/9TmT8Kv4ngKLo9WiKCMjKHAKZeUPhARbr47v/5aq5nbDGEyQVPzZ9SHsns7fg11k+o/Bs2fO9AHpPF501h5PTgezmxI11hiGFJUbvgWWoxuvaJ5R2Dz/+YTPIiIZIlvO3ytZBJT1n2DW6kB8RNaxKjEn3uAQxmfphSTNvtGnzGgjG1EjAKZ9kFn1wK9PfwX+mRkAvnnrle35lHCtS48rkdvSLtTC3dKrBfpuMglNwGAKFsDT5dpNj8ITqqSkpY5xfokboKlS5mMTXhIeyF3dfCbGGnklWUGnqxhtLCfK1PRxgUc72Q2O4XdC3NbxmgBZ5a24GrWtsKipxbM/Ycy8+8JNpWYiq7Cp2LTbWcG1cYSFoUO+Xqeg0Oq1T0f9TNHmJbD50i3ZhjZ3I45ZJXkwKnCwYThrCgVQimqZkIVTU1PCkscq87HLJ84KRWiBpcj0ViRfmLo9u1lW5bDxS2Vaqq+GUFaEyRRvdA==;MJbf8ylFpLkF+UctBqarxA=="
 ---

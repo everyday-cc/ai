@@ -26,6 +26,15 @@ images:
 
 related:
   - title: "Machine learning model uses clinical and genomic data to predict immunotherapy effectiveness"
+    excerpt: "A new machine learning model accurately predicts whether immune checkpoint blockade (ICB), a growing class of immunotherapy drugs, will be effective in patients diagnosed with a wide variety of cancers."
+    publishedDateTime: 2021-11-03T19:13:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/11/211103140133.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 38
+  - title: "Machine learning model uses clinical and genomic data to predict immunotherapy effectiveness"
     excerpt: "CLEVELAND - A new machine learning model developed by Timothy Chan, MD, PhD, of Cleveland Clinic and colleagues accurately predicts whether immune checkpoint blockade (ICB), a growing class of immunotherapy drugs,"
     publishedDateTime: 2021-11-03T15:56:00Z
     webUrl: "https://www.eurekalert.org/news-releases/933722"

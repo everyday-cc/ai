@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent pushes beyond online content, unveils first AI chips"
+    excerpt: "Tencent has unveiled its first chips, showcasing a yearlong foray into silicon design as the Chinese tech giant seeks to grow beyond digital entertainment."
+    publishedDateTime: 2021-11-03T19:27:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/11/03/1600x900/CHINA-GAMES-HUAWEI-TENCENT-HOLDINGS-2_1635926062591_1635926076330.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Tencent flags progress on three chips in development, investment effort"
     excerpt: "Best known for computer games and social media app WeChat,Tencent has been steadily investing in research and development of semiconductors."
     publishedDateTime: 2021-11-03T14:38:00Z
@@ -70,6 +86,6 @@ related:
         height: 465
         isCached: true
 
-secured: "cBcXX58GYsVvmE+JQUVCv8vlncIFMVb+GsijoH05tKpz8A5V54Bn+GsyNgaofFExTaY8nujsEbNLhvT4tLlyUnA3ehmU6BqNAN72GN/vldMSsxbqn8iqrssKT3+P6hbJMniUJSK91lDuMmwwjokV0dSyDo5SdEz2oeyIxXH5YoVHQkWIpNXRikKuSLSlAz7mD45VuJFMseZ1lOm85PvOpQk/b4EfiLEJBJxgh1EVa/3eOxULrG03nCIoHGRr5Ww/9R4ZAdsgZlXqBosokgk4ht7EqzWDevysxTo0gslQJqdICLcM1GWoTluTKqVQ5aFvx732OnrireXmv4AAVkfRk3k6YuGFNOSvVrOlrX9TWTQ=;5sQpRWJ1dzJanF+ynappfQ=="
+secured: "5ALyDCi45JjBGWQofarjc+uCxRLkD4C3ZTyPO7aQhrmClYLv/frou7nqWGe6a9HTDcwlGwiJqs1ozIeWl+S1dZ7fImgazwBtrkBcb7/p1jYJQdIuYTTi1abRsxmDfJmc93nhg8Wm9cKnp0uRSD6Z1dMZHjpDLcKaxuCSZyv+urO+utp1d0opJEuOvjD/vwdBsf0u5CcJGrD1UAjlYiOVyyQOfngiJliMp2XIc+xjBH2+V1jZhw3RXvO5YO6d34RQp7Vg9lEVhPlDrsqXHyEMUdksJcJ/mmz7W1u0TutsKLvocT1GdNp674nQpo57xyZchHa81YV/rjrdTBuXiSE3WLN+213DqRhP35hJdvX4ciEBH4J3mgmKI6MFXzkWDwWgGC1Oiv/OK8Tw08rLHDBnlaCwMmwKnWKvLOGfCqLd1HVz0SuI+3ZP6UuNAfZVqZEU8tOckzqYDrZIXEELwuydJU2j8oUECJ0ei+MO5jy2WQlXUNr9vel/QFnnabNu2z5jGN4MNz9CevFgSHnW+bMREA==;gpViWG0msiWA3m8QnHp2bA=="
 ---
 

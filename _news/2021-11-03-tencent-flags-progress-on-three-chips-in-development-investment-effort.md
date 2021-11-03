@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/tencent-flags-progress-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/tencent-flags-progress-on-three-chips-in-development-investment-effort/article37325360.ece/amp/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hindu
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent pushes beyond online content, unveils first AI chips"
+    excerpt: "Tencent has unveiled its first chips, showcasing a yearlong foray into silicon design as the Chinese tech giant seeks to grow beyond digital entertainment."
+    publishedDateTime: 2021-11-03T19:27:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/11/03/1600x900/CHINA-GAMES-HUAWEI-TENCENT-HOLDINGS-2_1635926062591_1635926076330.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Tencent unveils its first chip development"
     excerpt: "Xinhua. Chinese tech giant Tencent has made progress on three self-developed chips, according to Tang Daosheng, a senior executive vice president at Tencent du"
     publishedDateTime: 2021-11-03T14:17:00Z
