@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-02T19:50:00Z
 originalUrl: "https://www.futurecar.com/4973/Autonomous-Delivery-Startup-Nuro-Raises-$600-Million-in-Latest-Funding-Round-Raising-its-Valuation-to-$86-Billion"
 webUrl: "https://www.futurecar.com/4973/Autonomous-Delivery-Startup-Nuro-Raises-$600-Million-in-Latest-Funding-Round-Raising-its-Valuation-to-$86-Billion"
 type: article
-quality: 15
-heat: 15
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img.futurecar.com/202111/02/l_618194cb01663.jpeg"
@@ -34,6 +35,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "/rtfZcBi1CHksttlJOLdYNAvSa6VouJH7dJq9ahKYA0u4HkHbJLxcmki3TclgeS0s7avxzauLk1GYibxUU3OTliky4W5GxEYpr2+//yoHXdz8gNUxDxN5OQueIj5+s9AdGJnMKgvAFAi3+U0FhNQp0DfHKwigDbUja+1B/mzPWGGpMOqVQllIFe8MFRMXh5wv8JgaapQr/jcaM1oG03kzUqr7Ke62555tx5r0wiU2hbbTQftHTgnQHikuQ370EzchBh6STC5sfefgwOG7EA8bxil/GYNxtQyrGhSG9s3CkOGGr0ftLCPkqmCRM7hsn38tzIn/XKEjO9lQuVrADGXHuuJycYTe5yipw2k9drrQSM=;l17rj2YTJzSVx3pyWu0B1g=="
+secured: "H0lO+7zj42ywUjMmUlUEvqjyg9rNjCbqUAODlh5A/gpfl+PKBm9fUi/RWrs5JIl5GgeEEFwZa0TUq8rDtYyCWy2KtiiJRvfaQx7YdliQDGmTX6vfoo2i+0atAY6EmjeWN5Dp1CLQXGWrwOu7iflmeWKwOqoZVfG3ouMLDzC9UyVGnzLYwBS8Vi6nhPdImveCuRZjGmLPswH8Zjy8FVG4Lin23NyefF+ya4hCjzyyBCR/N8RmgW1n8KGm4cEmxpHZ08oU0AbrJCqhXMu0dM1HFllz3kVBMvkDC3PZzFSnrm1AF9QhPQ7fmTuqmXEabBbrU1RPpd3bsMQFWQo1nLGFyxfePtq2ioURIdKjdgyDfr5Ktv+Pg9vekJCKVAvJ3tl3TbMMoSQwbZmavjOtC/448qZzWHrVjE10Sq7dzNVtgrxhd6KMV5BzQebuqghVUKpBYs5nAOn26R1LkMNjxZI823Z5VhfnwBqVIsaaaGQoc1q/Ov1X2LcBkR4a7Lfjs8HV5q424haOKUSxikqtVrR/ow==;ux8IySU1pOpHXngiD6whXw=="
 ---
 

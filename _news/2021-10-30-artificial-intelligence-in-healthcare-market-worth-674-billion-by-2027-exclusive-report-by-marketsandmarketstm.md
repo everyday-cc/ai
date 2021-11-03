@@ -39,20 +39,6 @@ related:
         width: 669
         height: 229
         isCached: true
-  - title: "Conversational AI Market worth $18.4 billion by 2026 - Exclusive Report by MarketsandMarketstm"
-    excerpt: "According to a research report \"Conversational AI Market by Component (Solutions and Services), Type (Chatbots and IVA), Technology (NLP and ASR), Business Function (Sales and Marketing, and Operations),"
-    publishedDateTime: 2021-11-01T15:00:00Z
-    webUrl: "https://www.lelezard.com/en/news-20075927.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 27
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "TCS a Leader in Worldwide AI Business Services: IDC MarketScape"
     excerpt: "Report Cites Tata Consultancy Services’ Comprehensive End-to-end Life Cycle of AI Business Services Portfolio, Delivery Model Strategies, and Innovation and R&D, as Key Strengths NEW YORK | MUMBAI, November 1,"
     publishedDateTime: 2021-11-01T11:50:00Z
@@ -62,15 +48,6 @@ related:
       name: Tata Consultancy Services
       domain: tcs.com
     quality: 17
-  - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets"
-    excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine"
-    publishedDateTime: 2021-10-29T17:11:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54344177-artificial-intelligence-in-healthcare-market-worth-dollar-67-4-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 13
 
 secured: "/cagRWTlR5E9VI5tr8mbvRZHoNmlACg4j/D1vykdkcqXfBezvU6eOPJB7gN8e1NMXKajrJUf8nCuMn4N82xndhGGSpXm/caj3UiLC5BDJ7zojCS+Yz7N8gKQAKNnuLbmMljcsyGBiKR6CEIQ/n9zVDv3eHY344rRIrNqEYP6Z3/KBXdWZ79U4lMupaPUz/WnKSjIyL7u04dTByE7mCQxj6fDXIqW51NfN+SsnxLcZlzlRQJwMy8nIoas4duSgH+WWe2s5ZXUqdu4Lpr7esPaVw2wTDSFMOYcWWnGeI6wsiZfLYk+mQ/nTvvw0S8r2e5C+9hFwnpzgqCDNtrTtI0UZPSZVuoTtuOoTaLb23E+ZyI=;S4LPMY9SuMwpxzwSGWLHSg=="
 ---

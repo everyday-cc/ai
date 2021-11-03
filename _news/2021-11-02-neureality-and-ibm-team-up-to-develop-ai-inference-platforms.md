@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-dev
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-develop-ai-inference-platforms/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 485
         height: 592
         isCached: true
+  - title: "IBM and NeuReality team up to build AI inference platform"
+    excerpt: "IBM and NeuReality, an Israeli AI systems and semiconductor company, have signed an agreement to develop the next generation of high-performance AI inference platforms. These next generation platform will be designed to deliver disruptive cost and power consumption improvements for deep learning use cases."
+    publishedDateTime: 2021-11-03T00:09:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/ibm-and-neureality-team-up-to-build-ai-inference-platform/241818/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 19
 
 secured: "Xn22rwUkb2Bq152bd0BG4eHistiCvVmujieS45wXbqZZRw+wQVpTN2iJGN4AXwZbePF/pwvOeVYTwwhay43sTuv5sjzjHX4cdgwMVCvWKQh7TLiYfEF7gIkL7z7OmCPSK55B2xhveHfT27CmOcy0t7MRhsgWesgrxcCnEcAWWmaMPhPhIPmGAxAzaKsrwStp39gAw6c2JqVS+an7W1XZwthUnSAAO8uk4WtS/BW7uxYU9TExAM6mS5HzNtbUa28klxKybpFOAS7ewS8z1CEA8qLoGNTMQw9Y05ly4KkR8x6N0ofE0rkQ3KLXHYOVv6DRvUgUXxiQEYOds5yQc3H1w4wUxLd1aU+vNmO4mCB/aJPsDs/cLLNTONWeij/u0lLEkDK77bezIcUe3N1faBc5WxmTHqbBifV0InQ3lM5zc+ExfSLXEbDx6IDwhkG/Mn7sDjnxKJLu8syRErcz0m4BgRk9+TqCqjPu5hSUvDUJcoakC067VRs24r4tdRcOqAaaoEGi1NyQBjWCSwiTW0PwHw==;EsZVMn+4Q1h14/W44W2NtA=="
 ---

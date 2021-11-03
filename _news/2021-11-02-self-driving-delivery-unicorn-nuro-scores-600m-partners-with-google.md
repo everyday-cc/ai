@@ -27,7 +27,7 @@ related:
     provider:
       name: futurecar
       domain: futurecar.com
-    quality: 15
+    quality: 17
     images:
       - url: "https://img.futurecar.com/202111/02/l_618194cb01663.jpeg"
         width: 800

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facebook Drops Facial Recognition to Tag People in Photos"
+    excerpt: "Facebook Tuesday said it would stop using facial recognition technology to identify people in photos and videos and delete accompanying data on more than 1 billion people. The news marks the end of one of the largest known facial recognition systems."
+    publishedDateTime: 2021-11-02T23:38:00Z
+    webUrl: "https://www.wired.com/story/facebook-drops-facial-recognition-tag-people-photos/"
+    ampWebUrl: "https://www.wired.com/story/facebook-drops-facial-recognition-tag-people-photos/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-drops-facial-recognition-tag-people-photos/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 91
+    images:
+      - url: "https://media.wired.com/photos/6181c7f154647e427c8e9232/master/pass/Business-FB-Facial-Recognition-518756983.jpg"
+        width: 2400
+        height: 1602
+        isCached: true
   - title: "Facebook to Shut Down Facial Recognition in Photos, Videos"
     excerpt: "Social-media platform is to delete individual facial-recognition templates for over one billion people."
     publishedDateTime: 2021-11-02T16:29:00Z
@@ -110,6 +126,38 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2021/11/2021-01-20T153652Z_1_LYNXMPEH0J13Z_RTROPTP_4_CHINA-SECURITY-e1635879147391.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facebook to end some uses of facial recognition after criticism, lawsuit"
+    excerpt: "Facebook said Tuesday it would shut down its facial recognition system and delete more than 1 billion people's facial templates after years of mounting"
+    publishedDateTime: 2021-11-02T18:11:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/facebook-end-uses-facial-recognition-criticism-lawsuit-rcna4358"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna4358"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna4358"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 88
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-11/211102-facebook-meta-ew-206p-66331b.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Don’t Go Cheering Facebook for Killing Its Face Recognition Database Just Yet"
+    excerpt: "The move comes more than a decade after Facebook first rolled out face-detecting tech onto its social network."
+    publishedDateTime: 2021-11-03T00:55:00Z
+    webUrl: "https://gizmodo.com/don-t-go-cheering-facebook-for-killing-its-face-recogni-1847983584"
+    ampWebUrl: "https://gizmodo.com/don-t-go-cheering-facebook-for-killing-its-face-recogni-1847983584/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/don-t-go-cheering-facebook-for-killing-its-face-recogni-1847983584/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 86
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fb3874feb2f8cf22c95353bb3573573f.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Facebook is shutting down its facial recognition system, affecting over a billion people"
     excerpt: "Facebook will shut down its facial recognition system this month and delete the face scan data of more than 1 billion users, the company said Tuesday. It cited societal concerns and regulatory uncertainty about facial recognition technology as the reasons."
@@ -249,6 +297,22 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Facebook to end use of facial recognition software"
+    excerpt: "Facebook has announced it will no longer use facial recognition software to identify faces in photographs and videos. There have been growing concerns about the ethics of facial recognition technology,"
+    publishedDateTime: 2021-11-02T22:50:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-59143323"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-59143323.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-59143323.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/179C8/production/_121321769_gettyimages-1311554592.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Facebook to shut facial recognition system and delete 1bn ‘faceprints’"
     excerpt: "Firm says decision is in response to growing concerns over software that identifies users in photos and videos"
     publishedDateTime: 2021-11-02T19:00:00Z
@@ -343,6 +407,22 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Facebook announces it's purging 1 billion faceprints from its system"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-03T00:40:00Z
+    webUrl: "https://www.ksdk.com/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
+    ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
+    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
+    type: article
+    provider:
+      name: KSDK
+      domain: ksdk.com
+    quality: 44
+    images:
+      - url: "https://media.ksdk.com/assets/CCT/images/d4f94cdf-5190-492c-a155-5f721e3672a7/d4f94cdf-5190-492c-a155-5f721e3672a7_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Facebook to shut down and delete its face-recognition system"
     excerpt: "The social network said it will end its face-recognition system and delete the face prints of more than 1 billion people."
     publishedDateTime: 2021-11-02T17:42:00Z
@@ -361,7 +441,7 @@ related:
         isCached: true
   - title: "Facebook to shut down face-recognition system"
     excerpt: "The setting’s removal will mean deleting more than a billion people’s individual facial recognition templates, a company official says."
-    publishedDateTime: 2021-11-02T18:07:00Z
+    publishedDateTime: 2021-11-03T00:07:00Z
     webUrl: "https://www.mercurynews.com/2021/11/02/facebook-to-shut-down-face-recognition-system"
     ampWebUrl: "https://www.mercurynews.com/2021/11/02/facebook-to-shut-down-face-recognition-system/amp/"
     cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/02/facebook-to-shut-down-face-recognition-system/amp/"
@@ -432,6 +512,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 34
+  - title: "Facebook is ending its use of facial recognition, deleting data on more than a billion people"
+    excerpt: "Facebook said Tuesday it will end its use of facial recognition software and delete facial data on more than a billion people, a sudden reversal for one of the Internets biggest face-scanning systems that could reinvigorate scrutiny about the softwares expanding prevalence around the world."
+    publishedDateTime: 2021-11-03T00:21:00Z
+    webUrl: "https://www.nationthailand.com/business/40008324"
+    type: article
+    provider:
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 30
+    images:
+      - url: "https://media.nationthailand.com/default.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Facebook is ending use of facial recognition software, deleting data on more than a billion people"
     excerpt: "Facebook is ending use of facial recognition software, the company said in a blog post Tuesday, a major move by a Silicon Valley giant to step away from the controversial tech."
     publishedDateTime: 2021-11-02T18:28:00Z
@@ -484,15 +578,18 @@ related:
         isCached: true
   - title: "Facebook to shut down face-recognition system, delete data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-02T23:48:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+    publishedDateTime: 2021-11-02T18:45:00Z
+    webUrl: "https://apnews.com/article/technology-business-data-privacy-artificial-intelligence-85a21a8079a757f2ff99972f1858f7ce"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: Associated Press
+      domain: apnews.com
     quality: 24
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/aaf359d054eb4991b8d8803ebe927f4c/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."
     publishedDateTime: 2021-11-02T21:27:00Z
@@ -503,6 +600,6 @@ related:
       domain: theaustralian.com.au
     quality: 21
 
-secured: "EXtLwPfVOSm3jwPlajY0gw0NQb1PyFqCYWzwRzZ/MDSIAbRZDkWlK7KR9P6QCjU5tk3Jl/IgjyRRMUgZfliED2rpyx/svDdhaeBpyhAqYUaqNZoxbEJyxxsiCC5wIomOHrNoHejpK+vRTgDSwTfYbVIiaCGEfczxgLrEOWk43pT5Xepr7oenQDPBKVi+ini/ZKIZ/7hrVKnpjEhSyrQIjpJiCdp7qBmp6AvqH769/jujeNj0HJ+6GaTuYDym2O8lTolNVXY8Kp8REzYRzlAIvRpJP/cNASD4u4DGAp8lpCGp2CszUmUEgVeqymt0vrI85NJ/5r+5cUCGkXciJzUzsOeKCM/gelXXp1/2H33n/4w=;nZXV9+IvB+8eI2qh9HjyMQ=="
+secured: "evC07QpaRb1fT0BJtz9I1l6MlwqOEe4f87vFuKRApTspgrs7TDGU3iqo9yXDgi0WkGDYpWMeklNxsfPNbCms0Ny32FN95KdtFn5fYN+o7dPxRXvT6zc2ldiIbneLlMpidWf6jdZw73dh4lhNKjKySFAWClF6jFp1vfAnsHa3KXamn/n27FNk4lisqyuGMQbdHr6/qpD/fExlBBnfvBi2hD4KmuSDYa5ZcWwtuhh4iy7YQzgVmbqLkY9OmWbeA4SsxVI9/9fUKW+fCBXpuHoViYtVmsQ42JsuhDpkaZArgFzOCHMatUl36oWMEFOFx9xLjFv+b0Cr0NpgcLAkoREaD5UkVzoyy2TOP+FITOWB/9JAPafifu5zHJfZ8t89iaCR/RpjW+cWYFtQoYbwFw5zgUpTJAgcE7UOO+lNLTXTbbUQnr4UVyu+xMxTkrsyjDqfdxZbLbvV16WVqXWh7FQ1vIBPfMWmKRIMfhH64Hy2T2DHlvAn3reomv51/hgpt4NpFSZUJFd4lwhgi3OJiXxPHg==;WhkXoslVZHzb7ioC1PRRvg=="
 ---
 

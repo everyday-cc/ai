@@ -9,8 +9,8 @@ ampWebUrl: "https://mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in
 cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in-face-of-china-tensions/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: MyNorthwest.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "US to deepen relation with Taiwan in face of China tensions"
-    excerpt: "The U.S. switched diplomatic recognition of China from the ruling Nationalist Party government in Taipei to the Communist Party in Beijing in 1979, but has continued to maintain a strong unofficial relationship with the self-ruled island. Oudkirk declined ..."
-    publishedDateTime: 2021-10-29T07:30:00Z
-    webUrl: "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/"
-    ampWebUrl: "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/?outputType=amp"
-    cdnAmpWebUrl: "https://www-fox13memphis-com.cdn.ampproject.org/c/s/www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/?outputType=amp"
-    type: article
-    provider:
-      name: FOX13 Memphis
-      domain: fox13memphis.com
-    quality: 59
-    images:
-      - url: "https://cmg-cmg-tv-10060-prod.cdn.arcpublishing.com/resizer/nXIU0jcYwnSsJHClfE_GA1NiNVs=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/WJMCWFRPM7TMX3VJUDFD3E2Q3E.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "China's PLA Employs AI Technology To Simulate War Games Aiding Taiwan Invasion: Reports"
     excerpt: "The report stated that PLA has examined nearly 350 artificial intelligence-related equipment deals between Chinese troops and state-owned defence entities."
     publishedDateTime: 2021-10-31T13:25:00Z

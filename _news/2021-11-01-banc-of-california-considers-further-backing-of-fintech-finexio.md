@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Australian fintech Completes Major US Acquisition"
-    excerpt: "Melbourne based Remitter acquires US-based Mercantile Adjustment Bureau following successful USD 12m cap raise -  Expands headcount to over 180 staff - Future global acquisitions"
-    publishedDateTime: 2021-10-29T08:00:00Z
-    webUrl: "https://www.asiaone.com/business/australian-fintech-completes-major-us-acquisition"
-    ampWebUrl: "https://www.asiaone.com/business/australian-fintech-completes-major-us-acquisition?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/australian-fintech-completes-major-us-acquisition?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 44
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2021/pr-newswire_500_4_1558.jpg?itok=942fFmJj"
-        width: 763
-        height: 509
-        isCached: true
   - title: "China: WeiyangX Fintech Review"
     excerpt: "The above is a weekly synopsis of the biggest stories on Fintech in China provided by WeiyangX, part of Tsinghua University, in partnership with Crowdfund Insider. WeiyangX is the most influential website focusing on Fintech in China."
     publishedDateTime: 2021-10-31T22:37:00Z

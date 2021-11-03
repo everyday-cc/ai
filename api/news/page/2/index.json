@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-02-why-ai-still-needs-humans-in-the-loop-at-least-for-now.md",
+      "title": "Why AI still needs humans in the loop, at least for now",
+      "excerpt": "If AI-generated writing becomes indistinguishable from human writing, we'll still need to check it carefully enough to see the mistakes",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
+      "originalUrl": "https://www.zdnet.com/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/e683aa03ba74a7aeb58f9976bd08489e193044fa/2021/10/04/9e738d7a-ecb7-4e3b-b3ea-a333055e6a8c/20211004-joe-beth-report.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
+      "publishedDateTime": "2021-11-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery.md",
+      "title": "Pharma startup Quris aims to use a ‘patient on a chip’ to target drug delivery",
+      "excerpt": "Pharma startup Quris aims to use AI, knowledge of the human genome, and a \"patient on a chip\" to improve drug delivery.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/",
+      "originalUrl": "https://venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/medical.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/amp/",
+      "publishedDateTime": "2021-11-02T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-reskin-aims-to-give-ai-a-sense-of-touch.md",
       "title": "ReSkin aims to give AI a sense of touch",
       "excerpt": "Humans take the sense of touch for granted, and it’s one of the most important types of input that we get in certain situations. Our sense of touch allows us to do things like feel how we",
@@ -909,7 +1013,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 494,
+      "heat": 554,
       "tags": null,
       "images": [
         {
@@ -1139,104 +1243,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia.md",
-      "title": "Machine Learning in Retail Market 2021 is Booming Globally with Top Key Players- IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA",
-      "excerpt": "IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA, Google, Sentient Technologies, Salesforce, ViSenze Recently added report provided by QY Reports Machine Learning in Retail Market Presents an Analysis of Market Situation and Challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
-      "originalUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://chipdesignmag.com/wp-content/uploads/2021/10/market-research-1-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chip Design",
-        "domain": "chipdesignmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-intel-habana-ai-accelerator-becomes-available-on-amazon-ec2.md",
-      "title": "Intel Habana AI Accelerator Becomes Available On Amazon EC2",
-      "excerpt": "The Amazon EC2 DL1 instance type delivers up to 8 Gaudi accelerators with 32 GB of high bandwidth memory (HBM) per accelerator with 400 Gbps of networking throughput and 4 TB of local NVMe storage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617f789c7aa77d3d07ecc29a%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/amp/",
-      "publishedDateTime": "2021-10-31T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

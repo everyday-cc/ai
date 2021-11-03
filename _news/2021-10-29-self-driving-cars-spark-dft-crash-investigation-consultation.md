@@ -26,24 +26,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Road collision consultation launched to ‘modernise' network and include self-driving cars"
-    excerpt: "We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info A consultation was launched ..."
-    publishedDateTime: 2021-10-29T07:10:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1513341/road-safety-collision-consultation-self-driving-cars"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1513341/road-safety-collision-consultation-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1513341/road-safety-collision-consultation-self-driving-cars/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 35
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/Road-collision-consultation-safer-roads-highway-code-1513341.jpg?r=1635491411650"
-        width: 590
-        height: 350
-        isCached: true
-
 secured: "LAAJE5YvBY0qXefJGpV+cOISQHobZyGrkWN5FRVq4/nTp4GjFsBZpo424JF4wkbXKIkrQIiXay7VmIqKUq1cj0uQp/mDnrQB8CH85P6Aw6FUIPJ4yO4KTFzolATNj/0TKJh6QM+MJ/ZX4/Ce1n9Nssn4n3C9uJeQzQVA5GhtkZUe9ccvolozfpy1x2aWj64k1fKd7SY59CWxt8JTOK/sVXy9OBFH3V9I/6+NcitwcSsApqs0Y5HOToOwyr5EiNafl18QUoQTsk0rgiy0LPL0e7OY7w+mvRgdN2CafOsv6zVdyMtj7mqXZnaoyCZObqH2MbOmXwnuNcB09y4eXWUaH7dnwM/c7UVcvMNdEtM7KJ4=;KhKUkh08v9Bv3DEpi98kJA=="
 ---
 

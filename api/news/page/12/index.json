@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-10-22-momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings.md",
+      "title": "Momentum in Azure Cloud to Aid Microsoft (MSFT) Q1 Earnings",
+      "excerpt": "Microsoft MSFT is scheduled to report first-quarter fiscal 2022 results on Oct 26. The company’s quarterly numbers are likely to have been driven by the continued strength in its cloud platform — Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22",
+      "originalUrl": "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp",
+      "publishedDateTime": "2021-10-22T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-18-tech-deals-for-the-weekend-black-friday-like-prices-on-tvs-bluetooth-speakers-robot-vacuums-and-more.md",
+      "title": "18 Tech Deals for The Weekend: Black Friday-Like Prices On TVs, Bluetooth Speakers, Robot Vacuums And More",
+      "excerpt": "If you love gadgets, this is a good weekend is looking good. Here are deals on Bluetooth speakers, electric scooters, TVs and streaming boxes, not to mention a slew of other gadgets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6171dfc6690a0277b2699717%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1500%26cropY1%3D139%26cropY2%3D1264",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/amp/",
+      "publishedDateTime": "2021-10-22T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-senior-industry-leaders-need-to-learn-about-ai.md",
       "title": "Senior industry leaders need to learn about AI",
       "excerpt": "Bradley Merrill Thompson of Epstein Becker Green encourages company leaders to develop an understanding of the vocabulary and workings of AI given the present and emerging legal risks and liabilities.",
@@ -877,15 +963,15 @@
       "title": "How USAA is Utilizing Natural Language Processing to Improve the Member Experience",
       "excerpt": "USAA is using Natural Language Processing (NLP) to improve the member experience and facilitate faster decision-making. NLP is a subfield of Artificial Intelligence (AI) that uses computers to process and analyze large amounts of text and spoken words.",
       "sourceUrl": null,
-      "webUrl": "https://www.kwtx.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/",
-      "originalUrl": "https://www.kwtx.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/",
+      "webUrl": "https://www.kwch.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/",
+      "originalUrl": "https://www.kwch.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/KibPVLeJ9vccIqCX7YbbJ73S3qc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/6HSEG4QELH2BJLDFSOP4GPEIBA.jpg",
+          "url": "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/KibPVLeJ9vccIqCX7YbbJ73S3qc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/6HSEG4QELH2BJLDFSOP4GPEIBA.jpg",
           "width": 980,
           "height": 1078,
           "title": null,
@@ -900,8 +986,8 @@
       "publishedDateTime": "2021-10-21T07:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KWTX",
-        "domain": "kwtx.com",
+        "name": "KWCH",
+        "domain": "kwch.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1058,92 +1144,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc.md",
-      "title": "Tech Top 5: Brainchip nabs US patent for Akida AI chip, jumps almost 15pc",
-      "excerpt": "Brainchip granted US patent, while Elmo boosts revenue and Ansarada expands into GRC market; also semiconductor and cybersecurity updates.",
-      "sourceUrl": null,
-      "webUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/",
-      "originalUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stockhead.com.au/wp-content/uploads/2021/10/ezgif.com-crop-6.gif",
-          "width": 480,
-          "height": 269,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/?amp",
-      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/?amp",
-      "publishedDateTime": "2021-10-21T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stockhead",
-        "domain": "stockhead.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-poll-do-you-think-ai-chips-on-phones-have-lived-up-to-the-hype.md",
-      "title": "Poll: Do you think AI chips on phones have lived up to the hype?",
-      "excerpt": "Dedicated AI chips have been available on smartphones for quite a few years now, but have they lived up to the hype?",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
-      "originalUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
-      "publishedDateTime": "2021-10-21T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

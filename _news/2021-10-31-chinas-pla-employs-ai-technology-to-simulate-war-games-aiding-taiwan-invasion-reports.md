@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "US to deepen relation with Taiwan in face of China tensions"
-    excerpt: "The U.S. switched diplomatic recognition of China from the ruling Nationalist Party government in Taipei to the Communist Party in Beijing in 1979, but has continued to maintain a strong unofficial relationship with the self-ruled island. Oudkirk declined ..."
-    publishedDateTime: 2021-10-29T07:30:00Z
-    webUrl: "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/"
-    ampWebUrl: "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/?outputType=amp"
-    cdnAmpWebUrl: "https://www-fox13memphis-com.cdn.ampproject.org/c/s/www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/?outputType=amp"
-    type: article
-    provider:
-      name: FOX13 Memphis
-      domain: fox13memphis.com
-    quality: 59
-    images:
-      - url: "https://cmg-cmg-tv-10060-prod.cdn.arcpublishing.com/resizer/nXIU0jcYwnSsJHClfE_GA1NiNVs=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/WJMCWFRPM7TMX3VJUDFD3E2Q3E.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "US to deepen relations with Taiwan in face of China tensions"
     excerpt: "The U.S. wants to deepen its relationship with Taiwan, the self-ruled island that has become a major point of conflict in the"
     publishedDateTime: 2021-10-29T21:55:00Z

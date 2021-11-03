@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
 type: article
 quality: 89
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australian fintech Completes Major US Acquisition"
-    excerpt: "Melbourne based Remitter acquires US-based Mercantile Adjustment Bureau following successful USD 12m cap raise -  Expands headcount to over 180 staff - Future global acquisitions"
-    publishedDateTime: 2021-10-29T08:00:00Z
-    webUrl: "https://www.asiaone.com/business/australian-fintech-completes-major-us-acquisition"
-    ampWebUrl: "https://www.asiaone.com/business/australian-fintech-completes-major-us-acquisition?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/australian-fintech-completes-major-us-acquisition?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 44
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2021/pr-newswire_500_4_1558.jpg?itok=942fFmJj"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Banc of California Considers Further Backing of FinTech Finexio"
     excerpt: "After participating in FinTech Finexio’s recent $8 million funding round, Banc of California is mulling the possibility of investing in the startup once again."
     publishedDateTime: 2021-11-01T16:19:00Z

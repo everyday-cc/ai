@@ -190,13 +190,13 @@ related:
         height: 768
         isCached: true
   - title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
-    publishedDateTime: 2021-11-02T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
+    publishedDateTime: 2021-11-02T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 49
   - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
     excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
@@ -238,6 +238,6 @@ related:
       domain: openpr.com
     quality: 13
 
-secured: "cVCXCPxOj8kU17YlMTv1oi83+zEOzXQ/PnYWSB3ikqjszR5lIzjQ9gsrqnPpge4Yjv871s4zVxbLepT4lEdpmD0B4QCDd+M7CjWw2LG0mT0An+K+bfI75aT6PNxHsVhIDvBOOGOsgEGg92c8l09mkVvfBPWJUBeKoTL3+DPfGV8cJ+siQBuixkiUQ5JHmC1l3XCB6jLo+ChaJG24mpm52KxcWRXjf2rBgT8QbwPH4HhHq/KXfBD88ot6zOLfv1iLC0WmhkH8scL6NLZLypW720GpfT3JN4tz8RW/49Nj0HvN8tuLkJljPdvKSGWl1ipK9xcuh0Fa8rGXIVvxTBkwz5PrqgauKQy9jybWGHSaMU0=;HUgAdes8eSE0j3GBoi38sw=="
+secured: "GSBIkm4lHw4Gk7/MX0f8pmfBENKa+a0muhNuayXPLu9nr7ln+Gn8yYdIMEdK49IBE9w2wgI4i9vvL0Z1ds+F/oeAYrDDDE/AU/qjiRZWcZrkakmKF9xzZ8nAXMTbn5JDRtd9Sr6VY2t4ndkfREhmV/ByZI4djmOgTpz/w8nNwIcGTNdOAImWtlqGCQ9w4qoTWXZotM62G8/HgxFlKV8NVBhxd5Syk4LAqS4j1A3L7Cmt4xyOPPpH/8cisSq2yqEbcOdoqbjDGnv5MVgRBkzVnFkC8RvGZVhHD8/r4KVJ7gW+zEzTyKC3pHwfg2L91FYkIdP9yO/x9lLnpsjbpGrN6AmND0rA92PIq6FjJKfa5L+g8TH3PZEjhfYyGQWzFQTBUm9bS5+iJDkE1ZdpHvelJ2LGBd9EpF9G4+69RxBN/7zEkHjuEGz/nAJBIkErbUNzGY4Zg2yn7vu9ikSvUq2v3UIGs70jfYDGaxL0TYXo/E6nSAjC/KCDrvOf1cGvEjHTPb/QjU88DdfOIqRfNjmFBg==;qa4zme99qL9D0HWPSlxAWQ=="
 ---
 

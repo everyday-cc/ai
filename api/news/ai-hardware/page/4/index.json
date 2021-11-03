@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-22-ai-in-automotive-transportation-global-market-outlook-2021-2026.md",
+      "title": "AI in Automotive & Transportation: Global Market Outlook 2021-2026",
+      "excerpt": "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. According to the report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/g23046975/ai-in-automotive-transportation-global-market-outlook-2021-2026",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/g23046975/ai-in-automotive-transportation-global-market-outlook-2021-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23046975",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23046975",
+      "publishedDateTime": "2021-09-22T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-the-companys-fall-lineup-has-something-for-every-taste-and-budget.md",
       "title": "The company's fall lineup has something for every taste and budget",
       "excerpt": "After Dell, Asus, and Lenovo, HP is the latest manufacturer launching new devices designed for Microsoft's upcoming Windows 11 operating system.",

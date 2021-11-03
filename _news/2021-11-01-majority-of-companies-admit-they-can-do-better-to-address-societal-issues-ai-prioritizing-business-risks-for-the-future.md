@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-01T11:57:00Z
 originalUrl: "https://www.linkedin.com/pulse/majority-companies-admit-can-do-better-address-societal-akintayo-joda"
 webUrl: "https://www.linkedin.com/pulse/majority-companies-admit-can-do-better-address-societal-akintayo-joda"
 type: article
-quality: 16
-heat: 16
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI Hardware
+  - Microsoft AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFZy9mRLVYdPQ/article-cover_image-shrink_600_2000/0/1633599782622?e=1641427200&v=beta&t=tdeHiBu3avlzSBEDikLXeelUMMyQfYt5qJK_aIlihEc"

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-11-artificial-neural-network-rad
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Innovative artificial neural network can accurately detect radiographic sacroiliitis"
+    excerpt: "New research presented this week at ACR Convergence, the American College of Rheumatology's annual meeting, found that an innovative new artificial neural network can detect radiographic sacroiliitis in patients with suspected axial spondyloarthritis,"
+    publishedDateTime: 2021-11-03T00:41:00Z
+    webUrl: "https://www.news-medical.net/news/20211102/Innovative-artificial-neural-network-can-accurately-detect-radiographic-sacroiliitis.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211102/Innovative-artificial-neural-network-can-accurately-detect-radiographic-sacroiliitis.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211102/Innovative-artificial-neural-network-can-accurately-detect-radiographic-sacroiliitis.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 52
+    images:
+      - url: "https://www.news-medical.net/image-handler/picture/2014/7/Rheumatology-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Research: New artificial neural network detects radiographic sacroiliitis with accuracy"
     excerpt: "New research presented this week at ACR Convergence, the American College of Rheumatology’s annual meeting, found that an innovative new artificial neural network can detect radiographic sacroiliitis in patients with suspected axial spondyloarthritis,"
     publishedDateTime: 2021-11-02T19:51:00Z

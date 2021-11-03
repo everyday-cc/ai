@@ -52,6 +52,15 @@ related:
         width: 720
         height: 358
         isCached: true
+  - title: "Wipro Partners with TEOCO to Develop Next-Generation Network Solutions for Communication Service Providers"
+    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting, and business process services company, has partnered with TEOCO to develop solutions that help communication service providers (CSPs) improve network automation,"
+    publishedDateTime: 2021-11-02T00:00:00Z
+    webUrl: "https://www.pressreleasepoint.com/wipro-partners-teoco-develop-next-generation-network-solutions-communication-service-providers"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 0
 
 secured: "HFw3UrL1Qqhs2w/JmhKAASEZKnd8uqwXawLdqF6T2ZHePS9Vc/xO8bIvB5SlGF1VrXA9atqvKdUJDUh7dlSR5RyDeUk6CybxPj/apj5F45UM6Wy2RP+X9DBpXurPhcHT13CXlrJd3pU0yy2NDdAlGfCBF0CyJOc+kkPRgyWc8T76noQmyim9abewzUkC7eCdcVj6NRablCsOj1WVd0Mm5pX6zKL4CohhPFsinjtlgolxzTdjMCmPIv3Sbd6fIkBq5WdgaJE9iVxVVwqwWNP36fQzgDev8XW9YgWu/j8+gcQznUwB+5PMav876DXoyfLXU065RxRCCyelIhndLJ9xRMKVHjn8sk1KQR5GxmLIld/c4n7OyLKbmdiwy8uQRB+9ZJ8WEzZ2eb7zS0ICU2pIe9sN0wW2QzrdFAvw+tZO4Xy3AKbD8u6rrIOYYnJH/ynZwI+4lOP1CBWRAhogRYgVQ7PiWkAcCwVDQMlwsNYRGj2XZnPBsX1RyngNxy2jRlmKQ6aFx0WdDRXWaYlCqK+TZA==;4Ao7NJ9CeGgCBoIimGMFfw=="
 ---

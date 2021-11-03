@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-03-artificial-intelligence-ai-chips-market-worldwide-industry-to-boost-in-the-period-of-2021-2026.md",
+      "title": "Artificial intelligence (AI) Chips Market: Worldwide Industry to Boost in the Period of 2021-2026",
+      "excerpt": "Chips Market Research Report presents the overview and in depth study of worldwide Artificial intelligence (AI) Chips Market for",
+      "sourceUrl": null,
+      "webUrl": "https://www.reportsgo.com/artificial-intelligence-ai-chips-market-181757",
+      "originalUrl": "https://www.reportsgo.com/artificial-intelligence-ai-chips-market-181757",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reportsgo.com/img/img-1.png",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "reportsgo",
+        "domain": "reportsgo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-process-and-add-additional-file-formats-to-your-amazon-kendra-index.md",
       "title": "Process and add additional file formats to your Amazon Kendra Index",
       "excerpt": "If you have a corpus of internal documents that you frequently search through, Amazon Kendra can help you find your content faster and easier. These documents can be in different locations and repositories, and can be structured or unstructured. Amazon Kendra is a fully managed service backed by machine",
@@ -156,6 +199,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-new-artificial-neural-network-detects-radiographic-sacroiliitis-with-accuracy.md",
+      "title": "New artificial neural network detects radiographic sacroiliitis with accuracy",
+      "excerpt": "New research presented this week at ACR Convergence, the American College of Rheumatology's annual meeting, found that an innovative new artificial neural network can detect radiographic sacroiliitis in patients with suspected axial spondyloarthritis,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/spine.jpg",
+          "width": 2880,
+          "height": 1916,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp",
+      "publishedDateTime": "2021-11-02T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1111,7 +1197,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-develop-ai-inference-platforms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1128,110 +1214,6 @@
       "ampWebUrl": "https://venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-develop-ai-inference-platforms/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-develop-ai-inference-platforms/amp/",
       "publishedDateTime": "2021-11-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-why-ai-still-needs-humans-in-the-loop-at-least-for-now.md",
-      "title": "Why AI still needs humans in the loop, at least for now",
-      "excerpt": "If AI-generated writing becomes indistinguishable from human writing, we'll still need to check it carefully enough to see the mistakes",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
-      "originalUrl": "https://www.zdnet.com/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e683aa03ba74a7aeb58f9976bd08489e193044fa/2021/10/04/9e738d7a-ecb7-4e3b-b3ea-a333055e6a8c/20211004-joe-beth-report.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
-      "publishedDateTime": "2021-11-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery.md",
-      "title": "Pharma startup Quris aims to use a ‘patient on a chip’ to target drug delivery",
-      "excerpt": "Pharma startup Quris aims to use AI, knowledge of the human genome, and a \"patient on a chip\" to improve drug delivery.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/",
-      "originalUrl": "https://venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/10/medical.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/amp/",
-      "publishedDateTime": "2021-11-02T03:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
