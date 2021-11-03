@@ -55,6 +55,20 @@ related:
         width: 560
         height: 373
         isCached: true
+  - title: "Self-driving car company Waymo makes first entry into city"
+    excerpt: "Waymo, the autonomous car company owned by Google parent firm Alphabet, is launching in New York—but its vehicles will have drivers for the time being. Crain’s New York Business is the trusted voice of the New York business community—connecting businesses across the five boroughs by providing analysis and opinion on how to navigate New York’s complex business and political landscape."
+    publishedDateTime: 2021-11-03T13:01:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/self-driving-car-company-waymo-makes-first-entry-new-york-city"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/Waymo_NYC.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Video: Watch a Waymo self-driving car navigate San Francisco streets"
     excerpt: "Waymo started self-driving rides in San Francisco in an all-electric I-PACE vehicle equipped with the fifth generation of Waymo Driver autonomous software. The perception system allows these self-driving cars to navigate narrow,"
     publishedDateTime: 2021-11-03T12:27:00Z

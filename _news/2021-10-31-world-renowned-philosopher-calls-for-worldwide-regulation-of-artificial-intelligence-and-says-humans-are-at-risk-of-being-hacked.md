@@ -43,22 +43,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Expert warns that artificial intelligence could soon be able to 'hack' human beings"
-    excerpt: "A world-renowned historian and philosopher is warning that humanity needs to begin regulating artificial intelligence and data collection globally or risk being “hacked.” In an upcoming inte ..."
-    publishedDateTime: 2021-10-29T22:28:00Z
-    webUrl: "https://thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack"
-    ampWebUrl: "https://thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 51
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_brainhandwritingstudy_051321istock_1.jpg"
-        width: 1440
-        height: 880
-        isCached: true
 
 secured: "Mdtrf4cXwJ1nO/nTxVEBbhY9ISnILW9tQ1Vkf0mejHEyL3yHLTm9dtEqvK//YansMOe6MKXKEWg/3ejivX1e/gOoVP6Cp4Z0hHiTeddHbWG/WmfBRuIlv+VEclmP4UP82zqrbfgwaTsgIZj0zezi1MIcDbWcqWDkmbejzQZKSdYWbORETz2u6APYjGTfI8ro/iCqjZpyBreH+QWmnqp2hTlHAzbHxp8uPlx7Lx+Av7rPkrLjhIkLOdH3fBKTHlOw+im3DGYQqILKueMF1KjsvIdUdrkGb6gc5JzRzZYBi92PS2eZb6Wp6SNvind/9xe8hPwt0lCn3Pi5Bgdu6u7/yHBHMQTWNCip1Z40UAdItN0deWZXVMVa6n2d1/On0FwnV2Q63RiZtC8XniLaS72VfvFToHpEIMcYct0iCjYiNFOFdMpuVTw3MMvUDxeIzxs5s8QEkI0zoKohZed8L+d7YwoKk7v34mhKBJ01O6QiCEF27iaaQrytBRICCS4A0CpalVP3lrmoaoXrGQEiwx/xag==;bJSc2VnoX42Lm33Dp/59lA=="
 ---

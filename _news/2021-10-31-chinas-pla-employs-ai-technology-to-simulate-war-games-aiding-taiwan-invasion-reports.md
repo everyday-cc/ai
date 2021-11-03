@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/world-news/china/chinas-pla-employ
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/china/chinas-pla-employs-ai-technology-to-simulate-war-games-aiding-taiwan-invasion-reports.html"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -26,22 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "US to deepen relations with Taiwan in face of China tensions"
-    excerpt: "The U.S. wants to deepen its relationship with Taiwan, the self-ruled island that has become a major point of conflict in the"
-    publishedDateTime: 2021-10-29T21:55:00Z
-    webUrl: "https://mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in-face-of-china-tensions/"
-    ampWebUrl: "https://mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in-face-of-china-tensions/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in-face-of-china-tensions/amp/"
+  - title: "Taiwan - Artificial Intelligence Shall Not Be Patent Inventors."
+    excerpt: "The Intellectual Property and Commercial Court (hereinafter, the “Court”) rendered the judgment 110-Xing-Zhuan-Su-3 on August 19, 2021, holding that the artificial intelligence DABUS shall not be a patent inventor and upholding the decision rendered by the Intellectual Property Office (hereinafter,"
+    publishedDateTime: 2021-11-03T11:16:00Z
+    webUrl: "https://www.conventuslaw.com/report/artificial-intelligence-shall-not-be-patent/"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 59
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2021/10/ap_0dee8f0a606447fbb4cc853b1e37b8c3.jpg"
-        width: 1280
-        height: 853
-        isCached: true
+      name: conventuslaw.com
+      domain: conventuslaw.com
+    quality: 32
 
 secured: "qHcSH+Dmet53hik9DdsmCxvg4ls+6Wt75cGb4HRiIJqwAKRX7Eqy/EUDTuULWEYcSEalgU/imFAGR5AaoFCpLajb76W89FKUenUfB+5aQcrRHn0ByKLSMKOkkVKyUobf/jni394Cr9TUm4P70FiBkLWyPewN/WVd994iF1OXNwRfuuRRiUGDInh9Z03P6dONYpO42xnjB+6PYfOOPC8H29mljFQwpWuohjqwfr1i4vBsdQH6UdD/6F9v5UZo5HY0VTpZ2J2QNl3t1T8lF60jpPJOZ5aAM6qIKwuhJRcX5DFVMGD46+j0O/fT7owkvlK15XeU2p05oJK8PjiHiqxB0ggOQE8pemiqhH6hSBAZtL4=;KPF0qPo5OnMrmQgpbFxuIQ=="
 ---

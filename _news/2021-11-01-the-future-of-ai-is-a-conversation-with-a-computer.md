@@ -40,7 +40,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg?auto=webp&quality=85,70"
         width: 700

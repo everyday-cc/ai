@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/sapiens-author-warns-that-hum
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/sapiens-author-warns-that-human-brains-could-be-hacked-if-ai-is-not-regulated"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Interesting Engineering
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Expert warns that artificial intelligence could soon be able to 'hack' human beings"
-    excerpt: "A world-renowned historian and philosopher is warning that humanity needs to begin regulating artificial intelligence and data collection globally or risk being “hacked.” In an upcoming inte ..."
-    publishedDateTime: 2021-10-29T22:28:00Z
-    webUrl: "https://thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack"
-    ampWebUrl: "https://thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/579196-expert-warns-that-artificial-intelligence-could-soon-be-able-to-hack?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 51
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_brainhandwritingstudy_051321istock_1.jpg"
-        width: 1440
-        height: 880
-        isCached: true
   - title: "World-renowned philosopher calls for worldwide regulation of artificial intelligence and says humans are at risk of being 'HACKED'"
     excerpt: "The feature, which airs Sunday night, is highlighted by Harari suggesting that the reach of artificial intelligence could leave our information in the hands of 'a powerful few.'"
     publishedDateTime: 2021-10-30T22:12:00Z

@@ -44,6 +44,20 @@ related:
         width: 800
         height: 552
         isCached: true
+  - title: "Patients Don’t Realize That Conversational AI Is Transforming Healthcare—And That’s Why It’s Working"
+    excerpt: "The Covid-19 pandemic has forced us to take a critical look at how we engage with patients, pushing artificial intelligence (AI) solutions to the forefront. But with greater demand for AI solutions, the intelligent use of technology has become critical."
+    publishedDateTime: 2021-11-03T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2021/11/03/patients-dont-realize-that-conversational-ai-is-transforming-healthcare--and-thats-why-its-working/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6181a2fc62197b6ac23ab291%2F0x0.jpg"
+        width: 640
+        height: 522
+        isCached: true
   - title: "Avoiding Shortcut Solutions in Artificial Intelligence for More Reliable Predictions"
     excerpt: "A new method forces a machine learning model to focus on more data when learning a task, which leads to more reliable predictions. If your Uber driver takes a shortcut, you might get to your destination faster."
     publishedDateTime: 2021-11-02T09:42:00Z

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI told it broke Australia’s privacy law, ordered to delete data"
+    excerpt: "Australia has found that controversial facial recognition company, Clearview AI, broke national privacy laws when it covertly collected citizens’ facial biometrics and incorporated them into its AI-powered identity matching service — which it sells to law enforcement"
+    publishedDateTime: 2021-11-03T15:36:00Z
+    webUrl: "https://techcrunch.com/2021/11/03/clearview-ai-australia-privacy-breach/"
+    ampWebUrl: "https://techcrunch.com/2021/11/03/clearview-ai-australia-privacy-breach/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/clearview-ai-australia-privacy-breach/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2015/10/shutterstock_113956645.jpg?w=1024"
+        width: 1024
+        height: 700
+        isCached: true
   - title: "Clearview AI slammed for breaching Australians' privacy on numerous fronts"
     excerpt: "Despite uncovering Clearview AI's intrusive practices, Australia's Information Commissioner conceded that the number of Australians who have had their biometric information scraped by the company was unknown."
     publishedDateTime: 2021-11-03T01:38:00Z
@@ -37,20 +53,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 65
-  - title: "Clearview AI’s Facial Recognition Platform Achieves Superior Accuracy and Reliability Across All Demographics in NIST Testing"
-    excerpt: "Clearview AI’s algorithm ranks No. 1 in the U.S. in all categories as verified by National Institute of Standards & Technology (NIST) Facial Recognition Vendor Test (FRVT)NEW YORK--(BUSINESS WIRE)--Clearview AI,"
-    publishedDateTime: 2021-11-01T10:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=556406"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 27
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "/rAhZKIvuOHxUMy/tKG7PnD5F1SQJohvBPD1z2EFa3SHSBz6FbZJTdGtY4ze3Y6KWGa8lMYdxiuuaNQM4/kCNfpHdWy+1/NqFQIYlNA4RULCC/Mae9WBMwjuuHe9Hbb24yStXTvkuYoA37jx6y16/cCvl0Mu6pdj1Gv3AFaEokmNG5SD58LZxaxbk3Exif/sFDQwMRoWTwZdG+sExxb1IgsezuSScaWy3HmKPuRAWQSP4SllziU3uBq17wN9F0Iy5NRRQJXzC2LguOuJknI79jq3XCKLcniGgjITKBs4SjKMHTc021qhwqmOuLRHqWMzAoGaLRHNkUjKdmkTPQMrIbkxGAgPqb6qRq0ZFibfwB4=;1d4R3EiP/uLokM067Xr7/Q=="
 ---

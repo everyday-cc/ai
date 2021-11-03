@@ -233,6 +233,34 @@ related:
         width: 4896
         height: 3264
         isCached: true
+  - title: "Facebook Will Shut Down Its Facial Recognition Program"
+    excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people. The internet giant uses the technology"
+    publishedDateTime: 2021-11-03T14:02:00Z
+    webUrl: "https://www.entrepreneur.com/article/395106"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 71
+    images:
+      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-395106.jpeg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Facebook makes big show of kinda ending facial recognition"
+    excerpt: "The tech giant, which recently rebranded as Meta, announced Tuesday that it intends to disable Facebook's facial recognition features. While a massive win for privacy activists and users, the move is a limited one that does not preclude the company from using future forms of facial recognition tech on its billions of users."
+    publishedDateTime: 2021-11-03T14:35:00Z
+    webUrl: "https://mashable.com/article/meta-facebook-facial-recognition"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/04czuqarIXEqHtdDN2HS2Cd/hero-image.fill.size_1200x675.v1635950110.png"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Facebook to End Use of Facial Recognition Technology on Platform"
     excerpt: "The news comes one year after use of the technology led to a legal settlement that cost the company $650 million"
     publishedDateTime: 2021-11-02T21:18:00Z
@@ -546,20 +574,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-acebook-Giphy_87173674.jpg?w=1024&#038;h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Facebook Will Shut Down Its Facial Recognition Program"
-    excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people."
-    publishedDateTime: 2021-11-03T13:43:00Z
-    webUrl: "https://www.valuewalk.com/facebook-will-shut-down-its-facial-recognition-program/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 41
-    images:
-      - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2021/07/Facebook_1625588551.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Facebook will shut down face-recognition system, delete prints of 1 billion people"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people. “This change will represent one of the largest shifts in facial"

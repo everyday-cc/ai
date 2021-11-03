@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Facebook Will Shut Down Its Facial Recognition Program"
-excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people."
-publishedDateTime: 2021-11-03T13:43:00Z
-originalUrl: "https://www.valuewalk.com/facebook-will-shut-down-its-facial-recognition-program/"
-webUrl: "https://www.valuewalk.com/facebook-will-shut-down-its-facial-recognition-program/"
+excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people. The internet giant uses the technology"
+publishedDateTime: 2021-11-03T14:02:00Z
+originalUrl: "https://www.entrepreneur.com/article/395106"
+webUrl: "https://www.entrepreneur.com/article/395106"
 type: article
-quality: 41
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: ValueWalk
-  domain: valuewalk.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
@@ -20,9 +24,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2021/07/Facebook_1625588551.jpg"
-    width: 1200
-    height: 800
+  - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-395106.jpeg"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -231,6 +235,20 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/95bffc80-3802-11ec-bdfc-f316a562d4f3"
         width: 4896
         height: 3264
+        isCached: true
+  - title: "Facebook makes big show of kinda ending facial recognition"
+    excerpt: "The tech giant, which recently rebranded as Meta, announced Tuesday that it intends to disable Facebook's facial recognition features. While a massive win for privacy activists and users, the move is a limited one that does not preclude the company from using future forms of facial recognition tech on its billions of users."
+    publishedDateTime: 2021-11-03T14:35:00Z
+    webUrl: "https://mashable.com/article/meta-facebook-facial-recognition"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/04czuqarIXEqHtdDN2HS2Cd/hero-image.fill.size_1200x675.v1635950110.png"
+        width: 1199
+        height: 675
         isCached: true
   - title: "Facebook to End Use of Facial Recognition Technology on Platform"
     excerpt: "The news comes one year after use of the technology led to a legal settlement that cost the company $650 million"
@@ -716,6 +734,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "h55w+jkHvOCbQRKDxmZcFKEIXTcEq12mt0MIEB+aktQBfHpSwShLH3EDmW2rBKLRiy2WgwHFdQ87cwes9owSKTj3bjzfQixJPA0UMn6bb85pDQvCeTsa6L5ynHzAGXP4J22pic29GelYr791MNcxg8NidHNJBElC8DzI6a8bFCwNwjojTj9oYsRSHhOlw4afAJARPd3akCFtIt+pcJtWjA/L6XrfdHYdaIR775wuR6DJm7EJ/EA881kW+bCduzFHQyOrt6eMiollez7QlJqAWArmF0Ry3/uJzfiLpjJBRRXGVM+ZqBv+HolKTLud1wJMrCwGz1N8QDr1TlneAzA0qt1WqZlU6gYmPsWdiOTAfiY=;Xru1TAxpKMZ3qa1gpaZjMg=="
+secured: "gTQE1jou/V5zQZ9JsGd6McFd/1gDddVyBddDijYR8Ahjdy966XGAjdHIO4/IBUw8InbF3A8fZ+IqGcDcZo0xH+Jyjud0BO6LVF3b0Rinc7nVQpo0gUzv8jgG6QIVt9+b6R62/vSBUDR2jY+gJyzqTWtQge9qry8Afx+ir5aeWjpLXwnuujWfQBpd39HH3JU7YUgfnhM0xtf+IueKjBnIpjawfZ4klDi7shxrZQjBoAs6rMRZIyH+kHcPsb6WaAQ9SPlLe+zG6cCcEAdmryIN9dlgJgJ+gOZL9HPqrNaZQeAGGiEyE6NXuntQPhYsf81johC3ODOpSxe91fJ6HCA+SdEH+6QGqCZ+duLsCj2JKP0=;rpM1402F298Qa0K9n2UXkg=="
 ---
 

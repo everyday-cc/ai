@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/omg/north-korea-seeks-to-boost-education-with-to
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888/amp"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://e3.365dm.com/21/11/1600x900/skynews-robot-north-korea-flag_5570091.jpg?20211103122720"
         width: 1600
         height: 900
+        isCached: true
+  - title: "North Korea using robots to teach children English and 'enhance intelligence'"
+    excerpt: "North Korea is using humanoid robots to teach children subjects like English, maths and music. A toy-like robot with the country's flag on its chest was demonstrated on state television KRT following a push for education reform and technological innovation by North Korean leader Kim Jong Un."
+    publishedDateTime: 2021-11-03T14:09:00Z
+    webUrl: "https://www.originalfm.com/news/world-news/north-korea-using-robots-to-teach-children-english-and-enhance-intelligence/"
+    type: article
+    provider:
+      name: Original 106
+      domain: originalfm.com
+    quality: 36
+    images:
+      - url: "https://e3.365dm.com/21/11/640x380/skynews-robot-north-korea-flag_5570091.jpg?20211103122720"
+        width: 640
+        height: 380
         isCached: true
 
 secured: "5mNpOXTNLhzVeZKK3apSlGhgVcg4GQCFDx7zD35Iu1hSnpJ1UOxC2bTdutP+Rd62OxaaYK8s12MMCrqrReyYg6iPyzZ2631lHo1XQGa7vyx0d5T911nW0B4dyI5cTLsee1olVqU4sOFs229auwBCrq9SccLqWv3ryNhn3F9Aci7U5Y2PcaLgP6pAplW0UQls7Y+iHS3NSApBDAPhssjRaXQyHBCf7Rjj7Iufut3gGXBauqnhgLM3NcwflglPtSZAAMTG3XCuKFTjMEHqT6YftEctEAVOvCLha3LkmmvMpjCX9KryqXgPTg4mpunS9aac0pvXWHvg2T6LbUVWYDg3OBPRsLEhjz/XQyMYfAZ0Wvw=;MlEaHEy1kHP9YvMSpO8O6g=="

@@ -100,20 +100,6 @@ related:
         width: 2079
         height: 1439
         isCached: true
-  - title: "7 Edits That Will Soon Be A Thing of the Past Thanks to AI"
-    excerpt: "It uses machine learning artificial intelligence (AI) to scan an image ... the complex patterns in the bottom-right However, things start to go awry when you're working with more complex shapes ..."
-    publishedDateTime: 2021-10-29T21:27:00Z
-    webUrl: "https://fstoppers.com/gear/7-edits-will-soon-be-thing-past-thanks-ai-585040"
-    type: article
-    provider:
-      name: Fstoppers
-      domain: fstoppers.com
-    quality: 37
-    images:
-      - url: "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2021/10/img-7-edits-past-thanks-ai-main-image.jpg"
-        width: 1185
-        height: 670
-        isCached: true
 
 secured: "MLGjQKxUFFL1bGAYhX3QpQyikLqa30jGWnmLDz+xeapgtKRD3miqoPf9SQIhf/Zt1hTgjBrUvyjwGUTq9132hD4kcc5R6R+2OgIWTGy0ra4futzZLbeUVJsYciikaNQd75CXshLMyCI9q/GTbDAnvFi5kpOATKks5Pf7OsGO/kD2r/WjauV4Ft9SeZMv1vpBrOwvwQf5dEEnYwD0pBQSuXt88/+I553G00l8Zj62zNhpjs9OR4iz5JPGpcMF//H0Woah7ZDJrGZGt9dvSMJp6bVN7Qorblzu5WGN//glj9L/PV5JO2J55fwAP5DNvdsmBVLOF7yWZr0Cf9P47XEZHSQBRgWsJTukNZPi4JX/pIc=;E7qQ5v71CgLyqCwml5ffWQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/11/03/healthcare-automation-startup-
 webUrl: "https://siliconangle.com/2021/11/03/healthcare-automation-startup-notable-raises-100m-ease-hospitals-administrative-burden/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 640
     isCached: true
 
-secured: "JPZb/UcDaLalxY+/1FXWPtLcdr5bUIxxWRugs2D2AHpOs+c9D7vBMafGyZATQlaGhP9TVsKtL+B2By4FL9lJcI/Gj2sJPlNBxB5GFLoYTHbeUsZff8YQBOp70e9K7SifG0kectCu/y68PG/1yJYIqMSo/CK/Y3RRwtLDe/YjfcyX637/tZ4gPrVVRFQyZv/FzxcOQkKTU02LNlAlg9+4laqiOnoOr1en7zLeYargXkheQfJ2nsXVxi6h3pleAlkpSk8ckYbG3rt2bAIBM+tlHDik3aYro5tschW0pEzfGbwStQEckTZZTbmQAph1auhrVAeAp0MWP57KpJLZNFE/RQFW5ev/4UE2ZL3mlOXwrxo=;4oASyCVrcAMGjbsPYxgA5w=="
+related:
+  - title: "Notable aims to improve AI in health care with new $100M"
+    excerpt: "Demand for AI continues to increase as patients expect a digital-first experience due to the COVID-19 pandemic."
+    publishedDateTime: 2021-11-03T15:20:00Z
+    webUrl: "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/"
+    ampWebUrl: "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/10/shutterstock_710265355-e1634323353526.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "mHGgqojAtgp5gCcezdpFLCSmoC34hw6bt7y7WrkV2Qr4EW+wy3jDeCLWekPGrKL0izkNoNne6AgY0re93J0JfDEo0LIEnMSK8GCLuJrKsF1txgS8QC+JI6uw2qCMzJg2UyLfzTaAYs0ltvYceHNE+gXiWqqPWc61JXqqc/ZKkqpEodaoLVKtYv8ZppCY3JoJKURmQFAx0DBxF4U4W47cK1VPvA7DrG3ocBa8lH92Leck8MuvGXLHHsb9xzc/3ffwn/KhMsv3Ij+V0sP8HwBD5pYGIpUrg4EXv61dSfOD4G2NSd3+1e8yyEwyQRRnGjkWvzo1pap+ld2Zsr+zTAySZ+Ti+x25uOYXqbVSfvQ2lB5OtmszHA1zGkWxz+Bzg2S+dHgccLs/GtvaPVeI6rlguB+lWgvQ2D22TACd8fDMtgoJoNeQVnN+fwl9FnnROySxY/VNfBcVTuEbP4WPKnXLOiIb3/SzjBxuCMxEzm6Safn6cx0zWm8aHD2+4/3IKQNfWKVkRNdB0fQ8eXCZztvCpQ==;kN99fdFhKNO0XbsrrtIggg=="
 ---
 

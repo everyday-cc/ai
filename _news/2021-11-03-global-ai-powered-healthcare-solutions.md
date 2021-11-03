@@ -9,7 +9,7 @@ ampWebUrl: "https://www.trendhunter.com/amp/trends/babylon"
 cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/babylon"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Patients Don’t Realize That Conversational AI Is Transforming Healthcare—And That’s Why It’s Working"
+    excerpt: "The Covid-19 pandemic has forced us to take a critical look at how we engage with patients, pushing artificial intelligence (AI) solutions to the forefront. But with greater demand for AI solutions, the intelligent use of technology has become critical."
+    publishedDateTime: 2021-11-03T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2021/11/03/patients-dont-realize-that-conversational-ai-is-transforming-healthcare--and-thats-why-its-working/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6181a2fc62197b6ac23ab291%2F0x0.jpg"
+        width: 640
+        height: 522
+        isCached: true
   - title: "Avoiding shortcut solutions in artificial intelligence"
     excerpt: "MIT researchers developed a technique that reduces the tendency for contrastive learning models to use shortcuts, by forcing the model to focus on features in the data that it hadn’t considered before."
     publishedDateTime: 2021-11-02T04:37:00Z

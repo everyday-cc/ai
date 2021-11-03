@@ -86,20 +86,6 @@ related:
         width: 2079
         height: 1439
         isCached: true
-  - title: "7 Edits That Will Soon Be A Thing of the Past Thanks to AI"
-    excerpt: "It uses machine learning artificial intelligence (AI) to scan an image ... the complex patterns in the bottom-right However, things start to go awry when you're working with more complex shapes ..."
-    publishedDateTime: 2021-10-29T21:27:00Z
-    webUrl: "https://fstoppers.com/gear/7-edits-will-soon-be-thing-past-thanks-ai-585040"
-    type: article
-    provider:
-      name: Fstoppers
-      domain: fstoppers.com
-    quality: 37
-    images:
-      - url: "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2021/10/img-7-edits-past-thanks-ai-main-image.jpg"
-        width: 1185
-        height: 670
-        isCached: true
   - title: "AI in Aqua Farming is Changing The Future of Fish Growth"
     excerpt: "Artificial intelligence has emerged out to be no less than a saviour for fish farming. AI has aided in a number of ways to not just increase the growth of fish but also to tackle a number of challenges that arise in the aquaculture industry."
     publishedDateTime: 2021-10-31T05:33:00Z

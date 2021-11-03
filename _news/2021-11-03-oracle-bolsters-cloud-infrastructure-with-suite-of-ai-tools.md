@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrast
 ampWebUrl: "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html"
 type: article
-quality: 91
-heat: 101
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AWS AI
   - AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg?auto=webp&quality=85,70"
@@ -49,6 +50,6 @@ related:
         height: 933
         isCached: true
 
-secured: "i+lrEkul8kKm7wrzTuZKAbUiLC2Ib79kyKlD5G8gMV4VTDMorg291n6UugJWQzG8NEK3mv2LHAeRJUZZwnaLCaQnsYGqf3O2b2rXHUrBmH2OuXuZDiRrfBXSQeJy1U0ZeNv75Y56twIykXTAwyPo0z0Hh8dvLOhbFoJrKy4wQ5JWGARLiC/9E+T/uxe8BiYYpMA2II2VNWriCXkpMh/64hZyFfmJTKHA14iLbfOwyXl4sZktdwK1oN/AAJImp14T1pOfgICxtEeZwC1ak2TTXPVJdDF/Dmz+9A1fJIryeiQoibTpjJzSuvCEeBzDxz8j9HTqYIioEPdJpOLhdX3B/HL/O9j6BkyhrNsqAZ0hqXE=;Pf/std1rSJix9BgVX6yEKg=="
+secured: "OXnw4rkiAZHrVmO//xSsoG15xLensBTSpSZ5lzDKdo1SfYFeJZ9g8ZSWXB/FH5U1lq6cer3jn5tymFp17rAPTotI2Yv2MPaEgeird4o37CYdNQ/Pn9Hxfq5bmonWL/U5ZVxHYl1baAwYPseCLKOl/kFBABI4PpwEv0iAPa5PX0NNrqv1EJWBEYYJNCVa0wO8n129qqjkO90qFb59rdgtfeqcw7fBH7e1yCo5n4/ls2nlo2GLya0pVbQH44N3TMPbg+ll4mn5EvctrwPd5DgLYISsQU1Oyfbm0Zft+3xvCOP/OqpBDgxPpLvoaLUU6ViXqe6grkBrqt8ELzmYNqDWqNQVpwQcS9WGb5IlcqPG/bMFn2tSQnWc7mb++z5iE8wBwZy03ol04O3of1iOX8lwKNkGESbjjF5jGoW8aB3u8HMTCdKUsVO53Y5iaFbuGCDFhNkXP9Tfd34Ifc1dvFS3vGmNDE4zX/Loll+UbKhQK1kc3dqwHNO0YgWinl4yACh/2JMFutFfZcz9gKYSpDb9cg==;KAJCU4soFRHa8VuJvNdm+g=="
 ---
 
