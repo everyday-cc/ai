@@ -69,6 +69,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Waymo to start self-driving car testing in New York City"
+    excerpt: "Waymo is purportedly going to begin testing its self-driving car and technology on the streets of New York City. Read on for more."
+    publishedDateTime: 2021-11-03T17:30:00Z
+    webUrl: "https://techaeris.com/2021/11/03/waymo-to-start-self-driving-car-testing-in-new-york-city/"
+    type: article
+    provider:
+      name: Techaeris
+      domain: techaeris.com
+    quality: 39
+    images:
+      - url: "https://techaeris.com/wp-content/uploads/2021/11/Waymo.jpg"
+        width: 1170
+        height: 724
+        isCached: true
   - title: "Video: Watch a Waymo self-driving car navigate San Francisco streets"
     excerpt: "Waymo started self-driving rides in San Francisco in an all-electric I-PACE vehicle equipped with the fifth generation of Waymo Driver autonomous software. The perception system allows these self-driving cars to navigate narrow,"
     publishedDateTime: 2021-11-03T12:27:00Z

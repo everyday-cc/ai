@@ -74,6 +74,22 @@ related:
         width: 469
         height: 600
         isCached: true
+  - title: "Artificial Intelligence in the Vineyard"
+    excerpt: "Adopting this new vineyard technology is critical to the California grape industry. —Tom Shapland, PhD, CEO and cofounder of Tule Technologies Anything humans can observe with their eyes a computer can be taught to see as well."
+    publishedDateTime: 2021-11-03T13:00:00Z
+    webUrl: "https://wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard"
+    ampWebUrl: "https://wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard/amp"
+    cdnAmpWebUrl: "https://wineindustryadvisor-com.cdn.ampproject.org/c/s/wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard/amp"
+    type: article
+    provider:
+      name: Wine Industry Advisor
+      domain: wineindustryadvisor.com
+    quality: 57
+    images:
+      - url: "https://wineindustryadvisor.com/wp-content/uploads/2021/10/Tule-Vision-in-Use-640x427.png"
+        width: 640
+        height: 427
+        isCached: true
   - title: "How Artificial Intelligence is Changing the World of Finance and Investing"
     excerpt: "Artificial Intelligence (AI) is a popular trend these days, but it seems so abstract that it is easy to assume only people savvy with technology should be concerned about it. This is far from the truth."
     publishedDateTime: 2021-10-30T19:11:00Z

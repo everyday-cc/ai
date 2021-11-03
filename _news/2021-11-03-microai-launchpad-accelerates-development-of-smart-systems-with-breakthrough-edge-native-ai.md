@@ -1,22 +1,28 @@
 ---
 category: news
 title: "MicroAI™ Launchpad Accelerates Development of Smart Systems with Breakthrough Edge-Native AI"
-excerpt: "MicroAI™, the pioneer in edge-native artificial intelligence (AI) and machine learning (ML) products, today announced MicroAI Launchpad™, a quick star"
-publishedDateTime: 2021-11-03T13:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211103005472/en/MicroAI™-Launchpad-Accelerates-Development-of-Smart-Systems-with-Breakthrough-Edge-Native-AI"
-webUrl: "https://www.businesswire.com/news/home/20211103005472/en/MicroAI™-Launchpad-Accelerates-Development-of-Smart-Systems-with-Breakthrough-Edge-Native-AI"
+excerpt: "Press Release MicroAI™, the pioneer in edge-native artificial intelligence (AI) and machine learning (ML) products, today announced MicroAI Launchpad™, a quick start development and deployment tool. Launchpad helps organizations simplify and accelerate the design,"
+publishedDateTime: 2021-11-03T16:25:00Z
+originalUrl: "https://venturebeat.com/2021/11/03/microai-launchpad-accelerates-development-of-smart-systems-with-breakthrough-edge-native-ai/"
+webUrl: "https://venturebeat.com/2021/11/03/microai-launchpad-accelerates-development-of-smart-systems-with-breakthrough-edge-native-ai/"
+ampWebUrl: "https://venturebeat.com/2021/11/03/microai-launchpad-accelerates-development-of-smart-systems-with-breakthrough-edge-native-ai/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/microai-launchpad-accelerates-development-of-smart-systems-with-breakthrough-edge-native-ai/amp/"
 type: article
-quality: 6
-heat: 6
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "xj/NHWmvWHN4sf5oKUMTJq4KqYFfxqTsaamqBaDFyO6MpJcKb1IRjaXC97TkWNz7WSvTrDMg8zODjIm6gOlUIIkK0ZoGIaA/0fRTAReqegZBlma2Wy3tljg+IVxZh+WKu66f3lB4K1HLpNwcwB5lY2nv3Jr53Z1UF3Ai711HMwSnipQfUAhujlHQxG7W4nSTSYDK0Br0Cjsor6hc9bzEADQsIElghOh0hfQ0OxRY++UYLOlfpAh5c+XpD5fzzYUVxN18QMEVic5HDS/1MdGswrd/qKfCUpf9yH962yBUvA6vcP+pcBDBco5zWhzWm7RlZOuMyqWEDu9R7wo+jYYWuuX5byzliz9vCq2elvHRrwc=;cuiYLWLuFRHzBRiX0PKyiQ=="
+secured: "ACASOesmezSFxwD0grICEtFyhIO3sWf7jE/4j9WUFkxG4wbSCBf191G6P5HcIf7kPtwObu88+u8ZblZPHIbQCGrZd/wtWBk4PD6EzZ+mWeJosrlVfk8j4iRdOGB40ypU0FLJDoxP0qP6m6f6fBp0SXeV9FmZTSDMA39UXukdNJ6oPX4BfmOlmpJP9Wrv1MUjpHBbAxtTDMbSpbj7Ux3alMgDz3K6bkRfxRSGgQUq0tSLsydzJJ3LpGwBx26x1F93UXsxzRXCxLfN3qxAML5n6+6T6//XtxA9pbtM0LWKrnBkeL92T9SquX98kU5H3g8lHNPXYcuDmStxKEAIDsat8I8QVEEifxJPC4XyjrjbHtw=;0pqI24ppdHSG0iaU9iGlFQ=="
 ---
 

@@ -2,17 +2,17 @@
 category: news
 title: "Facebook ending its system of facial IDs"
 excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-publishedDateTime: 2021-11-03T07:27:00Z
-originalUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
-webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+publishedDateTime: 2021-11-03T07:29:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Facebook AI
@@ -729,6 +729,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "AEVhnNBAedwNKekqOoD7CKileUgGNeXKuk1ARegSf7ZtQSiqFO+9TO8KzTWvedrHth1Fn2yNbQXHk1oQsQI3tEJgxJeFYL1+Fce54sYl67zh4peyYPmtPmz0TCOEEKSEbHdk6LV7kn77LSMjGYpNooqmVGqC3O8G0nqAh+KZi/uw449GSBbPhUk6bX82QriZ1nzxn5h4A29DbCszRRHCM6UKSJICnteKeqZXfE2Q5p92QcdOHf2KzVnXufqVtuIlcR7zyVOKK5xbvYBu51pmucLoXtK2by5YOFh6S33daFsL8Shu0fR5kVk0peynkAPvXEsJ9cSgaIc9xyLIbg1Byt2eSuTxL5I70oniZmG0bDJO29HcIv6EaDlPtdiWYQQkBgwOFXbWNIW+y/8HYhDtkO7Kr+9/UyGumAZatYDbYlCGIu/4tIdRpbGaPERgDAiZXNYAoOj4YHuYSZS2Eifhqlc7gLSotY58orMgMRojBCAVPFdHfcg10FUQZdzr2JmBQOG/zPO1F8GUqJFGtPWlwA==;QTNZiVAYrmA9dOwOqpCfOw=="
+secured: "tdpEJd2VEI9mB03TA+Gbq3gBLV3KWB/+GtU83kjp1xI8XjUg0mN5CIAhY/6bvXwXCvC0r5k2t5n6CesIoim8ZLLY/SLHfu/jclcYDiKP06Ya9Yyj3I4Ie4XUeV/3/y20iYJPWaxe7ItPjB5cA8IMylWzWmoV3TwngFoHQXziTguggcAJvQnf59ufVSCm88B3GPrGTXyGVwEFBQqiMokTwxHwo69WN6rLlOBnlHGkxPTiACx0RYdzcsj8LTfAUQGFCmbqK9jQhDEJTZvni1A7r2SGeCnn50Vx3cjjJbKKE8rYXDSG9Ps8HrHpuGexszffA+1PFHLZydObB4l1QrUkRcneIXZd+XO3Mfq7tBNHfVM=;bKTrlUYV2k7BSm3gZVA4Qg=="
 ---
 

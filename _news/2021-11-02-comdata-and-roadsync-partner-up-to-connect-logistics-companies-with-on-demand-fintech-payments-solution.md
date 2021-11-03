@@ -24,17 +24,6 @@ images:
     height: 339
     isCached: true
 
-related:
-  - title: "Jianpu Technology Wins Top Fintech Innovation Award and Reveals Business Developments in New Categories and Markets"
-    excerpt: "Mr. David Ye, Co-founder, Chairman and Chief Executive Officer of Jianpu, commented, \"As a fintech pioneer, we have placed a high ... For more information, please visit http://ir.jianpu.ai. Safe Harbor Statement This announcement contains forward-looking ..."
-    publishedDateTime: 2021-10-29T23:47:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20211029cn58022/jianpu-technology-wins-top-fintech-innovation-award-and-reveals-business-developments-in-new-categories-and-markets"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
-
 secured: "wsxf58RMJIxTB9xmcvMkD8OhFgB/iNVbDcUkA0untwnffJZcaowh4kil3/uJbYlOSnm+fIV7eolJNoGIojuJsY/mVjJZo0DufNJ2ftfkKLUmFeP7AtI7A+SSC9EoLN0NVudglt7C98u8mcrR6mJ9ixCeQiuzibyQxY9oedXO0adiJt3T7mnVOR2r93RQtxqn6qRSSgYvQw1ZnRmcJ8ZYACbc4FA788rbqgHywHLRwkup9JazUNaQlOM4jwqV5HeXTpZY1P0tiwOrCUntpVo/osuYOWi0688RvtjfJxjA+55CzAXfdA+OzfiIR1sXa2VqXVhW0l9h86VOtfTKbYMDMIzy8yCl8VBTKBgLYIgo/J4=;8mG7Pq4RbgfLsZtm3kddsA=="
 ---
 

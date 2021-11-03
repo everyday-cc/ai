@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/taming-the-data-deluge.jpg"
         width: 469
         height: 600
+        isCached: true
+  - title: "Artificial Intelligence in the Vineyard"
+    excerpt: "Adopting this new vineyard technology is critical to the California grape industry. —Tom Shapland, PhD, CEO and cofounder of Tule Technologies Anything humans can observe with their eyes a computer can be taught to see as well."
+    publishedDateTime: 2021-11-03T13:00:00Z
+    webUrl: "https://wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard"
+    ampWebUrl: "https://wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard/amp"
+    cdnAmpWebUrl: "https://wineindustryadvisor-com.cdn.ampproject.org/c/s/wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard/amp"
+    type: article
+    provider:
+      name: Wine Industry Advisor
+      domain: wineindustryadvisor.com
+    quality: 57
+    images:
+      - url: "https://wineindustryadvisor.com/wp-content/uploads/2021/10/Tule-Vision-in-Use-640x427.png"
+        width: 640
+        height: 427
         isCached: true
   - title: "This Group Pushed More AI in US Security—and Boosted Big Tech"
     excerpt: "The commission also suggested new investment in training AI experts, research inside and outside the Pentagon, and support for US semiconductor development. The group’s overall message? Artificial intelligence is central to the country's destiny and safety—and to competing with China’s plans to dominate in commercial and military AI."

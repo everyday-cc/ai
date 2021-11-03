@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-hea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,7 +44,21 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "New UChicago initiative aims to improve health care algorithms for underrepresented groups"
+    excerpt: "Algorithms have become increasingly pervasive as organizations in both the public and private sectors have sought to automate tasks that once required human intelligence. From facial recognition to decisions about creditworthiness to medical assessments,"
+    publishedDateTime: 2021-11-03T12:00:00Z
+    webUrl: "https://news.uchicago.edu/story/new-uchicago-initiative-aims-improve-health-care-algorithms-underrepresented-groups"
+    type: article
+    provider:
+      name: The University of Chicago Chronicle
+      domain: uchicago.edu
+    quality: 29
+    images:
+      - url: "https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2021-11/ai-bias-healthcare.jpg?itok=LX6hsz__"
+        width: 1380
+        height: 776
+        isCached: true
 
-secured: "yIQ1elQ3Upry0sxUscuM9H5N64uo7JbCNCN91Z2gwFnWs3767S9kuzglZ5qGlr5VpLi9995CcJBO7ntlt6KuYLhVGXP1dUo6armIB+AyY3FGvEK8TPSlCS6IFMmyOXh970e0C69mXhTZDPXPO9JRaZ33pjbrlwXg9SSHnq5PpP510cBUrAmzkIME64/PJWdBUgrOg5n3HPqbm/exO0CP46iPB8o32JY3nTqmifH0dbBK3akT6OtTX1CaBy7bWlm97Dp8nPx8Kqcx1OlBBaPifxPObIhwrQuCq6Rp3bgzpUjBT+iAIwjVKt/ix0851jgegxIBtwqxJMOD39ZpDI6itXrJntaI8kQTT22GMfJWG0Y=;QgYGYT2NecGKW3GpnVXD6A=="
+secured: "8PfcUEdVgisI2kwGfA6R9QNzM4OqH4qAAwhqxjWAVh8xm2LxWYB9wVmMEkOlAsc/n9ku49QXzxOCHbXm+5u7d/NjuIYfk6i6wZvT48RUm85N5cviTbl0qATjqAHJnH3UznqHFS5obAjU67BDZt6SxtZaeazfLw1JLNqcgKHNG3Q6RK76eDz/aV7G/eIGm7bSjlQWPLgeT0qZuBGmxOLMzbj3c527pkbKop9a6KizRG+h/akS2fXKLTRfLBAXQPkSniwoPPEZ9nTOKutcgmyzVwJjpSRXC2sj3cNFk1DsuvGXrA4jrRLxSMqrz47ptoEHOPQwnPEU2DIcMnbcLMkQHvd1aEiAe+HKkyJsYg//jArWIK62Q7ZcpNEd+GSA0HrRj6wdDVlnkaXSnwai2NcdbubAlztC2t+yuy86ekBb/8LnmUt+j/47victMvtIBGPmNjrwkoq7T6MOop9Ch80j0ReWZK5QTxQTz0XUYOL/JFmGYAb+frgeEcLl4MLZJgW1lr1Qspbg9j8pDkODd1GY0g==;f7UNIssQsMB6v4e1xEpmSw=="
 ---
 

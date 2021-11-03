@@ -69,6 +69,20 @@ related:
         width: 560
         height: 373
         isCached: true
+  - title: "Waymo to start self-driving car testing in New York City"
+    excerpt: "Waymo is purportedly going to begin testing its self-driving car and technology on the streets of New York City. Read on for more."
+    publishedDateTime: 2021-11-03T17:30:00Z
+    webUrl: "https://techaeris.com/2021/11/03/waymo-to-start-self-driving-car-testing-in-new-york-city/"
+    type: article
+    provider:
+      name: Techaeris
+      domain: techaeris.com
+    quality: 39
+    images:
+      - url: "https://techaeris.com/wp-content/uploads/2021/11/Waymo.jpg"
+        width: 1170
+        height: 724
+        isCached: true
   - title: "Video: Watch a Waymo self-driving car navigate San Francisco streets"
     excerpt: "Waymo started self-driving rides in San Francisco in an all-electric I-PACE vehicle equipped with the fifth generation of Waymo Driver autonomous software. The perception system allows these self-driving cars to navigate narrow,"
     publishedDateTime: 2021-11-03T12:27:00Z
@@ -79,6 +93,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "r6W41xJ0OZWinZ1/rZ99vdaXNiIF+Muv0gYGjEi2eYJnUyDeAs8lDAjtUm7Kvnc/lPXr0v3d2NqPMuYpcMSyWK10AInUyo9ctJjv6HmSBZxKMRQSxQxlrmyr+BhYoc5j9RZm40RWtDKmlOPY1F2JDvY1H6VaDWL8UnpoCX9jbYmbZKIRxkZktduo6O6aPU+/S9FYgAEVg+Jl1d1UXeuAIfj1mqtMmK9V08Kla0zH/4iQFqHDOP1zbzSHlB8QhlR5F0Jg28TAFODvYPhoPY8O2wa/jBz0/8JxszFBwTttzkZ73ZKFBL/QshEbx4LV8boA7vIH460D3v0fjHudPZQCT4QTbXZBMxUW/75TcNH0hOo=;JD5X0ZnY4+BUdwhlPImj2w=="
+secured: "CpnPLEZFDnE8RLrRsVRsi11M2gNVJTv/KWJOyXFF85CPEcO/Ue/en8PJVwPRNCHjFceql0rmMLmF1QHTG9b2fwZiN6YJkF0jh6hRM2f86KnXyNeUKNMNXyUX9Q+tOgUxYjN5fH0jiZwVL8lrFEdDI7qAl0P6HB7e/qFSOkumyQ4kpGLaC3EU4q2WWPGqXtG0kPt1BR7p9GpM76rpyLQ0PE/DJnoMgRJ7OggCxV3Ms2zGBIoV5e+UK371+94HPb0byyzQGM5JeYf5sqraAxNMNJ4A3ND9lUQ8m6Qj8fuT+pcOqxVUEVVMKEJoCCLiT0vJYnZAapGVYabAF56/ARdZ3foedAGbDA4W+Y60qsWIYuCOk3H/7/4DVlwwi6c0H2uGbnpsxW3Um8mEhcQUjuljXbDEom41m1k9+3VIbPsrKQNzrehMDv3QNosdeJCLqXFPUucbOYRmlziBP+sZeqP/5/iPX+hdNh/4EGO4QnMYknG9CkJap0qYvWdFYeHNoK/Tdlej4d0eS5+ECgmnGx5Uzg==;l63Nbuj8U7Dkv3qsnU1f/g=="
 ---
 

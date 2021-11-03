@@ -55,7 +55,21 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Tencent flags progress on three chips in development, investment effort"
+    excerpt: "Chinese technology giant Tencent Holdings touted progress in semiconductor chip development and investment on Wednesday, offering a rare public glimpse of its R&D initiatives.Best known for computer games and social media app WeChat,"
+    publishedDateTime: 2021-11-03T17:44:00Z
+    webUrl: "https://www.channelnewsasia.com/business/tencent-flags-progress-three-chips-development-investment-effort-2288231"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--LUu65h2S--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-11-03t055023z_3_lynxmpeha205e_rtroptp_3_china-games-huawei-tencent-holdings.jpg?itok=DngETqDz"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "sRje/T2QBRFCF6gtsBkVlTRSX7kVkFv62JRqQ1aPz8FiJuUtKQl3goZctNnZSVJrPHlE0G03cUAO3sch/+9VxM3KrMoVeyTa6xxRg6cBcv9MNsYJJPnkC0YZ8zYsj7M/OhfuWdAASRxCfom/ffMEXZz9yn++epCzZ5914D/TIqCjl2uNYfFF3/BWsw9en68qtspKGm6lk2/Jx/ObS0V0C2LIOA12g0G/MlKVC6OIuYA9znXKZBkvnQT4LaXFt5T4CTVvYPZdirY6bvPTktqlB5Hwk+Wfpof7NEvmTFin2DKrJMC6PIBobPN8EW5/aipdQh+0OBkJS2gDH7D3taPTenmCzk+IsKuFmvOm6ROzzKo=;0hR4LnthzPKEF61BfxCbdQ=="
+secured: "+pz88b9X82Va3ZhLB7f8zitS0Eb9xN39qBCXwFuydCnubEt8jDtn+xCFgJvrL1622NHfivNAUnZDeCj7Rl0SJ9HD2MVoU+07BUw9EZSI80qli2Pdm1YKl8/ukpSw42zsd/c2Yiqk2kAhRuPw9/t3oLkyKlDmbLrivxy2SHugewtWglxoIqUdou7rBQKHIGTN9FCuVUWm0cWjHFDDbwkUPduJft1WZjWZKvU8IJIEsuAYMHjK0K+j9hA5P3xyxRfrbWeptXJLdrxCiPVHVe08Ljapiafz4dABVOfblFzebcM9UHxJ+EFb65e6EsEZm6miwEH3gxurcFWQKSU5DAQgVUvUhrlsPCKC/diM31IyJtNiEFI0w39IfGP4XHLBK2ic67AjYrciTi/UWYtmPpP4tCFV3rNFyNPReiginm2H0V6qNKc/6zfXlWKmclDm2NW7l1Uxcgz5JCBhrxYdmn82953lrZ1BwHtrDBj4/qiGoVy0mMgj+eH6L3PPHbI2VA6Oq103jmJsbT1CYfdzInnb5Q==;5UZSKIYNi2XMX21D6Fqb4Q=="
 ---
 

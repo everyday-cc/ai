@@ -89,6 +89,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "At Ignite 2021, Microsoft showcases functionality for scalable AI apps"
+    excerpt: "Microsoft showcased Azure's architecture for building scalable AI apps compatible in cloud and edge computing scenarios."
+    publishedDateTime: 2021-11-03T16:50:00Z
+    webUrl: "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/"
+    ampWebUrl: "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/gettyimages-1287251160-170667a.jpg?w=1200&strip=all"
+        width: 512
+        height: 337
+        isCached: true
   - title: "At Ignite, Microsoft unveils data analytics, server, and DevOps products for Azure"
     excerpt: "At its Ignite 2021 conference, Microsoft took the wraps off of new data analytics, server, and DevOps products across Azure."
     publishedDateTime: 2021-11-02T15:00:00Z
@@ -195,6 +211,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
+  - title: "SentinelOne Unveils New Zero Trust Integration for Microsoft Azure Active Directory"
+    excerpt: "Ignite, SentinelOne (NYSE: S), an autonomous cybersecurity platform company, announced the SentinelOne App for Azure Active Directory, a new solution combining endpoint security and identity capabilities to advance Zero Trust architecture."
+    publishedDateTime: 2021-11-03T16:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sentinelone-unveils-new-zero-trust-integration-microsoft-azure-/2021/11/03/9483827.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
 
 secured: "BqXK8SkPycfZb5LNfE324VGLsPvSzk4VwKBGW8FcljHJEy62dBGAAu4tYL348i30MJI63zp39lYBwbj6cUUHSmfXkFdRRJE6N44gsHRzrad3u3QXD6G7aM4qGK09nxDPEFfy8o7oqp/0ZwwuEVlE0b08Sg17QPuBim6Wzura+5ljhdczpIsuMbg2z8ocoumKBxaApAwiHZQNzrQYDXKTAEUj/HVnIS8G7htmvx+zfZB5N5oQx7YMnYlSPQDIrNA/tGqZSNAY5nogUVd6PEPt3thNqp7J9GqwueDQc/Gk2B2F347EjJAMibPzX3e8nX5w/fiqObwSidHjFbiucc7WIGIkgjMo6K4sawpFobpRCd4=;AHk1TOU+j415KAki6thcgg=="
 ---

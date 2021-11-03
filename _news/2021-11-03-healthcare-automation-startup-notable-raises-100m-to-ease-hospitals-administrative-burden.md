@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "New UChicago initiative aims to improve health care algorithms for underrepresented groups"
+    excerpt: "Algorithms have become increasingly pervasive as organizations in both the public and private sectors have sought to automate tasks that once required human intelligence. From facial recognition to decisions about creditworthiness to medical assessments,"
+    publishedDateTime: 2021-11-03T12:00:00Z
+    webUrl: "https://news.uchicago.edu/story/new-uchicago-initiative-aims-improve-health-care-algorithms-underrepresented-groups"
+    type: article
+    provider:
+      name: The University of Chicago Chronicle
+      domain: uchicago.edu
+    quality: 29
+    images:
+      - url: "https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2021-11/ai-bias-healthcare.jpg?itok=LX6hsz__"
+        width: 1380
+        height: 776
+        isCached: true
 
 secured: "mHGgqojAtgp5gCcezdpFLCSmoC34hw6bt7y7WrkV2Qr4EW+wy3jDeCLWekPGrKL0izkNoNne6AgY0re93J0JfDEo0LIEnMSK8GCLuJrKsF1txgS8QC+JI6uw2qCMzJg2UyLfzTaAYs0ltvYceHNE+gXiWqqPWc61JXqqc/ZKkqpEodaoLVKtYv8ZppCY3JoJKURmQFAx0DBxF4U4W47cK1VPvA7DrG3ocBa8lH92Leck8MuvGXLHHsb9xzc/3ffwn/KhMsv3Ij+V0sP8HwBD5pYGIpUrg4EXv61dSfOD4G2NSd3+1e8yyEwyQRRnGjkWvzo1pap+ld2Zsr+zTAySZ+Ti+x25uOYXqbVSfvQ2lB5OtmszHA1zGkWxz+Bzg2S+dHgccLs/GtvaPVeI6rlguB+lWgvQ2D22TACd8fDMtgoJoNeQVnN+fwl9FnnROySxY/VNfBcVTuEbP4WPKnXLOiIb3/SzjBxuCMxEzm6Safn6cx0zWm8aHD2+4/3IKQNfWKVkRNdB0fQ8eXCZztvCpQ==;kN99fdFhKNO0XbsrrtIggg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/mcdonalds-looks-supersize-its-ai-prowess-new-
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/mcdonalds-looks-supersize-its-ai-prowess-new-partnership-ibm"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 772
     height: 440
     isCached: true
+
+related:
+  - title: "McDonald’s sells voice recognition unit to IBM, signs on as Big Blue client"
+    excerpt: "Having apparently done all it can with voice recognition order-taking development, burger meister McDonald's is selling the biometric software to IBM."
+    publishedDateTime: 2021-11-03T16:28:00Z
+    webUrl: "https://www.biometricupdate.com/202111/mcdonalds-sells-voice-recognition-unit-to-ibm-signs-on-as-big-blue-client"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/11/03122640/mcdonalds-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "02yIGI4ds2ZuLeCMw0oN+Lw6C9W+i73MCT3y4rq4bQTWCBEQ4/Nb7t+hKtMOz7+82WddyiFTuaYc3yDChCoVM4TMHYNp4a0Ln/aKnzge/j67hInmjtqFfZoQyEkaiKKJ7ef6SmiGkYf/ZD1YBj9picUxokxN8fhNrLpoBJWALes3Z8DDA1cBeDFM5ddwIULlHCR3BLHIa7bMPsX72uTveukHe938H3fM8fOeTv6/jmDB0Ggn/ynhzyzvcJwIeGPAYlJUAf8CM1TBsGLp06TNaSZQ+r3cl552KsMV992bM8+Mjx+T+EtKuvF3h1yefVfeWtGdS5lR48WZnVYO7M3AQCGTWdPyNKbh/9l+f2QSldvwS3hoc+xGBaLJtj+ijs1SckRB25kzI7f9abCoPiOcApNw2ZDZq9IjtHpOxatdEz+qDvzYfwQPof/HsdQatgy+sI2IijLMlnSmPl/F+Dn8YHWAZaOsMa7IHbv1Q/nrTWLieJfBSsHfUd1YvJreb9tDqMtKYu9cg31Uqd9UQGD60Q==;DByFHOrb3FurA0pX2ouNXg=="
 ---
