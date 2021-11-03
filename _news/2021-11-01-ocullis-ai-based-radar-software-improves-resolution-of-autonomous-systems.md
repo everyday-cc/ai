@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Versatile Launches AI and IoT-Based Solution for Construction Process Optimization"
+    excerpt: "American construction and industrial process startup Versatile has launched CraneView, an AI and IoT-based solution for construction process optimization."
+    publishedDateTime: 2021-11-01T10:49:00Z
+    webUrl: "https://www.just-auto.com/research-reports/versatile-launches-ai-and-iot-based-solution-for-construction-process-optimization/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 31
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/11/shutterstock_1144060268.jpg"
+        width: 500
+        height: 334
+        isCached: true
   - title: "Ansys signs agreement with AI software platform Oculii to advance autonomous vehicle radar systems"
     excerpt: "Dayton, Ohio-based software startup Oculii has signed an agreement with Canonsburg-based Ansys Inc. to further the development of autonomous vehicle radar systems."
     publishedDateTime: 2021-11-02T21:46:00Z

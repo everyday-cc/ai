@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Meta says Facebook face recognition system will be shut down"
+    excerpt: "Social media behemoth Meta, formerly known as Facebook, has announced that it will shut down its face recognition system and delete more than a billion individual facial recognition templates. However,"
+    publishedDateTime: 2021-11-03T00:22:00Z
+    webUrl: "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/"
+    ampWebUrl: "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 159
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2021/11/NRP-Update-On-Face-Recognition-Technology_Thumbnail.jpg?w=1200"
+        width: 1200
+        height: 899
+        isCached: true
   - title: "Facebook to Shut Down Facial Recognition in Photos, Videos"
     excerpt: "Social-media platform is to delete individual facial-recognition templates for over one billion people."
     publishedDateTime: 2021-11-02T16:29:00Z
@@ -536,6 +552,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Facebook Will Shut Down Its Facial Recognition Program"
+    excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people."
+    publishedDateTime: 2021-11-03T13:43:00Z
+    webUrl: "https://www.valuewalk.com/facebook-will-shut-down-its-facial-recognition-program/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 41
+    images:
+      - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2021/07/Facebook_1625588551.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook will shut down face-recognition system, delete prints of 1 billion people"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people. “This change will represent one of the largest shifts in facial"
     publishedDateTime: 2021-11-02T17:37:00Z
@@ -631,12 +661,12 @@ related:
     quality: 24
   - title: "Facebook ending its system of facial IDs"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T07:29:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+    publishedDateTime: 2021-11-03T07:27:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
     quality: 24
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199814388_4D1facebook1103_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
@@ -680,6 +710,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 21
+  - title: "Facebook, citing societal concerns, plans to shut down facial recognition system"
+    excerpt: "Facebook only used its facial recognition capabilities on its own site and did not sell its software to third parties. Even so, the feature became a privacy and regulatory headache for the company."
+    publishedDateTime: 2021-11-03T13:33:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/03/nyt-facebook-facial-recognition-program.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
 
 secured: "pDG9rI6YCtFzYoqkguJAR83MkVCcLoOw5RN8ATGmE6jtLx3qva60PKKD+jNRil4rJwRpAUXJYXb9EvFYxk5W412lUQ+lNXIeP1NVga6vqXG3+g3RvvBI9n8uRtixWR4jcjsHHk9ylQHBgttLf8SKE0vDIVyWrqO0+nlexZTxC3g5o+PhFdjS8IUU01IvKuI/NmxfQ4azVi9fvMZNhD2haFZH2H0snV+NLYfja1CG7eoCWan9Vtj8yPXtJLVOXxmyqa/D//o7sUeqULEMnSn8sE+p6b52YpIAG66MLXwWZhMRe2RhGy/2tEzgu3TYenPP9NWoA0lQV5Csq9PWYeg8c+otrXKmUP7BitPVl4V2rFdB4ci90uHE2sfQghCGzJird9AgPQgCTK234GJf58P9FXbFPbw2edIKCsPZkzK8Md1qhOAkwbsgIOru7SBdzO3iCIKZezuvzHEkU0/k48zlfAtTnRkMDlho9vnMsOG8UKDy4UlDkhNymDRjpFsbBYSaONi/Qu7cYfsK3b7xWrAyrw==;yzKCqcZPdFYr/LtuGI0bwg=="
 ---

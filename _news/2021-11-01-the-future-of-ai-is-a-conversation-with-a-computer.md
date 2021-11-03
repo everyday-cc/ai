@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/22734662/ai-language-artificia
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22734662/ai-language-artificial-intelligence-future-models-gpt-3-limitations-bias"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -30,47 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "STAT+ Conversation: Intelligence about artificial intelligence"
-    excerpt: "STAT's Nicholas St. Fleur and Casey Ross sit down to discuss both the hype and hope for artificial intelligence in health care."
-    publishedDateTime: 2021-11-02T13:12:00Z
-    webUrl: "https://www.statnews.com/2021/11/02/stat-conversation-artificial-intelligence-health-care/"
+  - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
+    excerpt: "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ..."
+    publishedDateTime: 2021-11-03T13:57:00Z
+    webUrl: "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html"
+    ampWebUrl: "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html"
     type: article
     provider:
-      name: STAT
-      domain: statnews.com
-    quality: 39
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 91
     images:
-      - url: "https://www.statnews.com/wp-content/uploads/2020/06/SPC-Social-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Versatile Launches AI and IoT-Based Solution for Construction Process Optimization"
-    excerpt: "American construction and industrial process startup Versatile has launched CraneView, an AI and IoT-based solution for construction process optimization."
-    publishedDateTime: 2021-11-01T10:49:00Z
-    webUrl: "https://www.just-auto.com/research-reports/versatile-launches-ai-and-iot-based-solution-for-construction-process-optimization/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 31
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/11/shutterstock_1144060268.jpg"
-        width: 500
-        height: 334
-        isCached: true
-  - title: "Majority of companies admit they can do better to address societal issues- AI prioritizing Business Risks For the Future!"
-    excerpt: "Majority of companies admit they can do better to address societal issues- AI prioritizing Business Risks For the Future! The Lead [1] Companies that lack focus on climate and diversity risk losing cu"
-    publishedDateTime: 2021-11-01T11:57:00Z
-    webUrl: "https://www.linkedin.com/pulse/majority-companies-admit-can-do-better-address-societal-akintayo-joda"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 18
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFZy9mRLVYdPQ/article-cover_image-shrink_600_2000/0/1633599782622?e=1641427200&v=beta&t=tdeHiBu3avlzSBEDikLXeelUMMyQfYt5qJK_aIlihEc"
-        width: 678
-        height: 452
+      - url: "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg?auto=webp&quality=85,70"
+        width: 700
+        height: 467
         isCached: true
 
 secured: "/Nz+bdNXSxBC7AdEIJYh410TV4aPTWJhN6oyza4lQHcJYEykGOA84o6hsJDr1lvbNojfaOj/lrZBMFMMhFOR8aYHSdvLYX3hpyE1DcAavHS96nBnJelgrMDPfIuPJvbZvfZwQkzdKgGjfxA9qrpDsIK2NyeaikV69TjfICxpmVf4oLr3Cp414L1+zQ6KkJZTalI1C3/4WLluv8IxqE6jhrErUWO+zGQC8qZ+s/dn8a44mWNvpN6EBUOegMHQb4p9snHDLOHg96+nFi85pOsVpSptDFEF3pU0/gbtK31ZYDFFnhbSX8VrPtaxKthw+iVM7w8OnYoGlCqRsEleBfI9IjyrJ+ZmbZeT60yS/7IcGPOilK0+KEDV/3liW6kXr10+TQJiuFcHv0F8ja9/143UK+Mk8SVbWuJIUM7BZtvh2bhYJCt15g+ucOtNdejQ90LY8ftIbR/reSgTSfmMXJDpyZZp8Jq6FnRDpcBLREi2I9hh2USkQ7vKWHTgDQEq5hQyfJetxTuhMCs2NWcXeO/wLw==;CDCu5sVHp/rprY3uulNh4w=="

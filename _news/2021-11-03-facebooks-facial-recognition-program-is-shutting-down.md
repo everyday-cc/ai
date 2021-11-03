@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Meta says Facebook face recognition system will be shut down"
+    excerpt: "Social media behemoth Meta, formerly known as Facebook, has announced that it will shut down its face recognition system and delete more than a billion individual facial recognition templates. However,"
+    publishedDateTime: 2021-11-03T00:22:00Z
+    webUrl: "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/"
+    ampWebUrl: "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 159
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2021/11/NRP-Update-On-Face-Recognition-Technology_Thumbnail.jpg?w=1200"
+        width: 1200
+        height: 899
+        isCached: true
   - title: "Facebook Drops Facial Recognition to Tag People in Photos"
     excerpt: "Facebook Tuesday said it would stop using facial recognition technology to identify people in photos and videos and delete accompanying data on more than 1 billion people. The news marks the end of one of the largest known facial recognition systems."
     publishedDateTime: 2021-11-02T23:38:00Z
@@ -535,6 +551,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Facebook Will Shut Down Its Facial Recognition Program"
+    excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people."
+    publishedDateTime: 2021-11-03T13:43:00Z
+    webUrl: "https://www.valuewalk.com/facebook-will-shut-down-its-facial-recognition-program/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 41
+    images:
+      - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2021/07/Facebook_1625588551.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook will shut down face-recognition system, delete prints of 1 billion people"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people. “This change will represent one of the largest shifts in facial"
     publishedDateTime: 2021-11-02T17:37:00Z
@@ -630,12 +660,12 @@ related:
     quality: 24
   - title: "Facebook ending its system of facial IDs"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T07:29:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+    publishedDateTime: 2021-11-03T07:27:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
     quality: 24
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199814388_4D1facebook1103_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
@@ -679,6 +709,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 21
+  - title: "Facebook, citing societal concerns, plans to shut down facial recognition system"
+    excerpt: "Facebook only used its facial recognition capabilities on its own site and did not sell its software to third parties. Even so, the feature became a privacy and regulatory headache for the company."
+    publishedDateTime: 2021-11-03T13:33:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/03/nyt-facebook-facial-recognition-program.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
 
 secured: "sZyMs84DZt+P7Xgr+NPVpRBPcvyEU9KzAAFzND9yo7Ca/EPg4m6QiSLpS/yaTCu0hoprKwtiKNB2LsNakjyWF7w5I7w914N34vrJfvIgWpFovZncrJgOEKzFrBzFpAIxjJZZYB5lBut8pUAgVVBI4WWD9N6mHGbR3Ei25zKXKUcrnGtDNVqEVBAifBhq1B2w1g07n14L60zb5d6LTS+gHz4RfARZGb7VILuxeYa+lrY7nDiMqeyH+kSenFIhfjNa10zfjtD00RNAHYzEVRtm7ApV2VZpmiQMCTlfiM1C6ut/ZFYXP8nDFKn9a6lG8b0gJ6cUc5KLxBvyNVa/XwrdYNuMB3CKrHVH/MApGhEiTWQjiykNJtD+6Od5XH8lODdsqTvlMYdjdTVtutm51goJaPEURCQ7taSLPfr/mfhHicI0Zq9kqy0xgvZl2q3by5aCMKFaQlQN9AjRph0oF7m4cSYRQTuHCDTMAz1Q5enYGe7Nb0T+1qTRDlRwDbmpTPF2X6b/UvR0ePHr8gtS/EFqZQ==;42DVYr8NSRhrhPw2c+eHFQ=="
 ---

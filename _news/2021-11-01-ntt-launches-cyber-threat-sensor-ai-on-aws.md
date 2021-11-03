@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/21260-ntt-launche
 webUrl: "https://www.thefastmode.com/technology-solutions/21260-ntt-launches-cyber-threat-sensor-ai-on-aws"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Labor shortages outrank cyber threats as biggest concern for tech companies"
-    excerpt: "57% of tech executives responding to CNBC's Technology Executive Council survey said finding qualified employees is the biggest concern for their company right now. Respondents ranked it higher than supply chain issues and cyber security threats."
-    publishedDateTime: 2021-10-29T20:00:00Z
-    webUrl: "https://www.cnbc.com/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 170
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/103681763-GettyImages-532200478.jpg?v=1635369654"
-        width: 2000
-        height: 1334
-        isCached: true
   - title: "DISA Enlists AI to Fight Cyber Threats"
     excerpt: "In the near term, Defense Information Systems Agency officials plan to strategically employ artificial intelligence capabilities for defensive cyber operations. “First of all, the threat has never been higher."
     publishedDateTime: 2021-11-02T09:00:00Z

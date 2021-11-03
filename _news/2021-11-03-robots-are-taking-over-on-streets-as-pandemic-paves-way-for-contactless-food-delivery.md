@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Robots hit the streets as demand for food delivery grows"
-    excerpt: "Robot designs vary; some have four wheels and some have six, for example. But generally, they use cameras and sensors."
-    publishedDateTime: 2021-11-03T11:47:00Z
-    webUrl: "https://www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
-    ampWebUrl: "https://www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/amp/"
-    cdnAmpWebUrl: "https://www-rochesterfirst-com.cdn.ampproject.org/c/s/www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/amp/"
+  - title: "Robots Hit The Streets With Rising Food Delivery Demand"
+    excerpt: "Years back, it would appear an illusion to have machines perform human tasks like helping to deliver messages. It would"
+    publishedDateTime: 2021-11-03T12:55:00Z
+    webUrl: "https://techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/"
+    ampWebUrl: "https://techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/?amp=1"
     type: article
     provider:
-      name: WROC-TV
-      domain: rochesterfirst.com
+      name: techbooky.com
+      domain: techbooky.com
     quality: 59
     images:
-      - url: "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2021/11/AP21305694967862.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://techbooky.com/wp-content/uploads/2021/11/delivery-robots.jpeg"
+        width: 1024
+        height: 731
         isCached: true
   - title: "Do I tip the robot? Food delivery changes as demand grows amid the COVID pandemic"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."

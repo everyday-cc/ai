@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 924
         isCached: true
-  - title: "Global Machine Learning (ML) Intelligent Process Automation Market Business Intelligence Report and Strategic Insights By 2028"
-    excerpt: "Others have been further segmented into human resource management, incident resolution, and service orchestration. Machine learning (ML) intelligent process automation has also been segmented on the basis of vertical into banking, financial services ..."
-    publishedDateTime: 2021-10-29T20:48:00Z
-    webUrl: "https://chipdesignmag.com/global-machine-learning-ml-intelligent-process-automation-market-business-intelligence-report-and-strategic-insights-by-2028/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 8
 
 secured: "BO5RBmLx90QjxVZKI9ecIYsDRVHd1Zw9E/nWX1fzkIkPmz//wpO7l8ZCZfI+zpKOkQ4JCjnYgHdRkIhKtKUbU+Q0LXo6SlEls0VLLBPakNUwFzfWBnZ41Vg7LXcMwTYG75ydv96lMX/m9Ufeh2yyqrJ//KYXuQktzSimAoRuGzoYnwxnC7Jr4FxZa/IbYS/97PmvpjQK4YJRdMYc8qFzHGZJD1N2T92B/X8bNfrrBgYvhAMrK9n/gV3V7DobO5emWHhOfGpnoZyfUB7IzSpS0K+Ete2O+9nI6m6uS0bDGSXkg35qOpaS5/8NBpqkyCLEiEWtOvcFQAhdz+eP7okdJuFZwohFnZgMSoOX1s73n1vOzF15XKlhgyaFP4hpnE1KzGtIKG/QJrqQbT/RAcVB37+z4o1q1r5JmcqSVtsZIBIwCn8M4W0+n65LdfkTUDBbqe3FPjCvW29f63eiTIzft8XcJ1WeKQ+VMwgSl4UvgpSv0ggAt+8DVfrIFxWiKkiI96kwzpnDRWVYWTwSTXfnTg==;Pzv41yPNwP+Ntmaq8voCRw=="
 ---

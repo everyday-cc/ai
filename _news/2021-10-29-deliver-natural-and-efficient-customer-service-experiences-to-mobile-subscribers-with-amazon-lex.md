@@ -43,34 +43,6 @@ related:
         width: 961
         height: 630
         isCached: true
-  - title: "Build conversational experiences for auto insurance using Amazon Lex"
-    excerpt: "Auto insurance companies are focusing on digital innovations to meet customer needs. Digital-first engagements provide tailored coverage, transparent information, and seamless experiences. The shift to virtual channels for customer service that occurred during the pandemic is unlikely to revert to traditional"
-    publishedDateTime: 2021-10-29T19:04:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-auto-insurance-using-amazon-lex/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/1-6098-Architecture.jpg"
-        width: 800
-        height: 495
-        isCached: true
-  - title: "Automate the customer service experience for flight reservations using Amazon Lex"
-    excerpt: "As air travel starts to pick up in many parts of the world, digitization continues to transform the aviation industry. Airlines are working to reduce the number of touchpoints at the airport. Best practices have been implemented to minimize the number of physical interactions between employees and travelers."
-    publishedDateTime: 2021-10-29T19:43:03Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-the-customer-service-experience-for-flight-reservations-using-amazon-lex/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/1-6098B-Arch.jpg"
-        width: 800
-        height: 566
-        isCached: true
 
 secured: "9f5U4q0o6RbuZly8gykWZO1zoVt3suPzFHbZLBjzg+OksyHqZwVcAtznOFQRnD9ndNvRpHjc1R+cOwuf9DYfHPP1gBYOnSpwAjIi6ofezdCdJPsC6xStPb0PKqPYYx5Sxiv5Zhebp4hmln3DLeDe4Gwo/nZoJfsedopFctU67Hf4oofH+X1M7lf1zDf5yTO2CjtUaGw2NN17o4Tmnbf6wOM5x5+XW2OgnpNPy/BAHjGnfhomdQFP7CxBUOTQW3al+kymraLXPZiTbphV3Xl5BnPlujMWCaSF1wMSvCoHR+rfmkrwYBgTy9Woer2wkz+RFcwHOPSpJONTqkHBZV7TRDIvRaYRFRlimh9Pz2sfhzE=;jlwHdCMwlVtHFHFLGwQKmQ=="
 ---

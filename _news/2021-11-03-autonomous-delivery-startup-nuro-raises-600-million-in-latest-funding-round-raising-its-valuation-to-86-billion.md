@@ -7,7 +7,7 @@ originalUrl: "https://www.futurecar.com/4973/Autonomous-Delivery-Startup-Nuro-Ra
 webUrl: "https://www.futurecar.com/4973/Autonomous-Delivery-Startup-Nuro-Raises-$600-Million-in-Latest-Funding-Round-Raising-its-Valuation-to-$86-Billion"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driverless delivery company Nuro nabs $600M and partners with Google"
+    excerpt: "Autonomous vehicle company Nuro has raised $600 million from a slew of high-profile investors, including Tiger Global Management and Google."
+    publishedDateTime: 2021-11-02T20:00:00Z
+    webUrl: "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/"
+    ampWebUrl: "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 189
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/1_AXl7njkCgMx6M_n4ScSz8w-e1581007552137.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Self-driving delivery unicorn Nuro scores $600M, partners with Google"
     excerpt: "Nuro raises second megafunding in a year, and partners with #GoogleCloud to help its #selfdriving delivery vehicles. #SiliconValley #AI #autotech #startup #venturecapital #unicorn"
     publishedDateTime: 2021-11-02T15:56:00Z

@@ -187,28 +187,14 @@ related:
         height: 300
         isCached: true
   - title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
-    publishedDateTime: 2021-11-02T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
+    publishedDateTime: 2021-11-02T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
-  - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
-    excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
-    publishedDateTime: 2021-10-29T19:05:00Z
-    webUrl: "https://chipdesignmag.com/global-artificial-intelligence-for-edge-devices-market-2021-development-status-microsoft-qualcomm-intel-google/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 32
-    images:
-      - url: "https://i1.wp.com/blog.softmahal.com/wp-content/uploads/2020/01/enabling-intelligent-edge-devices-through-ai-camera-a-microsoft-azure-iot-starter-kit-featured-1280x720-1.jpg?fit=1280%2C720&ssl=1"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "BqXK8SkPycfZb5LNfE324VGLsPvSzk4VwKBGW8FcljHJEy62dBGAAu4tYL348i30MJI63zp39lYBwbj6cUUHSmfXkFdRRJE6N44gsHRzrad3u3QXD6G7aM4qGK09nxDPEFfy8o7oqp/0ZwwuEVlE0b08Sg17QPuBim6Wzura+5ljhdczpIsuMbg2z8ocoumKBxaApAwiHZQNzrQYDXKTAEUj/HVnIS8G7htmvx+zfZB5N5oQx7YMnYlSPQDIrNA/tGqZSNAY5nogUVd6PEPt3thNqp7J9GqwueDQc/Gk2B2F347EjJAMibPzX3e8nX5w/fiqObwSidHjFbiucc7WIGIkgjMo6K4sawpFobpRCd4=;AHk1TOU+j415KAki6thcgg=="
 ---

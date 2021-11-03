@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-16-get-the-25-course-for-25-web-development-mega-bundle.md",
+      "title": "Get the 25 Course for $25 Web Development Mega Bundle",
+      "excerpt": "Create a Vocal Recognition App by Using the Microsoft Cognitive Services Node.js & Express for Beginners Master the Basics of the JavaScript Runtime Node.js & Express Framework to Build Your Own ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
+      "originalUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/09/1631279063_sale_302105_primary_image_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T18:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay.md",
       "title": "HP Inc. Rolls Out New Management Services For The Hybrid World That’s Here To Stay",
       "excerpt": "Many Desktop as a Service (DaaS) popping up, including Microsoft recently announced ... On top of all these services, the direction of many notebooks is toward thin and light ACPCs; a good example ...",
@@ -1271,58 +1323,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-microsoft-grows-azure-space-australia-with-nokia-sa-govt-and-university-of-adelaide.md",
-      "title": "Microsoft grows Azure Space Australia with Nokia, SA govt and University of Adelaide",
-      "excerpt": "Microsoft's Azure cloud, Azure Edge, Azure Orbital, and emerging Azure Space, AI, and machine learning technologies, plus Nokia's 5G Digital Automation Cloud platform will be leveraged to build ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/07/c3bacc60-39aa-4bae-b0b8-02b219f987e2/resize/1200xauto/8670fd1bf10e22c9014e1c0252ab198d/azure-satellite-diagram-1000x563.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "publishedDateTime": "2021-09-09T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

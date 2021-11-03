@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/21265-ericsson-te
 webUrl: "https://www.thefastmode.com/technology-solutions/21265-ericsson-tests-new-safety-features-on-5g-self-driving-bus-with-partners"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ericsson revs safety trials for 5G self-driving bus project"
-    excerpt: "Ericsson and partners have marked new trials for safety features as part of a 5G self-driving bus project that kicked off in Sweden last year. The project, 5G Ride, is exploring how high-bandwidth and low latency features of 5G combined with remote ..."
-    publishedDateTime: 2021-10-29T20:30:00Z
-    webUrl: "https://www.fiercewireless.com/5g/ericsson-revs-safety-trials-for-5g-self-driving-bus-project"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 24
-    images:
-      - url: "https://qtxasset.com/fiercewireless/1635538858/Telia%20Ericsson%205G%20ride.png/Telia%20Ericsson%205G%20ride.png?VersionId=QXf_EEnFo_7k0nt2cqwty1S31lbNEbhi"
-        width: 5760
-        height: 3840
-        isCached: true
   - title: "Ericsson says 5G Ride trial brings driverless buses closer to public operation"
     excerpt: "Equipment vendor Ericsson said the '5G Ride' self-driving bus project has moved closer to full operations following a trial of remote digital monitoring and on-board safety near its headquarters in the Kista district of Stockholm."
     publishedDateTime: 2021-11-01T13:38:00Z

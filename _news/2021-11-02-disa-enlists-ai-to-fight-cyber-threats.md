@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Labor shortages outrank cyber threats as biggest concern for tech companies"
-    excerpt: "57% of tech executives responding to CNBC's Technology Executive Council survey said finding qualified employees is the biggest concern for their company right now. Respondents ranked it higher than supply chain issues and cyber security threats."
-    publishedDateTime: 2021-10-29T20:00:00Z
-    webUrl: "https://www.cnbc.com/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 170
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/103681763-GettyImages-532200478.jpg?v=1635369654"
-        width: 2000
-        height: 1334
-        isCached: true
   - title: "NTT Launches Cyber Threat Sensor AI on AWS"
     excerpt: "NTT has announced the launch of its Cyber Threat Sensor AI (CTS-AI) to ensure scalable security for client applications and workloads hosted on AWS"
     publishedDateTime: 2021-11-01T01:12:00Z

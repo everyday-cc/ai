@@ -2,21 +2,27 @@
 category: news
 title: "SecureAuth Acquires Acceptto to Redefine AI-driven MFA and Continuous Passwordless Authentication for the Workplace"
 excerpt: "SecureAuth, a leader in next generation identity and access management for the Global 2000, has acquired Acceptto, an emerging leader in passwordless authentication and behavioral modeling to infer whether a user is a threat before authentication,"
-publishedDateTime: 2021-11-03T11:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-secureauth-acquires-acceptto-redefine-ai-driven-mfa-continuous-/2021/11/03/9483374.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-secureauth-acquires-acceptto-redefine-ai-driven-mfa-continuous-/2021/11/03/9483374.htm"
+publishedDateTime: 2021-11-03T10:04:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-a6589b1fd94b475a8226dbb1e5889639"
+webUrl: "https://apnews.com/press-release/business-wire/technology-a6589b1fd94b475a8226dbb1e5889639"
 type: article
-quality: 0
-heat: 0
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "pjV3cgeRsY1HnXRTkJHDgXasdtlQCF+ZfSJzIHqnw07VyfIQcN4ynhz27tf4evIDitaglbMtooJsCsCzp3UEHqQIPNjUW0MfVMyioqkd68+zP/wXEIhU6OfqUJhr4WKxBaCOI46NSlHNT4q1/F8BTYWLgnk1JomXZtQD3y/hR3Q0lioobLlCnP1C4PrZsQDtrkT+vIwr1gH2LT1f6/MQzcDZSFBbJqrAvOvIrnT1EHscOD0rOzB4y9wBxgmmKdZYOgNYdlZMRcfTzcChAibE07Q5TOpXDIxdBHeUPyw9N8Ppvd3JmQSelVd+ku9y5yT+fQD56LWYNJAjjyYvmE/gXe3WNBeZDgxR44yX4x4jUuw=;NCGhcDRNz4n+f7Y0+euIGQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "0KI2+Yt4CRGfYotoIwyWyqZbNX7YybaUZvjKYlgGym0L8aKg3gM/hlYUBSPn6SbGP6daNZTWI2sDCDF1b5Eyf1bbGCHLgVj10d7cHEHEWM8BV5b17A3skPzxeNaa4imbTe1f8Cjy94PDJaFM4uh1EVHSU+eKGF9vSpgMAih4DH5tsNgUvYTwNH6SK4IFreA0FINb34JOnZTDjy3LJUHGvFDEzKS6Az7ryrx8W8PpqaQpY9KkHZZDPovvfCvEgYOPJlONrB497B8GhbDrfnaw9EL5e7Vfi4vAgoaSKJuqmdJxoOGj8kXNjVCHI8CLO8MW3wB1CDRmrc2Hs+/rJJi0IK04YTPHx0J2tJpjDW6/kLM=;iT8o2VNvMwLOTAKq4YmIyQ=="
 ---
 

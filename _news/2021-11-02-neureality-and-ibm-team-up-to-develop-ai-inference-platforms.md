@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-dev
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-develop-ai-inference-platforms/amp/"
 type: article
 quality: 89
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -39,7 +39,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 69
+    quality: 169
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618013cee0269118180aa325%2F0x0.jpg"
         width: 1200
@@ -58,6 +58,34 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2021/11/NeuReality-logo-11-21.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "IBM Research Creates New Benchmark For Measuring Common Sense In AI"
+    excerpt: "The paper was presented at ICML 2021 and is produced by researchers at the MIT-IBM Watson AI Lab as part of their work with DARPA."
+    publishedDateTime: 2021-11-02T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/ibm-research-creates-new-benchmark-for-measuring-common-sense-in-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/IBM-Research-Creates-New-Benchmark-For-Measuring-Common-Sense-In-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "IBM Partners With NeuReality To Develop AI Inference Platforms"
+    excerpt: "The platforms will be built for such sectors as manufacturing and smart cities to deploy computer vision, natural language processing."
+    publishedDateTime: 2021-11-03T13:38:00Z
+    webUrl: "https://analyticsindiamag.com/ibm-partners-with-neureality-to-develop-ai-inference-platforms/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/From-left-to-right-Dr.-Mukesh-Khare-IBM-with-Moshe-Tanach-NeuReality.-Photo-credit-NeuReality-e1635854823596.jpg"
+        width: 1536
+        height: 701
         isCached: true
   - title: "IBM and NeuReality team up to build the next generation of AI inference platforms"
     excerpt: "IBM (NYSE: IBM) and NeuReality, an Israeli AI systems and semiconductor company, have signed an agreement to develop the next generation of high-performance AI inference platforms that will deliver disruptive cost and power consumption improvements for deep learning use cases."

@@ -2,6 +2,248 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-09-21-carbon-lighthouse-fights-climate-change-with-data-and-machine-learning.md",
+      "title": "Carbon Lighthouse Fights Climate Change With Data And Machine Learning",
+      "excerpt": "With machine learning, organizations can monitor and report environmental impact on demand, efficiently manage data streams through AI, and reduce carbon emissions by closing the",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/09/21/carbon-lighthouse-fights-climate-change-with-data-and-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/09/21/carbon-lighthouse-fights-climate-change-with-data-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6149e56c5e54ad1919b031cd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/09/21/carbon-lighthouse-fights-climate-change-with-data-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/09/21/carbon-lighthouse-fights-climate-change-with-data-and-machine-learning/amp/",
+      "publishedDateTime": "2021-09-21T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-apple-reportedly-working-on-iphone-features-that-may-help-diagnose-depression.md",
+      "title": "Apple reportedly working on iPhone features that may help diagnose depression",
+      "excerpt": "The company is looking to identify signs of depression, autism and cognitive decline in iPhone user data, according to The Wall Street Journal. Apple is working with the University of California ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/apple-reportedly-working-on-depression-diagnosis-feature/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/apple-reportedly-working-on-depression-diagnosis-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/Mm7LdrUmNjnMFP4XSGflLCOufB8=/1200x630/2020/04/22/5c84cb84-75bd-4c05-9645-77dbdc6125c2/coronavirus-iphone-11-gooogle-pixel-3a-1218.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-reportedly-working-on-depression-diagnosis-feature/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-reportedly-working-on-depression-diagnosis-feature/",
+      "publishedDateTime": "2021-09-21T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-f-in-ethics-un-chief-grades-world-on-vaccine-rollout.md",
+      "title": "\"F In Ethics\": UN Chief Grades World On Vaccine Rollout",
+      "excerpt": "United Nations Secretary-General Antonio Guterres termed the inequitable distribution of COVID-19 vaccines as an \"obscenity\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827",
+      "originalUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-08/b5204l5o_antonio-guterresunchiefafp_625x300_16_August_21.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-09-21T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-how-ai-is-redefining-the-human-touch-in-fintech-industry.md",
+      "title": "How AI is redefining the ‘human touch’ in fintech industry",
+      "excerpt": "The key to successfully navigating commercial lending lies in leveraging AI to minimise time, effort and risk at the back-end, so that relationship managers can build stronger relationships with prosp",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/opinion/o50gd8/article36594522.ece/ALTERNATES/LANDSCAPE_615/bl22thinkAI",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/",
+      "publishedDateTime": "2021-09-21T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-project44-acquires-last-mile-delivery-startup-convey-for-255m.md",
+      "title": "Project44 acquires last-mile delivery startup Convey for $255M",
+      "excerpt": "Project44 has acquired last-mile delivery startup Convey for $255 million, marking the company's largest purchase to date.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/",
+      "originalUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Austrian_Post_-_Roller_cages_2-e1608654110915.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/amp/",
+      "publishedDateTime": "2021-09-21T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-this-company-is-making-ai-robots-to-help-farmers.md",
       "title": "This company is making AI robots to help farmers",
       "excerpt": "UK start-up Small Robot Company is bringing autonomous farming to life with robots that can identify and precisely kill weeds in cropland.",
@@ -917,248 +1159,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2028.md",
-      "title": "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2028",
-      "excerpt": "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2028-2021-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2028-2021-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-blackbirdai-grabs-10m-to-help-brands-counter-disinformation.md",
-      "title": "Blackbird.AI grabs $10M to help brands counter disinformation",
-      "excerpt": "New York-based Blackbird.AI has closed a $10 million Series A as it prepares to launched the next version of its disinformation intelligence platform this fall. The Series A is led by Dorilton Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/",
-      "originalUrl": "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/26400512912_b3ff16ccf0_k.jpg?w=1024",
-          "width": 1024,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/amp/",
-      "publishedDateTime": "2021-09-21T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate.md",
-      "title": "Hashtag Trending September 21- iOS 15; Facebook pushes back on WSJ allegations; AI and real estate",
-      "excerpt": "Facebook also claims that the research they have found does not demonstrate that the mental health issues are “widespread,” and that many of those issues are not “easy to address.” Artificial intelligence is taking over real estate – here’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/119551",
-      "originalUrl": "https://www.itbusiness.ca/news/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/119551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/119551?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/119551?amp=1",
-      "publishedDateTime": "2021-09-21T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-digital-freight-startup-transfix-going-public-in-spac-deal.md",
-      "title": "Digital Freight Startup Transfix Going Public in SPAC Deal",
-      "excerpt": "The blank-check merger would help Transfix, which competes with bigger rivals including Uber Freight, expand its business of connecting shippers with truckers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/digital-freight-startup-transfix-going-public-in-spac-deal-11632218400",
-      "originalUrl": "https://www.wsj.com/articles/digital-freight-startup-transfix-going-public-in-spac-deal-11632218400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-403599/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/digital-freight-startup-transfix-going-public-in-spac-deal-11632218400",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/digital-freight-startup-transfix-going-public-in-spac-deal-11632218400",
-      "publishedDateTime": "2021-09-21T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-cloud-natural-language-processing-market-is-going-to-boom-with-3m-company-apple-microsoft.md",
-      "title": "Cloud Natural Language Processing Market is Going to Boom with 3M Company, Apple, Microsoft",
-      "excerpt": "Keep yourself up-to-date with latest Global Cloud Natural Language Processing market trends to maintain a competitive edge by sizing up with open business opportunity in Cloud Natural Language ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102832045/Cloud-Natural-Language-Processing-Market-is-Going-to-Boom-with-3M-Company-Apple-Microsoft",
-      "originalUrl": "https://menafn.com/1102832045/Cloud-Natural-Language-Processing-Market-is-Going-to-Boom-with-3M-Company-Apple-Microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?661056",
-          "width": 376,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T22:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

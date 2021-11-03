@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Global Machine Learning (ML) Intelligent Process Automation Market Business Intelligence Report and Strategic Insights By 2028"
-    excerpt: "Others have been further segmented into human resource management, incident resolution, and service orchestration. Machine learning (ML) intelligent process automation has also been segmented on the basis of vertical into banking, financial services ..."
-    publishedDateTime: 2021-10-29T20:48:00Z
-    webUrl: "https://chipdesignmag.com/global-machine-learning-ml-intelligent-process-automation-market-business-intelligence-report-and-strategic-insights-by-2028/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 8
 
 secured: "bAa+nGYT0vcY9hhst3qpSEoyja39WKLXaIh69s3vXPpreSUV79PMMtx4MluSaL3ccFB3dBxfWOd/JAncWldFxSdmitBNpanSYjLc2xuSedqvTn0vd4BlC0vft5SXl+DgRMSS6yj0hQoMaHiweDejdFClZ2KEtxhwJ2JvNcsbV6c3ZWUWE9wTRuNDyR0x0fhZvkcKdAVIPeab3YynjQplL5YXwiIaN1ht1VY2Je0VeO6qca0uZx+ZhHsR2WKBjDHR6DvcmJghIfwhrIH4t+QwLqqrSt0ricUaoPXt4s/o7nVSACnTrwIAvi44ruANTyehDxKNiG7W9PKuGPBunr9siL7qGU/1RiZLXbiq+V16kO8=;W8LgDerBuEYi3WOq1682Kg=="
 ---

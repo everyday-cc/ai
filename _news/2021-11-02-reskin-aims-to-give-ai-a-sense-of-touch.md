@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/reskin-aims-to-give-ai-a-sense-of-touch-02
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/reskin-aims-to-give-ai-a-sense-of-touch-02697870/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1440
     height: 810
     isCached: true
+
+related:
+  - title: "Archive.ai aims to free marketers from their monotonous workflows"
+    excerpt: "Archive.ai founders believe the future of marketing will be a culture of “building with you” versus the “talking at you” approach they believe traditional digital marketing is doing now."
+    publishedDateTime: 2021-11-03T13:00:00Z
+    webUrl: "https://techcrunch.com/2021/11/03/archive-ai-aims-to-free-marketers-from-their-monotonous-workflows/"
+    ampWebUrl: "https://techcrunch.com/2021/11/03/archive-ai-aims-to-free-marketers-from-their-monotonous-workflows/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/archive-ai-aims-to-free-marketers-from-their-monotonous-workflows/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1222811180.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "OPjGm+MoGG61W3S4ldnk301E0cqmXGijA/sPDDz+qZP+XfPObAoZxyRS14zxfC8f7CZlkQ4CQ91JqYTYmpFhPL4K7GuByfl1CVwtxVL//Z/Tp19nOQDcO3Lx1HGPE7ss8tuYk27CKfJTAEJHSqJUJWYSTdzP+3HdwvSRbOU3t3rcdrciWz6cAbDMNjyoa+bMEF1Y3tnIj8qzVjLJ1YOHdy2EQ6Nyd2zwNG4g7JTiVPSuLYSfCNyqu4EHF0v9o7NWB461jUo8755RvXOk+1px3nwHvZQn5ovZz88FlNAXob/Cu107L3ZiKJ5fTjrlJGm86BcoJ8uojvRlEoi2Qj9QthXq55N76tEosxjlDX4MX5T0L7NsasjFSZIx8xOjwPOLDyqo6as/ZRRNmzO+7x1ETwIuR2H2J51gXrDcfXfNgI5vqa9Tdo8JoUF0IIInQId0zHahtzAbhYSN18LPmEyFk+91cjCSVQ8pqa45oMvRjOeK5PfqC2A+56lvxf60ESGoH+c8VnYnJHsZryERgSmH0w==;3aN6BlJwOUStTDTQTzt3yg=="
 ---

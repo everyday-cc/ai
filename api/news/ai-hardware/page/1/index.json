@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-03-even-as-china-cracks-down-on-tech-ai-companies-plan-ipos.md",
+      "title": "Even as China Cracks Down on Tech, AI Companies Plan IPOs",
+      "excerpt": "SenseTime and Megvii both include facial recognition technology among their offerings and do a lot of business with government agencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/",
+      "originalUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6181a0f2ee0e567bfb9b47b3/master/pass/Business-Chinese-AI-Firms-Avoid-Crackdown-455720268.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/amp",
+      "publishedDateTime": "2021-11-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-tencent-flags-progress-on-three-chips-in-development-investment-effort.md",
+      "title": "Tencent flags progress on three chips in development, investment effort",
+      "excerpt": "Chinese technology giant Tencent Holdings 0700.HK touted progress in semiconductor chip development and investment on Wednesday, offering a rare public glimpse of its R&D initiatives. Best known for computer games and social media app WeChat,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03",
+      "originalUrl": "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03?amp",
+      "publishedDateTime": "2021-11-02T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-artificial-intelligence-ai-chips-market-worldwide-industry-to-boost-in-the-period-of-2021-2026.md",
       "title": "Artificial intelligence (AI) Chips Market: Worldwide Industry to Boost in the Period of 2021-2026",
       "excerpt": "Chips Market Research Report presents the overview and in depth study of worldwide Artificial intelligence (AI) Chips Market for",
@@ -45,21 +131,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-02-neureality-and-ibm-team-up-to-develop-ai-inference-platforms.md",
-      "title": "NeuReality and IBM team up to develop AI inference platforms",
-      "excerpt": "NeuReality has signed an agreement with IBM to develop the next generation of high-performance AI inference platforms.",
+      "path": "_news/2021-11-02-ibm-research-and-neureality-announce-partnership-for-ai.md",
+      "title": "IBM Research and NeuReality Announce Partnership For AI",
+      "excerpt": "IBM (NYSE: IBM) and NeuReality, an Israeli AI systems and semiconductor company, have signed an agreement to develop the next generation of high-performance AI inference platforms that will deliver disruptive cost and power consumption improvements for deep learning use cases.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-develop-ai-inference-platforms/",
-      "originalUrl": "https://venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-develop-ai-inference-platforms/",
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/11/02/ibm-research-and-neureality-announce-partnership-for-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/11/02/ibm-research-and-neureality-announce-partnership-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 229,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/alpha-e1611232841973.jpg?w=1200&strip=all",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618013cee0269118180aa325%2F0x0.jpg",
           "width": 1200,
-          "height": 600,
+          "height": 801,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,16 +153,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-develop-ai-inference-platforms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/neureality-and-ibm-team-up-to-develop-ai-inference-platforms/amp/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-11-02T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1362,104 +1448,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker.md",
-      "title": "Accelerate computer vision training using GPU preprocessing with NVIDIA DALI on Amazon SageMaker",
-      "excerpt": "AWS customers are increasingly training and fine-tuning large computer vision (CV) models with hundreds of terabytes of data and millions of parameters. For example, advanced driver assistance systems (ADAS) train perception models to detect pedestrians, road signs, vehicles, traffic lights, and other",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/15/ML-4888-image001-1252x630.png",
-          "width": 1252,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T14:25:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-the-google-pixel-6-brings-a-new-chip-and-lofty-ai-powered-promises.md",
-      "title": "The Google Pixel 6 brings a new chip and lofty, AI-powered promises",
-      "excerpt": "The new Google Pixel 6 and Pixel 6 Pro smartphones rely on a custom-built chip to add clever and useful AI-driven features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/",
-      "originalUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2021/10/19/9-design-pro-details.jpg?auto=webp",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp",
-      "publishedDateTime": "2021-10-19T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

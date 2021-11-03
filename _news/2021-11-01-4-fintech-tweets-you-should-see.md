@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Intuit Accelerator Combines Fintech For Good With AI"
-    excerpt: "Fintech for good startup Bankuish is one of seven early-stage companies in the Intuit Prosperity Accelerator: AI. The five-month program is for fledgling fintech companies that target consumers and small businesses in North America and want to use AI to build better platforms."
-    publishedDateTime: 2021-10-31T15:16:00Z
-    webUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
+  - title: "Fintech Firm Betterfin Acquired by Cross River Bank"
+    excerpt: "Cross River Bank, a tech-driven financial services organization that offers core infrastructure and embedded financial solutions, has announced the acquisition of Betterfin, a transformative financial platform that enables small business owners to access various financial products and solutions,"
+    publishedDateTime: 2021-11-03T13:00:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617eab2488106dd6e6ec75db%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/04/50-Dollars-Grant-Money-Cash-Spend-Pay.jpeg"
+        width: 1198
+        height: 1280
         isCached: true
   - title: "Banc of California Considers Further Backing of FinTech Finexio"
     excerpt: "After participating in FinTech Finexio’s recent $8 million funding round, Banc of California is mulling the possibility of investing in the startup once again."
@@ -57,22 +57,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "China: WeiyangX Fintech Review"
-    excerpt: "The above is a weekly synopsis of the biggest stories on Fintech in China provided by WeiyangX, part of Tsinghua University, in partnership with Crowdfund Insider. WeiyangX is the most influential website focusing on Fintech in China."
-    publishedDateTime: 2021-10-31T22:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/10/182366-china-weiyangx-fintech-review-220/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182366-china-weiyangx-fintech-review-220/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182366-china-weiyangx-fintech-review-220/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Beijing-China-Man-on-Motorcycle.jpeg"
-        width: 1280
-        height: 1214
-        isCached: true
   - title: "China's JD.com tries to take finance out of its fintech arm"
     excerpt: "While Nasdaq-listed JD.com has long been widely seen as one of China's top online retailers, the growth path of its fintech arm has been anything but consistent. Even its name has changed several times."
     publishedDateTime: 2021-10-30T04:13:00Z
@@ -86,50 +70,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F1%252F4%252F0%252F37130414-3-eng-GB%252FCropped-1635481733AP_21236792916874.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Dubai hosts Fintech Surge and Future Blockchain Summit"
-    excerpt: "The 4th edition of Future Blockchain Summit and inaugural Fintech Surge proved their importance in charting the future for digital economies"
-    publishedDateTime: 2021-11-02T11:57:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/dubai-hosts-fintech-surge-and-future-blockchain-summit/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/11/Future-Blockchain-Summit-.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Imarticus Learning partners with BIMTECH to launch PGDMs in FinTech, AI & Data Science"
-    excerpt: "Imarticus Learning, a professional education firm, and Birla Institute of Management Technology (BIMTECH), a B-school with a rich heritage, have launched Postgraduate Diploma in Management (PGDM) courses with specialisations in FinTech and AI & Data Science."
-    publishedDateTime: 2021-11-02T18:54:00Z
-    webUrl: "https://www.dailyexcelsior.com/imarticus-learning-partners-with-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 31
-    images:
-      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2021/10/ICC-t20-worldcup-india.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Imarticus Learning partners with Birla Institute of Management Technology (BIMTECH) to launch PGDMs in FinTech, AI & Data Science"
-    excerpt: "The Post-Graduate Diploma Program will offer learners hands-on training and expert guidance, equipping them to tackle real business problems by applying their learnings Further adding to its extensive course portfolio,"
-    publishedDateTime: 2021-11-01T12:06:00Z
-    webUrl: "https://indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
-    ampWebUrl: "https://indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 30
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
         isCached: true
   - title: "Fintech challenges | Balance history"
     excerpt: "Balance history. The challenge in this project asks to solve a common problem in the banking sector: calculating the daily balances of a bank account from a k"
@@ -159,15 +99,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI Fintech for Buy Side Raises $47m"
-    excerpt: "TIFIN, a fintech platform using AI for wealth and asset management, announced the successful closing of $47 million in Series C funding. TIFIN uses data and investment driven intelligence to drive personalization for wealth management,"
-    publishedDateTime: 2021-11-02T05:00:00Z
-    webUrl: "https://www.tradersmagazine.com/news/ai-fintech-for-buy-side-raises-47m/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 19
   - title: "Here's which startup won Fintech Frontier's latest pitch contest"
     excerpt: "A Texas-based startup claimed the top prize in Fintech Frontier's latest pitch competition. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in Fintech Frontier's latest pitch competition as part of StartupCincy Week."
     publishedDateTime: 2021-11-01T15:25:00Z
@@ -186,6 +117,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
+  - title: "First-of-its-Kind Partnership Between Aviso Wealth and Mako Fintech Brings Digital Onboarding to Canadian Advisors and Investors"
+    excerpt: "Mako Fintech, a financial technology platform that automates wealth management processes, announced today it has been selected by Aviso Wealth as the preferred digital onboarding solution for its correspondent and institutional business,"
+    publishedDateTime: 2021-11-03T12:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=558379"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "76OLY1XK9uQeLQ5Bs1WU21PXoUWSDd8pX9yvWsEV6KyZYrzZv3aHNkGhQnlDCjbYQ+rN1rhbtpId5wQPpqeDVzmWDsDO0Mr83hf9ZjGayd3A9oDhH0fBOxCXNTVimCUzctjfAvmVvnKrXJSre0sF4DBFvu+k3CqZ1kdRk6mAKBtrmhhKKPXAUzbUu6wYq9kjltPm8BumW0X214dp8aWIMqyLD9/wGQshk237qKz4pER6rQkkO0I1atZyj83CFPoA7/swF38rfPZjBmdsk5xVkH+qlkZ4XWhQxilg04BSyMQv09QF3qj3OlLAv4QI9WNvUoCn6IVXKixFYc11kgcwKO2V5YpMnnaUFo7C+UvlZ9ivsjpzIq51Gk1onZK0+xeFLMcsSai+GwPgkqFgeDvN48zQCvkuPCpvVYoHDqpOopeXvnQa1vbYUdg1LzOFDziRKyG+KB/cAehuOofS3dT34si6kbjEJshIXRftVxKOZJgc3VnuHw24Dn1ROe0wNDI8IcGrVXuvlS17+kgA8EUkMg==;VG7OqaWkCJWCwo2zq3RTWw=="
 ---

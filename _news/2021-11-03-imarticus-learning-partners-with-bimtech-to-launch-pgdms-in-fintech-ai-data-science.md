@@ -7,7 +7,7 @@ originalUrl: "https://www.dailyexcelsior.com/imarticus-learning-partners-with-bi
 webUrl: "https://www.dailyexcelsior.com/imarticus-learning-partners-with-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -25,82 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intuit Accelerator Combines Fintech For Good With AI"
-    excerpt: "Fintech for good startup Bankuish is one of seven early-stage companies in the Intuit Prosperity Accelerator: AI. The five-month program is for fledgling fintech companies that target consumers and small businesses in North America and want to use AI to build better platforms."
-    publishedDateTime: 2021-10-31T15:16:00Z
-    webUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617eab2488106dd6e6ec75db%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Banc of California Considers Further Backing of FinTech Finexio"
-    excerpt: "After participating in FinTech Finexio’s recent $8 million funding round, Banc of California is mulling the possibility of investing in the startup once again."
-    publishedDateTime: 2021-11-01T16:19:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/banc-of-california-considers-further-backing-of-fintech-finexio/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/banc-of-california-considers-further-backing-of-fintech-finexio/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/banc-of-california-considers-further-backing-of-fintech-finexio/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1554323627-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "China: WeiyangX Fintech Review"
-    excerpt: "The above is a weekly synopsis of the biggest stories on Fintech in China provided by WeiyangX, part of Tsinghua University, in partnership with Crowdfund Insider. WeiyangX is the most influential website focusing on Fintech in China."
-    publishedDateTime: 2021-10-31T22:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/10/182366-china-weiyangx-fintech-review-220/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182366-china-weiyangx-fintech-review-220/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182366-china-weiyangx-fintech-review-220/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Beijing-China-Man-on-Motorcycle.jpeg"
-        width: 1280
-        height: 1214
-        isCached: true
-  - title: "China's JD.com tries to take finance out of its fintech arm"
-    excerpt: "While Nasdaq-listed JD.com has long been widely seen as one of China's top online retailers, the growth path of its fintech arm has been anything but consistent. Even its name has changed several times."
-    publishedDateTime: 2021-10-30T04:13:00Z
-    webUrl: "https://asia.nikkei.com/Spotlight/Caixin/China-s-JD.com-tries-to-take-finance-out-of-its-fintech-arm"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F1%252F4%252F0%252F37130414-3-eng-GB%252FCropped-1635481733AP_21236792916874.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Dubai hosts Fintech Surge and Future Blockchain Summit"
-    excerpt: "The 4th edition of Future Blockchain Summit and inaugural Fintech Surge proved their importance in charting the future for digital economies"
-    publishedDateTime: 2021-11-02T11:57:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/dubai-hosts-fintech-surge-and-future-blockchain-summit/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/11/Future-Blockchain-Summit-.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Imarticus Learning partners with Birla Institute of Management Technology (BIMTECH) to launch PGDMs in FinTech, AI & Data Science"
     excerpt: "The Post-Graduate Diploma Program will offer learners hands-on training and expert guidance, equipping them to tackle real business problems by applying their learnings Further adding to its extensive course portfolio,"
     publishedDateTime: 2021-11-01T12:06:00Z
@@ -117,75 +41,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "Fintech challenges | Balance history"
-    excerpt: "Balance history. The challenge in this project asks to solve a common problem in the banking sector: calculating the daily balances of a bank account from a k"
-    publishedDateTime: 2021-10-31T14:08:00Z
-    webUrl: "https://github.com/gbagolin/faireai-fintech-challenge"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 24
-    images:
-      - url: "https://opengraph.githubassets.com/fcbb02ef49b09b1c09f13e2b3cd22a3b0fb4f8b46b3566987d96cb7fda7e3d24/gbagolin/faireai-fintech-challenge"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "4 FinTech Tweets you should see!"
-    excerpt: "FinTech companies like any other are now embracing social media to tell their stories, engage with their consumers, and leverage influence."
-    publishedDateTime: 2021-11-01T09:03:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-tweets-you-should-see/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Funding-wealth-1.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Benzinga Unveils Global Fintech Awards Finalists"
-    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will hold its 7th annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
-    publishedDateTime: 2021-11-02T19:56:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-financial-technology-27f14bf1b36d15696deac6d631c9100c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AI Fintech for Buy Side Raises $47m"
-    excerpt: "TIFIN, a fintech platform using AI for wealth and asset management, announced the successful closing of $47 million in Series C funding. TIFIN uses data and investment driven intelligence to drive personalization for wealth management,"
-    publishedDateTime: 2021-11-02T05:00:00Z
-    webUrl: "https://www.tradersmagazine.com/news/ai-fintech-for-buy-side-raises-47m/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 19
-  - title: "Here's which startup won Fintech Frontier's latest pitch contest"
-    excerpt: "A Texas-based startup claimed the top prize in Fintech Frontier's latest pitch competition. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in Fintech Frontier's latest pitch competition as part of StartupCincy Week."
-    publishedDateTime: 2021-11-01T15:25:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2021/11/01/sigo-seguros-wins-fintech-frontier.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
-  - title: "Austin startup wins Fintech Frontier's latest pitch contest"
-    excerpt: "An Austin-based startup claimed the top prize in Fintech Frontier's latest pitch competition in Cincinnati. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in the pitch competition that was part of StartupCincy Week."
-    publishedDateTime: 2021-11-01T19:35:00Z
-    webUrl: "https://www.bizjournals.com/austin/news/2021/11/01/sigo-seguros-wins-fintech-frontier.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "xp4o+bdE7ajhWzC5dkdsN/i02v+LSdLcr/pzukueaoJbNoOO8ZTT7K6PYpsRx6AXzCD8C7eCRNJ9J0S1zMBK5dYJ4j6Yi+r61a0NP4tBKMupgoB9XPI0Bo784HZ2yF0+F+rTJQppycq+iSFTZxTaLZOr9rtCRSSTEWF+HLEbUeL0Dr7dkYzzz7/ZzK5IqPRAgyC64/hh0HAbWPbtBdSQo+wj3HoWIu6n6r5RT0hEuLGwlCGuXczQqb67xYVJRqKqfZ/xlsUg4jyXBL8wSRUF06LSP8m8TReUR2HiEFXBGIK7D5N71fPmlYkroQIXPVlhrgxJUVHj/VpTpTcxlJOMLWHxH2tt72JWAiT2xn7AP7NjnAqNRejwuhJibnh8pjVT66sceNU8atLn/+0s4SElb3xk81fil4jw3Fe681kIPEtR7Xh9K5K3xLGp9SeprvhiVHNFkWn7AXK4wMWkMkmBuhDtDvbk/atU1a7XyNJ1GvMDLjquHzrA5D1R1xehREUgbgzdWsJ39KuRXpLQXqYrmA==;ud3Xb3fIWStWQVHxVS1O+g=="
 ---

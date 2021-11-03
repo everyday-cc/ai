@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-03-waymo-self-driving-vehicles-will-begin-mapping-nycs-streets.md",
+      "title": "Waymo self-driving vehicles will begin mapping NYC’s streets",
+      "excerpt": "Waymo’s self-driving cars will make an appearance in New York City on Thursday, but don’t expect to hail a robotaxi in the Big Apple anytime soon — or ever. The company is a long way from testing or launching its autonomous vehicles commercially in the city.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/",
+      "originalUrl": "https://techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Untitled-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/amp/",
+      "publishedDateTime": "2021-11-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-driverless-delivery-company-nuro-nabs-600m-and-partners-with-google.md",
+      "title": "Driverless delivery company Nuro nabs $600M and partners with Google",
+      "excerpt": "Autonomous vehicle company Nuro has raised $600 million from a slew of high-profile investors, including Tiger Global Management and Google.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/",
+      "originalUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1_AXl7njkCgMx6M_n4ScSz8w-e1581007552137.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/amp/",
+      "publishedDateTime": "2021-11-02T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-tesla-forced-to-recall-11704-vehicles-over-full-self-driving-glitch.md",
       "title": "Tesla Forced to Recall 11,704 Vehicles Over Full Self-Driving Glitch",
       "excerpt": "The software communication issue resulted in some vehicles automatically engaging their brakes, which could lead to rear-end collisions.",
@@ -1324,101 +1428,6 @@
         "name": "brandequity.economictimes.indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-robotaxi-market-to-witness-astonishing-growth-by-2030.md",
-      "title": "Robotaxi Market to Witness Astonishing Growth by 2030",
-      "excerpt": "The Robotaxi Market is projected to grow from 617 units in 2021 to reach 1,445,822 units by 2030, at a CAGR of 136.8%. Automotive companies are investing huge amounts in research and testing of self-driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102999852/Robotaxi-Market-to-Witness-Astonishing-Growth-by-2030",
-      "originalUrl": "https://menafn.com/1102999852/Robotaxi-Market-to-Witness-Astonishing-Growth-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-10/19/G_a467dimage_story.jpeg",
-          "width": 650,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers.md",
-      "title": "Charles de Gaulle airport (timidly) tests autonomous EV luggage haulers",
-      "excerpt": "The terrestrial e-drones are supervised with an artificial intelligence-enhanced central server, which compliments the natural intelligence (or lapses thereof) of human monitors. The trial EV ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/",
-      "originalUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/3944365286_3831cc7eaa_b.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/amp/",
-      "publishedDateTime": "2021-10-19T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

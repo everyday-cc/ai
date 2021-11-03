@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Ericsson revs safety trials for 5G self-driving bus project"
-    excerpt: "Ericsson and partners have marked new trials for safety features as part of a 5G self-driving bus project that kicked off in Sweden last year. The project, 5G Ride, is exploring how high-bandwidth and low latency features of 5G combined with remote ..."
-    publishedDateTime: 2021-10-29T20:30:00Z
-    webUrl: "https://www.fiercewireless.com/5g/ericsson-revs-safety-trials-for-5g-self-driving-bus-project"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 24
-    images:
-      - url: "https://qtxasset.com/fiercewireless/1635538858/Telia%20Ericsson%205G%20ride.png/Telia%20Ericsson%205G%20ride.png?VersionId=QXf_EEnFo_7k0nt2cqwty1S31lbNEbhi"
-        width: 5760
-        height: 3840
-        isCached: true
   - title: "Ericsson Tests New Safety Features on 5G Self-driving Bus with Partners"
     excerpt: "The Ericsson-backed 5G Ride self-driving bus project has moved closer to full operations following a successful trial of remote digital"
     publishedDateTime: 2021-11-02T00:39:00Z

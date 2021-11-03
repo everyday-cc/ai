@@ -2,17 +2,17 @@
 category: news
 title: "Facebook ending its system of facial IDs"
 excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-publishedDateTime: 2021-11-03T07:29:00Z
-originalUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
-webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+publishedDateTime: 2021-11-03T07:27:00Z
+originalUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - Facebook AI
@@ -40,6 +40,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Meta says Facebook face recognition system will be shut down"
+    excerpt: "Social media behemoth Meta, formerly known as Facebook, has announced that it will shut down its face recognition system and delete more than a billion individual facial recognition templates. However,"
+    publishedDateTime: 2021-11-03T00:22:00Z
+    webUrl: "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/"
+    ampWebUrl: "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 159
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2021/11/NRP-Update-On-Face-Recognition-Technology_Thumbnail.jpg?w=1200"
+        width: 1200
+        height: 899
         isCached: true
   - title: "Facebook Drops Facial Recognition to Tag People in Photos"
     excerpt: "Facebook Tuesday said it would stop using facial recognition technology to identify people in photos and videos and delete accompanying data on more than 1 billion people. The news marks the end of one of the largest known facial recognition systems."
@@ -545,6 +561,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Facebook Will Shut Down Its Facial Recognition Program"
+    excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people."
+    publishedDateTime: 2021-11-03T13:43:00Z
+    webUrl: "https://www.valuewalk.com/facebook-will-shut-down-its-facial-recognition-program/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 41
+    images:
+      - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2021/07/Facebook_1625588551.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook will shut down face-recognition system, delete prints of 1 billion people"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people. “This change will represent one of the largest shifts in facial"
     publishedDateTime: 2021-11-02T17:37:00Z
@@ -675,7 +705,16 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 21
+  - title: "Facebook, citing societal concerns, plans to shut down facial recognition system"
+    excerpt: "Facebook only used its facial recognition capabilities on its own site and did not sell its software to third parties. Even so, the feature became a privacy and regulatory headache for the company."
+    publishedDateTime: 2021-11-03T13:33:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/03/nyt-facebook-facial-recognition-program.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
 
-secured: "OQeQZfTDcBAod+/BpCZpDBO4TEziKEkCTaqFPbFZtj6nYgfhSHAnpgPlxhP2/5CGWjphbl4keX2gFVkaXfYB09qvqZrqmL4wS7IZEzw3f19wRUYHJQDtOwZ/qhGkqSUswrpDi9u+/hBOgGKPHERZWf3rDV0ljGwSHP+zM86UMItdoY3/eVc9kZ9DvI2pof6Lv/au9G6YnB6S4Yl2mibz+zqGIdCQ25xWu3+Bc1G2C6r/yq6nOu8i3ZD1pPsejGdVLQgjV/dtHZ6lwu970iF1KjDzf4BJPqwyS8Q6iEqV1HvEjqea7+lh7JKiLPpntBWroD8FVVuFpS5k1hcXlxsrj8vahSC5FNC0cvVmEVdf4N4=;RC3hMJybvO4H/gZe+26Amg=="
+secured: "sAxf82huI73AnTKRSE2eAyJNmbkDMC5g24Z9qD0+7UVinhutEOxzVEEXwqdlm9yEamD66/SDPbfI0VE1OjrRxVOTbkO5hUxKMmi9yBt+L3QNQbMkwpSPIbVtNk0g4hyxwBDjo+ND2GhHpBP9GMkaS/UqPAJBYyt7BUeYrp9hOp6FGBkqfWFdmdiIunwFgtbLLaxC8c5XuAf52K3QJF8Jdxg+GR/xBWFqHy2ZFhfhA6v9xEJetlMSyE+z5ZVVVSpPj2KeqN12N2L1qehjml6o6g4j351Q52TtXIh819uENg8QgpNJkHD/kcfaTvnyb5BM3GDtvw1gOKwrAt7AAUXWGAC2KRtW1CUh+defwFIfB0U=;LxgJAEM2v6ubIp2UaP4AEQ=="
 ---
 

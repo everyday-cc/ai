@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/clearview-ai-slammed-for-br
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://live-production.wcms.abc-cdn.net.au/e4042c37a61d5b971733590b729d1e6c?impolicy=wcms_crop_resize&cropH=447&cropW=671&xPos=0&yPos=125&width=862&height=575"
         width: 671
         height: 447
-        isCached: true
-  - title: "Clearview AI’s Facial Recognition Platform Achieves Superior Accuracy and Reliability Across All Demographics in NIST Testing"
-    excerpt: "Clearview’s algorithm ranks No. 1 in the U.S. in all categories as verified by National Institute of Standards & Technology (NIST) Facial Recognition Vendor Test (FRVT) ."
-    publishedDateTime: 2021-10-29T21:00:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/press-release/21244571/clearview-ai-inc-clearview-ais-facial-recognition-platform-achieves-superior-accuracy-and-reliability-across-all-demographics-in-nist-testing"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 27
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/10/clearview.617c5f6d12cec.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Clearview AI’s Facial Recognition Platform Achieves Superior Accuracy and Reliability Across All Demographics in NIST Testing"
     excerpt: "Clearview AI’s algorithm ranks No. 1 in the U.S. in all categories as verified by National Institute of Standards & Technology (NIST) Facial Recognition Vendor Test (FRVT)NEW YORK--(BUSINESS WIRE)--Clearview AI,"

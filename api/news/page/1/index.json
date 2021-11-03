@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-03-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
-      "title": "Robots hit the streets as demand for food delivery grows",
-      "excerpt": "Robot designs vary; some have four wheels and some have six, for example. But generally, they use cameras and sensors.",
+      "path": "_news/2021-11-03-oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.md",
+      "title": "Oracle bolsters cloud infrastructure with suite of AI tools",
+      "excerpt": "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ...",
       "sourceUrl": null,
-      "webUrl": "https://www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
-      "originalUrl": "https://www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
+      "webUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html",
+      "originalUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2021/11/AP21305694967862.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
+          "url": "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 467,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,161 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/amp/",
-      "cdnAmpWebUrl": "https://www-rochesterfirst-com.cdn.ampproject.org/c/s/www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/amp/",
-      "publishedDateTime": "2021-11-03T04:47:00-07:00",
+      "ampWebUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html",
+      "publishedDateTime": "2021-11-03T06:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WROC-TV",
-        "domain": "rochesterfirst.com",
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-fintech-firm-betterfin-acquired-by-cross-river-bank.md",
+      "title": "Fintech Firm Betterfin Acquired by Cross River Bank",
+      "excerpt": "Cross River Bank, a tech-driven financial services organization that offers core infrastructure and embedded financial solutions, has announced the acquisition of Betterfin, a transformative financial platform that enables small business owners to access various financial products and solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/04/50-Dollars-Grant-Money-Cash-Spend-Pay.jpeg",
+          "width": 1198,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/amp/",
+      "publishedDateTime": "2021-11-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-waymo-self-driving-vehicles-will-begin-mapping-nycs-streets.md",
+      "title": "Waymo self-driving vehicles will begin mapping NYC’s streets",
+      "excerpt": "Waymo’s self-driving cars will make an appearance in New York City on Thursday, but don’t expect to hail a robotaxi in the Big Apple anytime soon — or ever. The company is a long way from testing or launching its autonomous vehicles commercially in the city.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/",
+      "originalUrl": "https://techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Untitled-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/amp/",
+      "publishedDateTime": "2021-11-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-robots-hit-the-streets-with-rising-food-delivery-demand.md",
+      "title": "Robots Hit The Streets With Rising Food Delivery Demand",
+      "excerpt": "Years back, it would appear an illusion to have machines perform human tasks like helping to deliver messages. It would",
+      "sourceUrl": null,
+      "webUrl": "https://techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/",
+      "originalUrl": "https://techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbooky.com/wp-content/uploads/2021/11/delivery-robots.jpeg",
+          "width": 1024,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/?amp=1",
+      "publishedDateTime": "2021-11-03T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -105,7 +253,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -144,6 +292,110 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-even-as-china-cracks-down-on-tech-ai-companies-plan-ipos.md",
+      "title": "Even as China Cracks Down on Tech, AI Companies Plan IPOs",
+      "excerpt": "SenseTime and Megvii both include facial recognition technology among their offerings and do a lot of business with government agencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/",
+      "originalUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6181a0f2ee0e567bfb9b47b3/master/pass/Business-Chinese-AI-Firms-Avoid-Crackdown-455720268.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/amp",
+      "publishedDateTime": "2021-11-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-alibabas-joe-tsai-says-data-artificial-intelligence-key-skills-for-fintech-firms-other-companies.md",
+      "title": "Alibaba’s Joe Tsai says data, artificial intelligence key skills for fintech firms, other companies",
+      "excerpt": "Artificial intelligence is helping fintech companies better understand their risks, according to Alibaba executive vice-chairman Joseph Tsai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/03/da0ca59e-3c78-11ec-a1b3-e785d5c8830c_image_hires_185301.jpg?itok=i7DFJPUh&v=1635936790",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms",
+      "publishedDateTime": "2021-11-03T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -199,7 +451,7 @@
       "originalUrl": "https://www.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -232,6 +484,40 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-tencent-flags-progress-on-three-chips-in-development-investment-effort.md",
+      "title": "Tencent flags progress on three chips in development, investment effort",
+      "excerpt": "Chinese technology giant Tencent Holdings 0700.HK touted progress in semiconductor chip development and investment on Wednesday, offering a rare public glimpse of its R&D initiatives. Best known for computer games and social media app WeChat,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03",
+      "originalUrl": "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03?amp",
+      "publishedDateTime": "2021-11-02T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -294,7 +580,7 @@
       "originalUrl": "https://www.zdnet.com/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -615,6 +901,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-03-driverless-delivery-company-nuro-nabs-600m-and-partners-with-google.md",
+      "title": "Driverless delivery company Nuro nabs $600M and partners with Google",
+      "excerpt": "Autonomous vehicle company Nuro has raised $600 million from a slew of high-profile investors, including Tiger Global Management and Google.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/",
+      "originalUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1_AXl7njkCgMx6M_n4ScSz8w-e1581007552137.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/amp/",
+      "publishedDateTime": "2021-11-02T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-trust-the-ai-you-decide.md",
       "title": "Trust The AI? You Decide",
       "excerpt": "I wrote about fatal flaws in algorithms that were developed to mitigate the COVID-19 pandemic. Now comes a flurry of articles on an algorithm developed by Epic to provide an early warning tool for sepsis.",
@@ -864,362 +1202,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score.md",
-      "title": "XPeng launches ‘Smart Driving Points’ beta, eerily similar to Tesla’s ‘Safety Score’",
-      "excerpt": "XPeng will implement a 'Smart Driving Points' scoring system very similar to Tesla that ensures drivers don't abuse its self-driving tech.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/",
-      "originalUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/11/XPeng-Smart-Driving-Points.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/amp/",
-      "publishedDateTime": "2021-11-02T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-changing-the-world-with-3d-data.md",
-      "title": "Changing the world with 3D data",
-      "excerpt": "Learn more how 3D data and ToF 3D image sensors are impacting a wide range of applications including retail, health, sports, and automotive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/",
-      "originalUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-605695789.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/changing-the-world-with-3d-data/amp/",
-      "publishedDateTime": "2021-11-02T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-west-lafayette-facial-recognition-ban-remains-in-ordinance.md",
-      "title": "West Lafayette facial recognition ban remains in ordinance",
-      "excerpt": "A civil and constructive debate over West Lafayette's ban on facial recognition software occurred Monday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
-      "originalUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.field59.com/WLFI/825fb5f80dfde4cbffab5cb33e3ee0564f984088.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.wlfi.com/templates/AMP?contentID=575660031",
-      "cdnAmpWebUrl": "https://www-wlfi-com.cdn.ampproject.org/c/www.wlfi.com/templates/AMP?contentID=575660031",
-      "publishedDateTime": "2021-11-02T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLFI",
-        "domain": "wlfi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-new-azure-openai-service-combines-access-to-powerful-gpt-3-language-models-with-azures-enterprise-capabilities.md",
-      "title": "New Azure OpenAI Service combines access to powerful GPT-3 language models with Azure’s enterprise capabilities",
-      "excerpt": "The post New Azure OpenAI Service combines access to powerful GPT-3 language models with Azure’s enterprise capabilities appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/new-azure-openai-service/",
-      "originalUrl": "https://blogs.microsoft.com/ai/new-azure-openai-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/11/OpenAI-Still-4-1200x630-1-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T08:00:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language.md",
-      "title": "New AI products from Microsoft include Context IQ and Azure Cognitive Services for Language",
-      "excerpt": "Microsoft detailed new AI innovations across its services at Ignite 2021, including Context IQ and Azure Cognitive Services for Language.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
-      "originalUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 256,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/",
-      "publishedDateTime": "2021-11-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview.md",
-      "title": "SQL Server 2022 is the \"most cloud-connected\" release yet, now in preview",
-      "excerpt": "Microsoft has released a preview for SQL Server 2022, calling it its \"most cloud-connected\" release yet. Improvements on Azure include the introduction of Chaos Studio and OpenAI Service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/",
-      "originalUrl": "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2016/05/sql-server_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/",
-      "publishedDateTime": "2021-11-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-why-you-should-make-artificial-intelligence-part-of-your-digital-strategy.md",
-      "title": "Why You Should Make Artificial Intelligence Part Of Your Digital Strategy",
-      "excerpt": "AI is being used in many ways today to make our lives better. It's assisting us with complex tasks that we can't do by ourselves, creating a symbiosis between humans and machines that allows both to achieve more than they can alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-should-make-artificial-intelligence-part-of-your-digital-strategy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-should-make-artificial-intelligence-part-of-your-digital-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b34bfb6bd8aa1effe59ed%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-should-make-artificial-intelligence-part-of-your-digital-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-should-make-artificial-intelligence-part-of-your-digital-strategy/amp/",
-      "publishedDateTime": "2021-11-02T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

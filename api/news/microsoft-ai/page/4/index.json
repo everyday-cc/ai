@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-30-ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari.md",
+      "title": "MS cloud is helping cos innovate, reimagine biz: Anant Maheshwari",
+      "excerpt": "For example, in e-commerce, Myntra scaled up to meet demand spikes during the pandemic and used Azure Machine Learning to understand customer needs better. We have a huge opportunity to position ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari-11632937289933.html",
+      "originalUrl": "https://www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari-11632937289933.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/09/29/600x338/Anant_1632937406939_1632937413502.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari/amp-11632937289933.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari/amp-11632937289933.html",
+      "publishedDateTime": "2021-09-29T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately.md",
       "title": "AI-Powered Tool To Predict Cardiac Risk In Indians More Accurately",
       "excerpt": "An Artificial Intelligence-powered tool to more accurately predict heart disease risk among Indians and recommend modifiable changes to prevent heart attacks has been launched by Apollo Hospitals in partnership with Microsoft.",
@@ -1278,58 +1321,6 @@
         "name": "pymnts.com",
         "domain": "pymnts.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-get-the-25-course-for-25-web-development-mega-bundle.md",
-      "title": "Get the 25 Course for $25 Web Development Mega Bundle",
-      "excerpt": "Create a Vocal Recognition App by Using the Microsoft Cognitive Services Node.js & Express for Beginners Master the Basics of the JavaScript Runtime Node.js & Express Framework to Build Your Own ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
-      "originalUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/09/1631279063_sale_302105_primary_image_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T18:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

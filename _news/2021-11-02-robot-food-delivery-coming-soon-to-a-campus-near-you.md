@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-s
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38e40a5e-bee5-4131-86c8-2181899036b0/6c525105-2878-4218-a8f2-c3c36cbaa94d/1280x720/match/image.jpg?pubId=854081161001"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Robots hit the streets as demand for food delivery grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-03T13:12:00Z
+    webUrl: "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    ampWebUrl: "https://www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Little Robots Like These Are Fulfilling More Food Orders as Demand for Delivery Grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."

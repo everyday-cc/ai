@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-conversational
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-retail-order-management-using-amazon-lex/"
 type: article
 quality: 101
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Build conversational experiences for auto insurance using Amazon Lex"
-    excerpt: "Auto insurance companies are focusing on digital innovations to meet customer needs. Digital-first engagements provide tailored coverage, transparent information, and seamless experiences. The shift to virtual channels for customer service that occurred during the pandemic is unlikely to revert to traditional"
-    publishedDateTime: 2021-10-29T19:04:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-auto-insurance-using-amazon-lex/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/1-6098-Architecture.jpg"
-        width: 800
-        height: 495
-        isCached: true
-  - title: "Automate the customer service experience for flight reservations using Amazon Lex"
-    excerpt: "As air travel starts to pick up in many parts of the world, digitization continues to transform the aviation industry. Airlines are working to reduce the number of touchpoints at the airport. Best practices have been implemented to minimize the number of physical interactions between employees and travelers."
-    publishedDateTime: 2021-10-29T19:43:03Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-the-customer-service-experience-for-flight-reservations-using-amazon-lex/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/1-6098B-Arch.jpg"
-        width: 800
-        height: 566
-        isCached: true
   - title: "Deliver natural and efficient customer service experiences to mobile subscribers with Amazon Lex"
     excerpt: "Mobile service providers manage a high volume of customer service calls daily. Rapidly evolving network technology and device innovations are shaping customer expectations. Delighting callers with a quick interaction is core to a successful customer experience strategy. Mobile subscribers contact customer"
     publishedDateTime: 2021-10-29T22:14:00Z

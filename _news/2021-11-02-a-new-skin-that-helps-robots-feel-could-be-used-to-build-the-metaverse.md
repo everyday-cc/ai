@@ -43,20 +43,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Metaverse Here We Come: Why This Matterport Analyst Is Bullish As Facebook Rebrands"
-    excerpt: "The partnership was for creating the largest-ever dataset of 3D indoor spaces via Facebook AI Research. “We believe this was the first step towards a much broader Facebook and Matterport ..."
-    publishedDateTime: 2021-10-29T20:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/metaverse-here-we-come-why-this-matterport-analyst-is-bullish-as-facebook-rebrands-1030916419"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/artificial-intelligence-2167835_1920_36.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Facebook's metaverse is 'not necessarily the best thing for human society'"
     excerpt: "A former Google CEO has expressed concern that Facebook's Metaverse plans could be a very dangerous thing to society."
     publishedDateTime: 2021-11-02T09:41:00Z
