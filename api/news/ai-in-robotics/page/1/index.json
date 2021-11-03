@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-03-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
+      "title": "Robots hit the streets as demand for food delivery grows",
+      "excerpt": "Robot designs vary; some have four wheels and some have six, for example. But generally, they use cameras and sensors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
+      "originalUrl": "https://www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2021/11/AP21305694967862.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/amp/",
+      "cdnAmpWebUrl": "https://www-rochesterfirst-com.cdn.ampproject.org/c/s/www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/amp/",
+      "publishedDateTime": "2021-11-03T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WROC-TV",
+        "domain": "rochesterfirst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-3-ways-robots-won-in-2021.md",
+      "title": "3 ways robots won in 2021",
+      "excerpt": "For all its ups and downs, 2021 has been a phenomenally important year for automation. Robots had a big year. Amid uncertainties related to the pandemic, chronic labor shortages, supply chain catastrophes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
+      "originalUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7e09bb766f67616acc2732d695a17f0ff180c967/2021/11/01/65cc6183-2683-4c96-b7d9-dda44927a628/ubtech-walker.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 923,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
+      "publishedDateTime": "2021-11-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-uga-expert-discusses-robots-ai.md",
       "title": "UGA expert discusses robots, AI",
       "excerpt": "While AI in the home can help order groceries, AI on the battlefield offers a much riskier set of circumstances — team cohesion and trust can be a matter of life and death. “In the field for the Army,",
@@ -89,49 +184,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-02-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
-      "title": "Robots hit the streets as demand for food delivery grows",
-      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "originalUrl": "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "cdnAmpWebUrl": "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "publishedDateTime": "2021-11-02T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "My San Antonio",
-        "domain": "mysanantonio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-02-why-you-should-make-artificial-intelligence-part-of-your-digital-strategy.md",
       "title": "Why You Should Make Artificial Intelligence Part Of Your Digital Strategy",
       "excerpt": "AI is being used in many ways today to make our lives better. It's assisting us with complex tasks that we can't do by ourselves, creating a symbiosis between humans and machines that allows both to achieve more than they can alone.",
@@ -184,21 +236,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-02-works-well-with-robots-the-way-robotsai-and-humans-interact.md",
-      "title": "Works Well With Robots? The Way Robots/AI and Humans Interact",
-      "excerpt": "Blame it on HAL 9000, Clippy’s constant cheerful interruptions, or any navigational system leading delivery drivers to dead-end destinations. In the workspace, people and robots don’t always get along.",
+      "path": "_news/2021-11-02-robot-food-delivery-coming-soon-to-a-campus-near-you.md",
+      "title": "Robot food delivery, coming soon to a campus near you",
+      "excerpt": "Robots navigate the Bowling Green State University campus in Bowling Green, Ohio on Thursday, Oct. 13, 2021. Robot food delivery is no longer the stuff of science fiction. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
       "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/",
-      "originalUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/",
+      "webUrl": "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/",
+      "originalUrl": "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://scitechdaily.com/images/Human-Robot-Interaction-Cooperation-777x518.jpg",
-          "width": 777,
-          "height": 518,
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2021/11/Starship_Robot_AP_Asset_ID_19957182.jpg",
+          "width": 640,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -206,13 +258,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/",
-      "publishedDateTime": "2021-11-01T10:03:00-07:00",
+      "ampWebUrl": "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1",
+      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1",
+      "publishedDateTime": "2021-11-02T04:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -744,17 +796,17 @@
       "title": "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301410858.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301410858.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
-          "width": 669,
-          "height": 229,
+          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
+          "width": 666,
+          "height": 350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -764,11 +816,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T07:00:00-07:00",
+      "publishedDateTime": "2021-10-28T06:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1325,50 +1377,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-artificial-intelligence-the-enemy-and-the-solution.md",
-      "title": "Artificial Intelligence: The Enemy and The Solution",
-      "excerpt": "How do we prevent AI from being used as a tool for cyberattacks? We need to come up with ways to keep AI under control and stop hackers from manipulating automated computer systems and cause them to take actions they were never intended to take.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/",
-      "originalUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/10/artificial-intelligence-the-enemy-and-the-solution_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/",
-      "publishedDateTime": "2021-10-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

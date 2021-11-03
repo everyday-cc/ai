@@ -2,17 +2,17 @@
 category: news
 title: "Facebook ending its system of facial IDs"
 excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-publishedDateTime: 2021-11-03T07:27:00Z
-originalUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
-webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+publishedDateTime: 2021-11-03T07:29:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Facebook AI
@@ -652,6 +652,20 @@ related:
         width: 715
         height: 404
         isCached: true
+  - title: "Why is Facebook/Meta making touch-sensitive electronic skin?"
+    excerpt: "Facebook, now rebranded as Meta, teamed up with Carnegie Mellon University to develop ReSkin, a touch-sensitive electronic skin set to advance the use of touch in AI and robotics. Carnegie Mellon University (CMU) and Meta AI (formerly Facebook AI) claim the new tactile sensing skin will increase the sense of touch in robotics,"
+    publishedDateTime: 2021-11-03T10:59:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/why-is-facebookmeta-making-touchsensitive-electronic-skin"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 24
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1635936971/widgetdocs/Meta_AI_wve0h5.jpg"
+        width: 750
+        height: 546
+        isCached: true
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."
     publishedDateTime: 2021-11-02T21:27:00Z
@@ -662,6 +676,6 @@ related:
       domain: theaustralian.com.au
     quality: 21
 
-secured: "Hv48BxST7ZR2M6z3b07ZPlDjhSdpnOIMlLZ7xcJkpodwVZpao/493MARv3nGunV80yEH7Az92eDOs01MWjd1V0//WDl4NCq6wK1EG2tsT39CGQw3ju/kVjzdkWSTbnIncq7iMoqEwQphMh/Kd+M5XceNhrTInQ63UDt9KR1P4f62F1AzHBrThDKVNxO+DB4G7eK5/QFq/hwnvwD7OQSMftFsmvYfeM354Trs83CpKp/ISmaMFE8Zr/hzUrfaTYFYtv/TUZt+Su0Z1uE0paGbDhIjXemnRB4cwcMrzXJl7Cc2zwfOpSc5Z+PNh3ptWA/sodm6VWskuIh8aLdLBXR70BfMQvNIog6BUlVtxJaNwyABHYZczXyKc8jSxW6POmLyEoxnen+djAX/QdIpBmuTS2CG8wU4uVs2PEheRSW44QeBuvROJkVggGCO/8fhsCwnuU6E5j1sSNzpotoBeWHAFyoTqoBToJaoCUAKzou4vOYbJYaphMcxtctlV8Di0DJ7CUjUb3X2LCnyapdi8yfv8A==;5aBjKwgnDRpkCN1juKDpUg=="
+secured: "OQeQZfTDcBAod+/BpCZpDBO4TEziKEkCTaqFPbFZtj6nYgfhSHAnpgPlxhP2/5CGWjphbl4keX2gFVkaXfYB09qvqZrqmL4wS7IZEzw3f19wRUYHJQDtOwZ/qhGkqSUswrpDi9u+/hBOgGKPHERZWf3rDV0ljGwSHP+zM86UMItdoY3/eVc9kZ9DvI2pof6Lv/au9G6YnB6S4Yl2mibz+zqGIdCQ25xWu3+Bc1G2C6r/yq6nOu8i3ZD1pPsejGdVLQgjV/dtHZ6lwu970iF1KjDzf4BJPqwyS8Q6iEqV1HvEjqea7+lh7JKiLPpntBWroD8FVVuFpS5k1hcXlxsrj8vahSC5FNC0cvVmEVdf4N4=;RC3hMJybvO4H/gZe+26Amg=="
 ---
 

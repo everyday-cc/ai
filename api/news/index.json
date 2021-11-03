@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-03-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
+      "title": "Robots hit the streets as demand for food delivery grows",
+      "excerpt": "Robot designs vary; some have four wheels and some have six, for example. But generally, they use cameras and sensors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
+      "originalUrl": "https://www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2021/11/AP21305694967862.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/amp/",
+      "cdnAmpWebUrl": "https://www-rochesterfirst-com.cdn.ampproject.org/c/s/www.rochesterfirst.com/news/tech-news/robots-hit-the-streets-as-demand-for-food-delivery-grows/amp/",
+      "publishedDateTime": "2021-11-03T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WROC-TV",
+        "domain": "rochesterfirst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-3-ways-robots-won-in-2021.md",
+      "title": "3 ways robots won in 2021",
+      "excerpt": "For all its ups and downs, 2021 has been a phenomenally important year for automation. Robots had a big year. Amid uncertainties related to the pandemic, chronic labor shortages, supply chain catastrophes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
+      "originalUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7e09bb766f67616acc2732d695a17f0ff180c967/2021/11/01/65cc6183-2683-4c96-b7d9-dda44927a628/ubtech-walker.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 923,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
+      "publishedDateTime": "2021-11-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-enterprise-ai-progressing-toward-the-future-of-work.md",
+      "title": "Enterprise AI: Progressing Toward The Future Of Work",
+      "excerpt": "The question is, what are the chances of an enterprise leading its industry in the future? The AI revolution has given rise to exciting development potentials and could be a real game-changer for the way we live.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61814ed70e1ae168d212c0bd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/amp/",
+      "publishedDateTime": "2021-11-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-uga-expert-discusses-robots-ai.md",
       "title": "UGA expert discusses robots, AI",
       "excerpt": "While AI in the home can help order groceries, AI on the battlefield offers a much riskier set of circumstances — team cohesion and trust can be a matter of life and death. “In the field for the Army,",
@@ -243,7 +389,7 @@
       "originalUrl": "https://www.reportsgo.com/artificial-intelligence-ai-chips-market-181757",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -433,7 +579,7 @@
       "originalUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -773,49 +919,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-02-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
-      "title": "Robots hit the streets as demand for food delivery grows",
-      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "originalUrl": "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "cdnAmpWebUrl": "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "publishedDateTime": "2021-11-02T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "My San Antonio",
-        "domain": "mysanantonio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-02-changing-the-world-with-3d-data.md",
       "title": "Changing the world with 3D data",
       "excerpt": "Learn more how 3D data and ToF 3D image sensors are impacting a wide range of applications including retail, health, sports, and automotive.",
@@ -1116,108 +1219,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-ai-helps-auto-insurers-cost-out-collisions-in-seconds.md",
-      "title": "AI Helps Auto Insurers Cost Out Collisions in Seconds",
-      "excerpt": "Auto insurer USAA is among four national carriers that have started using a cloud-based artificial-intelligence platform designed to tally the cost of fender benders and other collisions within seconds,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-helps-auto-insurers-cost-out-collisions-in-seconds-11635866345",
-      "originalUrl": "https://www.wsj.com/articles/ai-helps-auto-insurers-cost-out-collisions-in-seconds-11635866345",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-427549/social",
-          "width": 1280,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-helps-auto-insurers-cost-out-collisions-in-seconds-11635866345",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-helps-auto-insurers-cost-out-collisions-in-seconds-11635866345",
-      "publishedDateTime": "2021-11-02T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-activeloop-snags-5m-seed-to-build-streaming-database-for-ai-applications.md",
-      "title": "Activeloop snags $5M seed to build streaming database for AI applications",
-      "excerpt": "Activeloop, a member of the Y Combinator summer 2018 cohort, is building a database specifically designed for media-focused  artificial intelligence applications. Today the company announced a $5 million seed investment led by 468 Capital and CM Ventures with participation from Tribe Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/02/activeloop-snags-5m-seed-to-build-database-for-ai-applications/",
-      "originalUrl": "https://techcrunch.com/2021/11/02/activeloop-snags-5m-seed-to-build-database-for-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/visualization-activeloop-gif.gif?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/02/activeloop-snags-5m-seed-to-build-database-for-ai-applications/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/activeloop-snags-5m-seed-to-build-database-for-ai-applications/amp/",
-      "publishedDateTime": "2021-11-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

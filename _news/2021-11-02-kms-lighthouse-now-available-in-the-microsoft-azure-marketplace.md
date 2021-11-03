@@ -1,18 +1,18 @@
 ---
 category: news
 title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
-publishedDateTime: 2021-11-02T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
+excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
+publishedDateTime: 2021-11-02T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
+webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
@@ -209,6 +209,6 @@ related:
         height: 220
         isCached: true
 
-secured: "8DvxQ8rq3VJBUigiSj9TM/ttH4dYtOtw6Uu6osLuOJOpl1i5NQQSsMmJPms4V0KLQSANfldYDdVJyjSowlSnI0r34+QmNxt73NF3VvsPJXzL/fnW5S6mLmbwOMbHJhKATnA7aXrGNWBs/ctGPAMfoSyjlQoTmz+LVmrS458snkX6tW9ZfFLaBYag7rH/ss2KE87Iv2oLNmf7iM6ePNio5jhTsh/Md8uNitsnaVb/ci2iEPNp3Q40V7qzzL339dnSOL9SxRln80tNEmx115/wKBgq3Jjl+VwLLlylUyj8IkaTTVUMBc31crYzz9qwPv9celNjBXqOOry8iyM9dsK1ToCgJAdIZEJTLFb841jDpco=;d1U20wEwJHU/kHGjbJ6jkg=="
+secured: "OkGNE5TlSKE1QnW2/OmSwpQueQrnjp21XQYUiqt3ON8ZqD0A7bMVKleZWA4scxMyDnlHkL/kGASyvL+5k/OhDpeW4XT9QzOhY0ELGI47/zeYo3rWzSwbdlT1ShmtmKAL9pdU96yaXzn3CL6wtEtcQJlstP5dziLK5vRqtOyKkVUb6LUqOXcD/9z47ewu4nnEtPksFtfeQRJTb7GHk83vfECd6kkSZcPROGU0UfOhO3CtC+K8X9KmbZyTdIVi/j7pqIsvB6W29i6YuAWWE5GjWk60mmAfrhApcy1lEVlFlKSBVJkp/f9bKR9PQhOeA+yyYhAybsKluZhQhG/TsrYTvHQI0vN0oFKLlkmS3L4dIPM=;n4q57K/JO85pJ9TV2A5vmQ=="
 ---
 

@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-02-ai-helps-auto-insurers-cost-out-collisions-in-seconds.md",
+      "title": "AI Helps Auto Insurers Cost Out Collisions in Seconds",
+      "excerpt": "Auto insurer USAA is among four national carriers that have started using a cloud-based artificial-intelligence platform designed to tally the cost of fender benders and other collisions within seconds,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-helps-auto-insurers-cost-out-collisions-in-seconds-11635866345",
+      "originalUrl": "https://www.wsj.com/articles/ai-helps-auto-insurers-cost-out-collisions-in-seconds-11635866345",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-427549/social",
+          "width": 1280,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-helps-auto-insurers-cost-out-collisions-in-seconds-11635866345",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-helps-auto-insurers-cost-out-collisions-in-seconds-11635866345",
+      "publishedDateTime": "2021-11-02T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-activeloop-snags-5m-seed-to-build-streaming-database-for-ai-applications.md",
+      "title": "Activeloop snags $5M seed to build streaming database for AI applications",
+      "excerpt": "Activeloop, a member of the Y Combinator summer 2018 cohort, is building a database specifically designed for media-focused  artificial intelligence applications. Today the company announced a $5 million seed investment led by 468 Capital and CM Ventures with participation from Tribe Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/02/activeloop-snags-5m-seed-to-build-database-for-ai-applications/",
+      "originalUrl": "https://techcrunch.com/2021/11/02/activeloop-snags-5m-seed-to-build-database-for-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/visualization-activeloop-gif.gif?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/02/activeloop-snags-5m-seed-to-build-database-for-ai-applications/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/activeloop-snags-5m-seed-to-build-database-for-ai-applications/amp/",
+      "publishedDateTime": "2021-11-02T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-reducing-city-transport-emissions-with-maps-and-ai.md",
       "title": "Reducing city transport emissions with Maps and AI",
       "excerpt": "City transportation is crucial to connecting residents to education, employment and essential services. At the same time, the transportation sector is where global greenhouse gas (GHG) emissions are rising the quickest.In 2018, we launched the Environmental Insights Explorer (EIE) in collaboration with",
@@ -146,6 +248,49 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-robot-food-delivery-coming-soon-to-a-campus-near-you.md",
+      "title": "Robot food delivery, coming soon to a campus near you",
+      "excerpt": "Robots navigate the Bowling Green State University campus in Bowling Green, Ohio on Thursday, Oct. 13, 2021. Robot food delivery is no longer the stuff of science fiction. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/",
+      "originalUrl": "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2021/11/Starship_Robot_AP_Asset_ID_19957182.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1",
+      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1",
+      "publishedDateTime": "2021-11-02T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -805,49 +950,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-02-works-well-with-robots-the-way-robotsai-and-humans-interact.md",
-      "title": "Works Well With Robots? The Way Robots/AI and Humans Interact",
-      "excerpt": "Blame it on HAL 9000, Clippy’s constant cheerful interruptions, or any navigational system leading delivery drivers to dead-end destinations. In the workspace, people and robots don’t always get along.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/",
-      "originalUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Human-Robot-Interaction-Cooperation-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/",
-      "publishedDateTime": "2021-11-01T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-01-ai-powered-camera-surveys-scenes-to-auto-capture-memorable-moments.md",
       "title": "AI-powered camera surveys scenes to auto capture memorable moments",
       "excerpt": "Canon turned to the Japanese crowd to fund development and production of an AI-powered photo/video camera that automatically captures scenes unfolding in front of it. Now the company has launched the device in Europe as the PowerShot PX.",
@@ -887,6 +989,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-sapiens-author-warns-that-human-brains-could-be-hacked-if-ai-is-not-regulated.md",
+      "title": "Sapiens Author Warns That Human Brains Could Be Hacked if AI Is Not Regulated",
+      "excerpt": "World-renowned science author Yuval Noah Harari said that someday human brains could be hacked into if emerging AI systems are not properly regulated.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/sapiens-author-warns-that-human-brains-could-be-hacked-if-ai-is-not-regulated",
+      "originalUrl": "https://interestingengineering.com/sapiens-author-warns-that-human-brains-could-be-hacked-if-ai-is-not-regulated",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOpl8dbOW/sizes/sapiens-author-warns-that-human-brains-could-be-hacked-if-ai-is-not-regulated_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/sapiens-author-warns-that-human-brains-could-be-hacked-if-ai-is-not-regulated",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/sapiens-author-warns-that-human-brains-could-be-hacked-if-ai-is-not-regulated",
+      "publishedDateTime": "2021-11-01T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1079,163 +1223,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-how-leaders-in-security-observability-and-innovation-master-cloud-complexity.md",
-      "title": "How Leaders In Security, Observability And Innovation Master Cloud Complexity",
-      "excerpt": "As organizations adopt microservices architectures, multiple public clouds and more, complexity will only increase.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
-      "originalUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61783b2546500e7920061744%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
-      "publishedDateTime": "2021-11-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-could-open-banking-pose-new-security-threats-to-your-financial-data-we-asked-an-expert.md",
-      "title": "Could open banking pose new security threats to your financial data? We asked an expert",
-      "excerpt": "While open banking and PSD2 data sharing APIs may provide more options for consumers, will it also bring more security issues?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/could-open-banking-pose-new-security-threats-financial-data-expert",
-      "originalUrl": "https://thenextweb.com/news/could-open-banking-pose-new-security-threats-financial-data-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fabn_security.jpg&signature=502b6c22d9c6d9bb4a9f98941dc25644",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-the-future-of-ai-is-a-conversation-with-a-computer.md",
-      "title": "The future of AI is a conversation with a computer",
-      "excerpt": "How would an AI writing program start an article on the future of AI writing? Well, there’s one easy way to find out: I used the best known of these tools, OpenAI’s GPT-3, to do the job for me. Using GPT-3 is disarmingly simple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/22734662/ai-language-artificial-intelligence-future-models-gpt-3-limitations-bias",
-      "originalUrl": "https://www.theverge.com/22734662/ai-language-artificial-intelligence-future-models-gpt-3-limitations-bias",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/hnFioNI9dPX9bKke51836n6PIR0=/0x0:1080x1920/1400x933/filters:focal(551x932:723x1104):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70073884/VRG_ILLO_4851_10_Year_ai.0.jpg",
-          "width": 1080,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/22734662/ai-language-artificial-intelligence-future-models-gpt-3-limitations-bias",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22734662/ai-language-artificial-intelligence-future-models-gpt-3-limitations-bias",
-      "publishedDateTime": "2021-11-01T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

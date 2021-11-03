@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Vivoka Adds ID R&D Voice Biometrics to the Latest Version of Its Voice Development Kit"
-excerpt: "Vivoka Voice Development Kit V3 with voice biometrics from ID R&D - Now available at  (Graphic: ) Vivoka’s user-friendly, graphical interface removes"
+excerpt: "IDVoice® from ID R&D, a Mitek company, is now available in the latest version of the Vivoka Voice Development Kit (VDK), providing a simplified way for developers to build and test applications that benefit from advanced voice biometrics ."
 publishedDateTime: 2021-11-02T10:19:00Z
-originalUrl: "https://www.fltimes.com/business/national/vivoka-adds-id-r-d-voice-biometrics-to-the-latest-version-of-its-voice-development/article_d6445945-6d9b-5a68-889f-691232c68265.html"
-webUrl: "https://www.fltimes.com/business/national/vivoka-adds-id-r-d-voice-biometrics-to-the-latest-version-of-its-voice-development/article_d6445945-6d9b-5a68-889f-691232c68265.html"
+originalUrl: "https://www.financialbuzz.com/vivoka-adds-id-rd-voice-biometrics-to-the-latest-version-of-its-voice-development-kit/"
+webUrl: "https://www.financialbuzz.com/vivoka-adds-id-rd-voice-biometrics-to-the-latest-version-of-its-voice-development-kit/"
 type: article
-quality: 16
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Finger Lakes Times
-  domain: fltimes.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/eedition/0/04/00418bd7-79d7-5a0e-b8b8-91a6fa4520f8/618079b3812e3.preview-300.jpg?resize=300%2C600"
-    width: 300
-    height: 600
-    isCached: true
 
 related:
   - title: "ID R&D voice biometrics integrated into development kit for easy IoT deployment"
@@ -40,6 +34,6 @@ related:
         height: 585
         isCached: true
 
-secured: "NnTv3bJn1Gz4NC/PWnX3cUN/nUyekQB3vsEsxR7hW27zV1VUrAQBtycsirqi8cBUE5tcwZhSLUv3PfxM1mAg7fndomrC1uYeUbNlbAhsA3tqzLEy129Sjj6uDxBS+7ycgkVX5fNoTK/dfJLZNGwWsIaYtqR+dZq0HlDG60J4fk97O1Ry97jTsM8E6xwyXuOleYpJPyFE+BCEuQn5CNPMkJgnZhYnBEkr3cHYsNdVTbNKeRgOD52Bo8U5qEgZ8DSbrDj+YmwNysW1QyL5ix1tND/Z/kGeWrvVIcr7pgxs9dB1bGBHZRs3n/itKCI+FVDPuxQ80P1CNMz0QT76b2OMEPnjg/hujXspxwut92263ca/TzyXtblweOt3d/xMtmtS2bC1tSeaovZH1GqjinDZOlE5nfzvAUR3UARQwxdJNnpIpjo+Dv8ytwoo4L3/Z/QHJoQ6LDKsMdgYFEh+LVFLJXO8lvAdQ44c+8SsFgNBEPBOPUkO5ezx1Bh+LbcTeov0FTS3cAA1Xn9I1X4rR1Gcjg==;XO78DfYlX73IfFTLq2djFA=="
+secured: "BlYNyEpbp5wR2IpFp3/7oAtmCgu/W0M1yG7M6mHhvZnUdBBnFdgFWfzYnr4D1VGM3+ByMB0M1V9FfPLHK5P2XkqszmSHmzViU7BxsaM6q8hn9Y0YsdK5Up2xBDbenxPTD0QokjfU9zLQJlC2/cl0JOt+4N2doTwQqveDLjKS8AZbY5X2CLtvH9txB6Ka4MyZn2KdrZQ336idMmlJbk0B33B79W8XoJrggLoU18O4ei51dbHMJbFMQroJm0lItIHyG+cgVGuQ/eEuvGyJM93Iu87vHzSAm9dCdeE0r7MSyFRclyvN3i9kowPB0NumiVnPe2fGYG1OMK33PpoUTHKnhY5tOLXiQ6kbyYVrv01SKylm8j7gilG67d8fqWWiVH/ynmDDLlxSohhm5VIUB7s7ThkOxrfYO+cFUhM+DmY1WJNpEzI85s9L6AbRi5oTmcXgZC0fCxqyvgdJO7jW1bLKY4IwwBxgSkVUcdtPhO9J3wSQpE58MdeAIxR9trZxSU5z2iJKo57wMTVedZZyIru+Wg==;GYy2XgF+YfZ0ud12VukYwQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-an
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: SciTech Daily
@@ -27,31 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Invasion of the Food Delivery Robots? Here’s What the Future Holds for the Latest Tech"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots -- knee-high and able to hold around four large pizzas -- are now navigating college campuses and even some city sidewalks in the U."
-    publishedDateTime: 2021-11-02T15:56:00Z
-    webUrl: "https://altdriver.com/gearhead/ap-robot-food-delivery/"
-    ampWebUrl: "https://altdriver.com/gearhead/ap-robot-food-delivery/amp/"
-    cdnAmpWebUrl: "https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/gearhead/ap-robot-food-delivery/amp/"
+  - title: "3 ways robots won in 2021"
+    excerpt: "For all its ups and downs, 2021 has been a phenomenally important year for automation. Robots had a big year. Amid uncertainties related to the pandemic, chronic labor shortages, supply chain catastrophes,"
+    publishedDateTime: 2021-11-03T11:00:00Z
+    webUrl: "https://www.zdnet.com/article/3-ways-robots-won-in-2021/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/"
     type: article
     provider:
-      name: altdriver.com
-      domain: altdriver.com
-    quality: 51
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://dummyimage.com/300x250/cccccc/ffffff&text=Advertisement"
-        width: 300
-        height: 250
+      - url: "https://www.zdnet.com/a/img/resize/7e09bb766f67616acc2732d695a17f0ff180c967/2021/11/01/65cc6183-2683-4c96-b7d9-dda44927a628/ubtech-walker.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 923
         isCached: true
-  - title: "Works well with robots?"
-    excerpt: "As more artificial intelligence systems and robots aid human workers, building trust between them is key to getting the job done."
-    publishedDateTime: 2021-11-01T21:23:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59046.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 19
 
 secured: "HEZANpvRjVuqaC+tzkKYymrFXXRkl4DHJ8f55qHCx1NqJ5XOLvxZYxBhUXz5N8GEg4VKTZDm6u2GsHvlUxb/NXFjdOX4i/nXjmRSwGAAtyMr7er3Yxkm7dyIvJ/M+uCzZUQNz5FlCuV5omnfWtxR6N4QowL9AsjaBjd06BeIXPdrY0C4rXAH7QnSw6B+4N1wVr2oN/YcuJPG3oYefw94fC/6Wg6BMTbGWbf/Lb6No6IhHiVjtkZKxSOe09iywLLspOQf1Lf+LSkhTcONlJETB+8y2Z9rkKaRuDmmFKLNgsC4LxtNlTDIheJhn2XEKMTYi5WA4Oxj4ZILzWnN/Im6+xWkyPe5QhYGSv5saeMfMZFdvt41+FH+2BGfakqoMMJPjYd9xnM2PrQi/QTFzRTQMxZOmtaXzJtQQgSgmq6TBb82u7vIcXKgdx2LKdtJZUXbT8nMrt7Qbh7HjctaWy1hsMkkxzt3lKvMb0UCKvDXQY5NUzqUHyO9n2uTqNqwGs7gtDSQDEYqa9AJ4d4Ul8fnmQ==;HJqphO04QR6O8kmIjlkOFw=="
 ---

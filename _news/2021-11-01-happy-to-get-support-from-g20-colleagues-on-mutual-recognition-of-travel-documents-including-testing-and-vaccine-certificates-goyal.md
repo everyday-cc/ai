@@ -26,17 +26,6 @@ images:
     height: 233
     isCached: true
 
-related:
-  - title: "G20 colleagues supported suggestion on mutual recognition of vaccine certificates: Piyush Goyal"
-    excerpt: "The Minister said he was happy to get support from G20 colleagues for his suggestion on mutual recognition of travel ... The Minister noted that India's voice in G20 represents the voice of ..."
-    publishedDateTime: 2021-10-29T17:56:00Z
-    webUrl: "https://news.webindia123.com/news/articles/World/20211029/3846711.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-
 secured: "GcRE3GZWj6deuNAHqOwA+wmE5QzB2if3zw61P0zDS+PZ6APnjFXo8Zfu6K5Ru/IksZTOOQGreuoESRJbKBIWG1H48cyg5sUfpj02ajAxF3nAra/JdAuDZfl40gqahmIelpC4QxS2sSGOMHsmItHA+YlG/qA/Y19Wto8ljevczzHdBn4i3CVb2f6teHUR24kERtoqdr81phTL3JaAROOjf+b8u91ZNy7MP+WkZ4q41PwC5jx2unmPvqH0Q6RJ4F8leV4LWhV0QxSNnOlNaTz7+kX7UGLQ4sqbNI5x89cvxtisSoES+Ym6eb+m31bMIQI9mjDe5OZybnYhXb8wNcP4BCVxsWBF0Z+AJEmRoCvRCf0=;atQhFQYyMDYRxBEhyv6Z9Q=="
 ---
 

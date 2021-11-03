@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "FDA releases best practices for machine learning in medical device development"
-    excerpt: "The US Food and Drug Administration (FDA), Health Canada, and the UK’s Medicines and Healthcare products Regulatory Agency (MHRA) released ten guiding principles for the use of machine learning in medical device development. Artificial intelligence (AI ..."
-    publishedDateTime: 2021-10-29T17:27:00Z
-    webUrl: "https://www.jurist.org/news/2021/10/fda-releases-best-practices-for-machine-learning-in-medical-device-development/"
+  - title: "Machine learning service streamlines data input for FDA"
+    excerpt: "The machine-learning-as-a-service platform is a collection of cloud-delivered ML solutions, tools and technologies that accelerate the delivery of solutions that help the Food and Drug Administration deliver on its regulatory mission."
+    publishedDateTime: 2021-11-03T10:27:00Z
+    webUrl: "https://gcn.com/articles/2021/11/03/psi-fda-mlaas.aspx"
     type: article
     provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 35
+      name: GCN
+      domain: gcn.com
+    quality: 54
     images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/10/medical_technology_1635514712.jpg"
-        width: 1280
-        height: 853
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Health-IT/healthdata_1.png"
+        width: 760
+        height: 368
         isCached: true
 
 secured: "k9zpgvvqd4Gwl2K2xmHReQ6pFGeG3ZHzq64ojQnu2V/cZ20phhRnHtkg9Nt0rk1leR1Xx2Tkx1U8B2FzA3ZU/Qw22+uVBYZm9tM3RN2qP4Mn0c4l+W+gdyWkPWgnu6+3zD3W4+9FDze3aep7QfU1gnM+CM5kx4l+d0CbGoXNz+9heUHpIioDXAD7wvlYCoKkPb5xO8noV5E52cRNj5qnKPDdGEi97KchoCOPM2t6uxWfasFgv7ZbFwa4igmq5VgRvyNVUOVzN3yWUtLN+44wAuwzXGYTK5eiTXTmAMcuUOXNLjjofTzlYpPlCUYS8BLXLGkUQrccruEboy1eNa2jmXMD6HdH4TQPcCBp/8hDDzU=;s7pb4vL3z/yS3tDNTsUQ4A=="

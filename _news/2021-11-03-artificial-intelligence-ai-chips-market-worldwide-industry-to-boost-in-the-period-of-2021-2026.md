@@ -7,7 +7,7 @@ originalUrl: "https://www.reportsgo.com/artificial-intelligence-ai-chips-market-
 webUrl: "https://www.reportsgo.com/artificial-intelligence-ai-chips-market-181757"
 type: article
 quality: 56
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets"
-    excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine"
-    publishedDateTime: 2021-10-29T17:11:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54344177-artificial-intelligence-in-healthcare-market-worth-dollar-67-4-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 13
 
 secured: "CiObTqohEqNvmxA04WLxtnXQcXwe6KykbuUGQ9f47du395C+zbNnKNN/dV4oOQHc5bBOBlYnJlLzxffYXHpPdCtmcMEfY+jbUKcQ4okai13PEeC61PvBEUAWCW4vUK+VNP7Oh31N4v+omP/cZfKjzJ7FcRGMJhfRVtvLBMb19RP28eWvVs5Em1RS/bxPjY1u/pZ8McgzcVfbd8PW2M9oILbbyebskzUKdB0KgBXF4z5AF94l3qVmGVrxtqNIqoHbXIQwmyhOu1CHzsgQlUdPOsWurKdQad6b9vDCLzSnaERazWAwEQ+pDYvoD/Fue6vVUXMzj/dg8rY/qiaxLYDfEV8Cd0DH8rh/JghZiKBfSuKGUVT9J5VVm+dCrAU7dP62BgC/fr62BA3c76b0/oXEV0IsX4Ff8iPYhSUvhc9wOSlVh3JQzrJ9dpQOY3MARCldITuQXDEBsPMBxFX17mRucR26zUoGtFzZ21zPzcYx4qpcs4/Kzb58hijMxgVkynqK95lNrs4uW1jnAKlcCtKf/g==;LimniyTtAKm+e3upsiWESQ=="
 ---

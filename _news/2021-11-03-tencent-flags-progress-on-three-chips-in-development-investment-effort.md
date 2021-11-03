@@ -24,6 +24,22 @@ images:
     height: 676
     isCached: true
 
+related:
+  - title: "Tencent working on three chips"
+    excerpt: "Seems everyone wants to be US free Chinese technology giant Tencent said it is making progress in semiconductor chip development and investment. Best known for computer games and social media app WeChat,"
+    publishedDateTime: 2021-11-03T11:10:00Z
+    webUrl: "https://www.fudzilla.com/news/53809-tencent-working-on-three-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/0aa165be4b3d8a04169d7ff78b856c70_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+
 secured: "Q9i6QEYZ8M81bHlZ4XoaPhokAqeMox7fhm85+bctw/DaggIf9S4T1giLTN2CM/hDt0J2aqW6DLaf3JHtCfL0xYhgzqcUT7NUwXAQjFIqsxW5pkqn77CBECH6SSVS/d4FKEgw0nTXbhRReKva6YtUWOZDHNZCeu4I6S67WoJhZKAULCJzfHyM28iFZAB/Q1o64m0bDC8f6sFntejDOg8uXGdptnWedIAWoOxXMOFjp39L363lHvByatimjBZEZPWJijxrnnrlnBVcwBe5dzvjr/AhT3RhO1BCueoqO4bogfkwJHm/fBvo/pn0lV4EPagvzsxLOmgCSh0PlRItOEz89tY7hOc6mdPH0saBW/h5eIC48k9SB31npo6L2FcSCpAeNlc80s/gYbkDeWouGqdnixSDgF7eu8jDZBdoZ8lRwe9JNU/MFf8nNn5as5l4Wh4YuzUtiePQ+1xzgOoN3dK6CejBkJLJ3eT6P6GMOlp9rRBjbGJOwotmFMdAqG5lfuKNocf3C12SotrrfQeRYfcueQ==;/kcu7EdPa50kvL3EWoVmvw=="
 ---
 

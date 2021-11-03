@@ -635,12 +635,12 @@ related:
     quality: 24
   - title: "Facebook ending its system of facial IDs"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T07:27:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+    publishedDateTime: 2021-11-03T07:29:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 24
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199814388_4D1facebook1103_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
@@ -660,6 +660,20 @@ related:
       - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2021/11/02/Facebook_says_8.jpg"
         width: 715
         height: 404
+        isCached: true
+  - title: "Why is Facebook/Meta making touch-sensitive electronic skin?"
+    excerpt: "Facebook, now rebranded as Meta, teamed up with Carnegie Mellon University to develop ReSkin, a touch-sensitive electronic skin set to advance the use of touch in AI and robotics. Carnegie Mellon University (CMU) and Meta AI (formerly Facebook AI) claim the new tactile sensing skin will increase the sense of touch in robotics,"
+    publishedDateTime: 2021-11-03T10:59:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/why-is-facebookmeta-making-touchsensitive-electronic-skin"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 24
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1635936971/widgetdocs/Meta_AI_wve0h5.jpg"
+        width: 750
+        height: 546
         isCached: true
 
 secured: "sgOBlZh7Y4QBkzGBYQZtjh2z7JfdXyVmcwADUu27NtEF/hL0wbb249Wq+PV/fav2HGSss6tCn8mXu+ERogFSHLWrSO0SaMrp0RWI+Zudv/tPFFCWvSBvIMAzBnLxMczOWT5yn/MOWhoLCar0Q5TgiGjvAre0/eIYiGLo95MKE0cWHU5DbmktCbyTgPlCEdjx6hVDmRiql9OIl/z/UL40eCqPphNfFbxzOl/eL3hk/zPJ7+He7AWbDpQk3jyEdhAzeqZyCN7bjGYr0D4usQ6hZOIQd2HwP3eKCMpTRJfsBrYf5n1OeRXRQQ/NIYhggFkOYQqmt32YlK3SzCxjpurGnprae9dQCFwIC6Nh0n/GinQlNgy8+pljLebsarGvzUkcifHsTx/Q3KoyPy9dbdPyHUg2b+wv6+zDNxlgjJGcQ1HQrCBXDQGCt7RHeAIPFI2jlsV4sb1bMh6vCzW/DSSEuxaDIIBmH2AON+3Uymms1LU7MryWu2tZAp3Ikk3+DwpYoMnk7B6vpeka3pFJGx21MQ==;1ynDZR+Q13hE17jV0Fg1QQ=="

@@ -631,12 +631,12 @@ related:
     quality: 24
   - title: "Facebook ending its system of facial IDs"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T07:27:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+    publishedDateTime: 2021-11-03T07:29:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 24
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199814388_4D1facebook1103_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
@@ -656,6 +656,20 @@ related:
       - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2021/11/02/Facebook_says_8.jpg"
         width: 715
         height: 404
+        isCached: true
+  - title: "Why is Facebook/Meta making touch-sensitive electronic skin?"
+    excerpt: "Facebook, now rebranded as Meta, teamed up with Carnegie Mellon University to develop ReSkin, a touch-sensitive electronic skin set to advance the use of touch in AI and robotics. Carnegie Mellon University (CMU) and Meta AI (formerly Facebook AI) claim the new tactile sensing skin will increase the sense of touch in robotics,"
+    publishedDateTime: 2021-11-03T10:59:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/why-is-facebookmeta-making-touchsensitive-electronic-skin"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 24
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1635936971/widgetdocs/Meta_AI_wve0h5.jpg"
+        width: 750
+        height: 546
         isCached: true
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."

@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-30-from-a-hidden-picasso-nude-to-an-unfinished-beethoven-ai-uncovers-lost-art-and-new-challenges.md",
+      "title": "From a hidden Picasso nude to an unfinished Beethoven, AI uncovers lost art — and new challenges",
+      "excerpt": "Artificial intelligence is being used to bring lost works from the likes of Picasso and Beethoven back to life, but not everyone is celebrating the achievement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/lost-picasso-unfinished-beethoven-ai-uncovers-lost-art-new-challenges-rcna2905",
+      "originalUrl": "https://www.nbcnews.com/news/world/lost-picasso-unfinished-beethoven-ai-uncovers-lost-art-new-challenges-rcna2905",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-10/211013-picasso-2x1-mb-1520-a88fbc.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna2905",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna2905",
+      "publishedDateTime": "2021-10-30T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-att-and-h2o-collab-on-feature-store-for-ai-developers.md",
+      "title": "AT&T and H2O collab on feature store for AI developers",
+      "excerpt": "Telecom giant AT&T and AI cloud firm H2O have jointly launched an AI feature store to help organizations accelerate AI development.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/",
+      "originalUrl": "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2012/07/att-logo.jpg?w=1200&strip=all",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/amp/",
+      "publishedDateTime": "2021-10-29T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-samsungs-jet-bot-ai-robot-vacuum-is-a-must-have-for-pet-owners.md",
+      "title": "Samsung's Jet Bot AI+ robot vacuum is a must-have for pet owners",
+      "excerpt": "The Samsung JetBot AI+ looks like the robot vacuum of the future, and has some ultramodern tech under the hood. Credit: leah stodart / mashable Despite their overall hands-off capabilities, most robot vacuums require some sort of pre-cleaning to avoid eaten phone chargers or socks.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum",
+      "originalUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/reviews/006pViF0SeLANeuxsVnRG1c/hero-image.fill.size_1200x675.v1635563107.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum?amp",
+      "publishedDateTime": "2021-10-29T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-the-evolution-of-speech-recognition-technology.md",
       "title": "The evolution of speech recognition technology",
       "excerpt": "About the Author Graeme John Cole is a contributor for Rev, creator of the world's most accurate automatic speech recognition engine, Rev.ai. Today, we all carry KITT in our pockets. We sigh when KITT answers the phone at the bank. The personality isn’t ...",
@@ -1065,126 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-amazon-third-quarter-earnings-live-blog.md",
-      "title": "Amazon Third-Quarter Earnings Live Blog",
-      "excerpt": "Among analysts polled by FactSet, the consensus is for Amazon to post Q3 revenue of $111.51 billion (up 16% Y/Y) and GAAP EPS of $8.90 (down 28% due to high spending). Amazon typically shares revenue and operating income guidance in its earnings reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/amazon-third-quarter-earnings-live-blog",
-      "originalUrl": "https://www.thestreet.com/investing/amazon-third-quarter-earnings-live-blog",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcxMjcxMjU4NTgxNzcxOTU1/automobile-manufacturing.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/amazon-third-quarter-earnings-live-blog",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/amazon-third-quarter-earnings-live-blog",
-      "publishedDateTime": "2021-10-28T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-aws-announces-general-availability-of-babelfish-for-amazon-aurora-postgresql.md",
-      "title": "AWS Announces General Availability of Babelfish for Amazon Aurora PostgreSQL",
-      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Babelfish for Amazon Aurora PostgreSQL-Compatible Edition, a new capability that allows customers to run applications written for Microsoft ( News - Alert) SQL Server directly on Amazon Aurora with little to no code changes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-babelfish-amazon-aurora-postgresql-/2021/10/28/9480379.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-babelfish-amazon-aurora-postgresql-/2021/10/28/9480379.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes.md",
-      "title": "tinyML-based machine learning platform helps build AI models in minutes",
-      "excerpt": "Imagimob announced that the new release of its tinyML platform is now available to its customers. The new release focuses on making it easier and faster for developers to build and deploy performance-ready tinyML applications on edge devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
-      "originalUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eeworldonline.com/wp-content/uploads/2021/10/Capture-2-1.png",
-          "width": 862,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eeworldonline.com",
-        "domain": "eeworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

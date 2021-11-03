@@ -81,15 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets"
-    excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine"
-    publishedDateTime: 2021-10-29T17:11:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54344177-artificial-intelligence-in-healthcare-market-worth-dollar-67-4-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 13
 
 secured: "Z1OFQmP0NzA4ZlGpR+sIuAXlTpTY7PTP7NLhMXGOToZLtza4VxDvjGkrnx2ioE85tbYd1wu0zhShM3w7NpD/heVUazz8QEs0Q/qdF+d8gyrEm8xlKnUPIDuDjSgdAZeY26OrC/yQ4u5eB7EFvrZN0W7keUOKjzx6gXHIMsSfVkaRk9EJ3jNCKojk7ah3GOubS3irYTrA1WAxKMTWjPXwwI8eWkMV1J1W2Ioy18k2OZelTQdOzfOrDxmFIKhr8bO3OZ9C5MDXt196D9pKHuC0hYFusiyLCHI0cm723J+WgFJiAdRyNqL96eFyU7LOAXt6DuZX25YNVm8njkoNRmfFvsAx+sCtldyDfewD3vRl4xI=;4gB/uzchi/GC9K/QDadliw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/We-mapped-every-large-solar-plant-on-th
 webUrl: "https://www.econotimes.com/We-mapped-every-large-solar-plant-on-the-planet-using-satellites-and-machine-learning-1620330"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 496
     height: 236
     isCached: true
-
-related:
-  - title: "We mapped every large solar plant on the planet using satellites and machine learning"
-    excerpt: "Solar is “intermittent”, since sunshine varies during the day and across seasons, so energy must be stored for when the sun doesn’t shine. Policy must also be designed to ensure solar energy reaches the furthest corners of the world and places where it is most needed."
-    publishedDateTime: 2021-10-29T17:30:00Z
-    webUrl: "https://theconversation.com/we-mapped-every-large-solar-plant-on-the-planet-using-satellites-and-machine-learning-170747"
-    ampWebUrl: "https://theconversation.com/amp/we-mapped-every-large-solar-plant-on-the-planet-using-satellites-and-machine-learning-170747"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-mapped-every-large-solar-plant-on-the-planet-using-satellites-and-machine-learning-170747"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 52
-    images:
-      - url: "https://images.theconversation.com/files/429116/original/file-20211028-21-1wplvee.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=202&fit=crop"
-        width: 320
-        height: 202
-        isCached: true
 
 secured: "Tv6DD7Ddi6uYFGh8qES4JKbOObsPWAnJQ2WPjGzcAX25HKu3UzNwGVkL0WJfjzoi0e6GbqK4vkSckkbQOsxufTasOkBhWiBSQK9b+IwGm80F19/8JCvI659/n+5LfwkmTd06bZ7YmyZ0g2Usm2APVg8EvlvvVIfEMlrlXEjjqoyiEVkfmiEhGK0fWoXi753xbA0JFgqWRRs6+X4hWWQ3AdEpGBdfriBiBUh/+l95msoqjLRel/7aIoqwd2c1swgDWpwiufxq6HnM0n551LE84nludzWm712hrmbx2hqAiT9emA1Qjbz6ohJH0TGfYq2p/I5EzlCAMSk2OjVhYQyIPaVW8T/IaNcSYLoiOht9WFPT2mSSUX4XNfwJcbduGpNE5vHPJJRjgRrhC3PSmBJ6yfzuTHWU42AhnzAJc7m9XgKGvwQQP1eNvC+XvMLAM21lpsWPBwfhbeR1o1OCPi/JqLHyCJ4Q4I4S2wNLlJ8sNtCcDNWeOj/OaZnrvnr+uY1PVwUjXVurQwtZ0f5M2yx/cQ==;ZHVPxiM3aXAvUq/gysb98g=="
 ---

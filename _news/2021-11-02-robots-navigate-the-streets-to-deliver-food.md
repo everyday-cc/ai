@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots Deliver Food at North Carolina A&T State University"
-    excerpt: "The knee-high robots use machine learning, artificial intelligence and sensors to navigate the campus ... Joe Burdi, who oversees food services at A&T for Sodexo, said the decision to start using the robots was not caused by a labor shortage."
-    publishedDateTime: 2021-10-29T18:08:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university"
-    ampWebUrl: "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/2f5990f/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1c%2Ffa%2F359e4dd58737b5bfcee5c940058c%2Fshutterstock-622400270.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Robot food delivery, coming soon to a campus near you"
     excerpt: "Robots navigate the Bowling Green State University campus in Bowling Green, Ohio on Thursday, Oct. 13, 2021. Robot food delivery is no longer the stuff of science fiction. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
     publishedDateTime: 2021-11-02T11:12:00Z
@@ -58,6 +42,100 @@ related:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2021/11/Starship_Robot_AP_Asset_ID_19957182.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Robots hit the streets as demand for food delivery grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-02T16:51:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Little Robots Like These Are Fulfilling More Food Orders as Demand for Delivery Grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-02T05:14:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3026856/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3026856/?amp"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3026856/?amp"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 52
+    images:
+      - url: "https://media.nbcphiladelphia.com/2021/11/GettyImages-1230959993-e1635829583506.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Little Robots Like This Are Fulfilling More Food Orders as Demand for Delivery Grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-02T05:16:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3369974/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3369974/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3369974/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 52
+    images:
+      - url: "https://media.nbcnewyork.com/2021/11/GettyImages-1230959993-e1635829583506.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Invasion of the Food Delivery Robots? Here’s What the Future Holds for the Latest Tech"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots -- knee-high and able to hold around four large pizzas -- are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-02T15:56:00Z
+    webUrl: "https://altdriver.com/gearhead/ap-robot-food-delivery/"
+    ampWebUrl: "https://altdriver.com/gearhead/ap-robot-food-delivery/amp/"
+    cdnAmpWebUrl: "https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/gearhead/ap-robot-food-delivery/amp/"
+    type: article
+    provider:
+      name: altdriver.com
+      domain: altdriver.com
+    quality: 51
+    images:
+      - url: "https://dummyimage.com/300x250/cccccc/ffffff&text=Advertisement"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Robots deployed in greater numbers as demand for food delivery grows amid pandemic labor shortages"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large"
+    publishedDateTime: 2021-11-02T13:54:00Z
+    webUrl: "https://ktla.com/news/nationworld/robots-deployed-in-greater-numbers-as-demand-for-food-delivery-grows-amid-pandemic-labor-shortages/"
+    ampWebUrl: "https://ktla.com/news/nationworld/robots-deployed-in-greater-numbers-as-demand-for-food-delivery-grows-amid-pandemic-labor-shortages/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/robots-deployed-in-greater-numbers-as-demand-for-food-delivery-grows-amid-pandemic-labor-shortages/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 45
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/11/AP21305694967862.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Robots hit the streets in US as consumer demand for food delivery grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
+    publishedDateTime: 2021-11-02T22:35:00Z
+    webUrl: "https://kdminer.com/news/2021/nov/02/robots-hit-streets-us-consumer-demand-food-deliver/"
+    type: article
+    provider:
+      name: Kingman Daily Miner
+      domain: kdminer.com
+    quality: 39
+    images:
+      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2021/11/02/robots_hit_the_street_9_web.jpg"
+        width: 715
+        height: 406
         isCached: true
 
 secured: "u5LlavVQuLOJf0WwRLOWjyZjKMxm27iqzuPczmTOXRGxRcPnggdafiNRXA1lqLc6eNl1vKJmI9V6+RcvCkHI6LAzgaBQox05TiOiVXVzdKdah7nM3x1htrPh80XZDLpEqLc0JWXaLHrhHRqjiAc/jrl+3UElbghS99CP28iEHecKhvLb6lK5p/CoNHk2muJAsMT+hgvvridutHEQ2lGnF+RZmNzz+3zdn1GUXIbh3++gPyyjtg182tEnII/7FZ8i1IRYZe/bYrQ2BsJv4upcmnCO4RnRc25uTU3gjzKlJH/kqSEOQLgQHYnpxasoogK2vlscRBUmJsBgNT+/uTkNFMq08gpF4wgMN5rmnPQIEJY=;tN3z2a/XF4wK2/XT4hISUA=="

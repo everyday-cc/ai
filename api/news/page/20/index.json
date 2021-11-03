@@ -2,6 +2,154 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-10-16-life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots.md",
+      "title": "Life keeps getting in the way of my quest to turn my family into robots",
+      "excerpt": "Dinner, bath, book, bedtime: every school year we stick to the timetable – for a few days, says Guardian columnist Emma Brockes",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/67fb223568575d994010faf6950cd6896a705184/0_0_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=55a1c719a4c15bbd3a79c41ec6a581e2",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
+      "publishedDateTime": "2021-10-15T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-16-scarce-chips-may-pinch-apples-iphone-holiday-sales.md",
+      "title": "Scarce chips may pinch Apple's iPhone holiday sales",
+      "excerpt": "According to Refinitiv IBES, analyst are expecting about 45 million units for the fourth quarter and 79.4 million units in the key holiday quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/scarce-chips-may-pinch-apples-iphone-holiday-sales/articleshow/87056292.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/scarce-chips-may-pinch-apples-iphone-holiday-sales/articleshow/87056292.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-87056292,imgsize-23630,width-800/87056292.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/scarce-chips-may-pinch-apples-iphone-holiday-sales/amp_articleshow/87056292.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/scarce-chips-may-pinch-apples-iphone-holiday-sales/amp_articleshow/87056292.cms",
+      "publishedDateTime": "2021-10-15T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-10-16-can-ai-help-prevent-natural-disasters.md",
+      "title": "Can AI Help Prevent Natural Disasters?",
+      "excerpt": "With the power of big data, advanced analytics, and AI geospatial companies can play a critical role in understanding factors contributing to natural disasters like wildfires, the associated risks, and impacts on communities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61671e8c4646978144e70864%2F0x0.jpg",
+          "width": 1200,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/amp/",
+      "publishedDateTime": "2021-10-15T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women.md",
       "title": "Can Artificial Intelligence Help To Close The Financial Equality Gap For Women?",
       "excerpt": "How can women can build wealth utilizing advanced technologies and what should they should consider when looking at different services available on the market today?",
@@ -1013,152 +1161,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-tesla-debuts-new-car-insurance-that-uses-texans-real-time-driving-behavior.md",
-      "title": "Tesla debuts new car insurance that uses Texans' real-time driving behavior",
-      "excerpt": "Tesla now offers insurance in Texas, and it calculates for premiums based on owners' real-time driving behavior..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html",
-      "originalUrl": "https://www.engadget.com/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/1039dff0-2d98-11ec-bfff-3e825fd294c3",
-          "width": 1600,
-          "height": 1023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html",
-      "publishedDateTime": "2021-10-15T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-extraordinary-ai-motorcycle-hud-highlights-hazards-and-cornering-lines.md",
-      "title": "Extraordinary AI motorcycle HUD highlights hazards and cornering lines",
-      "excerpt": "The head-up display for motorcyclists: it's the great white whale of the technology world. Over the years, we've seen at least a dozen different attempts to put information into the eyeline of the motorcycle rider,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
-      "originalUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/e991b46/2147483647/strip/true/crop/1983x1322+282+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F19%2Fd7%2Fb28d9cd849b49549acc2945a2c16%2Fscreen-shot-2021-10-15-at-5.25.26%20pm.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
-      "publishedDateTime": "2021-10-15T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-ponyai-to-start-driverless-tests-on-public-roads-in-beijing.md",
-      "title": "Pony.ai to Start Driverless Tests on Public Roads in Beijing",
-      "excerpt": "Silicon Valley-based leading autonomous driving company Pony.ai, today announced that it has been authorized to conduct driverless tests on public roads in China’s capital city, Beijing. The company is one of the two autonomous software companies to receive this important Beijing permit.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-china-beijing-a0f4dcf4efd645c0b1a1dac481aa11af",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-china-beijing-a0f4dcf4efd645c0b1a1dac481aa11af",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

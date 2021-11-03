@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "Vivoka Adds ID R&D Voice Biometrics to the Latest Version of Its Voice Development Kit"
-    excerpt: "Vivoka Voice Development Kit V3 with voice biometrics from ID R&D - Now available at  (Graphic: ) Vivoka’s user-friendly, graphical interface removes"
+    excerpt: "IDVoice® from ID R&D, a Mitek company, is now available in the latest version of the Vivoka Voice Development Kit (VDK), providing a simplified way for developers to build and test applications that benefit from advanced voice biometrics ."
     publishedDateTime: 2021-11-02T10:19:00Z
-    webUrl: "https://www.fltimes.com/business/national/vivoka-adds-id-r-d-voice-biometrics-to-the-latest-version-of-its-voice-development/article_d6445945-6d9b-5a68-889f-691232c68265.html"
+    webUrl: "https://www.financialbuzz.com/vivoka-adds-id-rd-voice-biometrics-to-the-latest-version-of-its-voice-development-kit/"
     type: article
     provider:
-      name: Finger Lakes Times
-      domain: fltimes.com
-    quality: 16
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/eedition/0/04/00418bd7-79d7-5a0e-b8b8-91a6fa4520f8/618079b3812e3.preview-300.jpg?resize=300%2C600"
-        width: 300
-        height: 600
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "erTOHB6+3uu1cpLgsOqZrFonOZZXoXqm3mGzu5Fga+yrAIleVxQ6I6A42qSpByPtBwo+SVj7OMWxuX4DU2d8vOGFnHgLj2PinK1eZiu1KmX4as8KlpBSefAsMzux1JCRcRDikL/rhSb24idcqEroSxzfzYbWMi0mVQ+hqzUpJ2iDM3lDNIGEY+Tg5/QjP+FpPiCxQR8Xq53G1fkAdUUKaGYusrg7kisp5Owj93sLCeFTnCnv+xU2yrENyJHVD1HPfAnWDLmogyq+WYeI0wX1IP6dvQbqpiZmjh+iChfeZQx5jBRa2Q0wYqHlUUyD07B0pGs+rKIv8k1Se2ab4ZLGj0Uiw3F7Uit6t3F+dimR5Bl5fbqX9wrNiL7tnaumgqFsltTH7CzzsFLTdtB3AAxKkCvXx1z9BghTR5ZyQz0M8I1TQ4nKz+J/pnq4DiDDHq6xhTPCR+EvyCpACksEE9wxwb+G+begexlZ/WPs2zeUeFRyKMmbrdPMGwZh9E/AuQwY4Tm9cf6fobEH4Zk6TVG55w==;mxUoyl3eI6jff0N/waEWdw=="
 ---
