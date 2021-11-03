@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "graphcoreai"
   url: "https://twitter.com/graphcoreai"
-  followers: 7679
+  followers: 7678
 
 size: 51-200 employees
 yearFounded: 2016
