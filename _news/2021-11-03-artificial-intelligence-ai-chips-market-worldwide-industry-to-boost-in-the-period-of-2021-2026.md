@@ -7,7 +7,7 @@ originalUrl: "https://www.reportsgo.com/artificial-intelligence-ai-chips-market-
 webUrl: "https://www.reportsgo.com/artificial-intelligence-ai-chips-market-181757"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
         width: 421
         height: 421
+        isCached: true
+  - title: "Global Self-driving Bus Market 2021 Key Players Data, Industry Analysis, Segmentation, Share, Size, Opportunities and Forecast to 2027"
+    excerpt: "Another report by named, Global Self-driving Bus Market 2021-2027 has been added into its tremendous archive by MarketsandResearch.biz. The report presents a far-reaching investigation of the market assessing the market on a worldwide,"
+    publishedDateTime: 2021-11-02T17:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-bus-market-2021-key-players-data-industry-analysis-segmentation-share-size-opportunities-and-forecast-to-2027-2021-11-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets"
     excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine"

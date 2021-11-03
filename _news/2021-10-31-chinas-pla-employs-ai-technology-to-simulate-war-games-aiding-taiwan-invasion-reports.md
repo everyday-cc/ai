@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "U.S. to deepen relations with Taiwan in face of China tensions"
-    excerpt: "The U.S. switched diplomatic recognition of China from the ruling Nationalist Party government in Taipei to the Communist Party in Beijing in 1979, but has continued to maintain a strong unofficial relationship with the self-ruled island. Oudkirk declined ..."
-    publishedDateTime: 2021-10-29T15:34:00Z
-    webUrl: "https://www.columbian.com/news/2021/oct/29/u-s-to-deepen-relations-with-taiwan-in-face-of-china-tensions/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 39
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/10/Taiwan_US_67162.jpg-184c7.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "qHcSH+Dmet53hik9DdsmCxvg4ls+6Wt75cGb4HRiIJqwAKRX7Eqy/EUDTuULWEYcSEalgU/imFAGR5AaoFCpLajb76W89FKUenUfB+5aQcrRHn0ByKLSMKOkkVKyUobf/jni394Cr9TUm4P70FiBkLWyPewN/WVd994iF1OXNwRfuuRRiUGDInh9Z03P6dONYpO42xnjB+6PYfOOPC8H29mljFQwpWuohjqwfr1i4vBsdQH6UdD/6F9v5UZo5HY0VTpZ2J2QNl3t1T8lF60jpPJOZ5aAM6qIKwuhJRcX5DFVMGD46+j0O/fT7owkvlK15XeU2p05oJK8PjiHiqxB0ggOQE8pemiqhH6hSBAZtL4=;KPF0qPo5OnMrmQgpbFxuIQ=="
 ---

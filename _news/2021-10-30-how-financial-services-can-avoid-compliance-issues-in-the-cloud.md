@@ -43,6 +43,20 @@ related:
         width: 600
         height: 476
         isCached: true
+  - title: "Paysafe Using AWS to Deliver Fast and Innovative Services for Digital Wallet Customers"
+    excerpt: "Paysafe , a leading specialized payments platform, today announces the latest milestone in its strategy to become a fully cloud-based payments provider with the migration of its digital wallets, Skrill and NETELLER,"
+    publishedDateTime: 2021-11-03T09:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-20080250.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 31
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "vVQG1U0gZQmiJZmnM0+d8GY12uR9ZINGZZkTlC3otqhUQLYtOK5k6hD8kc54gwWB6XKtGTpnbuSQdD7xIgALNnDOJNE49UPEv5bKL1saWNnetpZzqfwahspVmJTxwlBYtaa5X+ieLoUbVPGb6hnm/9QESXgstRw3W7xbEpj9TD9W6cqkE8+LCiMrU3fQPd+cWCy9UpKrMcxqXKF4iJgAietyIYuw0RbsLif9ARGDtlU5iiEw3JkiiVmG1oYaHjiymqJyA2Ovb9EA+VGNGi46O1hGMIgLngc4hwODMOa8qTAHa0OWDJTI6Hs3iiEGQME4sERSulokh3mrzmLXA/Y4ZbBcHr9IyDoBKgBzl0eh7hkYMlatr5pb3fiVWxkiJd3SvNMdzXj9q5ejRis8Zi1UyEecDyPhUPkDxqVNkBYYYLwaI5WpfVKgQgLkl0bPX/XJ9jefWV69F2PK/V0LouHG0VfG1EOYesLacSj8usHdAxo5jhXcTZHaBRrDTKdaeLd78AnDTzTdSsA/uTupCz6wyQ==;Bn8zQNg/nBpm+3xGI3QQ+g=="
 ---

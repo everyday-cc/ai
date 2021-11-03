@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202111/id-rd-voice-biometrics-inte
 webUrl: "https://www.biometricupdate.com/202111/id-rd-voice-biometrics-integrated-into-development-kit-for-easy-iot-deployment"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Japanese government selects SAFR face biometrics for in-person service access"
-    excerpt: "SAFR has recently been selected by the Japanese government to provide its face biometrics technology to support the country’s digitalization initiatives."
-    publishedDateTime: 2021-10-29T16:56:00Z
-    webUrl: "https://www.biometricupdate.com/202110/japanese-government-selects-safr-face-biometrics-for-in-person-service-access"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
   - title: "Vivoka Adds ID R&D Voice Biometrics to the Latest Version of Its Voice Development Kit"
     excerpt: "Vivoka Voice Development Kit V3 with voice biometrics from ID R&D - Now available at  (Graphic: ) Vivoka’s user-friendly, graphical interface removes"
     publishedDateTime: 2021-11-02T10:19:00Z

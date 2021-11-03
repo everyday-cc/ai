@@ -3,26 +3,26 @@ category: news
 title: "Artist Ai Weiwei on his father's exile and hopes for his own son"
 excerpt: "Over the decades, Ai Weiwei has become one of the most influential artists and activists of our time, which is why the Chinese government has long fixed its gaz"
 publishedDateTime: 2021-11-03T02:13:00Z
-originalUrl: "https://www.iowapublicradio.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son"
-webUrl: "https://www.iowapublicradio.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son"
-ampWebUrl: "https://www.iowapublicradio.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son?_amp=true"
-cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son?_amp=true"
+originalUrl: "https://www.tpr.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son"
+webUrl: "https://www.tpr.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son"
+ampWebUrl: "https://www.tpr.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son?_amp=true"
+cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son?_amp=true"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Iowa Public Radio
-  domain: iowapublicradio.org
+  name: Texas Public Radio
+  domain: tpr.org
 
 topics:
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/ae694b0/2147483647/strip/true/crop/6423x3615+2+0/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F11%2F02%2Fgettyimages-1236296537_wide-7a4bdd11feb5ed3923fa7e13ea3b097116ef989c.jpg"
-    width: 430
-    height: 242
+  - url: "https://media.npr.org/assets/img/2017/04/13/ailsa-chang_npr_1_vert-754de6853ab0776482f2c697d92961f3e7ad75ad.jpg"
+    width: 3000
+    height: 4003
     isCached: true
 
 related:
@@ -117,6 +117,6 @@ related:
         height: 675
         isCached: true
 
-secured: "kVJclNS8hBPE0QA+GFHsAVfXbKtAKJq61t7YDCW8nfrkGWtOAWrTqUGV2NuJHhs7CGPGWDb8yGkmHCkE0TCZQ54Mi47Rkw5aqiqDKlaKgdlgE/eTgKsLrMnDABXMh72js59D0makPCTz60MbNlU6Hd0EnAyLeIPG87VUZgGuWOumvioWWi+rwDlH5f6MAdRab9UOM2UmFdyiLrrshmWqBC66An4Y9p5ePM8Y64sAK+1SvDSWkpF2bDUO1PhqOIgTA9wUFA+xHvpgLEDj0M1Cd5801N/Us2JB8UGwW6wWxm+fN4udxN99giVHUGUubE9GiapHIgz5p20Oi+JmnnpKngFdxcPTbDi1sU6SsoovHRo=;jIfCyTdWejejXOcBkcPsWw=="
+secured: "37NmWKdjFd0PtAaBikzw69uU8s6QtcUcSsXoaZPdZ5CL0BAC/NfluFKs4qKj8xaBiphHg3dhubq56BUI2TijWfoJpNiqO72p+ouZLU8ayUWGI3RIsGZktVjBWDVHTZbbb6iFvGCx+H0W8qSerWmzF166enAvEJG/pdKu5WXtp4giy9adJAWoMPwbJJ+DlPNUqFX3UKXzz+zJU+gyOqacpYtjvhvdOOezBhqyAmEhwsq2etqcZk7gEsmvSaxvddmuQQ0Uj0nFutljpT7ANk3Gi+on6WLKFQxPQV0Wu9UyEiqqV33EIh8nb0yYMZ780yQOjgs49pKWEDIAjnPZj++/a6k3LCHxFL25+m6lyrFVS0Q=;pqKYapIPHavGZm56TXKo2g=="
 ---
 

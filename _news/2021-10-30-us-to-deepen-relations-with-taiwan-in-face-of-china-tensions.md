@@ -9,8 +9,8 @@ ampWebUrl: "https://mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in
 cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in-face-of-china-tensions/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MyNorthwest.com
@@ -42,20 +42,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/srphm0rttz3b6tck_1635683915.jpeg"
         width: 768
         height: 439
-        isCached: true
-  - title: "U.S. to deepen relations with Taiwan in face of China tensions"
-    excerpt: "The U.S. switched diplomatic recognition of China from the ruling Nationalist Party government in Taipei to the Communist Party in Beijing in 1979, but has continued to maintain a strong unofficial relationship with the self-ruled island. Oudkirk declined ..."
-    publishedDateTime: 2021-10-29T15:34:00Z
-    webUrl: "https://www.columbian.com/news/2021/oct/29/u-s-to-deepen-relations-with-taiwan-in-face-of-china-tensions/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 39
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/10/Taiwan_US_67162.jpg-184c7.jpg"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "cfVF2jb4bIHciK1V5MMHFB/E/H3UVckkIxnCUOgoh1ZEVtPJcWJKsevum2GyuTAsqzfNCHkJaN2x3a5U8rin8/ElTASjieLt8kVMiurspl/IbDottHJAr/iSEZ2X2U6fejXCYZn/7EP23FKmlAblMViSfAREzL2voqc4gzcyPrgYPqjw3wSuxKfniKpm2MFC3fdhoUEy8PWybInDGT/tayKciPKN39nHxa9/8hpYawSSkypVtlVldtKuqK1oM1p1Xs/BsqzQ0frWUxjAjQnAVrvJ1pvcW+XnnNNW0g/VBw/qWr4lzyXFKVGcIWaD+vZNqrZmHPqeE2iWq298t99BfX3KzMh0A74zmSkrBmfiHT8=;nKbgXq2Rd5ByQuWK6kRrOA=="

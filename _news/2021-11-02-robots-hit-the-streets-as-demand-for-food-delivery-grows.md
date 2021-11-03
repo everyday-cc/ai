@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-dema
 cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -30,13 +30,13 @@ related:
   - title: "Robots hit the streets as demand for food delivery grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
     publishedDateTime: 2021-11-03T07:12:00Z
-    webUrl: "https://www.chron.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php"
-    ampWebUrl: "https://www.chron.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    webUrl: "https://www.mrt.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    ampWebUrl: "https://www.mrt.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Midland Reporter-Telegram
+      domain: mrt.com
     quality: 59
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
@@ -74,6 +74,22 @@ related:
       - url: "https://media.nbcnewyork.com/2021/11/GettyImages-1230959993-e1635829583506.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Robots are Taking Over on Streets as Pandemic Paves Way for Contactless Food Delivery"
+    excerpt: "While robots were being tested in limited numbers before the coronavirus hit, the companies building them say pandemic-related labor shortages and a growing preference for contactless delivery have accelerated their deployment."
+    publishedDateTime: 2021-11-03T09:30:00Z
+    webUrl: "https://www.news18.com/news/buzz/robots-are-taking-over-on-streets-as-pandemic-paves-way-for-contactless-food-delivery-4398593.html"
+    ampWebUrl: "https://www.news18.com/amp/news/buzz/robots-are-taking-over-on-streets-as-pandemic-paves-way-for-contactless-food-delivery-4398593.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/robots-are-taking-over-on-streets-as-pandemic-paves-way-for-contactless-food-delivery-4398593.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 52
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/11/robot-163592962016x9.png"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Robots deployed in greater numbers as demand for food delivery grows amid pandemic labor shortages"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large"

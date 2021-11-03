@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/finance/aws-financial-services-fo
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986/amp"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://biztechmagazine.com/higher/higher/higher/higher/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202110/BTQ421_CSAM_hero3_Finance.jpg?itok=F2lzgS1b"
         width: 1440
         height: 500
+        isCached: true
+  - title: "Paysafe Using AWS to Deliver Fast and Innovative Services for Digital Wallet Customers"
+    excerpt: "Paysafe , a leading specialized payments platform, today announces the latest milestone in its strategy to become a fully cloud-based payments provider with the migration of its digital wallets, Skrill and NETELLER,"
+    publishedDateTime: 2021-11-03T09:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-20080250.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 31
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "Dv9ohJLJIWyhL/IJvHE4vXvkjignfofmxK95HjWUC0ho/qxEWrHu0HeYhCK3N+dqprWmtlEo2/65Eq965Su7G1cfdlSWzk8ALuCnVH5wCt9Q1HqLXv8awSgLYIYR8A0pe3QJPd/vaZL+u81O1re3PBb8xI/vKxezi+NHTgmSLSgDXy6hwoW8teFnRoc1V0DoSoPxYheRkIi4fTcIet+9VYSw2dSE6dxBdx8pzQasEvGAAupN5uVH3m7/hFldeFcD9dMGYlT1vlYmnq3qQo8n9TNGpQgBsuHe+bHi5ONhT2fggCHX6rxnGwsicid+jiPKkEy71spQczQXbDOddr14At2bkPKO6xD7YhDrA0+b0CYqvfaoVVJNn13ftK0qA8aUmuUft6PYiIFjfpvKNIk9YVQcUtsbkjokw1a0eUSGRMGNcc7/rA3g07MvJE/6GLZORzCqHNTgYR+4yBgqclLFU3llch1U2RtHtvcp9q69KR3lo44WzO1i6NDHw+JzgCHB0zcOPy50viJFGgPd3U0RdQ==;pCbjXr53Jt+boA8kUYamjw=="

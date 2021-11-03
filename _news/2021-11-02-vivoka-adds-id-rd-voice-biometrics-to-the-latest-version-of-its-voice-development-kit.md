@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Japanese government selects SAFR face biometrics for in-person service access"
-    excerpt: "SAFR has recently been selected by the Japanese government to provide its face biometrics technology to support the country’s digitalization initiatives."
-    publishedDateTime: 2021-10-29T16:56:00Z
-    webUrl: "https://www.biometricupdate.com/202110/japanese-government-selects-safr-face-biometrics-for-in-person-service-access"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
   - title: "ID R&D voice biometrics integrated into development kit for easy IoT deployment"
     excerpt: "The integration simplifies the building and testing of applications with advanced voice biometrics, according to the company announcement."
     publishedDateTime: 2021-11-02T17:30:00Z

@@ -259,6 +259,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Facebook is shutting down facial recognition system after a decade"
+    excerpt: "Facebook plans to shut down its decade-old facial recognition system this month, deleting the face scan data of more than 1 billion users and effectively eliminating a feature that has fuelled privacy concerns,"
+    publishedDateTime: 2021-11-03T08:25:00Z
+    webUrl: "https://www.forbesindia.com/article/global-news/facebook-is-shutting-down-facial-recognition-system-after-a-decade/71357/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/global-news/facebook-is-shutting-down-facial-recognition-system-after-a-decade/71357/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/global-news/facebook-is-shutting-down-facial-recognition-system-after-a-decade/71357/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 61
+    images:
+      - url: "https://www.forbesindia.com/media/images/2021/Nov/img_170947_facebookprivacy1-bg.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "One of Facebook’s first moves as Meta: Teaching robots to touch and feel"
     excerpt: "Facebook AI Research, is working on touch sensors that can gather information about how objects feel in the real world."
     publishedDateTime: 2021-11-01T17:20:00Z
@@ -274,6 +290,22 @@ related:
       - url: "https://www.popsci.com/uploads/2021/11/01/DIGIT-on-hand-scaled.jpg?auto=webp"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "Facebook To Shut Down Its Facial Recognition System. Here's What It Means"
+    excerpt: "Facebook said this change is going to to impact the Automatic Alt Text (AAT), which ‘creates image descriptions for visually-impaired people’."
+    publishedDateTime: 2021-11-03T09:03:00Z
+    webUrl: "https://www.boomlive.in/news/facebook-facial-recognition-shut-down-meta-technology-15426"
+    ampWebUrl: "https://www.boomlive.in/amp/news/facebook-facial-recognition-shut-down-meta-technology-15426"
+    cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/news/facebook-facial-recognition-shut-down-meta-technology-15426"
+    type: article
+    provider:
+      name: BOOM
+      domain: boomlive.in
+    quality: 60
+    images:
+      - url: "https://www.boomlive.in/h-upload/2021/10/11/959506-facebook-algorithm.jpg"
+        width: 1280
+        height: 768
         isCached: true
   - title: "Facebook to shut its facial recognition system and delete 1 billion faces"
     excerpt: "Facebook is planning to shut its facial recognition system this month before deleting the data it has on more than a billion people."
@@ -630,6 +662,6 @@ related:
       domain: theaustralian.com.au
     quality: 21
 
-secured: "iywGjT7GISsXgpnFHTsAe9RheR7t5UIHgU84jFwcu083ezTZgVnhc873czmNYfKbBLQC84+FVaJG7B7zRwx6DNLpSuks5i6YyalLJK5ptHEan2740iN5mX9oyX+TAxeFX2zMj8Pj3OyArlJjTZQcxnX4m1MaJUiQGAGoTVZnzcGA9qZOqj0siXMkfAOmmKXy1IPl5oCSB9PMYf0UsVAUkI6p67HHdVq/78bYmBLcxOU8n8RivSsIE66ZyMiUe/lUylTvKn2Jxxs1PddthvvGzvZaIQ19v3umzBzBHv1bOGMFX7PAC1h7urHVZC8H63cRUGYIJlHS/v2P4Na1ZRysV9qB8dvFEAfaqdjTzHaSkns=;jH3AoPLabaUrliQxGC90fA=="
+secured: "Hv48BxST7ZR2M6z3b07ZPlDjhSdpnOIMlLZ7xcJkpodwVZpao/493MARv3nGunV80yEH7Az92eDOs01MWjd1V0//WDl4NCq6wK1EG2tsT39CGQw3ju/kVjzdkWSTbnIncq7iMoqEwQphMh/Kd+M5XceNhrTInQ63UDt9KR1P4f62F1AzHBrThDKVNxO+DB4G7eK5/QFq/hwnvwD7OQSMftFsmvYfeM354Trs83CpKp/ISmaMFE8Zr/hzUrfaTYFYtv/TUZt+Su0Z1uE0paGbDhIjXemnRB4cwcMrzXJl7Cc2zwfOpSc5Z+PNh3ptWA/sodm6VWskuIh8aLdLBXR70BfMQvNIog6BUlVtxJaNwyABHYZczXyKc8jSxW6POmLyEoxnen+djAX/QdIpBmuTS2CG8wU4uVs2PEheRSW44QeBuvROJkVggGCO/8fhsCwnuU6E5j1sSNzpotoBeWHAFyoTqoBToJaoCUAKzou4vOYbJYaphMcxtctlV8Di0DJ7CUjUb3X2LCnyapdi8yfv8A==;5aBjKwgnDRpkCN1juKDpUg=="
 ---
 
