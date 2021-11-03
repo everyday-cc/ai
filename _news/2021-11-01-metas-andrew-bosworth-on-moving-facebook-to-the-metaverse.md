@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/22752986/meta-facebook-andrew-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
 type: article
 quality: 74
-heat: 146
+heat: 144
 published: true
 
 provider:

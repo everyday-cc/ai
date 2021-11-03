@@ -86,6 +86,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Robots hit the streets in US as consumer demand for food delivery grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
+    publishedDateTime: 2021-11-02T22:35:00Z
+    webUrl: "https://kdminer.com/news/2021/nov/02/robots-hit-streets-us-consumer-demand-food-deliver/"
+    type: article
+    provider:
+      name: Kingman Daily Miner
+      domain: kdminer.com
+    quality: 39
+    images:
+      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2021/11/02/robots_hit_the_street_9_web.jpg"
+        width: 715
+        height: 406
+        isCached: true
 
 secured: "UP0Ox6ubM9ii0L5Nuv+L6S6aXL8HK2ygHgTv6NA7Aw7VvcZY0ikTBc+oCTFI8OlgFBfipX26o6rQTTzaA8/6wcVHkN18okk/jyF+OEeRtFwBK5Mea+9GHsD45k0FyPqPplZkDNgjxE/xco1g7cmrhyG39N2mJpr2qYQ1Rz4m8GhUG9uTmI3ebetlcHE4l30N7Ni9Y07XjD1opXCiPQ7UFKNDSzwyiibcfQO7v3kuGdtXsXJErapbZQ4dT6gyKaOBi+z1HYFoYQ4IuTRxkXnI1lGkMW6Yf721OA4vt5leCAm7YutsQK4g/9h3EBHde9WDXrlXeQt+EadtSMwJLxrXkaBU/G/1RJGJzdIU2z7Sy7I=;QJ0WuQuuIFf05BIn2tezng=="
 ---

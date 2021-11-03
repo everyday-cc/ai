@@ -146,6 +146,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "How Microsoft Uses Machine Learning"
+    excerpt: "Microsoft uses machine learning to recognize patterns, improve operations and develop better products. By leveraging machine learning, Microsoft is helping users find new ways to integrate computing into their daily lives."
+    publishedDateTime: 2021-11-02T23:28:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-microsoft-uses-machine-learning"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 56
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Microsoft_Uses_Machine_Learning_.jpeg"
+        width: 1757
+        height: 1080
+        isCached: true
   - title: "10 Big Microsoft Azure Announcements At Ignite Fall 2021"
     excerpt: "Azure Arc, Azure Active Directory, Azure Synapse, Azure Cognitive Services and Azure SQL and among the cloud tools Microsoft announced upgrades for this week during its Ignite conference."
     publishedDateTime: 2021-11-02T15:00:00Z

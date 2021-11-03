@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-dema
 cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Robots hit the streets in US as consumer demand for food delivery grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
+    publishedDateTime: 2021-11-02T22:35:00Z
+    webUrl: "https://kdminer.com/news/2021/nov/02/robots-hit-streets-us-consumer-demand-food-deliver/"
+    type: article
+    provider:
+      name: Kingman Daily Miner
+      domain: kdminer.com
+    quality: 39
+    images:
+      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2021/11/02/robots_hit_the_street_9_web.jpg"
+        width: 715
+        height: 406
+        isCached: true
 
 secured: "fcNOjHvziPcRNTzYuLlENaN9zGJ4n2iucIDxaknPnAD7jykAQS6SV2l0O6fHiRrMQVtxoysYe0POxrVcPDE2DrmM9nW0P+0FjVhqJb0h26g1Fze2ub10uXDAOETi0PEpVc0mCl/LyfURHucGchs/UXGYrF73l4FSyuvz7ioVQA2jYnTJuR2uksCVaeRC1QO5/rPsfFbF1Kxe/m6gTAfJZaOjWqV4zP2K0lStgkS9KfvZzybkZAAp7bof54zsfF/XuBG0Re5ASUbujSIxlKGzt8E7nyYGdkJNiE5FYQAMxwQ+K8mvRpM9YiCw/ggEzF8VpjNm/HGzzToM2uOpHFoBZvxZEKj7E4SkcdtoBPNKv6c=;pBKxMvcG84981fk7SPcrgQ=="
 ---

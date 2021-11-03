@@ -154,6 +154,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "How Microsoft Uses Machine Learning"
+    excerpt: "Microsoft uses machine learning to recognize patterns, improve operations and develop better products. By leveraging machine learning, Microsoft is helping users find new ways to integrate computing into their daily lives."
+    publishedDateTime: 2021-11-02T23:28:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-microsoft-uses-machine-learning"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 56
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Microsoft_Uses_Machine_Learning_.jpeg"
+        width: 1757
+        height: 1080
+        isCached: true
   - title: "10 Big Microsoft Azure Announcements At Ignite Fall 2021"
     excerpt: "Azure Arc, Azure Active Directory, Azure Synapse, Azure Cognitive Services and Azure SQL and among the cloud tools Microsoft announced upgrades for this week during its Ignite conference."
     publishedDateTime: 2021-11-02T15:00:00Z
@@ -222,6 +236,6 @@ related:
       domain: openpr.com
     quality: 13
 
-secured: "HfszVNWvVIH6Vz2LbYSk1m9s5LUQvfarOKGf9H8sMMYwUG5Rwv1+Hk0miXGDs9J3xNTgQImzvSDiz3OgnaVIpmaI4UfPtP1P8NW6CihXyZKgGq2NrFv4pfTQVpjPW1fd+jE+P5xBWvtmwgvBBQw9Ahfp6EbvbT3hkaVd56SgAvTmeYXaeMB5EpPwyf9T7o84+w+Lhs32dpdfeYHifOYwm8PN5VcLuDiYo6DmCGQtmDoPU7RYCic5OOEfQ87DdMIiYi8XNrtwwUsu2nHn403wTW525gL0xeNaCnBQNJweBrfFVxz+0R2eiZNFCoDftvtU8Y/LXc6hBtoQv0L851GVsaHboOXRYanSirPskpgGFH8=;mgSjakLZBbGaXrKua+zmJQ=="
+secured: "ucF1b1X3CQtWdD33DKTyogJa2DRjXLCfdpe4sg6H5o4GHSdnyeY1FeCcHxUZ/B+ZfYeB8jwU7rqHPoIDDkeVAmOmV/S1DHQZgbgtO1RJihRdzoKn/eJoIZdiiSHImP2kTnXWwGA94CuYdrD716xCz5aiwGIqGdXt1ti41LpWWtX/p5TvsHmzGfsvFvIrgcHARiH0lxDUmncXQBHAFRuzT5RGEbZWv0hvdlLCyvvtqzQQ1TCFyAVlKlDKgMi1E8jy8VFgDRu9Tkw6z71n7DD2t62Y+GP/i3rQT4Tqvf1DkKKfvyGi3mDZdSz5hzN7/Sp9HriBIap5sNX5UJnVt+xNwuaxOaLb/NulNTds3NazTzU=;/vjHsQ5vuv0mqkCdDqnfSw=="
 ---
 

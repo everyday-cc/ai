@@ -2,27 +2,23 @@
 category: news
 title: "Facebook to shut down face-recognition system, delete data"
 excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-publishedDateTime: 2021-11-02T18:45:00Z
-originalUrl: "https://apnews.com/article/technology-business-data-privacy-artificial-intelligence-85a21a8079a757f2ff99972f1858f7ce"
-webUrl: "https://apnews.com/article/technology-business-data-privacy-artificial-intelligence-85a21a8079a757f2ff99972f1858f7ce"
+publishedDateTime: 2021-11-02T23:48:00Z
+originalUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
+webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
+ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - Computer Vision
+  - Facebook AI
   - AI
-
-images:
-  - url: "https://storage.googleapis.com/afs-prod/media/abaf40a7a78443bf9e25b6a0d7be756b/3000.jpeg"
-    width: 3000
-    height: 2000
-    isCached: true
 
 related:
   - title: "Facebook battles the challenges of tactile sensing"
@@ -88,6 +84,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61818c41c0c8fbd40c3ab291%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1929%26cropY1%3D28%26cropY2%3D1113"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Facebook to Shut Down Facial Recognition in Photos, Videos"
+    excerpt: "The social-media platform said it would delete individual facial-recognition templates for over one billion people, scrapping a feature that raised concerns among privacy advocates and regulators."
+    publishedDateTime: 2021-11-02T18:39:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174?mod=tech_lead_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-427757/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Facebook’s facial recognition program is shutting down"
     excerpt: "Facebook announced on Tuesday (Nov. 2) that it is shutting down its facial recognition program. The company has been using the technology for a decade—much to the concern of privacy advocates, civil liberties groups,"
@@ -180,6 +192,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/10/ReSkin-dog-shoe.gif"
         width: 768
         height: 432
+        isCached: true
+  - title: "Facebook to stop using facial recognition, delete data on over 1 billion people"
+    excerpt: "Facebook introduced facial recognition in 2010, allowing users to automatically tag people in photos. The feature was intended to ease photo sharing by eliminating a tedious task for users. But over the years,"
+    publishedDateTime: 2021-11-02T21:58:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2021/11/after-tagging-people-for-10-years-facebook-to-stop-most-uses-of-facial-recognition/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 65
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/GettyImages-1182969866-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "One of Facebook’s first moves as Meta: Teaching robots to touch and feel"
     excerpt: "Facebook AI Research, is working on touch sensors that can gather information about how objects feel in the real world."
@@ -448,6 +474,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Facebook says it will shut down face-recognition system, delete data"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-02T22:21:00Z
+    webUrl: "https://kdminer.com/news/2021/nov/02/facebook-says-it-will-shut-down-face-recognition-s/"
+    type: article
+    provider:
+      name: Kingman Daily Miner
+      domain: kdminer.com
+    quality: 24
+    images:
+      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2021/11/02/Facebook_says_8.jpg"
+        width: 715
+        height: 404
+        isCached: true
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."
     publishedDateTime: 2021-11-02T21:27:00Z
@@ -458,6 +498,6 @@ related:
       domain: theaustralian.com.au
     quality: 21
 
-secured: "iC2Tv4Sp7I75FHKL3X3FwagkGewa3VYP4TePXTvWWtN0aM+VfXPReD53pXp4kH22TQSGOCPKPlPHml8ev5YzI/P+zb5beYhYBuq/aVG7v4EBqB5h3TbS0j9GT3Se5W20V6LCZ6oHvKHHygAsYzLuZVig9Cpdwil3cx2DMhWy3qkvTH8xwLdJ83lwxIG3Jgn09J5gu4NN3y0jztD2ehfbESTB6jVaUrcEXCISkRzUWq2xtU5WYl07tZQOVdZv0jbRv1OK8AIhzH2yAiBf14zDFv4ghB2KUzIxRoLfuCvf1ylzCAOsfP6/BOTcWncnhnT9SXIQVh3DyC6U4bjHe2HDFoJ9yogrwqRQD57/volbCRA=;N9Ss6VVYT0G9aCC6yWR1fw=="
+secured: "jjduBeWNGzX2qHDkBBlafHJV5lCwvC04FJiQLj8RbnnzZpKJ82927iCflDZ9zLOEWknCVGHwO/BeA88I7coutTIhcn84xzxtRwQ/9/oICR/A/+dkdFx/0KcZycuknkh8RP1Loo6z5gxHBEQFLW22rGCfcsiWt2NaDcofUXgdYObu2OGj0LqXyp8qULyqEEF0yCS/r3EQeu9UFnySFjsPO5ngJcjHVmBksTT6vVf3Xd6GoS6fWPsNihJejDlnDb6idvI030KdOvrLcphnHKKdxHX0B8nY53BoH++/S6lE79PVpkTg52OdzFuK5hOGNUwwYRW3PYvMK86JzMqN8aviJeY8rq/l5G24EqEzUtmhnAyIs5uLtUzeeadmg0ce7xKsTMpWVaH/6LNWRMy+VLma/L2y/gkebqGDJCYTSOtBKixdBuUdcb7hX2SFDl5Xpdt/7xz95O02CU9405vCD8kdHKJkJMC5Crznlr+UK7sAW8zKiW+9QgqMoY17zNoNM06jGQfazdmpTMskVsXywy1lqg==;rik5bts5T4lVXBWrPVMBYw=="
 ---
 

@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facebook to Shut Down Facial Recognition in Photos, Videos"
+    excerpt: "The social-media platform said it would delete individual facial-recognition templates for over one billion people, scrapping a feature that raised concerns among privacy advocates and regulators."
+    publishedDateTime: 2021-11-02T18:39:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174?mod=tech_lead_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-427757/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Facebook’s facial recognition program is shutting down"
     excerpt: "Facebook announced on Tuesday (Nov. 2) that it is shutting down its facial recognition program. The company has been using the technology for a decade—much to the concern of privacy advocates, civil liberties groups,"
     publishedDateTime: 2021-11-02T20:42:00Z
@@ -170,6 +186,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/10/ReSkin-dog-shoe.gif"
         width: 768
         height: 432
+        isCached: true
+  - title: "Facebook to stop using facial recognition, delete data on over 1 billion people"
+    excerpt: "Facebook introduced facial recognition in 2010, allowing users to automatically tag people in photos. The feature was intended to ease photo sharing by eliminating a tedious task for users. But over the years,"
+    publishedDateTime: 2021-11-02T21:58:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2021/11/after-tagging-people-for-10-years-facebook-to-stop-most-uses-of-facial-recognition/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 65
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/GettyImages-1182969866-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "One of Facebook’s first moves as Meta: Teaching robots to touch and feel"
     excerpt: "Facebook AI Research, is working on touch sensors that can gather information about how objects feel in the real world."
@@ -438,20 +468,31 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
-  - title: "Facebook to shut down face-recognition system, delete data"
+  - title: "Facebook says it will shut down face-recognition system, delete data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-02T18:45:00Z
-    webUrl: "https://apnews.com/article/technology-business-data-privacy-artificial-intelligence-85a21a8079a757f2ff99972f1858f7ce"
+    publishedDateTime: 2021-11-02T22:21:00Z
+    webUrl: "https://kdminer.com/news/2021/nov/02/facebook-says-it-will-shut-down-face-recognition-s/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Kingman Daily Miner
+      domain: kdminer.com
     quality: 24
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/abaf40a7a78443bf9e25b6a0d7be756b/3000.jpeg"
-        width: 3000
-        height: 2000
+      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2021/11/02/Facebook_says_8.jpg"
+        width: 715
+        height: 404
         isCached: true
+  - title: "Facebook to shut down face-recognition system, delete data"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-02T23:48:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."
     publishedDateTime: 2021-11-02T21:27:00Z
@@ -462,6 +503,6 @@ related:
       domain: theaustralian.com.au
     quality: 21
 
-secured: "1hAmhSfAHOYlEI5PJ7dgfMCUBC11Mui7rmV6/5rrsGPrFqnqLwHCyroRgaqbvYPoule4Wyqn6EcBFJ2lkysquEEgcovBnJlkAYQfrxfz41gtI1E2qyEhpAVutYEiV4d0s7aZ1YeLRak1Qu0DG6ytNqpBBqoayjkA7V8s5SdmhYvbsoyhuGQ+bu81czenNQOfjvXBsNsz5HBByiHyCuAUpvO8mz9eHc2gD46OGYpG6lRNMBSsUWG/INdOmJjkZoaj+AuZu1vuGnDf4gRhvsgmMcvP0sFrtboNRgBU8NMNYnTAAdoI9lpOAh+3ti7K/ZmYGsVVzdk8TbwlU1zuniiynNQsLkx/fCd37zxjdyrrXik=;HIQAnmMikQryMYkMJ1aknQ=="
+secured: "gCoMQOCeEfkuN+//2cWJnlcBJe+ZKDbAl+b6ztBLqKd26B8gITHwMhct8pIHwQiqd5jIvTw3OtHruLHfNaO2geGdzFb3vch2APyzVfCTQWhxcPMqLD9nz1iiuNQWnRdKHvQB+ImsCPJ6gEYdlTUkl9SFZese35wvAyBDvnjvEyocVDkfo9TRJ4itfZb/nBRdl3rGFh3Z6XTkzCMAWBIKiNn9Yh1+rb6KCe1iAHbQMCSsijVP3nmH/sZwqucioAtXvVYjpiGqoQ/r64SVehWzSKBl4a4gfzlO97t8LXsSdSZXZeSSKVHqcODf9brrtipHH8k22L2fD7Y8psqoPUslK0ELNJbZZ+JNdYjMgdySR0mLZ1SAB7nVHvtqhqg+QJRp5JyeDeYtQitNLN1t1/ep5rzTZqH4RPVQD7fAy+DJ1mZYLEhhSdce9KTmdEf1rcbwtf+i1FOs/lije7a1WgwxGtgyAtMKsuR3Nxzg1Y4Pi7V7bac/NoMU9BOheuiZhWe5w1ST9OqRzIsg0yxmYbBMQw==;/0dg3AS/+qsdjkq7KvQknw=="
 ---
 
