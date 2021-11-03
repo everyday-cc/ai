@@ -97,9 +97,9 @@ related:
         height: 675
         isCached: true
   - title: "Facebook to Shut Down Facial Recognition in Photos, Videos"
-    excerpt: "The social-media platform said it would delete individual facial-recognition templates for over one billion people, scrapping a feature that raised concerns among privacy advocates and regulators."
-    publishedDateTime: 2021-11-02T18:39:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174?mod=tech_lead_pos1"
+    excerpt: "Social-media platform is to delete individual facial-recognition templates for over one billion people."
+    publishedDateTime: 2021-11-02T20:59:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174"
     ampWebUrl: "https://www.wsj.com/amp/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174"
     type: article
@@ -301,7 +301,7 @@ related:
   - title: "Facebook to end use of facial recognition software"
     excerpt: "Facebook has announced it will no longer use facial recognition software to identify faces in photographs and videos. There have been growing concerns about the ethics of facial recognition technology,"
     publishedDateTime: 2021-11-02T22:50:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-59143323"
+    webUrl: "https://www.bbc.co.uk/news/business-59143323?at_medium=RSS&at_campaign=KARANGA"
     ampWebUrl: "https://www.bbc.co.uk/news/business-59143323.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-59143323.amp"
     type: article
@@ -440,10 +440,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook to shut down face-recognition system, delete data of 1B people"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete faceprints of more than 1 billion people."
+    publishedDateTime: 2021-11-03T03:00:00Z
+    webUrl: "https://www.clickorlando.com/business/2021/11/02/facebook-to-shut-down-face-recognition-system-delete-data-of-1b-people/"
+    ampWebUrl: "https://www.clickorlando.com/business/2021/11/02/facebook-to-shut-down-face-recognition-system-delete-data-of-1b-people/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/business/2021/11/02/facebook-to-shut-down-face-recognition-system-delete-data-of-1b-people/?outputType=amp"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 44
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/KOB5ROGZ4ZH6VMUFFMQDFU6RFQ.jpg?_a=ATABlay0"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Facebook to shut down face-recognition system"
     excerpt: "The setting’s removal will mean deleting more than a billion people’s individual facial recognition templates, a company official says."
     publishedDateTime: 2021-11-03T00:07:00Z
-    webUrl: "https://www.mercurynews.com/2021/11/02/facebook-to-shut-down-face-recognition-system"
+    webUrl: "https://www.mercurynews.com/2021/11/02/facebook-to-shut-down-face-recognition-system/"
     ampWebUrl: "https://www.mercurynews.com/2021/11/02/facebook-to-shut-down-face-recognition-system/amp/"
     cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/02/facebook-to-shut-down-face-recognition-system/amp/"
     type: article
@@ -490,17 +506,17 @@ related:
         isCached: true
   - title: "Facebook to shut down face-recognition system, delete faceprints of 1 billion people"
     excerpt: "More than a third of the social media giant’s daily active users have opted in to have their faces recognized by its system."
-    publishedDateTime: 2021-11-02T20:55:00Z
-    webUrl: "https://www.siliconvalley.com/2021/11/02/facebook-to-shut-down-face-recognition-system/"
-    ampWebUrl: "https://www.siliconvalley.com/2021/11/02/facebook-to-shut-down-face-recognition-system/amp/"
-    cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2021/11/02/facebook-to-shut-down-face-recognition-system/amp/"
+    publishedDateTime: 2021-11-03T03:55:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/11/02/facebook-to-shut-down-face-recognition-system/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/11/02/facebook-to-shut-down-face-recognition-system/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/11/02/facebook-to-shut-down-face-recognition-system/amp/"
     type: article
     provider:
-      name: Silicon Valley
-      domain: siliconvalley.com
+      name: East Bay Times
+      domain: eastbaytimes.com
     quality: 37
     images:
-      - url: "https://www.siliconvalley.com/wp-content/uploads/2021/11/sjm-acebook-Giphy_87173674.jpg?w=1024&#038;h=683"
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/11/sjm-acebook-Giphy_87173674.jpg?w=1024&#038;h=683"
         width: 1024
         height: 683
         isCached: true
@@ -601,6 +617,6 @@ related:
       domain: theaustralian.com.au
     quality: 21
 
-secured: "VDDnIFFOXKUN/VkyFfeEVXKuy531Y4Th98JzBcUVk7hd9o6zce/9cNrwXtla5iIXrBgUaCfQQJPv+zf47R4+dnKhZfH3Hb6jQXoKlEZY8pn5TmQgxGZPUVefTFz0Ky5Njl5QA8WDPsbf7r302OkHm8/SC2lzF3R2dVMcWClIo71Tr4Wgd5WkDUfSaXo1exBlBoQGkOKKlQek9Hv3kmfx1xnGe2I27ul0ka194ou8AFqooNYoYSWi0co89HJIr1Cabpp1vV+B8Tf9SCBczoKs9emKtFzbOOcMITbi15x8yZdtltmRAE8ttFUyiRa3y70Rl5QiS41mfVxMvCjL3QNiXvJRxuDV3Sa3Az2G0aGEE4w=;vYVXpsRkw7C86i/Hk92nBQ=="
+secured: "pDG9rI6YCtFzYoqkguJAR83MkVCcLoOw5RN8ATGmE6jtLx3qva60PKKD+jNRil4rJwRpAUXJYXb9EvFYxk5W412lUQ+lNXIeP1NVga6vqXG3+g3RvvBI9n8uRtixWR4jcjsHHk9ylQHBgttLf8SKE0vDIVyWrqO0+nlexZTxC3g5o+PhFdjS8IUU01IvKuI/NmxfQ4azVi9fvMZNhD2haFZH2H0snV+NLYfja1CG7eoCWan9Vtj8yPXtJLVOXxmyqa/D//o7sUeqULEMnSn8sE+p6b52YpIAG66MLXwWZhMRe2RhGy/2tEzgu3TYenPP9NWoA0lQV5Csq9PWYeg8c+otrXKmUP7BitPVl4V2rFdB4ci90uHE2sfQghCGzJird9AgPQgCTK234GJf58P9FXbFPbw2edIKCsPZkzK8Md1qhOAkwbsgIOru7SBdzO3iCIKZezuvzHEkU0/k48zlfAtTnRkMDlho9vnMsOG8UKDy4UlDkhNymDRjpFsbBYSaONi/Qu7cYfsK3b7xWrAyrw==;yzKCqcZPdFYr/LtuGI0bwg=="
 ---
 

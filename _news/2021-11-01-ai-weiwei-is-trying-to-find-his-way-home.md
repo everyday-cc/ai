@@ -72,6 +72,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Artist Ai Weiwei on his father's exile and hopes for his own son"
+    excerpt: "Over the decades, Ai Weiwei has become one of the most influential artists and activists of our time, which is why the Chinese government has long fixed its gaz"
+    publishedDateTime: 2021-11-03T02:13:00Z
+    webUrl: "https://www.iowapublicradio.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son"
+    ampWebUrl: "https://www.iowapublicradio.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son?_amp=true"
+    cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son?_amp=true"
+    type: article
+    provider:
+      name: Iowa Public Radio
+      domain: iowapublicradio.org
+    quality: 57
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/ae694b0/2147483647/strip/true/crop/6423x3615+2+0/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F11%2F02%2Fgettyimages-1236296537_wide-7a4bdd11feb5ed3923fa7e13ea3b097116ef989c.jpg"
+        width: 430
+        height: 242
+        isCached: true
   - title: "BBC Sounds - 1000 Years of Joys and Sorrows by Ai Weiwei - Available Episodes"
     excerpt: "Listen to the latest episodes of 1000 Years of Joys and Sorrows by Ai Weiwei on BBC Sounds"
     publishedDateTime: 2021-11-01T21:06:00Z

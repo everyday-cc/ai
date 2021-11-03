@@ -89,6 +89,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Why Tesla's Full Self-Driving software is so controversial"
+    excerpt: "Tesla's prototype Full Self-Driving software is going out to more and more drivers. But critics say it isn't ready for primetime."
+    publishedDateTime: 2021-11-02T20:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-fsd-beta-full-self-driving-autopilot-software-controversy-2021-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://images2.markets.businessinsider.com/60ef4a6661b8600019f17258?format=jpeg"
+        width: 751
+        height: 526
+        isCached: true
   - title: "Tesla issues a recall over its latest self-driving update"
     excerpt: "The software communication error reportedly impacted Tesla Model S, X, 3, and Y vehicles released from 2017 through 2021."
     publishedDateTime: 2021-11-02T19:11:00Z

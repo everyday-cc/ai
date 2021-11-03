@@ -38,20 +38,6 @@ related:
         width: 360
         height: 480
         isCached: true
-  - title: "The Future Artificial Intelligence in Telecommunication Market Might Surprise You 2021"
-    excerpt: "In this case Artificial Intelligence plays a key role because it is used to predict and analyze issues faster than human. Artificial Intelligence will make the fifth generation of mobile networks more open enabling connectivity to predictability."
-    publishedDateTime: 2021-10-29T10:50:00Z
-    webUrl: "https://chipdesignmag.com/the-future-artificial-intelligence-in-telecommunication-market-might-surprise-you-2021/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 29
-    images:
-      - url: "https://www.themarketfeeds.com/seoimages/three.jpg"
-        width: 3250
-        height: 3854
-        isCached: true
   - title: "Wipro Partners with TEOCO to Develop Next-Generation Network Solutions for Communication Service Providers"
     excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting, and business process services company, has partnered with TEOCO to develop solutions that help communication service providers (CSPs) improve network automation,"
     publishedDateTime: 2021-11-02T00:00:00Z

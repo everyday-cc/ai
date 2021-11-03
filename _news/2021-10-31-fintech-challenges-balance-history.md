@@ -131,20 +131,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "Revolutionary Ways Fintech is Boosting the Property Industry"
-    excerpt: "Discover the most disruptive ways fintech expands the property sector, from digital-only lending and fractional ownership, to property-backed stablecoins"
-    publishedDateTime: 2021-10-29T09:10:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/revolutionary-ways-fintech-boosting-property-industry"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/property-ladder-made-of-wooden-toy-houses.jpg.png?itok=veSXrwG0"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "4 FinTech Tweets you should see!"
     excerpt: "FinTech companies like any other are now embracing social media to tell their stories, engage with their consumers, and leverage influence."
     publishedDateTime: 2021-11-01T09:03:00Z

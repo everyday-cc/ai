@@ -9,7 +9,7 @@ ampWebUrl: "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-l
 cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

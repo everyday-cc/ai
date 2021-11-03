@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/democratiz
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/29/democratizing-ai-to-transform-your-business-in-an-unpredictable-future/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQF7PX84Cs_qNA/article-cover_image-shrink_720_1280/0/1635493276408?e=1641427200&v=beta&t=x-X-j9uuE_o-yNhu2XmShZIVQ14hPuJ2BlCY0tMvTA0"
         width: 800
         height: 601
+        isCached: true
+  - title: "Growing Your Business Through AI-Powered Language"
+    excerpt: "These changes made a material difference as a result of applying AI-generated language to its marketing efforts. The company plans on using AI language personalization to improve its customer-service interactions—and potentially to strengthen its employee experience internally as well."
+    publishedDateTime: 2021-11-02T16:53:00Z
+    webUrl: "https://hbr.org/sponsored/2021/11/growing-your-business-through-ai-powered-language"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/10/HBR-1200x675-B.jpg"
+        width: 2001
+        height: 1126
         isCached: true
 
 secured: "b5mchS1rQ5kZQdU34RxUkXD2kNrfiCIuxrfikOxIFIs75ZQF8LxuVTTnZhAkk3Ro53Le/xasgiM2D8KGgZhXI5RI++eWXFhuw8qFUFR9CLPVgEJdT6pjg0+gx1wFStEgcyCtMJd3DXufSyZF3e6irGshwD/tyaR1ttFhi2/4CC1AkSaCs4x7EMrYOv6LdILAB2oszh/03nrcb5tergoNWbm1irWUcczOcZOrGq0MJ9czioJkyGgYd6uc0YetsDd+aTrTvqTSULSaBFpZGBQzXOWCBZnAuG3z7lybBbSCWMIoTrxOSPDnEft98bQtyzKtZHi3z0yhKzSBgMsk83j3WvyEFTJn9KTDxzRwd0Zl06I=;IvaSregyQA+YBz9+c7lgsw=="

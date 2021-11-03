@@ -1,18 +1,18 @@
 ---
 category: news
 title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
-publishedDateTime: 2021-11-02T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
-webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
+excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
+publishedDateTime: 2021-11-02T12:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -196,6 +196,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft taps telehealth company to use AI in preventive care"
+    excerpt: "Microsoft and telehealth provider Babylon are partnering to enhance artificial intelligence's use in preventive healthcare. Three things to know: The organizations will use AI and cloud computing to explore opportunities to increase their health IT offerings,"
+    publishedDateTime: 2021-11-02T22:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-taps-telehealth-company-to-use-ai-in-preventive-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
     excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
     publishedDateTime: 2021-10-29T19:05:00Z
@@ -236,6 +250,6 @@ related:
       domain: openpr.com
     quality: 13
 
-secured: "0D1/7o8HfVgFmWzkujn1Yh4tWbD6+c8j2uyXhzoHRaAn/dcCA2FUw5hdU8SeyOrU94aSx1SqV9JlYfCYSk0p0yXEmkNUL7OvNHXR9avLNBjUJWi4YWBGl3hdUHM9wbc61AQoPZBzYa29gqgOBFVsFipukUwC1RQlBuVtbbioX6vhSvCGzMtoARraJOhHPIJ/lRrWUD3klYA1yJHOWVQFAGWwH0C9KRpm37pY0lUqqDh0cImN6D5d8f6kjC4OzAj9rc7RVqY6Olhj9uJOz0XUbo3UKRLkL20hZmzceKLQGLJ8a1756E0TmH+7UfpuYNpc5V068o/EuWvQXR/Mk3LaVAwy00yV7aNl5K0m92G68jA=;C9uH+iJvLS8YanZixMqsEg=="
+secured: "ouwj8K9rK6X7N3FENt8watGew5p395rmmfOExsQox2jYmC9FCS9nNKStPwnbtLVEbjWQG50/f3C5e2xOK4nEoW4NECmt9npgZIkysOZK12G8Es0gV+C9XKTvOnTa5VVbqr2oQIn786VTMiUMLVzhXh0cNoG8731Nk+borzxo0kq35N/K+PCTUT24UMNUN1TT+BmE4fBTwcnNayhyBCrHEx1UMRo8JEKoLdAyzNbaKJekIvKmPAV/TUYq82gYwOtfeYjwnsjFIW6QLwDXhXGRfLQz95mtf3mwiFH1OLupSwt8gh6VZxTQqTpZsUTbK+Dg0ax81R9AWjMEJlx2f3F76lg/X0N48gpwuD+zvgAo+/8=;4Bva9ji2fRCcMmyCdar22w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-11-artificial-neural-network-rad
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp"
 type: article
 quality: 56
-heat: 76
+heat: 77
 published: true
 
 provider:

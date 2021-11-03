@@ -39,6 +39,20 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software,"
+    publishedDateTime: 2021-10-29T13:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--826606543.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
   - title: "Artificial Intelligence (AI) in Media and Entertainment Market Is Booming Worldwide | Wipro Limited, Google Inc, NVIDIA"
     excerpt: "Get the inside scoop of the Sample Artificial Intelligence (AI) in Media and Entertainment report @: jcmarketresearch.com/report-details/1468817/sample Research Methodology while conducting the study of “Global Artificial Intelligence (AI) in Media and Entertainment Market Data Survey Report 2029” Secondary research Our Artificial Intelligence (AI) in Media and Entertainment industry analyst refer a broad array of industry sources for our secondary,"
     publishedDateTime: 2021-11-01T16:21:00Z

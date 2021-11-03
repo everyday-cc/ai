@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/tesla-warning-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "Why Tesla's Full Self-Driving software is so controversial"
+    excerpt: "Tesla's prototype Full Self-Driving software is going out to more and more drivers. But critics say it isn't ready for primetime."
+    publishedDateTime: 2021-11-02T20:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-fsd-beta-full-self-driving-autopilot-software-controversy-2021-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://images2.markets.businessinsider.com/60ef4a6661b8600019f17258?format=jpeg"
+        width: 751
+        height: 526
         isCached: true
   - title: "Tesla issues software recall for glitch in ‘Full Self-Driving’ software"
     excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."

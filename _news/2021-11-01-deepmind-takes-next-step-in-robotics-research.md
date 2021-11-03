@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/"
 type: article
 quality: 121
-heat: 131
+heat: 133
 published: true
 
 provider:

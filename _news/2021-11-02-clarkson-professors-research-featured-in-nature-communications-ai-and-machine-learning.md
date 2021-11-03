@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Artificial Intelligence in Telecommunication Market Might Surprise You 2021"
-    excerpt: "In this case Artificial Intelligence plays a key role because it is used to predict and analyze issues faster than human. Artificial Intelligence will make the fifth generation of mobile networks more open enabling connectivity to predictability."
-    publishedDateTime: 2021-10-29T10:50:00Z
-    webUrl: "https://chipdesignmag.com/the-future-artificial-intelligence-in-telecommunication-market-might-surprise-you-2021/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 29
-    images:
-      - url: "https://www.themarketfeeds.com/seoimages/three.jpg"
-        width: 3250
-        height: 3854
-        isCached: true
   - title: "Mitsui in collaboration pacts on artificial intelligence and carbon capture, utilisation and storage"
     excerpt: "The Japanese company has signed memorandums of understanding with Denbury Resources and PGS related to the energy transition"
     publishedDateTime: 2021-11-02T02:23:00Z

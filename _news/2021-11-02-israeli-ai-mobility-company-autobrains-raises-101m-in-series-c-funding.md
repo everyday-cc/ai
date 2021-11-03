@@ -40,17 +40,17 @@ related:
         isCached: true
   - title: "Horizon3.ai Raises $30M Series B to Disrupt the Pentesting Market"
     excerpt: "Horizon3.ai, a cybersecurity startup focused on autonomous penetration testing, today announced $30M in funding. Co-founded by former Splunk CTO, Snehal Antani, and Anthony Pillitiere, former Deputy CTO within the U."
-    publishedDateTime: 2021-11-02T14:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/horizon3-ai-raises-30m-series-b-to-disrupt-the-pentesting-market-1030927040"
+    publishedDateTime: 2021-11-02T16:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/f1cef8200d04e6e641e2e9121b9d58d5"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1676117/Horizon3ai_SeriesB_Reuters_3.jpg"
-        width: 400
-        height: 365
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "HrxCtTQcAgL4op1q51lrsAKqR7r6/zC03JrUxIH57snaft/uBGc3Aj06epqVOX8FHeXMUTMzQIoktIFsloSrBfL9zWsCV/CXV1JBiVF9OfcoCPMvKYNSxrKgly4ftLrb9eILwhVyKuigPP5kwbXHEH0yTl8h9dqOpKn5wkiKNoF0mDGl1KX2s+rH9AcExH7T5v7aq3NAzY6OrOAdSTVfpVuqLmgPZCWre59hm523L94hgIbfYWEFTXOkXZkrl7y0DJIIK+Vnn/rgfOk1OfbqEhptlkxBR+RCYcAOCpwt8H9lD2gC6uAJeDHVjWKrgzC+9G3rIP7hgWI4VadLwt7zyZldWAIjmQ6wG0j1xzqrzpUyMI2a0EIM5XVL9sP1BVBAh94TLA9qLceWNClRKnyATFEL4rnJ4587iOWH9HyKdfrjTdFtXFXtg96pELHQepTr5dRxvKBAnU+iSF4SbLRBq3asbuI4yHXmaeco3c3UFMtRTNR4nvIfLxP7njS/oSbcM+w08mI1mmAYH86SkjO7csUJOi9jvXhPVVTSRv4jjUM=;+5h9WhZqFNkJfIz6M1Xg2Q=="

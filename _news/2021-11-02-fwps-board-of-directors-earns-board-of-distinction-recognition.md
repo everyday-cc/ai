@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice And Speech Recognition Software Market To Be Driven By Technological Advancements In The Forecast Period Of 2021-2028"
-    excerpt: "The Voice And Speech Recognition Software market report discusses in-depth the growth opportunities, challenges, growth drivers, and restraints, threats, and demands of the market. Further, the research assesses the regional market as well as the global market to gather the data into the scope of the Voice And Speech Recognition Software market."
-    publishedDateTime: 2021-10-29T09:18:00Z
-    webUrl: "https://chipdesignmag.com/voice-and-speech-recognition-software-market-to-be-driven-by-technological-advancements-in-the-forecast-period-of-2021-2028/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 13
-    images:
-      - url: "https://marketnewstoday667356072.files.wordpress.com/2021/09/analyzing-data.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "HdgbyOC8nklRmBDqLKwDxIbAZa17dKZNx/3Nj00veVjCQlaKPz0CeQg2uMNpqGY6uPRMraW/uSXP6DUmgfz8gfGQm5wJ1WiMXb6XUatCUuzMJ9rVLAffDUFp/OUo9MLR/Kc49QkvYV+yW0FacU+7P7SfVzARbD7t+LSmvWGdhIZvkGX8b/YRkgl1O9FhO9/WkIiWAVP9Fe/NCCZExz8IPnDbFMWFvzSlQOql1exrJoYTca679vGYmfwMZBOqeOr6H7NKKgChkscXu7W/LO4HSQUx4Xlv/yajyYLxzET3lff0grT/OY4PqP8mIodA9rgze5Jb1O1/SLg3MohBJvQ0U2+qcBWdbC0guVPqDO07uD3ZvFVwSKS8J7FnccUL89fLm1M4kuB7TyddUNu5tjqa37mSJeQtP/6SfJBN0Onf1VLKhHet9tioVeD1ya1D6e+a05er0dVVdTd5G3te06A6BhzHl537Hi6mDcHBl1SiHCxhuRcb4JKdSLNUWN7AYRy+qxWcoqVVDLzlN0PEt1nnxQ==;MvalsQDROhYg9J72LzFSRw=="
 ---

@@ -1,54 +1,96 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Comput"
+excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software,"
 publishedDateTime: 2021-10-29T13:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027---exclusive-report/article_76e6767d-827a-55ea-b152-f3bf1df17c14.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027---exclusive-report/article_76e6767d-827a-55ea-b152-f3bf1df17c14.html"
+originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--826606543.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--826606543.html"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
-    width: 669
-    height: 229
+  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+    width: 666
+    height: 350
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarketstm"
-    excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-aware Computing, Computer Vision),"
-    publishedDateTime: 2021-10-29T23:04:00Z
-    webUrl: "https://www.lelezard.com/en/news-20073519.html"
+  - title: "Artificial intelligence (AI) Chips Market: Worldwide Industry to Boost in the Period of 2021-2026"
+    excerpt: "Chips Market Research Report presents the overview and in depth study of worldwide Artificial intelligence (AI) Chips Market for"
+    publishedDateTime: 2021-11-02T22:00:00Z
+    webUrl: "https://www.reportsgo.com/artificial-intelligence-ai-chips-market-181757"
+    type: article
+    provider:
+      name: reportsgo
+      domain: reportsgo.com
+    quality: 56
+    images:
+      - url: "https://www.reportsgo.com/img/img-1.png"
+        width: 500
+        height: 300
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Media and Entertainment Market Is Booming Worldwide | Wipro Limited, Google Inc, NVIDIA"
+    excerpt: "Get the inside scoop of the Sample Artificial Intelligence (AI) in Media and Entertainment report @: jcmarketresearch.com/report-details/1468817/sample Research Methodology while conducting the study of “Global Artificial Intelligence (AI) in Media and Entertainment Market Data Survey Report 2029” Secondary research Our Artificial Intelligence (AI) in Media and Entertainment industry analyst refer a broad array of industry sources for our secondary,"
+    publishedDateTime: 2021-11-01T16:21:00Z
+    webUrl: "https://chipdesignmag.com/artificial-intelligence-ai-in-media-and-entertainment-market-is-booming-worldwide-wipro-limited-google-inc-nvidia/"
+    type: article
+    provider:
+      name: Chip Design
+      domain: chipdesignmag.com
+    quality: 28
+    images:
+      - url: "https://chipdesignmag.com/wp-content/uploads/2021/11/Global-Artificial-Intelligence-AI-in-Media-and-Entertainment-Market-Including-Key-Players-Market-Share-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Conversational AI Market worth $18.4 billion by 2026 - Exclusive Report by MarketsandMarketstm"
+    excerpt: "According to a research report \"Conversational AI Market by Component (Solutions and Services), Type (Chatbots and IVA), Technology (NLP and ASR), Business Function (Sales and Marketing, and Operations),"
+    publishedDateTime: 2021-11-01T15:00:00Z
+    webUrl: "https://www.lelezard.com/en/news-20075927.html"
     type: article
     provider:
       name: Le Lézard
       domain: lelezard.com
-    quality: 32
+    quality: 27
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
         isCached: true
-  - title: "TCS a Leader in Worldwide AI Business Services: IDC MarketScape"
-    excerpt: "Report Cites Tata Consultancy Services’ Comprehensive End-to-end Life Cycle of AI Business Services Portfolio, Delivery Model Strategies, and Innovation and R&D, as Key Strengths NEW YORK | MUMBAI, November 1,"
-    publishedDateTime: 2021-11-01T11:50:00Z
-    webUrl: "https://www.tcs.com/leader-worldwide-ai-business-services-idc-marketscape"
+  - title: "Worldwide Surface Computing Industry to 2026 - Key Drivers and Restraints - ResearchAndMarkets.com"
+    excerpt: "The \"Surface Computing Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. Surface computing uses an advanced natural user interface (NUI) and eliminates the necessity of a keyboard and mouse for"
+    publishedDateTime: 2021-11-02T15:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-20079034.html"
     type: article
     provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 17
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 25
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software, Services), Technology (Machine"
+    publishedDateTime: 2021-10-29T17:11:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54344177-artificial-intelligence-in-healthcare-market-worth-dollar-67-4-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 13
 
-secured: "H8HaWhaXEYir0vJjHLbLDYh8zNehZv0GMTtpM5LjG+uKDuqV2WNvd7RGDohE/s1lQLm0+Ffu9ENNi9CsVsNH4mEYRCLJkZNNfLLF5Rwu4sHswfIMU/fM4sMOPAlm3zwDhSn/+iNwzrl1xWh0xWjLtm891Jk62gSNeD55tA5uhNuT2yCgCP3f39g1ijnbdR34RRaXDfh795O4QdNES1uWMr+eE4q3VPLGNqf3ZZ5Cjj5TirtV06D7c39bVLo2/i6qCHHSxgPnTXqq/4hVGtWTX/UHqhIptYmEdMqg+Rmh9ndAfeUioOFQYw+0sU5w3Ok96Sub9huKLxy00qKsr2izsYtsAobiDoLno/Qc54PrxOoklAlZ+MhEAp/B1OcPI6VhXoDu693PXZcAZRyjvkPda3txzTA390qkNTIWqg4F2Y19CTkSO3I0qTAyp1gPXNntILUGxjgQyNlZOKKOPl0xWa8KD+9ymzqNHfnnYNORjrdmFgQsuYpL9Xcxy3eVgwxc5xU7u6GQOwYJ0D3sDPY63Q==;UsDwfFBoRz7h0u7b8Sa+kw=="
+secured: "CMskWtSoiHRtCCXSslbYrkesjmH4V0GvLLI1HDqBz1JTYfiHD6KwzA254YYoo56URShU7EdUoTYTqekCgD0aQO5+ZgacVoX1QnX0ucdD5ggvDTxliZaxiyQn/J/xhzMuCswxXZ2q6J1FStluke18iIwkajpJnisWHQIvo2yMZZKh9sjndBnjFeDact5ujw84SXpD19WCL9fozm6Bo5A7GTpz/KjwD0oDn944o1+IQ0h+r7L3GFY1+kDA1xUolooyGA7jb4Tb8I6ef0OtZuvQidjGQPKcQr7t90GL8CTFgZGxNbzeIq5bKKrcDUpTf/7lEQpWGuSV26wMajMHzWn4xl7vzpJuXmw1GVpHvx/DAB0=;bQNmEp2qGZCfe+UnnNRdJQ=="
 ---
 

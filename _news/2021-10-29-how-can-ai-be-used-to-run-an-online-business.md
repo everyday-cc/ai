@@ -60,6 +60,20 @@ related:
         width: 760
         height: 400
         isCached: true
+  - title: "Growing Your Business Through AI-Powered Language"
+    excerpt: "These changes made a material difference as a result of applying AI-generated language to its marketing efforts. The company plans on using AI language personalization to improve its customer-service interactions—and potentially to strengthen its employee experience internally as well."
+    publishedDateTime: 2021-11-02T16:53:00Z
+    webUrl: "https://hbr.org/sponsored/2021/11/growing-your-business-through-ai-powered-language"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/10/HBR-1200x675-B.jpg"
+        width: 2001
+        height: 1126
+        isCached: true
 
 secured: "gO1kk+uA6+Y6CnwLlJUtaHa5fBCe2TTsQLE0+YmzTWka8fc/Af+GfReTPFjXL1UHqFD2E8aoowq1mjeGlkTwlUnMcux4IbugzcU7sNXVG1FvTd0VBF+oAntYcHBeepCLmUCc7cSvoqRh0X9TyehOJzkgwz+IHilP1QJEndJCqogAN4ca0bZsJ9KxXAnMikY373ytNGLY9TYlXC+8toAbsJTX8peeg/n9d+K/mvJQP6dakc8Me9K4zIh4jw8duFIFF9l+RXNZmdaI8lFZgxxAiZyTrX9VZ6eOzeSvgvkJY6naJ1qx1du4fZ/7KRw/lG38HbDqZz0E+FKAP0sMXJL+PSWg6S/ePI33HaYzy7gJA+/3/Iq+ATFJDD5Y5N/Li5E3r8oofMcBsfzvjS/trhteFaM8QCGDljGXC5dTp3fwF4IHWyo5+ssF/7bbzNq0kJBC0uqCzdpNaV28PaU7FSd4rcIFAMVvFTeVXe62wW3iVP6df64fUU/mgSPpBy0iwF/GlUcZiD66DpAeVIVSLCUt6w==;5CS/PSW+t01YT0BfTgpZPA=="
 ---

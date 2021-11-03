@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/sg/amp/news/the-evolution-of-speech-recogn
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/d9dedbd/2147483647/strip/true/crop/5184x2722+0+367/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2Ff9%2F97b359b84c369da87d2e2dad51f1%2Fimg-5875.JPG"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Voice And Speech Recognition Software Market To Be Driven By Technological Advancements In The Forecast Period Of 2021-2028"
-    excerpt: "The Voice And Speech Recognition Software market report discusses in-depth the growth opportunities, challenges, growth drivers, and restraints, threats, and demands of the market. Further, the research assesses the regional market as well as the global market to gather the data into the scope of the Voice And Speech Recognition Software market."
-    publishedDateTime: 2021-10-29T09:18:00Z
-    webUrl: "https://chipdesignmag.com/voice-and-speech-recognition-software-market-to-be-driven-by-technological-advancements-in-the-forecast-period-of-2021-2028/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 13
-    images:
-      - url: "https://marketnewstoday667356072.files.wordpress.com/2021/09/analyzing-data.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "fr+zcMNMPSt+WW/2zBKJxxpT2wGpUoHXZwfxiuWi/D+2BU4pGm+dmuMNkafXRlReU16YbteAZrkkPmhZ7+hiEvF+VrQddBbtqa2mIt3182Rrmc8xMfp5suKBiG8uEVssVyDS9EKuDYgeDuUmiYWaClkKtBUnH90SF4NRiQA0Kx98rPdCrzb+ffW6ZZe0eHUTUEtRyL0nPk7t29f0YkSpEOkfRQaS33u+LHwKFZK1Ko2YrDVqRihBE6uotLRl/CQ9E5+xbEfRTZM2bPYd8hENaz9w0sWDOHfAlyV9mcEFpMh2rajkKESeFnTKmUxCwVjBJh/eTF38NaVS3CiWRCNRoLUiq5MMoFlGjGUXpYSbQLg=;GHSpfoXugwTI2b5vZSFGAQ=="
