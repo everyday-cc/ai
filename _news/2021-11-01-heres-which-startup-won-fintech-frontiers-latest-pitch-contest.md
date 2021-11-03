@@ -154,9 +154,9 @@ related:
         height: 300
         isCached: true
   - title: "Benzinga Unveils Global Fintech Awards Finalists"
-    excerpt: "Those with the highest-ranked scores are acknowledged as the 2021 Benzinga Listmakers. Additionally, the nominee with the highest amount of votes from Benzinga’s Public Voting round wins the People’s Choice Award."
+    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will hold its 7th annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
     publishedDateTime: 2021-11-02T19:56:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-technology-27f14bf1b36d15696deac6d631c9100c"
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-financial-technology-27f14bf1b36d15696deac6d631c9100c"
     type: article
     provider:
       name: Associated Press
@@ -176,20 +176,6 @@ related:
       name: Traders Magazine
       domain: tradersmagazine.com
     quality: 19
-  - title: "Spiceware selected as the Finalist of the UK Ministry of International Trade's Global Fintech Competition"
-    excerpt: "The UK's Ministry of International Trade runs a Global Entrepreneur Program (GEP) for innovative technology companies wishing to enter the UK. In conjunction with the program, the annual Global Fintech Competition awards competitive global Fintech companies with innovative solutions such as AI technology,"
-    publishedDateTime: 2021-10-29T13:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/10/29/9480653.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
-    images:
-      - url: "https://mma.prnewswire.com/media/1673453/image_819222_7352417.jpg"
-        width: 566
-        height: 400
-        isCached: true
   - title: "Austin startup wins Fintech Frontier's latest pitch contest"
     excerpt: "An Austin-based startup claimed the top prize in Fintech Frontier's latest pitch competition in Cincinnati. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in the pitch competition that was part of StartupCincy Week."
     publishedDateTime: 2021-11-01T19:35:00Z

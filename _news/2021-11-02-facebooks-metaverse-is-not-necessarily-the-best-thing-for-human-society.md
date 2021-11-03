@@ -73,22 +73,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "A Startup Is Creating Digital Human Servants to Work in the Metaverse"
-    excerpt: "With digital people, we can create those constructs.” Cross hopes that the AI will be able to fulfill the future needs of flesh and blood humans, in and out of the metaverse — or even ..."
-    publishedDateTime: 2021-10-29T13:20:00Z
-    webUrl: "https://futurism.com/the-byte/startup-digital-humans-metaverse"
-    ampWebUrl: "https://futurism.com/startup-digital-humans-metaverse/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/startup-digital-humans-metaverse/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 42
-    images:
-      - url: "https://wp-assets.futurism.com/2021/10/Digital-Humans-Are-Terrifying-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Visual AI panel and musings about photographers in Facebook’s metaverse"
     excerpt: "Visual 1st held a panel of scientists and tech gurus called \"Visual AI — The One-Click Future and Beyond,\" discussing the role of AI in visual fields."
     publishedDateTime: 2021-11-02T10:00:00Z

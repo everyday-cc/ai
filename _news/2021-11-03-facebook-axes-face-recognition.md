@@ -540,15 +540,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Before Going Meta, Mark Zuckerberg Must Fix Facebook"
-    excerpt: "No matter what Facebook is called now ... Although the conference was officially called the Dartmouth Summer Research Project on Artificial Intelligence, many attendees balked at that term, invented by McCarthy. “I won’t swear I hadn’t seen it ..."
-    publishedDateTime: 2021-10-29T13:41:00Z
-    webUrl: "https://www.wired.com/story/plaintext-zuckerberg-fix-facebook-meta/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 34
   - title: "Facebook is ending its use of facial recognition, deleting data on more than a billion people"
     excerpt: "Facebook said Tuesday it will end its use of facial recognition software and delete facial data on more than a billion people, a sudden reversal for one of the Internets biggest face-scanning systems that could reinvigorate scrutiny about the softwares expanding prevalence around the world."
     publishedDateTime: 2021-11-03T00:21:00Z
@@ -577,6 +568,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Facebook to shut down face-recognition system, delete data"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-03T04:25:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 26
   - title: "Facebook grilled by UK lawmakers making online safety rules"
     excerpt: "British lawmakers grilled Facebook on Thursday over how it handles online safety as European countries move to rein in the power of social media companies. Facebook’s head of safety said the tech giant supports regulation and has no business interest in providing people with an “unsafe experience."
     publishedDateTime: 2021-10-31T10:54:00Z
@@ -599,6 +601,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Facebook ending its system of facial IDs"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-03T07:27:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+    type: article
+    provider:
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 24
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199814388_4D1facebook1103_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Facebook says it will shut down face-recognition system, delete data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
     publishedDateTime: 2021-11-02T22:21:00Z
@@ -613,17 +629,6 @@ related:
         width: 715
         height: 404
         isCached: true
-  - title: "Facebook to shut down face-recognition system, delete data"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T04:25:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "sgOBlZh7Y4QBkzGBYQZtjh2z7JfdXyVmcwADUu27NtEF/hL0wbb249Wq+PV/fav2HGSss6tCn8mXu+ERogFSHLWrSO0SaMrp0RWI+Zudv/tPFFCWvSBvIMAzBnLxMczOWT5yn/MOWhoLCar0Q5TgiGjvAre0/eIYiGLo95MKE0cWHU5DbmktCbyTgPlCEdjx6hVDmRiql9OIl/z/UL40eCqPphNfFbxzOl/eL3hk/zPJ7+He7AWbDpQk3jyEdhAzeqZyCN7bjGYr0D4usQ6hZOIQd2HwP3eKCMpTRJfsBrYf5n1OeRXRQQ/NIYhggFkOYQqmt32YlK3SzCxjpurGnprae9dQCFwIC6Nh0n/GinQlNgy8+pljLebsarGvzUkcifHsTx/Q3KoyPy9dbdPyHUg2b+wv6+zDNxlgjJGcQ1HQrCBXDQGCt7RHeAIPFI2jlsV4sb1bMh6vCzW/DSSEuxaDIIBmH2AON+3Uymms1LU7MryWu2tZAp3Ikk3+DwpYoMnk7B6vpeka3pFJGx21MQ==;1ynDZR+Q13hE17jV0Fg1QQ=="
 ---

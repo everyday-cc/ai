@@ -46,6 +46,59 @@
       ]
     },
     {
+      "path": "_news/2021-11-01-could-open-banking-pose-new-security-threats-to-your-financial-data-we-asked-an-expert.md",
+      "title": "Could open banking pose new security threats to your financial data? We asked an expert",
+      "excerpt": "While open banking and PSD2 data sharing APIs may provide more options for consumers, will it also bring more security issues?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/could-open-banking-pose-new-security-threats-financial-data-expert",
+      "originalUrl": "https://thenextweb.com/news/could-open-banking-pose-new-security-threats-financial-data-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fabn_security.jpg&signature=502b6c22d9c6d9bb4a9f98941dc25644",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-10-31-intuit-accelerator-combines-fintech-for-good-with-ai.md",
       "title": "Intuit Accelerator Combines Fintech For Good With AI",
       "excerpt": "Fintech for good startup Bankuish is one of seven early-stage companies in the Intuit Prosperity Accelerator: AI. The five-month program is for fledgling fintech companies that target consumers and small businesses in North America and want to use AI to build better platforms.",
@@ -54,7 +107,7 @@
       "originalUrl": "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -95,6 +148,101 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-oneconnect-to-announce-third-quarter-financial-results.md",
+      "title": "OneConnect to Announce Third Quarter Financial Results",
+      "excerpt": "OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) (“OneConnect” or the “Company”), a leading technology-as-a-service platform for financial institutions in China, today announced that it will release financial results for the Third quarter 2021 after U.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-china-71b2048f5bbe4559afaae102454a7d6d",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-china-71b2048f5bbe4559afaae102454a7d6d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-how-financial-services-firms-are-playing-a-pivotal-role-in-driving-progress-on-sustainability.md",
+      "title": "How financial services firms are playing a pivotal role in driving progress on sustainability",
+      "excerpt": "The recent IPCC report was the latest  urgent call for action on climate change, and global attention is firmly fixed on the upcoming COP26 meeting of world leaders in Scotland. And while politicians and policy-makers will be central to determining how we respond,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/how-financial-services-firms-playing-pivotal-role-driving-stirrett",
+      "originalUrl": "https://www.linkedin.com/pulse/how-financial-services-firms-playing-pivotal-role-driving-stirrett",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQEiNusiLDSP8A/article-cover_image-shrink_720_1280/0/1635415909767?e=1641427200&v=beta&t=gOPRGpo8Y11wXkm4sp8wpoPv6sg-Db3XxRX8hoegpX4",
+          "width": 957,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -315,6 +463,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-25-why-financial-services-can-benefit-from-digital-transformation.md",
+      "title": "Why Financial Services Can Benefit From Digital Transformation",
+      "excerpt": "Today's digital growth creates significant challenges for businesses, and one of many industries that need to digitize their business process is the financial industry. As a result, companies have had to rethink how they do business for the past few years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/why-financial-services-can-benefit-from-digital-muhammad-ajie-santika",
+      "originalUrl": "https://www.linkedin.com/pulse/why-financial-services-can-benefit-from-digital-muhammad-ajie-santika",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFLO5bAMFP9jQ/article-cover_image-shrink_720_1280/0/1635163585804?e=1641427200&v=beta&t=TIMXer39MoY8B5qOr95GCGF2YhW4UQMcjGSKgrElxVg",
+          "width": 1280,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-5-ways-fintech-is-transforming-the-daily-routine.md",
       "title": "5 Ways FinTech is Transforming the Daily Routine",
       "excerpt": "FinTech is maturing and financial management has become simple and accessible like never before. , CGO at Smart IT discusses further",
@@ -507,10 +707,10 @@
     {
       "path": "_news/2021-10-21-iron-mountain-wins-google-cloud-financial-services-customer-award.md",
       "title": "Iron Mountain Wins Google Cloud Financial Services Customer Award",
-      "excerpt": "Google Cloud recognized Iron Mountain (News - Alert) for its expertise in mortgage document processing and investment in training machine learning models to automate ... and unlock insights for a large financial services company. \"We're proud to be one ...",
+      "excerpt": "Iron Mountain Incorporated ® (NYSE:IRM), the global leader in innovative storage and information management services, today announced that it has received a Google Cloud Customer Award for its work with a large financial institution.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-iron-mounta-wins-google-cloud-financial-services-customer-/2021/10/21/9474465.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-iron-mounta-wins-google-cloud-financial-services-customer-/2021/10/21/9474465.htm",
+      "webUrl": "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/",
+      "originalUrl": "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -520,11 +720,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T03:45:00-07:00",
+      "publishedDateTime": "2021-10-21T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1132,189 +1332,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-crime.md",
-      "title": "Demystifying AI for AML: European Banking Federation and SAS help banks worldwide fight financial crime",
-      "excerpt": "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/10/n23360003/demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-c",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/10/n23360003/demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1659549/SAS_EBF_AML_Compliance.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23360003",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23360003",
-      "publishedDateTime": "2021-10-13T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first.md",
-      "title": "AI And ML Can Transform Financial Services, But Industry Must Solve Data Problem First",
-      "excerpt": "ML/AI will differentiate successful early adopters, but there are multiple steps to successful adoption and the most important is clean data, a problem the financial services industry has faced for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165ee8f1915a35d69246734%2F0x0.jpg",
-          "width": 1191,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
-      "publishedDateTime": "2021-10-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-patent-issued-for-financial-autopilot-uspto-11127075-united-services-automobile-association.md",
-      "title": "Patent Issued for Financial autopilot (USPTO 11127075): United Services Automobile Association",
-      "excerpt": "A patent by the inventors Hendry, Jason Paul, Mahoney, Nathan, Silva, Luis Daniel, Vijayvergia, Gunjan C., filed on September 27, 2019, was published online on September 21, 2021, according to news reporting originating from Alexandria,",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-financial-autopilot-uspto-11127075-united-services-automobile-association",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-financial-autopilot-uspto-11127075-united-services-automobile-association",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-uae-digital-first-bank-mashreq-neo-debuts-facial-recognition.md",
-      "title": "UAE Digital-First Bank Mashreq NEO Debuts Facial Recognition",
-      "excerpt": "Digital bank Mashreq NEO, based in the United Arab Emirates, is letting residents open bank accounts with facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/",
-      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/UAE-facial-recognition-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/",
-      "publishedDateTime": "2021-10-12T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -73,22 +73,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Microsoft acquires AI-powered moderation platform Two Hat"
-    excerpt: "Microsoft today announced that it acquired Two Hate, an AI-powered moderation platform, for an undisclosed amount."
-    publishedDateTime: 2021-10-29T14:05:00Z
-    webUrl: "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/"
-    ampWebUrl: "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft Azure expands its hybrid and multi-cloud reach"
     excerpt: "Microsoft Azure, just like its competitors, launched a number of tools in recent years that allow enterprises to use a single platform to manage their virtual machines and containers across clouds and in their own data centers."
     publishedDateTime: 2021-11-02T15:00:00Z
@@ -189,13 +173,13 @@ related:
         height: 768
         isCached: true
   - title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
-    publishedDateTime: 2021-11-02T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
+    publishedDateTime: 2021-11-02T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
   - title: "Global Artificial Intelligence for Edge Devices Market 2021 Development Status – Microsoft, Qualcomm, Intel, Google"
     excerpt: "Global Artificial Intelligence for Edge Devices Market from 2021 to 2027 has been entered to their database as part of the MarketandResearch.biz research report. This market study includes historical data, future projections, in-depth analysis, and ..."
@@ -225,17 +209,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Text-to-Speech Market with Attractiveness, Competitive Landscape & Forecasts to 2027| Nuance Communication, Microsoft, Sensory"
-    excerpt: "As a result of expanding penetration of AI, analytics, and IoT systems in the region, APAC is witnessing significant momentum for speech recognition solutions integrated into text-to-speech. Countries establish various beneficial regulations for increasing ..."
-    publishedDateTime: 2021-10-29T13:15:00Z
-    webUrl: "https://www.openpr.com/news/2448160/text-to-speech-market-with-attractiveness-competitive"
-    ampWebUrl: "https://www.openpr.com/amp/2448160/text-to-speech-market-with-attractiveness-competitive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2448160/text-to-speech-market-with-attractiveness-competitive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
 
 secured: "890QpxborDDtJlUFv4h0w9pR7e/zGqWVTsOQQcN0/GZZjXD11lteXTce6WU7mG9ZB06fKUUTslH/Fue08WOydgOlm5VTtQwc2v4qjvUCEvJ7uxlDBQDgwvmjmFm2URD/n6YUL6PI+OUPsGWu+y0xjZGJVzKqe/pFbwhQtvoE0ocvS3wrcAnVdwU7b8M3fIudvr6o/QJfoOX5sVY5eqYGMA2XvN4C6hmqnOpAaMnXeUshfun0d80rmZ6lZasvZp9IQekagVhzfQft9aj3d9uPbSSURqlPtzojiyEu/zsLYkt8QZ4wOgWl/IH/TzH2nud1otb5t0JsAHk3oAqEls4EvvKEX2AqI44p8WQGgDpa+Ig=;Wk1HtQ2TzQgEqZTD0uE6WA=="
 ---

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Reconfirms Flagship Arc Alchemist GPU Specs And Gamers Will Be Stoked"
-    excerpt: "During its Architecture Day 2021 event earlier this year, Intel outlined its Xe Arc GPU roadmap ... and dedicated matrix engines (up to 16) for AI acceleration. Intel is calling those matrix ..."
-    publishedDateTime: 2021-10-29T14:39:00Z
-    webUrl: "https://hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs"
-    ampWebUrl: "https://amp.hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 57
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56646/content/Intel_Graphics_Card.jpg"
-        width: 708
-        height: 442
-        isCached: true
   - title: "Intel Arc Alchemist GPU could be a game changer — here’s everything we know"
     excerpt: "And, on paper, the upcoming Intel Arc Alchemist GPU looks like it could be just the ticket, offering similar performance to Nvidia’s RTX 3070. Expected in Q1 2022, the GPU is still some way away, but YouTuber Moore’s Law is Dead claims to have provided a first look as to what the card will look like — or what it currently looks like in its pre-production state,"
     publishedDateTime: 2021-10-30T11:37:00Z

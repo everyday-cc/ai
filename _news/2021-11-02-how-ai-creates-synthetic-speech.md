@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://filearchive.cnews.ru/img/news/2021/11/02/gugl600.jpg"
         width: 600
         height: 405
+        isCached: true
+  - title: "QU creates Artificial Intelligence Students Club"
+    excerpt: "Doha: Qatar University recently launched its Artificial Intelligence (AI) Students Club which will provide students with a wide space for creativity, innovation and experimentation in the said ..."
+    publishedDateTime: 2021-11-03T05:38:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/03/11/2021/qu-creates-artificial-intelligence-students-club"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 37
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20211103_1635918013-204.jpg"
+        width: 1200
+        height: 583
         isCached: true
 
 secured: "qmoe9LsqMn+y5KzzsdEe8kYIx2tXeD4EPmT/CBh1uHFWZPXvyXFiSaOoqRak5+rDhI/B3mHqx/e5UDr9RG4fezbXqvGY3Y3rHxK3yjkwm4pxC/gceiwJC1mnRi/LjXmrJu6APM1Z3hmdmEnFjMLHhm3xjcvaI2/XDCqc+xNl8oh5gqDNasLRVpy0n2UxTVRLkTZpJTYlo1+UTAeUP3TmJpcn9fYkTosku2CMr+3U0Wz6qiQH2Orof9H/NN3x7VX5msWA55D8AM3lGEdR37aEI/+/kJORQnU64bdkbGKj/eS7HrQLSlUND6L7ZkaqcSbIEIl6GoGnlxGMmklLHJ2ekloYUwXO+UmAa8o9a1X1+S+Y7qzGAU6CL8iykmgxrRrGpUZ97KMjtopwJMb5EluMwa5Mqb8a8BtQr+72QQd7IpY+94DUhTCDGe8ZD3e2n3P7hE5vGFciwbJzKiBOFHY5Jyhf5XWCIBJzeSSrTcnwLc1uulT02r0Jy8rrtKOcZaWt9afEN7U3r2Gi7/ZxBwJdpA==;5CALg9DWek+vNtnB+fFgaw=="

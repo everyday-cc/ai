@@ -1,18 +1,18 @@
 ---
 category: news
 title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
-publishedDateTime: 2021-11-02T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
-webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
+excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
+publishedDateTime: 2021-11-02T12:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -66,22 +66,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-932632280.jpg?w=1024"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Microsoft acquires AI-powered moderation platform Two Hat"
-    excerpt: "Microsoft today announced that it acquired Two Hate, an AI-powered moderation platform, for an undisclosed amount."
-    publishedDateTime: 2021-10-29T14:05:00Z
-    webUrl: "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/"
-    ampWebUrl: "https://venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/microsoft-acquires-ai-powered-moderation-platform-two-hat/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Microsoft Azure expands its hybrid and multi-cloud reach"
     excerpt: "Microsoft Azure, just like its competitors, launched a number of tools in recent years that allow enterprises to use a single platform to manage their virtual machines and containers across clouds and in their own data centers."
@@ -224,18 +208,7 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Text-to-Speech Market with Attractiveness, Competitive Landscape & Forecasts to 2027| Nuance Communication, Microsoft, Sensory"
-    excerpt: "As a result of expanding penetration of AI, analytics, and IoT systems in the region, APAC is witnessing significant momentum for speech recognition solutions integrated into text-to-speech. Countries establish various beneficial regulations for increasing ..."
-    publishedDateTime: 2021-10-29T13:15:00Z
-    webUrl: "https://www.openpr.com/news/2448160/text-to-speech-market-with-attractiveness-competitive"
-    ampWebUrl: "https://www.openpr.com/amp/2448160/text-to-speech-market-with-attractiveness-competitive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2448160/text-to-speech-market-with-attractiveness-competitive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
 
-secured: "CJMxuyfK73nFtrthEwi0uLjIhgZcVImnpuKqKrCdvQV6gxitMKEN0pScfy/7RF4n70m0dYwjma/XPDtidLJqOxE7UBNViLmV07ac7CkGqpwigVSWiitWdhXR8sT6Q5pDm6yis8O5HWwJRFe7SYP6EkqN1FNyEGd2fwe/adpVrQAbpbAMgpMxsFLwGkTuDzhTh3GTVW7J/Qanb0RZ0+KwF7/TwiosTrKe8wCwVDZXrlPO6ag6gMALQnIGDUfP3uspxfM3SB7HsiIk4D4i1Pq3CnxtWEuB8wRKFLMg+m3t7nFpWkPM0BPWwgq97YYWwNlVLyXA9AtGSlT7zbTMQca+7+WaDc77XqxCaVJErdY/Q6U=;XcwQH+JySTIwJkkHI0Bz1Q=="
+secured: "kFNl4WnJBByi/TROzvzsJuzWB+uQYYyCtYHCAh+8WD/3bgC2HXqbH46nHEaDPiy/TCJhdQfKg1t/CEa5r2rFQ0o9TD601dKKfkfemR+NW6eG/iww3xwF5F0tM8nKHNiC4N8S4Cx5rE1ayxmkl5FUUaOtob5gmWGm8MUNeNq9EyXW1IHb0zC6sBMCsYPMf7BIN8retOhjpU7Bzh/2LFiAX96C+xDlPtpVjbleG7lhBBNY5a8thCMS2Gq/gOJjb/EqSWrMl+cFk0s7kjcdDjomPCM7rAAgTstR3wqoukFGQkqDCvW6z5xOq0nzJWFbr/sV3P8H7ujBUkJUSf4B2hSmFlB2jYNh8ZztRti6638Na9c=;Jf25CrnGtKiPQuy0wpymQQ=="
 ---
 

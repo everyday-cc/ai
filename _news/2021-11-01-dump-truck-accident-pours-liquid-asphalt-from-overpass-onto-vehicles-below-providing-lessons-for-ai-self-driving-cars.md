@@ -39,7 +39,7 @@ related:
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/pony-MAIN_i.jpg"
         width: 800

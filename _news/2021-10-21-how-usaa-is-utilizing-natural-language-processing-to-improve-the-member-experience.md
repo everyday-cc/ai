@@ -3,24 +3,24 @@ category: news
 title: "How USAA is Utilizing Natural Language Processing to Improve the Member Experience"
 excerpt: "USAA is using Natural Language Processing (NLP) to improve the member experience and facilitate faster decision-making. NLP is a subfield of Artificial Intelligence (AI) that uses computers to process and analyze large amounts of text and spoken words."
 publishedDateTime: 2021-10-21T14:11:00Z
-originalUrl: "https://www.kwch.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/"
-webUrl: "https://www.kwch.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/"
+originalUrl: "https://www.kfyrtv.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/"
+webUrl: "https://www.kfyrtv.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/"
 type: article
 
 provider:
-  name: KWCH
-  domain: kwch.com
+  name: KFYR TV
+  domain: kfyrtv.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/KibPVLeJ9vccIqCX7YbbJ73S3qc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/6HSEG4QELH2BJLDFSOP4GPEIBA.jpg"
+  - url: "https://gray-kfyr-prod.cdn.arcpublishing.com/resizer/KibPVLeJ9vccIqCX7YbbJ73S3qc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/6HSEG4QELH2BJLDFSOP4GPEIBA.jpg"
     width: 980
     height: 1078
     isCached: true
 
-secured: "O8Jvh6vb/98L8TDRzGqxoqKdPhPOx1i9mesMlscKGknXwCHcOqzBfTpAwazAXpDheJ1ayEWI69yYi0owtro53KcHg1ayVFge5v8hzMLzm6BSeJMt8Z/f9HbmDfkqh1HqYDsc5o5W40f4297tbWkjhmEOhOY/h378vXt041Mbs5pTtvAp9AJAVPebseUF8ff4HVFL2w0nGvpNIrHdC1L3nkh7hN5EvV16mZl0mliOvK6oyjqPGtZ7Omg9ZD7mBZyvOgnQibVlLgYHGYxSNlQHoQHrJHNU6tDGniVTuYzyLF4QY7YFEnQ9fGvngNmmASvNg1qcZAHPXdtNjrQjecnoygwqqRnQS/PujTkWiYaW0oOJp//A5I0eaEEonc8j5nNv4XlbXJNp/2GE0CMLtQj69XjIi2/KRqheufCrtVm5RvjAqw3pAPVp9oU5YGwDl+qbqlvFjCaHM9YVUpej6/KhG1YeSajxIr2Jcjz4laiFbjQiiM/nZsSlATZjF8LIJmMcFVBQrJeXziMl1fd/zSpe0g==;c27CDOHk5LPs5ukBCC6Paw=="
+secured: "ucJbXJk3xVq0m+bzfhUrh6WrN4CArf/kJ8VFxgW8DkAmRucIMlypkdJ7bXvh8f5Fgz+28QIKGQf2seXm6C6v4lpKZRHGBQOrkFEQ+l9mBU/O3B/1VQL/2aSbMeJ6oHKwqYch1SNz+5zNw5dZ/VyBct6xuwEU11tL1Ltsk//amzppeLKd8QU+sVaYie+X0/W7d3j8BXHj0c1udgtet+CBM+bttJey/dcIhl5onizbpCtLpcp4TOVbkZVRJYd1jQIB4eL6Eeo2pJR22/bggtuMA3Y+yrrFR7DIcjx5qd/tc+K7615BAaCSp1yKqqK7c8cdkoxqL6hOcCWWDohN2f7QRDwchWqSAdRgaYEXdbT3dGo=;DfIZ0Q6BjzLynPW0zkCPwQ=="
 ---
 

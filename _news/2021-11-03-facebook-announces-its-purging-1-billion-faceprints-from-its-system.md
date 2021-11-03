@@ -531,15 +531,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Before Going Meta, Mark Zuckerberg Must Fix Facebook"
-    excerpt: "No matter what Facebook is called now ... Although the conference was officially called the Dartmouth Summer Research Project on Artificial Intelligence, many attendees balked at that term, invented by McCarthy. “I won’t swear I hadn’t seen it ..."
-    publishedDateTime: 2021-10-29T13:41:00Z
-    webUrl: "https://www.wired.com/story/plaintext-zuckerberg-fix-facebook-meta/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 34
   - title: "Facebook is ending its use of facial recognition, deleting data on more than a billion people"
     excerpt: "Facebook said Tuesday it will end its use of facial recognition software and delete facial data on more than a billion people, a sudden reversal for one of the Internets biggest face-scanning systems that could reinvigorate scrutiny about the softwares expanding prevalence around the world."
     publishedDateTime: 2021-11-03T00:21:00Z
@@ -568,6 +559,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Facebook to shut down face-recognition system, delete data"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-03T04:25:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 26
   - title: "Facebook grilled by UK lawmakers making online safety rules"
     excerpt: "British lawmakers grilled Facebook on Thursday over how it handles online safety as European countries move to rein in the power of social media companies. Facebook’s head of safety said the tech giant supports regulation and has no business interest in providing people with an “unsafe experience."
     publishedDateTime: 2021-10-31T10:54:00Z
@@ -590,6 +592,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Facebook ending its system of facial IDs"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-03T07:27:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+    type: article
+    provider:
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 24
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199814388_4D1facebook1103_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Facebook says it will shut down face-recognition system, delete data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
     publishedDateTime: 2021-11-02T22:21:00Z
@@ -604,17 +620,6 @@ related:
         width: 715
         height: 404
         isCached: true
-  - title: "Facebook to shut down face-recognition system, delete data"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T04:25:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."
     publishedDateTime: 2021-11-02T21:27:00Z
@@ -625,6 +630,6 @@ related:
       domain: theaustralian.com.au
     quality: 21
 
-secured: "vmbIlezSCnl4O00OWLq64U3MbYmnMrB6Ckq3AGPCrT7o5J4EmY6axa44GGLb0PYSTBxAw2zzaHnER7Ut38oSbjfrfu8J0W+Tj+OGa0FCva6JY7CxNdnjNFPLRjGywVPIApDyfO9fbE/efgQlOOetHZl7p96DDP0px1S7Sjtzby0ihYtLUE8fm3qNzszHGnqnxIbNafgnDM5UKJxnFvxVaGfamWvDjxmeQ5/CW9V1oB5wHRtKrzjikdRw0HU1791y0H4ht9SqGCNfEXtMR/5GX12FKdmxNvN2osugYnGmy7JoSHdKfqgRCFYQS7sr54R+aGWWXqtzj0Nl5oE15S4Hsq2kbsFA9B6qFnOIHv8KKLQ=;+OKAxh0iyz313OhZDG/Cmg=="
+secured: "3wa8D3bGU0yMtp3GzVkwBJ198j6rrQ34/Opb3QjIfdOwehG4cvbgwF2vT9/2Oj3XRdvO/bew6ROfpb+o5NbneLihU9IABnlBxx7n2REkNkJRRRlaQ2jJUIOi5C0L81R3heMk5IpZZ/vOzUSfbWXOhLT0nfWhHSgl2e+0Q/c1iZtPVZgtaONWuLNo87hKdts1s/XtLmQLobTshQi6cnx7J6+wNxOL8Py650tN7G/2MoodyeIv/eJrYSab/YYwGpRMdAZgHyxsQYcJX0U7dXGHKkLp8YFz12rY4Pp4/vOOgHBq9Ec5Rx+DHL8V0zM2uSI0dy8Ioyj1CBWbt1YvVmixaaEq2j5sOFymeuVuhIgNxu4Uh7igcV3yLuI9G/GreX3RJ32jXhiBJjYaK/stFYCh1ukeF4ZT1t1gTn2qcvsV3JZAHepnjHrsjCHNgKr1YKPemcWHhxo90C38DKWRK9fLKQBOLqpvm8m0thhebm90SrRpY4hC/wqlKZW4QWv+yUM+jnxls4eYRA0bytfIjCurKA==;wqxzB/CfS7rW89qzmJtfVg=="
 ---
 

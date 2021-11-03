@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Turning to Robots for Career Advice"
-    excerpt: "According to new research commissioned by Oracle, 80% of employees say they’re not satisfied with employer support and 72% of the US workforce think robots and artificial intelligence can support their careers better than humans. Joining us to explain ..."
-    publishedDateTime: 2021-10-29T14:51:00Z
-    webUrl: "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice"
-    ampWebUrl: "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true"
-    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true"
-    type: article
-    provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 59
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/596/45bf940c346f431c9be273b8942ab6eb/59640f3b51cd412a9b3c3b83a2107ec5/poster_da477495870d4fc9a826480e882ccebe.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "UAE's employees will not mind robots helping them on career decisions, says Oracle study"
     excerpt: "Robots can give informed decisions without any of that bias  Dubai: Robots helping out with work? Yes. Robots helping out with careers? The UAE workforce believe that robots can. And how? A resounding 91 per cent believe robots can support career choices better than a human by giving unbiased recommendations (38 per cent);"
     publishedDateTime: 2021-11-02T05:50:00Z

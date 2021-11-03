@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Benzinga Unveils Global Fintech Awards Finalists"
-excerpt: "Those with the highest-ranked scores are acknowledged as the 2021 Benzinga Listmakers. Additionally, the nominee with the highest amount of votes from Benzinga’s Public Voting round wins the People’s Choice Award."
+excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will hold its 7th annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
 publishedDateTime: 2021-11-02T19:56:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-technology-27f14bf1b36d15696deac6d631c9100c"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-technology-27f14bf1b36d15696deac6d631c9100c"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-financial-technology-27f14bf1b36d15696deac6d631c9100c"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-financial-technology-27f14bf1b36d15696deac6d631c9100c"
 type: article
 quality: 24
 heat: -1
@@ -168,20 +168,6 @@ related:
       name: Traders Magazine
       domain: tradersmagazine.com
     quality: 19
-  - title: "Spiceware selected as the Finalist of the UK Ministry of International Trade's Global Fintech Competition"
-    excerpt: "The UK's Ministry of International Trade runs a Global Entrepreneur Program (GEP) for innovative technology companies wishing to enter the UK. In conjunction with the program, the annual Global Fintech Competition awards competitive global Fintech companies with innovative solutions such as AI technology,"
-    publishedDateTime: 2021-10-29T13:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/10/29/9480653.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
-    images:
-      - url: "https://mma.prnewswire.com/media/1673453/image_819222_7352417.jpg"
-        width: 566
-        height: 400
-        isCached: true
   - title: "Here's which startup won Fintech Frontier's latest pitch contest"
     excerpt: "A Texas-based startup claimed the top prize in Fintech Frontier's latest pitch competition. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in Fintech Frontier's latest pitch competition as part of StartupCincy Week."
     publishedDateTime: 2021-11-01T15:25:00Z
@@ -201,6 +187,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "uU4tuQhs23b14zdXLEFuDT6RtWuyvxHF+zRN4jo+ngyLgpzEGpC0jP79em1TJEyZMwDH0r9KwlCSY9h/XL/BA9YkLVEhBPc0rlXdWf27qaGxz91SwXtARC9ms/WfHfnk1WIavKUfzdhI2YcKXaE0nrsyL3E0lsqVsQzHnfjRCdfma3eyz4vYu99LdbvYkq2kYvA6oQmiOYHflLqR6qJEgI5MsWbcB0pJxZQeoQSafc0GJgTjfkSZ5Oj/U+wbhNNRSvUY81UZq3pUOlxxfP6Vk0RvLdIhJwhsRpg6ujrE7ZgfV++o9YtGpzcJBLxYv52v8ePCaZr+RgojFGUeyLf9IlnXM/6WX+wz6KlrUWOVLtA=;dnPFathEDtACHH7Yj/rpkA=="
+secured: "wPZpLZgL+vcN1lXGxI06FjQSReU8siBIs/8xxBlx0O2Q+VoLlRWX357ViXjDFrKmP5yCLtKGH5VuxXnt3zTiwdG3FwawU6V5VbvFHrE67+LnZUmMTfSejgNCnCnE7zMHfji+PeKU/lKRMHGVRujISFj7+60YxmjQNZcify4vojxSoiG+CWkiogCDAO+4LcbngopaT2BdFfdSFXlv5Hm+do2zwRBhuVgkETEdqoiaUTQs8Qjr+pz3tYc3IrmJIOeZdhOwZ4rd2Xdvbo3xP+xcWx6gr6MhDZWGphqZ+lizTsolTfR2lUEqR1DzG9b30hCYT+E7dVi4+BhlpYIY342JsJGbGH5Avde1zzWRliHK3JE=;b3DZIwMPvfFOUzwiLOC8Rw=="
 ---
 

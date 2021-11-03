@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Digital Transformation In Manufacturing – Key Learning Points From The Automotive Industry"
+    excerpt: "The manufacturing industry is positioned to take advantage of the possibilities offered by artificial intelligence, automation, and industry 4.0."
+    publishedDateTime: 2021-11-03T06:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/digital-transformation-manufacturing-key-learning-points-bernard-marr"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 14
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGKKDAOwFzDHQ/article-cover_image-shrink_720_1280/0/1635921871463?e=1641427200&v=beta&t=Y-QgVcWhboGvvmKasooP3JihVrgcs1VTlmdAWy29Bug"
+        width: 1137
+        height: 720
+        isCached: true
 
 secured: "Ygfzg4B7P6MhoRigHjZvPayDxncdru9uqvu8pb8YVCBvakHr1uSBx1rVgzzueG8KqkOjlbPPNxF1bJTueIa8FGkj9uJKHI0F4EzBx1kH3aUtjc53+YLRLZe061Eegv7R2c1JObOyRKxDeBDPwrkznvGbvqVXiFZWU2XSTgKhZjByn7ZNwg/k6arxAlOrUHe6J1tE9YD1OWQVGI+zIUIhmeNrCP5UEHyMMcvfs8VjmGJqJoGVLC4whZek+3vvZSsDxebtM1LgQp0S5nc8p1YRuOmLP3y6IgARAAWiUZTa5PxMK6QrARoE4RaM1qEeVNYeBQwZU4n5i1fmi0zih/SNnYG3OEEnI2xx3w9+3lQ+CKI=;Ietb/TRVPkp0lLpS/qpJ9g=="
 ---

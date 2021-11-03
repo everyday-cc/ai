@@ -38,20 +38,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market worth $67.4 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Artificial Intelligence in Healthcare Market by Offering (Hardware, Software,"
-    publishedDateTime: 2021-10-29T13:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-worth-67-4-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--826606543.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
-        isCached: true
   - title: "Conversational AI Market worth $18.4 billion by 2026 - Exclusive Report by MarketsandMarketstm"
     excerpt: "According to a research report \"Conversational AI Market by Component (Solutions and Services), Type (Chatbots and IVA), Technology (NLP and ASR), Business Function (Sales and Marketing, and Operations),"
     publishedDateTime: 2021-11-01T15:00:00Z

@@ -2,6 +2,257 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-30-lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability.md",
+      "title": "LG And A•kin To Develop AI Home Helpers For Families Living With Disability",
+      "excerpt": "Sydney and San Francisco-based AI and robotics startup a•kin, who have developed robotics alongside the likes of NASA, are currently working towards one such important staging post. Smart speakers like Amazon Alexa and Google Home are already ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/10/30/lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability/",
+      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/10/30/lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617df25a39a5c6d6f606fdde%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/10/30/lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/10/30/lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability/amp/",
+      "publishedDateTime": "2021-10-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-build-conversational-experiences-for-retail-order-management-using-amazon-lex.md",
+      "title": "Build conversational experiences for retail order management using Amazon Lex",
+      "excerpt": "Retailers want to stay engaged with their customers as they move seamlessly between digital channels and physical storefronts. By delivering personalized and consistent experiences across a range of retail touchpoints, companies can drive brand loyalty. Customers contact retailers’ customer support for",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-retail-order-management-using-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-retail-order-management-using-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/Lex-Retail-image001-961x630.png",
+          "width": 961,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T15:04:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-us-to-deepen-relations-with-taiwan-in-face-of-china-tensions.md",
+      "title": "US to deepen relations with Taiwan in face of China tensions",
+      "excerpt": "The U.S. wants to deepen its relationship with Taiwan, the self-ruled island that has become a major point of conflict in the",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in-face-of-china-tensions/",
+      "originalUrl": "https://mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in-face-of-china-tensions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2021/10/ap_0dee8f0a606447fbb4cc853b1e37b8c3.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in-face-of-china-tensions/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3207401/us-to-deepen-relation-with-taiwan-in-face-of-china-tensions/amp/",
+      "publishedDateTime": "2021-10-29T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-cnvrgio-develops-on-demand-service-to-run-ai-workloads-across-infrastructures.md",
+      "title": "Cnvrg.io develops on-demand service to run AI workloads across infrastructures",
+      "excerpt": "Cnvrg.io has launched a Metacloud service to help AI developers run their workloads across any mainstream infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/",
+      "originalUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/",
+      "publishedDateTime": "2021-10-29T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you.md",
+      "title": "Do You Trust Artificial Intelligence To Spend Your Media Dollars For You?",
+      "excerpt": "The decisions on what to buy, how much to buy, and what prices to pay are controlled by AI (artificial intelligence ... Dr. Fou was formerly the Group Chief Digital Officer of Omnicom’s Healthcare Consultancy Group, and Digital Strategy Lead at McCann ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2021/10/29/do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2021/10/29/do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617c6485679c0833204d1796%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2021/10/29/do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2021/10/29/do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you/amp/",
+      "publishedDateTime": "2021-10-29T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector.md",
       "title": "Prevent fake account sign-ups in real time with AI using Amazon Fraud Detector",
       "excerpt": "Implementing an effective fraud prevention system is one of the top priorities for businesses that operate online web or mobile platforms. Businesses report millions of dollars of lost revenue each year due to fraud. Platform abuse and fraud prevention largely remain reactive, and is achieved by studying",
@@ -481,6 +732,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-29-oneconnect-to-announce-third-quarter-financial-results.md",
+      "title": "OneConnect to Announce Third Quarter Financial Results",
+      "excerpt": "OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) (“OneConnect” or the “Company”), a leading technology-as-a-service platform for financial institutions in China, today announced that it will release financial results for the Third quarter 2021 after U.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-china-71b2048f5bbe4559afaae102454a7d6d",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-china-71b2048f5bbe4559afaae102454a7d6d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-voice-tech-coming-soon-to-a-classroom-near-you.md",
       "title": "Voice Tech: Coming Soon To A Classroom Near You",
       "excerpt": "Education publishing multinational Scholastic worked on its own speech recognition software in the late 1990s, but abandoned the project in the face of technical problems. But advances in artificial intelligence and machine learning mean it is a technology ...",
@@ -882,307 +1176,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-ai-and-ethics-experts-speak-about-challenges-possible-directions.md",
-      "title": "AI and Ethics: Experts Speak about Challenges, Possible Directions",
-      "excerpt": "How do you see AI regulation proceeding? Any advice for organizations and companies that want to ensure that they build ethics into their AI deployment? What do you see, a few years (or several years) out for ethics in AI? Will the question of ethics be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-ethics-experts-speak-about-challenges-directions/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-ethics-experts-speak-about-challenges-directions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/10/New-eSPEAKS-thumbnail-5.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-clearview-ai-finally-takes-part-in-a-federal-accuracy-test.md",
-      "title": "Clearview AI finally takes part in a federal accuracy test.",
-      "excerpt": "But the test ... Though its accuracy had never been audited by NIST, Clearview AI claims thousands of local and state police departments as customers; a recent report from the Government Accountability Office also cited use by a number of federal agencies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.html",
-      "originalUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/29/business/28clearview-01/28clearview-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/28/technology/clearview-ai-test.amp.html",
-      "publishedDateTime": "2021-10-28T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-almost-30-percent-of-new-github-code-is-written-with-ai-assistance.md",
-      "title": "Almost 30 percent of new GitHub code is written with AI assistance",
-      "excerpt": "If you haven't heard of Copilot before, it's essentially the equivalent of the predictive text systems you'd find on Gmail or even your phone. You start",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "originalUrl": "https://www.techspot.com/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-28-image-28.jpg",
-          "width": 2634,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "publishedDateTime": "2021-10-28T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-introducing-pathways-a-next-generation-ai-architecture.md",
-      "title": "Introducing Pathways: A next-generation AI architecture",
-      "excerpt": "When I reflect on the past two decades of computer science research, few things inspire me more than the remarkable progress we’ve seen in the field of artificial intelligence.In 2001, some colleagues sitting just a few feet away from me at Google realized they could use an obscure technique called machine",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/",
-      "originalUrl": "https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/pathways_3.gif",
-          "width": 1048,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/amp/",
-      "publishedDateTime": "2021-10-28T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-aventis-launches-ibm-ai-powered-course-recommendation-training-management-system-tms.md",
-      "title": "Aventis launches IBM AI Powered Course Recommendation Training Management System (TMS)",
-      "excerpt": "IBM Watson Powered AI Course Recommendation and Training Management System (TMS) which will greatly improve the productivity of their clients. Leveraging on IBM latest Deep Learning and NLP ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/aventis-launches-ibm-ai-powered-course-recommendation-training-management-system-tms",
-      "originalUrl": "https://www.digitaljournal.com/pr/aventis-launches-ibm-ai-powered-course-recommendation-training-management-system-tms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/d9abf77af7ea227e52d8ded0cb55de105d583fb5-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-facebook-is-expanding-smart-glasses-research-into-cars-via-bmw.md",
-      "title": "Facebook is expanding smart glasses research into cars via BMW",
-      "excerpt": "Facebook's still trying to make AR-enabled, AI-assisted smart glasses happen. The company announced plans to field-test its camera and sensor-studded Project Aria glasses, designed for research on future AR glasses in more places, and even in cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
-      "originalUrl": "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
-      "publishedDateTime": "2021-10-28T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

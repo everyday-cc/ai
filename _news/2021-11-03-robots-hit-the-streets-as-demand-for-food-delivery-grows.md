@@ -2,23 +2,29 @@
 category: news
 title: "Robots hit the streets as demand for food delivery grows"
 excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
-publishedDateTime: 2021-11-02T21:41:00Z
-originalUrl: "https://www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
-webUrl: "https://www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
-ampWebUrl: "https://www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
+publishedDateTime: 2021-11-03T07:12:00Z
+originalUrl: "https://www.chron.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+webUrl: "https://www.chron.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+ampWebUrl: "https://www.chron.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Robots hit the streets as demand for food delivery grows"
@@ -100,6 +106,6 @@ related:
         height: 406
         isCached: true
 
-secured: "QTY8iftEalzEobR+FL0Pck4Ua2TsZ+OlO/OT/AcB0oICFVZadfB6mgENolwzmWVwJuHLdOF3NDiq35m/ZWRQ8MGAznG5CpSTRBqr4AooYsFJBjGLhMqBfpFI1rg3lOuZgOc01d+QkszJliLmaYJ0Ixj6xTi23BuuTc61QZsl0olhaHjgK/JkAUAsl9zywS/JmQwEf97YPUSn+5xfuQz3lKiJhd6HpzuAeXYkEAEUORV+CU8yUVwX/VHkFmAh+RLsYFym6OVHqfnMG0Di81FNyhSeiKkQEvfr7XWhx+AY2wSn+xm4/GVLZIQ6H5LJTrV4GuztsdOT7gUH687xHJDaoWrKbi99uFuvgsqeZyNHlGga/Iq7TZP4IKpVJEhcUTVtd//BGkEyTvKaLDBJtsuIvES6FshsZS4zSDaqpSVix6ChHn7SVbzrvcHTEUiIff6WcvwxR0G2QAMN02SWj3mY89ni+om5OxmmoJbcUkoOWSBUbCR/qt/gZKe5EpfgvEBW/lVv+xtVlu/Zp1AWLEVI9w==;CN2Co7lVOUfTGZ0jYbU34g=="
+secured: "wnvyEGe60bOb7cjyu6QAKotqOUjLhd94wb0N3jvvECQ2sHMaReGqVoVRsX7OOsaWBs35g3NRa/4l8mWIFFjjD5COUuDBbzpMxqd6iLD0AR0um0eRMqvcj3/9YLbvQBlwLLbpc6REuMAcI1IoR/5ngKY3vtLdHZGMSqGkA1TEy1xjOrGgAa9LzdMMILhFXzDR3btYsTNxAJeaymShQ1Act+AKboZkQbaA0AVNILjnMBsi+6u6qh9lkj1QP8k/jxgaWTTOVi9mXpaCqS/IYew17qXwOenQTJL9NfTqnuAWDSOmSzr8K6oJ/bwUKkpfveQf/bNkyt2xw5pU5C5XnlREv9Sar9UTYgbNKZyqGASV3iw=;Dwql3IKKyUzsoUppjEqUeQ=="
 ---
 

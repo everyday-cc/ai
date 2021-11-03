@@ -2,6 +2,418 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-10-11-us-already-lost-ai-battle-to-china-pentagons-ex-software-chief.md",
+      "title": "US already lost AI battle to China: Pentagon's ex-software chief",
+      "excerpt": "The United States has already lost the artificial intelligence (AI) battle to China, which is heading toward global dominance because of its advances",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
+      "originalUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/10/11/thumbs/800x531/151317.jpg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
+      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
+      "publishedDateTime": "2021-10-11T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sabah",
+        "domain": "dailysabah.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong.md",
+      "title": "How AI And A Strong Need For Sustainability Is Affecting The Travel Industry’s Evolution By Jason Fong",
+      "excerpt": "We can’t just bounce back after this great stall in the industry, we need to make sure that we bounce back better. This means, ensuring that travel and tourism are more sustainable, more thoughtful, more meaningful,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6163cb0882f26511222194f1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D848%26cropY1%3D0%26cropY2%3D963",
+          "width": 848,
+          "height": 963,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/amp/",
+      "publishedDateTime": "2021-10-10T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-exploring-the-role-of-dignity-in-government-ai-ethics-instruments.md",
+      "title": "Exploring the role of dignity in government AI Ethics instruments",
+      "excerpt": "Originally published with Centre for Public Impact. There is so much focus on the harms that technologies of the future can and do bring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/exploring-role-dignity-government-ai-ethics-lorenn-ruster",
+      "originalUrl": "https://www.linkedin.com/pulse/exploring-role-dignity-government-ai-ethics-lorenn-ruster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGPZnuaDU7SnQ/article-cover_image-shrink_600_2000/0/1520130833100?e=1639612800&v=beta&t=n1kkk6k8x5EVfIP7q0dQB6O4XMMTh1aXsX7qK6Xubyo",
+          "width": 453,
+          "height": 244,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-microsoft-azure-artificial-intelligence-ai-portfolio-review.md",
+      "title": "Microsoft Azure Artificial Intelligence (AI) Portfolio Review",
+      "excerpt": "One of the largest players in the artificial intelligence (AI) market is Microsoft Azure. Microsoft Azure’s AI ... and deploy machine learning models and foster team collaboration Azure Cognitive Search: Helps users identify the most relevant content ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/microsoft-azure-artificial-ai-portfolio/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/microsoft-azure-artificial-ai-portfolio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2020/10/Azure.png",
+          "width": 519,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T19:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-researchers-develop-ai-system-to-improve-eye-disease-detection.md",
+      "title": "Researchers develop AI system to improve eye disease detection",
+      "excerpt": "The CARE system uses fundus photography in combination with a deep-learning system trained to detect retinal disease on a larger scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
+      "originalUrl": "https://www.zdnet.com/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/51dc94d70802607d5e37c8464ce63d6e4c3d11b8/2019/10/11/1af07625-5c6c-466c-8209-1ba664e730f9/eye.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
+      "publishedDateTime": "2021-10-10T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-ais-role-in-the-future-of-asset-management-and-field-work-ibms-joe-berti.md",
+      "title": "AI’s Role in the Future of Asset Management and Field Work | IBM's Joe Berti",
+      "excerpt": "Check out this great listen on Audible.com. In this episode of the IoT For All Podcast, Joe Berti, Vice President of AI Applications at IBM, joins us to discuss the role of artificial intelligence in fieldwork and equipment management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.audible.com/pd/AIs-Role-in-the-Future-of-Asset-Management-and-Field-Work-IBMs-Joe-Berti-Podcast/B09J6CQ1X9",
+      "originalUrl": "https://www.audible.com/pd/AIs-Role-in-the-Future-of-Asset-Management-and-Field-Work-IBMs-Joe-Berti-Podcast/B09J6CQ1X9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/318ykwkMGCS._SL500_.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Audible",
+        "domain": "audible.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-soc-boosts-speech-recognition-systems.md",
+      "title": "SoC boosts speech-recognition systems",
+      "excerpt": "With the development and maturity of speech compression/ decompression and recognition, speech processing is becoming an important form of man-machine interface. Currently, these systems in laboratories are mostly large and complex. These implementations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/articles/15198/soc-boosts-speech-recognition-systems.html",
+      "originalUrl": "https://www.design-reuse.com/articles/15198/soc-boosts-speech-recognition-systems.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-stacking-our-way-to-more-general-robots.md",
+      "title": "Stacking our way to more general robots",
+      "excerpt": "Introducing RGB-Stacking as a new benchmark for vision-based robotic manipulation.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/stacking-our-way-to-more-general-robots",
+      "originalUrl": "https://deepmind.com/blog/article/stacking-our-way-to-more-general-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/AmFPJnwo5d3vAXo369YTs-co0fKRBpt8MNLW75imLf5VO2KfQxcdbqgi7RuUzAQj_CUT0o_kw9LxHFiuRcDxqLOxJj_LkEr3EMJg-1-LDAnHyDYzw6k",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
+      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
+      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
+          "width": 1314,
+          "height": 986,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-top-canadian-researcher-says-ai-robots-deserve-human-rights.md",
       "title": "Top Canadian researcher says AI robots deserve human rights",
       "excerpt": "Should artificially intelligent robots have the same rights as people? Yes, says one of Canada’s top artificial intelligence (AI) entrepreneurs. Suzanne Gildert is co-founder and chief scientific officer of Kindred AI, a Vancouver startup whose backers ...",
@@ -752,421 +1164,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
-      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
-      "excerpt": "AI is quickly becoming more useful in our world, and these two companies are perfectly positioned to benefit from it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "originalUrl": "https://www.fool.com/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F645506%2Fai-button-on-a-circuit-board.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "publishedDateTime": "2021-10-09T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-delta-air-lines-expands-facial-recognition-digital-id-to-atlanta.md",
-      "title": "Delta Air Lines Expands Facial Recognition Digital ID To Atlanta",
-      "excerpt": "Delta is expanding its digital identity experience to its home in Atlanta, Georgia. Domestic passengers of the",
-      "sourceUrl": null,
-      "webUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/",
-      "originalUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://simpleflying.com/wp-content/uploads/2021/06/GettyImages-1263005027-scaled.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/amp/",
-      "cdnAmpWebUrl": "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/delta-facial-recognition-atlanta/amp/",
-      "publishedDateTime": "2021-10-09T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Simple Flying",
-        "domain": "simpleflying.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times.md",
-      "title": "Creating, Curating, And Optimizing With Data Science And Machine Learning At The New York Times",
-      "excerpt": "Journalism, an industry whose primary focus is the communication of ideas in both text and visual format, has come to adopt the tools and techniques of data science to put power behind analysis and visualization of data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6161a43b64fa06e32b3a987f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D396%26cropY1%3D29%26cropY2%3D426",
-          "width": 396,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/amp/",
-      "publishedDateTime": "2021-10-09T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains.md",
-      "title": "How to Move More Goods Through America’s Clogged Infrastructure? Robot Trains",
-      "excerpt": "Self-driving trains could be greener, carry more stuff, and help unclog America’s congested supply chains. And making them a reality will likely be far easier than perfecting autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
-      "originalUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-414056/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
-      "publishedDateTime": "2021-10-09T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-ai-for-asset-tracking-using-only-machine-learning-core-in-sensors.md",
-      "title": "AI for asset tracking using only machine learning core in sensors",
-      "excerpt": "Using our wireless IoT wearable node (SensorTile.box) and Qeexo AutoML software, you can build decision tree algorithms for our sensors without writing a single line of code. We explore the machine learning core engine in the LSM6DSOX 6-axis inertial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.st.com/content/st_com/en/about/events/events.html/intelligent-asset-tracking-enabled-by-lsm6dsox.html",
-      "originalUrl": "https://www.st.com/content/st_com/en/about/events/events.html/intelligent-asset-tracking-enabled-by-lsm6dsox.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.st.com/content/dam/logos/open-graph-logo.png",
-          "width": 750,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-09T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ST",
-        "domain": "st.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor.md",
-      "title": "Artificial Intelligence and robotics are game-changing courses of future markets: AP government advisor",
-      "excerpt": "The state government advisor said Andhra Pradesh was the first state to include skill development as part of the curriculum at the graduation level.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/articleshow/86890710.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/articleshow/86890710.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-86890895,width-1070,height-580,imgsize-86670,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/amp_articleshow/86890710.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/amp_articleshow/86890710.cms",
-      "publishedDateTime": "2021-10-09T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-early-evoked-brain-activity-underlies-auditory-and-audiovisual-speech-recognition-deficits-in-schizophrenia.md",
-      "title": "Early evoked brain activity underlies auditory and audiovisual speech recognition deficits in schizophrenia",
-      "excerpt": "Objectives People with Schizophrenia (SZ) show deficits in auditory and audiovisual speech recognition. It is possible that these deficits are related to aberrant early sensory pr",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/PPR/PPR405579",
-      "originalUrl": "https://europepmc.org/article/PPR/PPR405579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-09T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-sophia-the-first-android-with-citizenship-now-wants-to-have-a-robot-baby.md",
-      "title": "Sophia, the first android with citizenship, now wants to have a robot baby",
-      "excerpt": "In early 2021, the Hanson Robotics company announced that they would start the production of hundreds of robots with Artificial Intelligence like Sophia, to help fight Covid-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/390238",
-      "originalUrl": "https://www.entrepreneur.com/article/390238",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1633717529-sophia-robot-androide-humanoide-bebe-familia.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-08T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong.md",
-      "title": "Chinese chip firm Horizon Robotics mulls moving US IPO to Hong Kong",
-      "excerpt": "Chinese artificial intelligence chip maker Horizon Robotics is considering moving a US listing plan to Hong Kong as Beijing deepens crackdown on overseas listings, Bloomberg reported on Friday. The firm had been weighing a US initial public offering that could raise as much as $1 billion,",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "originalUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "publishedDateTime": "2021-10-08T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

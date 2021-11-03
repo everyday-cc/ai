@@ -1,29 +1,31 @@
 ---
 category: news
 title: "White Castle thinks a robot can make better french fries"
-excerpt: "It's harder than you might think to deliver french fries that aren't too crispy or soggy. Just ask the burger chain White Castle. Timing is key: Fries need to be in oil for the right amount of time. But employees in fast food restaurants are often subject to a flurry of distractions in the kitchen,"
-publishedDateTime: 2021-11-02T19:47:00Z
-originalUrl: "https://www.wicz.com/story/45111250/white-castle-thinks-a-robot-can-make-better-french-fries"
-webUrl: "https://www.wicz.com/story/45111250/white-castle-thinks-a-robot-can-make-better-french-fries"
+excerpt: "It's harder than you might think to deliver french fries that aren't too crispy or soggy. Just ask the burger chain White Castle."
+publishedDateTime: 2021-11-02T21:01:00Z
+originalUrl: "https://www.foxcarolina.com/white-castle-thinks-a-robot-can-make-better-french-fries/article_e1d8a50c-fb08-57ad-abe7-24a03b3f55e7.html?block_id=996035"
+webUrl: "https://www.foxcarolina.com/white-castle-thinks-a-robot-can-make-better-french-fries/article_e1d8a50c-fb08-57ad-abe7-24a03b3f55e7.html?block_id=996035"
+ampWebUrl: "https://www.foxcarolina.com/white-castle-thinks-a-robot-can-make-better-french-fries/article_e1d8a50c-fb08-57ad-abe7-24a03b3f55e7.amp.html"
+cdnAmpWebUrl: "https://www-foxcarolina-com.cdn.ampproject.org/c/s/www.foxcarolina.com/white-castle-thinks-a-robot-can-make-better-french-fries/article_e1d8a50c-fb08-57ad-abe7-24a03b3f55e7.amp.html"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: Fox Carolina
+  domain: foxcarolina.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://CNNWIRE.images.worldnow.com/images/21648386_G.jpg?lastEditedDate=1635862610000"
-    width: 500
-    height: 281
+  - url: "https://bloximages.newyork1.vip.townnews.com/foxcarolina.com/content/tncms/assets/v3/editorial/f/38/f3839d7a-3525-597d-82eb-c2af67ac2d2e/6181b190edf06.image.jpg?resize=1024%2C576"
+    width: 1024
+    height: 576
     isCached: true
 
-secured: "U3mYp/sKnQVnuCaAVhNAL52z9GyPJ6BZtEkNNOY0zviSABro0/dfmPX+/yt2HuHhkA7rjUJkPcnZe04xeRKvNvrfN9qEiIBreMTOCJESwTtLgsQ0OVwwn6IWj32Q71v0c8wSx5+elBIcPXBcS/voI195knNMqQeMPq/aSE2+lVtHDN6qsyhy5maZYvMqxko5w+PXigtq5FIrlYgsg8Wxgwktn7Bud5LbU2+Z7PVOv7yDMm24vrOy/ZOCMmUFWx0q1uR+RQ2uq2ocMFwP2vdSwJjBWMfjlzVSW3Orspac1EgNFNGmb2NFQ8pvPWu9OJoM1Py50itS8jovedVdJS9Sn6oA54raUzHaB4hd2YACZ1Q=;27vN9myc6H7cZ6p8JlQMYg=="
+secured: "zOtWAT9lZ6Ou4TYLjkCe9vDMsHS5OT/VJL4u5wV+7WQyZM4L8Dz0/3QJ1snS7Z1IoKt8RR0PS+1I4gjn55xLUx2ppIgpK/McSLAzk87YicXHEc7P7m2/fNHI18Sh3yiss99NseHIfRZHOhMmKSXrdI6P9d/+yZzMkzDsnhmDR2LtfAIjsCyIungvOw4dzjVsAOM5i3AAck6kpwwrxuIAlz5SYYYHVr7gK1n4+98Drl1ZOK9QwbX8T6dloEJUWkq3/isbt2sUM9VvFSl2+6dn4rS0hbtDbDEuUlTF2zX76TfkPxWAO5zahZGRhES6DiUvWbaSjuBI0p9VwhYADPypkdGnLbvY0ADWsXirOYe+ijw=;oMj5jDkWcfPKMMMfRa3IIg=="
 ---
 

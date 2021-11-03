@@ -2,6 +2,409 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-10-01-how-to-get-your-cloud-migration-strategy-right.md",
+      "title": "How To Get Your Cloud Migration Strategy Right",
+      "excerpt": "This transformational effort includes migrating workloads to Amazon Web Services, Microsoft Azure, and Google Cloud Platform, which may not have been historically deployed as cloud-ready applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/",
+      "originalUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615499ae3a419e32bc2c8594%2F0x0.jpg",
+          "width": 1200,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/amp/",
+      "publishedDateTime": "2021-10-01T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-tech-offerings.md",
+      "title": "M2P Fintech Acquires Saas Platform Origa.ai To Ramp Up Tech Offerings",
+      "excerpt": "M2P Fintech said in a press release the acquisition will help the firm to bolster its technology capabilities around new age collection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "originalUrl": "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.outlookindia.com/public/uploads/articles/2021/10/1/m2p_550_550.jpg",
+          "width": 550,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "publishedDateTime": "2021-10-01T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-honda-plans-new-air-taxi-robotics-and-space-technologies.md",
+      "title": "Honda plans new air taxi, robotics and space technologies",
+      "excerpt": "These areas include developing a new electric vertical take-off and landing (eVTOL) air taxi, new robots and space vehicles. The Honda eVTOL aircraft leverages Honda’s electrifi",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/17269/honda-plans-new-air-taxi-robotics-and-space-technologies",
+      "originalUrl": "https://electronics360.globalspec.com/article/17269/honda-plans-new-air-taxi-robotics-and-space-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electronics360.globalspec.com/images/assets/269/17269/Honda_eVTOL.jpg",
+          "width": 752,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions.md",
+      "title": "IQ-AI says new publication shows impact of Imaging Biometrics software solutions",
+      "excerpt": "Neurosurgery Open published a study that suggested that IB Clinic should be routinely used to optimise surgical guidance and pathologic diagnosis",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/961962/iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions-961962.html",
+      "originalUrl": "https://www.proactiveinvestors.com/companies/news/961962/iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions-961962.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_10/1200z740_1633080116_shutterstock_570241147-(1).jpg",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/961962",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/961962",
+      "publishedDateTime": "2021-10-01T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-google-faces-a-lawsuit-over-deepminds-access-to-16-million-uk-patients-records.md",
+      "title": "Google faces a lawsuit over DeepMind's access to 1.6 million UK patients' records",
+      "excerpt": "Google and DeepMind face legal action over access to millions of UK patient records in 2015. DeepMind gained access to 1.6 million patients' data in a deal with the Royal Free deemed to have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-and-deepmind-face-lawsuit-over-unlawful-nhs-data-access-2021-9",
+      "originalUrl": "https://www.businessinsider.com/google-and-deepmind-face-lawsuit-over-unlawful-nhs-data-access-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6155b5e1b414c10018630cdd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-and-deepmind-face-lawsuit-over-unlawful-nhs-data-access-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-and-deepmind-face-lawsuit-over-unlawful-nhs-data-access-2021-9?amp",
+      "publishedDateTime": "2021-10-01T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-why-uxui-should-be-considered-throughout-the-ai-life-cycle.md",
+      "title": "Why UX/UI Should Be Considered Throughout The AI Life Cycle",
+      "excerpt": "Both user experience (UX) and user interface (UI) design play crucial roles in successful AI product development and implementations and should be considered throughout the entirety of the AI life cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdb169d384f635f4653a1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/amp/",
+      "publishedDateTime": "2021-10-01T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-qlik-acquires-big-squid-for-augmented-analytics-with-no-code-automated-ml.md",
+      "title": "Qlik acquires Big Squid for augmented analytics with no-code automated ML",
+      "excerpt": "Qlik acquires Big Squid for augmented analytics with no-code automated ML Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/80112-2/",
+      "originalUrl": "https://www.dqindia.com/80112-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2017/02/RPA.jpeg",
+          "width": 540,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/80112-2/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/80112-2/amp/",
+      "publishedDateTime": "2021-10-01T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-alphasense-raises-180-mn-series-c-funding-from-viking-global-goldman-sachs-others.md",
+      "title": "AlphaSense raises $180 mn Series C funding from Viking Global, Goldman Sachs, others",
+      "excerpt": "AlphaSense, a market intelligence and search platform, on Friday said it has raised $180 million (about Rs 1,336.5 crore) in funding led by Viking Global Investors and the Growth Equity business within Goldman Sachs Asset Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/alphasense-raises-180-million-series-c-led-by-viking-global-and-goldman-sachs-joined-by-morgan-stanley-citi-bank-of-america-barclays-wells-fargo-cowen-alliancebernstein-866205418.html",
+      "originalUrl": "https://www.freepressjournal.in/business/alphasense-raises-180-mn-series-c-funding-from-viking-global-goldman-sachs-others",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
+      "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
+      "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "publishedDateTime": "2021-10-01T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report.md",
       "title": "GCC Artificial Intelligence Market 2021-26: Industry Trends, Size, Share, Analysis and Forecast Report",
       "excerpt": "According to IMARC Group's latest report, titled \"GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" the GCC artificial intelligence market grew at a CAGR of around 24% during 2015-2020.",
@@ -765,420 +1168,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-tensorflow-1x-vs-tensorflow-2-behaviors-and-apis.md",
-      "title": "TensorFlow 1.x vs TensorFlow 2 - Behaviors and APIs",
-      "excerpt": "Under the hood, TensorFlow 2 follows a fundamentally different programming paradigm from TF1.x. This guide describes the fundamental differences between TF1.x and TF2 in terms of behaviors and the APIs, and how these all relate to your migration journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=zh-cn",
-      "originalUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=zh-cn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-create-amazon-sagemaker-projects-with-image-building-cicd-pipelines.md",
-      "title": "Create Amazon SageMaker projects with image building CI/CD pipelines",
-      "excerpt": "Amazon SageMaker projects are AWS Service Catalog provisioned products that enable you to easily create end-to-end machine learning (ML) solutions. SageMaker projects give organizations the ability to use templates that bootstrap ML solutions for your users to speed up the start time for ML development.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-with-image-building-ci-cd-pipelines/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-with-image-building-ci-cd-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/28/ML-5720-image017.jpg",
-          "width": 500,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T11:15:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-microsoft-announces-preview-of-on-demand-capacity-reservations-for-azure-virtual-machines.md",
-      "title": "Microsoft Announces Preview of On-Demand Capacity Reservations for Azure Virtual Machines",
-      "excerpt": "AI tools are slowly replacing the role of the ... Recently, Microsoft announced the preview of on-demand capacity reservations for Azure Virtual Machines (VMs). With this new feature for VMs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
-      "originalUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/09/azure-vm-ondemand-capacity/en/headerimage/generatedHeaderImage-1632562426442.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-ai-innovations-in-media-and-communications.md",
-      "title": "AI Innovations In Media And Communications",
-      "excerpt": "My last blog discussed AI innovations in the health care sector, and this one will share a few perspectives of new developments in the Media and Communications Industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ef71088eada6a8f3c806%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/",
-      "publishedDateTime": "2021-09-30T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-vcs-invested-over-75b-in-ai-startups-in-2020.md",
-      "title": "VCs invested over $75B in AI startups in 2020",
-      "excerpt": "According to a new report from OECD, VCs poured a record amount of money into startups developing AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/",
-      "originalUrl": "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/amp/",
-      "publishedDateTime": "2021-09-30T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-dmi-raises-40-mn-for-its-fintech-focussed-sparkle-fund-plans-to-make-20-investments.md",
-      "title": "DMI Raises $40 Mn For Its Fintech-Focussed Sparkle Fund, Plans To Make 20 Investments",
-      "excerpt": "The Sparkle Fund by DMI Alternatives was set up in 2017 to invest in India’s rapidly growing digital finance ecosystem. Sparkle has so far invested $10 Mn across multiple companies including M2P, Credgenics,",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/",
-      "originalUrl": "https://inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2021/09/GST-Social-2.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/amp/",
-      "publishedDateTime": "2021-09-30T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-use-sec-text-for-ratings-classification-using-multimodal-ml-in-amazon-sagemaker-jumpstart.md",
-      "title": "Use SEC text for ratings classification using multimodal ML in Amazon SageMaker JumpStart",
-      "excerpt": "Starting today, we’re releasing new tools for multimodal financial analysis within Amazon SageMaker JumpStart. SageMaker JumpStart helps you quickly and easily get started with machine learning (ML) and provides a set of solutions for the most common use cases that can be trained and deployed readily",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-sec-text-for-ratings-classification-using-multimodal-ml-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-sec-text-for-ratings-classification-using-multimodal-ml-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T09:30:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-microsofts-msft-azure-platform-implemented-by-truveta.md",
-      "title": "Microsoft's (MSFT) Azure Platform Implemented by Truveta",
-      "excerpt": "Microsoft’s MSFT Azure cloud platform and Artificial Intelligence (AI) capabilities are being leveraged by Truveta to improve the scalability of its data platform. The software giant is also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30",
-      "originalUrl": "https://www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30?amp",
-      "publishedDateTime": "2021-09-30T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-teslas-full-self-driving-mode-is-actually-not-fully-self-driving.md",
-      "title": "Tesla’s full self-driving mode is actually not fully self-driving",
-      "excerpt": "The capability is marketed as a way to take your hands off the wheel, but some experts, including Alistair Weaver of Edmunds, say the technology isn't ready.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2021/09/GettyImages-490598518.jpg?fit=740%2C416",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp",
-      "publishedDateTime": "2021-09-30T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-01T22:11:00Z
 originalUrl: "https://www.autonews.com/mobility-report/closer-look-ponyai-chinese-self-driving-startup-quietly-building-international"
 webUrl: "https://www.autonews.com/mobility-report/closer-look-ponyai-chinese-self-driving-startup-quietly-building-international"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 images:
   - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/pony-MAIN_i.jpg"

@@ -8,7 +8,7 @@ webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recogn
 ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Computer Vision
 
 related:
   - title: "Facebook battles the challenges of tactile sensing"
@@ -541,15 +542,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Before Going Meta, Mark Zuckerberg Must Fix Facebook"
-    excerpt: "No matter what Facebook is called now ... Although the conference was officially called the Dartmouth Summer Research Project on Artificial Intelligence, many attendees balked at that term, invented by McCarthy. “I won’t swear I hadn’t seen it ..."
-    publishedDateTime: 2021-10-29T13:41:00Z
-    webUrl: "https://www.wired.com/story/plaintext-zuckerberg-fix-facebook-meta/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 34
   - title: "Facebook is ending its use of facial recognition, deleting data on more than a billion people"
     excerpt: "Facebook said Tuesday it will end its use of facial recognition software and delete facial data on more than a billion people, a sudden reversal for one of the Internets biggest face-scanning systems that could reinvigorate scrutiny about the softwares expanding prevalence around the world."
     publishedDateTime: 2021-11-03T00:21:00Z
@@ -600,6 +592,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Facebook ending its system of facial IDs"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-03T07:27:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+    type: article
+    provider:
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 24
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199814388_4D1facebook1103_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Facebook says it will shut down face-recognition system, delete data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
     publishedDateTime: 2021-11-02T22:21:00Z
