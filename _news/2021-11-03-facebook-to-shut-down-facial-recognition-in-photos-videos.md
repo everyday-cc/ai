@@ -391,6 +391,22 @@ related:
         width: 949
         height: 633
         isCached: true
+  - title: "Why is Facebook shutting down its facial recognition system and deleting ‘faceprints’?"
+    excerpt: "The social media giant is putting a stop to its technology that identifies people in photos. We look at what prompted the move and what it means for users"
+    publishedDateTime: 2021-11-03T03:54:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/nov/03/why-is-facebook-shutting-down-its-facial-recognition-system-and-deleting-faceprints"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/nov/03/why-is-facebook-shutting-down-its-facial-recognition-system-and-deleting-faceprints"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/03/why-is-facebook-shutting-down-its-facial-recognition-system-and-deleting-faceprints"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 51
+    images:
+      - url: "https://i.guim.co.uk/img/media/16e9552132995fbd2aa23d62830bb84e043e8b63/0_98_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=1f83e55463f1e16ca72d334eba840df0"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Facebook Shuttering Facial Recognition System, Will Delete Data From Over a Billion Users"
     excerpt: "Facebook is shutting down its Face Recognition system and will delete the facial data of more than 1 billion of its users, Facebook parent"
     publishedDateTime: 2021-11-02T17:43:00Z
@@ -409,17 +425,17 @@ related:
         isCached: true
   - title: "Facebook announces it's purging 1 billion faceprints from its system"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T00:40:00Z
-    webUrl: "https://www.ksdk.com/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
-    ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
-    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
+    publishedDateTime: 2021-11-03T05:43:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
     type: article
     provider:
-      name: KSDK
-      domain: ksdk.com
+      name: WHAS11 News
+      domain: whas11.com
     quality: 44
     images:
-      - url: "https://media.ksdk.com/assets/CCT/images/d4f94cdf-5190-492c-a155-5f721e3672a7/d4f94cdf-5190-492c-a155-5f721e3672a7_1140x641.jpg"
+      - url: "https://media.whas11.com/assets/CCT/images/d4f94cdf-5190-492c-a155-5f721e3672a7/d4f94cdf-5190-492c-a155-5f721e3672a7_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -594,18 +610,15 @@ related:
         isCached: true
   - title: "Facebook to shut down face-recognition system, delete data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-02T18:45:00Z
-    webUrl: "https://apnews.com/article/technology-business-data-privacy-artificial-intelligence-85a21a8079a757f2ff99972f1858f7ce"
+    publishedDateTime: 2021-11-03T04:25:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 24
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/aaf359d054eb4991b8d8803ebe927f4c/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."
     publishedDateTime: 2021-11-02T21:27:00Z
@@ -616,6 +629,6 @@ related:
       domain: theaustralian.com.au
     quality: 21
 
-secured: "cS/T31vd4Q61ZZ+jxiYxhyJmAqH7MX2oRbUc5xuTo6WZHt4DSCa5cGpWXD3pfRCvO+rEB3ZEC2pyJ6lSgTR301FeceEeuQh07+5Mp6oU22ePS6sbYCAkmytiOKe5ncoB1WcJJSkNOKNaWYtmXTadbCLLEfkZDQ13VHFMIxxllKqwKVfVXeEdKHA8UeZHQx0Sf1PKSu/jP2oo0O6UKww6S/J3GpRWiNpDhHe/k329WveO30h8HvR/RaGajuIyxmOhr7TmoFcm4aFRau0+MXVdG8DoC9Skm62CLfDlnsDUqAVLaJRUN4h17QQJV/YuCFKjQ8r0uSga44Ju6ovFPpTXu3Pi6t+Ro7Dz6juSWXkMbuE=;3+SRLIhNZKN0hGq4DDAG4Q=="
+secured: "kLrbxXUDsK3We6pgaQLCzk9jHGuwary56AFfhhRCyH9N7nQj8xkcgz4oqzGynAqwP4SIHR9xui/+OQo+7AA87iWyDmosXsiP6zVn94fQOhcGEzsnRCRicl320/XIldzUL0SUQxxLLprHWDiCsYzaJhZsL2KS7w7U5Li0pBO+WFPqUxc8tYXH7RlP0fSA0rI2KPpfQrL7qEPu7AsEohyh8WzK3/Q5+alx6V+OLF6Z0gejqBiQ105EAtyG03EIBFdyOCHYmGLVIxR47+QWVKe2ktEIWFV7sUnW2iyNaLWk6ple8UukMqOWDKhSKSc4QfT9yO5bCvcZMDuNA0jfB22IVu5dUAoS+G1L5Lvg0DA3GXuqokdmLvDneYIQntirdWeGWA2JaDJmUwUUc0UFG+cHfPgQedmLDVw4m/342zfS2BmG6L+fT3vl2dZXvjLCsJiZQa+Ezu88qprux8Bhv7hrWGc3wooDQy8n5lZykhvokzJYzt/MJJTRECt6li1VHLuknZVc8ugFW0H9n8Kc/iqGgQ==;mC7GXC15qVKZZ/QTzssxYw=="
 ---
 

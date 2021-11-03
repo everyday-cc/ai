@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Voice Tech: Coming Soon To A Classroom Near You"
-    excerpt: "Education publishing multinational Scholastic worked on its own speech recognition software in the late 1990s, but abandoned the project in the face of technical problems. But advances in artificial intelligence and machine learning mean it is a technology ..."
-    publishedDateTime: 2021-10-29T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/"
-    ampWebUrl: "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/amp/"
+  - title: "Robots Deliver Food at North Carolina A&T State University"
+    excerpt: "The knee-high robots use machine learning, artificial intelligence and sensors to navigate the campus ... Joe Burdi, who oversees food services at A&T for Sodexo, said the decision to start using the robots was not caused by a labor shortage."
+    publishedDateTime: 2021-10-29T18:08:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university?_amp=true"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617b19822609716213144981%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2f5990f/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1c%2Ffa%2F359e4dd58737b5bfcee5c940058c%2Fshutterstock-622400270.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Robots navigate the streets to deliver food"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
+    publishedDateTime: 2021-11-02T11:52:00Z
+    webUrl: "https://www.foxbusiness.com/technology/robots-navigate-streets-deliver-food"
+    ampWebUrl: "https://www.foxbusiness.com/technology/robots-navigate-streets-deliver-food.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/robots-navigate-streets-deliver-food.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38e40a5e-bee5-4131-86c8-2181899036b0/6c525105-2878-4218-a8f2-c3c36cbaa94d/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Ytt+0Ogr95l4HKeIIe9ZWslPmdeT7E9rz9ret5KKMM6XbjASGwzz2h5MVz1z1ahakvoNlvEqgHIogbI67/zup3tDGUh9veY0llXtRgMp+JgLqdlKcKL0d5JSXI+mrVusQ3ErSq2q6wDvaDhybdvUBwjLJIiSii2h46dY3bIYf8GJ6qJzeLtUjMuUy9MwUETj9EklOg2b/XlY85xwwKq/EF0v0Bm+bBfHcyq/s6WW6OkOJuH7+G15b+z7dffO0C5Zu4bmNOMS+ZQwLlYnd7jMODv8C3KUVtcoJ8tlQlkzrjbG/7PG+uAeidMFh3twplkvK63Gz3eRp/YLGNc9DECMJX89cI2Vm0hj8VCzIVSm42g=;FUMaM1CtXOIZ+1zsNSkblA=="

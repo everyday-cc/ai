@@ -43,6 +43,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Robot food delivery, coming soon to a campus near you"
+    excerpt: "Robots navigate the Bowling Green State University campus in Bowling Green, Ohio on Thursday, Oct. 13, 2021. Robot food delivery is no longer the stuff of science fiction. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-02T11:12:00Z
+    webUrl: "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/11/Starship_Robot_AP_Asset_ID_19957182.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "u5LlavVQuLOJf0WwRLOWjyZjKMxm27iqzuPczmTOXRGxRcPnggdafiNRXA1lqLc6eNl1vKJmI9V6+RcvCkHI6LAzgaBQox05TiOiVXVzdKdah7nM3x1htrPh80XZDLpEqLc0JWXaLHrhHRqjiAc/jrl+3UElbghS99CP28iEHecKhvLb6lK5p/CoNHk2muJAsMT+hgvvridutHEQ2lGnF+RZmNzz+3zdn1GUXIbh3++gPyyjtg182tEnII/7FZ8i1IRYZe/bYrQ2BsJv4upcmnCO4RnRc25uTU3gjzKlJH/kqSEOQLgQHYnpxasoogK2vlscRBUmJsBgNT+/uTkNFMq08gpF4wgMN5rmnPQIEJY=;tN3z2a/XF4wK2/XT4hISUA=="
 ---

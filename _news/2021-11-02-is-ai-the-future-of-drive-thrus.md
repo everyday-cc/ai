@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Embracing Automation And AI To Drive The Next Wave Of Success"
-    excerpt: "Automating manual and repetitive activities has helped many organizations survive the past couple of years while giving others the foundation to grow and thrive."
-    publishedDateTime: 2021-10-29T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/29/embracing-automation-and-ai-to-drive-the-next-wave-of-success/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617aa2261f5347ebbfa8f207%2F0x0.jpg"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Taming the data deluge by enriching AI algorithms with new processors"
     excerpt: "An oncoming tsunami of data threatens to overwhelm huge data-rich research projects in such areas that range from the tiny neutrino to an exploding supernova, as well as the mysteries deep within the brain."
     publishedDateTime: 2021-11-01T13:44:00Z

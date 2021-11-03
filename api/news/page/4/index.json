@@ -198,6 +198,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-30-robots-deliver-food-at-north-carolina-at-state-university.md",
+      "title": "Robots Deliver Food at North Carolina A&T State University",
+      "excerpt": "The knee-high robots use machine learning, artificial intelligence and sensors to navigate the campus ... Joe Burdi, who oversees food services at A&T for Sodexo, said the decision to start using the robots was not caused by a labor shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/2f5990f/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1c%2Ffa%2F359e4dd58737b5bfcee5c940058c%2Fshutterstock-622400270.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university?_amp=true",
+      "publishedDateTime": "2021-10-29T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-mits-csail-self-driving-water-taxis-launched-in-the-amsterdam-canals.md",
       "title": "MIT’s CSAIL self-driving water taxis launched in the Amsterdam canals",
       "excerpt": "Granted, there aren’t many cities where self-driving water taxis are a viable ... scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Senseable ...",
@@ -1140,48 +1183,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-us-leadership-in-artificial-intelligence-is-still-possible.md",
-      "title": "US Leadership in Artificial Intelligence is Still Possible",
-      "excerpt": "What does it mean to be first in developing applications of artificial intelligence (AI), and does it matter? In a recent interview, the former Chief Software Officer of the U.S. Air Force Nicolas Chaillan stated that he resigned in part because he ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/blog/us-leadership-artificial-intelligence-still-possible",
-      "originalUrl": "https://www.cfr.org/blog/us-leadership-artificial-intelligence-still-possible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cfr.org/sites/default/files/styles/full_width_xl/public/image/2021/10/RTXEC6PS-min_2.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cfr.org/blog/us-leadership-artificial-intelligence-still-possible?amp",
-      "cdnAmpWebUrl": "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/us-leadership-artificial-intelligence-still-possible?amp",
-      "publishedDateTime": "2021-10-28T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
-publishedDateTime: 2021-11-02T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
+excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
+publishedDateTime: 2021-11-02T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
+webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
@@ -50,20 +50,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/11/OpenAI-Still-3-2.jpg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft acquires Two Hat to collaborate on online safety and digital wellness solutions for online communities"
-    excerpt: "Today, we are excited to announce that Microsoft has acquired Two Hat, a leading content moderation solution provider offering protection measures for online communities with a vision to build better experiences for everyone."
-    publishedDateTime: 2021-10-29T13:00:04Z
-    webUrl: "https://blogs.microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/"
-    type: article
-    provider:
-      name: microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/
-      domain: microsoft.com/blog/2021/10/29/microsoft-acquires-two-hat-to-collaborate-on-online-safety-and-digital-wellness-solutions-for-online-communities/
-    quality: 118
-    images:
-      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/10/Project-Fresh-Hero-Image-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Microsoft’s new Azure OpenAI Service brings GPT-3 to (a few) more developers"
     excerpt: "Microsoft today announced the launch of the Azure OpenAI Service, which, as the name implies, makes OpenAI’s machine learning models available on the Azure platform. Specifically, that means GPT-3, OpenAI’s groundbreaking language model that can,"
@@ -250,6 +236,6 @@ related:
       domain: openpr.com
     quality: 13
 
-secured: "ouwj8K9rK6X7N3FENt8watGew5p395rmmfOExsQox2jYmC9FCS9nNKStPwnbtLVEbjWQG50/f3C5e2xOK4nEoW4NECmt9npgZIkysOZK12G8Es0gV+C9XKTvOnTa5VVbqr2oQIn786VTMiUMLVzhXh0cNoG8731Nk+borzxo0kq35N/K+PCTUT24UMNUN1TT+BmE4fBTwcnNayhyBCrHEx1UMRo8JEKoLdAyzNbaKJekIvKmPAV/TUYq82gYwOtfeYjwnsjFIW6QLwDXhXGRfLQz95mtf3mwiFH1OLupSwt8gh6VZxTQqTpZsUTbK+Dg0ax81R9AWjMEJlx2f3F76lg/X0N48gpwuD+zvgAo+/8=;4Bva9ji2fRCcMmyCdar22w=="
+secured: "CJMxuyfK73nFtrthEwi0uLjIhgZcVImnpuKqKrCdvQV6gxitMKEN0pScfy/7RF4n70m0dYwjma/XPDtidLJqOxE7UBNViLmV07ac7CkGqpwigVSWiitWdhXR8sT6Q5pDm6yis8O5HWwJRFe7SYP6EkqN1FNyEGd2fwe/adpVrQAbpbAMgpMxsFLwGkTuDzhTh3GTVW7J/Qanb0RZ0+KwF7/TwiosTrKe8wCwVDZXrlPO6ag6gMALQnIGDUfP3uspxfM3SB7HsiIk4D4i1Pq3CnxtWEuB8wRKFLMg+m3t7nFpWkPM0BPWwgq97YYWwNlVLyXA9AtGSlT7zbTMQca+7+WaDc77XqxCaVJErdY/Q6U=;XcwQH+JySTIwJkkHI0Bz1Q=="
 ---
 

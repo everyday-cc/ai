@@ -1,32 +1,33 @@
 ---
 category: news
-title: "Facebook is enabling a new generation of touchy-feely robots"
-excerpt: "Facebook announced on Monday that it has developed a suite of tactile technologies that will impart a sense of touch into robots.."
-publishedDateTime: 2021-11-01T12:12:00Z
-originalUrl: "https://www.engadget.com/facebook-is-enabling-a-new-generation-of-touchy-feely-robots-120016974.html"
-webUrl: "https://www.engadget.com/facebook-is-enabling-a-new-generation-of-touchy-feely-robots-120016974.html"
+title: "Why is Facebook shutting down its facial recognition system and deleting ‘faceprints’?"
+excerpt: "The social media giant is putting a stop to its technology that identifies people in photos. We look at what prompted the move and what it means for users"
+publishedDateTime: 2021-11-03T03:54:00Z
+originalUrl: "https://www.theguardian.com/technology/2021/nov/03/why-is-facebook-shutting-down-its-facial-recognition-system-and-deleting-faceprints"
+webUrl: "https://www.theguardian.com/technology/2021/nov/03/why-is-facebook-shutting-down-its-facial-recognition-system-and-deleting-faceprints"
+ampWebUrl: "https://amp.theguardian.com/technology/2021/nov/03/why-is-facebook-shutting-down-its-facial-recognition-system-and-deleting-faceprints"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/03/why-is-facebook-shutting-down-its-facial-recognition-system-and-deleting-faceprints"
 type: article
-quality: 71
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Robotics
+  - Computer Vision
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/95bffc80-3802-11ec-bdfc-f316a562d4f3"
-    width: 4896
-    height: 3264
+  - url: "https://i.guim.co.uk/img/media/16e9552132995fbd2aa23d62830bb84e043e8b63/0_98_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=1f83e55463f1e16ca72d334eba840df0"
+    width: 620
+    height: 372
     isCached: true
 
 related:
@@ -205,6 +206,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05egxMOGFZlEofqvJsk2vYY-1.1635880469.fit_lim.size_1200x630.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Facebook is enabling a new generation of touchy-feely robots"
+    excerpt: "Facebook announced on Monday that it has developed a suite of tactile technologies that will impart a sense of touch into robots.."
+    publishedDateTime: 2021-11-01T12:12:00Z
+    webUrl: "https://www.engadget.com/facebook-is-enabling-a-new-generation-of-touchy-feely-robots-120016974.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 71
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/95bffc80-3802-11ec-bdfc-f316a562d4f3"
+        width: 4896
+        height: 3264
         isCached: true
   - title: "Facebook to End Use of Facial Recognition Technology on Platform"
     excerpt: "The news comes one year after use of the technology led to a legal settlement that cost the company $650 million"
@@ -391,22 +406,6 @@ related:
       - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/11/FacebookAI-Robots.jpg?fit=950%2C634&ssl=1"
         width: 949
         height: 633
-        isCached: true
-  - title: "Why is Facebook shutting down its facial recognition system and deleting ‘faceprints’?"
-    excerpt: "The social media giant is putting a stop to its technology that identifies people in photos. We look at what prompted the move and what it means for users"
-    publishedDateTime: 2021-11-03T03:54:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/nov/03/why-is-facebook-shutting-down-its-facial-recognition-system-and-deleting-faceprints"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/nov/03/why-is-facebook-shutting-down-its-facial-recognition-system-and-deleting-faceprints"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/03/why-is-facebook-shutting-down-its-facial-recognition-system-and-deleting-faceprints"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 51
-    images:
-      - url: "https://i.guim.co.uk/img/media/16e9552132995fbd2aa23d62830bb84e043e8b63/0_98_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=1f83e55463f1e16ca72d334eba840df0"
-        width: 620
-        height: 372
         isCached: true
   - title: "Facebook Shuttering Facial Recognition System, Will Delete Data From Over a Billion Users"
     excerpt: "Facebook is shutting down its Face Recognition system and will delete the facial data of more than 1 billion of its users, Facebook parent"
@@ -630,6 +629,6 @@ related:
       domain: theaustralian.com.au
     quality: 21
 
-secured: "0LgBLmuZgYMs3HVaEUOq3XjfpMUmJ7Ythlz3c32R6Una2exQfmyeAq+V2C0ULnQviQFDb02CpyUkM+EsDJGvfcNkxy27IoRYL+RkN8IFmPsMDhgYw5aqTnt2aySSv23kwkShwmuMRh1nCmHygBlAbGYBuU8fFY4uxatS4GmOq0jLEKvsjHmTZeW1EFVFvw0eb0ZwOyaIHMu4+MzhGRJ/VF5LaeI1Fx5r+yecLh1mO3/qKX4xF02hW0PAFLVqk9tggdN6kwKnI5veYQ3Hw+Xq556+bXKAUWlCPnNxG661vusjb2e2AIkMkfqYyWrJYR7s9saHB1n2hZZsoUom6XETB39ouRdd+jJdOPPI5rHGXT38fUorZ62CALUYY7x4NmcS1fYKUHEmirQNqBhrwCCksYYQvPBeaz/+faE81tsUkh0lcd2R6sMlEllnhUq4XRH5puou8YB7oFrC0wlw/BcxiqaRsp96R53Nitejmsp/2T4PIL0f8d3ZxAjP79IE8z9YB0e6PaeB23TFXD9gJrCQTQ==;FgOzTKoGmg4fj7dfEf6/0g=="
+secured: "EZb8ciWQE/mz/K7qH5XkG1/Roa9XWQWk8bRWWK+GEEaBfnYDCbk+nnKaGLtgCi+weRWHZYgvlPh4aG0Sflclu6ZUbMGA4YgsX7JrXGqmuwnStUL+6TwX+dtvt5d9YUDuZWQ5XYxI6NXdYQea+EXH2eYDoqf5m6Yf2xt1n0ACfLlRINYs38UwCYROen51r8Pnt3JJuKYRIpZJp7b697RwTScaRzBvvSpGSzSUDX0cOwkgNnKlayhkoHpq7qwa7Nl/NAzPHYH1rcRMntvU3jpMKcPkdqH3r25m/JCSwM0CzHAcc9zmFp5NjLPiAGia1b1cD0znVj2+jjFQIKZd1am157Yg9c13/fhh3uKhK/Socnw=;HBO0EocKThynGUYR7h4Omg=="
 ---
 

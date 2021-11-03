@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/22752986/meta-facebook-andrew-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://eadn-wc03-5047357.nxedge.io/cdn/wp-content/uploads/2021/10/markus-spiske-iar-afB0QQw-unsplash.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "Taiwan's AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
-    excerpt: "TAIPEI, TAIWAN - Media OutReach - 29 October 2021 - Taiwan's top annual event for artificial intelligence, AI Day 2021, assembled key international stakeholders from across public and private sectors at Gaming Space in Taipei from October 27 to 28 morning,"
-    publishedDateTime: 2021-10-29T13:01:00Z
-    webUrl: "https://www.wicz.com/story/45084671/taiwans-ai-day-2021-enters-the-metaverse-with-virtual-exhibition-and-forum"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 37
-    images:
-      - url: "https://public.newsdirect.com/134607972/geWzL9vh.jpeg"
-        width: 1000
-        height: 666
         isCached: true
   - title: "Taiwan’s AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
     excerpt: "He reveals his organization’s belief that edge computing will include machine learning accelerator chips, then goes on to introduce the thinking behind federated machine learning in AI."
