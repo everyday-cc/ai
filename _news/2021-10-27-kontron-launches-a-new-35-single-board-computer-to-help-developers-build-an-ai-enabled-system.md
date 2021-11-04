@@ -1,18 +1,15 @@
 ---
 category: news
 title: "Kontron Launches A New 3.5\" Single Board Computer To Help Developers Build An AI-enabled System"
-excerpt: "Kontron Launches A New 3.5\" Single Board Computer To Help Developers Build An AI-enabled System. TAIPEI, Oct. 26, 2021 /PRNewswire/ -- Kontron, a leading global provider of IoT /"
-publishedDateTime: 2021-10-27T10:32:00Z
-originalUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/10/27/9478289.htm"
-webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/10/27/9478289.htm"
+excerpt: "Kontron, a leading global provider of IoT / Embedded Computing Technology, launches a new 3.5\" single board computer, named 3.5\"-SBC-TGL, powered by 11th Generation Intel® Core™ U-Series processors (Tiger Lake UP3),"
+publishedDateTime: 2021-10-27T09:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-kontron-launches-new-35-single-board-computer-help-/2021/10/27/9478289.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-kontron-launches-new-35-single-board-computer-help-/2021/10/27/9478289.htm"
 type: article
-quality: 27
-heat: 27
-published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
@@ -20,10 +17,10 @@ topics:
 
 images:
   - url: "https://mma.prnewswire.com/media/1668800/3_5_sbc_tgl.jpg"
-    width: 656
-    height: 400
+    width: 400
+    height: 244
     isCached: true
 
-secured: "zJGG4wjEmStx8/gf/VhQvNZ+HeseMrmAwDUffMgYg5UrHynSi3N4Pp+6fab7kaU+Lat9Dt7d/ikHdEVXqkPMgFANVnG2d3g0t5WJIa1fFGRHJiHWEP+kNUvZ/FUprp2WUdtGPV7IWIcn9+nBAriQQ9/09FOmEM3c3xEIvgUvBwWI/8LycVSmyWePfdjbTx2ked2Viih8hPDdE1k0PbsDFoYMystbksv8I/dW8xrryUK9sFBdFghy0IMkb7/0PlwarQMOqXsNA3DCj74IZ1tRS2feGv4D4F0zo5FUfprAOxT4Z6KbwdiiUz8QeJ9m1bBoK+rE4R/zxwhhzUe5+53iRcvmbbOUgClu9vJaz0aJN6A=;Uxmp67A59UPcxx/oIddKvg=="
+secured: "fcRdtRC0JQpQRRueq3DeDH93twrhmdxOATy4xxNWcXzNjlBey5NKDlLfNz38RfGXRuSrc83LFwRhybXD12IBco65XvxVyGcoRL7qWS+CmqvmdnPXU+S16RXd+3RdADPspr3wRVQVe7t3ZcIq9+YncU0zZyJwYq5RjFLhoczKKYvduy5clxqFTzyCEIS+X5xe4R8f7dfCyuyAHkKGzZDRcpVTTzgAI7pNmqT7oEI5GVBRMlhhKhto52H554KQeuQn9kEVbe9QiUft2QEd5U7qvN/oOXnIKyQNHPGaVCsKYWjq48RArPDjCvGvAZjQ/tLU+V6AOkSM3Vw61FyodA4464UK5j5xwFrKdn3536S7YYE=;WI7Bi+BLmpH92r1bzwXGww=="
 ---
 

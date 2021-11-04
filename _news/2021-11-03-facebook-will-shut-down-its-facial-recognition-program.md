@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Facebook Will Shut Down Its Facial Recognition Program"
-excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people. The internet giant uses the technology"
-publishedDateTime: 2021-11-03T14:02:00Z
-originalUrl: "https://www.entrepreneur.com/article/395106"
-webUrl: "https://www.entrepreneur.com/article/395106"
+excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people."
+publishedDateTime: 2021-11-03T13:43:00Z
+originalUrl: "https://www.valuewalk.com/facebook-will-shut-down-its-facial-recognition-program/"
+webUrl: "https://www.valuewalk.com/facebook-will-shut-down-its-facial-recognition-program/"
 type: article
-quality: 71
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ValueWalk
+  domain: valuewalk.com
 
 topics:
   - Facebook AI
@@ -24,9 +20,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-395106.jpeg"
-    width: 1280
-    height: 853
+  - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2021/07/Facebook_1625588551.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -787,6 +783,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "pSoOFWJUqXsvjxuVu6vS91qoBrVoO8Q3V0+5neyMOHlz5VbQc6UFzgqtPUiwtiDE1qISly8LEu3UP2ykI3qzmDtJtUJeiT2o3ubxPz/VKVygtDWPiFJcjVgXkn9wy8xqurePjK5ALhk6IcfvEK0fRCE/SqTVy1qWjvvHO3uR1HCrR2h/B4ARd1JnJp7X8kd3ptDhakOBx5YmsVj6OuXiOPcxSjhSV4dZx05mt+ItU4qb1Ld7V90oFCAUyniqDhaZ9sKslvbfc/mYIv4bRXSZivSIfw5G7d3VYbP3pH/3bQZwAo3orWFJx9hbLTc4CUvoiEr2lc/ldEEMDgaxsWTaRC5IWaJjORkijfs+HkD89HmNXVFA9v7BSSISR/iO5nPd3jGLepwtv3yfOT4ob1mYM4neznalt0RuuwudVDMgRqnOKX/A5S3nhHVEDQsM/PGE2/wi4UkhAf0m2TvMXxV+aR9Fuxsi+ut+N8cVRkJCzvhU+95OzyTJ2RWvkGWe19I45skQWmT6XME3FXmFdfIuMg==;YuYhlQGhVwHARhf6NUnzzg=="
+secured: "DERgiri++b856JPZprZkZkFDNrvwyaKEw7UDgILO80rlKFbT+R5WfjLf0PdjljNgKQ+Q1bejHfVj+yCVeeHsSlgHHBGjkqVdCBOCeMFAKzdkKUKiK+YTHWLpA0OoA/Xojn/eXgnqjBl0V2f+wMJWy4sTyS9L+M5CrPh1SuaEGPKGNCWB8ywSRlDpmqC39oUbwU6SCqVYnl5GE+Esjo4No8LqFuM+WWWb4eHIq9pQTbowLrc6Yla4W9fHxOuM7nQT+EcITKtqmNxiwKPUdXU0//dTVlkYT45Yk4WuVbK/GlSQf6gaZArDAtUrnL2mHNuaEPjKFs1M/LsICaBJo6CfnVyT4s7wr4zuXa2eCjGeoNU=;sFwxr2Py874ae3t0e1SwHA=="
 ---
 

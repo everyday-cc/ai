@@ -9,7 +9,7 @@ ampWebUrl: "https://www.trendhunter.com/amp/trends/babylon"
 cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/babylon"
 type: article
 quality: 76
-heat: 106
+heat: 107
 published: true
 
 provider:

@@ -231,20 +231,6 @@ related:
         width: 4896
         height: 3264
         isCached: true
-  - title: "Facebook Will Shut Down Its Facial Recognition Program"
-    excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people. The internet giant uses the technology"
-    publishedDateTime: 2021-11-03T14:02:00Z
-    webUrl: "https://www.entrepreneur.com/article/395106"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 71
-    images:
-      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-395106.jpeg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Facebook to End Use of Facial Recognition Technology on Platform"
     excerpt: "The news comes one year after use of the technology led to a legal settlement that cost the company $650 million"
     publishedDateTime: 2021-11-02T21:18:00Z
@@ -599,6 +585,20 @@ related:
       - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Facebook Will Shut Down Its Facial Recognition Program"
+    excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people."
+    publishedDateTime: 2021-11-03T13:43:00Z
+    webUrl: "https://www.valuewalk.com/facebook-will-shut-down-its-facial-recognition-program/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 41
+    images:
+      - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2021/07/Facebook_1625588551.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Facebook’s facial recognition removal comes with caveats"
     excerpt: "The company this week said it is deleting 1bn facial recognition templates — made through scans of users’ faces — and shutting down the features that automatically recognise people in photos and videos."

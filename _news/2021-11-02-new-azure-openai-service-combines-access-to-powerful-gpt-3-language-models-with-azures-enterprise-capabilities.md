@@ -7,7 +7,7 @@ originalUrl: "https://blogs.microsoft.com/ai/new-azure-openai-service/"
 webUrl: "https://blogs.microsoft.com/ai/new-azure-openai-service/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

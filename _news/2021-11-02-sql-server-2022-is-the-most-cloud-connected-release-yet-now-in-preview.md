@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/sql-server-2022-is-the-most-cloud-connect
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch
 cdnAmpWebUrl: "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

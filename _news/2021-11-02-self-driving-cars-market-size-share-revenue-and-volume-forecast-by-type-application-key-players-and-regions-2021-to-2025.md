@@ -43,20 +43,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Automotive Artificial Intelligence Software Market Segmentation By High Corporations, Major Applications, Key Regions, Product Demand, Forecast 2028"
-    excerpt: "Stratagem Market Insights announced that it’s published an exclusive report namely Global Automotive Artificial Intelligence Software Market by Size, Share, Growth, Competitive Landscape, and Application,"
-    publishedDateTime: 2021-10-30T05:17:00Z
-    webUrl: "https://chipdesignmag.com/automotive-artificial-intelligence-software-market-segmentation-by-high-corporations-major-applications-key-regions-product-demand-forecast-2028/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 0
-    images:
-      - url: "https://marketresearch488204729.files.wordpress.com/2021/10/555-5557416_software-development-team-digital-marketing-clipart.png"
-        width: 1321
-        height: 938
-        isCached: true
 
 secured: "Jil15cjmC0LXelwh5qguFRdh7TS00SjrsjvGONSXBP0LsvCE4eYSr+2dmImHvUWiLdxa8rPKMfbRPiR/tDM5YhSKuoz2cbG9ciRWPHcX4+arsnXzzjSVKCnRD6zbejBwq6VMyiqVdOrqTtqJRuPUQ0R0Sd7fTml17Qg3n1EN6//n9OtGxv5OxwetKmYoB4IFIidZoCJP0rXA37Ns282pkJspK/Loe3+I6sPYQkYPXqTw4/Hyz6dz7KmXWMBhIsXUD9DCjDzMOjFogIB49ybui3MrWXLSuHqpnaa36HJJdi6mG4J7OYZnGldjmAgXjS5RTLt+yGwfRNK6OA2hDwhuZpEWRVghfxOcnT9wPXV796I=;Vavm7MEQG7++95uNXOYPOg=="
 ---

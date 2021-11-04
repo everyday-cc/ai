@@ -1,24 +1,22 @@
 ---
 category: news
 title: "Baidu Inc. (BIDU) Outpaces Stock Market Gains: What You Should Know"
-excerpt: "In the latest trading session, Baidu Inc. (BIDU) closed at $180.96, marking a +1.09% move from the previous day. The stock outpaced the S&P 500's"
-publishedDateTime: 2021-10-20T23:50:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-inc--bidu-outpaces-stock-market-gains--what-you-should-know-10647624"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-inc--bidu-outpaces-stock-market-gains--what-you-should-know-10647624"
+excerpt: "In the latest trading session, Baidu Inc. (BIDU ... is projected to generate $100s of billions by 2025. From self-driving cars to consumer data analysis, people are relying on machines more ..."
+publishedDateTime: 2021-10-21T03:35:00Z
+originalUrl: "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20"
+webUrl: "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20"
+ampWebUrl: "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20?amp"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "ZQyRZjjrZB9exaFE5RW9ZpI0nSIG7PBxaEpVt2kZJ3G8mHmIz0vRuk0JTFezpkiMx2Viy5+bNReYOD1/8v+4wuWr5D7j5mNMncfke77/r/PMlUNYArktpKezPJnmWnjh9gaajLhSN7jCuc6ml5jstNT0mgQ8rluNExknhxCJskqicQ3s5q92kWxV5X/pHtTyCwcODpNHOF3ly7FP2ZcQOWO6rC840mTKC6C/FJb7Gr1MvtGETcLJWxG4ybvwrlKp6N5zQrgCYe/TKpicW01Iyd4o3D4o5Vt+HA4WsvVV9r4mvPeFLCQChGy0s2bTFZeYShCxeaFS6MYsNO0k3Ntjc/e8YKHYqs4M30AS+20BTjY=;HBaZMP12f4JAEKBg/RA1Yw=="
+secured: "peti/t3mUYLOSwL4Z46ENOoO56yfdNUt0JQ7/Pmwb9qZ9gfap4E5v1SaTv3D3k/XUdDO3ypxZ2Ewr8sl8OFHeQSkcGoKbe6ZBI+iA/VMckVJZZeIOsuFnOlbKD7gRy9M95KpJUSUhPed54A60/lMWHnYygIUurM8ASRvrV69ApIlmsM0G84nqQWfel4zxNY+i/zwHj69VuD+UbuOZNm3Cx2tzUGKhIUIvp5KKDwXTpwV5f68kmQu3y8hNnGNmlmtkj/tF1NT0n4zZTO34HLRXQ2EziSDNcLQZhK0BB8ngKM1dugzkBnqNmJxGRD7dQOgqv3Pb1pHHGP8V6ob4lKId2OK3LotgYl4u5RcHeP/ZYM=;nXLFP1oU9pdfPCGSxqhDhA=="
 ---
 

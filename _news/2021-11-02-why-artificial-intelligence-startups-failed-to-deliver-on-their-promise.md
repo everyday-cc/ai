@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/theyec/2021/11/02/why-artificial-inte
 webUrl: "https://www.forbes.com/sites/theyec/2021/11/02/why-artificial-intelligence-startups-failed-to-deliver-on-their-promise/"
 type: article
 quality: 86
-heat: 90
+heat: 86
 published: true
 
 provider:
