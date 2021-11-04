@@ -39,6 +39,20 @@ related:
         width: 1040
         height: 585
         isCached: true
+  - title: "Voice’s promise for replacing passwords with biometrics unique, Pindrop execs argue"
+    excerpt: "What is most exciting to Pindrop is the range of applications that voice biometrics can now improve by providing passwordless authentication or personalization."
+    publishedDateTime: 2021-11-04T15:55:00Z
+    webUrl: "https://www.biometricupdate.com/202111/voices-promise-for-replacing-passwords-with-biometrics-unique-pindrop-execs-argue"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/05/06171613/7052BDC7-83B9-4556-BACE-D20ABFE7057B.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "V/QzWacqeH22ZE5pny+J7laiT8AvaukGoSJ7Sodq5JdDXYWinnYrF2hUYxLM/h5d1CUbPrX+WMoi1kzQS/XVs/bD0TggFvX+I0q6+wzKknWG+CFz0ClB+gKVzM15GC9MDWx3ydwcrSBbHF4lgIVKsO+V7zfvCmlU7J+yDBn28ESZBmCGIPXEVd1GnEeHJ5JTMSRu9V2du68UivLsUx85VKeLI70XI/PAoTZuShg/Mlri0j8kU11rcVXGv1YBcroXqigphm7Cd37cKHq3Ha4ASvmz7YJsJShkvgyiA90m+f21bz/DUaSkuOB7B5siR7JLBWk0zwjqECvIIll/lxFJop5+LSrO4ve60irmaru+SJI=;TKxwaZb7CjCPb8x5q40KNQ=="
 ---

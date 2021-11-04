@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Voice’s promise for replacing passwords with biometrics unique, Pindrop execs argue"
+    excerpt: "What is most exciting to Pindrop is the range of applications that voice biometrics can now improve by providing passwordless authentication or personalization."
+    publishedDateTime: 2021-11-04T15:55:00Z
+    webUrl: "https://www.biometricupdate.com/202111/voices-promise-for-replacing-passwords-with-biometrics-unique-pindrop-execs-argue"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/05/06171613/7052BDC7-83B9-4556-BACE-D20ABFE7057B.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vivoka Adds ID R&D Voice Biometrics to the Latest Version of Its Voice Development Kit"
     excerpt: "Vivoka Voice Development Kit V3 with voice biometrics from ID R&D - Now available at  (Graphic: Business Wire) Vivoka’s user-friendly, graphical interface removes"
     publishedDateTime: 2021-11-02T10:19:00Z

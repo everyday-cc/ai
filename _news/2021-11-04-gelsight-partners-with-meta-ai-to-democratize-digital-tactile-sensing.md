@@ -2,28 +2,22 @@
 category: news
 title: "GelSight Partners with Meta AI to Democratize Digital Tactile Sensing"
 excerpt: "GelSight, a pioneer in tactile imaging and sensing technology, today announced a partnership with Meta AI to commercially manufacture the DIGIT tactile sensor and expand the field of tactile sensing research."
-publishedDateTime: 2021-11-04T13:17:00Z
-originalUrl: "https://www.lelezard.com/en/news-20084495.html"
-webUrl: "https://www.lelezard.com/en/news-20084495.html"
+publishedDateTime: 2021-11-04T13:26:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-gelsight-partners-with-meta-ai-democratize-digital-tactile-/2021/11/04/9484985.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-gelsight-partners-with-meta-ai-democratize-digital-tactile-/2021/11/04/9484985.htm"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/theme/lezard2.png"
-    width: 500
-    height: 414
-    isCached: true
-
-secured: "SgGwnMiYNFPVjwOsCpbxfDR45u2O2BasjBupHaL7mFz1Wcx+Iqlrth55kggZdTHIlCdC+lO9cMHMZbfidP46jNLq5CwmoRgkOUMoY5MRHtKd2jjEltOCchgwpF9XxXK1GhxBh9aOO0746gf/2RRrLwCWfa7ujHsjsxDPrLHzPvOdYiSNala8sYn0Pes1Kw2gGBZAt0HG7ln53ZxE0lAe7ADpBjFUCbF2gwKgxIyelEiApdlHspDa1IiTPwh3w3sG7H6I93A9VkH7SrFhsrq24EmW5BMaB9u4El31nw4Dhi3Vxn2r7vg8bspKX04TSHjHJehjDfSj2/OxWGbJJK50lsj+Doe8IYDAvidgf8TO0DU=;Cul6/g/EyOWzZbaizbkaxw=="
+secured: "umKjmPQx7HhQEpwA3kn5lAB8DAnEENeD3ZGllTZAjT2xaf9rAUJvalNY0bZPF/3XR64ckutJ+wQEOOhqcGFzujjywz2DvF4XsmXQjzPdnxpsq0XDmkhzA9Eqcrd4b02LjEh7zl2T0avVcyvWZD8+3r6fI9dkO0Gd9cvIEEEeR7VJZ31Az08cZxkkQ3TSVyb6EsvNXlLzRch7LjazeUbDu24X3BGq9iuY8jFjDYJHAgwQZwYuFPAUWMuOrkO9S15UY81189xpAX0SDGZJjpTUE0JCJ6/zBvGeJEGluFj6UuQ9Y2u/9JaOuBd7jHNm1Rom5O71MxJEtfLY/J/Vpy/pvVP06S/xyGzxvs4iXEECUyc=;UE2pu8DZTLOqE833jgLfGQ=="
 ---
 

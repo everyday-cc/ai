@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 603
         isCached: true
-  - title: "1000 Years of Joys and Sorrows by Ai Weiwei review — the artist on his lifelong battle with China"
-    excerpt: "In the first line of his fictional autobiography, Dickens’s David Copperfield asks whether he will turn out to be the hero of his own story. I’m not sure the qu"
-    publishedDateTime: 2021-10-30T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/1000-years-of-joys-and-sorrows-by-ai-weiwei-review-the-artist-on-his-lifelong-battle-with-china-ptbpjm2z3"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fe6dc2122-365c-11ec-a14e-75e3a4bcdc4c.jpg?crop=2250%2C1266%2C0%2C80&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "EhbUnQexLHFxNbiwDCIDpYTbDQAekhSSXMrnToeBMpaqif91JCHpy1WQYq3cr5XxnmHpstZeqsl+os7aWjxmryY5nBPOqnmOZjSgFCSkYeWORNzIe8d0t2Ta6j9Wdr7q8btYzRLp/azqqySZp6iH+aqI+xlYHlH4Ib6cm4MAHGp7zAlTcEziNaxECgP11CTY81fX1bKJWInsuWY0eEfh7EsVEeTr4ZzR7+RnDp2JKnD9ExZT9iRKBG+a3F0oWt0uO9YcSLvEF+AnzKc3HCngpHiYjyvtRRYS0r11eSMDKPiHxDvjOyDh4Psst0BHz4O+zgUNxXYQ51NCcWS0a+cihUYkruDlvKvRUx8MTI46+LABqNasUY0bINzJMi+Bkr49OgG8sNXx+aQqI/WSZL12SkOVpkF8748aPaGkvAuDW3UZutoMzGzGH2G2ZufDbtk5PoSvJvwAn0Ic12tYdOFMZrw+fx0V6gqse3pJWM57law2K4C7zK1EEHOr1poDTv07JaRY6Iffkahf6Mndm4HQKw==;xZh1VdUuia9lzbbdMCa8cg=="
 ---

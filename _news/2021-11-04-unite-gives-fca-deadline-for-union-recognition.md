@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Toward speech recognition for uncommon spoken languages"
+    excerpt: "Automated speech-recognition technology has become more common with the popularity of virtual assistants like Siri, but many of these systems only perform well with the most widely spoken of the world's roughly 7,"
+    publishedDateTime: 2021-11-04T13:57:00Z
+    webUrl: "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/toward-speech-recognit.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Unite gives FCA deadline for union recognition"
     excerpt: "If they ignore the request, the union has the right to apply for recognition to the Central Arbitration Committee ... are flooding to join Unite as their independent trade union voice\". \"The FCA management cannot any longer stick their heads in the ..."
     publishedDateTime: 2021-11-03T15:58:00Z

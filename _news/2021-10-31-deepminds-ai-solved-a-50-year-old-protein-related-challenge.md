@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Alphabet has a new drug discovery company building on DeepMind’s AI chops"
+    excerpt: "Isomorphic's CEO said the company plans to use computational AI methods to “reimagine the whole drug discovery process.\""
+    publishedDateTime: 2021-11-04T15:00:00Z
+    webUrl: "https://www.statnews.com/2021/11/04/alphabet-launches-drug-discovery-company-building-on-deepmind/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 53
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2021/11/AdobeStock_211444725-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "K6eWxBmZFQWVJv8d7/Tl6QgWwCucDeOxTqdDdEbpluHxYycN+49rnWYiRoakYnU5L7eDh/N5LXxYDYa5vnM3qQTOhDBPrjF60Hr1la0rkJ7qMSLFGSdqb2B5VU6QOmZFZLLhttltdQeFBAeId+/Z1NLGK2Umf5rqFrIYUo5htjLWfqNLkPFxtPlv8GaNBHerW60K43+zJZkOgMqTvFI7gLuMDu012RyOuILNtUwVEBXh005w0CIU9OrYyFS+AiUxWh7CNG0wUypLyobX5I9uEj54o+2DsM3zM3iH/cssZ8rQE9wTGy+dc8O1xw9oG7qxr3VaWBxI04VimT3uzzJgLiaMP7/xf7rUEaP9ZSvYNMMbXbZjrV67Cb7O2IddsHQmzDPtcwq26WkJF/hL/cq7UzGIm0dNXkgTsCNMICFUWX2GQnMZELIHdaR6TpDdWZRpowql6fJO6U5qkVYWw5OkjZpkTNdqrikwlS8SXLekKX4YnXYq4Suo2ZPbalbokFoC6hyXI7Dm53K42hYhqCE+Ag==;BLpcvIKjS1CDsFzvmJ3rGg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/phil-bouchard-transforming-the-re
 webUrl: "https://www.analyticsinsight.net/phil-bouchard-transforming-the-research-and-development-industry-with-innovative-ai-solutions/"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Filings buzz: tracking artificial intelligence mentions in the automotive industry"
+    excerpt: "Mentions of artificial intelligence within the filings of companies in the automotive industry were 141% increase between July 2020 and...Read"
+    publishedDateTime: 2021-11-04T15:53:00Z
+    webUrl: "https://www.just-auto.com/features/filings-buzz-tracking-artificial-intelligence-mentions-in-the-automotive-industry/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 31
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_1097273573.jpg"
+        width: 500
+        height: 334
+        isCached: true
 
 secured: "HNlMH7+DZIcCFlB2/oXntVeaeQR0w2oQfhzxA+diHN42dj6YbQBUTn2E0z6bNTn814G6OrjexXhvSHCGg5GBV31gwdL8XQNqfKb8KLmyjbfrTAGEHRgVPoFUeHJ0Yvbd0Ic23Qj8woKtPmWXNU7mHb+PnuBGkSRhSs9qB3OZl1ZpEFdydJnYQx5hJDLD4y4s5EO0xORzSJt65oRLMeK5fNXY1wLX6OxZ636TuHv0VZnVNav0jGfE1QlNuylJpg0h9iek32YaltWN0M1PfkCYgaEwn5NynhnDTzufYI7DI77XM7lWKnbCbORGmb0P+7ynkH7UeUciCdlzkZ+oT6mCvphqnN3DzewtKPZZNYyfFlA=;Cva7cLaENTYVtOsnzgA+5A=="
 ---

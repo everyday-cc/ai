@@ -1,26 +1,28 @@
 ---
 category: news
 title: "CDPQ leads US$70 million financing round in Sama, an AI training data platform"
-excerpt: "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training"
-publishedDateTime: 2021-11-04T13:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cdpq-leads-us-70-million-financing-round-in-sama-an-ai-training-data-platform-1030937439"
-webUrl: "https://markets.businessinsider.com/news/stocks/cdpq-leads-us-70-million-financing-round-in-sama-an-ai-training-data-platform-1030937439"
+excerpt: "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training to power AI applications and to develop the first end-to-end AI platform to manage the complete AI lifecycle The company has approximately 40 employees in Montreal where it intends to strengthen its presence with a research and product development hub MONTRÉAL,"
+publishedDateTime: 2021-11-04T14:35:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-canada-montreal-8e7928684b9df0a642dc179d2c054258"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-canada-montreal-8e7928684b9df0a642dc179d2c054258"
 type: article
-quality: 45
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Sama taps into $70M to build ‘first end-to-end AI platform’ for training data"
@@ -54,6 +56,6 @@ related:
         height: 672
         isCached: true
 
-secured: "QH1CC+6dCiVMOjyFrYI9U78u6nxyq9rsWquO7XTQiNJcCTSpVDepuiTh4oIIiJp1M+x7oKxyLSUajDtbnFokrCxfJGfXeiSD1hl1f+bFCmgGNPQ4v0BMUgtAuAR3kd/17Cg8ls7ZeE2RymviMD/K4xbdlvdzYMItwrkfouBR85/RYUEK89e/JS8o/SFA+YJ/hrNmNWb6uaFvUp2R007tm4hHdm3roK8UFW75H6raXPnXHRlZ23k+nwBpa9TjeqiUc1Bvu8CWdnLPUSubr1UGV+MKScgtdBMNkx/goaZa179ZX1s/jHnGxeMDrRnP3/ml08y7tQ+6LKqJJTgI7YPb59BXF86ViBDdnz1onaU/YVg=;xjKWKLZ4phvUQ48gELF+xg=="
+secured: "bb4F7vvj0U7YqGGLIaYwAsU7NDcU7eTKufNacuJw2dUlHlQcnt3JF44wJ3GUmw1QUGOHeZ7Ej4qmWbfv7lF6An3f/eDr5wjFkErToJxqBymG/HE1Ar30zeqe1NuXDaUiS6h7thm0IpB3Sh0jcvij8IgPQZ4NXZzxXoo31m9UN5FGDm2wSj+d1wM0Pqrua4P/Y0yhAZLbAES8BD0EHFaBww8SFDAVQ4SvIMFgmz1YbGjUzvQsbSlXjhViFfubUfnOD3fl+ry8QVHT/tSkKSmxCPJ3cu5PUZKRr50xJ5ePFCVOfIR3+Bbal1V8WiJuvIY7jdkr8pd/49tspgUWxoClmeHAqb8+XfUCraRX2+6bfIo=;xo9SIvu7gpSmfIyt0OfujA=="
 ---
 

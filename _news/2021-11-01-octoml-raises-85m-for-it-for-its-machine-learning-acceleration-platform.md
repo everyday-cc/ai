@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/"
 type: article
 quality: 218
-heat: 248
+heat: 258
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/octo-ml.jpg?w=1200&strip=all"
         width: 1200
         height: 650
+        isCached: true
+  - title: "WhyLabs raises $10M Series A for its AI observability platform"
+    excerpt: "WhyLabs, a machine learning startup that was spun out of the Allen Institute last year, helps data teams monitor the health of their AI models and the data pipelines that fuel them. Last year, the startup raised a $4 million seed round and today,"
+    publishedDateTime: 2021-11-04T15:00:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://i.ytimg.com/vi/UsDsLEpigBw/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
   - title: "Korean autonomous driving startup 42dot bags $88.5M Series A to accelerate its growth"
     excerpt: "South Korea-based autonomous Transportation-as-a-Service (TaaS) startup, announced today it has raised $88.5 million (104 billion WON) in a Series A round of funding to advance its urban mobility operating system (UMOS)."

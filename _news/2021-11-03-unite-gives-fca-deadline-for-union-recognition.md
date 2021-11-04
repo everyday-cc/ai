@@ -7,7 +7,7 @@ originalUrl: "https://www.investmentweek.co.uk/news/4039718/unite-fca-deadline-u
 webUrl: "https://www.investmentweek.co.uk/news/4039718/unite-fca-deadline-union-recognition"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Toward speech recognition for uncommon spoken languages"
+    excerpt: "Automated speech-recognition technology has become more common with the popularity of virtual assistants like Siri, but many of these systems only perform well with the most widely spoken of the world's roughly 7,"
+    publishedDateTime: 2021-11-04T13:57:00Z
+    webUrl: "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/toward-speech-recognit.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Unite gives FCA deadline for union recognition"
     excerpt: "The general secretary of Unite Sharon Graham has written to the Financial Conduct Authority (FCA) demanding trade union recognition for its workforce."
     publishedDateTime: 2021-11-04T09:02:00Z

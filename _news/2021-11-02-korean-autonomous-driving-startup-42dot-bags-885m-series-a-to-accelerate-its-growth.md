@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 650
         isCached: true
+  - title: "WhyLabs raises $10M Series A for its AI observability platform"
+    excerpt: "WhyLabs, a machine learning startup that was spun out of the Allen Institute last year, helps data teams monitor the health of their AI models and the data pipelines that fuel them. Last year, the startup raised a $4 million seed round and today,"
+    publishedDateTime: 2021-11-04T15:00:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://i.ytimg.com/vi/UsDsLEpigBw/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "AI optimization startup OctoML nabs $85M after key chipmaker partnerships"
     excerpt: "OctoML Inc., a startup founded by University of Washington computer scientists to make artificial intelligence models more efficient, today disclosed that it has closed a $85 million funding round. Lead investor Tiger Global Management was joined in the round by returning backers Addition,"
     publishedDateTime: 2021-11-01T21:42:00Z

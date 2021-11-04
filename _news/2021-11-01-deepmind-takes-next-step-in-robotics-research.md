@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/"
 type: article
 quality: 121
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
     quality: 54
     images:
       - url: "https://techstory.in/wp-content/uploads/2021/10/unnamed-1024x576.gif"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Alphabet has a new drug discovery company building on DeepMind’s AI chops"
+    excerpt: "Isomorphic's CEO said the company plans to use computational AI methods to “reimagine the whole drug discovery process.\""
+    publishedDateTime: 2021-11-04T15:00:00Z
+    webUrl: "https://www.statnews.com/2021/11/04/alphabet-launches-drug-discovery-company-building-on-deepmind/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 53
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2021/11/AdobeStock_211444725-1024x576.jpeg"
         width: 1024
         height: 576
         isCached: true
