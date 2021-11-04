@@ -2,26 +2,26 @@
 category: news
 title: "Iron Ox Launches Grover, an All-New Autonomous Mobile Robot"
 excerpt: "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile support robot named Grover. Grover is not your average farmer."
-publishedDateTime: 2021-11-02T10:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-iron-ox-launches-grover-an-all-new-autonomous-/2021/11/02/9482131.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-iron-ox-launches-grover-an-all-new-autonomous-/2021/11/02/9482131.htm"
+publishedDateTime: 2021-11-02T10:02:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-environment-robotics-3def91b570ac36de404ae9d96a9c4645"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-environment-robotics-3def91b570ac36de404ae9d96a9c4645"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1675899/IRON_OX_Image_Courtesy.jpg"
-    width: 400
-    height: 267
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 337
         isCached: true
 
-secured: "onVmw4maKwuRSJQZXTGFYWjUaWS8V7OySufVaoy7RhW4cg70WWQD0fVmVQKJejKJCJlzvOX1MPCuS5LUj+zg5ylL33L9Q4Xxq1tl0qpcaOo4TeaTro2CGfRb435RXoBdw2ZJ32oNhI/v3/7v1HzKSglUf3RH2bybLpRWvF3uv3bho/QrK1e7EkYVLEVzqpyEDXpq3QrSumdhFMHvZ87W3AOKKgZEGRBZjS2Wr1VBkLyhUh6giQO3CtxAtTJtjwzlC+UcyQ4QGGAJCVp5EWRd8iBS4YpOdfsmmhVfHwtUY+s2M+40JbQ80cE1/RoOv1raiwvGnwejCAcOZd9Yw2H3yiKsSE+ZykAG7kM6wXuLzG8=;68hAsf2OifRc5E86satkkg=="
+secured: "VWi4LZ5aWPamDfUkB6hlE/csO0MscSESRZTLqPsxNc6Tm91oGTwsK5s85z3JWt4z5R2/sD9VFay7wOOitIhVKtxT1FOO+EUL4Rt3sqTekOsnQM/R/UHk2Eun2tZmTKMH/33RCrZbC2CgyCWRfmkUsGE4WPV1Pa2igYkfaPopYnvv6mgsvjikGYA0Mvmv/wgPwxlWKV3S50CXZD9YFKELNLVRdH7qtBO5Pg/dSnRWZaGk1j2oND4Qu9HypYzlgqC4KbgKrZJvo27kNASEpFqMsjFI8+3xWggo6pCWKrA2A/qDroghFrmvQqCzxUbqR9fYvnQ3FDviXetT6CNmPqXGALCQ+SVBBwoEmnDYu7PXMfA=;xyRKhPdMqzxS+LtOHVORwQ=="
 ---
 

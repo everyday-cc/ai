@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Tencent flags progress on three chips in development, investment effort"
-excerpt: "Best known for computer games and social media app WeChat,Tencent has been steadily investing in research and development of semiconductors."
-publishedDateTime: 2021-11-03T14:38:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/tencent-flags-progress-on-three-chips-in-development-investment-effort/article37325360.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/tencent-flags-progress-on-three-chips-in-development-investment-effort/article37325360.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/tencent-flags-progress-on-three-chips-in-development-investment-effort/article37325360.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/tencent-flags-progress-on-three-chips-in-development-investment-effort/article37325360.ece/amp/"
+excerpt: "Chinese technology giant Tencent Holdings 0700.HK touted progress in semiconductor chip development and investment on Wednesday, offering a rare public glimpse of its R&D initiatives. Best known for computer games and social media app WeChat,"
+publishedDateTime: 2021-11-03T06:52:00Z
+originalUrl: "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03"
+webUrl: "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03"
+ampWebUrl: "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03?amp"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.thehindu.com/sci-tech/technology/6n19gb/article37326150.ece/ALTERNATES/LANDSCAPE_615/tenbdjpg"
-    width: 615
-    height: 384
-    isCached: true
 
 related:
   - title: "Tencent pushes beyond online content, unveils first AI chips"
@@ -116,6 +110,6 @@ related:
         height: 359
         isCached: true
 
-secured: "yqlp1Q1yFP+TpyFiSgXQtqJblPHn9tjLLJPkiuRfYZrPnHnYJUdJMCqeptbU0vwy0OIVPNiNbMRYt3msSgEENBgPyfmbWNSV1+uWGsIOSsd6JF0GR6uybw8iYrOVd3xCIjLO6zKf2FPmKgyOxo9m2BMdSYhtcaQQsq8hCgg0xPPkBOEp6SFecAYnZ9BLMkEp1+Raz+HGu2hxJ7d+xizUotR9XSTR+X06S6BkFI5SBDEAMjzivp/3AcRdNPZFVeRh/7vBRQJn/TGl5P4L/upmuVFLC5ZIvDDrrB2A7cFkBGiwPj13l+xe8xMBeRKhDp5FmMaC7n63lfDAYU0NMNMaxvE1521YVAbuRI+C19iDwTs=;pqQAUetk0mi+pd2Ju7YjpA=="
+secured: "Zkp2Pk89o+9DyCQynJnQx97Vk/vOZ8mf95Puh6sIVNHcnUowEgiMVVLWuNnxWXYIPCItR0UpF1oBlOGcMhfWENy1IONmZKixQEzOd6mYlSn9z8JEiBgPJSNQM0e8yPf87L8mRm5hq/E2qRwtDLpGV15w5Kj3ORWlBIaSLEaB7bP7mukxKGSb3NBj57ab4TTMFsHg4ftIR8Oraa+retnh3IxFwQ3LFOeQRwVTvwCQPE8s2ZzakuBnf7eL1R+1x5NWSpau/UYKQFo+vdi4xF8RW7LODowIfvtzGmzxexTAGL8+dLDJP2UDq9nv90cYlUZ+RFBOg/e1hrHkJ41T24/2xCVKA7CvHh4MxPwbPHOguNdsBN+/fNnmFzc1cfV5fTSCIp+SKfxS5lNymHbupkj8ZH1OxJ9fq4rE+3hyjaOh34ve+GGqVzBg25PNLtILFuZ7UNyMk/3B4pgSHo4QGIP+t8L8NwhYpfOfDXzJ2oCJDwBdBOnoA1E9YaCDfljrHmOdDEjrocPciKhzYK0rmntNug==;2O03Ip7HIDy+8ka0w9+TLA=="
 ---
 

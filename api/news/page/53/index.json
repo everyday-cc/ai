@@ -2,6 +2,109 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-09-24-how-is-an-ai-vacuum-different-than-a-robot-vacuum.md",
+      "title": "How is an A.I. vacuum different than a robot vacuum?",
+      "excerpt": "If you've been shopping for a robot vacuum, you may have heard that some of these bots have A.I. capabilities. Here's what sets them apart from robo-vacs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/what-is-ai-robot-vacuum/",
+      "originalUrl": "https://www.digitaltrends.com/home/what-is-ai-robot-vacuum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/samsungs-jetbot-90-ai.jpg",
+          "width": 2416,
+          "height": 1611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/what-is-ai-robot-vacuum/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/what-is-ai-robot-vacuum/?amp",
+      "publishedDateTime": "2021-09-24T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-ai-cannot-be-the-inventor-of-patents-uk-court-rules.md",
+      "title": "AI cannot be the inventor of patents, UK court rules",
+      "excerpt": "The UK Court of Appeal has ruled that artificial intelligence (AI) cannot hold ownership of new patents, in a two-to-one majority verdict. The appeal was heard after Stephen Thaler, CEO of Imagination Engines,",
+      "sourceUrl": null,
+      "webUrl": "https://artificialinventor.com/dabus/",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360998/uk-rules-that-ai-cannot-be-inventor-of-patents",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://artificialinventor.com/wp-content/uploads/2020/07/the-new-image-1.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-will-amazon-web-services-partnership-restore-snowflakes-triple-digit-growth.md",
       "title": "Will Amazon Web Services Partnership Restore Snowflake’s Triple-Digit Growth?",
       "excerpt": "Snowflake and AWS have a partnership that mixes cooperation and competition. Is that good for Snowflake investors?",
@@ -1028,109 +1131,6 @@
         "AI",
         "IBM AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026.md",
-      "title": "3D Facial Recognition Market Size, Analysis, Competitive Strategies and Forecasts to 2026",
-      "excerpt": "This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report also presents significant details concerning market size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026-2021-09-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026-2021-09-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste.md",
-      "title": "Nosh uses AI to help people and businesses cut down on their food waste",
-      "excerpt": "When founder Somdip Dey was a computer science masters student at the University of Manchester, his parents got in a terrible car accident. He sent all of his money back to his parents in India to help with their medical bills,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/",
-      "originalUrl": "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/nosh-white-1024-768-e1632010708309.png?w=1024",
-          "width": 1024,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/amp/",
-      "publishedDateTime": "2021-09-23T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

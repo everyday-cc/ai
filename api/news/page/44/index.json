@@ -2,6 +2,101 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-09-30-niti-aayog-aws-intel-collaborate-for-experience-studio.md",
+      "title": "NITI Aayog, AWS, Intel collaborate for experience studio",
+      "excerpt": "Niti Aayog, Amazon Web Services (AWS) and Intel have come together to establish a new experience studio that will be a hub for collaboration and experimentation. The studio has been set up at the Niti Aayog Frontier Technologies Cloud Innovation Centre (CIC) in Niti Aayog''s premises here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
+      "publishedDateTime": "2021-09-30T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond.md",
+      "title": "Semiconductor Stocks That Stand To Gain Through The Chip Shortage And Beyond",
+      "excerpt": "Our theme on Stocks That Benefit From The Semiconductor Shortage, which includes companies that produce machinery and tools for chipmaking and semiconductor players with their own fab capacity, has returned about 26% year-to-date,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe2ea7a3525e3f86a796cf5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/amp/",
+      "publishedDateTime": "2021-09-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand.md",
       "title": "Artificial Intelligence Myth Vs Reality: Where Do Healthcare Experts Think We Stand?",
       "excerpt": "I think of it as a maturation process,” says Dr. John Halamka . “You’re asking why your three-year-old isn’t doing calculus. But can your three-year-old add a column of numbers? That’s actually not so bad.",
@@ -1128,111 +1223,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review.md",
-      "title": "Contract management startup ContractPodAI nabs $115M for AI-driven legal review",
-      "excerpt": "ContractPodAI, a company developing a platform for AI-powered legal review, has raised $115 million in a funding round led by SoftBank.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/",
-      "originalUrl": "https://venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/3fb9dd87-044a-4aaf-9fa1-93be7fa400a4-e1597178224936.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/amp/",
-      "publishedDateTime": "2021-09-30T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-in-2021-the-top-four-chatbots-in-higher-education.md",
-      "title": "In 2021, the top four chatbots in higher education",
-      "excerpt": "Chatbots are becoming increasingly popular, and they are being used on a number of websites. Chatbots are computer programmes that employ machine learning well controll by the machine learning expert and artificial intelligence to engage with users via a chatbox.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/2021-top-four-chatbots-higher-education-aman-kumar-singh",
-      "originalUrl": "https://www.linkedin.com/pulse/2021-top-four-chatbots-higher-education-aman-kumar-singh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGKclUtPyYaCg/article-cover_image-shrink_720_1280/0/1632983466314?e=1639612800&v=beta&t=eV1tNOrRnP1k2Zzz_xF6jd6-qMdF6Bw_QjxrUJxbdDI",
-          "width": 1280,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

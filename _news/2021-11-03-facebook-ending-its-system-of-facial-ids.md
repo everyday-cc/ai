@@ -2,17 +2,17 @@
 category: news
 title: "Facebook ending its system of facial IDs"
 excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-publishedDateTime: 2021-11-03T07:29:00Z
-originalUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
-webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+publishedDateTime: 2021-11-03T07:27:00Z
+originalUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - Facebook AI
@@ -782,6 +782,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "RbCDjuEQGPI7u0oRZQyl6bvRace3qCItpYQE8AlMUVdIHrCUN3seOiDahCsJIoAoW+OWR8POa9j+QPzM1Rta+Wr9861iY1y354P1UQGm43eSGEbfHg7PF5TbDruV0614K1mr5V3/oYy/BK5ffidjDwcf37sxfd1FKT05KnBm1oT4Jy5jN5an68xZV7hqW1FqvC0CoRV0EaZkGwo7ZchzFPW3BFse2gY5V8FNd7neF6aeYF49Ug0KxzXJ39ROYoqB0tFgZCOSyMSoU3JBhIzWobhEMpFk675K/6KoRpYfAfVUVtntTcryExUprN7A3f1QIKPwOWNYK6lcBpcy55+IHeSIWmk3GaUXx3cIO69+62vjlVDhLX+tck9i/vGPHn4mRWc416QO2JFnqlINP17g74JBA10RyXn0sj2PBCEcpvir1fJJD74knnKDfBCGmKnhAB0HSGyhT4hxMfYAVmbG+zhNv5/c5Qtu4UNceR5/JbRRjompIWWSrF4znvkqBt2WNa0VD02mcjurXcgquA56Og==;8h0xBB7BRxT+xF58NLCBBw=="
+secured: "ZJ9ubpSKUQ2kOhNZ6wRGFwlfbAcn31Mea5HFEeIVtrDPQoeMeD02sbG//kferyPYF+wBghWyx84yfco/EFrGH5JHEUhGQtMeOoc90iItiHYQA4K1pxupx+4jwtrZwcAuRZhvn1XKGJQviX2wRl+95Xi8VOOrGitTe1VujCoCCRWnx4c41pWio/0arwpCFm3UOXxBaOJFJZ8MY2luB0HpfX8cfiaVjGN0v9mvRylyQCmM4iElz+GzCJhzFqGZFtNV1lrshhvzs0dgrfz3segAjZ90z1XUNgK6ks/7XBvwHsCNcH7xj5BufUJWLhHO5JK4No/tSqYHNCCMCZKer6/rVpjUqrVOoASoSyrKR1yZ0gg=;4Fb///f4honCcociTvuZtw=="
 ---
 

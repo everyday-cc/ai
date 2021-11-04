@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent flags progress on three chips in development, investment effort"
+    excerpt: "Chinese technology giant Tencent Holdings 0700.HK touted progress in semiconductor chip development and investment on Wednesday, offering a rare public glimpse of its R&D initiatives. Best known for computer games and social media app WeChat,"
+    publishedDateTime: 2021-11-03T06:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03"
+    ampWebUrl: "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Tencent launches three self-designed chips in expansion drive, helping boost China’s semiconductor development efforts"
     excerpt: "Internet giant Tencent unveiled on Wednesday its Zixiao artificial intelligence chip, Canghai video transcoding device and Xuanling network interface controller."
     publishedDateTime: 2021-11-03T21:30:00Z
@@ -42,22 +53,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/03/94ab9de2-3c88-11ec-a1b3-e785d5c8830c_image_hires_195722.jpg?itok=rZ_1qZcy&v=1635940653"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tencent flags progress on three chips in development, investment effort"
-    excerpt: "Best known for computer games and social media app WeChat,Tencent has been steadily investing in research and development of semiconductors."
-    publishedDateTime: 2021-11-03T14:38:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/tencent-flags-progress-on-three-chips-in-development-investment-effort/article37325360.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/tencent-flags-progress-on-three-chips-in-development-investment-effort/article37325360.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/tencent-flags-progress-on-three-chips-in-development-investment-effort/article37325360.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/6n19gb/article37326150.ece/ALTERNATES/LANDSCAPE_615/tenbdjpg"
-        width: 615
-        height: 384
         isCached: true
   - title: "Tencent unveils its first chip development"
     excerpt: "Xinhua. Chinese tech giant Tencent has made progress on three self-developed chips, according to Tang Daosheng, a senior executive vice president at Tencent du"
