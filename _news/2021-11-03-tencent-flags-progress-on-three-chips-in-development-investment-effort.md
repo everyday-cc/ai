@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Tencent flags progress on three chips in development, investment effort"
-excerpt: "Chinese technology giant Tencent Holdings 0700.HK touted progress in semiconductor chip development and investment on Wednesday, offering a rare public glimpse of its R&D initiatives. Best known for computer games and social media app WeChat,"
-publishedDateTime: 2021-11-03T06:52:00Z
-originalUrl: "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03"
-webUrl: "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03"
-ampWebUrl: "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03?amp"
+excerpt: "Chinese technology giant Tencent Holdings touted progress in semiconductor chip development and investment on Wednesday, offering a rare public glimpse of its R&D initiatives."
+publishedDateTime: 2021-11-03T11:02:00Z
+originalUrl: "https://www.reuters.com/business/cop/tencent-has-long-term-plan-chip-development-investment-2021-11-03/"
+webUrl: "https://www.reuters.com/business/cop/tencent-has-long-term-plan-chip-development-investment-2021-11-03/"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/7SrPP-ZTXUdYsYrKRDvYcRtWQQA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y3TWWRH35BPKTDUC4B7B2JMEVY.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Tencent pushes beyond online content, unveils first AI chips"
@@ -124,6 +132,6 @@ related:
         height: 373
         isCached: true
 
-secured: "Zkp2Pk89o+9DyCQynJnQx97Vk/vOZ8mf95Puh6sIVNHcnUowEgiMVVLWuNnxWXYIPCItR0UpF1oBlOGcMhfWENy1IONmZKixQEzOd6mYlSn9z8JEiBgPJSNQM0e8yPf87L8mRm5hq/E2qRwtDLpGV15w5Kj3ORWlBIaSLEaB7bP7mukxKGSb3NBj57ab4TTMFsHg4ftIR8Oraa+retnh3IxFwQ3LFOeQRwVTvwCQPE8s2ZzakuBnf7eL1R+1x5NWSpau/UYKQFo+vdi4xF8RW7LODowIfvtzGmzxexTAGL8+dLDJP2UDq9nv90cYlUZ+RFBOg/e1hrHkJ41T24/2xCVKA7CvHh4MxPwbPHOguNdsBN+/fNnmFzc1cfV5fTSCIp+SKfxS5lNymHbupkj8ZH1OxJ9fq4rE+3hyjaOh34ve+GGqVzBg25PNLtILFuZ7UNyMk/3B4pgSHo4QGIP+t8L8NwhYpfOfDXzJ2oCJDwBdBOnoA1E9YaCDfljrHmOdDEjrocPciKhzYK0rmntNug==;2O03Ip7HIDy+8ka0w9+TLA=="
+secured: "bZI3EQkhaRNfPhGgkLUw0q7ocn5gP0NMUiygIT1g7ZNHjKTWx9WeNwI2InQHEvwAs+B82Am0rYC9r4n9pJ3O58XVJPJQJI+d3pNZSPp81pVA9uGIdlke7XtK4s5I7M+luIFkKshLIIsVUB5swVXuPmDQmWYqzsNgyOVGgXXZfh1DSZyMIrw5PmWMpiZ9QIWh84VC14iXbCv9GKHD/tpA7Fu2XNvB8IaLB16kk+P4bexrp/9sI3sBmXKgaEyPM05/mbvqQ/FE4mVr/aOkOoZkgUrhQOlPhDY/YkDZgxRjBKRJKfu6+XPmG/bI9dOYs5HhqKG3VxKcLseV/eXJhvOsBThkxsFIvK0FHp7c7qEjH0A=;j4a8fVLtxO0oZLTChWb8sw=="
 ---
 

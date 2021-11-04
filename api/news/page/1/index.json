@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-05-cobi-robot-autonomously-performs-needle-less-vaccinations.md",
+      "title": "Cobi robot autonomously performs needle-less vaccinations",
+      "excerpt": "It goes without saying that a lot of people are receiving the COVID-19 vaccine these days, and will continue to do so for some time. A new robot is designed to help streamline the process, by autonomously – and needle-lessly – vaccinating human patients.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/",
+      "originalUrl": "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/735b46a/2147483647/strip/true/crop/746x497+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F92%2Fb2%2Fd4ed008e4c199d20be0d2caa5b92%2Fscreen-shot-2021-11-04-at-12.09.10%20PM.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true",
+      "publishedDateTime": "2021-11-04T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup.md",
       "title": "Alphabet launches Isomorphic Labs, an AI-driven drug discovery startup",
       "excerpt": "The new venture plans to partner with biomedical and pharmaceutical companies, using artificial intelligence to discover new medicinal advancements.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.cnet.com/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -54,6 +106,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-04-ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok.md",
+      "title": "“Ethical AI” Trained To Offer Moral Advice Descends Into Giving Genocide The OK",
+      "excerpt": "Artificial intelligence (AI) is changing our world, whether it's making historic breakthroughs in medicine, or taking our fast-food orders at the drive-thr",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
+      "originalUrl": "https://www.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/246f484d-f6bd-53e1-a6dd-e9f7dd44605f/default-1636040776-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
+      "publishedDateTime": "2021-11-04T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform.md",
       "title": "Propelo raises $12M for its AI-driven engineering excellence platform",
       "excerpt": "The number of DevOps tools has increased exponentially over the last few years and, with that, the amount of data these tools can produce to help businesses improve their software development processes.",
@@ -62,7 +157,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -437,6 +532,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-aptiv-tops-expectations-but-chip-shortage-will-continue-to-hit-self-driving-cars.md",
+      "title": "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars",
+      "excerpt": "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "originalUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-345715/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "publishedDateTime": "2021-11-04T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1093,155 +1232,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.md",
-      "title": "Oracle bolsters cloud infrastructure with suite of AI tools",
-      "excerpt": "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html",
-      "originalUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html",
-      "publishedDateTime": "2021-11-03T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-an-ethics-bounty-system-could-help-clean-up-the-web.md",
-      "title": "An Ethics Bounty System Could Help Clean Up the Web",
-      "excerpt": "Looking at the bigger picture, there have been calls for greater regulation of the tech industry, which is deeply necessary, but legislation may take a long time to pass and be implemented and is generally insufficient to stop the unforeseen ethics failures endemic to technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
-      "originalUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6181c6376323e922448010f3/master/pass/An-Ethics-Bounty-System-Could-Help-Clean-Up-the-Web.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/big-tech-ethics-bug-bounty/amp",
-      "publishedDateTime": "2021-11-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-fintech-firm-betterfin-acquired-by-cross-river-bank.md",
-      "title": "Fintech Firm Betterfin Acquired by Cross River Bank",
-      "excerpt": "Cross River Bank, a tech-driven financial services organization that offers core infrastructure and embedded financial solutions, has announced the acquisition of Betterfin, a transformative financial platform that enables small business owners to access various financial products and solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/04/50-Dollars-Grant-Money-Cash-Spend-Pay.jpeg",
-          "width": 1198,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/amp/",
-      "publishedDateTime": "2021-11-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

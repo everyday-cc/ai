@@ -32,19 +32,14 @@ images:
 
 related:
   - title: "CDPQ leads US$70 million financing round in Sama, an AI training data platform"
-    excerpt: "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training to power AI applications and to develop the first end-to-end AI platform to manage the complete AI lifecycle The company has approximately 40 employees in Montreal where it intends to strengthen its presence with a research and product development hub MONTRÉAL,"
-    publishedDateTime: 2021-11-04T14:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-canada-montreal-8e7928684b9df0a642dc179d2c054258"
+    excerpt: "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training"
+    publishedDateTime: 2021-11-04T13:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cdpq-leads-us-70-million-financing-round-in-sama-an-ai-training-data-platform-1030937439"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "Is the best practice for Enterprise AI to keep ModelOps independent from data science in both practice and platform? PART 1"
     excerpt: "In the Enterprise, there is currently a lot of focus on operationalizing AI. Numerous organizations report debilitating challenges getting their data science-based models out of the Business Units, where most data science model development takes place,"
     publishedDateTime: 2021-11-02T18:17:00Z

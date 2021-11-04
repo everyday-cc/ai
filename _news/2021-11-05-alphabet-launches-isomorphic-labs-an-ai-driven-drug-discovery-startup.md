@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/alphabet-launches-isomorphic-la
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Isomorphic Labs is Alphabet’s play in AI drug discovery"
+    excerpt: "The field of drug discovery has been supercharged by the capabilities of AI, which several companies have applied in various ways to turn an enormous practical problem into a tractable information problem."
+    publishedDateTime: 2021-11-04T18:06:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/isomorphic-labs.png?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google parent launches company dedicated to drug discovery."
     excerpt: "The new company, called Isomorphic Labs, will build on recent research from DeepMind, a London-based artificial intelligence lab also owned and operated by Alphabet. Demis Hassabis, the co-founder and chief executive of DeepMind, will also serve as chief ..."
     publishedDateTime: 2021-11-04T16:45:00Z
@@ -47,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Alphabet launches AI company to discover new drugs"
+    excerpt: "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind to “to accelerate drug discovery,"
+    publishedDateTime: 2021-11-04T18:22:00Z
+    webUrl: "https://www.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+    ampWebUrl: "https://amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F463bd0de-eb85-4249-b398-c91c95e746de.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Model Medicines Raises $4.1 Million to Discover and Advance Therapeutics Using its AI Drug Discovery Platform"
     excerpt: "Model Medicines, the pharmatech company working to transform the drug discovery and development process and accelerate the creation of life-changing drugs using artificial intelligence and machine learning,"
     publishedDateTime: 2021-11-03T12:23:00Z
@@ -57,6 +89,6 @@ related:
       domain: businessinsider.com
     quality: 28
 
-secured: "3JAVJJnTrYKOkoAc5hz+7I2z5bKlLWcK1hihXQmPXQ5drIey3YGI519huQ3IESt0nBcf63cVp/dcNf2f4P3Qf4029fJqFXQsO58i6r647hfv/rXXpI2BIgF7fBBVttg2oh9jJCgcyB3RM39B9d21YeFdkUV9gDvm0EDeUJWsABq5pW+iBkkJ7SWeOlcjEOzp3+t8NVo+wtoGeHQfKRPA5l9iXLog/uA2FaGYyHg4bmSx0Z2WFg5gGt3cyacYoQn6jOQ/yjUNTh5CWzLTgV9ltD1zUeSDculooilQu90actDqf9anEv9nX6qGuxxrWAA+hjZ+78vZO8de9o6+JdZUHU0vFYtdspoz5fRJDVAJWjI=;DuZdZWqjGBD6GQeyNW04YQ=="
+secured: "NIsKrWsvIp5H8IlEVv6lK0w05ZFEaqqlW6pD3ApXGIaRG5xv1PJTQVmvm306iK6kA0AnImO8hdfe0cQMkgpPS1e/8ri4OsGqYFab6o3VzGvm9TcSRcZWL8OBXuEpJbfge+j4LbZxd3V74yLKHrZSwbc2KWzXt7f6Z+DyciN3K/XnbXLMUBR6lpMDDH2eSMgDSPka1iKuyjSj6ariwhdCBqkQCSHIviC03vr5g7SzSwvxI+OIKgCsLG8OX6npI6vZ2iou6TcnLKSlRUQhkubKf0nrmA7dSN78jvumtYjXUib+uQ8PSdxwzUHpmbxmSED1fa9PfdKnB1FHPG2N1vGs+gzFp+qMUpIH3qXafgy+rPk9pdFqhIMoh5WIyfI+Qb6j0G/zKv6yjjTp7L7OH57NKTX4gZCuSo4hhfCyXDopTKptz+kYKEJ0VMuFXF2rTvriRbL1PTI47DIp7GVl1uqWN9JeyB05fPrznuNyjPXwWZ6cziyLCAoPY29ITWwWc1EAKhyaCNnhdS8zlL5C1uMxDw==;t3vs9sO1vXU1jiRVFb+BDA=="
 ---
 

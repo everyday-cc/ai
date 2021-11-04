@@ -47,6 +47,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Isomorphic Labs is Alphabet’s play in AI drug discovery"
+    excerpt: "The field of drug discovery has been supercharged by the capabilities of AI, which several companies have applied in various ways to turn an enormous practical problem into a tractable information problem."
+    publishedDateTime: 2021-11-04T18:06:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/isomorphic-labs.png?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Alphabet launches AI company to discover new drugs"
+    excerpt: "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind to “to accelerate drug discovery,"
+    publishedDateTime: 2021-11-04T18:22:00Z
+    webUrl: "https://www.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+    ampWebUrl: "https://amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F463bd0de-eb85-4249-b398-c91c95e746de.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Model Medicines Raises $4.1 Million to Discover and Advance Therapeutics Using its AI Drug Discovery Platform"
     excerpt: "Model Medicines, the pharmatech company working to transform the drug discovery and development process and accelerate the creation of life-changing drugs using artificial intelligence and machine learning,"
     publishedDateTime: 2021-11-03T12:23:00Z

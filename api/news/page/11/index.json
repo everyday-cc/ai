@@ -2,6 +2,93 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-10-26-onvisource-partners-with-voicegain-for-speech-recognition-based-on-deep-learning-technologies-and-the-edge-architecture-powered-by-nvidia-gpus.md",
+      "title": "OnviSource partners with Voicegain for Speech Recognition based on Deep Learning technologies and the Edge Architecture powered by Nvidia GPUs",
+      "excerpt": "OnviSource, a leading provider of intelligent automation solutions for workforce optimization, contact center operation analytics and automation, customer experience management, and business process automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20065826.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20065826.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-deepdraper-a-technique-that-predicts-how-clothes-would-look-on-different-people.md",
+      "title": "DeepDraper: A technique that predicts how clothes would look on different people",
+      "excerpt": "In recent years, some computer scientists have been exploring the potential of deep-learning techniques for virtually dressing 3D digital versions of humans. Such techniques could have numerous valuable applications,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-10-deepdraper-technique-people.html",
+      "originalUrl": "https://techxplore.com/news/2021-10-deepdraper-technique-people.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/deepdraper-a-technique.jpg",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-10-deepdraper-technique-people.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-deepdraper-technique-people.amp",
+      "publishedDateTime": "2021-10-26T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-fabric-brings-in-200m-as-it-passes-1b-in-valuation.md",
       "title": "Fabric brings in $200M as it passes $1B in valuation",
       "excerpt": "Micro-fulfillment technology company Fabric has closed a $200 million Series C financing round at a valuation of more than $1 billion, according to a Tuesday press release. The company, which has raised $336 million since it was founded, plans to use the ...",
@@ -1080,92 +1167,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-facebook-knew-about-failed-to-police-abusive-content-globally-documents.md",
-      "title": "Facebook knew about, failed to police, abusive content globally - documents",
-      "excerpt": "The company lacks AI systems to detect abusive ... a minimum number of content moderators for any language offered on the platform. LOST IN TRANSLATION Facebook's users are a powerful resource ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/facebook-knew-about-failed-police-abusive-content-globally-documents-2021-10-25/",
-      "originalUrl": "https://www.reuters.com/technology/facebook-knew-about-failed-police-abusive-content-globally-documents-2021-10-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/RUYmrrHpVC6nModFrl3Op9gHkcc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DLBA2LZN6JOU5GTWVQYKN7YQPY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-false-hope-of-current-approaches-to-explainable-artificial-intelligence-in-health-care.md",
-      "title": "The false hope of current approaches to explainable artificial intelligence in health care",
-      "excerpt": "The black-box nature of current artificial intelligence (AI) has caused some to question whether AI must be explainable to be used in high-stakes scenarios such as medicine. It has been argued that explainable AI will engender trust with the health-care workforce,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00208-9/fulltext",
-      "originalUrl": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00208-9/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lancet",
-        "domain": "thelancet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

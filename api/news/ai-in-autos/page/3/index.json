@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-13-waymos-self-driving-taxi-struggles-with-left-turns-and-puddles-but-its-still-winning-over-some-arizona-riders.md",
+      "title": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
+      "excerpt": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtva.com/content/national/575511382.html",
+      "originalUrl": "https://www.wtva.com/content/national/575511382.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://media.heartlandtv.com/designimages/WTVA_640x380.png",
+          "width": 640,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.wtva.com/templates/AMP?contentID=575511382",
+      "cdnAmpWebUrl": "https://www-wtva-com.cdn.ampproject.org/c/www.wtva.com/templates/AMP?contentID=575511382",
+      "publishedDateTime": "2021-10-12T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVA",
+        "domain": "wtva.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices.md",
       "title": "Worries That AI Self-Driving Cars Will Charge Sky-High Monopolistic Prices",
       "excerpt": "Some are worried that self-driving cars are going to be priced sky-high for usage, perhaps veering into the undesirable arena of monopolistic rents. Time to take a look at this, before things potentially get out of hand.",
@@ -1361,58 +1404,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-wayve-the-lidar-free-self-driving-startup-raises-136m-from-ocado.md",
-      "title": "Wayve, the Lidar-free self-driving startup, raises $13.6M from Ocado",
-      "excerpt": "Wayve, a U.K.-based self-driving startup that is notable for its use of deep learning and cameras rather than more-costly Lidar and other sensors to guide vehicles, is gearing up for its next stage of development with a strategic backer in its pocket.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/wayve-tech.jpg?w=1024",
-          "width": 1024,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/",
-      "publishedDateTime": "2021-10-06T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

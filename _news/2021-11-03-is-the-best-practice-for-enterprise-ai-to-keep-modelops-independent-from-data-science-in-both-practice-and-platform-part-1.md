@@ -46,19 +46,14 @@ related:
         height: 682
         isCached: true
   - title: "CDPQ leads US$70 million financing round in Sama, an AI training data platform"
-    excerpt: "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training to power AI applications and to develop the first end-to-end AI platform to manage the complete AI lifecycle The company has approximately 40 employees in Montreal where it intends to strengthen its presence with a research and product development hub MONTRÉAL,"
-    publishedDateTime: 2021-11-04T14:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-canada-montreal-8e7928684b9df0a642dc179d2c054258"
+    excerpt: "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training"
+    publishedDateTime: 2021-11-04T13:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cdpq-leads-us-70-million-financing-round-in-sama-an-ai-training-data-platform-1030937439"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
 
 secured: "+IDf1RnbURAMGNUh2nB6zftGSTm5Gu1KAWoF/qqhwlL//LyQsHaeobeJ93x6JzqQgShGc9uDbfEkOIOa0k4tckJjFfa+wVK/nWkhctzKJTIgJPwRkz609HANd3lBQAI1RREnkDZTnPHnTQ/DlTc/LIa6BGMFU0fFvwGvRfWJaFimC3uecOuhv3IH5xqaxSpdZMXkClPD6Jd88o5cfUs4LCTjIS7xjJOnPAU8U8hEVr92yhRn++zwQQ/s8O8ggMzkHDl5zGZkCSvzn4YQrdSKh8CdrcGFv5WRd47PAaRiBq3Vs3icPBItd6cTuIluuwKdd4YkTGAyC88iYTeH+4S9XMpvGLUkcekLWspcO0NwpMH+E978dKfyYg2MFr8JcWRQeQZvoWK7iLBBY/bSq7MnbNSP3rlq6w3v8XuXHYRADZHtXuCQsvvd4Uy/TsfIHMmp1DTwn4WsboJz0G2+X2CmbI/jx9B3FpGbq49QYf1qTsruWI8rVRnrYJIFcINAjRGGRgIgteEgfURJCZtkH8B3bQ==;Y/DEHpA2NlGBg+dfpN9H3w=="
 ---

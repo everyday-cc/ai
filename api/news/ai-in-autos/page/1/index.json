@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-04-aptiv-tops-expectations-but-chip-shortage-will-continue-to-hit-self-driving-cars.md",
+      "title": "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars",
+      "excerpt": "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "originalUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-345715/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "publishedDateTime": "2021-11-04T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-momenta-raises-200-million-in-self-driving-cars-push.md",
       "title": "Momenta Raises $200 Million in Self-Driving Cars Push",
       "excerpt": "Chinese self-driving startup Momenta.ai has raised a further $200 million from investors including SAIC Motor Corp. and billionaire Jack Ma’s Yunfeng Capital.",
@@ -1424,50 +1468,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain.md",
-      "title": "Researchers Use Artificial Intelligence Supported Neural Networks To Reason Like The Human Brain",
-      "excerpt": "A neural network, a series of algorithms that strives to recognize underlying relationships in a set of given data with",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/",
-      "originalUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/10/Researchers-Uses-Artificial-Intelligence-Supported-Neural-Networks.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/?amp=1",
-      "publishedDateTime": "2021-10-24T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

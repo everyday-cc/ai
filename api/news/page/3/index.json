@@ -2,6 +2,154 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-03-global-ai-powered-healthcare-solutions.md",
+      "title": "Global AI-Powered Healthcare Solutions",
+      "excerpt": "Babylon - Tech giant Microsoft has announced a new partnership with Babylon Cloud Services—a company specializing in digital self-care. Together the",
+      "sourceUrl": null,
+      "webUrl": "https://www.trendhunter.com/trends/babylon",
+      "originalUrl": "https://www.trendhunter.com/trends/babylon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.trendhunterstatic.com/thumbs/babylon.jpeg",
+          "width": 800,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.trendhunter.com/amp/trends/babylon",
+      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/babylon",
+      "publishedDateTime": "2021-11-02T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TrendHunter",
+        "domain": "trendhunter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-tesla-forced-to-recall-11704-vehicles-over-full-self-driving-glitch.md",
+      "title": "Tesla Forced to Recall 11,704 Vehicles Over Full Self-Driving Glitch",
+      "excerpt": "The software communication issue resulted in some vehicles automatically engaging their brakes, which could lead to rear-end collisions.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
+      "originalUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/69e4164c55ef29e39af285baf98e4c76.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp",
+      "publishedDateTime": "2021-11-02T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-meet-the-ai-powering-todays-smartest-smartphones.md",
+      "title": "Meet the AI Powering Today’s Smartest Smartphones",
+      "excerpt": "Artificial intelligence is increasingly becoming the differentiator that makes a new generation of smartphones truly clever. The ability of phones to generalize and determine what might happen next based on previous patterns and datasets—what’s known as machine learning—is,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/",
+      "originalUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/613f8386924283bfff0bca68/master/pass/WIRED_Qualcomm_header%20gif%20rev.gif",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp",
+      "publishedDateTime": "2021-11-02T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-automated-claims-processing-at-xactware-with-machine-learning-on-aws.md",
       "title": "Automated claims processing at Xactware with machine learning on AWS",
       "excerpt": "This blog post was co-authored, and includes an introduction, by Aaron Brunko, Senior Vice President, Claims Product at Xactware. Property insurance claims involving the valuation and replacement of personal belongings can be a painful process for everyone involved after a loss. From catastrophic events",
@@ -787,58 +935,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-02-iron-ox-launches-grover-an-all-new-autonomous-mobile-robot.md",
-      "title": "Iron Ox Launches Grover, an All-New Autonomous Mobile Robot",
-      "excerpt": "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile support robot named Grover. Grover is not your average farmer.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/iron-ox-launches-grover-an-all-new-autonomous-mobile-robot-1030925086",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/iron-ox-launches-grover-an-all-new-autonomous-mobile-robot-1030925086",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1675899/IRON_OX_Image_Courtesy.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-02-why-ai-still-needs-humans-in-the-loop-at-least-for-now.md",
       "title": "Why AI still needs humans in the loop, at least for now",
       "excerpt": "If AI-generated writing becomes indistinguishable from human writing, we'll still need to check it carefully enough to see the mistakes",
@@ -1141,109 +1237,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business.md",
-      "title": "Copy.ai Raises $11M To Accelerate AI Helping You Build Your Business",
-      "excerpt": "Everyone thinks that artificial intelligence will replace humans. Chris Lu and Paul Yacoubian think otherwise. The two have raised $11M to further develop their AI-powered software, Copy.ai, to unleash human creativity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2021/11/01/copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2021/11/01/copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617e11cac07f785fa3d90cad%2F0x0.jpg",
-          "width": 760,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2021/11/01/copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2021/11/01/copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business/amp/",
-      "publishedDateTime": "2021-11-01T17:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-real-world-challenges-for-agi.md",
-      "title": "Real-World Challenges for AGI",
-      "excerpt": "Koray Kavukcuoglu, VP of Research, discusses some of the natural obstacles faced in the development of AGI.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/real-world-challenges-for-agi",
-      "originalUrl": "https://deepmind.com/blog/article/real-world-challenges-for-agi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/evDGSjMuLYjnWlS48xwSQnKhXKrRLEiRB3P8UmGbbi6oGTYqPbzFV_-34Lcn3AcTQyAYxpiruMnDL__lWzKzfV0d9Rci7ChPgDRJH8R0vp0BSkurFno",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Isomorphic Labs is Alphabet’s play in AI drug discovery"
+    excerpt: "The field of drug discovery has been supercharged by the capabilities of AI, which several companies have applied in various ways to turn an enormous practical problem into a tractable information problem."
+    publishedDateTime: 2021-11-04T18:06:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/isomorphic-labs.png?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google parent launches company dedicated to drug discovery."
     excerpt: "The new company, called Isomorphic Labs, will build on recent research from DeepMind, a London-based artificial intelligence lab also owned and operated by Alphabet. Demis Hassabis, the co-founder and chief executive of DeepMind, will also serve as chief ..."
     publishedDateTime: 2021-11-04T16:45:00Z
@@ -53,6 +69,22 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Alphabet launches AI company to discover new drugs"
+    excerpt: "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind to “to accelerate drug discovery,"
+    publishedDateTime: 2021-11-04T18:22:00Z
+    webUrl: "https://www.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+    ampWebUrl: "https://amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F463bd0de-eb85-4249-b398-c91c95e746de.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "B3q5DCx25CYWXtwTkrZRu184Bba6Pjngz7TOPxSKcDMxSw4PVzcezGNgr7nzPBYCQeqfJOBHxTXFKOC7m5DgvSjA3jZGniWbbjxqyBmu/LC5hzEC8prXiNW5hn2xv74fuoRAQnyByk/YdvA9wovfy/Adg3E4sNh5xAFE1YeOovfeKCbGNivda97FkYTIEJ367cWO7FnZlJ0zXoCHtonvvsXqOM0SlMO2mUiBwtRCCRCMQ2fApKeOGKUfAVqv9HtY9/DJ5BgV6v+eD6emRuTGBPm4EqFBr8MlFlp/p4IBvOzRGq0opI438DTBKnk4B1fWJZxdsvrXSoBwSf6yXXkLpXrwBlZT0bSZp1jgo4rU4dM3A2XSffvM9gOvlEoOc3HrUzSyEYQsmCKZNrp0EfzBGNo+i03mnvAvArKrEUqi6VoGNKkRnWOh4/rf8dWz08b1YrvLQxMOSeOkfWU928+/MTGXU0qVcYM+Bc6Ma6uwuAOMZrtAwKZQZT4ZxH+C+hjlch9OernOA//3aB9FaADM4w==;RvlKdGyAZjVKwk/WUgQLww=="

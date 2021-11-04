@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-16-making-self-driving-cars-safer-through-keener-robot-perception.md",
+      "title": "Making self-driving cars safer through keener robot perception",
+      "excerpt": "Safety concerns have clouded the future of fully autonomous vehicles. To accelerate their progress, MIT graduate student Heng “Hank” Yang and colleagues have developed a set of algorithms to help protect self-driving vehicles and other road users.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/heng-yang-self-driving-cars-0916",
+      "originalUrl": "https://news.mit.edu/2021/heng-yang-self-driving-cars-0916",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202109/MIT-Heng-Yang-01-press.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-a-report-on-the-eus-proposed-artificial-intelligence-law-focuses-on-high-risk-ai.md",
       "title": "A report on the EU’s proposed ‘Artificial Intelligence’ law focuses on high-risk AI",
       "excerpt": "More than 300 companies have made statements about the proposed European law around artificial intelligence, presented last April. Its adoption will facilitate the classification of AI systems ...",

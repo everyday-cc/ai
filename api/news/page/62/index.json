@@ -2,6 +2,102 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-09-19-facepalm-as-researchers-crack-advanced-facial-recognition-tech-with-simple-makeup.md",
+      "title": "Facepalm As Researchers Crack Advanced Facial Recognition Tech With Simple Makeup",
+      "excerpt": "The concerning part of all of this is that the research also explained this “attack has a high level of inconspicuousness and thus can be launched in the real world.”",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/facial-recognition-tricked-with-makeup",
+      "originalUrl": "https://hothardware.com/news/facial-recognition-tricked-with-makeup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56270/content/facial-recognition-tricked-with-makeup.jpg",
+          "width": 708,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/facial-recognition-tricked-with-makeup",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facial-recognition-tricked-with-makeup",
+      "publishedDateTime": "2021-09-18T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-computer-vision-can-help-spot-cyber-threats-with-startling-accuracy.md",
+      "title": "Computer vision can help spot cyber threats with startling accuracy",
+      "excerpt": "In 2019, cybersecurity researchers created a machine learning model that could detect malware based on images created from the content of application files.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/computer-vision-help-spot-cyber-threats-startling-accuracy-syndication",
+      "originalUrl": "https://thenextweb.com/news/computer-vision-help-spot-cyber-threats-startling-accuracy-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fmalicious-code-4036349_1920-hed.jpg&signature=a4274c2ddc0d9d90c7894df0e316eebf",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-18-artificial-intelligence-success-is-tied-to-ability-to-augment-not-just-automate.md",
       "title": "Artificial intelligence success is tied to ability to augment, not just automate",
       "excerpt": "Artificial intelligence is only a tool ... to solve than had been anticipated. The design of self-driving cars requires integration of a range of technologies including sensor fusion, AI planning ...",
@@ -1058,101 +1154,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone.md",
-      "title": "2022 Genesis GV60 EV to arrive with facial recognition like a smartphone",
-      "excerpt": "It seems the incoming 2022 Genesis GV60 EV will arrive with more than just love-it or hate-it styling, funky paint colors, and a mysterious floating oddity on the center console. In a recent",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/",
-      "originalUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/genesis_gv_60_ev_017.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/amp/",
-      "publishedDateTime": "2021-09-17T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late.md",
-      "title": "Science Could Make Self-Driving Cars Know When They’re Failing, Before It’s Too Late",
-      "excerpt": "No matter what car makers’ marketing says, scientists affirm that the current self-driving technologies are still not safe enough. Various research and development projects continue to improve autonomous driving technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoevolution.com/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607.html",
-      "originalUrl": "https://www.autoevolution.com/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.cdn.autoevolution.com/images/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607-7.jpg",
-          "width": 728,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoevolution.com",
-        "domain": "autoevolution.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

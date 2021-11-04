@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars, EVs."
+    excerpt: "Aptiv, a supplier of advanced automotive-safety systems, reported earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters."
+    publishedDateTime: 2021-11-04T18:44:00Z
+    webUrl: "https://www.barrons.com/articles/aptiv-stock-earnings-chip-51636025862"
+    ampWebUrl: "https://www.barrons.com/amp/articles/aptiv-stock-earnings-chip-51636025862"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aptiv-stock-earnings-chip-51636025862"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 53
+    images:
+      - url: "https://images.barrons.com/im-345715/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "aa/8IESPZkkkXU/Kp3tsdzJK7W1WQ+fFP16F8jotH8PmOgdKAJuEXElfTmgWRWDFeOd9qKt6lXCgtJP+r7XODG2bz4WDD+a4xn4tr5N3r20QUvqOvUx+pO+5zW04xTD4O7v4JpVeH2dMtHyeSMCic2o1eKlW+SD2/eZRq0hleRNGr+y792/6s9tzuf60HENLAV9+G0jmDxsIwbHkFlcF0r1JK3Vyq7jD1ysHPJ8UVX5hNNVMZh6MO4kSmvS31vUqbfmcxcx3nK/RRG5ERmgH9TQ1EJWpQk6ELi8RogPBcbQ1go9z1bFGOLgry6BkOejnl2hb0jKLBZqPgI/EWL7QY9J8SBK7UBUSudnNsSqaQio=;eQZiG7IyUjlgtmXJ9cOBdw=="
 ---

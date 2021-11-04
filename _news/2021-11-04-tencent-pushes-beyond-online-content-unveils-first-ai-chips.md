@@ -28,16 +28,19 @@ images:
 
 related:
   - title: "Tencent flags progress on three chips in development, investment effort"
-    excerpt: "Chinese technology giant Tencent Holdings 0700.HK touted progress in semiconductor chip development and investment on Wednesday, offering a rare public glimpse of its R&D initiatives. Best known for computer games and social media app WeChat,"
-    publishedDateTime: 2021-11-03T06:52:00Z
-    webUrl: "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tencent-flags-progress-on-three-chips-in-development-investment-effort-2021-11-03?amp"
+    excerpt: "Chinese technology giant Tencent Holdings touted progress in semiconductor chip development and investment on Wednesday, offering a rare public glimpse of its R&D initiatives."
+    publishedDateTime: 2021-11-03T11:02:00Z
+    webUrl: "https://www.reuters.com/business/cop/tencent-has-long-term-plan-chip-development-investment-2021-11-03/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Reuters
+      domain: reuters.com
     quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/7SrPP-ZTXUdYsYrKRDvYcRtWQQA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y3TWWRH35BPKTDUC4B7B2JMEVY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tencent launches three self-designed chips in expansion drive, helping boost China’s semiconductor development efforts"
     excerpt: "Internet giant Tencent unveiled on Wednesday its Zixiao artificial intelligence chip, Canghai video transcoding device and Xuanling network interface controller."
     publishedDateTime: 2021-11-03T21:30:00Z

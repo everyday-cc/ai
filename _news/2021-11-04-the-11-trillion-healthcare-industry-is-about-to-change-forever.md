@@ -39,6 +39,20 @@ related:
         width: 780
         height: 409
         isCached: true
+  - title: "How robots could help solve the US recycling problem"
+    excerpt: "New technology made to streamline the process may help the U.S. make strides in eliminating the amount of plastic that ends up in landfills."
+    publishedDateTime: 2021-11-04T18:00:00Z
+    webUrl: "https://abc13.com/how-robots-could-help-solve-the-us-recycling-problem/11198551/"
+    type: article
+    provider:
+      name: abc13.com
+      domain: abc13.com
+    quality: 39
+    images:
+      - url: "https://s.abcnews.com/images/US/recycling-robots-project-05-gty-jef-211101_1635781529889_hpMain_16x9_608.jpg?w=1600"
+        width: 608
+        height: 342
+        isCached: true
 
 secured: "UmbwjjY7vObZ1O/jSYACwO6z/fyZ72OHsvP+E7Tlb9HSu5vJImYnazRHcOGbbBI/9EEJ+kqMvZE32acw7s+0l0NE6U76ZGSCtP6RESFRxJSWAOp6WtnOS7HzrOVU2sPJ7a4ft8vVe5wSMqPCdECkqMKdPtwzcDe2uACRBd/hxgw8G4g3KqjfaMwGn9Gq/EJZNZ9uvE0ZovDZW9AVyFnSnXROiMZXTmdmKdMhUl8Xb0+X8qlLLwnL36/PKKIp6GJzIFf++h+oYOEguiBL2hh2CKyoUYbj13M3mx2Q6Vs7l9mQvXonzI1/w9VPN44yKyNuFCYuk7u7e2CIjdKyZ/MwAT86SEuNAumR39YcXFtdeaU=;GuGs/0kg363QVpTpK6wktQ=="
 ---

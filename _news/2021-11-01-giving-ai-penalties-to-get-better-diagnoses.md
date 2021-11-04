@@ -40,6 +40,20 @@ related:
         width: 320
         height: 240
         isCached: true
+  - title: "Artificial intelligence is getting better at writing, and universities should worry about plagiarism"
+    excerpt: "The dramatic rise of online learning during the COVID-19 pandemic has spotlit concerns about the role of technology in exam surveillance — and also"
+    publishedDateTime: 2021-11-04T18:08:00Z
+    webUrl: "https://menafn.com/1103103233/Artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/04/TC_d6cc4image_story.jpg"
+        width: 1600
+        height: 1200
+        isCached: true
 
 secured: "nmJx7I2DBy8C8jreaqKkOEc2MUTl2qLxHwjaGhxQjWbJvAYnVqBjrNZ6tvxIXNnndMH4fBoiMzLpeYOqWA4Q+JVDAolMKrm7EGZqjxjYaA2Zvl3v/pyD47c5qcUhDapstYtrWndNxO3WCJHQdqOrLTRcPQHs14UtzjyGePqE+hQpym/ujL7ezm4v+XqZD9o/LbJ0liuiMdKeN3WUZDsjHFWwIGl1zWYg3lvKpXB094vDLRCooZHDbfJvMSWNuIaiW9heIx3Y4mm5rZNftnd/cz3BkVr3RKkFXv5hhNkQOCWbn7LblePWhlGPyNPzfmBV91T83qFIa3qqwY7hWYUVT/gnMqNgJwk7ApvC56Fvow7wdg9DxTm9wy6er4peIrsjfpnnEOMoTnjJgOqTGW/Bh5tOU0vyG8LRVJiDbMtOMYb1Ge6t5FNpBd+LCLORQCdAwOBC78/YywHCgw/jh9jZ+QyQThVaFvJnbphp+cGeiz4SfSCwLzU0VQf/v1xjQBtlGBXTfXyIWF2z/eYzZrQC/Q==;V06TDC9vwDlO4pDYcT3PYg=="
 ---

@@ -2,6 +2,83 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-10-19-language-translation-engine-devnagri-raises-600000-in-seed-round.md",
+      "title": "Language translation engine Devnagri raises $600,000 in seed round",
+      "excerpt": "The platform combines Neural Machine Translation with ML to make the internet accessible to 90% of Indians and solve the problem of \"lack of content in Indian languages\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/29/full/1624909326-5084.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "publishedDateTime": "2021-10-19T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-pagaya-partners-with-sofi-to-expand-access-to-financial-services-and-create-opportunities-for-customers.md",
+      "title": "Pagaya Partners With SoFi to Expand Access to Financial Services and Create Opportunities for Customers",
+      "excerpt": "Pagaya Technologies Ltd. (“Pagaya”), a financial technology company that enables financial institutions to expand access to more customers through its artificial intelligence network, today announced its new partnership with SoFi,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/pagaya-partners-with-sofi-to-expand-access-to-financial-services-and-create-opportunities-for-customers/",
+      "originalUrl": "https://www.financialbuzz.com/pagaya-partners-with-sofi-to-expand-access-to-financial-services-and-create-opportunities-for-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-apple-unleashes-latest-airpods-custom-laptop-chips.md",
       "title": "Apple unleashes latest AirPods, custom laptop chips",
       "excerpt": "Apple announced new custom chips, new AirPods and HomePod minis, and a deeper integration of Apple Music with Siri.",
@@ -1062,101 +1139,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-facial-recognition-in-uk-schools-prompts-blowback.md",
-      "title": "Facial recognition in UK schools prompts blowback",
-      "excerpt": "Privacy campaigners slammed the British government's plan on Monday to use facial recognition on thousands of schoolchildren in Scotland, warning that Britain is veering away from the EU on basic principles of data protection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/",
-      "originalUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/10/18/GettyImages-1168367638-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/",
-      "publishedDateTime": "2021-10-18T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-ai-ethics-maturity-model-a-company-guide.md",
-      "title": "AI ethics maturity model: A company guide",
-      "excerpt": "How to develop a maturity model for building an ethical and responsible AI practice. By Vala Afshar | October 18, 2021 | Topic: Artificial Intelligence According to the research by Kathy Baxter, principal architect for Salesforce's ethical AI practice,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-ethics-maturity-model/",
-      "originalUrl": "https://www.zdnet.com/article/ai-ethics-maturity-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6108d89fdf0408e6971ff38495dfe2c6eabe3315/2021/10/14/5a004e69-3267-429f-97f1-4e3f6fb3b1d8/bax1.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-maturity-model/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-maturity-model/",
-      "publishedDateTime": "2021-10-18T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-04-aptiv-tops-expectations-but-chip-shortage-will-continue-to-hit-self-driving-cars.md",
+      "title": "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars",
+      "excerpt": "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "originalUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-345715/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "publishedDateTime": "2021-11-04T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-deep-learning-ai-explained-neural-networks.md",
       "title": "Deep Learning AI Explained: Neural Networks",
       "excerpt": "Ballyhooed artificial-intelligence technique known as “deep learning” revives 70-year-old idea. In the past 10 years, the best-performing artificial-intelligence systems — such as the speech recognize",
@@ -1416,49 +1460,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc.md",
-      "title": "Tech Top 5: Brainchip nabs US patent for Akida AI chip, jumps almost 15pc",
-      "excerpt": "Brainchip granted US patent, while Elmo boosts revenue and Ansarada expands into GRC market; also semiconductor and cybersecurity updates.",
-      "sourceUrl": null,
-      "webUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/",
-      "originalUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stockhead.com.au/wp-content/uploads/2021/10/ezgif.com-crop-6.gif",
-          "width": 480,
-          "height": 269,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/?amp",
-      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/?amp",
-      "publishedDateTime": "2021-10-21T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stockhead",
-        "domain": "stockhead.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

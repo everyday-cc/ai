@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/11/02/zillow-shares-plunge-after-annou
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html"
 type: article
 quality: 130
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     height: 1841
     isCached: true
 
-secured: "SyGR5REmoUmuhpzfsRt4oFLEZO6foospN13EQGtpnyBxf6U8oKqQj6BeUKZvjoO8SbdAp7XcIBvZ5OIz8R071GgEZqDfExpk69nqlhoxXjOrlI1tV9cch2cy3AiSzpo1GHRalew979OWXTZ/s++dwYlVA8GH1LkxJtnqbKuNdse+eUu/+tng29UgYEb1kP4LeAKV+UIB0kcLRehtxGShX1Nbq8b93wJsb6+QDcMUA2vfevk512u8lnDgKLCkB1U1XQ8uMuLFoX2kc13kKTyf4clpOPoBItNBUbSBubOkIRgkvm4rtNWp8Zt95TDG+lKSXPnemjaOjDvIQTHr15ukviUxS2uEhKglaGbqsA1zq5Y=;HOMVTxahtEJLK7md1DZQGA=="
+related:
+  - title: "Zillow just gave up on ibuying. What’s the deal with the algorithmic home sales?"
+    excerpt: "Zillow, OpenDoor and similar companies pledge a fast, hassle-free way to sell or buy a home. Are they raising home prices, and can technology keep up?"
+    publishedDateTime: 2021-11-03T11:00:59Z
+    webUrl: "https://www.zillow.com/"
+    type: article
+    provider:
+      name: zillow.com/
+      domain: zillow.com/
+    quality: 114
+
+secured: "ryMdv7OeR1ddQrN3j9nmN1spwfoW/mQBsfX/2fJ1t09jXQzo6u3u+I6p1eTALX69IzukJsCHYyVCo2HE/LwDgmFhyU8F0yKbuFquCvXHIn98efTYjxk7ktAdLEa4g+lQDg9ouH0W8x+AUtUarxYn8yphyHRTX3iw7IHw0d/Q0moBguw7GidzPY2c/myrJ9aJJ94QH5CrYc2zCggij0OVIIynb4ViPPB2BSUQ1RDXlC+UQWKr7WKprfLiayywS+D4PFC/K8lMcbTIrViM9Ge6qp8xp/9FdZJggqsFd7pU/4RArG2ZbOkhPjbV97LASB3HeCRd0B84Xg09Zyg2a3+kPc+R20NKMXtbCRG1uVeMX37qiD8EUl25j488aeBj1vwXdKJtjLFd9zXDtswo3gHE2qoiwZfbRTfiqD2bsBUcEBFsk+vzawpnvbHV+ud0Nze9E9JWzdxQPhhurfZaAEjBv5rriD67TxtNhQcyHSOeGCSkQ+K3tBl0IgSDfkUwGwmx6X/Oc3CjYKISCWTc8yKLr64RVs1gnLOWWRS1dIRFqWk=;lqJ1VCSyMey47SqVgrDLDw=="
 ---
 

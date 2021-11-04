@@ -2,6 +2,155 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-03-oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.md",
+      "title": "Oracle bolsters cloud infrastructure with suite of AI tools",
+      "excerpt": "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html",
+      "originalUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html",
+      "publishedDateTime": "2021-11-03T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-an-ethics-bounty-system-could-help-clean-up-the-web.md",
+      "title": "An Ethics Bounty System Could Help Clean Up the Web",
+      "excerpt": "Looking at the bigger picture, there have been calls for greater regulation of the tech industry, which is deeply necessary, but legislation may take a long time to pass and be implemented and is generally insufficient to stop the unforeseen ethics failures endemic to technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
+      "originalUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6181c6376323e922448010f3/master/pass/An-Ethics-Bounty-System-Could-Help-Clean-Up-the-Web.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/big-tech-ethics-bug-bounty/amp",
+      "publishedDateTime": "2021-11-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-fintech-firm-betterfin-acquired-by-cross-river-bank.md",
+      "title": "Fintech Firm Betterfin Acquired by Cross River Bank",
+      "excerpt": "Cross River Bank, a tech-driven financial services organization that offers core infrastructure and embedded financial solutions, has announced the acquisition of Betterfin, a transformative financial platform that enables small business owners to access various financial products and solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/04/50-Dollars-Grant-Money-Cash-Spend-Pay.jpeg",
+          "width": 1198,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/amp/",
+      "publishedDateTime": "2021-11-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-waymo-self-driving-vehicles-will-begin-mapping-nycs-streets.md",
       "title": "Waymo self-driving vehicles will begin mapping NYC’s streets",
       "excerpt": "Waymo’s self-driving cars will make an appearance in New York City on Thursday, but don’t expect to hail a robotaxi in the Big Apple anytime soon — or ever. The company is a long way from testing or launching its autonomous vehicles commercially in the city.",
@@ -864,7 +1013,7 @@
       "originalUrl": "https://www.msn.com/en-us/finance/companies/zillow-says-its-closing-homebuying-business-cutting-25-25-of-workforce-earnings-miss-estimates/ar-AAQf3Lv",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1042,154 +1191,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-global-ai-powered-healthcare-solutions.md",
-      "title": "Global AI-Powered Healthcare Solutions",
-      "excerpt": "Babylon - Tech giant Microsoft has announced a new partnership with Babylon Cloud Services—a company specializing in digital self-care. Together the",
-      "sourceUrl": null,
-      "webUrl": "https://www.trendhunter.com/trends/babylon",
-      "originalUrl": "https://www.trendhunter.com/trends/babylon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.trendhunterstatic.com/thumbs/babylon.jpeg",
-          "width": 800,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.trendhunter.com/amp/trends/babylon",
-      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/babylon",
-      "publishedDateTime": "2021-11-02T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TrendHunter",
-        "domain": "trendhunter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-tesla-forced-to-recall-11704-vehicles-over-full-self-driving-glitch.md",
-      "title": "Tesla Forced to Recall 11,704 Vehicles Over Full Self-Driving Glitch",
-      "excerpt": "The software communication issue resulted in some vehicles automatically engaging their brakes, which could lead to rear-end collisions.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
-      "originalUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/69e4164c55ef29e39af285baf98e4c76.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp",
-      "publishedDateTime": "2021-11-02T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-meet-the-ai-powering-todays-smartest-smartphones.md",
-      "title": "Meet the AI Powering Today’s Smartest Smartphones",
-      "excerpt": "Artificial intelligence is increasingly becoming the differentiator that makes a new generation of smartphones truly clever. The ability of phones to generalize and determine what might happen next based on previous patterns and datasets—what’s known as machine learning—is,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/",
-      "originalUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/613f8386924283bfff0bca68/master/pass/WIRED_Qualcomm_header%20gif%20rev.gif",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp",
-      "publishedDateTime": "2021-11-02T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-02-copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business.md",
+      "title": "Copy.ai Raises $11M To Accelerate AI Helping You Build Your Business",
+      "excerpt": "Everyone thinks that artificial intelligence will replace humans. Chris Lu and Paul Yacoubian think otherwise. The two have raised $11M to further develop their AI-powered software, Copy.ai, to unleash human creativity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2021/11/01/copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2021/11/01/copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617e11cac07f785fa3d90cad%2F0x0.jpg",
+          "width": 760,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2021/11/01/copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2021/11/01/copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business/amp/",
+      "publishedDateTime": "2021-11-01T17:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-real-world-challenges-for-agi.md",
+      "title": "Real-World Challenges for AGI",
+      "excerpt": "Koray Kavukcuoglu, VP of Research, discusses some of the natural obstacles faced in the development of AGI.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/real-world-challenges-for-agi",
+      "originalUrl": "https://deepmind.com/blog/article/real-world-challenges-for-agi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/evDGSjMuLYjnWlS48xwSQnKhXKrRLEiRB3P8UmGbbi6oGTYqPbzFV_-34Lcn3AcTQyAYxpiruMnDL__lWzKzfV0d9Rci7ChPgDRJH8R0vp0BSkurFno",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-ford-taps-non-it-professionals-to-broaden-its-ai-expertise.md",
       "title": "Ford Taps Non-IT Professionals to Broaden Its AI Expertise",
       "excerpt": "The auto maker has trained more than 1,000 employees on a platform it developed to put AI tools in the hands of people across the company.",
@@ -1118,100 +1221,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/amp/",
       "publishedDateTime": "2021-10-31T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-tech-time-delta-air-lines-launches-new-facial-recognition-software.md",
-      "title": "Tech Time: Delta Air Lines launches new facial recognition software",
-      "excerpt": "To streamline the check-in process at the airport, Delta Air Lines is introducing new facial recognition technology to airport security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/",
-      "originalUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1vhqlrjc8h82r.cloudfront.net/10-31-2021/t_36a7d442f26b4d2085ef3805536c4fcc_name_image.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp",
-      "publishedDateTime": "2021-10-31T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all.md",
-      "title": "The D-Link Eagle Pro AI Router Brings Affordable WiFi 6 For All",
-      "excerpt": "D-Link is the latest brand to join the affordable WiFi 6 party with the new R15 Eagle Pro AI AX1500 smart router. This surprisingly small and lightweight router combines Wi-Fi 6 technology and artificial intelligence in a router that offers strong wireless coverage and higher speeds,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6168429acae3598d883ce0e8%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/amp/",
-      "publishedDateTime": "2021-10-31T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
