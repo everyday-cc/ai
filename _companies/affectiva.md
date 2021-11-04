@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "affectiva"
   url: "https://twitter.com/affectiva"
-  followers: 11620
+  followers: 11619
 
 size: 51-200 employees
 yearFounded: 2009
@@ -32,7 +32,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1280148929808646144/rFMnY8_q_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1456366848270864387/YVtGvI_5_400x400.jpg"
     width: 400
     height: 400
     isCached: true
