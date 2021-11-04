@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-10-26-wolters-kluwer-announces-integration-of-its-clinical-natural-language-processing-solution-with-henry-scheins-micromd-emr-platform.md",
+      "title": "Wolters Kluwer Announces Integration of Its Clinical Natural Language Processing Solution With Henry Schein's MicroMD EMR Platform",
+      "excerpt": "Wolters Kluwer, Health announced today that MicroMD®, Henry Schein Medical Systems' practice management and electronic medical record (EMR) solution, will implement the Health Language clinical Natural Language Processing (cNLP) solution to help accelerate and optimize patient medical record review.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-wolters-kluwer-announces-integration-its-clinical-natural-language-/2021/10/26/9477667.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-wolters-kluwer-announces-integration-its-clinical-natural-language-/2021/10/26/9477667.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-onvisource-partners-with-voicegain-for-speech-recognition-based-on-deep-learning-technologies-and-the-edge-architecture-powered-by-nvidia-gpus.md",
       "title": "OnviSource partners with Voicegain for Speech Recognition based on Deep Learning technologies and the Edge Architecture powered by Nvidia GPUs",
       "excerpt": "OnviSource, a leading provider of intelligent automation solutions for workforce optimization, contact center operation analytics and automation, customer experience management, and business process automation,",
@@ -1114,49 +1148,6 @@
       "provider": {
         "name": "Mashable",
         "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-practice-of-applying-ai-to-benefit-visually-impaired-people-in-china.md",
-      "title": "The Practice of Applying AI to Benefit Visually Impaired People in China",
-      "excerpt": "The tremendous development of information technology has brought challenges to the visually impaired in China.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/magazines/2021/11/256394-the-practice-of-applying-ai-to-benefit-visually-impaired-people-in-china",
-      "originalUrl": "https://cacm.acm.org/magazines/2021/11/256394-the-practice-of-applying-ai-to-benefit-visually-impaired-people-in-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dl.acm.org/cms/attachment/f18599d1-6cf1-466f-96e6-a7114062fe3c/uf1.jpg",
-          "width": 1787,
-          "height": 1603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
         "images": null,
         "publishers": null,
         "authors": null

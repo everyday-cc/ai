@@ -31,18 +31,20 @@ images:
 
 related:
   - title: "Propelo Raises $12M Series A Funding, Unveils AI-Driven Engineering Excellence Platform"
-    excerpt: "Propelo publicly launched an industry-first AI-driven engineering excellence platform to help businesses accelerate their software delivery. As most industries transform to become software-driven, modern engineering teams are leading"
-    publishedDateTime: 2021-11-04T19:54:00Z
-    webUrl: "https://www.lelezard.com/en/news-20085510.html"
+    excerpt: "Today, Propelo publicly launched an industry-first AI-driven engineering excellence platform to help businesses accelerate"
+    publishedDateTime: 2021-11-04T19:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/n23904692/propelo-raises-12m-series-a-funding-unveils-ai-driven-engineering-excellence-platform"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23904692"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23904692"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 31
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://mma.prnewswire.com/media/1678009/Propelo_Screenshot.jpg"
+        width: 349
+        height: 400
         isCached: true
 
 secured: "VrHAAIgVyG2ue7/HTZcVckY1QKDs+JRkZu8uaTPKpuq4V8VoPIDR7QLHJPqXpbH3yDh0QapBvRCv5hTdqsarVh2vYYmpT/nbrpyCE8HxtjCa9TaGr92XrnK1+TZMCfqYBj3QhSvTKH54zTWa5GqlwkRHW9Et8vFBVPxHTPcAmdOYqpRvFOQcHtq4qgw39UN9LhCYmSXB+dby6lChoKRMMAc7Fzr5GAw/eweW0J2xwDYA5Y7yt92k8Oub7GvwlcpwwvKAXrHJ3lXskvN2G3UVkB01c6px82wHj3zCAof5DeyYItstCjF/Yh2fVma8r7+QHyFY9XsiRCbVGTQqj2of5c/AkMS1Qj0BwpRlhwBO3i4j+Z3DQ64H0Qjw1vn6s8H2R6IUWRDTbgWljo4vQpn++mmnoXwTgghqvYCBFF0JifR8Zmqj/ukcZvZaGrxvit75WWvoSVpKJI/gievcG/oplRc0Xtkhv4Bh/ATSqxgttlDslG4bI8nGEj8NvBHkBYfJgCkD/HDwAPxwMr1ot/LEVA==;mAJvn6IJ8IakaRnDW57qbg=="

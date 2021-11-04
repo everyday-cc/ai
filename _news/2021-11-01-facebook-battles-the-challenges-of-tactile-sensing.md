@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/amp/"
 type: article
 quality: 174
-heat: 704
+heat: 714
 published: true
 
 provider:
@@ -679,6 +679,20 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/11/sjm-acebook-Giphy_87173674.jpg?w=1024&#038;h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "With Facebook Shutting Down Its Facial Recognition, Will Other Companies Follow?"
+    excerpt: "Banning the technology comes right when Facebook is also trying to pivot its public image toward its new parent company, Meta."
+    publishedDateTime: 2021-11-04T18:10:00Z
+    webUrl: "https://www.popularmechanics.com/science/a38149850/facebook-shuts-down-facial-recognition/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 34
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/collage-of-profile-pictures-makes-up-a-wall-in-the-break-news-photo-1636049076.jpg?crop=1xw:0.7515xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Facebook is ending its use of facial recognition, deleting data on more than a billion people"
     excerpt: "Facebook said Tuesday it will end its use of facial recognition software and delete facial data on more than a billion people, a sudden reversal for one of the Internets biggest face-scanning systems that could reinvigorate scrutiny about the softwares expanding prevalence around the world."

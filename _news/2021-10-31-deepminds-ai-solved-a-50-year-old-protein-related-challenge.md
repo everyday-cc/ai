@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Alphabet launches AI drug discovery venture built on DeepMind's protein-folding expertise"
+    excerpt: "The new Isomorphic Laboratories aims to deliver an “AI-first approach” for tackling biopharma research, with the goal of serving as a commercial partner to drugmakers."
+    publishedDateTime: 2021-11-04T18:58:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/alphabet-google-ai-drug-discovery-deepmind-protein-folding"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 47
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1636052397/GettyImages-867159754.jpg/GettyImages-867159754.jpg?VersionId=Wz.7bs13f3QJMcVV_ZH80QowTKRNr2f8"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "K6eWxBmZFQWVJv8d7/Tl6QgWwCucDeOxTqdDdEbpluHxYycN+49rnWYiRoakYnU5L7eDh/N5LXxYDYa5vnM3qQTOhDBPrjF60Hr1la0rkJ7qMSLFGSdqb2B5VU6QOmZFZLLhttltdQeFBAeId+/Z1NLGK2Umf5rqFrIYUo5htjLWfqNLkPFxtPlv8GaNBHerW60K43+zJZkOgMqTvFI7gLuMDu012RyOuILNtUwVEBXh005w0CIU9OrYyFS+AiUxWh7CNG0wUypLyobX5I9uEj54o+2DsM3zM3iH/cssZ8rQE9wTGy+dc8O1xw9oG7qxr3VaWBxI04VimT3uzzJgLiaMP7/xf7rUEaP9ZSvYNMMbXbZjrV67Cb7O2IddsHQmzDPtcwq26WkJF/hL/cq7UzGIm0dNXkgTsCNMICFUWX2GQnMZELIHdaR6TpDdWZRpowql6fJO6U5qkVYWw5OkjZpkTNdqrikwlS8SXLekKX4YnXYq4Suo2ZPbalbokFoC6hyXI7Dm53K42hYhqCE+Ag==;BLpcvIKjS1CDsFzvmJ3rGg=="
 ---

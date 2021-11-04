@@ -691,6 +691,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "With Facebook Shutting Down Its Facial Recognition, Will Other Companies Follow?"
+    excerpt: "Banning the technology comes right when Facebook is also trying to pivot its public image toward its new parent company, Meta."
+    publishedDateTime: 2021-11-04T18:10:00Z
+    webUrl: "https://www.popularmechanics.com/science/a38149850/facebook-shuts-down-facial-recognition/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 34
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/collage-of-profile-pictures-makes-up-a-wall-in-the-break-news-photo-1636049076.jpg?crop=1xw:0.7515xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Facebook is ending use of facial recognition software, deleting data on more than a billion people"
     excerpt: "Facebook is ending use of facial recognition software, the company said in a blog post Tuesday, a major move by a Silicon Valley giant to step away from the controversial tech."
     publishedDateTime: 2021-11-02T18:28:00Z

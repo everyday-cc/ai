@@ -35,6 +35,22 @@ related:
         width: 1198
         height: 1280
         isCached: true
+  - title: "Conversion Al: How It's Helping Banks Stay On Top Of The Fintech Industry"
+    excerpt: "Artificial Intelligence continues to be a disruptive technology to the banking system. Over the years, banks and financial institutions have depended on this technology"
+    publishedDateTime: 2021-11-04T17:51:00Z
+    webUrl: "https://www.benzinga.com/fintech/21/11/23901830/conversion-al-how-its-helping-banks-stay-on-top-of-the-fintech-industry"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23901830"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23901830"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://www.benzinga.com/files/use-cases-of-ai-in-the-banking-sector.jpeg"
+        width: 626
+        height: 352
+        isCached: true
   - title: "Banc of California Considers Further Backing of FinTech Finexio"
     excerpt: "After participating in FinTech Finexio’s recent $8 million funding round, Banc of California is mulling the possibility of investing in the startup once again."
     publishedDateTime: 2021-11-01T16:19:00Z

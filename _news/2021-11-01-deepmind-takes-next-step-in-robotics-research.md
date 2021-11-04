@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/"
 type: article
 quality: 121
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2021/11/AdobeStock_211444725-1024x576.jpeg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Alphabet launches AI drug discovery venture built on DeepMind's protein-folding expertise"
+    excerpt: "The new Isomorphic Laboratories aims to deliver an “AI-first approach” for tackling biopharma research, with the goal of serving as a commercial partner to drugmakers."
+    publishedDateTime: 2021-11-04T18:58:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/alphabet-google-ai-drug-discovery-deepmind-protein-folding"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 47
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1636052397/GettyImages-867159754.jpg/GettyImages-867159754.jpg?VersionId=Wz.7bs13f3QJMcVV_ZH80QowTKRNr2f8"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "kgSHI7hcEWkyhTw+nxXpfcxQ9a89/glfgSA4uzka7j2/eX2ySJOVPp9gY8YHgyYRhCLiTJ4aDzJA9Mv2fz6Qu6aIFyR3ATRXU16JeI0BZPOwLwPC3Dq3KoVlS/r76Cc24xTORCNTnLMfV78Jy3goY/GrWXCyXVa2OKvnMVKIU7/fXkpjKr8ZCiN8lT3ZGi/U+kC6NEhKOr/kwfVXCwN6BzBRqeXdc8kAT0hD/qH57BN6Kdj1ld1e+gO6xeCfCepirSlinYtjjQ/7xsoT7oth8WPfJ5WHiYBPz6mFBCOnw2vLZa1BOzFN9x53Ol9LqJmlj0p2p8iv8K31rS2xYOgkODmDMPoBRcX+/lgPkv5YAC1Id/33qxG1nWQJcaXMOz9qmm34CkAR9uywSZTxhL5Z0hvJNdorXMLlMJn/I71yIkReBq1NfUsQTsL6vEbozbtUNnFNIaP2su5ur2/V+ym2/u10qMNHIMxSVrsPZ/koLhwwHMh3oJ9ekTw4Ujsn2OR349Z9h/uRcuHwV8lbAqhY3Q==;iuk1uKwSUsYlSw+ZDOAnlw=="
