@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-20-inaugural-indy-autonomous-challenge-to-bring-shock-and-awe-to-brickyard.md",
+      "title": "Inaugural Indy Autonomous Challenge to Bring 'Shock and Awe' to Brickyard",
+      "excerpt": "Teams will program the cars to run laps around IMS using artificial intelligence ... it's not just about making a driverless car, or going around the Indianapolis Motor Speedway, it's about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoweek.com/racing/more-racing/a38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "originalUrl": "https://www.autoweek.com/racing/more-racing/a38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/418-pd6-0642-min-1634674255.jpg?crop=1.00xw:0.753xh;0,0.169xh&resize=1200:*",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoweek.com/racing/more-racing/amp38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/racing/more-racing/amp38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "publishedDateTime": "2021-10-19T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoweek",
+        "domain": "autoweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-meituan-raises-10-billion-for-self-driving-cars-drone-delivery.md",
       "title": "Meituan raises $10 billion for self-driving cars, drone delivery",
       "excerpt": "It said it plans to spend the money it raised on research and development of self-driving vehicles ... including Tencent and Baidu, were fined for failing to disclose takeovers or investments ...",
@@ -1339,49 +1382,6 @@
       "provider": {
         "name": "Mint",
         "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-germany-unveils-the-worlds-first-fully-automated-train-in-hamburg.md",
-      "title": "Germany Unveils the World's First Fully Automated Train in Hamburg",
-      "excerpt": "World's first fully automated, driverless train is unveiled in the city of Hamburg by Siemens and German rail operator Deutsche Bahn (DB).",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
-      "originalUrl": "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplMpMOW/sizes/autonomous-train_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
-      "publishedDateTime": "2021-10-12T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
         "images": null,
         "publishers": null,
         "authors": null

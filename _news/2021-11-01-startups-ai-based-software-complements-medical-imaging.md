@@ -23,22 +23,6 @@ images:
     height: 244
     isCached: true
 
-related:
-  - title: "Pasadena-based Artificial Intelligence Company Develops Software To Find Patients for Clinical Trials in Minutes"
-    excerpt: "Pasadena-based Deep 6 AI, which supplies clinical trial acceleration software to help defeat disease and get life-saving therapies to market faster, has launched Deep 6 for Life Sciences, a novel suite of AI software solutions for life science sponsors and contact research organizations."
-    publishedDateTime: 2021-10-30T12:59:00Z
-    webUrl: "https://www.pasadenanow.com/main/pasadena-based-artificial-intelligence-company-develops-software-to-find-patients-for-clinical-trials-in-minutes"
-    type: article
-    provider:
-      name: Pasadena Now
-      domain: pasadenanow.com
-    quality: 16
-    images:
-      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2021/10/shutterstock_1850780563.jpg"
-        width: 740
-        height: 400
-        isCached: true
-
 secured: "yMTlSYDKk4wSXOq7z1Grv/EP4r5NjvOV+0BtULNVgB3lnDwa4CiYeE1Yj2ejCYapWcCV5h9mtrBupZELaMDCc/368UTdCd2tK77Y07xBYocCMtrvhCmMj+7as+aCIBrbUZuOX8eWu/8c2Xx3ZKixMBUgXQD4beFuWAtiFodBeUg+u3q/josS2OoUMCPqYgS4PhH2aY5owRTGuZA6Qx8PgMnBLb+NxU1xhPgbXnVfgseVLK+XP5vhOquaqf7KCAGSjBxAIhsfjNbIwbk6sSWQDqlGPqZRB4laGEMcvWEGL52CpgsyJ3mK6x/dvT4l1wAK4oVv5+dSpV5fnbXt1INxLu+m90DOsks8YYL8uot/FVI=;mioTR3rI6tQuCrr0RyMYkA=="
 ---
 

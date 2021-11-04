@@ -9,7 +9,7 @@ ampWebUrl: "https://variety.com/2021/global/asia/hashimoto-ai-a-list-film-nerd-1
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/global/asia/hashimoto-ai-a-list-film-nerd-1235104525/amp/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1000
     height: 562
     isCached: true
-
-related:
-  - title: "Tokyo: 5 Questions With Festival Ambassador Ai Hashimoto"
-    excerpt: "Since her debut in Tetsuya Nakashima’s acclaimed feature Confessions (2010) as a schoolgirl, Ai Hashimoto, 25, has built an impressive filmography, to say nothing of her television work, modeling and singing career (she’s signed to Sony Music)."
-    publishedDateTime: 2021-10-30T13:00:00Z
-    webUrl: "https://www.hollywoodreporter.com/movies/movie-news/ai-hashimoto-interview-1235039709/"
-    ampWebUrl: "https://www.hollywoodreporter.com/movies/movie-news/ai-hashimoto-interview-1235039709/amp/"
-    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/movies/movie-news/ai-hashimoto-interview-1235039709/amp/"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 57
-    images:
-      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2021/10/4C0A1384.jpeg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "2XSDMC8d2+M+T9yxYtAg/DYMJREdpO+KWm3IkAJfvasX91xEKEpX6GhFVUW8FZxqMTlxaql+vKruqrVj/tvc1g3W50ZWpR2/280MBAd1lGHn22/c0pWq4WIE4AqqHA7+3uQfsBB/tDWzO064Bh155qLR9ZLsJ29oElZfGDLEKlocsQwNfAdN5UGXdygQecKTIaJUb6FayqDDA1SzvGJjYTMIeeioeGYmxR2YoB0uIJcisqDKv/iL/yQpQR0BDlNLK/ev88H0n9xZHMv6JkwqDcewpYMz0NC7ycpjtBuSxFeR+bFir8kYNcwAli3uVPTxTJ8P6cHx8JDHaT4L1RgkwxXcPzmorP1yfToVumpS3Lc=;QSI9eyRM5OUPBjHVOk6+Og=="
 ---

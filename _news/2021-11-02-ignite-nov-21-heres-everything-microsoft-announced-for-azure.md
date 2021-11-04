@@ -199,6 +199,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
+  - title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
+    publishedDateTime: 2021-11-02T18:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-the-microsoft-azure-marketplace-301413946.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
   - title: "SentinelOne Unveils New Zero Trust Integration for Microsoft Azure Active Directory"
     excerpt: "Ignite, SentinelOne (NYSE: S), an autonomous cybersecurity platform company, announced the SentinelOne App for Azure Active Directory, a new solution combining endpoint security and identity capabilities to advance Zero Trust architecture."
     publishedDateTime: 2021-11-03T16:45:00Z

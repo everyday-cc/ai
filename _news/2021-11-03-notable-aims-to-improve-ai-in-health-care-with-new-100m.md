@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-hea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare automation startup Notable raises $100M to boost US hospital revenues"
+    excerpt: "AI-powered healthcare startup Notable raised $100 million in Series B funding led by Airbnb and Zoom investor Iconiq Growth, boosting the company’s valuation to $600 million. What it does: Notable’s tech continuously scans electronic health records (EHRs) to identify which workflows to automate,"
+    publishedDateTime: 2021-11-04T04:58:00Z
+    webUrl: "https://www.emarketer.com/content/consolidating-ai-vendors-could-key-improving-hospital-cybersecurity"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 49
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/8192741334f5d53cd12b2d7978a2f524/264941?im=FitAndFill,width=1200,height=630"
+        width: 470
+        height: 277
+        isCached: true
   - title: "Healthcare automation startup Notable raises $100M to ease hospitals’ administrative burden"
     excerpt: "Healthcare automation firm Notable is hoping to expand after raising a hefty $100 million Series B funding round today. The round into Notable, officially named Zealth Inc., was led by ICONIQ Growth with participation from Greylock Ventures,"
     publishedDateTime: 2021-11-03T12:00:00Z

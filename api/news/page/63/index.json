@@ -2,6 +2,94 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-09-16-comparison-of-iot-services-from-aws-azure-and-gcp.md",
+      "title": "Comparison Of IoT Services From AWS, Azure, And GCP",
+      "excerpt": "AWS IoT Core natively integrates with other AWS services like AWS Lambda, Amazon Kinesis, Amazon S3, Amazon Sagemaker, Amazon DynamoDB, CloudWatch, Aws CloudTrail, Amazon QuickSight. AWS IoT Device Defender: AWS IoT Device Defender is another fully managed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fieldtechnologiesonline.com/doc/comparison-of-iot-services-from-aws-azure-and-gcp-0001",
+      "originalUrl": "https://www.fieldtechnologiesonline.com/doc/comparison-of-iot-services-from-aws-azure-and-gcp-0001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vertassets.blob.core.windows.net/image/3bd9b1bf/3bd9b1bf-9772-4cf3-a258-630396eff499/istock_1215247403.jpg",
+          "width": 1042,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Field Technologies Online",
+        "domain": "fieldtechnologiesonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-heart-to-heart-hospice-receives-medalogix-muse-trailblazer-award-for-adopting-machine-learning-technology.md",
+      "title": "Heart to Heart Hospice Receives Medalogix Muse Trailblazer Award for Adopting Machine Learning Technology",
+      "excerpt": "Medalogix (  a premiere health-tech company using machine learning to advance patient care within home health, palliative, and hospice care settings, has partnered with Homecare HomebaseSM (HCHB) to announce Heart to Heart Hospice as the winner of the Medalogix Muse Trailblazer Award.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-texas-dallas-8d1aafeaba43856a011f9e8c010650a4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-texas-dallas-8d1aafeaba43856a011f9e8c010650a4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-artificial-intelligence-in-precision-farming-market-2021-research-report-market-overview-size-share-growth-trends-and-forecast-2026.md",
       "title": "Artificial Intelligence in Precision Farming Market 2021: Research Report: Market Overview, Size, Share, Growth, Trends and Forecast 2026",
       "excerpt": "Artificial Intelligence in Precision Farming Market Research Report (2021 - 2026) contain the business policies,",
@@ -1036,92 +1124,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-dive-deep-into-machine-learning-with-over-75-hours-of-expert-led-training.md",
-      "title": "Dive Deep Into Machine Learning With Over 75 Hours Of Expert Led Training",
-      "excerpt": "One way to dive deep into these pivotal technologies is to take advantage of this deal on The Premium Machine Learning Artificial Intelligence Super Bundle, which is on sale for $36.99 (reg. $2,388).",
-      "sourceUrl": null,
-      "webUrl": "https://www.ign.com/articles/dive-deep-into-machine-learning-over-75-hours-expert-led-training",
-      "originalUrl": "https://www.ign.com/articles/dive-deep-into-machine-learning-over-75-hours-expert-led-training",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2021/09/15/sale-302250-article-image-1631738245370.jpeg?width=1280",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-alteryx-incs-ayx-ceo-mark-anderson-presents-at-citi-2021-global-technology-virtual-conference-transcript.md",
-      "title": "Alteryx, Inc.'s (AYX) CEO Mark Anderson Presents at Citi 2021 Global Technology Virtual Conference (Transcript)",
-      "excerpt": "Citi 2021 Global Technology Virtual Conference September 15, 2021, 1:00 pm ET Executives Mark Anderson - Chief Executive Officer Kevin Rubin - Chief",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4455445-alteryx-inc-s-ayx-ceo-mark-anderson-presents-citi-2021-global-technology-virtual-conference",
-      "originalUrl": "https://seekingalpha.com/article/4455445-alteryx-inc-s-ayx-ceo-mark-anderson-presents-citi-2021-global-technology-virtual-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4455445-alteryx-inc-s-ayx-ceo-mark-anderson-presents-citi-2021-global-technology-virtual-conference",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4455445-alteryx-inc-s-ayx-ceo-mark-anderson-presents-citi-2021-global-technology-virtual-conference",
-      "publishedDateTime": "2021-09-15T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

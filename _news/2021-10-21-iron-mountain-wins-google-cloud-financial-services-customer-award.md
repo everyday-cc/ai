@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Iron Mountain Wins Google Cloud Financial Services Customer Award"
-excerpt: "Iron Mountain Incorporated ® (NYSE:IRM), the global leader in innovative storage and information management services, today announced that it has received a Google Cloud Customer Award for its work with a large financial institution."
-publishedDateTime: 2021-10-21T10:00:00Z
-originalUrl: "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/"
-webUrl: "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/"
+excerpt: "Google Cloud recognized Iron Mountain (News - Alert) for its expertise in mortgage document processing and investment in training machine learning models to automate ... and unlock insights for a large financial services company. \"We're proud to be one ..."
+publishedDateTime: 2021-10-21T10:45:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-iron-mounta-wins-google-cloud-financial-services-customer-/2021/10/21/9474465.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-iron-mounta-wins-google-cloud-financial-services-customer-/2021/10/21/9474465.htm"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "+ZXXouJYJOWbbubGzbmqd57Jj++K4rGO3dogNxgMxyxCvzJ0SJWS+tVTaYLHEe9xFSk2VpHO5e2F5itZ7nY6GL2qL8YqnB2FAV+gOtrHqo1D27uX23h2OPUeyaDgOXF5XYxtjZejQwwRKs8W5SswMQEROX6hvjuMQ165JLj+lUOHIhd33eGSJsTM45gK5Hyw2CN9Jhj/AufoEUNZRYmRIrj76MngkbjeFT/jUWoumswTbTioozgJwgl8HV16w88n1v7eqv3th5C+yKZneizEIkAW0qfNNh8de/zbQdBosSU9j+W4Pgy6UbshGQ0BvDWKKh1OS+gIkU1cWUDBFle5ay4boINdI6eaKOmQlVq4MuU=;OMS36YTPONXBwmrZGdTqUA=="
+secured: "frFek9BzHtitKLeLLSF35iNTdB8skIs95X0iJKP31khDpyctGBpfgMBd1/Q/Shn7BWdOnbDBlLk2wulqurtMzCBjg9/WJtI/lvq1GZraB2/0xcXFaizmYcDQgj7s8VeL7VZ+k0I4iL+r4NsrRoK/oxc2oXpOjUNeRWl9CmaYOdJX0pmdidZImcdsPKAGNLUWLDsvFJaKufYGeGvBlniUik/Sn68A1IXCh35rk/SUpnIZdwIqypCZ+/5Kr9Awo6JQHtt3pGZ1haUTuWNnlJB/hVYjZh7XBK4Ip/qNGfrx2bV8mIn7DUs2fldRo18vuteKw4ksrrIH7+jBamDXRSz6cLbx8kmykztUiFQIvSAQ848=;lMk8XEKCm9J20TkchkTeJQ=="
 ---
 

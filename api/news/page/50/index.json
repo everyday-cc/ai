@@ -2,6 +2,101 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-09-28-c3ai-remaining-on-the-sidelines-as-valuation-still-too-rich.md",
+      "title": "C3.ai: Remaining On The Sidelines As Valuation Still Too Rich",
+      "excerpt": "While the company has recently developed partnerships with Microsoft Azure and Google Cloud, C3.ai remains heavily tied to some legacy verticals such as oil and gas. In fact, their largest ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4457285-c3ai-remaining-on-the-sidelines-as-valuation-still-too-rich",
+      "originalUrl": "https://seekingalpha.com/article/4457285-c3ai-remaining-on-the-sidelines-as-valuation-still-too-rich",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1277390448/medium_image_1277390448.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4457285-c3ai-remaining-on-the-sidelines-as-valuation-still-too-rich",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4457285-c3ai-remaining-on-the-sidelines-as-valuation-still-too-rich",
+      "publishedDateTime": "2021-09-27T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-ounass-increases-its-revenue-using-amazon-sagemaker-with-a-word2vec-based-recommender-system.md",
+      "title": "Ounass increases its revenue using Amazon SageMaker with a Word2vec based recommender system",
+      "excerpt": "Based in Dubai, Ounass is the Middle East’s leading ecommerce platform for luxury goods. Scouring the globe for leading trends, Ounass’s expert team reports on the latest fashion updates, coveted insider information, and exclusive interviews for customers to read and shop. With more than 230,000 unique",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ounass-increases-its-revenue-using-amazon-sagemaker-with-a-word2vec-based-recommender-system/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ounass-increases-its-revenue-using-amazon-sagemaker-with-a-word2vec-based-recommender-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/10/ml4657-image005-948x630.png",
+          "width": 948,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T10:27:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.md",
       "title": "China vows further curbs on 'disorderly expansion' by tech firms",
       "excerpt": "Sheng also listed self-driving vehicles and platform economies ... for instance, while Baidu Inc. has worked on autonomous driving and Alibaba Health Information Technology Ltd and JD Health ...",
@@ -1091,101 +1186,6 @@
         "AWS AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-dont-rush-to-machine-learning.md",
-      "title": "Don’t rush to machine learning",
-      "excerpt": "It turns out the best way to do machine learning (ML) is sometimes to not do any machine learning at all. In fact, according to Amazon Applied Scientist Eugene Yan, “The first rule of machine learning [is to] start without machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3634401/dont-rush-to-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3634401/dont-rush-to-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/11/team-of-computer-engineers-work-on-machine-learning-neural-network-picture-id1182697691-100868264-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3634401/dont-rush-to-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3634401/dont-rush-to-machine-learning.amp.html",
-      "publishedDateTime": "2021-09-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-vietnam-pharmaceuticals-market-to-grow-along-with-healthcare-industry-until-2026.md",
-      "title": "Vietnam Pharmaceuticals Market to Grow Along With Healthcare Industry until 2026",
-      "excerpt": "Advanced medicine development is driving the growth of Vietnam Pharmaceuticals Market in the forecast period 2022 2026 According to TechSci report on Vietnam Pharmaceuticals Market By Drug Type Generic Drugs v s Branded Drugs By Product Type Prescription Drugs v",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
-      "originalUrl": "https://www.openpr.com/news/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U927716201_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
-      "publishedDateTime": "2021-09-27T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

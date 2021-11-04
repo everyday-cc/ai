@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Kami Vision and Duplocloud Partner to Develop Secure, Multi-Tenant Cloud Solution for AI"
+    excerpt: "Kami Vision, the provider of an edge-based vision Artificial Intelligence (AI) platform and Duplocloud, provider of the industry's-first unified DevOps automation platform for the cloud, announced today the companies have joined forces to ensure users a secure,"
+    publishedDateTime: 2021-11-04T05:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kami-vision-duplocloud-partner-develop-secure-multi-tenant-/2021/11/04/9484432.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+
 secured: "1uB+HTr/fhzAa/p6FLQMtKszsYTdLunBNyvY5xaUqMtTFCoQWEgNaReikUvWqzAavGAiRQAPc1GA0k6aR5sJ2rlXVyyP1FblqH0DI7DdhqsD8n0nn5l65gobtmeyXwJeQE7KL6m7Kx96MOa/BpJsOxFoDGHQIXT+GvrFxKzLoSSEsmOI8iGrFznW7q8eWmsrYig6qAXefLdOTtov3RlqAw8lPg18rkENPvpSNHqgoeUgxO0bM+XCu9AVQx2ivR4ctogxA/ftFmpr1Kleh2gTA8rNzd4//3E3pzuzCDSNpzmCkZc/CwU+CrLepB7h7+Z+3KsfGic/SDXq6Bv+InLSysiJPSlShPutjlOFdN8DLL0=;vd1iNGq773zdxndj/vTshQ=="
 ---
 
