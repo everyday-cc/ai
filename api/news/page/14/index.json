@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-10-23-arm-aiming-for-a-huge-ai-performance-boost-with-next-gen-gpu-architecture.md",
+      "title": "Arm Aiming For A Huge AI Performance Boost With Next-Gen GPU Architecture",
+      "excerpt": "As AI and machine learning capabilities play bigger roles in everyday tasks, companies like Arm must push the performance envelope.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "originalUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56582/content/small_arm_gpu_ai_brain.jpg",
+          "width": 708,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "publishedDateTime": "2021-10-22T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-scientists-built-an-ai-to-give-ethical-advice-but-it-turned-out-super-racist.md",
       "title": "Scientists Built an AI to Give Ethical Advice, But It Turned Out Super Racist",
       "excerpt": "Researchers at the Allen Institute for AI created Ask Delphi to make ethical judgments — but it turned out to be awfully bigoted and racist instead.",
@@ -1165,49 +1208,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-ethics-by-design-steps-to-prepare-for-ai-rules-changes.md",
-      "title": "Ethics By Design: Steps To Prepare For AI Rules Changes",
-      "excerpt": "The EU’s AI Act promises to mitigate the harmful use of machine intelligence but will require deeper education and evangelization to ensure more transparent and ethical use of AI, notes Ursula Morgenstern,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/",
-      "originalUrl": "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/amp/",
-      "publishedDateTime": "2021-10-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

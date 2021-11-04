@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-04T06:15:00Z
 originalUrl: "https://www.digitimes.com/news/a20211104VL200.html"
 webUrl: "https://www.digitimes.com/news/a20211104VL200.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitimes.com/newsshow/20211104VL200_files/2_2b.jpg"
@@ -23,6 +24,6 @@ images:
     height: 853
     isCached: true
 
-secured: "s41OiesBmw6DIHgn0qiXImriL2Cb5po7L35L9Gham1QzrjklgO4PtwuX0jqEzauKHapVdE37LtA0vtt0gl0GMIja9Q0GRYXf71F/6keJP4SOmHJgOHEAfqkdFMHDooGDunNRusbnKCERaRu2pmnXR90F60L5wZ7HMzVoAn5NgAY+olXotYiThT7hVSFugy+HKU2w7RH2jeMvsR7oQA5VZYn5wgFY0juTe2A2OmgYvky2Sy2q8R7Ete8idzTHzWbppv8xs82/OqukWIOL1DtGR0dY+3NTzoGCXQPQxGhr5zcPcd5WaAOklnvGwhRCUKiAwy+iIkNuUKebKo7hLYaH4+0l0lkOjuGCj8IgQZDBj6k=;d+pSAw9xJZScnXp5w+FMUw=="
+secured: "XqAUafxqI7+JbCEYfICJVEkna53XlsNkTsgAfX7bRgpO3yx9f072m4pBMiUtRxwDsC9FwxJlxieuYZReUrFlVUZw8h9WdCMptfeZn8CrYJIwsz579h6Jln5kkZs04umji7KJE2BtQ7qwf0FFmwYgy5aN8ftrwRwcoekVCuTm3T8Atxk57dSQem3w8Rfx84gzxsPhgW+1He6BQVuxVVVCKXIwckUIZ8t080PkfL5UuO/8xyDSqB2MSWf4aPrlLumOksGRYGEfQh/PHaCTJ1K+gXs5dLxvITlYMMqB0tsxtHiMKvWLCjoNWQEtaNttuk8xMa4iiIdXnQ/xFujE4enGrATVIsLkl2A+wuA34qlA4L8LIk8LJ0+LPPr49wz3nHCPBvvG2wEnXtZDiQD2Xz3tvcZvH10EhD5NdZbLB4dk+754jw1eDQMMob6D6bWBsS1Z64PLYB82AbTg/0IuV2NnoIEBfhqLKIHfSNxfXaw55JhaVv9PMyC0HRZUpu3RPc/yHqcAKBarf5bOCkAIS4W6sQ==;cDfPGzu9LEoWVNC+uT7g3w=="
 ---
 

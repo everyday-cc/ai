@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
-excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,"
-publishedDateTime: 2021-10-27T17:25:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2"
-webUrl: "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2"
+excerpt: "As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue, Index Ventures, and Alkeon. Series C ..."
+publishedDateTime: 2021-10-27T17:31:00Z
+originalUrl: "https://www.wafb.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/"
+webUrl: "https://www.wafb.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WAFB
+  domain: wafb.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "0fD0c3cD1lBPFKvqFh20xYDeN2m8uRLRGg7amLWt4ZcgacDJA6bJ9/HheiIpExk7slWmNk1VGPyu7ehO5c730F7+NYdly8Yc7TCRBZfbhviPZ2+jADKkPH0xlLq5MFHCrlW6M2j/+TulFbOyUiMbsuwkBe45GjiHNkoLYGWYDcqgEJwdGaziTKbPCOoTfxUJh0cdP63XOYLIkiIqLpwrvLRlIRkXz52Cx3shR9TID7aSwkDKmlk/6KujcCQc/Mq+MFWRZ96QMDabfrDbqz1VESWwDot9cGGKYOlyWWGvAYRFYaVwbRjSC/fsaH2kHyVWIiyuv3nH0Ycf4c32T5TtlDU6jjMS0BfBfk4U9qa/B88=;BNP9DKH0glF1Mdo9q6f21A=="
+secured: "M03qk2eE7OtoAehD3+WKeonTmTQ/erT8fkwrxZha00SGz+M7drkkIPr4P2kG05IiIXnxCA01o/FFFSi7na6/9Nxjp/d+n84FExpBnfRbhw+kcFszVr+11emG8U7K7N/hzI1LChM4yTlaDfQdNN0j4Mq4vAOy+WkXOuzUTt8fPa2f5t4yNSgLRnIIVljOLzLBxoWb/TWzyR7V9PSab5IX1ChLOMTKIOxXItpvDAhG+5BKYa9g+T4Zv5sgC+kRRmyPCVBdx9nqMX5ZukXSu9ripEufuSh/RhgHmNnunerHtk7E3HehUxfgVfwPZDf85QSMd0qpZVXOnhWW4cmiqcc8kQiNw6q5TshqJ05N7uTIXzg=;I3HJreXMUdmNnxVPigGg2Q=="
 ---
 

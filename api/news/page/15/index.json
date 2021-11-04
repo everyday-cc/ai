@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-10-21-ethics-by-design-steps-to-prepare-for-ai-rules-changes.md",
+      "title": "Ethics By Design: Steps To Prepare For AI Rules Changes",
+      "excerpt": "The EU’s AI Act promises to mitigate the harmful use of machine intelligence but will require deeper education and evangelization to ensure more transparent and ethical use of AI, notes Ursula Morgenstern,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/",
+      "originalUrl": "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/amp/",
+      "publishedDateTime": "2021-10-21T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience.md",
       "title": "How USAA is Utilizing Natural Language Processing to Improve the Member Experience",
       "excerpt": "USAA is using Natural Language Processing (NLP) to improve the member experience and facilitate faster decision-making. NLP is a subfield of Artificial Intelligence (AI) that uses computers to process and analyze large amounts of text and spoken words.",
@@ -1030,57 +1073,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power.md",
-      "title": "Deci snaps up $21M for tech to build better AI models based on available data and compute power",
-      "excerpt": "Building usable models to run AI algorithms requires not just adequate data to train systems, but also the right hardware subsequently to run them. But because the theoretical and practical are often not the same thing,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/",
-      "originalUrl": "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1088155680.jpeg?w=1024",
-          "width": 1024,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/amp/",
-      "publishedDateTime": "2021-10-20T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
