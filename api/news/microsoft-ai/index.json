@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-04-ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant.md",
+      "title": "CEO Mike Betzer’s Triple Play At Enterprise AI Firm Hypergiant",
+      "excerpt": "We think data scientists are the cool kids of the future, and we're going to enable them to do what they want to do best, which is to show value in this data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/",
+      "originalUrl": "https://www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617853a479865db4484813b2%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/amp/",
+      "publishedDateTime": "2021-11-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps.md",
+      "title": "At Ignite 2021, Microsoft showcases functionality for scalable AI apps",
+      "excerpt": "Microsoft showcased Azure's architecture for building scalable AI apps compatible in cloud and edge computing scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/",
+      "originalUrl": "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/gettyimages-1287251160-170667a.jpg?w=1200&strip=all",
+          "width": 512,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/",
+      "publishedDateTime": "2021-11-03T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.md",
       "title": "Oracle bolsters cloud infrastructure with suite of AI tools",
       "excerpt": "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ...",
@@ -56,6 +160,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-03-microsoft-editor-receives-new-context-iq-to-improve-your-workflow.md",
+      "title": "Microsoft Editor receives new Context IQ to improve your workflow",
+      "excerpt": "Microsoft has this week announced it has implemented Context IQ into the popular Microsoft Editor to help improve your workflow, whether",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/",
+      "originalUrl": "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/Microsoft-Editor-Context-IQ.jpg",
+          "width": 700,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-global-ai-powered-healthcare-solutions.md",
       "title": "Global AI-Powered Healthcare Solutions",
       "excerpt": "Babylon - Tech giant Microsoft has announced a new partnership with Babylon Cloud Services—a company specializing in digital self-care. Together the",
@@ -64,7 +211,7 @@
       "originalUrl": "https://www.trendhunter.com/trends/babylon",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -100,21 +247,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-02-new-azure-openai-service-combines-access-to-powerful-gpt-3-language-models-with-azures-enterprise-capabilities.md",
-      "title": "New Azure OpenAI Service combines access to powerful GPT-3 language models with Azure’s enterprise capabilities",
-      "excerpt": "The post New Azure OpenAI Service combines access to powerful GPT-3 language models with Azure’s enterprise capabilities appeared first on The AI Blog.\n",
+      "path": "_news/2021-11-02-microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers.md",
+      "title": "Microsoft’s new Azure OpenAI Service brings GPT-3 to (a few) more developers",
+      "excerpt": "Microsoft today announced the launch of the Azure OpenAI Service, which, as the name implies, makes OpenAI’s machine learning models available on the Azure platform. Specifically, that means GPT-3, OpenAI’s groundbreaking language model that can,",
       "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/new-azure-openai-service/",
-      "originalUrl": "https://blogs.microsoft.com/ai/new-azure-openai-service/",
+      "webUrl": "https://techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/",
+      "originalUrl": "https://techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 126,
       "tags": null,
       "images": [
         {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/11/OpenAI-Still-4-1200x630-1-1024x538.jpg",
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-932632280.jpg?w=1024",
           "width": 1024,
-          "height": 538,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -122,68 +269,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T08:00:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language.md",
-      "title": "New AI products from Microsoft include Context IQ and Azure Cognitive Services for Language",
-      "excerpt": "Microsoft detailed new AI innovations across its services at Ignite 2021, including Context IQ and Azure Cognitive Services for Language.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
-      "originalUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 276,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/",
+      "ampWebUrl": "https://techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/amp/",
       "publishedDateTime": "2021-11-02T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -200,8 +295,7 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
+        "AI"
       ]
     },
     {
@@ -265,7 +359,7 @@
       "originalUrl": "https://www.zdnet.com/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1343,101 +1437,6 @@
         "AI",
         "Microsoft AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams.md",
-      "title": "Infor Coleman AI Digital Assistant App Now Available for Microsoft Teams",
-      "excerpt": "Infor,the industry cloud company, today announced the general availability (GA) of its Infor Coleman AI Digital Assistant app for Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams-1030877970",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams-1030877970",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/526907/Infor_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-wejo-integrates-with-microsoft-mapping-services-to-provide-real-time-transportation-data.md",
-      "title": "Wejo Integrates With Microsoft Mapping Services to Provide Real-Time Transportation Data",
-      "excerpt": "Wejo, a global leader in connected vehicle data, today announced an expanded collaboration with Microsoft through which Wejo's real-time mapping and traffic data will be integrated with Microsoft mapping services to deliver enhanced accuracy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20053150.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20053150.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
       - url: "https://img.caixin.com/2021-11-04/163597482893236_560_373.jpg"
         width: 560
         height: 359
+        isCached: true
+  - title: "Update: Tencent Unveils Three Computer Chips of Its Own Design"
+    excerpt: "Tencent Holdings Ltd., China’s most valuable publicly traded software firm, touted its progress in getting into the hardware business on Wednesday when it announced it is making three computer chips of its own design."
+    publishedDateTime: 2021-11-04T12:46:00Z
+    webUrl: "https://www.caixinglobal.com/2021-11-04/update-tencent-unveils-three-computer-chips-of-its-own-design-101800674.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-11-04/163602786997083_560_373.jpg"
+        width: 560
+        height: 373
         isCached: true
 
 secured: "D1NbADHr0oXTGWnXD3uCyPnQbBF96R7qph+RV78kFQwb9VCY01pp3Mkz73gQlHATvky1BTs5jEStYO6ICE5/TNEHPSYyaEJz446m48IUfak/qq295gxkElJVq+EEHAm+LzghPljxky7XNre5FSJj+wtZzMghLxnBNWj3tL1kOKXKyONoxKHPt29yqqTzt2XJXTDpAuO1pftRUQf097KIx79BytpcDOL0GV6qlBfYTND2dgBg8C9ECZEvuAVZdz9kQ+hYFZptmHU5dtTXHJ+KaqCShagLM43CnDEKltEcSy6LB+zUGfCQQ3Ec/TfSST+5ncwD5urrK2o0TAFxTJPU0EZIBmNCfgV0bqXlZMoX7+u7yAIbPiealVRYeIaPHFD2WSvsuffIq6O9jZ3csH7sS6E8AUb1nwlsxq7HOO+PCcK51YVbXdna5IgAVs/Je2h/cZ+NAiObE8FFmcKwAhepi17j8fVLIixdZx9Gi5vc9XMeFAehWVYDLKbheoy2F1TAVjLsrjnQmwVd2MOHbcY28A==;BqDmkFqedVMiTcgEUjFq4g=="

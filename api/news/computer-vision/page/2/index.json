@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-19-ico-to-step-in-after-schools-use-facial-recognition-to-speed-up-lunch-queue.md",
+      "title": "ICO to step in after schools use facial recognition to speed up lunch queue",
+      "excerpt": "Privacy campaigners raise concerns after nine schools in North Ayrshire scan faces of pupils to take payments",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk?mid=1",
+      "originalUrl": "https://www.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk?mid=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/46caa3ba140a6006690e196fe6e8436e4e5e8887/0_157_3984_2390/master/3984.jpg?width=620&quality=85&auto=format&fit=max&s=be9514b193c893ee17c62911177176f1",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk",
+      "publishedDateTime": "2021-10-18T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-scottish-schools-serve-up-facial-recognition-for-school-dinners.md",
       "title": "Scottish schools serve up facial recognition for school dinners",
       "excerpt": "COVID, quicker payments and better security are all cited as reasons for ditching cards and fingerprints in favour of the new system",
@@ -1303,58 +1355,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-european-parliament-opposes-mass-surveillance-calls-for-a-ban-on-facial-recognition-tech-in-public.md",
-      "title": "European Parliament opposes 'mass surveillance,' calls for a ban on facial recognition tech in public",
-      "excerpt": "MEPs have officially called for a \"permanent ban\" on the use of automated facial recognition technologies in \"public spaces.\" European citizens, they say,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91618-european-parliament-opposes-mass-surveillance-calls-ban-facial.html",
-      "originalUrl": "https://www.techspot.com/news/91618-european-parliament-opposes-mass-surveillance-calls-ban-facial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-06-image-63.jpg",
-          "width": 2896,
-          "height": 1947,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91618-european-parliament-opposes-mass-surveillance-calls-ban-facial.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91618-european-parliament-opposes-mass-surveillance-calls-ban-facial.html",
-      "publishedDateTime": "2021-10-07T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

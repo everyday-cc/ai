@@ -2,6 +2,255 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-04-the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4.md",
+      "title": "The Huge Market Failure Of AI And The Sequence Of Events That Led Us To It (Part 4)",
+      "excerpt": "The real revolutionary potential in AI lies not in the specific capabilities of a single solution (however sophisticated) but rather in establishing an AI multiplier that will enable efficient and scalable deployment of dozens of AI solutions within each enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61095f169be9fec2c781acb3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/amp/",
+      "publishedDateTime": "2021-11-04T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant.md",
+      "title": "CEO Mike Betzer’s Triple Play At Enterprise AI Firm Hypergiant",
+      "excerpt": "We think data scientists are the cool kids of the future, and we're going to enable them to do what they want to do best, which is to show value in this data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/",
+      "originalUrl": "https://www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617853a479865db4484813b2%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/amp/",
+      "publishedDateTime": "2021-11-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-sama-taps-into-70m-to-build-first-end-to-end-ai-platform-for-training-data.md",
+      "title": "Sama taps into $70M to build ‘first end-to-end AI platform’ for training data",
+      "excerpt": "Enter Sama, a company providing high-quality training data that powers AI technology applications. CEO Wendy Gonzalez said the company is developing the first end-to-end AI tool for training data through machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/04/sama-taps-into-70m-to-build-first-end-to-end-ai-platform-for-training-data/",
+      "originalUrl": "https://techcrunch.com/2021/11/04/sama-taps-into-70m-to-build-first-end-to-end-ai-platform-for-training-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1301104653.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/04/sama-taps-into-70m-to-build-first-end-to-end-ai-platform-for-training-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/sama-taps-into-70m-to-build-first-end-to-end-ai-platform-for-training-data/amp/",
+      "publishedDateTime": "2021-11-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-three-reasons-facebookmeta-is-shutting-down-its-face-recognition-system.md",
+      "title": "Three reasons Facebook/Meta is shutting down its face recognition system",
+      "excerpt": "Given there are benefits that come from face recognition, why is Meta getting rid of the Facebook feature? We break it down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/mark-zuckerberg-addresses-f8-facebook-developer-conference-2.jpg",
+          "width": 2000,
+          "height": 1369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/?amp",
+      "publishedDateTime": "2021-11-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-artificial-intelligence-may-aid-in-colorectal-cancer-detection.md",
+      "title": "Artificial Intelligence May Aid in Colorectal Cancer Detection",
+      "excerpt": "Using artificial intelligence (AI) to identify cancer is an emerging technology. Many research studies have leveraged the power of AI to detect cancer and have demonstrated how the integration of AI technology in cancer care could improve the accuracy and speed of diagnosis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/news/artificial-intelligence-may-aid-in-colorectal-cancer-detection/",
+      "originalUrl": "https://www.genengnews.com/news/artificial-intelligence-may-aid-in-colorectal-cancer-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.genengnews.com/wp-content/uploads/2021/06/Getty_1265279955_ColorectalCancer.jpg",
+          "width": 1400,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-deep-learning-ai-explained-neural-networks.md",
       "title": "Deep Learning AI Explained: Neural Networks",
       "excerpt": "Ballyhooed artificial-intelligence technique known as “deep learning” revives 70-year-old idea. In the past 10 years, the best-performing artificial-intelligence systems — such as the speech recognize",
@@ -10,7 +259,7 @@
       "originalUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -42,7 +291,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Natural Language Processing"
       ]
     },
     {
@@ -54,7 +304,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-04/warburg-backed-ai-drug-firm-is-said-to-have-filed-for-u-s-ipo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -201,6 +451,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-04-tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy.md",
+      "title": "TuSimple aims to test self-driving trucks on public roads without human safety operator by EOY",
+      "excerpt": "Self-driving trucks startup TuSimple signaled it is close to testing its system without a human safety operator on public roads before the end of the year. During the startup’s third-quarter earnings call on Wednesday,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/03/tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy/",
+      "originalUrl": "https://techcrunch.com/2021/11/03/tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/03/tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy/amp/",
+      "publishedDateTime": "2021-11-03T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-how-adobe-uses-deep-learning-to-improve-its-products.md",
       "title": "How Adobe uses deep learning to improve its products",
       "excerpt": "Adobe is leveraging deep learning to improve its apps and solidify its position in the video and image editing market.",
@@ -305,58 +607,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-04-privacy-commission-demands-clearview-ai-delete-all-facial-recognition-data-collected-in-australia.md",
-      "title": "Privacy commission demands Clearview AI delete all facial recognition data collected in Australia",
-      "excerpt": "Australian regulators have demanded that facial-recognition firm Clearview AI cease scraping the biometric data of Australian citizens and destroy all information and images previously gathered on",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "originalUrl": "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/03/2021-03-23-ts3_thumbs-2c5.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "publishedDateTime": "2021-11-03T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-11-04-tencent-pushes-beyond-online-content-unveils-first-ai-chips.md",
       "title": "Tencent pushes beyond online content, unveils first AI chips",
       "excerpt": "Tencent has unveiled its first chips, showcasing a yearlong foray into silicon design as the Chinese tech giant seeks to grow beyond digital entertainment.",
@@ -365,7 +615,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -408,7 +658,7 @@
       "originalUrl": "https://www.cnn.com/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -555,6 +805,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-03-at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps.md",
+      "title": "At Ignite 2021, Microsoft showcases functionality for scalable AI apps",
+      "excerpt": "Microsoft showcased Azure's architecture for building scalable AI apps compatible in cloud and edge computing scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/",
+      "originalUrl": "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/gettyimages-1287251160-170667a.jpg?w=1200&strip=all",
+          "width": 512,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/",
+      "publishedDateTime": "2021-11-03T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-notable-aims-to-improve-ai-in-health-care-with-new-100m.md",
       "title": "Notable aims to improve AI in health care with new $100M",
       "excerpt": "Demand for AI continues to increase as patients expect a digital-first experience due to the COVID-19 pandemic.",
@@ -668,7 +970,7 @@
       "originalUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -763,7 +1065,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -932,300 +1234,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-3-ways-robots-won-in-2021.md",
-      "title": "3 ways robots won in 2021",
-      "excerpt": "For all its ups and downs, 2021 has been a phenomenally important year for automation. Robots had a big year. Amid uncertainties related to the pandemic, chronic labor shortages, supply chain catastrophes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
-      "originalUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7e09bb766f67616acc2732d695a17f0ff180c967/2021/11/01/65cc6183-2683-4c96-b7d9-dda44927a628/ubtech-walker.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 923,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
-      "publishedDateTime": "2021-11-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-enterprise-ai-progressing-toward-the-future-of-work.md",
-      "title": "Enterprise AI: Progressing Toward The Future Of Work",
-      "excerpt": "The question is, what are the chances of an enterprise leading its industry in the future? The AI revolution has given rise to exciting development potentials and could be a real game-changer for the way we live.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61814ed70e1ae168d212c0bd%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/amp/",
-      "publishedDateTime": "2021-11-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-even-as-china-cracks-down-on-tech-ai-companies-plan-ipos.md",
-      "title": "Even as China Cracks Down on Tech, AI Companies Plan IPOs",
-      "excerpt": "SenseTime and Megvii both include facial recognition technology among their offerings and do a lot of business with government agencies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/",
-      "originalUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6181a0f2ee0e567bfb9b47b3/master/pass/Business-Chinese-AI-Firms-Avoid-Crackdown-455720268.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/amp",
-      "publishedDateTime": "2021-11-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-alibabas-joe-tsai-says-data-artificial-intelligence-key-skills-for-fintech-firms-other-companies.md",
-      "title": "Alibaba’s Joe Tsai says data, artificial intelligence key skills for fintech firms, other companies",
-      "excerpt": "Artificial intelligence is helping fintech companies better understand their risks, according to Alibaba executive vice-chairman Joseph Tsai.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms",
-      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/03/da0ca59e-3c78-11ec-a1b3-e785d5c8830c_image_hires_185301.jpg?itok=i7DFJPUh&v=1635936790",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms",
-      "publishedDateTime": "2021-11-03T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-uga-expert-discusses-robots-ai.md",
-      "title": "UGA expert discusses robots, AI",
-      "excerpt": "While AI in the home can help order groceries, AI on the battlefield offers a much riskier set of circumstances — team cohesion and trust can be a matter of life and death. “In the field for the Army,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wgauradio.com/news/local/uga-expert-discusses-robots-ai/MU6X6ZXVKNHXHOKLEFBVJEJLPA/",
-      "originalUrl": "https://www.wgauradio.com/news/local/uga-expert-discusses-robots-ai/MU6X6ZXVKNHXHOKLEFBVJEJLPA/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wgauradio.com/resizer/2V_kfnDTBWBflnPSaPnLY2fMFvE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7B7D27DCHRFI5AQKRLMPPSBUTM.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wgauradio.com/news/local/uga-expert-discusses-robots-ai/MU6X6ZXVKNHXHOKLEFBVJEJLPA/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wgauradio-com.cdn.ampproject.org/c/s/www.wgauradio.com/news/local/uga-expert-discusses-robots-ai/MU6X6ZXVKNHXHOKLEFBVJEJLPA/?outputType=amp",
-      "publishedDateTime": "2021-11-03T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGAU",
-        "domain": "wgauradio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-north-korea-seeks-to-boost-education-with-toy-like-robots.md",
-      "title": "North Korea seeks to boost education with toy-like robots",
-      "excerpt": "North Korean leader Kim Jong Un has been pushing for education reform in recent years by spurring technological and scientific innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888",
-      "originalUrl": "https://www.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/477601",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888/amp",
-      "publishedDateTime": "2021-11-03T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

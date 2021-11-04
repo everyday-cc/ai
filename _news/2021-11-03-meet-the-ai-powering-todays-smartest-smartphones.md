@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-sm
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

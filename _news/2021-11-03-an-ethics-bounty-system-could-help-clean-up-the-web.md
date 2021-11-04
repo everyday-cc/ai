@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/big-tech-ethics-bug-bounty/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/big-tech-ethics-bug-bounty/amp"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

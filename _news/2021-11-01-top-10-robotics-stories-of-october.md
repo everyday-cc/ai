@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/top-10-robotics-stories-of-october-
 webUrl: "https://www.therobotreport.com/top-10-robotics-stories-of-october-2021/"
 type: article
 quality: 86
-heat: 98
+heat: 96
 published: true
 
 provider:

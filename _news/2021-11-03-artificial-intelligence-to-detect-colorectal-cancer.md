@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/11/211102180535.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/11/211102180535.htm"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence May Aid in Colorectal Cancer Detection"
+    excerpt: "Using artificial intelligence (AI) to identify cancer is an emerging technology. Many research studies have leveraged the power of AI to detect cancer and have demonstrated how the integration of AI technology in cancer care could improve the accuracy and speed of diagnosis,"
+    publishedDateTime: 2021-11-04T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/artificial-intelligence-may-aid-in-colorectal-cancer-detection/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 52
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/06/Getty_1265279955_ColorectalCancer.jpg"
+        width: 1400
+        height: 775
+        isCached: true
   - title: "Tulane University study uses artificial intelligence to detect colorectal cancer"
     excerpt: "A Tulane University researcher found that artificial intelligence can accurately detect and diagnose colorectal cancer from tissue scans as well or better than pathologists, according to a new study in the journal Nature Communications."
     publishedDateTime: 2021-11-02T19:17:00Z

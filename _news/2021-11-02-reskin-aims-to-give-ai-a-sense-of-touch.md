@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/reskin-aims-to-give-ai-a-sense-of-touch-02
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/reskin-aims-to-give-ai-a-sense-of-touch-02697870/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "The programme that can give AI a sense of ethics"
+    excerpt: "Researchers trained an algorithm to answer questions about human values but Professor Micro Musolesi (UCL Computer Science) says it merely describes the views of a group of people and reflects those people’s cultural biases rather than offering a view on what’s right or wrong."
+    publishedDateTime: 2021-11-04T11:15:00Z
+    webUrl: "https://www.ucl.ac.uk/news/headlines/2021/nov/programme-can-give-ai-sense-ethics"
+    type: article
+    provider:
+      name: UCL
+      domain: ucl.ac.uk
+    quality: 34
 
 secured: "OPjGm+MoGG61W3S4ldnk301E0cqmXGijA/sPDDz+qZP+XfPObAoZxyRS14zxfC8f7CZlkQ4CQ91JqYTYmpFhPL4K7GuByfl1CVwtxVL//Z/Tp19nOQDcO3Lx1HGPE7ss8tuYk27CKfJTAEJHSqJUJWYSTdzP+3HdwvSRbOU3t3rcdrciWz6cAbDMNjyoa+bMEF1Y3tnIj8qzVjLJ1YOHdy2EQ6Nyd2zwNG4g7JTiVPSuLYSfCNyqu4EHF0v9o7NWB461jUo8755RvXOk+1px3nwHvZQn5ovZz88FlNAXob/Cu107L3ZiKJ5fTjrlJGm86BcoJ8uojvRlEoi2Qj9QthXq55N76tEosxjlDX4MX5T0L7NsasjFSZIx8xOjwPOLDyqo6as/ZRRNmzO+7x1ETwIuR2H2J51gXrDcfXfNgI5vqa9Tdo8JoUF0IIInQId0zHahtzAbhYSN18LPmEyFk+91cjCSVQ8pqa45oMvRjOeK5PfqC2A+56lvxf60ESGoH+c8VnYnJHsZryERgSmH0w==;3aN6BlJwOUStTDTQTzt3yg=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://blogs.microsoft.com/ai/new-azure-openai-service/"
 webUrl: "https://blogs.microsoft.com/ai/new-azure-openai-service/"
 type: article
 quality: 84
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -27,6 +27,24 @@ images:
     width: 1024
     height: 538
     isCached: true
+
+related:
+  - title: "Microsoft’s new Azure OpenAI Service brings GPT-3 to (a few) more developers"
+    excerpt: "Microsoft today announced the launch of the Azure OpenAI Service, which, as the name implies, makes OpenAI’s machine learning models available on the Azure platform. Specifically, that means GPT-3, OpenAI’s groundbreaking language model that can,"
+    publishedDateTime: 2021-11-02T15:00:00Z
+    webUrl: "https://techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/"
+    ampWebUrl: "https://techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 116
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-932632280.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "DB/Njqg51hqlvA+0BlmAQzhgGtZpOEbx7JzbECSEosAv4VD8X3Zp91d8zfKbWb4T8y8ifGuSHHQBTCqBuIE3Oe3TpIgW0RlrRlgmqL7hYlhjUhD9IS9AtXwJlxr+1+zDwWVXTur1B04L57D0bA/ETvZZNgnCp6oEfLwLj14eJCpTrU36Lw8aYZtGEuEICDn3pBjd7uNSTZmqf8P4YQ6s6BR5xTaXdpT7aZoX3xbWBhBOpUO5ClwMnecVDSAIVyIRbps0mGJWi/QD3rvykhd4f00KKEStguZSgz0xu1knbrxzGI6exHsqOn4bvRkVYEx0vZ3zZ2FkSPoWIHlr3FAMph2cSEeYwh9tQAkne9E1k7M=;EsZoGcX2KKtX3zSsdwrKbg=="
 ---

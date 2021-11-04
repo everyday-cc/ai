@@ -341,6 +341,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-02-a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse.md",
+      "title": "A New Skin That Helps Robots Feel Could Be Used to Build the Metaverse",
+      "excerpt": "When the new skin touches something, its plastic part changes the magnetic field created by the embedded particles, and it could help shape the Metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse",
+      "originalUrl": "https://interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/o2Gzy4D4Op/sizes/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse",
+      "publishedDateTime": "2021-11-02T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-why-you-should-make-artificial-intelligence-part-of-your-digital-strategy.md",
       "title": "Why You Should Make Artificial Intelligence Part Of Your Digital Strategy",
       "excerpt": "AI is being used in many ways today to make our lives better. It's assisting us with complex tasks that we can't do by ourselves, creating a symbiosis between humans and machines that allows both to achieve more than they can alone.",
@@ -444,7 +487,7 @@
       "originalUrl": "https://www.therobotreport.com/top-10-robotics-stories-of-october-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1344,49 +1387,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-teaching-robots-to-think-like-us-brain-cells-electrical-impulses-steer-robot-though-maze.md",
-      "title": "Teaching robots to think like us: Brain cells, electrical impulses steer robot though maze",
-      "excerpt": "Can intelligence be taught to robots? Advances in physical reservoir computing, a technology that makes sense of brain signals, could contribute to creating artificial intelligence machines that think like us.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.html",
-      "originalUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/teaching-robots-to-thi.jpg",
-          "width": 854,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.amp",
-      "publishedDateTime": "2021-10-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

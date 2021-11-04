@@ -2,26 +2,26 @@
 category: news
 title: "Tesla’s ‘full self-driving’ delights and annoys with Jekyll-and-Hyde personality, drivers say"
 excerpt: "By Matt McFarland, CNN Business Drivers with Tesla’s “full self-driving” software often don’t know what their cars will do next. Tesla owners have been wowed by their cars’ new abilities, but some say they have also been alarmed and frustrated by the accompanying flaws."
-publishedDateTime: 2021-11-03T18:57:00Z
-originalUrl: "https://ktvz.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
-webUrl: "https://ktvz.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
+publishedDateTime: 2021-11-03T19:09:00Z
+originalUrl: "https://kesq.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
+webUrl: "https://kesq.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
-    width: 1280
-    height: 720
+  - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -202,6 +202,6 @@ related:
         height: 449
         isCached: true
 
-secured: "iP1Tgj6n3djjZ8v6yLZ5aWjKkz4d5hF4N07ssBy9qepxDjUIZOJuabc89ue375DG4tSgIyDzPw9K8S5v4zswZRftAg6Qp3RCbUUd/QPgfV3X1OU6qqk7dZxpObWJqSt1CWTI/FpupSXT1mlZzdtCMTh6dJZteWh6mw0jq/PYBzimdittquH407Fo3w3Y+S4z53Jc7ak0ngVItW4udSx5HCR7egZE53/YHrMKP1nXDt9CFb7PdqMserdCya1ZW+dNndOMIipe49gfXXG35jhgdcNaEZI46S9F2AXI9+qZUFoq4kHYYGRQ50wEYUinp/Lb+gXbp7l+8L3H0COAc3jJIPI1e6jPjGWLs1ZHmF7ykww=;IZKALsw4Lu86TBNwTuL7Kw=="
+secured: "VNu6g42T4Y+PfiUHtFjXWc1VTvtrw98vNDSL+JxtE8A3Vf5yQGpH+mTibfAKCTByEelnd4FkVrf6c4+fB3dmOYoWPfsAdGR31uy/tjR0hV+ZsMj7nnFF1mFz2NuRQJhckxY5FxJYd0xj9hzfP7Bnwmg6SpZ0vEC8UcK45aGnivPsuIJqKoljWzGGtNaJe31jsEfMM3thMqWlTqXK/oeBdjP/Gs4TA12BIH/mX2fOt1d3SpybxC13/EaX5UcVC9RVQHKxfhx0Wyy4YuTMeFBAqW+RxSsvZ7r+JDvuiK2nN8OXC/1HXtQWU3nN32q8b63amS2ugwygSxNpxaXmrKdW/OSq7C02aWoJUgYMZWPX1u8=;H5Vg5oA16eT+zR10YxNX2A=="
 ---
 

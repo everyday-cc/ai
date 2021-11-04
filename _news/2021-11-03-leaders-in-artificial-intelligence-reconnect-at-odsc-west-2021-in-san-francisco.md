@@ -23,6 +23,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "San Francisco AI startup Sama eyes Montréal R&D expansion with $70 million Series B round"
+    excerpt: "Sama, a San Francisco-based AI training data firm, plans to grow its headcount in Montréal to 300 employees by 2023 to support its platform development goals."
+    publishedDateTime: 2021-11-04T13:00:00Z
+    webUrl: "https://betakit.com/san-francisco-ai-startup-sama-eyes-montreal-rd-expansion-with-70-million-series-b-round/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 28
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/11/Wendy-Gonzalez.jpg"
+        width: 1050
+        height: 700
+        isCached: true
+
 secured: "oALBfbt6sYM/wx0Xcxh+7ZhH+LnuJC2/5neAEvS8qTc0TlLyoRGD/b5CNyV9WR9v+XB49wQOp+b/2BPAQ5CiZSpNt5SF3mHrfweVo1ooEkcFNFIxi67tagqyJ8H+ehKTcA1+eBjdipvIzmCMxgTfLeiavWtx1I2dj4x7+TfhFC8EL1lusvq1CFwV9DV68/1u1lmi2fHnyZV+T9BWS80RHtQwJNMXAObcB/b8auoJdI8o5JxRe+1p2sAuiyLARuwgyHaBGSxPPiCloJyBjo3SEiaQ1K4Ute5VOW1PnBc5jLOAOclQ+TQfZQlFKNjJwfQE4oAxOqjgw4efbVhLC0rWPn/iTy1xFluKeTtLApDyspk=;3rfbyZMSSN8/fT/0pVEuJQ=="
 ---
 

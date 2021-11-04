@@ -8,8 +8,8 @@ webUrl: "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/"
 ampWebUrl: "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-ai-explained-neural-networks/amp/"
 type: article
-quality: 91
-heat: 91
+quality: 93
+heat: 95
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - AI Hardware
+  - Natural Language Processing
 
 images:
   - url: "https://scitechdaily.com/images/Artificial-Intelligence-Neural-Network-Concept-777x583.jpg"

@@ -25,22 +25,6 @@ images:
     height: 413
     isCached: true
 
-related:
-  - title: "what company has elon musk and jeff bezos invested in?"
-    excerpt: "Related Questions 2 billion dollars in? Pilot, a Silicon Valley accounting start-up, raised money from Jeff Bezos and other"
-    publishedDateTime: 2021-10-30T20:09:00Z
-    webUrl: "https://www.ictsd.org/business/jeff-bezos/what-company-has-elon-musk-and-jeff-bezos-invested-in/"
-    type: article
-    provider:
-      name: ICTSD
-      domain: ictsd.org
-    quality: 24
-    images:
-      - url: "https://www.ictsd.org/wp-content/uploads/2021/10/how-much-land-did-jeff-bezos-purchase-in-california.jpg"
-        width: 550
-        height: 366
-        isCached: true
-
 secured: "arH73YcjnXLhSoVSykA8pVNmTk7kmFcxosN98XWd7GWghSSyeXEcubckQcgXEcQOXsavb63TW7hrM8Q9tY51DgMcBhlcnSvX20/0xrbYpONboHEsrCJpOG6ARoQeUrLq1yAN8mcbOUUVGxRbMrcZ/PQ039e8fIu+wJxioco780bEDKL/jUCA41cIf7pUkJXtSeymgNO+p9RM2M6tLIoIVFW2WT4lv7l2NK89O5px30pEKn+XyU2a35kC/wwoF13aSsgvVuHqyndq0FwHVWRc5e+vxpE7aZpNfmodNp/T0dMXuXtu6ZxJtPS4UBh8UWY5Je7nvTTONoq7U45REVKUVUWy9w6ZjmUz5xHZ2tz/qw0fsfF4PWOU8FF+87ad7nwLwiuJjCewd/2kXFRGoGjFvjiKy7ZFpNjS5u1GYYWQ1I7oqdmbVT8UW9ybs8T9KkXCiAJjT98qBjQR+AmK9JfCTJmVhU44mOYghNaTnHPwTAjxoV0DaW4SXx7z8L6LtwF6Y4wQCgVeCjXtuwGfJFkDTw==;/bemMscsxoZRLotIZSLQmA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/11/03/eric-schmidt-arti
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

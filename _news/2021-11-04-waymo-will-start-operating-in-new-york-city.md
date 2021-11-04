@@ -114,6 +114,20 @@ related:
         width: 1170
         height: 724
         isCached: true
+  - title: "Waymo’s self-driving fleet is coming to New York City streets"
+    excerpt: "The Google sibling company has brought a fleet of its autonomous Chrysler Pacifica vans to New York City in an effort to map the city and test its fleet in harsh weather conditions. According to a new report from Engadget,"
+    publishedDateTime: 2021-11-04T13:23:00Z
+    webUrl: "https://knowtechie.com/waymos-self-driving-fleet-is-coming-to-new-york-city-streets/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2021/11/waymo-self-driving-car-nyc-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Self-driving tech descends on NYC"
     excerpt: "Waymo is collecting data on the New York's chaotic streets and varying weather conditions to better inform its technology."
     publishedDateTime: 2021-11-03T21:10:00Z

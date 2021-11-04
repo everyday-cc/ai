@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/why-ai-still-needs-humans-i
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in the Vineyard"
+    excerpt: "Adopting this new vineyard technology is critical to the California grape industry. —Tom Shapland, PhD, CEO and cofounder of Tule Technologies Anything humans can observe with their eyes a computer can be taught to see as well."
+    publishedDateTime: 2021-11-03T13:00:00Z
+    webUrl: "https://wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard"
+    ampWebUrl: "https://wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard/amp"
+    cdnAmpWebUrl: "https://wineindustryadvisor-com.cdn.ampproject.org/c/s/wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard/amp"
+    type: article
+    provider:
+      name: Wine Industry Advisor
+      domain: wineindustryadvisor.com
+    quality: 57
+    images:
+      - url: "https://wineindustryadvisor.com/wp-content/uploads/2021/10/Tule-Vision-in-Use-640x427.png"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "v4V18UA4NLrrClxAtar3b+Hyz5EirmId4QsoVQPrFGyaE4fwhPdw7mBf7M1qmmsmE0+9KiCT18xgnhWYnaWWEwBJF+115vfakkzUEQEFs10CbSftJ2xnDonTPVAsCn8TztcLWSUSdjsyj4Lc6Z1YwoHK0NeZngld3hXlpezSE8eDQMvJIoINJmejGsN129IBmf8jPtmFuAoIw1wjXdRDUKj9E7OfCmeS8qhjR/OOuBTgBtYYxC0C7aSxeA1IGPf0f8FRHTj9TF23+J4rCWBE2r+C8pGkEl9BwH+YdC24eFpNVXPCghv7hD5dVLgk3rHy2gtOadGzi3L5fkuiIjE9Prhv6NNmxWPvcbYNgsn0p61vuHZ6P+nrQZOYb9YWrRCLsL7j6h1nhk6DVwviRrAK0K6QmJ968P08WfVTLk18OYcl5QsEVa09duKmxGAFxSAo9l7JEkeVB0gKRSCgwF67eDmWrUgsEUbj4aq22aoJzZ1nj96wj29mrZ5dywmDXajaahewB0VNuWhMs7qFzKslQA==;+KIYyPcniwWpJS1Q7q6kHg=="
 ---

@@ -2,6 +2,386 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-03-3-ways-robots-won-in-2021.md",
+      "title": "3 ways robots won in 2021",
+      "excerpt": "For all its ups and downs, 2021 has been a phenomenally important year for automation. Robots had a big year. Amid uncertainties related to the pandemic, chronic labor shortages, supply chain catastrophes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
+      "originalUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7e09bb766f67616acc2732d695a17f0ff180c967/2021/11/01/65cc6183-2683-4c96-b7d9-dda44927a628/ubtech-walker.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 923,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
+      "publishedDateTime": "2021-11-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-enterprise-ai-progressing-toward-the-future-of-work.md",
+      "title": "Enterprise AI: Progressing Toward The Future Of Work",
+      "excerpt": "The question is, what are the chances of an enterprise leading its industry in the future? The AI revolution has given rise to exciting development potentials and could be a real game-changer for the way we live.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61814ed70e1ae168d212c0bd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/amp/",
+      "publishedDateTime": "2021-11-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-even-as-china-cracks-down-on-tech-ai-companies-plan-ipos.md",
+      "title": "Even as China Cracks Down on Tech, AI Companies Plan IPOs",
+      "excerpt": "SenseTime and Megvii both include facial recognition technology among their offerings and do a lot of business with government agencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/",
+      "originalUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6181a0f2ee0e567bfb9b47b3/master/pass/Business-Chinese-AI-Firms-Avoid-Crackdown-455720268.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/amp",
+      "publishedDateTime": "2021-11-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-alibabas-joe-tsai-says-data-artificial-intelligence-key-skills-for-fintech-firms-other-companies.md",
+      "title": "Alibaba’s Joe Tsai says data, artificial intelligence key skills for fintech firms, other companies",
+      "excerpt": "Artificial intelligence is helping fintech companies better understand their risks, according to Alibaba executive vice-chairman Joseph Tsai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/03/da0ca59e-3c78-11ec-a1b3-e785d5c8830c_image_hires_185301.jpg?itok=i7DFJPUh&v=1635936790",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms",
+      "publishedDateTime": "2021-11-03T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-microsoft-editor-receives-new-context-iq-to-improve-your-workflow.md",
+      "title": "Microsoft Editor receives new Context IQ to improve your workflow",
+      "excerpt": "Microsoft has this week announced it has implemented Context IQ into the popular Microsoft Editor to help improve your workflow, whether",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/",
+      "originalUrl": "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/Microsoft-Editor-Context-IQ.jpg",
+          "width": 700,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-clearview-ai-ordered-to-delete-all-facial-recognition-data-belonging-to-australians.md",
+      "title": "Clearview AI ordered to delete all facial recognition data belonging to Australians",
+      "excerpt": "Controversial facial recognition firm Clearview AI has been ordered to destroy all images and facial templates belonging to individuals living in Australia by the country’s national privacy regulator.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/clearview-ai-ordered-to-delete-all-facial-recognition-data-belonging-to-australians/ar-AAQgvBF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/V64KlxL3sl2QUEhad6p9_uxTP_c=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70084721/acastro_210512_1777_deepfake_0002.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete",
+      "publishedDateTime": "2021-11-03T02:59:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete",
+        "domain": "theverge.com/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-uga-expert-discusses-robots-ai.md",
+      "title": "UGA expert discusses robots, AI",
+      "excerpt": "While AI in the home can help order groceries, AI on the battlefield offers a much riskier set of circumstances — team cohesion and trust can be a matter of life and death. “In the field for the Army,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgauradio.com/news/local/uga-expert-discusses-robots-ai/MU6X6ZXVKNHXHOKLEFBVJEJLPA/",
+      "originalUrl": "https://www.wgauradio.com/news/local/uga-expert-discusses-robots-ai/MU6X6ZXVKNHXHOKLEFBVJEJLPA/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wgauradio.com/resizer/2V_kfnDTBWBflnPSaPnLY2fMFvE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7B7D27DCHRFI5AQKRLMPPSBUTM.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wgauradio.com/news/local/uga-expert-discusses-robots-ai/MU6X6ZXVKNHXHOKLEFBVJEJLPA/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wgauradio-com.cdn.ampproject.org/c/s/www.wgauradio.com/news/local/uga-expert-discusses-robots-ai/MU6X6ZXVKNHXHOKLEFBVJEJLPA/?outputType=amp",
+      "publishedDateTime": "2021-11-03T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGAU",
+        "domain": "wgauradio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-north-korea-seeks-to-boost-education-with-toy-like-robots.md",
+      "title": "North Korea seeks to boost education with toy-like robots",
+      "excerpt": "North Korean leader Kim Jong Un has been pushing for education reform in recent years by spurring technological and scientific innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888",
+      "originalUrl": "https://www.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/477601",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888/amp",
+      "publishedDateTime": "2021-11-03T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-the-future-role-of-ai-and-the-uk-national-ai-strategy-insights-from-professor-mark-girolami.md",
       "title": "The Future Role Of AI And The UK National AI Strategy – Insights From Professor Mark Girolami",
       "excerpt": "This article captures the key insights from an interview with Professor Mark Girolami, the first chief scientist of the Alan Turing Institute, the UK’s national institute for data science and artificial intelligence.",
@@ -261,7 +641,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -292,6 +672,48 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-zillow-says-its-closing-homebuying-business-cutting-25-of-workforce-earnings-miss-estimates.md",
+      "title": "Zillow says it's closing homebuying business, cutting 25% of workforce; earnings miss estimates",
+      "excerpt": "Zillow, the digital real estate company, said on Tuesday that it’s exiting Offers, its business that buys and flips homes, and eliminating 25% of its workforce. The announcement was attached to Zillow’s third-quarter earnings report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/zillow-says-its-closing-homebuying-business-cutting-25-25-of-workforce-earnings-miss-estimates/ar-AAQf3Lv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105753836-1550783800780barton.jpg?v=1596836143",
+          "width": 2762,
+          "height": 1841,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
+      "publishedDateTime": "2021-11-02T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
+        "domain": "com/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -451,7 +873,7 @@
       "originalUrl": "https://www.trendhunter.com/trends/babylon",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -547,7 +969,7 @@
       "originalUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -641,6 +1063,48 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-pasadena-company-introduces-2nd-generation-robotic-kitchen-assistant.md",
+      "title": "Pasadena Company Introduces 2nd Generation Robotic Kitchen Assistant",
+      "excerpt": "Miso Robotics in Pasadena on Tuesday unveiled Flippy 2, a new and improved version of its automated kitchen assistant. The “faster and more customizable” version of the original Flippy device was designed with input from a pilot program in partnership with the White Castle hamburger chain,",
+      "sourceUrl": null,
+      "webUrl": "https://thespoon.tech/miso-introduces-second-generation-restaurant-kitchen-robot-the-flippy-2/",
+      "originalUrl": "https://www.pasadenanow.com/main/pasadena-company-introduces-2nd-generation-robotic-kitchen-assistant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/thespoon.tech/wp-content/uploads/2021/11/Flippy-2-Complete-System-scaled.jpg?fit=1200%2C797&#038;ssl=1",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pasadena Now",
+        "domain": "pasadenanow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -745,507 +1209,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-west-lafayette-facial-recognition-ban-remains-in-ordinance.md",
-      "title": "West Lafayette facial recognition ban remains in ordinance",
-      "excerpt": "A civil and constructive debate over West Lafayette's ban on facial recognition software occurred Monday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
-      "originalUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.field59.com/WLFI/825fb5f80dfde4cbffab5cb33e3ee0564f984088.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.wlfi.com/templates/AMP?contentID=575660031",
-      "cdnAmpWebUrl": "https://www-wlfi-com.cdn.ampproject.org/c/www.wlfi.com/templates/AMP?contentID=575660031",
-      "publishedDateTime": "2021-11-02T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLFI",
-        "domain": "wlfi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-new-azure-openai-service-combines-access-to-powerful-gpt-3-language-models-with-azures-enterprise-capabilities.md",
-      "title": "New Azure OpenAI Service combines access to powerful GPT-3 language models with Azure’s enterprise capabilities",
-      "excerpt": "The post New Azure OpenAI Service combines access to powerful GPT-3 language models with Azure’s enterprise capabilities appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/new-azure-openai-service/",
-      "originalUrl": "https://blogs.microsoft.com/ai/new-azure-openai-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/11/OpenAI-Still-4-1200x630-1-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T08:00:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language.md",
-      "title": "New AI products from Microsoft include Context IQ and Azure Cognitive Services for Language",
-      "excerpt": "Microsoft detailed new AI innovations across its services at Ignite 2021, including Context IQ and Azure Cognitive Services for Language.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
-      "originalUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 276,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/",
-      "publishedDateTime": "2021-11-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview.md",
-      "title": "SQL Server 2022 is the \"most cloud-connected\" release yet, now in preview",
-      "excerpt": "Microsoft has released a preview for SQL Server 2022, calling it its \"most cloud-connected\" release yet. Improvements on Azure include the introduction of Chaos Studio and OpenAI Service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/",
-      "originalUrl": "https://www.neowin.net/news/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2016/05/sql-server_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview/",
-      "publishedDateTime": "2021-11-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-why-you-should-make-artificial-intelligence-part-of-your-digital-strategy.md",
-      "title": "Why You Should Make Artificial Intelligence Part Of Your Digital Strategy",
-      "excerpt": "AI is being used in many ways today to make our lives better. It's assisting us with complex tasks that we can't do by ourselves, creating a symbiosis between humans and machines that allows both to achieve more than they can alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-should-make-artificial-intelligence-part-of-your-digital-strategy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-should-make-artificial-intelligence-part-of-your-digital-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b34bfb6bd8aa1effe59ed%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-should-make-artificial-intelligence-part-of-your-digital-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-should-make-artificial-intelligence-part-of-your-digital-strategy/amp/",
-      "publishedDateTime": "2021-11-02T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-ai-helps-auto-insurers-cost-out-collisions-in-seconds.md",
-      "title": "AI Helps Auto Insurers Cost Out Collisions in Seconds",
-      "excerpt": "Auto insurer USAA is among four national carriers that have started using a cloud-based artificial-intelligence platform designed to tally the cost of fender benders and other collisions within seconds,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-helps-auto-insurers-cost-out-collisions-in-seconds-11635866345",
-      "originalUrl": "https://www.wsj.com/articles/ai-helps-auto-insurers-cost-out-collisions-in-seconds-11635866345",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-427549/social",
-          "width": 1280,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-helps-auto-insurers-cost-out-collisions-in-seconds-11635866345",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-helps-auto-insurers-cost-out-collisions-in-seconds-11635866345",
-      "publishedDateTime": "2021-11-02T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-activeloop-snags-5m-seed-to-build-streaming-database-for-ai-applications.md",
-      "title": "Activeloop snags $5M seed to build streaming database for AI applications",
-      "excerpt": "Activeloop, a member of the Y Combinator summer 2018 cohort, is building a database specifically designed for media-focused  artificial intelligence applications. Today the company announced a $5 million seed investment led by 468 Capital and CM Ventures with participation from Tribe Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/02/activeloop-snags-5m-seed-to-build-database-for-ai-applications/",
-      "originalUrl": "https://techcrunch.com/2021/11/02/activeloop-snags-5m-seed-to-build-database-for-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/visualization-activeloop-gif.gif?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/02/activeloop-snags-5m-seed-to-build-database-for-ai-applications/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/activeloop-snags-5m-seed-to-build-database-for-ai-applications/amp/",
-      "publishedDateTime": "2021-11-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-reducing-city-transport-emissions-with-maps-and-ai.md",
-      "title": "Reducing city transport emissions with Maps and AI",
-      "excerpt": "City transportation is crucial to connecting residents to education, employment and essential services. At the same time, the transportation sector is where global greenhouse gas (GHG) emissions are rising the quickest.In 2018, we launched the Environmental Insights Explorer (EIE) in collaboration with",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
-      "originalUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transportation_Blog.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 975,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
-      "publishedDateTime": "2021-11-02T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-israeli-ai-mobility-company-autobrains-raises-101m-in-series-c-funding.md",
-      "title": "Israeli AI Mobility Company Autobrains Raises $101M In Series C Funding",
-      "excerpt": "Autobrains is disrupting advanced driver-assistance systems and the autonomous vehicle marketplace with its approach to AI for automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/11/autobrains-raises-101m-in-series-c-funding.html",
-      "originalUrl": "https://nocamels.com/2021/11/israeli-mobility-autobrains-101m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2021/11/image-1.jpeg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NoCamels - Israeli Innovation News",
-        "domain": "nocamels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-why-artificial-intelligence-startups-failed-to-deliver-on-their-promise.md",
-      "title": "Why Artificial Intelligence Startups Failed To Deliver On Their Promise",
-      "excerpt": "AI-based startups were launching everywhere with the promise ... Depending on the industry you might also need to address privacy and ethics concerns. The next step is to train a model. Think of training as wiring a bot’s brain so a set of attributes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2021/11/02/why-artificial-intelligence-startups-failed-to-deliver-on-their-promise/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2021/11/02/why-artificial-intelligence-startups-failed-to-deliver-on-their-promise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618064ed63d836de461e3a26%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

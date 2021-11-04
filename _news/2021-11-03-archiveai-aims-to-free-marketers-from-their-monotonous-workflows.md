@@ -46,6 +46,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "The programme that can give AI a sense of ethics"
+    excerpt: "Researchers trained an algorithm to answer questions about human values but Professor Micro Musolesi (UCL Computer Science) says it merely describes the views of a group of people and reflects those people’s cultural biases rather than offering a view on what’s right or wrong."
+    publishedDateTime: 2021-11-04T11:15:00Z
+    webUrl: "https://www.ucl.ac.uk/news/headlines/2021/nov/programme-can-give-ai-sense-ethics"
+    type: article
+    provider:
+      name: UCL
+      domain: ucl.ac.uk
+    quality: 34
 
 secured: "db8ahhMxezNBgwwTMTZZPcec2vbL9GsN0e1gMn3PHYMONNbqTAlgAyKVXLu/BUpEz5nSxk4MNTIZ+oHmD2B6NUxH46yVNcT1vGHsO6oRc2LWTZ1oibNXpP95h2XrfShId59AzZw7KrLPooDZ3YiVyZ0MNFYGtZJtXeE69WJBDV78zoA5f7aroSbC6WFLBnpoogvvNOMYpD5dYlfkEN0j096MWzooojv0Ao5J+U13SgG62GCNgp/w85dwtLx88mFfAEsIglL49fAC/u4trWk40333Atyo/Bf0D0OZY1ppMsiJhJ2qkEg9c/tvfrzW496lk/XcaLoEwjaOVu4Zxh5V7AEE1UHTT2JSHVdQs9zg8QBucOABl4F+T9vxBAxwfhPI4NYXtc7Efj+bcSHh2dnoFZ6cnht3B0pBk2aUJE+fTKatAkXSLaKvwARhiuWdnLUc8qQVF9PHT0FBKI8e9IHJYkdh+23jqHrhIkHjs571w6aQcevlJYg80QyX6jZqAmtBgKiuDtI4QQdZGtKBanbFrQ==;JgJuLy7sBcCzpYG31WTbvQ=="
 ---

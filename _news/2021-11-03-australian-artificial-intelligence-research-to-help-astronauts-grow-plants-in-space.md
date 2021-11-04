@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI ordered to delete all facial recognition data belonging to Australians"
+    excerpt: "Controversial facial recognition firm Clearview AI has been ordered to destroy all images and facial templates belonging to individuals living in Australia by the country’s national privacy regulator."
+    publishedDateTime: 2021-11-03T09:59:44Z
+    webUrl: "https://www.theverge.com/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete"
+    type: article
+    provider:
+      name: theverge.com/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete
+      domain: theverge.com/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete
+    quality: 168
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/V64KlxL3sl2QUEhad6p9_uxTP_c=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70084721/acastro_210512_1777_deepfake_0002.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Privacy commission demands Clearview AI delete all facial recognition data collected in Australia"
     excerpt: "Australian regulators have demanded that facial-recognition firm Clearview AI cease scraping the biometric data of Australian citizens and destroy all information and images previously gathered on"
     publishedDateTime: 2021-11-03T20:46:00Z

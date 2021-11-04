@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-04-tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy.md",
+      "title": "TuSimple aims to test self-driving trucks on public roads without human safety operator by EOY",
+      "excerpt": "Self-driving trucks startup TuSimple signaled it is close to testing its system without a human safety operator on public roads before the end of the year. During the startup’s third-quarter earnings call on Wednesday,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/03/tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy/",
+      "originalUrl": "https://techcrunch.com/2021/11/03/tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/03/tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy/amp/",
+      "publishedDateTime": "2021-11-03T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has.md",
       "title": "Scale AI acquires SiaSearch to give companies the same data engine superpowers that Tesla has",
       "excerpt": "Scale AI, the five-year-old visual data labeling company, has acquired a small startup that could help expand its reach in Europe and speed up development of its newest product. Financial terms were not disclosed.",
@@ -115,7 +167,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1416,58 +1468,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-whats-a-self-driving-car-heres-an-explanation.md",
-      "title": "What's a self-driving car? Here's an explanation",
-      "excerpt": "Understand what is, and isn't a self-driving or autonomous car with this explainer. There are no self-driving cars on sale today. Point blank. That's the cold-hard truth. Nothing fits the bill based on the SAE Scale of Autonomy's standard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/",
-      "publishedDateTime": "2021-10-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

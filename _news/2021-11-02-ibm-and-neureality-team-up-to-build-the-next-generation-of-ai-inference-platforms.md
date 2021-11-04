@@ -97,6 +97,20 @@ related:
         width: 1536
         height: 701
         isCached: true
+  - title: "Pandio Announces Partnership with AI Infrastructure Alliance"
+    excerpt: "\"Partnering with AI Infrastructure Alliance has brought tremendous opportunities and new developments for Pandio,\" said Gideon Rubin, CEO and Founder, \"We are a rapidly growing SaaS startup ready to collaborate with clients, venture capitalists, and ..."
+    publishedDateTime: 2021-11-04T13:01:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pandio-announces-partnership-with-ai-infrastructure-alliance/article_3304227b-2cc2-55e7-b2e7-5175a203372d.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "IBM and NeuReality team up to build AI inference platform"
     excerpt: "IBM and NeuReality, an Israeli AI systems and semiconductor company, have signed an agreement to develop the next generation of high-performance AI inference platforms. These next generation platform will be designed to deliver disruptive cost and power consumption improvements for deep learning use cases."
     publishedDateTime: 2021-11-03T00:09:00Z

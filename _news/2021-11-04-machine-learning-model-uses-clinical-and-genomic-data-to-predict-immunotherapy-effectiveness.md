@@ -23,19 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "Investing in the future of cell therapy and immuno-oncology"
-    excerpt: "In a conversation with Modern Healthcare Custom Media, Dr. Zihai Li, founding director of the Pelotonia Institute for Immuno-Oncology, and Dr. Yiping Yang, director of the Division of Hematology at The Ohio State University College of Medicine,"
-    publishedDateTime: 2021-11-01T05:00:00Z
-    webUrl: "https://www.modernhealthcare.com/safety-quality/investing-future-cell-therapy-and-immuno-oncology"
+  - title: "Machine learning model uses clinical and genomic data to predict immune checkpoint blockade effectiveness"
+    excerpt: "A computer model developed by Cleveland Clinic oncologist Timothy Chan, MD, Ph.D., and colleagues accurately predicts whether immune checkpoint blockade (ICB) will be effective in patients diagnosed with a wide variety of cancers."
+    publishedDateTime: 2021-11-04T13:55:00Z
+    webUrl: "https://medicalxpress.com/news/2021-11-machine-clinical-genomic-immune-checkpoint.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-11-machine-clinical-genomic-immune-checkpoint.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-machine-clinical-genomic-immune-checkpoint.amp"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 39
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 42
     images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/width_280/public/OSU%20Executive%20Conversationsjpg.jpg"
-        width: 280
-        height: 375
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/computermodel.jpg"
+        width: 1920
+        height: 1357
         isCached: true
   - title: "Machine learning model uses clinical and genomic data to predict immunotherapy effectiveness"
     excerpt: "CLEVELAND - A new machine learning model developed by Timothy Chan, MD, PhD, of Cleveland Clinic and colleagues accurately predicts whether immune checkpoint blockade (ICB), a growing class of immunotherapy drugs,"

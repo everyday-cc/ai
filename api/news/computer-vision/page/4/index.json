@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-28-sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field.md",
+      "title": "Sina Bari MD Shares 3 Ways that Computer Vision is Transforming the Medical Field",
+      "excerpt": "The medical field is constantly evolving in our day and age, as is technology. We are all familiar with the types of technology, computers, cellphones and software that’s out there. But when it comes to the specifics and details of technology or a form of artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/",
+      "originalUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://submission.icrowdmarketing.com/assets/source/users/2087/Sina%20Bari%20MD%20Shares%20How%20Computer%20Vision%20is%20Transforming%20the%20Medical%20Field.jpg?1632508900522",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1",
+      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1",
+      "publishedDateTime": "2021-09-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-londons-met-police-buying-retrospective-facial-recognition-technology.md",
       "title": "London's Met Police Buying Retrospective Facial Recognition Technology",
       "excerpt": "The UK's Metropolitan Police Service has been authorised to buy and use retrospective facial recognition technology.",
@@ -1390,49 +1433,6 @@
       "provider": {
         "name": "UPI.com",
         "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion.md",
-      "title": "Hinge Health Acquires the Most Advanced Computer Vision Technology for Tracking Human Motion",
-      "excerpt": "Hinge Health, the world’s #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch’s three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_6c2fade9-44e0-544b-a867-2c04b7ee7558.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_6c2fade9-44e0-544b-a867-2c04b7ee7558.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/b/d4/bd4061e2-8e51-546c-8b3b-f9eb21045938/6144795b2a632.image.jpg?resize=1120%2C630",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
         "images": null,
         "publishers": null,
         "authors": null

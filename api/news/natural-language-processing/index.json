@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-04-deep-learning-ai-explained-neural-networks.md",
+      "title": "Deep Learning AI Explained: Neural Networks",
+      "excerpt": "Ballyhooed artificial-intelligence technique known as “deep learning” revives 70-year-old idea. In the past 10 years, the best-performing artificial-intelligence systems — such as the speech recognize",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/",
+      "originalUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Artificial-Intelligence-Neural-Network-Concept-777x583.jpg",
+          "width": 777,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-ai-explained-neural-networks/amp/",
+      "publishedDateTime": "2021-11-04T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.md",
       "title": "Oracle bolsters cloud infrastructure with suite of AI tools",
       "excerpt": "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ...",
@@ -117,7 +162,7 @@
       "originalUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -156,59 +201,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language.md",
-      "title": "New AI products from Microsoft include Context IQ and Azure Cognitive Services for Language",
-      "excerpt": "Microsoft detailed new AI innovations across its services at Ignite 2021, including Context IQ and Azure Cognitive Services for Language.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
-      "originalUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 276,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/",
-      "publishedDateTime": "2021-11-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "Natural Language Processing"
       ]

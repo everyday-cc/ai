@@ -110,6 +110,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Update: Tencent Unveils Three Computer Chips of Its Own Design"
+    excerpt: "Tencent Holdings Ltd., China’s most valuable publicly traded software firm, touted its progress in getting into the hardware business on Wednesday when it announced it is making three computer chips of its own design."
+    publishedDateTime: 2021-11-04T12:46:00Z
+    webUrl: "https://www.caixinglobal.com/2021-11-04/update-tencent-unveils-three-computer-chips-of-its-own-design-101800674.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-11-04/163602786997083_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
 
 secured: "ds/TRYeaeaQkhTMw6XfVbd+pFAVNkaOMOyVpKi+hPCWUfRu/0ooUq6pJzF24I51JiZMY4r3A/goKA4lm35OP5htRzGuYnsRaw2S839PgFNbgHy+B/KfFKteatcQRpRS0Jc1U4SlAqHsGfDrIfumgOwk9O5o2q3bIU2Os172jXyzokVSkWvVgxLLV8jCNGzPSTRdL/Tz/k3FLLWFAg7eThTvSOSJEJVzRC51PGdxhF/rTgmxxFB0URJy4ll6khvNpK6uL6FZHQA+GHW9g5G8Mg94W0wtKHOAUZUuuf7IyExlmCF/r/iug1pq9kGfR6YfQFslXeXOiDLs8qBNq/HZL5qpqCUi4FoMR08PY48akvrVdk4T53tWf/Sk3l/WuDuE4sqdCik0iz+sIGzTLvMDRR351mGLjOibZCHiFXVBXiLS7KzdJmOj9+fZgx9dFjEsQcr8DUiyf5zTa6dnvGpm6ut3UNpfA8LtcF33pA5QGOA5H2due01rZiPoyF2DSwPnucvjr9BqYWFwy4f+x87QmCQ==;l02OsSv7PKJiVT0lJ+ELLA=="
 ---

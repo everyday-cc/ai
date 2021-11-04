@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Editor receives new Context IQ to improve your workflow"
+    excerpt: "Microsoft has this week announced it has implemented Context IQ into the popular Microsoft Editor to help improve your workflow, whether"
+    publishedDateTime: 2021-11-03T10:25:00Z
+    webUrl: "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 139
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/Microsoft-Editor-Context-IQ.jpg"
+        width: 700
+        height: 481
+        isCached: true
   - title: "New AI products from Microsoft include Context IQ and Azure Cognitive Services for Language"
     excerpt: "Microsoft detailed new AI innovations across its services at Ignite 2021, including Context IQ and Azure Cognitive Services for Language."
     publishedDateTime: 2021-11-02T15:00:00Z
@@ -57,22 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft’s new Azure OpenAI Service brings GPT-3 to (a few) more developers"
-    excerpt: "Microsoft today announced the launch of the Azure OpenAI Service, which, as the name implies, makes OpenAI’s machine learning models available on the Azure platform. Specifically, that means GPT-3, OpenAI’s groundbreaking language model that can,"
-    publishedDateTime: 2021-11-02T15:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/"
-    ampWebUrl: "https://techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 116
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-932632280.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Microsoft Azure expands its hybrid and multi-cloud reach"
     excerpt: "Microsoft Azure, just like its competitors, launched a number of tools in recent years that allow enterprises to use a single platform to manage their virtual machines and containers across clouds and in their own data centers."
     publishedDateTime: 2021-11-02T15:00:00Z
@@ -89,22 +87,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "At Ignite 2021, Microsoft showcases functionality for scalable AI apps"
-    excerpt: "Microsoft showcased Azure's architecture for building scalable AI apps compatible in cloud and edge computing scenarios."
-    publishedDateTime: 2021-11-03T16:50:00Z
-    webUrl: "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/"
-    ampWebUrl: "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/gettyimages-1287251160-170667a.jpg?w=1200&strip=all"
-        width: 512
-        height: 337
-        isCached: true
   - title: "Microsoft says all business will be collaborative, and infused with data and AI"
     excerpt: "Data derived from the interactions between people should allow the organization to refine business processes, Microsoft said at Ignite 2021."
     publishedDateTime: 2021-11-04T01:39:00Z
@@ -120,22 +102,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/11/Satya-Nadella-ignite-nov-2021.jpg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "At Ignite, Microsoft unveils data analytics, server, and DevOps products for Azure"
-    excerpt: "At its Ignite 2021 conference, Microsoft took the wraps off of new data analytics, server, and DevOps products across Azure."
-    publishedDateTime: 2021-11-02T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/02/at-ignite-microsoft-unveils-data-analytics-server-and-devops-products-for-azure/"
-    ampWebUrl: "https://venturebeat.com/2021/11/02/at-ignite-microsoft-unveils-data-analytics-server-and-devops-products-for-azure/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/at-ignite-microsoft-unveils-data-analytics-server-and-devops-products-for-azure/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 98
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Microsoft is adding more AI smarts and other new tools to Office"
     excerpt: "Microsoft is adding more predictive capabilities to Office via a set of new capabilities called Context IQ. Microsoft's new Loop collaboration app and components isn't the only new thing coming to Office."
@@ -176,19 +142,33 @@ related:
         width: 610
         height: 458
         isCached: true
-  - title: "Ignite Nov '21: Here's everything Microsoft announced for Azure"
-    excerpt: "The November edition of Microsoft Ignite is here and Ignite has always been about IT professionals, so Azure is front and center. Topics include Azure AI, Data, Dev & Ecosystem, Hybrid, Infra, IoT, MIgration,"
-    publishedDateTime: 2021-11-02T15:13:00Z
-    webUrl: "https://www.onmsft.com/news/ignite-nov-21-all-the-azure-news"
+  - title: "Ermetic Enables Customers to Enforce Least Privilege for Microsoft Azure"
+    excerpt: "Cloud Infrastructure Security Platform Detects and Remediates Excessive Privileges in Azure Active Directory Privileged Identity Management ServicePALO ALTO, Calif. & TEL AVIV, Israel--(BUSINESS WIRE)--#Azure--Ermetic,"
+    publishedDateTime: 2021-11-04T13:11:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=559531"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 53
     images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/09/Microsoft-Azure-data-center.jpg"
-        width: 1024
-        height: 768
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Microsoft offers glimpse into healthcare offerings in a digital-first workforce"
+    excerpt: "The COVID-19 pandemic accelerated digital transformation, and Mr. Nadella said Microsoft will make many of the changes it applied to Microsoft Azure during the pandemic into permanent features. Looking ahead,"
+    publishedDateTime: 2021-11-03T21:08:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-offers-glimpse-into-healthcare-offerings-in-a-digital-first-workforce.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 52
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/7.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
     excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
@@ -217,20 +197,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 28
-  - title: "Cognitive Solution Market In-Depth Analysis including key players Microsoft, Cisco, Amazon.com, IBM, HPE,"
-    excerpt: "We interviewed various key sources of supply and demand in the course of the Primary Research to obtain qualitative and quantitative information related to Cognitive Solution report. Main sources of supply include key industry members, subject matter ..."
-    publishedDateTime: 2021-10-30T20:00:00Z
-    webUrl: "https://chipdesignmag.com/cognitive-solution-market-in-depth-analysis-including-key-players-microsoft-cisco-amazon-com-ibm-hpe/"
-    type: article
-    provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 22
-    images:
-      - url: "https://chipdesignmag.com/wp-content/uploads/2021/10/Global-ITSM-Software-Market-Including-Key-Players-Market-Share-1-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
 
 secured: "890QpxborDDtJlUFv4h0w9pR7e/zGqWVTsOQQcN0/GZZjXD11lteXTce6WU7mG9ZB06fKUUTslH/Fue08WOydgOlm5VTtQwc2v4qjvUCEvJ7uxlDBQDgwvmjmFm2URD/n6YUL6PI+OUPsGWu+y0xjZGJVzKqe/pFbwhQtvoE0ocvS3wrcAnVdwU7b8M3fIudvr6o/QJfoOX5sVY5eqYGMA2XvN4C6hmqnOpAaMnXeUshfun0d80rmZ6lZasvZp9IQekagVhzfQft9aj3d9uPbSSURqlPtzojiyEu/zsLYkt8QZ4wOgWl/IH/TzH2nud1otb5t0JsAHk3oAqEls4EvvKEX2AqI44p8WQGgDpa+Ig=;Wk1HtQ2TzQgEqZTD0uE6WA=="
 ---

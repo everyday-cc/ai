@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Flippy Wings the chicken wing flipping robot developed by Miso Robotics"
-    excerpt: "The Flippy Wings robot, from the makers of Flippy the burger-flipping robot, is an autonomous robot designed to fry chicken wings in restaurants, thereby freeing up staff to take on higher value, customer facing tasks."
-    publishedDateTime: 2021-10-31T16:56:00Z
-    webUrl: "https://insights.globalspec.com/article/17578/flippy-wings-the-chicken-wing-flipping-robot-developed-by-miso-robotics"
+  - title: "Pasadena Company Introduces 2nd Generation Robotic Kitchen Assistant"
+    excerpt: "Miso Robotics in Pasadena on Tuesday unveiled Flippy 2, a new and improved version of its automated kitchen assistant. The “faster and more customizable” version of the original Flippy device was designed with input from a pilot program in partnership with the White Castle hamburger chain,"
+    publishedDateTime: 2021-11-02T18:09:00Z
+    webUrl: "https://thespoon.tech/miso-introduces-second-generation-restaurant-kitchen-robot-the-flippy-2/"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 54
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 122
     images:
-      - url: "https://insights.globalspec.com/images/assets/578/17578/Miso_Robotics.png"
-        width: 1038
-        height: 612
+      - url: "https://i1.wp.com/thespoon.tech/wp-content/uploads/2021/11/Flippy-2-Complete-System-scaled.jpg?fit=1200%2C797&#038;ssl=1"
+        width: 1200
+        height: 797
         isCached: true
 
 secured: "x3xncuqCpDpnkRGqw0jXgORcpnjl7411fJzawpDsQzWqE00L+xyafdrpIDhq1VQkJpB304Pkn4J7iWOIi2yfr4Q8ANHOwPED87oTmfhjmlUL86smRYzv5l24R+8ZPhVVpBZLv/wTK0qnCzqCrmeWTds79d69Bjclo4xjPrvlMowlwy/gZtd1owvt9q3HltWWdVpymd4W7Iqs0UgtqxCUPJAL+oS3w+rCGRMZAF8TwgfmeF/Qn9DjaBL094eOSioq9iUg9NBR9MoS/uivgnU8otafAFBHBKTD4wZUF/17AeQFSCAELdLEsHTGQLQZOrMGWY6Ui+1NqUJlaZErg3jxj+e2YOJSgRYSyPqMyHWRj7M=;SdsWe3xcQwG/PnoHoj38Aw=="
