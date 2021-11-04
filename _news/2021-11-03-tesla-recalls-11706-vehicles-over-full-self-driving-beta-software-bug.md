@@ -139,6 +139,17 @@ related:
         width: 912
         height: 512
         isCached: true
+  - title: "Tesla’s handling of braking bug in self-driving test raises alarms"
+    excerpt: "A botched software update by Tesla shows how complicated self-driving systems can be. and raises the question of whether there is a safe way to test autonomous vehicles at mass scale on public roads,"
+    publishedDateTime: 2021-11-04T00:28:00Z
+    webUrl: "https://www.seattletimes.com/business/teslas-handling-of-braking-bug-in-self-driving-test-raises-alarms/"
+    ampWebUrl: "https://www.seattletimes.com/business/teslas-handling-of-braking-bug-in-self-driving-test-raises-alarms/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/teslas-handling-of-braking-bug-in-self-driving-test-raises-alarms/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "Tesla issues software recall for 12,000 vehicles over glitch in self-driving software"
     excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
     publishedDateTime: 2021-11-02T13:48:00Z
@@ -180,19 +191,19 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Tesla's 'full self-driving' delights and annoys with Jekyll-and-Hyde personality, drivers say"
-    excerpt: "Drivers with Tesla's \"full self-driving\" software often don't know what their cars will do next. Tesla owners have been wowed by their cars' new abilities, but some say they have also been alarmed and frustrated by the accompanying flaws."
-    publishedDateTime: 2021-11-03T23:37:00Z
-    webUrl: "https://www.kten.com/story/45117741/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say"
+  - title: "Tesla’s ‘full self-driving’ delights and annoys with Jekyll-and-Hyde personality, drivers say"
+    excerpt: "By Matt McFarland, CNN Business Drivers with Tesla’s “full self-driving” software often don’t know what their cars will do next. Tesla owners have been wowed by their cars’ new abilities, but some say they have also been alarmed and frustrated by the accompanying flaws."
+    publishedDateTime: 2021-11-04T00:09:00Z
+    webUrl: "https://localnews8.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
     type: article
     provider:
-      name: KTEN
-      domain: kten.com
+      name: Local News 8
+      domain: localnews8.com
     quality: 28
     images:
-      - url: "https://kten.images.worldnow.com/images/20254820_G.jpg"
-        width: 1280
-        height: 720
+      - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
+        width: 2560
+        height: 1441
         isCached: true
 
 secured: "9AXyPqy0rhCtVpSbPYllgqb7YHHX+aQpeQX1Y+TlFk6E3G2/chhDeB1uP/Bblz2PtPzMJbcl4h9JlZgNmln1kbMfogRCacvhDloGUyOfi24f0RITG0PXWsFq/VfyvWL4f+twHpKXx4dENSg9Cn1WPOJp8yHzfnFEukgkaBwGvZuv95e2nLRhXdICch99hmESo6DlKFZedaHoZFPF+x0XNeYwaikGAZNkelx3K0j02RubDZV5xaz0JFaUa3RyqGeggbhLGCKEELb4JuYz8wg1TnIBlurPP5dv0se5d9GasvZsR039qDHV7uLGNx8c4nsI3EwMxAxSe/w+CvbyqcaRIbh64JJj8kv0izBwZUJAr5LV+LyTBbZk5bS3Hh4mzQesrYhp+cA9e2+B+CJUVpRRZigjVCgYWvQZaac4+MI/ZJu48YDaMqdUig9T+cQozWWXZglN9bpz+9EkIJiBRNDLHkhEv1B9eUTdLojOn+l/E7roh9oZ97PJfG0w+LcoupVin7YiUKE0GcarN36VxNngXQ==;I/26GV/dvLAH/6P0ZQxKPg=="

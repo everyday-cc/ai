@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-23-gm-invests-300m-in-chinas-self-driving-car-company-momenta.md",
+      "title": "GM invests $300M in China’s self-driving car company Momenta",
+      "excerpt": "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070",
+      "originalUrl": "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/1759e8719a7e4b3196a74cd342b7b4ee/3000.jpeg",
+          "width": 2999,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-korea-economic-daily.md",
       "title": "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily",
       "excerpt": "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday.",
@@ -1349,41 +1392,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-three-stocks-to-profit-from-the-robot-revolution.md",
-      "title": "Three stocks to profit from the robot revolution",
-      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
-      "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
-      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
-      "publishedDateTime": "2021-09-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -111,6 +111,22 @@ related:
         width: 512
         height: 337
         isCached: true
+  - title: "Microsoft says all business will be collaborative, and infused with data and AI"
+    excerpt: "Data derived from the interactions between people should allow the organization to refine business processes, Microsoft said at Ignite 2021."
+    publishedDateTime: 2021-11-04T01:39:00Z
+    webUrl: "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/Satya-Nadella-ignite-nov-2021.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft is adding more AI smarts and other new tools to Office"
     excerpt: "Microsoft is adding more predictive capabilities to Office via a set of new capabilities called Context IQ. Microsoft's new Loop collaboration app and components isn't the only new thing coming to Office."
     publishedDateTime: 2021-11-02T15:01:00Z

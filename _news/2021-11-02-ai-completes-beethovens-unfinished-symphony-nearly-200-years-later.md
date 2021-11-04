@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "From a hidden Picasso nude to an unfinished Beethoven, AI uncovers lost art — and new challenges"
-    excerpt: "Artificial intelligence is being used to bring lost works from the likes of Picasso and Beethoven back to life, but not everyone is celebrating the achievement."
-    publishedDateTime: 2021-10-30T08:30:00Z
-    webUrl: "https://www.nbcnews.com/news/world/lost-picasso-unfinished-beethoven-ai-uncovers-lost-art-new-challenges-rcna2905"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna2905"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna2905"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 76
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-10/211013-picasso-2x1-mb-1520-a88fbc.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Beethoven’s Unfinished Symphony finished with AI"
     excerpt: "Beethoven started a symphony that he would never finish, artificial intelligence has finished Beethoven’s Unfinished Symphony."
     publishedDateTime: 2021-11-02T10:03:00Z

@@ -158,6 +158,51 @@
       ]
     },
     {
+      "path": "_news/2021-11-02-ai-workflow-machine-learning-visual-recognition-and-nlp.md",
+      "title": "AI Workflow: Machine Learning, Visual Recognition and NLP",
+      "excerpt": "Familiarity with IBM Watson Studio; Familiarity with the design thinking process. This is the fourth course in the IBM AI Enterprise Workflow Certification specialization. You are STRONGLY ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/education/skillbuilder/ai-workflow:-machine-learning-visual-recognition-and-nlp-0_6MedjtZOEemDkAqyZy15Hg",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/ai-workflow:-machine-learning-visual-recognition-and-nlp-0_6MedjtZOEemDkAqyZy15Hg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business.md",
       "title": "Copy.ai Raises $11M To Accelerate AI Helping You Build Your Business",
       "excerpt": "Everyone thinks that artificial intelligence will replace humans. Chris Lu and Paul Yacoubian think otherwise. The two have raised $11M to further develop their AI-powered software, Copy.ai, to unleash human creativity.",
@@ -866,7 +911,7 @@
       "originalUrl": "https://www.theverge.com/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1200,58 +1245,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-intel-habana-ai-accelerator-becomes-available-on-amazon-ec2.md",
-      "title": "Intel Habana AI Accelerator Becomes Available On Amazon EC2",
-      "excerpt": "The Amazon EC2 DL1 instance type delivers up to 8 Gaudi accelerators with 32 GB of high bandwidth memory (HBM) per accelerator with 400 Gbps of networking throughput and 4 TB of local NVMe storage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617f789c7aa77d3d07ecc29a%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/amp/",
-      "publishedDateTime": "2021-10-31T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

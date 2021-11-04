@@ -49,7 +49,7 @@ related:
   - title: "Real Superintelligence (RSI) vs. Artificial Superintelligence (ASI), or Why Musk could be right again"
     excerpt: "The whole idea of AI as emulating, mimicking, simulating, replicating or faking human intelligence/brains/mind/behavior is scientifically unjustified and ethically wrong and should be discarded in the favor of real-world machine intelligence and learning (MIL)."
     publishedDateTime: 2021-11-03T15:59:00Z
-    webUrl: "https://www.linkedin.com/pulse/real-superintelligence-rsi-vs-artificial-asi-why-musk-abdoullaev/?published=t"
+    webUrl: "https://www.linkedin.com/pulse/real-superintelligence-rsi-vs-artificial-asi-why-musk-abdoullaev"
     type: article
     provider:
       name: LinkedIn

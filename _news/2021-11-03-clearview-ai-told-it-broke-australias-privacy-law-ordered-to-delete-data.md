@@ -46,6 +46,22 @@ related:
         width: 800
         height: 560
         isCached: true
+  - title: "Clearview AI Forced to Cease Data Scraping Operations in Australia"
+    excerpt: "Australia's national privacy regulator determined Clearview AI breached users' privacy and violated the Australian Privacy Act 1988."
+    publishedDateTime: 2021-11-04T00:58:00Z
+    webUrl: "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895"
+    ampWebUrl: "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/95da1f03aebf41e4a0369aa2ecfddc6c.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Australia says facial recognition software firm Clearview breached privacy law"
     excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data"
     publishedDateTime: 2021-11-03T18:03:00Z

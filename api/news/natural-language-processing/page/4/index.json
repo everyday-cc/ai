@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-27-will-ai-revolutionize-regtech-part-1-faster-easier-richer.md",
+      "title": "Will AI Revolutionize Regtech? Part 1: Faster, Easier, Richer",
+      "excerpt": "Later this year at the NSCP National Conference, I’ll be speaking on a panel with Jane Stabile and Andrew Siegel on the topic “Will AI Revolutionize the Financial Services Industry?” To help promote the event,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27",
+      "originalUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27?amp",
+      "publishedDateTime": "2021-09-27T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-language-io-launches-ai-powered-machine-translations.md",
       "title": "Language I/O Launches AI-Powered Machine Translations",
       "excerpt": "Concept: Wyoming’s startup Language I/O has developed AI-powered software for real-time, company-specific language translations. It claims to provide text-to-text translation in over 100 ...",
@@ -1329,50 +1364,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company.md",
-      "title": "Inside DeepL: The World’s Fastest-Growing, Most Secretive Machine Translation Company",
-      "excerpt": "Deep dive into DeepL machine translation, approach to neural networks, quality performance, enterprise solutions, new features, users, and growth.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company/",
-      "originalUrl": "https://slator.com/inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/09/Deepl-Machine-Translation-Company.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

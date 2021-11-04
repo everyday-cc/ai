@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/22752986/meta-facebook-andrew-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://eadn-wc03-5047357.nxedge.io/cdn/wp-content/uploads/2021/10/markus-spiske-iar-afB0QQw-unsplash.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "Taiwan’s AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
-    excerpt: "He reveals his organization’s belief that edge computing will include machine learning accelerator chips, then goes on to introduce the thinking behind federated machine learning in AI."
-    publishedDateTime: 2021-10-30T08:41:00Z
-    webUrl: "https://menafn.com/1103074958/Taiwans-AI-Day-2021-Enters-the-Metaverse-with-Virtual-Exhibition-and-Forum"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2021-10/30/TAP_a751b066-4_Image_In_Body.jpg"
-        width: 500
-        height: 333
         isCached: true
 
 secured: "rudrj4Dx7eI2dRVTDNcSKeWjDKVok7JfZrMKXP9Ii23WA6AmiNgR6Xi9j/PJ+PLAd1kVc4aXYSuijU/xX/LHpeFJ/9n9BE5/IYT9AZHZinG+jzMvLIQrQuVDOvfn27fZi1Rui57tbx9Y4CgpH5iofubvMbq8Qufbho60l9ookuOF0UOPjUlBaX6TTaQdFuTOGAAgBiIZ2CSuG3dgRjmVTKRPt5/4nmXFFpQsPhIWPXU7q+tPtvtVVOmfWk92+lWdixJhJLpl+QjVFlwv0BaUSmUclFcF13du2lDaY+CWOFmV7O2+9eEIBK2QjliIJRsKHigxFvJckshmzdAxSdfijx7h3SRNGKaVCX/EwbxVDvCJU30QQGWjoecixagTJwbXdR1PdaMutqrSinDWgGizSBkCjcVEuY+/T8JZRhdid7SzssDBtrSVRdV1y4iVAyt2T9cnefgW3AXjnUUamI+VNqTbh5y4Gz2eaNeBsaP8Dv/k54PeapQd7toT5LgsW+zcYXLsWHEtgCZwETonSfL+4Q==;0irGzrZAhidy43CF4Vl5eQ=="

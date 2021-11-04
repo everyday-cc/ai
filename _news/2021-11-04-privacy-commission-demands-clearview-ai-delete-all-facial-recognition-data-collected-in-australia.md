@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92063-privacy-commission-demands-c
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI Forced to Cease Data Scraping Operations in Australia"
+    excerpt: "Australia's national privacy regulator determined Clearview AI breached users' privacy and violated the Australian Privacy Act 1988."
+    publishedDateTime: 2021-11-04T00:58:00Z
+    webUrl: "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895"
+    ampWebUrl: "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/95da1f03aebf41e4a0369aa2ecfddc6c.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Clearview AI told it broke Australia’s privacy law, ordered to delete data"
     excerpt: "Australia has found that controversial facial recognition company, Clearview AI, broke national privacy laws when it covertly collected citizens’ facial biometrics and incorporated them into its AI-powered identity matching service — which it sells to law enforcement"
     publishedDateTime: 2021-11-03T15:36:00Z

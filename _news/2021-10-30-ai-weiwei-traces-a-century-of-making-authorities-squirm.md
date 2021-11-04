@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-makin
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "For His Father and His Son, Ai Weiwei Is Determined to Leave a Trace"
-    excerpt: "OF JOYS AND SORROWS A Memoir By Ai Weiwei Translated by Allan H. Barr “You’re just a pawn in the game, you know,” a public security officer summarily informs Ai Weiwei, China’s most controversial — and to the Chinese Communist Party,"
-    publishedDateTime: 2021-10-30T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/10/30/books/review/1000-years-of-joys-and-sorrows-ai-weiwei.html"
-    ampWebUrl: "https://www.nytimes.com/2021/10/30/books/review/1000-years-of-joys-and-sorrows-ai-weiwei.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/30/books/review/1000-years-of-joys-and-sorrows-ai-weiwei.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 87
-    images:
-      - url: "https://static01.nyt.com/images/2021/10/19/books/review/Fan1/merlin_174157326_a1b27497-c7d3-485c-ba81-cef9b21fa5b1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Ai Weiwei’s Artistic Rebellion"
     excerpt: "The artist-activist on his most beloved objects and his new memoir, “1000 Years of Joys and Sorrows,” which charts his father’s life, and his own, as an “enemy of the state.”"
     publishedDateTime: 2021-10-31T11:27:00Z

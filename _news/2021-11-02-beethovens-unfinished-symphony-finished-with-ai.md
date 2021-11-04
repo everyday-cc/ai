@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/beethovens-unfinished-symphony-finis
 webUrl: "https://www.geeky-gadgets.com/beethovens-unfinished-symphony-finished-02-11-2021/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "From a hidden Picasso nude to an unfinished Beethoven, AI uncovers lost art — and new challenges"
-    excerpt: "Artificial intelligence is being used to bring lost works from the likes of Picasso and Beethoven back to life, but not everyone is celebrating the achievement."
-    publishedDateTime: 2021-10-30T08:30:00Z
-    webUrl: "https://www.nbcnews.com/news/world/lost-picasso-unfinished-beethoven-ai-uncovers-lost-art-new-challenges-rcna2905"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna2905"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna2905"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 76
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-10/211013-picasso-2x1-mb-1520-a88fbc.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI Completes Beethoven’s Unfinished Symphony Nearly 200 Years Later"
     excerpt: "AI Completes Beethoven's Unfinished Symphony Nearly 200 Years Later. Rutgers professor Ahmed Elgammal recounts his work at the intersection of deep learning, visual art and music."
     publishedDateTime: 2021-11-01T17:27:00Z

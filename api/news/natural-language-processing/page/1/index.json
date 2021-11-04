@@ -117,7 +117,7 @@
       "originalUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -169,7 +169,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 266,
       "tags": null,
       "images": [
         {
@@ -263,6 +263,51 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-ai-workflow-machine-learning-visual-recognition-and-nlp.md",
+      "title": "AI Workflow: Machine Learning, Visual Recognition and NLP",
+      "excerpt": "Familiarity with IBM Watson Studio; Familiarity with the design thinking process. This is the fourth course in the IBM AI Enterprise Workflow Certification specialization. You are STRONGLY ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/education/skillbuilder/ai-workflow:-machine-learning-visual-recognition-and-nlp-0_6MedjtZOEemDkAqyZy15Hg",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/ai-workflow:-machine-learning-visual-recognition-and-nlp-0_6MedjtZOEemDkAqyZy15Hg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1370,49 +1415,6 @@
       "provider": {
         "name": "Android",
         "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-pixel-6-live-translate-is-the-feature-you-have-been-waiting-for.md",
-      "title": "Pixel 6 Live Translate Is The Feature You Have Been Waiting For",
-      "excerpt": "Google’s buzzwords for 2021 are Pixel 6 and Tensor. But there is more to the story, and the company has introduced a ton of ML-powered featured. One of them is Live Translate that builds upon Google’s existing translation capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/",
-      "originalUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2021/10/Google-Pixel-6-Live-translation.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/what-is-pixel-6-live-translate/amp/",
-      "publishedDateTime": "2021-10-19T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
         "images": null,
         "publishers": null,
         "authors": null

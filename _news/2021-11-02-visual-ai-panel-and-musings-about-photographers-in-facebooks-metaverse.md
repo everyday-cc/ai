@@ -74,20 +74,6 @@ related:
         width: 939
         height: 626
         isCached: true
-  - title: "Taiwan’s AI Day 2021 Enters the Metaverse with Virtual Exhibition and Forum"
-    excerpt: "He reveals his organization’s belief that edge computing will include machine learning accelerator chips, then goes on to introduce the thinking behind federated machine learning in AI."
-    publishedDateTime: 2021-10-30T08:41:00Z
-    webUrl: "https://menafn.com/1103074958/Taiwans-AI-Day-2021-Enters-the-Metaverse-with-Virtual-Exhibition-and-Forum"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2021-10/30/TAP_a751b066-4_Image_In_Body.jpg"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "+45TNCHBr0BT+Sk4oTLCF/OOlLYkDtYqfuS30l7aqFTSzw+9ATt+aevUnk4t8zr4EleHq5iaruQp+Yo3SQez1H68v6rJoVJAJNI/Ttw7U42X0JdieNa/8mSW5rTRiL9Nka3ZbTD+V7IPTkWWCf48WhuzT2V8y3ANxUYCPTNN+3S4lOcj0PN3iYWsFWbkE+mABRpuXo8YhMfDnSbSGJbA0i8DwnDuYXsF+kb62s86OIQA4MbuYmdfyvLOjkv8VoF1fJb4wGhiGRgZReA6LsKSbP8sLUHttp9FeGJs72XJEYHgRFPzaVPOSEekQYBLl99u6dayX3H8MpufxasvH9oaNHjmizkAoEqn2/U3Dba7upT32zMb+71N77HsRYoVnJiLn1WyvMh2LusPW/bW0nEhqZcIP326YX/2guQ+BoOPz4YhlPqMh4S21ltCepTOqHCIWifzR5AV5egtT7bWTahieS5dILt+eL2xXpnUVz+N1O1xULy+/bIr/iQpt5t5QAC2cI67ZLX0uM3ZKxggorhLgQ==;n1vBJi8PlXt1bc1WR5JUwQ=="
 ---

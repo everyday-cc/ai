@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-sm
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp"
 type: article
 quality: 89
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Beamz powers smartcities with AI, Lidar"
-    excerpt: "Beamz delivers a cost-effective, modular, and scalable solution enabling users to experience custom solutions tailored to their requirements and size"
-    publishedDateTime: 2021-10-30T07:57:00Z
-    webUrl: "https://www.zawya.com/uae/en/business/story/Beamz_powers_smartcities_with_AI_Lidar-SNG_256527234/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_256527234/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_256527234/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 57
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/211019052308ZETJ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "co+vakne3u/tMlNpcrIaKrMYca0ZpqQU4yEX5ag+mcxBPlaiDX2kSf7H70PGZ1BuQ83PFqMi46dL8bUgqxEK0rt8lHmM5ne1KU6MrA9AdIqCctF97rC4kk9ViN66WmER+LA8RjVqzEcfbp0LtafhrwM0fa2A/bhuGdHKeguJu3JeQ8y+4g2WEkIdRLovZTywlQVyjuG1hDdNNNsbxNvzaFsIpDNAvBfmEsU5Q474tg9x0UPdDvvyafWfptCyVYIdjEYtQYpD8c8HPtT+NjQ/FxCgfsSPo5rlYmYSjl5vkoSCzOGSFJIKA2DmPMxHexAiIraSS+DgKP2ABPYddMCTlHYxLfkDIdwj1FWUKQ1XHbCZxryxkp7APPEJo94oQ78u7p7H0tOoE405+r9zT7wq4KiHrrdx/LN5FJf0mDhTSR0FZ0ZH/Fl8aX3g31bTQGvxNaq8pwSPIPdgr5LsabG/fE85+bSmc92U0+X/px22ZBXq79a+SGU9YfizhxsspIvyMVYugz7MaTNCIye/S977dA==;Qxv/RFNp3ZJT+YTk/Vv86w=="
 ---
