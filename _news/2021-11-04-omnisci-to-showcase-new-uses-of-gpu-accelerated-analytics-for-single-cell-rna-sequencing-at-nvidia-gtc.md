@@ -2,21 +2,27 @@
 category: news
 title: "OmniSci to Showcase New Uses of GPU-Accelerated Analytics for Single-Cell RNA Sequencing at NVIDIA GTC"
 excerpt: "OmniSci, the pioneer in accelerated analytics, today announced it is a Gold sponsor of NVIDIA GTC, the premier AI conference, running November 8-11, 2021. The virtual event will include an on-demand presentation by Nohyun Myung,"
-publishedDateTime: 2021-11-04T15:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-omnisci-showcase-new-uses-gpu-accelerated-analytics-single-/2021/11/04/9485166.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-omnisci-showcase-new-uses-gpu-accelerated-analytics-single-/2021/11/04/9485166.htm"
+publishedDateTime: 2021-11-04T16:28:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-217eee5639ddea9213150d34f2861397"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-217eee5639ddea9213150d34f2861397"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Deep learning courses for programmers at upcoming NVIDIA GTC"
@@ -36,6 +42,6 @@ related:
         height: 210
         isCached: true
 
-secured: "E5U6KAXEwjuwHTVJWs8ibH9WlIHvmgCPQT1o6eo5aMEznkI5kvlMZL4xfpma5PYLIXTGR2JcfuVtMnUCbloyW9GBeyANDsjHyKVK22TVDMcNAQXDyROHkJBjOaklY7UaezeKMOWjtLaBXRMYHF3RhUIzoY7/EwQbQpebboVh8VMIkTpGDdFVF7i4sV3g2RQdu7v9yOsFnQZTF4S9/ax4NlTftlkhoReAgTyg3KdT22UuYhAvqe1vSFCmQGy6t0QRnaQONlO0cTiKTz3RGgX20Qr/R/2jGL7cdmy9VjV2BUS4bbJ62Zp5Vh4Nwif5DWz7kxTCOQrmYyTFqB5z7AmhcsmlErsS13de9+L5U1JsXpo=;8n0nNe2RxwjGYFUcdz5E8g=="
+secured: "UB5ImoOHIszek1iZ/oPOrN3GEdA5dnPMNkLnGsP0HU8WoEfqGIARYokEqIWoCCjXvXTDmcM0x77NTVRmh6Q/6156j4fqR1a7GTFjOAH0uaDFvboaONB4vBjWKJs7VHbtHDHI6iCl7vpX+p6goheSMbMPv/rkWzl3iYB25GXCcYQ3XkGI+D357g3an2o3awa4ri/TGsgHRmMLYR8lA7w2R9TPtL6NZvWAwfaz1vVvogp4ygX3nWuPkGpqEMjVIqopKuruv/QF0P9KzHx7sZyZFvt6+ib3NTUnOQUddyNnRzemPjkS3t+/QPpB0fE0EkPPYq/4GyrwgG69iS9YAYZqvIr79GAwJLD2hTYChDwWWdg=;/JjuDqFdbNnMnjavWIwCug=="
 ---
 

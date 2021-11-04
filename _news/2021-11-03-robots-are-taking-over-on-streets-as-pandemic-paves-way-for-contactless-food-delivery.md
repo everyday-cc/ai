@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 731
         isCached: true
-  - title: "Robots hit the streets as demand for food delivery grows"
-    excerpt: "Remote operators keep tabs on multiple robots at a time but they say they rarely need to hit the brakes or steer around an obstacle. When a robot arrives at its destination, customers type a code into their phones to open the lid and retrieve their food."
-    publishedDateTime: 2021-11-04T15:20:00Z
-    webUrl: "https://indianexpress.com/article/lifestyle/food-wine/robots-hit-the-streets-as-demand-for-food-delivery-grows-7605986/"
-    ampWebUrl: "https://indianexpress.com/article/lifestyle/food-wine/robots-hit-the-streets-as-demand-for-food-delivery-grows-7605986/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/food-wine/robots-hit-the-streets-as-demand-for-food-delivery-grows-7605986/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2021/11/fooddelivery_robots_AP.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Do I tip the robot? Food delivery changes as demand grows amid the COVID pandemic"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
     publishedDateTime: 2021-11-03T09:58:00Z

@@ -2,26 +2,26 @@
 category: news
 title: "Tesla’s ‘full self-driving’ delights and annoys with Jekyll-and-Hyde personality, drivers say"
 excerpt: "By Matt McFarland, CNN Business Drivers with Tesla’s “full self-driving” software often don’t know what their cars will do next. Tesla owners have been wowed by their cars’ new abilities, but some say they have also been alarmed and frustrated by the accompanying flaws."
-publishedDateTime: 2021-11-03T19:09:00Z
-originalUrl: "https://kesq.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
-webUrl: "https://kesq.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
+publishedDateTime: 2021-11-04T00:09:00Z
+originalUrl: "https://localnews8.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
+webUrl: "https://localnews8.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: KESQ News
-  domain: kesq.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
-    width: 1024
-    height: 576
+  - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
+    width: 2560
+    height: 1441
     isCached: true
 
 related:
@@ -202,6 +202,6 @@ related:
         height: 449
         isCached: true
 
-secured: "VNu6g42T4Y+PfiUHtFjXWc1VTvtrw98vNDSL+JxtE8A3Vf5yQGpH+mTibfAKCTByEelnd4FkVrf6c4+fB3dmOYoWPfsAdGR31uy/tjR0hV+ZsMj7nnFF1mFz2NuRQJhckxY5FxJYd0xj9hzfP7Bnwmg6SpZ0vEC8UcK45aGnivPsuIJqKoljWzGGtNaJe31jsEfMM3thMqWlTqXK/oeBdjP/Gs4TA12BIH/mX2fOt1d3SpybxC13/EaX5UcVC9RVQHKxfhx0Wyy4YuTMeFBAqW+RxSsvZ7r+JDvuiK2nN8OXC/1HXtQWU3nN32q8b63amS2ugwygSxNpxaXmrKdW/OSq7C02aWoJUgYMZWPX1u8=;H5Vg5oA16eT+zR10YxNX2A=="
+secured: "TRpWMoPokam8lZrUsdv1Ra4RT+TvOZ9i/XDAPX7pYjhRh30OTeTIdQuI1Rxc4WIvHqzFxAMPcVEB252c3v0QwjQervT4QFY0/kA3Fy896xBfvpSKEtXF/LoiZwGWw6Ny7vJFe8xNabC5Z+hiQYEi9OKhD3t+9AweVU0M0jS+PZN1R1mLle+9m8xVGTwxD5tnOmcyK5EO4Bmr8mKhy0f2SLidT7t9LOWuXPqgUrdRgSTPc5eqnqkrwrvXhwtOl5DTWfGCT6jiSVbLNJYPN+xc4tOXRjIkD0cQpBoRJ5h+LXHLLsU0JW6Z4jUL3/N60poz6bmw1qU0Odf9spkKiXr0o/MR5lmgDBw1zfo0gAjn5i8=;oPItHe+nZit4Z3CigFAHpQ=="
 ---
 

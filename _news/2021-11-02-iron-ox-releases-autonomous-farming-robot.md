@@ -27,13 +27,13 @@ images:
 related:
   - title: "Iron Ox Launches Grover, an All-New Autonomous Mobile Robot"
     excerpt: "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile support robot named Grover. Grover is not your average farmer."
-    publishedDateTime: 2021-11-02T10:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-iron-ox-launches-grover-an-all-new-autonomous-/2021/11/02/9482131.htm"
+    publishedDateTime: 2021-11-02T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/iron-ox-launches-grover-an-all-new-autonomous-mobile-robot-1030925086"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
       - url: "https://mma.prnewswire.com/media/1675899/IRON_OX_Image_Courtesy.jpg"
         width: 400

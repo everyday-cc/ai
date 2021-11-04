@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Oculli’s AI-Based Radar Software Improves Resolution of Autonomous Systems"
-    excerpt: "Concept: American software startup Oculli has launched AI-based high-resolution radar systems for autonomous systems. The company aims to improve the spatial resolution of radar sensors by up to 100 fold."
-    publishedDateTime: 2021-11-01T11:24:00Z
-    webUrl: "https://www.just-auto.com/research-reports/ocullis-ai-based-radar-software-improves-resolution-of-autonomous-systems/"
+  - title: "iMerit Launches New Self Serve API Tool, Allowing For a More Seamless Integration of Their AI Data Solutions"
+    excerpt: "LOS GATOS, Calif., Nov. 4, 2021 /PRNewswire/ -- iMerit, a leading AI data solutions company, today announced the launch of its new"
+    publishedDateTime: 2021-11-04T16:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/imerit-launches-new-self-serve-api-tool-allowing-for-a-more-seamless-integration-of-their-ai-data-solutions-1030938329"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 35
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/11/shutterstock_575079937.jpg"
-        width: 500
-        height: 338
+      - url: "https://mma.prnewswire.com/media/1588476/iMerit_Logo.jpg"
+        width: 400
+        height: 283
         isCached: true
-  - title: "Ansys signs agreement with AI software platform Oculii to advance autonomous vehicle radar systems"
-    excerpt: "Dayton, Ohio-based software startup Oculii has signed an agreement with Canonsburg-based Ansys Inc. to further the development of autonomous vehicle radar systems."
-    publishedDateTime: 2021-11-02T21:46:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2021/11/02/ansys-signs-agreement-with-oculii-av-radar.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 3
 
 secured: "vKgumJaqU1x7KMzKjiACj67ToTYWnhK9hA9mKs/67yT/+Zr9xlCw5QNnD1hsg5T7I/FT7AccNLTLM6IzxieLYPQhvGji7BP6iR9WS2Oqoi03n0PPIkOVhQeOHL3dKofIopj504tVpHDL/hZuaWPCin7de2j/9iYEblyXuAnaokpuNnaWVtIhpn1AYCaKhACrBHv8H6Lsh1VTI/nO2OdjJXkbxBGANkgS38uoYCfcO+wqwjiP4cuot1+JRI5INy+ocM/UmaNA4lkEijNBHRZOZEMolNvGXEDvgyHMI+OU3hDcMLXolB/4Xeo8U4pIqOrJUIioxd6CeFiGkqNEU2ghGEMpwaCpSXnUff4LMBINXnA=;TF3IvlL9zXoQxptTciv63Q=="
 ---

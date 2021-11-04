@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     height: 258
     isCached: true
 
-related:
-  - title: "Model Medicines Raises $4.1 Million to Discover and Advance Therapeutics Using its AI Drug Discovery Platform"
-    excerpt: "Model Medicines, the pharmatech company working to transform the drug discovery and development process and accelerate the creation of life-changing drugs using artificial intelligence and machine learning,"
-    publishedDateTime: 2021-11-03T12:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/model-medicines-raises-4-1-million-to-discover-and-advance-therapeutics-using-its-ai-drug-discovery-platform-1030931720"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
-
-secured: "Hzs5F0rLoP/oQYqRXxB88YPBcYSyHm5DpB6lARXmQMZGTT+2owHaBFhHQLa1fsX1mFV7yhMc7Drz6XN1bjxtqiRffk45CzuZcqL/aXT+bm8SsBZf31BCm6SJD++Z1UlNDclVlkh67F8UifcY4VEJfcbX+1tKxoPNWRuypjiZh7UZ2ZXwiiBLPt29/NtXJO/+n4Eq012Nxy/32gvQJ3YDZ7s9V2BIz1mWlVlNQE+mmsaNBV8hlQflusd9i5leiq05zncGk/MoXQ5LhvZW4fcMyShhfAED6Db8p0rEql0ejysG2DxTRx5iQo16P1QdSKXaGvHwT3R8M29JBa/ue6ygG7VDjwLXKqMIxTVogu/7TOk=;X/v8zX9x52p8wRU8jmaflg=="
+secured: "VrHAAIgVyG2ue7/HTZcVckY1QKDs+JRkZu8uaTPKpuq4V8VoPIDR7QLHJPqXpbH3yDh0QapBvRCv5hTdqsarVh2vYYmpT/nbrpyCE8HxtjCa9TaGr92XrnK1+TZMCfqYBj3QhSvTKH54zTWa5GqlwkRHW9Et8vFBVPxHTPcAmdOYqpRvFOQcHtq4qgw39UN9LhCYmSXB+dby6lChoKRMMAc7Fzr5GAw/eweW0J2xwDYA5Y7yt92k8Oub7GvwlcpwwvKAXrHJ3lXskvN2G3UVkB01c6px82wHj3zCAof5DeyYItstCjF/Yh2fVma8r7+QHyFY9XsiRCbVGTQqj2of5c/AkMS1Qj0BwpRlhwBO3i4j+Z3DQ64H0Qjw1vn6s8H2R6IUWRDTbgWljo4vQpn++mmnoXwTgghqvYCBFF0JifR8Zmqj/ukcZvZaGrxvit75WWvoSVpKJI/gievcG/oplRc0Xtkhv4Bh/ATSqxgttlDslG4bI8nGEj8NvBHkBYfJgCkD/HDwAPxwMr1ot/LEVA==;mAJvn6IJ8IakaRnDW57qbg=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning a useful tool for quantum control, finds new study"
+    excerpt: "Researchers from the Okinawa Institute of Science and Technology Graduate University in Japan and the University of Queensland in Australia are amongst the first to successfully use machine learning to aid with accurate quantum measurement-based control,"
+    publishedDateTime: 2021-11-04T17:04:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/933820"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/dbc96609-915a-4020-afd9-2e7623e0b5a0/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Machine learning a useful tool for quantum control, finds new study (w/video)"
     excerpt: "Researchers show through simulations, that reinforcement learning, a type of machine learning, can be used to produce accurate quantum control even with noisy measurements."
     publishedDateTime: 2021-11-04T07:43:00Z
@@ -40,6 +54,6 @@ related:
         height: 256
         isCached: true
 
-secured: "Qt0h7qvprgd49pOa2hqrLfWWa3wbNpm75z5ljrcTrWyX+PWueSHEOuXYrlKWRUgGAKBrLvcFKAQtzFOA8TC85A/YmR2q9FVl/oXxfVLTghAMB04a89ZIsA1xirS+d29ROMp3rLmESPziagLE+SwNxwXl34dNZD7eLhe/nF/kp6ypoLjsIpYTeY0UdYIdzCepDyeYkVFKg0lFVT/pAd/e3/4OJBrqIKcWguAe1NMZTO681CL0xIUV6+8xPm+uINJG1o5XQgiqo1bny+kDE48QDwj5fbiZsS8eVR8N2feAvrLaXHkFrP2839n35f93zaa7OBCutlQt73jeEdOHLOIdSwREBM01mw6r7mDuUs+x/s8=;GPxkTr8gw5gGlaCcJcrhbQ=="
+secured: "YvNDjQGyyZTZzgCh7N4kPU8j9xOCBcNJMkpud0SYB03KxEpFP/5z++OHv94Z8Xg1oyw4m23a0w4E6PPFUwCYrduvvDtOJFIt8vQyHf0jKsO6UIF+jIdoVuhc6azBrNxC9BsxsnXHMh43Lj0BI1AkdNMbo2ZsY4Q0fMtRSboAwqPDIkUYq+vtopCFEZrrAZAL86E2aIS8UOS0dsZmoVpXwSbE5pZkwGIIeDomUyu6FSQYeDo6x7dykO65pFavHSa7juBX9q7fC44GN6CYtHqJmdrbWFHuIWFuoGIe3tFJGS56sD7nPjCIwPHvPO8j0sFtFuQvqXiXaNuk3Y1I/tzQYB1Qs338bm0CIzrcWUum36i9onGfFssNbuZE2rU4HJ+NsmL1HeYaZnav/UFbehCmgFCUSnbQqB69UeJWwnXTkZyHjRemMTF+GEihnZu5Lx/BsndpbcLbLmylnoxstVZP5quSuyxQvp0n4696tf++UHhJdr9W1GeDRaTPZD+KwKjCZ/9LPeORCS7BPKTVjJcgNA==;1dDIf6GXVSQEyISRKJICXw=="
 ---
 

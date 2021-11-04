@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief-th
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there/amp/"
 type: article
-quality: 62
+quality: 64
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610864514e627dae961910e1%2F0x0.jpg%3FcropX1%3D264%26cropX2%3D2440%26cropY1%3D0%26cropY2%3D1288"
@@ -61,6 +62,6 @@ related:
         height: 600
         isCached: true
 
-secured: "+QBQs0TqlQnsuiq8CNFGl6YGvgZcLeptPiVmmtaFpkdKM0WfOtJobPAtf4jPTxGnlFkkbSiZGDbwq4ABW3GP2QDcfJScm6awWORVGibTalcEe8xp9OxhRNZHgvuqd5SaxGbXhhYgZsILhhY6y5N9BX/sUojs/LLRZ1mt+pmJhFo8hOzzAFa/QybwkWCfwp7lEeDCG+eDNebMaHwuW0cMjSv+94bT+qiMM26jKoP5Q1IQ5h+Rb+nqRu0iWmvPm139Z3mXGx7iQ+vOOq8X6D8AG1DNjxKYqNowaOniXHGCPAkx9LTy5rsrlh59vGK1n3orIpqYIjKH9TwXtA0VHC/0nWVsaK8hC6CwPivTUfP14Gs=;f4DrD1685WVu4UREJKmdZA=="
+secured: "G44PSY9HpKDwpfrdeUg0Zen49l9hkftMHHWUcryYu7WOOg8OSSHhmrKlQ//8gwd5zO3HpxxQEg2s/01uTF3M0APuT9XPt99FozIV+5qy+ZNTrDYlNzU8MTmtmF+ANBrGgkJrtVTO5BqX/3tl3lTsJvABh1oUFpzjBlYQyh03qLWW7YOd+6W4CoGbzm2JjynvMTo1qv6NKJZbX0X2I4qeCiMXXWh2WpPNSGXCwEmxqBgX4GAN4lo+26PTKVppMfgb7m3agXt5x7UGBLuOjZidhyFl4gsGugBnB+q7QW0QbTsRZRyXDopT00/u1WVjG5Z5xzvhR4c6wrL8USEFgeODxpm4Ie3bXDdkFUzq3Fig3m9f3t/Wbax2hjv8atOgBuY3HUDzs6anJ1Q5keEkxkati0p5wneR7+AYg8D++CqAsC/f2IZLxz71DuakJINI9DGrcFI+mUpTEKLpb0+92yX5KSqkqnHjMnjtR8ouah8d+yq34SfsG8hA5jsSearXSZVECnC/gI4U0s6mWm/iehnLzA==;6yuWhItrIDB8L8pc3Eb/qA=="
 ---
 

@@ -1,76 +1,169 @@
 ---
 category: news
 title: "Robots hit the streets as demand for food delivery grows"
-excerpt: "Remote operators keep tabs on multiple robots at a time but they say they rarely need to hit the brakes or steer around an obstacle. When a robot arrives at its destination, customers type a code into their phones to open the lid and retrieve their food."
-publishedDateTime: 2021-11-04T15:20:00Z
-originalUrl: "https://indianexpress.com/article/lifestyle/food-wine/robots-hit-the-streets-as-demand-for-food-delivery-grows-7605986/"
-webUrl: "https://indianexpress.com/article/lifestyle/food-wine/robots-hit-the-streets-as-demand-for-food-delivery-grows-7605986/"
-ampWebUrl: "https://indianexpress.com/article/lifestyle/food-wine/robots-hit-the-streets-as-demand-for-food-delivery-grows-7605986/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/food-wine/robots-hit-the-streets-as-demand-for-food-delivery-grows-7605986/lite/"
+excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
+publishedDateTime: 2021-11-04T04:28:00Z
+originalUrl: "https://www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+webUrl: "https://www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+ampWebUrl: "https://www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Indian Express
-  domain: indianexpress.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://images.indianexpress.com/2021/11/fooddelivery_robots_AP.jpg"
-    width: 1200
-    height: 667
-    isCached: true
-
 related:
-  - title: "Robots Hit The Streets With Rising Food Delivery Demand"
-    excerpt: "Years back, it would appear an illusion to have machines perform human tasks like helping to deliver messages. It would"
-    publishedDateTime: 2021-11-03T12:55:00Z
-    webUrl: "https://techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/"
-    ampWebUrl: "https://techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/?amp=1"
-    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/?amp=1"
+  - title: "Robot food delivery, coming soon to a campus near you"
+    excerpt: "Robots navigate the Bowling Green State University campus in Bowling Green, Ohio on Thursday, Oct. 13, 2021. Robot food delivery is no longer the stuff of science fiction. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-02T11:12:00Z
+    webUrl: "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1"
     type: article
     provider:
-      name: techbooky.com
-      domain: techbooky.com
+      name: WRAL TechWire
+      domain: wraltechwire.com
     quality: 59
     images:
-      - url: "https://techbooky.com/wp-content/uploads/2021/11/delivery-robots.jpeg"
-        width: 1024
-        height: 731
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/11/Starship_Robot_AP_Asset_ID_19957182.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Robots are Taking Over on Streets as Pandemic Paves Way for Contactless Food Delivery"
-    excerpt: "While robots were being tested in limited numbers before the coronavirus hit, the companies building them say pandemic-related labor shortages and a growing preference for contactless delivery have accelerated their deployment."
-    publishedDateTime: 2021-11-03T09:30:00Z
-    webUrl: "https://www.news18.com/news/buzz/robots-are-taking-over-on-streets-as-pandemic-paves-way-for-contactless-food-delivery-4398593.html"
-    ampWebUrl: "https://www.news18.com/amp/news/buzz/robots-are-taking-over-on-streets-as-pandemic-paves-way-for-contactless-food-delivery-4398593.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/robots-are-taking-over-on-streets-as-pandemic-paves-way-for-contactless-food-delivery-4398593.html"
+  - title: "Robots hit the streets as demand for food delivery grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-02T16:51:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
     type: article
     provider:
-      name: CNN-News18
-      domain: news18.com
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Robots navigate the streets to deliver food"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
+    publishedDateTime: 2021-11-02T11:52:00Z
+    webUrl: "https://www.foxbusiness.com/technology/robots-navigate-streets-deliver-food"
+    ampWebUrl: "https://www.foxbusiness.com/technology/robots-navigate-streets-deliver-food.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/robots-navigate-streets-deliver-food.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38e40a5e-bee5-4131-86c8-2181899036b0/6c525105-2878-4218-a8f2-c3c36cbaa94d/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Robots hit the streets as demand for food delivery grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-03T13:12:00Z
+    webUrl: "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    ampWebUrl: "https://www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Little Robots Like These Are Fulfilling More Food Orders as Demand for Delivery Grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-02T05:14:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3026856/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3026856/?amp"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3026856/?amp"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
     quality: 52
     images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/11/robot-163592962016x9.png"
-        width: 1600
-        height: 900
+      - url: "https://media.nbcphiladelphia.com/2021/11/GettyImages-1230959993-e1635829583506.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Do I tip the robot? Food delivery changes as demand grows amid the COVID pandemic"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
-    publishedDateTime: 2021-11-03T09:58:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article255505791.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article255505791.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article255505791.html"
+  - title: "Little Robots Like This Are Fulfilling More Food Orders as Demand for Delivery Grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-02T05:16:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3369974/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3369974/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3369974/?amp"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 34
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 52
+    images:
+      - url: "https://media.nbcnewyork.com/2021/11/GettyImages-1230959993-e1635829583506.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Invasion of the Food Delivery Robots? Here’s What the Future Holds for the Latest Tech"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots -- knee-high and able to hold around four large pizzas -- are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-02T15:56:00Z
+    webUrl: "https://altdriver.com/gearhead/ap-robot-food-delivery/"
+    ampWebUrl: "https://altdriver.com/gearhead/ap-robot-food-delivery/amp/"
+    cdnAmpWebUrl: "https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/gearhead/ap-robot-food-delivery/amp/"
+    type: article
+    provider:
+      name: altdriver.com
+      domain: altdriver.com
+    quality: 51
+    images:
+      - url: "https://dummyimage.com/300x250/cccccc/ffffff&text=Advertisement"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Robots deployed in greater numbers as demand for food delivery grows amid pandemic labor shortages"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large"
+    publishedDateTime: 2021-11-02T13:54:00Z
+    webUrl: "https://ktla.com/news/nationworld/robots-deployed-in-greater-numbers-as-demand-for-food-delivery-grows-amid-pandemic-labor-shortages/"
+    ampWebUrl: "https://ktla.com/news/nationworld/robots-deployed-in-greater-numbers-as-demand-for-food-delivery-grows-amid-pandemic-labor-shortages/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/robots-deployed-in-greater-numbers-as-demand-for-food-delivery-grows-amid-pandemic-labor-shortages/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 45
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/11/AP21305694967862.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Robots hit the streets in US as consumer demand for food delivery grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
+    publishedDateTime: 2021-11-02T22:35:00Z
+    webUrl: "https://kdminer.com/news/2021/nov/02/robots-hit-streets-us-consumer-demand-food-deliver/"
+    type: article
+    provider:
+      name: Kingman Daily Miner
+      domain: kdminer.com
+    quality: 39
+    images:
+      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2021/11/02/robots_hit_the_street_9_web.jpg"
+        width: 715
+        height: 406
+        isCached: true
 
-secured: "4dwRdLkwRdJ5cnLzqubI2gDC+/147mbaR+K0ujhOrl3tWzTxiH/udTel6+xhXr9CYGYsSSTLds0f32QgL+mE0DOtoRc2Kx2q2qT7BvXioOe0H2Bb+M1xBFHqOPmtxvDHSlCyghnL3OSIGJgihlwrXehSaA7Fu8r6ame62jeEGTJULhuqTXS6pNsJEarRWiqu8pJ2wqBQuJ7dRoZQBPEHRvEtDzhNwniSbMeB9C8Vl1xaPSGAzEj/WIasH6xdiSWE2tRlG/I81JbIog/8Suhj9YKreVLMUybNmPaKU5Amq0e+BXW5Y9FcLnJlOyt1VEy5uCNZcC/w3d1zyiBNO+1Xjf4k1o2ERj9QEM/i1i6EoBM=;0dwxEmlqvyP0hBxyYBn+/w=="
+secured: "ku5m0634ho5wdc6aOKxsG0M/Vse6thwpdIDh9PvRff5nCrnJoqdr60eS5V35JUNT2mrMfICWmsTioIAGbAjXOkJHh6siJFBJAsxYjPLccp8zf54j70VA6g7UJ+ofWTqbiKmYLKMXQiqkAauwqYQ57b4tpFQDULlpMVkV04E6EwMwV0aoKFvzxV6KuLgacD+GjYjWaCA9ozl9dQ/w7gNiQ3SJaCbvAVbY3pna/FnKwDARx2XAs39pfhdDfVSJSHGrXVGu3pC3FufjAPnPzJANmsSrfeW52u0bHOCMUrV815BgjYCnY8dKhPO7DWhIrnOsp2reIEvIX+OBiVBLmN1HYPcI+07jvXemEB71wKrxoJf5wPYlPXRX93loi9UzaPl0OB+vV9C/H8BuIsNypUAI6pjCWf2QvbHZqaFVE8VWt/lCu1Yggk0lmvgXaLJgYRRciUC4So2TSGdHCb6VjXC2jKZTS/Gq+7cQyiUQfbMlZmkM6o7jm9/D7/XKKKUtLHci6B9lh0MQAx+hCjaHBQDCQQ==;/D5fsGI9DsFygzfk+gjkoA=="
 ---
 

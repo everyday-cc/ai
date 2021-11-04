@@ -2,17 +2,21 @@
 category: news
 title: "Iron Ox Launches Grover, an All-New Autonomous Mobile Robot"
 excerpt: "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile support robot named Grover. Grover is not your average farmer."
-publishedDateTime: 2021-11-02T10:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-iron-ox-launches-grover-an-all-new-autonomous-/2021/11/02/9482131.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-iron-ox-launches-grover-an-all-new-autonomous-/2021/11/02/9482131.htm"
+publishedDateTime: 2021-11-02T11:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/iron-ox-launches-grover-an-all-new-autonomous-mobile-robot-1030925086"
+webUrl: "https://markets.businessinsider.com/news/stocks/iron-ox-launches-grover-an-all-new-autonomous-mobile-robot-1030925086"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -40,6 +44,6 @@ related:
         height: 337
         isCached: true
 
-secured: "o/+elQzl8Y2z4XsGzF7Lvk/a35rJ98XA/AxxaJ+s24L2EdngM9KDp8BHCsQw7MTe0hokfd3+GYVeflT39dcuQUSqYo+dmYek20QIkSemYYEriz5knkvEmcEbK317qXMtL0zCLeO42oDvhPTZx9bZ77cQcXq0JfBvtn5a5nERn0ZCRYzW7B1W2OByxRbjCQdu8yGJeF17/LMX9+GVlicp3UmXPVcqZyu2AVDIFRyJLDYbF8cCcjOH8HzeJPA3py7VjwW4x2LGLepc1KcHbkBJIeU/cFweeOp9kBIRsAyzH42NjSRZmVubeh0BG9/ES8ZLkLLxowkUpdrMa4MRLizyxhBmUfjGIRM/wAB/8FiulH0=;a5zPnigbDSbDhyjPT5SH6w=="
+secured: "a3wiGdUz9tzsrHnaf+ZT8sBGyyeLuJSP1scFttWzZxzzw9kcizfTmVMAnHbXBXjK2vdIpqawQ22QKaoLWCAUkLvYDihDX2ryAMyipUGNQXY0w5dgJfEIagn6Mr5FPKRk37+uXoouRubScTJH9k9ROyPH+CSGmnqq0rlzfFJjs7lMVEeo9cTW2opdBB7I6RQ9GeAZRLlXrvNavwNdnKwPGeusWhT2y+p+VfJ4NI11YYoXOwJEh9FeYsZvQ+EkJ4xaXuxByP37OmJYuye09MGs+iktQMv1dBdKPWu8vHpq0n8DzV5JwaiRId1rHztZypN7dPajZXbwz2elGwhmF+v2pxYWduQhWMwKTvB4PMOO7Zs=;+f2OG/5myaxfdj3weaP0Wg=="
 ---
 
