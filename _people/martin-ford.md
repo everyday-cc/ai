@@ -10,7 +10,7 @@ website: https://t.co/NRuuR6oILg
 twitter:
   username: MFordFuture
   url: https://twitter.com/MFordFuture
-  followers: 48907
+  followers: 48909
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Martin_Ford_(author)
