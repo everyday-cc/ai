@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Leaders in Artificial Intelligence Reconnect at ODSC West 2021 in San Francisco"
-excerpt: "ODSC, the largest applied data science conference is making a return in-person and virtually this November 16th-18th in"
+excerpt: "ODSC, the largest applied data science conference is making a return in-person and virtually this November 16th-18th in San Francisco, California. This event is"
 publishedDateTime: 2021-11-03T16:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/n23864287/leaders-in-artificial-intelligence-reconnect-at-odsc-west-2021-in-san-francisco"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/n23864287/leaders-in-artificial-intelligence-reconnect-at-odsc-west-2021-in-san-francisco"
-ampWebUrl: "https://www.benzinga.com/amp/content/23864287"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23864287"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/leaders-in-artificial-intelligence-reconnect-at-odsc-west-2021-in-san-francisco/article_f770c7e3-573f-5906-9afb-33a56a1bdb22.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/leaders-in-artificial-intelligence-reconnect-at-odsc-west-2021-in-san-francisco/article_f770c7e3-573f-5906-9afb-33a56a1bdb22.html"
 type: article
 quality: 33
 heat: 33
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
-secured: "k0/Jnp8P/QZPJKdU/ul/gbnZQbdXX6J6ArVt8VtUAVY2iLBvZModZ3kRmCd77+04xAA/IT4fjyP+znuVNhpNaXc0R51PbK09Z9zmHbzDQa7c79HhuETJ4NXsqw+1P7ZCcAEo62sETPpU2Frygj6yfd5rhPg+z/TJdgyJTikIfCRKzTbNu5W8+MXQOfcEiWgQK4IMMIUo2Pz8MC3EHAZCwQwtR5oMBfg+S/vGXZ+Umr8o1YEiaHwgOXqlUY3gjO+x8IbGK8o8EMX/FQj94PM0gCo0JuyIwAxE5qqdpIgvPq3lpuFuHrBp3RTTEcfFEXNOFvsfbx0UQwVpn6syfsqS0L1X4KkthCltN0ULUHoZnKc=;t/y6xLfJViLV8qtz2dVGbw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "oALBfbt6sYM/wx0Xcxh+7ZhH+LnuJC2/5neAEvS8qTc0TlLyoRGD/b5CNyV9WR9v+XB49wQOp+b/2BPAQ5CiZSpNt5SF3mHrfweVo1ooEkcFNFIxi67tagqyJ8H+ehKTcA1+eBjdipvIzmCMxgTfLeiavWtx1I2dj4x7+TfhFC8EL1lusvq1CFwV9DV68/1u1lmi2fHnyZV+T9BWS80RHtQwJNMXAObcB/b8auoJdI8o5JxRe+1p2sAuiyLARuwgyHaBGSxPPiCloJyBjo3SEiaQ1K4Ute5VOW1PnBc5jLOAOclQ+TQfZQlFKNjJwfQE4oAxOqjgw4efbVhLC0rWPn/iTy1xFluKeTtLApDyspk=;3rfbyZMSSN8/fT/0pVEuJQ=="
 ---
 

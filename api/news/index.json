@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-04-deep-learning-ai-explained-neural-networks.md",
+      "title": "Deep Learning AI Explained: Neural Networks",
+      "excerpt": "Ballyhooed artificial-intelligence technique known as “deep learning” revives 70-year-old idea. In the past 10 years, the best-performing artificial-intelligence systems — such as the speech recognize",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/",
+      "originalUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Artificial-Intelligence-Neural-Network-Concept-777x583.jpg",
+          "width": 777,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-ai-explained-neural-networks/amp/",
+      "publishedDateTime": "2021-11-04T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-warburg-backed-hong-kong-firm-that-uses-ai-for-drug-discovery-files-for-us-ipo.md",
       "title": "Warburg-Backed Hong Kong Firm That Uses AI for Drug Discovery Files for U.S. IPO",
       "excerpt": "Insilico Medicine, a Hong Kong-based company that uses artificial intelligence to drive drug discovery, filed confidentially for a U.S. initial public offering last week, according to people familiar with the matter.",
@@ -1182,57 +1225,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-the-future-role-of-ai-and-the-uk-national-ai-strategy-insights-from-professor-mark-girolami.md",
-      "title": "The Future Role Of AI And The UK National AI Strategy – Insights From Professor Mark Girolami",
-      "excerpt": "This article captures the key insights from an interview with Professor Mark Girolami, the first chief scientist of the Alan Turing Institute, the UK’s national institute for data science and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/03/the-future-role-of-ai-and-the-uk-national-ai-strategy--insights-from-professor-mark-girolami/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/03/the-future-role-of-ai-and-the-uk-national-ai-strategy--insights-from-professor-mark-girolami/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61822d28e9dc8960891c7a9b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/03/the-future-role-of-ai-and-the-uk-national-ai-strategy--insights-from-professor-mark-girolami/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/03/the-future-role-of-ai-and-the-uk-national-ai-strategy--insights-from-professor-mark-girolami/amp/",
-      "publishedDateTime": "2021-11-02T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

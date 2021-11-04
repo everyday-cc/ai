@@ -2,6 +2,111 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-10-20-ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs.md",
+      "title": "AI chatbot justifies sacrificing colonists to create a biological weapon...if it creates jobs",
+      "excerpt": "If doing so will create wealth, absolutely, at least according to one AI Ethics chatbot. The AI Ethicist, the Allen Institute for AI's Delphi, is a simple webform where you pose an ethical question and ask Delphi to ponder it. After some electronic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
+      "originalUrl": "https://www.techradar.com/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/p2dPCXWPqTd2nkWmhEQRVa-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
+      "publishedDateTime": "2021-10-19T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6.md",
+      "title": "With Tensor, Google bets on its own chip design for the Pixel 6",
+      "excerpt": "I’m not sure there’s ever been a phone we knew more about before its official launch than Google’s Pixel 6 and Pixel 6 Pro. But in a world of samey Android phones, Google made some interesting choices,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/",
+      "originalUrl": "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Screenshot-2021-10-19-100548.jpg?w=1024",
+          "width": 1024,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/amp/",
+      "publishedDateTime": "2021-10-19T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer.md",
       "title": "Google's Tensor chip aims to make the Pixel 6 smarter and last longer",
       "excerpt": "In an interview with CNET, Google executives talk about why they went through the trouble of building a chip for the newest Pixel.",
@@ -1083,110 +1188,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-autonomous-mobile-robots-sales-market-size-soaring-at-159-cagr-to-reach-600-million-usd-by-2025.md",
-      "title": "Autonomous Mobile Robots Sales Market Size Soaring at 15.9% CAGR to Reach 600 million USD by 2025",
-      "excerpt": "With an impressive compound annual growth rate of 15.9% during 2018-2025, the global Autonomous Mobile Robots market valuation is poised to bolster from USD 180 million in 2017 to USD 600 million by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/autonomous-mobile-robots-sales-market-size-soaring-at-159-cagr-to-reach-600-million-usd-by-2025-2021-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-mobile-robots-sales-market-size-soaring-at-159-cagr-to-reach-600-million-usd-by-2025-2021-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience.md",
-      "title": "Contextual AI In A Summer Of Sport: Making The Most Of A Captivated Audience",
-      "excerpt": "Visit Seedtag’s site to hear more For sports fans, 2021 has proved to be the summer of sport that 2020 never was: drama, excitement and passion to bring nations together. This summer, audiences were treated to EURO 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616d87b8ba8a26abd01463cf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/amp/",
-      "publishedDateTime": "2021-10-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -39,20 +39,6 @@ related:
         width: 550
         height: 413
         isCached: true
-  - title: "what are jeff bezos and elon musk investing in now?"
-    excerpt: "Currently, Musk is worth $182 billion, and ion, while Bezos' net worth is $181 billion. In recent months, shares of Amazon and Tesla have soared upward, resulting in greater wealth for both CEOs. To read more,"
-    publishedDateTime: 2021-10-30T16:55:00Z
-    webUrl: "https://www.ictsd.org/business/jeff-bezos/what-are-jeff-bezos-and-elon-musk-investing-in-now/"
-    type: article
-    provider:
-      name: ICTSD
-      domain: ictsd.org
-    quality: 24
-    images:
-      - url: "https://www.ictsd.org/wp-content/uploads/2021/10/how-jeff-bezos-sold-20k-a-week-early-amazon.jpg"
-        width: 550
-        height: 366
-        isCached: true
 
 secured: "DrEyv7nBmiqsBt+i1cOvdVYGScEZKRSEESaFqYjWw+jjltdfsMsjHKZAUM3VPQNlvKfHJ7Opqo+Rtpdk4MUJRbbnvtVS4s8U1liFB+/YZPIZf1YUck0Cog6Dmoj6urLOqiTk8nbWUVoZRqr+3JZNbvHeBk+wI5PgHyhjJrf+Hpve7iwq5ytNZVCnV1cB7LE03njp/hxRZmR3qj11XivWLjjkvXi7zISJwSAJqiEJnCrbbUGLMLEK9ygdxIgOItJ674gWupH/4hnZX6/MnEuas3jW6TpDdlH1gZ9CLV+U2R0lwffecbHB3JpmQDGGHFcxWUcmYMwXLpqyiHmyR6TXRt1HKEovsncIFcYIheiIiuNlv4aLyi1ncIjWnXJyP+tHtCXM+vmGzghwgA5q6Ir426E/7Dlj1EHnpeczuwSr5/0xeV4dbalEyaqZVxUmPalwR14xrZWCX+O3xq3MxMv3ceCfW3t+FO/URg/m+b466YdOKz/IU8XfEm66qcvNy5GjXLQKTfo8iqxnTcGWAA/j9Q==;d1TD8z6keyE8z/ooENQkZw=="
 ---

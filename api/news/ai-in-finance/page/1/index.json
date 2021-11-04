@@ -237,6 +237,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-29-a-book-on-trading-money-machine-makes-it-to-the-market-shelves.md",
+      "title": "A book on trading \"Money Machine\" makes it to the market shelves",
+      "excerpt": "The entrepreneur, affiliate marketer, investor, blogger, and author Manish Yadav has recently launched the book Money Machine on 8th August 2021 in Mumbai. Th",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaysiasun.com/news/271607902/a-book-on-trading-money-machine-makes-it-to-the-market-shelves",
+      "originalUrl": "https://www.malaysiasun.com/news/271607902/a-book-on-trading-money-machine-makes-it-to-the-market-shelves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ani1635524890.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-how-financial-services-firms-are-playing-a-pivotal-role-in-driving-progress-on-sustainability.md",
       "title": "How financial services firms are playing a pivotal role in driving progress on sustainability",
       "excerpt": "The recent IPCC report was the latest  urgent call for action on climate change, and global attention is firmly fixed on the upcoming COP26 meeting of world leaders in Scotland. And while politicians and policy-makers will be central to determining how we respond,",
@@ -1288,50 +1331,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-what-are-the-threats-and-opportunities-of-data-science-and-machine-learning.md",
-      "title": "What are the threats and opportunities of data science and machine learning?",
-      "excerpt": "As with most things, many of the threats and challenges in using data science, artificial intelligence and machine learning ... working in financial services, to have access to reams of data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
-      "originalUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F6%2F2%2F2%2F2632266-11-eng-GB%2Fpexels-hitesh-choudhary-693859.jpg%3Fv1?source=ftadviser",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FTAdviser",
-        "domain": "ftadviser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
