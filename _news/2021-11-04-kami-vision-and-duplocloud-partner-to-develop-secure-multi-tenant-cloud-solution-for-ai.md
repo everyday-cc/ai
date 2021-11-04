@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Kami Vision and Duplocloud Partner to Develop Secure, Multi-Tenant Cloud Solution for AI"
-excerpt: "Kami Vision, the provider of an edge-based vision Artificial Intelligence (AI) platform and Duplocloud, provider of the industry's-first unified DevOps automation platform for the cloud, announced today the companies have joined forces to ensure users a secure,"
-publishedDateTime: 2021-11-04T05:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kami-vision-duplocloud-partner-develop-secure-multi-tenant-/2021/11/04/9484432.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kami-vision-duplocloud-partner-develop-secure-multi-tenant-/2021/11/04/9484432.htm"
+excerpt: "Kami Vision, the provider of an edge-based vision Artificial Intelligence (AI) platform and Duplocloud, provider of the industry’s-first unified DevOps automation platform for the cloud, announced today the companies have joined forces to ensure users a secure,"
+publishedDateTime: 2021-11-04T04:03:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-artificial-intelligence-bea293ca2bf8bd8fa4afefb4607f7c3d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-artificial-intelligence-bea293ca2bf8bd8fa4afefb4607f7c3d"
 type: article
-quality: 10
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Kami Vision Unveils AI Vision-Based Fall Alert System for Elder Care"
@@ -34,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "en65BNF9bDXjvlArf/xWToEkS6Tvxb/otrHeM+zCxOBbRSeKmX37JSOE3nV/oKRh52aDV56muRA3ccaPo5++LS6jRszFFgf8m/10huXP9eDzqDAw3o6oS+u3gk1XZ2joJ+kUwXDBbBisQn5qxWZ6zSmiLyNeSOnhJJ6V/epilc5BVzus1FXv7JkG2ra/RbAAs+j3uq6gXCfyerlNQXfPtm/OuZCUhOJIBx+8ypVd1krWgV6Bbok9Jpd6vtMEeE5CJDvL3Gm/itOkiUEwYn5gzuWQlGpdH/FMoWGcnGaEGh8ZS7n+otHL9drrUynDgwFC1IKKDrWUKQiRkaOviFAFFuabTZbLLPPGdQM+A/ZX4Io=;fBvYmOq7qcmKGj2LU3R1pQ=="
+secured: "46+cYE16Woam/qzwHEyB2ji3VE7bbgtHscX9J3PRfIlWn6hiJfDp8H7V4vAkbe8hIwNxsVz5F1yGSmMCXtNEQFbC7Nm2OrZSoOzD+qEYWR7xo2PjofXO5SePt2pcjaZSKg9WMkLQCIEwHm71y6SmVBGyZ36kdeMGw7SPm+0T8AXhKStGNB37lSUPbHnSX0An7Q7TBuYTGe+tuAUyDsVxKbBK/Uq3hL+FNrK1KFDczKgpag+YyymbaXQRc7MmzItK0ietKSyXxJqyAJTRUFm9X2WQLd5/JLHCDh+AAHwz2s0FBq7oK9HF+fq9OsXIt8dNrrJ5B80IAOnRWU4DcdeZjC3f/1VwYVYy286IVgwBQ3Q=;ECBFzVAnx+TMsTlBGdw7OQ=="
 ---
 

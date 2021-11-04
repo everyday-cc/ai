@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-04-momenta-raises-200-million-in-self-driving-cars-push.md",
+      "title": "Momenta Raises $200 Million in Self-Driving Cars Push",
+      "excerpt": "Chinese self-driving startup Momenta.ai has raised a further $200 million from investors including SAIC Motor Corp. and billionaire Jack Ma’s Yunfeng Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-03/china-s-momenta-raises-200-million-in-self-driving-cars-push",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-03/china-s-momenta-raises-200-million-in-self-driving-cars-push",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in4WAP_JKJXg/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has.md",
       "title": "Scale AI acquires SiaSearch to give companies the same data engine superpowers that Tesla has",
       "excerpt": "Scale AI, the five-year-old visual data labeling company, has acquired a small startup that could help expand its reach in Europe and speed up development of its newest product. Financial terms were not disclosed.",
@@ -1396,40 +1448,6 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-baidu-inc-bidu-outpaces-stock-market-gains-what-you-should-know.md",
-      "title": "Baidu Inc. (BIDU) Outpaces Stock Market Gains: What You Should Know",
-      "excerpt": "In the latest trading session, Baidu Inc. (BIDU ... is projected to generate $100s of billions by 2025. From self-driving cars to consumer data analysis, people are relying on machines more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20?amp",
-      "publishedDateTime": "2021-10-20T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

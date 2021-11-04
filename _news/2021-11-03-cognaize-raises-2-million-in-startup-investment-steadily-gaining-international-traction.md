@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "AI Verse, a Deep Learning start-up, raises €2.5 million from Innovacom and Bpifrance"
-    excerpt: "Based in Sophia Antipolis, AI Verse is developing new technology to help companies efficiently train their Deep Learning networks and create future vision-based applications. The company, which specializes in Deep Learning solutions for the computer vision market,"
-    publishedDateTime: 2021-11-02T11:07:00Z
-    webUrl: "https://www.actuia.com/english/ai-verse-a-deep-learning-start-up-raises-e2-5-million-from-innovacom-and-bpifrance/"
+  - title: "Momenta Raises $200 Million in Self-Driving Cars Push"
+    excerpt: "Chinese self-driving startup Momenta.ai has raised a further $200 million from investors including SAIC Motor Corp. and billionaire Jack Ma’s Yunfeng Capital."
+    publishedDateTime: 2021-11-03T23:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-11-03/china-s-momenta-raises-200-million-in-self-driving-cars-push"
     type: article
     provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 47
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/10/AI-Verse.jpg"
-        width: 800
-        height: 400
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in4WAP_JKJXg/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "NmpD9HAER1XyszhKfb/jkcVEKVLN2r5Wee+pXh/68KJCKs/s4xAFGSgBkhf8giApflBFyxbM3qGgEYHMqQRadzxiQJZ/QrJK6clWehDC+ER4ebqD5QAw5zC3eb4V8eB8kdwZHF+xDdfu4zt6x3um13xxM8bNuqMTr8c6lyx8WfXVcpEDQhrvWhngPbobGo3ab7l/el/Qt8kxKZMJEzFqChHs6hUDyumGR4QKoFf236CvDI6/oZDuw1B8LExyzp6NiKwuFR7zW51g7ihL59ILLiM2vH/+egZjJaQ/NDfNqtLDHji7rDvv0CLPsUQwUWaKPB2hzWSIXBi+ntlRAQUMZeNYul2GJr221JkN8G+sOEo=;NzKfHBCMGbx/6cSHJUOF9g=="

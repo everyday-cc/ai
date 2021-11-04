@@ -28,20 +28,6 @@ images:
 related:
   - title: "MIT Centre for Future Skills Excellence Concludes the 5-Week, Short Term Course on Artificial Intelligence for Teachers"
     excerpt: "MIT Art, Design and Technology University concluded its unique 5-week and 2-credit Short-Term Course on Artificial Intelligence in Education that attempted to upskill teachers from various colleges and schools all over India,"
-    publishedDateTime: 2021-10-30T14:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-mit-centre-future-skills-excellence-concludes-5-week-/2021/10/30/9481015.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/1674545/MIT_Artificial_Intelligence_Course_for_TEACHERS.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "MIT Centre for Future Skills Excellence Concludes the 5-Week, Short Term Course on Artificial Intelligence for Teachers"
-    excerpt: "MIT Art, Design and Technology University concluded its unique 5-week and 2-credit Short-Term Course on Artificial Intelligence in Education that attempted to upskill teachers from various colleges and schools all over India,"
     publishedDateTime: 2021-10-30T18:46:00Z
     webUrl: "https://cloud-computing.tmcnet.com/news/2021/10/30/9481015.htm"
     type: article

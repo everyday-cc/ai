@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 92
 published: true
 
 provider:

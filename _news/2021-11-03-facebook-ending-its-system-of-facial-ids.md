@@ -2,17 +2,17 @@
 category: news
 title: "Facebook ending its system of facial IDs"
 excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-publishedDateTime: 2021-11-03T07:29:00Z
-originalUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
-webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+publishedDateTime: 2021-11-03T07:27:00Z
+originalUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - Facebook AI
@@ -782,6 +782,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "v8jp8ysCHfGgLgMbHrnFBRTmVlgf1SN4/PWIIW2phDxvsVZaMY++mjPi7sikqQaRvNIn7AsLDgC0AY77zqJiyGx5mrui5JnTTDy9VNeRE+HVT5sN6DJQ4O86Ph1ut4UUSbglwXG25BxJG11K10OIc3dEEQt6f4GWDg9nJKCEMncjqRPgQIjOQXS82CjcmtIwqoVkoEvKr8/NuI1oJbSAg547VQhA/jI9ecMnCZW9KQjW2vsDmB0+4H8eUEbm5YqUKKvgT3JDUNAFewRjVKBLFgv+o0+ICVuBnkvHpnW04Fw4LyFDM7vE6ARBT+n2RFJodLz+mX0x23mM3xt7lCgRO290zRrnCU4Bw0sjyqN0mS0=;PoB5Dar+Xae8ITTi2MUtyw=="
+secured: "o176M+SzVUDKnOuJRP2irMDPc1aWrC2VxEbl8minJMFUYIACt2/EiY9oYiXFFJ8npY+79vcnBKSqzp1+zn+8iaEZMzasMVnIbwPiggS/cvl8uCefW06todTqeJCEojwmccWQHeDxOsl5dbkANBpM427vb4U3FK8PXvumArBIrvdEhT1mczi+V+QTeGLzSPkc4awNxt4z9YT0gJzAvtPvriApOpkstXJTQWIb+JgB2MmLfjZgby0JzjVFCb2GiuAJjelos7wUAipjgPRjfDvUopDx6MXTZMJP7BVIPOpwRjfZhRug7nVigNBWj2IXvg6bIuBKK0TOYxQEUaxC76NlRZU+WghWNe1jH++OxM05Fr4=;2PAMoQBosb0K8kbe1dNa9g=="
 ---
 

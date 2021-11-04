@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-weiweis-artistic-rebellion-11635
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiweis-artistic-rebellion-11635683260"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Wall Street Journal
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ai Weiwei Traces a Century of Making Authorities Squirm"
-    excerpt: "A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China."
-    publishedDateTime: 2021-10-30T14:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000"
-    ampWebUrl: "https://www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-426503/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Artist Ai Weiwei on his father's exile and hopes for his own son"
     excerpt: "Over the decades, Ai Weiwei has become one of the most influential artists and activists of our time, which is why the Chinese government has long fixed its gaz"
     publishedDateTime: 2021-11-03T02:13:00Z
