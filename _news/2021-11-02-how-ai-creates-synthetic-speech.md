@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Making Artificial Intelligence Real"
-    excerpt: "What happens when we really combine organizational change and technology in the guise of artificial intelligence?"
-    publishedDateTime: 2021-11-04T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/amazonwebservices/2021/11/04/making-artificial-intelligence-real/"
-    ampWebUrl: "https://www.forbes.com/sites/amazonwebservices/2021/11/04/making-artificial-intelligence-real/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/11/04/making-artificial-intelligence-real/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6182c5b42592d7776de42480%2F0x0.jpg"
-        width: 1200
-        height: 663
-        isCached: true
   - title: "Google is creating “real” artificial intelligence. What will he be able to"
     excerpt: "Google is developing the Pathways project, a new architecture for neural networks that can perform many different tasks at once and master new ones. Google is developing an artificial intelligence-related project that will create “next-generation” neural networks capable of memorizing “thousands and millions of different tasks."
     publishedDateTime: 2021-11-02T17:15:00Z

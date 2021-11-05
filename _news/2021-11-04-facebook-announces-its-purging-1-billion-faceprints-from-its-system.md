@@ -771,12 +771,12 @@ related:
     quality: 24
   - title: "Facebook ending its system of facial IDs"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T07:27:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+    publishedDateTime: 2021-11-03T07:29:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 24
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199814388_4D1facebook1103_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
@@ -844,6 +844,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "k0F83qeuAQLIvQyZ3jVYh8BMJ/9fjKH2OZ6SxWCSjLs4WGZ3oqYFzGvpVuk7Zp6cafQ0Z8JYfyODiQEVrT4QLcSTH9m1HEsBZtNHkQtROL+NnoqDE5dZ2UpMLaftsnOEGQLwQydBwolnTpisC0+8McEAOmflb72V7dbTRGIu7dlJmdWueGF1aXsj5i0nDNdSeuAj2s6ZQA/aeO4DdVgNrYZTQg9Oa8NuVaqmxFb6mli93pFjcdULHRV30QRpLeu0bj339lX4B2LAykPYty/d4Uy3+TeeX29AiHWGrFMFxCt47Y1H7xcOe0zUil6bmqZrCbyq441wNTYvrM6obsMUfIMiw0CkonYBzaXrKDEanHs=;XEAZE+hn/iNIrXv0VNCAxg=="
+secured: "Hs5IASgP+696DZfUWHgSFKQVA2EqEQlV05KJ6GsRFlY/0bRARvxzCT4nf7L1KuQUhUCeOwXR5q/5auqMMXNkZqiQXL8IeLvpTO51MdBTfRu7YfLEiY/VgHbO8VNplZvXNXPfMDNRBaS2/7izZhyEvtgju1clgrOAwnqzLy5gR/HXSb8d0xy3DB9F3hXAyGiEJqIZA2CX0jPQAon9vHljWP/wWuILGTK3ApysoKt3U1knDkr+Q+ehY2CFvT5uEGL6oQMETI22lEguIZUCrdK1GMbRHaJ0pGDWto0Kq0f9jFsnq5t0N/IgvaqCOp6SUC/UaxVFNjP4VPmlordkiuEAwPq9TW+hicgItD1Du/+SK2Gktyp0k4VkmPgOuY5GdNi6AZo64xOyDMCZaM2OwWgKjUo4nOZ2u8bhwRdYHyXvwzsKwvdkv+TBHeyS6bzjvtAZhlsFdcNV4QJSmJ1Cj7PPDA9t050BjsZbGep2zTY4rd1R5gpV2MQ6VeIz1IAMcsSYgYq/+cPs3piXeI6N3n8MnA==;NPI6Q1qBjuM3ylhkvbLhcQ=="
 ---
 

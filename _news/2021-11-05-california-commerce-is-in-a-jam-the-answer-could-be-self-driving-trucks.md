@@ -3,29 +3,29 @@ category: news
 title: "California commerce is in a jam — the answer could be self-driving trucks."
 excerpt: "It’s the same old empty shelf, but the underlying problem is different, and for California it’s going to require an innovative fix: self-driving trucks. While the Biden Administration has taken some important steps to address the crisis by opening up ports 24/7,"
 publishedDateTime: 2021-11-04T22:37:00Z
-originalUrl: "https://www.pe.com/2021/11/04/california-commerce-is-in-a-jam-the-answer-could-be-self-driving-trucks/"
-webUrl: "https://www.pe.com/2021/11/04/california-commerce-is-in-a-jam-the-answer-could-be-self-driving-trucks/"
-ampWebUrl: "https://www.pe.com/2021/11/04/california-commerce-is-in-a-jam-the-answer-could-be-self-driving-trucks/amp/"
-cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2021/11/04/california-commerce-is-in-a-jam-the-answer-could-be-self-driving-trucks/amp/"
+originalUrl: "https://www.ocregister.com/2021/11/04/california-commerce-is-in-a-jam-the-answer-could-be-self-driving-trucks/"
+webUrl: "https://www.ocregister.com/2021/11/04/california-commerce-is-in-a-jam-the-answer-could-be-self-driving-trucks/"
+ampWebUrl: "https://www.ocregister.com/2021/11/04/california-commerce-is-in-a-jam-the-answer-could-be-self-driving-trucks/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/11/04/california-commerce-is-in-a-jam-the-answer-could-be-self-driving-trucks/amp/"
 type: article
 quality: 42
 heat: 42
 published: false
 
 provider:
-  name: The Press-Enterprise
-  domain: pe.com
+  name: Orange County Register
+  domain: ocregister.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.pe.com/wp-content/uploads/2021/11/TDB-L-PORTINCENTIVES-0120-8-1.jpg?w=1024&#038;h=682"
+  - url: "https://www.ocregister.com/wp-content/uploads/2021/11/TDB-L-PORTINCENTIVES-0120-8-1.jpg?w=1024&#038;h=682"
     width: 1024
     height: 682
     isCached: true
 
-secured: "V27Ftt8F42wlzenjX+OQ0ToamS6+s3eEL2hzr5SCvafYToA3yh95/CMAp3SVbe9pasLBR6kiXIcwt0WeWmJQqG7mJkAGfYqeb//XixuN3eINX4smwB5b7PMtyz6q3QHDEQYHDDz24XG+R+1Jt8Ni79wN+nP6M3M1Yma2U9yrJl90kpU7y2HbYLf3eO67FATYuAmg5vdATn191Yy873J6u67rjaH1hS9p6HYamuoAJA078e46HDchpbUldtHdq4EACURazUKdzR+fYs/tgsPwtZ3BfX3p/MNaB5oO9smXm1RnTvKGLx9ahWrWCLhAR5rs3hz35RGihM5XWOZUCXV5KnWkj7XdSxDDJK04WWFQzSE=;UsrsEcdm21HDv34ongP17Q=="
+secured: "w1qEKHo6i9EOutG0skq46PscO0nDHqvG5Si0eA/+dzDSpw603OCSOZNPgM/ntjDiz6qtq7lh86nZS0K2Uj5XiYquUUzqQ6nGQnVr4ljUCh8jGedPx9WyZoI5/HezElyJ8SEJUXpC0B1cIYIQ3MHrsERrqT6HUtkoXVFSAkdEQJb3bOfvwHWNa+uW1QNaU0325wreJijTBm3qwQa3lLA9rVhLCn7bxm8plX2o1oMtodibVTJVR+4V+EKd082X8o/aHtXQ8v+KmGyyPSBuezISbVpd/cKpEjw8T7P7ZJw6nlEG0ByjNrbIYVaGPFemLRuO+4f3eu9GsCMp/pI5jXjj/IU0KtVTsEbtTJqltf4eliE=;qAlcoNeOoSdbdQ/7vzgyEQ=="
 ---
 

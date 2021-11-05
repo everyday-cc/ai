@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-securi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "WhyLabs Raises $10M from Andrew Ng, Defy Partners To Bring AI Observability To Every AI Practitioner"
+    excerpt: "WhyLabs, the leading provider of observability for AI and data applications announced today the close of a $10 million Series A co-led by Defy Partners and Andrew Ng’s AI Fund, with participation from existing investors including Madrona Venture Group and Bezos Expeditions."
+    publishedDateTime: 2021-11-04T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211104005430/en/WhyLabs-Raises-10M-from-Andrew-Ng-Defy-Partners-To-Bring-AI-Observability-To-Every-AI-Practitioner"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
 
 secured: "r2kQdA1ciZripEE1DP78KBH3cn30VFCPaHqrTQ59cehH522yUx9MAJgT5fFHhkNFFpWy8lDo8etHL3T8wGDg9aDXO6sycfpxSrn3g8WDcvxByKi6tlahERKYQj2d4B9fDvEipeXR5Cbt53ATxqz3CrVjC0if/Gw4KLBxU/KbuAIT8VnxTHwivLtP/IkW8OkdnKumznlAqHHz2G9oC3MrdF6ftiTxy14JIio2Mye0uYOKrcsT5t0TZIGGWmaO0FEBm3hT8NnuO2Vjlon73aMIaVjJ0YA5RFynxW1/1gp531cPx2n3nO+sWRhDU8AYPdCcH4DZ0goBQ+BsGx+BsrAuZGACKdE8fdRMfDl5hCy4fa0bJjrHL1BbgkSplzXoLs+jHu/6B1e0iYrjurz/T36FK+iYwYvpaEuyi35sKb+sd0RzxLydCGPyjpIeUIpUOqNafpxLshRTelwaFdQ0+32Dn/6DbTod1PpEFZ1850O+VMefEloY2CuGGuW2EuddoidKrzfNYFxR7kt36eFjfUOSiA==;1vNd/b4wjSPUoNoTuhlxFA=="
 ---

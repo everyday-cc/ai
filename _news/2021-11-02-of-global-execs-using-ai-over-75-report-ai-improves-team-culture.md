@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/of-global-execs-us
 webUrl: "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.ciodive.com/user_media/cache/ff/77/ff778fe8c41cebded91465a628cf7d53.jpg"
         width: 770
         height: 364
+        isCached: true
+  - title: "How Artificial Intelligence is improving Agriculture?"
+    excerpt: "Artificial intelligence has transformed every industry in the economy, and agriculture has not been the exception. Farmers and food producers have implemented this technology to enhance production and related operations."
+    publishedDateTime: 2021-11-03T10:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-improving-agriculture-edinson-rivera-aedo"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHvYY-pOmTD-g/article-cover_image-shrink_720_1280/0/1635932674628?e=1641427200&v=beta&t=9GTqc4_Hkx_zOA1sWn5-TXfMKC-ajQIHaXQdsVNsOho"
+        width: 1280
+        height: 652
         isCached: true
 
 secured: "RV05/X9p5EZ02YgAx1NXF/+DUDD9CKTe9Ws0vFOx9GWVUemRSNVHP6g0lo741F+8yot8YxTl238+MZy7O9WALRJ+5K6obpLufk2ypMVSmFDExwGqb52fZ4HVTB0DN+PQL7Dzn75Ch9OnMfZbj10OMrDq1Lmk6zDM1+7D+16KIKBoZAxfQ0/5/7Jx6uEsXS7dbhfy6ZASO0/jw2FX7q+Adw8wnXPYTg7tP+pF5tRT7hiEs8/lwoeN9u6IWClpOokHMghwm4UNFjAM+vmcCER1z+Df4MRe/dHYmZ/j1TRbqYTo9AKHtQg13oHcZiIyZIwNieViYHfPU8EIfQANkr3xiLE2IRhYg1JKPXezeROl/MT2VEhCilk2JqHLu+9DXiL6tHaZZWU9WGLftsSxU8I5+C3/qD9b8pqg9DVNDCveIXQy96Qp2mPIcLvGXzMQONsEgahnq5r8CUyqTAr9fk/PZwXKzC2WWk/9rmR2oig5so9RrpbtPXd+bNJJz/GPkoS/pWewQE/uvgjb69qTW95eGg==;GwcBkvEp4EamPNFGSTKOcA=="

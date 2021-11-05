@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibilit
 ampWebUrl: "https://venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibility-and-risk/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibility-and-risk/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2015/09/fintech.jpg?w=1200&strip=all"
@@ -30,6 +31,24 @@ images:
     height: 560
     isCached: true
 
-secured: "+87DI1NEB9CpJajStxeeZDyRCv0VXKWBl/dV6FTK6EKVyM2F3lW6wCaemPZdY3VffmX8fh/FStdptlI701FA9heP3nJ5+YKkABZTKXNOazewzCCIblhBddogle8Pg4ZUYQfwuFIWHPbcFOj7YuxRr9E6X+4Qmdtiikd6Hhqqj8UaXHPN5TrS9aab5+d4oWHEV1URKuv5C4ytkps5ZcZEPuorTHZ5CKgL3WBIlVkIzKJP0YdIuvZQjWKk4+P6f3dQH/kHnxIJNXxCKaPlMlOOfPCJ78UWviTSzWmLuMna/1ULUMYgNjClIk4M+o4LFLs0LEFvZEnv4V9CrDcfOHGIRL1aYyXX+RMlOlDqiAuntgg=;ZWVHanqCvI9TOd3zckbZdQ=="
+related:
+  - title: "Making Artificial Intelligence Real"
+    excerpt: "What happens when we really combine organizational change and technology in the guise of artificial intelligence?"
+    publishedDateTime: 2021-11-04T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/amazonwebservices/2021/11/04/making-artificial-intelligence-real/"
+    ampWebUrl: "https://www.forbes.com/sites/amazonwebservices/2021/11/04/making-artificial-intelligence-real/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/11/04/making-artificial-intelligence-real/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6182c5b42592d7776de42480%2F0x0.jpg"
+        width: 1200
+        height: 663
+        isCached: true
+
+secured: "16uBL40zIBtjG3mIG2SCbk/rSnQRCC1yTkfHliXs3YGic4PxHpmvEeqxr+EaHumjkA0C+td/7V7SVD7NpgZ/KkX/OznZ2ooBLxTNWU9ddrRXeVOmmZ8tBnfmVLIsGK8sjOWKoG6QcI5P/X87hkf3RVrTCOJdX5PRydJ/OANLYymy47pnOa+bFIyxRIeIpBlTOApwcMcYMrYOi/9M8sog+npJG0xlT9BE6MFVNDUAPNnJDcu/5Cm1wiuKsj96im06/swBwywipR2fKQCEnDqrSB1mENa5vqpyMiMIodR9aUobCU4/pKpBWsBQ4ca30gEc8flG0WWB2BsHumLbsXu8N8BdyPUqMCKM7oBPg1h8ThogQu8k5r7Lf/Bfi7DZdnJIp92TQBRJmE8K005wW5W8NB5ORuLCF+xfJ+f4lctAVaB2m/6ikCZPKtlnqP1sX46hDCdeR0dchyehmqeki8eCRh4T7/XE4wESUYl0rYPSp3eRiMHNxd8gQTzVjNBbCgz3ArE2/RxAv2sD3spOWIH4NQ==;pBl8bSXAdSZZD8iVSLbVDQ=="
 ---
 

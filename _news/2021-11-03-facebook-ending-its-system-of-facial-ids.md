@@ -2,17 +2,17 @@
 category: news
 title: "Facebook ending its system of facial IDs"
 excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-publishedDateTime: 2021-11-03T07:27:00Z
-originalUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
-webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+publishedDateTime: 2021-11-03T07:29:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Facebook AI
@@ -844,6 +844,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "ccKo5F4wnGrnNHKSRk1XUQ7KmhuUvatJ4b/0bQobEgCiJY8P/o/hib5mjpZdz6cYX3yeLJt/6WSgo4lEksgklguBicm8X/RacJKbEJi4kfeMIZAvb6prUXOWzSGj90T+JEKo57533x0zppQ/hgscEbYLmzuWfLlflRPe0Puj+8KLkncinz0rhPbBxu/ZYggXxnkShMKXI1QGiUE/Kf1eeheCaNZjFzMwa7Y6yOxJ52w3rg2vQfMUwN3pQuqyYgyPdL0RWLSm8xSqCrmo00jucGWMH4rP7Kekmtz9mypHFtIfOBY2GG/O64izN4bWM5w1o7TXI+ZMey1KJTKjJbRBji8IJqRqzfWf78U4TUMCeb53W22uheYL8Ug80AwHX/VxKlrdyQrJ4JMl4oaK8sjRgeda8XT2K/Y1ZTgCth/dX1VcrZ2XY3mgwPCkVh4KXxFbau4kE5985TtFqDwzzo/HUhsVKseBT0gfvh1L6qlqJSepAq7r46PxzTdKjVt4Jag2/FystC9avrRHLc8xEfaP2g==;qv0CJBXjuY1/KQemClP3Gw=="
+secured: "WCw07wRDMssw2v9xITcpoi9+gTdsXUDQaxIdyQ8TESzjaYeZd/ml+YILyvefmXFcYRPnH0bG/w59Od6al7mu8ZgKv0VyZMybTIBrV4aWT5tufly5NP8dn/Pbu4d4d54a3Z9A1avWZj4GS/JRC4U5r7sQCrwelQzWycoI1Y2LlsewaJINSFBAk7Jjd7RENclKZ2a/BYF/tA8dhEb7eaTbbv1OIueoAKF1muxbqDz9MNEGd1dVtfRGVov3uvZL7RQxi0YWAmZcbxYVnQ3p1W5l5YmgLJltvAH8oqygjWMjqMG+EVcgSdhy+zohOdHRfNfDD+88mr+wL4iRt++XSTbvVGird4koBah57q3UEHYA568=;Dok/kU70xIw8rV9+PgkJvQ=="
 ---
 

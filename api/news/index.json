@@ -156,7 +156,7 @@
       "originalUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -196,7 +196,9 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -259,7 +261,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibility-and-risk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -299,7 +301,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {

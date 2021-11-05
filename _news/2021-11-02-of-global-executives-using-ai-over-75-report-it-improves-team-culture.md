@@ -53,6 +53,20 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "How Artificial Intelligence is improving Agriculture?"
+    excerpt: "Artificial intelligence has transformed every industry in the economy, and agriculture has not been the exception. Farmers and food producers have implemented this technology to enhance production and related operations."
+    publishedDateTime: 2021-11-03T10:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-improving-agriculture-edinson-rivera-aedo"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHvYY-pOmTD-g/article-cover_image-shrink_720_1280/0/1635932674628?e=1641427200&v=beta&t=9GTqc4_Hkx_zOA1sWn5-TXfMKC-ajQIHaXQdsVNsOho"
+        width: 1280
+        height: 652
+        isCached: true
 
 secured: "ApLGDMdmkynqaA56pXiYkwiYTM5/DRioZ1NhPFwuKCEjhLHSHa2L54pgNpi7zoDfvRFvDTJ0AY0RpXNVoXL428BPdtIp3uLzLBhPG+oQCu/PcYEU9hpcPQ/gRzEnkSvUUtc7cDvp4KCQW8VIhNB6jUcwkRadftktOClW/tPvVSWTiENMhCuL3W2DucaIBpXWNNqnSfSUm5FnLM+5Rurz7t3d+OhL/rKEYOXKZDGnRQtOBjI6QfZiFLe2uLo0dE8RIGobWYuxNLg13iBNG4bm4d72zESbEgVdVtUs8ga3IamBaE5aWe4mnmwOsbapmJnkhZm//JEZCb4ciiKVf+eBKETUZ60wgg54+pXQfm1ANs09G+hor4n6AXLzjMABH/sz3sd6unJDr9hW4s42Q6RoPwPZ5WQiSP+s5AT14umT3RxQYGkNjNTftUv+O+mjckBhpw+SCU4WUbL/9XeN+Wsur322K2S0VgODJGV3ctF0vOJK1wpl40KYLQxpS/vlkNPzPpJDdKq7wllgRJ5TOJxKGQ==;GxVz9D+oVI9S89Ckh+8d/w=="
 ---

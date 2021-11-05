@@ -36,7 +36,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 89
+    quality: 93
     images:
       - url: "https://static01.nyt.com/images/2021/11/04/opinion/04Swisher-image/04Swisher-image-facebookJumbo.jpg"
         width: 1050

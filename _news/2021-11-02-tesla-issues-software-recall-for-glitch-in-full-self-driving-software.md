@@ -119,6 +119,22 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "How Tesla Handled a Braking Bug in Public Self-Driving Test"
+    excerpt: "In a recall report to federal safety regulators Friday, Tesla put the problems like this: The company discovered a software glitch that \"can produce negative object velocity detections when other vehicles are present."
+    publishedDateTime: 2021-11-05T00:51:00Z
+    webUrl: "https://www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public-self-driving-test"
+    ampWebUrl: "https://www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public-self-driving-test?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public-self-driving-test?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a9a0a3e/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F0f%2F5d%2F638415b88cd0cc4b3eef174d6e53%2Ftesla.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Tesla recalls 12,000 vehicles due to glitch in ‘Full Self-Driving’ software"
     excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
     publishedDateTime: 2021-11-02T15:00:00Z
@@ -189,17 +205,17 @@ related:
         isCached: true
   - title: "Tesla’s ‘full self-driving’ delights and annoys with Jekyll-and-Hyde personality, drivers say"
     excerpt: "By Matt McFarland, CNN Business Drivers with Tesla’s “full self-driving” software often don’t know what their cars will do next. Tesla owners have been wowed by their cars’ new abilities, but some say they have also been alarmed and frustrated by the accompanying flaws."
-    publishedDateTime: 2021-11-04T00:09:00Z
-    webUrl: "https://localnews8.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
+    publishedDateTime: 2021-11-03T18:57:00Z
+    webUrl: "https://ktvz.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
+      name: KTVZ
+      domain: ktvz.com
     quality: 28
     images:
-      - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
-        width: 2560
-        height: 1441
+      - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "fCYlmfM5fWq8VOpbXd1Nv+QcDvhsVj8HxqS+vRixYDKEwJcoNajwXKLKgvxkGbNbki8UNTFyHCbubDFUnB1ERLW4mQtHuk3dwngjy+HM/ucpRmtglHr99vEa/XdLTGwqIl1scFuwLKmB/N8ntNy8v4D3OC8lKk41NWwG7aoyoc9dfAIOP8r/EFp4lIzOkU3qvssUwvb3+T9BQ8jdeQbLDP+d0PXHmJCoD4BNg/AOFDrn7zPkJGECuGF++Cf6CzKtHwj/0F5pRzEVy1353DGiibh4z4tnIu9NE4yLmAN4muy0DyHbDIDJESF258HT1wESuuU5xLwMgynEY21QZSJC3tm5CkNOMpIlV/MXKwc0TLziwB8DSyObQO6ZKDFj756UyC75GceGysjOwmF43Qk+W7ayY5HhjH9L5D5kNJXahlb91EFHRuyhkFXM/AOzezPpYXGprxyeoo3hN8jUIKiBI0rqcftzgTNfdd6Y/OyD7TuJDN+QFHHZCNIFg2mM0nZ4YYc3/moOhkLP5BfBgsvoMA==;y89d6oc5AwNLbe8GWtWtVg=="

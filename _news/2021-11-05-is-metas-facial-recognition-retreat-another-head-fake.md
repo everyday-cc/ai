@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-
 ampWebUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
 type: article
-quality: 89
-heat: 119
+quality: 93
+heat: 123
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
+  - Natural Language Processing
 
 images:
   - url: "https://static01.nyt.com/images/2021/11/04/opinion/04Swisher-image/04Swisher-image-facebookJumbo.jpg"
@@ -78,6 +80,6 @@ related:
         height: 1366
         isCached: true
 
-secured: "tBPkhCk5RuGPyuFqLFKm4afsIOYdyge4KLfyVGFjYtrAZwqJcMQBvgRUrnfL4VL1mMZhtHIxHg1YbXI/vX8ilta2xVUtfwqO2SjfFW3JhMLcGeBzgLLXZ20AJNBaOzQDyIyIVkO8wH9zoeQeTR3mX6ixMyk+F4ogpAcxKlyoMyeArrvTCFCO3zU4HzIE4N2OWmdOmvulfrpGYhdnwssjBXGJ3iKYXM1PmPd08UE4ttxiLEp4Q+1Gvx+bhYjT5HrN51E76N3ki8XRmY2CL2SlBur+3MIu7GGr7xY+1o5bAVli+NdWrdSO5v8pQXcZMlGA6g6+EGYcELz4V3nVZjSsZ1nROjgBHtFSVUzAl8ywx0w=;Sljl32oDOo9ubSx/0ZOhiA=="
+secured: "tf83KlNb4dcGREvwTJpLCoZVypVjVfVBlw8Vtz3jrD0HXJONpKw/Nnrm8tfQ3mgYIXRAfl+TnIAthUzb9J/AF4N4rjT55PVyNsVGF+IJ8rKpk/yNAFinNrK1mdYMoXL9NVTuKUFPxIOIYBxTTjyiLkmTD281IdXD5BoxYEEyUo1bWhTgnIMzwemZKyCzM5CVzWl8GTb7/BSbEjpsuNI9S5UTiaAopA/yUVGckUBNhkoEr4LPS2/7kcYOw78zJ5ycHLsoqMjkXjrOzggTkW8QHY0mAeDnXU0y+t+TvB0GK0gNvC5yeoL13QzVDLfS8Fal24VfV1JvCOCIQJ45iYkWu32VeEL/f9L/rZM4vIBupuMDPsg4JmS3BKXJ3ahi6gTA9RLa8Sx1RxkIGHoXGF0VgXhlH9ZhxI81piHvlXpFMo6VhjK3cosLLMGm4Ofc2R2ft8B0MoESWPSz5JXgvE75pgnPwNYPayLyHiPjb9odxRQ5bjy+zcf8FLpfsyu4weFa492sZhz1344AwYftYy1frg==;rLl2wfO4bavcBKw52BuJHg=="
 ---
 

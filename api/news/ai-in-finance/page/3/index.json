@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-30-the-ai-bias-problem-and-how-fintechs-should-be-fighting-it-a-deep-dive-with-sam-farao.md",
+      "title": "The AI-Bias Problem And How Fintechs Should Be Fighting It: A Deep-Dive With Sam Farao",
+      "excerpt": "As is normal with every developing technology the infiltration of AI into the Financial space hasn’t come without its own problems. The major complaint has always been the surprising level of bias that has often been expressed by these algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/29/the-ai-bias-problem-and-how-fintechs-should-be-fighting-it-a-deep-dive-with-sam-farao/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/29/the-ai-bias-problem-and-how-fintechs-should-be-fighting-it-a-deep-dive-with-sam-farao/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615507969287e588ac235414%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2817%26cropY1%3D898%26cropY2%3D2484",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/29/the-ai-bias-problem-and-how-fintechs-should-be-fighting-it-a-deep-dive-with-sam-farao/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/29/the-ai-bias-problem-and-how-fintechs-should-be-fighting-it-a-deep-dive-with-sam-farao/amp/",
+      "publishedDateTime": "2021-09-29T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-beware-the-known-unknowns-when-finance-meets-ai.md",
       "title": "Beware the known unknowns when finance meets AI",
       "excerpt": "How can we act when dealing with known unknowns? That dilemma is facing regulators today as they try to assess the impact of artificial intelligence in the finance industry. As two recent reports from the Bank for International Settlements and the OECD make clear,",
@@ -1264,49 +1316,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-the-top-uk-fintech-trends-to-watch-in-2021.md",
-      "title": "The Top UK Fintech Trends to Watch in 2021",
-      "excerpt": "UK fintech is booming and has reportedly attracted $5.7bn worth of capital in the first 6 months of 2021 through 317 deals completed.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/technology-and-ai/top-uk-fintech-trends-watch-2021",
-      "originalUrl": "https://fintechmagazine.com/technology-and-ai/top-uk-fintech-trends-watch-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1125968713.jpg.png?itok=2J3F74uM",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null

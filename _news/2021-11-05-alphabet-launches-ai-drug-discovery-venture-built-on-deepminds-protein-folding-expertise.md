@@ -42,20 +42,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepMind’s AI solved a 50-year-old protein-related challenge"
-    excerpt: "DeepMind has recently solved a 50-year-old protein-related challenge that has notched up the level of biology for scientists."
-    publishedDateTime: 2021-10-31T08:37:00Z
-    webUrl: "https://techstory.in/deepminds-ai-solved-a-50-year-old-protein-related-challenge/"
+  - title: "Alphabet creates DeepMind offshoot focused on using AI for drug discovery"
+    excerpt: "Alphabet has created a new subsidiary called Isomorphic Labs that will focus on using AI processes to develop new drugs. An offshoot from Deepmind, another AI subsidiary of Alphabet, the idea for Isomorphic Labs came after Deepmind's AI system AlphaFold 2 solved a 50-year old protein folding challenge by predicting the 3D structure of a protein directly from its amino acid sequence to atomic-level accuracy."
+    publishedDateTime: 2021-11-05T00:36:00Z
+    webUrl: "https://www.zdnet.com/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/10/unnamed-1024x576.gif"
-        width: 1024
-        height: 576
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
   - title: "Alphabet has a new drug discovery company building on DeepMind’s AI chops"
     excerpt: "Isomorphic's CEO said the company plans to use computational AI methods to “reimagine the whole drug discovery process.\""
     publishedDateTime: 2021-11-04T15:00:00Z
@@ -69,6 +66,20 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2021/11/AdobeStock_211444725-1024x576.jpeg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Fresh Patches For Your DeepMind 12"
+    excerpt: "Robust American Patches tell us that they have released Volume I for the DeepMind 12. They tell us that nearly every patch in this collection of 74 has extensive velocity, modwheel and aftertouch assignments."
+    publishedDateTime: 2021-11-05T01:02:00Z
+    webUrl: "https://sonicstate.com/news/2021/11/05/fresh-patches-for-your-deepmind-12/"
+    type: article
+    provider:
+      name: Sonic State
+      domain: sonicstate.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/35178_378.jpg"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "sK2OVukYMgcnFwNLSXWQT8LIgyAp0rKRObWJtkmlsQHj3X0BCgwCE3JsbpCglnopp+pLPQ0iVvLVrcvS5A75qq0mmrqw4HpW7QaO9zJB9CNfmETCKJrJuzNGs5c2lGCP50HzQxIvN5HgFRtQR2c65ZUTpm2UAKXmh/RlpZBz16MjcZv4LDIo5g1SALThODvHGHmZJ//Rw1Bdyi0vEMRtj/wq5IF+iuST8wxw+yKNF0ceexm6kt9ud6vB6vkVNyDXOoU92st+0WBizvtRxi1OlL5KH/z25oCG/aKev5ZKVmCOn4XB8Q/+97i+6GlgV8cB3BjL6/owmIRxsWsuIVoscyMviFCi0ynAbcB7h5fhdkjdypARN21gV7iqS97ZNd0zz9vJYVFo/CJqQUYixPJPcIYsnGk0Eh/rtuCbUw4rV0Lxj1sKCesNq1PSFLkqqK7ypT8mlquOfm3/r9HFa61EyPh+lL/FcQ/6lY1zKtdyAf0YekGM5usf54aX6HhwNF2lbKlJeCZ6G1MAWsIDZR7/og==;UipWdcslN+p50dHHBxwqnw=="
