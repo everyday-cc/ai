@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "RecursionPharma"
   url: "https://twitter.com/RecursionPharma"
-  followers: 4800
+  followers: 4801
 
 size: 51-200 employees
 yearFounded: 2013
