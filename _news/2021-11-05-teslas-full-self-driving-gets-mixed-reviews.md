@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Tesla's 'Full Self-Driving' Gets Mixed Reviews"
-excerpt: "The software includes a suite of driver-assist features that are designed to enable cars to drive themselves in the future."
-publishedDateTime: 2021-11-05T13:36:00Z
-originalUrl: "https://www.entrepreneur.com/article/395624"
-webUrl: "https://www.entrepreneur.com/article/395624"
+excerpt: "Drivers who utilize Tesla’s Full Self-Driving have mixed reviews, being simultaneously impressed and alarmed by it, according to a new report from CNN, which relied on interviews with vehicle owners who use the software and a review of videos posted to social media."
+publishedDateTime: 2021-11-05T14:35:00Z
+originalUrl: "https://www.chron.com/business/article/Tesla-s-Full-Self-Driving-Gets-Mixed-Reviews-16595098.php"
+webUrl: "https://www.chron.com/business/article/Tesla-s-Full-Self-Driving-Gets-Mixed-Reviews-16595098.php"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1636119342-GettyImages-1052193504.jpg"
+  - url: "https://s.hdnux.com/photos/01/22/54/05/21676404/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -236,6 +232,6 @@ related:
         height: 720
         isCached: true
 
-secured: "yY53CQm611HzfAr3ehgepkBSf19g/lEbNXYfO+np63Mb8TCEpVHpCpUGzHy2uVS0stTLp1OXkckQIEAZYy0lTl0RwGctGPTXk9jWC3+vuNpd5KaAu4X6LuR9qtTLyyCbAqg6ILfGesyMQIIoQZzJRsIxoOFjnTg0XRzGFMegTQyL8yVKkBYqjulqO2pwyjitQXyvzhgiSWit8E2Rkdu90DhUORcoha57VBstHT8Up1OESrKHpoeQcdTJ3uRlOp4OXNqTqnwdtlmOr/DV1s0oXnHaaxZCH9T0QgJrwphAay0zOdrqUAWYAgk6v/PozejGZMDefGfV+6U8/HSjiqLtKwAzfAnWPiCEgZhRNPuykk8=;pvuYwHLWOPhnjfINAlLk4Q=="
+secured: "/C/gjrUAQHKAGLyWsUTMWplMMwTbAtOhFWp9InIVnFIGZOkeOfZmJFKXRaAVLmuqJJCCkmBzCfWQYx+qd7XIU2zVdrwbCDXq4hlViszy3V3CIfAAk6r5Fu6srnCj058U/qasBSZUHGNJSSDwt7tzd6OeOAAV8tyQsKVHn7DhLlBPucAFBQ1eI/fe36tzqb+yPhDhSG+BIoud0DzccH7M3+lzHmmxUCPPDMLMHS3C3sXRMBrmn6cCqELw76wzAHZKcLGmmTHenrfs5mXOUTJCjkhfw5cTZzg3285afbgK5kCGFrhUnTO8V6kOYiuKmw6GjdVwuhFmhC8bYAtXuRQm5nqcwTtZyccU1TtEMAosDsw=;vCJSpCR+eMp1LxA+koAV5Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/22752986/meta-facebook-andrew-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://eadn-wc03-5047357.nxedge.io/cdn/wp-content/uploads/2021/10/markus-spiske-iar-afB0QQw-unsplash.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Facebook’s not safe for face biometrics, but privacy can be built into Meta?"
+    excerpt: "Both Recode and Fortune are reporting on misgivings that some in the industry have about Zuckerberg's happiness to delete 1 billion face templates."
+    publishedDateTime: 2021-11-05T15:46:00Z
+    webUrl: "https://www.biometricupdate.com/202111/facebooks-not-safe-for-face-biometrics-but-privacy-can-be-built-into-meta"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
 
 secured: "rudrj4Dx7eI2dRVTDNcSKeWjDKVok7JfZrMKXP9Ii23WA6AmiNgR6Xi9j/PJ+PLAd1kVc4aXYSuijU/xX/LHpeFJ/9n9BE5/IYT9AZHZinG+jzMvLIQrQuVDOvfn27fZi1Rui57tbx9Y4CgpH5iofubvMbq8Qufbho60l9ookuOF0UOPjUlBaX6TTaQdFuTOGAAgBiIZ2CSuG3dgRjmVTKRPt5/4nmXFFpQsPhIWPXU7q+tPtvtVVOmfWk92+lWdixJhJLpl+QjVFlwv0BaUSmUclFcF13du2lDaY+CWOFmV7O2+9eEIBK2QjliIJRsKHigxFvJckshmzdAxSdfijx7h3SRNGKaVCX/EwbxVDvCJU30QQGWjoecixagTJwbXdR1PdaMutqrSinDWgGizSBkCjcVEuY+/T8JZRhdid7SzssDBtrSVRdV1y4iVAyt2T9cnefgW3AXjnUUamI+VNqTbh5y4Gz2eaNeBsaP8Dv/k54PeapQd7toT5LgsW+zcYXLsWHEtgCZwETonSfL+4Q==;0irGzrZAhidy43CF4Vl5eQ=="

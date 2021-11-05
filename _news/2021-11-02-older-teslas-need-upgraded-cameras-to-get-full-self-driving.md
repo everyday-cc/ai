@@ -87,20 +87,6 @@ related:
         width: 751
         height: 526
         isCached: true
-  - title: "Tesla's 'Full Self-Driving' Gets Mixed Reviews"
-    excerpt: "The software includes a suite of driver-assist features that are designed to enable cars to drive themselves in the future."
-    publishedDateTime: 2021-11-05T13:36:00Z
-    webUrl: "https://www.entrepreneur.com/article/395624"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1636119342-GettyImages-1052193504.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Tesla issues software recall for glitch in ‘Full Self-Driving’ software"
     excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
     publishedDateTime: 2021-11-02T13:09:00Z
@@ -216,6 +202,20 @@ related:
       - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/11/fsd-beta-canada-10.3.jpg"
         width: 800
         height: 449
+        isCached: true
+  - title: "Tesla's 'Full Self-Driving' Gets Mixed Reviews"
+    excerpt: "Drivers who utilize Tesla’s Full Self-Driving have mixed reviews, being simultaneously impressed and alarmed by it, according to a new report from CNN, which relied on interviews with vehicle owners who use the software and a review of videos posted to social media."
+    publishedDateTime: 2021-11-05T14:35:00Z
+    webUrl: "https://www.chron.com/business/article/Tesla-s-Full-Self-Driving-Gets-Mixed-Reviews-16595098.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/22/54/05/21676404/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Tesla’s ‘full self-driving’ delights and annoys with Jekyll-and-Hyde personality, drivers say"
     excerpt: "By Matt McFarland, CNN Business Drivers with Tesla’s “full self-driving” software often don’t know what their cars will do next. Tesla owners have been wowed by their cars’ new abilities, but some say they have also been alarmed and frustrated by the accompanying flaws."

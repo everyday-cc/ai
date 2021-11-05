@@ -87,20 +87,18 @@ related:
         height: 630
         isCached: true
   - title: "Alphabet launches AI company to discover new drugs"
-    excerpt: "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind to “to accelerate drug discovery,"
-    publishedDateTime: 2021-11-04T18:22:00Z
-    webUrl: "https://www.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
-    ampWebUrl: "https://amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+    excerpt: "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind “to accelerate drug discovery,"
+    publishedDateTime: 2021-11-05T15:46:00Z
+    webUrl: "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/?comments=1"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F463bd0de-eb85-4249-b398-c91c95e746de.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/deepmind-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Alphabet launches AI-driven drug discovery startup"
     excerpt: "The new venture also plans to partner with biomedical and pharmaceutical companies, using artificial intelligence to discover new medicinal advancements."
@@ -208,15 +206,34 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Google's parent company launches AI-driven drug discovery start-up"
-    excerpt: "Googles parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"
-    publishedDateTime: 2021-11-05T09:31:00Z
-    webUrl: "https://www.sify.com/movies/googles-parent-company-launches-ai-driven-drug-discovery-start-up-news-bollywood-vlfj5ugeiggfe.html"
+  - title: "Alphabet launches a new company that focuses on drug discovery using AI"
+    excerpt: "Alphabet is launching a new company that mainly focuses on using artificial intelligence to find methods to discover new drugs."
+    publishedDateTime: 2021-11-05T14:30:00Z
+    webUrl: "https://pocketnow.com/alphabet-launches-a-new-company-that-focuses-on-drug-discovery-using-ai"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 39
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/11/Alphabet-launches-Isomorphic-Laboratories.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google's parent company launches AI-driven drug discovery start-up"
+    excerpt: "Google's parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"
+    publishedDateTime: 2021-11-05T14:41:00Z
+    webUrl: "https://www.business-standard.com/article/companies/google-s-parent-company-launches-ai-driven-drug-discovery-start-up-121110500620_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/27/full/1632748240-2419.png"
+        width: 620
+        height: 464
+        isCached: true
 
 secured: "B3q5DCx25CYWXtwTkrZRu184Bba6Pjngz7TOPxSKcDMxSw4PVzcezGNgr7nzPBYCQeqfJOBHxTXFKOC7m5DgvSjA3jZGniWbbjxqyBmu/LC5hzEC8prXiNW5hn2xv74fuoRAQnyByk/YdvA9wovfy/Adg3E4sNh5xAFE1YeOovfeKCbGNivda97FkYTIEJ367cWO7FnZlJ0zXoCHtonvvsXqOM0SlMO2mUiBwtRCCRCMQ2fApKeOGKUfAVqv9HtY9/DJ5BgV6v+eD6emRuTGBPm4EqFBr8MlFlp/p4IBvOzRGq0opI438DTBKnk4B1fWJZxdsvrXSoBwSf6yXXkLpXrwBlZT0bSZp1jgo4rU4dM3A2XSffvM9gOvlEoOc3HrUzSyEYQsmCKZNrp0EfzBGNo+i03mnvAvArKrEUqi6VoGNKkRnWOh4/rf8dWz08b1YrvLQxMOSeOkfWU928+/MTGXU0qVcYM+Bc6Ma6uwuAOMZrtAwKZQZT4ZxH+C+hjlch9OernOA//3aB9FaADM4w==;RvlKdGyAZjVKwk/WUgQLww=="
 ---

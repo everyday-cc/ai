@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-05T08:45:00Z
 originalUrl: "https://www.salon.com/2021/11/05/limits-to-growth-can-ais-voracious-appetite-for-data-be-tamed_partner/"
 webUrl: "https://www.salon.com/2021/11/05/limits-to-growth-can-ais-voracious-appetite-for-data-be-tamed_partner/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2019/01/facial-recognition2.jpg"
@@ -24,6 +25,6 @@ images:
     height: 810
     isCached: true
 
-secured: "a+bbpgUNJYT+UjAInezlsGHFE5oINec61fnwIeuqVGAr8HO95U1IbvmvbjVxD4gT8+jIAVYvv8WVoLNfnSbVGd7tp1yrsmcUBZS04RMUk6Q+a2/xG8CW+2GRTiqgJYGmUs4hzNi8eKIgKMCD4x1x3blX96PuWs+CedKhSsofsfk18tVXWbbf929SUGboE/6q4JzlYchUn3RiAE3H83Old/88Lndg2gAC8l5n5NNzdSsZWnoTF3+Dpmbt9qAD/rinOMvEw1p4YtrAHC+83NVAnU69vLjjh4+4F91i7GCSsu4SXMHNMvj1O+UIa265HqiQlqLKterh/c+54G0Kom6GlfshFbSUX3yP3U9k6v/7tmE=;ZPQPqyxg2t3SOxKl8nhkYw=="
+secured: "VDT41xVLDoFSaXBj53fD7A+Aif2G8IysbBTe97aFTi+76as2Vn/XRNM0WYf+HTI4VFKcTpwyl+EZjzrfXNU1zGUkuy23mzqg2tSzO7NiyBtKAGjR95Rit9ALPLBYK7sBxWK+bLTa9ymhffQvsZcq7TsFefZya3NBQubADJ1SlAXR6aCieI7OU0kWWAeSw6P7A7FiD2ieRc/xfAUmedQQn1CnfIyqmWxZYPz4pkI/HdGZjMfqLEpfW2+Esa1I6NG/IgMDUfXMrzflIECFeQukKC9uRnk901WXQhRR/4J5xQtePRPXHwjRRmQnzvw4fMtNwq74anAvRrHYAiZc2DQqjaieimzXse1zzBIQkLtzCPOLfegNG+9x9svU2NBUc9kf+Bg6MAzye4YRL2VcvzzHCnXOcOD8SbM/ChMsC4DiZI/NLeLXhUu6urGElhMpl8k2rBuknC9jWJIZ07yuIOKoZKjvMNRjXzoKqFqzXwGUSusJn9JAZHOqid8xFe6Hf/NXjDyJytHeAvK8/5RDUm+SLg==;RHK3ZUZCzVS3AA+aoReG8Q=="
 ---
 

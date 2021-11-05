@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Forget artificial intelligence, let’s talk about individual intelligence"
+    excerpt: "A machine that is programmed by people who have their own goals cannot make decisions for you. Only your individual intelligence will know what is right."
+    publishedDateTime: 2021-11-05T13:33:00Z
+    webUrl: "https://www.pressherald.com/2021/11/05/forget-artificial-intelligence-lets-talk-about-individual-intelligence/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 36
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/4/2021/11/20211012mvht-62037-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Real Superintelligence (RSI) vs. Artificial Superintelligence (ASI), or Why Musk could be right again"
     excerpt: "The whole idea of AI as emulating, mimicking, simulating, replicating or faking human intelligence/brains/mind/behavior is scientifically unjustified and ethically wrong and should be discarded in the favor of real-world machine intelligence and learning (MIL)."
     publishedDateTime: 2021-11-03T15:59:00Z

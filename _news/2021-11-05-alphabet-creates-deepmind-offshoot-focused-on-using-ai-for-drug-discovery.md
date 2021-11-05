@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/alphabet-creates-new-subsid
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 113
+published: true
 
 provider:
   name: ZDNet
@@ -25,21 +25,35 @@ topics:
   - Google AI
 
 related:
-  - title: "DeepMind takes next step in robotics research"
-    excerpt: "MuJoCo's free availability will have a positive impact on the work of scientists who are struggling with the costs of robotics research."
-    publishedDateTime: 2021-10-31T22:40:00Z
-    webUrl: "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/"
-    ampWebUrl: "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/"
+  - title: "The slippery slope of using AI and deepfakes to bring history to life"
+    excerpt: "To mark Israel’s Memorial Day in 2021, the Israel Defense Forces musical ensembles collaborated with a company that specializes in synthetic videos, also known as “deepfake” technology, to bring photos from the 1948 Israeli-Arab war to life."
+    publishedDateTime: 2021-11-02T19:02:00Z
+    webUrl: "https://www.seattlepi.com/news/article/The-slippery-slope-of-using-AI-and-deepfakes-to-16584609.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/The-slippery-slope-of-using-AI-and-deepfakes-to-16584609.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/The-slippery-slope-of-using-AI-and-deepfakes-to-16584609.php"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "The slippery slope of using AI and deepfakes to bring history to life"
+    excerpt: "To mark Israel’s Memorial Day in 2021, the Israel Defense Forces musical ensembles collaborated with a company that specializes in synthetic videos, also known as “deepfake” technology, to bring photos from the 1948 Israeli-Arab war to life."
+    publishedDateTime: 2021-11-04T11:42:00Z
+    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/11/04/prc-the-conversation-the-slippery-slope-of-using-ai-and-deepfakes-to-bring-history-to-life/"
+    type: article
+    provider:
+      name: St. George News
+      domain: stgeorgeutah.com
+    quality: 39
+    images:
+      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/11/abelincoln-1290x726.jpg"
+        width: 1290
+        height: 726
         isCached: true
   - title: "Fresh Patches For Your DeepMind 12"
     excerpt: "Robust American Patches tell us that they have released Volume I for the DeepMind 12. They tell us that nearly every patch in this collection of 74 has extensive velocity, modwheel and aftertouch assignments."

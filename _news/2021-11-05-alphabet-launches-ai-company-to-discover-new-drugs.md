@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Alphabet launches AI company to discover new drugs"
-excerpt: "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind to “to accelerate drug discovery,"
-publishedDateTime: 2021-11-04T18:22:00Z
-originalUrl: "https://www.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
-webUrl: "https://www.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
-ampWebUrl: "https://amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
-cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+excerpt: "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind “to accelerate drug discovery,"
+publishedDateTime: 2021-11-05T15:46:00Z
+originalUrl: "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/?comments=1"
+webUrl: "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/?comments=1"
 type: article
-quality: 59
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: Ars Technica
+  domain: arstechnica.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Google AI
 
 images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F463bd0de-eb85-4249-b398-c91c95e746de.jpg?source=google-amp&fit=scale-down&width=500"
-    width: 500
-    height: 281
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/deepmind-760x380.jpg"
+    width: 760
+    height: 380
     isCached: true
 
 related:
@@ -197,6 +198,34 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Alphabet launches a new company that focuses on drug discovery using AI"
+    excerpt: "Alphabet is launching a new company that mainly focuses on using artificial intelligence to find methods to discover new drugs."
+    publishedDateTime: 2021-11-05T14:30:00Z
+    webUrl: "https://pocketnow.com/alphabet-launches-a-new-company-that-focuses-on-drug-discovery-using-ai"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 39
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/11/Alphabet-launches-Isomorphic-Laboratories.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google's parent company launches AI-driven drug discovery start-up"
+    excerpt: "Google's parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"
+    publishedDateTime: 2021-11-05T14:41:00Z
+    webUrl: "https://www.business-standard.com/article/companies/google-s-parent-company-launches-ai-driven-drug-discovery-start-up-121110500620_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/27/full/1632748240-2419.png"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Model Medicines Raises $4.1 Million to Discover and Advance Therapeutics Using its AI Drug Discovery Platform"
     excerpt: "Model Medicines, the pharmatech company working to transform the drug discovery and development process and accelerate the creation of life-changing drugs using artificial intelligence and machine learning,"
     publishedDateTime: 2021-11-03T12:23:00Z
@@ -206,16 +235,7 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
-  - title: "Google's parent company launches AI-driven drug discovery start-up"
-    excerpt: "Googles parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"
-    publishedDateTime: 2021-11-05T09:31:00Z
-    webUrl: "https://www.sify.com/movies/googles-parent-company-launches-ai-driven-drug-discovery-start-up-news-bollywood-vlfj5ugeiggfe.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
 
-secured: "2M12i1E3OHGowNlJTqM3MrB4xv30b1Y+nZlqLX1+l8BYhgEKoy1hS5v68gkyqv35fizBjl+uAuQr48aEkDampMnDTgh5nKZK5pt8zUa+xw90fHCur2ubhoW3Z+2jHDCQRmEx8n9IpWmxvIX/DyXQUb1/jRFt9GGRj8Mb0fxk4iqUwGBl7dsHa+SK3W9TeiPwUx8vWvHufi6xqsIgYYNfHhqxOSdhyKwE0LIGW3Dg0sjtZtlT41XzzFPs77bGURrWX6QeKr2n4qtBKQWLk3Zf6ynRlB7wvaHIDpqVtleS/juJI3Jb91QggTY7qkVa+0pXUpQWdcnLj/cM2BOZaEfH0vZIoLIWsQshBd8tu4eI5TFKGaOdzI0hEGQDyTskBzxMvoTRXnGuGNP/BM5K2EsDK4ucCTCqaxXC0RmngeHza/7uJU63HSupD9ddkFxjEOeVeQiedlj9HL2GJoNEn3urgel1ZEWX/GRzzp3fHNLaIJG+Bl+rTpJBpkIvQ6qZQcZ37XwPvArK9tBmrKuxB3Fd6g==;fBWXKa4Nr9VHlfJNix24vQ=="
+secured: "Bz8/eM5hieq0X70PtH0sDh7mq0zdoeDh+w7dXfBlKCVxVvN+9tzgbhcfkNrrQDKcCNnfya+qa+gV/OGme3HWWg5uW+4DzexrZLFbf6LY3ZHhDCssjPluFDpxq7Uv7xvbV6rzqaI0sYT//D3owAeLveEZ3R9kuvh8OgMNSlCj1PDQmh5obdOWM2Q/RhoJ+vX9dSZ55DznDvZ+zaToQ6hg+1D5eitDmLsSiEhmoh/oNU/FIsgUnfvTA7zo8hnnWPmRa23jLnMbSPgmBKKgsj/IyFxppxs8dhgLyvPui8+g3WxbpGz4mIzyQ0hUGo94LOahyHdxa+nkJ1nlOx4f5S9ZSH1egT2I8vpMtoxYnFG/uM4=;kFD98C03wYV0ZRm6EafL0A=="
 ---
 

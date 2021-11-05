@@ -101,20 +101,6 @@ related:
         width: 751
         height: 526
         isCached: true
-  - title: "Tesla's 'Full Self-Driving' Gets Mixed Reviews"
-    excerpt: "The software includes a suite of driver-assist features that are designed to enable cars to drive themselves in the future."
-    publishedDateTime: 2021-11-05T13:36:00Z
-    webUrl: "https://www.entrepreneur.com/article/395624"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1636119342-GettyImages-1052193504.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Tesla issues software recall for glitch in ‘Full Self-Driving’ software"
     excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
     publishedDateTime: 2021-11-02T13:09:00Z
@@ -230,6 +216,20 @@ related:
       - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/11/fsd-beta-canada-10.3.jpg"
         width: 800
         height: 449
+        isCached: true
+  - title: "Tesla's 'Full Self-Driving' Gets Mixed Reviews"
+    excerpt: "Drivers who utilize Tesla’s Full Self-Driving have mixed reviews, being simultaneously impressed and alarmed by it, according to a new report from CNN, which relied on interviews with vehicle owners who use the software and a review of videos posted to social media."
+    publishedDateTime: 2021-11-05T14:35:00Z
+    webUrl: "https://www.chron.com/business/article/Tesla-s-Full-Self-Driving-Gets-Mixed-Reviews-16595098.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/22/54/05/21676404/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "tu5cWEr+vP0atUhfPY3mlqBkhtPKhi3XmKU6RJt45yWQmaC05JDV/KlLNSKvFjp0nvtLFSSAISN1kVZbZEBY6bywTuaAIKqW5BhxJUki5BRf7ayIb2gNG1PmCHxLA6NYaDCOn8qz4MuIBk7tOZlAuk534zO5Rppgnsm0LUPq56UxRIC2PgchZ1h4hakcEfgHxV3ORomxr7J46Z8YTKeeh1cAZJy7cYvfOLBd35fxNcmd0S+TQ16LTpyhiWpMn/bv/JMoYiEkpnUXukQv6rwkXJ/5g5eGjsUb3UNWI2uGo6UB9g+RYKsOmUadsP5xkOzLY7QC1/RxIaCwd49mV+R9LpCpVKbwQ5rO7N0hgPstfg8=;3AdEVJJf/sZAUafyiMtbjQ=="

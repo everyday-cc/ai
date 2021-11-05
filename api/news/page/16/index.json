@@ -2,6 +2,203 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-10-22-18-tech-deals-for-the-weekend-black-friday-like-prices-on-tvs-bluetooth-speakers-robot-vacuums-and-more.md",
+      "title": "18 Tech Deals for The Weekend: Black Friday-Like Prices On TVs, Bluetooth Speakers, Robot Vacuums And More",
+      "excerpt": "If you love gadgets, this is a good weekend is looking good. Here are deals on Bluetooth speakers, electric scooters, TVs and streaming boxes, not to mention a slew of other gadgets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6171dfc6690a0277b2699717%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1500%26cropY1%3D139%26cropY2%3D1264",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/amp/",
+      "publishedDateTime": "2021-10-22T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-senior-industry-leaders-need-to-learn-about-ai.md",
+      "title": "Senior industry leaders need to learn about AI",
+      "excerpt": "Bradley Merrill Thompson of Epstein Becker Green encourages company leaders to develop an understanding of the vocabulary and workings of AI given the present and emerging legal risks and liabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/legalindustry/senior-industry-leaders-need-learn-about-ai-2021-10-22/",
+      "originalUrl": "https://www.reuters.com/legal/legalindustry/senior-industry-leaders-need-learn-about-ai-2021-10-22/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/_QoKdgtINXJfhCTaabc4tqVbsfg=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q3RZ4P32MBHDREE3BELIVG7MPQ.jpg",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-22T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-video-showing-jamba-juice-robot-kiosk-miserably-failing-at-pouring-smoothie-goes-viral.md",
+      "title": "Video Showing Jamba Juice Robot Kiosk Miserably Failing at Pouring Smoothie Goes Viral",
+      "excerpt": "Jamba Juice introduced the robot kiosk last year, but the viral video showed it missing the cup when pouring the smoothie.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595",
+      "originalUrl": "https://www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1918111/robot-making-smoothie.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595?amp=1",
+      "publishedDateTime": "2021-10-22T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-palantirs-peter-thiel-thinks-people-should-be-concerned-about-surveillance-ai.md",
+      "title": "Palantir's Peter Thiel thinks people should be concerned about surveillance AI",
+      "excerpt": "Tech billionaire Peter Thiel said this week that people should be more worried about \"surveillance AI\" than artificial general intelligences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/palantirs-peter-thiel-thinks-people-should-be-concerned-about-surveillance-ai/ar-AAPPGG9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106723917-1601485714383-gettyimages-1183198447-350472044_1-12.jpeg?v=1618328636",
+          "width": 4643,
+          "height": 3096,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+      "publishedDateTime": "2021-10-22T05:29:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+        "domain": "com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-softbank-in-talks-to-sell-french-robotics-business-to-germanys-united-robotics.md",
       "title": "SoftBank in talks to sell French robotics business to Germany’s United Robotics",
       "excerpt": "SoftBank Group Corp is in talks to sell the Paris-based robotics business behind its Pepper android to Germany's United Robotics Group, according to sources and documents reviewed by Reuters, scaling back a business it once touted as a major growth driver.",
@@ -869,19 +1066,19 @@
     {
       "path": "_news/2021-10-21-how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience.md",
       "title": "How USAA is Utilizing Natural Language Processing to Improve the Member Experience",
-      "excerpt": "SAN ANTONIO, Oct. 21, 2021 /PRNewswire/ -- USAA is using Natural Language Processing (NLP) to improve the member experience and facilitate faster decision-making. NLP is a subfield of Artificial ...",
+      "excerpt": "USAA is using Natural Language Processing (NLP) to improve the member experience and facilitate faster decision-making. NLP is a subfield of Artificial Intelligence (AI) that uses computers to process and analyze large amounts of text and spoken words.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-301405849.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-301405849.html",
+      "webUrl": "https://www.wbtv.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/",
+      "originalUrl": "https://www.wbtv.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/692533/USAA_Logo.jpg?p=facebook",
-          "width": 2445,
-          "height": 1279,
+          "url": "https://gray-wbtv-prod.cdn.arcpublishing.com/resizer/KibPVLeJ9vccIqCX7YbbJ73S3qc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/6HSEG4QELH2BJLDFSOP4GPEIBA.jpg",
+          "width": 980,
+          "height": 1078,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -891,11 +1088,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T07:14:00-07:00",
+      "publishedDateTime": "2021-10-21T06:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WBTV",
+        "domain": "wbtv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -984,160 +1181,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-iron-mountain-wins-google-cloud-financial-services-customer-award.md",
-      "title": "Iron Mountain Wins Google Cloud Financial Services Customer Award",
-      "excerpt": "Iron Mountain Incorporated ® (NYSE:IRM), the global leader in innovative storage and information management services, today announced that it has received a Google Cloud Customer Award for its work with a large financial institution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/",
-      "originalUrl": "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-global-robotaxi-market-size-share-analysis-report-forecast-to-2026.md",
-      "title": "Global Robotaxi Market, Size, Share, Analysis Report & Forecast to 2026",
-      "excerpt": "The robotaxi is a self driving taxi that takes leverage of AI, ML, Iot and other technologies for ride-hailing. The rising trend of autonomous vehicle, zero emission vehicles, and new mobility ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2436075/global-robotaxi-market-size-share-analysis-report-forecast",
-      "originalUrl": "https://www.openpr.com/news/2436075/global-robotaxi-market-size-share-analysis-report-forecast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2436075/global-robotaxi-market-size-share-analysis-report-forecast",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2436075/global-robotaxi-market-size-share-analysis-report-forecast",
-      "publishedDateTime": "2021-10-21T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc.md",
-      "title": "Tech Top 5: Brainchip nabs US patent for Akida AI chip, jumps almost 15pc",
-      "excerpt": "Brainchip granted US patent, while Elmo boosts revenue and Ansarada expands into GRC market; also semiconductor and cybersecurity updates.",
-      "sourceUrl": null,
-      "webUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/",
-      "originalUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stockhead.com.au/wp-content/uploads/2021/10/ezgif.com-crop-6.gif",
-          "width": 480,
-          "height": 269,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/?amp",
-      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/?amp",
-      "publishedDateTime": "2021-10-21T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stockhead",
-        "domain": "stockhead.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-poll-do-you-think-ai-chips-on-phones-have-lived-up-to-the-hype.md",
-      "title": "Poll: Do you think AI chips on phones have lived up to the hype?",
-      "excerpt": "Dedicated AI chips have been available on smartphones for quite a few years now, but have they lived up to the hype?",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
-      "originalUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
-      "publishedDateTime": "2021-10-21T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
