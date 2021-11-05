@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/alphabet-launches-isomorphic-la
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Alphabet lets AI take the lead role in new drug discovery startup"
+    excerpt: "DeepMind produced a stunning advance in scientific research, demonstrating how its artificial intelligence could be used to predict 3D structures of unique proteins in a solution to a 50-year science problem."
+    publishedDateTime: 2021-11-05T04:50:00Z
+    webUrl: "https://newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/"
+    ampWebUrl: "https://newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/ec422cd/2147483647/strip/true/crop/1212x808+114+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb1%2F32%2F4ccee0d441f598489215b11648b4%2Fscreen-shot-2020-12-01-at-12.05.59%20pm.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Isomorphic Labs is Alphabet’s play in AI drug discovery"
     excerpt: "The field of drug discovery has been supercharged by the capabilities of AI, which several companies have applied in various ways to turn an enormous practical problem into a tractable information problem."
     publishedDateTime: 2021-11-04T18:06:00Z

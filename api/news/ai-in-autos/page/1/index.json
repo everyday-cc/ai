@@ -246,6 +246,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-03-swedish-self-driving-start-up-einride-expands-into-us-market.md",
+      "title": "Swedish self-driving start-up Einride expands into U.S. market",
+      "excerpt": "Swedish electric self-driving truck start-up Einride said on Wednesday it has launched operations in the U.S. market and signed up GE Appliances, Swedish vegan milk maker and Oatly and tiremaker Bridgestone as customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-einride-expansion/swedish-self-driving-start-up-einride-expands-into-u-s-market-idUSL1N2RU0M3",
+      "originalUrl": "https://www.reuters.com/article/autos-einride-expansion/swedish-self-driving-start-up-einride-expands-into-u-s-market-idUSL1N2RU0M3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20211103&t=2&i=1580114589&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEHA20RS",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2HO1MQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2HO1MQ",
+      "publishedDateTime": "2021-11-03T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-waymo-self-driving-vehicles-will-begin-mapping-nycs-streets.md",
       "title": "Waymo self-driving vehicles will begin mapping NYC’s streets",
       "excerpt": "Waymo’s self-driving cars will make an appearance in New York City on Thursday, but don’t expect to hail a robotaxi in the Big Apple anytime soon — or ever. The company is a long way from testing or launching its autonomous vehicles commercially in the city.",
@@ -254,7 +306,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1425,49 +1477,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues.md",
-      "title": "Tesla Pulls Its New Full Self-Driving Beta Due to Software 'Issues'",
-      "excerpt": "U.S. electric car maker Tesla Inc on Sunday rolled back the latest version of its Full Self-Driving (FSD) beta software, less than a day after its release, after users complained of false collision warnings and other issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/top-news/articles/2021-10-24/tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues",
-      "originalUrl": "https://www.usnews.com/news/top-news/articles/2021-10-24/tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-24T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

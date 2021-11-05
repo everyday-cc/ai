@@ -2,17 +2,17 @@
 category: news
 title: "Facebook ending its system of facial IDs"
 excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-publishedDateTime: 2021-11-03T07:27:00Z
-originalUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
-webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+publishedDateTime: 2021-11-03T07:29:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Facebook AI
@@ -550,6 +550,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Governments must check if Facebook really does scrap face recognition, Frances Haugen says"
+    excerpt: "Facebook made the announcement on Tuesday, partly in response to growing scrutiny from regulators and legislators over user safety and abuses on its p.."
+    publishedDateTime: 2021-11-05T05:30:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87533911,imgsize-30076,width-1200,height-628,overlay-etbrandequity/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Facebook Shuttering Facial Recognition System, Will Delete Data From Over a Billion Users"
     excerpt: "Facebook is shutting down its Face Recognition system and will delete the facial data of more than 1 billion of its users, Facebook parent"
     publishedDateTime: 2021-11-02T17:43:00Z
@@ -833,6 +849,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "kBycN/o7q6SUp5JNK+WG05yDXuyLxvStstvoLwrsIUZbo5Czl/Mt3+rxI+llNTDyM6lz3BdTNmWkVUu0977CFTN9jK+AtvlvM7BVBbxqnuMR/sGBFE1P/w7fsq1sut1T54KLHI3aLkEdjFua8LnRNKe1W8RuUlLUyT81l7BZK6s/pZsTJqn/ah5vuNc7fOjUt8V/d5f5nW+E1GZMOunCCH2oKXIAdj/ICY5jftC7gmXhVKDyHfNV4czg/JrJjtFpB/j6y+QUwmvFmZGr1RSCsQJG/ThkLD5Lygla7nUzw+IG48tLq8unPv33S4aZbWLePppoUVCzOQsZY0TgM+Tb3oqkcwYq/o2HswZfaiGFn4k=;x+avPHWfPF3q+tqKn5h2CQ=="
+secured: "/dyGnwfZHHMTDo0ZfLV6JZBa52Sw88PVsRamSpIimTKBKpVbNVaGe+5U5IUGiiGh4X0eTlgVIK4B6fx7Td/Ng327AYqHir+zWtKBpVtiKrqlCdzLDkm9boBy3+uo8qUjgCmTyS6dnQT5fzM237fQtgC70P/fHvygAo5Hznd/3P95Fr2aaL/PjplBf3/zpqeRE5Z+u09xzcyoD8AelSYkv4Rfy3mae5woTKpDeUPiBAeEZf1UeehqxtofAjmvaEew2v1W7ljCflO/NZTRE9Lb6mW2L1EsaD09+gI7nOjfinamFxP3CThkYVRDAFf7W/9HE2Ib+suTFOk7gicaixUfjJPKtxBHO2+VLVZ4o01lq7A=;cTJgsvRQmgzKVG9FWQjQfA=="
 ---
 

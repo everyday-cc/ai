@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ai Weiwei’s Artistic Rebellion"
-    excerpt: "The artist-activist on his most beloved objects and his new memoir, “1000 Years of Joys and Sorrows,” which charts his father’s life, and his own, as an “enemy of the state.”"
-    publishedDateTime: 2021-10-31T11:27:00Z
-    webUrl: "https://www.wsj.com/articles/ai-weiweis-artistic-rebellion-11635683260"
-    ampWebUrl: "https://www.wsj.com/amp/articles/ai-weiweis-artistic-rebellion-11635683260"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiweis-artistic-rebellion-11635683260"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-422318/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Artist Ai Weiwei on his father's exile and hopes for his own son"
     excerpt: "Over the decades, Ai Weiwei has become one of the most influential artists and activists of our time, which is why the Chinese government has long fixed its gaz"
     publishedDateTime: 2021-11-03T02:13:00Z

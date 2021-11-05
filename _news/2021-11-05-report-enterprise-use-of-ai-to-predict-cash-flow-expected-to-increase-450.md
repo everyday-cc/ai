@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-pr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:

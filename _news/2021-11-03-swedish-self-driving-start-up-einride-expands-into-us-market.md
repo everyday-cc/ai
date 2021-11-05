@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Swedish Self-Driving Start-Up Einride Expands Into U.S. Market"
+title: "Swedish self-driving start-up Einride expands into U.S. market"
 excerpt: "Swedish electric self-driving truck start-up Einride said on Wednesday it has launched operations in the U.S. market and signed up GE Appliances, Swedish vegan milk maker and Oatly and tiremaker Bridgestone as customers."
-publishedDateTime: 2021-11-03T14:12:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2021-11-03/swedish-self-driving-start-up-einride-expands-into-us-market"
-webUrl: "https://money.usnews.com/investing/news/articles/2021-11-03/swedish-self-driving-start-up-einride-expands-into-us-market"
+publishedDateTime: 2021-11-03T15:39:00Z
+originalUrl: "https://www.reuters.com/article/autos-einride-expansion/swedish-self-driving-start-up-einride-expands-into-u-s-market-idUSL1N2RU0M3"
+webUrl: "https://www.reuters.com/article/autos-einride-expansion/swedish-self-driving-start-up-einride-expands-into-u-s-market-idUSL1N2RU0M3"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2HO1MQ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2HO1MQ"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20211103&t=2&i=1580114589&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEHA20RS"
+    width: 640
+    height: 426
+    isCached: true
 
 related:
   - title: "Swedish self-driving start-up Einride launches operation in the US"
@@ -38,6 +46,6 @@ related:
         height: 600
         isCached: true
 
-secured: "CutyJf9bcFbIW5P8HlfPW2Wd/jmLZsTYwEFR50oa7zie1paFdr+Rl2PlM1rJwLrwHF/VwIw3GTk4HVpxmSsqK9gdhpKhQvrbdwRH3ddE6s2M7QfMVFf0+84+83f4FrrOAdv71s/X/+JLYtQMc5xCH7GChL2lL+pQTytLYl5yTw6oVv/meLMZMB8tdAncVpX73TPIc8LhmvGH2trAIUfAdmV3BS1UugEU1oTXaLhsa8rklJP8Kye+e2aX3f1n9Gz+lc2gIt2MLGdizgiUAlKTwi2izBPxNxmlPNBPy96SYkaIiF8x+Nn9ggCTzSkcuN+O3ZNyBX/Qtqc9BJv7Fe/kh9rQVBi1x7PFz86MCqM0B2Mv09qhYrr0s543lV0kJgT0Em57MDwRlfOcdhVqIfVXQl2w9FSQV9XGojuhpMdm/PZOjk/xCcc+UqM0eCUPDo59h1pnmVj0nEDGi9MZhdoSsmuljwsfJ4BfrnrzqQSHD0US7Zzdj6btcIyVmjGUVGjydr3y/y2AvAsVOj+KAdgA+A==;v2ro61NL6gmv3dQn7L9cHg=="
+secured: "+s6Ris4tZDGJlmv24VrvI10+C1tZIXVBr7wkOwZWV9g4i5YpedF4l1mil+s9OVUQTxQsVDVIGmRKZKDZ3Dc2FlBtUO+HbSuVTJqDKTHxHINoIeAcTQKoKAg0Mtuj3iU3wPBO2CWUQ+kIkOd6PHoPphhUK+2JkbBGLYWvpO5W4fLDh6KQS/eCHgBCNoLymTNfzqCYORFDvi7OeLvVmnCUVlUD3mWeUnn8krMJPkcjzNm3y56sTMKHI4qBlR4fE4aCyDAmJU6954eeb14/mA2y/dcqzH4iHSI1e71pv12y4zKZGXrUVpa/xWjNx34yamt+HNEiWEbWkv/MQbXOj3w5eoBf/W9d+G/z07wTgZjGOT0=;zwXDJcnrLGH2q3vscb717w=="
 ---
 

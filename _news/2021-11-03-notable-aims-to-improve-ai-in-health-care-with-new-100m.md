@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-hea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1380
         height: 776
         isCached: true
+  - title: "Five risks to consider when implementing AI in health care"
+    excerpt: "Health care organizations must take time to familiarize themselves with the uses, benefits, limitations and hazards of AI tools."
+    publishedDateTime: 2021-11-05T04:04:00Z
+    webUrl: "https://www.propertycasualty360.com/2021/11/05/five-risks-to-consider-when-implementing-ai-in-health-care/"
+    type: article
+    provider:
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 21
 
 secured: "8PfcUEdVgisI2kwGfA6R9QNzM4OqH4qAAwhqxjWAVh8xm2LxWYB9wVmMEkOlAsc/n9ku49QXzxOCHbXm+5u7d/NjuIYfk6i6wZvT48RUm85N5cviTbl0qATjqAHJnH3UznqHFS5obAjU67BDZt6SxtZaeazfLw1JLNqcgKHNG3Q6RK76eDz/aV7G/eIGm7bSjlQWPLgeT0qZuBGmxOLMzbj3c527pkbKop9a6KizRG+h/akS2fXKLTRfLBAXQPkSniwoPPEZ9nTOKutcgmyzVwJjpSRXC2sj3cNFk1DsuvGXrA4jrRLxSMqrz47ptoEHOPQwnPEU2DIcMnbcLMkQHvd1aEiAe+HKkyJsYg//jArWIK62Q7ZcpNEd+GSA0HrRj6wdDVlnkaXSnwai2NcdbubAlztC2t+yuy86ekBb/8LnmUt+j/47victMvtIBGPmNjrwkoq7T6MOop9Ch80j0ReWZK5QTxQTz0XUYOL/JFmGYAb+frgeEcLl4MLZJgW1lr1Qspbg9j8pDkODd1GY0g==;f7UNIssQsMB6v4e1xEpmSw=="
 ---

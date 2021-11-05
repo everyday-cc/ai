@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-he
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -127,6 +127,20 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2021/11/waymo-self-driving-car-nyc-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Waymo's Self-Driving Vehicles Arrive on New York City Streets"
+    excerpt: "After rolling out in several cities including San Francisco, Google‘s Waymo brings its self-driving vehicles to the bustling New York City streets. As the most densely populated city in the United States with “unusual road geometrics,"
+    publishedDateTime: 2021-11-05T04:34:00Z
+    webUrl: "https://hypebeast.com/2021/11/waymo-driver-new-york-city-arrival-news"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F11%2Fwaymo-driver-new-york-city-arrival-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
         isCached: true
   - title: "Self-driving tech descends on NYC"
     excerpt: "Waymo is collecting data on the New York's chaotic streets and varying weather conditions to better inform its technology."

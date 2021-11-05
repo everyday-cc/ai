@@ -41,6 +41,22 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "North Korea seeks to boost English education with robot teachers - 'Enhance intelligence'"
+    excerpt: "NORTH KOREA has shared footage of a new toy-like robot teaching kids English and maths while the country suffers from famine."
+    publishedDateTime: 2021-11-05T02:45:00Z
+    webUrl: "https://www.express.co.uk/news/world/1516828/north-korea-news-boost-english-education-robot-teachers-ont"
+    ampWebUrl: "https://www.express.co.uk/news/world/1516828/north-korea-news-boost-english-education-robot-teachers-ont/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1516828/north-korea-news-boost-english-education-robot-teachers-ont/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 67
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/North-Korea-robot-teacher-1516828.jpg?r=1636084563213"
+        width: 590
+        height: 350
+        isCached: true
   - title: "North Korea Is Using Robots To ‘Enhance Children’s Intelligence’"
     excerpt: "In an apparent step-up from virtual learning, North Korea is now using robots in order to teach the country’s children.  Footage of a humanoid robot in action was presented on state television KRT after leader Kim Jong-un issued a push for education reform and technological innovation;"
     publishedDateTime: 2021-11-03T17:33:00Z

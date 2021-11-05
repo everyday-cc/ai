@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?a
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

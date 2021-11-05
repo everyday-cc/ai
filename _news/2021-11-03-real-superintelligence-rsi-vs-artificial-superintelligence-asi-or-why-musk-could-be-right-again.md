@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "SETI: Why extraterrestrial intelligence is more likely to be artificial than biological"
-    excerpt: "This could be a transition to fully artificial intelligence. AI may even be able to evolve, creating better and better versions of itself on a faster-than-Darwinian timescale for billions of years. Organic human-level intelligence would then be just a ..."
-    publishedDateTime: 2021-10-31T11:44:00Z
-    webUrl: "https://www.space.com/extraterrestrial-intelligence-artificial-biological"
-    ampWebUrl: "https://www.space.com/amp/extraterrestrial-intelligence-artificial-biological"
-    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/extraterrestrial-intelligence-artificial-biological"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 34
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/wvCKJsBx4AAacGmffBgNCi-1200-80.jpeg"
-        width: 1200
-        height: 924
-        isCached: true
 
 secured: "dFlPNnHO3WKQvwN+maO3WtRQxKptwgPoXA3eS82r8jrHeMKo6KEeSU3qjKyKZGdAAh08SmjAxO2brTO9vKQLOavYXMldpZ02iVW2J4YyxCZv4Nn9z77lErAOLbAv/CUFihZo8Rvc4K2tZXkmarFGip5Lnd9YHqvA9lx/uByKZ4wdHgpX2RpOpUffrZDSX9kzoKZyWaOuTgPGknKhCxbQ2aAivwFIr7Y9QtAUdLctFKJNzbz1FxBqdahJ6yF3xWq9XaF2Ry/rRvTyrWF6FDlrDsiIFvPGPsehHFVC86G5RxmK1aFcOdH4bbOwEmVdk+CuLkyFGBWTCHfqaJo1unFO5q2pM2OqkOAKreSXwZdQAqxXSIT+bNn/vulyRI9x1wInYKadVIXK2WXMvwdvTsX3C9+AYY7nxlMh+E07TKN4p+uietUM6JiTYqmjlvBio8fvhRL+l+FNrpchqKvIVJ65+jQHUclUqWpOsH3vPSG4/nig/ZHVY9SNT4tlZi4f3jMb+VY0/9ER366MSSwl41LSgw==;qUDvKX95Rl7I4jIr10lKLg=="
 ---

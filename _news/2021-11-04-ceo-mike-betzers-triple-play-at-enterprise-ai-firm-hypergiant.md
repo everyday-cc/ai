@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -7,8 +7,8 @@ originalUrl: "https://www.lelezard.com/en/news-20075238.html"
 webUrl: "https://www.lelezard.com/en/news-20075238.html"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Le Lézard
@@ -40,6 +40,15 @@ related:
         width: 765
         height: 446
         isCached: true
+  - title: "Welbilt KitchenConnect and HCL Technologies Join Forces to Offer a Secured Cloud Solution for The Food Industry Built Using Microsoft Azure IoT"
+    excerpt: "(NYSE: WBT), a leading provider of commercial foodservice equipment, announced today that it will integrate Microsoft (News - Alert) Azure Sphere to upgrade security in its KitchenConnect ® internet-connected equipment and will host the solution on Microsoft Azure through a new partnership with HCL Technologies (News - Alert)."
+    publishedDateTime: 2021-11-04T16:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-welbilt-kitchenconnect-hcl-technologies-jo-forces-offer-secured-/2021/11/04/9484530.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "JcAWquiEL3yQc+bZyVp7q2zbBNXVLcZ1q2EJCq53vpSxfKyPC9GHe9UKGhm9P7au9m6axrzwcBNRkJgWUOI4Tp7If6dGPxviKeUdbYBoGZh3zfqzAngnsn73deVyXDjMi8x/+4iMC3u18ToAJuS87iI6HI+PIx+ib9YntE8n/bfanPCvvNIXBATl9uAxrR4rbMiM/jG5tkzOi3TM98ow0ozhRVinQdyO8EeMgOMCQwDyRpzZkmF2eNdJUu2DH9WbfemKs0ZOMGcfm99gGBT51YpZINl/bgRi9VwNkRolt7yqFXW9RyJhkZr+uzuxtiANlMggn58huQGgI5xOFmCxuvPn2BYcmXCu5SsZlBedPys=;0yni0CSJbOfJ9ItrZHr6cQ=="
 ---

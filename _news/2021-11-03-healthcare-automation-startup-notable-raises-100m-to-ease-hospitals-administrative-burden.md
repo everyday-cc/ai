@@ -69,6 +69,15 @@ related:
         width: 1380
         height: 776
         isCached: true
+  - title: "Five risks to consider when implementing AI in health care"
+    excerpt: "Health care organizations must take time to familiarize themselves with the uses, benefits, limitations and hazards of AI tools."
+    publishedDateTime: 2021-11-05T04:04:00Z
+    webUrl: "https://www.propertycasualty360.com/2021/11/05/five-risks-to-consider-when-implementing-ai-in-health-care/"
+    type: article
+    provider:
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 21
 
 secured: "mHGgqojAtgp5gCcezdpFLCSmoC34hw6bt7y7WrkV2Qr4EW+wy3jDeCLWekPGrKL0izkNoNne6AgY0re93J0JfDEo0LIEnMSK8GCLuJrKsF1txgS8QC+JI6uw2qCMzJg2UyLfzTaAYs0ltvYceHNE+gXiWqqPWc61JXqqc/ZKkqpEodaoLVKtYv8ZppCY3JoJKURmQFAx0DBxF4U4W47cK1VPvA7DrG3ocBa8lH92Leck8MuvGXLHHsb9xzc/3ffwn/KhMsv3Ij+V0sP8HwBD5pYGIpUrg4EXv61dSfOD4G2NSd3+1e8yyEwyQRRnGjkWvzo1pap+ld2Zsr+zTAySZ+Ti+x25uOYXqbVSfvQ2lB5OtmszHA1zGkWxz+Bzg2S+dHgccLs/GtvaPVeI6rlguB+lWgvQ2D22TACd8fDMtgoJoNeQVnN+fwl9FnnROySxY/VNfBcVTuEbP4WPKnXLOiIb3/SzjBxuCMxEzm6Safn6cx0zWm8aHD2+4/3IKQNfWKVkRNdB0fQ8eXCZztvCpQ==;kN99fdFhKNO0XbsrrtIggg=="
 ---

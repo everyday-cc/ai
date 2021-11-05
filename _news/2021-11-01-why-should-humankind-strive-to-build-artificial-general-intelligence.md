@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "SETI: Why extraterrestrial intelligence is more likely to be artificial than biological"
-    excerpt: "This could be a transition to fully artificial intelligence. AI may even be able to evolve, creating better and better versions of itself on a faster-than-Darwinian timescale for billions of years. Organic human-level intelligence would then be just a ..."
-    publishedDateTime: 2021-10-31T11:44:00Z
-    webUrl: "https://www.space.com/extraterrestrial-intelligence-artificial-biological"
-    ampWebUrl: "https://www.space.com/amp/extraterrestrial-intelligence-artificial-biological"
-    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/extraterrestrial-intelligence-artificial-biological"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 34
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/wvCKJsBx4AAacGmffBgNCi-1200-80.jpeg"
-        width: 1200
-        height: 924
-        isCached: true
   - title: "Real Superintelligence (RSI) vs. Artificial Superintelligence (ASI), or Why Musk could be right again"
     excerpt: "The whole idea of AI as emulating, mimicking, simulating, replicating or faking human intelligence/brains/mind/behavior is scientifically unjustified and ethically wrong and should be discarded in the favor of real-world machine intelligence and learning (MIL)."
     publishedDateTime: 2021-11-03T15:59:00Z

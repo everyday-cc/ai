@@ -547,6 +547,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Governments must check if Facebook really does scrap face recognition, Frances Haugen says"
+    excerpt: "Facebook made the announcement on Tuesday, partly in response to growing scrutiny from regulators and legislators over user safety and abuses on its p.."
+    publishedDateTime: 2021-11-05T05:30:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87533911,imgsize-30076,width-1200,height-628,overlay-etbrandequity/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Facebook Shuttering Facial Recognition System, Will Delete Data From Over a Billion Users"
     excerpt: "Facebook is shutting down its Face Recognition system and will delete the facial data of more than 1 billion of its users, Facebook parent"
     publishedDateTime: 2021-11-02T17:43:00Z
@@ -760,12 +776,12 @@ related:
     quality: 24
   - title: "Facebook ending its system of facial IDs"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T07:27:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+    publishedDateTime: 2021-11-03T07:29:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 24
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199814388_4D1facebook1103_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"

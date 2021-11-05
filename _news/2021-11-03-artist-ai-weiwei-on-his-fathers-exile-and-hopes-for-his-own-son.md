@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tpr.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile
 cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son?_amp=true"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Texas Public Radio
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ai Weiwei’s Artistic Rebellion"
-    excerpt: "The artist-activist on his most beloved objects and his new memoir, “1000 Years of Joys and Sorrows,” which charts his father’s life, and his own, as an “enemy of the state.”"
-    publishedDateTime: 2021-10-31T11:27:00Z
-    webUrl: "https://www.wsj.com/articles/ai-weiweis-artistic-rebellion-11635683260"
-    ampWebUrl: "https://www.wsj.com/amp/articles/ai-weiweis-artistic-rebellion-11635683260"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiweis-artistic-rebellion-11635683260"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-422318/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Ai Weiwei Is Trying to Find His Way Home"
     excerpt: "The artist and activist on his new memoir, the true cost of freedom, and why home is sometimes about much more than where the heart is"
     publishedDateTime: 2021-11-01T12:00:00Z
