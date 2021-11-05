@@ -7,8 +7,8 @@ originalUrl: "https://news.mit.edu/2021/robots-social-skills-1105"
 webUrl: "https://news.mit.edu/2021/robots-social-skills-1105"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Massachusetts Institute of Technology
@@ -27,6 +27,24 @@ images:
     width: 3477
     height: 2318
     isCached: true
+
+related:
+  - title: "New Machine-Learning System Gives Robots Social Skills"
+    excerpt: "A new machine-learning system helps robots understand and perform certain social interactions. Robots can deliver food on a college campus and hit a hole-in-one on the golf course, but even the most s"
+    publishedDateTime: 2021-11-05T09:27:00Z
+    webUrl: "https://scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/"
+    ampWebUrl: "https://scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 44
+    images:
+      - url: "https://scitechdaily.com/images/Industrial-Robots-Teamwork-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
 
 secured: "iMg4J9D14/c7IWfglsNdAN2SCD9LgcAlr8GXDiiDuOGSMx9jREc3bUK4WjYUtfmz7F64IR4gDdtqWU+fqOmOoMy5rC3vVI8Tk6tHuO3dUwLlEtq+cX/SPeZ/Y8FJ3uxK9UbPwHOSUrLzbSYbB9QBRb9uKRuZsomW+kNnOo/oxd2M+rAJBPJ/Rl2A5xKP+bkLxXrJyl3PtUt+iDwF/wwY+K0SYNyYsC3coyk/KRsZV6C4aZhhfQumA//HIVTgYNxqtDl6kNPECCmSMFCuwLvZLOEfUmzuq0kHwt2Dpqg2+h97A4LavfTqLyD/FROVcjnHXPPNdS4MF7hGkp/Qg2sLeUkiTQ9/auGXE+NHYIQh9FVtd+t+kwqfGvPbW1sg1DeTNO/ro7I33CtORMpTnf4hFzUX3TyGCuNjy/+ohlX4jbGxoppv9VwxBXGnBlmUq8nmowFoMjZ1rGrJ8rg0BMwbWl69Vp+ciLbnRBHUVuW4wYrzEywK4UXHHJ6sWj1ElDnWcgoWlf21DlcJ0x3BiEZPsw==;liR1zzNoeScqsRdibRhQfw=="
 ---

@@ -2,6 +2,99 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-10-26-the-3-steps-to-building-an-ai-powered-organization.md",
+      "title": "The 3 Steps To Building An AI-Powered Organization",
+      "excerpt": "Despite awareness about the potential of AI, leaders struggle to build an organization with AI at its core. The three-box solution helps organizations use AI to optimize their business today while innovating for exponential growth in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/10/26/the-3-steps-to-building-an-ai-powered-organization/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/10/26/the-3-steps-to-building-an-ai-powered-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617726ced00338e8a7016b8f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2453%26cropY1%3D117%26cropY2%3D1496",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-this-startup-uses-ai-and-satellite-imagery-to-preserve-trees-moose-habitat-in-minnesota.md",
+      "title": "This startup uses AI and satellite imagery to preserve trees, moose habitat in Minnesota",
+      "excerpt": "NCX pays Minnesota landowners to delay harvesting trees for timber one year at a time, hoping to reduce the effects of climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.desmoinesregister.com/story/news/2021/10/26/ncx-pays-owners-preserve-trees-carbon-credits-minnesota-ai-microsoft-satellites-forest-management/5906505001/",
+      "originalUrl": "https://www.desmoinesregister.com/story/news/2021/10/26/ncx-pays-owners-preserve-trees-carbon-credits-minnesota-ai-microsoft-satellites-forest-management/5906505001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/10/11/PSTC/f77e289f-856c-418b-8a58-8e3bd9a835bf-MN_12x18.png?auto=webp&crop=815,458,x9,y244&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.desmoinesregister.com/amp/5906505001",
+      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5906505001",
+      "publishedDateTime": "2021-10-26T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Des Moines Register",
+        "domain": "desmoinesregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-amazon-gets-contract-from-british-spy-agencies-to-increase-use-of-ai-for-espionage.md",
       "title": "Amazon gets contract from British spy agencies to increase use of AI for espionage",
       "excerpt": "British spy agencies have signed a deal with Amazon Web Services to host classified material in a deal to boost the use of AI for espionage.",
@@ -1059,103 +1152,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-best-kirby-games-ranked-from-best-to-worst.md",
-      "title": "The best Kirby games, ranked from best to worst",
-      "excerpt": "Looking at Kirby's entire catalogue of games is overwhelming. Here's our best attempt to go through all the best Kirby games and rank them from best to worst.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/",
-      "originalUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/kirby-star-allies-review-4.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/?amp",
-      "publishedDateTime": "2021-10-25T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-ai-open-platform-market-may-set-new-growth-story-with-aws-hpe-microsoft-google.md",
-      "title": "AI Open Platform Market May Set New Growth Story with AWS, HPE, Microsoft, Google",
-      "excerpt": "While emphasizing the key driving and restraining forces for this ... Jingdong, Alibaba, Huawei, Baidu, Tencent & Jinshan AI Open Platform Market Study guarantees you to remain / stay advised ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-open-platform-market-may-set-new-growth-story-with-aws-hpe-microsoft-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-open-platform-market-may-set-new-growth-story-with-aws-hpe-microsoft-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/AAA-3-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

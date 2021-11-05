@@ -104,6 +104,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Google's parent company launches AI-driven drug discovery start-up"
+    excerpt: "Googles parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"
+    publishedDateTime: 2021-11-05T09:31:00Z
+    webUrl: "https://www.sify.com/movies/googles-parent-company-launches-ai-driven-drug-discovery-start-up-news-bollywood-vlfj5ugeiggfe.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
 
 secured: "igkIfaOqKMxzRBIShnj3kBBLAbFJB/NqisPEaAEjb5YZ3IWyotukxOplGLj5P4edhOmnXnwhD+rhXKvZWSrC1s9xAOZZNg9nki28Zx/ZEg6vmCJN7Kx+Ied+lXe5duME2Mf8kLHzgq0uRyeQfRKH5XuR8NdvB/aqanoJiav2z/e+0GcaX/pmwGK6TKTls8bp40SIl/bYD+BqrByUmp2pDXkSbSQx+Z54tk00wbnx7OzXoyIqPkh+QtIFU8rLntwJsdDVF1bCa6Agd+RdBjtiBSZF2QraPj3Ris2P5l5KuDRxcWiiEoY2ociKI/nLOXalTqi6HJ1BxgT9JGEFqthG3XYqHS/G5WGfc9g6g+omQVw=;CeuDWCxX0yXCQ1uUGsGixA=="
 ---

@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Intuit Accelerator Combines Fintech For Good With AI"
-    excerpt: "Fintech for good startup Bankuish is one of seven early-stage companies in the Intuit Prosperity Accelerator: AI. The five-month program is for fledgling fintech companies that target consumers and small businesses in North America and want to use AI to build better platforms."
-    publishedDateTime: 2021-10-31T15:16:00Z
-    webUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617eab2488106dd6e6ec75db%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "n9subUQsE6DOQqoNcYn5upPe1Qople6pN/uS9yVwJvd/IsVeUE4M04JqCO2RHdilCK/l9Sik6XkjnRZBpruf1EYZ8qpwu6BNo1TCS+s4An8Fq6gj28fjIowLEveXGvvpUAvkF7W9BSmtx/8T3wz8JKv/Ok1VMNJAeHCmYB+7ls5xQ1h875IOhlzw4JgLAu6hMNi3DFG+p3bqYxAgqSSYzojivwlJZa/pgvG6qUAgwq7aHLxnYvrJAW94k6eFDAD7QZAYE+3N3vCoEtMtVz1GG2inDMFXkCwuVce6RLE2xiRQRUQRFIhgBp676MjVIGHTVMunzLl5iTw2mJeSssb3Exe1gL/3URw+bmMJS8W2Y6id8zCN6CuOzfyV31h/8crWkE6iUa9QqWvRy9ogrf1HTc+Uiob6zgKJR/5X4KungJiT8Zl2F6vwV0tDCdRRMdhkJv1ILnfmOjgPVU9UVdpGo8eI6+IjnG7GJHO6wkgSORH/8OcaHu2QCZP1NzawS1Od8BIi1vGKycA793Es0KiobQ==;4S489DIhvEYiz4f9SUnm7w=="
 ---

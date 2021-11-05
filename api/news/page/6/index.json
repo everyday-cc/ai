@@ -2,6 +2,102 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-30-samsungs-jet-bot-ai-robot-vacuum-is-a-must-have-for-pet-owners.md",
+      "title": "Samsung's Jet Bot AI+ robot vacuum is a must-have for pet owners",
+      "excerpt": "The Samsung JetBot AI+ looks like the robot vacuum of the future, and has some ultramodern tech under the hood. Credit: leah stodart / mashable Despite their overall hands-off capabilities, most robot vacuums require some sort of pre-cleaning to avoid eaten phone chargers or socks.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum",
+      "originalUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/reviews/006pViF0SeLANeuxsVnRG1c/hero-image.fill.size_1200x675.v1635563107.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum?amp",
+      "publishedDateTime": "2021-10-29T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-the-evolution-of-speech-recognition-technology.md",
+      "title": "The evolution of speech recognition technology",
+      "excerpt": "About the Author Graeme John Cole is a contributor for Rev, creator of the world's most accurate automatic speech recognition engine, Rev.ai. Today, we all carry KITT in our pockets. We sigh when KITT answers the phone at the bank. The personality isn’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/the-evolution-of-speech-recognition-technology",
+      "originalUrl": "https://www.techradar.com/sg/news/the-evolution-of-speech-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/bQttsYAKmrwusDNeEaNGnC-1200-80.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology",
+      "publishedDateTime": "2021-10-29T17:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-lg-and-akin-to-develop-ai-home-helpers-for-families-living-with-disability.md",
       "title": "LG And A•kin To Develop AI Home Helpers For Families Living With Disability",
       "excerpt": "Sydney and San Francisco-based AI and robotics startup a•kin, who have developed robotics alongside the likes of NASA, are currently working towards one such important staging post. Smart speakers like Amazon Alexa and Google Home are already ...",
@@ -1091,101 +1187,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-robots-to-clean-nyc-skyscrapers.md",
-      "title": "Robots to clean NYC skyscrapers",
-      "excerpt": "The use case makes a lot of sense: managers of every commerce building in major U.S. cities need some way to clean their building's exterior glass. In fact, window cleaning is $40B global market. The surfaces involved are generally uniform and the path predictable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
-      "originalUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b656a675bbd1838bfbf9bdff16eb479741d8edae/2021/10/28/37ceec2f-0fc4-4223-82ef-92fab5b771a2/skyline-window-cleaning.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
-      "publishedDateTime": "2021-10-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-us-to-deepen-relation-with-taiwan-in-face-of-china-tensions.md",
-      "title": "US to deepen relation with Taiwan in face of China tensions",
-      "excerpt": "The U.S. switched diplomatic recognition of China from the ruling Nationalist Party government in Taipei to the Communist Party in Beijing in 1979, but has continued to maintain a strong unofficial relationship with the self-ruled island. Oudkirk declined ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/",
-      "originalUrl": "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10060-prod.cdn.arcpublishing.com/resizer/nXIU0jcYwnSsJHClfE_GA1NiNVs=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/WJMCWFRPM7TMX3VJUDFD3E2Q3E.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-fox13memphis-com.cdn.ampproject.org/c/s/www.fox13memphis.com/news/world/us-deepen-relation/VAPVWHOFFUFJH4QGEW5RKQXCDE/?outputType=amp",
-      "publishedDateTime": "2021-10-29T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX13 Memphis",
-        "domain": "fox13memphis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

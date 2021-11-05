@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/alphabet-launches-isomorphic-la
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Google's parent company launches AI-driven drug discovery start-up"
+    excerpt: "Googles parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"
+    publishedDateTime: 2021-11-05T09:31:00Z
+    webUrl: "https://www.sify.com/movies/googles-parent-company-launches-ai-driven-drug-discovery-start-up-news-bollywood-vlfj5ugeiggfe.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
 
 secured: "NIsKrWsvIp5H8IlEVv6lK0w05ZFEaqqlW6pD3ApXGIaRG5xv1PJTQVmvm306iK6kA0AnImO8hdfe0cQMkgpPS1e/8ri4OsGqYFab6o3VzGvm9TcSRcZWL8OBXuEpJbfge+j4LbZxd3V74yLKHrZSwbc2KWzXt7f6Z+DyciN3K/XnbXLMUBR6lpMDDH2eSMgDSPka1iKuyjSj6ariwhdCBqkQCSHIviC03vr5g7SzSwvxI+OIKgCsLG8OX6npI6vZ2iou6TcnLKSlRUQhkubKf0nrmA7dSN78jvumtYjXUib+uQ8PSdxwzUHpmbxmSED1fa9PfdKnB1FHPG2N1vGs+gzFp+qMUpIH3qXafgy+rPk9pdFqhIMoh5WIyfI+Qb6j0G/zKv6yjjTp7L7OH57NKTX4gZCuSo4hhfCyXDopTKptz+kYKEJ0VMuFXF2rTvriRbL1PTI47DIp7GVl1uqWN9JeyB05fPrznuNyjPXwWZ6cziyLCAoPY29ITWwWc1EAKhyaCNnhdS8zlL5C1uMxDw==;t3vs9sO1vXU1jiRVFb+BDA=="
 ---

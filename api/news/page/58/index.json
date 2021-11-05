@@ -2,6 +2,108 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-09-22-osano-a-risk-and-compliance-startup-raises-11m.md",
+      "title": "Osano, a risk and compliance startup, raises $11M",
+      "excerpt": "Osano, a risk and compliance startup, has confirmed it has raised $11 million in new funding. The round was led by Jump Capital and with participation from existing investors LiveOak Venture Partners and Next Coast Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/",
+      "originalUrl": "https://techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-488979113.jpg?w=1024",
+          "width": 1024,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/amp/",
+      "publishedDateTime": "2021-09-22T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-flyr-labs-maker-of-airline-software-raises-150-mln.md",
+      "title": "FLYR Labs, maker of airline software, raises $150 mln",
+      "excerpt": "FLYR Labs, maker of software that uses artificial intelligence to help airlines price and plan flights, said on Wednesday it raised $150 million in equity financing. Sept 22 (Reuters) - FLYR Labs, maker of software that uses artificial intelligence to help airlines price and plan flights,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/aerospace-defense/flyr-labs-maker-airline-software-raises-150-mln-2021-09-22/",
+      "originalUrl": "https://www.nasdaq.com/articles/flyr-labs-maker-of-airline-software-raises-%24150-mln-2021-09-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=53",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-data-quality-and-ai-business-value-iteratively-solving-a-chicken-and-egg-problem.md",
       "title": "Data Quality And AI Business Value: Iteratively Solving A Chicken-And-Egg Problem",
       "excerpt": "What came first: artificial intelligence (AI) value off the back of strong data or data value off the back of AI? This \"chicken and egg\" conundrum is not only a headscratcher for businesses contemplating the future role of machine learning (ML) in their supply and demand planning.",
@@ -1064,101 +1166,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-robots-are-displacing-manual-labor-jobs.md",
-      "title": "Robots Are Displacing Manual Labor Jobs",
-      "excerpt": "While the panelists agreed that robots will replace may of the jobs that Leavitt referred to as “mind-numbing repetitive manual labor ... Rob Spiegel has covered automation and control for 17 years, 15 of them for Design News. Other topics he has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/robots-are-displacing-manual-labor-jobs",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/robots-are-displacing-manual-labor-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/download_3.jpg?itok=8H3bGPP8",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-watch-a-tiny-robot-fly-an-aircraft-nearly-as-well-as-a-real-pilot.md",
-      "title": "Watch a tiny robot fly an aircraft nearly as well as a real pilot",
-      "excerpt": "Besides giving PIBOT enough skill to tackle every stage of flight, they're already translating its skill to real (if remote-controlled) aircraft. It's not hard to envision a future where robots ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2014-09-22-pibot-the-robot-pilot.html",
-      "originalUrl": "https://www.engadget.com/2014-09-22-pibot-the-robot-pilot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/pdNfU4GDZ5SccH4.0t2mTw--~B/aD0zMzc7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/3abab4338a51914603e04b0ca71413e/200792512/kaist-pibot-robot-pilot.jpg",
-          "width": 630,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/self-driving-company-aurora-makes-n
 webUrl: "https://www.therobotreport.com/self-driving-company-aurora-makes-nasdaq-debut/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving tech company Aurora makes Nasdaq debut"
+    excerpt: "In another highly-anticipated IPO, self-driving technology company Aurora Innovation (AUR) made it’s Nasdaq debut today. The company merged in October with Reinvent Technology Partners Y (RTPY), a special purpose acquisition company (SPAC) led by LinkedIn co-founder Reid Hoffman and Zynga founder Mark Pincus."
+    publishedDateTime: 2021-11-04T23:06:00Z
+    webUrl: "https://www.therobotreport.com/self-driving-company-aurora-makes-nasdaq-debut/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 54
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/11/aurora-nasdaq-featured-web.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Self-driving startup Aurora Innovation trades 14.67% lower in public trading debut"
     excerpt: "From merger to business combination in less than four months, self-driving startup Aurora Innovation expects to begin public trading on Thursday."
     publishedDateTime: 2021-11-04T21:01:00Z

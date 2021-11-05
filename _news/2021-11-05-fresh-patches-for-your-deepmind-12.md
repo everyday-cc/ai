@@ -52,6 +52,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 83
+  - title: "Alphabet’s DeepMind forms AI drug discovery unit Isomorphic Labs"
+    excerpt: "Google parent Alphabet has drawn on its DeepMind artificial intelligence division to form a drug discovery unit that"
+    publishedDateTime: 2021-11-05T09:27:00Z
+    webUrl: "https://pharmaphorum.com/news/alphabets-deepmind-forms-ai-drug-discovery-unit-isomorphic-labs/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 54
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2021/07/AlphaFold-605x340.jpg"
+        width: 605
+        height: 340
+        isCached: true
   - title: "Alphabet has a new drug discovery company building on DeepMind’s AI chops"
     excerpt: "Isomorphic's CEO said the company plans to use computational AI methods to “reimagine the whole drug discovery process.\""
     publishedDateTime: 2021-11-04T15:00:00Z

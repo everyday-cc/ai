@@ -2,6 +2,101 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-09-10-deepmind-aims-to-marry-deep-learning-and-classic-algorithms.md",
+      "title": "DeepMind aims to marry deep learning and classic algorithms",
+      "excerpt": "If successful, DeepMind's goal to bridge deep learning and classical computer science could revolutionize AI and software as we know them.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/",
+      "originalUrl": "https://venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1262867852-e1631215030724.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/amp/",
+      "publishedDateTime": "2021-09-10T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-artificial-intelligence-ai-in-retail-market-to-grow-at-a-cagr-of-297-from-2021-to-2027-google-nvidia-conversica-baidu-intel.md",
+      "title": "Artificial Intelligence (AI) in Retail Market to Grow at a CAGR of 29.7% from 2021 to 2027 | Google, NVIDIA, Conversica, Baidu, Intel",
+      "excerpt": "The study includes information on competitive scenarios probable threats breakthroughs and a variety of other topics There is detailed information about developing trends market drivers development prospects and dynamic market restraints Market participants may comprehend major trends in the worldwide",
+      "sourceUrl": null,
+      "webUrl": "https://www.brookings.edu/research/the-geography-of-ai/",
+      "originalUrl": "https://www.openpr.com/news/2389167/artificial-intelligence-ai-in-retail-market-to-grow-at-a-cagr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.brookings.edu/wp-content/uploads/2021/08/Figure6.png?fit=500%2C375px&quality=1#038;ssl=1",
+          "width": 500,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.brookings.edu/research/the-geography-of-ai/?amp",
+      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/the-geography-of-ai/?amp",
+      "publishedDateTime": "2021-09-10T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-communism-and-sitcoms-inspire-ai-ethics-at-salesforce.md",
       "title": "Communism and sitcoms inspire AI ethics at Salesforce",
       "excerpt": "Salesforce VP Yakaira Núñez's experiences taught her that it's important to consider your non-target audience in your AI roadmap.",
@@ -1065,93 +1160,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing.md",
-      "title": "UK dials up the spin on data reform, claiming ‘simplified’ rules will drive ‘responsible’ data-sharing",
-      "excerpt": "The UK government has announced a consultation on plans to shake up the national data protection regime, as it looks at how to diverge from European Union rules following Brexit. It’s also a year since the UK published a national data strategy in which said it wanted pandemic levels of",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/09/uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing/",
-      "originalUrl": "https://techcrunch.com/2021/09/09/uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-930848198.jpg?w=1000",
-          "width": 1000,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/09/uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/09/uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing/amp/",
-      "publishedDateTime": "2021-09-09T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-4-top-artificial-intelligence-stocks-to-watch-in-september-2021.md",
-      "title": "4 Top Artificial Intelligence Stocks To Watch In September 2021",
-      "excerpt": "Are these Top Artificial Intelligence Stocks On Your Watchlist This Month? For investors looking to invest in booming fields in the tech trade, artificial intelligence (AI) stocks are a viable play. Namely,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09?amp",
-      "publishedDateTime": "2021-09-09T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

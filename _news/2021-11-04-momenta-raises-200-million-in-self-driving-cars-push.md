@@ -45,6 +45,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Chinese Self-Driving Tech Unicorn Momenta Bags USD500 Million in Fundraiser Led by Toyota, Others"
+    excerpt: "Chinese driverless tech startup Momenta has secured over USD500 million in its latest funding round, led by several global car giants and private equity firms. Japan’s Toyota Motor, China’s SAIC Motor and the US’ General Motors as well as Singaporean sovereign wealth fund Temasek and Chinese private equity company YF Capital were leading participants in the C+ funding round,"
+    publishedDateTime: 2021-11-05T09:21:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-self-driving-tech-unicorn-momenta-bags-usd500-million-in-fundraiser-led-by-toyota-others"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 26
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-self-driving-tech-unicorn-momenta-bags-usd500-million-in-fundraiser-led-by-toyota-others/17356619607179264.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "Kk6c0ljAh9xFf6Wil3TXVhjRPdrUhpb2L4xC5shbtwWlTIYbgc9jft2E21caHbEYCWrIPvdSGTEh2RF67lzbht26jZYvnJjstqly8n5he0Wm+xMgnDaDeq7GJbSfwZ2x48jIdsrRH52z4GUpw/HSH+OXDz8RpCwKvG3H+cU6DVhJs31m+QPt/Rpu+8lWFMfV6tTGJNKb1+HTu1h41F6fKIAFjvSMUC3TJsxfAWf8pZtMWiZll9xzPgK8nXm8q8bqVUAxy5Mbz2SgmjALG9V9YHE9CeFZrglAY1JOW44dxwc7G4CBrFCPT92Q88mo7SRjHDzMxEK8qX2ZUGhMtkke1DebJSv39etLjul1qlG83xO84IW/BrYpjvhQj6XgSR7GFN+IsqSb20NCYpSMMDe/ieeqfBzogRR3Iq4oF6Ds22c4TncSqS3jvWFHJt8daBSn2pMlURCAu4uolMAcFYQ/wtWzB5cUpm2waHWsawlG1e33xuCNzFM5FmCYNgA7EH5dWlfYlAq+qbo3KSCQX/vBiQ==;x6OEH7CXGFA/z7YQgdDu0g=="
 ---

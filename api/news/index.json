@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-05-banking-reimagined-fintech-transformation-paves-the-way-for-new-generation-of-digital-services.md",
+      "title": "Banking reimagined: Fintech transformation paves the way for new generation of digital services",
+      "excerpt": "HSBC develops digital banking features that promise to enhance the customer experience, while its fintech solutions add extra layers of security to personal banking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/business/banking-finance/topics/fintech-solutions-banking/article/3154941/banking",
+      "originalUrl": "https://www.scmp.com/presented/business/banking-finance/topics/fintech-solutions-banking/article/3154941/banking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/05/100ffec0-3ddc-11ec-a1b3-e785d5c8830c_image_hires_122303.jpg?itok=gIOLQpa4&v=1636086199",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-autonomous-driving-startup-momenta-raises-another-500m.md",
       "title": "Autonomous driving startup Momenta raises another $500M",
       "excerpt": "In the wake of a $300 million investment from General Motors in September, Momenta, an autonomous driving solution provider from China, announced today an additional $500 million added to its Series C round.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/05/momenta-500-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -148,6 +200,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-05-giving-robots-social-skills.md",
+      "title": "Giving robots social skills",
+      "excerpt": "MIT researchers have developed a control framework that enables robots to understand what it means to help or hinder one another and incorporate social reasoning into the tasks they are accomplishing.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/robots-social-skills-1105",
+      "originalUrl": "https://news.mit.edu/2021/robots-social-skills-1105",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202111/MIT-Social-Interaction-01.jpg",
+          "width": 3477,
+          "height": 2318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers.md",
       "title": "How Artificial Intelligence Is Helping Veterans Become First Time Homebuyers",
       "excerpt": "Recent statistics show that veteran homelessness increased by about 4% in 2020, aggravating an already bad situation. The US government and the VA have created very accommodating measures to enable Veterans to become homeowners.",
@@ -258,7 +362,7 @@
       "originalUrl": "https://www.therobotreport.com/self-driving-company-aurora-makes-nasdaq-debut/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -614,7 +718,7 @@
       "originalUrl": "https://www.cnet.com/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1121,109 +1225,6 @@
         "AI",
         "AI Hardware",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-warburg-backed-hong-kong-firm-that-uses-ai-for-drug-discovery-files-for-us-ipo.md",
-      "title": "Warburg-Backed Hong Kong Firm That Uses AI for Drug Discovery Files for U.S. IPO",
-      "excerpt": "Insilico Medicine, a Hong Kong-based company that uses artificial intelligence to drive drug discovery, filed confidentially for a U.S. initial public offering last week, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-04/warburg-backed-ai-drug-firm-is-said-to-have-filed-for-u-s-ipo",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-04/warburg-backed-ai-drug-firm-is-said-to-have-filed-for-u-s-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSet6qSNWbMY/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-flippy-2-kitchen-robot-can-singlehandedly-work-a-fast-food-fry-station.md",
-      "title": "Flippy 2 kitchen robot can singlehandedly work a fast food fry station",
-      "excerpt": "Flippy the burger-flipping robot has received an upgrade as Miso Robotics rolls out its Flippy 2 model. Taking on board feedback from a pilot program with the White Castle hamburger chain that started in Chicago in September 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/flippy-2-kitchen-robot/",
-      "originalUrl": "https://newatlas.com/robotics/flippy-2-kitchen-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/6d0e178/2147483647/strip/true/crop/800x533+0+1/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe9%2Fb7%2Fffc3dafb4e6a88061c992dd974cd%2Fmiso-robotics-flippy-2-full.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/flippy-2-kitchen-robot/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/flippy-2-kitchen-robot/?amp=true",
-      "publishedDateTime": "2021-11-03T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

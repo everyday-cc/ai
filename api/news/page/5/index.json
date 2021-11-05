@@ -2,6 +2,112 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-01-how-leaders-in-security-observability-and-innovation-master-cloud-complexity.md",
+      "title": "How Leaders In Security, Observability And Innovation Master Cloud Complexity",
+      "excerpt": "As organizations adopt microservices architectures, multiple public clouds and more, complexity will only increase.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
+      "originalUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61783b2546500e7920061744%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
+      "publishedDateTime": "2021-11-01T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-could-open-banking-pose-new-security-threats-to-your-financial-data-we-asked-an-expert.md",
+      "title": "Could open banking pose new security threats to your financial data? We asked an expert",
+      "excerpt": "While open banking and PSD2 data sharing APIs may provide more options for consumers, will it also bring more security issues?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/could-open-banking-pose-new-security-threats-financial-data-expert",
+      "originalUrl": "https://thenextweb.com/news/could-open-banking-pose-new-security-threats-financial-data-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fabn_security.jpg&signature=502b6c22d9c6d9bb4a9f98941dc25644",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-metas-andrew-bosworth-on-moving-facebook-to-the-metaverse.md",
       "title": "Meta’s Andrew Bosworth on moving Facebook to the metaverse",
       "excerpt": "Facebook announced a major corporate rebrand by changing its company name to Meta. As CEO Mark Zuckerberg told The Verge, the new name is meant to solidify the social media giant’s long-term bet on building the metaverse.",
@@ -415,7 +521,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1135,102 +1241,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-samsungs-jet-bot-ai-robot-vacuum-is-a-must-have-for-pet-owners.md",
-      "title": "Samsung's Jet Bot AI+ robot vacuum is a must-have for pet owners",
-      "excerpt": "The Samsung JetBot AI+ looks like the robot vacuum of the future, and has some ultramodern tech under the hood. Credit: leah stodart / mashable Despite their overall hands-off capabilities, most robot vacuums require some sort of pre-cleaning to avoid eaten phone chargers or socks.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum",
-      "originalUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/reviews/006pViF0SeLANeuxsVnRG1c/hero-image.fill.size_1200x675.v1635563107.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum?amp",
-      "publishedDateTime": "2021-10-29T20:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-the-evolution-of-speech-recognition-technology.md",
-      "title": "The evolution of speech recognition technology",
-      "excerpt": "About the Author Graeme John Cole is a contributor for Rev, creator of the world's most accurate automatic speech recognition engine, Rev.ai. Today, we all carry KITT in our pockets. We sigh when KITT answers the phone at the bank. The personality isn’t ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/the-evolution-of-speech-recognition-technology",
-      "originalUrl": "https://www.techradar.com/sg/news/the-evolution-of-speech-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/bQttsYAKmrwusDNeEaNGnC-1200-80.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology",
-      "publishedDateTime": "2021-10-29T17:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

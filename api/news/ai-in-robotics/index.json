@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-05-giving-robots-social-skills.md",
+      "title": "Giving robots social skills",
+      "excerpt": "MIT researchers have developed a control framework that enables robots to understand what it means to help or hinder one another and incorporate social reasoning into the tasks they are accomplishing.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/robots-social-skills-1105",
+      "originalUrl": "https://news.mit.edu/2021/robots-social-skills-1105",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202111/MIT-Social-Interaction-01.jpg",
+          "width": 3477,
+          "height": 2318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-cobi-robot-autonomously-performs-needle-less-vaccinations.md",
       "title": "Cobi robot autonomously performs needle-less vaccinations",
       "excerpt": "It goes without saying that a lot of people are receiving the COVID-19 vaccine these days, and will continue to do so for some time. A new robot is designed to help streamline the process, by autonomously – and needle-lessly – vaccinating human patients.",
@@ -626,7 +678,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1049,8 +1101,8 @@
       "title": "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301410858.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301410858.html",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--876060912.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--876060912.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1069,11 +1121,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T06:41:00-07:00",
+      "publishedDateTime": "2021-10-28T07:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "domain": "prnewswire.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1334,49 +1386,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-top-indian-robotics-start-ups-that-have-gained-funding-in-2021.md",
-      "title": "Top Indian Robotics Start-ups that have Gained Funding in 2021",
-      "excerpt": "India has been evolving as the biggest start-ups ecosystem. In which robotics start-ups have a great visible space. Let’s know more about the Indian robotics start-ups funding in 2021 in this article.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/",
-      "originalUrl": "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-Indian-Robotics-Startups-that-have-Gained-Funding-in-2021.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

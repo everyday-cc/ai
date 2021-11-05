@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3154729/data-a
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms"
 type: article
 quality: 90
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intuit Accelerator Combines Fintech For Good With AI"
-    excerpt: "Fintech for good startup Bankuish is one of seven early-stage companies in the Intuit Prosperity Accelerator: AI. The five-month program is for fledgling fintech companies that target consumers and small businesses in North America and want to use AI to build better platforms."
-    publishedDateTime: 2021-10-31T15:16:00Z
-    webUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2021/10/31/intuit-accelerator-combines-fintech-for-good-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617eab2488106dd6e6ec75db%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI Fintech for Buy Side Raises $47m"
     excerpt: "TIFIN, a fintech platform using AI for wealth and asset management, announced the successful closing of $47 million in Series C funding. TIFIN uses data and investment driven intelligence to drive personalization for wealth management,"
     publishedDateTime: 2021-11-02T05:00:00Z

@@ -3,8 +3,8 @@ category: news
 title: "HitGen and Cambridge Molecular announce a strategic partnership, bringing together DNA-Encoded Libraries and Deep Learning"
 excerpt: "HitGen Inc. (688222.SH) and Cambridge Molecular are pleased to announce an exclusive alliance, introducing DeepDELve 2 – Cambridge Molecular’s highly optimised DEL-specific deep learning system – as an addition to HitGen’s world-leading DEL discovery platform,"
 publishedDateTime: 2021-11-05T02:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/science-technology-business-england-chengdu-cfb6a4f760bf41ac86b04dbb91e5f144"
-webUrl: "https://apnews.com/press-release/business-wire/science-technology-business-england-chengdu-cfb6a4f760bf41ac86b04dbb91e5f144"
+originalUrl: "https://apnews.com/press-release/BusinessWire/science-technology-business-england-chengdu-cfb6a4f760bf41ac86b04dbb91e5f144"
+webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-business-england-chengdu-cfb6a4f760bf41ac86b04dbb91e5f144"
 type: article
 quality: 13
 heat: 13
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "MkYHI4km9lL1ulZow/qf4HazKWB4Lk9VKONR0WxYzESrSmmbNaHP1suhaqAXVVezot48qjawkOtv+qH6PGbIzZX6Mf1ENIlyG7zSX1tFb+DSoPaDrZNeLsadR353E62VBpdgaS2sV3urv66JbeMNAvY8x9El84IABPDppNSXz3GY+wsDRll3IxWW/s1Kri2MDq7oPSfKTpt7L0DBNU3x+xNzwIQV87qPOhJsi93Z9NtzumbJ6HOgM6S5IKXSggznm/Qyzp7c5tQD75k6pecs60cu5BV0qBmYq39XncgCZ5/DrQMTtQOWCc7anclfJjngwOwDcJO2MwHf4ZXCH3C5CJ5izmzblUFP6fBHW14xg48=;3m8OrvSS0EsZmaBIteOBHg=="
+secured: "WFLx51Naw236kO/tR8DhFiy8UgL0ql4XNs/+7dm6PUqUQQwjNOC9bFnQLhsYMhIZy4FgcKFn9J1wIOY2sqCaHxh7KSjVqJeSIL6vgLdZWruaQtqwJx879o11Uzm9y66VXAAAQFH7YHXQiobrLhoOVEwA9cizVH3xapDXVuyCdRHKRVZfVNNPppCEYlrNglffcPiN95Cx8po3vhbN5zpz7iFRHRTzBkfLvPpZz6UKTRlVu4zKwA5XjXwtEQgbqzy0mUF9RbReYU6ujhM0Oz8rkD8WfeKECd+GJMQ0MTNb3XepSPtzWYOaX+YKWnsPPliS2MpIga0hvtN7M6v+lLHYvH5oSN52mZZEsxOw9eh7kHM=;Jwf2dUK6aTWXmtODroawSw=="
 ---
 

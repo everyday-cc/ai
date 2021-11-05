@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-03-north-korea-seeks-to-boost-education-with-toy-like-robots.md",
+      "title": "North Korea seeks to boost education with toy-like robots",
+      "excerpt": "North Korean leader Kim Jong Un has been pushing for education reform in recent years by spurring technological and scientific innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888",
+      "originalUrl": "https://www.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/477601",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888/amp",
+      "publishedDateTime": "2021-11-03T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-the-future-role-of-ai-and-the-uk-national-ai-strategy-insights-from-professor-mark-girolami.md",
+      "title": "The Future Role Of AI And The UK National AI Strategy – Insights From Professor Mark Girolami",
+      "excerpt": "This article captures the key insights from an interview with Professor Mark Girolami, the first chief scientist of the Alan Turing Institute, the UK’s national institute for data science and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/03/the-future-role-of-ai-and-the-uk-national-ai-strategy--insights-from-professor-mark-girolami/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/03/the-future-role-of-ai-and-the-uk-national-ai-strategy--insights-from-professor-mark-girolami/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61822d28e9dc8960891c7a9b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/03/the-future-role-of-ai-and-the-uk-national-ai-strategy--insights-from-professor-mark-girolami/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/03/the-future-role-of-ai-and-the-uk-national-ai-strategy--insights-from-professor-mark-girolami/amp/",
+      "publishedDateTime": "2021-11-02T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son.md",
       "title": "Artist Ai Weiwei on his father's exile and hopes for his own son",
       "excerpt": "Over the decades, Ai Weiwei has become one of the most influential artists and activists of our time, which is why the Chinese government has long fixed its gaz",
@@ -1105,109 +1200,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-reducing-city-transport-emissions-with-maps-and-ai.md",
-      "title": "Reducing city transport emissions with Maps and AI",
-      "excerpt": "City transportation is crucial to connecting residents to education, employment and essential services. At the same time, the transportation sector is where global greenhouse gas (GHG) emissions are rising the quickest.In 2018, we launched the Environmental Insights Explorer (EIE) in collaboration with",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
-      "originalUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transportation_Blog.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 975,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
-      "publishedDateTime": "2021-11-02T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-fmr-google-ceo-on-how-artificial-intelligence-will-transform-society.md",
-      "title": "Fmr. Google CEO on how artificial intelligence will transform society",
-      "excerpt": "Former Google chairman and CEO Eric Schmidt joins 'Squawk Box' to discuss the future of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/11/02/fmr-google-ceo-on-how-artificial-intelligence-will-transform-society.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/11/02/fmr-google-ceo-on-how-artificial-intelligence-will-transform-society.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106969296-16358633471635863344-19537158772-1080pnbcnews.jpg?v=1635863346",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

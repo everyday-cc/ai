@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-02-reducing-city-transport-emissions-with-maps-and-ai.md",
+      "title": "Reducing city transport emissions with Maps and AI",
+      "excerpt": "City transportation is crucial to connecting residents to education, employment and essential services. At the same time, the transportation sector is where global greenhouse gas (GHG) emissions are rising the quickest.In 2018, we launched the Environmental Insights Explorer (EIE) in collaboration with",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
+      "originalUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transportation_Blog.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 975,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
+      "publishedDateTime": "2021-11-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-fmr-google-ceo-on-how-artificial-intelligence-will-transform-society.md",
+      "title": "Fmr. Google CEO on how artificial intelligence will transform society",
+      "excerpt": "Former Google chairman and CEO Eric Schmidt joins 'Squawk Box' to discuss the future of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/11/02/fmr-google-ceo-on-how-artificial-intelligence-will-transform-society.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/11/02/fmr-google-ceo-on-how-artificial-intelligence-will-transform-society.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106969296-16358633471635863344-19537158772-1080pnbcnews.jpg?v=1635863346",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-israeli-ai-mobility-company-autobrains-raises-101m-in-series-c-funding.md",
       "title": "Israeli AI Mobility Company Autobrains Raises $101M In Series C Funding",
       "excerpt": "Autobrains is disrupting advanced driver-assistance systems and the autonomous vehicle marketplace with its approach to AI for automation.",
@@ -1132,112 +1235,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-how-leaders-in-security-observability-and-innovation-master-cloud-complexity.md",
-      "title": "How Leaders In Security, Observability And Innovation Master Cloud Complexity",
-      "excerpt": "As organizations adopt microservices architectures, multiple public clouds and more, complexity will only increase.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
-      "originalUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61783b2546500e7920061744%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
-      "publishedDateTime": "2021-11-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-could-open-banking-pose-new-security-threats-to-your-financial-data-we-asked-an-expert.md",
-      "title": "Could open banking pose new security threats to your financial data? We asked an expert",
-      "excerpt": "While open banking and PSD2 data sharing APIs may provide more options for consumers, will it also bring more security issues?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/could-open-banking-pose-new-security-threats-financial-data-expert",
-      "originalUrl": "https://thenextweb.com/news/could-open-banking-pose-new-security-threats-financial-data-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fabn_security.jpg&signature=502b6c22d9c6d9bb4a9f98941dc25644",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
       ]
     }
   ],
