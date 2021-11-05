@@ -2,6 +2,93 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-09-29-amazon-amzn-boosts-robotics-efforts-with-astro-launch.md",
+      "title": "Amazon (AMZN) Boosts Robotics Efforts With Astro Launch",
+      "excerpt": "Amazon AMZN ramps up its robotics initiatives by launching a home robot called Astro, which rolls around the house autonomously. Astro, which marks itself as the first domestic robot, is embedded with cameras,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp",
+      "publishedDateTime": "2021-09-29T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models.md",
+      "title": "DeepMind claims its AI weather forecasting model beats conventional models",
+      "excerpt": "Alphabet's DeepMind claims that its short-term, AI-powered weather forecasting model is more accurate than competing methods.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/",
+      "originalUrl": "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-520682906-e1619014289419.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/amp/",
+      "publishedDateTime": "2021-09-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately.md",
       "title": "AI-Powered Tool To Predict Cardiac Risk In Indians More Accurately",
       "excerpt": "An Artificial Intelligence-powered tool to more accurately predict heart disease risk among Indians and recommend modifiable changes to prevent heart attacks has been launched by Apollo Hospitals in partnership with Microsoft.",
@@ -1041,102 +1128,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-global-voice-and-speech-recognition-software-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2027.md",
-      "title": "Global Voice And Speech Recognition Software Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2027",
-      "excerpt": "Global Voice And Speech Recognition Software Market 2020 by Company, Type and Application, Forecast to 2025 recently presented by MarketQuest.biz concretes the best results, integrated approaches, and the latest technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-software-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2027-2021-09-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-software-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2027-2021-09-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers.md",
-      "title": "Tesla's 'full self-driving' feature could be days away for approved drivers",
-      "excerpt": "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test",
-      "sourceUrl": null,
-      "webUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.html",
-      "originalUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/46/e4637dd0-9aeb-5452-b24f-a8a50379cbcd/61539075d1f2e.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html",
-      "cdnAmpWebUrl": "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html",
-      "publishedDateTime": "2021-09-28T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arizona Daily Star",
-        "domain": "tucson.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

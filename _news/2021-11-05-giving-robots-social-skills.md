@@ -39,7 +39,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 44
+    quality: 61
     images:
       - url: "https://scitechdaily.com/images/Industrial-Robots-Teamwork-777x518.jpg"
         width: 777

@@ -91,6 +91,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Alphabet launches AI-driven drug discovery startup"
+    excerpt: "The new venture also plans to partner with biomedical and pharmaceutical companies, using artificial intelligence to discover new medicinal advancements."
+    publishedDateTime: 2021-11-05T10:17:00Z
+    webUrl: "https://www.thestatesman.com/technology/alphabet-launches-ai-driven-drug-discovery-startup-1503022919.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/alphabet-launches-ai-driven-drug-discovery-startup-1503022919.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/alphabet-launches-ai-driven-drug-discovery-startup-1503022919.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 59
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/11/iStock-1035004756-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Google's parent company launches AI-driven drug discovery start-up; here's what we know so far"
+    excerpt: "Google's parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery, The new company, called Isomorphic Laboratories, will leverage the success of DeepMind,"
+    publishedDateTime: 2021-11-05T10:01:00Z
+    webUrl: "https://www.freepressjournal.in/world/googles-parent-company-launches-ai-driven-drug-discovery-start-up-heres-what-we-know-so-far"
+    ampWebUrl: "https://www.freepressjournal.in/amp/world/googles-parent-company-launches-ai-driven-drug-discovery-start-up-heres-what-we-know-so-far"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/world/googles-parent-company-launches-ai-driven-drug-discovery-start-up-heres-what-we-know-so-far"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 47
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-11/de6df62a-0425-4a8c-a531-7a405e71a489/blah__56_.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Model Medicines Raises $4.1 Million to Discover and Advance Therapeutics Using its AI Drug Discovery Platform"
     excerpt: "Model Medicines, the pharmatech company working to transform the drug discovery and development process and accelerate the creation of life-changing drugs using artificial intelligence and machine learning,"
     publishedDateTime: 2021-11-03T12:23:00Z

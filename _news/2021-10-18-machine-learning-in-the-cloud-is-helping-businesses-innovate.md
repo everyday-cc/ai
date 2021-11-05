@@ -21,6 +21,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Finance
+  - Computer Vision
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/BLAB-Episode-Page-Header-Bratin-e1633354749425.jpg?w=1200"

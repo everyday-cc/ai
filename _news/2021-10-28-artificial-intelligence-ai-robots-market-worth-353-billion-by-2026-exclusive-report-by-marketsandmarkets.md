@@ -2,25 +2,25 @@
 category: news
 title: "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
 excerpt: "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ..."
-publishedDateTime: 2021-10-28T14:33:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--876060912.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--876060912.html"
+publishedDateTime: 2021-10-28T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-    width: 666
-    height: 350
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
+    width: 669
+    height: 229
     isCached: true
 
-secured: "wFrXhGOVWQZJzd+S/zS90zFAnny14bsYrIJV+e8MCQQh/Mb1LvbPS5eiu1mS8sGwuNOrWzF5X+gAOejfpMM50neU2ZiDz3YEpr+bqdAN3Q1MLfFYFmDKvYMoENlrSQZhP2OGQsGiPjkij7aBrpIljFFqVo80/TplfdQk9EXbtRzq4oMmqVP4Nng0l2FT+32o7q5+Zhn9I8iqXDvlrMArlGcP6RtQljMEb3mLQzGdDdG9Le4F1CssRGSpyciU6Ht1vOFyt5Tzb1BQvunOS44f7jGubfPOj52RtQ/rCu2XVaEL2aoshISkNuyAqoCIVNfaWltGDO03XHfvu/CZqZ50CoF3kee+fsstZMkIp2z25H8=;G+PeRk1To2XvqjOpRBSXFA=="
+secured: "ZQbzmgnmLzN3i57E/ZeH13Kb3xQ8Jvg0wzugHFcCArCQ1rWTJk2BvDzn+HPEvg6HIKZfuxKqqmA8XYNuv3xwaFjMniYLNXb70lSbBW6agAsUFlvBD3K9fiMx4scBRz15nghgteT3+EfUtnhIBd/+mOSrJgR7LZUIxqDmF5sHkvHfRUbTJDFm1HMzYpe/UTSXh2dOcKgzO6btVyvqmL+Y8sJXSuZaAXXHshtYQoZWjyUHMzDhlnzcydeE6XN5rPE5tMKpn3pdKvuhacw6R8Wcr22OlIRHn+l7YYR8k1RJa0EDkvdRz1ToBlgREURTMWMrrqPiHJgXpjTBxxJmZS3UWKiP2d94UwFtgPQa669OogQ=;+DWFTzhJ8RoCRUMDVfMv9A=="
 ---
 

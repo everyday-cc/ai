@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-19-desperate-for-workers-restaurants-turn-to-robots.md",
+      "title": "Desperate for Workers, Restaurants Turn to Robots",
+      "excerpt": "They can make French fries, mix drinks and even clean toilets, and they never ask for a raise. But they also break down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
+      "originalUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/20/multimedia/20SP-ROBOTS-INYT1/merlin_195923337_42e6ecac-a4fd-4252-99a5-21c3e6313e43-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/19/business/restaurants-robots-workers.amp.html",
+      "publishedDateTime": "2021-10-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-artificial-intelligence-and-robotics-hub-launched-at-gitex-global.md",
       "title": "‘Artificial Intelligence and Robotics Hub’ launched at Gitex Global",
       "excerpt": "In support of the UAE Strategy for Artificial Intelligence (AI) 2031, the Ajman Free Zone has launched its “Artificial Intelligence and Robotics Hub” at GITEX Global 2021.",
@@ -1313,58 +1365,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
-      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
-      "excerpt": "AI is quickly becoming more useful in our world, and these two companies are perfectly positioned to benefit from it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "originalUrl": "https://www.fool.com/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F645506%2Fai-button-on-a-circuit-board.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "publishedDateTime": "2021-10-09T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

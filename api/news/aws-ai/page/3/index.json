@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-07-build-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-part-2-training-and.md",
+      "title": "Build your own brand detection and visibility using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels – Part 2: Training and analysis workflows",
+      "excerpt": "In Part 1 of this series, we showed how to build a brand detection solution using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels. The solution was built on a serverless architecture with a custom user interface to identify a company brand or logo from video content and get an in-depth",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-build-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-training-and-analysis-workflows/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-build-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-training-and-analysis-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/23/ML-895-image001.jpg",
+          "width": 1510,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T12:12:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker.md",
       "title": "Bring structure to diverse documents with Amazon Textract and transformer-based models on Amazon SageMaker",
       "excerpt": "From application forms, to identity documents, recent utility bills, and bank statements, many business processes today still rely on exchanging and analyzing human-readable documents—particularly in industries like financial services and law. In this post, we show how you can use Amazon SageMaker, an",
@@ -1365,49 +1418,6 @@
         "AWS AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-26-3-ways-to-get-into-reinforcement-learning.md",
-      "title": "3 ways to get into reinforcement learning",
-      "excerpt": "AWS introduced DeepRacer in November 2018 as the “fastest way to get rolling with machine learning.” In December 2020, they had more than 10,000 competitors and a grand prize that included US$10,000 of AWS promotional credits. Don’t let the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/686379/3-ways-get-into-reinforcement-learning/?fpid=1",
-      "originalUrl": "https://www.reseller.co.nz/article/686379/3-ways-get-into-reinforcement-learning/?fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_m_113932028_learn_-_copy_1.jpg",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-26T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

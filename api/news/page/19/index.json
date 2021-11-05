@@ -2,6 +2,100 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-10-19-facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk.md",
+      "title": "Facial Recognition School Lunch Payments Spark Privacy Concerns In UK",
+      "excerpt": "We're introducing Facial Recognition!” cheerily opens a flyer given to some parents in Scotland, describing a new method to pay for school lunches. Howeve",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
+      "originalUrl": "https://www.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/ec3440b1-2754-55eb-9036-0ab8685f3156/default-1634645033-child-facial-recognition.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
+      "publishedDateTime": "2021-10-19T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech.md",
+      "title": "Instacart acquires Caper for AI-powered shopping cart and checkout tech",
+      "excerpt": "Over time, Instacart plans to integrate Caper's technology into the Instacart app, as well as its retail partners' platforms, for a more blended in-store and digital grocery shopping experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "originalUrl": "https://www.zdnet.com/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/822c04d3978ba8d964686aaf8052d87346c55831/2021/10/19/25dac7e8-528b-4dea-90ff-cc37c804784b/capercartphoto-21.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "publishedDateTime": "2021-10-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-how-deep-learning-is-shaping-the-future-of-content-production.md",
       "title": "How Deep Learning Is Shaping The Future Of Content Production",
       "excerpt": "What role will synthetic media play, and what trends are exploding on the market of deep learning products? This article will highlight the main changes that AI/ML is bringing about in the modern media environment.",
@@ -1047,92 +1141,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-alibaba-cloud-to-build-own-servers-with-new-in-house-chip.md",
-      "title": "Alibaba Cloud to build own servers with new in-house chip",
-      "excerpt": "Chinese tech giant says it has built its own server chip, called Yitian 710, which is touted to be compatible with the latest Armv9 architecture and will be used to develop new servers that will be deployed across Alibaba's businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/",
-      "originalUrl": "https://www.zdnet.com/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/",
-      "publishedDateTime": "2021-10-18T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-spell-named-a-2021-gartner-cool-vendor-in-enterprise-ai-operationalization-and-engineering.md",
-      "title": "Spell Named a 2021 Gartner® Cool Vendor in Enterprise AI Operationalization and Engineering",
-      "excerpt": "Focused on the urgency and the need for enterprises to deploy platforms that accelerate scaling enterprise AI into production",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcax.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/",
-      "originalUrl": "https://www.wcax.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/FREMUPCXogmuYv3X5OxCBlIuAyY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5TE3TWAROAQRUUKEKN2BSHAMOU.jpg",
-          "width": 980,
-          "height": 2097,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCAX3",
-        "domain": "wcax.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

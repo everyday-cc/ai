@@ -47,6 +47,15 @@ related:
         width: 999
         height: 560
         isCached: true
+  - title: "Public comments on patent eligibility elevate issues surrounding artificial intelligence"
+    excerpt: "While efforts to reform patent eligibility have stalled, public responses to a request by the USPTO have revived the issue."
+    publishedDateTime: 2021-11-05T10:00:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/public-comments-on-patent-eligibility-elevate-issues-surrounding-artificial-intelligence/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 8
 
 secured: "tfOPnkNadoQUhm5veKtea4p+4orZa9qB7v6DiwxgkTb1mnPiJhKYS4Zj9e5v5XX0ssc5CmPo35DUtI/9Elh8+rx1UaUx9+7yZLkIYTNVucTUTGRrKBCWAbA8FQ7oLNq8Xji9/jUkO2jPw4Z/Hv0oV94VU+WM/+fsb0nPA/BlUx0z9At0233ITGdnY9Pw1zLeUrYl3h5kmelX5k7/M44MvBvdFgT29fnVIWncZgBBKwg3IWGmqwR7bagmtUL3826rb+fKUaR4pch/oHj0fQ2IyD2omaHm6DOn7drwkxTtZG2nLYrohTzREDUawL4C7axyPA+NzgYqKFNOwVZIxROCZHfDF3ux60WQ4tRzEdhuvmz2I97yiTZdzzNTI2pP56cr8JxnFz+xwOcULqYaR30RgAiyxjxY4avkD657zY89efz5Flqw1CvuZv7XoaDAiU11zh4EkgNBpib3262l4grbL5yEOq1PBUIsBoIo1wrtCyBjKeGbtsEb0oEk5n4P67MQPqYpq/awphfb7wprmnGz2Q==;YG/qAcQ2DCmE2fF1rQgBgw=="
 ---

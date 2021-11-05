@@ -68,6 +68,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Microsoft Cloud’s enhanced digital experiences through metaverse, AI and hyperconnectivity announced at Ignite 2021"
+    excerpt: "Microsoft Cloud’s enhanced digital experiences through metaverse, AI and hyperconnectivity, 90 new services and updates announced at Ignite 2021 conference"
+    publishedDateTime: 2021-11-05T10:04:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/microsoft-clouds-enhanced-digital-experiences-through-metaverse-ai-and-hyperconnectivity-announced-at-ignite-2021"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 12
 
 secured: "+CGw6UU3Yzn1A5CaHy8LODBFbNw0Ldl3ovL7NTv51xsISNz702D3ck07S8gvAhgNaIr/oSjB483i7duwaRD0z8EZ74PTJXekg45VJHWb0SQSZUz0LNN0aYTUEaOpM94Qg1BBuGN/RdWxydzM8vlSd8jPhYX9Ni3XFXtOBNhoju9pnjfCtEzXDP18r+5lfJQoxFn8X0UFzpT9lw58OCJ1t/7ZDQhM1gvVqk44C6pl8ze1mI3RbG9GvAScAiQuvlbFAiRxOjVdyRAlv1PHHFg2C0YpUexULah79+OT2bdkFqcwh1b0AjD2+PIXyqxDWuAE2D53ZTLqn0oBvxvI72M62134pedAJY7VRGNFv8NS9zkCGz5KbXpDcugRmqRxVcxp6PUnSUvYGmD7xTk3cLCAvKlu5FwHIgbLZ4FgP4UoV1aQxlDEKe1Z60pub8GNZszhH4HHys+rw9cQk2H5OD2rjknVNbIRqXh6BmIk4DTe9jYOEeHpkIwNA8bXJaMAZSkqsf2KOki6ifozCXFxQkc6CQ==;ZIcMOWAA/H43y/mVxc3KOA=="
 ---

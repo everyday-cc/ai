@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-05-how-even-nontechnical-founders-can-launch-their-startup-fast-with-aws-vb.md",
+      "title": "How even nontechnical founders can launch their startup fast, with AWS (VB)",
+      "excerpt": "Join a panel of pros in this VB Live event for tips, best practices, and more for getting your minimum viable product to market fast.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/05/how-even-nontechnical-founders-can-launch-their-startup-fast-with-aws-vb/",
+      "originalUrl": "https://venturebeat.com/2021/11/05/how-even-nontechnical-founders-can-launch-their-startup-fast-with-aws-vb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-554489637-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/05/how-even-nontechnical-founders-can-launch-their-startup-fast-with-aws-vb/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/05/how-even-nontechnical-founders-can-launch-their-startup-fast-with-aws-vb/amp/",
+      "publishedDateTime": "2021-11-05T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-is-metas-facial-recognition-retreat-another-head-fake.md",
       "title": "Is Meta’s Facial Recognition Retreat Another Head Fake?",
       "excerpt": "Facebook, oops, Meta — boy, this is going to take some getting used to — announced this week that it would end its decade-old facial recognition system and delete the face dat",
@@ -64,7 +116,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibility-and-risk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1419,58 +1471,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-aws-makes-its-panorama-appliance-generally-available.md",
-      "title": "AWS makes its Panorama Appliance generally available",
-      "excerpt": "Customers can update their computer vision application in Amazon SageMaker and deploy the model to the AWS Panorama Appliance, thanks to the device's full integration with Amazon SageMaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available",
-      "originalUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570814329/itpro/aws_logo.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp",
-      "publishedDateTime": "2021-10-22T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

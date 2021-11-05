@@ -2,6 +2,110 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-10-22-saving-seaweed-with-machine-learning.md",
+      "title": "Saving seaweed with machine learning",
+      "excerpt": "Charlene Xia, a PhD candidate at MIT, is using machine learning to monitor the microbiome of seaweed farms in an effort to predict and prevent diseases before they destroy livestock.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/saving-seaweed-machine-learning-1022",
+      "originalUrl": "https://news.mit.edu/2021/saving-seaweed-machine-learning-1022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202110/MIT-Seaweed-Farming-01-PRESS.jpg",
+          "width": 5760,
+          "height": 3840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up.md",
+      "title": "NATO launches AI strategy and $1B fund as defense race heats up",
+      "excerpt": "NATO has launched an AI strategy and $1 billion investment fund as its members states look to further development of defense technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/",
+      "originalUrl": "https://venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/amp/",
+      "publishedDateTime": "2021-10-21T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-digital-summit-replay-how-to-bring-your-datasets-to-life.md",
       "title": "Digital Summit replay: how to bring your datasets to life",
       "excerpt": "director of AI and data science, Shutterstock; Will Lowe, chief data officer, Engine UK; Sorcha Gilroy, data science team lead, Peak; and David Olesnevich, head of product, IBM Watson Advertising.",
@@ -420,19 +524,19 @@
     {
       "path": "_news/2021-10-21-how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience.md",
       "title": "How USAA is Utilizing Natural Language Processing to Improve the Member Experience",
-      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SAN ANTONIO, Oct. 21, 2021 /PRNewswire/ -- USAA is using Natural Language Processing (NLP ...",
+      "excerpt": "SAN ANTONIO, Oct. 21, 2021 /PRNewswire/ -- USAA is using Natural Language Processing (NLP) to improve the member experience and facilitate faster decision-making. NLP is a subfield of Artificial ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-1030886243",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-1030886243",
+      "webUrl": "https://www.prnewswire.com/news-releases/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-301405849.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-301405849.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/692533/USAA_Logo.jpg",
-          "width": 364,
-          "height": 400,
+          "url": "https://mma.prnewswire.com/media/692533/USAA_Logo.jpg?p=facebook",
+          "width": 2445,
+          "height": 1279,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -442,21 +546,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T07:22:00-07:00",
+      "publishedDateTime": "2021-10-21T07:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1008,92 +1103,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-us-air-force-teams-with-uk-on-machine-learning-demo.md",
-      "title": "US Air Force teams with UK on machine learning demo",
-      "excerpt": "By sharing data and machine learning algorithms, the two countries were able to improve situational awareness for war fighters in a demonstration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/CmSkjK0LuGwWeGDLXmB8GBzgViI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/RT4BUYK7P5BCHORIBCZAVETTLQ.jpeg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-aws-announces-general-availability-of-the-aws-panorama-appliance.md",
-      "title": "AWS Announces General Availability of the AWS Panorama Appliance",
-      "excerpt": "(NASDAQ: AMZN), announced the general availability of the AWS Panorama Appliance, a new device that customers can install in their facilities to run applications that analyze multiple video streams from existing on-premises cameras.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-canada-amazoncom-inc-web-services-d4e0f9296bff4570b449aaba742fe7ae",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-canada-amazoncom-inc-web-services-d4e0f9296bff4570b449aaba742fe7ae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

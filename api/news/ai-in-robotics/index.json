@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-05-these-robots-follow-you-to-learn-where-to-go.md",
+      "title": "These Robots Follow You to Learn Where to Go",
+      "excerpt": "Burro makes carts that help growers of trees and vineyards with harvests. Meanwhile, the maker of Vespa scooters wants to carry your groceries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/robots-follow-learn-where-go/",
+      "originalUrl": "https://www.wired.com/story/robots-follow-learn-where-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/618478dbcaac12bc9a169051/master/pass/Business-Piaggio-Fast-Forward-Robots.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/robots-follow-learn-where-go/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robots-follow-learn-where-go/amp",
+      "publishedDateTime": "2021-11-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic.md",
       "title": "Artificial Intelligence bot learns problematic human traits - becomes 'racist' and 'homophobic'",
       "excerpt": "Ask Delphi is not a physical robot with a solid body. It's actually just a software that was supposed to let users ask tricky questions that do not have direct 'yes' or 'no' answers.",
@@ -1101,17 +1153,17 @@
       "title": "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--876060912.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--876060912.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026---exclusive-report/article_d7eaa569-95c9-5599-9f69-7395c89d3547.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
+          "width": 669,
+          "height": 229,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1121,11 +1173,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T07:33:00-07:00",
+      "publishedDateTime": "2021-10-28T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1334,58 +1386,6 @@
         "name": "WOWT.com",
         "domain": "wowt.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-robot-taxi-boats-take-to-the-water-in-amsterdam.md",
-      "title": "Robot taxi boats take to the water in Amsterdam",
-      "excerpt": "The self-driving boat, dubbed Roboat III, is the creation of MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the Senseable City Laboratory, and the Amsterdam Institute for Advanced Metropolitan Solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "originalUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b28ff8b30f4357577c4bd78f6367cfa9959b5b56/2021/10/25/c75fd06e-1512-4c6e-9770-86eb11d8f1cc/screenshot-2021-10-25-at-10-58-37.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 791,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "publishedDateTime": "2021-10-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

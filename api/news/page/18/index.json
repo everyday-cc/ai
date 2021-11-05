@@ -2,6 +2,102 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-10-20-credo-ai-launches-out-of-stealth-with-55-million-to-help-companies-with-ethical-ai.md",
+      "title": "Credo AI launches out of stealth with $5.5 million to help companies with “ethical AI”",
+      "excerpt": "There are many in the world of AI who worry about its implications. One of those people is Navrina Singh, a former product manager for Qualcomm, then Microsoft, who saw firsthand at Microsoft how a Twitter bot it developed in 2016 as an experiment in “conversational understanding,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/",
+      "originalUrl": "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/NavrinaSingh2021_Headshot.png?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/",
+      "publishedDateTime": "2021-10-19T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-the-google-pixel-6-brings-a-new-chip-and-lofty-ai-powered-promises.md",
+      "title": "The Google Pixel 6 brings a new chip and lofty, AI-powered promises",
+      "excerpt": "The new Google Pixel 6 and Pixel 6 Pro smartphones rely on a custom-built chip to add clever and useful AI-driven features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/",
+      "originalUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2021/10/19/9-design-pro-details.jpg?auto=webp",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp",
+      "publishedDateTime": "2021-10-19T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-gep-doubles-global-partner-network-to-deliver-superior-procurement-and-supply-chain-transformation-to-customers.md",
       "title": "GEP Doubles Global Partner Network To Deliver Superior Procurement And Supply Chain Transformation To Customers",
       "excerpt": "GEP, a leading provider of procurement and supply chain strategy, software and managed services to Fortune 500 and Global 2000 enterprises worldwide, announced today that the number of new partner companies joining the GEP Partner United program grew by 114% since January 2021.",
@@ -1070,100 +1166,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk.md",
-      "title": "Facial Recognition School Lunch Payments Spark Privacy Concerns In UK",
-      "excerpt": "We're introducing Facial Recognition!” cheerily opens a flyer given to some parents in Scotland, describing a new method to pay for school lunches. Howeve",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
-      "originalUrl": "https://www.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/ec3440b1-2754-55eb-9036-0ab8685f3156/default-1634645033-child-facial-recognition.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
-      "publishedDateTime": "2021-10-19T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech.md",
-      "title": "Instacart acquires Caper for AI-powered shopping cart and checkout tech",
-      "excerpt": "Over time, Instacart plans to integrate Caper's technology into the Instacart app, as well as its retail partners' platforms, for a more blended in-store and digital grocery shopping experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
-      "originalUrl": "https://www.zdnet.com/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/822c04d3978ba8d964686aaf8052d87346c55831/2021/10/19/25dac7e8-528b-4dea-90ff-cc37c804784b/capercartphoto-21.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
-      "publishedDateTime": "2021-10-19T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

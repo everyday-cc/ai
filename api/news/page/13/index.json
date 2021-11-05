@@ -2,6 +2,110 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-10-26-frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony.md",
+      "title": "Frances Haugen: Key moments from Facebook whistleblower's UK parliamentary testimony",
+      "excerpt": "The former Facebook product engineer answered questions from lawmakers on regulation, Instagram Kids and whether she thought Facebook was evil.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/b08c5Epe3NTGTrmK4QYvTgFuIsQ=/1200x630/2021/10/25/943d7bc3-8a31-4cd3-9a2c-eeb0a0b39f77/screenshot-2021-10-25-at-14-36-38.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "publishedDateTime": "2021-10-25T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-the-facebook-whistle-blower-brings-her-campaign-to-europe-after-her-disclosures.md",
+      "title": "The Facebook whistle-blower brings her campaign to Europe after her disclosures.",
+      "excerpt": "Beginning a European tour in Britain, the former Facebook manager was questioned by policymakers drafting tougher tech regulations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
+      "originalUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/25/business/25economy-briefing-facebook-haugen/25economy-briefing-facebook-haugen-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html",
+      "publishedDateTime": "2021-10-25T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-the-best-kirby-games-ranked-from-best-to-worst.md",
       "title": "The best Kirby games, ranked from best to worst",
       "excerpt": "Looking at Kirby's entire catalogue of games is overwhelming. Here's our best attempt to go through all the best Kirby games and rank them from best to worst.",
@@ -1127,92 +1231,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-introduce-robotics-ai-in-curriculum.md",
-      "title": "Introduce robotics, AI in curriculum",
-      "excerpt": "Our annual survey of CXOs and decision makers has revealed that as we emerge from the current crisis, optimism with regard to AI has gone up significantly from 72 percent to 92 percent, and the rate of AI adoption has increased from 62 percent to 70 percent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
-      "originalUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.monitor.co.ug/resource/blob/3574060/bb0203f685069f14f00a1b5d66bf87f5/comm03pix-data.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
-      "cdnAmpWebUrl": "https://www-monitor-co-ug.cdn.ampproject.org/c/s/www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
-      "publishedDateTime": "2021-10-25T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Monitor",
-        "domain": "monitor.co.ug",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-welcome-to-the-algorithmic-nudging-debate-a-potent-ai-practice-with-ethical-implications.md",
-      "title": "Welcome to the algorithmic nudging debate - a potent AI practice with ethical implications",
-      "excerpt": "Nudging isn't new - but algorithmic nudging ups the ante. The AI ethics debate now extends to these new means of persuasion. It's an issue we should all take a look at, whether we're the nudger, or the nudgee.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications",
-      "originalUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-06/shutterstock-pathdoc-1076106332.jpg",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp",
-      "publishedDateTime": "2021-10-25T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

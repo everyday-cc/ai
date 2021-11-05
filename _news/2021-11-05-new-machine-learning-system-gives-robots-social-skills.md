@@ -8,7 +8,7 @@ webUrl: "https://scitechdaily.com/new-machine-learning-system-gives-robots-socia
 ampWebUrl: "https://scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/amp/"
 type: article
-quality: 44
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://scitechdaily.com/images/Industrial-Robots-Teamwork-777x518.jpg"
@@ -42,6 +43,6 @@ related:
         height: 2318
         isCached: true
 
-secured: "tgDgZqfyIl9oIhmLCw7D80/qkXxVGVDG8KOhMuyYof1neY+421GwXEIrU/j0UNWa4WkOm5UMZ9fZdNnHaJkYa1WWl/Pv86lH1TjjtFOgafOG7b1RO19rUBNvSkuA4W6vR/znxw+s3hV99lcoo5ijYNvoTlT7M7Iri1jC1lcf/CiqjYVwcramODdyC1whAO+3pPwiNawW3HuD0NNVhCsn2fsRgaCbu2SKW1v+KooWRyBotgxFmv3de+u5ofn3P/JCPGWVfVf3baKo9H2hP1jxrcoi/RVIUB6R9DBOtQCjz//spz/vjAQfRbOyBsSo8frVGPJiHhlwItlPi7pAIeniT///A4nz+Caee8xxbFAyaCw=;ehDT5aZAMVwJBmvi1NooGA=="
+secured: "3diYNPQ1k9OumnsFDiudMsq94vVbtOtP8migcQIF906CB5E6Wb7qJIEbnBcGUUaHlpIQTVh6tQjfq1DjFmhss7iZ+U7DCYfGqtuBSQGHSh4hmp3GPjb/oDyqDoSKDhGZq2VDau01QsQNO+5a95UpD278xVCwfRMJX3i2mQDGhdwjBhpszjnsgKcmDIwhRqBu+gWuMS4+FqB+X0ZeBTjfqzO6CutgxJNysTzU+160OHgf+mkIiOcxrsbkA2BNM0X06++WlrPo9TFSBD+cnVVC7y8TkEy7o81T1DI1q4tH/r9bKF4EcT8qPRe5mfJDHMoGe29L9MeaCUWyKuh+nTBCbq5USnVEZNQHGlzfil+UKfPABCE63DkwR/FaJBMwV8O5x8pb20Jrplp/jEs6jKpe4svZD/m0fK2M9c3cn/bMLqps0TElaSB/LnmFFF8SVe5OeJYrYyyXKzgeVeONYIWsGEUy+otECMbPuZ8yIMgHnuc9Ssb/2OxxPUD0OlGZAJUamOT+EedxHDyf3tFOJz+82g==;IPWVY0t+X5VPgzjlonrZFA=="
 ---
 

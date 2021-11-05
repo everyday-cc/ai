@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-20
 webUrl: "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/"
 type: article
 quality: 139
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -72,6 +72,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-174557956.jpg?w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Microsoft Azure wants to make working with data on its platform easier"
+    excerpt: "At its Ignite conference today, Microsoft announced a number of new features for its Azure data platform. These range from a first preview of the 2022 edition of its venerable SQL Server line to updates to the Azure Synapse Analytics platform and new tools that make it easier to move Cassandra"
+    publishedDateTime: 2021-11-02T15:00:00Z
+    webUrl: "https://techcrunch.com/2021/11/02/microsoft-azure-wants-to-make-working-with-data-on-its-platform-easier/"
+    ampWebUrl: "https://techcrunch.com/2021/11/02/microsoft-azure-wants-to-make-working-with-data-on-its-platform-easier/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/microsoft-azure-wants-to-make-working-with-data-on-its-platform-easier/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1345223768.jpg?w=1024"
+        width: 1024
+        height: 572
         isCached: true
   - title: "Microsoft says all business will be collaborative, and infused with data and AI"
     excerpt: "Data derived from the interactions between people should allow the organization to refine business processes, Microsoft said at Ignite 2021."
