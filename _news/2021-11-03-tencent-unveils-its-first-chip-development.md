@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tencent chip initiatives detailed, providing a glimpse at China's semiconductor industry"
+    excerpt: "Countries all around the world are working toward becoming technological powerhouses, though few are pushing as hard as China. Tencent's recent R&D reveals are a taste of what's in development in the eastern nation."
+    publishedDateTime: 2021-11-04T19:12:00Z
+    webUrl: "https://www.windowscentral.com/tencent-chip-initiatives-unveiled-bolstering-chinas-semiconductor-sector"
+    ampWebUrl: "https://www.windowscentral.com/tencent-chip-initiatives-unveiled-bolstering-chinas-semiconductor-sector?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/tencent-chip-initiatives-unveiled-bolstering-chinas-semiconductor-sector?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 65
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2016/01/tencent.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Tencent working on three chips"
     excerpt: "Seems everyone wants to be US free Chinese technology giant Tencent said it is making progress in semiconductor chip development and investment. Best known for computer games and social media app WeChat,"
     publishedDateTime: 2021-11-03T11:10:00Z

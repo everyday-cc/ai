@@ -26,67 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "North Korea seeks to boost education with toy-like robots"
-    excerpt: "North Korean leader Kim Jong Un has been pushing for education reform in recent years by spurring technological and scientific innovation."
-    publishedDateTime: 2021-11-03T07:52:00Z
-    webUrl: "https://www.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888"
-    ampWebUrl: "https://m.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888/amp"
+  - title: "Is Meta’s Facial Recognition Retreat Another Head Fake?"
+    excerpt: "Facebook, oops, Meta — boy, this is going to take some getting used to — announced this week that it would end its decade-old facial recognition system and delete the face dat"
+    publishedDateTime: 2021-11-04T22:24:00Z
+    webUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html"
+    ampWebUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 76
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/477601"
-        width: 640
-        height: 428
+      - url: "https://static01.nyt.com/images/2021/11/04/opinion/04Swisher-image/04Swisher-image-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "North Korea Is Using Robots To ‘Enhance Children’s Intelligence’"
-    excerpt: "In an apparent step-up from virtual learning, North Korea is now using robots in order to teach the country’s children.  Footage of a humanoid robot in action was presented on state television KRT after leader Kim Jong-un issued a push for education reform and technological innovation;"
-    publishedDateTime: 2021-11-03T17:33:00Z
-    webUrl: "https://www.unilad.co.uk/technology/north-korea-is-using-robots-to-enhance-childrens-intelligence/"
-    ampWebUrl: "https://www.unilad.co.uk/technology/north-korea-is-using-robots-to-enhance-childrens-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/north-korea-is-using-robots-to-enhance-childrens-intelligence/amp/"
+  - title: "Three reasons Facebook/Meta is shutting down its face recognition system"
+    excerpt: "Given there are benefits that come from face recognition, why is Meta getting rid of the Facebook feature? We break it down."
+    publishedDateTime: 2021-11-04T13:00:00Z
+    webUrl: "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/"
+    ampWebUrl: "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/?amp"
     type: article
     provider:
-      name: UNILAD
-      domain: unilad.co.uk
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 88
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/mark-zuckerberg-addresses-f8-facebook-developer-conference-2.jpg"
+        width: 2000
+        height: 1369
+        isCached: true
+  - title: "Meta to continue use of facial recognition technology"
+    excerpt: "Facebook this week announced that it will no longer deploy facial recognition technologies on its platform, but the social network's parent company, Meta, said that the commitment does not apply to it"
+    publishedDateTime: 2021-11-04T02:10:00Z
+    webUrl: "https://appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology"
+    ampWebUrl: "https://appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
     quality: 59
     images:
-      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F11%2FNorth_Korea_Robots.jpg"
-        width: 1200
-        height: 619
-        isCached: true
-  - title: "'Hi. Nice to meet you': North Korea uses robots to teach English and 'enhance children's intelligence'"
-    excerpt: "The country's demonstration of robots in classrooms follows a push for education reform and technological innovation by North Korean leader Kim Jong Un."
-    publishedDateTime: 2021-11-03T13:36:00Z
-    webUrl: "https://news.sky.com/story/hi-nice-to-meet-you-north-korea-uses-robots-to-teach-english-and-enhance-childrens-intelligence-12458836"
-    ampWebUrl: "https://news.sky.com/story/amp/hi-nice-to-meet-you-north-korea-uses-robots-to-teach-english-and-enhance-childrens-intelligence-12458836"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/hi-nice-to-meet-you-north-korea-uses-robots-to-teach-english-and-enhance-childrens-intelligence-12458836"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 43
-    images:
-      - url: "https://e3.365dm.com/21/11/1600x900/skynews-robot-north-korea-flag_5570091.jpg?20211103122720"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "North Korea using robots to teach children English and 'enhance intelligence'"
-    excerpt: "North Korea is using humanoid robots to teach children subjects like English, maths and music. A toy-like robot with the country's flag on its chest was demonstrated on state television KRT following a push for education reform and technological innovation by North Korean leader Kim Jong Un."
-    publishedDateTime: 2021-11-03T14:09:00Z
-    webUrl: "https://www.originalfm.com/news/world-news/north-korea-using-robots-to-teach-children-english-and-enhance-intelligence/"
-    type: article
-    provider:
-      name: Original 106
-      domain: originalfm.com
-    quality: 36
-    images:
-      - url: "https://e3.365dm.com/21/11/640x380/skynews-robot-north-korea-flag_5570091.jpg?20211103122720"
-        width: 640
-        height: 380
+      - url: "https://photos5.appleinsider.com/gallery/45466-88475-211103-Meta-xl.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ftDOVd80UG0iDagQ06PhsjYtYEb4tOGmKbOlhgBJ2iofhFQozwh26mO48lEkp40gqj4r7ePGi6b17bPlRop9KS3251eZdNIO4vZoOp5Nfv1ppGEns42JCiea+Iukj+GHj4u0pJyGGz3OsKISBHCx43YwpelPdUNpJ/LqWrv8lWF2e2olyLEj3I4FYUBbt8vrmaBuaZEcCKNgJybP9u4fd8fEZ2InP9dNKjNX8pX4fYXWj9lT2mOhz5fuEPmANH/CjgkZo03Um4Xd5hUkL4EBkMadAlEyFeXmUVHADKZG2oMvr3HVxA6FKMvHjmFEAZe8jxnYbWKH7rOFe65cQzx/0ee7BYugJlEqryxqTwKROWYMyATnaHGLEroI41tW6ZTSqIHmgzFppozgJeZNNDndOJxEq5OFwGDBv37xtevW3o0FgAVGZfch7kCp0KbANS17jYhGS33S1x3J8HZHOpeBRtO39O4OzzsdyuqbHLFUwO3kZmwV4YRWfI7DV/OcU+EDkKuMDn1qxJoK68FUr7vReg==;DZILPHp0TkarhXOuO0yjLQ=="

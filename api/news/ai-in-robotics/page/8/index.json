@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-09-15-soft-robotics-launches-softai-to-accelerate-adoption-of-robotics-in-food-processing.md",
-      "title": "Soft Robotics Launches SoftAI™ to Accelerate Adoption of Robotics in Food Processing",
-      "excerpt": "Today Soft Robotics Inc. announced its launch of SoftAI Solutions incorporating proprietary 3D vision, artificial intelligence software, and industry-proven soft grasping to address the most pressing problem plaguing the food industry – the inability to meaningfully automate operations.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-robotics-artificial-intelligence-41c535fa5d6745c66dddd4607304c19e",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-robotics-artificial-intelligence-41c535fa5d6745c66dddd4607304c19e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-15-china-roundup-softbank-leads-200m-round-of-robotics-company.md",
       "title": "China roundup: SoftBank leads $200m round of robotics company",
       "excerpt": "Foxconn has also put its electric vehicle collaboration with Byton on hold, while JD.com is set to open its first offline shopping center.",
@@ -1266,6 +1223,49 @@
       "provider": {
         "name": "Neuroscience News",
         "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-agile-robots-closes-220m-series-c-funding.md",
+      "title": "Agile Robots closes $220M Series C funding",
+      "excerpt": "Agile Robots, closes a $220M Series C round - to enable the company to extend its product and expand its global market reach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "originalUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/agile-robots-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

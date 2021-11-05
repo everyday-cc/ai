@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Tackle Racism in AI, BLM Co-Founder Tells Tech Bosses"
-excerpt: "\"A lot of the algorithms, a lot of the data is racist,\" U.S. activist Tometi, who co-founded BLM in 2013, told Reuters on the sidelines of Lisbon's Web Summit. \"We need tech to truly understand every way it (racism) shows up in the technologies they are developing,"
-publishedDateTime: 2021-11-03T17:44:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-11-03/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-11-03/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses"
+title: "Tackle racism in AI, BLM co-founder tells tech bosses"
+excerpt: "As concerns grow over racial bias in artificial intelligence, Black Lives Matter (BLM) co-founder Ayo Tometi urged the tech sector to act fast against perpetuating racism in systems such as facial recognition."
+publishedDateTime: 2021-11-04T11:45:00Z
+originalUrl: "https://www.reuters.com/technology/tackle-racism-ai-blm-co-founder-tells-tech-bosses-2021-11-03/"
+webUrl: "https://www.reuters.com/technology/tackle-racism-ai-blm-co-founder-tells-tech-bosses-2021-11-03/"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
+
+images:
+  - url: "https://www.reuters.com/resizer/Jd_Uy3TlGlvGxuMFw6OHf9RjoIY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WG6WMM523FOKREJ4V74VF7ERO4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Tackle racism in AI, BLM co-founder tells tech bosses"
@@ -35,6 +41,6 @@ related:
       domain: nasdaq.com
     quality: 69
 
-secured: "epQi1y8q8fD3wnre4Q9AjCKFmsR8wqP5RnRpGeJN9jUSjGJ3vWMbXY/DGCxX48aDlrqPHGOG3ESoqHXLKM0xczvliiQMLdv0RXCKMCIWTzOyRoofU7m/XPRPMXc9dCD0dUFl39+uiGLx6mCmSge9MZSEXvz6W5ES2I06L2CfAwEH5HqmQiiE8qbchDs5S+wOn9H3JPvKRltlW3JghSrQhToen1ojQvVEjHVcmQuFrmnMiZiVbO6IBXFIGw1sSyNO08TGMjPwzerA/UJuG9foGhvFKq2QMk/Mm5T6AE79wCRHy67RqsGiScYU9yCOnqFjLto51i0ZvlPMVDo/TZ8wevFqdYH4CHROsZKX1ehzUa6hcxsLr1fhRTTTHJb50NXOuPkPNSHQz1E0kD66u12O7H4RK5vZ/8WI0p3lur4AvuuKbbNxbK848gPTHYD0GMUUjMnO/VCzpsYws1zNzUggL/dk7j9qfQ7pKwoJlyBszjqRMQm1m7BWViK+4rQjbQ06nAW0PmaGrk2j6lkFnnO4hQ==;PClg+MnHHFnTmRBlILYZbA=="
+secured: "+4Hkuz7arG4LOXNcHU+zyZuWM18If5ZBmw4P6B0N3Vi4TESw4UnG+JsFlHtR40dyzSePIPl9A2N9ZoAljR3P9ssqDRBISbD3jSAa/ZwRCJQ+ZgfQyNsgGMbVnALNJkrz+EzJf0ICYSo8r2oDFjF4DPpgZps96pMXKUeM1OPl4LlMndqd0f2PZ9TrSW24i2Y0PFAKrCCTqDpNUnAXDlDn3zGzKZKQK3R1lSC5A4RAmbOt44C7OFBgWCRNBaSGjxpFjmGD1lrM5Ua1ZOMC8tFSm19A7igiz2M8fJD6sBWPch63P9AjfL1/BjyTlXBhUmB6wm/doSA4I0uUl6DQbNkQd7p2LcPy5SSWuBLvfGtrJ8I=;HikybFGxJyThiixGq+wFVw=="
 ---
 

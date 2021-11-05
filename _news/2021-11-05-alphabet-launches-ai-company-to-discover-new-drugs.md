@@ -8,7 +8,7 @@ webUrl: "https://www.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
 ampWebUrl: "https://amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F463bd0de-eb85-4249-b398-c91c95e746de.jpg?source=google-amp&fit=scale-down&width=500"

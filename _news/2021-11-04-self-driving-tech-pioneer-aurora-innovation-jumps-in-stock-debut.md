@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "SPAC shareholders approve public debut for self-driving startup Aurora Innovation"
-    excerpt: "From merger to business combination in less than four months, self-driving startup Aurora Innovation expects to begin public trading on Thursday."
-    publishedDateTime: 2021-11-03T00:00:00Z
-    webUrl: "https://www.freightwaves.com/news/spac-shareholders-approve-public-debut-for-self-driving-startup-aurora-innovation"
-    ampWebUrl: "https://www.freightwaves.com/news/spac-shareholders-approve-public-debut-for-self-driving-startup-aurora-innovation/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/spac-shareholders-approve-public-debut-for-self-driving-startup-aurora-innovation/amp"
+  - title: "Self driving company Aurora makes Nasdaq debut"
+    excerpt: "In another highly-anticipated IPO, self-driving technology company Aurora Innovation (AUR) made it’s Nasdaq debut today. The company merged in October with Reinvent Technology Partners Y (RTPY), a special purpose acquisition company (SPAC) led by LinkedIn co-founder Reid Hoffman and Zynga founder Mark Pincus."
+    publishedDateTime: 2021-11-04T23:06:00Z
+    webUrl: "https://www.therobotreport.com/self-driving-company-aurora-makes-nasdaq-debut/"
     type: article
     provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 39
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
     images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/11/110221-Aurora-SPAC-1200x672.png"
-        width: 1200
-        height: 672
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/11/aurora-nasdaq-featured-web.jpg"
+        width: 770
+        height: 500
         isCached: true
 
 secured: "O8lC/tfM6qBqz+gMj6zwZMD6C+ejl8tbh0sg8mecxUzg1LlT3IdFtaCtkzzrPozb0+qLqV2twA8pTAFgHMioZ+2cSyTaJzkrv2riGQ6GhePWKVHxzS+V2nxm8z2QquH3sHHZiOhZyJx10z6l1UZ93jm0FCphDQhvyrncNlxz08sswyR7oJhN69X4+SQt+fcR459INokHWqjDaQKkdlp6OkHxTrRHe2CuwsPpe3x4QOixihFYOmxzXC4alKUPMkq/kGgkFVgkKF1i+QnYThD1GPB6Pv3AVK1bX1r3+dE2tNbipdZ60yvt1n2Tx2zwVn0sMrrmguccBtK6rWFxCZwgogVfcZ5iaBoLDVAlYwk5gOoih9BPkPbXXL6nPvvuwUfc1H1sKXEuUVT0gHKS9Ax+g2ZDC8zt/rUMXsr5YczzHPKd7ImCcq+4+vT32okm8QMoynNfuS6HOXnGoSby3b1Nn22/eUQXcu7qnfIwQLtHEuQizJJJLpwxQV5IXDKc7vpKlQ8L2/tHBXlVgxHeHilrfQ==;vd6yI8DXkmWuFjohFH+l6w=="

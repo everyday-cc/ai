@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/04/sama-taps-into-70m-to-build-first-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/sama-taps-into-70m-to-build-first-end-to-end-ai-platform-for-training-data/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 107
 published: true
 
 provider:

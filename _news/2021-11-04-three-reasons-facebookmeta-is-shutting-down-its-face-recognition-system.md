@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-i
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/?amp"
 type: article
 quality: 88
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: Digital Trends
@@ -31,21 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Meta’s Andrew Bosworth on moving Facebook to the metaverse"
-    excerpt: "Facebook announced a major corporate rebrand by changing its company name to Meta. As CEO Mark Zuckerberg told The Verge, the new name is meant to solidify the social media giant’s long-term bet on building the metaverse."
-    publishedDateTime: 2021-11-01T13:15:00Z
-    webUrl: "https://www.theverge.com/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
-    ampWebUrl: "https://www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
+  - title: "Is Meta’s Facial Recognition Retreat Another Head Fake?"
+    excerpt: "Facebook, oops, Meta — boy, this is going to take some getting used to — announced this week that it would end its decade-old facial recognition system and delete the face dat"
+    publishedDateTime: 2021-11-04T22:24:00Z
+    webUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html"
+    ampWebUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/gocpfVJsZ2xVv_TFg4LwynI6llo=/0x0:2050x1367/1400x933/filters:focal(861x520:1189x848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70073882/VRG_ILLO_Decoder_AndrewBosworth_s.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://static01.nyt.com/images/2021/11/04/opinion/04Swisher-image/04Swisher-image-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Meta to continue use of facial recognition technology"
+    excerpt: "Facebook this week announced that it will no longer deploy facial recognition technologies on its platform, but the social network's parent company, Meta, said that the commitment does not apply to it"
+    publishedDateTime: 2021-11-04T02:10:00Z
+    webUrl: "https://appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology"
+    ampWebUrl: "https://appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 59
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/45466-88475-211103-Meta-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Edge platform with facial recognition, situation analysis unveiled in South Korea"
+    excerpt: "Researchers have created a prototype of an edge biometric platform that can reportedly recognize faces and situations that take place around its nodes."
+    publishedDateTime: 2021-11-04T16:31:00Z
+    webUrl: "https://www.biometricupdate.com/202111/edge-platform-with-facial-recognition-situation-analysis-unveiled-in-south-korea"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
 
 secured: "HuDpUlazGFhqZEMVMUGwCj5VzMjUWhD4DQ31Vx8RQuBT6MSOcSH3P1NFbiROUosuURZLYx5acNqlH1O2ZBWtT46G1G7ByK/m8Y+mKeeaG4ediq3wwFs/+FoEIcHkGWQXjNGJvCCFIxN/pC7vz39x2ZyyZK8OjMlnk1TOimqrQAcL7hG3zK7ODB3nnVezRtQk4+Q9xk1SJHl0wBl/jawGByKruviTS8dG3Dp0SKDeavY106GOv+TwWOxJ84s7tR1secgMCN38NTdR2oPudeUycWdtuiG3ChmSZ5l3zPNu0RstjXVfVQxE9dfIkJOiO1Xx+xm4A1vxmGZ/BedaKbgoP6+gjS1wYjTZ7QqO6bOu8H8ZqXrYSJsC2a04pvAmAHkFft65cRi7DSe056xsuV+vNH/mM3BcJ4qCHF5KvzldSP8MvFmzLnbPvjU3ffyTYHgYJJFsMWqos722zz6WHzCJrA8jkNk/03Pl2diSprLr16HNX6JcjmCI7asW0UFAi5X8JG5PiTPuUECIqhZx3yi0Jw==;V9sJ5D+cz9Sqr17MMwGzJQ=="

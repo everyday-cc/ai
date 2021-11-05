@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Facebook Will Shut Down Its Facial Recognition Program"
-excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people."
-publishedDateTime: 2021-11-03T13:43:00Z
-originalUrl: "https://www.valuewalk.com/facebook-will-shut-down-its-facial-recognition-program/"
-webUrl: "https://www.valuewalk.com/facebook-will-shut-down-its-facial-recognition-program/"
+excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people. The internet giant uses the technology to identify"
+publishedDateTime: 2021-11-03T14:35:00Z
+originalUrl: "https://www.sharewise.com/us/news_articles/Facebook_Will_Shut_Down_Its_Facial_Recognition_Program_ValueWalk_20211103_1443"
+webUrl: "https://www.sharewise.com/us/news_articles/Facebook_Will_Shut_Down_Its_Facial_Recognition_Program_ValueWalk_20211103_1443"
+ampWebUrl: "https://www.sharewise.com/us/news_articles/Facebook_Will_Shut_Down_Its_Facial_Recognition_Program_ValueWalk_20211103_1443/amp"
+cdnAmpWebUrl: "https://www-sharewise-com.cdn.ampproject.org/c/s/www.sharewise.com/us/news_articles/Facebook_Will_Shut_Down_Its_Facial_Recognition_Program_ValueWalk_20211103_1443/amp"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: ValueWalk
-  domain: valuewalk.com
+  name: sharewise.com
+  domain: sharewise.com
 
 topics:
   - Facebook AI
@@ -20,9 +22,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2021/07/Facebook_1625588551.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.sharewise.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2tDVmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3a03748854cd88229ad807caf06e7bb7c1c80475/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lNTnpJd2VEUXdOQVk2QmtWVSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--54ba8c4ff5f2fefc4c50498b8082735189b821c8/Walter-Schloss_FINAL_JPG.jpg?locale=us"
+    width: 404
+    height: 404
     isCached: true
 
 related:
@@ -631,6 +633,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Facebook announces it's purging 1 billion faceprints from its system"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-03T22:39:00Z
+    webUrl: "https://www.weareiowa.com/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
+    ampWebUrl: "https://www.weareiowa.com/amp/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
+    cdnAmpWebUrl: "https://www-weareiowa-com.cdn.ampproject.org/c/s/www.weareiowa.com/amp/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
+    type: article
+    provider:
+      name: We Are Iowa
+      domain: weareiowa.com
+    quality: 44
+    images:
+      - url: "https://media.tegna-media.com/assets/CCT/images/d4f94cdf-5190-492c-a155-5f721e3672a7/d4f94cdf-5190-492c-a155-5f721e3672a7_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Facebook’s facial recognition removal comes with caveats"
     excerpt: "The company this week said it is deleting 1bn facial recognition templates — made through scans of users’ faces — and shutting down the features that automatically recognise people in photos and videos."
     publishedDateTime: 2021-11-03T18:04:00Z
@@ -827,6 +845,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "fwXZLF/j4D+wi0jyESyRJrOH1fzVE0mDCLHt8yeJmmF3nS3bmlQJVzrGs136tKYTZnQU2mH+dsmv5muvBC+BH43W9fOQJ82YIRKRH08EIfxTIrfyDz7naiDdAcbXGcY1wr1VVLCjYgN+j6d6XLWqsONsuxv2CRy9nchOE33E9De5dKTUzmqFvkKN7kifLxFF36RoXJAhzwQ1qU81tL8bfjxy19tw0RGMor0NIAWkxWkMYjl4N7AqLGA/x/nJCht8b8zjjzeB5MhUE6zkYSlx4TeGUzhFt2oxpd2Jg8FY2EYcwR6Dn/aT/NcS9duOM0KAYlpusy+NFxbQyAAbWUKhrM+uiaTGYCNeiucgIzSC2fa+LjO3vOGiMBGzf+agNthwt6ZFIM9qgwLdMLwePLlOFPIyfonA8bNDkykgmF4f0BDr1pHWR2dfnrQz1VqD/XyOpSWDi8F8CLFHEmkJU0wZeiQawhYdLMnJHqZLmZBFh7CP0E+F5z9PVx5J9oGacT4+zcbGEUkXLDdOgAfBkaYufg==;JK0zwVTY8plWMfGgTi3Fjg=="
+secured: "t39/VRKXO01M7JQGy1gZ4X72j/siMD6E1GJggoTAzBdN20oawdplzPlTEf0tw3o1/mKajYUy1ounRWxgxvaQ5pCuVCD/zM0dct1huSHjzLa3PRpNWFWpfNKK4EqPs6oWVFDepgRBaU1ofMaZmWZxVYvpwxN6UH/N2odYiUfYYKYhAY4Mtk6jgmTZzdfWTufaxtJ3jDBpxDS5lCOGqT9hvt+CUTby1AcFM/6tQO917e4fKQi/Dwzd6pmYcnmBrJsfYhmtYwe5Ra3C0famS+Kbg6kcErtSNN214+Wa4QdDKseSrDhy6SHl5/Z5/UcqITGh/D0t8S1poEVPdNWY2+pqm7JNKbEopzO+z2O+/Cn7cvo=;CxdNaFt++50Os55pNzp4wA=="
 ---
 

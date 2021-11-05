@@ -2,6 +2,193 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-30-ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras.md",
+      "title": "AI Weekly: The perils of AI analytics for police body cameras",
+      "excerpt": "Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next. In 2015, spurred by calls for greater police accountability, the federal ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/",
+      "originalUrl": "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/GettyImages-695011490.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras/amp/",
+      "publishedDateTime": "2021-10-29T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-labor-shortages-outrank-cyber-threats-as-biggest-concern-for-tech-companies.md",
+      "title": "Labor shortages outrank cyber threats as biggest concern for tech companies",
+      "excerpt": "57% of tech executives responding to CNBC's Technology Executive Council survey said finding qualified employees is the biggest concern for their company right now. Respondents ranked it higher than supply chain issues and cyber security threats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103681763-GettyImages-532200478.jpg?v=1635369654",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html",
+      "publishedDateTime": "2021-10-29T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-expert-warns-that-human-beings-are-going-to-start-getting-hacked.md",
+      "title": "Expert Warns That Human Beings Are Going to Start Getting Hacked",
+      "excerpt": "Yuval Harari, a world-renowned social philosopher and the bestselling author of “Sapiens,” has a stark warning: we need to start regulating AI, because otherwise big companies are going to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/yuval-harari-human-hack",
+      "originalUrl": "https://futurism.com/the-byte/yuval-harari-human-hack",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/10/genehack-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/yuval-harari-human-hack/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/yuval-harari-human-hack/amp",
+      "publishedDateTime": "2021-10-29T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-robots-deliver-food-at-north-carolina-at-state-university.md",
+      "title": "Robots Deliver Food at North Carolina A&T State University",
+      "excerpt": "The knee-high robots use machine learning, artificial intelligence and sensors to navigate the campus ... Joe Burdi, who oversees food services at A&T for Sodexo, said the decision to start using the robots was not caused by a labor shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/2f5990f/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1c%2Ffa%2F359e4dd58737b5bfcee5c940058c%2Fshutterstock-622400270.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university?_amp=true",
+      "publishedDateTime": "2021-10-29T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-mits-csail-self-driving-water-taxis-launched-in-the-amsterdam-canals.md",
       "title": "MIT’s CSAIL self-driving water taxis launched in the Amsterdam canals",
       "excerpt": "Granted, there aren’t many cities where self-driving water taxis are a viable ... scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Senseable ...",
@@ -954,203 +1141,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-clearview-ai-finally-takes-part-in-a-federal-accuracy-test.md",
-      "title": "Clearview AI finally takes part in a federal accuracy test.",
-      "excerpt": "But the test ... Though its accuracy had never been audited by NIST, Clearview AI claims thousands of local and state police departments as customers; a recent report from the Government Accountability Office also cited use by a number of federal agencies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.html",
-      "originalUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/29/business/28clearview-01/28clearview-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/28/technology/clearview-ai-test.amp.html",
-      "publishedDateTime": "2021-10-28T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-almost-30-percent-of-new-github-code-is-written-with-ai-assistance.md",
-      "title": "Almost 30 percent of new GitHub code is written with AI assistance",
-      "excerpt": "If you haven't heard of Copilot before, it's essentially the equivalent of the predictive text systems you'd find on Gmail or even your phone. You start",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "originalUrl": "https://www.techspot.com/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-28-image-28.jpg",
-          "width": 2634,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "publishedDateTime": "2021-10-28T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-introducing-pathways-a-next-generation-ai-architecture.md",
-      "title": "Introducing Pathways: A next-generation AI architecture",
-      "excerpt": "When I reflect on the past two decades of computer science research, few things inspire me more than the remarkable progress we’ve seen in the field of artificial intelligence.In 2001, some colleagues sitting just a few feet away from me at Google realized they could use an obscure technique called machine",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/",
-      "originalUrl": "https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/pathways_3.gif",
-          "width": 1048,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/amp/",
-      "publishedDateTime": "2021-10-28T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-ai-selects-promising-viral-vectors-for-gene-therapy.md",
-      "title": "AI selects promising viral vectors for gene therapy",
-      "excerpt": "US researchers have developed a computer platform that decides which viral vectors are best suited to delivering gene therapy to the retina",
-      "sourceUrl": null,
-      "webUrl": "https://www.aop.org.uk/ot/science-and-vision/research/2021/10/28/ai-selects-promising-viral-vectors-for-gene-therapy",
-      "originalUrl": "https://www.aop.org.uk/ot/science-and-vision/research/2021/10/28/ai-selects-promising-viral-vectors-for-gene-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aop.org.uk/-/media/ot/content-images-post-image-optimisation/2021/science-and-research/research/bluedna.jpg?rev=742f631c269645dc8c97a3abd72b2a7c",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Association of Optometrists",
-        "domain": "aop.org.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

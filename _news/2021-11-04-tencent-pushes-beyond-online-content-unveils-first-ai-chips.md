@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/03/94ab9de2-3c88-11ec-a1b3-e785d5c8830c_image_hires_195722.jpg?itok=rZ_1qZcy&v=1635940653"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tencent chip initiatives detailed, providing a glimpse at China's semiconductor industry"
+    excerpt: "Countries all around the world are working toward becoming technological powerhouses, though few are pushing as hard as China. Tencent's recent R&D reveals are a taste of what's in development in the eastern nation."
+    publishedDateTime: 2021-11-04T19:12:00Z
+    webUrl: "https://www.windowscentral.com/tencent-chip-initiatives-unveiled-bolstering-chinas-semiconductor-sector"
+    ampWebUrl: "https://www.windowscentral.com/tencent-chip-initiatives-unveiled-bolstering-chinas-semiconductor-sector?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/tencent-chip-initiatives-unveiled-bolstering-chinas-semiconductor-sector?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 65
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2016/01/tencent.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Tencent unveils its first chip development"
     excerpt: "Xinhua. Chinese tech giant Tencent has made progress on three self-developed chips, according to Tang Daosheng, a senior executive vice president at Tencent du"

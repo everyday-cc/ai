@@ -7,7 +7,7 @@ originalUrl: "https://www.housingwire.com/webinar/this-is-the-tech-that-will-tra
 webUrl: "https://www.housingwire.com/webinar/this-is-the-tech-that-will-transform-the-mortgage-industry/"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 375
     height: 375
     isCached: true
+
+related:
+  - title: "3 Industries Artificial Intelligence Will Transform Over the Next Decade"
+    excerpt: "Welcome to the Innovative Leadership Newsletter brought to you by the Innovative Leadership Institute, where we strive to bring you thought leaders and innovative ideas on leadership topics each Wednesday."
+    publishedDateTime: 2021-11-03T14:27:00Z
+    webUrl: "https://www.linkedin.com/pulse/3-industries-artificial-intelligence-transform-over-metcalf-mba-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 36
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEIsz3HumnExA/article-cover_image-shrink_720_1280/0/1635948918538?e=1641427200&v=beta&t=fgFTEsXkYv9AdzS0CWJfoxF7hsa91AnKLg670dkPyvI"
+        width: 1000
+        height: 720
+        isCached: true
 
 secured: "SXPYTq8luHthg5biQd0KEnP1xex0IX5MNZYaCtHhVpHETwUuENSjegwgvwMhqqMmqmVLUHVUb+j/Y9NBBvNG78ZGdWdah1bCDFdwPlfCebozS2jteKF9QnRDM+8ncnkNTeBN0faEO8C8+5YXig1zfRYe4q+9ynZNUFbu8iqEfI4py4D/M4k5kI6zaApP3I96Zq3a9r8HyamZRJ+K35x1KByi4hHaqNswR4qYK+MkMxKYuF9lDkfEbKo8OTuUNcnbHFmRG4AMiRG8q7ohO4qBJrW9HFyILt/71uxRy89YnpfhM55g+JWQREIijQgY6YNQOleyx61lyRKNTc4sJIGefATGSBNYZaNG5Rz8nI2Axp0swDtX6E1284FXWwtko0k2IG2bTJqs7TGyEsXMuWCh/JmWzYl0hqmCT/MWeU0OMm+x0bF/Whnev8dLdtug8LuAGrxx3kV+48lt05ge66rXph2pGYEE27+yIVKYwVvP28uDO4wLGO+8K/egqG2fGK7Kv2qlAUidkyI/BX7+MSmbfg==;JkCmC9Z0B2j5zThQzi6uwA=="
 ---
