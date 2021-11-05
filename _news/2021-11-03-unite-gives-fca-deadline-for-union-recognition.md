@@ -41,6 +41,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Appliance Maker Implements Speech Recognition Software on the Assembly Line"
+    excerpt: "The pace at which artificial intelligence (AI) is becoming a mainstream technology in manufacturing is quite impressive. Companies in many industries use AI daily to optimize assembly processes, perform predictive maintenance,"
+    publishedDateTime: 2021-11-04T13:00:00Z
+    webUrl: "https://www.assemblymag.com/articles/96703-appliance-maker-implements-speech-recognition-software-on-the-assembly-line"
+    type: article
+    provider:
+      name: Assembly Mag
+      domain: assemblymag.com
+    quality: 37
+    images:
+      - url: "https://www.assemblymag.com/ext/resources/Issues/2021/November/AiA/asb1121AIA1.jpg?height=635&t=1635962341&width=1200"
+        width: 900
+        height: 550
+        isCached: true
   - title: "Unite gives FCA deadline for union recognition"
     excerpt: "The general secretary of Unite Sharon Graham has written to the Financial Conduct Authority (FCA) demanding trade union recognition for its workforce."
     publishedDateTime: 2021-11-04T09:02:00Z

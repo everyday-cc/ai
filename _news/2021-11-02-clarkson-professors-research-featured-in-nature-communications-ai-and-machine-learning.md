@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mitsui in collaboration pacts on artificial intelligence and carbon capture, utilisation and storage"
-    excerpt: "The Japanese company has signed memorandums of understanding with Denbury Resources and PGS related to the energy transition"
-    publishedDateTime: 2021-11-02T02:23:00Z
-    webUrl: "https://www.upstreamonline.com/energy-transition/mitsui-in-collaboration-pacts-on-artificial-intelligence-and-carbon-capture-utilisation-and-storage/2-1-1091980"
-    type: article
-    provider:
-      name: Upstream
-      domain: upstreamonline.com
-    quality: 22
-    images:
-      - url: "https://images-global.nhst.tech/image/SDVBNVVwWlhJN29xeFAybnIwL2hqSkNBUFJybW1YR3hrL1dWWmxIT0FnTT0=/nhst/binary/80a8f587dc574756a112fbd1ceb8ec2f?image_version=720"
-        width: 720
-        height: 358
-        isCached: true
   - title: "Wipro Partners with TEOCO to Develop Next-Generation Network Solutions for Communication Service Providers"
     excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting, and business process services company, has partnered with TEOCO to develop solutions that help communication service providers (CSPs) improve network automation,"
     publishedDateTime: 2021-11-02T00:00:00Z

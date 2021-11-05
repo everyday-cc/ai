@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
 type: article
 quality: 74
-heat: 154
-published: true
+heat: -1
+published: false
 
 provider:
   name: Hindustan Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent’s foray into chips isn’t at all surprising"
+    excerpt: "Tencent unveiled its progress in chips for the first time this week, which immediately gave its stock price a modest boost. Silicon seems distant from the giant’s main arenas of video games and social networks,"
+    publishedDateTime: 2021-11-05T04:23:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-937997094.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Tencent flags progress on three chips in development, investment effort"
     excerpt: "Chinese technology giant Tencent Holdings touted progress in semiconductor chip development and investment on Wednesday, offering a rare public glimpse of its R&D initiatives."
     publishedDateTime: 2021-11-03T11:02:00Z

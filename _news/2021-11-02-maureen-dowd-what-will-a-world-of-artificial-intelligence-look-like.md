@@ -7,7 +7,7 @@ originalUrl: "https://www.sltrib.com/opinion/commentary/2021/11/01/maureen-dowd-
 webUrl: "https://www.sltrib.com/opinion/commentary/2021/11/01/maureen-dowd-what-will/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Maureen Dowd: AI may turn us all into the family pet"
-    excerpt: "Does AI perceive aspects of reality that we don’t? Is it possible that AI will see things that humans cannot comprehend?” Opinions on AI are wildly divergent. Jaron Lanier, the father of virtual reality,"
-    publishedDateTime: 2021-10-31T14:59:00Z
-    webUrl: "https://www.irishtimes.com/news/world/maureen-dowd-ai-may-turn-us-all-into-the-family-pet-1.4715430"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4715428&origw=1200"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "3AyyAYJspAIkvt3JCbzJoZgb45GLI1MNBYhZwQoAp9SdCl/O29TihfWT4MdTnGliti9tNaKXjDI2j2AUu/tLBfCI/OGM18IkZCwdB8NvpjUuzgdSZhtjl5pjaKVVFjJt+E155Tfkmj4ZWqRV157cwbmjTYxYYg6KuV006D/OTr7C9dXB/Y0b7xbQ4BnkIPrpR5FUCId+MRcDqFpQfu9Cbk4f2UVSl5d3AkcNCh3YjnKNhAm/7Dyi3fA3t98IdoUVSeiR67kIgDdAQOxU+7x0jSLhF3K8pLSxr6ZlGFWfk1ThV+1OZzFGsS1S0zQFP7ogke+jU9Saec30Lya8mRgUyErDbFwCKA9B/uT9ioc/g89ug+8H/rY+sDysAv9N8V74e7Mo2KmzUYbHm44+IcA88bP6Y6mkZkU9aa843M2KxPgScUPwnuSOPq4TEcsM7wDzYglFf4e6hOQ5DLYm0wnHZawTdZ/5IYSdL1Qi5dc5qwRF17HDQkpztGrSgDFxo/ORxKjwPA8+1tvAQOYOaYZ16g==;LFHGyU6abEjleQh4JxYpRA=="
 ---

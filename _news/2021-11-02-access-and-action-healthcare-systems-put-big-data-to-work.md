@@ -9,7 +9,7 @@ ampWebUrl: "https://healthtechmagazine.net/article/2021/11/access-and-action-hea
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/11/access-and-action-healthcare-systems-put-big-data-work?amp"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,66 @@ images:
     width: 1440
     height: 500
     isCached: true
+
+related:
+  - title: "Disruption In Action: AI Accelerated"
+    excerpt: "Global spending on artificial intelligence systems has nearly tripled since 2019, and it's set to more than double again by the end of 2025, according to IDC. Hear from a pair of disruptors driving the accelerated adoption of AI's many promising applications,"
+    publishedDateTime: 2021-11-05T02:01:00Z
+    webUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106964175-5ED1-REQ-102121-DISRUPTIONINACTIONAIACCELERATED.jpg?v=1635776688"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Focus needs to turn to doing AI analytics right as adoption soars"
+    excerpt: "Digital transformation and adoption of artificial intelligence (AI) have soared around the world since the onset of the Covid-19 pandemic, making it increasingly important for organisations to focus on the tools,"
+    publishedDateTime: 2021-11-05T06:50:00Z
+    webUrl: "https://www.itweb.co.za/content/wbrpO7gYOWPqDLZn"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7gYOWPqDLZn"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7gYOWPqDLZn"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/p9rDEy2TS05gmljGu-JgnaBaMzEV42FH5xYwNZwp0-uz2JUzLKTHQV8zCDIIog1zKOcCSsTbXdvxfvRDsOGrwhi3vcZlptMvPrt4=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+  - title: "Versatile Launches AI and IoT-Based Solution for Construction Process Optimization"
+    excerpt: "American construction and industrial process startup Versatile has launched CraneView, an AI and IoT-based solution for construction process optimization."
+    publishedDateTime: 2021-11-01T10:49:00Z
+    webUrl: "https://www.just-auto.com/research-reports/versatile-launches-ai-and-iot-based-solution-for-construction-process-optimization/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 31
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/11/shutterstock_1144060268.jpg"
+        width: 500
+        height: 334
+        isCached: true
+  - title: "Mitsui in collaboration pacts on artificial intelligence and carbon capture, utilisation and storage"
+    excerpt: "The Japanese company has signed memorandums of understanding with Denbury Resources and PGS related to the energy transition"
+    publishedDateTime: 2021-11-02T02:23:00Z
+    webUrl: "https://www.upstreamonline.com/energy-transition/mitsui-in-collaboration-pacts-on-artificial-intelligence-and-carbon-capture-utilisation-and-storage/2-1-1091980"
+    type: article
+    provider:
+      name: Upstream
+      domain: upstreamonline.com
+    quality: 22
+    images:
+      - url: "https://images-global.nhst.tech/image/SDVBNVVwWlhJN29xeFAybnIwL2hqSkNBUFJybW1YR3hrL1dWWmxIT0FnTT0=/nhst/binary/80a8f587dc574756a112fbd1ceb8ec2f?image_version=720"
+        width: 720
+        height: 358
+        isCached: true
 
 secured: "NvHUcCE7rZP25QTUiIZ+O11xAUK3hzUFDbde5Xi/F8YPBHx8GXUjnf7NuvNPu2YgMBXeWVicjpV7OJis3wQ/GB386BO+q0+2A8DFVsjRDo/WWnvdMJb9AnIOD8eNHNN8qk5lbiqB/HDpQH02fCSykOEFo8bZBZ9zNwBZQzA1krnzB1dOZpUbrLWvWuAaxIlzyR9gfRwyk1qYa98JgFsna33WffiIPJGEYq79aRSNBPBiJNi+F7ldzHacJcVagscHdjFIB/Y10G9TLJ4zjEKioJ5ARiRNavkoKMGs8vn+hNgAFJwkvVsgkTXu4YSW4YRBmJUlHj8ttJbZrSVlv9YiDtmdEPicVnRDlt5+jk5AHlY=;+XN4qg1TtC+xE913Ef0AIA=="
 ---

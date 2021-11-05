@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-05-tencents-foray-into-chips-isnt-at-all-surprising.md",
+      "title": "Tencent’s foray into chips isn’t at all surprising",
+      "excerpt": "Tencent unveiled its progress in chips for the first time this week, which immediately gave its stock price a modest boost. Silicon seems distant from the giant’s main arenas of video games and social networks,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/",
+      "originalUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-937997094.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/",
+      "publishedDateTime": "2021-11-04T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-aptiv-tops-expectations-but-chip-shortage-will-continue-to-hit-self-driving-cars.md",
       "title": "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars",
       "excerpt": "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters.",
@@ -88,49 +140,6 @@
         "AI",
         "AI Hardware",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-tencent-pushes-beyond-online-content-unveils-first-ai-chips.md",
-      "title": "Tencent pushes beyond online content, unveils first AI chips",
-      "excerpt": "Tencent has unveiled its first chips, showcasing a yearlong foray into silicon design as the Chinese tech giant seeks to grow beyond digital entertainment.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2021/11/03/1600x900/CHINA-GAMES-HUAWEI-TENCENT-HOLDINGS-2_1635926062591_1635926076330.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html",
-      "publishedDateTime": "2021-11-03T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {

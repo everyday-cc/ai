@@ -24,19 +24,65 @@ images:
     isCached: true
 
 related:
-  - title: "iMerit Launches New Self Serve API Tool, Allowing For a More Seamless Integration of Their AI Data Solutions"
-    excerpt: "LOS GATOS, Calif., Nov. 4, 2021 /PRNewswire/ -- iMerit, a leading AI data solutions company, today announced the launch of its new"
-    publishedDateTime: 2021-11-04T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/imerit-launches-new-self-serve-api-tool-allowing-for-a-more-seamless-integration-of-their-ai-data-solutions-1030938329"
+  - title: "Disruption In Action: AI Accelerated"
+    excerpt: "Global spending on artificial intelligence systems has nearly tripled since 2019, and it's set to more than double again by the end of 2025, according to IDC. Hear from a pair of disruptors driving the accelerated adoption of AI's many promising applications,"
+    publishedDateTime: 2021-11-05T02:01:00Z
+    webUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
     images:
-      - url: "https://mma.prnewswire.com/media/1588476/iMerit_Logo.jpg"
+      - url: "https://image.cnbcfm.com/api/v1/image/106964175-5ED1-REQ-102121-DISRUPTIONINACTIONAIACCELERATED.jpg?v=1635776688"
         width: 400
-        height: 283
+        height: 225
+        isCached: true
+  - title: "Access and Action: Healthcare Systems Put Big Data to Work"
+    excerpt: "From patient questionnaires to Internet of Medical Things devices, healthcare systems collect, store and rely on massive streams of data to deliver care, especially as they undergo digital transformations."
+    publishedDateTime: 2021-11-02T15:08:00Z
+    webUrl: "https://healthtechmagazine.net/article/2021/11/access-and-action-healthcare-systems-put-big-data-work"
+    ampWebUrl: "https://healthtechmagazine.net/article/2021/11/access-and-action-healthcare-systems-put-big-data-work?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/11/access-and-action-healthcare-systems-put-big-data-work?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 59
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202111/data%20analytics.jpg?itok=qOKB2GRp"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "Focus needs to turn to doing AI analytics right as adoption soars"
+    excerpt: "Digital transformation and adoption of artificial intelligence (AI) have soared around the world since the onset of the Covid-19 pandemic, making it increasingly important for organisations to focus on the tools,"
+    publishedDateTime: 2021-11-05T06:50:00Z
+    webUrl: "https://www.itweb.co.za/content/wbrpO7gYOWPqDLZn"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7gYOWPqDLZn"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7gYOWPqDLZn"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/p9rDEy2TS05gmljGu-JgnaBaMzEV42FH5xYwNZwp0-uz2JUzLKTHQV8zCDIIog1zKOcCSsTbXdvxfvRDsOGrwhi3vcZlptMvPrt4=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+  - title: "Mitsui in collaboration pacts on artificial intelligence and carbon capture, utilisation and storage"
+    excerpt: "The Japanese company has signed memorandums of understanding with Denbury Resources and PGS related to the energy transition"
+    publishedDateTime: 2021-11-02T02:23:00Z
+    webUrl: "https://www.upstreamonline.com/energy-transition/mitsui-in-collaboration-pacts-on-artificial-intelligence-and-carbon-capture-utilisation-and-storage/2-1-1091980"
+    type: article
+    provider:
+      name: Upstream
+      domain: upstreamonline.com
+    quality: 22
+    images:
+      - url: "https://images-global.nhst.tech/image/SDVBNVVwWlhJN29xeFAybnIwL2hqSkNBUFJybW1YR3hrL1dWWmxIT0FnTT0=/nhst/binary/80a8f587dc574756a112fbd1ceb8ec2f?image_version=720"
+        width: 720
+        height: 358
         isCached: true
 
 secured: "vKgumJaqU1x7KMzKjiACj67ToTYWnhK9hA9mKs/67yT/+Zr9xlCw5QNnD1hsg5T7I/FT7AccNLTLM6IzxieLYPQhvGji7BP6iR9WS2Oqoi03n0PPIkOVhQeOHL3dKofIopj504tVpHDL/hZuaWPCin7de2j/9iYEblyXuAnaokpuNnaWVtIhpn1AYCaKhACrBHv8H6Lsh1VTI/nO2OdjJXkbxBGANkgS38uoYCfcO+wqwjiP4cuot1+JRI5INy+ocM/UmaNA4lkEijNBHRZOZEMolNvGXEDvgyHMI+OU3hDcMLXolB/4Xeo8U4pIqOrJUIioxd6CeFiGkqNEU2ghGEMpwaCpSXnUff4LMBINXnA=;TF3IvlL9zXoQxptTciv63Q=="

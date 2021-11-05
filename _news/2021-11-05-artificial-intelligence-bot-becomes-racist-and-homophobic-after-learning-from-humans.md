@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ladbible.com/news/latest-ai-bot-becomes-racist-and-homop
 cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-ai-bot-becomes-racist-and-homophobic-after-learning-from-humans-20211104.amp.html"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Artificial Intelligence bot learns problematic human traits - becomes 'racist' and 'homophobic'"
+    excerpt: "Ask Delphi is not a physical robot with a solid body. It's actually just a software that was supposed to let users ask tricky questions that do not have direct 'yes' or 'no' answers."
+    publishedDateTime: 2021-11-05T07:03:00Z
+    webUrl: "https://www.timesnownews.com/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394"
+    ampWebUrl: "https://www.timesnownews.com/amp/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394"
+    type: article
+    provider:
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 62
+    images:
+      - url: "https://imgk.timesnownews.com/story/Bot.png?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "DuntY1OIs19Vv3vpysLS62jYGGePtt7Qo8iPVfzLjzk9yZpPbJPUEekvEzCaW5YHS8D+Pzp9P71l8qn1/7Gxa3s3MXBt7bEgeIAPYZoSAgBfsWY3zLVf9wocVN3nIz+g4/OT8cbpDZWWRitvy/m+dtKDCUxhIperA0gZg8G9VkaFR3c/849HVrSsRDg2VNLQRSAS21TpW3aZfl7MFygJMPZOEUrek26QQ/x6lON64MD++2s/3sPIp0LLGgZDgnFjjYpwjSXaU9nE4q16lIGBtMgr32xGggEx8DfxFHbQyXQ+TgwU+L8TxrwYpXa5H4g+MFpRBBNByLuOINhp0Wmgg4r0PsIaV3IQDltoQncuk5A=;jLKRmKqNc4Wn3x+3bb1yQQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterf
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1554323627-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Fintech challenges | Balance history"
-    excerpt: "Balance history. The challenge in this project asks to solve a common problem in the banking sector: calculating the daily balances of a bank account from a k"
-    publishedDateTime: 2021-10-31T14:08:00Z
-    webUrl: "https://github.com/gbagolin/faireai-fintech-challenge"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 24
-    images:
-      - url: "https://opengraph.githubassets.com/fcbb02ef49b09b1c09f13e2b3cd22a3b0fb4f8b46b3566987d96cb7fda7e3d24/gbagolin/faireai-fintech-challenge"
-        width: 1200
-        height: 600
         isCached: true
   - title: "4 FinTech Tweets you should see!"
     excerpt: "FinTech companies like any other are now embracing social media to tell their stories, engage with their consumers, and leverage influence."

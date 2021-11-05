@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent’s foray into chips isn’t at all surprising"
+    excerpt: "Tencent unveiled its progress in chips for the first time this week, which immediately gave its stock price a modest boost. Silicon seems distant from the giant’s main arenas of video games and social networks,"
+    publishedDateTime: 2021-11-05T04:23:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-937997094.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Tencent pushes beyond online content, unveils first AI chips"
     excerpt: "Tencent has unveiled its first chips, showcasing a yearlong foray into silicon design as the Chinese tech giant seeks to grow beyond digital entertainment."
     publishedDateTime: 2021-11-03T19:27:00Z

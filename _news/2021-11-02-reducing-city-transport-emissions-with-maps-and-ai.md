@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/reducing-city-transport-emissions-
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/"
 type: article
 quality: 109
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1300
     height: 975
     isCached: true
+
+related:
+  - title: "Inspiring curiosity in kids with math, data and artificial intelligence"
+    excerpt: "We book a cab, order food, and shop online without realizing that we are using artificial intelligence-enabled technology on a daily basis"
+    publishedDateTime: 2021-11-05T07:24:00Z
+    webUrl: "https://www.ciol.com/inspiring-curiosity-kids-math-data-artificial-intelligence/"
+    ampWebUrl: "https://www.ciol.com/inspiring-curiosity-kids-math-data-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/inspiring-curiosity-kids-math-data-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 54
 
 secured: "/ZQh7MCtmMrBj4Y3lRMHnwAqZMepGYGUcByO9MR5wo7ZOe5+K/L/wUywR1hrguG3gf+ouuXjGtgX9BjOh9Rlmn3RzY5Keio4lzco5LdntY5F4MrCl7VZPdRQGvFYz0Vt+PlYyC/kXPPj7iq0TTJq+1Aytr3L+1ML5gk7TTwOuJjRr0iyI3h3m4hTvVwCRD9UJ1c0LRovUPxaiocodvzjLheOd4yWNKGgI1XxB7a820x5RM1BUiHhKHiyq5FFh7j7x2z2Eg/ZtOwbnEhWuqmrq5i8/T3FBb6klsbivehZQ3CGWGWTgfjAy9oakKmm6VeKr16BC6xyXqzyjjTr32SjYkO9EvBbut1FSq272LqQta8=;PCt6ZWlt6bbxITqFioEecA=="
 ---

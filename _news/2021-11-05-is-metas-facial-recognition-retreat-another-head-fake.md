@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recogniti
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
 type: article
 quality: 93
-heat: 123
+heat: 124
 published: true
 
 provider:

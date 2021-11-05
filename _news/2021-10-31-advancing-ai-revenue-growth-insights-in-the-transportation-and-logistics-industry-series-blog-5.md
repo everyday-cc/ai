@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-rev
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Advancing AI Revenue Growth Insights In The Transportation And Logistics Industry - Industry Series: Blog #4"
-    excerpt: "This is the 4th blog in an AI Transportation and Logistics Industry series, which looks at revenue growth and optimization use cases & highlights innovation developments in leading giants like: FedEx,"
-    publishedDateTime: 2021-10-31T14:58:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industryindustry-series-blog-4/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industryindustry-series-blog-4/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industryindustry-series-blog-4/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ead445f8f04e43defb687%2F0x0.jpg"
-        width: 1200
-        height: 632
-        isCached: true
   - title: "Advancing AI Smarter Intelligence Everything In The Transportation And Logistics Industry - Industry Series: Blog #5"
     excerpt: "This is the fifth blog in the advancing AI Smarter Intelligence Everything in the Transportation and Logistics Industry Series."
     publishedDateTime: 2021-10-31T21:36:00Z
