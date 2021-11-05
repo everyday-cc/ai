@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-he
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/waymo-self-driving-vehicles-are-headed-to-nyc-for-a-mapping-operation/amp/"
 type: article
 quality: 89
-heat: 189
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo is bringing its autonomous vehicles to New York City for (manually driven) mapping"
+    excerpt: "The latest autonomous vehicle company to tackle the mean streets of New York City will be Waymo. The Google spinoff is bringing a handful of cars to the Big Apple, where they will start mapping the city streets using manually driven vehicles with two people riding inside."
+    publishedDateTime: 2021-11-03T13:00:00Z
+    webUrl: "https://www.theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual"
+    type: article
+    provider:
+      name: theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual
+      domain: theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual
+    quality: 150
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/yFp0rPyytEXZW7lJ5JWeDYebgLg=/0x0:1600x898/1400x933/filters:focal(672x321:928x577):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70085227/O0CtGcQE53rLMZODMK_XXR4sEcsD73_ZALIzuuhdA8Rv_XdvjlUgAraW_KzZ0W7he97FRwrbUjdA9K65kh6OqW7IXHNYaPUnz6_Klq2c1c3Wz4GioI7WdAutNZd2d1PsxDgZebJSRQ.5.jpeg"
+        width: 1400
+        height: 898
+        isCached: true
   - title: "Waymo will start operating in New York City"
     excerpt: "Waymo will start testing its self-driving vans in New York City on November 4th, helping it prepare for heavy traffic and snow.."
     publishedDateTime: 2021-11-03T19:32:00Z
@@ -60,31 +76,6 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2021/11/Waymo_NYC.jpg"
         width: 1000
         height: 561
-        isCached: true
-  - title: "TuSimple, UPS mapping new self-driving routes in southern U.S. states"
-    excerpt: "Self-driving truck technology company TuSimple Holdings Inc TSP.O said on Wednesday it is mapping new freight lanes with UPS UPS.N from Arizona to Florida and has hit significant fuel savings for the package delivery company at highway speeds."
-    publishedDateTime: 2021-11-03T20:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Hong Kong Airport Authority Plans Self-Driving Bus Service"
-    excerpt: "The Hong Kong International Airport (HKIA) is preparing to launch an autonomous bus service, marking the latest step in its use of self-driving technology to enhance efficiency. The airport already operates driverless luggage trailers and unmanned patrol vehicles."
-    publishedDateTime: 2021-11-03T12:31:00Z
-    webUrl: "https://www.caixinglobal.com/2021-11-03/hong-kong-airport-authority-plans-self-driving-bus-service-101795753.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
-    images:
-      - url: "https://img.caixin.com/2021-11-03/163594259917998_560_373.jpg"
-        width: 560
-        height: 373
         isCached: true
   - title: "Self-driving car company Waymo makes first entry into city"
     excerpt: "Waymo, the autonomous car company owned by Google parent firm Alphabet, is launching in New York—but its vehicles will have drivers for the time being. Crain’s New York Business is the trusted voice of the New York business community—connecting businesses across the five boroughs by providing analysis and opinion on how to navigate New York’s complex business and political landscape."
@@ -142,29 +133,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Self-driving tech descends on NYC"
-    excerpt: "Waymo is collecting data on the New York's chaotic streets and varying weather conditions to better inform its technology."
-    publishedDateTime: 2021-11-03T21:10:00Z
-    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-descends-on-nyc-5171868/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C561AAQHwDqDE1J8XgA/storylineheaderimage-shrink_400_400/0/1635967422504?e=1636066800&v=beta&t=NXAe3_hwjVCeDE57t-Tu6XjuH7tuBqh9lN1yuhg8-vs"
-        width: 400
-        height: 253
-        isCached: true
-  - title: "Video: Watch a Waymo self-driving car navigate San Francisco streets"
-    excerpt: "Waymo started self-driving rides in San Francisco in an all-electric I-PACE vehicle equipped with the fifth generation of Waymo Driver autonomous software. The perception system allows these self-driving cars to navigate narrow,"
-    publishedDateTime: 2021-11-03T12:27:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17375/video-watch-a-waymo-self-driving-car-navigate-san-francisco-streets"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "wkMWcto8qUH5C/cg+SA0sROF2BX73u2zD7lWEIMSfAZ9BT2lu61/2l+ihqG8OEqv7WhRvUgD5DckpnDHa+nhK+1K+oad4x3V31+6R9vmBtrJKatb3uicBjn9/9RgZ/5B46N/9HsVc/aEAPmrSfOM9keVAZVfYMVyJ49dq0uL2vMOEpuEhaFCFyDWQ7XkROR7scOBNooDeHc7zJNpub2/Z2CKJR6qWW21E2f1WO49Ly9FNXKBLnvKcb5FpogmwOjwx5DLcEymjGltj4FLKH3CMqNQmf1T1snpqjRT/RvjtibTVD1fSwhs4n60rgcJrPmY1KCARxBidv9Z0Sv1X5z5Yt8b6wVVPRFIYXinq/LV5Dy4gC33oGfSkjvH5crG6Yis1g/H0o1scONnMryMqtkblFhJjSh+gRzA58j8jaxv9t4kR5Y3siUuR9oGpbhlprnb6fO48UgfvUfNCa2QxQvGamUdY+C5LEeHcXCwzZmEY8eoYG3zdVTDfoCabpjwSFiCMnW9eyxDcTfq4jQXUB8gmA==;M8nE9PIGQ+rtPiCjQUNaZQ=="
 ---

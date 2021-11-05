@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/"
 type: article
 quality: 121
-heat: 171
+heat: 141
 published: true
 
 provider:
@@ -43,48 +43,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 83
-  - title: "Alphabet’s DeepMind forms AI drug discovery unit Isomorphic Labs"
-    excerpt: "Google parent Alphabet has drawn on its DeepMind artificial intelligence division to form a drug discovery unit that"
-    publishedDateTime: 2021-11-05T09:27:00Z
-    webUrl: "https://pharmaphorum.com/news/alphabets-deepmind-forms-ai-drug-discovery-unit-isomorphic-labs/"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 54
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2021/07/AlphaFold-605x340.jpg"
-        width: 605
-        height: 340
-        isCached: true
-  - title: "Alphabet has a new drug discovery company building on DeepMind’s AI chops"
-    excerpt: "Isomorphic's CEO said the company plans to use computational AI methods to “reimagine the whole drug discovery process.\""
-    publishedDateTime: 2021-11-04T15:00:00Z
-    webUrl: "https://www.statnews.com/2021/11/04/alphabet-launches-drug-discovery-company-building-on-deepmind/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 53
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/11/AdobeStock_211444725-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Alphabet launches AI drug discovery venture built on DeepMind's protein-folding expertise"
-    excerpt: "The new Isomorphic Laboratories aims to deliver an “AI-first approach” for tackling biopharma research, with the goal of serving as a commercial partner to drugmakers."
-    publishedDateTime: 2021-11-04T18:58:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/alphabet-google-ai-drug-discovery-deepmind-protein-folding"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 47
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1636052397/GettyImages-867159754.jpg/GettyImages-867159754.jpg?VersionId=Wz.7bs13f3QJMcVV_ZH80QowTKRNr2f8"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Fresh Patches For Your DeepMind 12"
     excerpt: "Robust American Patches tell us that they have released Volume I for the DeepMind 12. They tell us that nearly every patch in this collection of 74 has extensive velocity, modwheel and aftertouch assignments."
     publishedDateTime: 2021-11-05T01:02:00Z

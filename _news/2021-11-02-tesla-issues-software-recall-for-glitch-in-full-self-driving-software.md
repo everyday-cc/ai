@@ -103,6 +103,20 @@ related:
         width: 751
         height: 526
         isCached: true
+  - title: "Tesla's 'Full Self-Driving' Gets Mixed Reviews"
+    excerpt: "The software includes a suite of driver-assist features that are designed to enable cars to drive themselves in the future."
+    publishedDateTime: 2021-11-05T13:36:00Z
+    webUrl: "https://www.entrepreneur.com/article/395624"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1636119342-GettyImages-1052193504.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Tesla issues a recall over its latest self-driving update"
     excerpt: "The software communication error reportedly impacted Tesla Model S, X, 3, and Y vehicles released from 2017 through 2021."
     publishedDateTime: 2021-11-02T19:11:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/11/04/sama-taps-into-70m-to-build-first-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/sama-taps-into-70m-to-build-first-end-to-end-ai-platform-for-training-data/amp/"
 type: article
 quality: 86
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -32,27 +32,27 @@ images:
 
 related:
   - title: "CDPQ leads US$70 million financing round in Sama, an AI training data platform"
-    excerpt: "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training"
-    publishedDateTime: 2021-11-04T13:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cdpq-leads-us-70-million-financing-round-in-sama-an-ai-training-data-platform-1030937439"
+    excerpt: "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training to power AI applications and to develop the first end-to-end AI platform to manage the complete AI lifecycle The company has approximately 40 employees in Montreal where it intends to strengthen its presence with a research and product development hub MONTRÉAL,"
+    publishedDateTime: 2021-11-04T14:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cdpq-leads-us70-million-financing-round-in-sama-an-ai-training-data-platform-301415882.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "Is the best practice for Enterprise AI to keep ModelOps independent from data science in both practice and platform? PART 1"
-    excerpt: "In the Enterprise, there is currently a lot of focus on operationalizing AI. Numerous organizations report debilitating challenges getting their data science-based models out of the Business Units, where most data science model development takes place,"
-    publishedDateTime: 2021-11-02T18:17:00Z
-    webUrl: "https://www.linkedin.com/pulse/best-practice-enterprise-ai-keep-modelops-independent-stu-bailey"
+      name: Associated Press
+      domain: apnews.com
+    quality: 113
+  - title: "San Francisco AI startup Sama eyes Montréal R&D expansion with $70 million Series B round"
+    excerpt: "Sama, a San Francisco-based AI training data firm, plans to grow its headcount in Montréal to 300 employees by 2023 to support its platform development goals."
+    publishedDateTime: 2021-11-04T13:00:00Z
+    webUrl: "https://betakit.com/san-francisco-ai-startup-sama-eyes-montreal-rd-expansion-with-70-million-series-b-round/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 13
+      name: BetaKit
+      domain: betakit.com
+    quality: 28
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFFP5ipi_IJbQ/article-cover_image-shrink_720_1280/0/1635875692048?e=1641427200&v=beta&t=4XDuiflhvv5hctF2cA_BSemAdoZ-NKd4XGhxH-JsG2w"
-        width: 1280
-        height: 672
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/11/Wendy-Gonzalez.jpg"
+        width: 1050
+        height: 700
         isCached: true
 
 secured: "9eS9rRiSvb5EqZ3g9raFxgXoyS+NavCR7bmPs8ZWw7A0XlC3/CwuOFi2LwDZAw0fSlK884fkN4RuxkbV17rF7Ym81rAgOwVXK40O1DP1YAxvhcuhhEceL/xyH9XJBJ7+ssZva7fh7oz33pE4XnO2SlddiZD0LyzjaMhNn1p4Ndm6kXJjDGwiwOPaDmSWuCAcvJ6KbEUPSWI/c4Eg2dJknb9xdhCNEHa/kULiRXZ2UE2RLBIHooRbZX/RcaOvgpNKD+PJ5K9UC9Tgsj7kL7L6O5sB/pktRx3LPu/w4F/S1f1Ao2wvzArFCXi8x0pqKnGkVTVRRcLlA/b3OiQCRU2Z0TeuD1ANxKhS+HjT0g5z7QxOcVN16Mnr8e7/9Gqrys8WWD1AYtM3LvOMTwEbxpXM7xm/juahKCbVbrkQGuEN3wkq+133uMiUebf69BbquqX3mEPejmWosYwpKVXebQWWBhjH/jBxpj/sijqR1qqGYPIzIiUtbJwvlLBqTvkpCVeZFwCte3FLTNKYT0OIi8sGBg==;a8i8r9jPnvmK4Cn+4nGG6g=="

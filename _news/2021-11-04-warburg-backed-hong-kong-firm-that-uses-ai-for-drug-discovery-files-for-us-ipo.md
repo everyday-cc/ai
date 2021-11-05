@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-11-04/warburg-backed-
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-04/warburg-backed-ai-drug-firm-is-said-to-have-filed-for-u-s-ipo"
 type: article
 quality: 62
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Hong Kong Airport Authority Plans Self-Driving Bus Service"
+    excerpt: "The Hong Kong International Airport (HKIA) is preparing to launch an autonomous bus service, marking the latest step in its use of self-driving technology to enhance efficiency. The airport already operates driverless luggage trailers and unmanned patrol vehicles."
+    publishedDateTime: 2021-11-03T12:31:00Z
+    webUrl: "https://www.caixinglobal.com/2021-11-03/hong-kong-airport-authority-plans-self-driving-bus-service-101795753.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-11-03/163594259917998_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
   - title: "Geek+ and GEODIS Team Up to Optimize Warehouse Logistics with Autonomous Mobile Robots in Hong Kong"
     excerpt: "Powering GEODIS to realize warehouse digitalization using advanced robotics and automation technologies. • Enabling the logistics leader to make the most of the sustained e-commerce boom and meet requirements for swift order fulfillment."
     publishedDateTime: 2021-11-03T13:00:00Z

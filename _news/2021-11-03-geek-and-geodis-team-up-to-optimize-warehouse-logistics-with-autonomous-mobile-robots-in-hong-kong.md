@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Hong Kong Airport Authority Plans Self-Driving Bus Service"
+    excerpt: "The Hong Kong International Airport (HKIA) is preparing to launch an autonomous bus service, marking the latest step in its use of self-driving technology to enhance efficiency. The airport already operates driverless luggage trailers and unmanned patrol vehicles."
+    publishedDateTime: 2021-11-03T12:31:00Z
+    webUrl: "https://www.caixinglobal.com/2021-11-03/hong-kong-airport-authority-plans-self-driving-bus-service-101795753.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-11-03/163594259917998_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
 
 secured: "XiDRDzFn5PLdy9DOy+1d/OiqE3Nx5wIP9QFAZOiiLHskiq+WNZxGJD9B2GrSVtpQkc2FoRlMJug3ypoMPZvpitzIftPmhGog33NAEgkbKzmYZFn6sZAgiS0iCjqERJw8/cuKPVFbeF82JthBDf2fPIaWr7+nUm0XOFVFSRDU5STrR9n7vVHGvlOiwXtVHI13RQLdH1DSrSbqBo5ISW3wUbABNZP5PHsmuzIf56L6jjWOlEbnlGNxby9gQpbxFkZBu12kyf4LHtzuYsz4AD0vcN460PB1YzqR4Iy+cFzxHKbQd6uhZPZ/EMlUmwirjQxLooh+eaIv5vKnMtC7Sk07UWUABa20r3dBamU32l4iTnk=;t1Xm6C/WpVI4JwdOr0d+LA=="
 ---

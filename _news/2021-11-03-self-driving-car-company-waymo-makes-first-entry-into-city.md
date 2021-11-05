@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo is bringing its autonomous vehicles to New York City for (manually driven) mapping"
+    excerpt: "The latest autonomous vehicle company to tackle the mean streets of New York City will be Waymo. The Google spinoff is bringing a handful of cars to the Big Apple, where they will start mapping the city streets using manually driven vehicles with two people riding inside."
+    publishedDateTime: 2021-11-03T13:00:00Z
+    webUrl: "https://www.theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual"
+    type: article
+    provider:
+      name: theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual
+      domain: theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual
+    quality: 150
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/yFp0rPyytEXZW7lJ5JWeDYebgLg=/0x0:1600x898/1400x933/filters:focal(672x321:928x577):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70085227/O0CtGcQE53rLMZODMK_XXR4sEcsD73_ZALIzuuhdA8Rv_XdvjlUgAraW_KzZ0W7he97FRwrbUjdA9K65kh6OqW7IXHNYaPUnz6_Klq2c1c3Wz4GioI7WdAutNZd2d1PsxDgZebJSRQ.5.jpeg"
+        width: 1400
+        height: 898
+        isCached: true
   - title: "Waymo self-driving vehicles will begin mapping NYC’s streets"
     excerpt: "Waymo’s self-driving cars will make an appearance in New York City on Thursday, but don’t expect to hail a robotaxi in the Big Apple anytime soon — or ever. The company is a long way from testing or launching its autonomous vehicles commercially in the city."
     publishedDateTime: 2021-11-03T13:00:00Z
@@ -71,31 +87,6 @@ related:
         width: 1000
         height: 561
         isCached: true
-  - title: "TuSimple, UPS mapping new self-driving routes in southern U.S. states"
-    excerpt: "Self-driving truck technology company TuSimple Holdings Inc TSP.O said on Wednesday it is mapping new freight lanes with UPS UPS.N from Arizona to Florida and has hit significant fuel savings for the package delivery company at highway speeds."
-    publishedDateTime: 2021-11-03T20:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Hong Kong Airport Authority Plans Self-Driving Bus Service"
-    excerpt: "The Hong Kong International Airport (HKIA) is preparing to launch an autonomous bus service, marking the latest step in its use of self-driving technology to enhance efficiency. The airport already operates driverless luggage trailers and unmanned patrol vehicles."
-    publishedDateTime: 2021-11-03T12:31:00Z
-    webUrl: "https://www.caixinglobal.com/2021-11-03/hong-kong-airport-authority-plans-self-driving-bus-service-101795753.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
-    images:
-      - url: "https://img.caixin.com/2021-11-03/163594259917998_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
   - title: "Waymo to start self-driving car testing in New York City"
     excerpt: "Waymo is purportedly going to begin testing its self-driving car and technology on the streets of New York City. Read on for more."
     publishedDateTime: 2021-11-03T17:30:00Z
@@ -138,29 +129,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Self-driving tech descends on NYC"
-    excerpt: "Waymo is collecting data on the New York's chaotic streets and varying weather conditions to better inform its technology."
-    publishedDateTime: 2021-11-03T21:10:00Z
-    webUrl: "https://www.linkedin.com/news/story/self-driving-tech-descends-on-nyc-5171868/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C561AAQHwDqDE1J8XgA/storylineheaderimage-shrink_400_400/0/1635967422504?e=1636066800&v=beta&t=NXAe3_hwjVCeDE57t-Tu6XjuH7tuBqh9lN1yuhg8-vs"
-        width: 400
-        height: 253
-        isCached: true
-  - title: "Video: Watch a Waymo self-driving car navigate San Francisco streets"
-    excerpt: "Waymo started self-driving rides in San Francisco in an all-electric I-PACE vehicle equipped with the fifth generation of Waymo Driver autonomous software. The perception system allows these self-driving cars to navigate narrow,"
-    publishedDateTime: 2021-11-03T12:27:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17375/video-watch-a-waymo-self-driving-car-navigate-san-francisco-streets"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "CpnPLEZFDnE8RLrRsVRsi11M2gNVJTv/KWJOyXFF85CPEcO/Ue/en8PJVwPRNCHjFceql0rmMLmF1QHTG9b2fwZiN6YJkF0jh6hRM2f86KnXyNeUKNMNXyUX9Q+tOgUxYjN5fH0jiZwVL8lrFEdDI7qAl0P6HB7e/qFSOkumyQ4kpGLaC3EU4q2WWPGqXtG0kPt1BR7p9GpM76rpyLQ0PE/DJnoMgRJ7OggCxV3Ms2zGBIoV5e+UK371+94HPb0byyzQGM5JeYf5sqraAxNMNJ4A3ND9lUQ8m6Qj8fuT+pcOqxVUEVVMKEJoCCLiT0vJYnZAapGVYabAF56/ARdZ3foedAGbDA4W+Y60qsWIYuCOk3H/7/4DVlwwi6c0H2uGbnpsxW3Um8mEhcQUjuljXbDEom41m1k9+3VIbPsrKQNzrehMDv3QNosdeJCLqXFPUucbOYRmlziBP+sZeqP/5/iPX+hdNh/4EGO4QnMYknG9CkJap0qYvWdFYeHNoK/Tdlej4d0eS5+ECgmnGx5Uzg==;l63Nbuj8U7Dkv3qsnU1f/g=="
 ---

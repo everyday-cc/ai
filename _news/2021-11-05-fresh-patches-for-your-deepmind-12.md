@@ -52,48 +52,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 83
-  - title: "Alphabet’s DeepMind forms AI drug discovery unit Isomorphic Labs"
-    excerpt: "Google parent Alphabet has drawn on its DeepMind artificial intelligence division to form a drug discovery unit that"
-    publishedDateTime: 2021-11-05T09:27:00Z
-    webUrl: "https://pharmaphorum.com/news/alphabets-deepmind-forms-ai-drug-discovery-unit-isomorphic-labs/"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 54
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2021/07/AlphaFold-605x340.jpg"
-        width: 605
-        height: 340
-        isCached: true
-  - title: "Alphabet has a new drug discovery company building on DeepMind’s AI chops"
-    excerpt: "Isomorphic's CEO said the company plans to use computational AI methods to “reimagine the whole drug discovery process.\""
-    publishedDateTime: 2021-11-04T15:00:00Z
-    webUrl: "https://www.statnews.com/2021/11/04/alphabet-launches-drug-discovery-company-building-on-deepmind/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 53
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/11/AdobeStock_211444725-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Alphabet launches AI drug discovery venture built on DeepMind's protein-folding expertise"
-    excerpt: "The new Isomorphic Laboratories aims to deliver an “AI-first approach” for tackling biopharma research, with the goal of serving as a commercial partner to drugmakers."
-    publishedDateTime: 2021-11-04T18:58:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/alphabet-google-ai-drug-discovery-deepmind-protein-folding"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 47
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1636052397/GettyImages-867159754.jpg/GettyImages-867159754.jpg?VersionId=Wz.7bs13f3QJMcVV_ZH80QowTKRNr2f8"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "lvM2D+R3bhga1delZNJvZMttPsO6FapUriUlW8mhnmyKvkHvjEJvXXVJJUoTLCIL+uHj5zAd6C3PHAi2j6yhqolYBf2CeWvo6NBl3UgqYzt+EgqKF87tTyCJ/OaPGjlCtTf/8VycKMtz+6q5zXYfQsu1hFEcJGOnZLHJ7KLYIYmEDY0ZTAsjByXEKPTic/k3qNmIheetIvf8AAOoFGxpQJKvosgcGcuv2wRY8mrqlssSBVfthZqamm6BoOdVyTzt8eU2OsTCRWBZYBLVmf/axqHZKX+6LilrlT1R2N7WZgFU35fJ7KMWZEJfuY61Y+50enPiiJpjC5T2BdMmkJKDbBvv2JJ567L4RE47M3gO8TeGDOxipc7E/Aw+MCoaKrRtOqpIgQvuD49zF8MtOsZtqmzkIEeVgmAaWniD9UANJWxP86ROkChiHK+633F/tltig6swCD1TowLsVftk3J2Y91VJHQltoW+hm3ktJ4+0K5vp8HR4CqcTUg3UTNQ47B93CXagj49Ttt1rAZFQwRtqyA==;m6DSym6QwtE7oB8GHfyHQA=="
 ---

@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Humans Bigger Threat Than AI, Says Chess Legend Kasparov"
-excerpt: "Russian chess legend Garry Kasparov was beaten by a supercomputer -- but when it comes to artificial intelligence, he is firmly convinced that it's the humans who pose the real threat. Kasparov has remained fascinated by technology since his famous matches against IBM's Deep Blue computer in the 1990s."
-publishedDateTime: 2021-11-05T09:29:00Z
-originalUrl: "https://www.ibtimes.com/humans-bigger-threat-ai-says-chess-legend-kasparov-3331955"
-webUrl: "https://www.ibtimes.com/humans-bigger-threat-ai-says-chess-legend-kasparov-3331955"
+excerpt: "Russian chess legend Garry Kasparov was beaten by a supercomputer -- but when it comes to artificial intelligence, he is firmly convinced that it's the humans who pose the real threat."
+publishedDateTime: 2021-11-05T13:29:00Z
+originalUrl: "https://www.barrons.com/news/humans-bigger-threat-than-ai-says-chess-legend-kasparov-01636104607"
+webUrl: "https://www.barrons.com/news/humans-bigger-threat-than-ai-says-chess-legend-kasparov-01636104607"
+ampWebUrl: "https://www.barrons.com/amp/news/humans-bigger-threat-than-ai-says-chess-legend-kasparov-01636104607"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/humans-bigger-threat-than-ai-says-chess-legend-kasparov-01636104607"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/11/05/kasparov-has-remained-fascinated-by-technology-since-his.jpg"
-    width: 1024
-    height: 682
-    isCached: true
-
-secured: "l6ZSP+ydytCw66sMp4ozFBRCCntCNJ9o+mRTUryiPyJWBjGpj/4T9eedHZteMPho6T8x+QALOwd6eczLJbD+dJW3XoT9ZN05slJDGC4uCLQ9q4PIvkNfWkdKKbUyebInrNo3dr8wRYX3Wp9lh4fP0QOMr8gVu8g9XMIGVbo/JFawfjvjxQilkphB2+Mz8cFNhAWKU1vGSld1+bevSmXZ4AnFfq8hikAcSu2de9v0gj7CmOxuFbJLO6nSUPFrxpqtbWrFjGWali2nqoU8TMZ+ZrWcRrNJRE9mamA/E4ZBdGphvWr2VDS1lWyfXk7K9kXPaCsQF2SjhVQHk0MgrBv/5tiGw3rzDuAOkdfU7mKXGhM=;A3RZ7bowiARNnbnG6oSC2Q=="
+secured: "oen4pjqCsw7NBA9gxjP3u7/K+IpM8WnJAp6xGcsgRD8N0NqIf/g/sHEgTb4x8iDXD/Ev5x+4p+kkd+xgsfivvtTADUKZBwCx+AvEuuDHOkRdPpsR1rfJ5ajZgLaFOb5W9gIIAfu2teN8JRQmn0qasq8QslnyPlJ1eP9L5pADtBvgTwAMF4OY10Y2VNibIR4Hn8O1fFlnBli9QqIORTLBVA3PoykDnNPh8KFdXDFysY3ZFPs5+2q0QNzbFBfoel9jjiJ6swQ9du0sxr2KqfMdlIREbRo+kY5Y5Z2WAVe/LbOn8HPkpCkFkWb6jATyiWCL/fFUA+MGlicO1tdtUTC6QNUUW4EHep6vjuG4gCD77Mk=;MsZ23p7KHEbMvQGd4cgPCw=="
 ---
 

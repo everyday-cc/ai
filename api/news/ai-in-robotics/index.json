@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-05-can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster.md",
+      "title": "Can Artificial Intelligence Save America From The Global Supply Chain Disaster?",
+      "excerpt": "Leveraging AI to its maximum potential in supply chain technology is paramount in our race to solve the crises of the day. Big wins will help companies around the world to build more resilient, agile",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61853070a9d6a56144f276a1%2F0x0.jpg",
+          "width": 1200,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/amp/",
+      "publishedDateTime": "2021-11-05T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-these-robots-follow-you-to-learn-where-to-go.md",
       "title": "These Robots Follow You to Learn Where to Go",
       "excerpt": "Burro makes carts that help growers of trees and vineyards with harvests. Meanwhile, the maker of Vespa scooters wants to carry your groceries.",
@@ -730,7 +782,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1097,6 +1149,40 @@
       ]
     },
     {
+      "path": "_news/2021-10-29-abb-invests-in-building-technology-startup-brainbox-ai.md",
+      "title": "ABB Invests in Building Technology Startup BrainBox AI",
+      "excerpt": "ABB Technology Ventures leads BrainBox AI’s Series A investment round. Launched in 2019, BrainBox AI has pioneered the use of artificial intelligence to reduce energy costs and carbon emissions from Heating,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswiretoday.com/news/176528/ABB-Invests-in-Building-Technology-Startup-BrainBox-AI/",
+      "originalUrl": "https://www.newswiretoday.com/news/176528/ABB-Invests-in-Building-Technology-Startup-BrainBox-AI/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-living-with-robots-an-excellent-non-technical-overview-of-robotics.md",
       "title": "“Living With Robots” – An Excellent Non-Technical Overview Of Robotics",
       "excerpt": "This is a review of the third book sent to me recently by MIT Press, and the book is the best of the bunch. “Living With Robots,” by Ruth Aylett and Patricia A. Vargas is a good, non-technical book that discusses a number of issues with robots in human ...",
@@ -1319,83 +1405,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers.md",
-      "title": "This Restuarant Chain Is Putting Robots In Charge Of Its Deep Fryers",
-      "excerpt": "Advertisement The robotic technology startup behind the burger-flipping robot, Miso Robotics, announced a collaboration with Inspire Brands’ Buffalo Wild Wings on Thursday. Flippy Wings is a “robotic chicken wing frying solution” that helps brands maximise chicken wing output,",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/",
-      "originalUrl": "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/10/4fcb5faddfdec3c5dcdd640168970b0a6747.jpg",
-          "width": 1300,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/amp/",
-      "publishedDateTime": "2021-10-27T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-intuition-robotics-named-in-fast-companys-first-annual-list-of-brands-that-matter.md",
-      "title": "Intuition Robotics Named in Fast Company's First Annual List of \"Brands That Matter\"",
-      "excerpt": "New recognition program honors companies and nonprofits that give people compelling reasons to care about them, and offer inspiration for others to buy in",
-      "sourceUrl": null,
-      "webUrl": "https://www.wowt.com/prnewswire/2021/10/27/intuition-robotics-named-fast-companys-first-annual-list-brands-that-matter/",
-      "originalUrl": "https://www.wowt.com/prnewswire/2021/10/27/intuition-robotics-named-fast-companys-first-annual-list-brands-that-matter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WOWT.com",
-        "domain": "wowt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

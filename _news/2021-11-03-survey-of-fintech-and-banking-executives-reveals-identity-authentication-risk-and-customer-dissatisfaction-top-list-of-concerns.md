@@ -49,15 +49,6 @@ related:
         width: 768
         height: 1024
         isCached: true
-  - title: "New InsurTech100 Companies are Transforming the Insurance Industry, According to FinTech Global"
-    excerpt: "Analysts and industry experts selected this year's 100 from a screened list of over 1,400 companies produced by FinTech Global, a specialist research firm. Companies were recognized for their innovative use of technology to enhance the customer experience or facilitate a potential step-change in efficiency or performance across the insurance value chain."
-    publishedDateTime: 2021-11-01T13:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-insurtech100-companies-transforming-insurance-industry-according-fintech-/2021/11/01/9481482.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Md0fe6SOXEHaqo5HaNn49UG8DRwbYHOH2+KuZfaiuUzXOLvd6qReOewNKmz0o9KjPVD2AM2Qt6S4On/ZHwalWo65auRNjypa+KhqAFlori9wa+TVp2xwrGtTFWgVEdlL7c7SOOfr7iQhks2SpXBh9UmN1PdNtOkbmEdAkkBc7ZUn7wg9pntcHkZTxcPjjEsf+AOUe/itahPY5wwtMPUV4YVYU02ejW/n+bJyn91B31TVE8/EFfqtuuU+dDgQc0i8Rl8a+Sq3zE5CdS+1pE5EspUHzKvoTiQFy8AvsKaDj5uqExDTMgINQQyZhNj80i24eB6JhbAitbmp7YQM4SVRirZJ4ggJpd6mCN4EjzyB3Qc=;ku517Dd517y5YBZW+cTGEw=="
 ---

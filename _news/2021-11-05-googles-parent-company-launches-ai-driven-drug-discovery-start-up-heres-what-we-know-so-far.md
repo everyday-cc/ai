@@ -37,7 +37,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 89
+    quality: 189
     images:
       - url: "https://www.cnet.com/a/img/BLQLT7e8qsxx3tLRBPtY0jSKrY8=/1200x630/2021/11/04/117bf529-9fcc-40c5-9e37-f3a6a80a18a1/gettyimages-1290225107.jpg"
         width: 1200
@@ -123,6 +123,80 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Google parent launches new company that uses AI to create new drugs"
+    excerpt: "Google's parent company Alphabet said it has launched a new company called Isomorphic Labs in the UK. The company plans to use artificial intelligence (AI) software to create new drugs and medicines and will build on research carried out by another Alphabet subsidiary DeepMind."
+    publishedDateTime: 2021-11-05T12:11:00Z
+    webUrl: "https://inshorts.com/en/news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/5_fri/img_1636112648756_603.jpg?"
+        width: 1080
+        height: 607
+        isCached: true
+  - title: "Alphabet’s DeepMind forms AI drug discovery unit Isomorphic Labs"
+    excerpt: "Google parent Alphabet has drawn on its DeepMind artificial intelligence division to form a drug discovery unit that"
+    publishedDateTime: 2021-11-05T09:27:00Z
+    webUrl: "https://pharmaphorum.com/news/alphabets-deepmind-forms-ai-drug-discovery-unit-isomorphic-labs/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 54
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2021/07/AlphaFold-605x340.jpg"
+        width: 605
+        height: 340
+        isCached: true
+  - title: "Alphabet has a new drug discovery company building on DeepMind’s AI chops"
+    excerpt: "Isomorphic's CEO said the company plans to use computational AI methods to “reimagine the whole drug discovery process.\""
+    publishedDateTime: 2021-11-04T15:00:00Z
+    webUrl: "https://www.statnews.com/2021/11/04/alphabet-launches-drug-discovery-company-building-on-deepmind/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 53
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2021/11/AdobeStock_211444725-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Alphabet launches AI drug discovery venture built on DeepMind's protein-folding expertise"
+    excerpt: "The new Isomorphic Laboratories aims to deliver an “AI-first approach” for tackling biopharma research, with the goal of serving as a commercial partner to drugmakers."
+    publishedDateTime: 2021-11-04T18:58:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/alphabet-google-ai-drug-discovery-deepmind-protein-folding"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 47
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1636052397/GettyImages-867159754.jpg/GettyImages-867159754.jpg?VersionId=Wz.7bs13f3QJMcVV_ZH80QowTKRNr2f8"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Google's parent company launches venture to discover drugs with A.I."
+    excerpt: "Alphabet, the parent company of Google, is launching a project in Britain that will use artificial intelligence software to \"reimagine\" the process of discovering new drugs and medical treatments."
+    publishedDateTime: 2021-11-05T13:21:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 44
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6701636113799/2021/1/e5ff4bc64d822c9b64bb6926c376ca19/v1.5/Googles-parent-company-launches-venture-to-discover-drugs-with-AI.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Model Medicines Raises $4.1 Million to Discover and Advance Therapeutics Using its AI Drug Discovery Platform"
     excerpt: "Model Medicines, the pharmatech company working to transform the drug discovery and development process and accelerate the creation of life-changing drugs using artificial intelligence and machine learning,"
     publishedDateTime: 2021-11-03T12:23:00Z
@@ -142,6 +216,6 @@ related:
       domain: sify.com
     quality: 19
 
-secured: "a5ZjhzgtoK+knkqP1l7Uzk4R0HuBopGGgTp6CshX87mD3nVtj1fb2nVfd2NZemuWV3JzRA3e4E86hreEA5n1zGmYm8qJuAnUsMD2uZ/IUqk9TbfIZjlkgIVZ9Gm+2vvb6ZU0tAoBngDOgFJIll7v72ViwMv+aFS93hzE8HAu4zSbtzRkApRFyKFKHouUyRXjT7SZX9OKaFxGj9TxAHzn1QmSDBFvAY5JZm4ZSiu6VbRItYKaRok8MXM2OtO6cIQXuJbOeS7eq1JQpvxWknT719Gb8KOxHgrIatWBATgUKJU07FeZNYMCEStcb/oiMgTff06HUAzDzRy2yFMHY0wjkmtmtXXLzMgh+43mbsBTLb8=;lUiTVgPBTlOG+PeWp4YYcw=="
+secured: "DfX3J8K6If9ejwQfQ3rkpHRnV5EFqplIglXVXAJ7ykvkGUQEuLiqxWraS3Xtnb10QWhsMtFK/zdrjFTAuOqqhMaLQeCMbeEHcL8ogWnAEtCfh/vWoM3wGtSn7Hx1tP5dZSKyhH0XaOPqb1B/EjDETFA94975xJhxUMmgM5ycNSNPyAYESClxpBPHosUByKbBOdpimDnI1nolba3YQMhxJqBYDuwQuyFuGLmutyyK7dbQ+kzqWr6DLcX6BWQLG+9nWcBeUmwUSWfxGyubDDGWcgEuHwkrjEeMB61fUSYIF7JAcaT7uh3yyHEYTNVMUvihQgCIQW2vYK2W7eMvV+0H5e7sbMzelih3Sz+Qiq9wTPlSIoeckH/dqR5RYF5ak8+NklhlrlUqoSV1ele+rj0Bb3XZYIv+MGpfQWDIihCvAujmt/dl8mr6jYwBee4pKcQp+ldyuS/FNWNrMLexaAV2RZz2FoZFEI4dJ/53uffCt4fss7CTEBTW5J5THlr0mJ05eNlTpGEH1didfHJ6GSuLZA==;rX1TWluxGKBFMaOp+pDWKg=="
 ---
 

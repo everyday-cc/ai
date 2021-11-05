@@ -403,6 +403,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-01-sonrai-security-joins-microsoft-intelligent-security-association-sonrai-dig-listed-as-preferred-solution-on-microsoft-azure-marketplace.md",
+      "title": "Sonrai Security Joins Microsoft Intelligent Security Association; Sonrai Dig Listed as Preferred Solution on Microsoft Azure Marketplace",
+      "excerpt": "Sonrai Security, an established leader in enterprise cloud security, strengthens its relationship with Microsoft by joining the Microsoft intelligent Security Association (MISA) for integrations with Microsoft Azure services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20075238.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20075238.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-how-leaders-in-security-observability-and-innovation-master-cloud-complexity.md",
       "title": "How Leaders In Security, Observability And Innovation Master Cloud Complexity",
       "excerpt": "As organizations adopt microservices architectures, multiple public clouds and more, complexity will only increase.",
@@ -1393,40 +1437,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-happiest-minds-technologies-happiest-minds-included-in-now-tech-robotic-process-automation-services-analyst-report.md",
-      "title": "Happiest Minds Technologies: Happiest Minds included in Now Tech: Robotic Process Automation Services analyst report",
-      "excerpt": "SAN JOSE, Calif., LONDON and BENGALURU, India, Oct. 19, 2021 /PRNewswire/ -- Happiest Minds Technologies Limited (NSE: HAPPSTMNDS), a 'Born Digital. Born Agile', Mindful IT Company, today announced",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54238133-happiest-minds-technologies-happiest-minds-included-in-now-tech-robotic-process-automation-services-analyst-report-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54238133-happiest-minds-technologies-happiest-minds-included-in-now-tech-robotic-process-automation-services-analyst-report-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

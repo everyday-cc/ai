@@ -91,6 +91,20 @@ related:
         width: 751
         height: 526
         isCached: true
+  - title: "Tesla's 'Full Self-Driving' Gets Mixed Reviews"
+    excerpt: "The software includes a suite of driver-assist features that are designed to enable cars to drive themselves in the future."
+    publishedDateTime: 2021-11-05T13:36:00Z
+    webUrl: "https://www.entrepreneur.com/article/395624"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1636119342-GettyImages-1052193504.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Tesla issues software recall for glitch in ‘Full Self-Driving’ software"
     excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
     publishedDateTime: 2021-11-02T13:09:00Z

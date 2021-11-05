@@ -29,31 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Sama taps into $70M to build ‘first end-to-end AI platform’ for training data"
-    excerpt: "Enter Sama, a company providing high-quality training data that powers AI technology applications. CEO Wendy Gonzalez said the company is developing the first end-to-end AI tool for training data through machine learning."
-    publishedDateTime: 2021-11-04T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/04/sama-taps-into-70m-to-build-first-end-to-end-ai-platform-for-training-data/"
-    ampWebUrl: "https://techcrunch.com/2021/11/04/sama-taps-into-70m-to-build-first-end-to-end-ai-platform-for-training-data/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/sama-taps-into-70m-to-build-first-end-to-end-ai-platform-for-training-data/amp/"
+  - title: "Why Is Yoshua Bengio Betting On This Newly Launched AI Governance Platform?"
+    excerpt: "This growing need for independent validation requires the same attention and investment used to build models themselves. This is how to responsibly build AI.”"
+    publishedDateTime: 2021-11-02T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/why-is-yoshua-bengio-betting-on-this-newly-launched-ai-governance-platform/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1301104653.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Armilla_AIM.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "CDPQ leads US$70 million financing round in Sama, an AI training data platform"
-    excerpt: "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training"
-    publishedDateTime: 2021-11-04T13:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cdpq-leads-us-70-million-financing-round-in-sama-an-ai-training-data-platform-1030937439"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
 
 secured: "+IDf1RnbURAMGNUh2nB6zftGSTm5Gu1KAWoF/qqhwlL//LyQsHaeobeJ93x6JzqQgShGc9uDbfEkOIOa0k4tckJjFfa+wVK/nWkhctzKJTIgJPwRkz609HANd3lBQAI1RREnkDZTnPHnTQ/DlTc/LIa6BGMFU0fFvwGvRfWJaFimC3uecOuhv3IH5xqaxSpdZMXkClPD6Jd88o5cfUs4LCTjIS7xjJOnPAU8U8hEVr92yhRn++zwQQ/s8O8ggMzkHDl5zGZkCSvzn4YQrdSKh8CdrcGFv5WRd47PAaRiBq3Vs3icPBItd6cTuIluuwKdd4YkTGAyC88iYTeH+4S9XMpvGLUkcekLWspcO0NwpMH+E978dKfyYg2MFr8JcWRQeQZvoWK7iLBBY/bSq7MnbNSP3rlq6w3v8XuXHYRADZHtXuCQsvvd4Uy/TsfIHMmp1DTwn4WsboJz0G2+X2CmbI/jx9B3FpGbq49QYf1qTsruWI8rVRnrYJIFcINAjRGGRgIgteEgfURJCZtkH8B3bQ==;Y/DEHpA2NlGBg+dfpN9H3w=="
 ---

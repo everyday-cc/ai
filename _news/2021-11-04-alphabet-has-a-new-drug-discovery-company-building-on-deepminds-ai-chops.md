@@ -25,33 +25,118 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind takes next step in robotics research"
-    excerpt: "MuJoCo's free availability will have a positive impact on the work of scientists who are struggling with the costs of robotics research."
-    publishedDateTime: 2021-10-31T22:40:00Z
-    webUrl: "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/"
-    ampWebUrl: "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/"
+  - title: "Alphabet launches Isomorphic Labs, an AI-driven drug discovery startup"
+    excerpt: "The new venture plans to partner with biomedical and pharmaceutical companies, using artificial intelligence to discover new medicinal advancements."
+    publishedDateTime: 2021-11-04T17:40:00Z
+    webUrl: "https://www.cnet.com/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
+      name: CNET
+      domain: cnet.com
+    quality: 189
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all"
+      - url: "https://www.cnet.com/a/img/BLQLT7e8qsxx3tLRBPtY0jSKrY8=/1200x630/2021/11/04/117bf529-9fcc-40c5-9e37-f3a6a80a18a1/gettyimages-1290225107.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Alphabet creates DeepMind offshoot focused on using AI for drug discovery"
-    excerpt: "Alphabet has created a new subsidiary called Isomorphic Labs that will focus on using AI processes to develop new drugs. An offshoot from Deepmind, another AI subsidiary of Alphabet, the idea for Isomorphic Labs came after Deepmind's AI system AlphaFold 2 solved a 50-year old protein folding challenge by predicting the 3D structure of a protein directly from its amino acid sequence to atomic-level accuracy."
-    publishedDateTime: 2021-11-05T00:36:00Z
-    webUrl: "https://www.zdnet.com/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
+  - title: "Alphabet lets AI take the lead role in new drug discovery startup"
+    excerpt: "DeepMind produced a stunning advance in scientific research, demonstrating how its artificial intelligence could be used to predict 3D structures of unique proteins in a solution to a 50-year science problem."
+    publishedDateTime: 2021-11-05T04:50:00Z
+    webUrl: "https://newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/"
+    ampWebUrl: "https://newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/?amp=true"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/ec422cd/2147483647/strip/true/crop/1212x808+114+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb1%2F32%2F4ccee0d441f598489215b11648b4%2Fscreen-shot-2020-12-01-at-12.05.59%20pm.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Isomorphic Labs is Alphabet’s play in AI drug discovery"
+    excerpt: "The field of drug discovery has been supercharged by the capabilities of AI, which several companies have applied in various ways to turn an enormous practical problem into a tractable information problem."
+    publishedDateTime: 2021-11-04T18:06:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/isomorphic-labs.png?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Google parent launches company dedicated to drug discovery."
+    excerpt: "The new company, called Isomorphic Labs, will build on recent research from DeepMind, a London-based artificial intelligence lab also owned and operated by Alphabet. Demis Hassabis, the co-founder and chief executive of DeepMind, will also serve as chief ..."
+    publishedDateTime: 2021-11-04T16:45:00Z
+    webUrl: "https://www.nytimes.com/2021/11/04/business/google-alphabet-drug-discovery.html"
+    ampWebUrl: "https://www.nytimes.com/2021/11/04/business/google-alphabet-drug-discovery.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/business/google-alphabet-drug-discovery.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Alphabet launches AI company to discover new drugs"
+    excerpt: "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind to “to accelerate drug discovery,"
+    publishedDateTime: 2021-11-04T18:22:00Z
+    webUrl: "https://www.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+    ampWebUrl: "https://amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/499debf2-4643-449c-83e4-20a532624bbd"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F463bd0de-eb85-4249-b398-c91c95e746de.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Alphabet launches AI-driven drug discovery startup"
+    excerpt: "The new venture also plans to partner with biomedical and pharmaceutical companies, using artificial intelligence to discover new medicinal advancements."
+    publishedDateTime: 2021-11-05T10:17:00Z
+    webUrl: "https://www.thestatesman.com/technology/alphabet-launches-ai-driven-drug-discovery-startup-1503022919.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/alphabet-launches-ai-driven-drug-discovery-startup-1503022919.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/alphabet-launches-ai-driven-drug-discovery-startup-1503022919.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 59
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/11/iStock-1035004756-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Google parent launches new company that uses AI to create new drugs"
+    excerpt: "Google's parent company Alphabet said it has launched a new company called Isomorphic Labs in the UK. The company plans to use artificial intelligence (AI) software to create new drugs and medicines and will build on research carried out by another Alphabet subsidiary DeepMind."
+    publishedDateTime: 2021-11-05T12:11:00Z
+    webUrl: "https://inshorts.com/en/news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/5_fri/img_1636112648756_603.jpg?"
+        width: 1080
+        height: 607
+        isCached: true
   - title: "Alphabet’s DeepMind forms AI drug discovery unit Isomorphic Labs"
     excerpt: "Google parent Alphabet has drawn on its DeepMind artificial intelligence division to form a drug discovery unit that"
     publishedDateTime: 2021-11-05T09:27:00Z
@@ -80,20 +165,56 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Fresh Patches For Your DeepMind 12"
-    excerpt: "Robust American Patches tell us that they have released Volume I for the DeepMind 12. They tell us that nearly every patch in this collection of 74 has extensive velocity, modwheel and aftertouch assignments."
-    publishedDateTime: 2021-11-05T01:02:00Z
-    webUrl: "https://sonicstate.com/news/2021/11/05/fresh-patches-for-your-deepmind-12/"
+  - title: "Google's parent company launches AI-driven drug discovery start-up; here's what we know so far"
+    excerpt: "Google's parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery, The new company, called Isomorphic Laboratories, will leverage the success of DeepMind,"
+    publishedDateTime: 2021-11-05T10:01:00Z
+    webUrl: "https://www.freepressjournal.in/world/googles-parent-company-launches-ai-driven-drug-discovery-start-up-heres-what-we-know-so-far"
+    ampWebUrl: "https://www.freepressjournal.in/amp/world/googles-parent-company-launches-ai-driven-drug-discovery-start-up-heres-what-we-know-so-far"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/world/googles-parent-company-launches-ai-driven-drug-discovery-start-up-heres-what-we-know-so-far"
     type: article
     provider:
-      name: Sonic State
-      domain: sonicstate.com
-    quality: 39
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 47
     images:
-      - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/35178_378.jpg"
-        width: 720
-        height: 405
+      - url: "https://images.assettype.com/freepressjournal/2021-11/de6df62a-0425-4a8c-a531-7a405e71a489/blah__56_.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Google's parent company launches venture to discover drugs with A.I."
+    excerpt: "Alphabet, the parent company of Google, is launching a project in Britain that will use artificial intelligence software to \"reimagine\" the process of discovering new drugs and medical treatments."
+    publishedDateTime: 2021-11-05T13:21:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 44
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6701636113799/2021/1/e5ff4bc64d822c9b64bb6926c376ca19/v1.5/Googles-parent-company-launches-venture-to-discover-drugs-with-AI.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Model Medicines Raises $4.1 Million to Discover and Advance Therapeutics Using its AI Drug Discovery Platform"
+    excerpt: "Model Medicines, the pharmatech company working to transform the drug discovery and development process and accelerate the creation of life-changing drugs using artificial intelligence and machine learning,"
+    publishedDateTime: 2021-11-03T12:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/model-medicines-raises-4-1-million-to-discover-and-advance-therapeutics-using-its-ai-drug-discovery-platform-1030931720"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
+  - title: "Google's parent company launches AI-driven drug discovery start-up"
+    excerpt: "Googles parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"
+    publishedDateTime: 2021-11-05T09:31:00Z
+    webUrl: "https://www.sify.com/movies/googles-parent-company-launches-ai-driven-drug-discovery-start-up-news-bollywood-vlfj5ugeiggfe.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
 
 secured: "u07t2H91qY50ibBmFUjHdFKdGPbM8p8AjDCFm128aIzrGOEYX4uW+21nQ0gXoeqmS3ZWNIGtXYnCq+kZyQIpfLIxU/k6O1WFJNP5ZxQaVMovJ7xaYY8bN0rQJzmWLZjxF3hzbrDp8Q6bZ50a3YqQUM7rYoOjZSGRM6ZpwPZrB4V42zpnDLgto+k7zlKRMoNq2KpRjjdsUNMOuI/3s6XwhKLC56Mqtbh0I3D32h3W00yJhYetQ9WpblFV2BxxCUFFA3lZsivwyrzKA9zWErdbRgpki4v3Rb/ADdgGKeZTVLQDeBkQWEcYBTxpPGPmH0mPGQfL4eAkKLkS218mS/BKZjkSv08sIIHW7wHPqsqc4PyKY73kdPjouDIEmctG45iCq07dqD7bd6ZqRWLksTaH5GzifivcTP7Uvgeaoj++2avXtsCcR2ONZfpbWHOO26s+taIRHw5wFx0Ntj9+25bjgfLRaXUkwCiwsLNXlbyOD4ar92T85lZdT7eXypDIonMtLbHZxI8zcYWQd5CN7g8XMg==;nMvXRJwQEPa2jASngXcarg=="
 ---

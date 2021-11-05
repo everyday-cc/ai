@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterf
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182466-fintech-firm-betterfin-acquired-by-cross-river-bank/amp/"
 type: article
 quality: 59
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Fintech Lending Trends Benefit Small Businesses"
+    excerpt: "Disrupting the closed-club of legacy financial institutions and bringing alternative, tech-focused options into the mainstream is creating a new sector and also enabling more entrepreneurs to build and scale their businesses."
+    publishedDateTime: 2021-11-05T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efb5527222b100007dd1410%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Conversion Al: How It's Helping Banks Stay On Top Of The Fintech Industry"
     excerpt: "Artificial Intelligence continues to be a disruptive technology to the banking system. Over the years, banks and financial institutions have depended on this technology"
     publishedDateTime: 2021-11-04T17:51:00Z
@@ -59,6 +75,50 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "UK fintech launches ESG rating system based on UN’s Sustainable Development Goals"
+    excerpt: "Sevva is using the United Nations Sustainable Development Goals (UN SDGs) plus eight governance criteria, including client relations, risk assessment, and executive compensation, to provide the ESG assessment,"
+    publishedDateTime: 2021-11-01T12:00:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/socially-responsible-investing/uk-fintech-launches-esg-rating-system-based-on-uns-sustainable-development-goals/361272"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 34
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0394_637713457958412194.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Imarticus Learning partners with BIMTECH to launch PGDMs in FinTech, AI & Data Science"
+    excerpt: "Imarticus Learning, a professional education firm, and Birla Institute of Management Technology (BIMTECH), a B-school with a rich heritage, have launched Postgraduate Diploma in Management (PGDM) courses with specialisations in FinTech and AI & Data Science."
+    publishedDateTime: 2021-11-02T18:54:00Z
+    webUrl: "https://www.dailyexcelsior.com/imarticus-learning-partners-with-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 31
+    images:
+      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2021/10/ICC-t20-worldcup-india.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Imarticus Learning partners with Birla Institute of Management Technology (BIMTECH) to launch PGDMs in FinTech, AI & Data Science"
+    excerpt: "The Post-Graduate Diploma Program will offer learners hands-on training and expert guidance, equipping them to tackle real business problems by applying their learnings Further adding to its extensive course portfolio,"
+    publishedDateTime: 2021-11-01T12:06:00Z
+    webUrl: "https://indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
+    ampWebUrl: "https://indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 30
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
   - title: "4 FinTech Tweets you should see!"
     excerpt: "FinTech companies like any other are now embracing social media to tell their stories, engage with their consumers, and leverage influence."
     publishedDateTime: 2021-11-01T09:03:00Z
@@ -73,6 +133,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "17 Fintech Trends You Should Know About: The Ultimate Guide"
+    excerpt: "The future of fintech looks bright, with AI, robotic process automation, smart contracts, DeFi, and virtual reality all on the rise"
+    publishedDateTime: 2021-11-03T09:16:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/17-fintech-trends-you-should-know-about-ultimate-guide"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/big-fintech-trends-to-watch.jpg.png?itok=LlX01M7a"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Benzinga Unveils Global Fintech Awards Finalists"
     excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will hold its 7th annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
     publishedDateTime: 2021-11-02T19:56:00Z
@@ -86,6 +160,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Mississippi Fintech is Innovating Small Business Lending with Brokers in Mind"
+    excerpt: "Bradley Tompkins, CIO, Vergent Vergent, a loan management software, is creating a space where brokers and lenders alike can manage all aspects of a deal in one place. Based in Ridgefield, Mississippi,"
+    publishedDateTime: 2021-11-03T18:52:00Z
+    webUrl: "https://debanked.com/2021/11/mississippi-fintech-is-innovating-small-business-lending-with-brokers-in-mind/"
+    type: article
+    provider:
+      name: deBanked
+      domain: debanked.com
+    quality: 21
+    images:
+      - url: "https://debanked.com/wp-content/uploads/2021/11/BradleyTompkins.jpg"
+        width: 500
+        height: 500
         isCached: true
   - title: "Here's which startup won Fintech Frontier's latest pitch contest"
     excerpt: "A Texas-based startup claimed the top prize in Fintech Frontier's latest pitch competition. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in Fintech Frontier's latest pitch competition as part of StartupCincy Week."
@@ -105,20 +193,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
-  - title: "First-of-its-Kind Partnership Between Aviso Wealth and Mako Fintech Brings Digital Onboarding to Canadian Advisors and Investors"
-    excerpt: "Mako Fintech, a financial technology platform that automates wealth management processes, announced today it has been selected by Aviso Wealth as the preferred digital onboarding solution for its correspondent and institutional business,"
-    publishedDateTime: 2021-11-03T12:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=558379"
+  - title: "New InsurTech100 Companies are Transforming the Insurance Industry, According to FinTech Global"
+    excerpt: "Analysts and industry experts selected this year's 100 from a screened list of over 1,400 companies produced by FinTech Global, a specialist research firm. Companies were recognized for their innovative use of technology to enhance the customer experience or facilitate a potential step-change in efficiency or performance across the insurance value chain."
+    publishedDateTime: 2021-11-01T13:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-insurtech100-companies-transforming-insurance-industry-according-fintech-/2021/11/01/9481482.htm"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "1Z7beK2zHkbj5JLW4a7r1uQyOoLOwKgjYD925ED0hYRQFvsVBRdUFTGJMvgrQAM7x5Q3t83jBJ7crOuFJJUz53z/52JaaTtf2Pi3u+W7UUh44ZD+ylrOaWOIXRCbaZ79jL7hoziJDLXI3MDQz+pfbJZLJG26t5PpsqcHQR2gcspHJsNO87QJyqwaBUXue3w8k0xASEFP9pvo5NNZHpHl1+Dpas5/yIES5S/j9kyhixcuBXQorJYk68IUWfAnG/BPJifSLPQ//jmNqXGFffD8uGAliXm+5dzU6SQbqNxNbDi+Kem2zPsxgcjfr3h157mn/8VnIfhFOESVdB+/wK5x2keIG/rfaqWnu3uU7ghdidxDSTUAOR1XqX16qE6k4wvKL1ZpMK8MgcpmRlr9ZM3XV5z6Ry8015McpcBAPJCcGKpOOPq6EvZBfwY6Yk887SzqiXjRH9qhhYsvB1y63eCpFauCgK2E1YYjZhCAj+lLMlDAf+D6SrBYyLMpfrHEag7eidjQBXxHQW8eXkPUm2gRng==;ltvufZM25HWq3vSgZKbn1w=="
 ---

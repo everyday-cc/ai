@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New InsurTech100 Companies are Transforming the Insurance Industry, According to FinTech Global"
-    excerpt: "Analysts and industry experts selected this year's 100 from a screened list of over 1,400 companies produced by FinTech Global, a specialist research firm. Companies were recognized for their innovative use of technology to enhance the customer experience or facilitate a potential step-change in efficiency or performance across the insurance value chain."
-    publishedDateTime: 2021-11-01T13:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-insurtech100-companies-transforming-insurance-industry-according-fintech-/2021/11/01/9481482.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Survey of Fintech and Banking Executives Reveals Identity Authentication Risk and Customer Dissatisfaction Top List of Concerns"
     excerpt: "AUID], a leading provider of secure, mobile, biometric authentication, today announced the findings from a survey conducted during the fintech industry conference Money 20/20. More than one-third of respondents indicated they are “highly concerned” about the risks associated with one-time passwords (OTP) and knowledge-based authentication (KBA),"
     publishedDateTime: 2021-11-03T16:46:00Z

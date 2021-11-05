@@ -1,25 +1,20 @@
 ---
 category: news
 title: "CDPQ leads US$70 million financing round in Sama, an AI training data platform"
-excerpt: "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training"
-publishedDateTime: 2021-11-04T13:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cdpq-leads-us-70-million-financing-round-in-sama-an-ai-training-data-platform-1030937439"
-webUrl: "https://markets.businessinsider.com/news/stocks/cdpq-leads-us-70-million-financing-round-in-sama-an-ai-training-data-platform-1030937439"
+excerpt: "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training to power AI applications and to develop the first end-to-end AI platform to manage the complete AI lifecycle The company has approximately 40 employees in Montreal where it intends to strengthen its presence with a research and product development hub MONTRÉAL,"
+publishedDateTime: 2021-11-04T14:35:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-canada-montreal-8e7928684b9df0a642dc179d2c054258"
+webUrl: "https://www.prnewswire.com/news-releases/cdpq-leads-us70-million-financing-round-in-sama-an-ai-training-data-platform-301415882.html"
 type: article
-quality: 45
-heat: -1
-published: false
+quality: 113
+heat: 133
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Hardware
   - AI
 
 related:
@@ -39,21 +34,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Is the best practice for Enterprise AI to keep ModelOps independent from data science in both practice and platform? PART 1"
-    excerpt: "In the Enterprise, there is currently a lot of focus on operationalizing AI. Numerous organizations report debilitating challenges getting their data science-based models out of the Business Units, where most data science model development takes place,"
-    publishedDateTime: 2021-11-02T18:17:00Z
-    webUrl: "https://www.linkedin.com/pulse/best-practice-enterprise-ai-keep-modelops-independent-stu-bailey"
+  - title: "San Francisco AI startup Sama eyes Montréal R&D expansion with $70 million Series B round"
+    excerpt: "Sama, a San Francisco-based AI training data firm, plans to grow its headcount in Montréal to 300 employees by 2023 to support its platform development goals."
+    publishedDateTime: 2021-11-04T13:00:00Z
+    webUrl: "https://betakit.com/san-francisco-ai-startup-sama-eyes-montreal-rd-expansion-with-70-million-series-b-round/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 13
+      name: BetaKit
+      domain: betakit.com
+    quality: 28
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFFP5ipi_IJbQ/article-cover_image-shrink_720_1280/0/1635875692048?e=1641427200&v=beta&t=4XDuiflhvv5hctF2cA_BSemAdoZ-NKd4XGhxH-JsG2w"
-        width: 1280
-        height: 672
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/11/Wendy-Gonzalez.jpg"
+        width: 1050
+        height: 700
         isCached: true
 
-secured: "QQFYfOrZcQHAdhO5FJobzXsN4cTK9QwW3qHKSypqvCEorU14Wpo68g1ONq1a3enuUZ+S0jcTtQbhFkx1rDmPRQ3QdeDEUoXTEHebs7p5e6n/wO+nXm0ogEQPVC/BDxQ4SFjQ1yVqmyP8Xxszp/2ryfmarBAPIMei+6ChtGSPb7/yGtowDkv8oLkOK0U9/01fCgrt4KlvFPSIVRJZCQ27PtnK6NSVaeGpnzTHBjLsfFf1ReuQlaFpNfm8KGp8PkbPXhmbSbDz0bl6Ff+TsbLkbWfckR+wjoJCqzpxzy1CNgv/bFqmppN0R3HwV9klakOgtoaVbYxu9ETouc5Q03jOASZLevyPDUHqTdmfuFVtgqA=;BnKh8om0OH+2goe6VFOP5A=="
+secured: "/8gSx1QBXs4HYsAvATpTA3ji+AbKvviP+t93NT+vMiGm8kFe1A2odnMmNXh5bMVPxCnOp4vCddsteVDAoHqna+kMB/T/26k01jZpqqkoZp3DAY59lh1n3pX+uGyzbYO5Uj14xZQFPUOmEjxIpb1W/u1w8dxKPZXBd18Dhob4m8k/BDpHJvXzYroDZGLlxol2P+lj2unEPPrJaM74fGZRmE1l7fl0ob5LXxC6Pj9qZqqZq4oybK/Ie2UoHp4FtxqST7h2FsrT+ugQdGmbZsqouuzjCf9lxj+yY1B0tJvFiWHoIwkzAVLO6vn6OXsxFYgT2v1VB64JmI0YfEYlVjChpJc6GKluGUCFInyT6LqQaSM=;DiOuUA//nC9U9gDeuItxVQ=="
 ---
 

@@ -1,47 +1,22 @@
 ---
 category: news
 title: "The Coming Convergence of NFTs and Artificial Intelligence"
-excerpt: "Building AI capabilities into the lifecycle of NFTs opens the door to forms of intelligent ownership, says the CEO of IntoTheBlock."
+excerpt: "The first generation of NFTs has focused on key properties such as ownership representation, transfer, automation as well as building the core building blocks of the NFT market infrastructure. The hype in the NFT market makes it relatively hard to distinguish signal versus noise when even the most simplistic form of NFTs are able to capture incredible value."
 publishedDateTime: 2021-10-25T18:43:00Z
-originalUrl: "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/"
-webUrl: "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/"
+originalUrl: "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25"
+webUrl: "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25"
+ampWebUrl: "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25?amp"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: CoinDesk
-  domain: coindesk.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.coindesk.com/resizer/337Dm4j0iUQkmYa0l8YD8QPsAXQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LANV5ORSRJAIRN7KPVV7V2ZCDE.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-related:
-  - title: "The Data Conversation: Communicators As AI Champions"
-    excerpt: "We can better explain AI to everyone by focusing more on the data, its transformation and its outputs and less on models."
-    publishedDateTime: 2021-10-26T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "w1KsaYbIKpRwOOy1egWv1c5O5TgqVN1uNmiQ+zxh8FCxMznaIx78A6K+lDKPgmTFN4lzAHXuSw4XhQJ7EibTOagZqlZK1OFYVaKwNKMwqeQNU8YhDk21u3r9wowca6N6aAQPg88LT88hgY+Oik99U+wWPt5bf5soVYD6YVlKbxBUwATNt7kvgQf2ocVFbuKllbE0J8VaIa7Fu0kNt/LVFdvlMP/9wEnPdiQzqYuXbLOKgF0U4Nzb2kRZWxjNqf84LIqufXXcnqyWW9ffOtMjnEDsMCIbVoqlCAwcWBe4+2t2oKWFTwhHqYXUSzkItVKQbEIyPjm2b66uD+b3AKY0Xk4IM3kjdO5e0JmwDIdEqE0gh2t0Efek01AnrQLvFwtl4vZK7kQxf+IIXRqhpQjD7ZB8Ik7zLU1SlUBaa0VVXF7/NOhJpGMzCGkspMRO3XJjUsltNLlVMevR1jxJ19sVIg33VmoMCmwAL6DgO23YFdcaigtLO6CfmbowTbbu7Pc75vWjEXdb/ubHJ/7Pc7cMtw==;0TgAVf29ioNzXa9OYNATDQ=="
+secured: "RW1U2ePe5Yhp7E1jl1Df+XXPzu+sH+vjoojsx1sS3TDbLShwgxO02sr17GjGQomjLOFX1rRZS1NrquEYfS7Fr7yrG/AWmjrKp5dyywlwHlWMSwbGi2FQeFpTKTdWM5vziwMpXeEKJkbzKEBtmkkBjm4vOsEwDldEEaMr0up1qENWAYHXqVMimxQbzAIKXgB1nSw9nE1WUVS2R1PcVuRLHP/dkVkeFUOdut830beV9gd3cv7XmQsvIAQo2KsfyXGz9G2i30sF0L00MzSZXYeBjQjp7xIypIH65mwnsCfaPSeoSFgLohPl6ES+w/949zNjpsaCk0O6LD4XxtNJUFTUwTrSu/I4yf9dMvLqL31l7aJJpT1/RLjqPogjlr0TzlgJSJrBuBi5ufAFtcOdSNkPapyFMNhiVPeh+rvd1zGeq62GEKzt9yO2bAS6WvGXoYeUVGXrOV4fsevS4GdnmE5qr2CtgsgrMYIv26k+CovTkIIlBVtehJaBVGEPx49RKhkTGUyPOtuM8EVcKoLxP7/SRg==;jJJ/P2EZ5+OciSkx7tZQbg=="
 ---
 
