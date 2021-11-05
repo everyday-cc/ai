@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spok
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp"
 type: article
 quality: 59
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Toward Speech Recognition for Uncommon Spoken Languages"
+    excerpt: "The new Prune, Adjust, and Re-Prune (PARP) technique allows an advanced speech-learning model learn uncommon spoken languages more easily."
+    publishedDateTime: 2021-11-05T18:34:00Z
+    webUrl: "https://cacm.acm.org/news/256637-toward-speech-recognition-for-uncommon-spoken-languages/"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "j73Vv86wR3NrE21bzIOkxs4rBkn/NqW9arHiXuaosddDA9osRSnave6Yly5rSUfpKs1JLmTJBXqkSOkjMJnzQPQSTRCbMPJANll+rdTP4Oe8AXqN0UiXJPhlBqcWbvQe5Or9rc/QerNkd2dp2Qek0pOax4aqSIVIuLAhLSae52yvtfB7kPgwv7/WkiN/rByBwArXdlSfFsupXXzx/kIaLDf72ZOdILXDZdliqP+v4JUD36ZCwVUquyh9XWIKE/XdZa6FhIs1rtX6QlK9mhxmKb3fA9+dWe5o/qZUQKYUwq1yZUWYwn89RpoUI26b5L9JbskFTM9iX5uSbdnsnosbjXTmR0Yw0hwqu+CZAk8AJCuOJSIvnzJNqv7w+CSh9hvG+/fnV78y71XInniM1C16eS/jdoEgXeb8W5zN6cX6+CXoWlMimW3oc9MfTpf7Zkikk7RVGmFbqzWZMMEUvLSOjXB0ZfkUpweRmvbfQyVEfKAKw1xzfbPoDx/TUzQaU6UX3uSWaAMPJUfej7K5rwQ7jA==;MA/GSsXWPNe3yMq1vLKn/Q=="
 ---

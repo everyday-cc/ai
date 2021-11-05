@@ -819,20 +819,17 @@ related:
         width: 750
         height: 546
         isCached: true
-  - title: "Facebook to Shut Down Face-Recognition System, Delete Data"
+  - title: "Facebook to shut down face-recognition system, delete data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T21:34:00Z
-    webUrl: "https://www.snopes.com/ap/2021/11/03/facebook-to-shut-down-face-recognition-system-delete-data/"
+    publishedDateTime: 2021-11-03T17:38:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
     type: article
     provider:
-      name: Snopes.com
-      domain: snopes.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 24
-    images:
-      - url: "https://www.snopes.com/tachyon/2021/11/Facebook_Facial_Recognition_Shutdown_31952-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."
     publishedDateTime: 2021-11-02T21:27:00Z
@@ -852,6 +849,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "zeYY9Y+IbWdAyTuHkZ3JHiOBQJJYFl2piN/LDfLXt/fwJ99IMTZ2z2BrpcEnFCJznnvk1D4DMUIRWIcWuGnZO6bJTkcB0iklDv4W+tc2RYI9Xiam+igZF7q47bCkaqMTJGnHmFh/yoijCz7tDQTTIIWVS2kXn4bsf6rSA5gYVWfD8/GzUc1KuXf7h5AJ+aasILfUuhBXCKHHcQy6IQ7fQkszoblD3CJzHRwqo6imrt7W1pknWv3xYPy34qoaiCfG0B12WCr5Fxz96lotpDQmyBRlty6WetTPwaNTeSdK9ZL4liY49eb6MxnW/V5qhpPSYzM2XvMzJpIt/pMx4csilDyds0yRarF5q+DHPVbBfGc=;dvRxLls1AOCSBkt1AYSz9Q=="
+secured: "XwAX5ebvFH6+cXWDpVP2SVU/KWWWTRRZ7Nyvzd8oRoinFRtJNC/ZNlM+K7qQ8ASZ0khyqCmn9GmgnapONnHji1cg5jPzsK/QI8TWRIeGO83YTTmntsn93Mdkg2qOvp4FdwFrtHHcTXgMhyr9RIN3d1tcnDrT7oSyACcMkam3FhuH2kCIuFp17zirPinoYv+EwJDMi3Kf9msiziHjQsR45djUER91Cmfa+FZP6Kvfg6hslSM2s305bJW4ig+mN/0OgmhPVDNIOuNvhrRxttStI70Jbn/QrOtvPtU1br5A13MtlcC5w/4kdKb6jJwgfP2f31P6DO1dTsMKcg8dgqJ/P+/dB2PnXg+KXsOPdcZz+HeA5VZ9H4bGt/epI4hDZ2Q6SUIoP4JobJO4tBXDtPwt5IVHKN5PmAsKBJncrn75agR5NKjcSYOsGHAHBhF4iJopeI3zPHX/PyMS9SjcYhZpYz7e06JHgWe/h1mAGMQkZ892t7gBig4nRTaggd52/5bdeYe14As+jLf1AEqXHE4Xtg==;EgovXjQyGzyZdHG5MpB1eg=="
 ---
 

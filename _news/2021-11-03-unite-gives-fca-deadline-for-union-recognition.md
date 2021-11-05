@@ -69,6 +69,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Toward Speech Recognition for Uncommon Spoken Languages"
+    excerpt: "The new Prune, Adjust, and Re-Prune (PARP) technique allows an advanced speech-learning model learn uncommon spoken languages more easily."
+    publishedDateTime: 2021-11-05T18:34:00Z
+    webUrl: "https://cacm.acm.org/news/256637-toward-speech-recognition-for-uncommon-spoken-languages/"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "TXqAB3QzcYFsucZkfBDtmYLmGA0JM/N1tYsNYzGd5qLQVtR1bKnApN55/fWuDssJJlWeQanzoJ1qtUfVFSbfRRxmG07IodCm+Bry5neQzE0j5/N7qyVQl7/fEaXHFsQQNj0rD0GWD4uKS4EvsmgOJqqAHyMeYs3tNcNw1m5mz4g4jr9Nkyv/a1rG9jZ7ZFa5mhaCZTQct9hK3F1w6JrCh/jzdHW28BLiwC4uvIgWSpY4BM/HYbW++O0OOMweKtAtjdWGKaWWNb0k+gIurrQrMYWKij0/WwHE65/f/g2GlidjVDx888afug6D/JvMPgL9RRiOOuVMo8UgQ+A+UAMcLphtJyo+Q01bmvgK58lWdII=;X2Mv0noMuXL/rVutaNOqZA=="
 ---

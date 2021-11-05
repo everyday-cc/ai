@@ -227,6 +227,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Alphabet Introduces New AI Drug Discovery Company"
+    excerpt: "Isomorphic Laboratories, an AI-driven startup owned by Google parent firm Alphabet, announced plans to foray into drug discovery and development by tapping into the technology of its sister company DeepMind."
+    publishedDateTime: 2021-11-05T19:43:00Z
+    webUrl: "https://www.pharmalive.com/alphabet-introduces-new-ai-drug-discovery-company/"
+    type: article
+    provider:
+      name: PharmaLive
+      domain: pharmalive.com
+    quality: 37
+    images:
+      - url: "https://www.pharmalive.com/wp-content/uploads/2021/11/Alphabet-Introduces-New-AI-Drug-Discovery-Company-BioSpace-11-5-21.jpeg"
+        width: 625
+        height: 350
+        isCached: true
   - title: "Model Medicines Raises $4.1 Million to Discover and Advance Therapeutics Using its AI Drug Discovery Platform"
     excerpt: "Model Medicines, the pharmatech company working to transform the drug discovery and development process and accelerate the creation of life-changing drugs using artificial intelligence and machine learning,"
     publishedDateTime: 2021-11-03T12:23:00Z
@@ -236,6 +250,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Alphabet Launches AI Drug Discovery Spin-Off"
+    excerpt: "Demis Hassabis, CEO and co-founder of DeepMind, is the founder of Isomorphic Labs and will also serve as the company’s CEO."
+    publishedDateTime: 2021-11-05T18:44:00Z
+    webUrl: "https://www.fdanews.com/articles/205224-alphabet-launches-ai-drug-discovery-spin-off"
+    type: article
+    provider:
+      name: FDAnews
+      domain: fdanews.com
+    quality: 19
 
 secured: "wWvwiou/StWcnVXyhsJ59s5sFud4ThnDmvkjVCOOd/tdaol7awRFMbBW2ygHu/jfCBtnrZxTySaguOp5zISQG9iCfRhxyXwKH/oi0TpRetnTFDupRSGbrxoBG5pEtjCMqocZyRU0GafX1/J+ISHyR8qJHU6Lfd1fC5eftnQWRXjqua6q0Jk7+kzly5a6tJZs0SkGwEl50rgms6VumHwhlK5JAk4vsEf/Pip/v29MTHJc6JGqo5eEIbld1rZNXg+hQvAByghh3Hyj4SkNm61LtmIiXkRDmrci221Wjzn93BFVukFCxeA4OLdnco/0sC969pMFII6dnIID0TmH6VkDxdBr7aBauvuF6s+nlFwC6/vmsTRC1FHSwnD/3wNlSbL0p2pPZmqoS7JwEmqSectIH7t2IUUHxH3uzJ4N1jgoILB+/Q1P/wJWOmoBdLMGfUyYGwoTeEVEt3kMkOyzqnACbQM33/HeU4U3xwb+niVnlseAJgU+QRMtpcnKz3AfZTLLvA7CbN0A19lAmRk+Su00XA==;WNf4LzcNgbx1DPvKzLVc0A=="
 ---

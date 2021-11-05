@@ -820,20 +820,17 @@ related:
         width: 750
         height: 546
         isCached: true
-  - title: "Facebook to Shut Down Face-Recognition System, Delete Data"
+  - title: "Facebook to shut down face-recognition system, delete data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T21:34:00Z
-    webUrl: "https://www.snopes.com/ap/2021/11/03/facebook-to-shut-down-face-recognition-system-delete-data/"
+    publishedDateTime: 2021-11-03T17:38:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
     type: article
     provider:
-      name: Snopes.com
-      domain: snopes.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 24
-    images:
-      - url: "https://www.snopes.com/tachyon/2021/11/Facebook_Facial_Recognition_Shutdown_31952-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."
     publishedDateTime: 2021-11-02T21:27:00Z
