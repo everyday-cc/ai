@@ -36,6 +36,20 @@ related:
         width: 1400
         height: 775
         isCached: true
+  - title: "Artificial Intelligence Bolsters Colorectal Cancer Detection"
+    excerpt: "Artificial intelligence can detect and diagnose colorectal cancer equal to or better than pathologists by examining tissue scans."
+    publishedDateTime: 2021-11-04T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-bolsters-colorectal-cancer-detection"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Tulane University study uses artificial intelligence to detect colorectal cancer"
     excerpt: "A Tulane University researcher found that artificial intelligence can accurately detect and diagnose colorectal cancer from tissue scans as well or better than pathologists, according to a new study in the journal Nature Communications."
     publishedDateTime: 2021-11-02T19:17:00Z

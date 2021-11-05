@@ -757,25 +757,14 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 26
-  - title: "Facebook grilled by UK lawmakers making online safety rules"
-    excerpt: "British lawmakers grilled Facebook on Thursday over how it handles online safety as European countries move to rein in the power of social media companies. Facebook’s head of safety said the tech giant supports regulation and has no business interest in providing people with an “unsafe experience."
-    publishedDateTime: 2021-10-31T10:54:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
   - title: "Facebook ending its system of facial IDs"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T07:29:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+    publishedDateTime: 2021-11-03T07:27:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
     quality: 24
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199814388_4D1facebook1103_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"

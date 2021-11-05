@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-10-17-support-scientific-interest-with-a-price-drop-on-this-comprehensive-robot-arm-kit.md",
+      "title": "Support scientific interest with a price drop on this comprehensive robot arm kit",
+      "excerpt": "The robot arm kit is perfect for those interested in AI engineering and related endeavors. The educational kit allows users to explore robotic technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/support-scientific-interest-with-a-price-drop-on-this-comprehensive-robot-arm-kit",
+      "originalUrl": "https://thenextweb.com/news/support-scientific-interest-with-a-price-drop-on-this-comprehensive-robot-arm-kit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FTNW-Robo-Arm-Kit.jpeg&signature=0cdb2c47927c81dc73cb1f2ceb6f9387",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-17-facebook-says-ai-will-clean-up-the-platform-its-own-engineers-have-doubts.md",
       "title": "Facebook Says AI Will Clean Up the Platform. Its Own Engineers Have Doubts.",
       "excerpt": "AI has only minimal success in removing hate speech, violent images and other problem content, according to internal company reports. It can’t consistently identify first-person shooting videos, racist rants or gruesome car crashes.",
@@ -1048,49 +1100,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-how-ai-could-bridge-the-linguistic-inclusion-gap.md",
-      "title": "How AI could bridge the linguistic inclusion gap",
-      "excerpt": "Thoughtworks’ Data and AI Practice examined how Natural Language Processing (NLP) could be used to create an automated translation service for clinical healthcare settings. NLP technology processes spoken or written language to enable conversations that feel natural — whether that’s text-based,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap",
-      "originalUrl": "https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/meta/insights/in_meta_blogs.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThoughtWorks",
-        "domain": "thoughtworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

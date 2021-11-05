@@ -2,17 +2,17 @@
 category: news
 title: "Facebook ending its system of facial IDs"
 excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-publishedDateTime: 2021-11-03T07:29:00Z
-originalUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
-webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+publishedDateTime: 2021-11-03T07:27:00Z
+originalUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
+webUrl: "https://www.nwaonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - Facebook AI
@@ -761,17 +761,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 26
-  - title: "Facebook grilled by UK lawmakers making online safety rules"
-    excerpt: "British lawmakers grilled Facebook on Thursday over how it handles online safety as European countries move to rein in the power of social media companies. Facebook’s head of safety said the tech giant supports regulation and has no business interest in providing people with an “unsafe experience."
-    publishedDateTime: 2021-10-31T10:54:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-google-twitter-face-grilling-by-uk-lawmakers/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
   - title: "Inside Google and Facebook’s ad empires"
     excerpt: "There’s a vigorous public debate about the benefits and serious trade-offs of the digital worlds that Google and Facebook have created. They seem less mythical and imposing when you know that their empires are built on selling us more socks."
     publishedDateTime: 2021-11-01T13:00:00Z
@@ -844,6 +833,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "WCw07wRDMssw2v9xITcpoi9+gTdsXUDQaxIdyQ8TESzjaYeZd/ml+YILyvefmXFcYRPnH0bG/w59Od6al7mu8ZgKv0VyZMybTIBrV4aWT5tufly5NP8dn/Pbu4d4d54a3Z9A1avWZj4GS/JRC4U5r7sQCrwelQzWycoI1Y2LlsewaJINSFBAk7Jjd7RENclKZ2a/BYF/tA8dhEb7eaTbbv1OIueoAKF1muxbqDz9MNEGd1dVtfRGVov3uvZL7RQxi0YWAmZcbxYVnQ3p1W5l5YmgLJltvAH8oqygjWMjqMG+EVcgSdhy+zohOdHRfNfDD+88mr+wL4iRt++XSTbvVGird4koBah57q3UEHYA568=;Dok/kU70xIw8rV9+PgkJvQ=="
+secured: "kBycN/o7q6SUp5JNK+WG05yDXuyLxvStstvoLwrsIUZbo5Czl/Mt3+rxI+llNTDyM6lz3BdTNmWkVUu0977CFTN9jK+AtvlvM7BVBbxqnuMR/sGBFE1P/w7fsq1sut1T54KLHI3aLkEdjFua8LnRNKe1W8RuUlLUyT81l7BZK6s/pZsTJqn/ah5vuNc7fOjUt8V/d5f5nW+E1GZMOunCCH2oKXIAdj/ICY5jftC7gmXhVKDyHfNV4czg/JrJjtFpB/j6y+QUwmvFmZGr1RSCsQJG/ThkLD5Lygla7nUzw+IG48tLq8unPv33S4aZbWLePppoUVCzOQsZY0TgM+Tb3oqkcwYq/o2HswZfaiGFn4k=;x+avPHWfPF3q+tqKn5h2CQ=="
 ---
 

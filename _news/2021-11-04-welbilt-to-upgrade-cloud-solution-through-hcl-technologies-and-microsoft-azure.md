@@ -39,15 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Welbilt KitchenConnect and HCL Technologies Join Forces to Offer a Secured Cloud Solution for The Food Industry Built Using Microsoft Azure IoT"
-    excerpt: "(NYSE: WBT), a leading provider of commercial foodservice equipment, announced today that it will integrate Microsoft (News - Alert) Azure Sphere to upgrade security in its KitchenConnect ® internet-connected equipment and will host the solution on Microsoft Azure through a new partnership with HCL Technologies (News - Alert)."
-    publishedDateTime: 2021-11-04T16:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-welbilt-kitchenconnect-hcl-technologies-jo-forces-offer-secured-/2021/11/04/9484530.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "A+OggzdzmZckO6XNM1Ra5oukHbc0O6lw8ljmpXtEWp6gvoEWezd/E+lXA6EskkmILJA+YyUN6Hp1fWoaAawFhwHE2o84zjZZsP1lj/CaantEx7CjoClinYeShao0bDB2OupQSaoGfAcwE+gImjWzvuis7Bq1ged+GhjN+ooc4vrYWa89VHuWNSoBJre+pUCygLOGM6sN7L1RpuxiVgH/mT6LzEdglm6XyHkuI7Hw2dt7bRUX3MKmi95+q5MEkJoo7M8FXJu0lw9qy/3N0sIAv3KfCagGWjx+LJUuYVXkdv7gIQdnyb8vXQcBJYH6T5p8VqK/i6zF0ECEVyLwt5BP0cdyOhUgS724Dlaw8qgO4eaVBcQN6rvvfBet+hdFwjcTv23qiiuHxFI16IV6UWFO62TVfHMZNz4Gonlmi0pfLueaMmn4wusKPg3bsCDHwSzDK80LNe4O7pPHYcCh1TmdZ0dxQmrj18659PleHCuNfFWyjx01mrECo39wTQmNodWP7KM9rk5BHL+3g7zkKEP/YA==;3V1RYxmCkw94LHjMREX3uw=="
 ---

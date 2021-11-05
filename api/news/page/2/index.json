@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-04-tencent-pushes-beyond-online-content-unveils-first-ai-chips.md",
+      "title": "Tencent pushes beyond online content, unveils first AI chips",
+      "excerpt": "Tencent has unveiled its first chips, showcasing a yearlong foray into silicon design as the Chinese tech giant seeks to grow beyond digital entertainment.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2021/11/03/1600x900/CHINA-GAMES-HUAWEI-TENCENT-HOLDINGS-2_1635926062591_1635926076330.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html",
+      "publishedDateTime": "2021-11-03T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-eric-schmidt-ai-is-not-ready-to-make-profound-decisions.md",
       "title": "Eric Schmidt: AI is not ready to make profound decisions",
       "excerpt": "Former Google CEO Eric Schmidt says reliance on artificial intelligence \"can create incredibly dangerous, incredibly destabilizing national security scenarios.\" MIT Dean Daniel Huttenlocher, who co-authored a new book on AI with Schmidt and Henry Kissinger,",
@@ -1141,58 +1184,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-11-02T14:28:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected.md",
-      "title": "Automate model retraining with Amazon SageMaker Pipelines when drift is detected",
-      "excerpt": "Training your machine learning (ML) model and serving predictions is usually not the end of the ML project. The accuracy of ML models can deteriorate over time, a phenomenon known as model drift. Many factors can cause model drift, such as changes in model features. The accuracy of ML models can also",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/22/ML-4030-image001.jpg",
-          "width": 1895,
-          "height": 1091,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T14:01:05-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

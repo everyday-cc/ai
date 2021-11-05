@@ -2,6 +2,57 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-09-27-14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency.md",
+      "title": "14 Smart Ways Businesses Can Leverage AI For Growth And Efficiency",
+      "excerpt": "From automating repetitive processes to forecasting to better serving customers and clients, companies can realize significant productivity gains and cost savings from the smart application of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e24dfe81f627517f55f01%2F0x0.jpg",
+          "width": 1200,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/",
+      "publishedDateTime": "2021-09-27T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-tensorflow-1x-vs-tensorflow-2-behaviors-and-apis.md",
       "title": "TensorFlow 1.x vs TensorFlow 2 - Behaviors and APIs",
       "excerpt": "Under the hood, TensorFlow 2 follows a fundamentally different programming paradigm from TF1.x. This guide describes the fundamental differences between TF1.x and TF2 in terms of behaviors and the APIs, and how these all relate to your migration journey.",
@@ -1104,49 +1155,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-26-3-ways-to-get-into-reinforcement-learning.md",
-      "title": "3 ways to get into reinforcement learning",
-      "excerpt": "AWS introduced DeepRacer in November 2018 as the “fastest way to get rolling with machine learning.” In December 2020, they had more than 10,000 competitors and a grand prize that included US$10,000 of AWS promotional credits. Don’t let the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/686379/3-ways-get-into-reinforcement-learning/?fpid=1",
-      "originalUrl": "https://www.reseller.co.nz/article/686379/3-ways-get-into-reinforcement-learning/?fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_m_113932028_learn_-_copy_1.jpg",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-26T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

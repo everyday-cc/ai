@@ -41,6 +41,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "Artificial Intelligence Bolsters Colorectal Cancer Detection"
+    excerpt: "Artificial intelligence can detect and diagnose colorectal cancer equal to or better than pathologists by examining tissue scans."
+    publishedDateTime: 2021-11-04T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-bolsters-colorectal-cancer-detection"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "IqZ8d5gsZ557byOUwS7mtFEIP6nlL2IKk0zDwhWm9thD0CRagm7jQoTFZNJsDoQJbqMkxIy+zcfhkhFitS/xJwRFjGm9oA7h71Y0wBVD/l38l0UM4WnhitZiifL8U32ew2nqFNBo+yIBPlUB/OTvWK8c3JRAiJRj8BHNeusAPHyAaMPdR0RF8k5zH/U7wfXGIZvF7j+Zod/hf9CIRfblzee1CalhwptOA8BopQdQT6ZeW30uvPeHryoK1YaMy4nq66/xnKhWMW1qc2Jc8Ka5mytH1rCMK+hw7BFz6MC75O4DxcdoY900dUGxtehhj1B7t++/Mtw6vhWpEgoOPa3TlzZsvIboFrPOt4Q0oV/cLLA=;2ZuCtxVPoJ6aAhc2ETq4ig=="
 ---

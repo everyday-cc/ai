@@ -2,26 +2,26 @@
 category: news
 title: "Iron Ox Launches Grover, an All-New Autonomous Mobile Robot"
 excerpt: "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile support robot named Grover. Grover is not your average farmer."
-publishedDateTime: 2021-11-02T10:02:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-environment-robotics-3def91b570ac36de404ae9d96a9c4645"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-environment-robotics-3def91b570ac36de404ae9d96a9c4645"
+publishedDateTime: 2021-11-02T10:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-iron-ox-launches-grover-an-all-new-autonomous-/2021/11/02/9482131.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-iron-ox-launches-grover-an-all-new-autonomous-/2021/11/02/9482131.htm"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1675899/IRON_OX_Image_Courtesy.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 337
         isCached: true
 
-secured: "2J1OmEqf/zFBHgmytreaR9m9ww9/2CYBRdWtE1TeHYkxQAcVoPXxrW/wOXD81O4H+3zWzp1dB9CX10UV0KkWwKojkVz0DuT108Mf0IT3mFGt6Ir5bFfRdUahSyGrbND1Ts6am0B6+dKiRGF7ty1M+8aGrly9E7XKO9Ca783XuUjLdDugfloOCtvCRtboL6f3sbqs9yg8U9BZp1O9toCIiW2NEYHO3zr1VfN1mJIKzFzs173vrQtm4qoSG4SO91Q8IZC8NEEfN5lPUFelm8CXUmSGw5qXhl2f2eNuXPbPO6AGarR010Xhei0YqHoZGplFNQ5NwiGn40UEfF5pH+buzEc68P/8QKPSzQn/0IhJGDQ=;+Llb9oNFeNfknr1clkjLeg=="
+secured: "irfoFF3fKAMCgFZXtfmKWoGKgYanM7A20xpir4Dq0ZKIQXF/uoSiwmJUagrOSX3RrzvYtkgDRARJUpTwIccL6zB1aC2GCzkEKTkisbYYzS+nZxjHLx20gICo41pdvvoyW5YKhvO75vxhRTRLCK+TTsjUVrrZaogQhkjLcsjWKghkgU+DT36F6RtwRb/iWBHewRtCSd9u9d8bvIKYUOp0z0cJkrSF1SRiJH9Sk2QgRwe7/RZ89Kc5hSM+2nDoeinbCa1tszjEc7UODkYEUeme8i/y1S7J776t5v6+d4Ttz2MTtxPfPMkGHiWbJTUZ9l7TKPqMWDX+rwN86MpEvnPBXEdS6BwBCUzMWjVNbEYUkdI=;oTo30A1wAjda/TY4lmWVCw=="
 ---
 

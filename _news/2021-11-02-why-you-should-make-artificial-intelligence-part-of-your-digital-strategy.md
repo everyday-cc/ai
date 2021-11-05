@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-sh
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-should-make-artificial-intelligence-part-of-your-digital-strategy/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Should you be using AI to solve your online retail woes?"
+    excerpt: "The use of AI in e-Commerce and digital retail is commonplace, so how exactly can it be used to alleviate problems faced by online retailers?"
+    publishedDateTime: 2021-11-05T03:19:00Z
+    webUrl: "https://techwireasia.com/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 59
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/10/shutterstock_524159932-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "juI/HX064fdrj9wnu9Pf0Ytgf9jB4+6s+Io88yeNcpecn0bY1G2QxqgV8ygPDXXwxkF0pNAQFQ6sTso5sncONB7qfXiOjYha1pMHhp3y9aTaUX9Ri14dcd3Ob36L0/Y8c5wIBWXADdUZaZQuKWVL2wxeL61EANMQqn5jtbV50iDIMw1S7HBJdIqOlzwoUfXSV8lH+hq0V0B+uskjzzo8VURmwpp0aL5hDM9PWUd8C8P1nYtAqBs5ibHnQyeIyLHEirZ0vumY7WVn4vkwL6auc7TxdpRMey5eSV2drfqQRUH8gc03jf1gNfcFdOnu4lQpKeTfwvMWQ2l8WpBWzRHCyHywwlTs5LOJVUFxgZFAe0qryFT+qDvgHh/tfgEexhIRf8Eoozf07fZ9iKgNYD9OOBrPmtV70caD9t7F9x93lub1jFrRyFDZI5Mdmd3rml9IfgIn5kl+H/azPPwk03TO4bPG0InZdPXr1AH2QOjFLJ+0hcq/OzxAHdY0lDjNiJkw9hQ551tHS93mMMMyUS97mQ==;wfUDqczYXPhOmf1Vrh8PkA=="
 ---

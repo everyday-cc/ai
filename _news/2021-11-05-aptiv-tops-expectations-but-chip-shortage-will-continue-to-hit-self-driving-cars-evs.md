@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars"
+    excerpt: "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters."
+    publishedDateTime: 2021-11-04T17:18:00Z
+    webUrl: "https://www.barrons.com/articles/aptiv-stock-price-earnings-semiconductor-shortage-51636025862"
+    ampWebUrl: "https://www.barrons.com/amp/articles/aptiv-stock-earnings-chip-51636025862"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aptiv-stock-earnings-chip-51636025862"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 56
+    images:
+      - url: "https://images.barrons.com/im-345715/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Is it bad data or bad design causing AI projects to fall short of expectations?"
     excerpt: "Derek Cowan, Director of System Engineering APAC at Cohesity, discusses how the right data can have a transformational impact for Artificial Intelligence and Machine Learning projects. The growing adoption of Artificial Intelligence (AI) and Machine Learning (ML) technologies are becoming key drivers for organizations looking to become leaders in their fields and earn the label"
     publishedDateTime: 2021-11-02T10:37:00Z
