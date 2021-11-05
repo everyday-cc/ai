@@ -35,6 +35,20 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Intel Takes On Nvidia With Vendor-Neutral Managed AI Service"
+    excerpt: "Intel is taking on Nvidia with a vendor-neutral managed AI service through its subsidiary, cnvrg.io, that lets data scientists easily run machine learning workloads across any infrastructure."
+    publishedDateTime: 2021-11-02T03:10:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/intel-takes-on-nvidia-with-vendor-neutral-managed-ai-service"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/026e-1365ebb513d1-c2e90931d889-1000/pat-gelsinger-intel-cover21.jpg"
+        width: 610
+        height: 457
+        isCached: true
 
 secured: "BrlioIz1jPfUD63wacuSRcXZfpPk+fqA+VhfjKctEL6BfpN3UGr7wwBIle7HDhrf0tLWRluMTNieGNxC72CwZ9UgXARtSibViCd3LBD6J5/AcdIM7uTZSqXIq8pJwNWye+RQ5o54NInjiiGFGMsj/Oj1LQ8Q2cbPb+PRJt9nmF/E/TZCln++HUdXkasuHcy64ANhiiEMtAfx4RIyuGJRiokJP3AZW5XbHJIGIOkqxTqgBgPMpdtX82aOZVOZ3ov8YE3C2URklXI77EMCO2nLN77A7tkoszKOusg6koqvImSu/cst9BtwqN3i4sXI/OwLaPtwvez09jK7IR9lO1jBn36BSbEgBpi2KDB9l+UXRaU=;Zwip7aG1bLWokkR7KgFdoQ=="
 ---

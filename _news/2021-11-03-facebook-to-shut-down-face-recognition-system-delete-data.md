@@ -2,24 +2,27 @@
 category: news
 title: "Facebook to shut down face-recognition system, delete data"
 excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-publishedDateTime: 2021-11-03T04:25:00Z
-originalUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
-webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
-ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+publishedDateTime: 2021-11-03T02:11:00Z
+originalUrl: "https://apnews.com/article/technology-business-85a21a8079a757f2ff99972f1858f7ce"
+webUrl: "https://apnews.com/article/technology-business-85a21a8079a757f2ff99972f1858f7ce"
 type: article
-quality: 26
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Facebook AI
-  - AI
   - Computer Vision
+  - AI
+
+images:
+  - url: "https://storage.googleapis.com/afs-prod/media/aaf359d054eb4991b8d8803ebe927f4c/3000.jpeg"
+    width: 3000
+    height: 2000
+    isCached: true
 
 related:
   - title: "Facebook battles the challenges of tactile sensing"
@@ -849,6 +852,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "vypwS+1JXM3KtijCNX6b6DREbC4tAXgp3T0DtUptBQ8lQnkLbQ/nr5OX99X+mlhnUazXtSXSgl6xgkBNs/tFo3u7SCG8nPFv7Y78s/YTuujENQ9Rk7HFgFaWlwqzNlFjkQ9S29uyyvooRynB9mU0goBmwW32WIBU3scvDtlxaqBVvM/9pUuH8D/kGxomnDtxHlvZDgnbPtZrRnmkZKdGxkEAsY2F+qLz2AnhvM0/96+3MHlIRDegBK7eCUtADr2WGcM9OB3/Oy/lk3ERIjX6KeA3mIORGuhnNhLIkST4+dnTuOoOf9T4+jipC3t4bjrwv5rDs4aoer5QNmaKygiPYIHq/2l13LeKfXfDc4g6jo+ZL3CyiOhnDVmexkEYjrl9+/33z79HfQEOtcowaEL82gKXHtO5q5WF9z7FN2DS6D7Vwm+2Bm28aRrGd+Z2MvMjdAhvhrNhc1UKMVRvq7/F71/uc9SuzneXFK7kHuBNXfPiLzxabeEiNy42rxPdTL+9gLENHwGrt2Wk8tOeqhK90w==;AZ+RGCR2i0DlKPsYqMyA6g=="
+secured: "zeYY9Y+IbWdAyTuHkZ3JHiOBQJJYFl2piN/LDfLXt/fwJ99IMTZ2z2BrpcEnFCJznnvk1D4DMUIRWIcWuGnZO6bJTkcB0iklDv4W+tc2RYI9Xiam+igZF7q47bCkaqMTJGnHmFh/yoijCz7tDQTTIIWVS2kXn4bsf6rSA5gYVWfD8/GzUc1KuXf7h5AJ+aasILfUuhBXCKHHcQy6IQ7fQkszoblD3CJzHRwqo6imrt7W1pknWv3xYPy34qoaiCfG0B12WCr5Fxz96lotpDQmyBRlty6WetTPwaNTeSdK9ZL4liY49eb6MxnW/V5qhpPSYzM2XvMzJpIt/pMx4csilDyds0yRarF5q+DHPVbBfGc=;dvRxLls1AOCSBkt1AYSz9Q=="
 ---
 

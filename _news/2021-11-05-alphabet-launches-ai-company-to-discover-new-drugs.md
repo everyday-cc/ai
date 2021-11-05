@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-05T15:46:00Z
 originalUrl: "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/?comments=1"
 webUrl: "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/?comments=1"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/deepmind-760x380.jpg"
@@ -236,6 +237,6 @@ related:
       domain: businessinsider.com
     quality: 28
 
-secured: "Bz8/eM5hieq0X70PtH0sDh7mq0zdoeDh+w7dXfBlKCVxVvN+9tzgbhcfkNrrQDKcCNnfya+qa+gV/OGme3HWWg5uW+4DzexrZLFbf6LY3ZHhDCssjPluFDpxq7Uv7xvbV6rzqaI0sYT//D3owAeLveEZ3R9kuvh8OgMNSlCj1PDQmh5obdOWM2Q/RhoJ+vX9dSZ55DznDvZ+zaToQ6hg+1D5eitDmLsSiEhmoh/oNU/FIsgUnfvTA7zo8hnnWPmRa23jLnMbSPgmBKKgsj/IyFxppxs8dhgLyvPui8+g3WxbpGz4mIzyQ0hUGo94LOahyHdxa+nkJ1nlOx4f5S9ZSH1egT2I8vpMtoxYnFG/uM4=;kFD98C03wYV0ZRm6EafL0A=="
+secured: "GeUFyvrUdUbsatZeUyQg6uqhE3MU+nv/sbpLuFm++bSDJBsAJexOOMro69CBLVfXoPLA7JoauPg62DgQSO2GXzIVUz/t5fvzrnkIQH/8ADsrXvo/1+ZOkKe54hhywCwTRPYTbmhLZ6m5Ed+M1J9brhy2P523IKVAMEBbu410KjcRDeojgXp0mHoOSQJz2RK7a7gkrbfkH8BLEukWb80r/uufYxU6xmSouMTxTM9X30Fn3gA0gp1MNyJ7NadJ8LSO0ZSHUX4P1+Vv+sldSSZEGIfbv/C25NiLjpTnZ/+oe4plemAOz5s2Lc0etolHT1B9Nt0bilcQ+9eAIAaPQkfS4cBQBUO6V3xg69CDo8iB+IAdkl3cZ0F0/Iia6Aow5GtszZH5vF3S/0adPbSkbsNNyaokDWtSVqZ6B1+GUi3DKaO2P+w2dFOWqP+enuhSNN+8pGdVWvr0DXv1bl5CAEPAyggxOxFDbyFp/N/Xanbf5iYdQ2syRWVm9YATWbDGsY79ZsfRPgqA38XAdxGGk7Vauw==;Ct6/9RPMxCjle4ccdmwgtA=="
 ---
 

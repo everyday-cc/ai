@@ -97,7 +97,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/deepmind-760x380.jpg"
         width: 760
@@ -233,6 +233,6 @@ related:
       domain: businessinsider.com
     quality: 28
 
-secured: "rS/T2iJETde9ksQBVg3CKBqIjGFwgfRRVSdkNamTxgdCehMXwW01tx8v6Ru4aAGpvROjiOSAfiDU0QxDuIGxJJddhERAhCYN/1J0ynGhkhynwvz52TcChtTTYRyBy/e9ykzC9w/ZodETZTW9MeYlhqaqTnZfpRisiSNOs3ctKOeFMPfDoO+GTRaIBESmF7oxohvLXxti2XtKSvtJitnU/TaXaXWxMhrtxmEUrzDNDAQlY2+QixY5RsIKYFq4v+opmaIXEI5fAToRYlKpgj38DMH+u45PCgvLx7We2DkrBmvgl3ypgwxP/OV+f/yJskL8JSE2nsUYO/arPdXQbzN12UqLN0m1HkulEmN6Y04con8=;C5FAFxFC9nAkItbHs0/y3w=="
+secured: "PyWMtRO5RQo+eHpYeh5sD+uc/lgsvj/nmYrwmPXWfJuKZJUZiZN0hsUvEh2VG+CJTYPDZlkjafHzmmaB20caeAtJ4jfX2GC3QMtVFjb6YOyJRKUjq/fqcwKerRNI6DArMQbpLMcl8kJQjT64zaJj5KN+0zLWfhKIQNkm0y31muFUZEB7eplwWDj5CVWfWqmw0LJtyezRtynJ9ak0b1iab5E26sjagsJTUxaEdSnyX77KkUSjcG6Oi8Xc5gqF348kU1EsERhF85h6RoetL9EGm0S3PheIQxQvaxWBNoQKGWRcntp5cU3GiEOaHTQVrZ1GJ0nxloxs8oApHReqy3MAq53NAtn1s+xd6kpCo2cWIh8+tUHw6TEk8SJyhWyE4W7ljKF5DuigeNPLdKZJuXejQ2viI+v2W/KOLlwBsI3xTl1Lp/0Hgl8j9yNvr4dN6hFK+v7i4TSsAooifGaK0ISaK0/L5nDEEbODpH6OX/8mthMwCjwvshAIYsKjYcbvkPlB+1bd2Klcb7iFNjIW1isDvA==;tfWINaUI+LfH7DZ+OhUsZA=="
 ---
 

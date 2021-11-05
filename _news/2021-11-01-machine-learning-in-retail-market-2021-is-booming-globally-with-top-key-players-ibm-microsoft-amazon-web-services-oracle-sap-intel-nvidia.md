@@ -7,8 +7,8 @@ originalUrl: "https://chipdesignmag.com/machine-learning-in-retail-market-2021-i
 webUrl: "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Chip Design
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Takes On Nvidia With Vendor-Neutral Managed AI Service"
+    excerpt: "Intel is taking on Nvidia with a vendor-neutral managed AI service through its subsidiary, cnvrg.io, that lets data scientists easily run machine learning workloads across any infrastructure."
+    publishedDateTime: 2021-11-02T03:10:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/intel-takes-on-nvidia-with-vendor-neutral-managed-ai-service"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/026e-1365ebb513d1-c2e90931d889-1000/pat-gelsinger-intel-cover21.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "CITIZEN SERVICE AI MARKET 2025 TRENDS AND FUTURE PROSPECTS BY ACCENTURE, MICROSOFT, AWS, IBM, NVIDIA, INTEL, PEGASYSTEMS, BAIDU, TENCENT,"
     excerpt: "Citizen Service AI Market research Report is a valuable supply of perceptive information for business strategists. This Citizen Service AI Market study provides comprehensive data which enhances the understanding, scope and application of this report."
     publishedDateTime: 2021-11-01T13:18:00Z

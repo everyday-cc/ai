@@ -8,7 +8,7 @@ webUrl: "https://www.dailymail.co.uk/sciencetech/article-10169621/Chess-legend-G
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10169621/amp/Chess-legend-Garry-Kasparov-says-humans-threat-AI.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10169621/amp/Chess-legend-Garry-Kasparov-says-humans-threat-AI.html"
 type: article
-quality: 6
+quality: 8
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.dailymail.co.uk/1s/2021/11/05/14/50105427-0-image-a-4_1636122162241.jpg"
@@ -42,6 +43,6 @@ related:
         height: 682
         isCached: true
 
-secured: "JS4YKZvAnPnr6Nxr5tCLL9lTtbCjXuZ8Dnxb4rZUTmpltHbC3+nFxpGvj3+vJhlfdTUEW6zE7sh00BCpcGDl2MYoatOI/Q6p0u9bxdq8452DfwEUx3nWhVYX4ng5KdZA4PqivSvtH4/PlPyAaEWwm4cwyA7rF6XUiCxehtFFRSVfIhkL+zd+vSdHOjptklCrgkIrDj5VqT9WRXmUdstwS3Ky07h3P7Vr28ZcxG0lSAOm1aGRu7A1S3CtKh6WpnOrw0J/iw66wANSCWVlf9ys2Jp3WAVBDarQHO3Def9o1YL9ecdvrM6PJEP+VUVyAWq7iJ8PlXEGRn9J9Gjax+WxNWc7rKYJ2hA4nDxofHn1UBQ=;i55iP5l/gvy+CPGhfNJ5hw=="
+secured: "xHvkWhMwNHyFHQ93jG50KmBoEho9w3+Ayxku/SLLjlcE4HKhsVzYwNQQMxG31I2L8azSnccZF3b1v5fIVvDMNQNYuQdP1AdrxJ3G8izUgGG9r9iwRgJBf1bEmtgWrbBd/hUx7gIfmmWK4sQkek2JJAD7krseOQzpuw9bdRpvDEyDp8JnsjZBO04101J/l32h2Kxj/guSQrE2KtS9yWCCCyDia16D7jxaYoO7z+tbxuzFxZszUtRqMP/VSxcJV+2Rra3SO9LnAyd7yQqNC1/npgdRJGCXF4EPMjvHMTnLS2FJgg9JkDHRZPtkwajBmItxckQzLedV+2zhjsiNc+MDdLI3t+I05bO3L3sztOs6a/B0JMaBE/GVHjNho6DPu5g3nbql3T7HIYv/VLrmBEOwj6pO0+nYe9qU/dJGenhv0LWoEUECyDw+XA7/KwjmOQsXU/c3sgokERnkz2ASjv8tAmpXX0jgly+cF65JSG2yRBKbTy62EEtMl5Un93chwwRohUdF1OK2099F750DPH9HvA==;Qk/1WyIhmCFeWBxC3ihE9Q=="
 ---
 

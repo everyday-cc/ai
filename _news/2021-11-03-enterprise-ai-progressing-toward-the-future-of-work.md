@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c37723bcebb249a5d22c16%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Addressing the effects of AI on nature"
+    excerpt: "While there is a growing number of research publications directed towards Artificial Intelligence (AI) for the Sustainable Development Goals, there is little research addressing, the often hidden, environmental costs of AI."
+    publishedDateTime: 2021-11-05T17:03:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/934022"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/213a5cb7-3f8c-4ff9-aecf-48c228f4f71c/Rendition/low-res/Content/Public"
+        width: 560
+        height: 700
         isCached: true
 
 secured: "ulB0NDDyAZs7asZ3WCLkmkkvrUOw5I9ddfdImnMZMIaV1HutIPUMCc9AwG8PrHVGOVl1J5qcOEVxT75EZcrqXibaY38fdLSR3BxU0ArGcvHE2gzyUXE0OB+ec9sy+irjoLvILc5WIXEZ9uuQ6ltFXQSDSv7OHbdz2YvNwM5ky/+ZqOL7ntwC3Zt+iJirXg8dMvd4Np7jWTUBNSq7Xon58DlgcDUH5nL5wsyhDsYMIOtqFVsZvFRyPaH2p+P2BvzOrIVnrI5JOaxMeylasMuv5TSMwdrd/4dx9tIdjqKLBTLJZeRIAow+kNjL0hhFd2E3SXe9c8hRrjffZ90vH7HR7b0MbIA4INJxTBQdX0v2UwKNh2nxQ7pNKZCZ3wZAAMKxGfvf+KjYYRpbxWxRye5DMoWROOapkLHZrCCEFb2mEWIYzoXTmyjeoo7RxgiXCBUSEBQ/AwCfEjN5bdyOJyF37j0qbvP9s2a+u8QABgiLF3IHBp3jtf23Plujt+7/s735Ww5Ehl9sXxahqxX4tP/BZw==;op9zQaYC90hU986ebsUQYQ=="

@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Addressing the effects of AI on nature"
+    excerpt: "While there is a growing number of research publications directed towards Artificial Intelligence (AI) for the Sustainable Development Goals, there is little research addressing, the often hidden, environmental costs of AI."
+    publishedDateTime: 2021-11-05T17:03:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/934022"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/213a5cb7-3f8c-4ff9-aecf-48c228f4f71c/Rendition/low-res/Content/Public"
+        width: 560
+        height: 700
+        isCached: true
 
 secured: "jHZ4pjSNtyK1Esm4YHscMn21Ayvi7DQF9mbW9zXusonUgjkdRVxolLs9L+yLK2/HvMaDytu2En8l/w6hKR5qfKrsL0/ZhFv+3o0avS+b25G7CqyAJ8wY3f+Ovz8d6Qnk3Nx9o/lcqKPJmCsDaL9dxM1ybZ2mgzWqaH6MN2jroZZNKErpQR0g8BvMBYqg8tKAfJ0bhiE+L6IO6LEQbzfVzv6H2ghcqbiuOkkjvfp82IkumBnJzLH5fK02d0rJF1ID2fcVcdzXcFDH42Zm23Fod+lzopqM3nroajfMiE0PiQYojm3DBigsMzSL+YnaVXrQtOxq+X3P4F7WWJfTmH97QqyIcTFCyLfsVzzEvANQ1vpfZ8OgJiPZxcMbf5tgVqu1pk0uwGM/w9Ace5ZU3HAWAMqEDtbCax+w9KlD3CvAmLnWdrVFWm4qNbmcNErK4kvg5CfhodWZlWN0UmgAt0bwKDFtvbZpNwCjdrqXK4QWMkrgDibv+BbaEfEIEmP3qRmaPWfSGz2nHmoVnF9qeZ+aLA==;SXG1tJOvcj9aeNCusWmfaQ=="
 ---

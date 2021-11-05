@@ -54,6 +54,17 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Artificial intelligence is getting better at writing, and universities should worry about plagiarism"
+    excerpt: "Some universities have reported more cheating during the pandemic, and such concerns are unfolding in a climate where technologies that allow for the automation of writing continue to improve. Over the past two years,"
+    publishedDateTime: 2021-11-05T17:38:00Z
+    webUrl: "https://nationalpost.com/pmn/news-pmn/artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism"
+    ampWebUrl: "https://nationalpost.com/pmn/news-pmn/artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism/wcm/ad86ee64-a134-45d6-8ced-a7487e08fa95/amp/"
+    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism/wcm/ad86ee64-a134-45d6-8ced-a7487e08fa95/amp/"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 24
 
 secured: "nmJx7I2DBy8C8jreaqKkOEc2MUTl2qLxHwjaGhxQjWbJvAYnVqBjrNZ6tvxIXNnndMH4fBoiMzLpeYOqWA4Q+JVDAolMKrm7EGZqjxjYaA2Zvl3v/pyD47c5qcUhDapstYtrWndNxO3WCJHQdqOrLTRcPQHs14UtzjyGePqE+hQpym/ujL7ezm4v+XqZD9o/LbJ0liuiMdKeN3WUZDsjHFWwIGl1zWYg3lvKpXB094vDLRCooZHDbfJvMSWNuIaiW9heIx3Y4mm5rZNftnd/cz3BkVr3RKkFXv5hhNkQOCWbn7LblePWhlGPyNPzfmBV91T83qFIa3qqwY7hWYUVT/gnMqNgJwk7ApvC56Fvow7wdg9DxTm9wy6er4peIrsjfpnnEOMoTnjJgOqTGW/Bh5tOU0vyG8LRVJiDbMtOMYb1Ge6t5FNpBd+LCLORQCdAwOBC78/YywHCgw/jh9jZ+QyQThVaFvJnbphp+cGeiz4SfSCwLzU0VQf/v1xjQBtlGBXTfXyIWF2z/eYzZrQC/Q==;V06TDC9vwDlO4pDYcT3PYg=="
 ---

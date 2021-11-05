@@ -7,8 +7,8 @@ originalUrl: "https://www.genengnews.com/news/artificial-intelligence-may-aid-in
 webUrl: "https://www.genengnews.com/news/artificial-intelligence-may-aid-in-colorectal-cancer-detection/"
 type: article
 quality: 52
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: GEN
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "New study uses artificial intelligence to detect colorectal cancer"
+    excerpt: "A Tulane University researcher has found that artificial intelligence can accurately detect and diagnose colorectal cancer from tissue scans as well or better than pathologists, according to a new study in the journal Nature Communications."
+    publishedDateTime: 2021-11-02T21:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/colorectalca.jpg"
+        width: 850
+        height: 640
+        isCached: true
   - title: "Artificial intelligence to detect colorectal cancer"
     excerpt: "A researcher found that artificial intelligence can accurately detect and diagnose colorectal cancer from tissue scans as well or better than pathologists, according to a new study."
     publishedDateTime: 2021-11-03T03:06:00Z

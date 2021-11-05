@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-05T15:12:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2021/10/211025172047.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/10/211025172047.htm"
 type: article
-quality: 62
-heat: 72
+quality: 64
+heat: 74
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Surprisingly Smart Artificial Intelligence Sheds Light on How the Brain Processes Language"

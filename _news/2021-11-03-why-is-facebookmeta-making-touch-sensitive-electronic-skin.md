@@ -766,17 +766,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Facebook to shut down face-recognition system, delete data"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T04:25:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 26
   - title: "Inside Google and Facebook’s ad empires"
     excerpt: "There’s a vigorous public debate about the benefits and serious trade-offs of the digital worlds that Google and Facebook have created. They seem less mythical and imposing when you know that their empires are built on selling us more socks."
     publishedDateTime: 2021-11-01T13:00:00Z
@@ -815,6 +804,20 @@ related:
       - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2021/11/02/Facebook_says_8.jpg"
         width: 715
         height: 404
+        isCached: true
+  - title: "Facebook to shut down face-recognition system, delete data"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-03T02:11:00Z
+    webUrl: "https://apnews.com/article/technology-business-85a21a8079a757f2ff99972f1858f7ce"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/aaf359d054eb4991b8d8803ebe927f4c/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Facebook to Shut Down Face-Recognition System, Delete Data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."

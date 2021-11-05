@@ -26,22 +26,6 @@ images:
     height: 601
     isCached: true
 
-related:
-  - title: "We mapped every large solar plant on the planet using satellites and machine learning"
-    excerpt: "An astonishing 82% decrease in the cost of solar photovoltaic (PV) energy since 2010 has given the world a fighting chance to build a zero-emissions energy system which might be less costly than the fossil-fuelled"
-    publishedDateTime: 2021-10-31T23:31:00Z
-    webUrl: "https://www.econotimes.com/We-mapped-every-large-solar-plant-on-the-planet-using-satellites-and-machine-learning-1620330"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 32
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/20211031fdc4c823742340f10_th_1024x0.jpg"
-        width: 496
-        height: 236
-        isCached: true
-
 secured: "WIGbPwfiJ6abclD7QjbGY4Uhv71Gcse4JQFsLDr6T5GGcYwzuBKoR1Odq7rAz6YiUNT+nA/Dev/sZL6yFuaxF1ZLyzbgXuSYY2WzXaXWq80pBx3Jyof6vZ4GU/uOgFNN5zLfNzxRqMPCbD9wG/BtuDQZhqNa7R6PS0LhzR5Yw59jWHNE8g2iYI/LKWdHA3udJ25P6GWgVkoJ/RPvRU/k1zLQqbReTqrUPsniDS3jQcFLo0kfS9HZ7Z/1C7HWChOb6EB4kD5zNo4iai4zxQOSlOhUCBOU6P7C31j2JQWZGTLMUYFR+UrU6ttk775vVAse4baCupjxqq2YM029u2jWk4XBBdwtgf1wJB1qunPCtskQv4Kn4ci71vXxZhnWHW06tZRBfvQw4RBcRlfRXIhqrw/HRtY8NeDURK2+ypNucrzAXPdBuwMdIzkqDbSYiDyVTxyy/uvTyFkw1FE7VUw/SCiNur9eZK8Am7hM70PX8JAMbs6d/D56bJPm/hB4JVK9eMF4y/CR5XvI4zIYQT5yrw==;tmovUGHHbNjmo9kQrL2MSg=="
 ---
 

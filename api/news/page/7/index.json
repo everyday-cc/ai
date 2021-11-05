@@ -2,6 +2,135 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-29-4-reasons-residents-are-open-to-ai-for-fall-prevention.md",
+      "title": "4 Reasons Residents are Open to AI for Fall Prevention",
+      "excerpt": "Picture this. Residents check the calendar for that evening’s activities and they’re thrilled to see it there, right near dinner time: “Gait night.”",
+      "sourceUrl": null,
+      "webUrl": "https://seniorhousingnews.com/2021/10/29/4-reasons-residents-are-open-to-ai-for-fall-prevention/",
+      "originalUrl": "https://seniorhousingnews.com/2021/10/29/4-reasons-residents-are-open-to-ai-for-fall-prevention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://seniorhousingnews.com/wp-content/uploads/sites/3/2019/03/SHN-Facebook-Share-Size.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Senior Housing News",
+        "domain": "seniorhousingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-turning-to-robots-for-career-advice.md",
+      "title": "Turning to Robots for Career Advice",
+      "excerpt": "According to new research commissioned by Oracle, 80% of employees say they’re not satisfied with employer support and 72% of the US workforce think robots and artificial intelligence can support their careers better than humans. Joining us to explain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice",
+      "originalUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/596/45bf940c346f431c9be273b8942ab6eb/59640f3b51cd412a9b3c3b83a2107ec5/poster_da477495870d4fc9a826480e882ccebe.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true",
+      "cdnAmpWebUrl": "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true",
+      "publishedDateTime": "2021-10-29T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC Action News",
+        "domain": "abcactionnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-intel-reconfirms-flagship-arc-alchemist-gpu-specs-and-gamers-will-be-stoked.md",
+      "title": "Intel Reconfirms Flagship Arc Alchemist GPU Specs And Gamers Will Be Stoked",
+      "excerpt": "During its Architecture Day 2021 event earlier this year, Intel outlined its Xe Arc GPU roadmap ... and dedicated matrix engines (up to 16) for AI acceleration. Intel is calling those matrix ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
+      "originalUrl": "https://hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56646/content/Intel_Graphics_Card.jpg",
+          "width": 708,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
+      "publishedDateTime": "2021-10-29T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-deepmind-study-resolves-delusions-in-sequence-models-for-interaction-and-control.md",
       "title": "DeepMind Study Resolves Delusions in Sequence Models for Interaction and Control",
       "excerpt": "Large-scale language models such as transformers have become the de facto standard for a wide range of natural language processing (NLP) tasks. Despite their apparent linguistic savvy, such sequence models are known to lack a real understanding of the cause and effect of their actions,",
@@ -1005,144 +1134,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-ai-selects-promising-viral-vectors-for-gene-therapy.md",
-      "title": "AI selects promising viral vectors for gene therapy",
-      "excerpt": "US researchers have developed a computer platform that decides which viral vectors are best suited to delivering gene therapy to the retina",
-      "sourceUrl": null,
-      "webUrl": "https://www.aop.org.uk/ot/science-and-vision/research/2021/10/28/ai-selects-promising-viral-vectors-for-gene-therapy",
-      "originalUrl": "https://www.aop.org.uk/ot/science-and-vision/research/2021/10/28/ai-selects-promising-viral-vectors-for-gene-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aop.org.uk/-/media/ot/content-images-post-image-optimisation/2021/science-and-research/research/bluedna.jpg?rev=742f631c269645dc8c97a3abd72b2a7c",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Association of Optometrists",
-        "domain": "aop.org.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-chinas-baidu-is-turning-production-vehicles-into-robotaxis-with-its-factory-installed-autonomous-driving-system.md",
-      "title": "China's Baidu is Turning Production Vehicles into Robotaxis With its Factory-installed Autonomous Driving System",
-      "excerpt": "Chinese technology giant Baidu Inc. is developing an entire mobility ecosystem in China around self-driving vehicles as part of its Apollo autonomous driving platform. To support its plans, the company is working with China’s leading automakers to install its autonomous driving hardware during production,",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurecar.com/4960/Chinas-Baidu-is-Turning-Production-Vehicles-into-Robotaxis-With-its-Factory-installed-Autonomous-Driving-System",
-      "originalUrl": "https://www.futurecar.com/4960/Chinas-Baidu-is-Turning-Production-Vehicles-into-Robotaxis-With-its-Factory-installed-Autonomous-Driving-System",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.futurecar.com/202110/28/l_617aec006d191.jpeg",
-          "width": 799,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "futurecar",
-        "domain": "futurecar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-facebook-is-expanding-smart-glasses-research-into-cars-via-bmw.md",
-      "title": "Facebook is expanding smart glasses research into cars via BMW",
-      "excerpt": "Facebook's still trying to make AR-enabled, AI-assisted smart glasses happen. The company announced plans to field-test its camera and sensor-studded Project Aria glasses, designed for research on future AR glasses in more places, and even in cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
-      "originalUrl": "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
-      "publishedDateTime": "2021-10-28T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?a
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true"
 type: article
 quality: 89
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Canadian startup's robot performs autonomous needle-free vaccinations with a high-pressure jet of fluid that passes through an opening in the skin the width of a human hair"
+    excerpt: "Cobi's AI software determines the optimal injection site, then its robotic 'arm' applies a high-pressure jet of serum without a needle. Its use could protect healthcare workers and lower costs."
+    publishedDateTime: 2021-11-05T16:23:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10170025/Robot-gives-needle-free-shots-high-pressure-jet-fluid-opening-width-hair.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10170025/amp/Robot-gives-needle-free-shots-high-pressure-jet-fluid-opening-width-hair.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10170025/amp/Robot-gives-needle-free-shots-high-pressure-jet-fluid-opening-width-hair.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 23
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/11/05/17/50114535-0-image-a-2_1636133831313.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "6kVn+KawJT7CY7a6MjMoy40ipPOyG9qXn7wXVqfrE5V4f3W8mjlvRmRndgBFHh+QAbgWasi82yZYq+iAADx1R8AJ3HxIRadHi2DcqOaeNPuDD/CsCua4ZT3kh4igQRCvVwPklU5+uaedXhIGB/yYfZKYlygXFA/SseKXWr085s4QRJ+/Mu0snpkhJkY7KhbOuBGplsF/a04QJYnyfcOIlohCxXReoeu6WlsJ9J2Ib+Eom36WTpYcLP8c0IX8exFHllYgXosHaTNLlQzJ45580O2Gf54zPgN2AIGVxzYCbff8Dat+KRo90qhk/cOwsi7REzTlEn4vLSSFZKYL+Ni/CocMZkVP9LmrE/BFZdyRu4uCl+zWCrM078BewDPe2gDQIULYdZkhhbnZKOXys3pDqL4pTKQmI8yyr9DCSB/ETMLTQ4KQtQJ/PdEme+96nTUDFKwLKHi6skmsx7tSEoQ8Z1BZN40nGWTg/+D4Zlzk+IAWw4j1eOCVAOVwstSHDcLwz96dK0GHN0PnsqZhGF6Byw==;NjyVKHHc3pmSbb5ounUKAw=="
 ---
