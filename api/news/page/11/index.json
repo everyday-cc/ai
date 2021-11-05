@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-10-27-nightly-news-full-broadcast-october-26th.md",
+      "title": "Nightly News Full Broadcast (October 26th)",
+      "excerpt": "FDA panel recommends Pfizer’s Covid vaccine for kids ages 5 to 11, powerful nor’easter hits East Coast, and how facial recognition will change the way you travel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-october-26th-124680261894",
+      "originalUrl": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-october-26th-124680261894",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/NY-NN-XXXXXXXX_CLN_18_30_19_00_Nightly_News_with_Lester_Holt_AS_frame_5770-shy7m3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo124680261894",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124680261894",
+      "publishedDateTime": "2021-10-26T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-khoros-collaborates-with-aws-to-integrate-amazon-connect-into-its-award-winning-digital-contact-center-solution.md",
       "title": "Khoros Collaborates with AWS to Integrate Amazon Connect Into its Award-Winning Digital Contact Center Solution",
       "excerpt": "Khoros, an award-winning leader in digital-first customer engagement software and services, today announced an expanded collaboration with Amazon Web Services, Inc. (AWS) which will include an integration with Amazon Connect,",
@@ -1148,49 +1191,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round.md",
-      "title": "Fintech Mortgage Lender Button Finance Finalizes $2M Seed Round",
-      "excerpt": "Button Finance, Inc., a Fintech mortgage lender focused on home equity, announced that it has finalized a $2 million seed round. The proceeds should allow Button Finance to recruit talent and to further develop its proprietary technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Money-Benjamin-Dollars-2.jpg",
-          "width": 1280,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/",
-      "publishedDateTime": "2021-10-26T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

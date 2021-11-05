@@ -2,6 +2,49 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-09-24-thoughts-on-ai-ethics-getting-concrete-and-useful.md",
+      "title": "Thoughts on AI ethics getting concrete and useful",
+      "excerpt": "A new paper offers a solid accounting of tools that makers and end users can employ to better ensure algorithms are ethically sourced, developed and deployed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202109/thoughts-on-ai-ethics-getting-concrete-and-useful",
+      "originalUrl": "https://www.biometricupdate.com/202109/thoughts-on-ai-ethics-getting-concrete-and-useful",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-todays-discover-samsung-deal-saves-you-100-on-a-jet-bot-robot-vacuum.md",
       "title": "Today’s Discover Samsung Deal Saves You $100 On A Jet Bot Robot Vacuum",
       "excerpt": "Today, you can save up $100 on a Samsung Jet Bot robot vacuum, complete with LiDAR. It’s part of Discover Samsung, a weeklong sale that saves you thousands.",
@@ -1116,49 +1159,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-the-impact-of-conversational-ai-on-critical-services.md",
-      "title": "The impact of conversational AI on critical services",
-      "excerpt": "AI could also be a game-changing communication tool for critical service providers. How? By empowering customer service departments",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/",
-      "originalUrl": "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/",
-      "publishedDateTime": "2021-09-24T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

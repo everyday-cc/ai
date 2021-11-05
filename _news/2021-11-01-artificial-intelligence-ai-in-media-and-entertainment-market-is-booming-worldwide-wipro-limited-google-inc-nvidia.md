@@ -66,20 +66,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Self-driving Bus Market 2021 Key Players Data, Industry Analysis, Segmentation, Share, Size, Opportunities and Forecast to 2027"
-    excerpt: "Another report by named, Global Self-driving Bus Market 2021-2027 has been added into its tremendous archive by MarketsandResearch.biz. The report presents a far-reaching investigation of the market assessing the market on a worldwide,"
-    publishedDateTime: 2021-11-02T17:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-bus-market-2021-key-players-data-industry-analysis-segmentation-share-size-opportunities-and-forecast-to-2027-2021-11-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ygD0Ve8fX18+zvCV1mmtb/3Sr4EV7Icz/MydEiCB9EJgydFTbLSGa8BkOjFaF4wZMo6Z82YW0xvLtZPAhe6Zg8t/9mHLb4K2klSHIJgq9X9Fc9L3ltdxPhGo18SJ53dYg7n2XhGtZEl3TN0NMiGVYEJKl8HhbJfDwb4HUpkFD8zlS3v59YLeRYoikyOVELqmpx9Mhpas7Frp0ukFvdCURYUYpW+Q+Ltm5fu4qTMbeeIu/rxSzhTM3/MhR8NeTJEGRXuUBuRU0oi8ZfxTeKvRvAqh0UeutSr8tx0M+rWsELLhu829K2ArBzwSIaEi0ABhWP3LRC1bRleh45YWPGmF1VCugHl9Jl8IYeoN6qJdRzv3ek8tDRjwTJJwaZI71lxjfgHnZ7VMw1/SCEgF7GtsjLn5HqRquXzjMjlYrp25abG+WKNbHErMdsY/SRvXIJHtCj5cJ3i4hTD6w/jJK2AI1tdHK2FIwZsiJQrVAdqDXdD0akvrSAZobDuMgIfGbvS6orltnigqYO5RpI6sGS9emQ==;x6IrjAL+DwU2TcnRI6ZPDQ=="
 ---

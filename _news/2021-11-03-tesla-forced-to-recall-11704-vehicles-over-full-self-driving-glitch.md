@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -166,6 +166,22 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Apple hires former Tesla Autopilot software exec to bolster self-driving car effort"
+    excerpt: "As reported by Bloomberg late on Friday, Apple has hired away Tesla’s former Autopilot software director Christopher Moore. Bloomberg says Moore will report to Stuart Bowers, another former Tesla employee."
+    publishedDateTime: 2021-11-05T21:20:00Z
+    webUrl: "https://9to5mac.com/2021/11/05/apple-hires-former-tesla-autopilot-software-exec-to-bolster-self-driving-car-effort/"
+    ampWebUrl: "https://9to5mac.com/2021/11/05/apple-hires-former-tesla-autopilot-software-exec-to-bolster-self-driving-car-effort/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/11/05/apple-hires-former-tesla-autopilot-software-exec-to-bolster-self-driving-car-effort/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 53
+    images:
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/Apple-Car-specs-suggested.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla issues software recall for 12,000 vehicles over glitch in self-driving software"
     excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
     publishedDateTime: 2021-11-02T13:48:00Z

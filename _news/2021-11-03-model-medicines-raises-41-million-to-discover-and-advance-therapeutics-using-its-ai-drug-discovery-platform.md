@@ -242,7 +242,7 @@ related:
     provider:
       name: PharmaLive
       domain: pharmalive.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.pharmalive.com/wp-content/uploads/2021/11/Alphabet-Introduces-New-AI-Drug-Discovery-Company-BioSpace-11-5-21.jpeg"
         width: 625

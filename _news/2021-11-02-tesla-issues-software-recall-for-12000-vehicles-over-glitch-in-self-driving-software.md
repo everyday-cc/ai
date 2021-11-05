@@ -178,6 +178,22 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Apple hires former Tesla Autopilot software exec to bolster self-driving car effort"
+    excerpt: "As reported by Bloomberg late on Friday, Apple has hired away Tesla’s former Autopilot software director Christopher Moore. Bloomberg says Moore will report to Stuart Bowers, another former Tesla employee."
+    publishedDateTime: 2021-11-05T21:20:00Z
+    webUrl: "https://9to5mac.com/2021/11/05/apple-hires-former-tesla-autopilot-software-exec-to-bolster-self-driving-car-effort/"
+    ampWebUrl: "https://9to5mac.com/2021/11/05/apple-hires-former-tesla-autopilot-software-exec-to-bolster-self-driving-car-effort/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/11/05/apple-hires-former-tesla-autopilot-software-exec-to-bolster-self-driving-car-effort/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 53
+    images:
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/Apple-Car-specs-suggested.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Recalls Full Self-Driving System After Fixing Software Bug"
     excerpt: "Tesla Inc. recalled more than 11,700 cars after a software update to fix a flaw was found to increase the risk its so-called Full Self-Driving system could cause rear-end collisions."
     publishedDateTime: 2021-11-02T11:33:00Z

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Startup GoodIP Publishes Secret Innovation Strategies of 500,000 Companies"
+    excerpt: "GoodIP today announced it has developed technology that reveals patent secrets of leading corporations. A Munich-based AI startup, GoodIP analyzed 53 million patent filings, providing data on almost 500,"
+    publishedDateTime: 2021-11-05T20:51:00Z
+    webUrl: "https://www.ipwatchdog.com/press/ai-startup-goodip-publishes-secret-innovation-strategies-500000-companies/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 34
+    images:
+      - url: "https://www.ipwatchdog.com/wp-content/uploads/2021/11/GoodIP-Square.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "NATO Publishes An Artificial Intelligence Strategy"
     excerpt: "Defence ministers of NATO countries have agreed to the treaty’s first ever strategy for Artificial Intelligence (AI). The NATO allies have prioritised AI as one of the seven technological areas with respect to defence and security."
     publishedDateTime: 2021-11-02T02:15:00Z

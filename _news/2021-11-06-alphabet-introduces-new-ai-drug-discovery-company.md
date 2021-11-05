@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-05T19:43:00Z
 originalUrl: "https://www.pharmalive.com/alphabet-introduces-new-ai-drug-discovery-company/"
 webUrl: "https://www.pharmalive.com/alphabet-introduces-new-ai-drug-discovery-company/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://www.pharmalive.com/wp-content/uploads/2021/11/Alphabet-Introduces-New-AI-Drug-Discovery-Company-BioSpace-11-5-21.jpeg"
@@ -255,6 +256,6 @@ related:
       domain: fdanews.com
     quality: 19
 
-secured: "uS0oA/6KAFCEyRecieRpkPoPBm8/Hh6MmdXUDOq0ot7i3/NUU3GrsXjcRb4IHuOrqorXEnXW+a0p7Dv39lVtHPceU/MUIAWYtwPl6LmGouPoekKWq4uyKmN01aum8IlwkKOsSbh28c3P9BoFFJF7U8WkuA7GbOlgPQJBN4sLHOT6INL8giWK+VPVHBk9owv99vYwe5rFJIcaIQdZ0ZYyHFo92f+kR9FJJVpoHl/nYPcegoabkO3mxbLJyCdWEPqK5Y8XsK43xkp2Bn05D/4hd1HBnVqHvfzEosQK0QTUd3g6EybkY7Is5wnkhkg/UhkpRZ8HldIUUUqk69VoJGTuw1/US2PQv2vSoAqUgSIPISc=;Opkg87+PfLpifw6kcp8TdA=="
+secured: "NpgBKDvVxgW/sLvnklMdYuCGq+gM+ES0/jc427rYuiHNzeDz71Cnlmaeh7zbqVSGb1+Ir3v3TLK3nUE6RFmhMmPqHGCnZh+eHLRU1UVxZb1JtHaF0DvHPkrh5SA9HAHC1XlV4xqWacynU10TpmLty5FhzLbntQ+HgBSn0c9jFKdhlRaFx379F5FND4Rhe6Np0frWW5KzhOASFB02uWpfcpfhx9Wvnf15lUURJrAYD0mWJ3Dzyg5Qws/dPUikhrJ+YMZ8GO+lEfZBX1662IG1uahY+FuRdKe2CT5/7bVyVuEtSsAyfviUJsmeMY7My/fPVFyLmQxtKsuVT5R+KdNGnSWNYJzD3gAdn7Piiylkbg/cRJA0qTkcx+yLK58NRFf81/2F4wxicY807JUq8D0TLm16NSncsOcIJ+o/VeTVwIl7pNfw3T/nlIV3T/JED72Ggob1WAOnX+g88ngvh0VMb8PRvA/kAhlJ03g63buAKQl+idwLxF6QWmWwMBI6/sL074T3aGJ0Swbbv1I3rsmP4A==;w4S4huo89pTOj0QSMb1NUw=="
 ---
 

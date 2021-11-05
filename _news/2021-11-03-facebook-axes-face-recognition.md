@@ -839,6 +839,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Facebook to shut down face-recognition system, delete data"
+    excerpt: "Facebook’s huge repository of images shared by users helped make it a powerhouse for improvements in computer vision, a branch of artificial intelligence. Now many of those research teams have ..."
+    publishedDateTime: 2021-11-05T20:13:00Z
+    webUrl: "https://afro.com/facebook-to-shut-down-face-recognition-system-delete-data/"
+    type: article
+    provider:
+      name: Afro
+      domain: afro.com
+    quality: 24
+    images:
+      - url: "https://afro.com/wp-content/uploads/2021/11/Facebook.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Facebook, citing societal concerns, plans to shut down facial recognition system"
     excerpt: "Facebook only used its facial recognition capabilities on its own site and did not sell its software to third parties. Even so, the feature became a privacy and regulatory headache for the company."
     publishedDateTime: 2021-11-03T13:33:00Z

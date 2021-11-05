@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-10-21-ethics-by-design-steps-to-prepare-for-ai-rules-changes.md",
+      "title": "Ethics By Design: Steps To Prepare For AI Rules Changes",
+      "excerpt": "The EU’s AI Act promises to mitigate the harmful use of machine intelligence but will require deeper education and evangelization to ensure more transparent and ethical use of AI, notes Ursula Morgenstern,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/",
+      "originalUrl": "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/amp/",
+      "publishedDateTime": "2021-10-21T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-natural-language-processing-nlp-in-healthcare-life-sciences.md",
       "title": "Natural Language Processing Nlp In Healthcare Life Sciences",
       "excerpt": "Advance Market Analytics published a new research publication on “Global Natural Language Processing Nlp In Healthcare Life Sciences Market Insights, to 2026” with 232 pages and enriched with ...",
@@ -48,19 +91,19 @@
     {
       "path": "_news/2021-10-21-how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience.md",
       "title": "How USAA is Utilizing Natural Language Processing to Improve the Member Experience",
-      "excerpt": "USAA is using Natural Language Processing (NLP) to improve the member experience and facilitate faster decision-making. NLP is a subfield of Artificial Intelligence (AI) that uses computers to process and analyze large amounts of text and spoken words.",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SAN ANTONIO, Oct. 21, 2021 /PRNewswire/ -- USAA is using Natural Language Processing (NLP ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wbtv.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/",
-      "originalUrl": "https://www.wbtv.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-1030886243",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-1030886243",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-wbtv-prod.cdn.arcpublishing.com/resizer/KibPVLeJ9vccIqCX7YbbJ73S3qc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/6HSEG4QELH2BJLDFSOP4GPEIBA.jpg",
-          "width": 980,
-          "height": 1078,
+          "url": "https://mma.prnewswire.com/media/692533/USAA_Logo.jpg",
+          "width": 364,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -70,12 +113,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T06:11:00-07:00",
+      "publishedDateTime": "2021-10-21T07:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WBTV",
-        "domain": "wbtv.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1031,49 +1083,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with.md",
-      "title": "Looking For A Career In Robotics: Here Are The Online Resources To Start With",
-      "excerpt": "In this article, we introduce you to the top five online courses on robotics that will come in handy when it comes to specialisation.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with/",
-      "originalUrl": "https://analyticsindiamag.com/looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/10/Looking-For-A-Career-In-Robotics-Here-Are-The-Online-Resources-To-Start-With-A-Bang.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

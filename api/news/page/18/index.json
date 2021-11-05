@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-10-20-looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with.md",
+      "title": "Looking For A Career In Robotics: Here Are The Online Resources To Start With",
+      "excerpt": "In this article, we introduce you to the top five online courses on robotics that will come in handy when it comes to specialisation.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with/",
+      "originalUrl": "https://analyticsindiamag.com/looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/10/Looking-For-A-Career-In-Robotics-Here-Are-The-Online-Resources-To-Start-With-A-Bang.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power.md",
       "title": "Deci snaps up $21M for tech to build better AI models based on available data and compute power",
       "excerpt": "Building usable models to run AI algorithms requires not just adequate data to train systems, but also the right hardware subsequently to run them. But because the theoretical and practical are often not the same thing,",
@@ -1104,50 +1147,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-innovations-in-training-using-artificial-intelligence-and-machine-learning.md",
-      "title": "Innovations in training using artificial intelligence and machine learning",
-      "excerpt": "Innovations in training using artificial intelligence and machine learning . Can Artificial Intelligence (AI) and Machine Learning get you ready for take-off or surgery? The PVCES",
-      "sourceUrl": null,
-      "webUrl": "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817",
-      "originalUrl": "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F166862609%2F261951525277%2F1%2Foriginal.20211014-022345?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C210%2C1286%2C643&s=fa0d38cfb0c79badb4880c09d0e62181",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eventbrite.com.au",
-        "domain": "eventbrite.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

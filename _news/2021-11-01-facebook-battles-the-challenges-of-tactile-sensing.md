@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/amp/"
 type: article
 quality: 174
-heat: 724
+heat: 734
 published: true
 
 provider:
@@ -834,6 +834,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Facebook to shut down face-recognition system, delete data"
+    excerpt: "Facebook’s huge repository of images shared by users helped make it a powerhouse for improvements in computer vision, a branch of artificial intelligence. Now many of those research teams have ..."
+    publishedDateTime: 2021-11-05T20:13:00Z
+    webUrl: "https://afro.com/facebook-to-shut-down-face-recognition-system-delete-data/"
+    type: article
+    provider:
+      name: Afro
+      domain: afro.com
+    quality: 24
+    images:
+      - url: "https://afro.com/wp-content/uploads/2021/11/Facebook.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."
     publishedDateTime: 2021-11-02T21:27:00Z

@@ -29,61 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) Chips Market: Worldwide Industry to Boost in the Period of 2021-2026"
-    excerpt: "Chips Market Research Report presents the overview and in depth study of worldwide Artificial intelligence (AI) Chips Market for"
-    publishedDateTime: 2021-11-02T22:00:00Z
-    webUrl: "https://www.reportsgo.com/artificial-intelligence-ai-chips-market-181757"
+  - title: "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026"
+    excerpt: "Market Study Report has released a new research study on Healthcare Artificial Intelligence market Analysis 2020-2026 inclusive of one or more factors covering regional opportunities, application landscape,"
+    publishedDateTime: 2021-11-02T11:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-11-02"
     type: article
     provider:
-      name: reportsgo
-      domain: reportsgo.com
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: "https://www.reportsgo.com/img/img-1.png"
-        width: 500
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Media and Entertainment Market Is Booming Worldwide | Wipro Limited, Google Inc, NVIDIA"
-    excerpt: "Get the inside scoop of the Sample Artificial Intelligence (AI) in Media and Entertainment report @: jcmarketresearch.com/report-details/1468817/sample Research Methodology while conducting the study of “Global Artificial Intelligence (AI) in Media and Entertainment Market Data Survey Report 2029” Secondary research Our Artificial Intelligence (AI) in Media and Entertainment industry analyst refer a broad array of industry sources for our secondary,"
-    publishedDateTime: 2021-11-01T16:21:00Z
-    webUrl: "https://chipdesignmag.com/artificial-intelligence-ai-in-media-and-entertainment-market-is-booming-worldwide-wipro-limited-google-inc-nvidia/"
+  - title: "Self-Driving Cars Market Size, Share, Revenue and Volume Forecast, by Type, Application, Key Players and Regions 2021 to 2025"
+    excerpt: "Nov 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Industries around the world are aiming"
+    publishedDateTime: 2021-11-02T08:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-size-share-revenue-and-volume-forecast-by-type-application-key-players-and-regions-2021-to-2025-2021-11-02"
     type: article
     provider:
-      name: Chip Design
-      domain: chipdesignmag.com
-    quality: 28
-    images:
-      - url: "https://chipdesignmag.com/wp-content/uploads/2021/11/Global-Artificial-Intelligence-AI-in-Media-and-Entertainment-Market-Including-Key-Players-Market-Share-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
-  - title: "Conversational AI Market worth $18.4 billion by 2026 - Exclusive Report by MarketsandMarketstm"
-    excerpt: "According to a research report \"Conversational AI Market by Component (Solutions and Services), Type (Chatbots and IVA), Technology (NLP and ASR), Business Function (Sales and Marketing, and Operations),"
-    publishedDateTime: 2021-11-01T15:00:00Z
-    webUrl: "https://www.lelezard.com/en/news-20075927.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 27
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Worldwide Surface Computing Industry to 2026 - Key Drivers and Restraints - ResearchAndMarkets.com"
-    excerpt: "The “Surface Computing Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. Surface computing uses an advanced natural user interface (NUI) and eliminates the necessity of a keyboard and mouse for input."
-    publishedDateTime: 2021-11-02T15:14:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-middle-east-health-ee8d2b4383fd43609362a62cf627b905"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "KKvQqITOgOJEvr6tsEf9LS++wnNWafijQLtmw3qfHWn7UhnmD+eABRFiIlQIiIFQjhLLJeo3asimyD9T2PoZj3mPFA1Rx+MoyuSNDV5OVwXQL6EqhtlLAYqZ6BgJtsr5ajaeZK3Khe61GOwQYem9unV1ljzTRhm13bOItXaZrOlpZRawc+7OiUWRDXza58wGfZrj6U+DQ53HH+htDKLyo2iBYyi3MDRMJHnLqkhn0BStB+RqM9QRgvea0MXOdvcOPD/77Pz28co1AF7xMlUCFCOS1Y9a3G8z7CQDIvJXvkR/fiqVK9bvJj+GhMnnuaZmGGkAJ06iNk61dScxkcB5OXTg/ScYncR7yQTOgYS9it8=;onYjXA0M2bpVpvxvXj+xlA=="

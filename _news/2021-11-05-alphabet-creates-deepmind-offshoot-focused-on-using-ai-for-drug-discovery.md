@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/alphabet-creates-new-subsid
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - Google AI
 
 related:
+  - title: "Google launches DeepMind 2, a pharmaceutical hullabaloo"
+    excerpt: "Isomorphic Labs is Alphabet's newest spinoff. The media's in love with this darling little company run by the head of DeepMind. Should it be?"
+    publishedDateTime: 2021-11-05T20:26:00Z
+    webUrl: "https://thenextweb.com/news/google-launches-deepmind-2-pharmaceutical-hullabaloo"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2Fisomorphiclabs.jpg&signature=10d72a2c2b689228a1c574734e5da880"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "The slippery slope of using AI and deepfakes to bring history to life"
     excerpt: "To mark Israel’s Memorial Day in 2021, the Israel Defense Forces musical ensembles collaborated with a company that specializes in synthetic videos, also known as “deepfake” technology, to bring photos from the 1948 Israeli-Arab war to life."
     publishedDateTime: 2021-11-02T19:02:00Z
