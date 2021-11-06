@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/11/3/22761001/clearview-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete"
 type: article
 quality: 168
-heat: 238
+heat: 248
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/9b8e05babaf9fcfff8634a9e89dbf5bcce73a207/1493_0_3799_2280/master/3799.jpg?width=620&quality=85&auto=format&fit=max&s=2952e1eef9cde6048259b3ac7ac52a9c"
         width: 620
         height: 372
+        isCached: true
+  - title: "Australia says U.S. facial recognition software firm Clearview breached privacy law"
+    excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data collected in the country after an investigation found it breached privacy laws."
+    publishedDateTime: 2021-11-04T02:53:00Z
+    webUrl: "https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 63
+    images:
+      - url: "https://www.reuters.com/resizer/jFIMB9sO2Pgh02m6HYX9le7rWKc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5OK2AH5UFVM2DKLI44GFGOABOA.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Australian artificial intelligence research to help astronauts grow plants in space"
     excerpt: "Within the next five years, astronauts will be growing vegetables in space with technology developed by Australian scientists."

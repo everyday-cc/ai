@@ -133,6 +133,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Australia says U.S. facial recognition software firm Clearview breached privacy law"
+    excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data collected in the country after an investigation found it breached privacy laws."
+    publishedDateTime: 2021-11-04T02:53:00Z
+    webUrl: "https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 63
+    images:
+      - url: "https://www.reuters.com/resizer/jFIMB9sO2Pgh02m6HYX9le7rWKc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5OK2AH5UFVM2DKLI44GFGOABOA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "/rAhZKIvuOHxUMy/tKG7PnD5F1SQJohvBPD1z2EFa3SHSBz6FbZJTdGtY4ze3Y6KWGa8lMYdxiuuaNQM4/kCNfpHdWy+1/NqFQIYlNA4RULCC/Mae9WBMwjuuHe9Hbb24yStXTvkuYoA37jx6y16/cCvl0Mu6pdj1Gv3AFaEokmNG5SD58LZxaxbk3Exif/sFDQwMRoWTwZdG+sExxb1IgsezuSScaWy3HmKPuRAWQSP4SllziU3uBq17wN9F0Iy5NRRQJXzC2LguOuJknI79jq3XCKLcniGgjITKBs4SjKMHTc021qhwqmOuLRHqWMzAoGaLRHNkUjKdmkTPQMrIbkxGAgPqb6qRq0ZFibfwB4=;1d4R3EiP/uLokM067Xr7/Q=="
 ---

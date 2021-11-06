@@ -2,6 +2,50 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-10-06-china-publishes-code-of-ethics-to-regulate-artificial-intelligence-what-would-isaac-asimov-say.md",
+      "title": "China publishes code of ethics to regulate Artificial Intelligence, what would Isaac Asimov say?",
+      "excerpt": "Going ahead of Europe, China has already published a six-point code of ethics to regulate Artificial Intelligence, giving 'full decision-making power' to humans, very similar to Isaac Asimov's laws of robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php",
+      "originalUrl": "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/22/14/54/21547828/3/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite.md",
       "title": "Descartes Unveils Artificial Intelligence And Machine Learning Enhancements To Routing, Mobile & Telematics Suite",
       "excerpt": "Descartes Systems Group (Nasdaq: DSGX) (TSX:DSG), the global leader in uniting logistics-intensive businesses in commerce, unveiled artificial intelligence (AI)- and machine learning (ML)-based enhancements to its Routing Mobile & Telematics suite.",
@@ -1120,50 +1164,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-potential-of-artificial-intelligence-to-accelerate-diagnosis-and-drug-discovery-for-covid-19.md",
-      "title": "Potential of artificial intelligence to accelerate diagnosis and drug discovery for COVID-19",
-      "excerpt": "The tests currently used to diagnose COVID-19 are based on real time reverse transcription polymerase chain reaction (RT-PCR), computed tomography medical imaging techniques and immunoassays. It takes 2 days to obtain results from the RT-PCR test and also shortage of test kits creating a requirement for alternate and rapid methods to accurately diagnose COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://peerj.com/articles/12073/",
-      "originalUrl": "https://peerj.com/articles/12073/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dfzljdn9uc3pi.cloudfront.net/2021/12073/1/fig-1-1x.jpg",
-          "width": 600,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PeerJ",
-        "domain": "peerj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

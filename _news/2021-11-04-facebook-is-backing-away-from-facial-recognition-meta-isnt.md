@@ -540,6 +540,22 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Facebook to shut down face-recognition system, delete data"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-05T22:20:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 46
+    images:
+      - url: "https://s.hdnux.com/photos/01/22/50/01/21659713/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Facebook announces it's purging 1 billion faceprints from its system"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
     publishedDateTime: 2021-11-03T05:43:00Z
@@ -636,21 +652,21 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Facebook to shut down face-recognition system, delete data"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-05T22:20:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
+  - title: "New face-recognition attendance system at KIOCL pellet plant"
+    excerpt: "Adapting to new technology, KIOCL on Saturday formally launched new face-recognition attendance system at its pellet plant. The 600-odd employees hitherto used to punch in and punch out. KIOCL Chairman and Managing Director T."
+    publishedDateTime: 2021-11-06T19:34:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece/amp/"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
+      name: The Hindu
+      domain: thehindu.com
     quality: 44
     images:
-      - url: "https://s.hdnux.com/photos/01/22/50/01/21659713/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.thehindu.com/news/cities/Mangalore/rg0vwh/article37362945.ece/ALTERNATES/LANDSCAPE_615/7bgkateel"
+        width: 615
+        height: 384
         isCached: true
   - title: "Visual AI panel and musings about photographers in Facebook’s metaverse"
     excerpt: "Visual 1st held a panel of scientists and tech gurus called \"Visual AI — The One-Click Future and Beyond,\" discussing the role of AI in visual fields."
@@ -896,6 +912,6 @@ related:
         height: 675
         isCached: true
 
-secured: "fEJ6polNCzrpurIdaMBRFHjCp589VrTE79m+LfgztS2+2n/pjyonqjievAzGyAyx/AagIirrMEkrwKZV95VYFrcqCA2Fm0HxXBC7E19wGfPHHOro5LrTYq1NxtwV8dJvmSDDWzzhI2PxsfoKil4N2b3LF6VwuqHPB8/H4X8iYueWhT+7qRyZwEEpyhb3Iz6CaEgn47NW9/IPyOspYlv/9bYYsomXQscN4k/vNFiO0lUmCrgyvfVNph3/wMSwiverQlhFDTlEhuCzOL+/gIz6Z6Dt7IHBgxwxjLgkgEHSqwjHfMDao02pvbWP+S8lUwdbNwSVD5Nv9c0FESwJ3yUMIVu8FGVwqNyONZaE4/C/YpE=;HZ8QXrMuboaqm3/L75YyJg=="
+secured: "VZ+to+XWYhEnfh8vN4g5/AoycuJgpTtfZbEwxn0Q1wp8VYD29cb/L+m4d2fwanhkUfV4pK4r8tWwQMqqY35FkJjZpK7E/Gl0xfXZBmvYv82oZyGl2kMCUMJOFY4h+ziEmJNIeMa76omE7PkgGUvH64N/WWYoqo05ifM3eJpuGzWF5f3LRNHAIgJe8/HhyLgzLtJsboJin2jqT6IRM/qr94GauO5F3lBblxH7mG7lamW0lUhKOVsizbnrIlO59DA8yh37gDUMDQKlb/WpoDZzK4we63c1VGqLvMflIgNLOag8peTz6ewPlJBWSzQj5/V2B3lUdFnRVFyG7ImkfIYAb2W5owFzkEkbdW2jvv07atUdIdAx2CjSOq3f80fqSXlQIz1o0J2V8gzBLUZ/188zPudsGv0w1KqeURUkooJ9h1BQPiB4RfL/jmFQ+3NoKq86GRZvOobNY04KfpxY+M/0FLOH23R5KfS01UY1XdnsgIXlZ3r6tgVytxZO9kfZMYRPsBPkpE2GHKPWIkdNceLX8KoUzGjRH1WkmHNmSbp8jo8=;pqmH3nJa+nRiYgGKNyqIRQ=="
 ---
 

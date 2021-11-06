@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Iron Ox Launches Grover, an All-New Autonomous Mobile Robot"
-excerpt: "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile support robot named Grover. Grover is not your average farmer."
-publishedDateTime: 2021-11-02T10:02:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-environment-robotics-3def91b570ac36de404ae9d96a9c4645"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-environment-robotics-3def91b570ac36de404ae9d96a9c4645"
+excerpt: "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile"
+publishedDateTime: 2021-11-02T10:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iron-ox-launches-grover-an-all-new-autonomous-mobile-robot/article_71adf2cd-8d3c-53ad-8464-7165671fb2b0.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iron-ox-launches-grover-an-all-new-autonomous-mobile-robot/article_71adf2cd-8d3c-53ad-8464-7165671fb2b0.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/d6/bd67b53c-8b04-588f-aa35-169a035b1981/61810c7528ccd.image.jpg?resize=800%2C533"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 337
         isCached: true
 
-secured: "p1cOmC8A37P0tMuRQKLYDotiSwLezASbLcecIxqZd5hUjbv4Nk4yveLi6YHb9LZ45LP6/TJuPA2I4x4IQMKN/zr6w40Udy/yczNRc7rO9yK7cV/XolNrRg4a+IA4dsvNZEHHj+ISk970oiaUu36Ul6G4Bs9frjQcNow/CtiZ47scUkKsW4M8EaOnD5vIKetDXdURvDLKW777KI5UCRJh/Zi8k3GsWpR2OACKVAGceRlW3JZx/gEpxWHEpo0fvrC+7tF4g3iOXBcQOwhFIB0U4n8/DU7tTPLwLLRIdtWFPjxkHnRK9peIyEeJmOSre5qSD+kWkBthBNovGdtXrvIUl/3Oqio2g1JjHlfj+omHL18=;gJfQkvOlHe1SN3AQavKryA=="
+secured: "+x1Hn5LxjIpXNrsAjshiIEfaHLBBzZhn3pD0byCNrCagSQWMpDmSFzfl59nMjoycauirTqmrJRrbo4ZyOB+Esz8v3JJRcQkd344NALjrcAaOwY2N7mI0/iWeBDSE6RBXQFTRPWW7SEpEGzygrTm8CcIAFpiHYr55oBr/Zd3BJWkmfqG78tWgG7y0gjxIlj3KAnQ62eIz1+TmA/wdTrFnKvHjrhcPhakrDr69vFXb/NhRFypX4I0Dhb6JA3+zDyKn/Lh4RJ81KzaXU3X+3QdNcJPYnovRSxINRMYufrsyU193rlbrg8M/lSimdkJOclLLLp/3ULOvvyxtGn+DIiy2EFNrrV/xVXVYeENyCAh5IJw=;+civKU3/ovta0qcKvgMYUw=="
 ---
 

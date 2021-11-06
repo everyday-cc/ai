@@ -323,24 +323,33 @@
     {
       "path": "_news/2021-10-26-wolters-kluwer-announces-integration-of-its-clinical-natural-language-processing-solution-with-henry-scheins-micromd-emr-platform.md",
       "title": "Wolters Kluwer Announces Integration of Its Clinical Natural Language Processing Solution With Henry Schein's MicroMD EMR Platform",
-      "excerpt": "Wolters Kluwer, Health announced today that MicroMD®, Henry Schein Medical Systems' practice management and electronic medical record (EMR) solution, will implement the Health Language clinical Natural Language Processing (cNLP) solution to help accelerate and optimize patient medical record review.",
+      "excerpt": "Wolters Kluwer, Health announced today that MicroMD®, Henry Schein Medical Systems' practice management and electronic medical record (EMR) solution, will implement the Health Language clinical Natural Language Processing (cNLP) solution to",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-wolters-kluwer-announces-integration-its-clinical-natural-language-/2021/10/26/9477667.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-wolters-kluwer-announces-integration-its-clinical-natural-language-/2021/10/26/9477667.htm",
+      "webUrl": "https://www.lelezard.com/en/news-20065889.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20065889.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T06:39:00-07:00",
+      "publishedDateTime": "2021-10-26T06:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null

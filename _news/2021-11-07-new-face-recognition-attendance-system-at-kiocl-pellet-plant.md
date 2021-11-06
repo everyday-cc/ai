@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Meta shutters Facebook’s facial recognition system"
-excerpt: "Meta will shutter Facebook’s facial recognition system and delete data collected from 1bn users that has been used to identify them in photos posted on the platform, citing growing regulatory scrutiny of the field."
-publishedDateTime: 2021-11-02T18:35:00Z
-originalUrl: "https://www.ft.com/content/48707a39-fc8a-411b-a252-66468d1e134f"
-webUrl: "https://www.ft.com/content/48707a39-fc8a-411b-a252-66468d1e134f"
-ampWebUrl: "https://amp.ft.com/content/48707a39-fc8a-411b-a252-66468d1e134f"
-cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/48707a39-fc8a-411b-a252-66468d1e134f"
+title: "New face-recognition attendance system at KIOCL pellet plant"
+excerpt: "Adapting to new technology, KIOCL on Saturday formally launched new face-recognition attendance system at its pellet plant. The 600-odd employees hitherto used to punch in and punch out. KIOCL Chairman and Managing Director T."
+publishedDateTime: 2021-11-06T19:34:00Z
+originalUrl: "https://www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece"
+webUrl: "https://www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece"
+ampWebUrl: "https://www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece/amp/"
 type: article
-quality: 59
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fadbce09e-9a3f-44b3-b660-5f7e8cded4d8.jpg?source=google-amp&fit=scale-down&width=500"
-    width: 500
-    height: 281
+  - url: "https://www.thehindu.com/news/cities/Mangalore/rg0vwh/article37362945.ece/ALTERNATES/LANDSCAPE_615/7bgkateel"
+    width: 615
+    height: 384
     isCached: true
 
 related:
@@ -460,6 +460,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Meta shutters Facebook’s facial recognition system"
+    excerpt: "Meta will shutter Facebook’s facial recognition system and delete data collected from 1bn users that has been used to identify them in photos posted on the platform, citing growing regulatory scrutiny of the field."
+    publishedDateTime: 2021-11-02T18:35:00Z
+    webUrl: "https://www.ft.com/content/48707a39-fc8a-411b-a252-66468d1e134f"
+    ampWebUrl: "https://amp.ft.com/content/48707a39-fc8a-411b-a252-66468d1e134f"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/48707a39-fc8a-411b-a252-66468d1e134f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fadbce09e-9a3f-44b3-b660-5f7e8cded4d8.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Why is Facebook ditching face recognition and will it delete my data?"
     excerpt: "Users of the social network will have their face data deleted, Facebook's parent company Meta has announced, but it is less clear what will happen with the AI algorithms trained on that data"
     publishedDateTime: 2021-11-04T12:02:00Z
@@ -651,22 +667,6 @@ related:
       - url: "https://media.tegna-media.com/assets/CCT/images/d4f94cdf-5190-492c-a155-5f721e3672a7/d4f94cdf-5190-492c-a155-5f721e3672a7_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "New face-recognition attendance system at KIOCL pellet plant"
-    excerpt: "Adapting to new technology, KIOCL on Saturday formally launched new face-recognition attendance system at its pellet plant. The 600-odd employees hitherto used to punch in and punch out. KIOCL Chairman and Managing Director T."
-    publishedDateTime: 2021-11-06T19:34:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://www.thehindu.com/news/cities/Mangalore/rg0vwh/article37362945.ece/ALTERNATES/LANDSCAPE_615/7bgkateel"
-        width: 615
-        height: 384
         isCached: true
   - title: "Visual AI panel and musings about photographers in Facebook’s metaverse"
     excerpt: "Visual 1st held a panel of scientists and tech gurus called \"Visual AI — The One-Click Future and Beyond,\" discussing the role of AI in visual fields."
@@ -912,6 +912,6 @@ related:
         height: 675
         isCached: true
 
-secured: "AReDSr+RpOP3YdUuAuGQbcFY78coHzeXYV8YHOdiEDlHtIh0QAU/uxD02C3ddONkXZepbnDhp4T/x7kjmmVd9LYgHLW/HFdsaQu0tk6TBsgzmTxsh+nkGEUGyKCRBQxVhoj+diFahwkFso8RgLFSDtcV81elHn+y9maX4u0ZAFWaQGC+pno6axX51C4QkH2wf1hxr0rCKdcJFNf7RAmNLNajUK3eEf35sfjP/8/5g4rcoqfYfVw3FZhmV+JLQwdSLv7SvZ3ZXzzzsG4o+0WzJI4FzoJMFck8v/PGkB6x3fu7qLJSdzHTsw0YboyKlcQgC5JApCVPTrtNDGWZDh2YCLUlOLFrOlYbqyQyViEXpsc=;qschWaWNZLBZSJOL7adrrA=="
+secured: "ZZDnjuNu2rPbjAhACDwLWsxUVKGRRoW0onxgjqKpDlV0YFa60gkmX652LUu2t2f94Z6rIpp+XgfxLX83avnARbiMH+EpuS0VqegIot9eyhw/KgsLpjGo04mhjBeCjIfRgWnRQ29SJb7yddA7ZraZfiQPH4XhHVdkTYmw3L+tvj6jYh5JUeY1whra1uGQLTqCpxjwEL9ois8dOgRIa8zr3Amx8iMiuT6+eak4PDagrq9mNZ+WjejbusVWOE5D5i2ChIuGdbreQIHqShgGPK48QfEX+Bti85HFgTgdeMq6SzAVi8ytS4WWmw1/nYWnBNNKxoSBiSk77SlIn6agGXSgdu0GTLAy9Yg9Fjq8K4GMY2o=;gXQWM0R3bFumxGvcyzva0A=="
 ---
 

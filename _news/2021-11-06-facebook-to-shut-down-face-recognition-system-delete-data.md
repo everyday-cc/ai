@@ -8,7 +8,7 @@ webUrl: "https://www.stamfordadvocate.com/news/article/Facebook-to-shut-down-fac
 ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
 cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://s.hdnux.com/photos/01/22/50/01/21659713/3/ratio3x2_400.jpg"
@@ -652,6 +653,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "New face-recognition attendance system at KIOCL pellet plant"
+    excerpt: "Adapting to new technology, KIOCL on Saturday formally launched new face-recognition attendance system at its pellet plant. The 600-odd employees hitherto used to punch in and punch out. KIOCL Chairman and Managing Director T."
+    publishedDateTime: 2021-11-06T19:34:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://www.thehindu.com/news/cities/Mangalore/rg0vwh/article37362945.ece/ALTERNATES/LANDSCAPE_615/7bgkateel"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Visual AI panel and musings about photographers in Facebook’s metaverse"
     excerpt: "Visual 1st held a panel of scientists and tech gurus called \"Visual AI — The One-Click Future and Beyond,\" discussing the role of AI in visual fields."
     publishedDateTime: 2021-11-02T10:00:00Z
@@ -896,6 +913,6 @@ related:
         height: 675
         isCached: true
 
-secured: "JNf0xqcEmG/aG+N29xlrnJTCN1ArgFhj+SlgfZArEn2vv4d0JKS3U/bd3ry0QKTjcj3VKtFgFpsLFpTKH91zkKq9Qdrw5PROuXp8+66L2NXnlVzPA2BVPAQoJgQ7QrWiSPUGsA+QQTHYK/fx1eNqVheaQ77xz3flWKMpkwYhVA82aklxqbmYqPNrA37BwqSEupKNUGl/NzKrekmldiPZnDf/6t0EMXCzTuytvj18q0U265hhAJbI5xPadd3UrLH8KWiSc/bchEmV++j3s6MZGzxVaEOfFVkxkjE8lhcykplogYnUp32IJntTWa6JcQszSVRGrDDccz1uFAUh9q/CUSrHvRSRO0ZQq8xBtPxBPYs=;BB2wFqOk/n3Ow/vhNfIpVA=="
+secured: "eXLWaIcazLY1Ek2ZDXfHncSEIdfn4oDp4yue7UDarH0Elrw45E5AaSzbVYmsz31BOqaeyqO9D3BZzH7fnW0CxbJURYS4jjC1STIw1w0tTg6uLcPaJHgqxuADjUQ2FfYcdWEYwso4khmf/Fyus7D3U64DjxdJA11BH2+yES231KLeCJwxVLwVChJSh3/9Etk+Lu4ABC5D/I1BTIt6YkVjM36n2YRgV3QIqfQlgEb4DocR6trkGCO67qao4GOPEyMIVaKM5fo6XCrP9ivrsfzw19BfPV9hOp3gOH8RyGh0OUJ/kQckK/nUkFEjDjtGREPgQInwbJh0WU22HOtDHZr+M9u1dPs5fKloWVFoIJEI1V+HOtbLnpea4WFe34r86GCXDjgkvvjOSdq2M4nqjd7fE0riOq3ZQlzHZ4aMUr+x/G0UAYp367w71t6wCcfFxIzfenZvTRUStCxwg85qizYexuMiXUCnkvXvpCIDh05hcOAq2BbBSofqqjnkklUms398qRYNa3I4ksR2vmJLc3Cm0w==;k69WdNbytOAKXY3qiA16Fg=="
 ---
 

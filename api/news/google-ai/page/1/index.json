@@ -428,6 +428,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-20-debug-tf2-migrated-training-pipeline.md",
+      "title": "Debug TF2 Migrated Training Pipeline",
+      "excerpt": "One assumption is you have TF1.x code and trained models for comparison, and you want to build a TF2 model that achieves similar validation accuracy. This notebook does NOT cover debugging performance issues for training/inference speed or memory usage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/migrate/migration_debugging",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/migration_debugging",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T19:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-deepmind-acquires-and-open-sources-robotics-simulator-mujoco.md",
       "title": "DeepMind acquires and open-sources robotics simulator MuJoCo",
       "excerpt": "DeepMind has acquired and pledged to open-source MuJoCo, a popular simulator used in robotics and AI research.",
@@ -1378,59 +1430,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-tensorflow-1x-vs-tensorflow-2-behaviors-and-apis.md",
-      "title": "TensorFlow 1.x vs TensorFlow 2 - Behaviors and APIs",
-      "excerpt": "Under the hood, TensorFlow 2 follows a fundamentally different programming paradigm from TF1.x. This guide describes the fundamental differences between TF1.x and TF2 in terms of behaviors and the APIs, and how these all relate to your migration journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=hu",
-      "originalUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=hu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=hu",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-02T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

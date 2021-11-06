@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/02/microsofts-new-azure-openai-servic
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/amp/"
 type: article
 quality: 116
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Vectra AI Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Vectra AI today announced the availability of Vectra Detect in the Microsoft Azure Marketplace, an online store providing applications"
+    publishedDateTime: 2021-11-02T12:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vectra-ai-now-available-in-the-microsoft-azure-marketplace-301413658.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
 
 secured: "68ccAwNCUoRm4EbqzmaZgkp3/l857f17jg6YHWIWq8HwbQRbEAaacyXuwnwQLVAyL17NK+Y74BWPtMa4nxpLQN5gvnGFgheHUdnu1U3dfFYOtjWZ7W/JQfuqQj5HYQ4fM1DO7EA7/wQ5hyBEevlerVdZoXpVsC6qUTAuRYPa3wpqAfikFwtqcWXDu/qntrAqEAETHai3agXhH9BZxkhkPf3c1WY+uDMzCFaEsM8r/EDe5KHG57APGrR63KhYA9shYWGfoZ3Am1PkQWOpz4sAWjaOsAvobho7UrsjqZGQYnBLV3/WSHctu182NEMBQm89TG1/r7Pyif1yy7voB5EJS69uwcJZGzo679FhLtdkI32LOQBKxqdaQmhfnM4YjTSfHESCM/cSSjMvs3XMTi/4dMnrKsMxONoEq1xTQhGuLfgoTeZ6Elua7RV5asGHUiUJRUb1Qre2/LJ69CRVEV8AhHcaIlUVkmfw8gEv4h+zACx4c4nYKaIX0jMKH5Lmx3KATwMHM6eV7VdP2BJy4nIw1Q==;s8gSrxtVGzrSbeIGVYPoug=="
 ---

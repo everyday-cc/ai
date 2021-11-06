@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-acce
 webUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://lh3.googleusercontent.com/p9rDEy2TS05gmljGu-JgnaBaMzEV42FH5xYwNZwp0-uz2JUzLKTHQV8zCDIIog1zKOcCSsTbXdvxfvRDsOGrwhi3vcZlptMvPrt4=w816-h428"
         width: 761
         height: 428
-        isCached: true
-  - title: "Mitsui in collaboration pacts on artificial intelligence and carbon capture, utilisation and storage"
-    excerpt: "The Japanese company has signed memorandums of understanding with Denbury Resources and PGS related to the energy transition"
-    publishedDateTime: 2021-11-02T02:23:00Z
-    webUrl: "https://www.upstreamonline.com/energy-transition/mitsui-in-collaboration-pacts-on-artificial-intelligence-and-carbon-capture-utilisation-and-storage/2-1-1091980"
-    type: article
-    provider:
-      name: Upstream
-      domain: upstreamonline.com
-    quality: 22
-    images:
-      - url: "https://images-global.nhst.tech/image/SDVBNVVwWlhJN29xeFAybnIwL2hqSkNBUFJybW1YR3hrL1dWWmxIT0FnTT0=/nhst/binary/80a8f587dc574756a112fbd1ceb8ec2f?image_version=720"
-        width: 720
-        height: 358
         isCached: true
 
 secured: "YIHRHkrMgSFLqtuKuldEBjioNEoK2L7fQeDTsZivB0p++A1h1HG7ppp/k36iXhpOGpJp5GP8ZOjCoJ3bPWlLf8mOVo9FLJTe9lKLvj1eb7zdpavC/ScvFglWiMMff3r6iAgQYmVmZfngTowbUWQTHloFEN6iPxDebdU2qRT3naGOyCR/65GeOvFG8fWvjNFtsNf9pqz4UCDS15GmW4HCODyTyYi75XHhh6BthwohbuuUULrcD19upJJvDkEij2m7uqFyaOrxoQaD1IsSBwLnhghWL481XctRCRKQtkyD/KkepA2qAgFm7b6Nd2xzp6dxrHw8NNRF6Jo9fVScDgzw3EyNWwm59rspX36+KNqPUZlb/hbMQHJ+X4QdTpON+cSL3XlfvF0dIlRQzikbuR4reAb6EIkMu2e5TjLIVeS3OiF4Fg7rXBlzFSW0nl7VjzOVXJH7wuSv19/jPrdkDxuB+jcQbFcq8GC71nc5rj1SvPw/ZyZ2NWom+AUI4VXd7VWo+q+FoQldv41fmqEclUIY8w==;MoF+tt7iKimqa9ydF/LBuw=="

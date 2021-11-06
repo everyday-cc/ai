@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Clearview AI slammed for breaching Australians' privacy on numerous fronts"
-excerpt: "Despite uncovering Clearview AI's intrusive practices, Australia's Information Commissioner conceded that the number of Australians who have had their biometric information scraped by the company was unknown."
-publishedDateTime: 2021-11-03T01:38:00Z
-originalUrl: "https://www.zdnet.com/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
-webUrl: "https://www.zdnet.com/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
+title: "Australia says U.S. facial recognition software firm Clearview breached privacy law"
+excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data collected in the country after an investigation found it breached privacy laws."
+publishedDateTime: 2021-11-04T02:53:00Z
+originalUrl: "https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/"
+webUrl: "https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/"
 type: article
-quality: 65
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - Computer Vision
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/jFIMB9sO2Pgh02m6HYX9le7rWKc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5OK2AH5UFVM2DKLI44GFGOABOA.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Clearview AI ordered to delete all facial recognition data belonging to Australians"
@@ -104,6 +109,17 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Clearview AI slammed for breaching Australians' privacy on numerous fronts"
+    excerpt: "Despite uncovering Clearview AI's intrusive practices, Australia's Information Commissioner conceded that the number of Australians who have had their biometric information scraped by the company was unknown."
+    publishedDateTime: 2021-11-03T01:38:00Z
+    webUrl: "https://www.zdnet.com/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 65
   - title: "Facial recognition firm Clearview AI to appeal order to stop collecting images of Australians"
     excerpt: "Company stands ground after watchdog finds it breached Australians’ privacy by scraping images online"
     publishedDateTime: 2021-11-03T07:11:00Z
@@ -119,20 +135,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/9b8e05babaf9fcfff8634a9e89dbf5bcce73a207/1493_0_3799_2280/master/3799.jpg?width=620&quality=85&auto=format&fit=max&s=2952e1eef9cde6048259b3ac7ac52a9c"
         width: 620
         height: 372
-        isCached: true
-  - title: "Australia says U.S. facial recognition software firm Clearview breached privacy law"
-    excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data collected in the country after an investigation found it breached privacy laws."
-    publishedDateTime: 2021-11-04T02:53:00Z
-    webUrl: "https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 63
-    images:
-      - url: "https://www.reuters.com/resizer/jFIMB9sO2Pgh02m6HYX9le7rWKc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5OK2AH5UFVM2DKLI44GFGOABOA.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Australian artificial intelligence research to help astronauts grow plants in space"
     excerpt: "Within the next five years, astronauts will be growing vegetables in space with technology developed by Australian scientists."
@@ -151,6 +153,6 @@ related:
         height: 447
         isCached: true
 
-secured: "ZKBekimsBuR5hCwE+ckFmKtIc6jU3DUV5sp1GHoGpGAFtYoebrzKGlIa5362VefPT/z3gIgjaREbjuyxXZnxhgBAYrjypSkVP7R/z9jB9Pd358Of+dqX2nujfY/oAEmUL1yew6ASUSRrCN2bY/4SOgmfgqrD7qQhvuCSwywbFXd2xysE1AgUNwkFgmQpPAfi88fWiZz/Nec6Z51ugDCdTezKA6OJPt1EdxEeLh3Tnxop19Qpta3Xo1kXYfjW/YCBEzaLEnXFmq24GQqzwe7vuZu8Lei6NwP1QDyuh/Jv8j2oLvT/SKTp9BwjI5KxLULRzVtB0aWDjtnk2gK3GUIX/F5OlTMBf8jn5MTnlPQ3WvEa2ehfQWnRd1MBhShAveKujiXbEkvzqFutuYTW5R7OfiJC+oFTUfP9CzjNY7zeTQqqAd4/aJn3EmWd40vA3F8qNbyGMP3UfpmEIu2KCjemZCKWS0EMQ2fhJDv4wPPOL0nh6aSug+4q/NKsp23H+eLv6A/C8L40do7a6DG73V/YLQ==;ncrNHSCLYFQ9Ow3SiLeaAg=="
+secured: "XGeDG9DJQp7Lv9ti9pvneW1ddXvz/n6EPBnQbaU2zoJvQEUbI90iaB2Sea443xGOFsO98syzVkxMqS056sDFywYuUwED2TiHkxZU4azIVNQurS0B26YerRDAxWOwpyFT1SU8CFsbcuE5SYZjflMOErotP84ssIYsEsr6yYbCKct2P8snNmmn3eQF0YN8nNSgEcfoRmeN9BTyaZjOlc3vK22Tk7yz/CafEotbfZb4iilMc9Cjq8oLHLnL547xl3fUTBIZFyZqumovPiPSICBc2CHq4iYTOF7f3Ql5piTsH0FYa4GueEjuvaIIt58h7nNeUhCDRuM8oPbYADGOew9ubRc9sPZaL8qaFt46X+Cs830=;ukaM5YqLzhXLCaLTb/44nw=="
 ---
 
