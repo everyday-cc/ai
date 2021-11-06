@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-11-artificial-neural-network-rad
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.news-medical.net/image-handler/picture/2014/7/Rheumatology-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Researchers Present Global Effort to Develop Machine Learning Tools for Automated Assessment of Radiographic Damage in Rheumatoid Arthritis"
+    excerpt: "Damage in the joints of people with RA is currently measured by visual inspection and detailed scoring on radiographic images of small joints in the hands, wrists and feet. This includes both joint space narrowing (which indicates cartilage loss) and bone erosions (which indicates damage from invasion of the inflamed joint lining)."
+    publishedDateTime: 2021-11-06T12:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/researchers-present-global-effort-to-develop-machine-learning-tools-for-automated-assessment-of-radiographic-damage-in-rheumatoid-arthritis-1030944025"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/465239/HSS_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Research: New artificial neural network detects radiographic sacroiliitis with accuracy"
     excerpt: "New research presented this week at ACR Convergence, the American College of Rheumatology’s annual meeting, found that an innovative new artificial neural network can detect radiographic sacroiliitis in patients with suspected axial spondyloarthritis,"

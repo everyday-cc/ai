@@ -49,6 +49,22 @@ related:
         width: 1200
         height: 899
         isCached: true
+  - title: "Facebook is backing away from facial recognition. Meta isn’t."
+    excerpt: "Facebook says it will stop using facial recognition for photo-tagging. In a Monday blog post, Meta, the social network’s new parent company, announced that the platform will delete the facial templates of more than a billion people and shut off its facial recognition software,"
+    publishedDateTime: 2021-11-03T18:20:00Z
+    webUrl: "https://www.vox.com/recode/22761598/facebook-facial-recognition-meta"
+    ampWebUrl: "https://www.vox.com/platform/amp/recode/22761598/facebook-facial-recognition-meta"
+    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/22761598/facebook-facial-recognition-meta"
+    type: article
+    provider:
+      name: vox.com/recode/22761598/facebook-facial-recognition-meta
+      domain: vox.com/recode/22761598/facebook-facial-recognition-meta
+    quality: 159
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/5a8gRe6FU9Hjc_e8wNjaJdlFcH0=/0x0:6720x4480/1400x1050/filters:focal(2351x982:3425x2056):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70087271/GettyImages_1236189905.0.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Facebook Drops Facial Recognition to Tag People in Photos"
     excerpt: "Facebook Tuesday said it would stop using facial recognition technology to identify people in photos and videos and delete accompanying data on more than 1 billion people. The news marks the end of one of the largest known facial recognition systems."
     publishedDateTime: 2021-11-02T23:38:00Z

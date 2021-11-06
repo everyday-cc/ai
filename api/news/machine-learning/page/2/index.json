@@ -170,24 +170,33 @@
     {
       "path": "_news/2021-10-26-the-coming-convergence-of-nfts-and-artificial-intelligence.md",
       "title": "The Coming Convergence of NFTs and Artificial Intelligence",
-      "excerpt": "The first generation of NFTs has focused on key properties such as ownership representation, transfer, automation as well as building the core building blocks of the NFT market infrastructure. The hype in the NFT market makes it relatively hard to distinguish signal versus noise when even the most simplistic form of NFTs are able to capture incredible value.",
+      "excerpt": "Building AI capabilities into the lifecycle of NFTs opens the door to forms of intelligent ownership, says the CEO of IntoTheBlock.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25",
-      "originalUrl": "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25",
+      "webUrl": "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
+      "originalUrl": "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.coindesk.com/resizer/337Dm4j0iUQkmYa0l8YD8QPsAXQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LANV5ORSRJAIRN7KPVV7V2ZCDE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25?amp",
+      "ampWebUrl": "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
       "publishedDateTime": "2021-10-25T11:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
         "images": null,
         "publishers": null,
         "authors": null

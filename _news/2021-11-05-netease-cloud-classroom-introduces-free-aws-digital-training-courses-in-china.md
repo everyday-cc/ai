@@ -3,8 +3,8 @@ category: news
 title: "NetEase Cloud Classroom Introduces Free AWS Digital Training Courses in China"
 excerpt: "NetEase Cloud Classroom, a platform offering online courses mainly targeting adults in China operated by Youdao, Inc. (NYSE: DAO), announced that it introduced around 100 free-to-use digital training courses offered by Amazon Web Services,"
 publishedDateTime: 2021-11-05T08:21:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-china-amazoncom-inc-artificial-intelligence-f1f5e1d1a87cdbe88514c1859a194030"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-china-amazoncom-inc-artificial-intelligence-f1f5e1d1a87cdbe88514c1859a194030"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-china-amazoncom-inc-artificial-intelligence-f1f5e1d1a87cdbe88514c1859a194030"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-china-amazoncom-inc-artificial-intelligence-f1f5e1d1a87cdbe88514c1859a194030"
 type: article
 quality: 51
 heat: 51
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "7GRENg7+p5FxfDQwWxHuNgBheerhRHnTJbf+djQbcwdW0b8pSdTuVpKGPh7OQy3L9dr2Kn+9Kv3N0en8i8qbLaVoUBZVeyQNtQ2h8d+yGdHBKFvcaXzaDwVgJu3SD8hZ8gnMH8442uOpzm91iaBYtKG0on61+DGh642n7OaWQc8xSMgemBDn7f8f+WLa/b5Bz3FbE96Md44q9b8EtO3zFLjiG3ExObi947ikTByuqEDsveIBOFYa3EbCyNYgqMKpLb0RQr/P1a3t3S4Rh0zoh0pDNWECAMSotjH6jRQp24i+foU+hqveEL9Jg1zixQZfRnzDb/P7Pe18o1PUW3K6C+ndXESh2bhty45JdHAFELE=;6M+xgf8aEDWUP3r0o1O3CQ=="
+secured: "v7F35N2czWKSObjlvTd81sgjsTbWdJlO2DKEroK7HX2GIXn9UC66Ow0aZs9P5CgN/gEXwVDsdybX0o9U8cQwgZJHN7Phw+EyYcJ7bm4t8q7raWM1JkuWBZ7S4Rkc1EajEsCCLwitYmZ6T4clqrANq+u5NF4q/Bjz24dh2soE4H4p+xLYpTa1IitU0b+4fCAH/9vUvJrz4MwvTW/Eo+vRqk832S+SWmh8bibkccs1s0WUX6gZYx5v2oQUZuuF6Fh39i5rfNan9r1lvImRtuQljjhZPWYsd94N58C+fC9omjbdEXGgmtSg2xvUbZlY0aROl7HD4q1UQfqxnJAA3jQvfCHoYxWX+IjPY1Z7wToLo9c=;Bh9pz405IBVFSIdbJhpSbw=="
 ---
 

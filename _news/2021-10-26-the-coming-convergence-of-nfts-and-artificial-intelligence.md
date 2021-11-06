@@ -1,22 +1,28 @@
 ---
 category: news
 title: "The Coming Convergence of NFTs and Artificial Intelligence"
-excerpt: "The first generation of NFTs has focused on key properties such as ownership representation, transfer, automation as well as building the core building blocks of the NFT market infrastructure. The hype in the NFT market makes it relatively hard to distinguish signal versus noise when even the most simplistic form of NFTs are able to capture incredible value."
+excerpt: "Building AI capabilities into the lifecycle of NFTs opens the door to forms of intelligent ownership, says the CEO of IntoTheBlock."
 publishedDateTime: 2021-10-25T18:43:00Z
-originalUrl: "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25"
-webUrl: "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25"
-ampWebUrl: "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25?amp"
+originalUrl: "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/"
+webUrl: "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/"
+ampWebUrl: "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/"
+cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: CoinDesk
+  domain: coindesk.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "RW1U2ePe5Yhp7E1jl1Df+XXPzu+sH+vjoojsx1sS3TDbLShwgxO02sr17GjGQomjLOFX1rRZS1NrquEYfS7Fr7yrG/AWmjrKp5dyywlwHlWMSwbGi2FQeFpTKTdWM5vziwMpXeEKJkbzKEBtmkkBjm4vOsEwDldEEaMr0up1qENWAYHXqVMimxQbzAIKXgB1nSw9nE1WUVS2R1PcVuRLHP/dkVkeFUOdut830beV9gd3cv7XmQsvIAQo2KsfyXGz9G2i30sF0L00MzSZXYeBjQjp7xIypIH65mwnsCfaPSeoSFgLohPl6ES+w/949zNjpsaCk0O6LD4XxtNJUFTUwTrSu/I4yf9dMvLqL31l7aJJpT1/RLjqPogjlr0TzlgJSJrBuBi5ufAFtcOdSNkPapyFMNhiVPeh+rvd1zGeq62GEKzt9yO2bAS6WvGXoYeUVGXrOV4fsevS4GdnmE5qr2CtgsgrMYIv26k+CovTkIIlBVtehJaBVGEPx49RKhkTGUyPOtuM8EVcKoLxP7/SRg==;jJJ/P2EZ5+OciSkx7tZQbg=="
+images:
+  - url: "https://www.coindesk.com/resizer/337Dm4j0iUQkmYa0l8YD8QPsAXQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LANV5ORSRJAIRN7KPVV7V2ZCDE.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "4si7fg8sAqZ77TSgXofYA9MlTbkgj3S5hOYI9y5A69YY/UtU+mzrn038uzIGwG2iTVshb2e2I6WwG2pqOgj43aPiCiP1WR09c72pDwAU5jIzPigeapCFT/N2YIZ8Jg0/F6mFK2+lPaUKUlBtlKiBTCM0TEewjGScscGpKrFW60GmPfE3kLN9ilfgInnnIYOqAazll+sEFWpo057GoctD97BR6qtyE7F1estzE/GDpwV+vivb45d+rtn1o3QhAr2ccDP2YQPAJxLVuA7Q+MV4IGNd+JOZK2AU7JXm7xdWYlJLdVvE5KcpHEuKzuvgyHUFC532gRuyIFSuxiaXO8QwPR9tEoHybyICAnNJIsapotE=;WPKNnezPY98AC5PaVdoEOA=="
 ---
 

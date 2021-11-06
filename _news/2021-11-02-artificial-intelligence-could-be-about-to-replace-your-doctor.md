@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence Could Be About To Replace Your Doctor"
-excerpt: "The US health and medical insurance industry is a $1.1-trillion maze that is impossible to navigate. And in the bigger scenario of a"
-publishedDateTime: 2021-11-02T12:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-could-be-about-to-replace-your-doctor-869100784.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-could-be-about-to-replace-your-doctor-869100784.html"
+excerpt: "The US health and medical insurance industry is a $1.1- trillion maze that is impossible to navigate. Mentioned in today's commentary includes: Sage Therapeutics, Inc., Cassava Sciences, Inc., COMPASS Pathways plc,"
+publishedDateTime: 2021-11-02T13:42:00Z
+originalUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-could-be-about-to-replace-your-doctor"
+webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-could-be-about-to-replace-your-doctor"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Insurancenewsnet.com
+  domain: insurancenewsnet.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Could Artificial Intelligence Be About To Replace Your Doctor?"
@@ -34,6 +40,6 @@ related:
         height: 287
         isCached: true
 
-secured: "0uzlvqdaOlQxgOO5RvKI3h9wKALaS3vIiRl4n9Kx875/zj67Kuhhix1pSYljnm1ovBYwUJiNzqSmI5SWH1TvTySaTfVLjCosZA6JfcAX0SnJwPNyCSgZgeT+k/Mu+oi3bvtg2Ln3ABT7mOS3tWxi5NNEXoBmYiHXlk25Sz/ACKsMSg2fDgTVj7m0+UtBjP7seGNrdy9gpacHWeZrbBgHr9Z/iOjH6UGH1ArxXxWdWMrvrm8D8bUdAEph3mp64HjFu1nKTWveRZMLXUm9HFaz6OKwQpyXZHp0w/SkZycTRJcYyoBr0ssbFYRwkzZGbOgOi406qFTWppE0ZLeD9EJqZmLuMLqbjhU0qGSnqGmgdio=;Dh+YHi67CUOFsNHGgq3ErA=="
+secured: "qgA2/6v81k/SC1PuBaixs/JD8M5aWLrSq74JZzqvp4gUUfmxUWaOBCk7uz94yoe5Zd9m8Y8NNvt893q3jM+GFsz3h6yjjwGXXa7ZiWIY4jzDLds503dvQZm65CjXnUkz6iTYaPMUoCeq+rn6MWo6Vb8hxZ12zRoZ+PdzllnC2SUHpTKWo3O/xL0KZxKQzIFGfa+fJUN14kk0D3rWt124vQT299d+E7OU469FCjk0AwETf3toNd/26Y2p0i8lIA0Bk99dU+R74cNRs2BHsfslbkLGdpz7/MK7Bjc7MkqvqM73CNUlpH6k2vvzAuvv1lH1HrOBo6CLURmt9yMFxy/Jgn1L2eiKBNMtLsGaomxt9S8=;pDD16vRwYT17U8ZrkDMPWg=="
 ---
 

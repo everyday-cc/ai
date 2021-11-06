@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/"
 type: article
 quality: 74
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -133,15 +133,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Austin startup wins Fintech Frontier's latest pitch contest"
-    excerpt: "An Austin-based startup claimed the top prize in Fintech Frontier's latest pitch competition in Cincinnati. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in the pitch competition that was part of StartupCincy Week."
-    publishedDateTime: 2021-11-01T19:35:00Z
-    webUrl: "https://www.bizjournals.com/austin/news/2021/11/01/sigo-seguros-wins-fintech-frontier.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "+BI2CyPbp4MfbpUdf8Np+ANirJKFlGZy1JYxc52Q6TceJ/K4vbgWBKY/djesqWslMkSzrnrFvC4sk1IRil6KcJtxh9RmuLbkePkl23yYZW+ZLU3kn2Vo/3yr5mnX7LBMbNSoCv2/DgBQhAB5ZwSR1S7lzTJrSb+oEX/JKqJGx+BjtizOs2svKRFzDH6oJ7QGEiDx0sXhb74XG4RA74Q34/a14Kup5ZmVKM2Y/W9vCPHR02oZLQAKW/9tFazCyzMXdkyhF+jlxCjmmW+QaqMFlygdi1m1ePpsvbOlKuToED6ByHIlIDVtu5apBdeS8Pji45O0H6Rc1JXscqKqi9Zv916B4iikwZxQI5YAM4tj4Xws+Q1tdWxojuqgYLdCj35C74xIIpx1sprYPlxm5EybbWUrdvsxICvhChY1o4+4TIbMgZS6kgo6ZzYOF/LVsMoyESL0wBomXTZSJYeOWbu06xf2dWUvVcsFZIFoi9EsuFuGzl7eNrEmW6e/poCfQdOb9AJtDTzO8ZICOSpAmlO+9Q==;NPFL0OvXrI8ZrtLLWDDzOQ=="
 ---

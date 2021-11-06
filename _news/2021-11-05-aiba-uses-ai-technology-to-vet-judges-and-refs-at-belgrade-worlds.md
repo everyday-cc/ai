@@ -6,9 +6,9 @@ publishedDateTime: 2021-11-05T16:49:00Z
 originalUrl: "https://www.reuters.com/lifestyle/sports/aiba-uses-ai-technology-vet-judges-refs-belgrade-worlds-2021-11-05/"
 webUrl: "https://www.reuters.com/lifestyle/sports/aiba-uses-ai-technology-vet-judges-refs-belgrade-worlds-2021-11-05/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 167
+heat: 167
+published: true
 
 provider:
   name: Reuters
@@ -27,6 +27,6 @@ images:
     height: 628
     isCached: true
 
-secured: "ar4Yn0tQdmQ1E1i8VryGMEyVN3HBXTe04uuau1krZ5IHrfOvM+meG4zSNmr8FxOvraM6xxoK8m38UBti/64GjLkdFHDFH30UkMNp3MTwqGnzg9aQ97HJXJPjoV4Q2a3K8yV6rQSi8/nuP7FU+9ear0jc3RhEeTVsmSFygpGFczZ/Wg1qjv8/pr8MQtKjr4aABLDHxNYqTP9K/te4GVCqddt805bs75W9HzRzGGER1AXoAAjymiLV6A9SJfdOqAd+esZ0ENkczBLnOsIEnsGXdkrPtdm5QXDZObnXjqEpcOSj9AF9JBMg2CM99G2c0LxAZbM8PoOn+WYsDWDBFNsv/ZOdPbn8C6vW8Svs40y1aWzfaq8HZlVgagzddzZq9V0WinpzjCJVJ+amjlK+pAwNIC3uo8/yA5MIjzv/lw1PVCQtFvpgcu2mrD04KTQW+wy6AL1ffGF0/XwrFcpB2tpMmEvmjgPXthhSyjkXgVjKQ/z66PkmNz+cwpEVS2HQaVJg7fgOzEtZRVTZoZe430Dq2A==;zaAxucSgAeCXdWhtEiHj6Q=="
+secured: "GdqGbDf64YOfQzf9RsTR4c8BRuEqWxpZLB9kaEPndH4VdzpCrB9qcwUC/Ftoj4NwWRL6leNAA0QbzChlxTEI3NwaI7p37KS7nWunTjLgOMBuGm+A1BjoXxX/skXn6nnYnU2gkhPNy1voQPhWZ2cFlO7xjw3GpHRnDIKerRYHX71tFbx2sbBMOxAnGjkjtGyxqJJcNvFNI5N6ABuM0Enb+FJwpa2i6n10UcoUMuBmiwUMIuypCZg+Amma5BZFxVawbVlwye6KlAseHsUUZ3fAAqbJ8nrYW7LH+napULhCbCMdBWxs7eYBbuHfEMMXDi96S45/7mlxR8Qi1Ky89yppZGN4GQJINk1YNogwQS3U2+X0+Ui4BZVk+DEjxpZ1KLxbImN0ZZ4C1KjriFfX3n2cDYwSYJinRHjmzL486B2wbxIzQ0/r5V3F3qVXyxbXniOiEk6Ohhp3iCEJ8gAAT9MFxvJzTYqFaStTq3nLjmtMTipyRGzfC+GRXlCIQp7l7tOAJPdA9S+eJuaEMQEWCvPe8DQBqMDEMglAq0uxcSqDdH4=;Dp/2bLGikT7ABsYVzBtVpQ=="
 ---
 

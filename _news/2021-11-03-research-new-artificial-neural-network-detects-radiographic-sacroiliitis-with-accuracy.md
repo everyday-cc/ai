@@ -57,6 +57,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Researchers Present Global Effort to Develop Machine Learning Tools for Automated Assessment of Radiographic Damage in Rheumatoid Arthritis"
+    excerpt: "Damage in the joints of people with RA is currently measured by visual inspection and detailed scoring on radiographic images of small joints in the hands, wrists and feet. This includes both joint space narrowing (which indicates cartilage loss) and bone erosions (which indicates damage from invasion of the inflamed joint lining)."
+    publishedDateTime: 2021-11-06T12:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/researchers-present-global-effort-to-develop-machine-learning-tools-for-automated-assessment-of-radiographic-damage-in-rheumatoid-arthritis-1030944025"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/465239/HSS_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "lrbcilE59LK57OMTMOSPUFSTQR8caopRJzs4e9S6sgFPzGBVoNzhpdEa1bvMqLuQAWeLz0a+VGgMYGHaMXNx45Qcq9Ja7NQdlqmCLA0FXo5oT+dP31NAXEsPhE79Ea257ZVWGILlRjG1osb7U24ycYUFGJjdko7iECagbYms3wsyXY4pytQqG1XoTRYIcMJK7hNzjI0xKveHzR0+5ifhpk8UvrIdXee+3RfBdbYuun5Xdmiji+qPHlUO0sgv00jNSJ2uaSgql/ayyJ+JTaEp2VwbAWuxO0OcAA/eY72WSY/cijZ5w8ocaxDxkKjrAf7F0ZYlx+cxf2qEi5KghrEcxo6ytqV8kKxsdRZswKS/VQ5Co84IgMqHbgASu9lKc4JGhmMFUO8TeS2DVNHhzZ8tboUNuh2VCn55oCVeA1KoACT0lUjQK6G81U9EJb5mz09Mq+0nFegfSK41Tljg1lLwrTqQqm7urrQqeQ6a7chxrX+WmUxsW77hD+sktItxkCJkS1sDgPSb63fqrFzglZkaUQ==;bT0Tgm/vpA14MkWk/XQxWA=="
 ---

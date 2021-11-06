@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Three reasons Facebook/Meta is shutting down its face recognition system"
-excerpt: "Given there are benefits that come from face recognition, why is Meta getting rid of the Facebook feature? We break it down."
-publishedDateTime: 2021-11-04T13:00:00Z
-originalUrl: "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/"
-webUrl: "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/"
-ampWebUrl: "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/?amp"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/?amp"
+title: "Facebook is backing away from facial recognition. Meta isn’t."
+excerpt: "Facebook says it will stop using facial recognition for photo-tagging. In a Monday blog post, Meta, the social network’s new parent company, announced that the platform will delete the facial templates of more than a billion people and shut off its facial recognition software,"
+publishedDateTime: 2021-11-03T18:20:00Z
+originalUrl: "https://www.msn.com/en-us/finance/other/facebook-is-backing-away-from-facial-recognition-meta-isn-e2-80-99t/ar-AAQhzQz"
+webUrl: "https://www.vox.com/recode/22761598/facebook-facial-recognition-meta"
+ampWebUrl: "https://www.vox.com/platform/amp/recode/22761598/facebook-facial-recognition-meta"
+cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/22761598/facebook-facial-recognition-meta"
 type: article
-quality: 88
+quality: 159
 heat: -1
 published: false
 
 provider:
-  name: Digital Trends
-  domain: digitaltrends.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: vox.com/recode/22761598/facebook-facial-recognition-meta
+  domain: vox.com/recode/22761598/facebook-facial-recognition-meta
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://icdn.digitaltrends.com/image/digitaltrends/mark-zuckerberg-addresses-f8-facebook-developer-conference-2.jpg"
-    width: 2000
-    height: 1369
+  - url: "https://cdn.vox-cdn.com/thumbor/5a8gRe6FU9Hjc_e8wNjaJdlFcH0=/0x0:6720x4480/1400x1050/filters:focal(2351x982:3425x2056):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70087271/GettyImages_1236189905.0.jpg"
+    width: 1400
+    height: 1050
     isCached: true
 
 related:
@@ -46,22 +42,6 @@ related:
       - url: "https://about.fb.com/wp-content/uploads/2021/11/NRP-Update-On-Face-Recognition-Technology_Thumbnail.jpg?w=1200"
         width: 1200
         height: 899
-        isCached: true
-  - title: "Facebook is backing away from facial recognition. Meta isn’t."
-    excerpt: "Facebook says it will stop using facial recognition for photo-tagging. In a Monday blog post, Meta, the social network’s new parent company, announced that the platform will delete the facial templates of more than a billion people and shut off its facial recognition software,"
-    publishedDateTime: 2021-11-03T18:20:00Z
-    webUrl: "https://www.vox.com/recode/22761598/facebook-facial-recognition-meta"
-    ampWebUrl: "https://www.vox.com/platform/amp/recode/22761598/facebook-facial-recognition-meta"
-    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/22761598/facebook-facial-recognition-meta"
-    type: article
-    provider:
-      name: vox.com/recode/22761598/facebook-facial-recognition-meta
-      domain: vox.com/recode/22761598/facebook-facial-recognition-meta
-    quality: 159
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/5a8gRe6FU9Hjc_e8wNjaJdlFcH0=/0x0:6720x4480/1400x1050/filters:focal(2351x982:3425x2056):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70087271/GettyImages_1236189905.0.jpg"
-        width: 1400
-        height: 1050
         isCached: true
   - title: "Is Meta’s Facial Recognition Retreat Another Head Fake?"
     excerpt: "Facebook, oops, Meta — boy, this is going to take some getting used to — announced this week that it would end its decade-old facial recognition system and delete the face dat"
@@ -190,6 +170,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-11/211102-facebook-meta-ew-206p-66331b.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Three reasons Facebook/Meta is shutting down its face recognition system"
+    excerpt: "Given there are benefits that come from face recognition, why is Meta getting rid of the Facebook feature? We break it down."
+    publishedDateTime: 2021-11-04T13:00:00Z
+    webUrl: "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/"
+    ampWebUrl: "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 88
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/mark-zuckerberg-addresses-f8-facebook-developer-conference-2.jpg"
+        width: 2000
+        height: 1369
         isCached: true
   - title: "Don’t Go Cheering Facebook for Killing Its Face Recognition Database Just Yet"
     excerpt: "The move comes more than a decade after Facebook first rolled out face-detecting tech onto its social network."
@@ -900,6 +896,6 @@ related:
         height: 675
         isCached: true
 
-secured: "HuDpUlazGFhqZEMVMUGwCj5VzMjUWhD4DQ31Vx8RQuBT6MSOcSH3P1NFbiROUosuURZLYx5acNqlH1O2ZBWtT46G1G7ByK/m8Y+mKeeaG4ediq3wwFs/+FoEIcHkGWQXjNGJvCCFIxN/pC7vz39x2ZyyZK8OjMlnk1TOimqrQAcL7hG3zK7ODB3nnVezRtQk4+Q9xk1SJHl0wBl/jawGByKruviTS8dG3Dp0SKDeavY106GOv+TwWOxJ84s7tR1secgMCN38NTdR2oPudeUycWdtuiG3ChmSZ5l3zPNu0RstjXVfVQxE9dfIkJOiO1Xx+xm4A1vxmGZ/BedaKbgoP6+gjS1wYjTZ7QqO6bOu8H8ZqXrYSJsC2a04pvAmAHkFft65cRi7DSe056xsuV+vNH/mM3BcJ4qCHF5KvzldSP8MvFmzLnbPvjU3ffyTYHgYJJFsMWqos722zz6WHzCJrA8jkNk/03Pl2diSprLr16HNX6JcjmCI7asW0UFAi5X8JG5PiTPuUECIqhZx3yi0Jw==;V9sJ5D+cz9Sqr17MMwGzJQ=="
+secured: "fEJ6polNCzrpurIdaMBRFHjCp589VrTE79m+LfgztS2+2n/pjyonqjievAzGyAyx/AagIirrMEkrwKZV95VYFrcqCA2Fm0HxXBC7E19wGfPHHOro5LrTYq1NxtwV8dJvmSDDWzzhI2PxsfoKil4N2b3LF6VwuqHPB8/H4X8iYueWhT+7qRyZwEEpyhb3Iz6CaEgn47NW9/IPyOspYlv/9bYYsomXQscN4k/vNFiO0lUmCrgyvfVNph3/wMSwiverQlhFDTlEhuCzOL+/gIz6Z6Dt7IHBgxwxjLgkgEHSqwjHfMDao02pvbWP+S8lUwdbNwSVD5Nv9c0FESwJ3yUMIVu8FGVwqNyONZaE4/C/YpE=;HZ8QXrMuboaqm3/L75YyJg=="
 ---
 

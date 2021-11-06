@@ -129,15 +129,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Austin startup wins Fintech Frontier's latest pitch contest"
-    excerpt: "An Austin-based startup claimed the top prize in Fintech Frontier's latest pitch competition in Cincinnati. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in the pitch competition that was part of StartupCincy Week."
-    publishedDateTime: 2021-11-01T19:35:00Z
-    webUrl: "https://www.bizjournals.com/austin/news/2021/11/01/sigo-seguros-wins-fintech-frontier.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "PSpdStCEfIZJt1dLkpQJBOHuIYpA4l3YYWoT/UysPTHRyJ8UHhPdsue+bZU0ngU+PRDSUBpjtuN1vdOzmBwqj+H94wp+IDTWgYIrUTuc9vO37ivCJjq46T3lxowc6+Vlgrfde5fDF7HXeGy6CmNSg4XsPCKNipmhvzIllshZtf7gLq5lMX5tCRamYUkRNpd13dRvR2o4vv+f8W8NOGYn5ZT0549KypfGeORvkB2oHVn1/pjCiXjPS5d7rATcho0r04KMC9WsOFJVg4sMaSZR+UBj6CscqJmpplSruzW81DoLnReRQnN+DzqLphjZ3FExuEx6up3NhDnEBfF7/M7DwlD1Z8nGFJpBwBcighejj+g=;2TQ8xGFy/YRQMJUln7E/Bg=="
 ---
