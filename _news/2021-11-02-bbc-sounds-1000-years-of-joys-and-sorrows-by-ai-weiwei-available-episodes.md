@@ -40,20 +40,6 @@ related:
         width: 3000
         height: 4003
         isCached: true
-  - title: "Ai Weiwei Is Trying to Find His Way Home"
-    excerpt: "The artist and activist on his new memoir, the true cost of freedom, and why home is sometimes about much more than where the heart is"
-    publishedDateTime: 2021-11-01T12:00:00Z
-    webUrl: "https://www.harpersbazaar.com/culture/art-books-music/a37932458/ai-weiwei-november-2021/"
-    type: article
-    provider:
-      name: Harper's Bazaar
-      domain: harpersbazaar.com
-    quality: 37
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hbz110121voicesweiwei-001-1635530728.jpg?crop=1.00xw:0.720xh;0,0.207xh&resize=1200:*"
-        width: 1200
-        height: 603
-        isCached: true
 
 secured: "EhbUnQexLHFxNbiwDCIDpYTbDQAekhSSXMrnToeBMpaqif91JCHpy1WQYq3cr5XxnmHpstZeqsl+os7aWjxmryY5nBPOqnmOZjSgFCSkYeWORNzIe8d0t2Ta6j9Wdr7q8btYzRLp/azqqySZp6iH+aqI+xlYHlH4Ib6cm4MAHGp7zAlTcEziNaxECgP11CTY81fX1bKJWInsuWY0eEfh7EsVEeTr4ZzR7+RnDp2JKnD9ExZT9iRKBG+a3F0oWt0uO9YcSLvEF+AnzKc3HCngpHiYjyvtRRYS0r11eSMDKPiHxDvjOyDh4Psst0BHz4O+zgUNxXYQ51NCcWS0a+cihUYkruDlvKvRUx8MTI46+LABqNasUY0bINzJMi+Bkr49OgG8sNXx+aQqI/WSZL12SkOVpkF8748aPaGkvAuDW3UZutoMzGzGH2G2ZufDbtk5PoSvJvwAn0Ic12tYdOFMZrw+fx0V6gqse3pJWM57law2K4C7zK1EEHOr1poDTv07JaRY6Iffkahf6Mndm4HQKw==;xZh1VdUuia9lzbbdMCa8cg=="
 ---

@@ -152,6 +152,22 @@ related:
         width: 1080
         height: 607
         isCached: true
+  - title: "Google's parent company launches AI-driven drug discovery start-up"
+    excerpt: "Google's parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"
+    publishedDateTime: 2021-11-06T04:43:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/googles-parent-company-launches-ai-driven-drug-discovery-start-up/87548968"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/googles-parent-company-launches-ai-driven-drug-discovery-start-up/87548968"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/googles-parent-company-launches-ai-driven-drug-discovery-start-up/87548968"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87548968,imgsize-9642,width-1200,height-628,overlay-etcio/google-s-parent-company-launches-ai-driven-drug-discovery-start-up.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Alphabet’s DeepMind forms AI drug discovery unit Isomorphic Labs"
     excerpt: "Google parent Alphabet has drawn on its DeepMind artificial intelligence division to form a drug discovery unit that"
     publishedDateTime: 2021-11-05T09:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/alphabet-launches-isomorphic-la
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/"
 type: article
 quality: 189
-heat: 359
+heat: 369
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/5_fri/img_1636112648756_603.jpg?"
         width: 1080
         height: 607
+        isCached: true
+  - title: "Google's parent company launches AI-driven drug discovery start-up"
+    excerpt: "Google's parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"
+    publishedDateTime: 2021-11-06T04:43:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/googles-parent-company-launches-ai-driven-drug-discovery-start-up/87548968"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/googles-parent-company-launches-ai-driven-drug-discovery-start-up/87548968"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/googles-parent-company-launches-ai-driven-drug-discovery-start-up/87548968"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87548968,imgsize-9642,width-1200,height-628,overlay-etcio/google-s-parent-company-launches-ai-driven-drug-discovery-start-up.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Google's parent company launches AI-driven drug discovery start-up"
     excerpt: "Google's parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"

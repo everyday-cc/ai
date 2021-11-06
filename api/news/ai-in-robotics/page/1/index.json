@@ -245,6 +245,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-05-a-new-machine-learning-system-helps-robots-understand-and-perform-certain-social-interactions.md",
+      "title": "A new machine-learning system helps robots understand and perform certain social interactions",
+      "excerpt": "Robots can deliver food on a college campus and hit a hole in one on the golf course, but even the most sophisticated robot can't perform basic social interactions that are critical to everyday human life.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-machine-learning-robots-social-interactions.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-machine-learning-robots-social-interactions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-robot.jpg",
+          "width": 1920,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-machine-learning-robots-social-interactions.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-machine-learning-robots-social-interactions.amp",
+      "publishedDateTime": "2021-11-04T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-cobi-robot-autonomously-performs-needle-less-vaccinations.md",
       "title": "Cobi robot autonomously performs needle-less vaccinations",
       "excerpt": "It goes without saying that a lot of people are receiving the COVID-19 vaccine these days, and will continue to do so for some time. A new robot is designed to help streamline the process, by autonomously – and needle-lessly – vaccinating human patients.",
@@ -600,7 +644,7 @@
       "originalUrl": "https://www.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -633,6 +677,49 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse.md",
+      "title": "A New Skin That Helps Robots Feel Could Be Used to Build the Metaverse",
+      "excerpt": "When the new skin touches something, its plastic part changes the magnetic field created by the embedded particles, and it could help shape the Metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse",
+      "originalUrl": "https://interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/o2Gzy4D4Op/sizes/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse",
+      "publishedDateTime": "2021-11-02T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1308,92 +1395,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-people-believe-robots-can-support-their-career-better-than-humans.md",
-      "title": "People Believe Robots Can Support Their Career Better Than Humans",
-      "excerpt": "People are turning to robots to support their career development after the COVID-19 pandemic left them feeling lonely",
-      "sourceUrl": null,
-      "webUrl": "https://www.techfinancials.co.za/2021/10/28/people-believe-robots-can-support-their-career-better-than-humans/",
-      "originalUrl": "https://www.techfinancials.co.za/2021/10/28/people-believe-robots-can-support-their-career-better-than-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techfinancials.co.za/wp-content/uploads/2021/10/AI-scaled.jpg",
-          "width": 2561,
-          "height": 3841,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techfinancials",
-        "domain": "techfinancials.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-free-month-for-robotics-learning-center-grand-opening.md",
-      "title": "Free Month for Robotics Learning Center Grand Opening",
-      "excerpt": "It’s a quick subway ride away for the robotics, coding, and entrepreneurship after-school program that first started here in the neighborhood.",
-      "sourceUrl": null,
-      "webUrl": "https://tribecacitizen.com/2021/10/28/rocket-club-academy-will-open-in-columbus-circle/",
-      "originalUrl": "https://tribecacitizen.com/2021/10/28/rocket-club-academy-will-open-in-columbus-circle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tribecacitizen.com/wp-content/uploads/2021/10/Rocket-Club-420x280.jpg",
-          "width": 420,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tribeca Citizen",
-        "domain": "tribecacitizen.com",
         "images": null,
         "publishers": null,
         "authors": null

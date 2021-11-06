@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook battles the challenges of tactile sensing"
-    excerpt: "Facebook detailed its efforts to overcome challenges in tactile sensing, which include developing new sensors and modeling techniques."
-    publishedDateTime: 2021-11-01T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/"
-    ampWebUrl: "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 174
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Meta says Facebook face recognition system will be shut down"
     excerpt: "Social media behemoth Meta, formerly known as Facebook, has announced that it will shut down its face recognition system and delete more than a billion individual facial recognition templates. However,"
     publishedDateTime: 2021-11-03T00:22:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://about.fb.com/wp-content/uploads/2021/11/NRP-Update-On-Face-Recognition-Technology_Thumbnail.jpg?w=1200"
         width: 1200
         height: 899
+        isCached: true
+  - title: "Is Meta’s Facial Recognition Retreat Another Head Fake?"
+    excerpt: "Facebook, oops, Meta — boy, this is going to take some getting used to — announced this week that it would end its decade-old facial recognition system and delete the face dat"
+    publishedDateTime: 2021-11-04T22:24:00Z
+    webUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html"
+    ampWebUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 93
+    images:
+      - url: "https://static01.nyt.com/images/2021/11/04/opinion/04Swisher-image/04Swisher-image-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Facebook Drops Facial Recognition to Tag People in Photos"
     excerpt: "Facebook Tuesday said it would stop using facial recognition technology to identify people in photos and videos and delete accompanying data on more than 1 billion people. The news marks the end of one of the largest known facial recognition systems."
@@ -171,6 +171,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Three reasons Facebook/Meta is shutting down its face recognition system"
+    excerpt: "Given there are benefits that come from face recognition, why is Meta getting rid of the Facebook feature? We break it down."
+    publishedDateTime: 2021-11-04T13:00:00Z
+    webUrl: "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/"
+    ampWebUrl: "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 88
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/mark-zuckerberg-addresses-f8-facebook-developer-conference-2.jpg"
+        width: 2000
+        height: 1369
+        isCached: true
   - title: "Don’t Go Cheering Facebook for Killing Its Face Recognition Database Just Yet"
     excerpt: "The move comes more than a decade after Facebook first rolled out face-detecting tech onto its social network."
     publishedDateTime: 2021-11-03T00:55:00Z
@@ -203,6 +219,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meta’s Andrew Bosworth on moving Facebook to the metaverse"
+    excerpt: "Facebook announced a major corporate rebrand by changing its company name to Meta. As CEO Mark Zuckerberg told The Verge, the new name is meant to solidify the social media giant’s long-term bet on building the metaverse."
+    publishedDateTime: 2021-11-01T13:15:00Z
+    webUrl: "https://www.theverge.com/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
+    ampWebUrl: "https://www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/gocpfVJsZ2xVv_TFg4LwynI6llo=/0x0:2050x1367/1400x933/filters:focal(861x520:1189x848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70073882/VRG_ILLO_Decoder_AndrewBosworth_s.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Facebook to Shut Down Its Facial-Recognition System"
     excerpt: "Facebook doesn't point to a single incident that prompted the decision, but it comes as facial-recognition systems (and the social network in general) have come under fire."
     publishedDateTime: 2021-11-02T19:20:00Z
@@ -218,20 +250,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05egxMOGFZlEofqvJsk2vYY-1.1635880469.fit_lim.size_1200x630.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Facebook is enabling a new generation of touchy-feely robots"
-    excerpt: "Facebook announced on Monday that it has developed a suite of tactile technologies that will impart a sense of touch into robots.."
-    publishedDateTime: 2021-11-01T12:12:00Z
-    webUrl: "https://www.engadget.com/facebook-is-enabling-a-new-generation-of-touchy-feely-robots-120016974.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 71
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/95bffc80-3802-11ec-bdfc-f316a562d4f3"
-        width: 4896
-        height: 3264
         isCached: true
   - title: "Facebook Will Shut Down Its Facial Recognition Program"
     excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people. The internet giant uses the technology"
@@ -361,6 +379,22 @@ related:
       - url: "https://www.sharewise.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2tDVmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3a03748854cd88229ad807caf06e7bb7c1c80475/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lNTnpJd2VEUXdOQVk2QmtWVSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--54ba8c4ff5f2fefc4c50498b8082735189b821c8/Walter-Schloss_FINAL_JPG.jpg?locale=us"
         width: 404
         height: 404
+        isCached: true
+  - title: "Facebook should not have bowed to public outrage and shut down its facial recognition system, former world chess champion says"
+    excerpt: "Facebook is wrong to shut down facial recognition, according to Gary Kasparov, the former world chess champion and chairman of Human Rights Foundation."
+    publishedDateTime: 2021-11-04T17:42:00Z
+    webUrl: "https://www.cnbc.com/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 61
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106173405-1570674137430gettyimages-1167464772.jpeg?v=1570674164"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "One of Facebook’s first moves as Meta: Teaching robots to touch and feel"
     excerpt: "Facebook AI Research, is working on touch sensors that can gather information about how objects feel in the real world."
@@ -506,36 +540,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Facebook’s AI teams are teaching robots to perceive the world through touch"
-    excerpt: "They include a high-resolution robot fingertip sensor called DIGIT (pictured) and a thin and replaceable robotic “skin,” known as ReSkin, that can help AI robots to discern information such as an object’s texture,"
-    publishedDateTime: 2021-11-01T12:00:00Z
-    webUrl: "https://siliconangle.com/2021/11/01/facebooks-ai-teams-teaching-robots-perceive-world-touch/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/DIGIT_Hero_.png"
-        width: 3360
-        height: 1896
-        isCached: true
-  - title: "Facebook AI Is Teaching Robots to Perceive, Understand, and Interact Through Touch"
-    excerpt: "Facebook AI Research shared its progress on developing AI systems that can understand and interact through touch."
-    publishedDateTime: 2021-11-01T22:29:00Z
-    webUrl: "https://syncedreview.com/2021/11/01/facebook-ai-is-teaching-robots-to-perceive-understand-and-interact-through-touch/"
-    ampWebUrl: "https://syncedreview.com/2021/11/01/facebook-ai-is-teaching-robots-to-perceive-understand-and-interact-through-touch/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/01/facebook-ai-is-teaching-robots-to-perceive-understand-and-interact-through-touch/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 53
-    images:
-      - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/11/FacebookAI-Robots.jpg?fit=950%2C634&ssl=1"
-        width: 949
-        height: 633
-        isCached: true
   - title: "Why is Facebook shutting down its facial recognition system and deleting ‘faceprints’?"
     excerpt: "The social media giant is putting a stop to its technology that identifies people in photos. We look at what prompted the move and what it means for users"
     publishedDateTime: 2021-11-03T03:54:00Z
@@ -664,6 +668,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Visual AI panel and musings about photographers in Facebook’s metaverse"
+    excerpt: "Visual 1st held a panel of scientists and tech gurus called \"Visual AI — The One-Click Future and Beyond,\" discussing the role of AI in visual fields."
+    publishedDateTime: 2021-11-02T10:00:00Z
+    webUrl: "https://photofocus.com/opinion/visual-ai-panel-and-musings-about-photographers-in-facebooks-metaverse/"
+    type: article
+    provider:
+      name: Photofocus
+      domain: photofocus.com
+    quality: 41
+    images:
+      - url: "https://eadn-wc03-5047357.nxedge.io/cdn/wp-content/uploads/2021/10/markus-spiske-iar-afB0QQw-unsplash.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Facebook’s facial recognition removal comes with caveats"
     excerpt: "The company this week said it is deleting 1bn facial recognition templates — made through scans of users’ faces — and shutting down the features that automatically recognise people in photos and videos."
     publishedDateTime: 2021-11-03T18:04:00Z
@@ -677,6 +695,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd3a4bd0-c1fb-4ca0-924c-cbe930f45751.jpg?source=next-opengraph&fit=scale-down&width=900"
         width: 900
         height: 506
+        isCached: true
+  - title: "Inside Facebook’s decision to eliminate facial recognition — for now"
+    excerpt: "Facebook’s facial recognition decision was in the works for months, long before the current whistleblower scandal."
+    publishedDateTime: 2021-11-05T20:34:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/11/05/facebook-facial-recognition/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XU3HESB3AUI6ZPLP3I3W6RZQJY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Facebook will shut down face-recognition system, delete prints of 1 billion people"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people. “This change will represent one of the largest shifts in facial"
@@ -763,17 +795,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 26
-  - title: "Inside Google and Facebook’s ad empires"
-    excerpt: "There’s a vigorous public debate about the benefits and serious trade-offs of the digital worlds that Google and Facebook have created. They seem less mythical and imposing when you know that their empires are built on selling us more socks."
-    publishedDateTime: 2021-11-01T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/inside-google-and-facebooks-ad-empires/"
-    ampWebUrl: "https://www.seattletimes.com/business/inside-google-and-facebooks-ad-empires/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/inside-google-and-facebooks-ad-empires/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
   - title: "Facebook ending its system of facial IDs"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
     publishedDateTime: 2021-11-03T07:29:00Z
@@ -853,6 +874,34 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 21
+  - title: "Facebook’s not safe for face biometrics, but privacy can be built into Meta?"
+    excerpt: "Both Recode and Fortune are reporting on misgivings that some in the industry have about Zuckerberg's happiness to delete 1 billion face templates."
+    publishedDateTime: 2021-11-05T15:46:00Z
+    webUrl: "https://www.biometricupdate.com/202111/facebooks-not-safe-for-face-biometrics-but-privacy-can-be-built-into-meta"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
+  - title: "Facebook plans huge $29-34 billion capex spending spree in 2022, will invest in AI, servers, and data centers"
+    excerpt: "Facebook expects to spend tens of billions of dollars on data centers, servers, and offices in 2022. The company, which is undergoing a rebrand to Meta, said that it expected capital expenditures of $29 billion to $34 billion next year - up from $19bn this year."
+    publishedDateTime: 2021-11-01T13:27:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/facebook-plans-huge-29-34-billion-capex-spending-spree-in-2022-will-invest-in-ai-servers-and-data-centers/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 18
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Facebook_green.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook, citing societal concerns, plans to shut down facial recognition system"
     excerpt: "Facebook only used its facial recognition capabilities on its own site and did not sell its software to third parties. Even so, the feature became a privacy and regulatory headache for the company."
     publishedDateTime: 2021-11-03T13:33:00Z
@@ -862,6 +911,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
+  - title: "PM Modi To Hold Coronavirus Meeting, Facebook Removes Face-Recognition Technology, And More"
+    excerpt: "PM Modi To Hold Coronavirus Meeting, Facebook Removes Face-Recognition Technology, And More. Journalists - Prateek Sharma, Rushati Mukherjee. Video - Kenz Ul Muneer"
+    publishedDateTime: 2021-11-03T09:25:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0b20t74"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 14
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p09qklfr.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "GoYcPIECjHxpqDa9EJRWNb+KJ8Vo9AWDz2LuL8606RbAhxGy+J2+IMOmpWFLtW9RtyacG/1f4a2CilnouGxUr7TDfTWHgacBTYTBNhlqLDbNiHEgCocj7H2bdrrHNMHp5RjFFh8OdZ6LixORbgzjwU62a6BWkBgjo4wMDu2aCI80U83S3r82CPiCJplmT6XSyiAmBeWsNNUyj9f9y/UBCr9tbIIONbh+RGKZ5W3olclcErI6KgtcCWNb+wVBXQ8e+L07QB9pP7Sb2j1RwiBwHEP7AO34nkU2NFP2m7PfN4XSzp5H8MznVixwtXUVvDJMYjPZ7FGf8o4wrqWWdh+WZ70+AryRNyokXXHhbHj42A39yiBb3OWm5OuMv3omYAgFqzS1PBxlvU39OGX7K/xc9MDTl5piCzw2BtKKznjwVxTJ2YPR0ygidEYXzbfX/HPiT8OVW/vF8xtGlEPWDeN3YxnPkLpelRvbZ5cQI/Yv9tFay2tnqVJNQbqa+llBaDnhMUmcaybe1eEsw4Aw45eGpg==;jtWmxt87rdywvQo95DWCmw=="
 ---

@@ -89,6 +89,20 @@ related:
         width: 640
         height: 380
         isCached: true
+  - title: "Edge platform with facial recognition, situation analysis unveiled in South Korea"
+    excerpt: "Researchers have created a prototype of an edge biometric platform that can reportedly recognize faces and situations that take place around its nodes."
+    publishedDateTime: 2021-11-04T16:31:00Z
+    webUrl: "https://www.biometricupdate.com/202111/edge-platform-with-facial-recognition-situation-analysis-unveiled-in-south-korea"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
 secured: "/WZgxO3WjLFmqre1cLc18Lk1NtoXMyPUFq0xRojiUjk+oxCyinOFEmlYYmYYJFhOBWr0iC7TzM7Wrep+Tq0HgKYg2XQ/0i+vW7S3Yjv9Z1s9a6TjdzTUr74AUls8w+arPC3zbBGHRAdAuZwYeRiNUP49FiyTeFZdKNUYMFSdfnFrQ/5P4b4pZ+DQokFqEVREg0l+cqhll6ug1K+pBO9hBcH+OW8CCn8ZpRPTIyXEL+3NP5o5Lo31jZf4kSW3FZmCLwHdNi8hWb8w1/rd7TT7OjS9sot/RUjMHY8h6QI/2LFZcwmuvzyNJWki/X73vY/MJ4zMz2GPtGJdjafcnTYIgbRwwazr34Dh2EPNc9nYEG4=;Ddx+brk4JP10VgTyt/7q7Q=="
 ---

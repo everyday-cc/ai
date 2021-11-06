@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "UK fintech launches ESG rating system based on UN’s Sustainable Development Goals"
-    excerpt: "Sevva is using the United Nations Sustainable Development Goals (UN SDGs) plus eight governance criteria, including client relations, risk assessment, and executive compensation, to provide the ESG assessment,"
-    publishedDateTime: 2021-11-01T12:00:00Z
-    webUrl: "https://www.wealthprofessional.ca/investments/socially-responsible-investing/uk-fintech-launches-esg-rating-system-based-on-uns-sustainable-development-goals/361272"
-    type: article
-    provider:
-      name: wealthprofessional.ca
-      domain: wealthprofessional.ca
-    quality: 34
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0394_637713457958412194.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Imarticus Learning partners with BIMTECH to launch PGDMs in FinTech, AI & Data Science"
     excerpt: "Imarticus Learning, a professional education firm, and Birla Institute of Management Technology (BIMTECH), a B-school with a rich heritage, have launched Postgraduate Diploma in Management (PGDM) courses with specialisations in FinTech and AI & Data Science."
     publishedDateTime: 2021-11-02T18:54:00Z
@@ -106,22 +92,6 @@ related:
       - url: "http://www.dailyexcelsior.com/wp-content/uploads/2021/10/ICC-t20-worldcup-india.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Imarticus Learning partners with Birla Institute of Management Technology (BIMTECH) to launch PGDMs in FinTech, AI & Data Science"
-    excerpt: "The Post-Graduate Diploma Program will offer learners hands-on training and expert guidance, equipping them to tackle real business problems by applying their learnings Further adding to its extensive course portfolio,"
-    publishedDateTime: 2021-11-01T12:06:00Z
-    webUrl: "https://indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
-    ampWebUrl: "https://indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/imarticus-learning-partners-with-birla-institute-of-management-technology-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 30
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
         isCached: true
   - title: "17 Fintech Trends You Should Know About: The Ultimate Guide"
     excerpt: "The future of fintech looks bright, with AI, robotic process automation, smart contracts, DeFi, and virtual reality all on the rise"

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/omg/north-korea-seeks-to-boost-education-with-to
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888/amp"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://e3.365dm.com/21/11/640x380/skynews-robot-north-korea-flag_5570091.jpg?20211103122720"
         width: 640
         height: 380
+        isCached: true
+  - title: "Edge platform with facial recognition, situation analysis unveiled in South Korea"
+    excerpt: "Researchers have created a prototype of an edge biometric platform that can reportedly recognize faces and situations that take place around its nodes."
+    publishedDateTime: 2021-11-04T16:31:00Z
+    webUrl: "https://www.biometricupdate.com/202111/edge-platform-with-facial-recognition-situation-analysis-unveiled-in-south-korea"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
 
 secured: "5mNpOXTNLhzVeZKK3apSlGhgVcg4GQCFDx7zD35Iu1hSnpJ1UOxC2bTdutP+Rd62OxaaYK8s12MMCrqrReyYg6iPyzZ2631lHo1XQGa7vyx0d5T911nW0B4dyI5cTLsee1olVqU4sOFs229auwBCrq9SccLqWv3ryNhn3F9Aci7U5Y2PcaLgP6pAplW0UQls7Y+iHS3NSApBDAPhssjRaXQyHBCf7Rjj7Iufut3gGXBauqnhgLM3NcwflglPtSZAAMTG3XCuKFTjMEHqT6YftEctEAVOvCLha3LkmmvMpjCX9KryqXgPTg4mpunS9aac0pvXWHvg2T6LbUVWYDg3OBPRsLEhjz/XQyMYfAZ0Wvw=;MlEaHEy1kHP9YvMSpO8O6g=="
