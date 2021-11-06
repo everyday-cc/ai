@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "robinhealthco"
   url: "https://twitter.com/robinhealthco"
-  followers: 86
+  followers: 85
 
 size: 51-200 employees
 yearFounded: 2017
