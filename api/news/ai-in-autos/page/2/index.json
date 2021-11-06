@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-10-25-tesla-starts-rolling-out-full-self-driving-beta-103-after-a-false-start.md",
-      "title": "Tesla starts rolling out Full Self-Driving Beta 10.3 after a false start",
-      "excerpt": "Tesla has restarted the rollout of its Full Self-Driving Beta 10.3 update after a false start with a lot of bugs had them revert to the previous version. Tesla FSD Beta 10.3 was supposed to come Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/",
-      "originalUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/amp/",
-      "publishedDateTime": "2021-10-25T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-25-some-say-self-driving-robotaxi-isnt-a-business-billions-are-being-bet-that-it-is.md",
       "title": "Some Say Self-Driving Robotaxi Isn’t A Business; Billions Are Being Bet That It Is",
       "excerpt": "Some people contest the idea that the robotaxi business that many firms are investing billions in will be worth it. What will it take to tap the potential trillions of revenue that has everybody so excited?",
@@ -1346,6 +1294,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-tesla-has-a-new-competitor-in-china-the-zeekr-001-promises-700kms-driving-range.md",
+      "title": "Tesla has a new competitor in China: the Zeekr 001 promises 700kms driving range",
+      "excerpt": "The Zeekr 01 has been in the works for quite some time now following carmaker Geely’s entry into the jam-packed electric vehicle market in China earlier this year. But the wait is finally over ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/10/14/tesla-has-a-new-competitor-in-china-zeekr-001-with-700kms-range/",
+      "originalUrl": "https://www.gizmochina.com/2021/10/14/tesla-has-a-new-competitor-in-china-zeekr-001-with-700kms-range/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/10/zeekr-001-featured.png",
+          "width": 1286,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

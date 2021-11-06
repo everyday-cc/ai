@@ -24,17 +24,6 @@ images:
     height: 1196
     isCached: true
 
-related:
-  - title: "Works well with robots?"
-    excerpt: "As more artificial intelligence systems and robots aid human workers, building trust between them is key to getting the job done."
-    publishedDateTime: 2021-11-01T21:23:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59046.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 19
-
 secured: "RmM1BC/OoSyJp7bOeVh7GhnfV53L35YQ1AueQpCaEqHyNLXSTC/mzv8prDLM8QWOC0Rq2RAAH1GXks12SWrm3ype5EuFLIPcezJEOO3Bw4hphqhCTWqAF6RstsN3lZh5kbwxHa9UHpdH2YQVf9p+NVRLzvzNgIyuZoYqliWsJind8eNcjBRM43ZG8ugz0ppbgrQN7ibxbtwOFxcz8ULype8zQ05ucgplMiQsA9MwAlPqcj/gUnzX6fvIxuJ9M2J7vTqVgwhIjbMVgmjnH7C8kq3qAGOBN1tEToC0ut/b1YYnUv33v1aLEHjKmZW6gkoEhgwRpxqr6uVdmRh0+qfzZTMIBUCesoj1dp/LoR31zv9q3Jz3chlCyEkscdGPCJ3a+9ft/WCrc7paMBwQNXZEbUyE4EhQPdXEvK9Q1b2QyHwCkwnJfEhJqA23i9xl0QunKAosZTQqKW/vFxMqMwRIPkyA0fWc44LhX37pa5nYMkhYOV8QQZnhJMbBokRijQP/BAzpTGtEUBtVDikh7tKVTA==;PTSodwn+dUzK/OMOysmbwg=="
 ---
 

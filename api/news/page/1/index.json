@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-06-intel-arc-alchemist-gpu-shows-off-ai-based-xess-magic-in-new-riftbreaker-video.md",
+      "title": "Intel Arc Alchemist GPU shows off AI-based XeSS magic in new Riftbreaker video",
+      "excerpt": "Two of the leading technologies in this generation's GPU wars have been Nvidia's Deep Learning Super Sampling (DLSS) and AMD's FidelityFX Super Resolution (FSR). Both promise",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
+      "originalUrl": "https://www.techspot.com/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-29-image-18.jpg",
+          "width": 1914,
+          "height": 1221,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
+      "publishedDateTime": "2021-11-06T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-credit-suisse-closed-ai-weiwei-account-due-to-missing-paperwork.md",
       "title": "Credit Suisse Closed Ai Weiwei Account Due to Missing Paperwork",
       "excerpt": "Credit Suisse Group AG closed Chinese artist and dissident Ai Weiwei’s account because of missing paperwork, the bank said Saturday, confirming a report by Tages-Anzeiger.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-06/credit-suisse-closed-ai-weiwei-account-due-to-missing-paperwork",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -105,6 +157,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-06-governing-the-future-of-ai.md",
+      "title": "Governing The Future Of AI",
+      "excerpt": "Where we go, AI follows—for better or for worse. These days, artificial intelligence (AI) is becoming our version of the deus ex machina, promising to swoop in and solve our most pressing business problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61724b282ff0576e24e0a2ea%2F0x0.jpg",
+          "width": 1200,
+          "height": 897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/amp/",
+      "publishedDateTime": "2021-11-05T16:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-run-alphafold-v20-on-amazon-ec2.md",
       "title": "Run AlphaFold v2.0 on Amazon EC2",
       "excerpt": "After the article in Nature about the open-source of AlphaFold v2.0 on GitHub by DeepMind, many in the scientific and research community have wanted to try out DeepMind’s AlphaFold implementation firsthand. With compute resources through Amazon Elastic Compute Cloud (Amazon EC2) with Nvidia GPU, you",
@@ -113,7 +217,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-alphafold-v2-0-on-amazon-ec2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1136,102 +1240,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-amazon-vets-land-10m-for-whylabs-a-seattle-startup-that-monitors-machine-learning-models.md",
-      "title": "Amazon vets land $10M for WhyLabs, a Seattle startup that monitors machine learning models",
-      "excerpt": "WhyLabs, a spinout from the Seattle’s Allen Institute for Artificial Intelligence (AI2), raised $10 million and released a new tool to support machine learning applications. The problem:",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/",
-      "originalUrl": "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/04/Alessya-Visnjic-280x300.jpeg",
-          "width": 280,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/amp/",
-      "publishedDateTime": "2021-11-04T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-a-new-machine-learning-system-helps-robots-understand-and-perform-certain-social-interactions.md",
-      "title": "A new machine-learning system helps robots understand and perform certain social interactions",
-      "excerpt": "Robots can deliver food on a college campus and hit a hole in one on the golf course, but even the most sophisticated robot can't perform basic social interactions that are critical to everyday human life.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-11-machine-learning-robots-social-interactions.html",
-      "originalUrl": "https://techxplore.com/news/2021-11-machine-learning-robots-social-interactions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-robot.jpg",
-          "width": 1920,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-11-machine-learning-robots-social-interactions.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-machine-learning-robots-social-interactions.amp",
-      "publishedDateTime": "2021-11-04T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

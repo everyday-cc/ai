@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Oil and Gas Market Size 2020 Driving Factors, Industry Growth, Key Vendors and Forecasts to 2025"
+    excerpt: "The most likely (base case) scenario is that the global Artificial Intelligence in Oil and Gas sales will be in 2020 from Artificial Intelligence in Oil and Gas million in 2019, with a change % between 2019 and 2020."
+    publishedDateTime: 2021-11-02T14:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-2020-driving-factors-industry-growth-key-vendors-and-forecasts-to-2025-2021-11-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Driving Cars Market Size, Share, Revenue and Volume Forecast, by Type, Application, Key Players and Regions 2021 to 2025"
     excerpt: "Nov 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Industries around the world are aiming"
     publishedDateTime: 2021-11-02T08:07:00Z

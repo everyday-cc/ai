@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-05-amazon-vets-land-10m-for-whylabs-a-seattle-startup-that-monitors-machine-learning-models.md",
+      "title": "Amazon vets land $10M for WhyLabs, a Seattle startup that monitors machine learning models",
+      "excerpt": "WhyLabs, a spinout from the Seattle’s Allen Institute for Artificial Intelligence (AI2), raised $10 million and released a new tool to support machine learning applications. The problem:",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/",
+      "originalUrl": "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/04/Alessya-Visnjic-280x300.jpeg",
+          "width": 280,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/amp/",
+      "publishedDateTime": "2021-11-04T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-pamela-mccorduck-historian-of-artificial-intelligence-dies-at-80.md",
       "title": "Pamela McCorduck, Historian of Artificial Intelligence, Dies at 80",
       "excerpt": "She interviewed many of the scientists who were at the heart of the field through the end of the 1970s, and she compiled a groundbreaking history of its early years.",
@@ -166,7 +218,7 @@
       "originalUrl": "https://www.cnet.com/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 379,
+      "heat": 389,
       "tags": null,
       "images": [
         {
@@ -301,58 +353,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there.md",
-      "title": "The Ardent Belief That We Need A Line In The Sand Deadline For Attaining AI Self-Driving Cars Else We’ll Never Get There",
-      "excerpt": "Perhaps we need an ironclad deadline for everyone to rally around toward attaining AI-based true self-driving cars, without which we will continue to meander and belatedly if ever achieve those vaunted driverless vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610864514e627dae961910e1%2F0x0.jpg%3FcropX1%3D264%26cropX2%3D2440%26cropY1%3D0%26cropY2%3D1288",
-          "width": 1200,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there/amp/",
-      "publishedDateTime": "2021-11-04T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {

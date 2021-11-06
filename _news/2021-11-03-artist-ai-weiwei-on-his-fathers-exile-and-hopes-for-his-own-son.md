@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "BBC Sounds - 1000 Years of Joys and Sorrows by Ai Weiwei - Available Episodes"
-    excerpt: "Listen to the latest episodes of 1000 Years of Joys and Sorrows by Ai Weiwei on BBC Sounds"
-    publishedDateTime: 2021-11-01T21:06:00Z
-    webUrl: "https://www.bbc.co.uk/sounds/series/m00114cz"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 34
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1024x576/p0b14btb.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "37NmWKdjFd0PtAaBikzw69uU8s6QtcUcSsXoaZPdZ5CL0BAC/NfluFKs4qKj8xaBiphHg3dhubq56BUI2TijWfoJpNiqO72p+ouZLU8ayUWGI3RIsGZktVjBWDVHTZbbb6iFvGCx+H0W8qSerWmzF166enAvEJG/pdKu5WXtp4giy9adJAWoMPwbJJ+DlPNUqFX3UKXzz+zJU+gyOqacpYtjvhvdOOezBhqyAmEhwsq2etqcZk7gEsmvSaxvddmuQQ0Uj0nFutljpT7ANk3Gi+on6WLKFQxPQV0Wu9UyEiqqV33EIh8nb0yYMZ780yQOjgs49pKWEDIAjnPZj++/a6k3LCHxFL25+m6lyrFVS0Q=;pqKYapIPHavGZm56TXKo2g=="
 ---

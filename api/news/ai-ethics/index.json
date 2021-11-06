@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-06-governing-the-future-of-ai.md",
+      "title": "Governing The Future Of AI",
+      "excerpt": "Where we go, AI follows—for better or for worse. These days, artificial intelligence (AI) is becoming our version of the deus ex machina, promising to swoop in and solve our most pressing business problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61724b282ff0576e24e0a2ea%2F0x0.jpg",
+          "width": 1200,
+          "height": 897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/amp/",
+      "publishedDateTime": "2021-11-05T16:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok.md",
       "title": "“Ethical AI” Trained To Offer Moral Advice Descends Into Giving Genocide The OK",
       "excerpt": "Artificial intelligence (AI) is changing our world, whether it's making historic breakthroughs in medicine, or taking our fast-food orders at the drive-thr",
@@ -224,58 +276,6 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-of-global-execs-using-ai-over-75-report-ai-improves-team-culture.md",
-      "title": "Of Global Execs Using AI, Over 75% Report AI Improves Team Culture",
-      "excerpt": "More than 75% of managers who reported that their artificial intelligence implementations improved their team's decision-making and efficiency also saw improvements in collective learning (87%), team morale (79%),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1675608/MIT_Sloan_Management_Review_and_BCG.jpg",
-          "width": 400,
-          "height": 231,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     },
     {

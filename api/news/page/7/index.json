@@ -2,162 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-10-30-cnvrgio-develops-on-demand-service-to-run-ai-workloads-across-infrastructures.md",
-      "title": "Cnvrg.io develops on-demand service to run AI workloads across infrastructures",
-      "excerpt": "Cnvrg.io has launched a Metacloud service to help AI developers run their workloads across any mainstream infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/",
-      "originalUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/",
-      "publishedDateTime": "2021-10-29T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you.md",
-      "title": "Do You Trust Artificial Intelligence To Spend Your Media Dollars For You?",
-      "excerpt": "The decisions on what to buy, how much to buy, and what prices to pay are controlled by AI (artificial intelligence ... Dr. Fou was formerly the Group Chief Digital Officer of Omnicom’s Healthcare Consultancy Group, and Digital Strategy Lead at McCann ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2021/10/29/do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2021/10/29/do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617c6485679c0833204d1796%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2021/10/29/do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2021/10/29/do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you/amp/",
-      "publishedDateTime": "2021-10-29T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector.md",
-      "title": "Prevent fake account sign-ups in real time with AI using Amazon Fraud Detector",
-      "excerpt": "Implementing an effective fraud prevention system is one of the top priorities for businesses that operate online web or mobile platforms. Businesses report millions of dollars of lost revenue each year due to fraud. Platform abuse and fraud prevention largely remain reactive, and is achieved by studying",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/28/ML-6059-featured-1260x630.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-29T14:32:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-30-ai-weekly-the-perils-of-ai-analytics-for-police-body-cameras.md",
       "title": "AI Weekly: The perils of AI analytics for police body cameras",
       "excerpt": "Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next. In 2015, spurred by calls for greater police accountability, the federal ...",
@@ -1168,6 +1012,127 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-aws-announces-general-availability-of-babelfish-for-amazon-aurora-postgresql.md",
+      "title": "AWS Announces General Availability of Babelfish for Amazon Aurora PostgreSQL",
+      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Babelfish for Amazon Aurora PostgreSQL-Compatible Edition, a new capability that allows customers to run applications written for Microsoft ( News - Alert) SQL Server directly on Amazon Aurora with little to no code changes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-babelfish-amazon-aurora-postgresql-/2021/10/28/9480379.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-babelfish-amazon-aurora-postgresql-/2021/10/28/9480379.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes.md",
+      "title": "tinyML-based machine learning platform helps build AI models in minutes",
+      "excerpt": "Imagimob announced that the new release of its tinyML platform is now available to its customers. The new release focuses on making it easier and faster for developers to build and deploy performance-ready tinyML applications on edge devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
+      "originalUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eeworldonline.com/wp-content/uploads/2021/10/Capture-2-1.png",
+          "width": 862,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline.com",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai.md",
+      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+      "excerpt": "Having an AI Risk Management Playbook and a list of best practices can help AI projects in the federal government achieve success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+      "originalUrl": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2.jpeg",
+          "width": 550,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aitrends",
+        "domain": "aitrends.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

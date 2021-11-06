@@ -7,7 +7,7 @@ originalUrl: "https://www.bcg.com/press/2november2021-global-executives-using-ai
 webUrl: "https://www.bcg.com/press/2november2021-global-executives-using-ai-75-report-it-improves-team-culture"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,50 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Of Global Execs Using AI, Over 75% Report AI Improves Team Culture"
-    excerpt: "More than 75% of managers who reported that their artificial intelligence implementations improved their team's decision-making and efficiency also saw improvements in collective learning (87%), team morale (79%),"
-    publishedDateTime: 2021-11-02T05:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/1675608/MIT_Sloan_Management_Review_and_BCG.jpg"
-        width: 400
-        height: 231
-        isCached: true
-  - title: "AI use lifts team morale, research finds"
-    excerpt: "Three-quarters of executives say AI implementation improves team morale, collaboration and collective learning, according to a research paper published Tuesday by MIT Sloan Management Review. Researchers surveyed 2,"
-    publishedDateTime: 2021-11-02T04:47:00Z
-    webUrl: "https://www.ciodive.com/news/AI-technology-team-morale-efficiency/609262/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 37
-    images:
-      - url: "https://www.ciodive.com/user_media/cache/ff/77/ff778fe8c41cebded91465a628cf7d53.jpg"
-        width: 770
-        height: 364
-        isCached: true
-  - title: "How Artificial Intelligence is improving Agriculture?"
-    excerpt: "Artificial intelligence has transformed every industry in the economy, and agriculture has not been the exception. Farmers and food producers have implemented this technology to enhance production and related operations."
-    publishedDateTime: 2021-11-03T10:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-improving-agriculture-edinson-rivera-aedo"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHvYY-pOmTD-g/article-cover_image-shrink_720_1280/0/1635932674628?e=1641427200&v=beta&t=9GTqc4_Hkx_zOA1sWn5-TXfMKC-ajQIHaXQdsVNsOho"
-        width: 1280
-        height: 652
-        isCached: true
 
 secured: "ApLGDMdmkynqaA56pXiYkwiYTM5/DRioZ1NhPFwuKCEjhLHSHa2L54pgNpi7zoDfvRFvDTJ0AY0RpXNVoXL428BPdtIp3uLzLBhPG+oQCu/PcYEU9hpcPQ/gRzEnkSvUUtc7cDvp4KCQW8VIhNB6jUcwkRadftktOClW/tPvVSWTiENMhCuL3W2DucaIBpXWNNqnSfSUm5FnLM+5Rurz7t3d+OhL/rKEYOXKZDGnRQtOBjI6QfZiFLe2uLo0dE8RIGobWYuxNLg13iBNG4bm4d72zESbEgVdVtUs8ga3IamBaE5aWe4mnmwOsbapmJnkhZm//JEZCb4ciiKVf+eBKETUZ60wgg54+pXQfm1ANs09G+hor4n6AXLzjMABH/sz3sd6unJDr9hW4s42Q6RoPwPZ5WQiSP+s5AT14umT3RxQYGkNjNTftUv+O+mjckBhpw+SCU4WUbL/9XeN+Wsur322K2S0VgODJGV3ctF0vOJK1wpl40KYLQxpS/vlkNPzPpJDdKq7wllgRJ5TOJxKGQ==;GxVz9D+oVI9S89Ckh+8d/w=="
 ---

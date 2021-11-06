@@ -2,127 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-10-29-aws-announces-general-availability-of-babelfish-for-amazon-aurora-postgresql.md",
-      "title": "AWS Announces General Availability of Babelfish for Amazon Aurora PostgreSQL",
-      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Babelfish for Amazon Aurora PostgreSQL-Compatible Edition, a new capability that allows customers to run applications written for Microsoft ( News - Alert) SQL Server directly on Amazon Aurora with little to no code changes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-babelfish-amazon-aurora-postgresql-/2021/10/28/9480379.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-babelfish-amazon-aurora-postgresql-/2021/10/28/9480379.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes.md",
-      "title": "tinyML-based machine learning platform helps build AI models in minutes",
-      "excerpt": "Imagimob announced that the new release of its tinyML platform is now available to its customers. The new release focuses on making it easier and faster for developers to build and deploy performance-ready tinyML applications on edge devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
-      "originalUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eeworldonline.com/wp-content/uploads/2021/10/Capture-2-1.png",
-          "width": 862,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eeworldonline.com",
-        "domain": "eeworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai.md",
-      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-      "excerpt": "Having an AI Risk Management Playbook and a list of best practices can help AI projects in the federal government achieve success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-      "originalUrl": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2.jpeg",
-          "width": 550,
-          "height": 235,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "aitrends",
-        "domain": "aitrends.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-10-29-ai-and-ethics-experts-speak-about-challenges-possible-directions.md",
       "title": "AI and Ethics: Experts Speak about Challenges, Possible Directions",
       "excerpt": "How do you see AI regulation proceeding? Any advice for organizations and companies that want to ensure that they build ethics into their AI deployment? What do you see, a few years (or several years) out for ethics in AI? Will the question of ethics be ...",
@@ -1146,6 +1025,160 @@
         "Machine Learning",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-monashees-backs-grain-trading-startup-tarken.md",
+      "title": "Monashees backs grain trading startup Tarken",
+      "excerpt": "As its startup market accelerates ... To give similar transparency to grain trading in Brazil, Tarken set up an AI tool that pulls in data from different sources and generates a price for every ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/",
+      "originalUrl": "https://techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/tarken_screencap.png?w=1024",
+          "width": 1024,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/amp/",
+      "publishedDateTime": "2021-10-28T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-slashnext-which-uses-ai-to-combat-phishing-raises-26m.md",
+      "title": "SlashNext, which uses AI to combat phishing, raises $26M",
+      "excerpt": "“Our technology has logged more than 2.5 million [phishing] threats hiding in legitimate infrastructures like Amazon Web Services, Outlook, Sharepoint, and Microsoft Azure. [SlashNext’s AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
+      "originalUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/fly-d-9PivUW7l1m4-unsplash-e1631050913938.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
+      "publishedDateTime": "2021-10-28T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-artificial-intelligence-is-now-part-of-us-air-forces-kill-chain.md",
+      "title": "Artificial Intelligence Is Now Part Of U.S. Air Force’s ‘Kill Chain’",
+      "excerpt": "The U.S.A.F. revealed recently that it had used artificial intelligence to aid targeting decisions for the first time. It turns out that this was not simply an experimental one-off use to test the technology: AI is embedded in the Air Force’s targeting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617a9d30b0511aeedee7de16%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/amp/",
+      "publishedDateTime": "2021-10-28T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

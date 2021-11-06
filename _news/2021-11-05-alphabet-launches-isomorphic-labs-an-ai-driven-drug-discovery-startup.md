@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/alphabet-launches-isomorphic-la
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/"
 type: article
 quality: 189
-heat: 379
+heat: 389
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/5_fri/img_1636112648756_603.jpg?"
         width: 1080
         height: 607
+        isCached: true
+  - title: "Alphabet Just Launched a Company That's Using AI to Design New Drugs"
+    excerpt: "Alphabet has launched a new company called Isomorphic Labs which will use artificial intelligence (AI) to discover new pharmaceutical drugs. The venture will reportedly rely on advancements made by Alphabet’s DeepMind whose AI uses a model called AlphaFold2 to predict the shape of proteins with incredible accuracy."
+    publishedDateTime: 2021-11-06T14:13:00Z
+    webUrl: "https://interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs"
+    ampWebUrl: "https://amp.interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 59
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8xEAzGm/sizes/proteinss_resize_md.jpg"
+        width: 744
+        height: 419
         isCached: true
   - title: "Google's parent company launches AI-driven drug discovery start-up"
     excerpt: "Google's parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"

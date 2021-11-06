@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-11-06/credit-suisse-c
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-06/credit-suisse-closed-ai-weiwei-account-due-to-missing-paperwork"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://media.npr.org/assets/img/2017/04/13/ailsa-chang_npr_1_vert-754de6853ab0776482f2c697d92961f3e7ad75ad.jpg"
         width: 3000
         height: 4003
-        isCached: true
-  - title: "BBC Sounds - 1000 Years of Joys and Sorrows by Ai Weiwei - Available Episodes"
-    excerpt: "Listen to the latest episodes of 1000 Years of Joys and Sorrows by Ai Weiwei on BBC Sounds"
-    publishedDateTime: 2021-11-01T21:06:00Z
-    webUrl: "https://www.bbc.co.uk/sounds/series/m00114cz"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 34
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1024x576/p0b14btb.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "odlIwj4r1o37rU3faYASmKiBOp/0th2s6pTY9CMtHbwqscvpkNxqFfgVKhLbYf6fA/dDFoxiVM3Kyo3bKeqmYDRv5KS2ho/C/Op2c//BWnbxWsQNJtiE3/RNV9lB2ID5mq9ntx3uygfdCFajrqx4fwgKv59z7LJTiaczBCte2fPwBGwA9wc9rT0lnsM56QldlTCPHa6ayXQuRwzfELFdykhEWU30D4MKKkDJLPm2pUYm0laUdBsihPUaGqnPJjoaHLBXSZEMTD/3do34+Pk28jYhohAumdTXnJNxCYlUkxaFpjxpY7q5FmDY8wWokLQzcPD5aYQ7Q5bPAeiQJTN3tqnZfqBiucVIi58mOLR3f2aTLa109xVbBb8ffsErKJrBQ4kHdpVjC85CEbdxX6molJf8evrtFaEVnWd1T2uw9+o1iOIyhzPzO4DVp0C5ibaaF1n5b7Cs5oL4LAoqPAQa90z+tQubEhw6SWlcJG39EA0GJHlGgR/V0+7wnNqd5joOVCgdmarmgd8pkBvWIFROUQ==;t6mE4e4ikDenmOU67HutqA=="

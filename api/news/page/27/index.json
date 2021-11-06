@@ -2,143 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2021-10-14-global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027.md",
-      "title": "Global Edge Computing AI Chips Market 2021 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2027",
-      "excerpt": "MarketsandResearch.biz has recently published a report titled Global Edge Computing AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which assesses dynamic factors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-10-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-10-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-to-lead-in-ai-the-us-needs-a-dedicated-workforce-policy.md",
-      "title": "To lead in AI, the US needs a dedicated workforce policy",
-      "excerpt": "Taking and keeping the lead in talent means not only having the best and brightest, but an adequate supply across the entire U.S. AI workforce, along with secure domestic talent pipelines.",
-      "sourceUrl": null,
-      "webUrl": "https://cset.georgetown.edu/publication/u-s-ai-workforce-policy-recommendations/",
-      "originalUrl": "https://www.msn.com/en-us/news/politics/to-lead-in-ai-the-us-needs-a-dedicated-workforce-policy/ar-AAPu58I",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cset.georgetown.edu/wp-content/uploads/U.S.-AI-Workforce-Policy-Recommendations_Cover-Image.png",
-          "width": 1148,
-          "height": 1484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T13:01:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "georgetown.edu/publication/u-s-ai-workforce-policy-recommendations/",
-        "domain": "georgetown.edu/publication/u-s-ai-workforce-policy-recommendations/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-win-the-robot-vacuum-that-even-empties-itself-with-irobot.md",
-      "title": "Win the robot vacuum that even empties itself with iRobot!",
-      "excerpt": "If you’ve followed me for a while, you’ll know about my longstanding love affair with Bertie, my iRobot Roomba robot vacuum. If there’s one thing I recommend over and",
-      "sourceUrl": null,
-      "webUrl": "https://theinteriorsaddict.com/win-the-robot-vacuum-that-even-empties-itself-with-irobot",
-      "originalUrl": "https://theinteriorsaddict.com/win-the-robot-vacuum-that-even-empties-itself-with-irobot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.theinteriorsaddict.com/uploads/2021/10/Screen-Shot-2021-10-13-at-10.47.11-am.png",
-          "width": 1078,
-          "height": 572,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theinteriorsaddict.com",
-        "domain": "theinteriorsaddict.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-14-artificial-intelligence-in-life-sciences-market-global-industry-overview-by-size-trends-growth-forecast.md",
       "title": "Artificial Intelligence In Life Sciences Market Global Industry Overview By Size, Trends & Growth Forecast",
       "excerpt": "An emerging area of artificial intelligence (AI), specifically the ... platform is capable of substantially improving combination therapy in bortezomib-resistant multiple myeloma, which is used ...",
@@ -1135,6 +998,126 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022.md",
+      "title": "1 Explosive Artificial Intelligence Stock Set to Grow Sales 359% by 2022",
+      "excerpt": "A combination of factors, including low interest rates and aggressive government spending, has put the stock market in a great position to move higher. It's a particularly good environment for technology stocks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13",
+      "originalUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13?amp",
+      "publishedDateTime": "2021-10-13T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-cognitive-medical-systems-and-thornhill-medical-receive-army-award-to-help-accelerate-medical-device-interoperability-and-remote-control.md",
+      "title": "Cognitive Medical Systems and Thornhill Medical Receive Army Award to help accelerate medical device interoperability and remote control",
+      "excerpt": "Cognitive Medical Systems and Thornhill Medical announced today that the two healthcare innovation companies have been selected by the U.S. Army Medical Research and Development Command to receive $853,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkyt.com/prnewswire/2021/10/13/cognitive-medical-systems-thornhill-medical-receive-army-award-help-accelerate-medical-device-interoperability-remote-control/",
+      "originalUrl": "https://www.wkyt.com/prnewswire/2021/10/13/cognitive-medical-systems-thornhill-medical-receive-army-award-help-accelerate-medical-device-interoperability-remote-control/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/SXFVT8Wlr7YmbcFKT-AgTn8yv38=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/J32LS2A22AOMKKBCBFUKYQ3MHM.jpg",
+          "width": 980,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKYT",
+        "domain": "wkyt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-deep-learning-helps-to-predict-traffic-crashes-before-they-happen.md",
+      "title": "Deep learning helps to predict traffic crashes before they happen",
+      "excerpt": "Today's world is one big maze, connected by layers of concrete and asphalt that afford us the luxury of navigation by vehicle. For many of our road-related advancements—GPS lets us fire fewer neurons thanks to map apps,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-10-deep-traffic.html",
+      "originalUrl": "https://techxplore.com/news/2021-10-deep-traffic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-helps-to.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-10-deep-traffic.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-deep-traffic.amp",
+      "publishedDateTime": "2021-10-13T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],
