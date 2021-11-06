@@ -131,6 +131,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Financial Secretary Visited MioTech at 2021 Hong Kong FinTech Week"
+    excerpt: "Pictured/ Financial Secretary of Hong Kong SAR, Paul Chan Making Opening Remarks at 2021 Hong Kong FinTech Week The main conference of 2021 Hong Kong FinTech Week starts today at the Hong Kong Convention & Exhibition Centre and online."
+    publishedDateTime: 2021-11-04T06:23:00Z
+    webUrl: "https://www.linkedin.com/pulse/financial-secretary-visited-miotech-2021-hong-kong-fintech-week-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFpfhEvprxcVA/article-cover_image-shrink_720_1280/0/1635934637969?e=1641427200&v=beta&t=-dXGAFB8PqqLA8pqf-PKY8V8zRO2HinEdmEUTCXpVQg"
+        width: 540
+        height: 720
+        isCached: true
   - title: "Here's which startup won Fintech Frontier's latest pitch contest"
     excerpt: "A Texas-based startup claimed the top prize in Fintech Frontier's latest pitch competition. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in Fintech Frontier's latest pitch competition as part of StartupCincy Week."
     publishedDateTime: 2021-11-01T15:25:00Z
@@ -149,15 +163,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
-  - title: "New InsurTech100 Companies are Transforming the Insurance Industry, According to FinTech Global"
-    excerpt: "Analysts and industry experts selected this year's 100 from a screened list of over 1,400 companies produced by FinTech Global, a specialist research firm. Companies were recognized for their innovative use of technology to enhance the customer experience or facilitate a potential step-change in efficiency or performance across the insurance value chain."
-    publishedDateTime: 2021-11-01T13:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-insurtech100-companies-transforming-insurance-industry-according-fintech-/2021/11/01/9481482.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "hWFTeAye4mDYtOlA4lqB2Ov4xr7yCmwUZ4BKqVzAdpTb/th9LaphZj/kffIO2aiNBuhY9QpZNIcjs3HP2stlo2+qMWTY3Zg5MsX9e8N4xBgk2kucUQHMSi238XiRtsvNheW2Wo004RwAQc2Lz5nZtXXfXSEp8pIf6xcgekqtqbIqtIkq0SA5owIOD2vU8vN23gphL7z/Z8FAhYmQS9WrDzwRRmgXcn3ltNgP6UWPydVwAcRMHaqWATExzODFdgO2HILctZthuyGDiHD8Y4l2lMPrAN/Z18DPPVCP8mpcQhRgltAyq0/SedlW1gkgm20jN4ncNbfgZhc5B5xjQuV6hYh693SAtesXueVnFjA+4DGXsRjiUoAq94+xP063HMgNRYym9iYPhf4B9DVEavCjNEG/e84DcZk8qVtGEGrPwOTKiKM8yJkuFKzPLpPXO7iFuC+8b9wmsINI+5RAIOsnXC1yUaq5UjFs4t32OcseJTyRbjbjEeUoTXEH0UmInqWvfuiihmopzSSqIv5XS3ttzA==;NI3isDo7ORlOdHQOvUoApw=="
 ---

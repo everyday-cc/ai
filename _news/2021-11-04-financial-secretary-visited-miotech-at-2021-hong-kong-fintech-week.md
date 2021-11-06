@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Conversion Al: How It's Helping Banks Stay On Top Of The Fintech Industry"
-excerpt: "Artificial Intelligence continues to be a disruptive technology to the banking system. Over the years, banks and financial institutions have depended on this technology"
-publishedDateTime: 2021-11-04T17:51:00Z
-originalUrl: "https://www.benzinga.com/fintech/21/11/23901830/conversion-al-how-its-helping-banks-stay-on-top-of-the-fintech-industry"
-webUrl: "https://www.benzinga.com/fintech/21/11/23901830/conversion-al-how-its-helping-banks-stay-on-top-of-the-fintech-industry"
-ampWebUrl: "https://www.benzinga.com/amp/content/23901830"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23901830"
+title: "Financial Secretary Visited MioTech at 2021 Hong Kong FinTech Week"
+excerpt: "Pictured/ Financial Secretary of Hong Kong SAR, Paul Chan Making Opening Remarks at 2021 Hong Kong FinTech Week The main conference of 2021 Hong Kong FinTech Week starts today at the Hong Kong Convention & Exhibition Centre and online."
+publishedDateTime: 2021-11-04T06:23:00Z
+originalUrl: "https://www.linkedin.com/pulse/financial-secretary-visited-miotech-2021-hong-kong-fintech-week-"
+webUrl: "https://www.linkedin.com/pulse/financial-secretary-visited-miotech-2021-hong-kong-fintech-week-"
 type: article
-quality: 58
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.benzinga.com/files/use-cases-of-ai-in-the-banking-sector.jpeg"
-    width: 626
-    height: 352
+  - url: "https://media-exp1.licdn.com/dms/image/C5612AQFpfhEvprxcVA/article-cover_image-shrink_720_1280/0/1635934637969?e=1641427200&v=beta&t=-dXGAFB8PqqLA8pqf-PKY8V8zRO2HinEdmEUTCXpVQg"
+    width: 540
+    height: 720
     isCached: true
 
 related:
@@ -58,6 +60,22 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/04/50-Dollars-Grant-Money-Cash-Spend-Pay.jpeg"
         width: 1198
         height: 1280
+        isCached: true
+  - title: "Conversion Al: How It's Helping Banks Stay On Top Of The Fintech Industry"
+    excerpt: "Artificial Intelligence continues to be a disruptive technology to the banking system. Over the years, banks and financial institutions have depended on this technology"
+    publishedDateTime: 2021-11-04T17:51:00Z
+    webUrl: "https://www.benzinga.com/fintech/21/11/23901830/conversion-al-how-its-helping-banks-stay-on-top-of-the-fintech-industry"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23901830"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23901830"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://www.benzinga.com/files/use-cases-of-ai-in-the-banking-sector.jpeg"
+        width: 626
+        height: 352
         isCached: true
   - title: "Banc of California Considers Further Backing of FinTech Finexio"
     excerpt: "After participating in FinTech Finexio’s recent $8 million funding round, Banc of California is mulling the possibility of investing in the startup once again."
@@ -117,20 +135,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Financial Secretary Visited MioTech at 2021 Hong Kong FinTech Week"
-    excerpt: "Pictured/ Financial Secretary of Hong Kong SAR, Paul Chan Making Opening Remarks at 2021 Hong Kong FinTech Week The main conference of 2021 Hong Kong FinTech Week starts today at the Hong Kong Convention & Exhibition Centre and online."
-    publishedDateTime: 2021-11-04T06:23:00Z
-    webUrl: "https://www.linkedin.com/pulse/financial-secretary-visited-miotech-2021-hong-kong-fintech-week-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFpfhEvprxcVA/article-cover_image-shrink_720_1280/0/1635934637969?e=1641427200&v=beta&t=-dXGAFB8PqqLA8pqf-PKY8V8zRO2HinEdmEUTCXpVQg"
-        width: 540
-        height: 720
-        isCached: true
   - title: "Mississippi Fintech is Innovating Small Business Lending with Brokers in Mind"
     excerpt: "Bradley Tompkins, CIO, Vergent Vergent, a loan management software, is creating a space where brokers and lenders alike can manage all aspects of a deal in one place. Based in Ridgefield, Mississippi,"
     publishedDateTime: 2021-11-03T18:52:00Z
@@ -164,6 +168,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "J63hFUevdJ1H4Ijujl0h+a4eyQW6yJ+jYQhesmYbxRWs88BM7/+5P0dcgb8LuEfs+BtbKcEq/brsgnP4ApQw2reXTwCxseVrWT2vS4nYusX7qQ+KWzJmAI0312mpZxMEw6vOuluF04Z6IXn5c3kQI6/sCvaAFJFb96EcDQwY46pq8rA42BXPx36FewJl3cbYFX0hFqVGGboPrhyO/fljXNIVKXWOBFE2/b8K7A2BE2cz5qbgUFM0p64OF03BU3dRO5m+9xtk4rA5fTZSg2TaFupKxVDJWcR9BHjpE/RXxcKX2s9F/k/r+WOmPTj7uJ+doWHl7Q1G4ZLLHZm4+kfvrTB+p0P9qLsGL5rYE1xfGGJQQzJfDpVW1MciDPFQahE84hHuF7cxa2DT3eNbm29L8FcedTrNAjw5h1XUQOR0driAlDDITHvcFzjWajGlCA1rTy53S3PM3gtXrWjDDbLXzGtDfwK1KoSClkzTEb4lEygLIrORBzVL9hxecQN1MmnjO8tIqvx7KlA/RH/ZzSefDQ==;baJuZG36rv5MSmouSP1k2Q=="
+secured: "erd98nM0IxbF593o2SErIunIBKGregEczIu3UStHp4UKdCGE9Yde22n7AdpzVw/3SJfk4H2WJLOgvAXLk9U9AgCY6ZCVWBzupS2lyAuz/4JZqE39ngnLGfy22UrRyCuY0kwLqBCTNB4lJLo6Q68M5E8Mhr/1x1doD4Grx95Yw96jPbK/dEY2fYZnDQQWrE1+VDpJT4y2NO7yX8m+9kwjDX5vkCTCKMKC7NMH/g6cDwO0iKJarLqOldWItZsjRXwysbMQqvrxmI+2xRuJAkXl+ZEbJphePg5rS3wXKKpOD/e9q7b1RxOmB4DD6h3kyCkTYYi55/UtYH3nH2S2RpE9qYZVTbtambvEp49FbueF950=;l58uwjddlzz9rLQPeVmnqg=="
 ---
 

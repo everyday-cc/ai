@@ -53,20 +53,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Conversational AI Market worth $18.4 billion by 2026 - Exclusive Report by MarketsandMarketstm"
-    excerpt: "According to a research report \"Conversational AI Market by Component (Solutions and Services), Type (Chatbots and IVA), Technology (NLP and ASR), Business Function (Sales and Marketing, and Operations),"
-    publishedDateTime: 2021-11-01T15:00:00Z
-    webUrl: "https://www.lelezard.com/en/news-20075927.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 27
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "2WoCX+sX2lpcdLCILxz9G6OfjvyCKGKmoURT5fef40bcNhxMtXx5Jb8J4kkGZCiS4/1JwSE0bdNfkAmLC+Tnp9lj1K3Sf0DZ+qtpyHpkq87nCtp97LLJvcMeWjMS7NiJ4DkSJWSaGB00+SilhsVVVMLzsQflGkcArxq37XjQsJPx2N3bb39r/2HvM8AQkeSoTxWkSvOw5ghrKGqgAs4aiKflaIvryWk7Swb4cvYS61cdck09ZKXTFM9omdQ2Ff/6H/IyNnpPOo4RH7ktDq1atf39jbNUVVPkxh4nkwgb3v9R7SDx/hu4c0OFiDSBmJMY6Bvg2IhpdBy6Gud1SBqkNErFaKBVM2rz2hbvGJjiUsU=;AkbwhRndYqIEZ33bKBk9Xw=="
 ---

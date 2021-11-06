@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Facebook to shut down face-recognition system, delete data"
-excerpt: "Facebook’s huge repository of images shared by users helped make it a powerhouse for improvements in computer vision, a branch of artificial intelligence. Now many of those research teams have ..."
-publishedDateTime: 2021-11-05T20:13:00Z
-originalUrl: "https://afro.com/facebook-to-shut-down-face-recognition-system-delete-data/"
-webUrl: "https://afro.com/facebook-to-shut-down-face-recognition-system-delete-data/"
+excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+publishedDateTime: 2021-11-05T22:20:00Z
+originalUrl: "https://www.stamfordadvocate.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php"
+webUrl: "https://www.stamfordadvocate.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php"
+ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
+cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Afro
-  domain: afro.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://afro.com/wp-content/uploads/2021/11/Facebook.jpg"
-    width: 800
-    height: 533
+  - url: "https://s.hdnux.com/photos/01/22/50/01/21659713/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -216,22 +218,6 @@ related:
       - url: "https://www.cnet.com/a/img/cjb8SKNQdYwlV3n4IKa2RJNcAA4=/1200x630/2018/05/15/fd95be91-54fa-4305-9f76-c8c010d4fed9/facebook-logo-8005.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Meta’s Andrew Bosworth on moving Facebook to the metaverse"
-    excerpt: "Facebook announced a major corporate rebrand by changing its company name to Meta. As CEO Mark Zuckerberg told The Verge, the new name is meant to solidify the social media giant’s long-term bet on building the metaverse."
-    publishedDateTime: 2021-11-01T13:15:00Z
-    webUrl: "https://www.theverge.com/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
-    ampWebUrl: "https://www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/gocpfVJsZ2xVv_TFg4LwynI6llo=/0x0:2050x1367/1400x933/filters:focal(861x520:1189x848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70073882/VRG_ILLO_Decoder_AndrewBosworth_s.0.jpg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "Facebook to Shut Down Its Facial-Recognition System"
     excerpt: "Facebook doesn't point to a single incident that prompted the decision, but it comes as facial-recognition systems (and the social network in general) have come under fire."
@@ -696,6 +682,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Inside Facebook’s decision to eliminate facial recognition — for now"
+    excerpt: "Facebook’s facial recognition decision was in the works for months, long before the current whistleblower scandal."
+    publishedDateTime: 2021-11-05T20:34:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/11/05/facebook-facial-recognition/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 41
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XU3HESB3AUI6ZPLP3I3W6RZQJY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Facebook’s facial recognition removal comes with caveats"
     excerpt: "The company this week said it is deleting 1bn facial recognition templates — made through scans of users’ faces — and shutting down the features that automatically recognise people in photos and videos."
     publishedDateTime: 2021-11-03T18:04:00Z
@@ -709,20 +709,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd3a4bd0-c1fb-4ca0-924c-cbe930f45751.jpg?source=next-opengraph&fit=scale-down&width=900"
         width: 900
         height: 506
-        isCached: true
-  - title: "Inside Facebook’s decision to eliminate facial recognition — for now"
-    excerpt: "Facebook’s facial recognition decision was in the works for months, long before the current whistleblower scandal."
-    publishedDateTime: 2021-11-05T20:34:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/11/05/facebook-facial-recognition/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XU3HESB3AUI6ZPLP3I3W6RZQJY.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Facebook will shut down face-recognition system, delete prints of 1 billion people"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people. “This change will represent one of the largest shifts in facial"
@@ -888,20 +874,6 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "Facebook plans huge $29-34 billion capex spending spree in 2022, will invest in AI, servers, and data centers"
-    excerpt: "Facebook expects to spend tens of billions of dollars on data centers, servers, and offices in 2022. The company, which is undergoing a rebrand to Meta, said that it expected capital expenditures of $29 billion to $34 billion next year - up from $19bn this year."
-    publishedDateTime: 2021-11-01T13:27:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/facebook-plans-huge-29-34-billion-capex-spending-spree-in-2022-will-invest-in-ai-servers-and-data-centers/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 18
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Facebook_green.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facebook, citing societal concerns, plans to shut down facial recognition system"
     excerpt: "Facebook only used its facial recognition capabilities on its own site and did not sell its software to third parties. Even so, the feature became a privacy and regulatory headache for the company."
     publishedDateTime: 2021-11-03T13:33:00Z
@@ -926,6 +898,6 @@ related:
         height: 675
         isCached: true
 
-secured: "kU4usmd9RM7aHp39IIXAM+vl2DTT0QJs9OVsi2M1aIpGejBcEIs1Kus3eTNUKD08hGH4oJ7sX21nbAIPv3vHnX/nD1mGXAjC+hWnGpuq8azJCyFykV48lzMJQprwjRq6VGelEUGPcF/ziarbOo3ot6g/OHXDmDnYKH5VFzgnvzo4skOWRdIbjQ4YkWpE4egW8tmOGXIQgqybnzFX46yL238mCF03ZNsNndf1HpwSPYw24fNZtZqVFd0EMOnZQeiXg1eaLl1DRwXAWyea/91IL7/0sujOoh++I935jKJQF10qscUwj2cHMQDWiX2dwTuj0qlAYbKGzfFZFBL0aozNv/VQJk3dK6L0sNf+nODnp9lBX9Or+pZ30YT/b72Qf1/J3K4hXKimikSAW9Jgl2d5ovVirQ/pyLQIPuGl8X94JumB52wdn7CIqqwsJh3QCNBkOypRYBuEFprwPlj7SVJPJ7KIAq/GT1eXArhIGLVMiwUbfWy3LAifBG2Oeb9rhYImVRTHGBo0oskIXMioP5kw+g==;tOTAomH9668KeoUiZUaV0w=="
+secured: "JNf0xqcEmG/aG+N29xlrnJTCN1ArgFhj+SlgfZArEn2vv4d0JKS3U/bd3ry0QKTjcj3VKtFgFpsLFpTKH91zkKq9Qdrw5PROuXp8+66L2NXnlVzPA2BVPAQoJgQ7QrWiSPUGsA+QQTHYK/fx1eNqVheaQ77xz3flWKMpkwYhVA82aklxqbmYqPNrA37BwqSEupKNUGl/NzKrekmldiPZnDf/6t0EMXCzTuytvj18q0U265hhAJbI5xPadd3UrLH8KWiSc/bchEmV++j3s6MZGzxVaEOfFVkxkjE8lhcykplogYnUp32IJntTWa6JcQszSVRGrDDccz1uFAUh9q/CUSrHvRSRO0ZQq8xBtPxBPYs=;BB2wFqOk/n3Ow/vhNfIpVA=="
 ---
 

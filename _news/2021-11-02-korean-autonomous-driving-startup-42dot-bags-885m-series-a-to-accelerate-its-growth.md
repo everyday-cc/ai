@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/01/korean-autonomous-driving-startup-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/korean-autonomous-driving-startup-42dot-bags-88-5m-series-a-to-support-its-growth/amp/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -29,70 +29,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "OctoML raises $85M for it for its machine learning acceleration platform"
-    excerpt: "OctoML, a Seattle-based startup that helps enterprises optimize and deploy their machine learning models, today announced that it has raised a $85 million Series C round led by Tiger Global Management."
-    publishedDateTime: 2021-11-01T15:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 218
-    images:
-      - url: "https://i.ytimg.com/vi/gpO4y1mPMWA/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "Machine learning deployment platform OctoML raises $85M"
-    excerpt: "OctoML, which helps companies deploy their machine models into production, has raised $85 million in a series C round of funding."
-    publishedDateTime: 2021-11-01T16:04:00Z
-    webUrl: "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/"
-    ampWebUrl: "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/octo-ml.jpg?w=1200&strip=all"
-        width: 1200
-        height: 650
-        isCached: true
-  - title: "WhyLabs raises $10M Series A for its AI observability platform"
-    excerpt: "WhyLabs, a machine learning startup that was spun out of the Allen Institute last year, helps data teams monitor the health of their AI models and the data pipelines that fuel them. Last year, the startup raised a $4 million seed round and today,"
-    publishedDateTime: 2021-11-04T15:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://i.ytimg.com/vi/UsDsLEpigBw/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "AI optimization startup OctoML nabs $85M after key chipmaker partnerships"
-    excerpt: "OctoML Inc., a startup founded by University of Washington computer scientists to make artificial intelligence models more efficient, today disclosed that it has closed a $85 million funding round. Lead investor Tiger Global Management was joined in the round by returning backers Addition,"
-    publishedDateTime: 2021-11-01T21:42:00Z
-    webUrl: "https://siliconangle.com/2021/11/01/ai-optimization-startup-octoml-nabs-85m-key-chipmaker-partnerships/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/octoml.png"
-        width: 718
-        height: 400
-        isCached: true
 
 secured: "nbpvkygMxgAXGGvf1S21fvGZGQOKgdC/lTDLjepWHwAs9jBmMan9pcGVTbXMSWmhme/WCFaHsdSG/akpsfwU9tCoNapLIn+D4zZ6xvENCfWSC7/Ch+8LtORS8Y94mWY5lEVJCVF6Ud89G207Fnma5HKlUwV+FnbKJ7LRcz5QN+XOmzgYb/CPfhBrxf2h0IoA5B3xs+gXGMAvzoLt2M1XJVHUZmomWoRr6h1pBqqwJ2JSstz/w2VFlzPnSUS9dk1NKLCJstnTWwED2a0FHynmBLbilLuZRva5Nx/LHS87A4JZt98dCGOG254R++bK45Nn1r2BNr+Wfa2eCffvV2/gCdmzBNXw4NrBwXgpBPrsnterf8g+/7KldBXQBHEhRiN7khVyuVA013ulfMkHmEVs+p2BuTPwUtw4Cr6U98LTCXemjyJ+dTmX9c+IC3pU6Kt8qp+MRdHfkp+emBBCtXo+4BU9s/NCr4gSoL/cL1SbvKi69Euy3m4OFenRhedNgFh2qDG+YWi4KQqlPD8KjD0Saw==;P6Dd9zmLMhaHmyrXizaYjQ=="
 ---

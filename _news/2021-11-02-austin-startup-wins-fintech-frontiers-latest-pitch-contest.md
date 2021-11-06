@@ -125,6 +125,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Financial Secretary Visited MioTech at 2021 Hong Kong FinTech Week"
+    excerpt: "Pictured/ Financial Secretary of Hong Kong SAR, Paul Chan Making Opening Remarks at 2021 Hong Kong FinTech Week The main conference of 2021 Hong Kong FinTech Week starts today at the Hong Kong Convention & Exhibition Centre and online."
+    publishedDateTime: 2021-11-04T06:23:00Z
+    webUrl: "https://www.linkedin.com/pulse/financial-secretary-visited-miotech-2021-hong-kong-fintech-week-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFpfhEvprxcVA/article-cover_image-shrink_720_1280/0/1635934637969?e=1641427200&v=beta&t=-dXGAFB8PqqLA8pqf-PKY8V8zRO2HinEdmEUTCXpVQg"
+        width: 540
+        height: 720
+        isCached: true
   - title: "Mississippi Fintech is Innovating Small Business Lending with Brokers in Mind"
     excerpt: "Bradley Tompkins, CIO, Vergent Vergent, a loan management software, is creating a space where brokers and lenders alike can manage all aspects of a deal in one place. Based in Ridgefield, Mississippi,"
     publishedDateTime: 2021-11-03T18:52:00Z
@@ -148,15 +162,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
-  - title: "New InsurTech100 Companies are Transforming the Insurance Industry, According to FinTech Global"
-    excerpt: "Analysts and industry experts selected this year's 100 from a screened list of over 1,400 companies produced by FinTech Global, a specialist research firm. Companies were recognized for their innovative use of technology to enhance the customer experience or facilitate a potential step-change in efficiency or performance across the insurance value chain."
-    publishedDateTime: 2021-11-01T13:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-insurtech100-companies-transforming-insurance-industry-according-fintech-/2021/11/01/9481482.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "DKK2GZIjnSsrwix11P1reGMbjZAgDSPltiDf5ywY48kQYGRhHqAJNLpSDtLW7H2IwXN0yRvv8HDuEEHE7ji0Mb24Pvn1OazlCjF3sj1TAsx8B7WSkbGg+9BXHHhlezWusaZ0yiyPAMT5VzdeJ5vnEJKbIngVIrIlJKxUbTXTpJlgZwKWNdFYtN7Lw3u4yU/8zxWvcTcKU1o9jkuPhML6FZqf1F7r7WRkH855Vn4Of0sRWzeQzVATOXHSAn4ae6emXaovVhZ/EnrLyiz+zXEG8q3tw3atZsmA3URSgDyQpy/ZbWn2UFU9KMRe9ndE0IL3BXf7IHbxMdiwQ8yvt3v5Ixc54B1OITDptGrYsFK6lnRhNDhFlPfUWP3SR3EiW/lHwPghL7WVGiPtG6A2JU+1hi0c8MnAVIqN/V9nqBa5fD0NBC/PEVV+6hksgGBDGKs2Fa/fN2SvJnwOlRkNMa9sQkf5DosIBFfPwp3sfAPSmDyyARXA6bbpCUFFolBnxjGRhWZ4rqsGprx3zIwYEGAPEQ==;YeMr8ZxaPuHHhBXF+3kt1Q=="
 ---

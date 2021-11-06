@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/real-superintelligence-rsi-vs-artif
 webUrl: "https://www.linkedin.com/pulse/real-superintelligence-rsi-vs-artificial-asi-why-musk-abdoullaev"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Why Should Humankind Strive To Build Artificial General Intelligence?"
-    excerpt: "Artificial intelligence, or AI, has been a buzzword for a while now. Although it has its own set of rewards and accolades mustered through disciplines like machine learning (ML), deep learning (DL) and natural language processing (NLP),"
-    publishedDateTime: 2021-11-01T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bff049e58c7220248800%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Forget artificial intelligence, let’s talk about individual intelligence"
-    excerpt: "A machine that is programmed by people who have their own goals cannot make decisions for you. Only your individual intelligence will know what is right."
-    publishedDateTime: 2021-11-05T13:33:00Z
-    webUrl: "https://www.pressherald.com/2021/11/05/forget-artificial-intelligence-lets-talk-about-individual-intelligence/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 36
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/4/2021/11/20211012mvht-62037-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "dFlPNnHO3WKQvwN+maO3WtRQxKptwgPoXA3eS82r8jrHeMKo6KEeSU3qjKyKZGdAAh08SmjAxO2brTO9vKQLOavYXMldpZ02iVW2J4YyxCZv4Nn9z77lErAOLbAv/CUFihZo8Rvc4K2tZXkmarFGip5Lnd9YHqvA9lx/uByKZ4wdHgpX2RpOpUffrZDSX9kzoKZyWaOuTgPGknKhCxbQ2aAivwFIr7Y9QtAUdLctFKJNzbz1FxBqdahJ6yF3xWq9XaF2Ry/rRvTyrWF6FDlrDsiIFvPGPsehHFVC86G5RxmK1aFcOdH4bbOwEmVdk+CuLkyFGBWTCHfqaJo1unFO5q2pM2OqkOAKreSXwZdQAqxXSIT+bNn/vulyRI9x1wInYKadVIXK2WXMvwdvTsX3C9+AYY7nxlMh+E07TKN4p+uietUM6JiTYqmjlvBio8fvhRL+l+FNrpchqKvIVJ65+jQHUclUqWpOsH3vPSG4/nig/ZHVY9SNT4tlZi4f3jMb+VY0/9ER366MSSwl41LSgw==;qUDvKX95Rl7I4jIr10lKLg=="
 ---

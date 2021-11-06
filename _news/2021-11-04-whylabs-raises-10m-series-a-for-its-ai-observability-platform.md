@@ -30,66 +30,36 @@ images:
     isCached: true
 
 related:
-  - title: "OctoML raises $85M for it for its machine learning acceleration platform"
-    excerpt: "OctoML, a Seattle-based startup that helps enterprises optimize and deploy their machine learning models, today announced that it has raised a $85 million Series C round led by Tiger Global Management."
-    publishedDateTime: 2021-11-01T15:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/"
+  - title: "Propelo raises $12M for its AI-driven engineering excellence platform"
+    excerpt: "The number of DevOps tools has increased exponentially over the last few years and, with that, the amount of data these tools can produce to help businesses improve their software development processes."
+    publishedDateTime: 2021-11-04T15:45:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 218
+    quality: 87
     images:
-      - url: "https://i.ytimg.com/vi/gpO4y1mPMWA/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/outdo_image_2-648w.png?w=300"
+        width: 300
+        height: 258
         isCached: true
-  - title: "Machine learning deployment platform OctoML raises $85M"
-    excerpt: "OctoML, which helps companies deploy their machine models into production, has raised $85 million in a series C round of funding."
-    publishedDateTime: 2021-11-01T16:04:00Z
-    webUrl: "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/"
-    ampWebUrl: "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/"
+  - title: "Propelo Raises $12M Series A Funding, Unveils AI-Driven Engineering Excellence Platform"
+    excerpt: "Today, Propelo publicly launched an industry-first AI-driven engineering excellence platform to help businesses accelerate"
+    publishedDateTime: 2021-11-04T19:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/n23904692/propelo-raises-12m-series-a-funding-unveils-ai-driven-engineering-excellence-platform"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23904692"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23904692"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/octo-ml.jpg?w=1200&strip=all"
-        width: 1200
-        height: 650
-        isCached: true
-  - title: "Korean autonomous driving startup 42dot bags $88.5M Series A to accelerate its growth"
-    excerpt: "South Korea-based autonomous Transportation-as-a-Service (TaaS) startup, announced today it has raised $88.5 million (104 billion WON) in a Series A round of funding to advance its urban mobility operating system (UMOS)."
-    publishedDateTime: 2021-11-02T05:30:00Z
-    webUrl: "https://techcrunch.com/2021/11/01/korean-autonomous-driving-startup-42dot-bags-88-5m-series-a-to-support-its-growth/"
-    ampWebUrl: "https://techcrunch.com/2021/11/01/korean-autonomous-driving-startup-42dot-bags-88-5m-series-a-to-support-its-growth/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/korean-autonomous-driving-startup-42dot-bags-88-5m-series-a-to-support-its-growth/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/42dot_2.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI optimization startup OctoML nabs $85M after key chipmaker partnerships"
-    excerpt: "OctoML Inc., a startup founded by University of Washington computer scientists to make artificial intelligence models more efficient, today disclosed that it has closed a $85 million funding round. Lead investor Tiger Global Management was joined in the round by returning backers Addition,"
-    publishedDateTime: 2021-11-01T21:42:00Z
-    webUrl: "https://siliconangle.com/2021/11/01/ai-optimization-startup-octoml-nabs-85m-key-chipmaker-partnerships/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/octoml.png"
-        width: 718
+      - url: "https://mma.prnewswire.com/media/1678009/Propelo_Screenshot.jpg"
+        width: 349
         height: 400
         isCached: true
 

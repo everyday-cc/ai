@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "WhyLabs raises $10M Series A for its AI observability platform"
+    excerpt: "WhyLabs, a machine learning startup that was spun out of the Allen Institute last year, helps data teams monitor the health of their AI models and the data pipelines that fuel them. Last year, the startup raised a $4 million seed round and today,"
+    publishedDateTime: 2021-11-04T15:00:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://i.ytimg.com/vi/UsDsLEpigBw/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Propelo Raises $12M Series A Funding, Unveils AI-Driven Engineering Excellence Platform"
     excerpt: "Today, Propelo publicly launched an industry-first AI-driven engineering excellence platform to help businesses accelerate"
     publishedDateTime: 2021-11-04T19:06:00Z

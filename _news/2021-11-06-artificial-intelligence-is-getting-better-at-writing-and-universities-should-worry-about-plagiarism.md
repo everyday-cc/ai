@@ -37,20 +37,6 @@ related:
         width: 320
         height: 240
         isCached: true
-  - title: "Giving AI penalties to get better diagnoses"
-    excerpt: "Anyone waiting for the results of a medical test knows the anxious question: \"Will my life change completely when I know?\" And the relief if you test negative."
-    publishedDateTime: 2021-11-01T14:07:00Z
-    webUrl: "https://medicalxpress.com/news/2021-11-ai-penalties.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/giving-ai-penalties-to.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial intelligence is getting better at writing, and universities should worry about plagiarism"
     excerpt: "The dramatic rise of online learning during the COVID-19 pandemic has spotlit concerns about the role of technology in exam surveillance — and also"
     publishedDateTime: 2021-11-04T18:08:00Z

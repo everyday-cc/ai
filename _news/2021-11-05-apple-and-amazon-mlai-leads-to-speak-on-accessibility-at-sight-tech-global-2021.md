@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-sp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/amp/"
 type: article
 quality: 99
-heat: 109
+heat: 110
 published: true
 
 provider:

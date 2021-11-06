@@ -43,6 +43,22 @@ related:
         width: 300
         height: 258
         isCached: true
+  - title: "WhyLabs raises $10M Series A for its AI observability platform"
+    excerpt: "WhyLabs, a machine learning startup that was spun out of the Allen Institute last year, helps data teams monitor the health of their AI models and the data pipelines that fuel them. Last year, the startup raised a $4 million seed round and today,"
+    publishedDateTime: 2021-11-04T15:00:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://i.ytimg.com/vi/UsDsLEpigBw/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
 
 secured: "mDqVH4ZIZ6w5AKHgIPXAr9eRv56afEeQHCP/b5Q8zTJN1ksehtr4EA3+VMEi9skIIlggss8YUCDw9k1gt4umxR/cTuxRVDOC3sTAZ6mPFr+mbIh42YivansOkHlhZ/2oK/8s+SIz+9P78WLIswx/UUNAjU2Xg3eo1mEKOUbwT8d7XREdUX0GcEOesUwYsqFTFYkQgRm45w0RUMFRoYeqbmGG/rznv8nS61uoLpJhAVHAUEaFsQ3Cv12L8r0149Q9J0g8Aacb9/K0qZI5pxztUlHuxq/fg82MlddhU/mXF4Om8wY22qfVUumP2oxjrCA+34RfsWEpJV9KwNpOgM4WtVurNK265iqUemQfMvGWwso=;8WsgDR/CYLkBxw5v1rgU7w=="
 ---

@@ -38,20 +38,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Conversational AI Market worth $18.4 billion by 2026 - Exclusive Report by MarketsandMarketstm"
-    excerpt: "According to a research report \"Conversational AI Market by Component (Solutions and Services), Type (Chatbots and IVA), Technology (NLP and ASR), Business Function (Sales and Marketing, and Operations),"
-    publishedDateTime: 2021-11-01T15:00:00Z
-    webUrl: "https://www.lelezard.com/en/news-20075927.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 27
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Worldwide Surface Computing Industry to 2026 - Key Drivers and Restraints - ResearchAndMarkets.com"
     excerpt: "The “Surface Computing Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. Surface computing uses an advanced natural user interface (NUI) and eliminates the necessity of a keyboard and mouse for input."
     publishedDateTime: 2021-11-02T15:14:00Z
