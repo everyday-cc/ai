@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/being-human-artifical-intelligence-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Governing The Future Of AI"
+    excerpt: "Where we go, AI follows—for better or for worse. These days, artificial intelligence (AI) is becoming our version of the deus ex machina, promising to swoop in and solve our most pressing business problems."
+    publishedDateTime: 2021-11-05T23:34:00Z
+    webUrl: "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61724b282ff0576e24e0a2ea%2F0x0.jpg"
+        width: 1200
+        height: 897
+        isCached: true
   - title: "Three Things Needed To Be The Perfect Partner In The Age Of AI"
     excerpt: "Brands must be extremely agile in how they create (and continually recreate) more personalized and effortless customer experiences."
     publishedDateTime: 2021-11-05T11:30:00Z

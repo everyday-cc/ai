@@ -8,7 +8,7 @@ webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recogn
 ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Computer Vision
 
 related:
   - title: "Facebook battles the challenges of tactile sensing"

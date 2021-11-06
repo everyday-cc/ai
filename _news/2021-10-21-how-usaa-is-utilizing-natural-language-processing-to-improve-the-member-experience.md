@@ -1,30 +1,26 @@
 ---
 category: news
 title: "How USAA is Utilizing Natural Language Processing to Improve the Member Experience"
-excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SAN ANTONIO, Oct. 21, 2021 /PRNewswire/ -- USAA is using Natural Language Processing (NLP ..."
-publishedDateTime: 2021-10-21T14:22:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-1030886243"
-webUrl: "https://markets.businessinsider.com/news/stocks/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-1030886243"
+excerpt: "SAN ANTONIO, Oct. 21, 2021 /PRNewswire/ -- USAA is using Natural Language Processing (NLP) to improve the member experience and facilitate faster decision-making. NLP is a subfield of Artificial ..."
+publishedDateTime: 2021-10-21T14:14:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-301405849.html"
+webUrl: "https://www.prnewswire.com/news-releases/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-301405849.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/692533/USAA_Logo.jpg"
-    width: 364
-    height: 400
+  - url: "https://mma.prnewswire.com/media/692533/USAA_Logo.jpg?p=facebook"
+    width: 2445
+    height: 1279
     isCached: true
 
-secured: "jiZtbqW4M1wo6iT678U8bPc385O/S8/2qHYGikr23p22AqxmKCz1klGzlIgcu8GM3ezWK/ewznqru+6melQXCTRJRObIDn8PfP8R2Z4+PLmRNKVI0V1QFmyW+pDYphbOKcyxY2MA3h4muHU8LFONyWPSrEeuelsMa0RRnamRT2tj7Ikctz1DHmF40nZ5R14urjLXdyglKASpokKg5zAJ+orUsOkZift1X5pviuSSMN3jx5Lw39kGKII0AUisbGq5Mq5m/q4VOPzpu19uKyzxLN/RRyapigNt0CbGlGSDbrTWmoTPuzfaLUAsVeqv7aqhrSRb3dia1jlpZdeoZaQBKuhvtfBU2Y2qxc/nPvwe6HM=;hAaG0CRS606bBBPfgP2Duw=="
+secured: "m8OBai6hWowLJmPty0l63AZtWjT0K1s30XjipodB3wQei7kzbisDt+bapUD1iZdP3/xvLABMKhOE/4i6JTmKEKT0s23htRF6bi4dRaOVp8T/pQ6kuYILF9KXkY2gUWdopsHlQ+f83b32NGZ5tyUwWoo6wLIvk++wO42VZdVNIOeF7TIX2BHGOUCMdWEDu01dcb509mqDG9mE9H3DDwlXMefFpTaVCqscoV4pA/EE3B8EUKaeR2Cu9vePlqSR9l1KZtTelT3pcQiwuakBkSfnWvnJy+bhtJhiEPDyuUakyv2O77nV6k+lXltCP3+4eXJIp+UPGw/Usnzl3xq/4VlrI34aU9N0XmyRGww66DTAPDQ=;Ah6Q48KLPKyCSJ7Q0qZ6BA=="
 ---
 

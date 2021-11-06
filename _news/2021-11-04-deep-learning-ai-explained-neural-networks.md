@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-ai-explained-neural-networks/amp/"
 type: article
 quality: 93
-heat: 95
+heat: 93
 published: true
 
 provider:

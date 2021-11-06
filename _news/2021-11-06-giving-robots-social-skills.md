@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Giving robots social skills"
-excerpt: "Researchers have developed a control framework that enables robots to understand what it means to help or hinder one another and incorporate social reasoning into the tasks they are accomplishing."
-publishedDateTime: 2021-11-05T21:30:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/11/211104162610.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/11/211104162610.htm"
+title: "Giving Robots Social Skills"
+excerpt: "Enabling social skills in robots could lead to smoother, more positive human-robot interactions, researchers say."
+publishedDateTime: 2021-11-05T23:22:00Z
+originalUrl: "https://neurosciencenews.com/social-skill-robots-19598/"
+webUrl: "https://neurosciencenews.com/social-skill-robots-19598/"
+ampWebUrl: "https://neurosciencenews.com/social-skill-robots-19598/amp/"
+cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/social-skill-robots-19598/amp/"
 type: article
-quality: 49
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Neuroscience News
+  domain: neurosciencenews.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://neurosciencenews.com/files/2021/11/robot-social-skills-neurosciecnes-public.jpg"
+    width: 770
+    height: 512
+    isCached: true
 
 related:
   - title: "Giving robots social skills"
@@ -54,6 +58,6 @@ related:
         height: 518
         isCached: true
 
-secured: "Sb1qn50+K3pdh7qK20w9HJgUptFQo8XSHn+j7XDszqUN0Hd9lP1YXmW2wt10AT0+uAJL3CHsFO19c3yGYck6/rReOJXEY2VoSYSnC44PjtQK9BjC5GC15PeqkM2Illp9cJ2KXA4HTo1U5y7DMvcynh9a6oarkYmM/B7sHMOuPwLL0wKnxJeLlTc/36LutHdundtLe8TJtw+l5R7oo9UfbDTvgfnwq3t6CkHE+u3aUgplm7NM4h2NX0oPN3UeXV38x4qo0t3pebEHcTq5PioBgiCscO30RynYs2P2SAFyWR7iR/6R0QJ4qx0jOrwFQU4cOA/2klsqlaYvYmW0cQTczEon5lqdXkD05KRultUFp9k=;qgmkK9XU21UOBIie6j9ikA=="
+secured: "jJvmETlcut+DqNqOFaJfbPr7P2BAhKdr/x/qrHxpSZsRZFQDPcXF1ULYQTxWQ0nL8eyqA9esCdAPWQVx+qkrwgUfyy+A6gIxIRmTOYgnS3MLyYYBqamAA2QAEPWvv6Ia3zewgrYOASWAPU8XLegiQAWMxMgJhFNSoRUe2QHA4Lar+43uF38DwZwAzH+33CBRpcVx0nuMwswYp4nrrdnMeHZD8oTZSF5UeT39TBWx6BkBPVysRn9ZTemOoMlMfi40btgmY9fkUpDfuJwburUznyRYiV0NtBeE5rOlgl0wa3S3KmX1XiWfjcuW6miKIgoOobXyM3h5oLZ86qej2wMC83KIyPr8/5hv9lNyV0/TLto=;VXQnlSfOnRp7e4K6e/3oiA=="
 ---
 

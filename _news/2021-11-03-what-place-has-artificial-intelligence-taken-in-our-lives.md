@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-03T12:03:00Z
 originalUrl: "https://www.linkedin.com/pulse/what-place-has-artificial-intelligence-taken-our-lives-mts-ai"
 webUrl: "https://www.linkedin.com/pulse/what-place-has-artificial-intelligence-taken-our-lives-mts-ai"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFVavO11uVpJA/article-cover_image-shrink_600_2000/0/1634804182568?e=1641427200&v=beta&t=mFLiU3wwMqn_B2jsmEKBEtuDcg5c8vbcZnbbzGnuM9g"

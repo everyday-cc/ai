@@ -151,6 +151,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Apple hires former Tesla engineer to bolster its self-driving car project"
+    excerpt: "Apple has hired a former Tesla engineer to work on software for its secretive \"Apple Car\" project, according to a new report."
+    publishedDateTime: 2021-11-05T22:00:00Z
+    webUrl: "https://appleinsider.com/articles/21/11/05/apple-hires-former-tesla-engineer-to-bolster-its-self-driving-car-project"
+    ampWebUrl: "https://appleinsider.com/articles/21/11/05/apple-hires-former-tesla-engineer-to-bolster-its-self-driving-car-project/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/05/apple-hires-former-tesla-engineer-to-bolster-its-self-driving-car-project/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 58
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/45502-88532-Apple-Car-Header-Image-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla recalls 12,000 vehicles due to glitch in ‘Full Self-Driving’ software"
     excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
     publishedDateTime: 2021-11-02T15:00:00Z
@@ -233,6 +249,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Apple’s Self-Driving Car Project Hires Former Tesla Autopilot Engineer"
+    excerpt: "Bloomberg’s Mark Gurman and Dana Hull are reporting Apple has hired a former Tesla Autopilot engineer to its “Project Titan” self-driving car project: The iPhone maker tapped Christopher “CJ” Moore for its team working on a self-driving car,"
+    publishedDateTime: 2021-11-05T23:06:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apples-self-driving-car-project-hires-former-tesla-autopilot-engineer/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 39
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/02/apple-carplay-carkey.jpg"
+        width: 798
+        height: 365
+        isCached: true
   - title: "Tesla’s ‘full self-driving’ delights and annoys with Jekyll-and-Hyde personality, drivers say"
     excerpt: "By Matt McFarland, CNN Business Drivers with Tesla’s “full self-driving” software often don’t know what their cars will do next. Tesla owners have been wowed by their cars’ new abilities, but some say they have also been alarmed and frustrated by the accompanying flaws."
     publishedDateTime: 2021-11-03T18:57:00Z
@@ -248,6 +278,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ymxCKqLLjkvUxsx41nOZozzK4EtstQeTaGGuoRlUI9PEDj22YYtlAacX++WTO6C7octMz5+gaPAfWJGZ/i1xdwZQVkCbCC458OmFwQ6MQGBN5A1kBWKE0/sisoUCuEgBvD7PiN6NUTuBfleo7oE5R5r1MxMNv7Ts6yMu0AhnpPAfNlARZTEnu9JElPCYK54RwyC96yoaQgPqJHZ6jVouGgCBZfOGy1AhrwdIOZLyF6MkiGYbh3AwhdhauSOuo+EQX1v+yvTzYHey0TV6taRD6AR05US2meZ/0xA0XqC3gA1NAaLlh5+CuR37Nd0+m1ty4IFIzGVefuDKYkq6hAQjIGh3FfsUhBEvMgF8yOlQ9Sg=;mzi4F6m4ojjb8mOa7EGzsg=="
+secured: "2vr2cdFKuZ6bsgDD/+ZetjhD/x2OWT38IyNnIvFICFXc/noX0Y2auLn7vcPv198kc+b9ujnnX9TwTuM2Ojxr7UaaK6eiaJEKi4xR2qAJ1A/f8PWGuiBXaiwh9AMPKwtFuY9vJVOcXJ3NUa2ww77nTYkXf61qTCKFg/x9inIkHWIBWn9Ng2upil+qC4yn5onnE9GYiFCOKsXbfQj4+ONVAG+E1wJ+UosLfVa8E2Kdbyj215Um4FbfGe85Ed8cxQDULU0pOCPAhAzoBrt7c45lYCYdBOVuhE3Cpd1z9NRp83c5KDWHPyNIMudFGV7vBvZ0ld5K4Mp/9OwN6SZ7lcF7eJ+490ZZmSQt2OKMtUeKwhXbYFdkG8nN97eKEbwl3JgEOCG14FMCtoHA9bt6jmpypviK6sP5+IwMdhXyGo6J0lNdcKKuf9gCR4JYbLqXaSiy9YtYjXFujhrnWSeDuNvw1wINAYygw6msGlzC33qnPsn3faaFoHkMnHVYqPkzcvoqwPFlEBFoKfs7ebAI/jD0tQ==;8/J8EoO7kvq2BltpODHBQQ=="
 ---
 

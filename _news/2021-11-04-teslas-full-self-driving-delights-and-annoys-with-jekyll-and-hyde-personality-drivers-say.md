@@ -149,6 +149,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Apple hires former Tesla engineer to bolster its self-driving car project"
+    excerpt: "Apple has hired a former Tesla engineer to work on software for its secretive \"Apple Car\" project, according to a new report."
+    publishedDateTime: 2021-11-05T22:00:00Z
+    webUrl: "https://appleinsider.com/articles/21/11/05/apple-hires-former-tesla-engineer-to-bolster-its-self-driving-car-project"
+    ampWebUrl: "https://appleinsider.com/articles/21/11/05/apple-hires-former-tesla-engineer-to-bolster-its-self-driving-car-project/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/05/apple-hires-former-tesla-engineer-to-bolster-its-self-driving-car-project/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 58
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/45502-88532-Apple-Car-Header-Image-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla recalls 12,000 vehicles due to glitch in ‘Full Self-Driving’ software"
     excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
     publishedDateTime: 2021-11-02T15:00:00Z
@@ -246,6 +262,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/22/54/05/21676404/3/rawImage.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Apple’s Self-Driving Car Project Hires Former Tesla Autopilot Engineer"
+    excerpt: "Bloomberg’s Mark Gurman and Dana Hull are reporting Apple has hired a former Tesla Autopilot engineer to its “Project Titan” self-driving car project: The iPhone maker tapped Christopher “CJ” Moore for its team working on a self-driving car,"
+    publishedDateTime: 2021-11-05T23:06:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apples-self-driving-car-project-hires-former-tesla-autopilot-engineer/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 39
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/02/apple-carplay-carkey.jpg"
+        width: 798
+        height: 365
         isCached: true
 
 secured: "tu5cWEr+vP0atUhfPY3mlqBkhtPKhi3XmKU6RJt45yWQmaC05JDV/KlLNSKvFjp0nvtLFSSAISN1kVZbZEBY6bywTuaAIKqW5BhxJUki5BRf7ayIb2gNG1PmCHxLA6NYaDCOn8qz4MuIBk7tOZlAuk534zO5Rppgnsm0LUPq56UxRIC2PgchZ1h4hakcEfgHxV3ORomxr7J46Z8YTKeeh1cAZJy7cYvfOLBd35fxNcmd0S+TQ16LTpyhiWpMn/bv/JMoYiEkpnUXukQv6rwkXJ/5g5eGjsUb3UNWI2uGo6UB9g+RYKsOmUadsP5xkOzLY7QC1/RxIaCwd49mV+R9LpCpVKbwQ5rO7N0hgPstfg8=;3AdEVJJf/sZAUafyiMtbjQ=="

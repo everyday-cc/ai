@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Welbilt KitchenConnect and HCL Technologies Join Forces to Offer a Secured Cloud Solution for The Food Industry Built Using Microsoft Azure IoT"
-excerpt: "Welbilt, Inc. (NYSE: WBT), a leading provider of commercial foodservice equipment, announced today that it will integrate Microsoft Azure Sphere to up"
-publishedDateTime: 2021-11-04T14:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211104005159/en/Welbilt-KitchenConnect-and-HCL-Technologies-Join-Forces-to-Offer-a-Secured-Cloud-Solution-for-The-Food-Industry-Built-Using-Microsoft-Azure-IoT"
-webUrl: "https://www.businesswire.com/news/home/20211104005159/en/Welbilt-KitchenConnect-and-HCL-Technologies-Join-Forces-to-Offer-a-Secured-Cloud-Solution-for-The-Food-Industry-Built-Using-Microsoft-Azure-IoT"
+excerpt: "(NYSE: WBT), a leading provider of commercial foodservice equipment, announced today that it will integrate Microsoft (News - Alert) Azure Sphere to upgrade security in its KitchenConnect ® internet-connected equipment and will host the solution on Microsoft Azure through a new partnership with HCL Technologies (News - Alert)."
+publishedDateTime: 2021-11-04T16:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-welbilt-kitchenconnect-hcl-technologies-jo-forces-offer-secured-/2021/11/04/9484530.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-welbilt-kitchenconnect-hcl-technologies-jo-forces-offer-secured-/2021/11/04/9484530.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -48,6 +48,6 @@ related:
         height: 446
         isCached: true
 
-secured: "OxQoyzUCnfm+cL8TpSNjhrVFJ2NbykGc8csFaWOe+w9CP0+mAXzN4w58R8TCjCwxD6H9BOgwsBq6VrXeDqqER1VcOFeW9eLmnLiRJiOlZ0t9tynYh//KaCsBAiTB1Z+rjVVttphVcUkTHIXPJpwc0nI9kySDkofpdYOpYZH+oo0FlXEW2hNq5HaONloOqz25DJqShNn1AQfODMj/johNUSryF4kwL+kFWHfRh6TfGokH9tf0rb3PNb+aqLh1GP1k2k2+hhBxIKJxdX9n50AS61lXyoaa1p3vQ8d7cw3/rtLeQmENNpr62n8PxoSc58UX2IjuPbPFHB00MnxIQAwDwAr0h0esDjK4h1zHGKJa4Uw=;Mch8B9l0XcZXsSQDVOo7nA=="
+secured: "OtL8n9+wy+5y/uQmw0kww3kSwrPTWiqQCpmIdg3ULjAhSHCYQkfIvq7UuUXv7/b3oeRmNGIA13N5xWuDQW9adEqq+KdabC1ASBwUWdDekcbIxbZ0UhV4qKj1PwL28aUXW06wOgAClxmQNhYSKlYArS1ZC1Ou0k7x2UjfFVJewIQyisOM4Q/IUwTZluVxpfU8e7sHWakAgSSRAbMmm5vxGTl3OyfQHYDcAkJHw+6bMsyLnBwezt3UT9J+FwbYzXy25h1hFWBgXAS9272xBfyEK8UiJiz3unCRbOJ9VwLZK9xNGrzteZEhO5UUNrX/CmKZqjiHWK4gv6azagq5WFhvPWczGjeLRWYM545yMSn16Wc=;2ueLUxxERRwg66h9fdc6+Q=="
 ---
 

@@ -766,6 +766,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Facebook to shut down face-recognition system, delete data"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-03T17:38:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 26
   - title: "Inside Google and Facebook’s ad empires"
     excerpt: "There’s a vigorous public debate about the benefits and serious trade-offs of the digital worlds that Google and Facebook have created. They seem less mythical and imposing when you know that their empires are built on selling us more socks."
     publishedDateTime: 2021-11-01T13:00:00Z
@@ -833,17 +844,6 @@ related:
         width: 750
         height: 546
         isCached: true
-  - title: "Facebook to shut down face-recognition system, delete data"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T17:38:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
   - title: "Facebook axes face recognition"
     excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."
     publishedDateTime: 2021-11-02T21:27:00Z
@@ -863,6 +863,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "3D0LbbzwDqH5NPrz0M+okUzNSK9nQchS8jSAwPswiEPncIiSVZtK9QxOMQ3amm7nBTm6GgIwnjgFjDiW53Gg2hwbd0fzQjsBjIGAy0f8/Xt87VkD3nTCAFmHN11MGbJiLfsF7/Rai3j+hzHKKqFhP+VbpCs2BVAMIiCc6yojh6IJvYxxPA+2OoGcw5+1LHnxnm+eDRGfzLSJVP3IqeEaaxflZADE85Hu5NqPtz0z/E2qS+oyYJH+SiN72eJ8jw5NW+ECgnwrAP3yw3j0rQWLcn1WWP0ojl7Jokue53XyxnirubBagxRD4HffH7EFclyeSgwupz/NHbfjrLT+gpR7L+Za11XTNlpWvhcg/oeaxNY=;HtnS26xV3igarZLbkhjvkw=="
+secured: "kU4usmd9RM7aHp39IIXAM+vl2DTT0QJs9OVsi2M1aIpGejBcEIs1Kus3eTNUKD08hGH4oJ7sX21nbAIPv3vHnX/nD1mGXAjC+hWnGpuq8azJCyFykV48lzMJQprwjRq6VGelEUGPcF/ziarbOo3ot6g/OHXDmDnYKH5VFzgnvzo4skOWRdIbjQ4YkWpE4egW8tmOGXIQgqybnzFX46yL238mCF03ZNsNndf1HpwSPYw24fNZtZqVFd0EMOnZQeiXg1eaLl1DRwXAWyea/91IL7/0sujOoh++I935jKJQF10qscUwj2cHMQDWiX2dwTuj0qlAYbKGzfFZFBL0aozNv/VQJk3dK6L0sNf+nODnp9lBX9Or+pZ30YT/b72Qf1/J3K4hXKimikSAW9Jgl2d5ovVirQ/pyLQIPuGl8X94JumB52wdn7CIqqwsJh3QCNBkOypRYBuEFprwPlj7SVJPJ7KIAq/GT1eXArhIGLVMiwUbfWy3LAifBG2Oeb9rhYImVRTHGBo0oskIXMioP5kw+g==;tOTAomH9668KeoUiZUaV0w=="
 ---
 

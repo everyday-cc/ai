@@ -2,26 +2,27 @@
 category: news
 title: "Google's parent company launches AI-driven drug discovery start-up"
 excerpt: "Google's parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"
-publishedDateTime: 2021-11-05T14:41:00Z
-originalUrl: "https://www.business-standard.com/article/companies/google-s-parent-company-launches-ai-driven-drug-discovery-start-up-121110500620_1.html"
-webUrl: "https://www.business-standard.com/article/companies/google-s-parent-company-launches-ai-driven-drug-discovery-start-up-121110500620_1.html"
+publishedDateTime: 2021-11-05T12:22:00Z
+originalUrl: "https://www.glamsham.com/world/technology/googles-parent-company-launches-ai-driven-drug-discovery-start-up-2"
+webUrl: "https://www.glamsham.com/world/technology/googles-parent-company-launches-ai-driven-drug-discovery-start-up-2"
+ampWebUrl: "https://www.glamsham.com/world/technology/googles-parent-company-launches-ai-driven-drug-discovery-start-up-2/amp"
+cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/googles-parent-company-launches-ai-driven-drug-discovery-start-up-2/amp"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AI
-  - Google AI
 
 images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/27/full/1632748240-2419.png"
-    width: 620
-    height: 464
+  - url: "https://www.glamsham.com/wp-content/uploads/2021/10/Optimum-Featured-Image-Not-Found-Will-Be-attached-When-Available-1.png"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -72,6 +73,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/11/isomorphic-labs.png?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Alphabet's Isomorphic Labs Says It Will Use AI to Discover New Drugs"
+    excerpt: "The company will build off of breakthroughs in protein prediction from DeepMind and inches Big Tech one step further into the healthcare industry."
+    publishedDateTime: 2021-11-05T23:20:00Z
+    webUrl: "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449"
+    ampWebUrl: "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ff798528b11ef62b1fe1def5a6099780.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Google parent launches company dedicated to drug discovery."
     excerpt: "The new company, called Isomorphic Labs, will build on recent research from DeepMind, a London-based artificial intelligence lab also owned and operated by Alphabet. Demis Hassabis, the co-founder and chief executive of DeepMind, will also serve as chief ..."
@@ -256,6 +273,6 @@ related:
       domain: fdanews.com
     quality: 19
 
-secured: "68IQySCSINwspthZFfk4eHN9slLD+LoaVEJdFwftbbMzbJikA4AUU4ylnun9Zu6PZLvJrh3eNqb0rE8B4PNBXiyvg8/hKJI9PEPv2D59y06SnMPi8ttBgCVy6jMLvTd3ClqjByPpHPFMpSNrTFGGE/yek8GG1jz5QAlrIXicz0NEOWwrT4q085tfXi4V+0XkxkEmWIXst94qL9UC66x55+8pNg+yHrhFca2bMQcFxQ6ROWmrtxhhOiu5elF5hR6KWl8Xdulsq7OfxIOesbh44qfNApMP9a2xspqEPr/qsFLfvzdEtfi4BwPkBb+fau06ROqfKzWS/PSTehtafXyZcVg4263MwBVzR8Yxo6PHFqSdn/DikKGILPnI785mxaOB8uxCUX5r1r/1gs9+CQadnf9IX7egnjUDG/K5ntseknhStIo+nJgrq7FNC9k44baodi2bm5LgPhkUgqPxxCo52YEQX/QAO0CISRARKpqQqtEYfdv9YNMozvjVSxI113qp4sr5tI1Q407c5RSBQnXzXg==;oiKlRw0ct7kO/12Ix9fm4A=="
+secured: "xCwQ+LO6tbZHIgvRgmKOMJIBsj4OAt6QzRJXYlpGgiBKa7wUNJ+1U6XO+ekgse2HRjdEIQ75y6qI3Sb9Cc1ln6n128bFcrY43ZxkJx2gjt/aUwh1cQj8SGJGcSmVRsbOPR1zP9n+TBpWa9H44dLWHOdKMJ5XJsvCj9FAonRxC3YdNAb1XfwgRCJ+v+er7oj5D3BAYRtzZQ9XSBC6o3FXs+bLF+KN00ffO2QuMQoEbVNY+lBcFDobAE4wsrdyJNkH8KFMnJLQqVjiLB9SuPK/PSiQ+AZktWdkG2jEzpfH07qbCJWBXHPcBhAgP+E/ftN5uSrP1oEyi/Up5RDYXesaAX1XmUmGZhDepWtm6EQ8vho=;IGalWIMkV7drRbsj9FrC0w=="
 ---
 
