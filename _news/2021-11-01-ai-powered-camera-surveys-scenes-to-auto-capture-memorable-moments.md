@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/photography/canon-powershot-px-camera/?amp=true
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/canon-powershot-px-camera/?amp=true"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Blackbird’s AI-Powered Platform Helps to Combat Disinformation"
-    excerpt: "American tech startup Blackbird has developed an AI-powered disinformation detection platform that helps users to combat disinformation."
-    publishedDateTime: 2021-11-01T10:19:00Z
-    webUrl: "https://www.just-auto.com/research-reports/blackbirds-ai-powered-platform-helps-to-combat-disinformation/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 37
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/11/shutterstock_784527229.jpg"
-        width: 500
-        height: 334
-        isCached: true
 
 secured: "gT+n1mO978Vy86LqO3zx4Xm1YcVvyFGAUDgRYnxnTi9J6FCi5btfdDo9L078zLCt0SM5J/mjRwlnQpFrfvPLAB6ew1O4AfJV4lWlK+TMZc2jnXA0NavMnNQKDfiWhGPoQRLHBWkcAPJ31zfDgvdO1AAWuPFEssFQuBjOn5hpG/m25N4P1uksGwS25IS2em8YQl+uSswvIkMF3qxTeuEsvIEhVHUi5fioPG2Gr3zCssq4jfGZvyxSZ+a7rfpaRpbL8b6CEn7KNXked4d8ro6bZqXgpPdSqzrHx9ltlKAHmO9zteovPfMof1jWcwaId7dilYLfGQM86zLjXejIQhdGRyt/rLrTcmXknhyu6SFtg/DpaPq7Rg0cwfcRfIfuiMnxSua0R9ZHPaIB6VcqAO41eIdAoI9ei0b3vmdYgHHvkqLUnFZvl0z99a6zcTPE0rIIdgVBhm72YKVsQjYcS/+Kj58OMWCU0U0hx/x4byZjzlCw/v+cRdcP2+OLPvXX96HoOwUo8APUopMlv5A1ybcEWg==;Lrpnf/7eFpKzZyOK6K+FRQ=="
 ---

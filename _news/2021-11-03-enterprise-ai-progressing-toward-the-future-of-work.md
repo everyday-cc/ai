@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/03/enterprise-ai-progressing-toward-the-future-of-work/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c37723bcebb249a5d22c16%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Addressing the effects of AI on nature"
+    excerpt: "The Sustainable AI Lab of the University of Bonn (Germany) addresses this topic and is present at COP26 with a unique artwork to remind people of what nature is doing and that AI is getting in the way of this."
+    publishedDateTime: 2021-11-05T00:00:00Z
+    webUrl: "https://www.pressreleasepoint.com/addressing-effects-ai-nature"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 39
+    images:
+      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "Addressing the effects of AI on nature"
     excerpt: "While there is a growing number of research publications directed towards Artificial Intelligence (AI) for the Sustainable Development Goals, there is little research addressing, the often hidden, environmental costs of AI."

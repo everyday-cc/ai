@@ -45,6 +45,20 @@ related:
         height: 800
         isCached: true
   - title: "Addressing the effects of AI on nature"
+    excerpt: "The Sustainable AI Lab of the University of Bonn (Germany) addresses this topic and is present at COP26 with a unique artwork to remind people of what nature is doing and that AI is getting in the way of this."
+    publishedDateTime: 2021-11-05T00:00:00Z
+    webUrl: "https://www.pressreleasepoint.com/addressing-effects-ai-nature"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 39
+    images:
+      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "Addressing the effects of AI on nature"
     excerpt: "While there is a growing number of research publications directed towards Artificial Intelligence (AI) for the Sustainable Development Goals, there is little research addressing, the often hidden, environmental costs of AI."
     publishedDateTime: 2021-11-05T17:03:00Z
     webUrl: "https://www.eurekalert.org/news-releases/934022"

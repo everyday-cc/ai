@@ -51,17 +51,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How to build scalable AI in 3 steps: Lessons from Capital One's ML team"
-    excerpt: "\"When it's time to actually go to production, and then keep that model up and running 24-7 in some mission-critical application like transaction fraud, that is the hardest part,\" says Abhijit Bose, head of Capital One's Center for Machine Learning and Enterprise ML Platforms,"
-    publishedDateTime: 2021-11-01T10:00:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-build-scalable-ai-in-3-steps-lessons-from-capital-ones-ml-team/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "Ignite Nov '21: Here's everything Microsoft announced for Azure"
     excerpt: "The November edition of Microsoft Ignite is here and Ignite has always been about IT professionals, so Azure is front and center. Topics include Azure AI, Data, Dev & Ecosystem, Hybrid, Infra, IoT, MIgration,"
     publishedDateTime: 2021-11-02T15:13:00Z

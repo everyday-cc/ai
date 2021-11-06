@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-acce
 webUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://lh3.googleusercontent.com/p9rDEy2TS05gmljGu-JgnaBaMzEV42FH5xYwNZwp0-uz2JUzLKTHQV8zCDIIog1zKOcCSsTbXdvxfvRDsOGrwhi3vcZlptMvPrt4=w816-h428"
         width: 761
         height: 428
-        isCached: true
-  - title: "Versatile Launches AI and IoT-Based Solution for Construction Process Optimization"
-    excerpt: "American construction and industrial process startup Versatile has launched CraneView, an AI and IoT-based solution for construction process optimization."
-    publishedDateTime: 2021-11-01T10:49:00Z
-    webUrl: "https://www.just-auto.com/research-reports/versatile-launches-ai-and-iot-based-solution-for-construction-process-optimization/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 31
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/11/shutterstock_1144060268.jpg"
-        width: 500
-        height: 334
         isCached: true
   - title: "Mitsui in collaboration pacts on artificial intelligence and carbon capture, utilisation and storage"
     excerpt: "The Japanese company has signed memorandums of understanding with Denbury Resources and PGS related to the energy transition"

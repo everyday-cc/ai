@@ -24,24 +24,6 @@ images:
     height: 334
     isCached: true
 
-related:
-  - title: "Builder.ai co-founder morning routine for productivity: Playing tennis, learning Japanese & taking piano lessons"
-    excerpt: "The boss is now working in a hybrid model and swears by his morning routine to help him stay productive. “A good morning routine sets up the day. So, I tend to do a workout, play tennis, do a Japanese lesson and maybe a piano lesson or read a book."
-    publishedDateTime: 2021-11-01T09:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/builder-ai-co-founder-morning-routine-for-productivity-playing-tennis-learning-japanese-taking-piano-lessons/articleshow/87460726.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/builder-ai-co-founder-morning-routine-for-productivity-playing-tennis-learning-japanese-taking-piano-lessons/amp_articleshow/87460726.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/builder-ai-co-founder-morning-routine-for-productivity-playing-tennis-learning-japanese-taking-piano-lessons/amp_articleshow/87460726.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 36
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-29644,msid-87460905/tennis-is-still-at-the-top-of-sachin-dev-duggals-mind-.jpg"
-        width: 600
-        height: 450
-        isCached: true
-
-secured: "MKLMIeLMUVAsk990v6lA+AUDS6nOfgXx4X1QlcZ99E1LdRWVOHMCE1Zi2/MgZiN09zFofr6nbcwiYnjSMQCJT57FTxQkYpZSOwAC1B5TD/iNQMn+uAG/aY6zwFVtOMwnhWEBCpCkDWBBYXOrgMAv+ntFNLRHlHNCEQMXRs/7JTXhWl0zpR4CIl1/keCTR2JQvKbHl8eQ+pnWeb5LdVlpTu80aZxS7vk1UEAGYUZz83WMK9MagOEtOkb5QWQxNABDDtMTj3QToHejvbkRP2tIkyIMm8XfI5RB69t3ZKSdt+Qo7onZK06skf9+QQ2xy+pPru1QY6X88Apw/jyGgOqVWmCsvsqNZQa5bujRBZ1bMrI=;nipOkImw3XMdBW3SMLFzXw=="
+secured: "rAMVsQ58VtLcnnpyTXi2QIvMHxkO+Hy0u+TwT/kHzBwWW5QOY3OVazFA1nPH10c8DsM8dHNe6slKNndZXIcZDGlam9a3asofssRDoy6Ni7g7O5nRuaxXxA8BPDrpYs406o1NnqBH/slFQzCYvuqXsBlaKmrk5q/LnGZIFmQWI7cazfJPkxBdwZKr00GQCQoe9cYqb1CQfytNrdPt1wmqxuzA6sX3x9T0z6Pcar940ilfaKYl2vTUurXSdlk0nWuvz/SlP4+vXNZiYvjla+yDyUUXTRBdAjVfylN7Kbcmbs4fTd6axuaWQjxedsfBcQVxMSsDDBqp+IRzT0Rg8UvY6vVXLU5zO7O+xxhkCpS8jEPGlHgpL32Fsc4yc/O7iZFuqJVJeUCp8vMa7G/73NinanEE9pTTFCOd+XPWCam+MRJkC4c4mNjXHUJ4+dsyWx+QCHw60HdE7Bg4+aCgdveL20AZ8TV2EbtonaSBaB7rQmqCMtmnJR1YHALabFqkjkJBmUEkgxD6vUlsAV7hIZN8nw==;SgZY9avYjqyXAD3tLsd2OQ=="
 ---
 

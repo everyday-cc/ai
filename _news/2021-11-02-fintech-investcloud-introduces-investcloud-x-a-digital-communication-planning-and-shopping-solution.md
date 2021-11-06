@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Φ-Sat-1 mission: the first on-board deep neural network demonstrator for satellite earth observation"
+    excerpt: "Artificial intelligence is paving the way for a new era of algorithms focusing directly on the information contained in the data, autonomously extracting relevant features for a given application. While the initial paradigm was to have these applications run by a server hosted processor,"
+    publishedDateTime: 2021-11-06T02:43:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9600851"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 2
   - title: "Survey of Fintech and Banking Executives Reveals Identity Authentication Risk and Customer Dissatisfaction Top List of Concerns"
     excerpt: "AUID], a leading provider of secure, mobile, biometric authentication, today announced the findings from a survey conducted during the fintech industry conference Money 20/20. More than one-third of respondents indicated they are “highly concerned” about the risks associated with one-time passwords (OTP) and knowledge-based authentication (KBA),"
     publishedDateTime: 2021-11-03T16:46:00Z

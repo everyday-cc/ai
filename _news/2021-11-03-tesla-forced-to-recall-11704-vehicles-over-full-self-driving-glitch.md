@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
         width: 1024
         height: 555
+        isCached: true
+  - title: "Tesla's handling of braking bug in public self-driving test raises alarms"
+    excerpt: "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an \"over the air\" update."
+    publishedDateTime: 2021-11-04T16:30:00Z
+    webUrl: "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 73
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/tesla.jpg"
+        width: 2880
+        height: 1920
         isCached: true
   - title: "Tesla recalls 11,706 vehicles over Full Self-Driving Beta software bug"
     excerpt: "The Texan automaker issued a recall for nearly 12,000 vehicles after an over-the-air software update introduced a new bug that can cause false activations of the cars' forward collision warning and automatic emergency braking (AEB) systems."

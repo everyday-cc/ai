@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/"
 type: article
 quality: 74
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
         width: 534
         height: 462
-        isCached: true
-  - title: "4 FinTech Tweets you should see!"
-    excerpt: "FinTech companies like any other are now embracing social media to tell their stories, engage with their consumers, and leverage influence."
-    publishedDateTime: 2021-11-01T09:03:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-tweets-you-should-see/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Funding-wealth-1.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "17 Fintech Trends You Should Know About: The Ultimate Guide"
     excerpt: "The future of fintech looks bright, with AI, robotic process automation, smart contracts, DeFi, and virtual reality all on the rise"

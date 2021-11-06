@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Older Teslas Need Upgraded Cameras To Get Full Self Driving"
-excerpt: "Following the introduction of the latest Full Self-Driving Beta, it quickly emerged that no owners of older Tesla models had gained access to the system, despite achieving perfect 100/100 safety scores."
-publishedDateTime: 2021-11-01T20:00:00Z
-originalUrl: "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/"
-webUrl: "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/"
-ampWebUrl: "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/amp/"
-cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/amp/"
+title: "Tesla's handling of braking bug in public self-driving test raises alarms"
+excerpt: "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an \"over the air\" update."
+publishedDateTime: 2021-11-04T16:30:00Z
+originalUrl: "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html"
+webUrl: "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html"
+ampWebUrl: "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp"
 type: article
-quality: 74
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Carscoops
-  domain: carscoops.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
-    width: 1024
-    height: 555
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/tesla.jpg"
+    width: 2880
+    height: 1920
     isCached: true
 
 related:
@@ -59,21 +59,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla's handling of braking bug in public self-driving test raises alarms"
-    excerpt: "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an \"over the air\" update."
-    publishedDateTime: 2021-11-04T16:30:00Z
-    webUrl: "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp"
+  - title: "Older Teslas Need Upgraded Cameras To Get Full Self Driving"
+    excerpt: "Following the introduction of the latest Full Self-Driving Beta, it quickly emerged that no owners of older Tesla models had gained access to the system, despite achieving perfect 100/100 safety scores."
+    publishedDateTime: 2021-11-01T20:00:00Z
+    webUrl: "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/"
+    ampWebUrl: "https://www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/older-teslas-need-upgraded-cameras-and-computer-to-get-full-self-driving/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 73
+      name: Carscoops
+      domain: carscoops.com
+    quality: 74
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/tesla.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
   - title: "Tesla recalls 11,706 vehicles over Full Self-Driving Beta software bug"
     excerpt: "The Texan automaker issued a recall for nearly 12,000 vehicles after an over-the-air software update introduced a new bug that can cause false activations of the cars' forward collision warning and automatic emergency braking (AEB) systems."
@@ -294,6 +294,6 @@ related:
         height: 720
         isCached: true
 
-secured: "0lms7nnE7TbgJXBjBYP/sShBv6Kncdv19kKJ+7Wnhl/Au1/F7NavBftV4h7Hc05WALrhHeULRU50dh7A5YxnxeS1PA9x5llBVN+yBB10rWWQ9yH8ruRngsWbolj8ZqHi+zLj1c1RWBO/UsKLs/e/0xtsbCkrqyVBoNxfxYLaG8hC7YrnrtE+poM52xNGX/vk0AeYPzZB2WJi7GWnm09j/SRjEVSJ3EYWI1olOL+BNsbsY6HxLSWHKxtfAGgPrEyRliqLidaXhbVUobuht+JZLPMQ3lPCBUqsaOT2e7hat4+2baf36uTxwpfKiQ+0Ciexl3c2LnDMl9Cxks/zJUpddEgiZ0U/xDEv8qBu+bDdZcy7MpOrjhjgovkVBVGGe75ktWifv63HFPyWmyfsY6SDXy8/9lGF0NQakGtUAcrguCr/xrgBZotoKOpcwWLrv0d9inVrbBf7lT5sklS7sw9deRwShq9KKJpUZdAM6RBffcr8m0Dcw909xbmhkewMiOgRiE74jqtbn8kQQeyJqhUT2A==;T/52O+/3jFcfOLUFafMPaQ=="
+secured: "FIBS3XkV/jWFTXWZeTqbnwOJ1G6WY/Hq//dunrFxnUmD2p1A6d8gzfO7lrIGDLSUg6V9MB0eBh3WkRolCdoVNkLvv4RtuBTLFXhHTVioJWf4iJR4/22mlqr1YMt4KPHnxYqSQUqlRJ5k6ItRrHXS/OqqQJgVA4iU8sA8wG52nkTztkkPYzPtnmFX/IYT7Xil4IaRPFursBt0pQB2sW68Iub1aprlgtJLcAYBvQCFSjFrKwJxrKZ0FOCrsPyC7VLXBAg5/2tVEQ6Qbduuu/nXwg0xzcgTqCzXekaP7ehU4MEFnY71Fu6qE7aikr3QRPuV8HiGzjju7n26ri4naJqcMW5nhqofpqf4v25APpi1+zU=;CV3KFGwSMKnVfS+vw+9PkA=="
 ---
 

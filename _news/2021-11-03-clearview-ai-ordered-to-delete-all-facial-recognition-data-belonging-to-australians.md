@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/11/3/22761001/clearview-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete"
 type: article
 quality: 168
-heat: 248
+heat: 238
 published: true
 
 provider:
@@ -133,20 +133,6 @@ related:
       - url: "https://live-production.wcms.abc-cdn.net.au/e4042c37a61d5b971733590b729d1e6c?impolicy=wcms_crop_resize&cropH=447&cropW=671&xPos=0&yPos=125&width=862&height=575"
         width: 671
         height: 447
-        isCached: true
-  - title: "Clearview AI’s Facial Recognition Platform Achieves Superior Accuracy and Reliability Across All Demographics in NIST Testing"
-    excerpt: "Clearview AI’s algorithm ranks No. 1 in the U.S. in all categories as verified by National Institute of Standards & Technology (NIST) Facial Recognition Vendor Test (FRVT)NEW YORK--(BUSINESS WIRE)--Clearview AI,"
-    publishedDateTime: 2021-11-01T10:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=556406"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 27
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "i8y4sphHNu/Vbh/SwSTPxuNtvqkQYME+WhafgsGTxIJf6krxhuFtrw2EX+0hLePlSZRmgGuBLSoGJMt2pOlPLxpypow7xQsB6lUcLWZDQVUpkWP7m6XtTAfoVq7svwXqYUBdJCWzHXTJtDnhLV3TJoh5ypZInU2C37l1LcOveziTho+XkVCIx58NKxmGsE4ENB6lInRI06W6DfCPQ43/2ershZcDczkGSBVknzdbBbI2e71qnkyqDHKsbK/JOVFp1l5XeR7pSn4bVfmX3YMVF4Cz3/eCH0NQVRf/OIRVoOmTIe0wkJFc+aehh3dHu+3Ty4h0fi/iG+dP+wj7K/F/xbQXgMwh0hAA6mAlQrqiGLoe2U1yO0p0VoPQ8/h7ozPK2SiwG9nhzcLZgv2jfrYozBOpLPD0P7NQSoeRNuc7GjhU3wg8WSIfhZWny3LqikZMsZB64G8JccdoaT1j2HWo9fN/pw1i1jcaEVa5p/aMriV+eEoN/2/yEkhOpWBETYPX5y4iihnPme8m0YvqzgIfwqB/pBpDBRnBOVq2vS0LIoM=;jElTOa9YkrXYRi3uxwx30g=="

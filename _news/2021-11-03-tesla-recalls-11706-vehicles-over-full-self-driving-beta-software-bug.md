@@ -77,6 +77,22 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "Tesla's handling of braking bug in public self-driving test raises alarms"
+    excerpt: "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an \"over the air\" update."
+    publishedDateTime: 2021-11-04T16:30:00Z
+    webUrl: "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 73
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/tesla.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Why Tesla's Full Self-Driving software is so controversial"
     excerpt: "Tesla's prototype Full Self-Driving software is going out to more and more drivers. But critics say it isn't ready for primetime."
     publishedDateTime: 2021-11-02T20:45:00Z

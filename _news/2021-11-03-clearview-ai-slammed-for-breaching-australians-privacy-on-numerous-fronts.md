@@ -136,20 +136,6 @@ related:
         width: 671
         height: 447
         isCached: true
-  - title: "Clearview AI’s Facial Recognition Platform Achieves Superior Accuracy and Reliability Across All Demographics in NIST Testing"
-    excerpt: "Clearview AI’s algorithm ranks No. 1 in the U.S. in all categories as verified by National Institute of Standards & Technology (NIST) Facial Recognition Vendor Test (FRVT)NEW YORK--(BUSINESS WIRE)--Clearview AI,"
-    publishedDateTime: 2021-11-01T10:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=556406"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 27
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "ZKBekimsBuR5hCwE+ckFmKtIc6jU3DUV5sp1GHoGpGAFtYoebrzKGlIa5362VefPT/z3gIgjaREbjuyxXZnxhgBAYrjypSkVP7R/z9jB9Pd358Of+dqX2nujfY/oAEmUL1yew6ASUSRrCN2bY/4SOgmfgqrD7qQhvuCSwywbFXd2xysE1AgUNwkFgmQpPAfi88fWiZz/Nec6Z51ugDCdTezKA6OJPt1EdxEeLh3Tnxop19Qpta3Xo1kXYfjW/YCBEzaLEnXFmq24GQqzwe7vuZu8Lei6NwP1QDyuh/Jv8j2oLvT/SKTp9BwjI5KxLULRzVtB0aWDjtnk2gK3GUIX/F5OlTMBf8jn5MTnlPQ3WvEa2ehfQWnRd1MBhShAveKujiXbEkvzqFutuYTW5R7OfiJC+oFTUfP9CzjNY7zeTQqqAd4/aJn3EmWd40vA3F8qNbyGMP3UfpmEIu2KCjemZCKWS0EMQ2fhJDv4wPPOL0nh6aSug+4q/NKsp23H+eLv6A/C8L40do7a6DG73V/YLQ==;ncrNHSCLYFQ9Ow3SiLeaAg=="
 ---

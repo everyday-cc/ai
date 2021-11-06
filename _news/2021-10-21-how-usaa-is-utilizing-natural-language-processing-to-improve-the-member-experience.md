@@ -1,26 +1,26 @@
 ---
 category: news
 title: "How USAA is Utilizing Natural Language Processing to Improve the Member Experience"
-excerpt: "SAN ANTONIO, Oct. 21, 2021 /PRNewswire/ -- USAA is using Natural Language Processing (NLP) to improve the member experience and facilitate faster decision-making. NLP is a subfield of Artificial ..."
-publishedDateTime: 2021-10-21T14:14:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-301405849.html"
-webUrl: "https://www.prnewswire.com/news-releases/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-301405849.html"
+excerpt: "USAA is using Natural Language Processing (NLP) to improve the member experience and facilitate faster decision-making. NLP is a subfield of Artificial Intelligence (AI) that uses computers to process and analyze large amounts of text and spoken words."
+publishedDateTime: 2021-10-21T13:11:00Z
+originalUrl: "https://www.wbtv.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/"
+webUrl: "https://www.wbtv.com/prnewswire/2021/10/21/how-usaa-is-utilizing-natural-language-processing-improve-member-experience/"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WBTV
+  domain: wbtv.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/692533/USAA_Logo.jpg?p=facebook"
-    width: 2445
-    height: 1279
+  - url: "https://gray-wbtv-prod.cdn.arcpublishing.com/resizer/KibPVLeJ9vccIqCX7YbbJ73S3qc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/6HSEG4QELH2BJLDFSOP4GPEIBA.jpg"
+    width: 980
+    height: 1078
     isCached: true
 
-secured: "8OQeFLgT74cBjj32KfsA7TcFHTIBpyZb//aJ0je7j5veJI+H6fq4uPA8mZ9dTIUDDuSy3BIxGmS5/qKq0BflLJ0RtWGpJGNEZ2QGU1xYCJ/sDWo4AGHLVc9OZHlqILiCf8BZVjBJmiI/ZjVARTTHRDHDH9od3p+CA1xTMF11IjkR/9csq6mod4z6IVM5seq8hM30pQt+jYBcB4M1v6cBJ+nUDSLS0AuunhEzF6FFAPXL232s34VJHwgOMg3evieXT16nukHtUaoc6wkVfwpRAC0NwttSGaYIu8u490cGsSWNUQYfH+RHcR0WkR9+l+FZaf532qr4UXi27a72Zq2CiBhZIBvRvdKVepm2lmI56x4=;AwpRM1XrDRACKUP1sOV1eA=="
+secured: "9LMEJYCa6u+W/k8ZkhduWx/FgbZg+fivmudpRqPZsntX04vHPVjGpPlQAyZtx5+CMN5hGM1JFMaXYTdMwOiGNawuYJUnWl3daHEabaciTKbEFrXiyaS1vmcE0FkPESwMOVUndyUgoRdUqlrDs48TKwcxt/avJCNN1mNzp6HY17KMp4AQPra8HlPYBWrHK/U9iQuItfmh2IblG5KLJh+2s/aZWW9XlW8l/9fYkKzCCLj2pH06rDJJ4LNP9DqH6oB3rP6UuQ/r0saBjoRRQTGf14x/7OM4OUDUu/PtcfwFaZm+Bd/OMWpzeJXyyiXH7O91R5JFTZ9VKs2evwoPQsklDcdiS7g12KAVVJq8pJWL8gM=;fNjD6YYQP4PjBEVLc35ACA=="
 ---
 
