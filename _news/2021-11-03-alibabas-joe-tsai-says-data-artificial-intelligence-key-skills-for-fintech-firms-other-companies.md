@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3154729/data-a
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3154729/data-artificial-intelligence-key-skills-fintech-firms"
 type: article
 quality: 90
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI Fintech for Buy Side Raises $47m"
-    excerpt: "TIFIN, a fintech platform using AI for wealth and asset management, announced the successful closing of $47 million in Series C funding. TIFIN uses data and investment driven intelligence to drive personalization for wealth management,"
-    publishedDateTime: 2021-11-02T05:00:00Z
-    webUrl: "https://www.tradersmagazine.com/news/ai-fintech-for-buy-side-raises-47m/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 19
 
 secured: "t6HhH5RihPiK64cPbDgbS/xzBNd3mWFmWyupP/An1aBqaagEzsHJZGzVrUMNPhfDfWt2p9xV2FmI/FNLJIhpMzAFG5vGaF6dLHZ2Xq0viww81+8jeFDPy5f54ybIeFWqerndJ92zenlLQVVsxhbbKL170m+5LD/xVzui0Vk0+xDd9dGGaceY48BdzjkjvS0pfhyCpdF3fj5U6qXgefir8sFizxkguP7nBSxAVBHSzkOcuHh6zvi3V2y+JmOW/Q0G088e82QluU/VZsljKw/dhHioBa3Cn0GWWQ0Hc/PYhCZqI3iXXiiBMIkn7FDnCkzNIYRbnEeRUoh31WmbrVM0W+ON6hVB6ybZS7uZS5yiV3XcqaxMQ3vmu9elaTzkqhfTJ8FrQsl/jBA1Lr95UdqPpe20brg9fV4EPz9HzQpbbFm7MdCq4FQ2HRBeqG11hHL/hh/k1duGHmyQyOACSiEWFeugeRx850qL+6eG2aSD5pXcxGFQO3NUyc9GY4uy7Ey0nj/YHWWVLIA4DfrvRgfVgw==;PoKHkIb6LLJIy4ZIWuaK/w=="
 ---

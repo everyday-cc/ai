@@ -9,7 +9,7 @@ ampWebUrl: "https://www.trendhunter.com/amp/trends/babylon"
 cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/babylon"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6181a2fc62197b6ac23ab291%2F0x0.jpg"
         width: 640
         height: 522
-        isCached: true
-  - title: "Avoiding shortcut solutions in artificial intelligence"
-    excerpt: "MIT researchers developed a technique that reduces the tendency for contrastive learning models to use shortcuts, by forcing the model to focus on features in the data that it hadn’t considered before."
-    publishedDateTime: 2021-11-02T04:37:00Z
-    webUrl: "https://news.mit.edu/2021/shortcut-artificial-intelligence-1102"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 67
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202111/MIT-Contrastive-Learning-01-press.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Avoiding Shortcut Solutions in Artificial Intelligence for More Reliable Predictions"
     excerpt: "A new method forces a machine learning model to focus on more data when learning a task, which leads to more reliable predictions. If your Uber driver takes a shortcut, you might get to your destination faster."

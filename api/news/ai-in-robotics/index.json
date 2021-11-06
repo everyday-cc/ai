@@ -202,6 +202,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-05-ai-and-simulation-driving-major-advances-in-robotics.md",
+      "title": "AI and Simulation Driving Major Advances in Robotics",
+      "excerpt": "Whether autonomously moving parts and products or visually inspecting goods for defects, the rapid growth of e-commerce, onshoring of manufacturing and labor shortages have accelerated the urgency for robotics deployment and automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFPov227PVLFA/article-cover_image-shrink_720_1280/0/1636095105698?e=1641427200&v=beta&t=t2hu2gjZ-2hTVXnmtcXdmzFeSzLJuRHWLsh8ELc8FDI",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic.md",
       "title": "Artificial Intelligence bot learns problematic human traits - becomes 'racist' and 'homophobic'",
       "excerpt": "Ask Delphi is not a physical robot with a solid body. It's actually just a software that was supposed to let users ask tricky questions that do not have direct 'yes' or 'no' answers.",
@@ -1360,49 +1412,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-people-believe-robots-can-support-their-career-better-than-humans.md",
-      "title": "People Believe Robots Can Support Their Career Better Than Humans",
-      "excerpt": "People are turning to robots to support their career development after the COVID-19 pandemic left them feeling lonely",
-      "sourceUrl": null,
-      "webUrl": "https://www.techfinancials.co.za/2021/10/28/people-believe-robots-can-support-their-career-better-than-humans/",
-      "originalUrl": "https://www.techfinancials.co.za/2021/10/28/people-believe-robots-can-support-their-career-better-than-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techfinancials.co.za/wp-content/uploads/2021/10/AI-scaled.jpg",
-          "width": 2561,
-          "height": 3841,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techfinancials",
-        "domain": "techfinancials.co.za",
         "images": null,
         "publishers": null,
         "authors": null
