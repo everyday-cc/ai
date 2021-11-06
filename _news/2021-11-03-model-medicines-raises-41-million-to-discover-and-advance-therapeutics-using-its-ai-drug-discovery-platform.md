@@ -282,6 +282,20 @@ related:
         width: 625
         height: 350
         isCached: true
+  - title: "Decoding Alphabet’s Bet On Drug Discovery With New AI Company Isomorphic Labs"
+    excerpt: "Isomorphic Labs will use technologies coming out of the DeepMind lab to accelerate the drug discovery process with an AI-first approach."
+    publishedDateTime: 2021-11-06T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/decoding-alphabets-bet-on-drug-discovery-with-new-ai-company-isomorphic-labs/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Alphabet-launches-Isomorphic-labs.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Alphabet Launches AI Drug Discovery Spin-Off"
     excerpt: "Demis Hassabis, CEO and co-founder of DeepMind, is the founder of Isomorphic Labs and will also serve as the company’s CEO."
     publishedDateTime: 2021-11-05T18:44:00Z

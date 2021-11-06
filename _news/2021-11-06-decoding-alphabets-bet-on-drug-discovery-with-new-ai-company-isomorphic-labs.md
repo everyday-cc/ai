@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Isomorphic Labs is Alphabet’s play in AI drug discovery"
-excerpt: "The field of drug discovery has been supercharged by the capabilities of AI, which several companies have applied in various ways to turn an enormous practical problem into a tractable information problem."
-publishedDateTime: 2021-11-04T18:06:00Z
-originalUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/"
-webUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/"
-ampWebUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
+title: "Decoding Alphabet’s Bet On Drug Discovery With New AI Company Isomorphic Labs"
+excerpt: "Isomorphic Labs will use technologies coming out of the DeepMind lab to accelerate the drug discovery process with an AI-first approach."
+publishedDateTime: 2021-11-06T08:30:00Z
+originalUrl: "https://analyticsindiamag.com/decoding-alphabets-bet-on-drug-discovery-with-new-ai-company-isomorphic-labs/"
+webUrl: "https://analyticsindiamag.com/decoding-alphabets-bet-on-drug-discovery-with-new-ai-company-isomorphic-labs/"
 type: article
-quality: 89
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2021/11/isomorphic-labs.png?w=1024"
-    width: 1024
-    height: 576
+  - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Alphabet-launches-Isomorphic-labs.jpg"
+    width: 2048
+    height: 1152
     isCached: true
 
 related:
@@ -62,6 +56,22 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/ec422cd/2147483647/strip/true/crop/1212x808+114+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb1%2F32%2F4ccee0d441f598489215b11648b4%2Fscreen-shot-2020-12-01-at-12.05.59%20pm.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Isomorphic Labs is Alphabet’s play in AI drug discovery"
+    excerpt: "The field of drug discovery has been supercharged by the capabilities of AI, which several companies have applied in various ways to turn an enormous practical problem into a tractable information problem."
+    publishedDateTime: 2021-11-04T18:06:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/isomorphic-labs.png?w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Alphabet's Isomorphic Labs Says It Will Use AI to Discover New Drugs"
     excerpt: "The company will build off of breakthroughs in protein prediction from DeepMind and inches Big Tech one step further into the healthcare industry."
@@ -275,20 +285,6 @@ related:
         width: 625
         height: 350
         isCached: true
-  - title: "Decoding Alphabet’s Bet On Drug Discovery With New AI Company Isomorphic Labs"
-    excerpt: "Isomorphic Labs will use technologies coming out of the DeepMind lab to accelerate the drug discovery process with an AI-first approach."
-    publishedDateTime: 2021-11-06T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/decoding-alphabets-bet-on-drug-discovery-with-new-ai-company-isomorphic-labs/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Alphabet-launches-Isomorphic-labs.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Model Medicines Raises $4.1 Million to Discover and Advance Therapeutics Using its AI Drug Discovery Platform"
     excerpt: "Model Medicines, the pharmatech company working to transform the drug discovery and development process and accelerate the creation of life-changing drugs using artificial intelligence and machine learning,"
     publishedDateTime: 2021-11-03T12:23:00Z
@@ -308,6 +304,6 @@ related:
       domain: fdanews.com
     quality: 19
 
-secured: "nUvmFtQO9/QFSBFzIzAAALh2kNQHObBekz//wN8aFVyt0TAtfaxY7OPX1XKOIwhx6wHU0XH1vbCJoCIt8STaQ7eZH1T0kpX6FipCFO+IvxxFLbNs4E9VUopoHdOu1Dr9zFMajthlJ+dWH2PHGv1CX/tIJVNnYdVu/FNz2YPYie2h/W+QBp1XT1I56pRyFqNj8X4sB60NsbrORgTEJAU7pPD/hnfytaDcm7h/nt0V0pYHxc4rYtTEa3eV13ZEGkgjd8cwiay0JICeRlShmOqL4TxhYmpd2UxtgmPBHks731RAacDBbqDlovyKEd4/BQOzcDWHfTwe1l6XXek2X8JPtFrxL7i35C9duYcHrfVokAdRcpJJ3pHC3j5qZl9PvJrDljGeP66TqRmMBgYDUef6VvlTThCsw8erMLTP1tbWTAC9Po8fwFkHqAK2/YdW/29yuF/qwcP5mxjIn1+mJDNfPkRWv7793AJgLhPqxF+NcORtYp26o7AkCWbIPgJeoz+VfS8YORr8fftyavX8cG+Nbg==;fJr8WVxGsbJ4Ln3Emfd36Q=="
+secured: "4d7z0rmUws8Ib1LKDlXZDlkdWRbq7gj/A7LHpCmxa92PCfoFLgSw26KlmzkosRXlRRmSshPnFsSQK1ihORmuYsI3CuP8BZ2TvF43ZcW7wtjaFpeXF7L020tCaQszfyAnHYbckgeRzep3j2XXgHuB4TWs1btKYUJsmGN46nRD6RBuCuuiYi616oyASEPzyi4ryzlrNjzi+epL+8MFIV9wiYCafOK9Q/K/e22I9afxWVwiYPYEEb8ZbnQ52iSFm0uq8wPZvD4GLtUxMEESuu+SmXelJwKc+SKuDqC0dhDMql+pKyW/oEUiKVWlLHo5PuoFYspiYQVR8+xrw/BnlgAVymnMpAKszgspS8QA+bF0LnU=;BOVYWR6+WwxXfe/a9QewXQ=="
 ---
 

@@ -238,49 +238,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-03-artificial-intelligence-ai-chips-market-worldwide-industry-to-boost-in-the-period-of-2021-2026.md",
-      "title": "Artificial intelligence (AI) Chips Market: Worldwide Industry to Boost in the Period of 2021-2026",
-      "excerpt": "Chips Market Research Report presents the overview and in depth study of worldwide Artificial intelligence (AI) Chips Market for",
-      "sourceUrl": null,
-      "webUrl": "https://www.reportsgo.com/artificial-intelligence-ai-chips-market-181757",
-      "originalUrl": "https://www.reportsgo.com/artificial-intelligence-ai-chips-market-181757",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reportsgo.com/img/img-1.png",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "reportsgo",
-        "domain": "reportsgo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-02-ibm-research-and-neureality-announce-partnership-for-ai.md",
       "title": "IBM Research and NeuReality Announce Partnership For AI",
       "excerpt": "IBM (NYSE: IBM) and NeuReality, an Israeli AI systems and semiconductor company, have signed an agreement to develop the next generation of high-performance AI inference platforms that will deliver disruptive cost and power consumption improvements for deep learning use cases.",
@@ -1459,6 +1416,59 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-microsoft-and-amd-will-give-away-a-halo-infinite-radeon-rx-6900-xt-gpu.md",
+      "title": "Microsoft and AMD will give away a 'Halo Infinite' Radeon RX 6900 XT GPU",
+      "excerpt": "Not only have Microsoft and AMD teamed up to add ray-tracing to the game sometime after launch, they created a limited-edition Radeon RX 6900 XT Halo Infinite graphics card. The GPU’s design is based on Master Chief's Mjolnir armor,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html",
+      "originalUrl": "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/f669f510-327e-11ec-8eff-fdd06405a306",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-s
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 90
 published: true
 
 provider:

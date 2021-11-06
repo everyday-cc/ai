@@ -23,6 +23,17 @@ images:
     height: 716
     isCached: true
 
+related:
+  - title: "NATO Publishes An Artificial Intelligence Strategy"
+    excerpt: "Defence ministers of NATO countries have agreed to the treaty’s first ever strategy for Artificial Intelligence (AI). The NATO allies have prioritised AI as one of the seven technological areas with respect to defence and security."
+    publishedDateTime: 2021-11-02T02:15:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/nato-publishes-its-artificial-intelligence-strategy-5948.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 17
+
 secured: "RyyWGeYyEdIHPKFYu1oeTdM7fLy9u1hsu7Vs9kP3ibaBKl/k5RTRjhON1qAQZ9fR3zoWq9G0Ck+ryPdz0k/xK8DymBnYuL8E8JU+8dcGksOex8PQTMYG8J/+HN7AwzTQqpOMDXtiynOzmTmDnbEMRxxecrM/cLi3aQeazI9QBnsgHUbxWvXOmPU9i+z9bUy7Vs3lOBKa3fkTEKyaoV7v/S+8rprTCsMjPnifeLIfs7skr1I6XXnI6SOefp88ZILM2Jw5jrZ8si8Yubzba6jQXBt+j5481Zg/RfHcDQgrSw2I13x4K7W3W/0wQsHgc6B1JEPSuZwpaodh0uc/zPqEFLXGOc32JYDZeDOTNSvVKE9rER5sKHmHrkaTfiBGBhh4WQAl8NvMPA6u/TAjN9wXKQKmS7UknnNPgPN9LoyfdJ0kTg6FKHkVrlmVOyu1+2I0t//mZ/hU0d3rQVvcakvMsII85/cOlfU0SeY0S2gSK+N+Y3gTQd0E3167oqlr808vrQ8O3wNNZTqbI2/3R3/o6g==;XGkVvHbWzp8gzCG57DY3sQ=="
 ---
 

@@ -25,29 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Sonrai Security Joins Microsoft Intelligent Security Association; Sonrai Dig Listed as Preferred Solution on Microsoft Azure Marketplace"
-    excerpt: "Sonrai Security, an established leader in enterprise cloud security, strengthens its relationship with Microsoft by joining the Microsoft intelligent Security Association (MISA) for integrations with Microsoft Azure services."
-    publishedDateTime: 2021-11-01T15:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-20075238.html"
+  - title: "Kinetica Pushes Vectorization to the Edge with Microsoft Azure Stack HCI"
+    excerpt: "Provides Organizations with the Flexibility to Perform Time and Space Database Analytics in Hybrid Cloud DeploymentsARLINGTON, Va.--(BUSINESS WIRE)--Kinetica, the database for time and space, is now available in the Microsoft Azure Stack Partner Catalog,"
+    publishedDateTime: 2021-11-02T19:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=557889"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 53
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
-  - title: "Welbilt KitchenConnect and HCL Technologies Join Forces to Offer a Secured Cloud Solution for The Food Industry Built Using Microsoft Azure IoT"
-    excerpt: "Welbilt, Inc. (NYSE: WBT), a leading provider of commercial foodservice equipment, announced today that it will integrate Microsoft Azure Sphere to up"
-    publishedDateTime: 2021-11-04T14:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211104005159/en/Welbilt-KitchenConnect-and-HCL-Technologies-Join-Forces-to-Offer-a-Secured-Cloud-Solution-for-The-Food-Industry-Built-Using-Microsoft-Azure-IoT"
+  - title: "Informatica Announces Program with Microsoft to Launch Modern Cloud Analytics on Microsoft Azure"
+    excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, today at Microsoft IGNITE, announced a joint Modern Cloud Analytics program with Microsoft Azure to provide customers with one of the fastest,"
+    publishedDateTime: 2021-11-03T12:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/informatica-announces-program-with-microsoft-to-launch-modern-cloud-analytics-on-microsoft-azure-1030931860"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
 
 secured: "A+OggzdzmZckO6XNM1Ra5oukHbc0O6lw8ljmpXtEWp6gvoEWezd/E+lXA6EskkmILJA+YyUN6Hp1fWoaAawFhwHE2o84zjZZsP1lj/CaantEx7CjoClinYeShao0bDB2OupQSaoGfAcwE+gImjWzvuis7Bq1ged+GhjN+ooc4vrYWa89VHuWNSoBJre+pUCygLOGM6sN7L1RpuxiVgH/mT6LzEdglm6XyHkuI7Hw2dt7bRUX3MKmi95+q5MEkJoo7M8FXJu0lw9qy/3N0sIAv3KfCagGWjx+LJUuYVXkdv7gIQdnyb8vXQcBJYH6T5p8VqK/i6zF0ECEVyLwt5BP0cdyOhUgS724Dlaw8qgO4eaVBcQN6rvvfBet+hdFwjcTv23qiiuHxFI16IV6UWFO62TVfHMZNz4Gonlmi0pfLueaMmn4wusKPg3bsCDHwSzDK80LNe4O7pPHYcCh1TmdZ0dxQmrj18659PleHCuNfFWyjx01mrECo39wTQmNodWP7KM9rk5BHL+3g7zkKEP/YA==;3V1RYxmCkw94LHjMREX3uw=="
 ---

@@ -67,22 +67,6 @@ related:
         width: 626
         height: 352
         isCached: true
-  - title: "Banc of California Considers Further Backing of FinTech Finexio"
-    excerpt: "After participating in FinTech Finexio’s recent $8 million funding round, Banc of California is mulling the possibility of investing in the startup once again."
-    publishedDateTime: 2021-11-01T16:19:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/banc-of-california-considers-further-backing-of-fintech-finexio/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/banc-of-california-considers-further-backing-of-fintech-finexio/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/banc-of-california-considers-further-backing-of-fintech-finexio/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1554323627-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Imarticus Learning partners with BIMTECH to launch PGDMs in FinTech, AI & Data Science"
     excerpt: "Imarticus Learning, a professional education firm, and Birla Institute of Management Technology (BIMTECH), a B-school with a rich heritage, have launched Postgraduate Diploma in Management (PGDM) courses with specialisations in FinTech and AI & Data Science."
     publishedDateTime: 2021-11-02T18:54:00Z
@@ -153,15 +137,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Here's which startup won Fintech Frontier's latest pitch contest"
-    excerpt: "A Texas-based startup claimed the top prize in Fintech Frontier's latest pitch competition. Last week, Sigo Seguros beat out five other finance-related startups to take home a $35,000 cash prize in Fintech Frontier's latest pitch competition as part of StartupCincy Week."
-    publishedDateTime: 2021-11-01T15:25:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2021/11/01/sigo-seguros-wins-fintech-frontier.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "DKK2GZIjnSsrwix11P1reGMbjZAgDSPltiDf5ywY48kQYGRhHqAJNLpSDtLW7H2IwXN0yRvv8HDuEEHE7ji0Mb24Pvn1OazlCjF3sj1TAsx8B7WSkbGg+9BXHHhlezWusaZ0yiyPAMT5VzdeJ5vnEJKbIngVIrIlJKxUbTXTpJlgZwKWNdFYtN7Lw3u4yU/8zxWvcTcKU1o9jkuPhML6FZqf1F7r7WRkH855Vn4Of0sRWzeQzVATOXHSAn4ae6emXaovVhZ/EnrLyiz+zXEG8q3tw3atZsmA3URSgDyQpy/ZbWn2UFU9KMRe9ndE0IL3BXf7IHbxMdiwQ8yvt3v5Ixc54B1OITDptGrYsFK6lnRhNDhFlPfUWP3SR3EiW/lHwPghL7WVGiPtG6A2JU+1hi0c8MnAVIqN/V9nqBa5fD0NBC/PEVV+6hksgGBDGKs2Fa/fN2SvJnwOlRkNMa9sQkf5DosIBFfPwp3sfAPSmDyyARXA6bbpCUFFolBnxjGRhWZ4rqsGprx3zIwYEGAPEQ==;YeMr8ZxaPuHHhBXF+3kt1Q=="
 ---

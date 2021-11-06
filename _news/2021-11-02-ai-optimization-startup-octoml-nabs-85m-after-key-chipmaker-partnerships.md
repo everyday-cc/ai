@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/11/01/ai-optimization-startup-octoml
 webUrl: "https://siliconangle.com/2021/11/01/ai-optimization-startup-octoml-nabs-85m-key-chipmaker-partnerships/"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 718
     height: 400
     isCached: true
-
-related:
-  - title: "Machine learning deployment platform OctoML raises $85M"
-    excerpt: "OctoML, which helps companies deploy their machine models into production, has raised $85 million in a series C round of funding."
-    publishedDateTime: 2021-11-01T16:04:00Z
-    webUrl: "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/"
-    ampWebUrl: "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/octo-ml.jpg?w=1200&strip=all"
-        width: 1200
-        height: 650
-        isCached: true
 
 secured: "+WAixupp1LUSAQHjIa1w2qRBXhAGamVa57UMM3Tq6SRmP2L9pKalUefNZ4MuPn5yfewUIsOM3yauKrv7CMhApkzsKDOhzoQAozB24Yo+NozVcQ3eQf/aZm/jNe++65KZRtSNwOgf/Jhfmi+KE1qv6Ob7DgCc6TwDpQXsys3IuvNACpzPhSTIiePD4PHP3yHhoVY/0sD8x8CFtY7EzX/pOh6pb7je2eLKEqKST+lGf4YuOdc23e1R0/VKaXpkR36U2h05ezRFvdThKkcFQtthKPWxJpwP6g5Cx+Cd2hOxNpv2ltCsyr7mA07z0tF4WBIWOMLVKHEwh4XBOwvyZXYN7RWfiUgeK1kPrfD2kUpzaPzLaVgo9QMoVEeq1ImCJyFqOaMZZx2Vvkiv8n4h574pDxUcmyya4VSVQF6vt4Dqhg5yE8TRV+tsIo6LFLc6FRbjKNiGmO2hpqocEGtMbBy0QeolA2dcFi0bayIUCMzcO7GoMAA3f2d230YxX83x11L33aOAuOwvqjoaS7IBHrAWEw==;44vSImjrLTe6XbbpOhREzA=="
 ---

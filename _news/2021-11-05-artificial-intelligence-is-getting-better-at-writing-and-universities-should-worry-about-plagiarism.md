@@ -42,16 +42,19 @@ related:
         height: 240
         isCached: true
   - title: "Artificial intelligence is getting better at writing, and universities should worry about plagiarism"
-    excerpt: "Some universities have reported more cheating during the pandemic, and such concerns are unfolding in a climate where technologies that allow for the automation of writing continue to improve. Over the past two years,"
-    publishedDateTime: 2021-11-05T17:38:00Z
-    webUrl: "https://nationalpost.com/pmn/news-pmn/artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism"
-    ampWebUrl: "https://nationalpost.com/pmn/news-pmn/artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism/wcm/ad86ee64-a134-45d6-8ced-a7487e08fa95/amp/"
-    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism/wcm/ad86ee64-a134-45d6-8ced-a7487e08fa95/amp/"
+    excerpt: "The dramatic rise of online learning during the COVID-19 pandemic has spotlit concerns about the role of technology in exam surveillance and also in student cheating. Some universities have reported more"
+    publishedDateTime: 2021-11-06T08:17:00Z
+    webUrl: "https://www.econotimes.com/Artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism-1620701"
     type: article
     provider:
-      name: National Post
-      domain: nationalpost.com
+      name: EconoTimes
+      domain: econotimes.com
     quality: 24
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202111057f9270258d3832985_th_1024x0.jpg"
+        width: 496
+        height: 342
+        isCached: true
 
 secured: "e2sB5C1K/5RxICsMoZ9UQBNcENZJBDD3i7973yR8ge2kEecXN2Qb77UFvz82Fag06XU0x/fPFFan5k8ZQ+EgoT5qfKlU7LpA4P1uIuW5ZCAYChTH6oUyGqctfC5YeplaZMu1MIe1i/RPfD8DGktSMe0DSKGGP+ti4AlYudJ25Fu3Aaz9WCUDlp7W+IrPjg9wiFNt0DPn/VzULQKZVO+U5arxqrt31akWJMGui4f6WhgrdQtFSSz0sUXOrHKvKYxSWoNF9A2mU1krq1x6XM0sBjZ1X1bmOSi4mKZQnJLycP8ySAaadUtdF4BFPHeoHU0kOeX0ivsNVxTYG+RmsHy1SQ0ByBsD8QlHwo13alD3VgI=;3WUbumb0P6DYPypnEqpPyg=="
 ---

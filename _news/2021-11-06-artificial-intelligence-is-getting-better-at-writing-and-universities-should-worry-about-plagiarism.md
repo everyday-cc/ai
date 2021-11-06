@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence is getting better at writing, and universities should worry about plagiarism"
-excerpt: "Some universities have reported more cheating during the pandemic, and such concerns are unfolding in a climate where technologies that allow for the automation of writing continue to improve. Over the past two years,"
-publishedDateTime: 2021-11-05T17:38:00Z
-originalUrl: "https://nationalpost.com/pmn/news-pmn/artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism"
-webUrl: "https://nationalpost.com/pmn/news-pmn/artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism"
-ampWebUrl: "https://nationalpost.com/pmn/news-pmn/artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism/wcm/ad86ee64-a134-45d6-8ced-a7487e08fa95/amp/"
-cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism/wcm/ad86ee64-a134-45d6-8ced-a7487e08fa95/amp/"
+excerpt: "The dramatic rise of online learning during the COVID-19 pandemic has spotlit concerns about the role of technology in exam surveillance and also in student cheating. Some universities have reported more"
+publishedDateTime: 2021-11-06T08:17:00Z
+originalUrl: "https://www.econotimes.com/Artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism-1620701"
+webUrl: "https://www.econotimes.com/Artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism-1620701"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: National Post
-  domain: nationalpost.com
+  name: EconoTimes
+  domain: econotimes.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
+
+images:
+  - url: "https://s1.econotimes.com/assets/uploads/202111057f9270258d3832985_th_1024x0.jpg"
+    width: 496
+    height: 342
+    isCached: true
 
 related:
   - title: "Artificial intelligence is getting better at writing, and universities should worry about plagiarism"
@@ -52,6 +56,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "qTEbmF/d5thV9QqV4cYidJTRM3/bEGRw+Rt6Kbp9F/+9smi0pLY9P8yTu1Y59hoZbcMsferchZfNZws0Ppw7Cm6J0PIyt1bT7ZnkNgPvfrOpjJN9KGhP+rJzMZIVtiCyPnEtmJ4rRpc4kcHXk+AK9inLTp3mLc3DuqBKj1Lqs/x6gsl5/dvasyH027j09L+LjKp5cDD0dYFANPuXeQV7Ewb89Qn/yANmMqesNFEAyKt+o55RZ/Mar9qT7ARmKwgSM0iGubOp2td8+ZWt1jGb6RpcpTjKkB/Ud0d6MDPq9w9CLvPmATgyunZS2GOf9BP17g3LaIfGZ2T5/0r/rtySGOneQhZXgx8ou/gkbT/hv6E=;sZzIeq0n0leaJ715KARPNg=="
+secured: "cWbd83mG5WQhQSp/j7epsqLR1UvFLcEZ5NhDf8gkWvQgTUmUaiK5/oXXmGgSPfHJ2BJoJgSDDZd++xRmKbCjpCoCjDH8s6vJlWyN9aAOFV6uyxGGSCP6uPJ32BOE8VAZwlRmfAf7Jecs4G2B1+Ng4zq5pnIdBci3hjzWnIsX2eAkESZhEoVS2XHWlF6KmhIw7dRI5relZhvKtio1Gv1QVP0vzOgTVxAb3cIYR4l6T2yhgemwjHkcf5CuYulnv8T4MxD9UZ5ZQ8GOahu3xTbIyuAQ0d6Ow8NM8qtnPtsslPLb8Sw6Q21wNEipgj+jR5Nth8FxQts7U/0r38Ib3BbwCQmyY8XGeIoW6QGexOwod/I=;/7LqX/TFqngOGeuJRokxBg=="
 ---
 

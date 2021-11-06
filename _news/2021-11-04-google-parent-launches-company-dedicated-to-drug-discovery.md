@@ -275,6 +275,20 @@ related:
         width: 625
         height: 350
         isCached: true
+  - title: "Decoding Alphabet’s Bet On Drug Discovery With New AI Company Isomorphic Labs"
+    excerpt: "Isomorphic Labs will use technologies coming out of the DeepMind lab to accelerate the drug discovery process with an AI-first approach."
+    publishedDateTime: 2021-11-06T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/decoding-alphabets-bet-on-drug-discovery-with-new-ai-company-isomorphic-labs/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Alphabet-launches-Isomorphic-labs.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Model Medicines Raises $4.1 Million to Discover and Advance Therapeutics Using its AI Drug Discovery Platform"
     excerpt: "Model Medicines, the pharmatech company working to transform the drug discovery and development process and accelerate the creation of life-changing drugs using artificial intelligence and machine learning,"
     publishedDateTime: 2021-11-03T12:23:00Z
