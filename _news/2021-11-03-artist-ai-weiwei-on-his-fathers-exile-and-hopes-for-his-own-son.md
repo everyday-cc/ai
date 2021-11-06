@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tpr.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile
 cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2021-11-02/artist-ai-weiwei-on-his-fathers-exile-and-hopes-for-his-own-son?_amp=true"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Credit Suisse Closed Ai Weiwei Account Due to Missing Paperwork"
+    excerpt: "Credit Suisse Group AG closed Chinese artist and dissident Ai Weiwei’s account because of missing paperwork, the bank said Saturday, confirming a report by Tages-Anzeiger."
+    publishedDateTime: 2021-11-06T11:31:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-11-06/credit-suisse-closed-ai-weiwei-account-due-to-missing-paperwork"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilSpd2AHSQN8/v0/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "BBC Sounds - 1000 Years of Joys and Sorrows by Ai Weiwei - Available Episodes"
     excerpt: "Listen to the latest episodes of 1000 Years of Joys and Sorrows by Ai Weiwei on BBC Sounds"
     publishedDateTime: 2021-11-01T21:06:00Z

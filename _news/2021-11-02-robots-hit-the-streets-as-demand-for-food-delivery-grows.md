@@ -164,6 +164,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Robots hit the streets as demand for food delivery grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-06T11:45:00Z
+    webUrl: "https://menafn.com/1103111022/Robots-hit-the-streets-as-demand-for-food-delivery-grows"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?980041"
+        width: 337
+        height: 250
+        isCached: true
 
 secured: "1hqpuC9ZWMnrNFp2s8MRUOKshcUNGB73qakcBnoKsCdRJ3YL4ECeppSrf1j6oRCnxszKzwzWTg5hZnnVDlnbuuq7rIR5NirFSc4Jjfw9DXj7yg84Q24hNrIpT4c3RtHbWh1BGMoq46Qk76txzyBmHAMM8E9rpOZ60Vlcy++w5cyjsr0JuZ9chvsUqv5VLOyNG2Z6ispp2rutbpNEcB23Jck7grtc7UCsD70yidOzs/CZWn6Bmd8nbSMrYQxbd0nuzd0lwwg1aFHe2DnFhtQsYLML5AfhBK+v27kxEppVHgjBnYYzzFjgXknxWmZnGFxhBvk/OVaoyezK0DgwdeC2euWLTRuemvTYVZEmUIJXGE+Df/aHymrZUyXm0YZE4+4YimR2DyhNAqPOw6cnSC3uEewbNwjjDNqahLIN/bGcC/M0jtJ0+P3L6r0Ws2PSNnnIqBaDLvk3j7pkGHDjg6+4qcErJkv3op2Iui9ScW19BRbWF3UXGKqd3pDIe29dn6jp08MbqsS1VSD5Z4F5jLVanQ==;yjv53dbyR5s6BfIxDavkLA=="
 ---

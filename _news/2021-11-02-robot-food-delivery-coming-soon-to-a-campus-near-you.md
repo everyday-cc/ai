@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-s
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1"
 type: article
 quality: 59
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -164,6 +164,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Robots hit the streets as demand for food delivery grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-06T11:45:00Z
+    webUrl: "https://menafn.com/1103111022/Robots-hit-the-streets-as-demand-for-food-delivery-grows"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?980041"
+        width: 337
+        height: 250
+        isCached: true
 
 secured: "Ytt+0Ogr95l4HKeIIe9ZWslPmdeT7E9rz9ret5KKMM6XbjASGwzz2h5MVz1z1ahakvoNlvEqgHIogbI67/zup3tDGUh9veY0llXtRgMp+JgLqdlKcKL0d5JSXI+mrVusQ3ErSq2q6wDvaDhybdvUBwjLJIiSii2h46dY3bIYf8GJ6qJzeLtUjMuUy9MwUETj9EklOg2b/XlY85xwwKq/EF0v0Bm+bBfHcyq/s6WW6OkOJuH7+G15b+z7dffO0C5Zu4bmNOMS+ZQwLlYnd7jMODv8C3KUVtcoJ8tlQlkzrjbG/7PG+uAeidMFh3twplkvK63Gz3eRp/YLGNc9DECMJX89cI2Vm0hj8VCzIVSm42g=;FUMaM1CtXOIZ+1zsNSkblA=="
 ---

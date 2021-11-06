@@ -163,6 +163,20 @@ related:
         width: 715
         height: 406
         isCached: true
+  - title: "Robots hit the streets as demand for food delivery grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-06T11:45:00Z
+    webUrl: "https://menafn.com/1103111022/Robots-hit-the-streets-as-demand-for-food-delivery-grows"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?980041"
+        width: 337
+        height: 250
+        isCached: true
 
 secured: "ku5m0634ho5wdc6aOKxsG0M/Vse6thwpdIDh9PvRff5nCrnJoqdr60eS5V35JUNT2mrMfICWmsTioIAGbAjXOkJHh6siJFBJAsxYjPLccp8zf54j70VA6g7UJ+ofWTqbiKmYLKMXQiqkAauwqYQ57b4tpFQDULlpMVkV04E6EwMwV0aoKFvzxV6KuLgacD+GjYjWaCA9ozl9dQ/w7gNiQ3SJaCbvAVbY3pna/FnKwDARx2XAs39pfhdDfVSJSHGrXVGu3pC3FufjAPnPzJANmsSrfeW52u0bHOCMUrV815BgjYCnY8dKhPO7DWhIrnOsp2reIEvIX+OBiVBLmN1HYPcI+07jvXemEB71wKrxoJf5wPYlPXRX93loi9UzaPl0OB+vV9C/H8BuIsNypUAI6pjCWf2QvbHZqaFVE8VWt/lCu1Yggk0lmvgXaLJgYRRciUC4So2TSGdHCb6VjXC2jKZTS/Gq+7cQyiUQfbMlZmkM6o7jm9/D7/XKKKUtLHci6B9lh0MQAx+hCjaHBQDCQQ==;/D5fsGI9DsFygzfk+gjkoA=="
 ---

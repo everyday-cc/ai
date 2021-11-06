@@ -268,20 +268,6 @@ related:
       name: bnnbloomberg
       domain: bnnbloomberg.ca
     quality: 39
-  - title: "Watch Tesla’s Full Self-Driving Beta 10.3 Driving in Toronto [VIDEO]"
-    excerpt: "Canadians have been waiting on Tesla’s Full Self-Driving (FSD) beta to make its way north of the border ever since Elon Musk, the company’s CEO, said Canada would be the Level 2 driver assistance system’s next destination last year in November."
-    publishedDateTime: 2021-11-01T18:43:00Z
-    webUrl: "https://www.iphoneincanada.ca/tesla/watch-teslas-full-self-driving-beta-10-3-driving-in-toronto-video/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 39
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/11/fsd-beta-canada-10.3.jpg"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Tesla's 'Full Self-Driving' Gets Mixed Reviews"
     excerpt: "Drivers who utilize Tesla’s Full Self-Driving have mixed reviews, being simultaneously impressed and alarmed by it, according to a new report from CNN, which relied on interviews with vehicle owners who use the software and a review of videos posted to social media."
     publishedDateTime: 2021-11-05T14:35:00Z

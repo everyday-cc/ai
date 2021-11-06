@@ -283,20 +283,6 @@ related:
       name: bnnbloomberg
       domain: bnnbloomberg.ca
     quality: 39
-  - title: "Watch Tesla’s Full Self-Driving Beta 10.3 Driving in Toronto [VIDEO]"
-    excerpt: "Canadians have been waiting on Tesla’s Full Self-Driving (FSD) beta to make its way north of the border ever since Elon Musk, the company’s CEO, said Canada would be the Level 2 driver assistance system’s next destination last year in November."
-    publishedDateTime: 2021-11-01T18:43:00Z
-    webUrl: "https://www.iphoneincanada.ca/tesla/watch-teslas-full-self-driving-beta-10-3-driving-in-toronto-video/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 39
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/11/fsd-beta-canada-10.3.jpg"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Apple’s Self-Driving Car Project Hires Former Tesla Autopilot Engineer"
     excerpt: "Bloomberg’s Mark Gurman and Dana Hull are reporting Apple has hired a former Tesla Autopilot engineer to its “Project Titan” self-driving car project: The iPhone maker tapped Christopher “CJ” Moore for its team working on a self-driving car,"
     publishedDateTime: 2021-11-05T23:06:00Z

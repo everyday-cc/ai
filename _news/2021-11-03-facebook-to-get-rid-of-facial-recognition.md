@@ -279,22 +279,6 @@ related:
         width: 3780
         height: 2520
         isCached: true
-  - title: "Facebook researchers build better skin and fingertips for softer, more sensitive robots"
-    excerpt: "According to Facebook AI Research, the next generation of robots should be much better at feeling — not emotions, of course, but using the sense of touch. And to advance the ball in this relatively new area of AI and robotics research,"
-    publishedDateTime: 2021-11-01T17:27:00Z
-    webUrl: "https://techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/"
-    ampWebUrl: "https://techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/facebook-researchers-build-better-skin-and-fingertips-for-softer-more-sensitive-robots/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/ReSkin-dog-shoe.gif"
-        width: 768
-        height: 432
-        isCached: true
   - title: "Facebook to stop using facial recognition, delete data on over 1 billion people"
     excerpt: "Facebook introduced facial recognition in 2010, allowing users to automatically tag people in photos. The feature was intended to ease photo sharing by eliminating a tedious task for users. But over the years,"
     publishedDateTime: 2021-11-02T21:58:00Z
@@ -367,22 +351,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106173405-1570674137430gettyimages-1167464772.jpeg?v=1570674164"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "One of Facebook’s first moves as Meta: Teaching robots to touch and feel"
-    excerpt: "Facebook AI Research, is working on touch sensors that can gather information about how objects feel in the real world."
-    publishedDateTime: 2021-11-01T17:20:00Z
-    webUrl: "https://www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/"
-    ampWebUrl: "https://www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-metaverse-robot-finger-skin/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 60
-    images:
-      - url: "https://www.popsci.com/uploads/2021/11/01/DIGIT-on-hand-scaled.jpg?auto=webp"
-        width: 2560
-        height: 1707
         isCached: true
   - title: "Facebook To Shut Down Its Facial Recognition System. Here's What It Means"
     excerpt: "Facebook said this change is going to to impact the Automatic Alt Text (AAT), which ‘creates image descriptions for visually-impaired people’."
@@ -713,6 +681,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd3a4bd0-c1fb-4ca0-924c-cbe930f45751.jpg?source=next-opengraph&fit=scale-down&width=900"
         width: 900
         height: 506
+        isCached: true
+  - title: "Facebook to shut down facial recognition system over privacy concerns"
+    excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
+    publishedDateTime: 2021-11-06T11:44:00Z
+    webUrl: "https://menafn.com/1103111021/Facebook-to-shut-down-facial-recognition-system-over-privacy-concerns"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?980041"
+        width: 337
+        height: 250
         isCached: true
   - title: "Facebook will shut down face-recognition system, delete prints of 1 billion people"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people. “This change will represent one of the largest shifts in facial"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 923
     isCached: true
-
-related:
-  - title: "Works Well With Robots? The Way Robots/AI and Humans Interact"
-    excerpt: "Blame it on HAL 9000, Clippy’s constant cheerful interruptions, or any navigational system leading delivery drivers to dead-end destinations. In the workspace, people and robots don’t always get along."
-    publishedDateTime: 2021-11-01T17:03:00Z
-    webUrl: "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/"
-    ampWebUrl: "https://scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/works-well-with-robots-the-way-robots-ai-and-humans-interact/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 74
-    images:
-      - url: "https://scitechdaily.com/images/Human-Robot-Interaction-Cooperation-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
 
 secured: "hKiPXLBMtz4Vh8ZPpXbxlxUv+MUotUxiVdh6QXAiXLPRQeeMsNqmmRIgH+RyUoMmOd7BLzfeqVKrH7rGFRPg+IX32ohZTybw+0eNM0I1WNQIwpQ7Yz522mEdb5Kg5VSp9FkYT0i03AQj6VfiijOkdw2miZHTByySgGhZ3/CFF/4sZL0u8pt5Nk1LqY0Y4VjFZRyj4EJY8wkCrpxgngtXx9BGn1yM5LNgUzM0pysXNPBWD2paOZkaNV9s+zLlVP8ESEsFnnbl8vmb7lFcUjb534eGFUV4CwoUHkD/Kb8KDpDlWd59bwYpFCt6ZDbb3whY8atkzJDcOT/wQ46Nnqy7FsZjjlgJN8+w64UeSP6b5hDblQ+q9cWEZY53bc0oOWRdSgn7dhL+5Mn6tmf88vluH2f+YdgvvKf1cc815cvHLfjOELIYIDHdzedwRMl4T4rwRKrdQZGRtqxn494XEBauVCEb5zI+oDAsh/ZoRASUMieVaGb5Aula2+lCehCUO+vzygSBQ/7JupFbDnGScNOHJA==;1bthgiyIeOee1nA4+UprNQ=="
 ---

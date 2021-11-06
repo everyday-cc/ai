@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Credit Suisse Closed Ai Weiwei Account Due to Missing Paperwork"
+    excerpt: "Credit Suisse Group AG closed Chinese artist and dissident Ai Weiwei’s account because of missing paperwork, the bank said Saturday, confirming a report by Tages-Anzeiger."
+    publishedDateTime: 2021-11-06T11:31:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-11-06/credit-suisse-closed-ai-weiwei-account-due-to-missing-paperwork"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilSpd2AHSQN8/v0/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Artist Ai Weiwei on his father's exile and hopes for his own son"
     excerpt: "Over the decades, Ai Weiwei has become one of the most influential artists and activists of our time, which is why the Chinese government has long fixed its gaz"
     publishedDateTime: 2021-11-03T02:13:00Z

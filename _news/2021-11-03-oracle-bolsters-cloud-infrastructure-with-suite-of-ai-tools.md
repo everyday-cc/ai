@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infr
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html"
 type: article
 quality: 93
-heat: 93
+heat: 95
 published: true
 
 provider:

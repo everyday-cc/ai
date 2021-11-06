@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2021/11/israeli-mobility-autobrains-101m/"
 webUrl: "https://www.finsmes.com/2021/11/autobrains-raises-101m-in-series-c-funding.html"
 type: article
 quality: 137
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autobrains raises $101M for autonomous driving tech"
-    excerpt: "Autobrains, a Tel Aviv-based developer of autonomous driving technology, today raised $101 million in Series C funding led by Temasek."
-    publishedDateTime: 2021-11-01T17:57:00Z
-    webUrl: "https://www.therobotreport.com/autobrains-raises-100m-autonomous-driving-tech/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 69
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/11/AutoBrains-Revolutionary-AI-Central-To-Leading-Suppliers-ADAS-and-AV-Growth-Strategy.jpg"
-        width: 740
-        height: 511
-        isCached: true
   - title: "Horizon3.ai Raises $30M Series B to Disrupt the Pentesting Market"
     excerpt: "Horizon3.ai, a cybersecurity startup focused on autonomous penetration testing, today announced $30M in funding. Co-founded by former Splunk CTO, Snehal Antani, and Anthony Pillitiere, former Deputy CTO within the U."
     publishedDateTime: 2021-11-02T16:39:00Z
