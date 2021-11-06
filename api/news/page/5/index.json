@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-02-ai-workflow-machine-learning-visual-recognition-and-nlp.md",
+      "title": "AI Workflow: Machine Learning, Visual Recognition and NLP",
+      "excerpt": "Familiarity with IBM Watson Studio; Familiarity with the design thinking process. This is the fourth course in the IBM AI Enterprise Workflow Certification specialization. You are STRONGLY ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/education/skillbuilder/ai-workflow:-machine-learning-visual-recognition-and-nlp-0_6MedjtZOEemDkAqyZy15Hg",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/ai-workflow:-machine-learning-visual-recognition-and-nlp-0_6MedjtZOEemDkAqyZy15Hg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-copyai-raises-11m-to-accelerate-ai-helping-you-build-your-business.md",
       "title": "Copy.ai Raises $11M To Accelerate AI Helping You Build Your Business",
       "excerpt": "Everyone thinks that artificial intelligence will replace humans. Chris Lu and Paul Yacoubian think otherwise. The two have raised $11M to further develop their AI-powered software, Copy.ai, to unleash human creativity.",
@@ -1186,57 +1231,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-huawei-ai-speaker-2e-launched-available-for-purchase-in-china-for-199-yuan-31.md",
-      "title": "Huawei AI Speaker 2e launched; available for purchase in China for 199 yuan ($31)",
-      "excerpt": "As it has become difficult for Huawei to focus on the smartphone business because of the sanctions imposed by the United States, the Chinese giant has been focusing on other products. In line with that,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/",
-      "originalUrl": "https://www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/Huawei-AI-Speaker-2e-Featured.png",
-          "width": 726,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/?amp=1",
-      "publishedDateTime": "2021-10-31T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

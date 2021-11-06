@@ -2,6 +2,58 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-10-11-amazon-awss-ai-team-seeks-the-profound-in-the-industrial.md",
+      "title": "Amazon AWS's AI team seeks the profound in the industrial",
+      "excerpt": "In what's called \"Graceful AI,\" Amazon AWS AI lead Stephan Soatto and colleagues work to solve industrial problems that in turn may produce new insights into the fundamentals of deep learning and information theory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/53056df0e801ec62e2c0b045f9ec78a478910e4c/2021/10/11/4a05eedc-7dfa-4f68-994f-c3b0170c3a4c/stefano-soatto-amazon-aws-applied-ai-2021.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1086,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/",
+      "publishedDateTime": "2021-10-11T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-how-fintech-is-changing-the-insurance-industry.md",
       "title": "How FinTech Is Changing The Insurance Industry",
       "excerpt": "Article take from FinTech Magazine. The insurance industry has always been a complicated but firmly rooted environment, but advancements in technology have collided with customer needs, creating systemic challenges for the insurance industry.",
@@ -1135,58 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-exploring-the-role-of-dignity-in-government-ai-ethics-instruments.md",
-      "title": "Exploring the role of dignity in government AI Ethics instruments",
-      "excerpt": "Originally published with Centre for Public Impact. There is so much focus on the harms that technologies of the future can and do bring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/exploring-role-dignity-government-ai-ethics-lorenn-ruster",
-      "originalUrl": "https://www.linkedin.com/pulse/exploring-role-dignity-government-ai-ethics-lorenn-ruster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGPZnuaDU7SnQ/article-cover_image-shrink_600_2000/0/1520130833100?e=1639612800&v=beta&t=n1kkk6k8x5EVfIP7q0dQB6O4XMMTh1aXsX7qK6Xubyo",
-          "width": 453,
-          "height": 244,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-10T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

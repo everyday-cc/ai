@@ -56,6 +56,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-05-facebook-should-not-have-bowed-to-public-outrage-and-shut-down-its-facial-recognition-system-former-world-chess-champion-says.md",
+      "title": "Facebook should not have bowed to public outrage and shut down its facial recognition system, former world chess champion says",
+      "excerpt": "Facebook is wrong to shut down facial recognition, according to Gary Kasparov, the former world chess champion and chairman of Human Rights Foundation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
+      "originalUrl": "https://www.cnbc.com/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106173405-1570674137430gettyimages-1167464772.jpeg?v=1570674164",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
+      "publishedDateTime": "2021-11-04T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-clearview-ai-ordered-to-delete-all-facial-recognition-data-belonging-to-australians.md",
       "title": "Clearview AI ordered to delete all facial recognition data belonging to Australians",
       "excerpt": "Controversial facial recognition firm Clearview AI has been ordered to destroy all images and facial templates belonging to individuals living in Australia by the country’s national privacy regulator.",
@@ -422,10 +474,10 @@
     {
       "path": "_news/2021-10-28-abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service.md",
       "title": "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service",
-      "excerpt": "As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue, Index Ventures, and Alkeon. Series C ...",
+      "excerpt": "Abacus.AI, the world's first end-to-end AI platform, announces Series C led by Tiger Global with participation from Coatue, Index Ventures, and Alkeon and releases support for several Computer Vision",
       "sourceUrl": null,
-      "webUrl": "https://www.ktre.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/",
-      "originalUrl": "https://www.ktre.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/",
+      "webUrl": "https://www.wsaw.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/",
+      "originalUrl": "https://www.wsaw.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -435,11 +487,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T10:31:00-07:00",
+      "publishedDateTime": "2021-10-27T10:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KTRE",
-        "domain": "ktre.com",
+        "name": "WSAW",
+        "domain": "wsaw.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1372,59 +1424,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition.md",
-      "title": "Scan Amazon S3 buckets for content moderation using S3 Batch and Amazon Rekognition",
-      "excerpt": "Dealing with content in large scale is often challenging, costly, and a heavy lift operation. The volume of user-generated and third-party content has been increasing substantially in industries like social media, ecommerce, online advertising, and media sharing. Customers may want to review this content",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/18/ML-4838-image001.jpg",
-          "width": 1230,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T12:53:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-10-26-ai-estimated-to-provide-10-boost-to-uk-gdp-by-2030.md",
+      "title": "AI estimated to provide 10% boost to UK GDP by 2030",
+      "excerpt": "Capabilities provided by artificial intelligence (AI) systems and related technologies such as robots and driverless vehicles could provide a 10% boost to the UK economy by 2030, but there are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?_gl=1*iphwe2*_ga*MzEzNzc3ODIzLjE1NjE2Mjk1NzY.*_ga_TQKE4GS5P9*MTYzNDU3MDQ1NS4zMDguMS4xNjM0NTcwNTgwLjA.&_ga=2.154875644.53959175.1634552366-313777823.1561629576",
+      "originalUrl": "https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?_gl=1*iphwe2*_ga*MzEzNzc3ODIzLjE1NjE2Mjk1NzY.*_ga_TQKE4GS5P9*MTYzNDU3MDQ1NS4zMDguMS4xNjM0NTcwNTgwLjA.&_ga=2.154875644.53959175.1634552366-313777823.1561629576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-brain-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?amp=1",
+      "publishedDateTime": "2021-10-26T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-pepsico-hiring-150-in-dallas-for-new-digital-hub-leveraging-ai-and-machine-learning.md",
       "title": "PepsiCo hiring 150 in Dallas for new ‘digital hub’ leveraging AI and machine learning",
       "excerpt": "PepsiCo’s chief strategy and transformation officer describes the new high-tech team as a first for legacy consumer packaged goods brands.",
@@ -1116,49 +1159,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-byju-innovation-labs-bridging-the-teacher-student-gap-with-ai-ml.md",
-      "title": "Byju Innovation Labs: Bridging the teacher-student gap with AI, ML",
-      "excerpt": "With an aim to solve moonshot problems, Byju's lab initiative hopes to consistently innovate internally to solve education's biggest challenges with technology to avoid becoming obsolete",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
-      "originalUrl": "https://www.forbesindia.com/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2021/Oct/img_170429_devroy.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
-      "publishedDateTime": "2021-10-26T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

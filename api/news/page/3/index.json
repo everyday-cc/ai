@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-03-an-ethics-bounty-system-could-help-clean-up-the-web.md",
+      "title": "An Ethics Bounty System Could Help Clean Up the Web",
+      "excerpt": "Looking at the bigger picture, there have been calls for greater regulation of the tech industry, which is deeply necessary, but legislation may take a long time to pass and be implemented and is generally insufficient to stop the unforeseen ethics failures endemic to technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
+      "originalUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6181c6376323e922448010f3/master/pass/An-Ethics-Bounty-System-Could-Help-Clean-Up-the-Web.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/big-tech-ethics-bug-bounty/amp",
+      "publishedDateTime": "2021-11-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-waymo-is-bringing-its-autonomous-vehicles-to-new-york-city-for-manually-driven-mapping.md",
       "title": "Waymo is bringing its autonomous vehicles to New York City for (manually driven) mapping",
       "excerpt": "The latest autonomous vehicle company to tackle the mean streets of New York City will be Waymo. The Google spinoff is bringing a handful of cars to the Big Apple, where they will start mapping the city streets using manually driven vehicles with two people riding inside.",
@@ -1117,50 +1169,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-global-ai-powered-healthcare-solutions.md",
-      "title": "Global AI-Powered Healthcare Solutions",
-      "excerpt": "Babylon - Tech giant Microsoft has announced a new partnership with Babylon Cloud Services—a company specializing in digital self-care. Together the",
-      "sourceUrl": null,
-      "webUrl": "https://www.trendhunter.com/trends/babylon",
-      "originalUrl": "https://www.trendhunter.com/trends/babylon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.trendhunterstatic.com/thumbs/babylon.jpeg",
-          "width": 800,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.trendhunter.com/amp/trends/babylon",
-      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/babylon",
-      "publishedDateTime": "2021-11-02T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TrendHunter",
-        "domain": "trendhunter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
