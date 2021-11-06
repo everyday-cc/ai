@@ -13,11 +13,6 @@ linkedin:
 crunchbase:
   url: "https://www.crunchbase.com/organization/facebook"
 
-twitter:
-  username: "facebookai"
-  url: "https://twitter.com/facebookai"
-  followers: 167093
-
 size: 10,001+ employees
 yearFounded: 2004
 locations:
