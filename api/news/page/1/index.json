@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-07-how-one-startup-is-shaking-up-the-consumer-trading-boom.md",
+      "title": "How one startup is shaking up the consumer trading boom",
+      "excerpt": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday?  Happy Saturday,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/06/how-one-startup-is-shaking-up-the-consumer-trading-boom/",
+      "originalUrl": "https://techcrunch.com/2021/11/06/how-one-startup-is-shaking-up-the-consumer-trading-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/06/how-one-startup-is-shaking-up-the-consumer-trading-boom/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/06/how-one-startup-is-shaking-up-the-consumer-trading-boom/amp/",
+      "publishedDateTime": "2021-11-06T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-intel-arc-alchemist-gpu-shows-off-ai-based-xess-magic-in-new-riftbreaker-video.md",
       "title": "Intel Arc Alchemist GPU shows off AI-based XeSS magic in new Riftbreaker video",
       "excerpt": "Two of the leading technologies in this generation's GPU wars have been Nvidia's Deep Learning Super Sampling (DLSS) and AMD's FidelityFX Super Resolution (FSR). Both promise",
@@ -165,7 +216,7 @@
       "originalUrl": "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1188,57 +1239,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450.md",
-      "title": "Report: Enterprise use of AI to predict cash flow expected to increase 450%",
-      "excerpt": "To sharpen cash forecasting capabilities, today's enterprises are embracing AI and machine learning for greater automation and efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/",
-      "originalUrl": "https://venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/pricing-1-e1635876555154.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/amp/",
-      "publishedDateTime": "2021-11-04T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

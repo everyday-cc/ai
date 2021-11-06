@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-03-trust-the-ai-you-decide.md",
+      "title": "Trust The AI? You Decide",
+      "excerpt": "I wrote about fatal flaws in algorithms that were developed to mitigate the COVID-19 pandemic. Now comes a flurry of articles on an algorithm developed by Epic to provide an early warning tool for sepsis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/11/02/trust-the-ai-you-decide/",
+      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/11/02/trust-the-ai-you-decide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61818f58d754d2e4514d1794%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/11/02/trust-the-ai-you-decide/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/11/02/trust-the-ai-you-decide/amp/",
+      "publishedDateTime": "2021-11-02T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-global-ai-powered-healthcare-solutions.md",
       "title": "Global AI-Powered Healthcare Solutions",
       "excerpt": "Babylon - Tech giant Microsoft has announced a new partnership with Babylon Cloud Services—a company specializing in digital self-care. Together the",
@@ -535,49 +586,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse.md",
-      "title": "A New Skin That Helps Robots Feel Could Be Used to Build the Metaverse",
-      "excerpt": "When the new skin touches something, its plastic part changes the magnetic field created by the embedded particles, and it could help shape the Metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse",
-      "originalUrl": "https://interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/o2Gzy4D4Op/sizes/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-new-skin-that-helps-robots-feel-could-be-used-to-build-the-metaverse",
-      "publishedDateTime": "2021-11-02T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },

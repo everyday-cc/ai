@@ -43,20 +43,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Zuckerberg says touch sensor, robot skin designed for metaverse"
-    excerpt: "Technology is step forward in metaverse -- interconnected virtual experiences using virtual, augmented reality - Anadolu Agency"
-    publishedDateTime: 2021-11-01T23:28:00Z
-    webUrl: "https://www.aa.com.tr/en/americas/zuckerberg-says-touch-sensor-robot-skin-designed-for-metaverse/2409333"
-    type: article
-    provider:
-      name: aa.com.tr
-      domain: aa.com.tr
-    quality: 39
-    images:
-      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2021/11/02/thumbs_b_c_43bd98ea27aa772f060378f574356c90.jpg?v=022239"
-        width: 864
-        height: 486
-        isCached: true
 
 secured: "Zg3WyIoiAmrPoc4UNmqjzb/ycZsJ6QII9XWNraUAjfr0kwAdUUb/LDWw7IHMvjkH8W8NuecLapWNKehr9DkI6d+2AlbLFsbLgzY8jWmHyyn/Lv4DbYKhvA/ydHO4H/yzVDnDEbhCVXzVUWwpTnKG0ZyuCx+PuyXAVojbLiqo2GiO8NLWvAtVKPCOkdToCFmkDK8w6wCFYT3mfiFP4K/Ik/EmPnjBQLlaBkk1MIIjfZrwt+w58IM6DdzTT3Qg5lul3Fu4sY50e5vCD9aarZ/oIwtvpFfY1ZOEaW8rR0dl8RA2EEFtZY4MRxQKM/ina2kive5EfUCMfPpUYrruWDhXkVPuP8r/6NAu4xi1+xhQHvg=;ekyXDTkOhWTwuozEowrvYA=="
 ---

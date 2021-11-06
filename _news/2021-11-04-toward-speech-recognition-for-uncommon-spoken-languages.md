@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spok
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp"
 type: article
 quality: 59
-heat: 100
+heat: 99
 published: true
 
 provider:

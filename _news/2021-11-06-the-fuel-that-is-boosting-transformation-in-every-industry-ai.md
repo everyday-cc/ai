@@ -114,22 +114,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "Is AI the future of drive-thrus?"
-    excerpt: "Or maybe you already have… Restaurants have been experimenting more and more with AI and robots, especially as companies struggle to find entry-level workers. Last week, McDonald’s announced the sale of its Automated Order Taking (AOT) tech to IBM,"
-    publishedDateTime: 2021-11-02T00:49:00Z
-    webUrl: "https://thehustle.co/11022021-ai-drive-thrus/"
-    ampWebUrl: "https://thehustle.co/11022021-ai-drive-thrus/amp/"
-    cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/11022021-ai-drive-thrus/amp/"
-    type: article
-    provider:
-      name: The Hustle
-      domain: thehustle.co
-    quality: 59
-    images:
-      - url: "https://thehustle.co/wp-content/uploads/2021/11/News-Brief_2021-11-02T004841.697Z.jpg"
-        width: 600
-        height: 330
-        isCached: true
   - title: "Addressing the effects of AI on nature"
     excerpt: "The Sustainable AI Lab of the University of Bonn (Germany) addresses this topic and is present at COP26 with a unique artwork to remind people of what nature is doing and that AI is getting in the way of this."
     publishedDateTime: 2021-11-05T00:00:00Z
@@ -201,6 +185,6 @@ related:
         height: 570
         isCached: true
 
-secured: "PHdp//rEa99krJoFF9f6JpWKFk+eMzkRe5FelQSj1jC3lMu7Bx4aCmtznEr0ia9cM/0GhGaAdqABJO4Y4cAfJzaGI4/gkNSux54XnCDzA28WsbZOI13wI2ubUI3/vekkZwkzPIEOWkPwKpxTRjci+Eb/nj9z5vyfgwauSiPY0ljHUokyAgWR0iXkSoZurSk5NNCcNPexpVGrV2eVOysLHzWwEx9BRthx22RMd5MKbp7JILZP7Pr3eAz7Vo9iYvS0Dc4XTvdTw6uW6lg6Pjb50uovvMTgsL5fGCb8KGdpeilEWvJrj9No9dECPS0Y9jGm4egmQHbsoaHOgQJyKgHypHAmELwXeYOkP8qGl+3XNa0=;v3ixLjl79AgSFRPRFGqtTQ=="
+secured: "HDtsw9eJI9+1gbWrVFtMRmH/6rA2nNNW2O0g0ro0z82pwTWZcKedt88B35P39fjUlTYh7wOEEvpepLBMIeq35V/StmYG/VHxsSx4z4iYypYRk/dwTNrzm2IYnotj1zs9biV/uMtOCzL2q05V2JFOCwt4VtN6z03pCRWni4oMQJo4L8Q1cy1DXmPzR67EwE4GMBvxhwsQYQUOocrA5bQc4zQLD8gNPDde3WPGoBZ8xqSbfMU3qBbIwTGv25+0RYIGpUaSmaNn3H5r/V+SMpPU+HyqeW8nFxIUDV24B6Wus0dP+JydRb3ftwCibyDBBQ2ElLDcTmtUIoWYMPC1ToMtrpK8g3pkANO1a46hjpinhvQ9AMeFRPgSm/gmbWs6ctocvYH2i/jL+lKTOL08J0WbLmSBC9iuxSGQN5hCdRahwnMyDHl2DVGGFggWSiBZzQlkbc7yJg1NW3gFelYwkypMHFToGqY/pLPxHJFmg5dICiebpeXoTVsxy3CVBfwIMx4LhBVfJTwG9pV11K5dTi1Rag==;ac97kq6DooDk+JRM03RCCg=="
 ---
 
