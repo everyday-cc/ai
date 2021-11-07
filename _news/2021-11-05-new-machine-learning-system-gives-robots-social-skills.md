@@ -58,6 +58,20 @@ related:
         width: 770
         height: 512
         isCached: true
+  - title: "Researchers Develop Framework to Give Robots Social Skills"
+    excerpt: "Researchers at the Massachusetts Institute of Technology (MIT) have developed a control framework to give robots social skills. The framework enables machines to understand what it means to help or hinder each other,"
+    publishedDateTime: 2021-11-07T22:55:00Z
+    webUrl: "https://www.unite.ai/researchers-develop-framework-to-give-robots-social-skills/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-E1xwpCUO/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/11/MIT-Social-Interaction-01_0.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "3diYNPQ1k9OumnsFDiudMsq94vVbtOtP8migcQIF906CB5E6Wb7qJIEbnBcGUUaHlpIQTVh6tQjfq1DjFmhss7iZ+U7DCYfGqtuBSQGHSh4hmp3GPjb/oDyqDoSKDhGZq2VDau01QsQNO+5a95UpD278xVCwfRMJX3i2mQDGhdwjBhpszjnsgKcmDIwhRqBu+gWuMS4+FqB+X0ZeBTjfqzO6CutgxJNysTzU+160OHgf+mkIiOcxrsbkA2BNM0X06++WlrPo9TFSBD+cnVVC7y8TkEy7o81T1DI1q4tH/r9bKF4EcT8qPRe5mfJDHMoGe29L9MeaCUWyKuh+nTBCbq5USnVEZNQHGlzfil+UKfPABCE63DkwR/FaJBMwV8O5x8pb20Jrplp/jEs6jKpe4svZD/m0fK2M9c3cn/bMLqps0TElaSB/LnmFFF8SVe5OeJYrYyyXKzgeVeONYIWsGEUy+otECMbPuZ8yIMgHnuc9Ssb/2OxxPUD0OlGZAJUamOT+EedxHDyf3tFOJz+82g==;IPWVY0t+X5VPgzjlonrZFA=="
 ---

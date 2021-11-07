@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Fresh Patches For Your DeepMind 12"
-excerpt: "Robust American Patches tell us that they have released Volume I for the DeepMind 12. They tell us that nearly every patch in this collection of 74 has extensive velocity, modwheel and aftertouch assignments."
-publishedDateTime: 2021-11-05T01:02:00Z
-originalUrl: "https://sonicstate.com/news/2021/11/05/fresh-patches-for-your-deepmind-12/"
-webUrl: "https://sonicstate.com/news/2021/11/05/fresh-patches-for-your-deepmind-12/"
+title: "The slippery slope of using AI and deepfakes to bring history to life"
+excerpt: "To mark Israel’s Memorial Day in 2021, the Israel Defense Forces musical ensembles collaborated with a company that specializes in synthetic videos, also known as “deepfake” technology, to bring photos from the 1948 Israeli-Arab war to life."
+publishedDateTime: 2021-11-07T21:39:00Z
+originalUrl: "https://japantoday.com/category/features/opinions/the-slippery-slope-of-using-ai-and-deepfakes-to-bring-history-to-life"
+webUrl: "https://japantoday.com/category/features/opinions/the-slippery-slope-of-using-ai-and-deepfakes-to-bring-history-to-life"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Sonic State
-  domain: sonicstate.com
+  name: Japan Today
+  domain: japantoday.com
 
 topics:
-  - Google AI
+  - AI Ethics
   - AI
-
-images:
-  - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/35178_378.jpg"
-    width: 720
-    height: 405
-    isCached: true
 
 related:
   - title: "Alphabet creates DeepMind offshoot focused on using AI for drug discovery"
@@ -64,16 +58,21 @@ related:
         width: 1290
         height: 726
         isCached: true
-  - title: "The slippery slope of using AI and deepfakes to bring history to life"
-    excerpt: "To mark Israel’s Memorial Day in 2021, the Israel Defense Forces musical ensembles collaborated with a company that specializes in synthetic videos, also known as “deepfake” technology, to bring photos from the 1948 Israeli-Arab war to life."
-    publishedDateTime: 2021-11-07T21:39:00Z
-    webUrl: "https://japantoday.com/category/features/opinions/the-slippery-slope-of-using-ai-and-deepfakes-to-bring-history-to-life"
+  - title: "Fresh Patches For Your DeepMind 12"
+    excerpt: "Robust American Patches tell us that they have released Volume I for the DeepMind 12. They tell us that nearly every patch in this collection of 74 has extensive velocity, modwheel and aftertouch assignments."
+    publishedDateTime: 2021-11-05T01:02:00Z
+    webUrl: "https://sonicstate.com/news/2021/11/05/fresh-patches-for-your-deepmind-12/"
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
+      name: Sonic State
+      domain: sonicstate.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/35178_378.jpg"
+        width: 720
+        height: 405
+        isCached: true
 
-secured: "lvM2D+R3bhga1delZNJvZMttPsO6FapUriUlW8mhnmyKvkHvjEJvXXVJJUoTLCIL+uHj5zAd6C3PHAi2j6yhqolYBf2CeWvo6NBl3UgqYzt+EgqKF87tTyCJ/OaPGjlCtTf/8VycKMtz+6q5zXYfQsu1hFEcJGOnZLHJ7KLYIYmEDY0ZTAsjByXEKPTic/k3qNmIheetIvf8AAOoFGxpQJKvosgcGcuv2wRY8mrqlssSBVfthZqamm6BoOdVyTzt8eU2OsTCRWBZYBLVmf/axqHZKX+6LilrlT1R2N7WZgFU35fJ7KMWZEJfuY61Y+50enPiiJpjC5T2BdMmkJKDbBvv2JJ567L4RE47M3gO8TeGDOxipc7E/Aw+MCoaKrRtOqpIgQvuD49zF8MtOsZtqmzkIEeVgmAaWniD9UANJWxP86ROkChiHK+633F/tltig6swCD1TowLsVftk3J2Y91VJHQltoW+hm3ktJ4+0K5vp8HR4CqcTUg3UTNQ47B93CXagj49Ttt1rAZFQwRtqyA==;m6DSym6QwtE7oB8GHfyHQA=="
+secured: "jVuCIuU1BOQQ0opa/Sl7Xxtcg8tXbAI53BHMRZmCJaaBcoG5cePDISzQawg5R42WO1B7fFZBpmiPlo+pB3Uwnf+KNNB7vQkG5IB4Znj7F7hwXf4JhI2XJFwkhmr3H5IEhItVbkReJp2X4GTqms2fvbg9KavE6DD2tvNmlxgeYiGp4OjMl3Xqt2jeqiWwXcB5wuXPHrWRvXxcd/o9co1jnfLaXEVouuWN2RMTnvANj7I4d+0uIQ4txrriqMxShiQw6PH4YgHBKxDc7iCfauFSSGCanCyIUPXzaaQj9TkBn/UKMQy+NDzAceYDrTcVg5wEmQFgjK5QD7QoRsUF4D2ZZBgQFE2TySBGbv8A4+0wew4=;J12HFsvroYtLutjdNvh/jw=="
 ---
 

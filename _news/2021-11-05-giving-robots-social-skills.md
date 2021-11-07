@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/robots-social-skills-1105"
 webUrl: "https://news.mit.edu/2021/robots-social-skills-1105"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://neurosciencenews.com/files/2021/11/robot-social-skills-neurosciecnes-public.jpg"
         width: 770
         height: 512
+        isCached: true
+  - title: "Researchers Develop Framework to Give Robots Social Skills"
+    excerpt: "Researchers at the Massachusetts Institute of Technology (MIT) have developed a control framework to give robots social skills. The framework enables machines to understand what it means to help or hinder each other,"
+    publishedDateTime: 2021-11-07T22:55:00Z
+    webUrl: "https://www.unite.ai/researchers-develop-framework-to-give-robots-social-skills/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-E1xwpCUO/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/11/MIT-Social-Interaction-01_0.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "iMg4J9D14/c7IWfglsNdAN2SCD9LgcAlr8GXDiiDuOGSMx9jREc3bUK4WjYUtfmz7F64IR4gDdtqWU+fqOmOoMy5rC3vVI8Tk6tHuO3dUwLlEtq+cX/SPeZ/Y8FJ3uxK9UbPwHOSUrLzbSYbB9QBRb9uKRuZsomW+kNnOo/oxd2M+rAJBPJ/Rl2A5xKP+bkLxXrJyl3PtUt+iDwF/wwY+K0SYNyYsC3coyk/KRsZV6C4aZhhfQumA//HIVTgYNxqtDl6kNPECCmSMFCuwLvZLOEfUmzuq0kHwt2Dpqg2+h97A4LavfTqLyD/FROVcjnHXPPNdS4MF7hGkp/Qg2sLeUkiTQ9/auGXE+NHYIQh9FVtd+t+kwqfGvPbW1sg1DeTNO/ro7I33CtORMpTnf4hFzUX3TyGCuNjy/+ohlX4jbGxoppv9VwxBXGnBlmUq8nmowFoMjZ1rGrJ8rg0BMwbWl69Vp+ciLbnRBHUVuW4wYrzEywK4UXHHJ6sWj1ElDnWcgoWlf21DlcJ0x3BiEZPsw==;liR1zzNoeScqsRdibRhQfw=="

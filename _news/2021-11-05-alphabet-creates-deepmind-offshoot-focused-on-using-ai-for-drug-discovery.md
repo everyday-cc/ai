@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/alphabet-creates-new-subsid
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "The slippery slope of using AI and deepfakes to bring history to life"
+    excerpt: "To mark Israel’s Memorial Day in 2021, the Israel Defense Forces musical ensembles collaborated with a company that specializes in synthetic videos, also known as “deepfake” technology, to bring photos from the 1948 Israeli-Arab war to life."
+    publishedDateTime: 2021-11-07T21:39:00Z
+    webUrl: "https://japantoday.com/category/features/opinions/the-slippery-slope-of-using-ai-and-deepfakes-to-bring-history-to-life"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "YYLgsvsK13prryxMzAm/VZNPcDTuDtHYLWyRAsHe1i+S2fgeRWiz7nJqA2MhL9OBHFMiqeROh4ok0Y2Tm3gizi+mp4sxXZqzeLEyv8RE9LEjbr+Tm3voecCdkftOIeHPYipUJf4jM0TpSsNtJNIcrSqav7w9UeZHwMGQz7e3fxrAbJRK/Wz7/V8bsmOntO/ZILyFa3pmAKnfdp4RnwbGowVIeDv7WxcS7DTz5jGsBcUEvCbhDrjG7rvz5hoQ9p+yGlRtE/5GYeKfJSiLcWu0Uqzvg09h34ek8qsqIK84OPMCSDPvQRE+ERrH6J98vu9uEbrZc8ZXynFcjcVZlC6EGepv4qRcHp68nU7UflCkLqoyyu0mqJT+BIkITxBcjf0wjdUdc4ytkCFv1Js2pNjnO60dkhFUD6rCDGOs0PBOcYBuipES1Rn78aTyKQR4Z8QXakEA3mRzJ/VA0gAbxXniCZCmn0ESDbPogJtBArUNMwSgz6R59d/nE/9ChMLWb/U8GiMJ4MgxL//Uqbsyk4WzoA==;h7b8FKGYKYSg4ggjayiy0g=="
 ---

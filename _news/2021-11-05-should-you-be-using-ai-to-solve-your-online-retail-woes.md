@@ -35,7 +35,7 @@ related:
     provider:
       name: Yumpu
       domain: yumpu.com
-    quality: 4
+    quality: 6
     images:
       - url: "https://documents.yumpu.com/000/065/958/199/a51bcafb853fd1467b36bdfd810392bbda042aa0/513478793970647a4e734e42367a756c71554e5477673d3d/7634492b6b6b5168482b2b6f35794a434867416246673d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1636326000&Signature=QC%2B1dXiLM4lCwgUooidynpu4SM4%3D"
         width: 452

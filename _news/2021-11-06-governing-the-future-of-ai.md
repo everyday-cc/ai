@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-fut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -159,20 +159,6 @@ related:
       name: Idaho Statesman
       domain: idahostatesman.com
     quality: 32
-  - title: "From The Terminator To Astro: The Changing Face of Artificial Intelligence Shaping Our World"
-    excerpt: "If you were asked to say what technologies you think have had the biggest impact on shaping our world, what would your answers be? Some examples that would likely feature might include electricity,"
-    publishedDateTime: 2021-11-03T05:15:00Z
-    webUrl: "https://www.fenews.co.uk/featured-article/79234-from-the-terminator-to-astro-the-changing-face-of-artificial-intelligence-shaping-our-world"
-    type: article
-    provider:
-      name: fenews.co.uk
-      domain: fenews.co.uk
-    quality: 30
-    images:
-      - url: "https://www.fenews.co.uk/images/user_images/Jamie_E_Smith/Jamie_Smith_AI_750x570.jpg"
-        width: 750
-        height: 570
-        isCached: true
 
 secured: "4RRVZra4dNegs8xZguZ9hi6p/qKdxxe9LmJoMPkz1mUnyilWCOINo5m/OMDuYqGa18iJi2ZhoXG+Qf8+Upo5+2YcG6fBhaNnGtChemjCd7g/2dUj27anq/t/jxJ6FEINjWxHPjeQQF4O+sSeACzpVRP6C3O5KwxFHYRFrRTkM7SX/5fLn/aS7h0MfxP+qdMYw4Ew67aKsF6/WulNMRI+PFC7M9skGGyg3eLhhiTufozpGusLbpdM4P1M+uSanvoNpE8lRqxqO6MX9djxRMgc0O71kBIRZHVkEF/me3ajqjWY8WDMnEk4codTGkcMmudEgz21u41HggHmuM8QTSPUEJbGnMHspA+E9nnhMF89z07t+FFouo2eed3VD+X/E1F9vJX5LYMquKfsHwAi+th3sIBe/fEJMR8lYH0//ZMO9VyrU1c+rCDpTi7UdELD4zHh6ItSy6No/3nWbxpucbMKtVqAh4O+ddTGekOF/SNJOm7gg8ItpmFS/4ygT2HU1ANKFxvCiuqHHIQnOQbUV4N4KQ==;/0DN81ylcBOKEktJGG3O9Q=="
 ---

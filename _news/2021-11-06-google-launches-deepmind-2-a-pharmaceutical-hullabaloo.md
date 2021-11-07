@@ -68,6 +68,15 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "The slippery slope of using AI and deepfakes to bring history to life"
+    excerpt: "To mark Israel’s Memorial Day in 2021, the Israel Defense Forces musical ensembles collaborated with a company that specializes in synthetic videos, also known as “deepfake” technology, to bring photos from the 1948 Israeli-Arab war to life."
+    publishedDateTime: 2021-11-07T21:39:00Z
+    webUrl: "https://japantoday.com/category/features/opinions/the-slippery-slope-of-using-ai-and-deepfakes-to-bring-history-to-life"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "/rCX5puTZkxv0PI4vmBfGlOaESvy04SoeJ1kINWC6BYmhUudUUt5Swv+eWII6aHcirXAQwephp0EqA/eT9tb/x2YYRxntaikg6b6/l/oAGmqFiegeZa6tkscNDfZ5sIHga7Q0lO8SvxRwcrD8axSn5WaUE0tkA0wf2QrYXI9br/SHK3U9KkFHQFrBpvYa9W1Zj+WRwcURod/gpCEBlKXOwQWYu0/thabWEMUcyEC5PZymYWekNZM1D7Z26xvQGVWjw1USf430kzHuTAyF93lRwZ+x/T68t+HIu8HzL5LANEcpu1ML3CVULADZDftyfPoQrWqGp9huz/qUHY/+tv0SZ97+RGcWgw8pnmN9+QeWoRxB2U6TmsYZywtl4+EOIPLtG91lbPYaRMXUUhPsZhY4fytuwUvz0dznVydw0IJcT5uDcZ0ESiac1YlJ/b6zRWiNRZIuxExClifrHbw2Ipuu4dJgjGDz/IS2t1K+3y6/I6fz3rvirYmQ0S4CnQRmwgVenWY8RhG4nEZyL0gm32BRA==;sPtuRrmScQiTw9g1+8U3FA=="
 ---

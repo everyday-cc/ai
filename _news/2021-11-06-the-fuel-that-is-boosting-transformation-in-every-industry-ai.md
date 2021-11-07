@@ -155,20 +155,6 @@ related:
       name: Idaho Statesman
       domain: idahostatesman.com
     quality: 32
-  - title: "From The Terminator To Astro: The Changing Face of Artificial Intelligence Shaping Our World"
-    excerpt: "If you were asked to say what technologies you think have had the biggest impact on shaping our world, what would your answers be? Some examples that would likely feature might include electricity,"
-    publishedDateTime: 2021-11-03T05:15:00Z
-    webUrl: "https://www.fenews.co.uk/featured-article/79234-from-the-terminator-to-astro-the-changing-face-of-artificial-intelligence-shaping-our-world"
-    type: article
-    provider:
-      name: fenews.co.uk
-      domain: fenews.co.uk
-    quality: 30
-    images:
-      - url: "https://www.fenews.co.uk/images/user_images/Jamie_E_Smith/Jamie_Smith_AI_750x570.jpg"
-        width: 750
-        height: 570
-        isCached: true
 
 secured: "HDtsw9eJI9+1gbWrVFtMRmH/6rA2nNNW2O0g0ro0z82pwTWZcKedt88B35P39fjUlTYh7wOEEvpepLBMIeq35V/StmYG/VHxsSx4z4iYypYRk/dwTNrzm2IYnotj1zs9biV/uMtOCzL2q05V2JFOCwt4VtN6z03pCRWni4oMQJo4L8Q1cy1DXmPzR67EwE4GMBvxhwsQYQUOocrA5bQc4zQLD8gNPDde3WPGoBZ8xqSbfMU3qBbIwTGv25+0RYIGpUaSmaNn3H5r/V+SMpPU+HyqeW8nFxIUDV24B6Wus0dP+JydRb3ftwCibyDBBQ2ElLDcTmtUIoWYMPC1ToMtrpK8g3pkANO1a46hjpinhvQ9AMeFRPgSm/gmbWs6ctocvYH2i/jL+lKTOL08J0WbLmSBC9iuxSGQN5hCdRahwnMyDHl2DVGGFggWSiBZzQlkbc7yJg1NW3gFelYwkypMHFToGqY/pLPxHJFmg5dICiebpeXoTVsxy3CVBfwIMx4LhBVfJTwG9pV11K5dTi1Rag==;ac97kq6DooDk+JRM03RCCg=="
 ---

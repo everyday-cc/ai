@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Tomahawk Robotics Receives Award from Department of Defense to Strengthen the Domestic Small UAS Industrial Base"
-excerpt: "Tomahawk Robotics, the leading innovator of common control solutions, is pleased to announce their Grip & Mimic controllers have received an award from the DoD for the Defense Production Act, Title III Program."
-publishedDateTime: 2021-10-19T16:44:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-9e5ec6b73bc1f17bff2027df4dc0111a"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-9e5ec6b73bc1f17bff2027df4dc0111a"
+excerpt: "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multidomain, cross-architecture ..."
+publishedDateTime: 2021-10-19T14:25:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-receives-award-from-department-of-defense-to-strengthen-the-domestic-small-uas-industrial-base-1030878037"
+webUrl: "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-receives-award-from-department-of-defense-to-strengthen-the-domestic-small-uas-industrial-base-1030878037"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1663668/Operator_with_Grip.jpg"
+    width: 400
+    height: 267
     isCached: true
 
-secured: "fsRLNJl8YcnJWWuSz2w+CSODqlJPHOTnzIGtCX38siKGu4SXmCJv3MZmspGqvJikCqF/iQ5lJXotRrnapEEyyvFZ36bLk4oVvP2BSZnfE65H3p4p1rt6BOdCfxZL7Omywziy1HtmIt4OlB7SwctfbJGf+nC4xUvmcLQjmEC/AwO4CHUExypirDntnAXyT83aydCGgBYl2dHn+vhvAbwHdxWUYj3/VsBwGMNg0P6mVZb3k/pfJO0ezbuZO4hAHUA/RuM2055gtjuhEqM5QlyZB0inZe3xR3JKwOg7/JP1ouavqzH+zfpJTFTHojITDd1om1zXeYxsRgI2GwFLV3gC9wTxJ6B4ESwggW4NP+SM+H8=;Ug7ZB4kTe75BwWSagoT9Ag=="
+secured: "N+olHArEccpPgyT+wg5wGSm+rV/zYiNl4JRUQxyEi4g9gqyo5BeM4ng+j7ha7XURgo4kuckw+Tg+VyOU1SRJCI2qQnmw9i8bFrNnj1yQjDuXbqKViH6/gEZVGvDYxRU/3vtWIQ0g9beEAB+uYz4GY77f/dB8jf10J3bcsLH8Gws96EsDRBfrs3CRlNpt/iWxsQf9VJS4LX61x0YEU1T2WCh2rB0tMlEntvgJU3BS8w19VWDN9SAJJI1yHpkQlo3FMWYM5J0/V7k2PoPGbNNzq4g8Nv3t0DqfvEyRsAo0c/oMOuncPZfph58WJ5GZSiGo1XlTxR3F4F/ysJFxeQNTw7sIU/CwjybrIB5I7Bn4Z6k=;jmpP1T1PBmWfuOe4XDHaFg=="
 ---
 

@@ -153,20 +153,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "From The Terminator To Astro: The Changing Face of Artificial Intelligence Shaping Our World"
-    excerpt: "If you were asked to say what technologies you think have had the biggest impact on shaping our world, what would your answers be? Some examples that would likely feature might include electricity,"
-    publishedDateTime: 2021-11-03T05:15:00Z
-    webUrl: "https://www.fenews.co.uk/featured-article/79234-from-the-terminator-to-astro-the-changing-face-of-artificial-intelligence-shaping-our-world"
-    type: article
-    provider:
-      name: fenews.co.uk
-      domain: fenews.co.uk
-    quality: 30
-    images:
-      - url: "https://www.fenews.co.uk/images/user_images/Jamie_E_Smith/Jamie_Smith_AI_750x570.jpg"
-        width: 750
-        height: 570
-        isCached: true
 
 secured: "H7QEsy+bcSjMdrcJY6hAaOYcSFXD84En9celRvKjK9OarmE9KnxJY9vsOReL+H5CrrGUN/UhIjAGVdD5hgEBDN2k1Ulma7lNyqYWv3kLB0yIQZ+/z4XWa/9o98EFjwq6JWwOfyn2+DX0MfxQrEQ4fnasducz8dV/pY72N8nFIwfaDmGQkbUTpoNV/PENulbBCauZY0pHq6enq+A1xk/BV3qZz+X14RVopnQS34rcGoJhG8sbjKMntMs6H0VlGy0NnHqadcVBjvpQS+Ri3hiSr4G/HSMVtYQz9Df475cYX9vErEg9Ic7XU+zb8DKm/YUiZakbA4RFYq7v+1iT5Umg5k+MCg4FR80HIZ359ocYUTt4/0MyPCouIdyRDHAuGGG3GtBZJDF/h3vXUsVzFUJOIzoBbByMH+Tgw/a9/L3vRwh7/2f1nj2jhI5ZQcUlN0bLQbAw/NcLP9X6pH4cF1MQIyyR9h1aTS+/XTN6a/A61YnSxxswCWiHmmliUK1qM0zmur/JSg0YqEa0dMOKeuickg==;riIkrENZUnsQNLLMH3m1nQ=="
 ---
