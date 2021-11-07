@@ -73,6 +73,20 @@ related:
         width: 626
         height: 352
         isCached: true
+  - title: "How the Bank of England Is Embracing Fintech Innovation"
+    excerpt: "During her keynote address at the FinTech & InsurTech Live event, Tangy Morgan, an independent BoE advisor, discussed how the central bank's innovations"
+    publishedDateTime: 2021-11-07T09:17:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-bank-england-embracing-fintech-innovation"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/tangy-morgan-boe.jpg.png?itok=kUV_LM7f"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "17 Fintech Trends You Should Know About: The Ultimate Guide"
     excerpt: "The future of fintech looks bright, with AI, robotic process automation, smart contracts, DeFi, and virtual reality all on the rise"
     publishedDateTime: 2021-11-03T09:16:00Z

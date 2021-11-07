@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automated-claims-pro
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automated-claims-processing-at-xactware-with-machine-learning-on-aws/"
 type: article
 quality: 121
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1260
     height: 613
     isCached: true
-
-related:
-  - title: "Build a shelf monitoring application using AWS Panorama"
-    excerpt: "Out-of-stock (OOS) is an essential metric tracked across the retail industry. Brick-and-mortar retailers seek to reduce their costs associated with OOS items, while simultaneously increasing shopper satisfaction without inventory surplus. A product can be OOS in three main ways: Distribution OOS, Store"
-    publishedDateTime: 2021-11-02T17:27:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-shelf-monitoring-application-using-aws-panorama/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/01/ML-2364-image003-1260x548.png"
-        width: 1260
-        height: 548
-        isCached: true
 
 secured: "DjoJp7FUsaMGsrGhiycgupWnM7yET4rq/YAgHrLGag549oF/ryhF8QhJpTrCx1xnGhH/frAMb/4e8pgDCio/UR3F2MGvv8MmeIEhJxqfrr2eFq6BbG8CV6yPoZ4r01ppUNoKCM7DfI2eDMVfl0PbSy2+1F+ulTSMG2+eYdcn5KKju/YhnNInnR2v/C+QD+j8Wg1TLlQqB8JLG7Wewrt6sSe/4uUNfScjlz9C+Urz+nHQn5E7xdcnalXaApI3dDmKlyxXDAgeJ65xctpCSl/SMlpw2de6sDCyOEv0gScn2l41NHXZXyA7OQhxKi3W2fqSHe1eHCdTAGKuAFaaevjqZdeM1PzgCTy2/YIEF88eEUM=;M+wPvxZF+mTdBZOLzEPEjA=="
 ---

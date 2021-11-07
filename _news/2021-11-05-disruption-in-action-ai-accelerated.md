@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-acce
 webUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Access and Action: Healthcare Systems Put Big Data to Work"
-    excerpt: "From patient questionnaires to Internet of Medical Things devices, healthcare systems collect, store and rely on massive streams of data to deliver care, especially as they undergo digital transformations."
-    publishedDateTime: 2021-11-02T15:08:00Z
-    webUrl: "https://healthtechmagazine.net/article/2021/11/access-and-action-healthcare-systems-put-big-data-work"
-    ampWebUrl: "https://healthtechmagazine.net/article/2021/11/access-and-action-healthcare-systems-put-big-data-work?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/11/access-and-action-healthcare-systems-put-big-data-work?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 59
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202111/data%20analytics.jpg?itok=qOKB2GRp"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "Focus needs to turn to doing AI analytics right as adoption soars"
     excerpt: "Digital transformation and adoption of artificial intelligence (AI) have soared around the world since the onset of the Covid-19 pandemic, making it increasingly important for organisations to focus on the tools,"
     publishedDateTime: 2021-11-05T06:50:00Z

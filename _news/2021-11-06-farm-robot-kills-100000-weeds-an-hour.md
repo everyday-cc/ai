@@ -9,7 +9,7 @@ ampWebUrl: "https://fox2now.com/news/farm-robot-kills-100000-weeds-an-hour/amp/"
 cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/farm-robot-kills-100000-weeds-an-hour/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1280
     height: 898
     isCached: true
-
-related:
-  - title: "Self-Driving Farm Robot Uses Lasers To Kill 100,000 Weeds An Hour, Saving Land And Farmers From Toxic Herbicides"
-    excerpt: "The nutrient content of our vegetables is down 40% over the last two decades and our soil health is suffering due to increasingly harsh herbicide use, according to Carbon Robotics founder Paul Mikesell."
-    publishedDateTime: 2021-11-02T15:36:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2021/11/02/self-driving-farm-robot-uses-lasers-to-kill-100000-weeds-an-hour-saving-land-and-farmers-from-toxic-herbicides/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 50
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61815a27ff3ea366e33ab291%2F0x0.jpg%3FcropX1%3D8%26cropX2%3D2068%26cropY1%3D125%26cropY2%3D1284"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "6zJOG/XUf2uU87pnTkjO/bi3cUwzq7RGaj0GibjJSEb7H0TRhqHBmI/D2slgIO9wBLxhFserws0l7IQJ5LEvRP/Wz5vzUgN++D/Ie0YwwT5zxjoohCVozOgOVKoqvCnVGWgDIyh+z/KUa4ppdudEG1lz31YsP23qUnMQ17JoifVk7jKwNOEzow8gU+tSiE3BHJwRYC2mMKwNZbSyzl9sau24UGc7P0OG7YipZ8KHqr00/fO1/+LG0UiHJdrLPoV5PuMRlTsyqSqWZataI7Vg0cEek0irjkTDQomuXszf/Lou0u7hLBRM+vzhXd4/85QmTSFe7AM9PoGpt/W97GnBZGgYKEsHFtcgQ2q+Dp6+N/2Hxz7w3Lm/oy5s04R4GMX7RmN2A4sYZx3O+PrNXf5GkLcHWNe2s1oPwNWpeNhWefgqatIfZd+oII2XGDx7tm3vGMnVvzAvLq/PONxhb4RxVPj6RIsmcLtOxp8dbWC8qTaS72cOILs2ADm2rrIB8niauOzf6DJNSkpKyQ3RHEpVsw==;9MvQjn1Gsd4NzY9DNoSLVg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-06T23:49:00Z
 originalUrl: "https://github.com/louisfb01/best_AI_papers_2021"
 webUrl: "https://github.com/louisfb01/best_AI_papers_2021"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://opengraph.githubassets.com/33ba13cf731cb750e5938cd0335300b9e1999faf49fdf687a4250314ee3475a7/louisfb01/best_AI_papers_2021"

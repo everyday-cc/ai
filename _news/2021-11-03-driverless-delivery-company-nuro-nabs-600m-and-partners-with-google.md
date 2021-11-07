@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/amp/"
 type: article
 quality: 189
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Self-driving delivery unicorn Nuro scores $600M, partners with Google"
-    excerpt: "Nuro raises second megafunding in a year, and partners with #GoogleCloud to help its #selfdriving delivery vehicles. #SiliconValley #AI #autotech #startup #venturecapital #unicorn"
-    publishedDateTime: 2021-11-02T15:56:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/02/nuro-scores-600m-partners-with-google.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "ASsPqgsRC9ztwL6qC0KJeRCHEjRoxP7XORGtRwko7zLTI2DNKgfU5G3s6ChMVKoFSX4/J/5O/MSuGRHPEj03zzOKfac1nd95TYBI82Xu3YiHA6RevqByMLo+JkDxSnkts9lWUbw0W5/73w0DRwYsI57Y1LNWwH7nIWd/mCkHlJYV0BlP5xfroWu4jJh0zE7vpDRcBQ0kWsx2b3B+DgOAxV7GPQapL5j4oAkwGid0346pV2wYLCzU2aXh+jnEz/8n437DO6ZjnfL94RbR2nP5NuqYSKkBRLe9LVbEHyZiAQf0pHiJ/HzyH00CGoc93ctat0hlbxsdkyP3BI26tJx4gIQ7/5dbpKB2ZXNfXpn0SzybfiTFxk0XZ3+O4Gfgqm1yzxaYMSW9e79Xb1smfIRsl5CMM1wE2JjGigQ2hC1dxBHjzvU7H2zADTTcDoMK8c/aI0aI3o83xoVGQJnMGV4xEKhHSK0Yd1InkW1y1/nR+kOI1Dv0RbKjFWIXjAumU2NYtqCP1dZx7Uwz8mP876qXzZuMdDmBMzkjBAF+64v8Fcc=;iPpRa00UbsCrAIgTLXvFKQ=="
 ---

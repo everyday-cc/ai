@@ -92,22 +92,6 @@ related:
         width: 2400
         height: 1602
         isCached: true
-  - title: "Facebook to Shut Down Facial Recognition in Photos, Videos"
-    excerpt: "Social-media platform is to delete individual facial-recognition templates for over one billion people."
-    publishedDateTime: 2021-11-02T16:29:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174?mod=hp_lead_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
-    images:
-      - url: "https://images.wsj.net/im-427757/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Facebook Says It Will Shut Down Facial Recognition System"
     excerpt: "In what may be the ultimate about-face, Facebook said Tuesday it will delete the face scan data of more than a billion people ― and shut down its facial recognition program entirely. The social media company has long used facial recognition software to automatically identify people in photos and videos,"
     publishedDateTime: 2021-11-02T20:13:00Z
@@ -333,6 +317,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
+  - title: "EXPLAINED: What's Made Meta Go Off Face Recognition And What Happens To Tagging Photos On Facebook"
+    excerpt: "Meta, Facebook's parent company, has said that it's dropping the use of face recognition on the social networking site even as it tries to scrub clean its image"
+    publishedDateTime: 2021-11-07T08:19:00Z
+    webUrl: "https://www.news18.com/news/explainers/explained-whats-made-meta-go-off-face-recognition-and-what-happens-to-tagging-photos-on-facebook-4414391.html"
+    ampWebUrl: "https://www.news18.com/amp/news/explainers/explained-whats-made-meta-go-off-face-recognition-and-what-happens-to-tagging-photos-on-facebook-4414391.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/explainers/explained-whats-made-meta-go-off-face-recognition-and-what-happens-to-tagging-photos-on-facebook-4414391.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 62
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/09/mark-zuckerberg-reuters-163228819616x9.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Facebook is shutting down facial recognition system after a decade"
     excerpt: "Facebook plans to shut down its decade-old facial recognition system this month, deleting the face scan data of more than 1 billion users and effectively eliminating a feature that has fuelled privacy concerns,"
     publishedDateTime: 2021-11-03T08:25:00Z
@@ -396,22 +396,6 @@ related:
       - url: "https://www.boomlive.in/h-upload/2021/10/11/959506-facebook-algorithm.jpg"
         width: 1280
         height: 768
-        isCached: true
-  - title: "Facebook to shut its facial recognition system and delete 1 billion faces"
-    excerpt: "Facebook is planning to shut its facial recognition system this month before deleting the data it has on more than a billion people."
-    publishedDateTime: 2021-11-02T17:22:00Z
-    webUrl: "https://www.imore.com/facebook-shut-its-facial-recognition-system-and-delete-1-billion-faces"
-    ampWebUrl: "https://www.imore.com/facebook-shut-its-facial-recognition-system-and-delete-1-billion-faces?amp"
-    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/facebook-shut-its-facial-recognition-system-and-delete-1-billion-faces?amp"
-    type: article
-    provider:
-      name: iMore
-      domain: imore.com
-    quality: 60
-    images:
-      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/03/facebook-close-icon-iphone-x-hero.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Facebook ditches facial recognition feature, to delete data"
     excerpt: "Facebook announced Tuesday that it's ditching the facial recognition system it uses to recognize and automatically tag people in photos and videos on the platform."
@@ -509,21 +493,19 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Facebook explains shutting down its face-recognition system and deleting data"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people."
-    publishedDateTime: 2021-11-02T17:56:00Z
-    webUrl: "https://www.wkbn.com/news/national-world/facebook-explains-shutting-down-its-face-recognition-system-and-deleting-data/"
-    ampWebUrl: "https://www.wkbn.com/news/national-world/facebook-explains-shutting-down-its-face-recognition-system-and-deleting-data/amp/"
-    cdnAmpWebUrl: "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/facebook-explains-shutting-down-its-face-recognition-system-and-deleting-data/amp/"
+  - title: "Meta says it's getting rid of facial recognition on Facebook - but that won't apply to the metaverse"
+    excerpt: "Facebook is scrapping facial recognition but a Meta spokesperson told Recode the technology 'has the potential to enable positive use cases.'"
+    publishedDateTime: 2021-11-04T11:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/facebook-metaverse-meta-facial-recognition-zuckerberg-2021-11"
     type: article
     provider:
-      name: WKBN
-      domain: wkbn.com
-    quality: 56
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
     images:
-      - url: "https://www.wkbn.com/wp-content/uploads/sites/48/2021/11/Facebook-facial-recognition.jpg?w=1280"
-        width: 960
-        height: 540
+      - url: "https://images2.markets.businessinsider.com/617be03446a50c0018d42a2c?format=jpeg"
+        width: 704
+        height: 526
         isCached: true
   - title: "Why is Facebook shutting down its facial recognition system and deleting ‘faceprints’?"
     excerpt: "The social media giant is putting a stop to its technology that identifies people in photos. We look at what prompted the move and what it means for users"
@@ -541,22 +523,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Facebook Shuttering Facial Recognition System, Will Delete Data From Over a Billion Users"
-    excerpt: "Facebook is shutting down its Face Recognition system and will delete the facial data of more than 1 billion of its users, Facebook parent"
-    publishedDateTime: 2021-11-02T17:43:00Z
-    webUrl: "https://www.macrumors.com/2021/11/02/facebook-shutting-down-face-recognition/"
-    ampWebUrl: "https://www.macrumors.com/2021/11/02/facebook-shutting-down-face-recognition/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/11/02/facebook-shutting-down-face-recognition/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 50
-    images:
-      - url: "https://images.macrumors.com/t/75J5IfUSoeMQCWn0gpzeSBjgmPU=/2000x/https://images.macrumors.com/article-new/2021/11/facebook-facial-recognition-disabled.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Facebook announces it's purging 1 billion faceprints from its system"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
     publishedDateTime: 2021-11-03T05:43:00Z
@@ -572,22 +538,6 @@ related:
       - url: "https://media.whas11.com/assets/CCT/images/d4f94cdf-5190-492c-a155-5f721e3672a7/d4f94cdf-5190-492c-a155-5f721e3672a7_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Facebook to shut down and delete its face-recognition system"
-    excerpt: "The social network said it will end its face-recognition system and delete the face prints of more than 1 billion people."
-    publishedDateTime: 2021-11-02T17:42:00Z
-    webUrl: "https://www.cbsnews.com/news/facebook-to-shut-down-and-delete-its-face-recognition-system/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-to-shut-down-and-delete-its-face-recognition-system/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-to-shut-down-and-delete-its-face-recognition-system/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/10/16/231706e1-d529-4620-b699-12fbec651b5b/thumbnail/1200x630/7f2b8cb2672e6ed6c3446bb7991ab987/cbsn-fusion-facebook-faces-renewed-scrutiny-over-business-practices-thumbnail-816789-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Facebook to shut down face-recognition system, delete data of 1B people"
     excerpt: "Facebook said it will shut down its face-recognition system and delete faceprints of more than 1 billion people."
@@ -620,22 +570,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-acebook-Giphy_87173674.jpg?w=1024&#038;h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Facebook’s face-recognition system to shut down"
-    excerpt: "More than a third of Facebook’s daily active users have opted in to have their faces recognized by the social network’s system."
-    publishedDateTime: 2021-11-02T17:43:00Z
-    webUrl: "https://chicago.suntimes.com/business/2021/11/2/22759676/facebook-face-recognition-system-shut-down-delete-data"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/business/2021/11/2/22759676/facebook-face-recognition-system-shut-down-delete-data"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/business/2021/11/2/22759676/facebook-face-recognition-system-shut-down-delete-data"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 44
-    images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Facebook announces it's purging 1 billion faceprints from its system"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
@@ -727,21 +661,19 @@ related:
         width: 337
         height: 250
         isCached: true
-  - title: "Facebook will shut down face-recognition system, delete prints of 1 billion people"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people. “This change will represent one of the largest shifts in facial"
-    publishedDateTime: 2021-11-02T17:37:00Z
-    webUrl: "https://ktla.com/news/nationworld/facebook-will-shut-down-face-recognition-system-delete-prints-of-1-billion-people/"
-    ampWebUrl: "https://ktla.com/news/nationworld/facebook-will-shut-down-face-recognition-system-delete-prints-of-1-billion-people/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/facebook-will-shut-down-face-recognition-system-delete-prints-of-1-billion-people/amp/"
+  - title: "Facial Recognition Program Being Shut Down By Facebook"
+    excerpt: "Facebook is going to shut down its facial recognition program. The company which now goes by the name Meta made the announcement in a blog post. Its VP of Artificial Intelligence wrote those who opted in won’t be recognized in photos and videos anymore."
+    publishedDateTime: 2021-11-07T08:56:00Z
+    webUrl: "https://www.kabc.com/2021/11/07/facial-recognition-program-being-shut-down-by-facebook/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 38
+      name: KABC
+      domain: kabc.com
+    quality: 39
     images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/10/Facebook-1-2.jpg?w=1280"
-        width: 1280
-        height: 720
+      - url: "https://express-images.franklymedia.com/6616/sites/320/2021/11/04095912/meta-fb-Rokas-Tenys-Shutterstock.com-shutterstock_2065583711.jpg"
+        width: 627
+        height: 418
         isCached: true
   - title: "Facebook to shut down face-recognition system, delete faceprints of 1 billion people"
     excerpt: "More than a third of the social media giant’s daily active users have opted in to have their faces recognized by its system."

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/flippy-2-kitchen-robot/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/flippy-2-kitchen-robot/?amp=true"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Watch this robot take over a fry station"
-    excerpt: "Flippy 2 is Miso Robotics' answer to fast food hiring challenges: it's an automated kitchen assistant that can take over an entire fry station with only one human operator."
-    publishedDateTime: 2021-11-02T17:33:00Z
-    webUrl: "https://www.kdrv.com/content/news/575661122.html"
-    type: article
-    provider:
-      name: KDRV
-      domain: kdrv.com
-    quality: 39
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/211101140510-03-flippy-kitchen-robot-live-video.jpg"
-        width: 576
-        height: 324
-        isCached: true
 
 secured: "Bvbe3iwSV3B70soLTeYgyILpu1hyDdGL+6n2Tjek9zWb+CB0BQhQPez+DYxQfYk8MIH/zFutlIDw/B1/8ChyCU/bBcBK32Et/Zu8B/NCTagbP2K8Pao8b6sZGTWDlKN0hRnNL2DRnSK3frzbTSrF/+s8yDuoOSIAdkTaTLjRJer1/hKKoz9UYaUiYvXk5bxPdyJ/mPqSi14/y6csM3ane9oovLBB6Q6PbpMMuBzxcz3Hh/pg32Pzn17jObWzpfH7nSE+FdO+OMwpwL8xe+ulB28MQesuHBpXOxShh2ICLkDOdTfIgcE8/4GqAyf7adeh4pz1A1MbuB578bjAZiG7jmhwWAGiNn02LuuxejsTc5jrJ7p5ZCjeO3/PG/o48QeqNtbWv5gfaJRDpJIAZ5R1x47ew+m+021G9dJd1iXHxdXme+hDtHHBHbDz7dqwhSAP5oL1zvSdxTagg15FfPKtnfEUr9tnZEXgV8px92YmOed6RiK3r8Ns/poeSdHugohNsvZEYWgnZs5SyfSoO70Tcw==;XM8C8dKU1tZThEJadXgIzA=="
 ---

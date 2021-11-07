@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Self-driving delivery unicorn Nuro scores $600M, partners with Google"
-    excerpt: "Nuro raises second megafunding in a year, and partners with #GoogleCloud to help its #selfdriving delivery vehicles. #SiliconValley #AI #autotech #startup #venturecapital #unicorn"
-    publishedDateTime: 2021-11-02T15:56:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/02/nuro-scores-600m-partners-with-google.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "H0lO+7zj42ywUjMmUlUEvqjyg9rNjCbqUAODlh5A/gpfl+PKBm9fUi/RWrs5JIl5GgeEEFwZa0TUq8rDtYyCWy2KtiiJRvfaQx7YdliQDGmTX6vfoo2i+0atAY6EmjeWN5Dp1CLQXGWrwOu7iflmeWKwOqoZVfG3ouMLDzC9UyVGnzLYwBS8Vi6nhPdImveCuRZjGmLPswH8Zjy8FVG4Lin23NyefF+ya4hCjzyyBCR/N8RmgW1n8KGm4cEmxpHZ08oU0AbrJCqhXMu0dM1HFllz3kVBMvkDC3PZzFSnrm1AF9QhPQ7fmTuqmXEabBbrU1RPpd3bsMQFWQo1nLGFyxfePtq2ioURIdKjdgyDfr5Ktv+Pg9vekJCKVAvJ3tl3TbMMoSQwbZmavjOtC/448qZzWHrVjE10Sq7dzNVtgrxhd6KMV5BzQebuqghVUKpBYs5nAOn26R1LkMNjxZI823Z5VhfnwBqVIsaaaGQoc1q/Ov1X2LcBkR4a7Lfjs8HV5q424haOKUSxikqtVrR/ow==;ux8IySU1pOpHXngiD6whXw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/"
 type: article
 quality: 74
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.benzinga.com/files/use-cases-of-ai-in-the-banking-sector.jpeg"
         width: 626
         height: 352
+        isCached: true
+  - title: "How the Bank of England Is Embracing Fintech Innovation"
+    excerpt: "During her keynote address at the FinTech & InsurTech Live event, Tangy Morgan, an independent BoE advisor, discussed how the central bank's innovations"
+    publishedDateTime: 2021-11-07T09:17:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-bank-england-embracing-fintech-innovation"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/tangy-morgan-boe.jpg.png?itok=kUV_LM7f"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Imarticus Learning partners with BIMTECH to launch PGDMs in FinTech, AI & Data Science"
     excerpt: "Imarticus Learning, a professional education firm, and Birla Institute of Management Technology (BIMTECH), a B-school with a rich heritage, have launched Postgraduate Diploma in Management (PGDM) courses with specialisations in FinTech and AI & Data Science."

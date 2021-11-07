@@ -35,20 +35,6 @@ related:
         width: 512
         height: 337
         isCached: true
-  - title: "Ignite Nov '21: Here's everything Microsoft announced for Azure"
-    excerpt: "The November edition of Microsoft Ignite is here and Ignite has always been about IT professionals, so Azure is front and center. Topics include Azure AI, Data, Dev & Ecosystem, Hybrid, Infra, IoT, MIgration,"
-    publishedDateTime: 2021-11-02T15:13:00Z
-    webUrl: "https://www.onmsft.com/news/ignite-nov-21-all-the-azure-news"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/09/Microsoft-Azure-data-center.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "yorSTUyQVwBeYYlzGZuDy5U9/kI5V7pI3c09DiP7D6otxRjgMYEUVFKkokVnWy3vvVmW5samNc7q7ItxIuoumZWHZacI/bRXuHp9vEh8Um8q1NTWDIdabtUzGK2sEerczazP0/Xj1HBF2kM/j4ppfqBHbm0iSMbKxkyJbeF7CmfcQYmrCL/uYG/ZNyMAl9fLlJKmUw0xNfqJdVlfKaGjc+A9jFMLiQTOGCjS50NlepGlqqLChuvE1Vl1gVjDO2LmzhLHWWOTuv6HEW9o8jRAxbAbXoH9iunxWfJgUmgK/Bx+nY68qwXCOIxVgi+EtBwrxKkTq6RoF/cPsZTvqs6iWpq6TBPY2xSfRi879Vav7ZUOn/K5bsiDHyhPogqkA4XJoLDqfWnnul1PX+Hi/aVTpxpp1DKacsYQVahcqzZBksBCSYD5gJkEHkKGD0Nh2rnEqd2R1pHQaA6XfhaSgNY4rKUHpB8opOcrNzIn9dPRj0cf6GhPLuAwMytaarRAZULqtn0xGwQtTECN9B2OIV1Vng==;yGijsfylYWvkvIwhVI6e7Q=="
 ---

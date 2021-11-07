@@ -41,22 +41,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Access and Action: Healthcare Systems Put Big Data to Work"
-    excerpt: "From patient questionnaires to Internet of Medical Things devices, healthcare systems collect, store and rely on massive streams of data to deliver care, especially as they undergo digital transformations."
-    publishedDateTime: 2021-11-02T15:08:00Z
-    webUrl: "https://healthtechmagazine.net/article/2021/11/access-and-action-healthcare-systems-put-big-data-work"
-    ampWebUrl: "https://healthtechmagazine.net/article/2021/11/access-and-action-healthcare-systems-put-big-data-work?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/11/access-and-action-healthcare-systems-put-big-data-work?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 59
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202111/data%20analytics.jpg?itok=qOKB2GRp"
-        width: 1440
-        height: 500
-        isCached: true
 
 secured: "PKntjKVoX3+aWH0j35mcpJ/DdWZSsDwsADMKVpoIjR6Ah2VLY4RAhMMJBQw7G9Y3RR1e7wRJePVrYUTkohrDs0c95y98sEausdVl5TMdEVfl/xyGLuiI69NqXV07UCIV5YdLgwyDZGClc8JvEFF0Za7gCvGAJgsuA4md+RiGGDokLzT1C8s9hhMfR9zi9YvNmv2pwPih1gcaGGCAt/FvrYLFFzpdcuIf5OE/PA4Vn8Y91Lc08pW0J5Nj8feIm6QO2vwFVvGzxNuUwG/sWVLW2kdCG1z7SNK6AOvsTGvH2Px1E+jnTHkNmVZ06Jf9LQdHIGmqTHOjIYdyc8DsaR79ZhUkmfJNtiIkbkyfaWJqaJbt0grVxBUZXYj5v9eVrA+cgo6ylz7WY5VDtFoEQTkjQ+L23nsoYchemp7PQkhbEuTOblhqN26LKP1tMDWdbRbNIuhcGETG9MBXrY8SOqMdZqucPgcYhSDRWgq+tbXEyiU2dq1+XvnaTUqoT+cGB79qcvzNC8GQHCOCPJMcIjPiXQ==;I9bam+e/HoX81o9DcUQ52Q=="
 ---

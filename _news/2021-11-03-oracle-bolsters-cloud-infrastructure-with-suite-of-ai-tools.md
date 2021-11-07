@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infr
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html"
 type: article
 quality: 93
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -33,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
+    excerpt: "Oracle has updated its cloud infrastructure service to include a new artificial intelligence suite of services comprising of six new tools."
+    publishedDateTime: 2021-11-07T09:07:00Z
+    webUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 41
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/oracle_dreamstime_3.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
     excerpt: "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ..."
     publishedDateTime: 2021-11-03T21:04:00Z

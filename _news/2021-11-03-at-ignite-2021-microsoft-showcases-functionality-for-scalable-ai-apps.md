@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcase
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ignite Nov '21: Here's everything Microsoft announced for Azure"
-    excerpt: "The November edition of Microsoft Ignite is here and Ignite has always been about IT professionals, so Azure is front and center. Topics include Azure AI, Data, Dev & Ecosystem, Hybrid, Infra, IoT, MIgration,"
-    publishedDateTime: 2021-11-02T15:13:00Z
-    webUrl: "https://www.onmsft.com/news/ignite-nov-21-all-the-azure-news"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/09/Microsoft-Azure-data-center.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft Cloud’s enhanced digital experiences through metaverse, AI and hyperconnectivity announced at Ignite 2021"
     excerpt: "Microsoft Cloud’s enhanced digital experiences through metaverse, AI and hyperconnectivity, 90 new services and updates announced at Ignite 2021 conference"
     publishedDateTime: 2021-11-05T10:04:00Z

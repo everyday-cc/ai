@@ -144,20 +144,6 @@ related:
         width: 560
         height: 700
         isCached: true
-  - title: "Artificial Intelligence is fundamentally changing what’s possible for the government"
-    excerpt: "Government is undergoing the biggest and most important technology transformation we’ve ever seen. Artificial intelligence-enabled solutions will power the next generation of government by helping agencies deliver citizen services,"
-    publishedDateTime: 2021-11-02T15:44:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-fundamentally-changing-whats-possible"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 30
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEhQQxqMJzHmQ/article-cover_image-shrink_720_1280/0/1635867075749?e=1641427200&v=beta&t=6pccKfwP0svUMdPfGs7fN-VQA3hhYLna-HlnOvKFdm0"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "From The Terminator To Astro: The Changing Face of Artificial Intelligence Shaping Our World"
     excerpt: "If you were asked to say what technologies you think have had the biggest impact on shaping our world, what would your answers be? Some examples that would likely feature might include electricity,"
     publishedDateTime: 2021-11-03T05:15:00Z
