@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattlepi.com/living/amp/Robots-hit-the-streets-as-deman
 cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/11/robot-163592962016x9.png"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Robots hit the streets in US as consumer demand for food delivery grows"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
-    publishedDateTime: 2021-11-02T22:35:00Z
-    webUrl: "https://kdminer.com/news/2021/nov/02/robots-hit-streets-us-consumer-demand-food-deliver/"
-    type: article
-    provider:
-      name: Kingman Daily Miner
-      domain: kdminer.com
-    quality: 39
-    images:
-      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2021/11/02/robots_hit_the_street_9_web.jpg"
-        width: 715
-        height: 406
         isCached: true
   - title: "Robots hit the streets as demand for food delivery grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."

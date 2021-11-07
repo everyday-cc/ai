@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there/amp/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "On-demand Webinar: AI for asset tracking using only machine learning core in sensors"
-    excerpt: "Using our wireless IoT wearable node (SensorTile.box) and Qeexo AutoML software, you can build decision tree algorithms for our sensors without writing a single line of code."
-    publishedDateTime: 2021-11-05T11:18:00Z
-    webUrl: "https://www.st.com/content/st_com/en/premium-content/premium-content-on-demand-intelligent-asset-tracking.html"
+  - title: "Colorado Bear Busts In And Finally Sort Of Busts Out Of A Car, Providing Bearish Lessons For AI Self-Driving Cars"
+    excerpt: "Bears are smart enough to try and find food inside of cars, which brings up considerations for AI ... [+] self-driving cars. Get ready for a bit of a surprise. Imagine that you’ve driven up to the mountains to enjoy some fresh air and are relishing the ..."
+    publishedDateTime: 2021-11-07T16:31:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: ST
-      domain: st.com
-    quality: 47
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://www.st.com/content/dam/logos/open-graph-logo.png"
-        width: 750
-        height: 560
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613e7aa68eb80aa61d6a1636%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3403%26cropY1%3D24%26cropY2%3D2555"
+        width: 1200
+        height: 893
         isCached: true
 
 secured: "G44PSY9HpKDwpfrdeUg0Zen49l9hkftMHHWUcryYu7WOOg8OSSHhmrKlQ//8gwd5zO3HpxxQEg2s/01uTF3M0APuT9XPt99FozIV+5qy+ZNTrDYlNzU8MTmtmF+ANBrGgkJrtVTO5BqX/3tl3lTsJvABh1oUFpzjBlYQyh03qLWW7YOd+6W4CoGbzm2JjynvMTo1qv6NKJZbX0X2I4qeCiMXXWh2WpPNSGXCwEmxqBgX4GAN4lo+26PTKVppMfgb7m3agXt5x7UGBLuOjZidhyFl4gsGugBnB+q7QW0QbTsRZRyXDopT00/u1WVjG5Z5xzvhR4c6wrL8USEFgeODxpm4Ie3bXDdkFUzq3Fig3m9f3t/Wbax2hjv8atOgBuY3HUDzs6anJ1Q5keEkxkati0p5wneR7+AYg8D++CqAsC/f2IZLxz71DuakJINI9DGrcFI+mUpTEKLpb0+92yX5KSqkqnHjMnjtR8ouah8d+yq34SfsG8hA5jsSearXSZVECnC/gI4U0s6mWm/iehnLzA==;6yuWhItrIDB8L8pc3Eb/qA=="

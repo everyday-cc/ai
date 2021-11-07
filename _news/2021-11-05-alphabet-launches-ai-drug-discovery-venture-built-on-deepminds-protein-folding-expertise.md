@@ -106,6 +106,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Alphabet Chases Wonder Drugs With DeepMind AI Spinoff Isomorphic Labs"
+    excerpt: "After DeepMind's breakthrough in protein folding last year, Alphabet will double down on artificial intelligence in biology and health with its new venture."
+    publishedDateTime: 2021-11-07T15:00:00Z
+    webUrl: "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/"
+    ampWebUrl: "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 74
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/11/pills-rows-yellow-background-1-1.jpeg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Alphabet launches AI company to discover new drugs"
     excerpt: "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind “to accelerate drug discovery,"
     publishedDateTime: 2021-11-05T15:46:00Z

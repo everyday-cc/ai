@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Microsoft Uses Machine Learning"
-    excerpt: "Microsoft uses machine learning to recognize patterns, improve operations and develop better products. By leveraging machine learning, Microsoft is helping users find new ways to integrate computing into their daily lives."
-    publishedDateTime: 2021-11-02T23:28:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-microsoft-uses-machine-learning"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 56
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Microsoft_Uses_Machine_Learning_.jpeg"
-        width: 1757
-        height: 1080
-        isCached: true
   - title: "Microsoft offers glimpse into healthcare offerings in a digital-first workforce"
     excerpt: "The COVID-19 pandemic accelerated digital transformation, and Mr. Nadella said Microsoft will make many of the changes it applied to Microsoft Azure during the pandemic into permanent features. Looking ahead,"
     publishedDateTime: 2021-11-03T21:08:00Z

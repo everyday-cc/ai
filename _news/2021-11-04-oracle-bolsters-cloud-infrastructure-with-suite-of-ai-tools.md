@@ -49,7 +49,7 @@ related:
     provider:
       name: ARN
       domain: arnnet.com.au
-    quality: 39
+    quality: 41
     images:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/oracle_dreamstime_3.jpg"
         width: 504

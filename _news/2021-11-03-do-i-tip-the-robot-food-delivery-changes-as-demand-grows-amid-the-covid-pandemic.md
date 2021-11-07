@@ -85,20 +85,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Robots hit the streets in US as consumer demand for food delivery grows"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
-    publishedDateTime: 2021-11-02T22:35:00Z
-    webUrl: "https://kdminer.com/news/2021/nov/02/robots-hit-streets-us-consumer-demand-food-deliver/"
-    type: article
-    provider:
-      name: Kingman Daily Miner
-      domain: kdminer.com
-    quality: 39
-    images:
-      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2021/11/02/robots_hit_the_street_9_web.jpg"
-        width: 715
-        height: 406
-        isCached: true
   - title: "Robots hit the streets as demand for food delivery grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
     publishedDateTime: 2021-11-04T04:28:00Z

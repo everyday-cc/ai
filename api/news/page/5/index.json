@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-02-west-lafayette-facial-recognition-ban-remains-in-ordinance.md",
+      "title": "West Lafayette facial recognition ban remains in ordinance",
+      "excerpt": "A civil and constructive debate over West Lafayette's ban on facial recognition software occurred Monday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
+      "originalUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.field59.com/WLFI/825fb5f80dfde4cbffab5cb33e3ee0564f984088.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.wlfi.com/templates/AMP?contentID=575660031",
+      "cdnAmpWebUrl": "https://www-wlfi-com.cdn.ampproject.org/c/www.wlfi.com/templates/AMP?contentID=575660031",
+      "publishedDateTime": "2021-11-02T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLFI",
+        "domain": "wlfi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers.md",
       "title": "Microsoft’s new Azure OpenAI Service brings GPT-3 to (a few) more developers",
       "excerpt": "Microsoft today announced the launch of the Azure OpenAI Service, which, as the name implies, makes OpenAI’s machine learning models available on the Azure platform. Specifically, that means GPT-3, OpenAI’s groundbreaking language model that can,",
@@ -1190,58 +1233,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge.md",
-      "title": "Untether AI Touts “At-Memory” Architecture, Promising Efficiency And Performance At The Edge",
-      "excerpt": "Untether AI recently emerged from stealth and described their architecture as being “At-Memory”, which the company claims will deliver leading performance and power efficiency. Most products that claim the latter deliver relatively weak performance (with the exception of Qualcomm’s CloudAI 100).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176deaaa5df8d50508ac034%2F0x0.jpg",
-          "width": 1200,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
-      "publishedDateTime": "2021-11-01T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

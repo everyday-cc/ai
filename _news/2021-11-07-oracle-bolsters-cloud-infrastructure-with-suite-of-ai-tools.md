@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-07T09:07:00Z
 originalUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/"
 webUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AWS AI
 
 images:
   - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/oracle_dreamstime_3.jpg"
@@ -84,6 +85,6 @@ related:
         height: 563
         isCached: true
 
-secured: "WO63qtMX9wWm8cU4l6OiC7T5Xwc2B8dpAM8eDeUZwxy+gqsM3auZTXWOhZpfqntAtQVV10Q3JyC6SHklP1pdmlygvEKlIiz/GVcHYKs44Bc+MYg7stlajV2n6WU8NinLxy3L/dtEJu4BmaUSDjgjJBRZzQ7hWFaCGsLVsBhqEqZxONqXBFP7dUcxgctf78eK/LbSfIfL1dIUKwkg+UZ8PmLZnlqnRmsF10d6xjP2V2atBxsBUw88pu7C0Vx88UvAaZwBAyvhAEymGUZKMNuoWnCg89XPVOJlzHyOzdL+w7r0qfWfOqgA3PCKC8BgryPT2Po51gs/426TxUXS8B0NfjZKdmqPjoP0mQ9M14LG+Cg=;+tDvTklh3qQu5Bs0E2SOsQ=="
+secured: "vVX/ZbkWLdQUGcWYdaCN6ji9c2GzpmUVaPjXcd2lPnIaRBLWp9l61p/tn9V3LNUKuVZgJzsel6yJ1V9WcjFHTbz07hUDLWEJxUlXVvsfWTXsyLSTg7oDkPduBYBeoaaUNQB7nRhoahk7r/+n5tMDqkBAtdFYjlU/akn5MItj5Jqoelmd7Ru3RtkY8nPMNM/aqp69771dJLSAv14ENodtNpFy1HM03h/0Kih0CuswkQ4/0EuMFHgkAS0dXrSYn5GBEUypEsOWLp12t6QN4VtaxXGAtAmPBIJfQd6m/7BBX9d80ihqxHZ5dK7+0JNXa3TbXyvNYGuEK2M6BLdRMOAKHhV528kHwTEF/eQcrmTRiMtypRqWzv29fLKbyXGUwLjK1wR2X6WmFyC2+nwAt59nC10LjknaeNTzE6M6xkgAy16++dJxGtlQY95WCyFqoPLwjmqZN+O5uMv9z8hQv8niS+jkoQUzaGuFOTrj2Dq90bXta97bHSACrKavZ7qdVwKjoKFtXm6ncaMdq18R7UtJpw==;MAeVAoUXKphq2RDZ0EpVbQ=="
 ---
 

@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-10-26-vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking.md",
+      "title": "Vancouver Fraser Port Authority Improves Supply Chain Visibility With Computer Vision-Based Container Tracking",
+      "excerpt": "With AWS Panorama, Deloitte is helping the port authority develop a new class of insights on its physical operations that will improve collaboration with supply chain partners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176ea4756ac37e705249128%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/amp/",
+      "publishedDateTime": "2021-10-26T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-wolters-kluwer-announces-integration-of-its-clinical-natural-language-processing-solution-with-henry-scheins-micromd-emr-platform.md",
+      "title": "Wolters Kluwer Announces Integration of Its Clinical Natural Language Processing Solution With Henry Schein's MicroMD EMR Platform",
+      "excerpt": "Wolters Kluwer, Health announced today that MicroMD®, Henry Schein Medical Systems' practice management and electronic medical record (EMR) solution, will implement the Health Language clinical Natural Language Processing (cNLP) solution to",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20065889.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20065889.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-onvisource-partners-with-voicegain-for-speech-recognition-based-on-deep-learning-technologies-and-the-edge-architecture-powered-by-nvidia-gpus.md",
       "title": "OnviSource partners with Voicegain for Speech Recognition based on Deep Learning technologies and the Edge Architecture powered by Nvidia GPUs",
       "excerpt": "OnviSource, a leading provider of intelligent automation solutions for workforce optimization, contact center operation analytics and automation, customer experience management, and business process automation,",
@@ -1082,92 +1177,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible.md",
-      "title": "Singapore-based digital comic platform uses AI to make manga more accessible",
-      "excerpt": "There was no digital platform that comic lovers could access at all times. Vu and Hieu together with Ken Luong and other comic lovers teamed up and founded INKR, a digital comic platform in 2011 that's currently based in Singapore with an office in Vietnam.",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible",
-      "originalUrl": "https://sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/inkr_aauh.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible?amp=1",
-      "publishedDateTime": "2021-10-26T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-practice-of-applying-ai-to-benefit-visually-impaired-people-in-china.md",
-      "title": "The Practice of Applying AI to Benefit Visually Impaired People in China",
-      "excerpt": "The tremendous development of information technology has brought challenges to the visually impaired in China.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/magazines/2021/11/256394-the-practice-of-applying-ai-to-benefit-visually-impaired-people-in-china",
-      "originalUrl": "https://cacm.acm.org/magazines/2021/11/256394-the-practice-of-applying-ai-to-benefit-visually-impaired-people-in-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dl.acm.org/cms/attachment/f18599d1-6cf1-466f-96e6-a7114062fe3c/uf1.jpg",
-          "width": 1787,
-          "height": 1603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

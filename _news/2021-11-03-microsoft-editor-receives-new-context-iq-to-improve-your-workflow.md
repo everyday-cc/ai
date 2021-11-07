@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-20
 webUrl: "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/"
 type: article
 quality: 139
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/11/Satya-Nadella-ignite-nov-2021.jpg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How Microsoft Uses Machine Learning"
-    excerpt: "Microsoft uses machine learning to recognize patterns, improve operations and develop better products. By leveraging machine learning, Microsoft is helping users find new ways to integrate computing into their daily lives."
-    publishedDateTime: 2021-11-02T23:28:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-microsoft-uses-machine-learning"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 56
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Microsoft_Uses_Machine_Learning_.jpeg"
-        width: 1757
-        height: 1080
         isCached: true
   - title: "Ermetic Enables Customers to Enforce Least Privilege for Microsoft Azure"
     excerpt: "Cloud Infrastructure Security Platform Detects and Remediates Excessive Privileges in Azure Active Directory Privileged Identity Management ServicePALO ALTO, Calif. & TEL AVIV, Israel--(BUSINESS WIRE)--#Azure--Ermetic,"

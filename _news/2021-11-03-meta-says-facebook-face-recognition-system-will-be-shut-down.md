@@ -9,7 +9,7 @@ ampWebUrl: "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/
 cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/"
 type: article
 quality: 159
-heat: 579
+heat: 559
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Facebook Drops Facial Recognition to Tag People in Photos"
-    excerpt: "Facebook Tuesday said it would stop using facial recognition technology to identify people in photos and videos and delete accompanying data on more than 1 billion people. The news marks the end of one of the largest known facial recognition systems."
-    publishedDateTime: 2021-11-02T23:38:00Z
-    webUrl: "https://www.wired.com/story/facebook-drops-facial-recognition-tag-people-photos/"
-    ampWebUrl: "https://www.wired.com/story/facebook-drops-facial-recognition-tag-people-photos/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-drops-facial-recognition-tag-people-photos/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/6181c7f154647e427c8e9232/master/pass/Business-FB-Facial-Recognition-518756983.jpg"
-        width: 2400
-        height: 1602
-        isCached: true
   - title: "Facebook plans to shut down its facial recognition program"
     excerpt: "Meta, the company formerly known as Facebook, on Tuesday announced it will be putting an end to its face recognition system."
     publishedDateTime: 2021-11-03T16:49:00Z
@@ -122,6 +106,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fb3874feb2f8cf22c95353bb3573573f.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Meta’s face recognition AI may yet metastasize"
+    excerpt: "Facebook said it would drop this tool and delete a billion-plus face templates, but it looks integral to its parent company’s metaverse ambitions. This makes privacy regulation a must"
+    publishedDateTime: 2021-11-07T16:43:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html"
+    ampWebUrl: "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2021/11/07/600x338/edit_1636303267610_1636303286718.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "Facebook Will Shut Down Its Facial Recognition Program"
     excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people. The internet giant uses the technology"
@@ -271,22 +271,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2021/11/Facebook-Shuts-Down-Face-Recognition-System.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Facebook to end use of facial recognition software"
-    excerpt: "Facebook has announced it will no longer use facial recognition software to identify faces in photographs and videos. There have been growing concerns about the ethics of facial recognition technology,"
-    publishedDateTime: 2021-11-02T22:50:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-59143323?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-59143323.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-59143323.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/179C8/production/_121321769_gettyimages-1311554592.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Why is Facebook ditching face recognition and will it delete my data?"
     excerpt: "Users of the social network will have their face data deleted, Facebook's parent company Meta has announced, but it is less clear what will happen with the AI algorithms trained on that data"
@@ -570,20 +554,6 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199814388_4D1facebook1103_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 400
-        isCached: true
-  - title: "Facebook says it will shut down face-recognition system, delete data"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-02T22:21:00Z
-    webUrl: "https://kdminer.com/news/2021/nov/02/facebook-says-it-will-shut-down-face-recognition-s/"
-    type: article
-    provider:
-      name: Kingman Daily Miner
-      domain: kdminer.com
-    quality: 24
-    images:
-      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2021/11/02/Facebook_says_8.jpg"
-        width: 715
-        height: 404
         isCached: true
   - title: "Facebook to shut down face-recognition system, delete data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
