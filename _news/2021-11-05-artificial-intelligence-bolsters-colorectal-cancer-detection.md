@@ -63,15 +63,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Tulane University study uses artificial intelligence to detect colorectal cancer"
-    excerpt: "A Tulane University researcher found that artificial intelligence can accurately detect and diagnose colorectal cancer from tissue scans as well or better than pathologists, according to a new study in the journal Nature Communications."
-    publishedDateTime: 2021-11-02T19:17:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/933587"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 12
 
 secured: "i01RkU0ARcBlutGvfqCCh7Uc/0GRbvoCQIAsK/p5QvnQ7wNIE0xMHTK9FOHu3O4dWu8467ejUemWUsQXVa+0KCd+krB5tem9qSf51WfIoIeMDowy8F12aL6q0UZI+f2V93VtO40UbFwv76pqTqZgrZGiQIAmjq94paFlhXTN2HLyImZq0xDTPjSulWpvq/qEFgytvm9reQPF6cEXoICrxifK9emz1i2LmSgFKv0KYpmtcj4e+ccVsYX11mRIM/T0iSQeSSQpzI6b7brIn2frwRrulCjfAnefljcLlc8YCNCkBt+foFAyGSjaJBKqe0SUbh4kyD3uhobWKk5+FJGEs2+rHRNN1lrMjsuRoIJeqBQ=;WG4CYci6QoP3j8B/ZqUJqQ=="
 ---

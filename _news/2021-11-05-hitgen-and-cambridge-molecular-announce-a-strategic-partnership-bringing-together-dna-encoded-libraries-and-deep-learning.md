@@ -1,27 +1,27 @@
 ---
 category: news
 title: "HitGen and Cambridge Molecular announce a strategic partnership, bringing together DNA-Encoded Libraries and Deep Learning"
-excerpt: "HitGen Inc. (688222.SH) and Cambridge Molecular are pleased to announce an exclusive alliance, introducing DeepDELve 2 – Cambridge Molecular’s highly optimised DEL-specific deep learning system – as an addition to HitGen’s world-leading DEL discovery platform,"
-publishedDateTime: 2021-11-05T02:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/science-technology-business-england-chengdu-cfb6a4f760bf41ac86b04dbb91e5f144"
-webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-business-england-chengdu-cfb6a4f760bf41ac86b04dbb91e5f144"
+excerpt: "HitGen Inc. (688222.SH) and Cambridge Molecular are pleased to announce an exclusive alliance, introducing DeepDELve 2 – Cambridge Molecular’s highly optimised DEL-specific deep learning ..."
+publishedDateTime: 2021-11-05T07:06:00Z
+originalUrl: "https://www.register-herald.com/region/hitgen-and-cambridge-molecular-announce-a-strategic-partnership-bringing-together-dna-encoded-libraries-and-deep/article_8d96ca19-1979-52ab-923b-9e82104beb84.html"
+webUrl: "https://www.register-herald.com/region/hitgen-and-cambridge-molecular-announce-a-strategic-partnership-bringing-together-dna-encoded-libraries-and-deep/article_8d96ca19-1979-52ab-923b-9e82104beb84.html"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+    width: 600
+    height: 600
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "WFLx51Naw236kO/tR8DhFiy8UgL0ql4XNs/+7dm6PUqUQQwjNOC9bFnQLhsYMhIZy4FgcKFn9J1wIOY2sqCaHxh7KSjVqJeSIL6vgLdZWruaQtqwJx879o11Uzm9y66VXAAAQFH7YHXQiobrLhoOVEwA9cizVH3xapDXVuyCdRHKRVZfVNNPppCEYlrNglffcPiN95Cx8po3vhbN5zpz7iFRHRTzBkfLvPpZz6UKTRlVu4zKwA5XjXwtEQgbqzy0mUF9RbReYU6ujhM0Oz8rkD8WfeKECd+GJMQ0MTNb3XepSPtzWYOaX+YKWnsPPliS2MpIga0hvtN7M6v+lLHYvH5oSN52mZZEsxOw9eh7kHM=;Jwf2dUK6aTWXmtODroawSw=="
+secured: "KcxGf1YOPmDqunAGogPnvGno53adQFZc+1SZrF908vnWwHrkUQpLmiYeFXc4i7wvAvTWR7W2U1AC6wXmighqHmDJSnSWKmnAavKQB1a0t7YHve/y3i6Pcdd8FeQ8N6xR1Z+cpSFxPUSLmT+Km/+3OA8hr+OmDFMvgx9TDF/W8MlThc3VaeV0IHZYzk8RAgKa8Q7jutB7i1Mo9qY4dzVgzlb6SrL5GYzCyYx74uwIxlt1gQXFwx0QVkfyDS6amJ+PzHAdjN9ecg7/4ooR/JbRmH0Y1Nmr6+wRHFCiUbQWbLY8oC6uiJZ5EfDG1dAQd7iptOIPubantFvoo9JKnCgRRRdMAX3/ZWUlRVrHvTkoLAk=;TTXUDqKDM6ypCqYNz2NHSw=="
 ---
 

@@ -57,20 +57,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Research: New artificial neural network detects radiographic sacroiliitis with accuracy"
-    excerpt: "New research presented this week at ACR Convergence, the American College of Rheumatology’s annual meeting, found that an innovative new artificial neural network can detect radiographic sacroiliitis in patients with suspected axial spondyloarthritis,"
-    publishedDateTime: 2021-11-02T19:51:00Z
-    webUrl: "https://www.challengehebdo.com/science/research-new-artificial-neural-network-detects-radiographic-sacroiliitis-with-accuracy-20481-2021/"
-    type: article
-    provider:
-      name: challengehebdo.com
-      domain: challengehebdo.com
-    quality: 31
-    images:
-      - url: "https://www.challengehebdo.com/wp-content/uploads/2021/11/Research-New-artificial-neural-network-detects-radiographic-sacroiliitis-with-accuracy.jpg"
-        width: 800
-        height: 530
-        isCached: true
 
 secured: "bie8JBLLqIrodrDn3WvtpVriPyupqFzOR5sjEny5E789J0Dl4Na9iyUgHoG9sDiUoR3E4YTsTO542AKC7jml8gQVPx5OfSHs35Nk+NLGyRzzKUoAO2DRrltY4Rq+4fQnVFo+5CGPcMTWWxU2e2dXl7H0vjJeiH60yxbWcZz7KmyNfasRV7jxvthONImPrZROOV7wFmgLQptzNVtltkLLeJRjKwjLMLdaiXGWPm7M0iVWSDxNB60r/gbqWABYWaQVpBbKKTx63jmzyoOs92sIiPtHFUETkLPScR+a1MHGFFlD2LodFzjwZ5NiCaVr1bD/HzLEUkuiG/OzeOsEivWM/guBAQaHydtUdwSlMKj9zGZCtxB2em2f9hNrofMz+GeHBFwXrc8I4UMPRXem374gJ2GqXss3CZ30Ppo8zQHKzH5lnxkXCkMPfzko+GxbOuHS42Uh/P8keAJujexLQCihc+ase0p66IwHLM+6TTjwSdacEFCdg9z1xstPtMuF/jB22CXw1xFbbMXzjCjfPT5ZnA==;om075OEsI00aYKEUnwkj0w=="
 ---

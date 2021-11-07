@@ -73,20 +73,6 @@ related:
         width: 626
         height: 352
         isCached: true
-  - title: "Imarticus Learning partners with BIMTECH to launch PGDMs in FinTech, AI & Data Science"
-    excerpt: "Imarticus Learning, a professional education firm, and Birla Institute of Management Technology (BIMTECH), a B-school with a rich heritage, have launched Postgraduate Diploma in Management (PGDM) courses with specialisations in FinTech and AI & Data Science."
-    publishedDateTime: 2021-11-02T18:54:00Z
-    webUrl: "https://www.dailyexcelsior.com/imarticus-learning-partners-with-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 31
-    images:
-      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2021/10/ICC-t20-worldcup-india.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "17 Fintech Trends You Should Know About: The Ultimate Guide"
     excerpt: "The future of fintech looks bright, with AI, robotic process automation, smart contracts, DeFi, and virtual reality all on the rise"
     publishedDateTime: 2021-11-03T09:16:00Z
@@ -100,20 +86,6 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/big-fintech-trends-to-watch.jpg.png?itok=LlX01M7a"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Benzinga Unveils Global Fintech Awards Finalists"
-    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will hold its 7th annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
-    publishedDateTime: 2021-11-02T19:56:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-financial-technology-27f14bf1b36d15696deac6d631c9100c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Financial Secretary Visited MioTech at 2021 Hong Kong FinTech Week"
     excerpt: "Pictured/ Financial Secretary of Hong Kong SAR, Paul Chan Making Opening Remarks at 2021 Hong Kong FinTech Week The main conference of 2021 Hong Kong FinTech Week starts today at the Hong Kong Convention & Exhibition Centre and online."
@@ -144,6 +116,6 @@ related:
         height: 500
         isCached: true
 
-secured: "8Ej2cIfKfJnsQUWUV4igXx1It6UhbtNZAXDRgEVYTCVW+BF5WLwJZ//Or3/z7IZne+wwys/aGQZ6Xq+5B3BiiNCJbYIMOZzolKwQu+SBiEms4qDkPGiTS67cpSDNK8U4qbqUNnrVDcKay24SAk7YIo+qywdkN5xgyLjodhR6SSfjUsOOQ5spTPOBYtGt7lvwwjYoBQQqpCNNYBWsKeE9XL+RGicfnuK3dV96buDNrjdgWscTDcyz99XaDkkqLPHD4TcMIRjjv8ABxTqt9WB0qQuG4T2U03Y3DC6qaIUsgKBUVhNx+w74kcQ/xvVgPIH2x4MIpZ7f8BVyLnBy5pbHnYFpv+DBZncUfhiGmTSduwo=;NxCTdJDfK2k6d1rbPmj4fg=="
+secured: "76lpSHwU0YhsCFaizXJvT2ZaOyk43EUapsnXguEQDXzzmE6ufvDSbkaprnGZx4yqRYe4xOSqUI5FwbTkDfJj+T4tvY7sxOA0BbfP3WSzgKoEfshPt+DLzAlWa4JDg+bG/2/YTvjlf6MnbSMv0sz6f6P2mNq2OJnNvBvIpQb6qsGHPY54TcsqDvviOCuUDbPtq7VXtApyADutEd6JWT2EX0cgmt3EFg0DR2Gy0Y2ZDlZxQdFAI19xWHpxGeDZTHtVFVXYrJt/jv+b3HXANQZjdWuMJeNt8y+6Kb0tkPBCS6P8sGMgchj7VEcFrJ9PrynWcsY93j0ObgvWuAH4E21M0Jd10kDxu7OP2MHkmODcx5I2m6zVZHvFnjNRAKBuLghb17ok9YUdkMSTPitJzxk158nb/PR2h0M9typlcnnuZ4mwWbVkPGzH2V4jFgDhb8/3UxbRTmIPhvWSc1tuh6wG8cdP9a5v/1m1EhaQe3uI6vZofpQk7rzZmQPn6xdGyjUGzt3p3ertPm4mIbqAsnhekw==;pdHrqgI5jGQTy7y1c0qXVg=="
 ---
 

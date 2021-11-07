@@ -50,22 +50,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The slippery slope of using AI and deepfakes to bring history to life"
-    excerpt: "To mark Israel’s Memorial Day in 2021, the Israel Defense Forces musical ensembles collaborated with a company that specializes in synthetic videos, also known as “deepfake” technology, to bring photos from the 1948 Israeli-Arab war to life."
-    publishedDateTime: 2021-11-02T19:02:00Z
-    webUrl: "https://www.seattlepi.com/news/article/The-slippery-slope-of-using-AI-and-deepfakes-to-16584609.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/The-slippery-slope-of-using-AI-and-deepfakes-to-16584609.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/The-slippery-slope-of-using-AI-and-deepfakes-to-16584609.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Fresh Patches For Your DeepMind 12"
     excerpt: "Robust American Patches tell us that they have released Volume I for the DeepMind 12. They tell us that nearly every patch in this collection of 74 has extensive velocity, modwheel and aftertouch assignments."
     publishedDateTime: 2021-11-05T01:02:00Z

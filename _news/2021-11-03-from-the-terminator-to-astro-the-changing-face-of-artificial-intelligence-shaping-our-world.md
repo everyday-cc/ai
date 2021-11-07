@@ -159,6 +159,17 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Rescuing humanity in the age of automation, artificial intelligence and Big Tech"
+    excerpt: "Roose counters the optimistic appraisals of artificial intelligence (AI) made by many technology gurus by identifying “four big claims” that AI optimists use in arguing that it will create many more positive than negative effects. One of them contends ..."
+    publishedDateTime: 2021-11-07T11:05:00Z
+    webUrl: "https://www.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
+    ampWebUrl: "https://amp.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
+    type: article
+    provider:
+      name: Idaho Statesman
+      domain: idahostatesman.com
+    quality: 32
 
 secured: "EEzojQHINuoxADilGcisVttC0c0h/4vTvdRI2Oz2hqQeKdS/UUQ8ya3ZNzs3QbZwm6M+e1GlAO1fB6z9bjM7kZEDGQnIabLS/GzzIbwMUbDHxTYCeP+uI2govIAiEoWMUT1doBGeJQWfXe2T1ikhKeVEqYnx/+ZpB8U3hO1pECyh7TCXRrWljNdkXik5IyUtVr09HwfJ0q4U+fZIHpJ6kMMi8MTfZc8Ya5akStiPpoCNwiIZXPeX8PiFRf1xNsN3kxMC2gXyJAo6VAF/TsIB/IR+6UgDHAFD0VOsXAJjivv+SZvLQ3trkwEc06O1KvsJmisuLt606mWp0HCEZVx7vb0VAXcxwP31TRvRSycnClaNM8d8BTOmdgJKT4U28wbha2D9rJJNxZ/fszHja/oWYT0GVPJ0txbyUCwkZfJCLoUmynkb9L9aO9cEr/0eGJ77+x+t6PsnulQ9sRg7DBAUonDRqSK5agliTXA0FuOBo53FfE30Ggoi1hsuT+UvyuCgbWG/CNNjrYG+xGhHoHDYBA==;EgHmytIn2N/FeaUy5w4iMA=="
 ---

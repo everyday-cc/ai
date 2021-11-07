@@ -66,15 +66,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Tulane University study uses artificial intelligence to detect colorectal cancer"
-    excerpt: "A Tulane University researcher found that artificial intelligence can accurately detect and diagnose colorectal cancer from tissue scans as well or better than pathologists, according to a new study in the journal Nature Communications."
-    publishedDateTime: 2021-11-02T19:17:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/933587"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 12
 
 secured: "+E1mEQ0Z8Qn66jwv97CTZs2pIM2HdMat4lg0rWIAEvWO9DBfp3Qwjw+3A44P3h9L6b1qPglYNSj/hlKULHV4MH/yOi+kVO+Y2E+x60ZoN5QNtNvoHQ+6vG6BfnkeOG3JPkilWw4KbO0Ya2q8bN72E076TDyhATkUEAJACNShS30I7I+przfON/CyQuk06728iyx6IxtFjly0Aq/+pmsMUuyHN5+9Ic9ryvFRuZdXWMN3oQlPZ6ye4lNIxaTSQv/8KlewNfX9tj0sf3E/uzUiGxxpqHHiVfCi2SVqcXM67Lp3csYiU/DzYiFTCHJS61huZa4Wr5iEh2mXL/XZlhF0+wEywXMklsRPtNAA1t2iLeQ=;4RMdNJhBp39aU8qNaL4toA=="
 ---

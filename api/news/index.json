@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-07-a-robot-imitates-the-rolling-stonesand-other-small-business-tech-news-this-week.md",
+      "title": "A Robot Imitates The Rolling Stones…And Other Small Business Tech News This Week",
+      "excerpt": "1 —Boston Dynamics robots imitated the Rolling Stones performing ‘Start Me Up’. Boston Dynamics recently shared ... 81 percent of online retailers are increasing their AI budget to automate AP processes. The 2021 eCommerce Outlook Report from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2021/11/07/a-robot-imitates-the-rolling-stonesand-other-small-business-tech-news-this-week/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2021/11/07/a-robot-imitates-the-rolling-stonesand-other-small-business-tech-news-this-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6183b37137eb930a2bdf7dc6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2021/11/07/a-robot-imitates-the-rolling-stonesand-other-small-business-tech-news-this-week/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2021/11/07/a-robot-imitates-the-rolling-stonesand-other-small-business-tech-news-this-week/amp/",
+      "publishedDateTime": "2021-11-07T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-07-how-one-startup-is-shaking-up-the-consumer-trading-boom.md",
       "title": "How one startup is shaking up the consumer trading boom",
       "excerpt": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday?  Happy Saturday,",
@@ -216,7 +268,7 @@
       "originalUrl": "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -309,6 +361,57 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-how-ai-will-make-your-doctor-smarter.md",
+      "title": "How AI Will Make Your Doctor Smarter",
+      "excerpt": "From suicide prevention to infection tracking, the U.S. military is applying the latest technology to a host of medical challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
+      "originalUrl": "https://www.wsj.com/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-429385/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
+      "publishedDateTime": "2021-11-05T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -562,7 +665,7 @@
       "originalUrl": "https://www.wsj.com/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -666,7 +769,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1164,100 +1267,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-disruption-in-action-ai-accelerated.md",
-      "title": "Disruption In Action: AI Accelerated",
-      "excerpt": "Global spending on artificial intelligence systems has nearly tripled since 2019, and it's set to more than double again by the end of 2025, according to IDC. Hear from a pair of disruptors driving the accelerated adoption of AI's many promising applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106964175-5ED1-REQ-102121-DISRUPTIONINACTIONAIACCELERATED.jpg?v=1635776688",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T19:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-alphabet-creates-deepmind-offshoot-focused-on-using-ai-for-drug-discovery.md",
-      "title": "Alphabet creates DeepMind offshoot focused on using AI for drug discovery",
-      "excerpt": "Alphabet has created a new subsidiary called Isomorphic Labs that will focus on using AI processes to develop new drugs. An offshoot from Deepmind, another AI subsidiary of Alphabet, the idea for Isomorphic Labs came after Deepmind's AI system AlphaFold 2 solved a 50-year old protein folding challenge by predicting the 3D structure of a protein directly from its amino acid sequence to atomic-level accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/",
-      "originalUrl": "https://www.zdnet.com/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/",
-      "publishedDateTime": "2021-11-04T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

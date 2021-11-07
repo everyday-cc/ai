@@ -87,34 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Imarticus Learning partners with BIMTECH to launch PGDMs in FinTech, AI & Data Science"
-    excerpt: "Imarticus Learning, a professional education firm, and Birla Institute of Management Technology (BIMTECH), a B-school with a rich heritage, have launched Postgraduate Diploma in Management (PGDM) courses with specialisations in FinTech and AI & Data Science."
-    publishedDateTime: 2021-11-02T18:54:00Z
-    webUrl: "https://www.dailyexcelsior.com/imarticus-learning-partners-with-bimtech-to-launch-pgdms-in-fintech-ai-data-science/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 31
-    images:
-      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2021/10/ICC-t20-worldcup-india.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Benzinga Unveils Global Fintech Awards Finalists"
-    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will hold its 7th annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
-    publishedDateTime: 2021-11-02T19:56:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-financial-technology-27f14bf1b36d15696deac6d631c9100c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Financial Secretary Visited MioTech at 2021 Hong Kong FinTech Week"
     excerpt: "Pictured/ Financial Secretary of Hong Kong SAR, Paul Chan Making Opening Remarks at 2021 Hong Kong FinTech Week The main conference of 2021 Hong Kong FinTech Week starts today at the Hong Kong Convention & Exhibition Centre and online."
     publishedDateTime: 2021-11-04T06:23:00Z

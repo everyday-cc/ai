@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/garydrenik/2021/11/03/patients-dont-r
 webUrl: "https://www.forbes.com/sites/garydrenik/2021/11/03/patients-dont-realize-that-conversational-ai-is-transforming-healthcare--and-thats-why-its-working/"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 640
     height: 522
     isCached: true
-
-related:
-  - title: "Global AI-Powered Healthcare Solutions"
-    excerpt: "Babylon - Tech giant Microsoft has announced a new partnership with Babylon Cloud Services—a company specializing in digital self-care. Together the"
-    publishedDateTime: 2021-11-02T19:21:00Z
-    webUrl: "https://www.trendhunter.com/trends/babylon"
-    ampWebUrl: "https://www.trendhunter.com/amp/trends/babylon"
-    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/babylon"
-    type: article
-    provider:
-      name: TrendHunter
-      domain: trendhunter.com
-    quality: 76
-    images:
-      - url: "https://cdn.trendhunterstatic.com/thumbs/babylon.jpeg"
-        width: 800
-        height: 552
-        isCached: true
 
 secured: "nFkozUsxVGeEws4pbBedJHPrexLb1Gh+2qMLtI19J8jbG1jVoQv/tlLeNygRbu+DUFNP9fdbWvu/b6QyOk7Dxj42TNbk9KnrgzHwBTJMjbHQYXw3BvyEqXe4eVh58K4PzX+mave6t6s7CaA2n4PFSSmse1V+N+jsWOWLkxLQWMQDIXiPR4g9kyeZBGEf7g8Gr4x43kOFD+fkWjo4frRkftxfvX8sfPHEIIfQ2KDOb/4WMX2YQLDS3IG5fbqvpq8qYnS0jbzRk2cHekbq875ugENVWgkp9KZjlbdq2F+XqDuNv/XKIxYmzHlKaAJsarM6wMxaWcM1epcIwc15TXqZQ2+b2sKpHmDlQuPeDGhPRnq/bgW55g4E7lwz3UcTYOUOl1SkwKYNz8sn6huxJVMnyZ4+b38ZeE3SFzMsmJZpsoPZiEx7rxg5tX9IlPALNg/k1aEKJKPA4ZbKQtcCPM5Oar7ZWuaZHWY9fpo9ClKoAQJmPBFTacNSCBNLHSHgcocIUsXnl2N+Y8Ges3MawKNBgw==;CjzbdfgtCjYxsqtrMUc4RA=="
 ---

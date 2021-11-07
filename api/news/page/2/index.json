@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-05-disruption-in-action-ai-accelerated.md",
+      "title": "Disruption In Action: AI Accelerated",
+      "excerpt": "Global spending on artificial intelligence systems has nearly tripled since 2019, and it's set to more than double again by the end of 2025, according to IDC. Hear from a pair of disruptors driving the accelerated adoption of AI's many promising applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106964175-5ED1-REQ-102121-DISRUPTIONINACTIONAIACCELERATED.jpg?v=1635776688",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T19:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-alphabet-creates-deepmind-offshoot-focused-on-using-ai-for-drug-discovery.md",
+      "title": "Alphabet creates DeepMind offshoot focused on using AI for drug discovery",
+      "excerpt": "Alphabet has created a new subsidiary called Isomorphic Labs that will focus on using AI processes to develop new drugs. An offshoot from Deepmind, another AI subsidiary of Alphabet, the idea for Isomorphic Labs came after Deepmind's AI system AlphaFold 2 solved a 50-year old protein folding challenge by predicting the 3D structure of a protein directly from its amino acid sequence to atomic-level accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/",
+      "originalUrl": "https://www.zdnet.com/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/",
+      "publishedDateTime": "2021-11-04T17:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage.md",
       "title": "SUNY Polytechnic leaders explain causes, solutions behind chip shortage",
       "excerpt": "Computer chips are a hard find in pandemic times, but it’s not the materials in short supply — it’s the manpower. “Silicon is one of the most abundant elements",
@@ -588,6 +682,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-04-better-ai-stock-nvidia-or-palantir.md",
+      "title": "Better AI Stock: Nvidia or Palantir",
+      "excerpt": "Nvidia (NASDAQ:NVDA) and Palantir operate in different sectors, but both tech companies are profiting from the secular expansion of the artificial intelligence (AI) market. Nvidia",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
+      "originalUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F649882%2Fgettyimages-664246660.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
+      "publishedDateTime": "2021-11-04T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-cdpq-leads-us70-million-financing-round-in-sama-an-ai-training-data-platform.md",
       "title": "CDPQ leads US$70 million financing round in Sama, an AI training data platform",
       "excerpt": "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training to power AI applications and to develop the first end-to-end AI platform to manage the complete AI lifecycle The company has approximately 40 employees in Montreal where it intends to strengthen its presence with a research and product development hub MONTRÉAL,",
@@ -1019,7 +1165,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/03/tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1059,161 +1205,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-how-adobe-uses-deep-learning-to-improve-its-products.md",
-      "title": "How Adobe uses deep learning to improve its products",
-      "excerpt": "Adobe is leveraging deep learning to improve its apps and solidify its position in the video and image editing market.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/",
-      "originalUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/amp/",
-      "publishedDateTime": "2021-11-03T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025.md",
-      "title": "Cloud datacenters anticipated to become largely robot-dependent by 2025",
-      "excerpt": "In a strong endorsement to the value of artificial intelligence and machine learning, research firm Gartner predicts that half of cloud datacenters will be leveraging advanced robots by 2025. Gartner believes these AI-centered deployments will ramp up the operating efficiency of datacenters by a margin of 30%.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/",
-      "originalUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/human_robot_collaboration-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/amp/",
-      "publishedDateTime": "2021-11-03T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-eric-schmidt-ai-is-not-ready-to-make-profound-decisions.md",
-      "title": "Eric Schmidt: AI is not ready to make profound decisions",
-      "excerpt": "Former Google CEO Eric Schmidt says reliance on artificial intelligence \"can create incredibly dangerous, incredibly destabilizing national security scenarios.\" MIT Dean Daniel Huttenlocher, who co-authored a new book on AI with Schmidt and Henry Kissinger,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness",
-      "originalUrl": "https://www.cnn.com/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/211103115423-eric-schmidt-daniel-huttenlocher-artifical-intelligence-ethics-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness",
-      "publishedDateTime": "2021-11-03T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

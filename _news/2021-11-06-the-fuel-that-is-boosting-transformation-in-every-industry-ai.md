@@ -144,6 +144,17 @@ related:
         width: 560
         height: 700
         isCached: true
+  - title: "Rescuing humanity in the age of automation, artificial intelligence and Big Tech"
+    excerpt: "Roose counters the optimistic appraisals of artificial intelligence (AI) made by many technology gurus by identifying “four big claims” that AI optimists use in arguing that it will create many more positive than negative effects. One of them contends ..."
+    publishedDateTime: 2021-11-07T11:05:00Z
+    webUrl: "https://www.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
+    ampWebUrl: "https://amp.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
+    type: article
+    provider:
+      name: Idaho Statesman
+      domain: idahostatesman.com
+    quality: 32
   - title: "From The Terminator To Astro: The Changing Face of Artificial Intelligence Shaping Our World"
     excerpt: "If you were asked to say what technologies you think have had the biggest impact on shaping our world, what would your answers be? Some examples that would likely feature might include electricity,"
     publishedDateTime: 2021-11-03T05:15:00Z

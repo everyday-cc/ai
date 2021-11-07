@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-09-14-robots-step-into-the-covid-19-danger-zone.md",
+      "title": "Robots Step into the COVID-19 Danger Zone",
+      "excerpt": "mind-numbing and boring jobs. Now they can do jobs in plants while humans are sheltering.” Bogart began by creating robots for movie sets. “We started in the 80s designing robots for motion pictures, mostly motion control. We moved movie cameras and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/robots-step-covid-19-danger-zone",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/robots-step-covid-19-danger-zone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/OB7%20opening%20machine%20door%20%28002%29.jpg",
+          "width": 3264,
+          "height": 1836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-robot-rock-a-history-of-vocoders.md",
       "title": "Robot Rock: A History Of Vocoders",
       "excerpt": "Over the last 80 years we've seen vocoders developed and used on countless tracks and songs, and they still hold their charm today. At a time when robots, automation and A.I. are increasingly integrated into our world,",

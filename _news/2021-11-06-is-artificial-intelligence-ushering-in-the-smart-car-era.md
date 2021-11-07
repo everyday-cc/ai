@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ushering-sm
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ushering-smart-car-era-michael-spencer-"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,40 +27,6 @@ images:
     width: 960
     height: 720
     isCached: true
-
-related:
-  - title: "Meet the AI Powering Today’s Smartest Smartphones"
-    excerpt: "Artificial intelligence is increasingly becoming the differentiator that makes a new generation of smartphones truly clever. The ability of phones to generalize and determine what might happen next based on previous patterns and datasets—what’s known as machine learning—is,"
-    publishedDateTime: 2021-11-02T18:19:00Z
-    webUrl: "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/"
-    ampWebUrl: "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/613f8386924283bfff0bca68/master/pass/WIRED_Qualcomm_header%20gif%20rev.gif"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "How AI Will Make Your Doctor Smarter"
-    excerpt: "From suicide prevention to infection tracking, the U.S. military is applying the latest technology to a host of medical challenges."
-    publishedDateTime: 2021-11-05T17:31:00Z
-    webUrl: "https://www.wsj.com/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757"
-    ampWebUrl: "https://www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-429385/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "y+4YGpjzOllPvYV03HT1z9agE/164EEFDjW19/pH9DfpWj7caLD+QlrF1B/UV1VZ0BPZb7J2nxjBxCNoYPW8/S+nSw6K+xC5XbrxbIQKZO2UWV5QGCeuRy4ImQVK1zILS0hBscsXI+H3GqjHUVfsZgNS/KrSrGnCliJz0XnZ5o0HWq0FM1/cX/GVoEXHWn+Cb1Qrx/K6JGzYEkSUmz72EjI6Kd0BvH8NoGC3iwOEOb1w9bDwBDvSY9aa0e2KyoE5qA5ilf1Mn6CwY0puA4aJWJp/ZUkIpq9xmhNP9b/q9yyo5mKrzkvDOiCHTFdrAJ6LG9xng14YHMWR1h39TMxOEwk/P3LnBth7ChwYQe1l8ZK0gCZbOdJDr45tRDwoTQAEdjgW7Xq9rhPMFbmG7s/JCno1s60ITe1cP8nHteEy2i+hSZ7ywi2e3OsPQIE4JamL389t2gaTfWPVBreAir3HYRW/A/7GgPJC0DHKX2KOR4awGXeb7buPJilvDnJ8orOibXr3pT/sgTzEStKKrgmLHQ==;f6anklV5SdadAD3bOE8OPg=="
 ---

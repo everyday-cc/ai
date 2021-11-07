@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-07-a-robot-imitates-the-rolling-stonesand-other-small-business-tech-news-this-week.md",
+      "title": "A Robot Imitates The Rolling Stones…And Other Small Business Tech News This Week",
+      "excerpt": "1 —Boston Dynamics robots imitated the Rolling Stones performing ‘Start Me Up’. Boston Dynamics recently shared ... 81 percent of online retailers are increasing their AI budget to automate AP processes. The 2021 eCommerce Outlook Report from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2021/11/07/a-robot-imitates-the-rolling-stonesand-other-small-business-tech-news-this-week/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2021/11/07/a-robot-imitates-the-rolling-stonesand-other-small-business-tech-news-this-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6183b37137eb930a2bdf7dc6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2021/11/07/a-robot-imitates-the-rolling-stonesand-other-small-business-tech-news-this-week/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2021/11/07/a-robot-imitates-the-rolling-stonesand-other-small-business-tech-news-this-week/amp/",
+      "publishedDateTime": "2021-11-07T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-streaming-the-best-films-about-artificial-intelligence-and-robots.md",
       "title": "Streaming: the best films about artificial intelligence and robots",
       "excerpt": "A century of sci-fi films that chart our changing attitudes to AI – from Fritz Lang to Finch",
@@ -880,19 +932,19 @@
     {
       "path": "_news/2021-11-02-iron-ox-launches-grover-an-all-new-autonomous-mobile-robot.md",
       "title": "Iron Ox Launches Grover, an All-New Autonomous Mobile Robot",
-      "excerpt": "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile",
+      "excerpt": "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile support robot named Grover. Grover is not your average farmer.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iron-ox-launches-grover-an-all-new-autonomous-mobile-robot/article_71adf2cd-8d3c-53ad-8464-7165671fb2b0.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iron-ox-launches-grover-an-all-new-autonomous-mobile-robot/article_71adf2cd-8d3c-53ad-8464-7165671fb2b0.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-business-environment-robotics-3def91b570ac36de404ae9d96a9c4645",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-business-environment-robotics-3def91b570ac36de404ae9d96a9c4645",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/d6/bd67b53c-8b04-588f-aa35-169a035b1981/61810c7528ccd.image.jpg?resize=800%2C533",
-          "width": 800,
-          "height": 533,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -902,11 +954,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T03:00:00-07:00",
+      "publishedDateTime": "2021-11-02T03:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1370,40 +1422,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-abb-invests-in-building-technology-startup-brainbox-ai.md",
-      "title": "ABB Invests in Building Technology Startup BrainBox AI",
-      "excerpt": "ABB Technology Ventures leads BrainBox AI’s Series A investment round. Launched in 2019, BrainBox AI has pioneered the use of artificial intelligence to reduce energy costs and carbon emissions from Heating,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/176528/",
-      "originalUrl": "https://www.newswiretoday.com/news/176528/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
