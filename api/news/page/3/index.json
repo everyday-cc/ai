@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-04-secureauth-acquires-acceptto-to-deliver-ai-driven-passwordless-authentication.md",
+      "title": "SecureAuth acquires Acceptto to deliver AI-driven passwordless authentication",
+      "excerpt": "Identity access management provider SecureAuth has announced the acquisition of continuous passwordless authentication platform Acceptto.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/03/secureauth-acquires-acceptto-to-deliver-ai-driven-passwordless-authentication/",
+      "originalUrl": "https://venturebeat.com/2021/11/03/secureauth-acquires-acceptto-to-deliver-ai-driven-passwordless-authentication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/LOGIN-FRAUD.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/03/secureauth-acquires-acceptto-to-deliver-ai-driven-passwordless-authentication/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/secureauth-acquires-acceptto-to-deliver-ai-driven-passwordless-authentication/amp/",
+      "publishedDateTime": "2021-11-03T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has.md",
       "title": "Scale AI acquires SiaSearch to give companies the same data engine superpowers that Tesla has",
       "excerpt": "Scale AI, the five-year-old visual data labeling company, has acquired a small startup that could help expand its reach in Europe and speed up development of its newest product. Financial terms were not disclosed.",
@@ -218,7 +269,7 @@
       "originalUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -367,7 +418,7 @@
       "originalUrl": "https://techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1140,50 +1191,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-aws-financial-services-for-payment-industry.md",
-      "title": "AWS Financial Services for Payment Industry",
-      "excerpt": "The payment industry is rapidly transforming and growing due to the influx of new methods, acquisitions, mergers and technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986",
-      "originalUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2021/10/AWS-Financial-Services-for-Payment-Industry.png",
-          "width": 600,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986/amp",
-      "publishedDateTime": "2021-11-02T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

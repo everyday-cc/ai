@@ -9,7 +9,7 @@ ampWebUrl: "https://techbooky.com/robots-hit-the-streets-with-rising-food-delive
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/?amp=1"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

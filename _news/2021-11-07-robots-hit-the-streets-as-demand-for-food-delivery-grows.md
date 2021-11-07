@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Robots hit the streets as demand for food delivery grows"
-excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
-publishedDateTime: 2021-11-03T13:12:00Z
-originalUrl: "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php"
-webUrl: "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php"
-ampWebUrl: "https://www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
-cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
+publishedDateTime: 2021-11-06T22:00:00Z
+originalUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.html"
+webUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.html"
+ampWebUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.amp.html"
+cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.amp.html"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: Niagara Gazette
+  domain: niagara-gazette.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/b/01/b015bac8-0f3d-5a50-9f7e-7e911196eb67/61835e66e5071.image.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -76,20 +76,20 @@ related:
         height: 720
         isCached: true
   - title: "Robots hit the streets as demand for food delivery grows"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
-    publishedDateTime: 2021-11-06T22:00:00Z
-    webUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.html"
-    ampWebUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.amp.html"
-    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.amp.html"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-03T13:12:00Z
+    webUrl: "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    ampWebUrl: "https://www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
     type: article
     provider:
-      name: Niagara Gazette
-      domain: niagara-gazette.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 59
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/b/01/b015bac8-0f3d-5a50-9f7e-7e911196eb67/61835e66e5071.image.jpg"
-        width: 800
-        height: 533
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Invasion of the Food Delivery Robots? Here’s What the Future Holds for the Latest Tech"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots -- knee-high and able to hold around four large pizzas -- are now navigating college campuses and even some city sidewalks in the U."
@@ -163,6 +163,6 @@ related:
         height: 250
         isCached: true
 
-secured: "4sHF08Gl9H0TNONk5IQ+ZY1XoIuIqiwZPK07m+QrvxqZHlZrPCpuS+ASnCrngsS8amCf7vL82hTo+JyWH7hpiaY+CJNXXEbRumc9dMB26artYSjlTjv/JFos1L76eTFV8IisuwLUf7rR6EwpY/6347zX6bBg1cfD0/l/4fhFVblCq1PZgIhrfdQmJ/wZeeboXbwyCGdzZZXOB/PTDGVWhGGT5C9YywILuZUZAb05zE1JsmYoNG15J+luergH16aeQP44/gxqFNITctcggGuOorzJ03gOz1YhTNaIknKzeDk5ue8wqgNf7M2YCFmGN/F0PxtOb1zYE/b/GGfs0c4tBfWQiZbQLetDHqGL6gUd1Tc=;5YpyCtFZ960vx1Ypjri61Q=="
+secured: "mybWtRKNye+ev3l8TPtMZ2FArnulO4SYB9vBJMeimfLbA3zpZV4PP8svwZoSKYeSbG2GHNrBBLWQZrssVGcpglrjyh9Siq3JCDFnaOnu7ulf6rK6fvumvxWzA/OutfWUjML2xF0gJ/vFq/yK5zfKxRnnVZKs3IY2X7w4SEbvi+kSvZTwoZ9hzSzzXbJDixe9ezOahLyXBjifz/wyxUM9vFAQNrPH1hFSEOtpsDinrMy2386pThB1UGL7+cjPsNYh3TaE9wltGJJ5ap0J/OT8IVx+nOQIY5wo83EbgGhdxJtHwNCkJ9peCa0ymr8z0cpNApXxzyRuEwo1gHVqJqAbqE1nounAkX7bG0XIj38EJoQ=;1CYjX1wbDkOif3U2is/CLA=="
 ---
 

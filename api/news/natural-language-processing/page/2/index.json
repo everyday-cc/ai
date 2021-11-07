@@ -4,19 +4,19 @@
     {
       "path": "_news/2021-10-21-how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience.md",
       "title": "How USAA is Utilizing Natural Language Processing to Improve the Member Experience",
-      "excerpt": "SAN ANTONIO, Oct. 21, 2021 /PRNewswire/ -- USAA is using Natural Language Processing (NLP) to improve the member experience and facilitate faster decision-making. NLP is a subfield of Artificial ...",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SAN ANTONIO, Oct. 21, 2021 /PRNewswire/ -- USAA is using Natural Language Processing (NLP ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-301405849.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-301405849.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-1030886243",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-1030886243",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/692533/USAA_Logo.jpg?p=facebook",
-          "width": 2445,
-          "height": 1279,
+          "url": "https://mma.prnewswire.com/media/692533/USAA_Logo.jpg",
+          "width": 364,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T07:14:00-07:00",
+      "publishedDateTime": "2021-10-21T07:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

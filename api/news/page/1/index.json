@@ -216,7 +216,7 @@
       "originalUrl": "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -602,6 +602,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-google-parent-alphabet-has-set-up-a-new-lab-that-will-use-ai-to-try-to-discover-new-drugs.md",
+      "title": "Google-parent Alphabet has set up a new lab that will use A.I. to try to discover new drugs",
+      "excerpt": "The company will build on research carried out by London artificial intelligence lab DeepMind, which Google acquired in 2014. Demis Hassabis, the CEO and co-founder of DeepMind, is the founder and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html",
+      "originalUrl": "https://www.cnbc.com/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106971248-1636102203025-gettyimages-1155768576-AFP_1IS4CD.jpeg?v=1636102259",
+          "width": 4488,
+          "height": 2992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html",
+      "publishedDateTime": "2021-11-05T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -1206,49 +1258,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage.md",
-      "title": "SUNY Polytechnic leaders explain causes, solutions behind chip shortage",
-      "excerpt": "Computer chips are a hard find in pandemic times, but it’s not the materials in short supply — it’s the manpower. “Silicon is one of the most abundant elements",
-      "sourceUrl": null,
-      "webUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/",
-      "originalUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news10.com/wp-content/uploads/sites/64/2021/11/SUNY-POLY-STILL.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/amp/",
-      "publishedDateTime": "2021-11-04T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTEN",
-        "domain": "news10.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

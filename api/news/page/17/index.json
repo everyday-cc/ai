@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-10-22-digital-summit-replay-how-to-bring-your-datasets-to-life.md",
+      "title": "Digital Summit replay: how to bring your datasets to life",
+      "excerpt": "director of AI and data science, Shutterstock; Will Lowe, chief data officer, Engine UK; Sorcha Gilroy, data science team lead, Peak; and David Olesnevich, head of product, IBM Watson Advertising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrum.com/news/2021/10/22/digital-summit-replay-how-bring-your-datasets-life",
+      "originalUrl": "https://www.thedrum.com/news/2021/10/22/digital-summit-replay-how-bring-your-datasets-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-669632-shutterstock_post-promo--default--1080.png",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms.md",
       "title": "Leopard Imaging Launches Hawk 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms",
       "excerpt": "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced its new 3D Depth Hawk camera supporting the NVIDIA Jetson edge AI and Isaac robotics platforms.",
@@ -377,19 +420,19 @@
     {
       "path": "_news/2021-10-21-how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience.md",
       "title": "How USAA is Utilizing Natural Language Processing to Improve the Member Experience",
-      "excerpt": "SAN ANTONIO, Oct. 21, 2021 /PRNewswire/ -- USAA is using Natural Language Processing (NLP) to improve the member experience and facilitate faster decision-making. NLP is a subfield of Artificial ...",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SAN ANTONIO, Oct. 21, 2021 /PRNewswire/ -- USAA is using Natural Language Processing (NLP ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-301405849.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-301405849.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-1030886243",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-1030886243",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/692533/USAA_Logo.jpg?p=facebook",
-          "width": 2445,
-          "height": 1279,
+          "url": "https://mma.prnewswire.com/media/692533/USAA_Logo.jpg",
+          "width": 364,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -399,12 +442,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T07:14:00-07:00",
+      "publishedDateTime": "2021-10-21T07:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1042,57 +1094,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-developers-intels-automated-debugging-tool-controlflag-is-now-open-source.md",
-      "title": "Developers: Intel's automated debugging tool ControlFlag is now open source",
-      "excerpt": "ControlFlag can automatically detect anomalies in software code - and it could spare developers hours of tedious work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
-      "originalUrl": "https://www.zdnet.com/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0dff8773595dd70445ad33b38a3f2b92dbb2f855/2021/10/20/3bc47e85-fae3-40ca-a9ec-7d8ef633a9e4/gettyimages-1320577198.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
-      "publishedDateTime": "2021-10-20T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

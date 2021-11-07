@@ -75,37 +75,21 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Little Robots Like These Are Fulfilling More Food Orders as Demand for Delivery Grows"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
-    publishedDateTime: 2021-11-02T05:14:00Z
-    webUrl: "https://www.nbcphiladelphia.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3026856/"
-    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3026856/?amp"
-    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3026856/?amp"
+  - title: "Robots hit the streets as demand for food delivery grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
+    publishedDateTime: 2021-11-06T22:00:00Z
+    webUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.html"
+    ampWebUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.amp.html"
+    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.amp.html"
     type: article
     provider:
-      name: NBC 10 Philadelphia
-      domain: nbcphiladelphia.com
-    quality: 52
+      name: Niagara Gazette
+      domain: niagara-gazette.com
+    quality: 59
     images:
-      - url: "https://media.nbcphiladelphia.com/2021/11/GettyImages-1230959993-e1635829583506.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Little Robots Like This Are Fulfilling More Food Orders as Demand for Delivery Grows"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
-    publishedDateTime: 2021-11-02T05:16:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3369974/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3369974/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/little-robots-like-these-fulfilling-more-orders-demand-food-delivery-grows/3369974/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 52
-    images:
-      - url: "https://media.nbcnewyork.com/2021/11/GettyImages-1230959993-e1635829583506.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/b/01/b015bac8-0f3d-5a50-9f7e-7e911196eb67/61835e66e5071.image.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Invasion of the Food Delivery Robots? Here’s What the Future Holds for the Latest Tech"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots -- knee-high and able to hold around four large pizzas -- are now navigating college campuses and even some city sidewalks in the U."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infr
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html"
 type: article
 quality: 93
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     width: 700
     height: 467
     isCached: true
+
+related:
+  - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
+    excerpt: "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ..."
+    publishedDateTime: 2021-11-03T21:04:00Z
+    webUrl: "https://www.reseller.co.nz/article/692775/oracle-bolsters-cloud-infrastructure-suite-ai-tools/?fpid=1"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/oracle-cloud-on-building-100730618-orig_1.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
 
 secured: "OXnw4rkiAZHrVmO//xSsoG15xLensBTSpSZ5lzDKdo1SfYFeJZ9g8ZSWXB/FH5U1lq6cer3jn5tymFp17rAPTotI2Yv2MPaEgeird4o37CYdNQ/Pn9Hxfq5bmonWL/U5ZVxHYl1baAwYPseCLKOl/kFBABI4PpwEv0iAPa5PX0NNrqv1EJWBEYYJNCVa0wO8n129qqjkO90qFb59rdgtfeqcw7fBH7e1yCo5n4/ls2nlo2GLya0pVbQH44N3TMPbg+ll4mn5EvctrwPd5DgLYISsQU1Oyfbm0Zft+3xvCOP/OqpBDgxPpLvoaLUU6ViXqe6grkBrqt8ELzmYNqDWqNQVpwQcS9WGb5IlcqPG/bMFn2tSQnWc7mb++z5iE8wBwZy03ol04O3of1iOX8lwKNkGESbjjF5jGoW8aB3u8HMTCdKUsVO53Y5iaFbuGCDFhNkXP9Tfd34Ifc1dvFS3vGmNDE4zX/Loll+UbKhQK1kc3dqwHNO0YgWinl4yACh/2JMFutFfZcz9gKYSpDb9cg==;KAJCU4soFRHa8VuJvNdm+g=="
 ---

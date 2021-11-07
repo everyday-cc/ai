@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Of Global Execs Using AI, Over 75% Report AI Improves Team Culture"
-    excerpt: "More than 75% of managers who reported that their artificial intelligence implementations improved their team's decision-making and efficiency also saw improvements in collective learning (87%), team morale (79%),"
-    publishedDateTime: 2021-11-02T05:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/of-global-execs-using-ai-over-75-report-ai-improves-team-culture-1030923643"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/1675608/MIT_Sloan_Management_Review_and_BCG.jpg"
-        width: 400
-        height: 231
-        isCached: true
   - title: "How To Successfully Ride The Next Wave Of AI"
     excerpt: "When it came to AI innovation, there were many sets of big waves to ride this year, like the advancements in computer vision, edge AI, and AI-driven software coding."
     publishedDateTime: 2021-11-03T20:00:00Z

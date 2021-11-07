@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-05-google-parent-alphabet-has-set-up-a-new-lab-that-will-use-ai-to-try-to-discover-new-drugs.md",
+      "title": "Google-parent Alphabet has set up a new lab that will use A.I. to try to discover new drugs",
+      "excerpt": "The company will build on research carried out by London artificial intelligence lab DeepMind, which Google acquired in 2014. Demis Hassabis, the CEO and co-founder of DeepMind, is the founder and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html",
+      "originalUrl": "https://www.cnbc.com/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106971248-1636102203025-gettyimages-1155768576-AFP_1IS4CD.jpeg?v=1636102259",
+          "width": 4488,
+          "height": 2992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html",
+      "publishedDateTime": "2021-11-05T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-alphabet-creates-deepmind-offshoot-focused-on-using-ai-for-drug-discovery.md",
       "title": "Alphabet creates DeepMind offshoot focused on using AI for drug discovery",
       "excerpt": "Alphabet has created a new subsidiary called Isomorphic Labs that will focus on using AI processes to develop new drugs. An offshoot from Deepmind, another AI subsidiary of Alphabet, the idea for Isomorphic Labs came after Deepmind's AI system AlphaFold 2 solved a 50-year old protein folding challenge by predicting the 3D structure of a protein directly from its amino acid sequence to atomic-level accuracy.",
@@ -1377,59 +1429,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-alphafold-is-the-most-important-achievement-in-aiever.md",
-      "title": "AlphaFold Is The Most Important Achievement In AI—Ever",
-      "excerpt": "DeepMind's AlphaFold represents the first time a significant scientific problem has been solved by ... [+] AI. It can be difficult to distinguish between substance and hype in the field of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615740b33540fa024d235c55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1399%26cropY1%3D42%26cropY2%3D829",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/amp/",
-      "publishedDateTime": "2021-10-03T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
       ]
     }
   ],
