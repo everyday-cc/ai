@@ -111,17 +111,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Clearview AI slammed for breaching Australians' privacy on numerous fronts"
-    excerpt: "Despite uncovering Clearview AI's intrusive practices, Australia's Information Commissioner conceded that the number of Australians who have had their biometric information scraped by the company was unknown."
-    publishedDateTime: 2021-11-03T01:38:00Z
-    webUrl: "https://www.zdnet.com/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 65
   - title: "Australia says U.S. facial recognition software firm Clearview breached privacy law"
     excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data collected in the country after an investigation found it breached privacy laws."
     publishedDateTime: 2021-11-04T02:53:00Z
@@ -135,6 +124,20 @@ related:
       - url: "https://www.reuters.com/resizer/jFIMB9sO2Pgh02m6HYX9le7rWKc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5OK2AH5UFVM2DKLI44GFGOABOA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Facial Recognition company, Clearview AI asked to ‘clear’ its stolen data"
+    excerpt: "Following a BuzzFeed News disquisition, Australia’s public sequestration controller has ordered disputed facial recognition company Clearview AI to exclude all filmland and facial templates belonging to Australian residers."
+    publishedDateTime: 2021-11-07T17:45:00Z
+    webUrl: "https://techstory.in/facial-recognition-company-clearview-ai-asked-to-clear-its-stolen-data/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 53
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/11/clearview-ai-logo.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ZLsyrIThJO1GXYZO8RkfgcN9zhaQExCdEx2Jw7QjqEfVuFbz14dAOn+HEIYhCDI/CDQVP13OFYEwarVjchn3n4/B2HRuuyoJeVcHyEvZUmOvMtGn5AcQuLp3YYmIoAzqjJj39ZvchxbGK09rZ8r+BfZfM72gidDbTkn73r6vmu5n2B9apswxZJJIYDFPNADdE0SWZ8ED5+QRUfYhRpkZtJqiOyhWGZpo6bnjSDEpnxDRujy8/TNdtpc/zbkBt5atzo7Yv+IwSj8Bw8vq/IwZc0KDpYFmqSO9Z2OL3X1tJh/+l4aSMejMOtB5fkBb+5mfbTczsOFzjkYQOyGCtKWEeki4v71D0mOyrlsE303yylpFILJ89S3+Skw08dSgMhYzOSz1V1zYgkMSBlBrq8cOI9NF1m8TYw+ss/7YDRyUtF9KylzfNuque8M8UfxOoh4H364mTSaMTiuqTAo3R8OmltHG/fvyH7wutb+shJ3EOc+2vQxKMJ32h+rDHnIthLB07wV/T/YDU577l4YrAaVwvw==;fdKHKOeLEXNZvAcN4jpK1A=="

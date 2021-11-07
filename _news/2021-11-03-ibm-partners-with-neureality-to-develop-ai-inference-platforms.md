@@ -24,17 +24,6 @@ images:
     height: 701
     isCached: true
 
-related:
-  - title: "IBM and NeuReality team up to build AI inference platform"
-    excerpt: "IBM and NeuReality, an Israeli AI systems and semiconductor company, have signed an agreement to develop the next generation of high-performance AI inference platforms. These next generation platform will be designed to deliver disruptive cost and power consumption improvements for deep learning use cases."
-    publishedDateTime: 2021-11-03T00:09:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/ibm-and-neureality-team-up-to-build-ai-inference-platform/241818/"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 19
-
 secured: "zktLvaduB7jmbXG+gFzEFHVLComXQNxyjReh3zEM6Ct+9Qz+a9Ru2DTpFytpBNmEQuOc3lLNQ9Lmg0YL/B5G/whXZnIgSve4FHg6scNsq9eccSgMVjfwDuVe3cbbhm+r8K8n+WuRaEyKMZIi5S2beZ2W5tyKEVpjbgDvDfhvSrngENWkzqFtgC1xLbxrxLfe+lRGQgAzjwf+JDhEx/Dg3nH6E0Jo925TSWcajgqoRaY5Zj5pxeGF6Zmwk1dT/iQRYGT1b1LMS5ikPHBh/j4+FxwY7YzE5YQiV+uJ/xM8vteNJ7DQhONGuLV0eVDkDX+yQxx4ZstTCVprbGxXotF8AuSuOKKxnJwM4ik0DmobrwlJ83iZmofp6iSq+yG5fcyrLLsu74zE2C8pkaAJ3CUtMaE++xpHkDXK1Uo8I40rhSKu7MkyRqO8a0igF/TgISUuMf8AjOsITxdlAlvxHPgFhzB1ZfOOW3A7uA9gnOK6J3d7OXWuG3dd45/V2/qH0LpEDKcOHNeHD4AE4jY5ylEYCw==;GR8edM5FBpmbm1EoL+9bSw=="
 ---
 

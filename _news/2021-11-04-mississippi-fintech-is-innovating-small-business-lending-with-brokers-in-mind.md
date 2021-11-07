@@ -73,6 +73,22 @@ related:
         width: 626
         height: 352
         isCached: true
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "According to the law, activities such as collection, processing, and trading of personal information will be strictly monitored,"
+    publishedDateTime: 2021-11-07T17:38:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/182637-china-weiyangx-fintech-review-221/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182637-china-weiyangx-fintech-review-221/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182637-china-weiyangx-fintech-review-221/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Beijing-China-2.jpeg"
+        width: 1280
+        height: 1277
+        isCached: true
   - title: "How the Bank of England Is Embracing Fintech Innovation"
     excerpt: "During her keynote address at the FinTech & InsurTech Live event, Tangy Morgan, an independent BoE advisor, discussed how the central bank's innovations"
     publishedDateTime: 2021-11-07T09:17:00Z

@@ -73,6 +73,22 @@ related:
         width: 626
         height: 352
         isCached: true
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "According to the law, activities such as collection, processing, and trading of personal information will be strictly monitored,"
+    publishedDateTime: 2021-11-07T17:38:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/182637-china-weiyangx-fintech-review-221/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182637-china-weiyangx-fintech-review-221/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182637-china-weiyangx-fintech-review-221/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Beijing-China-2.jpeg"
+        width: 1280
+        height: 1277
+        isCached: true
   - title: "17 Fintech Trends You Should Know About: The Ultimate Guide"
     excerpt: "The future of fintech looks bright, with AI, robotic process automation, smart contracts, DeFi, and virtual reality all on the rise"
     publishedDateTime: 2021-11-03T09:16:00Z

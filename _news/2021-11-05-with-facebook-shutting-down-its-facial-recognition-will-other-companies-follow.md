@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta says Facebook face recognition system will be shut down"
-    excerpt: "Social media behemoth Meta, formerly known as Facebook, has announced that it will shut down its face recognition system and delete more than a billion individual facial recognition templates. However,"
-    publishedDateTime: 2021-11-03T00:22:00Z
-    webUrl: "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/"
-    ampWebUrl: "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/"
-    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 159
-    images:
-      - url: "https://about.fb.com/wp-content/uploads/2021/11/NRP-Update-On-Face-Recognition-Technology_Thumbnail.jpg?w=1200"
-        width: 1200
-        height: 899
-        isCached: true
   - title: "Facebook is backing away from facial recognition. Meta isn’t."
     excerpt: "Facebook says it will stop using facial recognition for photo-tagging. In a Monday blog post, Meta, the social network’s new parent company, announced that the platform will delete the facial templates of more than a billion people and shut off its facial recognition software,"
     publishedDateTime: 2021-11-03T18:20:00Z
@@ -104,22 +88,6 @@ related:
       - url: "https://icdn.digitaltrends.com/image/digitaltrends/mark-zuckerberg-addresses-f8-facebook-developer-conference-2.jpg"
         width: 2000
         height: 1369
-        isCached: true
-  - title: "Don’t Go Cheering Facebook for Killing Its Face Recognition Database Just Yet"
-    excerpt: "The move comes more than a decade after Facebook first rolled out face-detecting tech onto its social network."
-    publishedDateTime: 2021-11-03T00:55:00Z
-    webUrl: "https://gizmodo.com/don-t-go-cheering-facebook-for-killing-its-face-recogni-1847983584"
-    ampWebUrl: "https://gizmodo.com/don-t-go-cheering-facebook-for-killing-its-face-recogni-1847983584/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/don-t-go-cheering-facebook-for-killing-its-face-recogni-1847983584/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 86
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fb3874feb2f8cf22c95353bb3573573f.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Meta’s face recognition AI may yet metastasize"
     excerpt: "Facebook said it would drop this tool and delete a billion-plus face templates, but it looks integral to its parent company’s metaverse ambitions. This makes privacy regulation a must"
@@ -286,6 +254,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Meta to continue use of facial recognition technology"
+    excerpt: "Facebook this week announced that it will no longer deploy facial recognition technologies on its platform, but the social network's parent company, Meta, said that the commitment does not apply to it"
+    publishedDateTime: 2021-11-04T02:10:00Z
+    webUrl: "https://appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology"
+    ampWebUrl: "https://appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 59
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/45466-88475-211103-Meta-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Why is Facebook ditching face recognition and will it delete my data?"
     excerpt: "Users of the social network will have their face data deleted, Facebook's parent company Meta has announced, but it is less clear what will happen with the AI algorithms trained on that data"
     publishedDateTime: 2021-11-04T12:02:00Z
@@ -380,22 +364,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Facebook to shut down face-recognition system"
-    excerpt: "The setting’s removal will mean deleting more than a billion people’s individual facial recognition templates, a company official says."
-    publishedDateTime: 2021-11-03T00:07:00Z
-    webUrl: "https://www.mercurynews.com/2021/11/02/facebook-to-shut-down-face-recognition-system/"
-    ampWebUrl: "https://www.mercurynews.com/2021/11/02/facebook-to-shut-down-face-recognition-system/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/02/facebook-to-shut-down-face-recognition-system/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 44
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-acebook-Giphy_87173674.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Facebook announces it's purging 1 billion faceprints from its system"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
     publishedDateTime: 2021-11-03T22:39:00Z
@@ -427,22 +395,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/22/50/01/21659713/3/ratio3x2_400.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "New face-recognition attendance system at KIOCL pellet plant"
-    excerpt: "Adapting to new technology, KIOCL on Saturday formally launched new face-recognition attendance system at its pellet plant. The 600-odd employees hitherto used to punch in and punch out. KIOCL Chairman and Managing Director T."
-    publishedDateTime: 2021-11-06T19:34:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Mangalore/new-face-recognition-attendance-system-at-kiocl-pellet-plant/article37362947.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://www.thehindu.com/news/cities/Mangalore/rg0vwh/article37362945.ece/ALTERNATES/LANDSCAPE_615/7bgkateel"
-        width: 615
-        height: 384
         isCached: true
   - title: "Inside Facebook’s decision to eliminate facial recognition — for now"
     excerpt: "Facebook’s facial recognition decision was in the works for months, long before the current whistleblower scandal."
@@ -515,20 +467,6 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/11/sjm-acebook-Giphy_87173674.jpg?w=1024&#038;h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Facebook is ending its use of facial recognition, deleting data on more than a billion people"
-    excerpt: "Facebook said Tuesday it will end its use of facial recognition software and delete facial data on more than a billion people, a sudden reversal for one of the Internets biggest face-scanning systems that could reinvigorate scrutiny about the softwares expanding prevalence around the world."
-    publishedDateTime: 2021-11-03T00:21:00Z
-    webUrl: "https://www.nationthailand.com/business/40008324"
-    type: article
-    provider:
-      name: nationthailand
-      domain: nationthailand.com
-    quality: 30
-    images:
-      - url: "https://media.nationthailand.com/default.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Facebook to shut down face-recognition system, delete data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."

@@ -34,6 +34,15 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 19
+  - title: "Engagely.ai Launches Voice AI Cloud to empower Contact Centers"
+    excerpt: "Engagely.ai's Voice Bot is powered with proprietary deep NLP engine and Azure's Cognitive AI capabilities. It is more than capable of understanding customer queries, discerning them & replying ..."
+    publishedDateTime: 2021-11-07T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1220891&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "Mk2e9d1ezrFxGnpds6zCh/or2l1PnOT7vKocQtFnGYIv5oluvChXYMpZH6v83s9fpEv9ZLtIJyelwsmSA3O2LvCtuAdvWQO2dktFkMoic7eajK72VYjIWkRJawsrwd9JUXxO2YVwQIOQpraYeR+ZxtCd/+FRB+a0agu0oc5+Bah8NdYHFvSjfI28RI6MC+NezgdmMg4p5SLVTe6GnTWJqQxhqOujcx0Sa7eKSOd4cCjXfkkhZ9bGKKZRIgwq3ECo8RqrMYdPwR1yPoWAqiGhQk36sHmk2kyOF6ytNvnmHi8I2GOUvT8IxWCXmldzaZbd667SBYt7nwwO19Rn4+h9l/RgU9mIiJmngEJpFG9sPzg=;3TbcdR7QYJaTqapl4JxtVQ=="
 ---

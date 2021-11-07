@@ -95,17 +95,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Clearview AI slammed for breaching Australians' privacy on numerous fronts"
-    excerpt: "Despite uncovering Clearview AI's intrusive practices, Australia's Information Commissioner conceded that the number of Australians who have had their biometric information scraped by the company was unknown."
-    publishedDateTime: 2021-11-03T01:38:00Z
-    webUrl: "https://www.zdnet.com/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/clearview-ai-slammed-for-breaching-australians-privacy-on-numerous-fronts/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 65
   - title: "Facial recognition firm Clearview AI to appeal order to stop collecting images of Australians"
     excerpt: "Company stands ground after watchdog finds it breached Australians’ privacy by scraping images online"
     publishedDateTime: 2021-11-03T07:11:00Z
@@ -135,6 +124,20 @@ related:
       - url: "https://www.reuters.com/resizer/jFIMB9sO2Pgh02m6HYX9le7rWKc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5OK2AH5UFVM2DKLI44GFGOABOA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Facial Recognition company, Clearview AI asked to ‘clear’ its stolen data"
+    excerpt: "Following a BuzzFeed News disquisition, Australia’s public sequestration controller has ordered disputed facial recognition company Clearview AI to exclude all filmland and facial templates belonging to Australian residers."
+    publishedDateTime: 2021-11-07T17:45:00Z
+    webUrl: "https://techstory.in/facial-recognition-company-clearview-ai-asked-to-clear-its-stolen-data/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 53
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/11/clearview-ai-logo.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "WzmcaandyopgF84VFWMluQ5fNeX8xVZdtmpfXN8Q9m7LnUlxJ3HgpyyKp/hBxuMQN09JAEQXqbz3OlPnW5XSRTT6A0J9IEWNGKpO+R9o9QzB6hGWqlFwg7LTEKyxwsksXDzPwITvOV9Zi/wr4OD6z6L1PTeuo+GaNM+du5RL8BHtiExvKAPf0JdVpauIWr2vHYb/CacBilly50X7OlvuZ5NKDLH7K/kbuUMngVr2BlLruJPS4d6Wvq5KGzjg6vDi01likEXF4yEoQXMyCu038au85TjjNYEIOjrwLhlA0A4UAfneGXpeb+/IUzcGTZ3wUBEhqGrCGoGq5tz94uLrsa5aya8wot8syQhE7erh43gF2HCdKrd7CJm3NJlPYpitMn6OnfwdkguwSc5R4KWS9mZ9dawTHKdAh6KbdRhqTB1yG4sspNxJ/X8GKTY4Ib6ggejq28tFP3eZx8TmQAmqy74N0ZfKTfUBakwz083CN8o4lLuIUM2JnovSV7QQPERDqme42Y2hfKp8V27pzhyKGg==;m2G8Vwwz1XLdlIyHZWa4xg=="
