@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and NeuReality team up to build the next generation of AI inference platforms"
-    excerpt: "IBM (NYSE: IBM) and NeuReality, an Israeli AI systems and semiconductor company, have signed an agreement to develop the next generation of high-performance AI inference platforms that will deliver disruptive cost and power consumption improvements for deep learning use cases."
-    publishedDateTime: 2021-11-02T12:35:00Z
-    webUrl: "https://www.design-reuse.com/news/50876/ibm-neureality-ai-inference-platform.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage50876/20211102_1.jpg"
-        width: 485
-        height: 592
-        isCached: true
   - title: "IBM and NeuReality team up to build AI inference platform"
     excerpt: "IBM and NeuReality, an Israeli AI systems and semiconductor company, have signed an agreement to develop the next generation of high-performance AI inference platforms. These next generation platform will be designed to deliver disruptive cost and power consumption improvements for deep learning use cases."
     publishedDateTime: 2021-11-03T00:09:00Z

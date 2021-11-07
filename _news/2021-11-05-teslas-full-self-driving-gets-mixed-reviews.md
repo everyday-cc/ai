@@ -256,17 +256,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Tesla Recalls Full Self-Driving System After Fixing Software Bug"
-    excerpt: "Tesla Inc. recalled more than 11,700 cars after a software update to fix a flaw was found to increase the risk its so-called Full Self-Driving system could cause rear-end collisions."
-    publishedDateTime: 2021-11-02T11:33:00Z
-    webUrl: "https://www.bnnbloomberg.ca/tesla-recalls-full-self-driving-system-after-fixing-software-bug-1.1675632"
-    ampWebUrl: "https://www.bnnbloomberg.ca/tesla-recalls-full-self-driving-system-after-fixing-software-bug-1.1675632.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/tesla-recalls-full-self-driving-system-after-fixing-software-bug-1.1675632.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 39
   - title: "Apple’s Self-Driving Car Project Hires Former Tesla Autopilot Engineer"
     excerpt: "Bloomberg’s Mark Gurman and Dana Hull are reporting Apple has hired a former Tesla Autopilot engineer to its “Project Titan” self-driving car project: The iPhone maker tapped Christopher “CJ” Moore for its team working on a self-driving car,"
     publishedDateTime: 2021-11-05T23:06:00Z

@@ -246,17 +246,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Tesla Recalls Full Self-Driving System After Fixing Software Bug"
-    excerpt: "Tesla Inc. recalled more than 11,700 cars after a software update to fix a flaw was found to increase the risk its so-called Full Self-Driving system could cause rear-end collisions."
-    publishedDateTime: 2021-11-02T11:33:00Z
-    webUrl: "https://www.bnnbloomberg.ca/tesla-recalls-full-self-driving-system-after-fixing-software-bug-1.1675632"
-    ampWebUrl: "https://www.bnnbloomberg.ca/tesla-recalls-full-self-driving-system-after-fixing-software-bug-1.1675632.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/tesla-recalls-full-self-driving-system-after-fixing-software-bug-1.1675632.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 39
   - title: "Tesla's 'Full Self-Driving' Gets Mixed Reviews"
     excerpt: "Drivers who utilize Tesla’s Full Self-Driving have mixed reviews, being simultaneously impressed and alarmed by it, according to a new report from CNN, which relied on interviews with vehicle owners who use the software and a review of videos posted to social media."
     publishedDateTime: 2021-11-05T14:35:00Z

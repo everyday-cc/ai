@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-2020-driving-factors-industry-growth-key-vendors-and-forecasts-to-2025-2021-11-02"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,36 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026"
-    excerpt: "Market Study Report has released a new research study on Healthcare Artificial Intelligence market Analysis 2020-2026 inclusive of one or more factors covering regional opportunities, application landscape,"
-    publishedDateTime: 2021-11-02T11:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-11-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Self-driving Bus Market 2021 Key Players Data, Industry Analysis, Segmentation, Share, Size, Opportunities and Forecast to 2027"
-    excerpt: "Another report by named, Global Self-driving Bus Market 2021-2027 has been added into its tremendous archive by MarketsandResearch.biz. The report presents a far-reaching investigation of the market assessing the market on a worldwide,"
-    publishedDateTime: 2021-11-02T17:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-bus-market-2021-key-players-data-industry-analysis-segmentation-share-size-opportunities-and-forecast-to-2027-2021-11-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "njtYtEbi92u+ec2Ke8ZuR80Bj7OGDsU+9XAMMpZy6sBoSfkekBKxX+QlsIMCS7WsLULDaGf6HzUY1mgK/ABaZKKbym3sShinGXm+YBkmZvY18PBw45RXPpNhnI96JzX1CNhyojQv+IbJSjL+XQp8VZHq/vYS9qkCo7Tv32ky29hZfUicztoTx6ge90Pq1kXawGha0wJ0teX3M2EqFOmHasXbETwiMl35DSxwJa7yzbz6H1PnYyUxfhba5CMR7OSeiwSvJrkh8XhbPeSajrNh/BfTSlTPTfFTtNXuJSMz8lCVKXrBV9hoHdTS2iQst0YpHQWF61b1gI2Eg7nZatOoe14NIPZ8ZNYgipLhN35tYXs=;JJuad+aevET9VOwfbT47EA=="
 ---

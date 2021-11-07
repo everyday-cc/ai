@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech InvestCloud Introduces InvestCloud X, a Digital Communication, Planning, and Shopping Solution"
-    excerpt: "The platform “leverages AI trained on historical information to serve up custom ... Blockchain peer-to-peer / marketplace lending and other forms of Fintech. We are excited to announce thatSupporteo is now available forcrowdfunding investmentson StartEngine."
-    publishedDateTime: 2021-11-02T12:32:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/182432-fintech-investcloud-introduces-investcloud-x-a-digital-communication-planning-and-shopping-solution/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182432-fintech-investcloud-introduces-investcloud-x-a-digital-communication-planning-and-shopping-solution/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182432-fintech-investcloud-introduces-investcloud-x-a-digital-communication-planning-and-shopping-solution/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 28
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Grant-Money-Clouds-Obfuscate-Clarify--768x1024.jpg"
-        width: 768
-        height: 1024
-        isCached: true
   - title: "The Φ-Sat-1 mission: the first on-board deep neural network demonstrator for satellite earth observation"
     excerpt: "Artificial intelligence is paving the way for a new era of algorithms focusing directly on the information contained in the data, autonomously extracting relevant features for a given application. While the initial paradigm was to have these applications run by a server hosted processor,"
     publishedDateTime: 2021-11-06T02:43:00Z

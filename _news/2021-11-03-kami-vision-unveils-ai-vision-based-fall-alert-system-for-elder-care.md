@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Kami Vision Unveils AI Vision-Based Fall Alert System for Elder Care"
-excerpt: "Kami Vision, the provider of an edge-focused vision Artificial Intelligence (AI) platform, announced today that it will unveil its advanced vision AI"
-publishedDateTime: 2021-11-03T04:01:00Z
-originalUrl: "https://www.kpvi.com/news/national_news/kami-vision-unveils-ai-vision-based-fall-alert-system-for-elder-care/article_27a3a782-c774-5edd-9541-126feb5d89f5.html"
-webUrl: "https://www.kpvi.com/news/national_news/kami-vision-unveils-ai-vision-based-fall-alert-system-for-elder-care/article_27a3a782-c774-5edd-9541-126feb5d89f5.html"
+excerpt: "Kami Vision, the provider of an edge-focused vision Artificial Intelligence (AI) platform, announced today that it will unveil its advanced vision AI solutions and Edge Box at The AI Summit Silicon Valley in Santa Clara,"
+publishedDateTime: 2021-11-03T04:02:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-artificial-intelligence-elder-care-98da06f190ffd0de5a2e938114aa3f1a"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-artificial-intelligence-elder-care-98da06f190ffd0de5a2e938114aa3f1a"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KPVI
-  domain: kpvi.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/a/bd/abd49980-3ebb-11ec-81be-27a7615a719f/6186078606b42.image.jpg?crop=720%2C405%2C0%2C277"
-    width: 720
-    height: 405
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: businessinsider.com
     quality: 40
 
-secured: "aZoRfQ0yNrDEn2Wg785KoufHc+49Mp5rHGgxhHDe8Bc3BoUINXtqBGZAWLmosGlUvtdBLIDp+jrdOme1UeOBgxtPd+x6JTudKYLV3cMx0fKnI9akySzzfgocWvQCc6vKDvZ/96ECixibXZSjOzeAUcPkI8+Hz2dk1MFaYoQl3XRPztNBT8Nky1rrS2UDNg8zOHmehXTGEo3SHiLdPZVuo/rNzCSp5J4x6CDhDs6HEVCxbynVOUutcTvEm9b0Tg+oRpaUHqZTKjhRV707ddkYAE1wtkb9PzvWyoervCKWoSXmg6LCeS/3kyZVT/8QijB7RPSSHiJn7kISYI/26G312LfkLC4/dQ+6d99li7deqtw=;LcQpsCkENJUVd0iLnSNxfw=="
+secured: "cQv2rgfAjdy3H3AyyAZXhOBwbemx20m/xWc3+kAkRlZsJyKFrWZpgm5PB2boBvYjqg8n9wUJegt3MkXwLbq6gBBLb4gGJ3QSl4QgY/nsHNI7zdecK1BvRTHJ15o5WBIwY35TACRpLWTJ0jrw6Rs1VGNozTpMhK6JR5Y9iOxbMovJwwjzJN7+IYj0L+/ZO4VRlNHTOwgv8fbMsWswZC5OQaWKG2DcLpqBS5qs72YzzSlxmLOtc1RJOlEQt77DjGLCXob961FvrBNReD8EWdgNH59RAjg7ZB6yF5T4+wbUgxyIarOB0+L/QlKZtON436C5Bb+TxUhTRwkZUAalNI6BrtdGUI+YNAA7S0mUocY2Gvk=;3A8pRV3UmHcJ7KHo1iVRFQ=="
 ---
 

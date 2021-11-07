@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-sm
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.wsj.net/im-429385/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Is Artificial Intelligence Ushering in the Smart Car Era?"
+    excerpt: "So Aurora has raised $1.1 Billion to date. We’ve been wondering if artificial intelligence could bring self-driving cars live for quite a few years and it’s been slow going all around. Now supply chain issues are even slowing the advent of electric ..."
+    publishedDateTime: 2021-11-06T16:15:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ushering-smart-car-era-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG8Mn6Q2IZGVA/article-cover_image-shrink_720_1280/0/1636214372013?e=1642032000&v=beta&t=UzRbn-X7w-8t3IJ41mawDyjI0w0IERC1Eh4ePjw9_J8"
+        width: 960
+        height: 720
         isCached: true
 
 secured: "co+vakne3u/tMlNpcrIaKrMYca0ZpqQU4yEX5ag+mcxBPlaiDX2kSf7H70PGZ1BuQ83PFqMi46dL8bUgqxEK0rt8lHmM5ne1KU6MrA9AdIqCctF97rC4kk9ViN66WmER+LA8RjVqzEcfbp0LtafhrwM0fa2A/bhuGdHKeguJu3JeQ8y+4g2WEkIdRLovZTywlQVyjuG1hDdNNNsbxNvzaFsIpDNAvBfmEsU5Q474tg9x0UPdDvvyafWfptCyVYIdjEYtQYpD8c8HPtT+NjQ/FxCgfsSPo5rlYmYSjl5vkoSCzOGSFJIKA2DmPMxHexAiIraSS+DgKP2ABPYddMCTlHYxLfkDIdwj1FWUKQ1XHbCZxryxkp7APPEJo94oQ78u7p7H0tOoE405+r9zT7wq4KiHrrdx/LN5FJf0mDhTSR0FZ0ZH/Fl8aX3g31bTQGvxNaq8pwSPIPdgr5LsabG/fE85+bSmc92U0+X/px22ZBXq79a+SGU9YfizhxsspIvyMVYugz7MaTNCIye/S977dA==;Qxv/RFNp3ZJT+YTk/Vv86w=="

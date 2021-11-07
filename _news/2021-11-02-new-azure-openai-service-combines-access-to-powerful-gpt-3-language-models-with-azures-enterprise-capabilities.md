@@ -45,15 +45,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Vectra AI Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Vectra AI today announced the availability of Vectra Detect in the Microsoft Azure Marketplace, an online store providing applications"
-    publishedDateTime: 2021-11-02T12:08:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vectra-ai-now-available-in-the-microsoft-azure-marketplace-301413658.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 49
 
 secured: "DB/Njqg51hqlvA+0BlmAQzhgGtZpOEbx7JzbECSEosAv4VD8X3Zp91d8zfKbWb4T8y8ifGuSHHQBTCqBuIE3Oe3TpIgW0RlrRlgmqL7hYlhjUhD9IS9AtXwJlxr+1+zDwWVXTur1B04L57D0bA/ETvZZNgnCp6oEfLwLj14eJCpTrU36Lw8aYZtGEuEICDn3pBjd7uNSTZmqf8P4YQ6s6BR5xTaXdpT7aZoX3xbWBhBOpUO5ClwMnecVDSAIVyIRbps0mGJWi/QD3rvykhd4f00KKEStguZSgz0xu1knbrxzGI6exHsqOn4bvRkVYEx0vZ3zZ2FkSPoWIHlr3FAMph2cSEeYwh9tQAkne9E1k7M=;EsZoGcX2KKtX3zSsdwrKbg=="
 ---

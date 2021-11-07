@@ -24,18 +24,18 @@ topics:
 
 related:
   - title: "Kami Vision Unveils AI Vision-Based Fall Alert System for Elder Care"
-    excerpt: "Kami Vision, the provider of an edge-focused vision Artificial Intelligence (AI) platform, announced today that it will unveil its advanced vision AI"
-    publishedDateTime: 2021-11-03T04:01:00Z
-    webUrl: "https://www.kpvi.com/news/national_news/kami-vision-unveils-ai-vision-based-fall-alert-system-for-elder-care/article_27a3a782-c774-5edd-9541-126feb5d89f5.html"
+    excerpt: "Kami Vision, the provider of an edge-focused vision Artificial Intelligence (AI) platform, announced today that it will unveil its advanced vision AI solutions and Edge Box at The AI Summit Silicon Valley in Santa Clara,"
+    publishedDateTime: 2021-11-03T04:02:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-artificial-intelligence-elder-care-98da06f190ffd0de5a2e938114aa3f1a"
     type: article
     provider:
-      name: KPVI
-      domain: kpvi.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/a/bd/abd49980-3ebb-11ec-81be-27a7615a719f/6186078606b42.image.jpg?crop=720%2C405%2C0%2C277"
-        width: 720
-        height: 405
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "DeEdRHwjNKRGKWoFK7YUvbvim6SFCMAmfDDzV+nn+P3XWXKfRJO/iTVKb/SF497hEp+/bokbt22iBh/VHZ3jH/toVmic7l4mNqYFaCz/vRdujZPyv4BzWGBibSTnWHjcrE/zxnzDNVuk8H0QuPJE7wnFvSOn5YXeRHWR9c3bpe1TUZGZ9U8RMLsACRcEueYd2dLSjM8pv7c9wIuHp3d50BKEkCzqD0NLJK5kFCywTdkVxnRUFU7kNmFyrXhlNMZnV0FHu5pAahXfai5mzOF2Z/Nz3p7lmX9d3vAzE6aOAPQ4kNIti7YIkzEs7N0J45X2blH+V4mSbyYlufDLeJlnQbMCipKrz97sAP9Y+iyKdPY=;1kAFyYK8+9sxr0uubJBWcg=="

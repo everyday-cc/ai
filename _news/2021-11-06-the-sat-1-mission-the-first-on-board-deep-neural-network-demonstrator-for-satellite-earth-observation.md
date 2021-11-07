@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech InvestCloud Introduces InvestCloud X, a Digital Communication, Planning, and Shopping Solution"
-    excerpt: "The platform “leverages AI trained on historical information to serve up custom ... Blockchain peer-to-peer / marketplace lending and other forms of Fintech. We are excited to announce thatSupporteo is now available forcrowdfunding investmentson StartEngine."
-    publishedDateTime: 2021-11-02T12:32:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/182432-fintech-investcloud-introduces-investcloud-x-a-digital-communication-planning-and-shopping-solution/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182432-fintech-investcloud-introduces-investcloud-x-a-digital-communication-planning-and-shopping-solution/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182432-fintech-investcloud-introduces-investcloud-x-a-digital-communication-planning-and-shopping-solution/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 28
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Grant-Money-Clouds-Obfuscate-Clarify--768x1024.jpg"
-        width: 768
-        height: 1024
-        isCached: true
   - title: "Survey of Fintech and Banking Executives Reveals Identity Authentication Risk and Customer Dissatisfaction Top List of Concerns"
     excerpt: "AUID], a leading provider of secure, mobile, biometric authentication, today announced the findings from a survey conducted during the fintech industry conference Money 20/20. More than one-third of respondents indicated they are “highly concerned” about the risks associated with one-time passwords (OTP) and knowledge-based authentication (KBA),"
     publishedDateTime: 2021-11-03T16:46:00Z

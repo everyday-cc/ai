@@ -29,33 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026"
-    excerpt: "Market Study Report has released a new research study on Healthcare Artificial Intelligence market Analysis 2020-2026 inclusive of one or more factors covering regional opportunities, application landscape,"
-    publishedDateTime: 2021-11-02T11:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-11-02"
+  - title: "Artificial intelligence (AI) Chips Market: Worldwide Industry to Boost in the Period of 2021-2026"
+    excerpt: "Chips Market Research Report presents the overview and in depth study of worldwide Artificial intelligence (AI) Chips Market for"
+    publishedDateTime: 2021-11-02T22:00:00Z
+    webUrl: "https://www.reportsgo.com/artificial-intelligence-ai-chips-market-181757"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
+      name: reportsgo
+      domain: reportsgo.com
+    quality: 56
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.reportsgo.com/img/img-1.png"
+        width: 500
+        height: 300
         isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market Size 2020 Driving Factors, Industry Growth, Key Vendors and Forecasts to 2025"
-    excerpt: "The most likely (base case) scenario is that the global Artificial Intelligence in Oil and Gas sales will be in 2020 from Artificial Intelligence in Oil and Gas million in 2019, with a change % between 2019 and 2020."
-    publishedDateTime: 2021-11-02T14:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-2020-driving-factors-industry-growth-key-vendors-and-forecasts-to-2025-2021-11-02"
+  - title: "Worldwide Surface Computing Industry to 2026 - Key Drivers and Restraints - ResearchAndMarkets.com"
+    excerpt: "The “Surface Computing Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. Surface computing uses an advanced natural user interface (NUI) and eliminates the necessity of a keyboard and mouse for input."
+    publishedDateTime: 2021-11-02T15:14:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-middle-east-health-ee8d2b4383fd43609362a62cf627b905"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "KKvQqITOgOJEvr6tsEf9LS++wnNWafijQLtmw3qfHWn7UhnmD+eABRFiIlQIiIFQjhLLJeo3asimyD9T2PoZj3mPFA1Rx+MoyuSNDV5OVwXQL6EqhtlLAYqZ6BgJtsr5ajaeZK3Khe61GOwQYem9unV1ljzTRhm13bOItXaZrOlpZRawc+7OiUWRDXza58wGfZrj6U+DQ53HH+htDKLyo2iBYyi3MDRMJHnLqkhn0BStB+RqM9QRgvea0MXOdvcOPD/77Pz28co1AF7xMlUCFCOS1Y9a3G8z7CQDIvJXvkR/fiqVK9bvJj+GhMnnuaZmGGkAJ06iNk61dScxkcB5OXTg/ScYncR7yQTOgYS9it8=;onYjXA0M2bpVpvxvXj+xlA=="

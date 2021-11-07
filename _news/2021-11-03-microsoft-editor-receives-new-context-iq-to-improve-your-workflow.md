@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-20
 webUrl: "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/"
 type: article
 quality: 139
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -186,15 +186,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering in the Azure Marketplace, an online store providing applications,"
-    publishedDateTime: 2021-11-02T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-the-microsoft-azure-marketplace-/2021/11/02/9482357.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
   - title: "KMS Lighthouse Now Available in the Microsoft Azure Marketplace"
     excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of KMS Lighthouse as a transactable SaaS offering"
     publishedDateTime: 2021-11-02T18:00:00Z

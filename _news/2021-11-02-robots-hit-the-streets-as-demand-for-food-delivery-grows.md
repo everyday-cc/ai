@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-dema
 cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: My San Antonio
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot food delivery, coming soon to a campus near you"
-    excerpt: "Robots navigate the Bowling Green State University campus in Bowling Green, Ohio on Thursday, Oct. 13, 2021. Robot food delivery is no longer the stuff of science fiction. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
-    publishedDateTime: 2021-11-02T11:12:00Z
-    webUrl: "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/"
-    ampWebUrl: "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1"
-    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 59
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/11/Starship_Robot_AP_Asset_ID_19957182.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Robots navigate the streets to deliver food"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
-    publishedDateTime: 2021-11-02T11:52:00Z
-    webUrl: "https://www.foxbusiness.com/technology/robots-navigate-streets-deliver-food"
-    ampWebUrl: "https://www.foxbusiness.com/technology/robots-navigate-streets-deliver-food.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/robots-navigate-streets-deliver-food.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38e40a5e-bee5-4131-86c8-2181899036b0/6c525105-2878-4218-a8f2-c3c36cbaa94d/1280x720/match/image.jpg?pubId=854081161001"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Robots hit the streets as demand for food delivery grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
     publishedDateTime: 2021-11-03T13:12:00Z
@@ -75,6 +43,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Robots Hit The Streets With Rising Food Delivery Demand"
+    excerpt: "Years back, it would appear an illusion to have machines perform human tasks like helping to deliver messages. It would"
+    publishedDateTime: 2021-11-03T12:55:00Z
+    webUrl: "https://techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/"
+    ampWebUrl: "https://techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/?amp=1"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 59
+    images:
+      - url: "https://techbooky.com/wp-content/uploads/2021/11/delivery-robots.jpeg"
+        width: 1024
+        height: 731
+        isCached: true
   - title: "Robots hit the streets as demand for food delivery grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
     publishedDateTime: 2021-11-06T22:00:00Z
@@ -90,6 +74,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/b/01/b015bac8-0f3d-5a50-9f7e-7e911196eb67/61835e66e5071.image.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Robots are Taking Over on Streets as Pandemic Paves Way for Contactless Food Delivery"
+    excerpt: "While robots were being tested in limited numbers before the coronavirus hit, the companies building them say pandemic-related labor shortages and a growing preference for contactless delivery have accelerated their deployment."
+    publishedDateTime: 2021-11-03T09:30:00Z
+    webUrl: "https://www.news18.com/news/buzz/robots-are-taking-over-on-streets-as-pandemic-paves-way-for-contactless-food-delivery-4398593.html"
+    ampWebUrl: "https://www.news18.com/amp/news/buzz/robots-are-taking-over-on-streets-as-pandemic-paves-way-for-contactless-food-delivery-4398593.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/robots-are-taking-over-on-streets-as-pandemic-paves-way-for-contactless-food-delivery-4398593.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 52
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/11/robot-163592962016x9.png"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Invasion of the Food Delivery Robots? Here’s What the Future Holds for the Latest Tech"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots -- knee-high and able to hold around four large pizzas -- are now navigating college campuses and even some city sidewalks in the U."
@@ -162,6 +162,17 @@ related:
         width: 337
         height: 250
         isCached: true
+  - title: "Do I tip the robot? Food delivery changes as demand grows amid the COVID pandemic"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
+    publishedDateTime: 2021-11-03T09:58:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article255505791.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article255505791.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article255505791.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 34
 
 secured: "1hqpuC9ZWMnrNFp2s8MRUOKshcUNGB73qakcBnoKsCdRJ3YL4ECeppSrf1j6oRCnxszKzwzWTg5hZnnVDlnbuuq7rIR5NirFSc4Jjfw9DXj7yg84Q24hNrIpT4c3RtHbWh1BGMoq46Qk76txzyBmHAMM8E9rpOZ60Vlcy++w5cyjsr0JuZ9chvsUqv5VLOyNG2Z6ispp2rutbpNEcB23Jck7grtc7UCsD70yidOzs/CZWn6Bmd8nbSMrYQxbd0nuzd0lwwg1aFHe2DnFhtQsYLML5AfhBK+v27kxEppVHgjBnYYzzFjgXknxWmZnGFxhBvk/OVaoyezK0DgwdeC2euWLTRuemvTYVZEmUIJXGE+Df/aHymrZUyXm0YZE4+4YimR2DyhNAqPOw6cnSC3uEewbNwjjDNqahLIN/bGcC/M0jtJ0+P3L6r0Ws2PSNnnIqBaDLvk3j7pkGHDjg6+4qcErJkv3op2Iui9ScW19BRbWF3UXGKqd3pDIe29dn6jp08MbqsS1VSD5Z4F5jLVanQ==;yjv53dbyR5s6BfIxDavkLA=="
 ---
