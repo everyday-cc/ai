@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-hea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "H2O.ai raises $100M at a $1.6B pre-money valuation for tools to make AI usable by any kind of enterprise"
+    excerpt: "H2O.ai — a startup that has developed an open-source framework as well as proprietary apps that make it easier for any kind of enterprise to build and operate artificial intelligence-based services — has seen a surge of interest as AI applications have become more ubiquitous,"
+    publishedDateTime: 2021-11-07T13:00:00Z
+    webUrl: "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/"
+    ampWebUrl: "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/27307283983_c56396a33a_k.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Healthcare automation startup Notable raises $100M to boost US hospital revenues"
     excerpt: "AI-powered healthcare startup Notable raised $100 million in Series B funding led by Airbnb and Zoom investor Iconiq Growth, boosting the company’s valuation to $600 million. What it does: Notable’s tech continuously scans electronic health records (EHRs) to identify which workflows to automate,"
     publishedDateTime: 2021-11-04T04:58:00Z
@@ -57,6 +73,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/adult-4402808_960_720.jpg"
         width: 960
         height: 640
+        isCached: true
+  - title: "H2O.ai raises $100M to expand its AI development platform"
+    excerpt: "The Commonwealth Bank of Australia, or CommBank, is one of more than 20,000 organizations that use H2O.ai’s namesake artificial intelligence development platform as part of their machine learning initiatives."
+    publishedDateTime: 2021-11-07T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/11/07/h2o-ai-raises-100m-expand-ai-development-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Sri-Ambati.png"
+        width: 1143
+        height: 574
         isCached: true
   - title: "New UChicago initiative aims to improve health care algorithms for underrepresented groups"
     excerpt: "Algorithms have become increasingly pervasive as organizations in both the public and private sectors have sought to automate tasks that once required human intelligence. From facial recognition to decisions about creditworthiness to medical assessments,"

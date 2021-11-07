@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "New study uses artificial intelligence to detect colorectal cancer"
-    excerpt: "A Tulane University researcher has found that artificial intelligence can accurately detect and diagnose colorectal cancer from tissue scans as well or better than pathologists, according to a new study in the journal Nature Communications."
-    publishedDateTime: 2021-11-02T21:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/colorectalca.jpg"
-        width: 850
-        height: 640
-        isCached: true
   - title: "Artificial Intelligence May Aid in Colorectal Cancer Detection"
     excerpt: "Using artificial intelligence (AI) to identify cancer is an emerging technology. Many research studies have leveraged the power of AI to detect cancer and have demonstrated how the integration of AI technology in cancer care could improve the accuracy and speed of diagnosis,"
     publishedDateTime: 2021-11-04T12:00:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Oracle bolsters cloud infrastructure with suite of AI tools"
 excerpt: "Oracle has updated its cloud infrastructure service to include a new artificial intelligence suite of services comprising of six new tools."
 publishedDateTime: 2021-11-07T09:07:00Z
-originalUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/?fp=2&fpid=1"
-webUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/?fp=2&fpid=1"
+originalUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/"
+webUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/"
 type: article
 quality: 39
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: arnnet.com.au
 
 topics:
-  - AWS AI
+  - Natural Language Processing
   - AI
 
 images:
@@ -84,6 +84,6 @@ related:
         height: 563
         isCached: true
 
-secured: "7g1zLtiULJjgBPOyNgMFtNjcrqjYvz8Hbq+lZvK6ufy5plCwmMw2eX4RtFekkQIpCYu7smhrZBXQjZRpmjPxlR0/7xQHrl4ZpaTV7VSjJVI+XfO+HbpvEFhmn+S8qJFrrpe88w8qgy4YbpivOIfAWYDTUqSch+iC17puPSSW8P0o3Ep4GkQa9YQ5a60pBarUpj5GxOgiXxHSHDVCO2bWG9lKLB6sEiskhYUbC3hM3/S6ro6ByqFxIE2sXpVAUzYNhYfBlKtbwMG/QZremDOIKyanqqiSG6yzEyxaOOFLyoK0vZGmuUvmKrUqRGT8Sbjy/D4VkeTweNMizbeZxm2wSOrIF8DKnd//67iLxEGV0CY=;c8QrsuThDoD55rYCPEa5ug=="
+secured: "WO63qtMX9wWm8cU4l6OiC7T5Xwc2B8dpAM8eDeUZwxy+gqsM3auZTXWOhZpfqntAtQVV10Q3JyC6SHklP1pdmlygvEKlIiz/GVcHYKs44Bc+MYg7stlajV2n6WU8NinLxy3L/dtEJu4BmaUSDjgjJBRZzQ7hWFaCGsLVsBhqEqZxONqXBFP7dUcxgctf78eK/LbSfIfL1dIUKwkg+UZ8PmLZnlqnRmsF10d6xjP2V2atBxsBUw88pu7C0Vx88UvAaZwBAyvhAEymGUZKMNuoWnCg89XPVOJlzHyOzdL+w7r0qfWfOqgA3PCKC8BgryPT2Po51gs/426TxUXS8B0NfjZKdmqPjoP0mQ9M14LG+Cg=;+tDvTklh3qQu5Bs0E2SOsQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/11/3/22761001/clearview-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete"
 type: article
 quality: 168
-heat: 248
+heat: 238
 published: true
 
 provider:
@@ -131,22 +131,6 @@ related:
       - url: "https://www.reuters.com/resizer/jFIMB9sO2Pgh02m6HYX9le7rWKc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5OK2AH5UFVM2DKLI44GFGOABOA.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Australian artificial intelligence research to help astronauts grow plants in space"
-    excerpt: "Within the next five years, astronauts will be growing vegetables in space with technology developed by Australian scientists."
-    publishedDateTime: 2021-11-02T20:26:00Z
-    webUrl: "https://www.abc.net.au/news/2021-11-03/research-to-grow-vegetables-in-space/100584946"
-    ampWebUrl: "https://amp.abc.net.au/article/100584946"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100584946"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 51
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/e4042c37a61d5b971733590b729d1e6c?impolicy=wcms_crop_resize&cropH=447&cropW=671&xPos=0&yPos=125&width=862&height=575"
-        width: 671
-        height: 447
         isCached: true
 
 secured: "i8y4sphHNu/Vbh/SwSTPxuNtvqkQYME+WhafgsGTxIJf6krxhuFtrw2EX+0hLePlSZRmgGuBLSoGJMt2pOlPLxpypow7xQsB6lUcLWZDQVUpkWP7m6XtTAfoVq7svwXqYUBdJCWzHXTJtDnhLV3TJoh5ypZInU2C37l1LcOveziTho+XkVCIx58NKxmGsE4ENB6lInRI06W6DfCPQ43/2ershZcDczkGSBVknzdbBbI2e71qnkyqDHKsbK/JOVFp1l5XeR7pSn4bVfmX3YMVF4Cz3/eCH0NQVRf/OIRVoOmTIe0wkJFc+aehh3dHu+3Ty4h0fi/iG+dP+wj7K/F/xbQXgMwh0hAA6mAlQrqiGLoe2U1yO0p0VoPQ8/h7ozPK2SiwG9nhzcLZgv2jfrYozBOpLPD0P7NQSoeRNuc7GjhU3wg8WSIfhZWny3LqikZMsZB64G8JccdoaT1j2HWo9fN/pw1i1jcaEVa5p/aMriV+eEoN/2/yEkhOpWBETYPX5y4iihnPme8m0YvqzgIfwqB/pBpDBRnBOVq2vS0LIoM=;jElTOa9YkrXYRi3uxwx30g=="

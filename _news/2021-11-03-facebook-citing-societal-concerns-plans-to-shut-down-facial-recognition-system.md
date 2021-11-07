@@ -100,54 +100,6 @@ related:
         width: 6720
         height: 4480
         isCached: true
-  - title: "Facebook Says It Will Shut Down Facial Recognition System"
-    excerpt: "In what may be the ultimate about-face, Facebook said Tuesday it will delete the face scan data of more than a billion people ― and shut down its facial recognition program entirely. The social media company has long used facial recognition software to automatically identify people in photos and videos,"
-    publishedDateTime: 2021-11-02T20:13:00Z
-    webUrl: "https://www.huffpost.com/entry/facebook-facial-recognition-shut-down_n_6181780ee4b0ec286d3290cf"
-    ampWebUrl: "https://www.huffpost.com/entry/facebook-facial-recognition-shut-down_n_6181780ee4b0ec286d3290cf/amp"
-    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/facebook-facial-recognition-shut-down_n_6181780ee4b0ec286d3290cf/amp"
-    type: article
-    provider:
-      name: HuffPost
-      domain: huffpost.com
-    quality: 89
-    images:
-      - url: "https://img.huffingtonpost.com/asset/61818f63210000f56b6fe596.jpeg?cache=X7kAnblCOV&ops=1778_1000"
-        width: 1778
-        height: 999
-        isCached: true
-  - title: "Facebook to Shut Down Facial Recognition in Photos, Videos"
-    excerpt: "Social-media platform is to delete individual facial-recognition templates for over one billion people."
-    publishedDateTime: 2021-11-02T20:59:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-to-shut-down-facial-recognition-in-photos-videos-11635874174"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
-    images:
-      - url: "https://images.wsj.net/im-427757/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Facebook’s facial recognition program is shutting down"
-    excerpt: "Facebook announced on Tuesday (Nov. 2) that it is shutting down its facial recognition program. The company has been using the technology for a decade—much to the concern of privacy advocates, civil liberties groups,"
-    publishedDateTime: 2021-11-02T20:42:00Z
-    webUrl: "https://qz.com/2083738/facebook-facial-recognition-is-shutting-down-2/"
-    ampWebUrl: "https://qz.com/2083738/facebook-facial-recognition-is-shutting-down-2/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2083738/facebook-facial-recognition-is-shutting-down-2/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 89
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2021/11/2021-01-20T153652Z_1_LYNXMPEH0J13Z_RTROPTP_4_CHINA-SECURITY-e1635879147391.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Three reasons Facebook/Meta is shutting down its face recognition system"
     excerpt: "Given there are benefits that come from face recognition, why is Meta getting rid of the Facebook feature? We break it down."
     publishedDateTime: 2021-11-04T13:00:00Z
@@ -208,20 +160,6 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "Facebook to End Use of Facial Recognition Technology on Platform"
-    excerpt: "The news comes one year after use of the technology led to a legal settlement that cost the company $650 million"
-    publishedDateTime: 2021-11-02T21:18:00Z
-    webUrl: "https://time.com/6113120/facebook-facial-recognition-end/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 69
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/11/facebook-facial-recognition-end.jpg"
-        width: 3780
-        height: 2520
-        isCached: true
   - title: "Facebook to get rid of facial recognition"
     excerpt: "Facebook is shutting down its facial recognition program. The company, now known as Meta, will delete over 1 billion facial recognition templates."
     publishedDateTime: 2021-11-03T16:39:00Z
@@ -235,20 +173,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106970246-4ED4-QT-Facebook-110321.jpg?v=1635963267"
         width: 400
         height: 225
-        isCached: true
-  - title: "Facebook to stop using facial recognition, delete data on over 1 billion people"
-    excerpt: "Facebook introduced facial recognition in 2010, allowing users to automatically tag people in photos. The feature was intended to ease photo sharing by eliminating a tedious task for users. But over the years,"
-    publishedDateTime: 2021-11-02T21:58:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2021/11/after-tagging-people-for-10-years-facebook-to-stop-most-uses-of-facial-recognition/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 65
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/GettyImages-1182969866-760x380.jpg"
-        width: 760
-        height: 380
         isCached: true
   - title: "Governments must check Facebook really does scrap face recognition, whistleblower says"
     excerpt: "Facebook FB.O whistleblower Frances Haugen welcomed Facebook's FB.O announcement that it would scrap facial recognition, but urged close government oversight of the move to ensure the social network lived up to its pledge."
@@ -698,15 +622,6 @@ related:
         width: 750
         height: 546
         isCached: true
-  - title: "Facebook axes face recognition"
-    excerpt: "Facebook is shutting down its facial recognition system and deleting a billion faceprints in response to serious concerns over privacy at the scandal-hit social media network. Amazon founder Jeff Bezos has pledged $2bn to a fund being established to ending and reversing deforestation at the COP26 conference in Glasgow."
-    publishedDateTime: 2021-11-02T21:27:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/facebook-axes-face-recognition/live-coverage/9e1433441346508b2e403102c4170b81"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 21
   - title: "Facebook’s not safe for face biometrics, but privacy can be built into Meta?"
     excerpt: "Both Recode and Fortune are reporting on misgivings that some in the industry have about Zuckerberg's happiness to delete 1 billion face templates."
     publishedDateTime: 2021-11-05T15:46:00Z

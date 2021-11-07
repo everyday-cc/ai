@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-alphafold-v2-0-o
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-alphafold-v2-0-on-amazon-ec2/"
 type: article
 quality: 74
-heat: 80
+heat: 81
 published: true
 
 provider:

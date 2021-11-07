@@ -136,22 +136,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Australian artificial intelligence research to help astronauts grow plants in space"
-    excerpt: "Within the next five years, astronauts will be growing vegetables in space with technology developed by Australian scientists."
-    publishedDateTime: 2021-11-02T20:26:00Z
-    webUrl: "https://www.abc.net.au/news/2021-11-03/research-to-grow-vegetables-in-space/100584946"
-    ampWebUrl: "https://amp.abc.net.au/article/100584946"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100584946"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 51
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/e4042c37a61d5b971733590b729d1e6c?impolicy=wcms_crop_resize&cropH=447&cropW=671&xPos=0&yPos=125&width=862&height=575"
-        width: 671
-        height: 447
-        isCached: true
 
 secured: "ZLsyrIThJO1GXYZO8RkfgcN9zhaQExCdEx2Jw7QjqEfVuFbz14dAOn+HEIYhCDI/CDQVP13OFYEwarVjchn3n4/B2HRuuyoJeVcHyEvZUmOvMtGn5AcQuLp3YYmIoAzqjJj39ZvchxbGK09rZ8r+BfZfM72gidDbTkn73r6vmu5n2B9apswxZJJIYDFPNADdE0SWZ8ED5+QRUfYhRpkZtJqiOyhWGZpo6bnjSDEpnxDRujy8/TNdtpc/zbkBt5atzo7Yv+IwSj8Bw8vq/IwZc0KDpYFmqSO9Z2OL3X1tJh/+l4aSMejMOtB5fkBb+5mfbTczsOFzjkYQOyGCtKWEeki4v71D0mOyrlsE303yylpFILJ89S3+Skw08dSgMhYzOSz1V1zYgkMSBlBrq8cOI9NF1m8TYw+ss/7YDRyUtF9KylzfNuque8M8UfxOoh4H364mTSaMTiuqTAo3R8OmltHG/fvyH7wutb+shJ3EOc+2vQxKMJ32h+rDHnIthLB07wV/T/YDU577l4YrAaVwvw==;fdKHKOeLEXNZvAcN4jpK1A=="
 ---

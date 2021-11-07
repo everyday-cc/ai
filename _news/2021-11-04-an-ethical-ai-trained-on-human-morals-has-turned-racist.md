@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical
 cdnAmpWebUrl: "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-20
 webUrl: "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/"
 type: article
 quality: 139
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/How_Microsoft_Uses_Machine_Learning_.jpeg"
         width: 1757
         height: 1080
-        isCached: true
-  - title: "Microsoft taps telehealth company to use AI in preventive care"
-    excerpt: "Microsoft and telehealth provider Babylon are partnering to enhance artificial intelligence's use in preventive healthcare. Three things to know: The organizations will use AI and cloud computing to explore opportunities to increase their health IT offerings,"
-    publishedDateTime: 2021-11-02T22:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-taps-telehealth-company-to-use-ai-in-preventive-care.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/5.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "Ermetic Enables Customers to Enforce Least Privilege for Microsoft Azure"
     excerpt: "Cloud Infrastructure Security Platform Detects and Remediates Excessive Privileges in Azure Active Directory Privileged Identity Management ServicePALO ALTO, Calif. & TEL AVIV, Israel--(BUSINESS WIRE)--#Azure--Ermetic,"

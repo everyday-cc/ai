@@ -69,20 +69,6 @@ related:
         width: 1757
         height: 1080
         isCached: true
-  - title: "Microsoft taps telehealth company to use AI in preventive care"
-    excerpt: "Microsoft and telehealth provider Babylon are partnering to enhance artificial intelligence's use in preventive healthcare. Three things to know: The organizations will use AI and cloud computing to explore opportunities to increase their health IT offerings,"
-    publishedDateTime: 2021-11-02T22:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-taps-telehealth-company-to-use-ai-in-preventive-care.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/5.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Microsoft offers glimpse into healthcare offerings in a digital-first workforce"
     excerpt: "The COVID-19 pandemic accelerated digital transformation, and Mr. Nadella said Microsoft will make many of the changes it applied to Microsoft Azure during the pandemic into permanent features. Looking ahead,"
     publishedDateTime: 2021-11-03T21:08:00Z
