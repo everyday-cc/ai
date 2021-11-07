@@ -63,7 +63,7 @@
       "originalUrl": "https://www.wsj.com/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -147,6 +147,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there.md",
+      "title": "The Ardent Belief That We Need A Line In The Sand Deadline For Attaining AI Self-Driving Cars Else We’ll Never Get There",
+      "excerpt": "Perhaps we need an ironclad deadline for everyone to rally around toward attaining AI-based true self-driving cars, without which we will continue to meander and belatedly if ever achieve those vaunted driverless vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610864514e627dae961910e1%2F0x0.jpg%3FcropX1%3D264%26cropX2%3D2440%26cropY1%3D0%26cropY2%3D1288",
+          "width": 1200,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there/amp/",
+      "publishedDateTime": "2021-11-04T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -506,7 +558,7 @@
       "originalUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1416,58 +1468,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-tesla-starts-rolling-out-full-self-driving-beta-103-after-a-false-start.md",
-      "title": "Tesla starts rolling out Full Self-Driving Beta 10.3 after a false start",
-      "excerpt": "Tesla has restarted the rollout of its Full Self-Driving Beta 10.3 update after a false start with a lot of bugs had them revert to the previous version. Tesla FSD Beta 10.3 was supposed to come Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/",
-      "originalUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/amp/",
-      "publishedDateTime": "2021-10-25T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

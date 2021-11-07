@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/04/the-ardent-belief-that-we-need-a-line-in-the-sand-deadline-for-attaining-ai-self-driving-cars-else-well-never-get-there/amp/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 710
     isCached: true
+
+related:
+  - title: "On-demand Webinar: AI for asset tracking using only machine learning core in sensors"
+    excerpt: "Using our wireless IoT wearable node (SensorTile.box) and Qeexo AutoML software, you can build decision tree algorithms for our sensors without writing a single line of code."
+    publishedDateTime: 2021-11-05T11:18:00Z
+    webUrl: "https://www.st.com/content/st_com/en/premium-content/premium-content-on-demand-intelligent-asset-tracking.html"
+    type: article
+    provider:
+      name: ST
+      domain: st.com
+    quality: 47
+    images:
+      - url: "https://www.st.com/content/dam/logos/open-graph-logo.png"
+        width: 750
+        height: 560
+        isCached: true
 
 secured: "G44PSY9HpKDwpfrdeUg0Zen49l9hkftMHHWUcryYu7WOOg8OSSHhmrKlQ//8gwd5zO3HpxxQEg2s/01uTF3M0APuT9XPt99FozIV+5qy+ZNTrDYlNzU8MTmtmF+ANBrGgkJrtVTO5BqX/3tl3lTsJvABh1oUFpzjBlYQyh03qLWW7YOd+6W4CoGbzm2JjynvMTo1qv6NKJZbX0X2I4qeCiMXXWh2WpPNSGXCwEmxqBgX4GAN4lo+26PTKVppMfgb7m3agXt5x7UGBLuOjZidhyFl4gsGugBnB+q7QW0QbTsRZRyXDopT00/u1WVjG5Z5xzvhR4c6wrL8USEFgeODxpm4Ie3bXDdkFUzq3Fig3m9f3t/Wbax2hjv8atOgBuY3HUDzs6anJ1Q5keEkxkati0p5wneR7+AYg8D++CqAsC/f2IZLxz71DuakJINI9DGrcFI+mUpTEKLpb0+92yX5KSqkqnHjMnjtR8ouah8d+yq34SfsG8hA5jsSearXSZVECnC/gI4U0s6mWm/iehnLzA==;6yuWhItrIDB8L8pc3Eb/qA=="
 ---

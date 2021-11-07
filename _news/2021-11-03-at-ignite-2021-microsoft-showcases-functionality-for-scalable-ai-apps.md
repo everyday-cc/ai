@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcase
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "At Ignite, Microsoft unveils data analytics, server, and DevOps products for Azure"
-    excerpt: "At its Ignite 2021 conference, Microsoft took the wraps off of new data analytics, server, and DevOps products across Azure."
-    publishedDateTime: 2021-11-02T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/02/at-ignite-microsoft-unveils-data-analytics-server-and-devops-products-for-azure/"
-    ampWebUrl: "https://venturebeat.com/2021/11/02/at-ignite-microsoft-unveils-data-analytics-server-and-devops-products-for-azure/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/at-ignite-microsoft-unveils-data-analytics-server-and-devops-products-for-azure/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 98
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Ignite Nov '21: Here's everything Microsoft announced for Azure"
     excerpt: "The November edition of Microsoft Ignite is here and Ignite has always been about IT professionals, so Azure is front and center. Topics include Azure AI, Data, Dev & Ecosystem, Hybrid, Infra, IoT, MIgration,"
     publishedDateTime: 2021-11-02T15:13:00Z

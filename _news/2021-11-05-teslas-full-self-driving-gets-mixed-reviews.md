@@ -41,22 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla recalls 11,704 vehicles after identifying Full Self-Driving Beta software error"
-    excerpt: "Tesla voluntarily recalled nearly 11,704 vehicles after identifying a software error that could cause a false forward-collision warning or unexpected activation of the automatic emergency brake system,"
-    publishedDateTime: 2021-11-02T13:35:00Z
-    webUrl: "https://techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after-identifying-full-self-driving-beta-software-error/"
-    ampWebUrl: "https://techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after-identifying-full-self-driving-beta-software-error/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/tesla-recalls-11704-vehicles-after-identifying-full-self-driving-beta-software-error/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1232815520.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Tesla's handling of braking bug in public self-driving test raises alarms"
     excerpt: "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an \"over the air\" update."
     publishedDateTime: 2021-11-04T16:30:00Z
@@ -100,22 +84,6 @@ related:
       - url: "https://images2.markets.businessinsider.com/60ef4a6661b8600019f17258?format=jpeg"
         width: 751
         height: 526
-        isCached: true
-  - title: "Tesla issues software recall for glitch in ‘Full Self-Driving’ software"
-    excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
-    publishedDateTime: 2021-11-02T13:09:00Z
-    webUrl: "https://www.wfla.com/news/recalls/tesla-issues-software-recall-for-glitch-in-full-self-driving-software/"
-    ampWebUrl: "https://www.wfla.com/news/recalls/tesla-issues-software-recall-for-glitch-in-full-self-driving-software/amp/"
-    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/recalls/tesla-issues-software-recall-for-glitch-in-full-self-driving-software/amp/"
-    type: article
-    provider:
-      name: WFLA
-      domain: wfla.com
-    quality: 59
-    images:
-      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2021/11/AP20245450915069.jpg?w=1280"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Tesla issues a recall over its latest self-driving update"
     excerpt: "The software communication error reportedly impacted Tesla Model S, X, 3, and Y vehicles released from 2017 through 2021."
@@ -164,22 +132,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/45502-88532-Apple-Car-Header-Image-xl.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Tesla recalls 12,000 vehicles due to glitch in ‘Full Self-Driving’ software"
-    excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
-    publishedDateTime: 2021-11-02T15:00:00Z
-    webUrl: "https://www.wraltechwire.com/2021/11/02/tesla-recalls-12000-vehicles-due-to-glitch-in-full-self-driving-software/"
-    ampWebUrl: "https://www.wraltechwire.com/2021/11/02/tesla-recalls-12000-vehicles-due-to-glitch-in-full-self-driving-software/?amp=1"
-    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/02/tesla-recalls-12000-vehicles-due-to-glitch-in-full-self-driving-software/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 57
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/09/tesla-model-s-e1600854168949.png"
-        width: 912
-        height: 512
         isCached: true
   - title: "Apple hires former Tesla engineer to boost self-driving car effort: Report"
     excerpt: "Cupertino, California-based Apple has tapped Christopher Moore for its team working on a self-driving car, the report said."
@@ -239,22 +191,6 @@ related:
       - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/Apple-Car-specs-suggested.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla issues software recall for 12,000 vehicles over glitch in self-driving software"
-    excerpt: "Tesla has issued a recall that automatically sent a software update fixing a safety problem in its electric vehicles, apparently heading off a looming confrontation with U.S. safety regulators."
-    publishedDateTime: 2021-11-02T13:48:00Z
-    webUrl: "https://whnt.com/news/tesla-issues-software-recall-for-12000-vehicles-over-glitch-in-self-driving-software/"
-    ampWebUrl: "https://whnt.com/news/tesla-issues-software-recall-for-12000-vehicles-over-glitch-in-self-driving-software/amp/"
-    cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/tesla-issues-software-recall-for-12000-vehicles-over-glitch-in-self-driving-software/amp/"
-    type: article
-    provider:
-      name: WHNT
-      domain: whnt.com
-    quality: 52
-    images:
-      - url: "https://whnt.com/wp-content/uploads/sites/20/2021/11/AP20245450915069.jpg?w=1280"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Apple’s Self-Driving Car Project Hires Former Tesla Autopilot Engineer"
     excerpt: "Bloomberg’s Mark Gurman and Dana Hull are reporting Apple has hired a former Tesla Autopilot engineer to its “Project Titan” self-driving car project: The iPhone maker tapped Christopher “CJ” Moore for its team working on a self-driving car,"

@@ -572,22 +572,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Facebook to shut down face-recognition system, delete data"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-05T22:20:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 46
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/50/01/21659713/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Facebook announces it's purging 1 billion faceprints from its system"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
     publishedDateTime: 2021-11-03T05:43:00Z
@@ -667,6 +651,22 @@ related:
       - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Facebook to shut down face-recognition system, delete data"
+    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
+    publishedDateTime: 2021-11-05T22:20:00Z
+    webUrl: "https://www.chron.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 44
+    images:
+      - url: "https://s.hdnux.com/photos/01/22/50/01/21659713/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "New face-recognition attendance system at KIOCL pellet plant"
     excerpt: "Adapting to new technology, KIOCL on Saturday formally launched new face-recognition attendance system at its pellet plant. The 600-odd employees hitherto used to punch in and punch out. KIOCL Chairman and Managing Director T."

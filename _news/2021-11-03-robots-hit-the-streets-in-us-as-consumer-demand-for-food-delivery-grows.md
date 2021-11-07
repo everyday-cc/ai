@@ -121,22 +121,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Robots deployed in greater numbers as demand for food delivery grows amid pandemic labor shortages"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large"
-    publishedDateTime: 2021-11-02T13:54:00Z
-    webUrl: "https://ktla.com/news/nationworld/robots-deployed-in-greater-numbers-as-demand-for-food-delivery-grows-amid-pandemic-labor-shortages/"
-    ampWebUrl: "https://ktla.com/news/nationworld/robots-deployed-in-greater-numbers-as-demand-for-food-delivery-grows-amid-pandemic-labor-shortages/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/robots-deployed-in-greater-numbers-as-demand-for-food-delivery-grows-amid-pandemic-labor-shortages/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 45
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/11/AP21305694967862.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Robots hit the streets as demand for food delivery grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
     publishedDateTime: 2021-11-04T04:28:00Z

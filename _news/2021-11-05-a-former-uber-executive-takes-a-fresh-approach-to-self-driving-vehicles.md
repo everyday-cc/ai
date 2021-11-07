@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/a-former-uber-executive-takes-a-fre
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

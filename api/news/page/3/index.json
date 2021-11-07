@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-04-google-wants-to-work-with-the-pentagon-again-despite-employee-concerns.md",
+      "title": "Google Wants to Work With the Pentagon Again, Despite Employee Concerns",
+      "excerpt": "Three years ago, the company walked away from a Defense Department project after employees objected to it. Now the company is working on a new proposal for the Pentagon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/11/02/business/00googlemilitary/merlin_146105364_f4798f37-22a8-4466-bf33-7f075b0f8361-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.amp.html",
+      "publishedDateTime": "2021-11-03T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-secureauth-acquires-acceptto-to-deliver-ai-driven-passwordless-authentication.md",
       "title": "SecureAuth acquires Acceptto to deliver AI-driven passwordless authentication",
       "excerpt": "Identity access management provider SecureAuth has announced the acquisition of continuous passwordless authentication platform Acceptto.",
@@ -114,7 +165,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -710,7 +761,7 @@
       "originalUrl": "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1157,48 +1208,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-new-study-uses-artificial-intelligence-to-detect-colorectal-cancer.md",
-      "title": "New study uses artificial intelligence to detect colorectal cancer",
-      "excerpt": "A Tulane University researcher has found that artificial intelligence can accurately detect and diagnose colorectal cancer from tissue scans as well or better than pathologists, according to a new study in the journal Nature Communications.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/colorectalca.jpg",
-          "width": 850,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.amp",
-      "publishedDateTime": "2021-11-02T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

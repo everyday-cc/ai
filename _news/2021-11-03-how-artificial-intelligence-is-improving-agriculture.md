@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-improvi
 webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-improving-agriculture-edinson-rivera-aedo"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1280
     height: 652
     isCached: true
-
-related:
-  - title: "Smart farming: AI technologies for sustainable agriculture"
-    excerpt: "Changing climatic conditions, the shortage of skilled workers, the use of pesticides—a wide range of factors have an impact on the quality and flow of agricultural processes. Researchers at the Fraunhofer Institute for Telecommunications,"
-    publishedDateTime: 2021-11-02T13:26:00Z
-    webUrl: "https://phys.org/news/2021-11-smart-farming-ai-technologies-sustainable.html"
-    ampWebUrl: "https://phys.org/news/2021-11-smart-farming-ai-technologies-sustainable.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-smart-farming-ai-technologies-sustainable.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/smart-farming-ai-techn.jpg"
-        width: 1440
-        height: 1080
-        isCached: true
 
 secured: "B9DmlJIDy8DkxWOq+M6amuhjaAprY9ilrAJKV+ETvy04px2ARNUyf6U/WTMQYgxcJidVQIv8FFhMxjrm5MTwnYpaSvlPnFiq0px6FGhjduqOiPXcV4YHMJglmcs9MBaO9bzC7kqJCpnk41A5HHQLXrSJeaxo7s/kR32H7fnxl46OKL3H3KANPmx6Ph12qAetT0gBCYoGpCpbM91tF8vqUpa5CNXJsXM7F09SxbniRh9PvPN8F5qKuzsmFnzlGjy/vXetjbO3azrlQgmZyBGRFT+IZP3tjdV/S66GrHBv688K0WQRxItDcfTRMLQnNTTEG5mmgZs3RDOt9nXWxpB0IdwpZcyzKRGzb3Yxq3xGSd6w33lEbamIRlQtQLR0QEvD9KP7sxySz/PuBnfubhN3TioZzRMvGZt8y5vL6xcP0EDLOMKgUB/+VL9/N8/RlKG0UEIlxu1H7/VVr8tDjLeTCQIB+weeCbbNlmmbebTWTgOC6/343osom6SLRVece4XMwSsklfBe9iRn1mwJcbIelQ==;MLVm8QwIjV0kKe6QlifvSQ=="
 ---

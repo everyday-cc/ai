@@ -39,70 +39,6 @@ related:
         width: 700
         height: 481
         isCached: true
-  - title: "New AI products from Microsoft include Context IQ and Azure Cognitive Services for Language"
-    excerpt: "Microsoft detailed new AI innovations across its services at Ignite 2021, including Context IQ and Azure Cognitive Services for Language."
-    publishedDateTime: 2021-11-02T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/"
-    ampWebUrl: "https://venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 126
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"
-        width: 1200
-        height: 593
-        isCached: true
-  - title: "GPT-3 comes to the enterprise with Microsoft’s Azure OpenAI Service"
-    excerpt: "Microsoft has launched a new service, Azure OpenAI Service, to bring OpenAI's technologies to more enterprise clients."
-    publishedDateTime: 2021-11-02T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/02/gpt-3-comes-to-the-enterprise-with-microsofts-azure-openai-service/"
-    ampWebUrl: "https://venturebeat.com/2021/11/02/gpt-3-comes-to-the-enterprise-with-microsofts-azure-openai-service/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/gpt-3-comes-to-the-enterprise-with-microsofts-azure-openai-service/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/OpenAI-Still-3-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft Azure expands its hybrid and multi-cloud reach"
-    excerpt: "Microsoft Azure, just like its competitors, launched a number of tools in recent years that allow enterprises to use a single platform to manage their virtual machines and containers across clouds and in their own data centers."
-    publishedDateTime: 2021-11-02T15:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/02/microsoft-azure-expands-its-hybrid-and-multi-cloud-reach/"
-    ampWebUrl: "https://techcrunch.com/2021/11/02/microsoft-azure-expands-its-hybrid-and-multi-cloud-reach/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/microsoft-azure-expands-its-hybrid-and-multi-cloud-reach/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-174557956.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Microsoft Azure wants to make working with data on its platform easier"
-    excerpt: "At its Ignite conference today, Microsoft announced a number of new features for its Azure data platform. These range from a first preview of the 2022 edition of its venerable SQL Server line to updates to the Azure Synapse Analytics platform and new tools that make it easier to move Cassandra"
-    publishedDateTime: 2021-11-02T15:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/02/microsoft-azure-wants-to-make-working-with-data-on-its-platform-easier/"
-    ampWebUrl: "https://techcrunch.com/2021/11/02/microsoft-azure-wants-to-make-working-with-data-on-its-platform-easier/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/microsoft-azure-wants-to-make-working-with-data-on-its-platform-easier/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1345223768.jpg?w=1024"
-        width: 1024
-        height: 572
-        isCached: true
   - title: "Microsoft says all business will be collaborative, and infused with data and AI"
     excerpt: "Data derived from the interactions between people should allow the organization to refine business processes, Microsoft said at Ignite 2021."
     publishedDateTime: 2021-11-04T01:39:00Z
@@ -119,17 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft is adding more AI smarts and other new tools to Office"
-    excerpt: "Microsoft is adding more predictive capabilities to Office via a set of new capabilities called Context IQ. Microsoft's new Loop collaboration app and components isn't the only new thing coming to Office."
-    publishedDateTime: 2021-11-02T15:01:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-is-adding-more-ai-smarts-and-other-new-tools-to-office/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-adding-more-ai-smarts-and-other-new-tools-to-office/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-adding-more-ai-smarts-and-other-new-tools-to-office/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "How Microsoft Uses Machine Learning"
     excerpt: "Microsoft uses machine learning to recognize patterns, improve operations and develop better products. By leveraging machine learning, Microsoft is helping users find new ways to integrate computing into their daily lives."
     publishedDateTime: 2021-11-02T23:28:00Z
@@ -143,20 +68,6 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/How_Microsoft_Uses_Machine_Learning_.jpeg"
         width: 1757
         height: 1080
-        isCached: true
-  - title: "10 Big Microsoft Azure Announcements At Ignite Fall 2021"
-    excerpt: "Azure Arc, Azure Active Directory, Azure Synapse, Azure Cognitive Services and Azure SQL and among the cloud tools Microsoft announced upgrades for this week during its Ignite conference."
-    publishedDateTime: 2021-11-02T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/10-big-microsoft-azure-announcements-at-ignite-fall-2021"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/026f-139ee8241c4f-fc3fe8f614e5-1000/msft-ignite-slide-1-real.jpg"
-        width: 610
-        height: 458
         isCached: true
   - title: "Microsoft taps telehealth company to use AI in preventive care"
     excerpt: "Microsoft and telehealth provider Babylon are partnering to enhance artificial intelligence's use in preventive healthcare. Three things to know: The organizations will use AI and cloud computing to explore opportunities to increase their health IT offerings,"

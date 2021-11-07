@@ -3,23 +3,22 @@ category: news
 title: "Facebook to shut down face-recognition system, delete data"
 excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
 publishedDateTime: 2021-11-05T22:20:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php"
-ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
-cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
+originalUrl: "https://www.chron.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php"
+webUrl: "https://www.chron.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php"
+ampWebUrl: "https://www.chron.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
 type: article
-quality: 46
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - Facebook AI
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://s.hdnux.com/photos/01/22/50/01/21659713/3/ratio3x2_400.jpg"
@@ -915,6 +914,6 @@ related:
         height: 675
         isCached: true
 
-secured: "eXLWaIcazLY1Ek2ZDXfHncSEIdfn4oDp4yue7UDarH0Elrw45E5AaSzbVYmsz31BOqaeyqO9D3BZzH7fnW0CxbJURYS4jjC1STIw1w0tTg6uLcPaJHgqxuADjUQ2FfYcdWEYwso4khmf/Fyus7D3U64DjxdJA11BH2+yES231KLeCJwxVLwVChJSh3/9Etk+Lu4ABC5D/I1BTIt6YkVjM36n2YRgV3QIqfQlgEb4DocR6trkGCO67qao4GOPEyMIVaKM5fo6XCrP9ivrsfzw19BfPV9hOp3gOH8RyGh0OUJ/kQckK/nUkFEjDjtGREPgQInwbJh0WU22HOtDHZr+M9u1dPs5fKloWVFoIJEI1V+HOtbLnpea4WFe34r86GCXDjgkvvjOSdq2M4nqjd7fE0riOq3ZQlzHZ4aMUr+x/G0UAYp367w71t6wCcfFxIzfenZvTRUStCxwg85qizYexuMiXUCnkvXvpCIDh05hcOAq2BbBSofqqjnkklUms398qRYNa3I4ksR2vmJLc3Cm0w==;k69WdNbytOAKXY3qiA16Fg=="
+secured: "Q8LqgLUS/7VNJoslinMQmxqTm8IAukE7DU9YNSCjsNH+XJejGvGiuMua4lSVnpeBYJSMldpZRNtrNk+5rn0UWDGHVuLW+a28U1L4uXgEl5Dno3ZVHLdbt5HXayI6oDpu4rLUYGzZMyrdAtegaDCmg9uPImImij4Hj8PdrCle1P7DSQt3qQkEPibP5biO91JtyCJmuG0T0V80wuVmDetmbbC9KvXIy13CF0PxzFG/RFgexGGuFpUwxj5CLpE9EW9S2C6FjmMfbX/CdasGvMwbMXJrHvNmNLRuHKC1Uy8ogmLsj3wfR3Xs8GUZ1IHq7ohJCSHYQzvWXWlJavGL2pYDfXfW+RkSCHjcZaS09hl8e9o=;mHZJZbQ7GpGYp8cWUrRhOA=="
 ---
 

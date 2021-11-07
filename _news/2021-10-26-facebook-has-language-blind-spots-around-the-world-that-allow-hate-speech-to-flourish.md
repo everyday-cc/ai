@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Facebook has language blind spots around the world that allow hate speech to flourish"
-excerpt: "Even in the languages it does support ... \"It does take time to develop the AI. It does take time to translate the community standards and things like that,\" said Evelyn Douek, a senior research ..."
-publishedDateTime: 2021-10-26T15:24:00Z
-originalUrl: "https://www.wbaltv.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-webUrl: "https://www.wbaltv.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-ampWebUrl: "https://www.wbaltv.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+excerpt: "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English."
+publishedDateTime: 2021-10-26T14:20:00Z
+originalUrl: "https://www.wlwt.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+webUrl: "https://www.wlwt.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+ampWebUrl: "https://www.wlwt.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
 type: article
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - Natural Language Processing
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "mb0No6cKpMDp8P0pDGeDYArqKc5pNUU9mo+5DzUm5ARCOI0ysW/7aeIZZ/uLMhqcxsNIjBvFp5XXR+JUa1N6Hcrtf5RFqGrmHTF6iIWYMlMYG2ZAeI1hwBIojSPeZVn56Udw/KCogwXj7KNo6sytdYlIhhAH88YMdRgrqPahbD1XALmAa1iP0okOwEOWdg1eda7/VQ2dGRBTZFEgESpDZ04AQgrUNMhYMzePJ3Yi8z0sGmEG6LdTGJ4NERq/d8h8FAX8Wa5Vdxw/8Y1ubDfT3BY+KknTh+KXZgx2giGL1eTlsQc6OeLlAtVxwOsmraK4VASqH8uYj/40M6TRgwgDbeX0CBVRUdYvc3QWga376LA=;Bk2kcCOxfTV09KvaiaciQg=="
+secured: "FdGIzODWVBW5HW+55W0CgPXXVmnltRDXHWIJ8vhHNW25v7K9o64ub8wOu+SdNhiYgRJOVElmLfhTSoATar4dp20HfdtT5mYQtqWPhhCt6uNwqQ+tu7BzJtywLYtQA9bRCWWFKWstNGoDGPh+Om3a5GD1LZuE2i5bXq33LBIULVfQ/tzlOnue/shgCqsKjAnjcj8PD40LM4r5i1uhWuTUXJSYz88a9e9/HkWRZUsdHyCa26/j8up+zDfjqtAFlEF1EPoR5QaTRiPgZsJ4CIKUm2JUSEFOHkdVJNHPxxgWjk7kzrs1yQs/mdAgIS2AR7lLES4lHvSXlQnAliDDFRg27t0ttqvcSyFWqgxMD1MgcS8=;pbCAlZ1PnzXwyXwPjHAB2g=="
 ---
 
