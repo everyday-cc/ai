@@ -39,20 +39,6 @@ related:
         width: 1040
         height: 585
         isCached: true
-  - title: "Vivoka Adds ID R&D Voice Biometrics to the Latest Version of Its Voice Development Kit"
-    excerpt: "Vivoka Voice Development Kit V3 with voice biometrics from ID R&D - Now available at  (Graphic: Business Wire) Vivoka’s user-friendly, graphical interface removes"
-    publishedDateTime: 2021-11-02T10:19:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-france-biometrics-9076fab3a14b41c3aa8e4efc3c2e822f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Bg4M+5T3Y0/NTa6Hp5zDWio4uLz+im7blqzzEwocrwd2K+JXIu9DCWP3M5LsxbQVRFfmitR8Do5GIL0IfraQGL+Yw4ITf4ktEFs6x640GWW3a3KsN1vfWxwsrbcBNLVHgmLDo8BtqFzcstlVKELNajGfGVsvXkl/16Naw91TolE0rtatLX/APTIP9aXecSCz+kWwYE/GnezpCXE+e+rqH5ZAG5IMXzcnLuKlkEu+EAphy+gF5+/OpSmRtHLRkge5rjzL0wzlHKp7HsMF5ORDbdUPnUkaqOW8HHVmMLY60zdoGfWg94ODPEkEY5gsxOWAcUgTr5FGoXUpYngbqg55Mo1DUSotQk1NaSx0N1oM21M=;yKWYhOAyuSmdwQq+GeYLlw=="
 ---

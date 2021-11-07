@@ -9,7 +9,7 @@ ampWebUrl: "https://www.trendhunter.com/amp/trends/babylon"
 cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/babylon"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6181a2fc62197b6ac23ab291%2F0x0.jpg"
         width: 640
         height: 522
-        isCached: true
-  - title: "Avoiding Shortcut Solutions in Artificial Intelligence for More Reliable Predictions"
-    excerpt: "A new method forces a machine learning model to focus on more data when learning a task, which leads to more reliable predictions. If your Uber driver takes a shortcut, you might get to your destination faster."
-    publishedDateTime: 2021-11-02T09:42:00Z
-    webUrl: "https://scitechdaily.com/avoiding-shortcut-solutions-in-artificial-intelligence-for-more-reliable-predictions/"
-    ampWebUrl: "https://scitechdaily.com/avoiding-shortcut-solutions-in-artificial-intelligence-for-more-reliable-predictions/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/avoiding-shortcut-solutions-in-artificial-intelligence-for-more-reliable-predictions/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 50
-    images:
-      - url: "https://scitechdaily.com/images/AI-Shortcut-Solutions-777x518.jpg"
-        width: 777
-        height: 518
         isCached: true
 
 secured: "7P2vJeSh2pKjIqORNohMfmfUKfm9Vr52jodV8etYqOOAmJNG39rjiX80zP4pBPm9YNkRNZrgkiT5OVHDilJdhoh72lnO7+gnCuAKC59j/ZlCWKfD/lJT1Ehm4cwDsflJQrySqYywKsAIJwWrytM2e5IPhjEH72N0Too+Lclc7TyybrsDrIP88/Dk+Z6s2cRluok2JSFhmQy+Su+bpD+kAI1o/Vv7l4U2RcErPvQweAU+rP1d7cRNU/AHthsXUQLmW8dggQoCsSsG53F+31R4VIP0Hws3Y7gxusXsbrVFZnObYyz9f/jycB8/ZiIBfveaIYl5gkhVEVkMm/dcTG0GSYt5vDnfb+DPu6q/qHFTHoNE2euIcECyPDxY7XdJ8Hxq/1C9gAgqzd5qD1ISke7nHVBB6J13Z3k3MVV+mdxC9I5VsTc0F7IqOZPg5bUh71FDjvTWPsoMWmBnqNMOQLGvOe27EH+Hl9F/OxZyI1w8ERVEL4xIcBpbhnlrhObknq7Syv8XKVpnVW3L3NAaNvxgnQ==;HKbdEsz1UXV8DBbcbGpIgQ=="

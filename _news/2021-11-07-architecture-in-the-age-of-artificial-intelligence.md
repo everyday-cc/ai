@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Pandio Announces Partnership with AI Infrastructure Alliance"
-excerpt: "\"Partnering with AI Infrastructure Alliance has brought tremendous opportunities and new developments for Pandio,\" said Gideon Rubin, CEO and Founder, \"We are a rapidly growing SaaS startup ready to collaborate with clients, venture capitalists, and ..."
-publishedDateTime: 2021-11-04T13:01:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pandio-announces-partnership-with-ai-infrastructure-alliance/article_3304227b-2cc2-55e7-b2e7-5175a203372d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pandio-announces-partnership-with-ai-infrastructure-alliance/article_3304227b-2cc2-55e7-b2e7-5175a203372d.html"
+title: "Architecture in the Age of Artificial Intelligence"
+excerpt: "AI - which I like to call Architectural Intelligence - is a tool that will one day allow us architects to fly. This book, like all Neil Leach's books, is a multi-perspective view of a possible future for architecture."
+publishedDateTime: 2021-11-07T03:54:00Z
+originalUrl: "https://www.bloomsbury.com/in/architecture-in-the-age-of-artificial-intelligence-9781350165540/"
+webUrl: "https://www.bloomsbury.com/in/architecture-in-the-age-of-artificial-intelligence-9781350165540/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Bloomsbury
+  domain: bloomsbury.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale/jackets/9781350165540.jpg"
+    width: 360
+    height: 563
     isCached: true
 
 related:
@@ -54,21 +54,21 @@ related:
         width: 472
         height: 315
         isCached: true
-  - title: "Architecture in the Age of Artificial Intelligence"
-    excerpt: "AI - which I like to call Architectural Intelligence - is a tool that will one day allow us architects to fly. This book, like all Neil Leach's books, is a multi-perspective view of a possible future for architecture."
-    publishedDateTime: 2021-11-07T03:54:00Z
-    webUrl: "https://www.bloomsbury.com/in/architecture-in-the-age-of-artificial-intelligence-9781350165540/"
+  - title: "Pandio Announces Partnership with AI Infrastructure Alliance"
+    excerpt: "\"Partnering with AI Infrastructure Alliance has brought tremendous opportunities and new developments for Pandio,\" said Gideon Rubin, CEO and Founder, \"We are a rapidly growing SaaS startup ready to collaborate with clients, venture capitalists, and ..."
+    publishedDateTime: 2021-11-04T13:01:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pandio-announces-partnership-with-ai-infrastructure-alliance/article_3304227b-2cc2-55e7-b2e7-5175a203372d.html"
     type: article
     provider:
-      name: Bloomsbury
-      domain: bloomsbury.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 37
     images:
-      - url: "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale/jackets/9781350165540.jpg"
-        width: 360
-        height: 563
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "p1qtAVajAFGhWDgK/OKbF/MvcXLFv/YeIVHhiwnUTA8JVpDr8bdAStgNGwkecSNmPkOmn5eaQA5GDvS/pv/4tm4DhFCPxw+nYOVGwiY8MVQObt9hVdmFpCdrmSv9BhOtYUwgrSSDoEl9D9ie/X3whtR+DfmPagTwkbxi6HvxncZCJBis5wtENaFJ6WGNJzNdYXW5W14bYKQu+anJqCxKwAFSMAKbIs6f1uRaFpg8uu6/2kZI84CMvyVlXhYeoXlqkuBjYo9ntilqUpdjyIrrMfqg9St+DPaHsTfpAi0mnMK5G9Tl0UTtjoGQOJLKhXuTtXCzdY0FQ2ynPP+AcK/x5WyMImY++gAnLyB8pZaaVeU=;075SPQXgVYsg+5gw6foGCQ=="
+secured: "IkvRVlcXoECmAI/Xhm+614gEl9bTP99DSckHXb6FxzQEshwuFiepIu3LycfpI4/jFkgJxx+5zRmKf3QAD6pDZYflX/Y1KSpluJwDog66RsPT0ZjqC2mLtnuoAH0rQ1qneIGjGx5c1bVMWHCujXCo0aYqpgKLF4AyoI9//D1exTH1Ad8stnNpIfQ5vIwZaWfzHVFTr6NwYR06r+SVQ5PRqgV+xUJWlC5Ejbke7CO/QM+MB+DGcYpzl5Qy8LWLI9UCX6TnRiOofjjJMA0cTX19HYCf0lgg9fycRC7NVkMri47EG4O+ieNQ97hn3HnspPjm0pXg9EGnzu5bFgodYMk0z91eWEnXcvbtj1NhLD34VyA=;vyBapoKvrtq+2o7HRleTtQ=="
 ---
 

@@ -100,6 +100,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Artificial Intelligence in the Vineyard"
+    excerpt: "Adopting this new vineyard technology is critical to the California grape industry. —Tom Shapland, PhD, CEO and cofounder of Tule Technologies Anything humans can observe with their eyes a computer can be taught to see as well."
+    publishedDateTime: 2021-11-03T13:00:00Z
+    webUrl: "https://wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard"
+    ampWebUrl: "https://wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard/amp"
+    cdnAmpWebUrl: "https://wineindustryadvisor-com.cdn.ampproject.org/c/s/wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard/amp"
+    type: article
+    provider:
+      name: Wine Industry Advisor
+      domain: wineindustryadvisor.com
+    quality: 57
+    images:
+      - url: "https://wineindustryadvisor.com/wp-content/uploads/2021/10/Tule-Vision-in-Use-640x427.png"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Addressing the effects of AI on nature"
     excerpt: "While there is a growing number of research publications directed towards Artificial Intelligence (AI) for the Sustainable Development Goals, there is little research addressing, the often hidden, environmental costs of AI."
     publishedDateTime: 2021-11-05T17:03:00Z
@@ -127,20 +143,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/The-Fuel-that-is-Boosting-Transformation-in-Every-Industry-.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "The Hidden Cultural Benefits of AI"
-    excerpt: "Our latest study—based on a global survey of more than 2,000 managers and interviews with 18 executives—builds on our prior research and suggests another, possibly more surprising benefit of AI: the vast majority of businesses that effectively implement the technology see tangible cultural gains,"
-    publishedDateTime: 2021-11-02T09:40:00Z
-    webUrl: "https://www.bcg.com/publications/2021/ai-benefits-company-culture"
-    type: article
-    provider:
-      name: BCG
-      domain: bcg.com
-    quality: 37
-    images:
-      - url: "https://web-assets.bcg.com/dims4/default/1c34588/2147483647/strip/true/crop/2880x1512+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F6f%2Ffa%2F3ac582d94028ac1798313ae5806d%2Fthe-hidden-cultural-benefits-of-ai-rectangle-opt.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial Intelligence is fundamentally changing what’s possible for the government"
     excerpt: "Government is undergoing the biggest and most important technology transformation we’ve ever seen. Artificial intelligence-enabled solutions will power the next generation of government by helping agencies deliver citizen services,"

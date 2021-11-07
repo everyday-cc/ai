@@ -60,20 +60,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Is it bad data or bad design causing AI projects to fall short of expectations?"
-    excerpt: "Derek Cowan, Director of System Engineering APAC at Cohesity, discusses how the right data can have a transformational impact for Artificial Intelligence and Machine Learning projects. The growing adoption of Artificial Intelligence (AI) and Machine Learning (ML) technologies are becoming key drivers for organizations looking to become leaders in their fields and earn the label"
-    publishedDateTime: 2021-11-02T10:37:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2021/11/02/is-it-bad-data-or-bad-design-causing-ai-projects-to-fall-short-of-expectations/"
-    type: article
-    provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 33
-    images:
-      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2021/11/AdobeStock_462125971-w.jpg"
-        width: 1000
-        height: 450
-        isCached: true
 
 secured: "Afiw13RKbzn4sU++ME+XCd5zVNdcCe15OC7qUHeKCoRlbtFj/Zo5QYpYSaPTqARGSy0pVgjDbcX+VLhAFBHM7NgT/kgNrOP/zBwZbdtRfE+MxrGp6X6KcOEeBPxX3dynefmDZ/ahGLv4wes2KL1GM0vK5dPrdIT1QWFSZ0xglGSmq9TDnTBijrLcRJg4az27yFkWuZnrmjsLzBsEVXqk/V4Bi5JJiPe2xZjBD3Ga6S2rIZWNsAyMoVeUnXh/p9rHtHsjZ5mOkHDUeu+17BW4JBlnR0V3PIlvWWJbXefjIfqcSl5fYCR9Ywrxh6V3vnqu6Y1dvYr0MVdlxrJUZfdU7fYmkPk+UQzTNBcBwu1l0zFfFIc/tJurFy8iUqMIO6b3F0NKGAP/IDtcgQD9DsPeRsF1RvrjP4x38tw7bd+gERvM0f0ghHx8W+o0p8Fg1vrtkPhG7dx1WhoFQxKQecgMB+n1NDxQbXwVgQGiWhztv9vmdWWj2av+x1MMqs+LanaAQaY7m3n+/RPGTzlEFsgjbQ==;QOMbKY3xSFw+gGcBSdF45g=="
 ---

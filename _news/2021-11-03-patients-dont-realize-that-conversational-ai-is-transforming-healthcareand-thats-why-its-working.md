@@ -45,22 +45,6 @@ related:
         width: 800
         height: 552
         isCached: true
-  - title: "Avoiding Shortcut Solutions in Artificial Intelligence for More Reliable Predictions"
-    excerpt: "A new method forces a machine learning model to focus on more data when learning a task, which leads to more reliable predictions. If your Uber driver takes a shortcut, you might get to your destination faster."
-    publishedDateTime: 2021-11-02T09:42:00Z
-    webUrl: "https://scitechdaily.com/avoiding-shortcut-solutions-in-artificial-intelligence-for-more-reliable-predictions/"
-    ampWebUrl: "https://scitechdaily.com/avoiding-shortcut-solutions-in-artificial-intelligence-for-more-reliable-predictions/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/avoiding-shortcut-solutions-in-artificial-intelligence-for-more-reliable-predictions/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 50
-    images:
-      - url: "https://scitechdaily.com/images/AI-Shortcut-Solutions-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
 
 secured: "nFkozUsxVGeEws4pbBedJHPrexLb1Gh+2qMLtI19J8jbG1jVoQv/tlLeNygRbu+DUFNP9fdbWvu/b6QyOk7Dxj42TNbk9KnrgzHwBTJMjbHQYXw3BvyEqXe4eVh58K4PzX+mave6t6s7CaA2n4PFSSmse1V+N+jsWOWLkxLQWMQDIXiPR4g9kyeZBGEf7g8Gr4x43kOFD+fkWjo4frRkftxfvX8sfPHEIIfQ2KDOb/4WMX2YQLDS3IG5fbqvpq8qYnS0jbzRk2cHekbq875ugENVWgkp9KZjlbdq2F+XqDuNv/XKIxYmzHlKaAJsarM6wMxaWcM1epcIwc15TXqZQ2+b2sKpHmDlQuPeDGhPRnq/bgW55g4E7lwz3UcTYOUOl1SkwKYNz8sn6huxJVMnyZ4+b38ZeE3SFzMsmJZpsoPZiEx7rxg5tX9IlPALNg/k1aEKJKPA4ZbKQtcCPM5Oar7ZWuaZHWY9fpo9ClKoAQJmPBFTacNSCBNLHSHgcocIUsXnl2N+Y8Ges3MawKNBgw==;CjzbdfgtCjYxsqtrMUc4RA=="
 ---

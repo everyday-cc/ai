@@ -418,6 +418,22 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Facebook Is Shutting Down Its Face Recognition System; Here’s Why"
+    excerpt: "Facebook has surprised everyone with its decision to shut down the face recognition system on its platform over the coming weeks."
+    publishedDateTime: 2021-11-03T06:51:00Z
+    webUrl: "https://beebom.com/facebook-shutting-down-face-recognition-system-heres-why/"
+    ampWebUrl: "https://beebom.com/facebook-shutting-down-face-recognition-system-heres-why/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/facebook-shutting-down-face-recognition-system-heres-why/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 59
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2021/11/Facebook-Shuts-Down-Face-Recognition-System.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Facebook to end use of facial recognition software"
     excerpt: "Facebook has announced it will no longer use facial recognition software to identify faces in photographs and videos. There have been growing concerns about the ethics of facial recognition technology,"
     publishedDateTime: 2021-11-02T22:50:00Z
@@ -673,20 +689,6 @@ related:
       - url: "https://www.thehindu.com/news/cities/Mangalore/rg0vwh/article37362945.ece/ALTERNATES/LANDSCAPE_615/7bgkateel"
         width: 615
         height: 384
-        isCached: true
-  - title: "Visual AI panel and musings about photographers in Facebook’s metaverse"
-    excerpt: "Visual 1st held a panel of scientists and tech gurus called \"Visual AI — The One-Click Future and Beyond,\" discussing the role of AI in visual fields."
-    publishedDateTime: 2021-11-02T10:00:00Z
-    webUrl: "https://photofocus.com/opinion/visual-ai-panel-and-musings-about-photographers-in-facebooks-metaverse/"
-    type: article
-    provider:
-      name: Photofocus
-      domain: photofocus.com
-    quality: 41
-    images:
-      - url: "https://eadn-wc03-5047357.nxedge.io/cdn/wp-content/uploads/2021/10/markus-spiske-iar-afB0QQw-unsplash.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "Inside Facebook’s decision to eliminate facial recognition — for now"
     excerpt: "Facebook’s facial recognition decision was in the works for months, long before the current whistleblower scandal."

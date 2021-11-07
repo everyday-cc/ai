@@ -7,7 +7,7 @@ originalUrl: "https://www.producebluebook.com/2021/11/02/iron-ox-releases-autono
 webUrl: "https://www.producebluebook.com/2021/11/02/iron-ox-releases-autonomous-farming-robot/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Iron Ox Launches Grover, an All-New Autonomous Mobile Robot"
-    excerpt: "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile support robot named Grover. Grover is not your average farmer."
-    publishedDateTime: 2021-11-02T10:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-environment-robotics-3def91b570ac36de404ae9d96a9c4645"
+  - title: "Mobile farming robot can lift more than 1,000 lb"
+    excerpt: "Robotics startup Iron Ox has launched a mobile support robot that can lift more than 1,000 lb and assist in monitoring, watering and harvesting a wide variety of crops. The agriculture robot is part of Iron Ox’s farming ecosystem that helps farmers optimize plant yield,"
+    publishedDateTime: 2021-11-03T12:44:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17377/mobile-farming-robot-can-lift-more-than-1-000-lb"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://electronics360.globalspec.com/images/assets/377/17377/Grover.jpg"
+        width: 752
+        height: 516
         isCached: true
 
 secured: "L1vceCp/tQCN6FAK5c1VJnV4xptsVhIlsw3FevYbMLMcgcAgtW0dqSbHC7R/baXYkb3XZWmOHpB3mP5f5kfm/xrlQ95wgEpU+3LD5CQtKYA7YtDr+6UbNkG5k86mR/C3q/B461EqbTKc4CfHTW+j2Uw96Au6J3QJKeUexMvwnvNRWwoEbg38FwJ9p2DfMKZfsvVhOSyMzzJyCeEHmlr9uRazz2uVPRdid6Gipo/wA4I4PBiXedl0rnFBMyAT5orsvpRUCrnXdd3GpEjiqWI85sLANEw7ZhrUWS+ldi2D/PY065g3LNWulVeNSdEusx1/K3bJfrg6jwunL/DHOphUuCdQ2OwZZQy54uLU5DTGBnYjifGGH3ojaTlhYgrrUTahMGlIuTHWzoC44OYc1vVY6dbAWaYTbeXDU1VsuPO0CMJ4ww0BFrx+5jPPgIbyIsPU/4oSrvPlqzX3n3zYR092XouTJVQ1kH94jrcuYBV/FpUJFa84yhxtX0tkCmb/QbZSWgeeBdkobscgqQIUK8ukGA==;9TJP9gGppZaF7a9IRKlpRg=="

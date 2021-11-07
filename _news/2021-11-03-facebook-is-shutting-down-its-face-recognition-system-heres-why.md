@@ -1,32 +1,48 @@
 ---
 category: news
-title: "Meta says Facebook face recognition system will be shut down"
-excerpt: "Social media behemoth Meta, formerly known as Facebook, has announced that it will shut down its face recognition system and delete more than a billion individual facial recognition templates. However,"
-publishedDateTime: 2021-11-03T00:22:00Z
-originalUrl: "https://itwire.com/security/meta-says-facebookface-recognition-system-will-be-shut-down.html"
-webUrl: "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/"
-ampWebUrl: "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/"
-cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/"
+title: "Facebook Is Shutting Down Its Face Recognition System; Here’s Why"
+excerpt: "Facebook has surprised everyone with its decision to shut down the face recognition system on its platform over the coming weeks."
+publishedDateTime: 2021-11-03T06:51:00Z
+originalUrl: "https://beebom.com/facebook-shutting-down-face-recognition-system-heres-why/"
+webUrl: "https://beebom.com/facebook-shutting-down-face-recognition-system-heres-why/"
+ampWebUrl: "https://beebom.com/facebook-shutting-down-face-recognition-system-heres-why/amp/"
+cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/facebook-shutting-down-face-recognition-system-heres-why/amp/"
 type: article
-quality: 159
-heat: 749
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
-  name: ITWire
-  domain: itwire.com
+  name: Beebom
+  domain: beebom.com
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://about.fb.com/wp-content/uploads/2021/11/NRP-Update-On-Face-Recognition-Technology_Thumbnail.jpg?w=1200"
-    width: 1200
-    height: 899
+  - url: "https://beebom.com/wp-content/uploads/2021/11/Facebook-Shuts-Down-Face-Recognition-System.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
+  - title: "Meta says Facebook face recognition system will be shut down"
+    excerpt: "Social media behemoth Meta, formerly known as Facebook, has announced that it will shut down its face recognition system and delete more than a billion individual facial recognition templates. However,"
+    publishedDateTime: 2021-11-03T00:22:00Z
+    webUrl: "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/"
+    ampWebUrl: "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 159
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2021/11/NRP-Update-On-Face-Recognition-Technology_Thumbnail.jpg?w=1200"
+        width: 1200
+        height: 899
+        isCached: true
   - title: "Facebook is backing away from facial recognition. Meta isn’t."
     excerpt: "Facebook says it will stop using facial recognition for photo-tagging. In a Monday blog post, Meta, the social network’s new parent company, announced that the platform will delete the facial templates of more than a billion people and shut off its facial recognition software,"
     publishedDateTime: 2021-11-03T18:20:00Z
@@ -411,22 +427,6 @@ related:
       - url: "https://cdnph.upi.com/ph/st/th/1281635877572/2021/upi_com/218c07a6c34896c22e87d6159883918a/v1.5/Facebook-ditches-facial-recognition-feature-to-delete-data.jpg?lg=2"
         width: 600
         height: 399
-        isCached: true
-  - title: "Facebook Is Shutting Down Its Face Recognition System; Here’s Why"
-    excerpt: "Facebook has surprised everyone with its decision to shut down the face recognition system on its platform over the coming weeks."
-    publishedDateTime: 2021-11-03T06:51:00Z
-    webUrl: "https://beebom.com/facebook-shutting-down-face-recognition-system-heres-why/"
-    ampWebUrl: "https://beebom.com/facebook-shutting-down-face-recognition-system-heres-why/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/facebook-shutting-down-face-recognition-system-heres-why/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 59
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2021/11/Facebook-Shuts-Down-Face-Recognition-System.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "Facebook to end use of facial recognition software"
     excerpt: "Facebook has announced it will no longer use facial recognition software to identify faces in photographs and videos. There have been growing concerns about the ethics of facial recognition technology,"
@@ -914,6 +914,6 @@ related:
         height: 675
         isCached: true
 
-secured: "2GbBLh2vam6aTe+lAnyb+sTwgtDYz7A8acXcb5fPMmUmapyLC4XMha1X5GvEonzbxSzFSGJwMRGp839Ei3C7VyNPZrqP1svCjkVGFTpai6OqidlOZIy7/dM8w7TEG6LNrUdeYj8eBC30qYMrLwbEWo+HlmD+NSXAhXKBkkF7n2dHT/IpM1V94NRpIG3ZxUS5GJ1PVWWSRzTyfGnsjKj/vSxfeAzKDNFWDy+gAR9XPLXybMmdeVU4vVBgjm9jwTjyv5DFeF2jf7qzyP2mvCjLXP4xqVKQ7WP9cIw5XVOc81EbAljzQ0q8oDcF4JJS7I4M7Iqd4P83zeaWAN+CvYs45psr25F+r9EcoPzeg2urnKs5sU176ldz00HU2TRYvIJ40+qQTlq6j2iEfrMXKEIq0Icx+v+QtEfdGsVpCArXasRP4UW66RMuNHi29X2KHxK2IzGhe6EYPf4cKxdg/OTwulhGPbp0hQR7u65TESqmBmeGk/KmiQdTRQymGMd/1vzKGk7Zh1fEG+odkYDjSkZgiO99TeGBUwllnuVIAQIwWvU=;PXYNufo5XaH4aACU8iAY8w=="
+secured: "i598Zvhv+5iXb/p02b+a6AK7Zy9zSxU7798PhAS7exDadF1dxocuFuYkYKhFpshlahnUnhqQfBAKIIyMranodUePnzm5FZVGx4u1Dh/tyiqPlzh1sqTCi3Jgw59VHGcnBkZ+mMvkGmFZkiWF24N8gVUTWR5uOB23MZ+NBGeRr9bVQV4vztFlpRWeeRR7vPPii1UHAxnxIpzYdkX8RjAbtPyKVsNougeKrPinq8sOK8aNivktO4kwjgnrCtQxKa/5FLnRI+uabBVL2sfT8P6cO0fJyvLMuZmeIDhXUZ2wYGotfL+/Zv/ZQl48UKR4ojuUctuXU1YHOA+jM26Y0oSG7sE7oLl+1WkvYjTtwOtXBzM=;6X6ORMN154nQFdxY74ZCRw=="
 ---
 
