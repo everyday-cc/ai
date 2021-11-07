@@ -290,22 +290,6 @@ related:
         width: 704
         height: 526
         isCached: true
-  - title: "Why is Facebook shutting down its facial recognition system and deleting ‘faceprints’?"
-    excerpt: "The social media giant is putting a stop to its technology that identifies people in photos. We look at what prompted the move and what it means for users"
-    publishedDateTime: 2021-11-03T03:54:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/nov/03/why-is-facebook-shutting-down-its-facial-recognition-system-and-deleting-faceprints"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/nov/03/why-is-facebook-shutting-down-its-facial-recognition-system-and-deleting-faceprints"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/03/why-is-facebook-shutting-down-its-facial-recognition-system-and-deleting-faceprints"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 51
-    images:
-      - url: "https://i.guim.co.uk/img/media/16e9552132995fbd2aa23d62830bb84e043e8b63/0_98_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=1f83e55463f1e16ca72d334eba840df0"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Governments must check if Facebook really does scrap face recognition, Frances Haugen says"
     excerpt: "Facebook made the announcement on Tuesday, partly in response to growing scrutiny from regulators and legislators over user safety and abuses on its p.."
     publishedDateTime: 2021-11-05T05:30:00Z
@@ -337,22 +321,6 @@ related:
       - url: "https://media.whas11.com/assets/CCT/images/d4f94cdf-5190-492c-a155-5f721e3672a7/d4f94cdf-5190-492c-a155-5f721e3672a7_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Facebook to shut down face-recognition system, delete data of 1B people"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete faceprints of more than 1 billion people."
-    publishedDateTime: 2021-11-03T03:00:00Z
-    webUrl: "https://www.clickorlando.com/business/2021/11/02/facebook-to-shut-down-face-recognition-system-delete-data-of-1b-people/"
-    ampWebUrl: "https://www.clickorlando.com/business/2021/11/02/facebook-to-shut-down-face-recognition-system-delete-data-of-1b-people/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/business/2021/11/02/facebook-to-shut-down-face-recognition-system-delete-data-of-1b-people/?outputType=amp"
-    type: article
-    provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 44
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/KOB5ROGZ4ZH6VMUFFMQDFU6RFQ.jpg?_a=ATABlay0"
-        width: 700
-        height: 394
         isCached: true
   - title: "Facebook announces it's purging 1 billion faceprints from its system"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
@@ -442,22 +410,6 @@ related:
         width: 627
         height: 418
         isCached: true
-  - title: "Facebook to shut down face-recognition system, delete faceprints of 1 billion people"
-    excerpt: "More than a third of the social media giant’s daily active users have opted in to have their faces recognized by its system."
-    publishedDateTime: 2021-11-03T03:55:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/11/02/facebook-to-shut-down-face-recognition-system/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/11/02/facebook-to-shut-down-face-recognition-system/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/11/02/facebook-to-shut-down-face-recognition-system/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 37
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/11/sjm-acebook-Giphy_87173674.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "With Facebook Shutting Down Its Facial Recognition, Will Other Companies Follow?"
     excerpt: "Banning the technology comes right when Facebook is also trying to pivot its public image toward its new parent company, Meta."
     publishedDateTime: 2021-11-04T18:10:00Z
@@ -496,20 +448,6 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199814388_4D1facebook1103_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 400
-        isCached: true
-  - title: "Facebook to shut down face-recognition system, delete data"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T02:11:00Z
-    webUrl: "https://apnews.com/article/technology-business-85a21a8079a757f2ff99972f1858f7ce"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/aaf359d054eb4991b8d8803ebe927f4c/3000.jpeg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "Why is Facebook/Meta making touch-sensitive electronic skin?"
     excerpt: "Facebook, now rebranded as Meta, teamed up with Carnegie Mellon University to develop ReSkin, a touch-sensitive electronic skin set to advance the use of touch in AI and robotics. Carnegie Mellon University (CMU) and Meta AI (formerly Facebook AI) claim the new tactile sensing skin will increase the sense of touch in robotics,"

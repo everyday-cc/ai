@@ -354,57 +354,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-06-credit-suisse-closed-ai-weiwei-account-due-to-missing-paperwork.md",
-      "title": "Credit Suisse Closed Ai Weiwei Account Due to Missing Paperwork",
-      "excerpt": "Credit Suisse Group AG closed Chinese artist and dissident Ai Weiwei’s account because of missing paperwork, the bank said Saturday, confirming a report by Tages-Anzeiger.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-06/credit-suisse-closed-ai-weiwei-account-due-to-missing-paperwork",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-06/credit-suisse-closed-ai-weiwei-account-due-to-missing-paperwork",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilSpd2AHSQN8/v0/1200x799.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-06T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-06-streaming-the-best-films-about-artificial-intelligence-and-robots.md",
       "title": "Streaming: the best films about artificial intelligence and robots",
       "excerpt": "A century of sci-fi films that chart our changing attitudes to AI – from Fritz Lang to Finch",
@@ -1256,6 +1205,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic.md",
+      "title": "Artificial Intelligence bot learns problematic human traits - becomes 'racist' and 'homophobic'",
+      "excerpt": "Ask Delphi is not a physical robot with a solid body. It's actually just a software that was supposed to let users ask tricky questions that do not have direct 'yes' or 'no' answers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394",
+      "originalUrl": "https://www.timesnownews.com/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgk.timesnownews.com/story/Bot.png?tr=w-400,h-300,fo-auto",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/amp/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394",
+      "publishedDateTime": "2021-11-05T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

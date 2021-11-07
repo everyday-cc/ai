@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-11-05-artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic.md",
-      "title": "Artificial Intelligence bot learns problematic human traits - becomes 'racist' and 'homophobic'",
-      "excerpt": "Ask Delphi is not a physical robot with a solid body. It's actually just a software that was supposed to let users ask tricky questions that do not have direct 'yes' or 'no' answers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394",
-      "originalUrl": "https://www.timesnownews.com/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgk.timesnownews.com/story/Bot.png?tr=w-400,h-300,fo-auto",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/amp/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394",
-      "publishedDateTime": "2021-11-05T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews.com",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-05-tencents-foray-into-chips-isnt-at-all-surprising.md",
       "title": "Tencent’s foray into chips isn’t at all surprising",
       "excerpt": "Tencent unveiled its progress in chips for the first time this week, which immediately gave its stock price a modest boost. Silicon seems distant from the giant’s main arenas of video games and social networks,",
@@ -1154,21 +1111,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-04-artificial-intelligence-may-aid-in-colorectal-cancer-detection.md",
-      "title": "Artificial Intelligence May Aid in Colorectal Cancer Detection",
-      "excerpt": "Using artificial intelligence (AI) to identify cancer is an emerging technology. Many research studies have leveraged the power of AI to detect cancer and have demonstrated how the integration of AI technology in cancer care could improve the accuracy and speed of diagnosis,",
+      "path": "_news/2021-11-04-aptiv-tops-expectations-but-chip-shortage-will-continue-to-hit-self-driving-cars.md",
+      "title": "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars",
+      "excerpt": "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters.",
       "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/news/artificial-intelligence-may-aid-in-colorectal-cancer-detection/",
-      "originalUrl": "https://www.genengnews.com/news/artificial-intelligence-may-aid-in-colorectal-cancer-detection/",
+      "webUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "originalUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://www.genengnews.com/wp-content/uploads/2021/06/Getty_1265279955_ColorectalCancer.jpg",
-          "width": 1400,
-          "height": 775,
+          "url": "https://images.barrons.com/im-345715/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1176,13 +1133,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T05:00:00-07:00",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "publishedDateTime": "2021-11-04T04:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
+        "name": "Barron's",
+        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1192,7 +1149,54 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-deep-learning-ai-explained-neural-networks.md",
+      "title": "Deep Learning AI Explained: Neural Networks",
+      "excerpt": "Ballyhooed artificial-intelligence technique known as “deep learning” revives 70-year-old idea. In the past 10 years, the best-performing artificial-intelligence systems — such as the speech recognize",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/",
+      "originalUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Artificial-Intelligence-Neural-Network-Concept-777x583.jpg",
+          "width": 777,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-ai-explained-neural-networks/amp/",
+      "publishedDateTime": "2021-11-04T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
       ]
     }
   ],
