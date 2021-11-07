@@ -2,6 +2,49 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-09-15-cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028.md",
+      "title": "Cognitive Services Market Size, Key Factors, Major Players, Growth Strategies, Trends, Forecast Till 2028",
+      "excerpt": "Going ahead, the Cognitive Services market report precisely evaluates the gross profits, revenue shares, sales volume, manufacturing costs, and individual growth rate, and financial positions of the leading market contenders.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/",
+      "originalUrl": "https://manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/2-20.jpg",
+          "width": 750,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/?amp=1",
+      "publishedDateTime": "2021-09-15T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-dish-selects-ibms-ai-powered-automation-and-network-orchestration-software-and-services-for-new-cloud-native-5g-network.md",
       "title": "DISH selects IBM's AI-powered automation and network orchestration software and services for new cloud-native 5G network",
       "excerpt": "applying advanced AI with IBM Watson and orchestration capabilities to help optimize network operations and performance. As a result, DISH can accelerate time to market for new innovative services powered by a secured, automated, intelligent and agile 5G ...",
@@ -1077,49 +1120,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-aws-announces-winners-of-the-apn-awards-2021-in-india.md",
-      "title": "AWS Announces Winners of the APN Awards 2021 in India",
-      "excerpt": "Award winners for 2021 were announced at the AWS Partner Summit Online in India, recognizing the technology leaders playing a key role in helping organisations build solutions on AWS and accelerate innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://technuter.com/tech/aws-announces-winners-of-the-apn-awards-2021-in-india.html",
-      "originalUrl": "https://technuter.com/tech/aws-announces-winners-of-the-apn-awards-2021-in-india.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg",
-          "width": 277,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technuter.com",
-        "domain": "technuter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

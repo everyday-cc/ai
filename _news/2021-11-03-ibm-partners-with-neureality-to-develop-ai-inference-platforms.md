@@ -69,20 +69,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "IBM Research Creates New Benchmark For Measuring Common Sense In AI"
-    excerpt: "The paper was presented at ICML 2021 and is produced by researchers at the MIT-IBM Watson AI Lab as part of their work with DARPA."
-    publishedDateTime: 2021-11-02T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/ibm-research-creates-new-benchmark-for-measuring-common-sense-in-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/IBM-Research-Creates-New-Benchmark-For-Measuring-Common-Sense-In-AI.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Pandio Announces Partnership with AI Infrastructure Alliance"
     excerpt: "\"Partnering with AI Infrastructure Alliance has brought tremendous opportunities and new developments for Pandio,\" said Gideon Rubin, CEO and Founder, \"We are a rapidly growing SaaS startup ready to collaborate with clients, venture capitalists, and ..."
     publishedDateTime: 2021-11-04T13:01:00Z

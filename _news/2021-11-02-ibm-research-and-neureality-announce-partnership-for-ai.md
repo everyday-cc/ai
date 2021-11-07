@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/karlfreund/2021/11/02/ibm-research-an
 webUrl: "https://www.forbes.com/sites/karlfreund/2021/11/02/ibm-research-and-neureality-announce-partnership-for-ai/"
 type: article
 quality: 169
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2021/11/NeuReality-logo-11-21.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "IBM Research Creates New Benchmark For Measuring Common Sense In AI"
-    excerpt: "The paper was presented at ICML 2021 and is produced by researchers at the MIT-IBM Watson AI Lab as part of their work with DARPA."
-    publishedDateTime: 2021-11-02T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/ibm-research-creates-new-benchmark-for-measuring-common-sense-in-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/IBM-Research-Creates-New-Benchmark-For-Measuring-Common-Sense-In-AI.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "IBM Partners With NeuReality To Develop AI Inference Platforms"
     excerpt: "The platforms will be built for such sectors as manufacturing and smart cities to deploy computer vision, natural language processing."

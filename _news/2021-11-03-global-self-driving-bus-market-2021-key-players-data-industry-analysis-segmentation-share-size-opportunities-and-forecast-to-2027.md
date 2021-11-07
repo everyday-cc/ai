@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Cars Market Size, Share, Revenue and Volume Forecast, by Type, Application, Key Players and Regions 2021 to 2025"
-    excerpt: "Nov 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Industries around the world are aiming"
-    publishedDateTime: 2021-11-02T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-size-share-revenue-and-volume-forecast-by-type-application-key-players-and-regions-2021-to-2025-2021-11-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "KKvQqITOgOJEvr6tsEf9LS++wnNWafijQLtmw3qfHWn7UhnmD+eABRFiIlQIiIFQjhLLJeo3asimyD9T2PoZj3mPFA1Rx+MoyuSNDV5OVwXQL6EqhtlLAYqZ6BgJtsr5ajaeZK3Khe61GOwQYem9unV1ljzTRhm13bOItXaZrOlpZRawc+7OiUWRDXza58wGfZrj6U+DQ53HH+htDKLyo2iBYyi3MDRMJHnLqkhn0BStB+RqM9QRgvea0MXOdvcOPD/77Pz28co1AF7xMlUCFCOS1Y9a3G8z7CQDIvJXvkR/fiqVK9bvJj+GhMnnuaZmGGkAJ06iNk61dScxkcB5OXTg/ScYncR7yQTOgYS9it8=;onYjXA0M2bpVpvxvXj+xlA=="
 ---
