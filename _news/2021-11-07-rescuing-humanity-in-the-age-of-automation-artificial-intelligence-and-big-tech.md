@@ -63,22 +63,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "Artificial Intelligence in the Vineyard"
-    excerpt: "Adopting this new vineyard technology is critical to the California grape industry. —Tom Shapland, PhD, CEO and cofounder of Tule Technologies Anything humans can observe with their eyes a computer can be taught to see as well."
-    publishedDateTime: 2021-11-03T13:00:00Z
-    webUrl: "https://wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard"
-    ampWebUrl: "https://wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard/amp"
-    cdnAmpWebUrl: "https://wineindustryadvisor-com.cdn.ampproject.org/c/s/wineindustryadvisor.com/2021/11/03/artificial-intelligence-in-the-vineyard/amp"
-    type: article
-    provider:
-      name: Wine Industry Advisor
-      domain: wineindustryadvisor.com
-    quality: 57
-    images:
-      - url: "https://wineindustryadvisor.com/wp-content/uploads/2021/10/Tule-Vision-in-Use-640x427.png"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Addressing the effects of AI on nature"
     excerpt: "The Sustainable AI Lab of the University of Bonn (Germany) addresses this topic and is present at COP26 with a unique artwork to remind people of what nature is doing and that AI is getting in the way of this."
     publishedDateTime: 2021-11-05T00:00:00Z
@@ -120,6 +104,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/The-Fuel-that-is-Boosting-Transformation-in-Every-Industry-.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Architecture in the Age of Artificial Intelligence"
+    excerpt: "AI - which I like to call Architectural Intelligence - is a tool that will one day allow us architects to fly. This book, like all Neil Leach's books, is a multi-perspective view of a possible future for architecture."
+    publishedDateTime: 2021-11-07T03:54:00Z
+    webUrl: "https://www.bloomsbury.com/in/architecture-in-the-age-of-artificial-intelligence-9781350165540/"
+    type: article
+    provider:
+      name: Bloomsbury
+      domain: bloomsbury.com
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale/jackets/9781350165540.jpg"
+        width: 360
+        height: 563
         isCached: true
 
 secured: "H7QEsy+bcSjMdrcJY6hAaOYcSFXD84En9celRvKjK9OarmE9KnxJY9vsOReL+H5CrrGUN/UhIjAGVdD5hgEBDN2k1Ulma7lNyqYWv3kLB0yIQZ+/z4XWa/9o98EFjwq6JWwOfyn2+DX0MfxQrEQ4fnasducz8dV/pY72N8nFIwfaDmGQkbUTpoNV/PENulbBCauZY0pHq6enq+A1xk/BV3qZz+X14RVopnQS34rcGoJhG8sbjKMntMs6H0VlGy0NnHqadcVBjvpQS+Ri3hiSr4G/HSMVtYQz9Df475cYX9vErEg9Ic7XU+zb8DKm/YUiZakbA4RFYq7v+1iT5Umg5k+MCg4FR80HIZ359ocYUTt4/0MyPCouIdyRDHAuGGG3GtBZJDF/h3vXUsVzFUJOIzoBbByMH+Tgw/a9/L3vRwh7/2f1nj2jhI5ZQcUlN0bLQbAw/NcLP9X6pH4cF1MQIyyR9h1aTS+/XTN6a/A61YnSxxswCWiHmmliUK1qM0zmur/JSg0YqEa0dMOKeuickg==;riIkrENZUnsQNLLMH3m1nQ=="

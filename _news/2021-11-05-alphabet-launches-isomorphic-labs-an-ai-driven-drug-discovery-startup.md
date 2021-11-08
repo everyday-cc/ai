@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/alphabet-launches-isomorphic-la
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/"
 type: article
 quality: 189
-heat: 399
+heat: 389
 published: true
 
 provider:
@@ -321,15 +321,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Model Medicines Raises $4.1 Million to Discover and Advance Therapeutics Using its AI Drug Discovery Platform"
-    excerpt: "Model Medicines, the pharmatech company working to transform the drug discovery and development process and accelerate the creation of life-changing drugs using artificial intelligence and machine learning,"
-    publishedDateTime: 2021-11-03T12:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/model-medicines-raises-4-1-million-to-discover-and-advance-therapeutics-using-its-ai-drug-discovery-platform-1030931720"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
   - title: "Alphabet Launches AI Drug Discovery Spin-Off"
     excerpt: "Demis Hassabis, CEO and co-founder of DeepMind, is the founder of Isomorphic Labs and will also serve as the company’s CEO."
     publishedDateTime: 2021-11-05T18:44:00Z

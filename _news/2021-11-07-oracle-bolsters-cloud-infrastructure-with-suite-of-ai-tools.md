@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-inf
 webUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
-    excerpt: "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ..."
-    publishedDateTime: 2021-11-03T13:57:00Z
-    webUrl: "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html"
-    ampWebUrl: "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 93
-    images:
-      - url: "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg?auto=webp&quality=85,70"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
     excerpt: "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ..."
     publishedDateTime: 2021-11-03T21:04:00Z
@@ -69,20 +53,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Architecture in the Age of Artificial Intelligence"
-    excerpt: "AI - which I like to call Architectural Intelligence - is a tool that will one day allow us architects to fly. This book, like all Neil Leach's books, is a multi-perspective view of a possible future for architecture."
-    publishedDateTime: 2021-11-07T03:54:00Z
-    webUrl: "https://www.bloomsbury.com/in/architecture-in-the-age-of-artificial-intelligence-9781350165540/"
-    type: article
-    provider:
-      name: Bloomsbury
-      domain: bloomsbury.com
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale/jackets/9781350165540.jpg"
-        width: 360
-        height: 563
         isCached: true
 
 secured: "vVX/ZbkWLdQUGcWYdaCN6ji9c2GzpmUVaPjXcd2lPnIaRBLWp9l61p/tn9V3LNUKuVZgJzsel6yJ1V9WcjFHTbz07hUDLWEJxUlXVvsfWTXsyLSTg7oDkPduBYBeoaaUNQB7nRhoahk7r/+n5tMDqkBAtdFYjlU/akn5MItj5Jqoelmd7Ru3RtkY8nPMNM/aqp69771dJLSAv14ENodtNpFy1HM03h/0Kih0CuswkQ4/0EuMFHgkAS0dXrSYn5GBEUypEsOWLp12t6QN4VtaxXGAtAmPBIJfQd6m/7BBX9d80ihqxHZ5dK7+0JNXa3TbXyvNYGuEK2M6BLdRMOAKHhV528kHwTEF/eQcrmTRiMtypRqWzv29fLKbyXGUwLjK1wR2X6WmFyC2+nwAt59nC10LjknaeNTzE6M6xkgAy16++dJxGtlQY95WCyFqoPLwjmqZN+O5uMv9z8hQv8niS+jkoQUzaGuFOTrj2Dq90bXta97bHSACrKavZ7qdVwKjoKFtXm6ncaMdq18R7UtJpw==;MAeVAoUXKphq2RDZ0EpVbQ=="

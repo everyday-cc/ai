@@ -24,64 +24,102 @@ images:
     isCached: true
 
 related:
-  - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
-    excerpt: "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ..."
-    publishedDateTime: 2021-11-03T13:57:00Z
-    webUrl: "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html"
-    ampWebUrl: "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html"
+  - title: "Governing The Future Of AI"
+    excerpt: "Where we go, AI follows—for better or for worse. These days, artificial intelligence (AI) is becoming our version of the deus ex machina, promising to swoop in and solve our most pressing business problems."
+    publishedDateTime: 2021-11-05T23:34:00Z
+    webUrl: "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 93
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg?auto=webp&quality=85,70"
-        width: 700
-        height: 467
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61724b282ff0576e24e0a2ea%2F0x0.jpg"
+        width: 1200
+        height: 897
         isCached: true
-  - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
-    excerpt: "Oracle has updated its cloud infrastructure service to include a new artificial intelligence suite of services comprising of six new tools."
-    publishedDateTime: 2021-11-07T09:07:00Z
-    webUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/"
+  - title: "Three Things Needed To Be The Perfect Partner In The Age Of AI"
+    excerpt: "Brands must be extremely agile in how they create (and continually recreate) more personalized and effortless customer experiences."
+    publishedDateTime: 2021-11-05T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/05/three-things-needed-to-be-the-perfect-partner-in-the-age-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/05/three-things-needed-to-be-the-perfect-partner-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/05/three-things-needed-to-be-the-perfect-partner-in-the-age-of-ai/amp/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/oracle_dreamstime_3.jpg"
-        width: 504
-        height: 315
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg"
+        width: 1200
+        height: 836
         isCached: true
-  - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
-    excerpt: "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ..."
-    publishedDateTime: 2021-11-03T21:04:00Z
-    webUrl: "https://www.reseller.co.nz/article/692775/oracle-bolsters-cloud-infrastructure-suite-ai-tools/?fpid=1"
+  - title: "How To Successfully Ride The Next Wave Of AI"
+    excerpt: "When it came to AI innovation, there were many sets of big waves to ride this year, like the advancements in computer vision, edge AI, and AI-driven software coding."
+    publishedDateTime: 2021-11-03T20:00:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-successfully-ride-the-next-wave-of-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-successfully-ride-the-next-wave-of-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-successfully-ride-the-next-wave-of-ai/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "Addressing the effects of AI on nature"
+    excerpt: "The Sustainable AI Lab of the University of Bonn (Germany) addresses this topic and is present at COP26 with a unique artwork to remind people of what nature is doing and that AI is getting in the way of this."
+    publishedDateTime: 2021-11-05T00:00:00Z
+    webUrl: "https://www.pressreleasepoint.com/addressing-effects-ai-nature"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
     quality: 39
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/oracle-cloud-on-building-100730618-orig_1.jpgautowebp8570"
-        width: 472
-        height: 315
+      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+        width: 256
+        height: 256
         isCached: true
-  - title: "Pandio Announces Partnership with AI Infrastructure Alliance"
-    excerpt: "\"Partnering with AI Infrastructure Alliance has brought tremendous opportunities and new developments for Pandio,\" said Gideon Rubin, CEO and Founder, \"We are a rapidly growing SaaS startup ready to collaborate with clients, venture capitalists, and ..."
-    publishedDateTime: 2021-11-04T13:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pandio-announces-partnership-with-ai-infrastructure-alliance/article_3304227b-2cc2-55e7-b2e7-5175a203372d.html"
+  - title: "Addressing the effects of AI on nature"
+    excerpt: "While there is a growing number of research publications directed towards Artificial Intelligence (AI) for the Sustainable Development Goals, there is little research addressing, the often hidden, environmental costs of AI."
+    publishedDateTime: 2021-11-05T17:03:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/934022"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/213a5cb7-3f8c-4ff9-aecf-48c228f4f71c/Rendition/low-res/Content/Public"
+        width: 560
+        height: 700
         isCached: true
+  - title: "The Fuel that is Boosting Transformation in Every Industry- AI"
+    excerpt: "AI is used everywhere. AI is boosting transformation in industries. There are several benefits of AI applications. This article shows how is AI used for transformation."
+    publishedDateTime: 2021-11-06T14:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-fuel-that-is-boosting-transformation-in-every-industry-ai/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/The-Fuel-that-is-Boosting-Transformation-in-Every-Industry-.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Rescuing humanity in the age of automation, artificial intelligence and Big Tech"
+    excerpt: "Roose counters the optimistic appraisals of artificial intelligence (AI) made by many technology gurus by identifying “four big claims” that AI optimists use in arguing that it will create many more positive than negative effects. One of them contends ..."
+    publishedDateTime: 2021-11-07T11:05:00Z
+    webUrl: "https://www.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
+    ampWebUrl: "https://amp.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
+    type: article
+    provider:
+      name: Idaho Statesman
+      domain: idahostatesman.com
+    quality: 32
 
 secured: "9S/6VEcSeysc1S2x3Aqw/3o8A6qVC9RmuNjOvqpNnpy0X3+13nUpQVtHtPYHjVhdMMBMPANSPm5LwDuitJQ/gY1Y40eJYpTU6pYVlYx/f07x4rW74J5Or1rg+y7w1OWJ00/s3ejAzCssnIOE54QvtvnA6VqjTf9Zc11I/AEfcOvdu8hxF0tcM5XyCQUmlOu6b963ZONztXRI3fhflxIDsUKKKe4Ocjw9ferwDKYKHpmPls4FiSC57lUNBnqTK9u+3ZQDmh8tzYGjaceM63ZEZtI6p0FvvrAYAD9mAhBpZETjwuMhycgBs0CjQjrWgUNlZSXniUSFtdBgPr+JokfGQtTgyT47dDK0rQv8H9VylhUTlzXdIYSAw2PZikdW1EVHndY/G40sAdQrvrINYmaM4zvYqs2LAEZWlyUAhvnh8MDimClKHNWefDqzverTbNyStYFnE6QNteGAkn6qNAKeoipYNFy/gf/ciy/NqiljeshBBnYop+OhFHNIgTQBRE+Vlz01k0FYNg0OohpD6OYY6A==;WQTn5DokGckQGwQdoWKW2A=="
 ---

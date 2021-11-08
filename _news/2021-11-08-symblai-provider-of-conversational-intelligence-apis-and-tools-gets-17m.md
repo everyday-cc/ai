@@ -1,26 +1,34 @@
 ---
 category: news
 title: "Symbl.ai, provider of conversational intelligence APIs and tools, gets $17M"
-excerpt: "Communication platform-as-a-service startup Symbl.ai raised $17 million in series A funding to develop its conversational AI tools.Read MoreRead"
-publishedDateTime: 2021-11-07T23:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/symbl-ai--provider-of-conversational-intelligence-apis-and-tools--gets-$17m-10716159"
-webUrl: "https://markets.businessinsider.com/news/stocks/symbl-ai--provider-of-conversational-intelligence-apis-and-tools--gets-$17m-10716159"
+excerpt: "Communication platform-as-a-service startup Symbl.ai raised $17 million in series A funding to develop its conversational AI tools."
+publishedDateTime: 2021-11-08T05:19:00Z
+originalUrl: "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/"
+webUrl: "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/"
+ampWebUrl: "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/amp/"
 type: article
-quality: 45
-heat: 45
-published: false
+quality: 85
+heat: 85
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-secured: "9Hq/VRBfFI10C/YfAiu8hrdPmIFxkEKKrr+/BPW3BiziEsiUyFVgv8oPDbNlgPYHAv9pXBIagRs1en1I+ByCuY5CFUh1f79vZbYVXcZ5Ic1SdSyqT5y/0/jLIpn0KwPFkVexCU/SqiSQfoO/JIV0VydUAmQyR2L/ClTjA9hAjEa2kjs+LBEn9gEqtnzryovTPN74vsZ0+F+k21B5wA7pXHPmT25nCmDZnqYTS22Y5VRnSVA7NYRoxVgtNK5/SSqlY+7cTC83/NvNV3aqHY9ViuJHGNosebanrIHVm0/IpnsljfYWECB+e9wVeadjpLpeGjivRW3vh+Yp9M+ltahMVo3j4zJ5+XUT/Ar1Q74woYY=;XaXJgrwwptVXZyWMneBsNw=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all"
+    width: 1200
+    height: 850
+    isCached: true
+
+secured: "9SAMz9/Zl+QjmYQk2VKUGCRRmySjeycIfIkZ+7E6PAutWRSeCQz9uSDUREPjtWgCgP7BYyUrfDMbDMOyNgezFhcu6iO/rG8eSWgg1usrQRu11w+lUjSxu4PwWuc4p3Dw07IPkYkwM96Cd9ugWx3bAteG5iE7KBQIj0qfcend2NpT7wYgnVvkvIFsYxtJui1HkBaapr4ZnBNObB8Thmatax2Icicc/hw+SZNQR0pMX5fLf6qgwBEME6KwjfR8a5T1eFPvXuPsl6cgZkcVPcd+scRiuOx2CuqWsFX5f2XUqxcwit2JW+SfiFPJlWhkx2w+12bVt8/QZPb1y3sb+/PzTPvqqzNFOjgIGUwlSwqJFF8=;a41QuLZKboVw8t5gE3mFnQ=="
 ---
 

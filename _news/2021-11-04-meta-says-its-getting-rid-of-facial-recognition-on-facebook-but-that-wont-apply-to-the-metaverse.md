@@ -385,15 +385,6 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "Facebook, citing societal concerns, plans to shut down facial recognition system"
-    excerpt: "Facebook only used its facial recognition capabilities on its own site and did not sell its software to third parties. Even so, the feature became a privacy and regulatory headache for the company."
-    publishedDateTime: 2021-11-03T13:33:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/03/nyt-facebook-facial-recognition-program.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
 
 secured: "Ak+6KgBmeN+wg/0f3b59G+JXzE6MOSeYXwxc18mau2QIBmGoqDxicsTii3lqg+MpDBPSMD5W56q61tbUI0kvDH+d9M6NYGGuVl9mQedA53ml+8+WYUPQ88khx97V5gf7fz9VkUuxj9INg9bw7EARCn0schLDTMviqvbz4V6BnsbVsDXn1NimqUYQ2F2WJS7/IOFWjRDqQyaTmSxBFlYJv4N0T7AaHXD1xypeXxW7iWnedOnHVcw1E/idMKxiw/KSplKSZ/CLAWF4yVygGOhK7L80XPDbVi73rx+Yyb3M9RshNaS4/zSdvEg2fxDhO/vM/j0A35EhnzcGPLhCRm0fNRb2XFMt/e/mGqcDhQe6Lcg=;1e9Y3T3Km75y/2nkVjMilg=="
 ---

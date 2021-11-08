@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 804
         isCached: true
-  - title: "Video: Watch a Waymo self-driving car navigate San Francisco streets"
-    excerpt: "Waymo started self-driving rides in San Francisco in an all-electric I-PACE vehicle equipped with the fifth generation of Waymo Driver autonomous software. The perception system allows these self-driving cars to navigate narrow,"
-    publishedDateTime: 2021-11-03T12:27:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17375/video-watch-a-waymo-self-driving-car-navigate-san-francisco-streets"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "oALBfbt6sYM/wx0Xcxh+7ZhH+LnuJC2/5neAEvS8qTc0TlLyoRGD/b5CNyV9WR9v+XB49wQOp+b/2BPAQ5CiZSpNt5SF3mHrfweVo1ooEkcFNFIxi67tagqyJ8H+ehKTcA1+eBjdipvIzmCMxgTfLeiavWtx1I2dj4x7+TfhFC8EL1lusvq1CFwV9DV68/1u1lmi2fHnyZV+T9BWS80RHtQwJNMXAObcB/b8auoJdI8o5JxRe+1p2sAuiyLARuwgyHaBGSxPPiCloJyBjo3SEiaQ1K4Ute5VOW1PnBc5jLOAOclQ+TQfZQlFKNjJwfQE4oAxOqjgw4efbVhLC0rWPn/iTy1xFluKeTtLApDyspk=;3rfbyZMSSN8/fT/0pVEuJQ=="
 ---

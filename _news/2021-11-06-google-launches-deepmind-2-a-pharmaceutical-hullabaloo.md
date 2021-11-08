@@ -77,6 +77,20 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 19
+  - title: "Using Artificial Intelligence And High Performance Computing To Speed Up Scientific Discovery And Drug Development"
+    excerpt: "The human body is an incredibly complex machine, and no one has come close to creating a complete model of how it works. This is a big challenge when it comes to developing drugs and medicines that interact with the organism in order to fight diseases like cancer or Alzheimer’s."
+    publishedDateTime: 2021-11-08T05:44:00Z
+    webUrl: "https://www.linkedin.com/pulse/using-artificial-intelligence-high-performance-computing-bernard-marr"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 17
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEa3x31d9yMPQ/article-cover_image-shrink_720_1280/0/1636350099853?e=1642032000&v=beta&t=MQO7Vr6FRgltIvFF2xoV6846o5ENOlWH54YDKGR8a58"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "/rCX5puTZkxv0PI4vmBfGlOaESvy04SoeJ1kINWC6BYmhUudUUt5Swv+eWII6aHcirXAQwephp0EqA/eT9tb/x2YYRxntaikg6b6/l/oAGmqFiegeZa6tkscNDfZ5sIHga7Q0lO8SvxRwcrD8axSn5WaUE0tkA0wf2QrYXI9br/SHK3U9KkFHQFrBpvYa9W1Zj+WRwcURod/gpCEBlKXOwQWYu0/thabWEMUcyEC5PZymYWekNZM1D7Z26xvQGVWjw1USf430kzHuTAyF93lRwZ+x/T68t+HIu8HzL5LANEcpu1ML3CVULADZDftyfPoQrWqGp9huz/qUHY/+tv0SZ97+RGcWgw8pnmN9+QeWoRxB2U6TmsYZywtl4+EOIPLtG91lbPYaRMXUUhPsZhY4fytuwUvz0dznVydw0IJcT5uDcZ0ESiac1YlJ/b6zRWiNRZIuxExClifrHbw2Ipuu4dJgjGDz/IS2t1K+3y6/I6fz3rvirYmQ0S4CnQRmwgVenWY8RhG4nEZyL0gm32BRA==;sPtuRrmScQiTw9g1+8U3FA=="
 ---

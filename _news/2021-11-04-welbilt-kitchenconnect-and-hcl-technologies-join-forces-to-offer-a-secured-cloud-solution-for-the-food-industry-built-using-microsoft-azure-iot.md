@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "SentinelOne Unveils New Zero Trust Integration for Microsoft Azure Active Directory"
-    excerpt: "Ignite, SentinelOne (NYSE: S), an autonomous cybersecurity platform company, announced the SentinelOne App for Azure Active Directory, a new solution combining endpoint security and identity capabilities to advance Zero Trust architecture."
-    publishedDateTime: 2021-11-03T16:45:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sentinelone-unveils-new-zero-trust-integration-microsoft-azure-/2021/11/03/9483827.htm"
+  - title: "Welbilt to Upgrade Cloud Solution through HCL Technologies and Microsoft Azure"
+    excerpt: "Microsoft Azure Sphere to upgrade security in its KitchenConnect internet-connected equipment and will host the solution on Microsoft Azure through a new partnership with HCL Technologies.  Welbilt KitchenConnect is an award-winning open cloud solution that offers a digital platform for internet connected equipment in the foodservice industry."
+    publishedDateTime: 2021-11-04T15:13:00Z
+    webUrl: "https://www.qsrmagazine.com/news/welbilt-upgrade-cloud-solution-through-hcl-technologies-and-microsoft-azure"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 50
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-11/webilt.jpg?itok=OXKQZf58"
+        width: 765
+        height: 446
+        isCached: true
 
 secured: "CABzyEXbg42DuIX6oVRdaIm4lH3nwe+J//RCbovJZ7usyqKIg4yAMhm5MuLsM2YYQaA7lRuVy70mt6tGFdZUcGae8ASYSl0JSncsBx9agho2a2xk4beJ4mpBx12WBTr4ayU+AiUDIU75fz10JmsZdTRz3F2JSQp0OcTlwCts4loUOiTQO0PhIv5AnMvQS23bfi+iqyReAyukUrIBn7shRhdL1+j+nWoLdnp+SH78//vwLISba4OdhslHTb9rQ6IuqkicTp2sNIzCso36Y8ykWEgyTk46dl1gNXPrcM9tfRjRwkQka1avnhHZzknp7DfG7fPg9/NEfDYD5tTx9KeiLWpjer6+ehtBPp9TZnmAkNc=;530sHeCV8bQqZT8HE/m8ug=="
 ---

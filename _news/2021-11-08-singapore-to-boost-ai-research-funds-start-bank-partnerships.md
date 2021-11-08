@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-bo
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-boost-ai-research-funds-start-bank-partnerships"
 type: article
 quality: 84
-heat: 134
+heat: 164
 published: true
 
 provider:
@@ -84,6 +84,31 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Singapore Sets Aside An Additional S$180m For AI Research, Two New AI Programmes Announced"
+    excerpt: "Heng announced that the S$180 million would be set aside to accelerate fundamental and translational AI research."
+    publishedDateTime: 2021-11-08T06:22:00Z
+    webUrl: "https://analyticsindiamag.com/singapore-sets-aside-an-additional-s180m-for-ai-research-two-new-ai-programmes-announced/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 29
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/nwy_heng_swee_keat_150619_15_2x.jpg"
+        width: 1536
+        height: 1024
+        isCached: true
+  - title: "Singapore to invest additional $180 million to accelerate AI research; launches two new AI programs"
+    excerpt: "Two new public artificial intelligence (AI) programs have been launched as part of the Republic's strategy to use the technology to effect social and economic good. These come"
+    publishedDateTime: 2021-11-08T05:26:00Z
+    webUrl: "https://technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs"
+    ampWebUrl: "https://technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 25
   - title: "Singapore Fintech Festival 2021: What to Expect and Top Sessions to Attend"
     excerpt: "The world’s largest fintech festival is coming back from November 08 to 12, 2021 to explore some of the hottest trends in the fintech space."
     publishedDateTime: 2021-11-08T01:24:00Z
@@ -98,7 +123,16 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "RadLink, Singapore's Leading Imaging Center, Adapts Lunit AI to Analyze Chest X-rays and Mammograms"
+    excerpt: "Lunit today announced a Reference Site Agreement with RadLink, a subsidiary of the Fullerton Health Group, Singapore's leading private diagnostic and molecular imaging service provider. As a leading medical AI company,"
+    publishedDateTime: 2021-11-08T06:41:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-radlink-singapores-leading-imaging-center-adapts-lunit-ai-/2021/11/08/9486043.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
-secured: "GFf7n//s06/oTGv/WBKRJut0lMfsqWs7sgoOq2v0/BokHmd/Wf1p08daGnt6/xtH6l9P7O+7QJp5vv2ZMoMo27gQFiHqq/oxe4XaOv8G1SbEUd+wMYf6Bx1jyo0Psqo0oMfcrR0+hsGGOTSFp7SU87tRbn14hdfzlST+KCrrIde9d30ljbtEcsXggndOXBFA/E3Jag2t/FHWb+8ULV6+T0K7hJL3neM0JXdTzseGMVRD5UNs3FYCEoVkEweSeAeHsHpoY9t23W3P/k6Ll+sLmeMI1pO/eD8AR1dU0HmJ8qLbUCue2px59IVTiqy9D2chf/HU4clu4pJO6e+rtiYN8H28eQN/fG4BgZG/r57GE88=;slaHRhcq86qpgm2ZGJCQKg=="
+secured: "jxCKjvdE9DQI4ViDFBHW5V4VyavaOjSXSpT8Dbafh7cFvCNC8+cckYsfxMvdne77FPXfvACCUVqYVGGAV8er8RG7sRA8EbHocgOu9/NRHCRMPU6OzRc4mwDaOz7++FeTeDySZK+Yw6SUuZbXbPoNuiksmmXtSRvzYyhUKzjkrvgW0r4vRli4EE9TFwT+xEEwpadP/9/CLnblEsRxZJEc62qia0T4R8HmPrx742uMSoj6Xa+jA1fiIQ0+muEtxJn9rk2E1V3gqVEJlQ+vVOEsxdY58g4acRYSBhQZWVCusq4jxM66bkmG7VwqYLGQMgA/oPDonxOhsEGatE2lYseoRXUJ9n7IJnRVMEgi37ygYaVZTYOOYMXTsPsedXS4JIlHI4+lfHDwqJawFSQzZYUNKQmxWp1F89urKMkG45ftHrRkrhZyQo1iwZljDC+qdtxmCjFAiMTyIglP4d8HGdJHVQSEG0arCBndMe8EQSgjB0eLwWRYaEcsjoTl5V6aR0/D3k3EN/J4zab1yqMp90EFKw==;ekR4+HincIRHpI5zSarDbA=="
 ---
 

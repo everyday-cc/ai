@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 619
         isCached: true
-  - title: "'Hi. Nice to meet you': North Korea uses robots to teach English and 'enhance children's intelligence'"
-    excerpt: "The country's demonstration of robots in classrooms follows a push for education reform and technological innovation by North Korean leader Kim Jong Un."
-    publishedDateTime: 2021-11-03T13:36:00Z
-    webUrl: "https://news.sky.com/story/hi-nice-to-meet-you-north-korea-uses-robots-to-teach-english-and-enhance-childrens-intelligence-12458836"
-    ampWebUrl: "https://news.sky.com/story/amp/hi-nice-to-meet-you-north-korea-uses-robots-to-teach-english-and-enhance-childrens-intelligence-12458836"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/hi-nice-to-meet-you-north-korea-uses-robots-to-teach-english-and-enhance-childrens-intelligence-12458836"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 43
-    images:
-      - url: "https://e3.365dm.com/21/11/1600x900/skynews-robot-north-korea-flag_5570091.jpg?20211103122720"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "Inf4p2ZntEUT/LsgleEKy2hg18cmcVZJ5P1lXkrfznM5ejq14NeuFoB4tLnaFMmL5vXDOdrLCOSzdUdkcXim5nmiF3uxP3DmzLsarTlNYS//rAqPh0eXIOoZWObehRyM5RYqfn5SkPCf0dNOqwJ01sGfToBDiKsvMaWOdijAluoHZGuA5XnaEc9mJU+k8sQOO9I2tbVONOBkt0u8XHjJbH3sFDY7MlMbblABua/DqnnkaMmkf87UDgX3qa1HyZi3V0ujK4/fLrCuHNAtLTJ/JtF3ecLvejPckwWi4IjcZs2HPqt/lvtmOJfcLY2FJySbzeWi8eVaFXM4Q05Q8uJF44yX+FkCXHa3dahpTZWDAIs=;szJBCiDwMxtbq0u+5hjnjQ=="
 ---

@@ -22,38 +22,6 @@ topics:
 
 related:
   - title: "Robots hit the streets as demand for food delivery grows"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
-    publishedDateTime: 2021-11-03T13:12:00Z
-    webUrl: "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php"
-    ampWebUrl: "https://www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Robots Hit The Streets With Rising Food Delivery Demand"
-    excerpt: "Years back, it would appear an illusion to have machines perform human tasks like helping to deliver messages. It would"
-    publishedDateTime: 2021-11-03T12:55:00Z
-    webUrl: "https://techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/"
-    ampWebUrl: "https://techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/?amp=1"
-    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/robots-hit-the-streets-with-rising-food-delivery-demand/?amp=1"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 59
-    images:
-      - url: "https://techbooky.com/wp-content/uploads/2021/11/delivery-robots.jpeg"
-        width: 1024
-        height: 731
-        isCached: true
-  - title: "Robots hit the streets as demand for food delivery grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
     publishedDateTime: 2021-11-06T22:00:00Z
     webUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.html"

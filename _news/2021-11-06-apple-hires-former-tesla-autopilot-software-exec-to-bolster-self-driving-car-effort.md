@@ -59,6 +59,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple hires former Tesla engineer to boost self-driving car effort"
+    excerpt: "Cupertino, California-based Apple has tapped Christopher Moore for its team working on a self-driving car, the report said. Apple and Tesla did not immediately respond to Reuters requests for comment."
+    publishedDateTime: 2021-11-08T05:27:00Z
+    webUrl: "https://cyprus-mail.com/2021/11/08/apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort/"
+    type: article
+    provider:
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 39
+    images:
+      - url: "https://cyprus-mail.com/wp-content/uploads/2021/11/apple-tesla.jpg"
+        width: 1107
+        height: 731
+        isCached: true
   - title: "Uber, Aurora co-founder are big winners in self-driving tech company's stock debut"
     excerpt: "Two stakeholders in Aurora own more than $1 billion of the company's stock after its first day of trading as a public company #selfdriving #wallstreet"
     publishedDateTime: 2021-11-05T14:16:00Z

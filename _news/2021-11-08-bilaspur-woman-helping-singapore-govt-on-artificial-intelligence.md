@@ -79,6 +79,31 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Singapore Sets Aside An Additional S$180m For AI Research, Two New AI Programmes Announced"
+    excerpt: "Heng announced that the S$180 million would be set aside to accelerate fundamental and translational AI research."
+    publishedDateTime: 2021-11-08T06:22:00Z
+    webUrl: "https://analyticsindiamag.com/singapore-sets-aside-an-additional-s180m-for-ai-research-two-new-ai-programmes-announced/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 29
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/nwy_heng_swee_keat_150619_15_2x.jpg"
+        width: 1536
+        height: 1024
+        isCached: true
+  - title: "Singapore to invest additional $180 million to accelerate AI research; launches two new AI programs"
+    excerpt: "Two new public artificial intelligence (AI) programs have been launched as part of the Republic's strategy to use the technology to effect social and economic good. These come"
+    publishedDateTime: 2021-11-08T05:26:00Z
+    webUrl: "https://technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs"
+    ampWebUrl: "https://technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 25
   - title: "Singapore Fintech Festival 2021: What to Expect and Top Sessions to Attend"
     excerpt: "The world’s largest fintech festival is coming back from November 08 to 12, 2021 to explore some of the hottest trends in the fintech space."
     publishedDateTime: 2021-11-08T01:24:00Z
@@ -93,7 +118,16 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "RadLink, Singapore's Leading Imaging Center, Adapts Lunit AI to Analyze Chest X-rays and Mammograms"
+    excerpt: "Lunit today announced a Reference Site Agreement with RadLink, a subsidiary of the Fullerton Health Group, Singapore's leading private diagnostic and molecular imaging service provider. As a leading medical AI company,"
+    publishedDateTime: 2021-11-08T06:41:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-radlink-singapores-leading-imaging-center-adapts-lunit-ai-/2021/11/08/9486043.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
-secured: "ipZeAmCzDdcIvUaaLq1eGGtx8uqnXtaphmnlQ8IoyHb4L9Oj/XuWBjxDTp+j85L6b1Y62EOSdpEG0F4W8kvvmpUI3YRO+eoAto1Hak3YVaveiI0ApC5S5qCwqa13ltuUAuH9SXT2i7XpSS+riTKL/uKmbJWvC4PVb6AeF2OiHt8uPsc/Ev+S+F53YEdNRPiAKZBbdExZOI5oVKPChXQ2ZXkhuUkhIcIToEZHs981Z0KlB9btl705wGs9IEp5U+5g4lYC+osFaksC7PmO605ZPVXPcaP9cFg3Fzpek+ORpBdf6/gIc9y1fOO+VKEGeImB+l5SPqm+fjxMPltKzqM45SPEkT/UbRBWvuhaFT9FJ34=;j10HVKpuL69pV52QUqYADg=="
+secured: "CiMAU2hkLL+4LB8BKvvf2FwXmz09HXv57jEUaxRiOaDPmiocOFZtKGhw6BkXlI4ciKTAfYxCENit25trLoA+TBK3AI/IYEpAEw7CyF7T+Xmvwlz6zeYaf37ScvfSAhNd2yWMIHDaFLFRXWEf9/chLHzBxDe2PN4/gf+LGmJf61wJozonP7H8vARuqS+YIpL3CgdRnKQABW8BDs8Z0WOoSJTRdDRmgdbIhNZQHkUi3zwIuWTGCy4f9uGOBqLcRAzzdXP95QmpK3/tQFIqTrwZ+g5c7lOPSgSdE8PAafKdMJA8iY9BZZdxBMNDi54vFfNXB5Orfqd1pNOl2HNa8S2iz5ADCf5zquXawNUtMCBCG0MHs0waPuCUv4SS3YipU5ntbYwA6JwyIyVmzv+C45HqsBnku7WPc9hrnVOVnjIAW7bbVBFWspBlb/H+a5gRbvEqcGIv76Kv2ggFC1LTaRIIDHkvH0RPHKkoUaxXoGX+8dED6BTnL4AzaQI7gqEh82M0a/WLyViPr3qDNt2iv2Vyxg==;qvMcXrkLdPYmQTi/KUu5Dw=="
 ---
 

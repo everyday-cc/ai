@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/in/news-releases/engagely-ai-launches-v
 webUrl: "https://www.prnewswire.com/in/news-releases/engagely-ai-launches-voice-ai-cloud-to-empower-contact-centers-878134541.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Engagely.ai launches Voice AI Cloud to empower contact centers"
-    excerpt: "Engagleyai a leading Customer Engagement Automation Platform has launched the AI powered contact center automation platform on the cloud to deliver personaliz"
-    publishedDateTime: 2021-11-03T12:58:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271643932/engagelyai-launches-voice-ai-cloud-to-empower-contact-centers"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Engagely.ai Launches Voice AI Cloud to empower Contact Centers"
     excerpt: "Engagely.ai's Voice Bot is powered with proprietary deep NLP engine and Azure's Cognitive AI capabilities. It is more than capable of understanding customer queries, discerning them & replying ..."
     publishedDateTime: 2021-11-07T18:36:00Z

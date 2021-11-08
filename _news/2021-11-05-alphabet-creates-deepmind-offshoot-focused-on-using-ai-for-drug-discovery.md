@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/alphabet-creates-new-subsid
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 19
+  - title: "Using Artificial Intelligence And High Performance Computing To Speed Up Scientific Discovery And Drug Development"
+    excerpt: "The human body is an incredibly complex machine, and no one has come close to creating a complete model of how it works. This is a big challenge when it comes to developing drugs and medicines that interact with the organism in order to fight diseases like cancer or Alzheimer’s."
+    publishedDateTime: 2021-11-08T05:44:00Z
+    webUrl: "https://www.linkedin.com/pulse/using-artificial-intelligence-high-performance-computing-bernard-marr"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 17
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEa3x31d9yMPQ/article-cover_image-shrink_720_1280/0/1636350099853?e=1642032000&v=beta&t=MQO7Vr6FRgltIvFF2xoV6846o5ENOlWH54YDKGR8a58"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "YYLgsvsK13prryxMzAm/VZNPcDTuDtHYLWyRAsHe1i+S2fgeRWiz7nJqA2MhL9OBHFMiqeROh4ok0Y2Tm3gizi+mp4sxXZqzeLEyv8RE9LEjbr+Tm3voecCdkftOIeHPYipUJf4jM0TpSsNtJNIcrSqav7w9UeZHwMGQz7e3fxrAbJRK/Wz7/V8bsmOntO/ZILyFa3pmAKnfdp4RnwbGowVIeDv7WxcS7DTz5jGsBcUEvCbhDrjG7rvz5hoQ9p+yGlRtE/5GYeKfJSiLcWu0Uqzvg09h34ek8qsqIK84OPMCSDPvQRE+ERrH6J98vu9uEbrZc8ZXynFcjcVZlC6EGepv4qRcHp68nU7UflCkLqoyyu0mqJT+BIkITxBcjf0wjdUdc4ytkCFv1Js2pNjnO60dkhFUD6rCDGOs0PBOcYBuipES1Rn78aTyKQR4Z8QXakEA3mRzJ/VA0gAbxXniCZCmn0ESDbPogJtBArUNMwSgz6R59d/nE/9ChMLWb/U8GiMJ4MgxL//Uqbsyk4WzoA==;h7b8FKGYKYSg4ggjayiy0g=="
 ---

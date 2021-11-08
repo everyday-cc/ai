@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Engagely.ai launches Voice AI Cloud to empower contact centers"
-    excerpt: "Engagleyai a leading Customer Engagement Automation Platform has launched the AI powered contact center automation platform on the cloud to deliver personaliz"
-    publishedDateTime: 2021-11-03T12:58:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271643932/engagelyai-launches-voice-ai-cloud-to-empower-contact-centers"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Engagely.ai Launches Voice AI Cloud to empower Contact Centers"
     excerpt: "Engagley.ai, a leading Customer Engagement Automation Platform has launched the AI powered contact center automation platform on the cloud"
     publishedDateTime: 2021-11-03T20:08:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/news/world/1516828/north-korea-news-boost-
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1516828/north-korea-news-boost-english-education-robot-teachers-ont/amp"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F11%2FNorth_Korea_Robots.jpg"
         width: 1200
         height: 619
-        isCached: true
-  - title: "'Hi. Nice to meet you': North Korea uses robots to teach English and 'enhance children's intelligence'"
-    excerpt: "The country's demonstration of robots in classrooms follows a push for education reform and technological innovation by North Korean leader Kim Jong Un."
-    publishedDateTime: 2021-11-03T13:36:00Z
-    webUrl: "https://news.sky.com/story/hi-nice-to-meet-you-north-korea-uses-robots-to-teach-english-and-enhance-childrens-intelligence-12458836"
-    ampWebUrl: "https://news.sky.com/story/amp/hi-nice-to-meet-you-north-korea-uses-robots-to-teach-english-and-enhance-childrens-intelligence-12458836"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/hi-nice-to-meet-you-north-korea-uses-robots-to-teach-english-and-enhance-childrens-intelligence-12458836"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 43
-    images:
-      - url: "https://e3.365dm.com/21/11/1600x900/skynews-robot-north-korea-flag_5570091.jpg?20211103122720"
-        width: 1600
-        height: 900
         isCached: true
   - title: "North Korea using robots to teach children English and 'enhance intelligence'"
     excerpt: "North Korea is using humanoid robots to teach children subjects like English, maths and music. A toy-like robot with the country's flag on its chest was demonstrated on state television KRT following a push for education reform and technological innovation by North Korean leader Kim Jong Un."

@@ -72,6 +72,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Using Artificial Intelligence And High Performance Computing To Speed Up Scientific Discovery And Drug Development"
+    excerpt: "The human body is an incredibly complex machine, and no one has come close to creating a complete model of how it works. This is a big challenge when it comes to developing drugs and medicines that interact with the organism in order to fight diseases like cancer or Alzheimer’s."
+    publishedDateTime: 2021-11-08T05:44:00Z
+    webUrl: "https://www.linkedin.com/pulse/using-artificial-intelligence-high-performance-computing-bernard-marr"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 17
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEa3x31d9yMPQ/article-cover_image-shrink_720_1280/0/1636350099853?e=1642032000&v=beta&t=MQO7Vr6FRgltIvFF2xoV6846o5ENOlWH54YDKGR8a58"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "jVuCIuU1BOQQ0opa/Sl7Xxtcg8tXbAI53BHMRZmCJaaBcoG5cePDISzQawg5R42WO1B7fFZBpmiPlo+pB3Uwnf+KNNB7vQkG5IB4Znj7F7hwXf4JhI2XJFwkhmr3H5IEhItVbkReJp2X4GTqms2fvbg9KavE6DD2tvNmlxgeYiGp4OjMl3Xqt2jeqiWwXcB5wuXPHrWRvXxcd/o9co1jnfLaXEVouuWN2RMTnvANj7I4d+0uIQ4txrriqMxShiQw6PH4YgHBKxDc7iCfauFSSGCanCyIUPXzaaQj9TkBn/UKMQy+NDzAceYDrTcVg5wEmQFgjK5QD7QoRsUF4D2ZZBgQFE2TySBGbv8A4+0wew4=;J12HFsvroYtLutjdNvh/jw=="
 ---

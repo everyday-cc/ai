@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vox.com/platform/amp/recode/22761598/facebook-facial-rec
 cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/22761598/facebook-facial-recognition-meta"
 type: article
 quality: 159
-heat: 409
+heat: 399
 published: true
 
 provider:
@@ -381,15 +381,6 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "Facebook, citing societal concerns, plans to shut down facial recognition system"
-    excerpt: "Facebook only used its facial recognition capabilities on its own site and did not sell its software to third parties. Even so, the feature became a privacy and regulatory headache for the company."
-    publishedDateTime: 2021-11-03T13:33:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/03/nyt-facebook-facial-recognition-program.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
 
 secured: "VZ+to+XWYhEnfh8vN4g5/AoycuJgpTtfZbEwxn0Q1wp8VYD29cb/L+m4d2fwanhkUfV4pK4r8tWwQMqqY35FkJjZpK7E/Gl0xfXZBmvYv82oZyGl2kMCUMJOFY4h+ziEmJNIeMa76omE7PkgGUvH64N/WWYoqo05ifM3eJpuGzWF5f3LRNHAIgJe8/HhyLgzLtJsboJin2jqT6IRM/qr94GauO5F3lBblxH7mG7lamW0lUhKOVsizbnrIlO59DA8yh37gDUMDQKlb/WpoDZzK4we63c1VGqLvMflIgNLOag8peTz6ewPlJBWSzQj5/V2B3lUdFnRVFyG7ImkfIYAb2W5owFzkEkbdW2jvv07atUdIdAx2CjSOq3f80fqSXlQIz1o0J2V8gzBLUZ/188zPudsGv0w1KqeURUkooJ9h1BQPiB4RfL/jmFQ+3NoKq86GRZvOobNY04KfpxY+M/0FLOH23R5KfS01UY1XdnsgIXlZ3r6tgVytxZO9kfZMYRPsBPkpE2GHKPWIkdNceLX8KoUzGjRH1WkmHNmSbp8jo8=;pqmH3nJa+nRiYgGKNyqIRQ=="
 ---

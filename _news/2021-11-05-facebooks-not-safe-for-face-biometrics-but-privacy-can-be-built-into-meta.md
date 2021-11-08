@@ -381,15 +381,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 26
-  - title: "Facebook, citing societal concerns, plans to shut down facial recognition system"
-    excerpt: "Facebook only used its facial recognition capabilities on its own site and did not sell its software to third parties. Even so, the feature became a privacy and regulatory headache for the company."
-    publishedDateTime: 2021-11-03T13:33:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/03/nyt-facebook-facial-recognition-program.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
 
 secured: "l508cXMx4Qu2qq8jgd3D56Fd09NlUG3Mv09Ur9i+/ljxwqjqpChbJXn85Rah5x5E/k9v/kFhqHRflQX9pfRGxMvltRwn3srbfLvUbz/SSSX8qkRit/2/yTMn4XaW7aVOWSlcU6AanWZPjZssYiilW0lg0haWYMwQAjlblR12vApqptYrN7uaucs8GzQpsjWp3mQwxDGEO/+yhnfrjPNG/JEdbXZIc1pZX4rHqntlAl9gVdIGENZ2xQ7ozLyZRemFK8nkEJ37QJd9zq0OeBfuw0wKrsdw3qRs2Vvm5EPGHPVOfmPmGu13s44j3CrZs+ysqIEEOmVZr4+qzFptv/YgcK2KT2yRopwaLqLOmeYMVVF68zQDgo5vJ2SBzLEyzcKx/nkUQx6TouLy2Q6F6Ptczi6dd4qd6vpz42A5ll2pvYdwnfkrSVCvUMnWE8ISPpfjfdMiEtd5qdTbwIMX/AzrGEbk+Uy5Qx0zYtWI5+PXDgE8s+VcUuqyPJ2QIkVzcRpQTg9+WnDIxuhzqPpmOg/2yg==;TX+u8g0SynDwhvP0VWJPGQ=="
 ---

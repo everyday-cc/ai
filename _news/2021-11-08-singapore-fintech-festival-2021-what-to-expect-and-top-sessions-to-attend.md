@@ -94,6 +94,40 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Singapore Sets Aside An Additional S$180m For AI Research, Two New AI Programmes Announced"
+    excerpt: "Heng announced that the S$180 million would be set aside to accelerate fundamental and translational AI research."
+    publishedDateTime: 2021-11-08T06:22:00Z
+    webUrl: "https://analyticsindiamag.com/singapore-sets-aside-an-additional-s180m-for-ai-research-two-new-ai-programmes-announced/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 29
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/nwy_heng_swee_keat_150619_15_2x.jpg"
+        width: 1536
+        height: 1024
+        isCached: true
+  - title: "Singapore to invest additional $180 million to accelerate AI research; launches two new AI programs"
+    excerpt: "Two new public artificial intelligence (AI) programs have been launched as part of the Republic's strategy to use the technology to effect social and economic good. These come"
+    publishedDateTime: 2021-11-08T05:26:00Z
+    webUrl: "https://technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs"
+    ampWebUrl: "https://technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 25
+  - title: "RadLink, Singapore's Leading Imaging Center, Adapts Lunit AI to Analyze Chest X-rays and Mammograms"
+    excerpt: "Lunit today announced a Reference Site Agreement with RadLink, a subsidiary of the Fullerton Health Group, Singapore's leading private diagnostic and molecular imaging service provider. As a leading medical AI company,"
+    publishedDateTime: 2021-11-08T06:41:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-radlink-singapores-leading-imaging-center-adapts-lunit-ai-/2021/11/08/9486043.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "WU2Z41N8NpJIg28ZmMtMHV1fr5TvHMb/zmbddumpnU/0MpPasBv4E1pnAcA0v9nzpEqdExeq1swkiFfvtIs/lwvERCVbmPRJCgJWuCGhUDAz6JhSrD7kI/UP/qy63RfFzeKpeWgLO9QhpXeRmQiTU2fYCA5Id/OUs6UkI6AXi5fwSe1zJ9HBlH82k5zkWfFO9puqH/W7MFV0KBcrdghNEwZ+diW7ZuuGKka++ZpUryYGvUujVMfn/oUmI7HalKY91JUbV26zbsLJKwsI91z/zrUslS4P2T/QT0bBeshf+Z3w5iJ1DyvhmPV9Xu7C2WDhS0f1nRuZa7y1dOTjZ61x5AZX/mXSlDgvZCNop9wYbzA=;gnoViRXmWbRiZegJMhMQ/w=="
 ---

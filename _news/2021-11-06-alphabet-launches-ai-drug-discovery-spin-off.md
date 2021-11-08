@@ -325,15 +325,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Model Medicines Raises $4.1 Million to Discover and Advance Therapeutics Using its AI Drug Discovery Platform"
-    excerpt: "Model Medicines, the pharmatech company working to transform the drug discovery and development process and accelerate the creation of life-changing drugs using artificial intelligence and machine learning,"
-    publishedDateTime: 2021-11-03T12:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/model-medicines-raises-4-1-million-to-discover-and-advance-therapeutics-using-its-ai-drug-discovery-platform-1030931720"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
 
 secured: "9aKsiUPj91AoDaLSSF31w7JwIrNWkuEqfwzD8sp/YMedVphGnYurCrievbf8KKHJILbOT8gCzKCu7K8TvNzuxvW+arJeV5w5c+f3RBYEeOuPm3tIkLKNxbUHsGw8imXKQ5wjoI9K3vPrxaDWEYVshs2sJVznsJS7g81wsm0Ll8ApxLX0WPWXOQw4aHvAhtp5n2oCZplFPSRwGD1bQhhcuV81zdex+a2mKOounECXuiVsPCGf4rK6I3PruGGrJvc5lbBvK20qjCSDVhWhZZ0xjbWHZd2a/uk6r6DD3xiu+7LE5Hl/ApuooiQQBrJpg6OEP1iSpIUvSvwufrZ6gJyPX5ngkL3MBRuqkJEyNyu0Y5A=;1x29fA/7FuK4Q2U2jFSvPw=="
 ---

@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
-    excerpt: "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ..."
-    publishedDateTime: 2021-11-03T13:57:00Z
-    webUrl: "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html"
-    ampWebUrl: "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 93
-    images:
-      - url: "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg?auto=webp&quality=85,70"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
     excerpt: "Oracle has updated its cloud infrastructure service to include a new artificial intelligence suite of services comprising of six new tools."
     publishedDateTime: 2021-11-07T09:07:00Z
     webUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/"
@@ -68,20 +52,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Architecture in the Age of Artificial Intelligence"
-    excerpt: "AI - which I like to call Architectural Intelligence - is a tool that will one day allow us architects to fly. This book, like all Neil Leach's books, is a multi-perspective view of a possible future for architecture."
-    publishedDateTime: 2021-11-07T03:54:00Z
-    webUrl: "https://www.bloomsbury.com/in/architecture-in-the-age-of-artificial-intelligence-9781350165540/"
-    type: article
-    provider:
-      name: Bloomsbury
-      domain: bloomsbury.com
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale/jackets/9781350165540.jpg"
-        width: 360
-        height: 563
         isCached: true
 
 secured: "dohRrHBidnj9fOCsJaifepKrOeVDL+Y2IbsuxBzyDUgufWrSaT794xMPAPz0osezyqr0NpzHKJ6/6Q1wwTI5wpsJIz2uOUoiy2yRSq8jCRZXAEtGLURsqUntkH61aL+w+IdDbwCeZPz072BEL06IsTJtWCS5Gt+GRGbbgA2MDo4fj2Sj/KfEJHC0T+FQ1wTgt9jaTkiMWnxunLjsGBjQWgmUyTtYiS5r4q2lYafJM64Jng2m3p3dI38mEkH2OJ9zm+n4M3yXFeijwr9BS7KuDQQgKBlpsKjDquVG5Mi+E4gHbIxSPYBwdNQbYDEwzi/oV7YG47Tr1ac8kcyBm+SolpUaLqHtcgJLy1IsnEo3mubxha1ia+tLRUPxRWVn2QkEUrpmjocXk6pguOJPkVHF3V3DvKp6N8cP/AGMsLEbAIabAbqCD4oQjwGbKBpXy0/Bcj1JZzcKBj5sKKxyRi6VPwcz79OKvTAUGIcjlASV4yNw4Xd0IwYG7dXGC0pFPxaFra4/pnw0QaZcn/awp9m2eA==;uSNF6drbWHDsVtxzHGEm1g=="
