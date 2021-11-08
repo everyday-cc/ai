@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Real-Time-Dhaka a machine learning base Android Application"
-excerpt: "Real-Time-Dhaka a machine learning base Android Application. Bangladesh is the ninth most populous and twelfth most densely populated country in the world. In the year of 2012 sta"
+excerpt: "Contribute to mesba-islam/Real_Time_Dhaka development by creating an account on GitHub."
 publishedDateTime: 2021-11-07T18:07:00Z
-originalUrl: "https://github.com/mesba-islam/Real_Time_Dhaka"
-webUrl: "https://github.com/mesba-islam/Real_Time_Dhaka"
+originalUrl: "https://github.com/mesba-islam/Real_Time_Dhaka/blob/main/README.md"
+webUrl: "https://github.com/mesba-islam/Real_Time_Dhaka/blob/main/README.md"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 600
     isCached: true
 
-secured: "2PUXJrIkeppERM59pWnUFrJJS3McBh0L/X8noARc7p0YsqtRvpcOpI0j1EfZIlMhs1GJOoRl4+D1x5NY6gO2pCm4QL8JBhBK5o+yLWu9I6TnaNbyrgDohnlqPZ1/g+SUJtcR/LU3I0Yo4mQkhUtb04iK3IrX7eGxd06ZyVbeX359QieHUANUfIUsOaWcEMmN6Wmap1KJYj4r6oNL229wHyxC3e3SGWk19QN0+pAwbr98wDS6aSEXBlLthTHZ2fjOKv67ksq36PnxGtukzAttYsq7LQ7S4p6F4sM0p53s1Epm7rbLrePYr3du/kIWL8gEtZn2Xd70vkEqu7+wmJRn57iEOoWqIzKNcBl0g+ntW7o=;cs13fit4CsQ25YdUD9wGQw=="
+secured: "9hrWRvwaFNW2bJN5qgrL1ZGrzZE/QpvW/v8kALl2AM1uo90WdaoRi/0W3nNQTVB6CWX+Lr/bH+XGza1D/S2KTbjwRV1zSovtq0+/xEKrZriD0UO/DYyqZ2Y9Rexv+r3vYQMGVZEBOW+WbW0UfLrTfsWAY92Z/yW26wBBd2aRBcqejrxmXf/hOK42KmhJvTVSvNuv/uNwtAGeMlEOU8rMHY6rzFqWOymYcxV9LuaFMo8xKBGCzmvJKRSMXN4TYnm93kDrfBYFmPnw177FIIfKUDYenXwoN6fKCqnfaYf3wa/AKP8CHaS0gZCmt1MnKYSCxp0fhT1KDw9+DGrfSW9z04Ybf064RVJvhotrX2PMiiE=;eIwiZ/dRTBicY48d8aeAgA=="
 ---
 

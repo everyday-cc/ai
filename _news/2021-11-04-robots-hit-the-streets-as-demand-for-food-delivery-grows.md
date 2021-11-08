@@ -69,22 +69,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Robots are Taking Over on Streets as Pandemic Paves Way for Contactless Food Delivery"
-    excerpt: "While robots were being tested in limited numbers before the coronavirus hit, the companies building them say pandemic-related labor shortages and a growing preference for contactless delivery have accelerated their deployment."
-    publishedDateTime: 2021-11-03T09:30:00Z
-    webUrl: "https://www.news18.com/news/buzz/robots-are-taking-over-on-streets-as-pandemic-paves-way-for-contactless-food-delivery-4398593.html"
-    ampWebUrl: "https://www.news18.com/amp/news/buzz/robots-are-taking-over-on-streets-as-pandemic-paves-way-for-contactless-food-delivery-4398593.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/robots-are-taking-over-on-streets-as-pandemic-paves-way-for-contactless-food-delivery-4398593.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 52
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/11/robot-163592962016x9.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Robots hit the streets as demand for food delivery grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
     publishedDateTime: 2021-11-06T11:45:00Z
@@ -99,17 +83,6 @@ related:
         width: 337
         height: 250
         isCached: true
-  - title: "Do I tip the robot? Food delivery changes as demand grows amid the COVID pandemic"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
-    publishedDateTime: 2021-11-03T09:58:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article255505791.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article255505791.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article255505791.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 34
 
 secured: "ku5m0634ho5wdc6aOKxsG0M/Vse6thwpdIDh9PvRff5nCrnJoqdr60eS5V35JUNT2mrMfICWmsTioIAGbAjXOkJHh6siJFBJAsxYjPLccp8zf54j70VA6g7UJ+ofWTqbiKmYLKMXQiqkAauwqYQ57b4tpFQDULlpMVkV04E6EwMwV0aoKFvzxV6KuLgacD+GjYjWaCA9ozl9dQ/w7gNiQ3SJaCbvAVbY3pna/FnKwDARx2XAs39pfhdDfVSJSHGrXVGu3pC3FufjAPnPzJANmsSrfeW52u0bHOCMUrV815BgjYCnY8dKhPO7DWhIrnOsp2reIEvIX+OBiVBLmN1HYPcI+07jvXemEB71wKrxoJf5wPYlPXRX93loi9UzaPl0OB+vV9C/H8BuIsNypUAI6pjCWf2QvbHZqaFVE8VWt/lCu1Yggk0lmvgXaLJgYRRciUC4So2TSGdHCb6VjXC2jKZTS/Gq+7cQyiUQfbMlZmkM6o7jm9/D7/XKKKUtLHci6B9lh0MQAx+hCjaHBQDCQQ==;/D5fsGI9DsFygzfk+gjkoA=="
 ---

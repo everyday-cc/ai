@@ -161,22 +161,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
-  - title: "Facebook is shutting down facial recognition system after a decade"
-    excerpt: "Facebook plans to shut down its decade-old facial recognition system this month, deleting the face scan data of more than 1 billion users and effectively eliminating a feature that has fuelled privacy concerns,"
-    publishedDateTime: 2021-11-03T08:25:00Z
-    webUrl: "https://www.forbesindia.com/article/global-news/facebook-is-shutting-down-facial-recognition-system-after-a-decade/71357/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/global-news/facebook-is-shutting-down-facial-recognition-system-after-a-decade/71357/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/global-news/facebook-is-shutting-down-facial-recognition-system-after-a-decade/71357/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 61
-    images:
-      - url: "https://www.forbesindia.com/media/images/2021/Nov/img_170947_facebookprivacy1-bg.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Facebook Will Shut Down Its Facial Recognition Program"
     excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people. The internet giant uses the technology to identify"
     publishedDateTime: 2021-11-03T14:35:00Z
@@ -208,22 +192,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106173405-1570674137430gettyimages-1167464772.jpeg?v=1570674164"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Facebook To Shut Down Its Facial Recognition System. Here's What It Means"
-    excerpt: "Facebook said this change is going to to impact the Automatic Alt Text (AAT), which ‘creates image descriptions for visually-impaired people’."
-    publishedDateTime: 2021-11-03T09:03:00Z
-    webUrl: "https://www.boomlive.in/news/facebook-facial-recognition-shut-down-meta-technology-15426"
-    ampWebUrl: "https://www.boomlive.in/amp/news/facebook-facial-recognition-shut-down-meta-technology-15426"
-    cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/news/facebook-facial-recognition-shut-down-meta-technology-15426"
-    type: article
-    provider:
-      name: BOOM
-      domain: boomlive.in
-    quality: 60
-    images:
-      - url: "https://www.boomlive.in/h-upload/2021/10/11/959506-facebook-algorithm.jpg"
-        width: 1280
-        height: 768
         isCached: true
   - title: "Meta to continue use of facial recognition technology"
     excerpt: "Facebook this week announced that it will no longer deploy facial recognition technologies on its platform, but the social network's parent company, Meta, said that the commitment does not apply to it"
@@ -437,20 +405,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "PM Modi To Hold Coronavirus Meeting, Facebook Removes Face-Recognition Technology, And More"
-    excerpt: "PM Modi To Hold Coronavirus Meeting, Facebook Removes Face-Recognition Technology, And More. Journalists - Prateek Sharma, Rushati Mukherjee. Video - Kenz Ul Muneer"
-    publishedDateTime: 2021-11-03T09:25:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0b20t74"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 14
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p09qklfr.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "sTVMESv59x/XZawGftprgStZ8syrtjh+RekoBvk6XzjBvmopzbutwaWE9Quk/uEatGfAZvqwK1OkIS7n0h/Z6ERCDQxvhItQVnQshc3uf10+iwk9Wp4+qR6yG42lQK0t3XkwQ7XZLoCnCO+nwRDCOHxbMUyOHMIlIXnaRKNLc/CWHM/+vAL/cY+2H3Aa5h+5d3bvUL2DmUQ2XnBMbR4bdELgTb4dampCFHn9/1B4BCQvgJ1w+vtwSx+oXhWtmWL/scjVnseR1oh49EQ5A8PXZGx5YVUqt6Fwnqx8ZAtXWg04r05jwS8hNLKs7X3hKrlho0fAZlSLThRMw8Ic2Ujvvixr1Mue5Iz3YFdkv+Bok1iudsL/02+6hOORufr5qcyd1mj7tD8ykWPb94cjz+lTmdkow4iExeS+7/bDA51z2qVD4udeyONzEJFC4+NhRhZY3gGilG6SKlT5uAHJCjYnCZMw0IvGwBFQ2IRkunqKIFoh5GtPc70eLVITYRdxyaXdhPqIRegTtINPlGLoLHF/0A==;4N5eyFa+XMkga9RHOKO0uA=="
 ---

@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI ordered to delete all facial recognition data belonging to Australians"
-    excerpt: "Controversial facial recognition firm Clearview AI has been ordered to destroy all images and facial templates belonging to individuals living in Australia by the country’s national privacy regulator."
-    publishedDateTime: 2021-11-03T09:59:44Z
-    webUrl: "https://www.theverge.com/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete"
-    type: article
-    provider:
-      name: theverge.com/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete
-      domain: theverge.com/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete
-    quality: 168
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/V64KlxL3sl2QUEhad6p9_uxTP_c=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70084721/acastro_210512_1777_deepfake_0002.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Privacy commission demands Clearview AI delete all facial recognition data collected in Australia"
     excerpt: "Australian regulators have demanded that facial-recognition firm Clearview AI cease scraping the biometric data of Australian citizens and destroy all information and images previously gathered on"
     publishedDateTime: 2021-11-03T20:46:00Z
@@ -93,6 +77,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-11/211103-one-time-use-clearview-ai-se-200p-cadd54.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai"
+    excerpt: "(https://bit.ly/3BY8Kwp) \"We see broad application for AI and machine learning technology right across ... as it looks to match offerings from rival fintech firms. read more CBA also leads the banking sector's entry into the fast-growing Buy Now Pay ..."
+    publishedDateTime: 2021-11-07T21:22:00Z
+    webUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 79
+    images:
+      - url: "https://www.reuters.com/resizer/fy1Hr0OcjcfQo6t81SMK4FPVg6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34TS4M35IJKKRBSMOKLXM76LSA.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Australia says U.S. facial recognition software firm Clearview breached privacy law"
     excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data collected in the country after an investigation found it breached privacy laws."

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-08-ai-system-that-lets-robots-manipulate-2000-objects-created-mit.md",
+      "title": "AI system that lets robots manipulate 2,000 objects created: MIT",
+      "excerpt": "MIT scientists have created an artificial intelligence-based algorithm that allows robots to learn how to manipulate and reorient more than 2,000 geometrically different objects, with both the hand facing upwards and downwards.",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "originalUrl": "https://inshorts.com/en/news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/7_sun/img_1636297058079_596.jpg?",
+          "width": 1080,
+          "height": 1748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "publishedDateTime": "2021-11-07T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-symblai-provider-of-conversational-intelligence-apis-and-tools-gets-17m.md",
       "title": "Symbl.ai, provider of conversational intelligence APIs and tools, gets $17M",
       "excerpt": "Communication platform-as-a-service startup Symbl.ai raised $17 million in series A funding to develop its conversational AI tools.",
@@ -49,58 +92,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai.md",
-      "title": "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai",
-      "excerpt": "(https://bit.ly/3BY8Kwp) \"We see broad application for AI and machine learning technology right across ... as it looks to match offerings from rival fintech firms. read more CBA also leads the banking sector's entry into the fast-growing Buy Now Pay ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/",
-      "originalUrl": "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/fy1Hr0OcjcfQo6t81SMK4FPVg6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34TS4M35IJKKRBSMOKLXM76LSA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-07T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },

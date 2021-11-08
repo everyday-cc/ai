@@ -176,22 +176,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Facebook is shutting down facial recognition system after a decade"
-    excerpt: "Facebook plans to shut down its decade-old facial recognition system this month, deleting the face scan data of more than 1 billion users and effectively eliminating a feature that has fuelled privacy concerns,"
-    publishedDateTime: 2021-11-03T08:25:00Z
-    webUrl: "https://www.forbesindia.com/article/global-news/facebook-is-shutting-down-facial-recognition-system-after-a-decade/71357/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/global-news/facebook-is-shutting-down-facial-recognition-system-after-a-decade/71357/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/global-news/facebook-is-shutting-down-facial-recognition-system-after-a-decade/71357/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 61
-    images:
-      - url: "https://www.forbesindia.com/media/images/2021/Nov/img_170947_facebookprivacy1-bg.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Facebook Will Shut Down Its Facial Recognition Program"
     excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people. The internet giant uses the technology to identify"
     publishedDateTime: 2021-11-03T14:35:00Z
@@ -223,22 +207,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106173405-1570674137430gettyimages-1167464772.jpeg?v=1570674164"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Facebook To Shut Down Its Facial Recognition System. Here's What It Means"
-    excerpt: "Facebook said this change is going to to impact the Automatic Alt Text (AAT), which ‘creates image descriptions for visually-impaired people’."
-    publishedDateTime: 2021-11-03T09:03:00Z
-    webUrl: "https://www.boomlive.in/news/facebook-facial-recognition-shut-down-meta-technology-15426"
-    ampWebUrl: "https://www.boomlive.in/amp/news/facebook-facial-recognition-shut-down-meta-technology-15426"
-    cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/news/facebook-facial-recognition-shut-down-meta-technology-15426"
-    type: article
-    provider:
-      name: BOOM
-      domain: boomlive.in
-    quality: 60
-    images:
-      - url: "https://www.boomlive.in/h-upload/2021/10/11/959506-facebook-algorithm.jpg"
-        width: 1280
-        height: 768
         isCached: true
   - title: "Why is Facebook ditching face recognition and will it delete my data?"
     excerpt: "Users of the social network will have their face data deleted, Facebook's parent company Meta has announced, but it is less clear what will happen with the AI algorithms trained on that data"
@@ -436,20 +404,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "PM Modi To Hold Coronavirus Meeting, Facebook Removes Face-Recognition Technology, And More"
-    excerpt: "PM Modi To Hold Coronavirus Meeting, Facebook Removes Face-Recognition Technology, And More. Journalists - Prateek Sharma, Rushati Mukherjee. Video - Kenz Ul Muneer"
-    publishedDateTime: 2021-11-03T09:25:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0b20t74"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 14
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p09qklfr.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "RYcuxT7ZSRGSPHupUge0D9wGirUMz7XHxWc5Q4pr9RdM4hVlNbvDMxlqEbspDa4AblbPsPVJ0xhuc/uR/jWKL1XA1ZXl48dFh/H6zKjwg0N60/LXRLMOYiJN5g+WhfFjb5GGKiuIXVxtGcF4gOxbPhaDZhoGi38++d9GQT+ujv+CCo3cgh6BxxTUzz//RLscIGBm0suozQ/rWVxI1mzg3dJsrTgw4XmiaoSv1IlpNHEakWJSGnJSGNl70iFQilfL8i1vpokJzvoarlbH73Mf6lKvs8EclBXAI09DbOhntfc1CvfkLRGM4tTxzioUP4nH1HkZV3gLwI0tJAif5BWbGcHcP+tn7ejfWWqx0a3Pd0txxYOSWi3NaPkd/0SeaYCs/LpO4r/ETBxuPR5hPTasNcduugzG6oNjvwWRW7Gkq+jI+wI/7JzyQ0JPXB2imQwXHAr2m71IB2/+gIXY4mDomIqoEPp+yodP1aIk1stC9fi/Qomp1hy9hhXiQC5oNE5bDpkjgpnBJns6HD8UXh4hLQ==;xWjGocb2WNMEa8/GEwZ7qw=="
 ---

@@ -103,20 +103,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "17 Fintech Trends You Should Know About: The Ultimate Guide"
-    excerpt: "The future of fintech looks bright, with AI, robotic process automation, smart contracts, DeFi, and virtual reality all on the rise"
-    publishedDateTime: 2021-11-03T09:16:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/17-fintech-trends-you-should-know-about-ultimate-guide"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/big-fintech-trends-to-watch.jpg.png?itok=LlX01M7a"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Financial Secretary Visited MioTech at 2021 Hong Kong FinTech Week"
     excerpt: "Pictured/ Financial Secretary of Hong Kong SAR, Paul Chan Making Opening Remarks at 2021 Hong Kong FinTech Week The main conference of 2021 Hong Kong FinTech Week starts today at the Hong Kong Convention & Exhibition Centre and online."
     publishedDateTime: 2021-11-04T06:23:00Z
@@ -130,6 +116,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQFpfhEvprxcVA/article-cover_image-shrink_720_1280/0/1635934637969?e=1641427200&v=beta&t=-dXGAFB8PqqLA8pqf-PKY8V8zRO2HinEdmEUTCXpVQg"
         width: 540
         height: 720
+        isCached: true
+  - title: "Singapore Fintech Festival 2021: What to Expect and Top Sessions to Attend"
+    excerpt: "The world’s largest fintech festival is coming back from November 08 to 12, 2021 to explore some of the hottest trends in the fintech space."
+    publishedDateTime: 2021-11-08T01:24:00Z
+    webUrl: "https://fintechnews.sg/57000/events/singapore-fintech-festival-2021-what-to-expect-and-top-sessions-to-attend/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 22
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/11/Singapore-Fintech-Festival-2021-What-to-Expect-and-Top-Sessions-to-Attend.jpg?x61066"
+        width: 2048
+        height: 1136
         isCached: true
 
 secured: "hWFTeAye4mDYtOlA4lqB2Ov4xr7yCmwUZ4BKqVzAdpTb/th9LaphZj/kffIO2aiNBuhY9QpZNIcjs3HP2stlo2+qMWTY3Zg5MsX9e8N4xBgk2kucUQHMSi238XiRtsvNheW2Wo004RwAQc2Lz5nZtXXfXSEp8pIf6xcgekqtqbIqtIkq0SA5owIOD2vU8vN23gphL7z/Z8FAhYmQS9WrDzwRRmgXcn3ltNgP6UWPydVwAcRMHaqWATExzODFdgO2HILctZthuyGDiHD8Y4l2lMPrAN/Z18DPPVCP8mpcQhRgltAyq0/SedlW1gkgm20jN4ncNbfgZhc5B5xjQuV6hYh693SAtesXueVnFjA+4DGXsRjiUoAq94+xP063HMgNRYym9iYPhf4B9DVEavCjNEG/e84DcZk8qVtGEGrPwOTKiKM8yJkuFKzPLpPXO7iFuC+8b9wmsINI+5RAIOsnXC1yUaq5UjFs4t32OcseJTyRbjbjEeUoTXEH0UmInqWvfuiihmopzSSqIv5XS3ttzA==;NI3isDo7ORlOdHQOvUoApw=="

@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-10-25-artificial-intelligence-and-machine-learning-play-a-role-in-endpoint-security.md",
+      "title": "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security",
+      "excerpt": "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology.",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "originalUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "publishedDateTime": "2021-10-25T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-2-artificial-intelligence-stocks-that-have-spooked-investors.md",
       "title": "2 Artificial Intelligence Stocks That Have Spooked Investors",
       "excerpt": "Both stocks are far off their all-time highs, but that does not mean they don’t have bright futures. Lemonade’s AI is making waves in insurance, and so far, no other incumbent in the industry has duplicated its model.",
@@ -1139,49 +1183,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues.md",
-      "title": "Tesla Pulls Its New Full Self-Driving Beta Due to Software 'Issues'",
-      "excerpt": "U.S. electric car maker Tesla Inc on Sunday rolled back the latest version of its Full Self-Driving (FSD) beta software, less than a day after its release, after users complained of false collision warnings and other issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/top-news/articles/2021-10-24/tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues",
-      "originalUrl": "https://www.usnews.com/news/top-news/articles/2021-10-24/tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-24T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
