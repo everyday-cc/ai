@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/08/gatik-driverless-deliveries-walmar
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/gatik-driverless-deliveries-walmart/amp/"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 646
         isCached: true
+  - title: "Self-Driving Trucks Are Shipping Cargo to Walmart Stores In Arkansas"
+    excerpt: "Walmart has been relying on self-driving trucks with no human driver on board to ferry shipments from warehouses to retail stores in Bentonville, Arkansas. The self-driving trucks come from a Silicon Valley firm called Gatik,"
+    publishedDateTime: 2021-11-08T16:28:00Z
+    webUrl: "https://in.pcmag.com/cars-auto/146024/self-driving-trucks-are-shipping-cargo-to-walmart-stores-in-arkansas"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 54
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/s/self-drivi/self-driving-trucks-are-shipping-cargo-to-walmart-stores-in_6nty.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Robotruck Startup Gatik Making Delivery Runs For Walmart Without Humans At The Wheel"
     excerpt: "The Silicon Valley-based developer of robotic technology specializes in “middle-mile” deliveries from distribution centers to stores."
     publishedDateTime: 2021-11-08T09:00:00Z
@@ -76,6 +90,6 @@ related:
         height: 800
         isCached: true
 
-secured: "HcqkJrEy6zgix+9cfqKPHI2dKfYdrv9Mgqvaqebz50D5CT2R5o/iIavJw+MnTAKTanVcd+5u0ObTeJtGYSS1GaBdiJQeTV/eME/iBj8Pm0cqetRCWgFCFg9YJKQu51lokOajuCOAcqklJ9jXDEx3m+pVGNXMhZKFdsAvStJCciuW/2js0IJ2l7a16mg7/phGnXmobbv+U2t1IlYnkHEp7b9iI5f5OiVIOthksyMB6DBzBepp/sFJI7wC9NJV+32W1UdkQ4tqAgo2GPIIbmzt2TMDa14hrRppl6NHcoWjSLZd6wosNoxrAS98zOvT/s09HU3JCyZpuRN0gBBoZqqihzzDmgsanvqamc0IAuJgk0Y=;2SazeBAAaifNuQcq453uYg=="
+secured: "MK77atc7UTgIFt3pBUqPT5WXQ/4Y1FrU0Ij/07q8lxSEh8OWGgNd7Z8izPwOkKnw8ZWchvklxrwC8gIzqsNBnJU8NyO59xJaulyY5FPW103UpbTogG0qBeXqnjQ0k5EKwJDBlQ/ihY91y+QNxNGLsJbyknQy9yzRlWv+V/9Qcd5/1Ax5dX2bk3UxGhDZvuW5eJFGC+95Yuaz+w0Cpj8qRD8s92nv7mDBAoMmXRRuDAHnj1ettDQROumJ1tWtz3QYlG4g+qmKmilP6388I7yxADopir8750513vNF1O8NKGGPIMLDlYPfkUUNFdpT3kdMtMbcbmoFR8lmJvgNNzRwQseQ+RTs2UoEq5KeLzCK+Q3nShn2fbIxSp0Lg86Tgj4w02WSxJDyAqUooxg45Fg7jd0d1NJONeiZnOLSlsIn+SQq+IgRikr3gyaGQLg2iCS8Rsq+NA/ahVv1YYQ57me5IPqJRu5UAA1DEs5Q1kGA1NtI82P+poZelrgeLCuy6XwsJjExCNpHWyLzxhAInEIYIg==;2hvlhPGfoCMQiUSSTVOLiA=="
 ---
 

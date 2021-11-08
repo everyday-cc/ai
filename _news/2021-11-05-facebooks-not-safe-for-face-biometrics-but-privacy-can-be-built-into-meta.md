@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202111/facebooks-not-safe-for-face
 webUrl: "https://www.biometricupdate.com/202111/facebooks-not-safe-for-face-biometrics-but-privacy-can-be-built-into-meta"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple patents: mask fix for face biometrics, gestures in video conferencing"
+    excerpt: "The document describes an automated ‘switch’ between a full-face facial recognition authentication process and partial face facial recognition authentication."
+    publishedDateTime: 2021-11-08T15:53:00Z
+    webUrl: "https://www.biometricupdate.com/202111/apple-patents-mask-fix-for-face-biometrics-gestures-in-video-conferencing"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/11/19160900/face-mask-iris-recognition-scaled.jpeg"
+        width: 2048
+        height: 1280
+        isCached: true
   - title: "Voice’s promise for replacing passwords with biometrics unique, Pindrop execs argue"
     excerpt: "What is most exciting to Pindrop is the range of applications that voice biometrics can now improve by providing passwordless authentication or personalization."
     publishedDateTime: 2021-11-04T15:55:00Z

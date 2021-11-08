@@ -53,18 +53,18 @@ related:
         height: 250
         isCached: true
   - title: "Robots hit the streets as demand for food delivery grows"
-    excerpt: "Kim had partnered with a local robot company, Refraction AI, shortly before the pandemic began ... Domino’s is partnering with Nuro, a California startup whose 6-foot-tall self-driving pods go at a maximum speed of 25 mph on streets, not sidewalks."
-    publishedDateTime: 2021-11-08T10:13:00Z
-    webUrl: "https://www.westhawaiitoday.com/2021/11/08/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
+    publishedDateTime: 2021-11-08T13:07:00Z
+    webUrl: "https://www.columbian.com/news/2021/nov/08/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
     type: article
     provider:
-      name: West Hawaii Today
-      domain: westhawaiitoday.com
+      name: The Columbian
+      domain: columbian.com
     quality: 39
     images:
-      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png"
-        width: 400
-        height: 400
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/11/Robot_Food_Delivery_67862.jpg-3acea.jpg"
+        width: 899
+        height: 599
         isCached: true
 
 secured: "ocLc0SDDeOcDagKqBkMoMIxhmZoFsxwaqVFreEgwchrA8kkDt/cJuJFQvMKHPr+1pawafTbf3jI46C1+8oRsDbKcPtsvaFOOjSGDxreNdj9GsN7+4IQGeObXXdo2ZVr24PBj+llMvl7TjksmtZ748t2Ye4DECnf5PdFWLvsUkNL4jdPOjoOaGNBZvtMNS5C0WEpiPg9EsDWsb+hWK6l0CWLGsNaXA19+dN5Jei2KIlC2HEUhEEYMPYgqDJQMLMqQdyMbWAyTLQO9X0VnsWU5C+PFG0rmUSVT0wnRlucs+cYyQm8G9nZYl3brIZ1wYgTsEsKZTUjPT5FyF3PZ3elpLS8c8MuKXhWO0JCxa03BkIW1ksDck6i7EpWLpdqqeQYTePMeOalix8icqAn0dB52K+fCjX0uIoWgPfDQlJuJBffppt/iWuIyILgOVJJ8fEATESONcxiM34oOycqXpqMHYsSjM5aZrC0kprTqDOHrs4LaNEj/X8BAIMYJ993GdzFkZ404Io3fz+H9uCIbJ2z2hg==;XYy/sFw+Xh3qszd6gA52OQ=="

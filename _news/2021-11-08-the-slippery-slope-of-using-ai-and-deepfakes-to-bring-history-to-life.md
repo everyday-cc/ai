@@ -72,6 +72,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "AI drug discovery co DeepCure raises $40m"
+    excerpt: "AI drug discovery company DeepCure, which is developing novel, small molecule therapeutics, announced today the closing of a $40 million Series A financing round led by Morningside Ventures, with participation from existing investors TLV Partners,"
+    publishedDateTime: 2021-11-08T16:53:00Z
+    webUrl: "https://en.globes.co.il/en/article-ai-drug-discovery-co-deepcure-raises-40m-1001390221"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1632315500/direct/shutterstock_680060608_ilkxyw.jpg"
+        width: 800
+        height: 392
+        isCached: true
   - title: "Using Artificial Intelligence And High Performance Computing To Speed Up Scientific Discovery And Drug Development"
     excerpt: "The human body is an incredibly complex machine, and no one has come close to creating a complete model of how it works. This is a big challenge when it comes to developing drugs and medicines that interact with the organism in order to fight diseases like cancer or Alzheimer’s."
     publishedDateTime: 2021-11-08T05:44:00Z

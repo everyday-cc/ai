@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple patents: mask fix for face biometrics, gestures in video conferencing"
+    excerpt: "The document describes an automated ‘switch’ between a full-face facial recognition authentication process and partial face facial recognition authentication."
+    publishedDateTime: 2021-11-08T15:53:00Z
+    webUrl: "https://www.biometricupdate.com/202111/apple-patents-mask-fix-for-face-biometrics-gestures-in-video-conferencing"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/11/19160900/face-mask-iris-recognition-scaled.jpeg"
+        width: 2048
+        height: 1280
+        isCached: true
   - title: "Facebook’s not safe for face biometrics, but privacy can be built into Meta?"
     excerpt: "Both Recode and Fortune are reporting on misgivings that some in the industry have about Zuckerberg's happiness to delete 1 billion face templates."
     publishedDateTime: 2021-11-05T15:46:00Z

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Robots hit the streets as demand for food delivery grows"
-excerpt: "Kim had partnered with a local robot company, Refraction AI, shortly before the pandemic began ... Domino’s is partnering with Nuro, a California startup whose 6-foot-tall self-driving pods go at a maximum speed of 25 mph on streets, not sidewalks."
-publishedDateTime: 2021-11-08T10:13:00Z
-originalUrl: "https://www.westhawaiitoday.com/2021/11/08/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
-webUrl: "https://www.westhawaiitoday.com/2021/11/08/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
+publishedDateTime: 2021-11-08T13:07:00Z
+originalUrl: "https://www.columbian.com/news/2021/nov/08/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+webUrl: "https://www.columbian.com/news/2021/nov/08/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: West Hawaii Today
-  domain: westhawaiitoday.com
+  name: The Columbian
+  domain: columbian.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png"
-    width: 400
-    height: 400
+  - url: "https://pcdn.columbian.com/wp-content/uploads/2021/11/Robot_Food_Delivery_67862.jpg-3acea.jpg"
+    width: 899
+    height: 599
     isCached: true
 
 related:
@@ -67,6 +67,6 @@ related:
         height: 250
         isCached: true
 
-secured: "Eyj4dCulxgvwW6fjq6YnIWLHpyyXfiZV6lGbreyIFLNLIvaPpjtISTziDRPM6zh4rGkXSKAw1qvlx/dTQ8s/KidTrwN2GzG6kHCtIaCT4xvJsux0gE2a5993/c2kW4LV4C7AL/XvzPWZNoRDmGjpQSH1sGfBO9srOGe4cH0+v5zQRxIZnpJ+yAWcX0XAbwId8xOqN4ZUWT46o6nS2SSdh/qgwH/W+cYQqY7hW/kJn0U9H3oib3QOFw9k/IGCotXJQXI4huqdTAb/RQWRJEXaOeTBGG0eAt7Fvk8S+kfepGrqcsu4aMD8AejCXOEfBC2y1jWsVPPmkr0MkJl6FdGtz9ZRtsHKPvzrvyaqfrjBNjo=;eBMz6g5M7wEoC4gw9TwMMg=="
+secured: "/WMfeWTWboLIa+6F7MzJnz/b339njRdWtbIKg+Y1NbPu+scD481kYpy/fp9b45eUje/OnRrNx6MyirLSI0/U4+U+GJMBpNQy/LMCgqmzWST5PWqYtuXrhl85yAjEV8rdgf9biFOh0vBziVvDSzOu6RSB6wIi4p3Fedx5P30+m6hIXOp5nC3kpsgIw6CxImjjY3DJCvO/hP/elIGiVFiuYheA08NQKNUUTGN4kgasDXY8q1E0tBvmBGyKG7X05NizeruObGWx0FiWCP+Tyya+ZyltnXUOi4Xnm1SR1jbx/5u3bdxiF2XszltRcB3j3XqBntOUuv31Klj9ad5tEjUYqbkVwNOdWX8KBHjBqEellSk=;K7N+7DvB/gy7F2w24zNvaQ=="
 ---
 

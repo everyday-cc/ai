@@ -38,6 +38,20 @@ related:
         width: 500
         height: 334
         isCached: true
+  - title: "Filings buzz in pharmaceuticals: 32% increase in artificial intelligence mentions in Q2 of 2021"
+    excerpt: "Mentions of artificial intelligence within the filings of companies in the pharmaceutical industry rose 32% between the first and second quarters of 2021. In total, the frequency of sentences related to artificial intelligence between July 2020 and June 2021 was 150% increase over 2016 when GlobalData,"
+    publishedDateTime: 2021-11-08T15:00:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/analysis/filings-buzz-in-pharmaceuticals-32-increase-in-artificial-intelligence-mentions-in-q2-of-2021/"
+    type: article
+    provider:
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 25
+    images:
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/10/shutterstock_732027613.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "Fh6uFdt0zU6BaAlzaHN0YMUY7PHjWxkIy4UdNsI04mRiBtCLEZc+wG3kkCJISDHXao507v3OsjgAKoD9RUphaS+i5lfl/nCV5PHNPJ84vU+s3ckeM2pdKAhLbQL5nS4dB81OK1ki5H4emb3dISKQZVM+F/jU1jrao0LyzUhUaTVWrkJSjbTwPY1bRXN0WtzjrRFP1ZuB/oE6wvEpG1yMyyLixbk1ByPwmQc4q1TxdgK3ILYYfwVTiWoDJkPd5JCBxV3iXirF9le6dawBUepFRYIP8PIOLkI6XdeEE7N3aUiWHm9yyNBAWQmi/Ve017T/9dle3H8K3JD1FaE0cceLru+z1qFWJzb0TbyboMsgHBjzfR/6Y2IwgNSb0ubm91p3noTWT3lf8Xor13TJW7NGfQO6tkIC7sYmbnD3VMh8m6tloReVS3HbY25k3ootasdSL3sgiAD9mGmjnqsQZ4pH1BpnBAQSbpdDuKCyWBcFHmalomIgzVqhEr4ja6ehyO28UIYvQnOHE4TJ315TQ0tK5w==;T/aTHtGuGTNIdDZcehmmSg=="
 ---

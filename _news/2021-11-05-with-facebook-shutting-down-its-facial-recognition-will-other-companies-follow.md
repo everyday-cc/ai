@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Facebook announces it's purging 1 billion faceprints from its system"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T22:39:00Z
-    webUrl: "https://www.weareiowa.com/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
-    ampWebUrl: "https://www.weareiowa.com/amp/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
-    cdnAmpWebUrl: "https://www-weareiowa-com.cdn.ampproject.org/c/s/www.weareiowa.com/amp/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
-    type: article
-    provider:
-      name: We Are Iowa
-      domain: weareiowa.com
-    quality: 44
-    images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/d4f94cdf-5190-492c-a155-5f721e3672a7/d4f94cdf-5190-492c-a155-5f721e3672a7_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "9qe6RSxrcYxBQfktcEAUFSNNKS4eqs9RhzU/pFxe4+mTpQqkLv08HT8atxpJGpbdQOs7mJ2E12jwSZuDOzvggZwgpq92M7VPHhjRj1nQt8EOrKN6LqEeZzrt9qI+kDuhf3RN5qUPSfrm3Er4P5rDBY3MPxmL8Njy6Q8AQmdvyb+1eHKsWfzjQlv5t9H991xY0WKUrvl7aCvnFzTqE5XoS86Y5MkQ/6DYT+0RRdvlJrKLKx56yMUSKABNdHLnGYK1uQRaLt68oefcUr4zkwnQOoH2qbhk4HAvqmxpw4pytbWuw8tAdtDrrra2zJyH4G20ky24r3Q9R19+5R+Wb+g7TUNjC1c0lfpakuziqOdagGO73bukoQ6dNcdpIjqDDKf3LqAxvRN57AekZ9UtjrJAYO0Dt1akW1MxDTWmpWgRRzjgx80cQYjctgphor/CapnYF56qP+a3T2FuHGefmAW6VRpCp6DBFsfuX+Y/1xbLxX1yI/OMF07Kb1o4DoK0/8amuKsMdZ5Fm5E/5U9tejonyQ==;H3qIPP+Owv3fsiRIulLJJA=="
 ---

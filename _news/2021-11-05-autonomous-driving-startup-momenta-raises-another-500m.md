@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/05/momenta-500-million/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/05/momenta-500-million/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Momenta Raises $200 Million in Self-Driving Cars Push"
-    excerpt: "Chinese self-driving startup Momenta.ai has raised a further $200 million from investors including SAIC Motor Corp. and billionaire Jack Ma’s Yunfeng Capital."
-    publishedDateTime: 2021-11-03T23:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-03/china-s-momenta-raises-200-million-in-self-driving-cars-push"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in4WAP_JKJXg/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Chinese Self-Driving Tech Unicorn Momenta Bags USD500 Million in Fundraiser Led by Toyota, Others"
     excerpt: "Chinese driverless tech startup Momenta has secured over USD500 million in its latest funding round, led by several global car giants and private equity firms. Japan’s Toyota Motor, China’s SAIC Motor and the US’ General Motors as well as Singaporean sovereign wealth fund Temasek and Chinese private equity company YF Capital were leading participants in the C+ funding round,"
     publishedDateTime: 2021-11-05T09:21:00Z

@@ -2,21 +2,27 @@
 category: news
 title: "Options AI Closes $4.1 Million Seed Funding Round to Bring Smarter Options to Retail Investors"
 excerpt: "Options AI, a unique brokerage platform putting option spreads in the toolkit of retail investors, today announced it has closed an oversubscribed $4.1 million seed round. The funding round was led by Akuna Capital,"
-publishedDateTime: 2021-11-08T14:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-options-ai-closes-41-million-seed-funding-round-/2021/11/08/9486472.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-options-ai-closes-41-million-seed-funding-round-/2021/11/08/9486472.htm"
+publishedDateTime: 2021-11-08T14:45:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-miami-5c1a76582ae3734841d3cc0844c9560f"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-miami-5c1a76582ae3734841d3cc0844c9560f"
 type: article
-quality: 5
-heat: 5
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "3JGQUCynQR9L6ldabgv99LPXMRu1PFeC6asKAk9WOM9tj7d81RwnbuoBkijjpUdHOlODqpWqPNQSyznXiptrl7zWqN4tQKraAyQLWqaDOfd8Wtm+G/UrhSK3KrFQB8Vf4F2z/0veUP6quFCMliY01yifJTWXAnLPcF5SEfxnxSmWrOlbRMaUcRXD5y2rCgn6wil4YPNAFWMPYFXZBha3zu5dQng2xP6BlQKqVmu0f9GIiEHxAoThpNHhKrRdPJJYDUXUt1hjPlfQ8rCRLRpVWDYDG7YlCbeMtCcUx7ufg/4L1fCc1+pL2LkgRczfm7+xUAYK/uQlVWqagVkXYaz6cgVkpZ8E7XJjWK2gDtZ05ao=;IfYkMh8qOyATZMi2A//b4g=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "/qrAjhy7ooeYsoiTAo9DKJA3kaMyYoF7I+WIYDbmpmyhShhFHjScZBK4svJGm3sWNOClUQhff9c5Fh4allsAZyCpA+oeyo4ZuQHxNkdygDbkfVmt2dbReJSNzjP2JikRHum7gwSAFUJq7tZZwlbkxwJgR7BHHQfC/w6yQki1WDsZhk0Jltciw3yGumsJmV81wM+CmX6EQlnKJAVOSlDDb3ZoDhc6iOIDwq7I9/FZfIGdw+8dQsHwoHOxXF7s02CbAoJ+Q8zwItJdi+g37jAyqhIVxa7lMYqU5zO6LxGW1Cg/9Mu+MmDZNe3agmVZeNvttoP6KobFbMpYYDmobN5e1fN8YdMtDsiCLmH3o1+KNpc=;5iAWb5vw8I3zOor+s1P+4g=="
 ---
 

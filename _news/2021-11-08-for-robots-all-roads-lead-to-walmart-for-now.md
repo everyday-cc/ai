@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 646
         isCached: true
+  - title: "Self-Driving Trucks Are Shipping Cargo to Walmart Stores In Arkansas"
+    excerpt: "Walmart has been relying on self-driving trucks with no human driver on board to ferry shipments from warehouses to retail stores in Bentonville, Arkansas. The self-driving trucks come from a Silicon Valley firm called Gatik,"
+    publishedDateTime: 2021-11-08T16:28:00Z
+    webUrl: "https://in.pcmag.com/cars-auto/146024/self-driving-trucks-are-shipping-cargo-to-walmart-stores-in-arkansas"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 54
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/s/self-drivi/self-driving-trucks-are-shipping-cargo-to-walmart-stores-in_6nty.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Robotruck Startup Gatik Making Delivery Runs For Walmart Without Humans At The Wheel"
     excerpt: "The Silicon Valley-based developer of robotic technology specializes in “middle-mile” deliveries from distribution centers to stores."
     publishedDateTime: 2021-11-08T09:00:00Z

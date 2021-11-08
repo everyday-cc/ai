@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-f
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-87533911,imgsize-30076,width-1200,height-628,overlay-etbrandequity/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Facebook announces it's purging 1 billion faceprints from its system"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T22:39:00Z
-    webUrl: "https://www.weareiowa.com/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
-    ampWebUrl: "https://www.weareiowa.com/amp/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
-    cdnAmpWebUrl: "https://www-weareiowa-com.cdn.ampproject.org/c/s/www.weareiowa.com/amp/article/news/nation-world/facebook-to-shut-down-face-recognition-system-delete-data/507-b1139ba0-a1fd-40b0-bbbd-347b3236e51f"
-    type: article
-    provider:
-      name: We Are Iowa
-      domain: weareiowa.com
-    quality: 44
-    images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/d4f94cdf-5190-492c-a155-5f721e3672a7/d4f94cdf-5190-492c-a155-5f721e3672a7_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "With Facebook Shutting Down Its Facial Recognition, Will Other Companies Follow?"
     excerpt: "Banning the technology comes right when Facebook is also trying to pivot its public image toward its new parent company, Meta."

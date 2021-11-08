@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/alphabet-creates-new-subsid
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
 type: article
 quality: 83
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/35178_378.jpg"
         width: 720
         height: 405
+        isCached: true
+  - title: "AI drug discovery co DeepCure raises $40m"
+    excerpt: "AI drug discovery company DeepCure, which is developing novel, small molecule therapeutics, announced today the closing of a $40 million Series A financing round led by Morningside Ventures, with participation from existing investors TLV Partners,"
+    publishedDateTime: 2021-11-08T16:53:00Z
+    webUrl: "https://en.globes.co.il/en/article-ai-drug-discovery-co-deepcure-raises-40m-1001390221"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1632315500/direct/shutterstock_680060608_ilkxyw.jpg"
+        width: 800
+        height: 392
         isCached: true
   - title: "The slippery slope of using AI and deepfakes to bring history to life"
     excerpt: "To mark Israel’s Memorial Day in 2021, the Israel Defense Forces musical ensembles collaborated with a company that specializes in synthetic videos, also known as “deepfake” technology, to bring photos from the 1948 Israeli-Arab war to life."

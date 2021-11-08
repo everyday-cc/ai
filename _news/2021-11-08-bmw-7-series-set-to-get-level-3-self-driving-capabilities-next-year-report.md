@@ -41,6 +41,20 @@ related:
         width: 1913
         height: 1280
         isCached: true
+  - title: "Porsche 911 hybrid, self-driving BMW 7-Series, Kia EV9: Today's Car News"
+    excerpt: "Comment Now! The Porsche 911 is about to undergo its biggest change since the introduction of water-cooled engines. A hybrid 911 is currentl"
+    publishedDateTime: 2021-11-08T16:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1134099_porsche-911-hybrid-self-driving-bmw-7-series-kia-ev9-today-s-car-news"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 23
+    images:
+      - url: "https://images.hgmsites.net/hug/2023-bmw-7-series-spy-shots--photo-credits-baldauf-sb-medien_100795961_h.jpg"
+        width: 1916
+        height: 1280
+        isCached: true
 
 secured: "kx8i6Csi0uqmd63ih2gbjpxibOj2rcavVswI+MqnepU7Ss756iRaOUWtYxDJjDXEO/P4toRvfI4wEl75zUBlF77hf7afIy6psb/QicqrG1+bHqtgkeN24obQROZsPLXUK3ScpdivOtPLLaL64bxbINVeLmRYYxZpxmcsqVkMF7RjyQYUBU2CUbnRC910zWAZsNsrfj+U2j6/SSYzm6H0ejkcmU4igwsxjXGxjg/0nLFoxFeUQkE3XwpBzZEzJFWK9+xc5mnMJus4emmIZRX93lYLDf9v9beZa3FzKDR7SmD9pryPrzU8aEMsi+c4lImTiIA7n0iPBEi5OXtsG3ZWHL8/BigPR83ysLQGTcNGE2I=;px0FQvq1vZoTZUZEaxldfQ=="
 ---

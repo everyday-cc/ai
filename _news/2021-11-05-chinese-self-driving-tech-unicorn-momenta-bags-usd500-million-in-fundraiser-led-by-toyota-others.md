@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Momenta Raises $200 Million in Self-Driving Cars Push"
-    excerpt: "Chinese self-driving startup Momenta.ai has raised a further $200 million from investors including SAIC Motor Corp. and billionaire Jack Ma’s Yunfeng Capital."
-    publishedDateTime: 2021-11-03T23:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-03/china-s-momenta-raises-200-million-in-self-driving-cars-push"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in4WAP_JKJXg/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "3YzRRqGTJkQ8zn6vM/FCr3i4E3ZX7ipLJV8fy7fr6vpjQbOMGg695j55N0RoYhoqpPxiBDH8xzpBauAy+j0RH6ZvLwJ7r3d+QNhXmo+QeUqo9466KZzC/xdgIP4PaxUxfg7b4w5cV+5mXLBuClFKw9/hzqvJADoHdr97IEX8XchbNzbQaQq3IHqxE7Eog4GXAmq2i6n1KD1Doy3bBwqgFudaDub63Ns6T0+xZvtBf76BVu75VSeo+oyLqFpXJCBJE+rpgNcsBwU6Yx85ZD4V1g/E6t2b/K6QD34KAm5qd6SR0fltsMixe7TZpXFKRroW2lZALlZ/pkiw/zpaEREqZbL18tQjImIpRJ/NpL4Yx14=;EqFPO+l+h0asuqKaPxoeBg=="
 ---
