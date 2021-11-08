@@ -42,17 +42,6 @@ related:
         height: 533
         isCached: true
   - title: "Robots hit the streets as demand for food delivery grows"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U."
-    publishedDateTime: 2021-11-04T04:28:00Z
-    webUrl: "https://www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
-    ampWebUrl: "https://www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-  - title: "Robots hit the streets as demand for food delivery grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
     publishedDateTime: 2021-11-08T13:07:00Z
     webUrl: "https://www.columbian.com/news/2021/nov/08/robots-hit-the-streets-as-demand-for-food-delivery-grows/"

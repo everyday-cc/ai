@@ -106,6 +106,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Facebook Puts an End To Facial Recognition, Pledges To Delete All Data"
+    excerpt: "Facebook's opt-in facial recognition system will no longer be available in a matter of weeks, and the templates it relied on to function will be deleted. The decision comes as the social media giant rebrands as \"Meta\" and looks to keep ahead of regulations."
+    publishedDateTime: 2021-11-08T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 59
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Meta says it's getting rid of facial recognition on Facebook - but that won't apply to the metaverse"
     excerpt: "Facebook is scrapping facial recognition but a Meta spokesperson told Recode the technology 'has the potential to enable positive use cases.'"
     publishedDateTime: 2021-11-04T11:37:00Z
@@ -179,18 +195,32 @@ related:
         height: 418
         isCached: true
   - title: "Facebook is shutting down its facial recognition software"
-    excerpt: "Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both ..."
-    publishedDateTime: 2021-11-08T18:14:00Z
-    webUrl: "https://kesq.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+    excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
+    publishedDateTime: 2021-11-08T21:55:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
     type: article
     provider:
-      name: KESQ News
-      domain: kesq.com
+      name: Local News 8
+      domain: localnews8.com
     quality: 39
     images:
-      - url: "https://kesq.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
+      - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Facebook to End Use of Its Facial Recognition System"
+    excerpt: "Facebook parent Meta Platforms Inc. announced in a blog post that it will shut down its “Face Recognition” system in coming weeks as part of a company-w"
+    publishedDateTime: 2021-11-08T22:33:00Z
+    webUrl: "https://www.natlawreview.com/article/facebook-to-end-use-its-facial-recognition-system"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/13513/Biometrics.facialrecognition.scanner.privacy_3_0.jpg?itok=XFC82dYr"
+        width: 500
+        height: 357
         isCached: true
 
 secured: "ftDOVd80UG0iDagQ06PhsjYtYEb4tOGmKbOlhgBJ2iofhFQozwh26mO48lEkp40gqj4r7ePGi6b17bPlRop9KS3251eZdNIO4vZoOp5Nfv1ppGEns42JCiea+Iukj+GHj4u0pJyGGz3OsKISBHCx43YwpelPdUNpJ/LqWrv8lWF2e2olyLEj3I4FYUBbt8vrmaBuaZEcCKNgJybP9u4fd8fEZ2InP9dNKjNX8pX4fYXWj9lT2mOhz5fuEPmANH/CjgkZo03Um4Xd5hUkL4EBkMadAlEyFeXmUVHADKZG2oMvr3HVxA6FKMvHjmFEAZe8jxnYbWKH7rOFe65cQzx/0ee7BYugJlEqryxqTwKROWYMyATnaHGLEroI41tW6ZTSqIHmgzFppozgJeZNNDndOJxEq5OFwGDBv37xtevW3o0FgAVGZfch7kCp0KbANS17jYhGS33S1x3J8HZHOpeBRtO39O4OzzsdyuqbHLFUwO3kZmwV4YRWfI7DV/OcU+EDkKuMDn1qxJoK68FUr7vReg==;DZILPHp0TkarhXOuO0yjLQ=="

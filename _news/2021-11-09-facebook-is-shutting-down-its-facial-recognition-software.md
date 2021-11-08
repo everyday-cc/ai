@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Facebook is shutting down its facial recognition software"
-excerpt: "Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both ..."
-publishedDateTime: 2021-11-08T18:14:00Z
-originalUrl: "https://kesq.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
-webUrl: "https://kesq.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
+publishedDateTime: 2021-11-08T21:55:00Z
+originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KESQ News
-  domain: kesq.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://kesq.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
+  - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Facebook Puts an End To Facial Recognition, Pledges To Delete All Data"
+    excerpt: "Facebook's opt-in facial recognition system will no longer be available in a matter of weeks, and the templates it relied on to function will be deleted. The decision comes as the social media giant rebrands as \"Meta\" and looks to keep ahead of regulations."
+    publishedDateTime: 2021-11-08T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 59
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Meta says it's getting rid of facial recognition on Facebook - but that won't apply to the metaverse"
     excerpt: "Facebook is scrapping facial recognition but a Meta spokesperson told Recode the technology 'has the potential to enable positive use cases.'"
     publishedDateTime: 2021-11-04T11:37:00Z
@@ -177,6 +193,20 @@ related:
         width: 627
         height: 418
         isCached: true
+  - title: "Facebook to End Use of Its Facial Recognition System"
+    excerpt: "Facebook parent Meta Platforms Inc. announced in a blog post that it will shut down its “Face Recognition” system in coming weeks as part of a company-w"
+    publishedDateTime: 2021-11-08T22:33:00Z
+    webUrl: "https://www.natlawreview.com/article/facebook-to-end-use-its-facial-recognition-system"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/13513/Biometrics.facialrecognition.scanner.privacy_3_0.jpg?itok=XFC82dYr"
+        width: 500
+        height: 357
+        isCached: true
   - title: "Edge platform with facial recognition, situation analysis unveiled in South Korea"
     excerpt: "Researchers have created a prototype of an edge biometric platform that can reportedly recognize faces and situations that take place around its nodes."
     publishedDateTime: 2021-11-04T16:31:00Z
@@ -192,6 +222,6 @@ related:
         height: 1366
         isCached: true
 
-secured: "YKzEp7koSBVfWDCRpztvqAZ8RTE5XZin7S1jXR3ho1JnRkz1ynxhw0ZJK2exgm/WjM3Vy+u6slx/sMxNDX8Y5Wq7Bn2pwxS9k+IOLrRIaJ13ljcjmtZGi469/Z8lFbyk37LIBVthCKY6QyNDnY6g49bIK+CtAdEgNKuVq4K2PFD+f3HAJrycf9YK2j8C3ApQzM4AmjVVExB8cWlaR5+TT7wYhIE87CiKxUrSve1I+Sljru3MxMQC8DAWhs9qo0CHMkGe1qnp/d0Uhf6jOOs8GR+gDPUEcm4yW6ErWaErPhBZlAFOHyZwk24k3JK8h6q0Rrg8bYz6sfs8x3gnMC7awFOy7EHpPqdz3cEE+nj4FEE=;mFS68iGJMIQdxI7fTSHp0Q=="
+secured: "oWccPkoR2EGbZ3rp8aYiu39ea9Vj1GxXem7y1PLznw/PQJWaBN+LsckU6gqOESDd/Tf4Mr0PsCdtB8Md5/RIImwOeCdOL2M22tMoUr66Ac4LsufQ6mn1seQw+yCmHvqwjxmmiFQxSkzKFVhI51jysW2LKUgALYOIN5Nlst2uK3NoyXtRdPaF2AF7+n+9OqJc2xSHgLtA5wLplvY50Z4ZGJgl5coLfQTGWtCrKvIZYVtzG6k/NTY5fw8EcrhFeqD+P2ZwnGZNWJ7xtuJIbpFBCGpy5uYTYzx5hmBBG2V3va0JSJagzjpVq5Gvr6NM1OayXi1Uuo0QxSa1uTlveL3owc/eShqC+CyFnZDRgVkN6OQ=;JrtEGFd5sAa975OGxufZzQ=="
 ---
 

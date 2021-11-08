@@ -2,25 +2,25 @@
 category: news
 title: "Aventis launches IBM AI Powered Course Recommendation Training Management System (TMS)"
 excerpt: "IBM Watson Powered AI Course Recommendation and Training Management System (TMS) which will greatly improve the productivity of their clients. Leveraging on IBM latest Deep Learning and NLP ..."
-publishedDateTime: 2021-10-28T18:01:00Z
-originalUrl: "https://www.digitaljournal.com/pr/aventis-launches-ibm-ai-powered-course-recommendation-training-management-system-tms"
-webUrl: "https://www.digitaljournal.com/pr/aventis-launches-ibm-ai-powered-course-recommendation-training-management-system-tms"
+publishedDateTime: 2021-10-28T19:40:00Z
+originalUrl: "https://menafn.com/1103066448/Aventis-launches-IBM-AI-Powered-Course-Recommendation-Training-Management-System-TMS"
+webUrl: "https://menafn.com/1103066448/Aventis-launches-IBM-AI-Powered-Course-Recommendation-Training-Management-System-TMS"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.getnews.info/uploads/29e918195e92801b3c2d56a9a595565c.png"
-    width: 596
-    height: 480
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?926191"
+    width: 443
+    height: 250
     isCached: true
 
-secured: "v+IKi3slci2PfKgj52bBcVo303ifjeiu5PFggR/SP94FKChqS6cdvzLkktM9jEG2yQjnniELLfmgiaphmxBDs1rITWrUK0B5QKcFxdHHRhiyg3IQcxLS9wM8/pU876plfaVlWvh/EWRQyq2oPOHshx/a6OYmvxUS+BA8W2Fv8I9pvtTjLPJHdNNMADKduRPLXqkcoTJ0NW4+LRru7t5YipXPpaNMoeVsVorX+iYbKgbAl5e4RL/EKUUgRYcRkAXY2xnkfwzA4DjC7+DYs/h15wtx+TRJ33WB0T5QIl9hOgQ7xkTkZvymdOf5OUB/y5KEOdGIX4zlASF/A9zq8u2jmE57e5LtmkdMUzlXbKXEFzA=;pMf31d7KqP1SuWwqyRjPUQ=="
+secured: "QwhNqpCDWzl2TXVpYIBHUlhmKoZeJHSQ/pNpP80GDAGpAmYca1GuLGbimJyDzSAEdWQJbHzd1Uibso8EBh3rEb8GJKA45P1bbTG/NvK0DEQHx6cmO2mNEb8X53A4+w5AJ4KzZTK5v2m6ZOR6lvjiF5UXeGRoASaDb0fYx63mIzvCedrD0U9p/ocgnHzvgLyGj3VTmVI1hxxs9GoCSg/tS5JW3SdtIZwE5i9Vl3HATmVjPlstiI/tUIqUsRnZCFpbUKrCrOCFwhEAPaRbji2nNSzlBRw1lKO2GYAc4aG9M6EdvIvpXkpHMFQnL9EKJZbrNURdveBTcf8crpPDG4kNd7ovbG0wL4SsxIUHJ9G4ltA=;d7Mc7/kwAewVTaDq6i7gfw=="
 ---
 

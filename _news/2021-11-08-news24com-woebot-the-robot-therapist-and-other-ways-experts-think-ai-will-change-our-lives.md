@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/news24-com--woebot
 webUrl: "https://markets.businessinsider.com/news/stocks/news24-com--woebot-the-robot-therapist---and-other-ways-experts-think-ai-will-change-our-lives-10715887"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
   - AI in Robotics
+
+related:
+  - title: "5 ways artificial intelligence could shape our lives"
+    excerpt: "Technology evangelists habitually brim with enthusiasm over artificial intelligence's potential to transform our lives, and the crowds at this year's Web Summit were no exception.. Read more at straitstimes."
+    publishedDateTime: 2021-11-08T21:00:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/5-ways-artificial-intelligence-could-shape-our-lives"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/11/08/mi_mona_081121.jpg?itok=reokzp6U"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "jEzyvz9ir+AYuqkW3hGzHDzpNI+JN1m1E6R49pdpTWCl0tqf4kORO6GPlsl8ibLljPucV8v/ROUxxMt4prl6ptKV22sIpsn47Efx32bWWedvn+2oKPBPHPEK7gwFR6hrOCN3fNAAn2ZcfeR17tT/0OnhWhG+93ChOuvD6YZGvMFtk/tVPuz+scT68ZuEZAF2yiXP2UOoNF9Skux3arP/sKg4BjnUNxpJGVH/j6O8dlvMH/mb/vlEMNu5AYMrSi92/TkqpNwgW+UTR1PAjgIDdZ+5/mevlLWDUoZzTEIgcCyZSYKHM8+0d223nZAXTxd1YWDt/h1v6+AiT2i25shWiRwoGa8lasP2krmPe8UIqok=;RhrumKJGiGzo7UGd4jrK9w=="
 ---
