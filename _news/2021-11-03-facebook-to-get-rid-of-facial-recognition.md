@@ -123,20 +123,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Facebook makes big show of kinda ending facial recognition"
-    excerpt: "The tech giant, which recently rebranded as Meta, announced Tuesday that it intends to disable Facebook's facial recognition features. While a massive win for privacy activists and users, the move is a limited one that does not preclude the company from using future forms of facial recognition tech on its billions of users."
-    publishedDateTime: 2021-11-03T14:35:00Z
-    webUrl: "https://mashable.com/article/meta-facebook-facial-recognition"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/04czuqarIXEqHtdDN2HS2Cd/hero-image.fill.size_1200x675.v1635950110.png"
-        width: 1199
-        height: 675
-        isCached: true
   - title: "Governments must check Facebook really does scrap face recognition, whistleblower says"
     excerpt: "Facebook FB.O whistleblower Frances Haugen welcomed Facebook's FB.O announcement that it would scrap facial recognition, but urged close government oversight of the move to ensure the social network lived up to its pledge."
     publishedDateTime: 2021-11-03T17:57:00Z
@@ -163,22 +149,6 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/09/mark-zuckerberg-reuters-163228819616x9.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Facebook Will Shut Down Its Facial Recognition Program"
-    excerpt: "Facebook Inc (NASDAQ:FB) announced Tuesday it will shutter its facial recognition program and erase the face scan data of over a billion people. The internet giant uses the technology to identify"
-    publishedDateTime: 2021-11-03T14:35:00Z
-    webUrl: "https://www.sharewise.com/us/news_articles/Facebook_Will_Shut_Down_Its_Facial_Recognition_Program_ValueWalk_20211103_1443"
-    ampWebUrl: "https://www.sharewise.com/us/news_articles/Facebook_Will_Shut_Down_Its_Facial_Recognition_Program_ValueWalk_20211103_1443/amp"
-    cdnAmpWebUrl: "https://www-sharewise-com.cdn.ampproject.org/c/s/www.sharewise.com/us/news_articles/Facebook_Will_Shut_Down_Its_Facial_Recognition_Program_ValueWalk_20211103_1443/amp"
-    type: article
-    provider:
-      name: sharewise.com
-      domain: sharewise.com
-    quality: 61
-    images:
-      - url: "https://www.sharewise.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2tDVmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3a03748854cd88229ad807caf06e7bb7c1c80475/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lNTnpJd2VEUXdOQVk2QmtWVSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--54ba8c4ff5f2fefc4c50498b8082735189b821c8/Walter-Schloss_FINAL_JPG.jpg?locale=us"
-        width: 404
-        height: 404
         isCached: true
   - title: "Facebook should not have bowed to public outrage and shut down its facial recognition system, former world chess champion says"
     excerpt: "Facebook is wrong to shut down facial recognition, according to Gary Kasparov, the former world chess champion and chairman of Human Rights Foundation."

@@ -63,6 +63,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "The Bank of the Future Will Be Powered by AI"
+    excerpt: "The paper, titled The Bank of the Future: How AI Will Power Ubiquitous Services and Personalised Customer Experiences, explores the key drivers fueling change in the banking space and delves into how financial institutions can leverage AI and cloud ..."
+    publishedDateTime: 2021-11-08T08:45:00Z
+    webUrl: "https://fintechnews.sg/57003/ai/the-bank-of-the-future-will-be-powered-by-ai/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 54
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/11/The-Bank-of-the-Future-Will-Be-Powered-by-AI-New-Report-Says.jpg?x61066"
+        width: 2048
+        height: 1136
+        isCached: true
   - title: "Addressing the effects of AI on nature"
     excerpt: "The Sustainable AI Lab of the University of Bonn (Germany) addresses this topic and is present at COP26 with a unique artwork to remind people of what nature is doing and that AI is getting in the way of this."
     publishedDateTime: 2021-11-05T00:00:00Z

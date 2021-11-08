@@ -94,6 +94,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Singapore Launches National Programme To Deepen AI Capabilities In Financial Services"
+    excerpt: "Singapore Launches National Programme To Deepen AI Capabilities In Financial Services. November 8th, 2021 \\| 12:08 PM \\| 34 views. SIN"
+    publishedDateTime: 2021-11-08T05:11:00Z
+    webUrl: "https://www.brudirect.com/news.php?id=131912"
+    type: article
+    provider:
+      name: brudirect.com
+      domain: brudirect.com
+    quality: 32
+    images:
+      - url: "https://www.brudirect.com/images/news/XINHUA.jpg"
+        width: 700
+        height: 402
+        isCached: true
   - title: "Singapore Sets Aside An Additional S$180m For AI Research, Two New AI Programmes Announced"
     excerpt: "Heng announced that the S$180 million would be set aside to accelerate fundamental and translational AI research."
     publishedDateTime: 2021-11-08T06:22:00Z

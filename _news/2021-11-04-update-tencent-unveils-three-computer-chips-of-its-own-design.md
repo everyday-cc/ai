@@ -89,20 +89,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Tencent unveils its first chip development"
-    excerpt: "Xinhua. Chinese tech giant Tencent has made progress on three self-developed chips, according to Tang Daosheng, a senior executive vice president at Tencent du"
-    publishedDateTime: 2021-11-03T14:17:00Z
-    webUrl: "https://www.globaltimes.cn/page/202111/1238075.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0//attachment/2021/2021-06-12/8527dfc1-cf24-4982-921f-ff7fb221d75d.jpeg"
-        width: 800
-        height: 480
-        isCached: true
   - title: "Tencent flags progress on three chips in development, investment effort"
     excerpt: "Chinese technology giant Tencent Holdings touted progress in semiconductor chip development and investment on Wednesday, offering a rare public glimpse of its R&D initiatives.Best known for computer games and social media app WeChat,"
     publishedDateTime: 2021-11-03T17:44:00Z

@@ -43,20 +43,6 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "North Korea using robots to teach children English and 'enhance intelligence'"
-    excerpt: "North Korea is using humanoid robots to teach children subjects like English, maths and music. A toy-like robot with the country's flag on its chest was demonstrated on state television KRT following a push for education reform and technological innovation by North Korean leader Kim Jong Un."
-    publishedDateTime: 2021-11-03T14:09:00Z
-    webUrl: "https://www.originalfm.com/news/world-news/north-korea-using-robots-to-teach-children-english-and-enhance-intelligence/"
-    type: article
-    provider:
-      name: Original 106
-      domain: originalfm.com
-    quality: 36
-    images:
-      - url: "https://e3.365dm.com/21/11/640x380/skynews-robot-north-korea-flag_5570091.jpg?20211103122720"
-        width: 640
-        height: 380
-        isCached: true
 
 secured: "/WZgxO3WjLFmqre1cLc18Lk1NtoXMyPUFq0xRojiUjk+oxCyinOFEmlYYmYYJFhOBWr0iC7TzM7Wrep+Tq0HgKYg2XQ/0i+vW7S3Yjv9Z1s9a6TjdzTUr74AUls8w+arPC3zbBGHRAdAuZwYeRiNUP49FiyTeFZdKNUYMFSdfnFrQ/5P4b4pZ+DQokFqEVREg0l+cqhll6ug1K+pBO9hBcH+OW8CCn8ZpRPTIyXEL+3NP5o5Lo31jZf4kSW3FZmCLwHdNi8hWb8w1/rd7TT7OjS9sot/RUjMHY8h6QI/2LFZcwmuvzyNJWki/X73vY/MJ4zMz2GPtGJdjafcnTYIgbRwwazr34Dh2EPNc9nYEG4=;Ddx+brk4JP10VgTyt/7q7Q=="
 ---

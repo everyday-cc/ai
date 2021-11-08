@@ -7,7 +7,7 @@ originalUrl: "https://retailtouchpoints.com/blog/retail-and-fashion-technology-c
 webUrl: "https://retailtouchpoints.com/blog/retail-and-fashion-technology-can-using-artificial-intelligence-lead-to-intellectual-property-infringement"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1680
     height: 945
     isCached: true
+
+related:
+  - title: "Technology: Questions of ethics and fairness"
+    excerpt: "The technology sector has a long history of designing devices to lock in customers and accelerate consumption. But “planned obsolescence” as it’s called is facing a push-back. We also speak with Margaret Mitchell,"
+    publishedDateTime: 2021-11-08T07:20:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/futuretense/fair-technology/13611946"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 54
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13611948-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "19kOFmc3gzQfd3IvoopwUqrsPrl5jM0mmY3dQzgxbQ5FRHpdP15on4ijT0zfOZ0btOtaKIVMaRmdi8/45KE2yq9xXavIN4ThBsLyEGqkV+V5daZD3Kd5kkdcvCJtABajNY3UcNPLJfqfDprNvFR6oKsoCEsDTCE2JjZqB75+TATDr4Ljfsy/quK9tXdSHK6+wxU7GXKTyBOwsymMfwIYgf4/SitFTSXlQyqZWUXFOF8OI7X5D/EAFCWDqi8KCAiZYdzymyBEJBZixU/SE8ZF+9k6BptWRJ3HKow2FJs3Jw0oX+4OzTt5qOSpgtJNxlr9L3XWesJTUchQwmHkeyYA8rEVSpqJZA6MMnxxPoHY9woATZbAZJVf8DbDotkkCLou/46AJ71TCCkpj58wjMYgto1TUSPnDzLd3/iu5icva1nVPM0fhdw5vTIINvOCnSJsKZj5VvROhFzogyyKhTWn0FjZfTmIjtduB1sMGorxLG39D+dCtT0hNzvJMBpaZskKuCPMzMExNJ6Me7ZxSCK3yw==;3u2VM7Z94de5fYlUx3B44Q=="
 ---

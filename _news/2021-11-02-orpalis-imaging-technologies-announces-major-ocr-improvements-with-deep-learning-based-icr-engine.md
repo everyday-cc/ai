@@ -8,9 +8,6 @@ webUrl: "https://www.benzinga.com/pressreleases/21/11/n23815015/orpalis-imaging-
 ampWebUrl: "https://www.benzinga.com/amp/content/23815015"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23815015"
 type: article
-quality: 26
-heat: 26
-published: false
 
 provider:
   name: Benzinga.com
@@ -20,6 +17,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "JZTgRXv/CQu1+W9ImFZrw99MtT5jkwJPXI7fa1TgEnluMHQECOmOuP8T1wPNVdk3E4jsqPY1jRPrbz9oHeLGJrfUEeV8A01fB05LYdabOVthlJxyXQ7IfjApbMmYFuncMpYxkw0PysmIa6nMSdq+ZTl5Q2FLM7CbVcIuwV3p01XqMX7cBolQXLoZyOwnvLQgDfBnV58r2LIU/04YN3quwR4IE0OXjKeSiOlvyeHy7UkZQWX9cBVESxe6VwTej8afBgS1pWSIdUhTQvFX80ZGZnNIkayVDDovoriONkZ3GcDSP4vw2FuDa9CcP0PbGHD8xuPSdWMaLai7WNi8kjmu9noBGzKuH/y2RjfhzhwGnyE=;CfIrpiByr8M7MVK2/e83DQ=="
+secured: "rTMROgcCiJ8doGZ6w7GA+HjyKtvGT9AVy1DYJV0G61gmeYonUxzJHwYbpnsp00lP2vPg9kYASH9NCd0T2sHolHJOOxYd/ZEojofBG6pbwG5mTCXDrIXpPm3shr8zsswVxcfo6ICjdDFX1HYOGpjkwdOkNR4dx76J7M/elvUB/UD+Vmrg2NFCW0MAl3oM2rIWdZPBV8K1eTe3TJ3m+R1IpKDJBoFN4URzDs6djiGsQoZ57FHsSBvWaFAIs+lFnktnJhcW2gl2COCGVk+qYmkbUKjLRNr9Q1+FmR8tbj/Zw5Bd3SwuRc5oqwPnKdYh9ypu27xrTLG/AACU8AXhWerkHY/ar95VT74rP4Ae/XSaoag=;GU0p5hDsk3CEihWbDIGiUA=="
 ---
 

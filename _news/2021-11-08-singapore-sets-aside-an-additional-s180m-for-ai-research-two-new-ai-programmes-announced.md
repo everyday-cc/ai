@@ -94,6 +94,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Singapore Launches National Programme To Deepen AI Capabilities In Financial Services"
+    excerpt: "Singapore Launches National Programme To Deepen AI Capabilities In Financial Services. November 8th, 2021 \\| 12:08 PM \\| 34 views. SIN"
+    publishedDateTime: 2021-11-08T05:11:00Z
+    webUrl: "https://www.brudirect.com/news.php?id=131912"
+    type: article
+    provider:
+      name: brudirect.com
+      domain: brudirect.com
+    quality: 32
+    images:
+      - url: "https://www.brudirect.com/images/news/XINHUA.jpg"
+        width: 700
+        height: 402
+        isCached: true
   - title: "Singapore to invest additional $180 million to accelerate AI research; launches two new AI programs"
     excerpt: "Two new public artificial intelligence (AI) programs have been launched as part of the Republic's strategy to use the technology to effect social and economic good. These come"
     publishedDateTime: 2021-11-08T05:26:00Z
@@ -129,6 +143,6 @@ related:
       domain: tmcnet.com
     quality: 3
 
-secured: "JLc5jVfkEKDJ+JSjVJ4xdr8XZapuJfWI+rP5IZWj2sf9PsWFXt3/YLfp+cdaKa5zvVf0wLyJxYA2/WB3IADVi5x9TpOKx80ZeYlicAkz8SEoBKvUmujn3X4sx0K45InZrV3HibRmTPanLYGvQWI9bbmUZu8ZfXIMersHsCrWdnapMIaQza32GxuUgFWLe2VcStjMLKTTA1OCEXvJe0oWdSvWu6NQcvwV2nm6t9PXkToHemqoDu18HednA5hqEXqYIu6GSZeKSxdRW45jp7iIut4fu7e0MExUjDp48DD+yG2UvdrBXyAgRCZWKH+1n9cWprtjp4KGff9Aj2wcGoml6XAt90JSdgHTTALKG3y7L04=;BdMDcnHVC/ej4yyEjkdUlA=="
+secured: "KiUB09wk3lNh3DkWR09xMjBTQqmnirp124s0kUFq2ihVLZciPoq0anMr26W5AhvcLCv/xwJV2vDUYjJiGQm54xcYu7VTEno1K3F+5HIddJYFp+GROIct7+Z2cXCV62fKN5pbBxNhQ9LMw7d0v/9TCMaRO2e4TWWR2rUBKZ2ZK4OWLkJBdoiWxarJgdQ/aAPo/8hW5zSA28ChtRIa0HcTfrZ5AdwVDoUtqihhGieDufz4fFA2JHTdSsA7ESZnJZZYCNHKBsQ7g5TCOVojSRIFQV3P3F35BsCNKlN+7cdHfcRSSqhULqj7ebYhdWuB8PNPzTHT/fCa9eq3i2RsjF4LSCJavaP7QOuLl01FYhVsXok5J4mnw0VOMbbpJfavFzbS2AOVEpZYMvR1DKGMRvJ1gwWPsj/jhclDC1SuKyD3opmWEpSrvfZ4FHvHKkcdr9LK6y1Tb5b3alxmGoZF6B8AckjjmMYv+pOECOKQn1F2Z5V6q86jMxPqH0WpI5RLerMYsqfS9fnJ0Sj1KFeGfB81AA==;axfCdefYlD5eIAvESiU6EA=="
 ---
 

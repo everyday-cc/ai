@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Notable aims to improve AI in health care with new $100M"
-    excerpt: "Demand for AI continues to increase as patients expect a digital-first experience due to the COVID-19 pandemic."
-    publishedDateTime: 2021-11-03T15:20:00Z
-    webUrl: "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/"
-    ampWebUrl: "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/10/shutterstock_710265355-e1634323353526.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "H2O.ai raises $100M at a $1.6B pre-money valuation for tools to make AI usable by any kind of enterprise"
     excerpt: "H2O.ai — a startup that has developed an open-source framework as well as proprietary apps that make it easier for any kind of enterprise to build and operate artificial intelligence-based services — has seen a surge of interest as AI applications have become more ubiquitous,"
     publishedDateTime: 2021-11-07T13:00:00Z
@@ -57,29 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "H2O.ai raises $100M to expand its AI development platform"
-    excerpt: "The Commonwealth Bank of Australia, or CommBank, is one of more than 20,000 organizations that use H2O.ai’s namesake artificial intelligence development platform as part of their machine learning initiatives."
-    publishedDateTime: 2021-11-07T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/11/07/h2o-ai-raises-100m-expand-ai-development-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Sri-Ambati.png"
-        width: 1143
-        height: 574
-        isCached: true
-  - title: "Five risks to consider when implementing AI in health care"
-    excerpt: "Health care organizations must take time to familiarize themselves with the uses, benefits, limitations and hazards of AI tools."
-    publishedDateTime: 2021-11-05T04:04:00Z
-    webUrl: "https://www.propertycasualty360.com/2021/11/05/five-risks-to-consider-when-implementing-ai-in-health-care/"
-    type: article
-    provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 21
 
 secured: "GGqPaZM0F64tI6hFRWWBokhdkEg/K7tKYmCoY5Bd+CliCiFlAqTMe9v1Gr6hOnvQu2Yt0tCLQPD23kMcbgDfdu6dwNxwrjamE7/BO0QIagouqeTTLOC6GdyR7cvIvTFmbD+Prcy1UOWaCMuthQlDMM5kfNQO4Vr33OPFJQ7KfBww1BNNSGakR8BZSuEbsyI9wmkHMUVOPtRs8pTJidH4yIwLgeVnG5JJHJAcyjRGFCYeUJJiMrR/IuJli5bNATLnqgv7vfVhI3viU0hrjSRWiBHsliQucwkeGtAUHSZAVw/zBEwpT3ZwShEu2dUluhL14q0V5EnxbdPGKx2OPAnNCF439HpnSwfXQxvHbREBEbRh9TgFvT3KB2rIwXcnNvdQr2kDcQLjrKFf4TlqWi/fDURjxTv2duYabMC2wrE+rmYTRqosCcIDlFrZ9fQWUWoZwKyjadGY2vmkAcKROwzHNo82E+xincifwkt1TRY1+jYmrxwMwsCfY6Rws+nKI44b+qR2Tp4aveDLB/2eTOqygg==;x1FDMZ2SyjrP4rPz1+cZpg=="
 ---

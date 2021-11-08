@@ -24,61 +24,54 @@ images:
     isCached: true
 
 related:
-  - title: "Notable aims to improve AI in health care with new $100M"
-    excerpt: "Demand for AI continues to increase as patients expect a digital-first experience due to the COVID-19 pandemic."
-    publishedDateTime: 2021-11-03T15:20:00Z
-    webUrl: "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/"
-    ampWebUrl: "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/10/shutterstock_710265355-e1634323353526.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "H2O.ai raises $100M at a $1.6B pre-money valuation for tools to make AI usable by any kind of enterprise"
-    excerpt: "H2O.ai — a startup that has developed an open-source framework as well as proprietary apps that make it easier for any kind of enterprise to build and operate artificial intelligence-based services — has seen a surge of interest as AI applications have become more ubiquitous,"
-    publishedDateTime: 2021-11-07T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/"
-    ampWebUrl: "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/amp/"
+  - title: "Propelo raises $12M for its AI-driven engineering excellence platform"
+    excerpt: "The number of DevOps tools has increased exponentially over the last few years and, with that, the amount of data these tools can produce to help businesses improve their software development processes."
+    publishedDateTime: 2021-11-04T15:45:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 72
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/27307283983_c56396a33a_k.jpg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/outdo_image_2-648w.png?w=300"
+        width: 300
+        height: 258
         isCached: true
-  - title: "Healthcare automation startup Notable raises $100M to boost US hospital revenues"
-    excerpt: "AI-powered healthcare startup Notable raised $100 million in Series B funding led by Airbnb and Zoom investor Iconiq Growth, boosting the company’s valuation to $600 million. What it does: Notable’s tech continuously scans electronic health records (EHRs) to identify which workflows to automate,"
-    publishedDateTime: 2021-11-04T04:58:00Z
-    webUrl: "https://www.emarketer.com/content/consolidating-ai-vendors-could-key-improving-hospital-cybersecurity"
+  - title: "WhyLabs raises $10M Series A for its AI observability platform"
+    excerpt: "WhyLabs, a machine learning startup that was spun out of the Allen Institute last year, helps data teams monitor the health of their AI models and the data pipelines that fuel them. Last year, the startup raised a $4 million seed round and today,"
+    publishedDateTime: 2021-11-04T15:00:00Z
+    webUrl: "https://techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/whylabs-raises-10m-series-a-for-its-ai-observability-platform/amp/"
     type: article
     provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 49
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://contentstorage-nax1.emarketer.com/8192741334f5d53cd12b2d7978a2f524/264941?im=FitAndFill,width=1200,height=630"
-        width: 470
-        height: 277
+      - url: "https://i.ytimg.com/vi/UsDsLEpigBw/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
-  - title: "Five risks to consider when implementing AI in health care"
-    excerpt: "Health care organizations must take time to familiarize themselves with the uses, benefits, limitations and hazards of AI tools."
-    publishedDateTime: 2021-11-05T04:04:00Z
-    webUrl: "https://www.propertycasualty360.com/2021/11/05/five-risks-to-consider-when-implementing-ai-in-health-care/"
+  - title: "Propelo Raises $12M Series A Funding, Unveils AI-Driven Engineering Excellence Platform"
+    excerpt: "Today, Propelo publicly launched an industry-first AI-driven engineering excellence platform to help businesses accelerate"
+    publishedDateTime: 2021-11-04T19:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/n23904692/propelo-raises-12m-series-a-funding-unveils-ai-driven-engineering-excellence-platform"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23904692"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23904692"
     type: article
     provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 21
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/1678009/Propelo_Screenshot.jpg"
+        width: 349
+        height: 400
+        isCached: true
 
 secured: "BY6jPxQeYfT339mOFITnM9Nl0YkAYWZ2/i6GY7H3LtSM0a5ps40IkIH3UPsq/tAkTJmc9c6xu/OwUsvKbtwJM3XnsQqyRrM116RwJ4/l9OGatH/kExEMT005h3K9YdT6Yb3izMWvM2TPXq1BEnteolJ8t0HZsWhu9V+aFAWpRsutFXbJrR91IaoVq9cP5gGYK4MAe1nG6qQRUX5Lyx4g5SkHTF1VZETXqLMBjpVWdZBz786AMl7KZz5I1/1Dz2MUkFLSGCto8wjMvZvPsJ3drRbOa6wBXmNK2VOyX6nRZEjdTgT3FoeAQKMDM3qoGri5D5wkB0UwQydMY8SHkW4X0bWrkCwkXeaJsKgVaMzHlH4W4nSYy7cPFyCcQxcEqxUPkQV2vSNLGhfkWMS3bopx0/Jf+q0iNV1XYcrvT3f12BDE4Or5J29jUIbOId/4YE3dK9m7C7PvosEP/JigNpWd3P7RcaxC2O+WnC3aUCCHgmdr+kjlxuexhgEN0OvtRAQF/PEaVzDJmqTnGk6kxU9Q8w==;2V2jANrF0zCttdjvbgYt5Q=="
 ---

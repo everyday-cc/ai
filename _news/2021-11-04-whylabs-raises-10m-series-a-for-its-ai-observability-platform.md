@@ -62,6 +62,20 @@ related:
         width: 349
         height: 400
         isCached: true
+  - title: "H2O.ai raises $100M to expand its AI development platform"
+    excerpt: "The Commonwealth Bank of Australia, or CommBank, is one of more than 20,000 organizations that use H2O.ai’s namesake artificial intelligence development platform as part of their machine learning initiatives."
+    publishedDateTime: 2021-11-07T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/11/07/h2o-ai-raises-100m-expand-ai-development-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Sri-Ambati.png"
+        width: 1143
+        height: 574
+        isCached: true
 
 secured: "B7UDF5LmfTfuPnxqj4OtFP3uIUKlxGzdDYDHvex7Rx8S3i83/M7rJXUFCbjfmcteZ84ApFxSNIE5fGiwL1/2Mu34tx/jD6ka7nqPD4bUXufuVxEcaZx3hrluwLL5Lnt4k8ZVPdqelN0QEiMmvI5AzmHTO028ncSR5sr6VkPbHuA0h9v1qGP/aZnj0CYokOop6vh3ZFSdwBUOFt0f/e7lQhulz9/2d//C2UpYU7rUZ1ayFZFz7cqaCW4q4zDELph7dJoFRlMQdOVw9p+RHGZmfG1JRL630BMdyKRo4DKnx4iiHdrUp6znMw6xZYOY/FxVszVGm2jaazN0TAYaMDe1rN52n3UKKPHilfZMViZRIdq7WAwn4TSz28fAM0Ic3IXD1aNtTLcTVQsMHPP1kBjmr88On+uoo8V+gdpP8NQWrvRtu1qq4zdwKw+HXDrW0g6dvSgcHYZGiBprf3KZschwxXamltbWejLDnofTQfmqO4BUd2Ba4VIkLCrHhKaNN9su/5GRkdmO+Vfn75RsEzh9tQ==;0F977cM39kOiJqD0Q4x3LA=="
 ---

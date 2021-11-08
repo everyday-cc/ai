@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai"
-excerpt: "\"We see broad application for AI and machine learning technology right across our business - in operational processes, protecting customers from fraud, lending decisions, and risk management,\" CBA Chief Executive Matt Comyn said."
-publishedDateTime: 2021-11-08T04:55:00Z
-originalUrl: "https://www.gadgetsnow.com/tech-news/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2o-ai/articleshow/87578376.cms"
-webUrl: "https://www.gadgetsnow.com/tech-news/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2o-ai/articleshow/87578376.cms"
-ampWebUrl: "https://www.gadgetsnow.com/tech-news/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2o-ai/amp_articleshow/87578376.cms"
-cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2o-ai/amp_articleshow/87578376.cms"
+excerpt: "(https://bit.ly/3BY8Kwp) \"We see broad application for AI and machine learning technology right across ... as it looks to match offerings from rival fintech firms. read more CBA also leads the banking sector's entry into the fast-growing Buy Now Pay ..."
+publishedDateTime: 2021-11-07T21:22:00Z
+originalUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
+webUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
 type: article
-quality: 69
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Gadgets Now
-  domain: gadgetsnow.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87578376,imgsize-15046,width-800/87578376.jpg"
-    width: 800
-    height: 418
+  - url: "https://www.reuters.com/resizer/fy1Hr0OcjcfQo6t81SMK4FPVg6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34TS4M35IJKKRBSMOKLXM76LSA.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -58,22 +60,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/95da1f03aebf41e4a0369aa2ecfddc6c.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Clearview AI told it broke Australia’s privacy law, ordered to delete data"
-    excerpt: "Australia has found that controversial facial recognition company, Clearview AI, broke national privacy laws when it covertly collected citizens’ facial biometrics and incorporated them into its AI-powered identity matching service — which it sells to law enforcement"
-    publishedDateTime: 2021-11-03T15:36:00Z
-    webUrl: "https://techcrunch.com/2021/11/03/clearview-ai-australia-privacy-breach/"
-    ampWebUrl: "https://techcrunch.com/2021/11/03/clearview-ai-australia-privacy-breach/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/clearview-ai-australia-privacy-breach/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2015/10/shutterstock_113956645.jpg?w=1024"
-        width: 1024
-        height: 700
         isCached: true
   - title: "Australia says facial recognition software firm Clearview breached privacy law"
     excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data"
@@ -120,6 +106,6 @@ related:
         height: 630
         isCached: true
 
-secured: "nmtzTDY0tHrc6YIDAucZOxI55jlPT7eS6ArWBSOpKPRM/Dt0OoDsrp+OZHl0MFzhJeRCczM//WTJCcFI45c4KHFEm6NiRMIOzHdL0ZF+y0TB5ppVT9tgS1TQO+Jj/vUNYFUlQD0P/ueNbqHKYl1VSzWeXA1MwgE7UQR1dmp/d27TJdG0IkaXaNbIgkQ8B/OuCwbE4IOs5HHkuibDndfiN1JlxH4WJPEtL6VOrbheBRv7jq+ey8/J/qqjCLg4OMr6Ly2XoQUOxC4GaGij5Vfop2pzB0UPh8BBHogMsRA6vw+cWPPaAZZtPiFiQMwnt3pfnyXnZn8+odbUdrzmldmdTDXWI+SY7JQIkQPNbScFxfcblyaGZaC5K1yipuzqvnXm54g6SuzsdR97YdkgGieTkmy6IaDQUBLD3OTiIhm4QbbXC5Huc1w/feOnWwEY9jklDFZ7XEy6iPB/FuO52V7CM+mozAeBuqtEtHnFzKsHFVl/i0YCF8zE0wDXB6uOXKPsL3aRuhgHFJvqEGic+rEB3g==;vrXNAVxgazFllNHvmx1ojw=="
+secured: "NNiE2elQHg38iKWmuMV/+OaMBTz96EBQmMdme2vu7tKn5CYC9XCxhUlJ3/PYmrTwBK69zpZZe4D6whXY6nR3IPeOyQgnuRtX4C9nBOhf3C7QjfGI2lQSao9U2y71UJAPJjOGFzgDjaMSykVdBw4Hale5ylLrNTXnYesRnLtGKTf13vcrHAdlJOo+XxqWPbQQZZLacHgS1CrZ3cn3U3KSMqhEYSI0Ht65WIh7swE2TYn1/dxB/dvR8MTBMgEvPBLSz6pyEQ2qjDPXIM2UrTACc06GebaDPxNynKLMtB35OxdyZZmfkcNzIGSOW8qtjJ6vBsnEOcsBpMwqEgAgNxd0dCuwsQ1zdDzemz6K0j9h13g=;/f9p/w4SYa/w6rxl/7OR0A=="
 ---
 

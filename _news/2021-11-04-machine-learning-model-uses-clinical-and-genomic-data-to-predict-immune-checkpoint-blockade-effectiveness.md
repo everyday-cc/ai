@@ -36,15 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 38
-  - title: "Machine learning model uses clinical and genomic data to predict immunotherapy effectiveness"
-    excerpt: "CLEVELAND - A new machine learning model developed by Timothy Chan, MD, PhD, of Cleveland Clinic and colleagues accurately predicts whether immune checkpoint blockade (ICB), a growing class of immunotherapy drugs,"
-    publishedDateTime: 2021-11-03T15:56:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/933722"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 8
 
 secured: "fiOX1yRnKduRJ62sA8cHAFAue8hohKLIeTG9Or0BIUiBJKLeGw8p5ZbgpLVUIHOb1ygM7mP/byiL67igADoe/ImChIKKPOHS8SaQU9Yorte16UXss9xZTx6dmh1fdsRRKkMZpxoqGVR++S91SytJVU7ZczhmLBiiFw8gV2QI4DXRbxImFpGhRzjqUL2h5YRgbY43wBVMvbQGyKa7qgYj4Va9gdGX3oerZUUZQxrhDdxgIa+aJnwEimjVYJTcKIGMTjH8vYdYLHpR+60t4JHCa6XUXtkSjpitw+x6huuUhndZ1yZm7VLZgxpcVXnEeZGN9cEoQ1xLBHl99u8ulNTyusZA0HlYGSceXXU2AjsPyAMixXLqzz7eig4TVQSYurcYnkXEfOy6O4qv+7LC1XoMPVSMTsgsgVQaZqhyXjsCAP79BYCUPpSoZJmTNsntVZXcVwcE888J23XZBLiooPWwejraa2QGd9ichxsajL/KvHB7kg20oELIwRvDGii8cnBlEsv11/JSrZnOYCYEdU3m7A==;C2GRvpFqRK4jopF4gj4l0Q=="
 ---

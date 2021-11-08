@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/news/world/1516828/north-korea-news-boost-
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1516828/north-korea-news-boost-english-education-robot-teachers-ont/amp"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F11%2FNorth_Korea_Robots.jpg"
         width: 1200
         height: 619
-        isCached: true
-  - title: "North Korea using robots to teach children English and 'enhance intelligence'"
-    excerpt: "North Korea is using humanoid robots to teach children subjects like English, maths and music. A toy-like robot with the country's flag on its chest was demonstrated on state television KRT following a push for education reform and technological innovation by North Korean leader Kim Jong Un."
-    publishedDateTime: 2021-11-03T14:09:00Z
-    webUrl: "https://www.originalfm.com/news/world-news/north-korea-using-robots-to-teach-children-english-and-enhance-intelligence/"
-    type: article
-    provider:
-      name: Original 106
-      domain: originalfm.com
-    quality: 36
-    images:
-      - url: "https://e3.365dm.com/21/11/640x380/skynews-robot-north-korea-flag_5570091.jpg?20211103122720"
-        width: 640
-        height: 380
         isCached: true
 
 secured: "9iAvC/f/7LHjJc/rQzIVsR5Y5vunqaDRebti3oqQsLWroRj273ujaktSc2XjN4OP781wdE1Ce2u6nERryrA5wDeMIBNgrDlptVDxyUOzdt0uT2V9W1G6ZkZP7MO6Q6r62oO+5qWsHj4D/rUcRSUIB0MKy1Lb2rzVlMP/GaY7oD+X+xd9D2brdI5K0OmhvVr60cyEVY+LURnWc8t2PO3b8dV3OLfD+oL3PKULmgULyneeNihVWiL2U4TkH5MB77C8VCGu0/tAZ3/v15xjPS0rtkIHUbYIX3AZyU4gIm7F5F4EZjLmv3CnduHZceYnM3e8+aKV3pRyuxFUmjje7GIVhmfp+Bwi+DLPsQDR1oFkoG2cMaEHYOX7pBfAhb755uB3pqR4gvB1d/qrTSCg7DLBXor6ATKD2jXr9NA739+vSsj8334tJp+mgFytig1e1lYc2vLLV21F1GHtuoUCyfsDYOWoHgKOg51d1m9i5TfAMNIJavyUI92BzMVUJ9ELixAvGgB+3sl04s68p6ez/uKQxQ==;q2c42sGhNSTjCN9NoRtm+Q=="

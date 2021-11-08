@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valua
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/amp/"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: TechCrunch
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Notable aims to improve AI in health care with new $100M"
-    excerpt: "Demand for AI continues to increase as patients expect a digital-first experience due to the COVID-19 pandemic."
-    publishedDateTime: 2021-11-03T15:20:00Z
-    webUrl: "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/"
-    ampWebUrl: "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/10/shutterstock_710265355-e1634323353526.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Healthcare automation startup Notable raises $100M to boost US hospital revenues"
     excerpt: "AI-powered healthcare startup Notable raised $100 million in Series B funding led by Airbnb and Zoom investor Iconiq Growth, boosting the company’s valuation to $600 million. What it does: Notable’s tech continuously scans electronic health records (EHRs) to identify which workflows to automate,"
     publishedDateTime: 2021-11-04T04:58:00Z
@@ -61,29 +45,6 @@ related:
         width: 470
         height: 277
         isCached: true
-  - title: "H2O.ai raises $100M to expand its AI development platform"
-    excerpt: "The Commonwealth Bank of Australia, or CommBank, is one of more than 20,000 organizations that use H2O.ai’s namesake artificial intelligence development platform as part of their machine learning initiatives."
-    publishedDateTime: 2021-11-07T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/11/07/h2o-ai-raises-100m-expand-ai-development-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Sri-Ambati.png"
-        width: 1143
-        height: 574
-        isCached: true
-  - title: "Five risks to consider when implementing AI in health care"
-    excerpt: "Health care organizations must take time to familiarize themselves with the uses, benefits, limitations and hazards of AI tools."
-    publishedDateTime: 2021-11-05T04:04:00Z
-    webUrl: "https://www.propertycasualty360.com/2021/11/05/five-risks-to-consider-when-implementing-ai-in-health-care/"
-    type: article
-    provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 21
 
 secured: "KZvmZ6fhF50YVB4AiqShVDDg+BA/mFA9ZNAYhHu55WCV9oxiv11K4KkMvyvOkygTBaiSoxSEpBWmiG4rVv2mRPgjdQ214twvC74AUqzK37R0Ul5BfwatmxaImxs3sC/9Upy4kkjf8ZPjjSM2BWuhm+D3bF12oM+dzsNGQZPtBPKwzlebdK0KBYGnZ9Y9lD8JeYYcjb7f1uCcbdPZAjlRojgxdD+VbS81Q2UtnjEfZrM0d/VySjoFvvnXF7v8EuqDXr7H58sy3gi28UodQFChBV/+OAjt+srKV6hgJQp0ifzR5GKBkYvvP9QPgOlXZxiPb90oAQe6zKOLUXEkRDQI9eAMmBLY1ot8hGbbcRJkk3hNs6uePWbYk8lrvhc65d7dnb+Cx1Oa9stK/A5WtMVF1rWW5GawaXXFEaYf/OCNGOP36OcDlddeAdekB4PfD88Ow8gD1EDPVGiGbfwU0wZHMOHxCtbzA7aF2uFGPO/PH9IQa32c0L7tIExZRtUxKW0brfi5xM8DqAbgvA9n8YE4oQ==;rsB93rhzDN4Mc5UeZqKcnA=="
 ---

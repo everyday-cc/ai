@@ -26,6 +26,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "TCS Recognized as a Leader in Wealth and Asset Management Services by NelsonHall"
+    excerpt: "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has been positioned as a Leader in the NelsonHall NEAT vendor eva"
+    publishedDateTime: 2021-11-08T08:41:00Z
+    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=301508"
+    type: article
+    provider:
+      name: Equity Bulls
+      domain: equitybulls.com
+    quality: 0
+
 secured: "xKVxtR3/ulhuwb9loOF//NtIoITSSPSu8ggzvoXa1YkwIxyKd5r56BsIDke9y7sCkiYoGftSeoHTTOJ0BchJ9pEPRletoAtQr9kCeJDbjhBiIOasYUxdB3ST/yTAbsn87DWZNuOPNvdpVjdEUnlzcH8Mwhxv2vd18bWPst/jDTebbXkUWnwofUJu7G/7pWniEpSgPVdk2sQjH/lVWw6CVdqExC/gWh1B7gFYOVLfwpVclqVLlSejJLC0/HSQmFWSQABO26b192mWfl1ras5zx2BjA9UkY4ejb7oWjEiugEUq2cJ5M/tK+1ywY3QLVyzp2NXweuGmNCeWKVQEM5zMWiedlGvGhZR4+RrG+Nlv9Ez5KpPYPsOmIpygq4B+XhGC7MWi1yE6pokOL3MBu0jFqvHtO6iFd9sGZOgOAdtgFDmiql/606VAHBK0peX5XzDqQ94rzSO4E1fnoUJs84kkhsnM8RPZGJ0Irn6YwtepsY5pzggjDrjFC9kzSK52C9naDSI3uAUlUjJ8ME+medcCDg==;4UEE9yyfzRvK/yN4mp7Z2w=="
 ---
 

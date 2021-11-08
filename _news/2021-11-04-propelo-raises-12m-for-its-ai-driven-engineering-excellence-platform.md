@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1678009/Propelo_Screenshot.jpg"
         width: 349
         height: 400
+        isCached: true
+  - title: "H2O.ai raises $100M to expand its AI development platform"
+    excerpt: "The Commonwealth Bank of Australia, or CommBank, is one of more than 20,000 organizations that use H2O.ai’s namesake artificial intelligence development platform as part of their machine learning initiatives."
+    publishedDateTime: 2021-11-07T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/11/07/h2o-ai-raises-100m-expand-ai-development-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Sri-Ambati.png"
+        width: 1143
+        height: 574
         isCached: true
 
 secured: "VrHAAIgVyG2ue7/HTZcVckY1QKDs+JRkZu8uaTPKpuq4V8VoPIDR7QLHJPqXpbH3yDh0QapBvRCv5hTdqsarVh2vYYmpT/nbrpyCE8HxtjCa9TaGr92XrnK1+TZMCfqYBj3QhSvTKH54zTWa5GqlwkRHW9Et8vFBVPxHTPcAmdOYqpRvFOQcHtq4qgw39UN9LhCYmSXB+dby6lChoKRMMAc7Fzr5GAw/eweW0J2xwDYA5Y7yt92k8Oub7GvwlcpwwvKAXrHJ3lXskvN2G3UVkB01c6px82wHj3zCAof5DeyYItstCjF/Yh2fVma8r7+QHyFY9XsiRCbVGTQqj2of5c/AkMS1Qj0BwpRlhwBO3i4j+Z3DQ64H0Qjw1vn6s8H2R6IUWRDTbgWljo4vQpn++mmnoXwTgghqvYCBFF0JifR8Zmqj/ukcZvZaGrxvit75WWvoSVpKJI/gievcG/oplRc0Xtkhv4Bh/ATSqxgttlDslG4bI8nGEj8NvBHkBYfJgCkD/HDwAPxwMr1ot/LEVA==;mAJvn6IJ8IakaRnDW57qbg=="

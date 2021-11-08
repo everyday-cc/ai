@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Introducing Speech Recognition for Uncommon Spoken Languages"
+    excerpt: "Speech recognition is used worldwide. Automated speech recognition is used in various technologies. Advancements in speech recognition technology will now enable identifying uncommon languages. This article shows how speech recognition system for uncommon languages can be used."
+    publishedDateTime: 2021-11-08T07:15:00Z
+    webUrl: "https://www.analyticsinsight.net/introducing-speech-recognition-for-uncommon-spoken-languages/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/Introducing-Speech-Recognition-for-Uncommon-Spoken-Languages.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Appliance Maker Implements Speech Recognition Software on the Assembly Line"
     excerpt: "The pace at which artificial intelligence (AI) is becoming a mainstream technology in manufacturing is quite impressive. Companies in many industries use AI daily to optimize assembly processes, perform predictive maintenance,"
     publishedDateTime: 2021-11-04T13:00:00Z
@@ -40,20 +54,6 @@ related:
       - url: "https://www.assemblymag.com/ext/resources/Issues/2021/November/AiA/asb1121AIA1.jpg?height=635&t=1635962341&width=1200"
         width: 900
         height: 550
-        isCached: true
-  - title: "Unite gives FCA deadline for union recognition"
-    excerpt: "If they ignore the request, the union has the right to apply for recognition to the Central Arbitration Committee ... are flooding to join Unite as their independent trade union voice\". \"The FCA management cannot any longer stick their heads in the ..."
-    publishedDateTime: 2021-11-03T15:58:00Z
-    webUrl: "https://www.investmentweek.co.uk/news/4039718/unite-fca-deadline-union-recognition"
-    type: article
-    provider:
-      name: Investment Week
-      domain: investmentweek.co.uk
-    quality: 24
-    images:
-      - url: "https://www.investmentweek.co.uk/api/v1/wps/dd1a08a/98e043a8-6166-4a9f-bfff-263f351c76af/13/fca-building-370x229.jpeg"
-        width: 370
-        height: 229
         isCached: true
   - title: "Unite gives FCA deadline for union recognition"
     excerpt: "The general secretary of Unite Sharon Graham has written to the Financial Conduct Authority (FCA) demanding trade union recognition for its workforce."
