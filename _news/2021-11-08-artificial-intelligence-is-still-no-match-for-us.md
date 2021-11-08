@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/artificial-intelligence-ai-gpt-3-tu
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

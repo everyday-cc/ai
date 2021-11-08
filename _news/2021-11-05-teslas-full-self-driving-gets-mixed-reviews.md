@@ -137,17 +137,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Tesla’s handling of braking bug in self-driving test raises alarms"
-    excerpt: "A botched software update by Tesla shows how complicated self-driving systems can be. and raises the question of whether there is a safe way to test autonomous vehicles at mass scale on public roads,"
-    publishedDateTime: 2021-11-04T00:28:00Z
-    webUrl: "https://www.seattletimes.com/business/teslas-handling-of-braking-bug-in-self-driving-test-raises-alarms/"
-    ampWebUrl: "https://www.seattletimes.com/business/teslas-handling-of-braking-bug-in-self-driving-test-raises-alarms/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/teslas-handling-of-braking-bug-in-self-driving-test-raises-alarms/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
   - title: "Waymo's Self-Driving Vehicles Arrive on New York City Streets"
     excerpt: "After rolling out in several cities including San Francisco, Google‘s Waymo brings its self-driving vehicles to the bustling New York City streets. As the most densely populated city in the United States with “unusual road geometrics,"
     publishedDateTime: 2021-11-05T04:34:00Z
@@ -192,6 +181,29 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Self-Driving Software Developer Aurora Goes Public"
+    excerpt: "Self-driving technology company Aurora announced it completed its business combination with Reinvent Technology Partners Y, a special purpose acquisition company."
+    publishedDateTime: 2021-11-08T15:15:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-software-developer-aurora-goes-public"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/aurora-truck-0727.jpg?itok=kIF3GM9D"
+        width: 470
+        height: 246
+        isCached: true
+  - title: "Tesla's Full Self-Driving update made cars go haywire. Here's the impact"
+    excerpt: "The EV maker appears to be adjusting to scrutiny from federal safety regulators and negative publicity about some of its practices."
+    publishedDateTime: 2021-11-08T15:18:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2021/11/08/teslas-full-self-driving-update-made-cars-go-crazy-impact-tdn/6337764001/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 18
 
 secured: "RnVfxBpoDhZHxQIp5JjGBVvwzhUD0B9gceCrditehz8klETnPnIlIkoT3iun3KcMfbkRdo6l988qdpYDqVIEo0MI5HDIj0GnuE+fEmMPgnTbjEB3kKbZtIPeV30z5DfyRv8WNyvug6O0+lyrstrcUOxrORHXeck6g/BWpIAV4qFgZcIF0I3pJyUk/3adTdvHNtqk8j+RvbghqqjhEyMacxdU29XxNIykmpgVSm6c9FugyQXB6ToqeiX3IbPNHMOHN9qvo8tVzHn+nuMkv2IEkr3dLaH9xV5VTF9Pr+yZDESPE895FPvhGfJJPNHeHNKaZ/McfndDNfGTH4TVrfBDhQU7CY7NIBbBuNz2uKq/uOW39lHJiBGUiTj8B3G3pvvLD4k2k9RRTgj47k7rGp5KJxCcGuWjtDKI07XXfA7VHytHRiIXRg12RLEZuw1ksl5jIFKXybGX5CJgj2490xu93FulRbijkDRQK7LuWiuB2tR13HvrzOzmYR2LpskYI+grh0SUzKDbjwd6mur6N1dPmg==;/pEPC9L/1c7uYRsP7zq7/w=="
 ---

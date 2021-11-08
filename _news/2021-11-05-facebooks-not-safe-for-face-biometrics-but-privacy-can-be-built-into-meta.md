@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dutch festival promoters split on face biometrics for event entry"
+    excerpt: "Dutch regulators and at least some event organizers feel biometric facial authentication is a \"drastic\" step to take for authenticating festivalgoers."
+    publishedDateTime: 2021-11-08T17:35:00Z
+    webUrl: "https://www.biometricupdate.com/202111/dutch-festival-promoters-split-on-face-biometrics-for-event-entry"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/02124358/biometrics-awards.jpg"
+        width: 1536
+        height: 1025
+        isCached: true
   - title: "Apple patents: mask fix for face biometrics, gestures in video conferencing"
     excerpt: "The document describes an automated ‘switch’ between a full-face facial recognition authentication process and partial face facial recognition authentication."
     publishedDateTime: 2021-11-08T15:53:00Z

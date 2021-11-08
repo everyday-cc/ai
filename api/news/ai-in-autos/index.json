@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-09-its-go-time-for-self-driving-cars-north-of-the-arctic-circle.md",
+      "title": "It’s ‘Go Time’ For Self-Driving Cars – North Of The Arctic Circle",
+      "excerpt": "Northern Norway will be a closely watched, wintry testing ground for self-driving cars. If they can make it there, autonomous vehicle industry members say, driverless cars can make it anywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/",
+      "originalUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61894faa6cc9ac8540b3fa1f%2F0x0.jpg%3FcropX1%3D135%26cropX2%3D2364%26cropY1%3D0%26cropY2%3D1671",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/",
+      "publishedDateTime": "2021-11-08T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-gatiks-self-driving-trucks-are-now-making-driverless-deliveries-for-walmart-in-arkansas.md",
       "title": "Gatik’s self-driving trucks are now making driverless deliveries for Walmart in Arkansas",
       "excerpt": "Autonomous vehicle startup Gatik has reached a new milestone in its partnership with Walmart and within the industry. Gatik said Monday it has pulled the safety operator from behind the wheel of two self-driving box trucks that operate in Walmart’s home turf of Bentonville,",
@@ -10,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/08/gatik-driverless-deliveries-walmart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -115,7 +167,7 @@
       "originalUrl": "https://www.wsj.com/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -210,7 +262,7 @@
       "originalUrl": "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -1421,49 +1473,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-ai-estimated-to-provide-10-boost-to-uk-gdp-by-2030.md",
-      "title": "AI estimated to provide 10% boost to UK GDP by 2030",
-      "excerpt": "Capabilities provided by artificial intelligence (AI) systems and related technologies such as robots and driverless vehicles could provide a 10% boost to the UK economy by 2030, but there are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?_gl=1*iphwe2*_ga*MzEzNzc3ODIzLjE1NjE2Mjk1NzY.*_ga_TQKE4GS5P9*MTYzNDU3MDQ1NS4zMDguMS4xNjM0NTcwNTgwLjA.&_ga=2.154875644.53959175.1634552366-313777823.1561629576",
-      "originalUrl": "https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?_gl=1*iphwe2*_ga*MzEzNzc3ODIzLjE1NjE2Mjk1NzY.*_ga_TQKE4GS5P9*MTYzNDU3MDQ1NS4zMDguMS4xNjM0NTcwNTgwLjA.&_ga=2.154875644.53959175.1634552366-313777823.1561629576",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-brain-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?amp=1",
-      "publishedDateTime": "2021-10-26T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

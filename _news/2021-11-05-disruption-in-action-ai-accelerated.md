@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-acce
 webUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://lh3.googleusercontent.com/p9rDEy2TS05gmljGu-JgnaBaMzEV42FH5xYwNZwp0-uz2JUzLKTHQV8zCDIIog1zKOcCSsTbXdvxfvRDsOGrwhi3vcZlptMvPrt4=w816-h428"
         width: 761
         height: 428
+        isCached: true
+  - title: "Materials advancement accelerates the realization of AI technology"
+    excerpt: "Researchers in Korea succeeded in developing a core material for the next-generation neuromorphic (neural network imitation) semiconductor for the first time in the country. This is a result of a research team led by Dr."
+    publishedDateTime: 2021-11-08T17:02:00Z
+    webUrl: "https://phys.org/news/2021-11-materials-advancement-ai-technology.html"
+    ampWebUrl: "https://phys.org/news/2021-11-materials-advancement-ai-technology.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-materials-advancement-ai-technology.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/materials-advancement.jpg"
+        width: 505
+        height: 662
         isCached: true
 
 secured: "YIHRHkrMgSFLqtuKuldEBjioNEoK2L7fQeDTsZivB0p++A1h1HG7ppp/k36iXhpOGpJp5GP8ZOjCoJ3bPWlLf8mOVo9FLJTe9lKLvj1eb7zdpavC/ScvFglWiMMff3r6iAgQYmVmZfngTowbUWQTHloFEN6iPxDebdU2qRT3naGOyCR/65GeOvFG8fWvjNFtsNf9pqz4UCDS15GmW4HCODyTyYi75XHhh6BthwohbuuUULrcD19upJJvDkEij2m7uqFyaOrxoQaD1IsSBwLnhghWL481XctRCRKQtkyD/KkepA2qAgFm7b6Nd2xzp6dxrHw8NNRF6Jo9fVScDgzw3EyNWwm59rspX36+KNqPUZlb/hbMQHJ+X4QdTpON+cSL3XlfvF0dIlRQzikbuR4reAb6EIkMu2e5TjLIVeS3OiF4Fg7rXBlzFSW0nl7VjzOVXJH7wuSv19/jPrdkDxuB+jcQbFcq8GC71nc5rj1SvPw/ZyZ2NWom+AUI4VXd7VWo+q+FoQldv41fmqEclUIY8w==;MoF+tt7iKimqa9ydF/LBuw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202111/apple-patents-mask-fix-for-
 webUrl: "https://www.biometricupdate.com/202111/apple-patents-mask-fix-for-face-biometrics-gestures-in-video-conferencing"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dutch festival promoters split on face biometrics for event entry"
+    excerpt: "Dutch regulators and at least some event organizers feel biometric facial authentication is a \"drastic\" step to take for authenticating festivalgoers."
+    publishedDateTime: 2021-11-08T17:35:00Z
+    webUrl: "https://www.biometricupdate.com/202111/dutch-festival-promoters-split-on-face-biometrics-for-event-entry"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/02124358/biometrics-awards.jpg"
+        width: 1536
+        height: 1025
+        isCached: true
   - title: "Facebook’s not safe for face biometrics, but privacy can be built into Meta?"
     excerpt: "Both Recode and Fortune are reporting on misgivings that some in the industry have about Zuckerberg's happiness to delete 1 billion face templates."
     publishedDateTime: 2021-11-05T15:46:00Z

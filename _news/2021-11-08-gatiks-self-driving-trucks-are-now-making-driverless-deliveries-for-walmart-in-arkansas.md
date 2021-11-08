@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/08/gatik-driverless-deliveries-walmar
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/gatik-driverless-deliveries-walmart/amp/"
 type: article
 quality: 80
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://lh3.googleusercontent.com/_rtaYMh4OZvoQjDfnvzruj7QWYtBwlt5T9qV1aP0Ioppo-zVWVdmI7cAnGqiXrBBVjGBqh66RGO8xqBmCeNvRKKNTKxAWV-QUuThrO4PcTdrOWw=s750"
         width: 750
         height: 510
+        isCached: true
+  - title: "Walmart rolls out driverless trucks for deliveries of online orders"
+    excerpt: "Walmart and autonomous vehicle startup Gatik have deployed fully autonomous trucks without a safety driver for a daily, seven-mile delivery route between a \"dark store\", or fulfillment center, and a Neighborhood Market retail store in Bentonville,"
+    publishedDateTime: 2021-11-08T18:29:00Z
+    webUrl: "https://www.foxbusiness.com/technology/walmart-delivery-driverless-trucks"
+    ampWebUrl: "https://www.foxbusiness.com/technology/walmart-delivery-driverless-trucks.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/walmart-delivery-driverless-trucks.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/Walmart-Gatick-autonomous-trucks-2.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "Walmart Stomps the Pedal on Self-Driving Delivery"
     excerpt: "The giant retailer has thrown its weight behind five startups and just let the Gatik robots take the wheel in Arkansas."
@@ -88,6 +104,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6188b51efa6e325431582562%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Walmart Accelerates Self-Driving Delivery"
+    excerpt: "At the moment, the future of transportation is at the Walmart on Regional Airport Boulevard in Bentonville, Ark."
+    publishedDateTime: 2021-11-08T14:15:00Z
+    webUrl: "https://www.ttnews.com/articles/walmart-stomps-pedal-self-driving-delivery"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/gatik-walmart.jpg?itok=hme3qFdV"
+        width: 470
+        height: 246
         isCached: true
 
 secured: "MK77atc7UTgIFt3pBUqPT5WXQ/4Y1FrU0Ij/07q8lxSEh8OWGgNd7Z8izPwOkKnw8ZWchvklxrwC8gIzqsNBnJU8NyO59xJaulyY5FPW103UpbTogG0qBeXqnjQ0k5EKwJDBlQ/ihY91y+QNxNGLsJbyknQy9yzRlWv+V/9Qcd5/1Ax5dX2bk3UxGhDZvuW5eJFGC+95Yuaz+w0Cpj8qRD8s92nv7mDBAoMmXRRuDAHnj1ettDQROumJ1tWtz3QYlG4g+qmKmilP6388I7yxADopir8750513vNF1O8NKGGPIMLDlYPfkUUNFdpT3kdMtMbcbmoFR8lmJvgNNzRwQseQ+RTs2UoEq5KeLzCK+Q3nShn2fbIxSp0Lg86Tgj4w02WSxJDyAqUooxg45Fg7jd0d1NJONeiZnOLSlsIn+SQq+IgRikr3gyaGQLg2iCS8Rsq+NA/ahVv1YYQ57me5IPqJRu5UAA1DEs5Q1kGA1NtI82P+poZelrgeLCuy6XwsJjExCNpHWyLzxhAInEIYIg==;2hvlhPGfoCMQiUSSTVOLiA=="

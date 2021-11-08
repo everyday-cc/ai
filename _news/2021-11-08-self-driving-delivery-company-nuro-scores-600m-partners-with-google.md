@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Kroger invests in self-driving vehicle company’s $600M funding round"
+    excerpt: "Kroger is a significant investor in autonomous vehicle developer Nuro, which has been providing Kroger delivery in test markets."
+    publishedDateTime: 2021-11-08T17:40:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2021/11/08/kroger-invests-in-nuro.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+
 secured: "iUbHKtS6gDeE5tJ7Aax+KocZbh5wYKe5/kk3Ezxmv+xG7Ww8z4bJ98cNBQO6tc7ydXEHNlU3pwfcMzHuFwECDVX7SHvBD406N5eUTvUsHj1Z+c9ZaBPPbxmn53IyxuL6xK6DAAnK+sCTwslZoKtAHXPLI1ZJCNT0B438wvhxcO5m5ofYMdisBb7SI1l5MFHn0ETNSXCokZClnHMgny4yY3nglxTNqZInISWW1fDOZS8H9gTDsj29OvcNyhOepePsQSUf4dashSA7Lsn50IUR+h2tx1W12q8+wwP2Za0/XSuSPZi3huAdq5mi6BJ68XUbFhQlO13kXhZeQPgnQFhD8Eglk78ISYpwLWkrD+ViP8CC79m296oCNw3RCW9q3Wj9cJ9f/bUbeCdrqQtNgLQlyi7Q9LCY6oaPYJwsFf8sDlXu94HWSN/qpXe6eLnZpLGpULBIGYZLape1Cu6GXg5lYMneUIIE4vDnBLDAmwx9sCajPtV78BIxcgi15K3nZF3YSjd/HnLEOPEWAxXG4tnaKQ==;oxGGMo1KJHGlXwoYthYIyQ=="
 ---
 

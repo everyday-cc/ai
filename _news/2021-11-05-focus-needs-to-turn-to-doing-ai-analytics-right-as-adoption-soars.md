@@ -41,6 +41,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Materials advancement accelerates the realization of AI technology"
+    excerpt: "Researchers in Korea succeeded in developing a core material for the next-generation neuromorphic (neural network imitation) semiconductor for the first time in the country. This is a result of a research team led by Dr."
+    publishedDateTime: 2021-11-08T17:02:00Z
+    webUrl: "https://phys.org/news/2021-11-materials-advancement-ai-technology.html"
+    ampWebUrl: "https://phys.org/news/2021-11-materials-advancement-ai-technology.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-materials-advancement-ai-technology.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/materials-advancement.jpg"
+        width: 505
+        height: 662
+        isCached: true
 
 secured: "PKntjKVoX3+aWH0j35mcpJ/DdWZSsDwsADMKVpoIjR6Ah2VLY4RAhMMJBQw7G9Y3RR1e7wRJePVrYUTkohrDs0c95y98sEausdVl5TMdEVfl/xyGLuiI69NqXV07UCIV5YdLgwyDZGClc8JvEFF0Za7gCvGAJgsuA4md+RiGGDokLzT1C8s9hhMfR9zi9YvNmv2pwPih1gcaGGCAt/FvrYLFFzpdcuIf5OE/PA4Vn8Y91Lc08pW0J5Nj8feIm6QO2vwFVvGzxNuUwG/sWVLW2kdCG1z7SNK6AOvsTGvH2Px1E+jnTHkNmVZ06Jf9LQdHIGmqTHOjIYdyc8DsaR79ZhUkmfJNtiIkbkyfaWJqaJbt0grVxBUZXYj5v9eVrA+cgo6ylz7WY5VDtFoEQTkjQ+L23nsoYchemp7PQkhbEuTOblhqN26LKP1tMDWdbRbNIuhcGETG9MBXrY8SOqMdZqucPgcYhSDRWgq+tbXEyiU2dq1+XvnaTUqoT+cGB79qcvzNC8GQHCOCPJMcIjPiXQ==;I9bam+e/HoX81o9DcUQ52Q=="
 ---

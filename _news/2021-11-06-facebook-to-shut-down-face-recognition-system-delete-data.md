@@ -179,6 +179,20 @@ related:
         width: 627
         height: 418
         isCached: true
+  - title: "Facebook is shutting down its facial recognition software"
+    excerpt: "CNN By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
+    publishedDateTime: 2021-11-08T16:55:00Z
+    webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 39
+    images:
+      - url: "https://ktvz.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Edge platform with facial recognition, situation analysis unveiled in South Korea"
     excerpt: "Researchers have created a prototype of an edge biometric platform that can reportedly recognize faces and situations that take place around its nodes."
     publishedDateTime: 2021-11-04T16:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "FinTech JUMO Raises $120M to Support Emerging Market Entrepreneurs"
+    excerpt: "FinTech JUMO raised $120 million to help the startup further support emerging market entrepreneurs with next-generation financial services."
+    publishedDateTime: 2021-11-08T16:11:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1902368425-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Conversion Al: How It's Helping Banks Stay On Top Of The Fintech Industry"
     excerpt: "Artificial Intelligence continues to be a disruptive technology to the banking system. Over the years, banks and financial institutions have depended on this technology"
     publishedDateTime: 2021-11-04T17:51:00Z
@@ -90,6 +106,20 @@ related:
     quality: 39
     images:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/tangy-morgan-boe.jpg.png?itok=kUV_LM7f"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How credit unions use AI to compete with fintech lenders"
+    excerpt: "Northern Hills Federal Credit Union in South Dakota is one of several institutions testing tools that can deliver faster loan decisions, an edge they need against digital upstarts."
+    publishedDateTime: 2021-11-08T16:32:00Z
+    webUrl: "https://www.americanbanker.com/creditunions/news/how-credit-unions-use-ai-to-compete-with-fintech-lenders"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/c4ecfae/2147483647/strip/true/crop/2946x1547+0+209/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F12%2Fdb%2F1da3cf1a45d3b1207114913d77ba%2Fadobestock-180950831.jpeg"
         width: 1200
         height: 630
         isCached: true

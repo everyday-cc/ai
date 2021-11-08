@@ -151,6 +151,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-08-australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai.md",
+      "title": "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai",
+      "excerpt": "(https://bit.ly/3BY8Kwp) \"We see broad application for AI and machine learning technology right across ... as it looks to match offerings from rival fintech firms. read more CBA also leads the banking sector's entry into the fast-growing Buy Now Pay ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/",
+      "originalUrl": "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/fy1Hr0OcjcfQo6t81SMK4FPVg6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34TS4M35IJKKRBSMOKLXM76LSA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-07T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-how-fintech-lending-trends-benefit-small-businesses.md",
       "title": "How Fintech Lending Trends Benefit Small Businesses",
       "excerpt": "Disrupting the closed-club of legacy financial institutions and bringing alternative, tech-focused options into the mainstream is creating a new sector and also enabling more entrepreneurs to build and scale their businesses.",
@@ -159,7 +211,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1336,40 +1388,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment.md",
-      "title": "British fintech Zopa hits $1 billion valuation with SoftBank investment",
-      "excerpt": "British digital bank Zopa has raised $300 million from investors including Japan's SoftBank Group 9984.T, it said on Tuesday, as the lender looks to expand its business ahead of a possible listing as soon as next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18",
-      "originalUrl": "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp",
-      "publishedDateTime": "2021-10-18T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

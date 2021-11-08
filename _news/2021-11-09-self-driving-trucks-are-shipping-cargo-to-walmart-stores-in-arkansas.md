@@ -61,6 +61,22 @@ related:
         width: 750
         height: 510
         isCached: true
+  - title: "Walmart rolls out driverless trucks for deliveries of online orders"
+    excerpt: "Walmart and autonomous vehicle startup Gatik have deployed fully autonomous trucks without a safety driver for a daily, seven-mile delivery route between a \"dark store\", or fulfillment center, and a Neighborhood Market retail store in Bentonville,"
+    publishedDateTime: 2021-11-08T18:29:00Z
+    webUrl: "https://www.foxbusiness.com/technology/walmart-delivery-driverless-trucks"
+    ampWebUrl: "https://www.foxbusiness.com/technology/walmart-delivery-driverless-trucks.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/walmart-delivery-driverless-trucks.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/Walmart-Gatick-autonomous-trucks-2.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Walmart Stomps the Pedal on Self-Driving Delivery"
     excerpt: "The giant retailer has thrown its weight behind five startups and just let the Gatik robots take the wheel in Arkansas."
     publishedDateTime: 2021-11-08T11:00:00Z
@@ -89,7 +105,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Walmart Accelerates Self-Driving Delivery"
+    excerpt: "At the moment, the future of transportation is at the Walmart on Regional Airport Boulevard in Bentonville, Ark."
+    publishedDateTime: 2021-11-08T14:15:00Z
+    webUrl: "https://www.ttnews.com/articles/walmart-stomps-pedal-self-driving-delivery"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/gatik-walmart.jpg?itok=hme3qFdV"
+        width: 470
+        height: 246
+        isCached: true
 
-secured: "Cj86hdJ0aCBRG5+FSZlag8eN9KgfBzu6tvqjU9M9ZrxATRe3RASD+vDStV7fpAxjEfGKZ5FsU1WkTJRTEjqCX/NIbUDBkF2YSGdMbUfMHwF2+0tDjaYHY2DdPbEIicqi2MvO6Us6hp+LEh8tvze+b6hZbSw/Ab94Xk2RLbY+gc+ZuYW4n9q5t8ue9pXaw/hsrMrlOzmCo9u1jpEgPLyL0kynlaYcV5pprDxrKpCJ2J6AfL0A4iKAd1xZaNzN2RHEhLLgtFnmD7qOMysfHWddG7D+bj7g0K9EoHz4fxds8N6AemiwZxuDVfs254wIxxYmY1Fsy7+31w+nE/xsDEy4AP5pGW5ZbAZmS3tQa/LYxNY=;Sd92xXQGx+6hviOJmLvX8w=="
+secured: "7OwFnqn4OJAQRkUvknh2sgBCXsV0W5o185XgtxY6OFlS3xGdla4rslAggZzL7DAKsJRcHv1sC+CXawlDSary+F//i+0/DX+kb+COWTyvMbml8AgaErsqTDmU82ADaGOhq0r2zyAIKhbh/1VYAU6ZJWzZZFU7Swhk/KdUroE2VGXzOF2U4Yh8rGIyGw9wGqh4fORlnyFNg8RycJVk+xmqJ2rAznvUrBl0oMzIthp3zgtAjntAH4vnRVM+QJGrJ5EZ7PLUpbZkMfWkApBnoXebQFuQdcnLes4lH9ac/DyE4DVtdWuCplbB5jCyADDV4zU5BEcWkUfxwa5Ka26U8keV1/4WrqzpOU+P6JOs9uGwi64BkM57tBkCrhplDium14g2TCtCePnCpMAX7AIg2Hf1HERoOTePCtlyVJGVfvTtqB9+UrVEyKFGHH6rDze/9ycWC7rb9joh4DzPBzJ/W0oWaFKVKmME9JfzH7BKUDRDEye6ERkkrFpkWA4fkncb7fIZvlad389KjIQE3bVvsg1pNQ==;lFb9Ma4kaoAptx0HIHhw6w=="
 ---
 

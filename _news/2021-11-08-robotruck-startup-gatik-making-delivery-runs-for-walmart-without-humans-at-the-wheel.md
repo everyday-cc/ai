@@ -60,6 +60,22 @@ related:
         width: 750
         height: 510
         isCached: true
+  - title: "Walmart rolls out driverless trucks for deliveries of online orders"
+    excerpt: "Walmart and autonomous vehicle startup Gatik have deployed fully autonomous trucks without a safety driver for a daily, seven-mile delivery route between a \"dark store\", or fulfillment center, and a Neighborhood Market retail store in Bentonville,"
+    publishedDateTime: 2021-11-08T18:29:00Z
+    webUrl: "https://www.foxbusiness.com/technology/walmart-delivery-driverless-trucks"
+    ampWebUrl: "https://www.foxbusiness.com/technology/walmart-delivery-driverless-trucks.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/walmart-delivery-driverless-trucks.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/Walmart-Gatick-autonomous-trucks-2.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Walmart Stomps the Pedal on Self-Driving Delivery"
     excerpt: "The giant retailer has thrown its weight behind five startups and just let the Gatik robots take the wheel in Arkansas."
     publishedDateTime: 2021-11-08T11:00:00Z
@@ -87,6 +103,20 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_in/news/s/self-drivi/self-driving-trucks-are-shipping-cargo-to-walmart-stores-in_6nty.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Walmart Accelerates Self-Driving Delivery"
+    excerpt: "At the moment, the future of transportation is at the Walmart on Regional Airport Boulevard in Bentonville, Ark."
+    publishedDateTime: 2021-11-08T14:15:00Z
+    webUrl: "https://www.ttnews.com/articles/walmart-stomps-pedal-self-driving-delivery"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/gatik-walmart.jpg?itok=hme3qFdV"
+        width: 470
+        height: 246
         isCached: true
 
 secured: "bD1AsDrBW0ErQND8oqnxP7F1LFZ3tFXlnD2whgG+Ls+N6fnXpRYepRtgcIIDGs5DAXEtDBDw/vv3qZSZkGct4g2ihl+dRflpyEperEHlcs7gs8Cbw2WXXlGh6ds7ToUkzX7cYjpMFK2eVf33vwFBSdM3dmMRLgmw+azYUHCWPYh4WqRp2dOZwzeJ7nihXjN4RwJXJYCb7fzhkp719K421COar4WH3aRzI5l4iiNMZ9/1y6D3TCULNCngEzv3+r4MUZPtxLTskMY64mjCYYZaleqTHeINaxH5xs4EhT7zCkzDjWfbbOMuukkdAYHM2v00ZSw5uaghOGo0glctRu72GyVtaigAY19+EzAvECBA/Oy9DQwr+q0jtbKEYZkL1lHUMlgMjmuf3hkJpUfLl8gP48jKmWMarA3lZjTd8KEShAzCbES8pfaDkhablCEK8LHMFKRfaVhd6uIRyr+NMSL6vSN9XzdDUbb5HtZgAlLZcJiRWbE+JoQuKi/l1QtDqjlLpUGEPEPkXA1AUYHFHpaDFA==;3/v05wBRWJ/vIV4xuPN8hA=="
