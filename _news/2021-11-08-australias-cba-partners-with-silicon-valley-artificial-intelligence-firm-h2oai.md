@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai"
-excerpt: "(https://bit.ly/3BY8Kwp) \"We see broad application for AI and machine learning technology right across ... as it looks to match offerings from rival fintech firms. read more CBA also leads the banking sector's entry into the fast-growing Buy Now Pay ..."
-publishedDateTime: 2021-11-07T21:22:00Z
-originalUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
-webUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
+excerpt: "\"We see broad application for AI and machine learning technology right across our business - in operational processes, protecting customers from fraud, lending decisions, and risk management,\" CBA Chief Executive Matt Comyn said."
+publishedDateTime: 2021-11-08T04:55:00Z
+originalUrl: "https://www.gadgetsnow.com/tech-news/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2o-ai/articleshow/87578376.cms"
+webUrl: "https://www.gadgetsnow.com/tech-news/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2o-ai/articleshow/87578376.cms"
+ampWebUrl: "https://www.gadgetsnow.com/tech-news/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2o-ai/amp_articleshow/87578376.cms"
+cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2o-ai/amp_articleshow/87578376.cms"
 type: article
-quality: 79
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gadgets Now
+  domain: gadgetsnow.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/fy1Hr0OcjcfQo6t81SMK4FPVg6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34TS4M35IJKKRBSMOKLXM76LSA.jpg"
-    width: 1200
-    height: 628
+  - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87578376,imgsize-15046,width-800/87578376.jpg"
+    width: 800
+    height: 418
     isCached: true
 
 related:
@@ -122,6 +120,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Whhh+qSmxER3b3dA9Xd5D0aGY7UVFzzNnPXZAj1mojKiOxQmbmOjeQ133PRUiyjqPXBK/hawEWPl3K95Sx4Z2927nsgI0R/1SqsJox4XHIpo0E6/GI8zOT9rpNtioE5T5mokCBj9K2+I1TEvxnx/cPqNTFfCGTRh06nZ/sJuwlq5YZv/AyLVekKZ2tIlJwU19A9ghlp1lT9dF8i7oRKDTul9PHfwp4FgyExS7rhPRzlceVMTH2G56Vvqr+JLsGt1mpRCPTPPFlfqt3mhlsKrbedEI4OXkNwCCfXFBHD8dMpO/FfNSwZXCybVXfilzyMSNkHso5+lv037RgeU38F+j17XWPOh+0vKIbYHzFpo/PTzUmpEUOiw+HeJ+g8Vk2UvLUqHDdzAJqqWBETkP+xXsrHuP+sogllulWVWDGb3ZILfAfV1Yzclcnq+WucMEx8YazZsMDzbzaWC37+QkP47qYHnFNskVbdQd1P0xJGUHbBFAFUuXBAEjH/n2nXnBYCpFMpptbUfeZNmAu2X5pM6JA==;cAyownukJbYsd4Weusskhw=="
+secured: "C/19juTX3PVntBdTplMisEm8Uz1jZg9OGt4SoA7pK5iC2XOdW0TA//mIrhBLKEZKOgIAJ/xjD4DiGv9Nk7HVBew7yWv6EDUTHMX6bdB15IQYRgbAS0XF8SkeF0gawLrzsoCfChFGocBsG8oNuW+WKk60jdDuACeWafr9NBaIIXSBD+JRCKtXhl+gh/Y7RXkOAQ36QocYPs3N3alCIxaVUHWNbN5ItlYkn/p4TvP92A94M6rag3EhEzzyfSFpvfljwCxFPkYLrQm+/5mTxkGd+qmUolm8ZgrofShNOqwHIj4NDnEbDnIcktiqHHZMeOsVROEwVs4OUdQmz0iRDV8EkRMbM/L2cJP/xG/t8QApmvw=;agssnz6AfWEZvlDb9yG8fA=="
 ---
 

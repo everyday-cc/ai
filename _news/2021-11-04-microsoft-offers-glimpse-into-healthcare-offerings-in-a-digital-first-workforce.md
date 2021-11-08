@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/digital-transformation/micro
 webUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-offers-glimpse-into-healthcare-offerings-in-a-digital-first-workforce.html"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -24,61 +24,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Microsoft Editor receives new Context IQ to improve your workflow"
-    excerpt: "Microsoft has this week announced it has implemented Context IQ into the popular Microsoft Editor to help improve your workflow, whether"
-    publishedDateTime: 2021-11-03T10:25:00Z
-    webUrl: "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 139
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/Microsoft-Editor-Context-IQ.jpg"
-        width: 700
-        height: 481
-        isCached: true
-  - title: "Microsoft says all business will be collaborative, and infused with data and AI"
-    excerpt: "Data derived from the interactions between people should allow the organization to refine business processes, Microsoft said at Ignite 2021."
-    publishedDateTime: 2021-11-04T01:39:00Z
-    webUrl: "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/Satya-Nadella-ignite-nov-2021.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ermetic Enables Customers to Enforce Least Privilege for Microsoft Azure"
-    excerpt: "Cloud Infrastructure Security Platform Detects and Remediates Excessive Privileges in Azure Active Directory Privileged Identity Management ServicePALO ALTO, Calif. & TEL AVIV, Israel--(BUSINESS WIRE)--#Azure--Ermetic,"
-    publishedDateTime: 2021-11-04T13:11:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=559531"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 53
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "SentinelOne Unveils New Zero Trust Integration for Microsoft Azure Active Directory"
-    excerpt: "Ignite, SentinelOne (NYSE: S), an autonomous cybersecurity platform company, announced the SentinelOne App for Azure Active Directory, a new solution combining endpoint security and identity capabilities to advance Zero Trust architecture."
-    publishedDateTime: 2021-11-03T16:45:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sentinelone-unveils-new-zero-trust-integration-microsoft-azure-/2021/11/03/9483827.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
 
 secured: "AQIJplgJQ0eyDuVq9LkpXdPWn45rPEmC5X1TEZKylMzVbL1Baj3ABQeLHckxRakvYPQn3VBk3WJbQChB2EP8NimRG/bNpUHx9A/ahs+gd9FgnWyj066V9pqklJgD7+mk+ywAK8VWkCqk5xihAwobhrQAQWDUN/08uV1x7EQ7NKTejeUXM8DhQ673c4X5a22tCUgIxHUVrQFdUhYZFq3omNt8JhvcvaezB6c375D7YtgzhOgK/yMzpnlLjMvlE6yPvhps2jH3mZjK8GVXuDgeDEcdhwQUNJu+YTgML3jFvvs2VKthKJzqRdbef+czfnn642zgOpR/0Ys14UYQw03YMrfLZhnG5dR5qzPTmu3wgPw=;iZDk7W20+ZP3bH+cXVoONA=="
 ---

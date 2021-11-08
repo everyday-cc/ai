@@ -1,34 +1,26 @@
 ---
 category: news
 title: "Symbl.ai, provider of conversational intelligence APIs and tools, gets $17M"
-excerpt: "Communication platform-as-a-service startup Symbl.ai raised $17 million in series A funding to develop its conversational AI tools."
-publishedDateTime: 2021-11-07T22:19:00Z
-originalUrl: "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/"
-webUrl: "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/"
-ampWebUrl: "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/amp/"
+excerpt: "Communication platform-as-a-service startup Symbl.ai raised $17 million in series A funding to develop its conversational AI tools.Read MoreRead"
+publishedDateTime: 2021-11-07T23:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/symbl-ai--provider-of-conversational-intelligence-apis-and-tools--gets-$17m-10716159"
+webUrl: "https://markets.businessinsider.com/news/stocks/symbl-ai--provider-of-conversational-intelligence-apis-and-tools--gets-$17m-10716159"
 type: article
-quality: 85
-heat: 85
-published: true
+quality: 45
+heat: 45
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all"
-    width: 1200
-    height: 850
-    isCached: true
-
-secured: "pdsd69WMwhBA37O9Z+zH86M8aka+A3Kufsoz1lq2jZofscWpwg+XA7qQ6LIg1RZE9zj30QfGs6LmcyI5tP2fjW7sTxl7TUWBrCbtVvf3cEU40i+Byhyp7PWaRstO4gx149cIkte9JTmaiv7Iv31BTY/6wFXuPLHUww7b24a4xV49zsBBwKmlXbczUC+J+usQqjci0/bXz7ORJemXoO4Lwf+kxGqmCJ3DBqEJvU76sSFwTXStcybZMTHehhycDp1hvYmUJqALQYKoEfolAwJ9ghzg+q2i3gdTxsycJVvbpSOC5+tyTtuajZW/3PoxeGSCDCzK9gvvgMf9ctSON+N/ndta2ZBNVRz0ShD9tQFmIzfnLdBTwmhjRJi/FCTzFonQFGrDIibcKw27rIRAeIvPJeTnFAtvTA+f/g1/MfxJ9BuGBNQfjpdNNEoFLc5ZvCHgRI/7gQeC4vznaIhPUYbqhjFX31/G3cOlsj1qVmsA5qZKxJvFm80kvnuJiARZwBYA+4+xo5zj8sNxlYNF5O7Wwg==;2Ttda5gshkbg0+Zk41Nj2g=="
+secured: "9Hq/VRBfFI10C/YfAiu8hrdPmIFxkEKKrr+/BPW3BiziEsiUyFVgv8oPDbNlgPYHAv9pXBIagRs1en1I+ByCuY5CFUh1f79vZbYVXcZ5Ic1SdSyqT5y/0/jLIpn0KwPFkVexCU/SqiSQfoO/JIV0VydUAmQyR2L/ClTjA9hAjEa2kjs+LBEn9gEqtnzryovTPN74vsZ0+F+k21B5wA7pXHPmT25nCmDZnqYTS22Y5VRnSVA7NYRoxVgtNK5/SSqlY+7cTC83/NvNV3aqHY9ViuJHGNosebanrIHVm0/IpnsljfYWECB+e9wVeadjpLpeGjivRW3vh+Yp9M+ltahMVo3j4zJ5+XUT/Ar1Q74woYY=;XaXJgrwwptVXZyWMneBsNw=="
 ---
 

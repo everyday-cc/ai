@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-04-ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant.md",
+      "title": "CEO Mike Betzer’s Triple Play At Enterprise AI Firm Hypergiant",
+      "excerpt": "We think data scientists are the cool kids of the future, and we're going to enable them to do what they want to do best, which is to show value in this data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/",
+      "originalUrl": "https://www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617853a479865db4484813b2%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/amp/",
+      "publishedDateTime": "2021-11-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-cruise-graduates-to-more-unmanned-operations-with-ride-1-in-san-francisco.md",
       "title": "Cruise Graduates To More Unmanned Operations With ‘Ride #1’ In San Francisco",
       "excerpt": "This is not too surprising — the initial focus was and should be on doing the driving task ... Zoox, WeRide, Baidu, Argo and many, many others.",
@@ -564,7 +616,7 @@
       "originalUrl": "https://www.msn.com/en-us/finance/other/facebook-is-backing-away-from-facial-recognition-meta-isn-e2-80-99t/ar-AAQhzQz",
       "featuredContent": null,
       "highlight": null,
-      "heat": 419,
+      "heat": 409,
       "tags": null,
       "images": [
         {
@@ -607,7 +659,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/03/secureauth-acquires-acceptto-to-deliver-ai-driven-passwordless-authentication/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -711,7 +763,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -815,7 +867,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1174,57 +1226,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice.md",
-      "title": "As the Arctic Warms, AI Forecasts Scope Out Shifting Sea Ice",
-      "excerpt": "Global warming is making it harder to predict the movement and location of the ice cover, crucial information for fishing and global shipping.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice/",
-      "originalUrl": "https://www.wired.com/story/as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61815c5652f8603efdd43b1d/master/pass/Science_boat_GettyImages-1281894263.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice/amp",
-      "publishedDateTime": "2021-11-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

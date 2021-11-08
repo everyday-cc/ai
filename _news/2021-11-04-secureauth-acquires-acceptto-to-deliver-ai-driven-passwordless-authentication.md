@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/03/secureauth-acquires-acceptto-to-d
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/secureauth-acquires-acceptto-to-deliver-ai-driven-passwordless-authentication/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "SecureAuth Acquires Acceptto to Redefine AI-driven MFA and Continuous Passwordless Authentication for the Workplace"
-    excerpt: "SecureAuth, a leader in next generation identity and access management for the Global 2000, has acquired Acceptto, an emerging leader in passwordless authentication and behavioral modeling to infer whether a user is a threat before authentication,"
-    publishedDateTime: 2021-11-03T11:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-secureauth-acquires-acceptto-redefine-ai-driven-mfa-continuous-/2021/11/03/9483374.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "ncHy+edK7iJEFodyNNQKDmqQoaCkIfJ3yO/H6xp91plec4gjmEIoGnYa4gOUvX0dZeC2yvJD70RO142didEXkPDYXFsqKHX1ra5h9aYOnj93Xjb6EiK0MZPO6qzXtmvTMUkJHSZH0RD16zy33Rkrs/iUNuNg98NvjKojfHsaxWkQzLKaiyHCnFvfhX7kQgYdAuhOinq/M9Kvg8HzHvMbbsmF0IC2iPEr3RzCNKW5uSF8XSDpR/cNXy2x+RBZSsE3scPxru+U7er3sgWcUYKjBuRtLTI1f1p2megDrKzqLia/lMANApi/QFxwbEc8UtS0esc4nKye51p4twOKU19Pe08koH6UugtN7pVt/lzGxxFMOWIW9xTOhj4JP4x4BqjWSrzK7ML8iP3sqns4s/eIOIcfiT9JgHvjzoABpeCFPRUMSnZCHrujv5tiPg2Cr8GaLIHQlgbTIatClivfjVx/KWzIBdmvMvzSLa315D1Byud5gQYjkZfH2h8N7GNcpRrYn2K2M36C7sibHdSI9zTkcg==;inHJGfqrlgln2Y7jTV49fw=="
 ---

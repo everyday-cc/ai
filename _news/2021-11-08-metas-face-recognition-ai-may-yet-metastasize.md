@@ -367,20 +367,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 26
-  - title: "Why is Facebook/Meta making touch-sensitive electronic skin?"
-    excerpt: "Facebook, now rebranded as Meta, teamed up with Carnegie Mellon University to develop ReSkin, a touch-sensitive electronic skin set to advance the use of touch in AI and robotics. Carnegie Mellon University (CMU) and Meta AI (formerly Facebook AI) claim the new tactile sensing skin will increase the sense of touch in robotics,"
-    publishedDateTime: 2021-11-03T10:59:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/why-is-facebookmeta-making-touchsensitive-electronic-skin"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1635936971/widgetdocs/Meta_AI_wve0h5.jpg"
-        width: 750
-        height: 546
-        isCached: true
   - title: "Facebook’s not safe for face biometrics, but privacy can be built into Meta?"
     excerpt: "Both Recode and Fortune are reporting on misgivings that some in the industry have about Zuckerberg's happiness to delete 1 billion face templates."
     publishedDateTime: 2021-11-05T15:46:00Z
@@ -405,6 +391,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "NUSZBV814YNfDXw0+sQaBasVERmW185ZuhcGb/YwBSgYYHZ22h4sDrQHhRNkRusW/JojViCGsWAkjymUuEwlY0tHBZ79lcS8yBWfzp8FiPE7AuRASxuuM+hKq8MyTq8J4f1AbR8lo6kCW/oURsIjNoUKKkEqWfGs19EtWcHIS+VFAcHNgRSpRCpHc38cbTQi1zZIdfmnAvOQqdPzigBMYvJWNHABf9jdpaKd+mVVPyukDZRF3AdCKHa8g7fhbbZLHnformvrPSLMymc4PVfF8V+781Ydgo+u+fvCuEli0EWVCyXjZPrfDhXddAQhYtBfmm8Wwlb0QtYK/bmXaCT06fFSSrv047lrSDbnpunBh6E=;Gb03tKM87TNa0rL7trIRwQ=="
+secured: "J3Afo8CuNGaJ7Mb+DaMbrMZSP4LEfuujGmVxqkklmVBQJ58m8kaUfpUauN20oEOOlWIQQouAtx/D+dEde5usNo1tfpGIKgK750rFpC9UBmalWuGK+2OS4t+6ypguDy7KyajABetWSqYuq1Z4BrM6x1TUB+O0mw8p9KxpTdJt3qY04xtRZTP0LE0Blkn/dQH6oH8oZGWOvAX+iaKsl58UBMN7ohhz05sKnCvLmtKV9cyBVMurVOQwLlWIItHv9agwHm7ut4zQ7eitgqRZMk/hdugZ/FcFPGArewM/osfLOyZeuV/G7Ek68Km7zW9mf+nhzQVp63fVHmjwXA0Dk/SrdtQRC3x9d8PKssbSdXyPLg4G18WbAmMwJZMqeEsjq3a5XAt41sT0JXizWPOl83HldGJMGeUedoftte3M9tG2Q5J5qUvHqYfalFix2MkVTqBsR0bctP01fgGo0VuQHw4zXBAyMxvI7dA6Mmn61LLMkpa5Q4kWISer4UZpLJL+V5YkUs7Ae3Rgme/vbUS6ZXvPgA==;HR6C4BBFd1oWObEsqQNUPg=="
 ---
 

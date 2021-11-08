@@ -367,20 +367,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 26
-  - title: "Why is Facebook/Meta making touch-sensitive electronic skin?"
-    excerpt: "Facebook, now rebranded as Meta, teamed up with Carnegie Mellon University to develop ReSkin, a touch-sensitive electronic skin set to advance the use of touch in AI and robotics. Carnegie Mellon University (CMU) and Meta AI (formerly Facebook AI) claim the new tactile sensing skin will increase the sense of touch in robotics,"
-    publishedDateTime: 2021-11-03T10:59:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/why-is-facebookmeta-making-touchsensitive-electronic-skin"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1635936971/widgetdocs/Meta_AI_wve0h5.jpg"
-        width: 750
-        height: 546
-        isCached: true
   - title: "Facebook’s not safe for face biometrics, but privacy can be built into Meta?"
     excerpt: "Both Recode and Fortune are reporting on misgivings that some in the industry have about Zuckerberg's happiness to delete 1 billion face templates."
     publishedDateTime: 2021-11-05T15:46:00Z

@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore to Boost AI Research Funds; Start Bank Partnerships"
+    excerpt: "Singapore will introduce two artificial-intelligence programs in finance and government, and allocate an additional S$180 million ($133 million) for research into the technology, according to Deputy Prime Minister Heng Swee Keat."
+    publishedDateTime: 2021-11-08T01:05:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-boost-ai-research-funds-start-bank-partnerships"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGtzxPrVHurM/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Bilaspur woman helping Singapore govt on Artificial Intelligence"
+    excerpt: "Kirti Chandel, an electronics and communication engineer from Bilaspur, is helping the Government of Singapore on use of Artificial Intelligence (AI) in its programme ‘Expression of Artificial Intelligence’."
+    publishedDateTime: 2021-11-08T04:48:00Z
+    webUrl: "https://www.tribuneindia.com/news/himachal/bilaspur-woman-helping-singapore-govt-on-artificial-intelligence-335426"
+    ampWebUrl: "https://www.tribuneindia.com/news/himachal/bilaspur-woman-helping-singapore-govt-on-artificial-intelligence-335426"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/himachal/bilaspur-woman-helping-singapore-govt-on-artificial-intelligence-335426"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 57
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/11/Desk/2021_11$largeimg_1832571378.jpeg"
+        width: 660
+        height: 825
+        isCached: true
   - title: "S’pore sets aside S$180M on AI research; launches e-GIRO to shorten processing times: DPM Heng"
     excerpt: "Singapore is setting aside an additional S$180 million dollars to accelerate artificial intelligence (AI) research. It also announced the launch of two national AI programmes, and e-GIRO. Singapore’s Deputy Prime Minister Heng Swee Keat made these announcements at the opening address for the Singapore FinTech Festival x Singapore Week of Innovation & Technology (SWITCH) on Monday (Nov 8)."
     publishedDateTime: 2021-11-08T01:26:00Z
@@ -41,21 +71,30 @@ related:
         width: 1950
         height: 1003
         isCached: true
-  - title: "S'pore to invest additional $180m to accelerate AI research; launches two new AI programmes"
-    excerpt: "SINGAPORE - Two new public artificial intelligence (AI) programmes have been launched as part of the Republic's strategy to use the technology to effect social and economic good.. Read more at straitstimes."
-    publishedDateTime: 2021-11-08T00:52:00Z
-    webUrl: "https://www.straitstimes.com/business/spore-to-invest-additional-180m-to-accelerate-ai-research-launches-two-new-ai-programmes"
+  - title: "NUS, Cisco pour $40m into tech research center in Singapore"
+    excerpt: "Corporate Laboratory aims to deliver 12 improved products and services in areas such as AI, healthcare, urban infrastructure, and cybersecurity."
+    publishedDateTime: 2021-11-05T10:30:00Z
+    webUrl: "https://www.techinasia.com/nus-cisco-pour-40m-tech-research-center-corporate-laboratory-singapore"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 29
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
+  - title: "Singapore Fintech Festival 2021: What to Expect and Top Sessions to Attend"
+    excerpt: "The world’s largest fintech festival is coming back from November 08 to 12, 2021 to explore some of the hottest trends in the fintech space."
+    publishedDateTime: 2021-11-08T01:24:00Z
+    webUrl: "https://fintechnews.sg/57000/events/singapore-fintech-festival-2021-what-to-expect-and-top-sessions-to-attend/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 22
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/11/08/ak_hsk_061121.jpg?itok=o8Yo8WRo"
-        width: 763
-        height: 509
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/11/Singapore-Fintech-Festival-2021-What-to-Expect-and-Top-Sessions-to-Attend.jpg?x61066"
+        width: 2048
+        height: 1136
         isCached: true
 
-secured: "Fg7MyTvJ3gSPHUZ/wMe1Fx+e5xzgUXBGleTNSZT5uHLm48uTrvhzU8k5T6mXRgqcZKQGSLdoZ0kjHe3osMSFT6ZtQ1cb1URzW78+L33r6MPA9QtFT689VvEO5s1gScev50aeuL/V8EJbrAQ/ZpAEz3mCH3rfabcxYc2t4IZoWlNB05+U1+lR4w4qaeMfRAXTjt0dRVEn8JFbTHi/kj2NnUnJBz/IzgTGMSew3ysRq0kB6IX9h80pFlz1Cmg9029Kp9iN1TYMnaeWoxP0ZnLvFYCSeFKKZSUPZsOPt8devgsPlkjJ1CC2KcLUb3MtUmP1clnfWHjE0p/LDoBrYB8/cojhg6pxxMzYVIl09dp8Q0k=;nR1NYZH8h/XrPNiCNXkz7Q=="
+secured: "cQlaTfd5bAJAxUn5hlL33ld6ZoF1vMNOmCtxwY6VLmxUdMo2XMRmX9D/K5FBe4/IYNmpxNZt3Fnt/TOW9SA04Uh+6MQUm6b/P39KSYzkmnk5DR6SKFcOWwnwheamQpURa6bnnhnnxTo2EQuSBY4PtsQuXcPG9jIgPbuhk6QzXk4l2eLhX+A639EVJBcNxdkkr7Vw40Z/x06AIx+JSvgoiqEoTHDGxNst0qBcnng588e1gUF6hRYLJtTc1g6xbi1QxakjREtW9qQYEws3GWUvGwVZk7kLDeOmr466gsNdVHrlPGiY55X8/dHHZekUirKdlaRrBZHwA3bK/EcaNkscbKYbSdK0fINJd8EJLTqdpUCli7ffmZjZS2E0+VWWyJYClkuUIzfS9JhmD/IANIjf6gLccoO+H8xlWNVZjxbm0XyGTQl9cKRvep1pz2ZA4Eabn1jlZD70ldjU3Cz7AvJWrPUl7dJcfHHUPFLPvQliaLmpEAYP39DmNVJ3AoSBS4wrtB+WlPN32Yl/zX0Uc/BUYQ==;vs0UHApC8H+ofpLzq8YxDQ=="
 ---
 

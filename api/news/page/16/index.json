@@ -2,6 +2,48 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-10-25-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world.md",
+      "title": "AI can turn a collection of 2D images into an explorable 3D world",
+      "excerpt": "A neural network can turn a selection of photographs of a scene into a 3D world that can then be viewed from any angle, and could eventually be used in the movie industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/",
+      "originalUrl": "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/10/22172439/PRI_206258270.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/amp/",
+      "publishedDateTime": "2021-10-25T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues.md",
       "title": "Tesla Pulls Its New Full Self-Driving Beta Due to Software 'Issues'",
       "excerpt": "U.S. electric car maker Tesla Inc on Sunday rolled back the latest version of its Full Self-Driving (FSD) beta software, less than a day after its release, after users complained of false collision warnings and other issues.",
@@ -1090,57 +1132,6 @@
         "name": "Info Risk Today",
         "domain": "inforisktoday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-restaurants-prep-for-long-term-labor-crunch-by-turning-to-robots-to-work-the-fryer-shuttle-food-to-tables.md",
-      "title": "Restaurants prep for long-term labor crunch by turning to robots to work the fryer, shuttle food to tables",
-      "excerpt": "Restaurants that are struggling to fill jobs are beginning to turn to robotic solutions to ease staffing challenges and to speed up operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106964441-1634924133556-106964441-1634903029090Team_Member_Next_to_Flippy_ROAR_at_the_Fryer_2.JPG?v=1634924157",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "publishedDateTime": "2021-10-22T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

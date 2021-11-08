@@ -79,18 +79,20 @@ related:
         height: 1667
         isCached: true
   - title: "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai"
-    excerpt: "(https://bit.ly/3BY8Kwp) \"We see broad application for AI and machine learning technology right across ... as it looks to match offerings from rival fintech firms. read more CBA also leads the banking sector's entry into the fast-growing Buy Now Pay ..."
-    publishedDateTime: 2021-11-07T21:22:00Z
-    webUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
+    excerpt: "\"We see broad application for AI and machine learning technology right across our business - in operational processes, protecting customers from fraud, lending decisions, and risk management,\" CBA Chief Executive Matt Comyn said."
+    publishedDateTime: 2021-11-08T04:55:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2o-ai/articleshow/87578376.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2o-ai/amp_articleshow/87578376.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2o-ai/amp_articleshow/87578376.cms"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 79
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 69
     images:
-      - url: "https://www.reuters.com/resizer/fy1Hr0OcjcfQo6t81SMK4FPVg6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34TS4M35IJKKRBSMOKLXM76LSA.jpg"
-        width: 1200
-        height: 628
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87578376,imgsize-15046,width-800/87578376.jpg"
+        width: 800
+        height: 418
         isCached: true
   - title: "Australia says U.S. facial recognition software firm Clearview breached privacy law"
     excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data collected in the country after an investigation found it breached privacy laws."

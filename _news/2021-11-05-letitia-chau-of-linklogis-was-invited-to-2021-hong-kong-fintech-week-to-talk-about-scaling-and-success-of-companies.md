@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-letitia-chau-linklogis-invited-202
 webUrl: "https://www.tmcnet.com/usubmit/-letitia-chau-linklogis-invited-2021-hong-kong-fintech-/2021/11/05/9485558.htm"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 400
     height: 300
     isCached: true
+
+related:
+  - title: "Hong Kong FinTech Week 2021: OneConnect Underscores Importance of FinTech to Greater Bay Area Development"
+    excerpt: "An integrated, seamlessly connected financial platform and FinTech talent are vital to the development of the Greater Bay Area (\"GBA\"), says Jessica Tan, co-CEO of Ping An Group.  The GBA is a huge and exciting area."
+    publishedDateTime: 2021-11-08T04:34:00Z
+    webUrl: "https://www.lelezard.com/en/news-20088315.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 7
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "QEYC4VsbBDpBY9E4eAGoP+b/0Gjqd52F9XplRUW+qCnPYPcZj+IMgHV//pHt8xrjabeBZJdSH+K3UOSf09Cidj5+6B9S9GZdApVmKz+zoNfwvASZ9Rh0tCu/jXXwyiM9NCA71cRqFJD1eIa+1bmXGd7Xohne9v54UJwZAUqu/STPPuDuWUaO8TX/i1HfT41BNpZnKAfb701zgXGor6VBXlT74gTyMVPqt8XisKM0ur6GbAhA3eUDoQN0Wn5zpoF+DcUHID2H9+LBngs3DuL2Xld1OVH/XIOvb/l30sB7grd1fzJmOIXcUOg/lU+GNqBJUiHcDSDIRWfMG9JkjgeNhQ5jIvQOaUEbI+dbZWmNgZ28RcjFGIt3lzIDC3q2pmK7VEX2vEDwJ4Hj4S/zrC4O1bWXqnsgGxE8y5HWt0XE3cKKrxBcp0ml2P5SfS5Gdh5T4gAkePddo1+BD3LRmVcqlLST+3/wgTDbz56kHEszVnd3xjJP/OVRtqvE1V9bqk6AzxU4vL77yJrmqirKOvDDCA==;oZfK8xnElPc8l2cGIZxgcQ=="
 ---

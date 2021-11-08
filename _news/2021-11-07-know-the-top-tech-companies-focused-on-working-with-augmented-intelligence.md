@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-07T11:30:00Z
 originalUrl: "https://www.analyticsinsight.net/top-tech-companies-working-on-augmented-intelligence-in-2021/"
 webUrl: "https://www.analyticsinsight.net/top-tech-companies-working-on-augmented-intelligence-in-2021/"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/Top-Tech-Companies-Working-on-Augmented-Intelligence-in-2021.jpg"

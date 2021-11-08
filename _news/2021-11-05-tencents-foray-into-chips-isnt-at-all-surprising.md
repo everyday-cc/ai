@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2021/11/03/1600x900/CHINA-GAMES-HUAWEI-TENCENT-HOLDINGS-2_1635926062591_1635926076330.JPG"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Tencent flags progress on three chips in development, investment effort"
-    excerpt: "Chinese technology giant Tencent Holdings touted progress in semiconductor chip development and investment on Wednesday, offering a rare public glimpse of its R&D initiatives."
-    publishedDateTime: 2021-11-03T11:02:00Z
-    webUrl: "https://www.reuters.com/business/cop/tencent-has-long-term-plan-chip-development-investment-2021-11-03/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/7SrPP-ZTXUdYsYrKRDvYcRtWQQA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y3TWWRH35BPKTDUC4B7B2JMEVY.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Tencent launches three self-designed chips in expansion drive, helping boost China’s semiconductor development efforts"
     excerpt: "Internet giant Tencent unveiled on Wednesday its Zixiao artificial intelligence chip, Canghai video transcoding device and Xuanling network interface controller."
@@ -106,20 +92,6 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0//attachment/2021/2021-06-12/8527dfc1-cf24-4982-921f-ff7fb221d75d.jpeg"
         width: 800
         height: 480
-        isCached: true
-  - title: "Tencent working on three chips"
-    excerpt: "Seems everyone wants to be US free Chinese technology giant Tencent said it is making progress in semiconductor chip development and investment. Best known for computer games and social media app WeChat,"
-    publishedDateTime: 2021-11-03T11:10:00Z
-    webUrl: "https://www.fudzilla.com/news/53809-tencent-working-on-three-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/0aa165be4b3d8a04169d7ff78b856c70_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "Tencent flags progress on three chips in development, investment effort"
     excerpt: "Chinese technology giant Tencent Holdings touted progress in semiconductor chip development and investment on Wednesday, offering a rare public glimpse of its R&D initiatives.Best known for computer games and social media app WeChat,"
