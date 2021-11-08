@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tusimpleai"
   url: "https://twitter.com/tusimpleai"
-  followers: 4211
+  followers: 4214
 
 size: 201-500 employees
 yearFounded: 2015
@@ -33,7 +33,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1242299407015370752/INroGsOX_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1457798185045221380/8bq3DWkX_400x400.jpg"
     width: 400
     height: 400
     isCached: true
