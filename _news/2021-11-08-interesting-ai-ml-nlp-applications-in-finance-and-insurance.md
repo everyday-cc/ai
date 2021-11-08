@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-i
 webUrl: "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-in-finance-and-insurance/"
 type: article
 quality: 88
-heat: 98
+heat: 100
 published: true
 
 provider:

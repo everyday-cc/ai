@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/11/08/amd-launches-new-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/08/amd-launches-new-gpu-and-epyc-cpu-right-across-nvidias-bow/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 511
     isCached: true
 
-secured: "TQywvVW/WhepOZZ/+vdcAxLR3NAK3CrRsIcNj8SaPWy58/LBTVgofOy+dVkWpDcCfVrTMjNsW/xmqzcefqqZCGih4RSrPHwfUl3ms9tx69RRov/6+8a2cU5ZAA3kXNwC8taPHWnG+Ip0K2XTrhkgMUtmsg7IxKmBiwn9kuRsaKii3OixOkDre4up0I52Rt3grR4m3OtX/c5CTri4UC0iR2d22RXfFgR1D+ZtGN19nkRzAAorZ/yabQLcRUc1ZQrp+Ppe7tusghkSgIcXARjIhzxjq9voEIhADZLpfuSDUbt/ChN2exh/eHiXLUdFiy6nE9Y88jBt5ogAJvWWwZ9xnPdQNBl8gYHUKGfDLT6ix5A=;nypSFkHmPe3Vs3pfNVZ5+w=="
+related:
+  - title: "AMD Blitzes Intel, Nvidia With New Faster EPYC, Instinct Chips"
+    excerpt: "With plans to launch the refreshed EPYC chips in the first quarter of 2022 ... AMD executive Brad McCredie called the new Instinct MI200 series “the world’s fastest HPC and AI accelerator,” saying it can provide up to 4.9 times faster HPC performance ..."
+    publishedDateTime: 2021-11-08T18:38:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/amd-blitzes-intel-nvidia-with-new-faster-epyc-instinct-chips"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/026f-13acbea95961-a8f4a6aad485-1000/amdepyc.jpg"
+        width: 610
+        height: 342
+        isCached: true
+
+secured: "mwB5+X6jaYf0OArZQc+PAwIwGJIcoiuWIByEfr7vA2Zh6TsBFaOJ9MEaorLqk/mjtY5hrRR0mJ6xZY3H4IMhtDR3LrIZgu8TKcdcW5NJyn4zNqUXErJYHZmAO51dQrOT1OTpeJT26nJpRRGJBGluokozCGy8NIBh1DCpPL+9fCkgtbnI+9IfneMZll2BY3mJKv4EpjOftcoLOZglaOXZaJRzLYmoi7cgNwr4MQuyb0a8hVUd1oqFLzDXWqgvMFNoH19bFsR3VJhLNhN4AMhGSkpx3DuF07w/LzEa43PE/JYeJNyVHQ0iOr0Uo7TPqN2gG2Bg8AnupC+PHqP21DYirD4CKndL8oQ4oo50ySgt0DS721jZIgxhnsMjGCKKh38CIhf2Z9myB6kxBy8azyTnHr5rytz4fpwcJYp3jn2iN1scUsShk2HFP2+emT32AAZ8JthRlDINN8STDL0ooqfQrQs9aTHuefBs5Q2UV5lknjG2905OmDF/QSyebw8EqpYTAP9rDsyK+ofyh/5AFLvzhg==;SdloZF96c4VeVUuSeL2JxA=="
 ---
 

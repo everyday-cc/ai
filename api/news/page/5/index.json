@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-03-archiveai-aims-to-free-marketers-from-their-monotonous-workflows.md",
+      "title": "Archive.ai aims to free marketers from their monotonous workflows",
+      "excerpt": "Archive.ai founders believe the future of marketing will be a culture of “building with you” versus the “talking at you” approach they believe traditional digital marketing is doing now.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/03/archive-ai-aims-to-free-marketers-from-their-monotonous-workflows/",
+      "originalUrl": "https://techcrunch.com/2021/11/03/archive-ai-aims-to-free-marketers-from-their-monotonous-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1222811180.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/03/archive-ai-aims-to-free-marketers-from-their-monotonous-workflows/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/archive-ai-aims-to-free-marketers-from-their-monotonous-workflows/amp/",
+      "publishedDateTime": "2021-11-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-waymo-is-bringing-its-autonomous-vehicles-to-new-york-city-for-manually-driven-mapping.md",
       "title": "Waymo is bringing its autonomous vehicles to New York City for (manually driven) mapping",
       "excerpt": "The latest autonomous vehicle company to tackle the mean streets of New York City will be Waymo. The Google spinoff is bringing a handful of cars to the Big Apple, where they will start mapping the city streets using manually driven vehicles with two people riding inside.",
@@ -1093,57 +1144,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-trust-the-ai-you-decide.md",
-      "title": "Trust The AI? You Decide",
-      "excerpt": "I wrote about fatal flaws in algorithms that were developed to mitigate the COVID-19 pandemic. Now comes a flurry of articles on an algorithm developed by Epic to provide an early warning tool for sepsis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/11/02/trust-the-ai-you-decide/",
-      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/11/02/trust-the-ai-you-decide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61818f58d754d2e4514d1794%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/11/02/trust-the-ai-you-decide/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/11/02/trust-the-ai-you-decide/amp/",
-      "publishedDateTime": "2021-11-02T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

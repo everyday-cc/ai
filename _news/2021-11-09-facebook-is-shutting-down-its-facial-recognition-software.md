@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Facebook is shutting down its facial recognition software"
-excerpt: "CNN By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
-publishedDateTime: 2021-11-08T16:55:00Z
-originalUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
-webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+excerpt: "Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both ..."
+publishedDateTime: 2021-11-08T18:14:00Z
+originalUrl: "https://kesq.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+webUrl: "https://kesq.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
+  - url: "https://kesq.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -88,22 +88,6 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/09/mark-zuckerberg-reuters-163228819616x9.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Meta to continue use of facial recognition technology"
-    excerpt: "Facebook this week announced that it will no longer deploy facial recognition technologies on its platform, but the social network's parent company, Meta, said that the commitment does not apply to it"
-    publishedDateTime: 2021-11-04T02:10:00Z
-    webUrl: "https://appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology"
-    ampWebUrl: "https://appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/45466-88475-211103-Meta-xl.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Why is Facebook ditching face recognition and will it delete my data?"
     excerpt: "Users of the social network will have their face data deleted, Facebook's parent company Meta has announced, but it is less clear what will happen with the AI algorithms trained on that data"
@@ -208,6 +192,6 @@ related:
         height: 1366
         isCached: true
 
-secured: "C1S0sUIn5NAWP1Q+1dkbNE0hG6OxCxaHojtSOjRa1aON4KyRwGzRKGZDF7fLkrmrFKMsUNVt5HPmU5r8+M6rRFlewF/6Uj1So+4iLMT6CM0bxrPUgSUWe/JLti36ICC278VZfxx8aCEz0hTBxuNTt99IJVS7qtoRlYuH9zY2EBH5L3qD7J0b07o4gxlAjy9KG2uPZ2VAWOhIs51WanMnxRJ1Z4++QdJDj2VV9r7v6Nt75oARvO+iIqFLVD8ZCQjhT78dboHUk5wj9YvJm9+vDDCehp9GfkucWm/IUvxYj7Xs0qFJD23l5Ws+MOnvKJ0mPDiXahPThXCNUH6cwSoie6UF1K6Oi6M3+8fpw4uVz5E=;ZyzIr0rRxd/GYe0rjZYvqw=="
+secured: "YKzEp7koSBVfWDCRpztvqAZ8RTE5XZin7S1jXR3ho1JnRkz1ynxhw0ZJK2exgm/WjM3Vy+u6slx/sMxNDX8Y5Wq7Bn2pwxS9k+IOLrRIaJ13ljcjmtZGi469/Z8lFbyk37LIBVthCKY6QyNDnY6g49bIK+CtAdEgNKuVq4K2PFD+f3HAJrycf9YK2j8C3ApQzM4AmjVVExB8cWlaR5+TT7wYhIE87CiKxUrSve1I+Sljru3MxMQC8DAWhs9qo0CHMkGe1qnp/d0Uhf6jOOs8GR+gDPUEcm4yW6ErWaErPhBZlAFOHyZwk24k3JK8h6q0Rrg8bYz6sfs8x3gnMC7awFOy7EHpPqdz3cEE+nj4FEE=;mFS68iGJMIQdxI7fTSHp0Q=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-10-25-the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it.md",
+      "title": "The Use Of Artificial Intelligence In Business Codifies Gendered Ageism. How Do We Fix It?",
+      "excerpt": "As more organizations adopt AI and use data to make decisions like hiring, what are the consequences of not involving a diverse set of individuals, especially women, in the design process?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/",
+      "originalUrl": "https://www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174762f6160a396701d73f3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/amp/",
+      "publishedDateTime": "2021-10-25T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-artificial-intelligence-ai-in-construction.md",
       "title": "Artificial Intelligence (AI) in Construction",
       "excerpt": "Examples of artificial intelligence (AI) in construction are increasingly common throughout the industry, from planning to building. Construction professionals are turning to AI to add efficiency and accuracy to projects,",
@@ -1112,58 +1163,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot.md",
-      "title": "Xpeng Unveils Plan to Go Beyond Cars With AI, Flying Car, Robot",
-      "excerpt": "The Guangzhou-based company also launched the prototype of a ridable robot horse at its so-called “Tech Day.” Xpeng said 60% of its users have paid for the assisted-driving feature, called the navigation-guided-pilot function,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-24/xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-24/xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDx9DkywNwMU/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-24T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

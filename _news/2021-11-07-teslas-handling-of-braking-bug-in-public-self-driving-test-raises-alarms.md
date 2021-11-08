@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 710
         isCached: true
+  - title: "Apple Hires Former Tesla Engineer to Boost Self-Driving Car Effort Bloomberg News"
+    excerpt: "Apple Inc has hired a former engineer from Tesla Inc in an effort to boost its car-development efforts, Bloomberg News reported on Friday, citing people with knowledge of the matter."
+    publishedDateTime: 2021-11-05T21:36:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "How Tesla Handled a Braking Bug in Public Self-Driving Test"
     excerpt: "In a recall report to federal safety regulators Friday, Tesla put the problems like this: The company discovered a software glitch that \"can produce negative object velocity detections when other vehicles are present."
     publishedDateTime: 2021-11-05T00:51:00Z

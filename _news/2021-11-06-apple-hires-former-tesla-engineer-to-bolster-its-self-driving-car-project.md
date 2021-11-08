@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Apple Hires Former Tesla Engineer to Advance Self-Driving Car Efforts"
+    excerpt: "Apple hired a former Tesla software engineer to advance its efforts to develop a self-driving car, sources told Bloomberg. Christopher “CJ” Moore is the second Tesla alum hired for Apple’s autonomous car endeavors,"
+    publishedDateTime: 2021-11-08T19:20:00Z
+    webUrl: "https://www.pymnts.com/apple/2021/apple-hires-former-tesla-engineer-to-advance-self-driving-car-efforts/"
+    ampWebUrl: "https://www.pymnts.com/apple/2021/apple-hires-former-tesla-engineer-to-advance-self-driving-car-efforts/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2021/apple-hires-former-tesla-engineer-to-advance-self-driving-car-efforts/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1095831881-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Apple hires former Tesla Autopilot software exec to bolster self-driving car effort"
     excerpt: "As reported by Bloomberg late on Friday, Apple has hired away Tesla’s former Autopilot software director Christopher Moore. Bloomberg says Moore will report to Stuart Bowers, another former Tesla employee."
     publishedDateTime: 2021-11-05T21:20:00Z

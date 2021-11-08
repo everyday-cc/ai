@@ -73,6 +73,17 @@ related:
         width: 1200
         height: 710
         isCached: true
+  - title: "Apple Hires Former Tesla Engineer to Boost Self-Driving Car Effort Bloomberg News"
+    excerpt: "Apple Inc has hired a former engineer from Tesla Inc in an effort to boost its car-development efforts, Bloomberg News reported on Friday, citing people with knowledge of the matter."
+    publishedDateTime: 2021-11-05T21:36:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "How Tesla Handled a Braking Bug in Public Self-Driving Test"
     excerpt: "In a recall report to federal safety regulators Friday, Tesla put the problems like this: The company discovered a software glitch that \"can produce negative object velocity detections when other vehicles are present."
     publishedDateTime: 2021-11-05T00:51:00Z
@@ -205,6 +216,6 @@ related:
       domain: detroitnews.com
     quality: 18
 
-secured: "yPkHYp60/c7ztiAvQAFg84niZy/qN+DMjwOT7VTL8hCeeG6xIKdqantdQaLj+rgPlPdc4DxC7p1ZD/7VKdj+ozXuu0UkRnW3CYkrwKsawhCjYFNKCAtr83BHil5xryXxuPC7eznXkSiFSz0FQTrOj/pyFCyTtR1yqTmnZn5eK3ZjJue/loZigITS+EKa/+Ujmec+4srLrO4SSNWzGIq/W6U+sTq88qx2x6EzoJuWAPj2PzG3tOTF/QspfwzW7p//Tc9t30VN3Qw1fzBpaF+4JcbHJxbAd4rEIVHly9CJEYEMwmIMOO4TQ0fEMSTLxH9n3PomKl4dLRsFrk70lVR0Xi+gn3UqakV54cs+jWjAXgM=;tkL4vuwMKtJDT1s20Jd7+g=="
+secured: "GshiawxSt3gyr9C7BeUK4SVhRECUgAOpNrCZgl20ubkUZVEAeDpFK50QaozZaaHFxWni9qIcCi+540QEA4pQVKPdz+gu0VOappcg01ozJWpXau9xdPOm12eeN8GHjJoH2yo9hJcu4x6t/HN1+Kf63WQU3lEtrW/6kNeTzl5aKjTOU3K9A0PQCA+QZQgMSBUjkX672gqtCjNYVpvlW5T2t+lctg7ypwepel5GRvzYV9kg3dbnMnJf+Hk8CCX/9wcvy7mT9MNhtvHkImCvWIyGROVtYJppVcfmnb29RwMi4i0B125xhoVZUvcSh8M5CBPdeLRbAIQbAmf7ZsMCJv+vywe0P53ZriyPTJxvaDvJV0lJ8V62wHlwnwjCdgu5fx+WyazjTBMDAYxynqk71IeexGSn1yGA5WRDAUrpDYuFLlVU8R3JzZNbz9rWrASkbAZSLofPKC4aKwKXscJKry2AjlgO51fC7NCrTHwP7hwqnIL0GW3icQuyzE+lQTDzq5kzKKzEbY1yetVeB27NJGlVaA==;h5iWEDClDM5gX6qUrx+jXQ=="
 ---
 

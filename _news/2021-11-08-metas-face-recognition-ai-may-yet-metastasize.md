@@ -75,22 +75,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Meta to continue use of facial recognition technology"
-    excerpt: "Facebook this week announced that it will no longer deploy facial recognition technologies on its platform, but the social network's parent company, Meta, said that the commitment does not apply to it"
-    publishedDateTime: 2021-11-04T02:10:00Z
-    webUrl: "https://appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology"
-    ampWebUrl: "https://appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/45466-88475-211103-Meta-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Why is Facebook ditching face recognition and will it delete my data?"
     excerpt: "Users of the social network will have their face data deleted, Facebook's parent company Meta has announced, but it is less clear what will happen with the AI algorithms trained on that data"
     publishedDateTime: 2021-11-04T12:02:00Z
@@ -180,16 +164,16 @@ related:
         height: 418
         isCached: true
   - title: "Facebook is shutting down its facial recognition software"
-    excerpt: "CNN By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
-    publishedDateTime: 2021-11-08T16:55:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+    excerpt: "Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both ..."
+    publishedDateTime: 2021-11-08T18:14:00Z
+    webUrl: "https://kesq.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: KESQ News
+      domain: kesq.com
     quality: 39
     images:
-      - url: "https://ktvz.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
+      - url: "https://kesq.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
         width: 2000
         height: 1333
         isCached: true
