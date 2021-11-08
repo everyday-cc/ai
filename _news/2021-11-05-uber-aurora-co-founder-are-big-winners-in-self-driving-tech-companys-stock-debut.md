@@ -81,6 +81,15 @@ related:
         width: 1107
         height: 731
         isCached: true
+  - title: "Apple hires former Tesla executive to work on self-driving software - report"
+    excerpt: "Apple has hired Christopher Moore, a former engineer at Tesla, to join its self-driving car operations, Bloomberg reported, citing sources with knowledge of the matter. Apple declined to comment on the matter. Moore will work on software and report to ..."
+    publishedDateTime: 2021-11-08T10:38:00Z
+    webUrl: "https://www.telecompaper.com/news/apple-hires-former-tesla-executive-to-work-on-self-driving-software-report--1403363"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 16
 
 secured: "/DG5Pb83EqyQ5S20NOKAaWn/3df+OUgYCsjDTxwK3GgVlKzF21Bm7x6b/RmtHI/nTBp/2td5UAK4rI4zB+Cl5to/E+/wQyL+2Db1VqrwepKDvdehbHrGxENOV1StYPyeTp/X9+t6y1M2zPe6vi0gEwFoQ/SR1bV6iftdPaBXHMsHZwNnoSFpDwOsXmt2sUkZHwe1d0uubVXl9r7EAHbNmUh+r4nq5BhkSt4Fcfap9FZE3U6X65uWvgYH8s5B4fDZlYjAqoZL++TZA92SGE+k2yNOKccn5/aaQLBqkMupjsr8j7xyCW7rCZN+Sic2Y+khWKxO4g4XbMxc7sVjCJNoqMzohnbtrTEbZRSa8CMF8AOCPT6N3CGSZXNIvTlUF6AUbKHVwDlM5QPYAUtfOH/3r4wsCRj9EJ+COsEUG70EsySln0zGUbPciUgjRgWeeNyn7qbSXp++nZ4Dm3ad/rsqtx0Mi1YhYbH1GOnFPLTasU1Mf3kuvprKxm+Erv4HtAkIU5y+ibMxEsB5U31yFxL/nw==;4rsmt0aK32bTFusOY/00Lg=="
 ---

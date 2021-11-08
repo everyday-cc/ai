@@ -7,8 +7,8 @@ originalUrl: "https://us.acrofan.com/detail.php?number=559531"
 webUrl: "https://us.acrofan.com/detail.php?number=559531"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: 아크로팬
@@ -25,47 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "At Ignite 2021, Microsoft showcases functionality for scalable AI apps"
-    excerpt: "Microsoft showcased Azure's architecture for building scalable AI apps compatible in cloud and edge computing scenarios."
-    publishedDateTime: 2021-11-03T16:50:00Z
-    webUrl: "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/"
-    ampWebUrl: "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/"
+  - title: "Microsoft offers glimpse into healthcare offerings in a digital-first workforce"
+    excerpt: "The COVID-19 pandemic accelerated digital transformation, and Mr. Nadella said Microsoft will make many of the changes it applied to Microsoft Azure during the pandemic into permanent features. Looking ahead,"
+    publishedDateTime: 2021-11-03T21:08:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-offers-glimpse-into-healthcare-offerings-in-a-digital-first-workforce.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 52
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/gettyimages-1287251160-170667a.jpg?w=1200&strip=all"
-        width: 512
-        height: 337
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/7.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Microsoft says all business will be collaborative, and infused with data and AI"
-    excerpt: "Data derived from the interactions between people should allow the organization to refine business processes, Microsoft said at Ignite 2021."
-    publishedDateTime: 2021-11-04T01:39:00Z
-    webUrl: "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/"
+  - title: "Welbilt to Upgrade Cloud Solution through HCL Technologies and Microsoft Azure"
+    excerpt: "Microsoft Azure Sphere to upgrade security in its KitchenConnect internet-connected equipment and will host the solution on Microsoft Azure through a new partnership with HCL Technologies.  Welbilt KitchenConnect is an award-winning open cloud solution that offers a digital platform for internet connected equipment in the foodservice industry."
+    publishedDateTime: 2021-11-04T15:13:00Z
+    webUrl: "https://www.qsrmagazine.com/news/welbilt-upgrade-cloud-solution-through-hcl-technologies-and-microsoft-azure"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 50
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/Satya-Nadella-ignite-nov-2021.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-11/webilt.jpg?itok=OXKQZf58"
+        width: 765
+        height: 446
         isCached: true
-  - title: "Microsoft Cloud’s enhanced digital experiences through metaverse, AI and hyperconnectivity announced at Ignite 2021"
-    excerpt: "Microsoft Cloud’s enhanced digital experiences through metaverse, AI and hyperconnectivity, 90 new services and updates announced at Ignite 2021 conference"
-    publishedDateTime: 2021-11-05T10:04:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/microsoft-clouds-enhanced-digital-experiences-through-metaverse-ai-and-hyperconnectivity-announced-at-ignite-2021"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 12
 
 secured: "IH4G6UeLxGJroI3QecTOVoqx4sefgaGR9qfb8M9Ww+VcFWraFjtC8a+c6X2f5y+N0f726ZVaLOTQ89gD/f6JG+Ezh3mKrjkdLChSVoiNkV1DZZSnVq/HAxL2UfIbp8Bw0EQ5Gpt+SKgNJQUTFn68a6iHJDepZaI7P4BWPyb4odc6qFebJlrhynzIhYE0LX2SgbRJxxFZGYim733VbPnyJzF8j8qrXCopb5ZiGJxvsB7vybcIuB7KQDWP72L5FVosL0rLLBKW9vcv104FUTfoK2TJUXJ1ntB2tbDd1qPhVjk6XZp2p7FinEVVnobB5MINTb7OKmJCW2wa1avGPa5+aQ416vdeX/pLZU6r2jq7zmA=;82UcV7zSWAfV/U+YMSai6A=="
 ---

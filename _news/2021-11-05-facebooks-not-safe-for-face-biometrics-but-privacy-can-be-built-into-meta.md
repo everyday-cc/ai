@@ -57,22 +57,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Facebook plans to shut down its facial recognition program"
-    excerpt: "Meta, the company formerly known as Facebook, on Tuesday announced it will be putting an end to its face recognition system."
-    publishedDateTime: 2021-11-03T16:49:00Z
-    webUrl: "https://www.cnbc.com/2021/11/02/facebook-will-shut-down-program-that-automatically-recognizes-people-in-photos-and-videos-delete-data.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/11/02/facebook-will-shut-down-program-that-automatically-recognizes-people-in-photos-and-videos-delete-data.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/02/facebook-will-shut-down-program-that-automatically-recognizes-people-in-photos-and-videos-delete-data.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106967647-1635507197490-gettyimages-1236189738-FACEBOOK_CONNECT.jpeg?v=1635507252"
-        width: 6720
-        height: 4480
-        isCached: true
   - title: "Three reasons Facebook/Meta is shutting down its face recognition system"
     excerpt: "Given there are benefits that come from face recognition, why is Meta getting rid of the Facebook feature? We break it down."
     publishedDateTime: 2021-11-04T13:00:00Z
@@ -119,31 +103,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Facebook to get rid of facial recognition"
-    excerpt: "Facebook is shutting down its facial recognition program. The company, now known as Meta, will delete over 1 billion facial recognition templates."
-    publishedDateTime: 2021-11-03T16:39:00Z
-    webUrl: "https://www.cnbc.com/video/2021/11/03/facebook-to-get-rid-of-facial-recognition.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106970246-4ED4-QT-Facebook-110321.jpg?v=1635963267"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Governments must check Facebook really does scrap face recognition, whistleblower says"
-    excerpt: "Facebook FB.O whistleblower Frances Haugen welcomed Facebook's FB.O announcement that it would scrap facial recognition, but urged close government oversight of the move to ensure the social network lived up to its pledge."
-    publishedDateTime: 2021-11-03T17:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/governments-must-check-facebook-really-does-scrap-face-recognition-whistleblower-says-2021"
-    ampWebUrl: "https://www.nasdaq.com/articles/governments-must-check-facebook-really-does-scrap-face-recognition-whistleblower-says-2021?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/governments-must-check-facebook-really-does-scrap-face-recognition-whistleblower-says-2021?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 63
   - title: "EXPLAINED: What's Made Meta Go Off Face Recognition And What Happens To Tagging Photos On Facebook"
     excerpt: "Meta, Facebook's parent company, has said that it's dropping the use of face recognition on the social networking site even as it tries to scrub clean its image"
     publishedDateTime: 2021-11-07T08:19:00Z
@@ -340,17 +299,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook to shut down face-recognition system, delete data"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T17:38:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-to-shut-down-face-recognition-system-delete-data/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 26
 
 secured: "l508cXMx4Qu2qq8jgd3D56Fd09NlUG3Mv09Ur9i+/ljxwqjqpChbJXn85Rah5x5E/k9v/kFhqHRflQX9pfRGxMvltRwn3srbfLvUbz/SSSX8qkRit/2/yTMn4XaW7aVOWSlcU6AanWZPjZssYiilW0lg0haWYMwQAjlblR12vApqptYrN7uaucs8GzQpsjWp3mQwxDGEO/+yhnfrjPNG/JEdbXZIc1pZX4rHqntlAl9gVdIGENZ2xQ7ozLyZRemFK8nkEJ37QJd9zq0OeBfuw0wKrsdw3qRs2Vvm5EPGHPVOfmPmGu13s44j3CrZs+ysqIEEOmVZr4+qzFptv/YgcK2KT2yRopwaLqLOmeYMVVF68zQDgo5vJ2SBzLEyzcKx/nkUQx6TouLy2Q6F6Ptczi6dd4qd6vpz42A5ll2pvYdwnfkrSVCvUMnWE8ISPpfjfdMiEtd5qdTbwIMX/AzrGEbk+Uy5Qx0zYtWI5+PXDgE8s+VcUuqyPJ2QIkVzcRpQTg9+WnDIxuhzqPpmOg/2yg==;TX+u8g0SynDwhvP0VWJPGQ=="
 ---

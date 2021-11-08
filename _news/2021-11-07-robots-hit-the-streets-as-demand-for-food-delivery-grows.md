@@ -9,7 +9,7 @@ ampWebUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-deman
 cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?980041"
         width: 337
         height: 250
+        isCached: true
+  - title: "Robots hit the streets as demand for food delivery grows"
+    excerpt: "Kim had partnered with a local robot company, Refraction AI, shortly before the pandemic began ... Domino’s is partnering with Nuro, a California startup whose 6-foot-tall self-driving pods go at a maximum speed of 25 mph on streets, not sidewalks."
+    publishedDateTime: 2021-11-08T10:13:00Z
+    webUrl: "https://www.westhawaiitoday.com/2021/11/08/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+    type: article
+    provider:
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
+    quality: 39
+    images:
+      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "ocLc0SDDeOcDagKqBkMoMIxhmZoFsxwaqVFreEgwchrA8kkDt/cJuJFQvMKHPr+1pawafTbf3jI46C1+8oRsDbKcPtsvaFOOjSGDxreNdj9GsN7+4IQGeObXXdo2ZVr24PBj+llMvl7TjksmtZ748t2Ye4DECnf5PdFWLvsUkNL4jdPOjoOaGNBZvtMNS5C0WEpiPg9EsDWsb+hWK6l0CWLGsNaXA19+dN5Jei2KIlC2HEUhEEYMPYgqDJQMLMqQdyMbWAyTLQO9X0VnsWU5C+PFG0rmUSVT0wnRlucs+cYyQm8G9nZYl3brIZ1wYgTsEsKZTUjPT5FyF3PZ3elpLS8c8MuKXhWO0JCxa03BkIW1ksDck6i7EpWLpdqqeQYTePMeOalix8icqAn0dB52K+fCjX0uIoWgPfDQlJuJBffppt/iWuIyILgOVJJ8fEATESONcxiM34oOycqXpqMHYsSjM5aZrC0kprTqDOHrs4LaNEj/X8BAIMYJ993GdzFkZ404Io3fz+H9uCIbJ2z2hg==;XYy/sFw+Xh3qszd6gA52OQ=="

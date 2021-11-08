@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence (AI) in Education Market 2021 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2027"
+    excerpt: "Nov 07, 2021 (CDN Newswire via Comtex) -- MarketsandResearch.biz has recently published a report titled Global Artificial Intelligence (AI) in Education Market 2021-2027 which assesses dynamic factors, growth determinants as well as information on segment ..."
+    publishedDateTime: 2021-11-08T09:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-education-market-2021-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2027-2021-11-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning Chip Market 2021 Manufacturer Analysis, Technology Advancements, Industry Scope and Forecast to 2027"
     excerpt: "With this report titled Global Deep Learning Chip Market 2021-2027, research analysts of MarketsandResearch.biz help us to present our clients with insightful data on the investment or growth opportunities in the industry."
     publishedDateTime: 2021-11-07T21:41:00Z

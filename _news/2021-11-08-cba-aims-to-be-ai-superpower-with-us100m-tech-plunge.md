@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/technology/cba-aims-to-be-ai-superpower-with-u
 webUrl: "https://www.afr.com/technology/cba-aims-to-be-ai-superpower-with-us100m-tech-plunge-20211105-p596bx"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "CBA’s $132 million play with California artificial intelligence leader H20 to make the bank ‘an AI superpower’"
+    excerpt: "Australia's biggest bank has invested $134 million in California AI market leader H2O.ai, for a minority stake."
+    publishedDateTime: 2021-11-08T09:51:00Z
+    webUrl: "https://www.startupdaily.net/2021/11/cbas-132-million-play-with-california-artificial-intelligence-leader-h20-to-make-the-bank-an-ai-superpower/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 49
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2021/11/h20.ai_Sri_Ambati.jpg"
+        width: 765
+        height: 522
+        isCached: true
 
 secured: "NUypjcaQlkOiDN2IaRCEnVrUKlp8iZVJf/9g3Tk/Or8dKJvxpOM1WPqIhCVlrabmGyNaAtPO/Y7CBarbRA26peEDoUZu84buncjmDdhqWmLiQeldhvPgCPaU5SLp5ht9VxHm3TNAXHIDpLKBOfn2QDHe7kHbfSOEadduZwdJ+8MKB5WqetC6l7jXF426rcS4aZUK8YyQVCW8Ym39BRrvb2ZizAaOKnyXvYdkEbplQF3n/TTWpZ+U811mKn1YYGrqVZ/wU+s3WTWaATwHmdrJsX69z5L79JO63KDJGtAzWRZyLgv9sAgHeMc9MMVfEj+TmQl3wxdoqyBesDUCIjpsS7Y+qZHiAhsZ46tJuPHIKkI=;of4zzjknTzNhOF12rHjRdw=="
 ---

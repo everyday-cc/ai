@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soarin
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.amp.html"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: CIO
@@ -39,6 +39,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/How-Research-Culture-can-be-lucrative-in-india.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Artificial Intelligence in Drug Screening Market to Set Phenomenal Growth in Key Regions By 2025"
+    excerpt: "Artificial Intelligence in Drug Screening Market by Product Type (Immunoassay Analyzers, Breathalyzer, Rapid Test Device, Assay Kits, and Chromatography Instruments), Sample Type (Urine, ..."
+    publishedDateTime: 2021-11-08T10:42:00Z
+    webUrl: "https://menafn.com/1103120081/Artificial-Intelligence-in-Drug-Screening-Market-to-Set-Phenomenal-Growth-in-Key-Regions-By-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/08/EP_9e436image_story.png"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "KipXtgqN2PCJAzK7qJMHj90KlBvpafjkquQUIGz+K7DjrzSuSIXYQCfd9XomFpM5gnByXpW81D5MKUbpgHRihf2seWdQ9obAbf34BWCHfCIx4QpIAKOYc/Lx2L0jX+kkWlyRFp1F0Y/kCcPhHrINgtQKi1Zs0GmE2DbQjV0xRPHF7gwNFECrQi0kIO6jk6eoUnVfEpyyFiaOuQ4U03X/K77wHffAhiqTZEOK0/1bRVB8JOVVYeih7/T3EU45uf0SeSJO6E2yH1OL9gEuZkIoJhZzpTetzxjYtDP/3PqSklpTTIkckUMWPIuTB91NE7la00Jx9c3U9Fop/9xlfNwa2QS/rFbs28qHf4Kt2YO7Mi8=;zusNiWh80wpGwMhAOIOH1Q=="

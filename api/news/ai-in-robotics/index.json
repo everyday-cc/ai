@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-08-bt-steps-up-robotics-play-with-new-lab.md",
+      "title": "BT steps up robotics play with new lab",
+      "excerpt": "BT opened a robotics test lab in its R&D campus Adastral Park in the UK county of Suffolk, to trial technology for maintenance and deployment of telecoms infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/bt-steps-up-robotics-play-with-new-lab",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/bt-steps-up-robotics-play-with-new-lab",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2021/11/MWL-BT-Tim-Whitley-Adastral-Park-650.png",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/bt-steps-up-robotics-play-with-new-lab/amp",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/bt-steps-up-robotics-play-with-new-lab/amp",
+      "publishedDateTime": "2021-11-08T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-omron-invests-in-taiwans-collaborative-robot-company-techman-robot-inc.md",
       "title": "OMRON Invests in Taiwan's Collaborative Robot Company Techman Robot Inc.",
       "excerpt": "OMRON & Techman Robot will together deliver a highly flexible and scalable ... By adopting a wide range of control devices and artificial intelligence (AI), machines can learn through experience and maintain themselves in optimal condition.",
@@ -96,7 +139,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -200,7 +243,7 @@
       "originalUrl": "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -443,7 +486,7 @@
       "originalUrl": "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -579,50 +622,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-north-korea-seeks-to-boost-english-education-with-robot-teachers-enhance-intelligence.md",
-      "title": "North Korea seeks to boost English education with robot teachers - 'Enhance intelligence'",
-      "excerpt": "NORTH KOREA has shared footage of a new toy-like robot teaching kids English and maths while the country suffers from famine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/world/1516828/north-korea-news-boost-english-education-robot-teachers-ont",
-      "originalUrl": "https://www.express.co.uk/news/world/1516828/north-korea-news-boost-english-education-robot-teachers-ont",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/North-Korea-robot-teacher-1516828.jpg?r=1636084563213",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/world/1516828/north-korea-news-boost-english-education-robot-teachers-ont/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1516828/north-korea-news-boost-english-education-robot-teachers-ont/amp",
-      "publishedDateTime": "2021-11-04T19:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
       ]
     },
     {

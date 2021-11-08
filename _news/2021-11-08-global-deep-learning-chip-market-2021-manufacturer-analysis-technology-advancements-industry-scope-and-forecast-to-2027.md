@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Education Market 2021 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2027"
+    excerpt: "Nov 07, 2021 (CDN Newswire via Comtex) -- MarketsandResearch.biz has recently published a report titled Global Artificial Intelligence (AI) in Education Market 2021-2027 which assesses dynamic factors, growth determinants as well as information on segment ..."
+    publishedDateTime: 2021-11-08T09:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-education-market-2021-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2027-2021-11-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0Xp4+sbwujAT6YApLs1eu4nDxqF5WTwLj52YHdW9ynDmWWM18KceklP5ZoZDFVzAmE9Mz33PL4S+j2VDRwGbcFD0s2R8vf6zNAfZqb6c8iUjwghzZB1T6Av9LGLcxPCYkJHJ9Gy3ppcNxqD7Wbgk2rF3i3d5T7LMFTbpVHHiIlj5hO9rocqZqGZSqh54mq+YBMv4/E3t/BFUeD9tWp/GzsSBVe83BEnZG+WfDmFiaehAI/jk8lqmsXdSeydGQh+d+5ts4XmfHJapXr3UVFhyetfVGWaS9iod4jCrWDqUeGefhqFm0kDkm/9EILdoIw220ucRDyS/uikoVOoNFq0ErJpuvBlyz4ZzGfzyzrELs14=;nfgM+bjY0dvBaeSEik5REQ=="
 ---

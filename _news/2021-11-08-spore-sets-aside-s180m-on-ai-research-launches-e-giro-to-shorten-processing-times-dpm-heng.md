@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Singapore launches national AI schemes, adds $133M investment to research"
+    excerpt: "Two programmes will look to drive the adoption of artificial intelligence in the government and financial services sectors, with another SG$180 million to be invested in the national research plan to tap the technology in key areas,"
+    publishedDateTime: 2021-11-08T08:51:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-launches-national-ai-schemes-adds-133m-investment-to-research/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-launches-national-ai-schemes-adds-133m-investment-to-research/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-launches-national-ai-schemes-adds-133m-investment-to-research/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
   - title: "Bilaspur woman helping Singapore govt on Artificial Intelligence"
     excerpt: "Kirti Chandel, an electronics and communication engineer from Bilaspur, is helping the Government of Singapore on use of Artificial Intelligence (AI) in its programme ‘Expression of Artificial Intelligence’."
     publishedDateTime: 2021-11-08T04:48:00Z
@@ -56,6 +67,20 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/11/Desk/2021_11$largeimg_1832571378.jpeg"
         width: 660
         height: 825
+        isCached: true
+  - title: "Singapore Launches National Programme for AI in Finance"
+    excerpt: "Singapore has committed an additional $180 million to boost AI research as part of its plan to apply the technology to improve financial services"
+    publishedDateTime: 2021-11-08T09:15:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/singapore-launches-national-programme-ai-finance"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 56
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/singapore-city-centre.jpg.png?itok=hxuSX9w_"
+        width: 1200
+        height: 630
         isCached: true
   - title: "NUS, Cisco pour $40m into tech research center in Singapore"
     excerpt: "Corporate Laboratory aims to deliver 12 improved products and services in areas such as AI, healthcare, urban infrastructure, and cybersecurity."

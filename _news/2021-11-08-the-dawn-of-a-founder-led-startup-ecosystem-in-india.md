@@ -28,16 +28,23 @@ images:
     isCached: true
 
 related:
-  - title: "What’s next for Malaysia’s startup ecosystem?"
-    excerpt: "We place a spotlight on the effectiveness of Malaysia’s startup ecosystem development efforts and Una Brand’s capital raise."
-    publishedDateTime: 2021-11-04T12:03:00Z
-    webUrl: "https://www.techinasia.com/xxx"
+  - title: "The pursuit of problem solving: Inside Nvidia’s plans to democratise chips and AI in India and rest of the world"
+    excerpt: "As Nvidia gears up for another GTC event, Financial Express Online caught up with its Asia-South MD, Vishal Dhupar to understand why the company does what it does, what’s the next frontier and basically,"
+    publishedDateTime: 2021-11-08T10:30:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/lite/"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 53
+    images:
+      - url: "https://images.financialexpress.com/2021/11/Nvidia-GeForce-RTX-3090-main-image.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "tjKE8mC1wAXJO8NQkCDKmvI+Q/eCPjols5cZlM6m8lXalq6l8JLfa6Rv47CzHYuo9QPSCN97Szcn/svrx/8vr8SmfSsj85mOcmSBW2Ad3sNBXfhMsCcNIJksgpdNyCULvnYPpLrS/tLyMbr2lCiva7GPKsTI/jm17H6aYdrfSg3T915chQl6Cg8G6yScGI/G2on6MiBEwmh/T/95xLbV7I7jVUAUz32OYcNgrVfMZ5wgp4JGWF8tjsGf6xXGj96xEfAOD3SkXqJgSxGcPV6rptri4oLnmOKF6nmkdnQuvhJ2Pk4FW/C/vcLOUo/F3qzZclUaEwrpKXD29e+ZY2YbQSd+Z8dUb/tRhDWKarq9tmA=;ZMg3aVCtl4e6Vmoh6UqnYA=="
+secured: "XxWkiIOZi3NaNtgE6X5XM9TBMIedRqN5QpKG7hnKV125V28g6k/KzU3F92HahnqsFD9ttEUXEUCY1BCn1/Zl7Q+uauU5VpBIe41vGaziPf/5bGbVRAtY8jJJ3VH5V5QV3Xv0ZhE0YgnGOZESoQPAWGX1LaM9NVQWqALQE65OrYaCbnvfhBKNHjd3EHU0GMhWbtFQ2JOWDU2R0bvDT6LsSVPCGKVnaYM/cX45B5+zJoiYxCdd4pXYmfDYokTFOZ+EfJZOYU/+bSYyzw9QKHE+Gi3JdsgHAzujZgEN9+Ph0XHvXAqy5Ej2g0qpRjTW4OAdBSYZ5d6dUM80hJsxwFdJ9T+/MB6AsuEIZHn338yLMJ/ipdVIAleevtH3m+65NAmZksy9AoxvItXpPuWD/h6ED+iliSw0kCItUIG7lTkfNPQMvYuMXMPSsD3rGyeMWRbb4e0fPT1g3WO+YxIX+NwmAfj87x8gohHzF51loSEcav7q+MyCV6YFb4OdJIPo5i8axRZSgoJQAwCy9JeIndtX6Q==;g/6QZ9FZnBDbRpc+Cqoidg=="
 ---
 

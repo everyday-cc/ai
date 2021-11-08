@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Survey of Fintech and Banking Executives Reveals Identity Authentication Risk and Customer Dissatisfaction Top List of Concerns"
-    excerpt: "AUID], a leading provider of secure, mobile, biometric authentication, today announced the findings from a survey conducted during the fintech industry conference Money 20/20. More than one-third of respondents indicated they are “highly concerned” about the risks associated with one-time passwords (OTP) and knowledge-based authentication (KBA),"
-    publishedDateTime: 2021-11-03T16:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-survey-fintech-banking-executives-reveals-identity-authentication-risk-/2021/11/03/9483507.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Ls8cumEeBde4Jd1LOtM4yxtyOXBxjaUePKT8M4qryfT21/ZQcd99rzLzkcZPHjF/Aa+DTtWrMkKH7TI6kXGKKheGe9embxETlamrtGvnd4PnwVHpYY7fnhr/yAysSTMRENQvWVkpQjn8ysHQtMJ17f15iAFCGo2msH99KQSR0xOxLP23VVkDDVznhIkWG6RdBUfrFcy5jE4FAz08Ccym0+7pGjt2N7ZFwiPh50CZRXUFvTvkRVKIAFIqBUTFbvdsaxCck+6gV0NII7Vg4fGvKNAfdBPQwBhID85DTVFZDDQ/sR6BdXlAyGIi2iXbP3eiPyuLyw85eStSacD82sY5Uz/J1O2v304iGX8yt+oQ6Ks=;XezlC3Y83+PVeyRaAbb5oQ=="
 ---

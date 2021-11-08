@@ -101,6 +101,20 @@ related:
         width: 540
         height: 720
         isCached: true
+  - title: "F|T: The FinTech Times – Float has got a Tiger Global’s pace"
+    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
+    publishedDateTime: 2021-11-08T10:30:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-float-has-got-a-tiger-globals-pace/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/11/Journalinc-AdamDeunk-Final-7378-1.jpg"
+        width: 1050
+        height: 700
+        isCached: true
 
 secured: "hWFTeAye4mDYtOlA4lqB2Ov4xr7yCmwUZ4BKqVzAdpTb/th9LaphZj/kffIO2aiNBuhY9QpZNIcjs3HP2stlo2+qMWTY3Zg5MsX9e8N4xBgk2kucUQHMSi238XiRtsvNheW2Wo004RwAQc2Lz5nZtXXfXSEp8pIf6xcgekqtqbIqtIkq0SA5owIOD2vU8vN23gphL7z/Z8FAhYmQS9WrDzwRRmgXcn3ltNgP6UWPydVwAcRMHaqWATExzODFdgO2HILctZthuyGDiHD8Y4l2lMPrAN/Z18DPPVCP8mpcQhRgltAyq0/SedlW1gkgm20jN4ncNbfgZhc5B5xjQuV6hYh693SAtesXueVnFjA+4DGXsRjiUoAq94+xP063HMgNRYym9iYPhf4B9DVEavCjNEG/e84DcZk8qVtGEGrPwOTKiKM8yJkuFKzPLpPXO7iFuC+8b9wmsINI+5RAIOsnXC1yUaq5UjFs4t32OcseJTyRbjbjEeUoTXEH0UmInqWvfuiihmopzSSqIv5XS3ttzA==;NI3isDo7ORlOdHQOvUoApw=="
 ---

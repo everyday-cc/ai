@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-08T08:01:00Z
 originalUrl: "https://semiengineering.com/solving-real-world-ai-productization-challenges-with-adaptive-computing/"
 webUrl: "https://semiengineering.com/solving-real-world-ai-productization-challenges-with-adaptive-computing/"
 type: article
-quality: 37
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - AI Hardware
 
 images:
   - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/Xilinx_AI-productization-adaptive-computing-fig1.png?fit=929%2C480&#038;ssl=1"
@@ -38,21 +40,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How Advancements In 5G, Edge And AI Can Impact Food Production"
-    excerpt: "And what’s making this possible is the ramp-up of 5G, the build-out of the edge and artificial intelligence. All of these come together to unleash all types of innovations. What does the world look like with the combination of Edge,"
-    publishedDateTime: 2021-11-03T17:25:00Z
-    webUrl: "https://www.forbes.com/sites/windriver/2021/11/03/how-advancements-in-5g-edge-and-ai-can-impact-food-production/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180187740%2F0x0.jpg"
-        width: 1200
-        height: 817
-        isCached: true
 
-secured: "NofpNBYEYvhRZlzCwCR+eloYjK9Bl5zYj1cYh0Z+O0Dyf49qSYcCUTHpf+W9gJ8d82sn2r2BVxJONQEgm6dPVRmCtwKkgSE9BDwMFW73Dym/FERf8NNqmOCLKGOVni+Jjf2FEBInpkn85FfFCu+uKIlKPmEBgSN9XMOivZCVZyU3fesib41biJFfHv69C0fzR+oXSyJBdSZMsbmjJ9E+rrmkNsgqIktJjFkUXmnQnqY3J2Qr5wo73RTUQggrrZsyISSVv9O1ZpWYJqYkdpmCWfmJ5B1lu7mDnFbhbPPyI7t4ch3gORfKUsVRB4kXwolgNqNgvTFG8+1V9ZNiC7ot7z/yRoalsQ5C369TNbn5FiY=;MAPz6Rfr8XUXSJ1S/uWaaQ=="
+secured: "2AbpEJLIL5tTo/uU3kQDPdjv75A6U/8YmAaMK2x5xPfnBpdoflDWcKUU01dqCetxwVQswVhjpFZWfy/wW1ZSZX7YL4niQwMVFN++Rc5h6rb/h+YERl5FYpGJsVHFFGHB1yQ6ETy/ZfY0yYcNPd1Naud6bxbfRyvCWLhozvqWywp49m3N8ikkt/VKAdt2KbWsfdtZgOQc0VAUxqojnPG49BQDM1ctTEIel/0NuczPRkFRHVaoFxwwcHsKZpSLhxe+3As93zFuKdh+MeWVWEi7het3PYy0BgoBOMjRV9j9qtCbZwmi1PX6FkAejiL4kARtwXCEyLMs67aHvuNh2TLc6t7I2BsDI3YqpYE51VNeVWOZaDp4NgL/WLv5CmVlTa6zcAf+pFPBTa6pPaf9+JlvTfk6VIGaZfeJLHdMXmd6k6WlCqo83IZRk7efLJg2Inttg/A408x924ihbbIOfGmvH/mU5Gir1m9+64OSTd5djRRQBzORo20CY76EF/5FNtJd9ASvabMaKMt9NuW8nkHwXg==;qgjs1xvQBhMgwhrqp7tUwA=="
 ---
 

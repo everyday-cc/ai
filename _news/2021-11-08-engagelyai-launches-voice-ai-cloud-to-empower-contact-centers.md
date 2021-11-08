@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Engagely.ai Launches Voice AI Cloud to empower Contact Centers"
-    excerpt: "Engagley.ai, a leading Customer Engagement Automation Platform has launched the AI powered contact center automation platform on the cloud"
-    publishedDateTime: 2021-11-03T20:08:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/engagely-ai-launches-voice-ai-cloud-to-empower-contact-centers-878134541.html"
+  - title: "Harnessing the Potential of Voice AI in BFSI and Contact Centres"
+    excerpt: "Voice-enabled AI CX delivery platforms can merge the best of AI and human capabilities resulting in seamless CX that reaches the hinterlands."
+    publishedDateTime: 2021-11-08T10:15:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/harnessing-the-potential-of-voice-ai-in-bfsi-and-contact-centres/articleshow/87584704.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/harnessing-the-potential-of-voice-ai-in-bfsi-and-contact-centres/amp_articleshow/87584704.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/harnessing-the-potential-of-voice-ai-in-bfsi-and-contact-centres/amp_articleshow/87584704.cms"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/msid-87584701,width-640,height-480,resizemode-7/raghu-ravinutala.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "MfapNymwoyUiQkJNQ83yiemQHpin8axwg9ETK7EK3yn1zgKeckPaV2VWlHXHSuw7XV+Bew1p39tG85Zn0g9jfcV78nPpCx7O9UbAapaBokXjqrPZRcP7ayzE6AHeJajIRlwt+bQgghTaDn/yVpQIFSROTRaYQBG357vOD9vdV1HeA7dSrsTck1MRpbMqzEWpxFR7UPaU5O1stCx9mQdpGRnIM9XVZfcKE/BggwZveIpy+wJV7MQHIcPdxavCFvnspn8gEYGeL3+QA7FaqV0eMFDvVyOZmORbxn+RxC/Ut8u2mSY+yKxInvqr5nZic9OpjCpsh9ojZy5t6aP+6+MYJdcOi9dAAkayWmlgxK4evBs=;LQnW+W2XFyY1C/4DIZ8hhw=="
 ---

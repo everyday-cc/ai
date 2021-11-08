@@ -87,6 +87,20 @@ related:
         width: 540
         height: 720
         isCached: true
+  - title: "F|T: The FinTech Times – Float has got a Tiger Global’s pace"
+    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
+    publishedDateTime: 2021-11-08T10:30:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-float-has-got-a-tiger-globals-pace/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/11/Journalinc-AdamDeunk-Final-7378-1.jpg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Mississippi Fintech is Innovating Small Business Lending with Brokers in Mind"
     excerpt: "Bradley Tompkins, CIO, Vergent Vergent, a loan management software, is creating a space where brokers and lenders alike can manage all aspects of a deal in one place. Based in Ridgefield, Mississippi,"
     publishedDateTime: 2021-11-03T18:52:00Z

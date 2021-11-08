@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai"
-excerpt: "(https://bit.ly/3BY8Kwp) \"We see broad application for AI and machine learning technology right across ... as it looks to match offerings from rival fintech firms. read more CBA also leads the banking sector's entry into the fast-growing Buy Now Pay ..."
-publishedDateTime: 2021-11-07T21:22:00Z
-originalUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
-webUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
+excerpt: "Commonwealth Bank of Australia said on Monday it acquired a minority stake in a Silicon Valley-based artificial intelligence (AI) firm, H2O.ai Inc, in a bid to provide smarter and personalised products to its customer base."
+publishedDateTime: 2021-11-08T09:24:00Z
+originalUrl: "https://www.channelnewsasia.com/business/australias-cba-partners-silicon-valley-artificial-intelligence-firm-h2oai-2297451"
+webUrl: "https://www.channelnewsasia.com/business/australias-cba-partners-silicon-valley-artificial-intelligence-firm-h2oai-2297451"
 type: article
-quality: 79
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/fy1Hr0OcjcfQo6t81SMK4FPVg6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34TS4M35IJKKRBSMOKLXM76LSA.jpg"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--KukTN_kZ--/c_crop%2Ch_450%2Cw_800%2Cx_0%2Cy_6/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-11-07t212021z_1_lynxmpeha609y_rtroptp_3_cba-agm-climate-blackrock.jpg?itok=psBVdlhN"
     width: 1200
-    height: 628
+    height: 676
     isCached: true
 
 related:
@@ -106,6 +102,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NNiE2elQHg38iKWmuMV/+OaMBTz96EBQmMdme2vu7tKn5CYC9XCxhUlJ3/PYmrTwBK69zpZZe4D6whXY6nR3IPeOyQgnuRtX4C9nBOhf3C7QjfGI2lQSao9U2y71UJAPJjOGFzgDjaMSykVdBw4Hale5ylLrNTXnYesRnLtGKTf13vcrHAdlJOo+XxqWPbQQZZLacHgS1CrZ3cn3U3KSMqhEYSI0Ht65WIh7swE2TYn1/dxB/dvR8MTBMgEvPBLSz6pyEQ2qjDPXIM2UrTACc06GebaDPxNynKLMtB35OxdyZZmfkcNzIGSOW8qtjJ6vBsnEOcsBpMwqEgAgNxd0dCuwsQ1zdDzemz6K0j9h13g=;/f9p/w4SYa/w6rxl/7OR0A=="
+secured: "WHwN8k5l+DX3sdazZWbIxTLMA1u28Ry4uLOoDk38snWl5+SmRXd8LnO7TywbaN++xcAqFzNfIwvk+6YYz8UpoH6VAXPd4VCD/VIYr0uKvyUaOoRqnvjREDmV2Ofl6z1myWWAYbO+oOh6ep0pnfh41403qLTrrvJtVHKLXHSLJfMYBCZq7Atk8+N0MuWeNeEGnlYWH2x1vybw/JrHQFU9RDHrlJVRUHbConL0BcLhsOk5Fy2rTj2BhFntecbXkmqRb9+I9X4h0meOZc58MsgfUaBBe5GHZroclLxwm6MUOVE8uVu1IlDOeC9hzDDc58f3pXXnH+mh7cAoSzDyH5ukR2nOyKoENImuHSt+8TqaGYU=;RFL8bayKg8DQFzsxTNvvGw=="
 ---
 

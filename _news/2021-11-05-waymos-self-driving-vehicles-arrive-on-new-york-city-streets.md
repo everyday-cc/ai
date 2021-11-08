@@ -41,20 +41,6 @@ related:
         width: 5287
         height: 2974
         isCached: true
-  - title: "Waymo to start self-driving car testing in New York City"
-    excerpt: "Waymo is purportedly going to begin testing its self-driving car and technology on the streets of New York City. Read on for more."
-    publishedDateTime: 2021-11-03T17:30:00Z
-    webUrl: "https://techaeris.com/2021/11/03/waymo-to-start-self-driving-car-testing-in-new-york-city/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 39
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2021/11/Waymo.jpg"
-        width: 1170
-        height: 724
-        isCached: true
   - title: "Waymo’s self-driving fleet is coming to New York City streets"
     excerpt: "The Google sibling company has brought a fleet of its autonomous Chrysler Pacifica vans to New York City in an effort to map the city and test its fleet in harsh weather conditions. According to a new report from Engadget,"
     publishedDateTime: 2021-11-04T13:23:00Z

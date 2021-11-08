@@ -62,20 +62,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai"
-    excerpt: "(https://bit.ly/3BY8Kwp) \"We see broad application for AI and machine learning technology right across ... as it looks to match offerings from rival fintech firms. read more CBA also leads the banking sector's entry into the fast-growing Buy Now Pay ..."
-    publishedDateTime: 2021-11-07T21:22:00Z
-    webUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 79
-    images:
-      - url: "https://www.reuters.com/resizer/fy1Hr0OcjcfQo6t81SMK4FPVg6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34TS4M35IJKKRBSMOKLXM76LSA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Australia says U.S. facial recognition software firm Clearview breached privacy law"
     excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data collected in the country after an investigation found it breached privacy laws."
     publishedDateTime: 2021-11-04T02:53:00Z
@@ -103,6 +89,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/11/clearview-ai-logo.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai"
+    excerpt: "Commonwealth Bank of Australia said on Monday it acquired a minority stake in a Silicon Valley-based artificial intelligence (AI) firm, H2O.ai Inc, in a bid to provide smarter and personalised products to its customer base."
+    publishedDateTime: 2021-11-08T09:24:00Z
+    webUrl: "https://www.channelnewsasia.com/business/australias-cba-partners-silicon-valley-artificial-intelligence-firm-h2oai-2297451"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 49
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--KukTN_kZ--/c_crop%2Ch_450%2Cw_800%2Cx_0%2Cy_6/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-11-07t212021z_1_lynxmpeha609y_rtroptp_3_cba-agm-climate-blackrock.jpg?itok=psBVdlhN"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "/UXuOvy6WVIWakoYyCapmFT6Zl4DChm9HSXqWndCVs0Bxj1yCdGX0VHxDVdiIAXaCBRMSNRpq1cC4AIrtG71yggMsoDIeJFDHDvwqN/MQXwRCZDn7Pghx7IhH3ZaPXvBTIhErgqhSZpNPTh9VoUnkXeriEQWiB3b0yn8LWzwl+RCUlVnP/FHECaMiipFsX7/5LxD/QKV2oNZ0/PAlBniUWKB0jnxXB5RjdN0MnipwtEs1znypS3W/b9e+SkWqkU/Rj+WHSPPkHueL2KNLkRDrPidGRCqsycF8N5CQSCQRRDGS5DgLypTYM1n001OdWVEWL9oimwRZejj1hl0NRR46WOBEYuyn86Z6lSi8tMCabZd8Ju1X9peyj2rsasGFEJcw8jXYX2wFAxcMaGG1NmCrrpLevcuPueA42VhtneJxLo0R0MDIZKJHh1T/JLzmTHoCPerFUnoldPzitX1VcVA+at68cLb0ERJMq39qw/UzCbg7AJXlWbAbDyX9L2/kXLDAqVJLY2px4kiUoijUGm3VQ==;HuIdMlaeGTKpc6YwqQLROg=="

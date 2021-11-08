@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 836
         isCached: true
+  - title: "Human in the Loop for AI in Healthcare"
+    excerpt: "The future of AI technologies in the healthcare sector in India seems bright, as there is a strong need for volume, scale, and accuracy, along with lo.."
+    publishedDateTime: 2021-11-08T10:43:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87585233,imgsize-1131636,width-1200,height-628,overlay-ethealthworld/human-in-the-loop-for-ai-in-healthcare.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The Bank of the Future Will Be Powered by AI"
     excerpt: "The paper, titled The Bank of the Future: How AI Will Power Ubiquitous Services and Personalised Customer Experiences, explores the key drivers fueling change in the banking space and delves into how financial institutions can leverage AI and cloud ..."
     publishedDateTime: 2021-11-08T08:45:00Z

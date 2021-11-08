@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/a-former-uber-executive-takes-a-fre
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929"
 type: article
 quality: 74
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1107
         height: 731
         isCached: true
+  - title: "Apple hires former Tesla executive to work on self-driving software - report"
+    excerpt: "Apple has hired Christopher Moore, a former engineer at Tesla, to join its self-driving car operations, Bloomberg reported, citing sources with knowledge of the matter. Apple declined to comment on the matter. Moore will work on software and report to ..."
+    publishedDateTime: 2021-11-08T10:38:00Z
+    webUrl: "https://www.telecompaper.com/news/apple-hires-former-tesla-executive-to-work-on-self-driving-software-report--1403363"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 16
   - title: "Uber, Aurora co-founder are big winners in self-driving tech company's stock debut"
     excerpt: "Two stakeholders in Aurora own more than $1 billion of the company's stock after its first day of trading as a public company #selfdriving #wallstreet"
     publishedDateTime: 2021-11-05T14:16:00Z

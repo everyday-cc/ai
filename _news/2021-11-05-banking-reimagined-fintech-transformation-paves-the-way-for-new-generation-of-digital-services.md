@@ -7,8 +7,8 @@ originalUrl: "https://www.scmp.com/presented/business/banking-finance/topics/fin
 webUrl: "https://www.scmp.com/presented/business/banking-finance/topics/fintech-solutions-banking/article/3154941/banking"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: South China Morning Post
@@ -38,15 +38,6 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 2
-  - title: "Survey of Fintech and Banking Executives Reveals Identity Authentication Risk and Customer Dissatisfaction Top List of Concerns"
-    excerpt: "AUID], a leading provider of secure, mobile, biometric authentication, today announced the findings from a survey conducted during the fintech industry conference Money 20/20. More than one-third of respondents indicated they are “highly concerned” about the risks associated with one-time passwords (OTP) and knowledge-based authentication (KBA),"
-    publishedDateTime: 2021-11-03T16:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-survey-fintech-banking-executives-reveals-identity-authentication-risk-/2021/11/03/9483507.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "4zTmEo+/sdfITJYeItJ6aIehWtX5acVoOlYyb5DwG4lQGWwZ59/Z6F3R53F219P4iuCs3DF1mpubcjooHUnmnHd7ulnG9TuDocToYTCNRvNnbzuS0URivrZdEsDuZMxzqSdj6li0OyIOPNNWIhvsIl/kRb1c1SXiy2+Nja3a7eNp/WjwJ+5otM8qU6iAMIeqxxA+8KWTnhkGJ8TuMqdn+NoYDkS8dN4pk02fYl4L9Bx7sNML12vrTZA35S8uwiRU8UxteGPRJvi/6XTrXRi5hwCxy/uOr/Jxizkw5oMBvmjv8bDzQQURq/OiIvHA4EjesQMRiVwKCYLGdlL4eeziFU08PX/0OXqdJjDgSKEzQfCxf7LcIv8FEL6pIYsxdU2hmxXWfqOHnRuqYsv4nPHstfc3Gan/OwGdjvlqtV3RxRsRlbe4hpVzV8lQjOhoWs2WxaKMhHeeT1Cm8IGObeC8jQ7eqSysx5ZPdciOs5zoM+DnldRNEAro3EjdXq+2S5/kQWIa1xGxU6LWUAKJHZBYWQ==;OEsSLefIuTe04Y9zCGF0Sg=="
 ---

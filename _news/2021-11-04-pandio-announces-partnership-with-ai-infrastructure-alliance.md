@@ -25,20 +25,6 @@ images:
 
 related:
   - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
-    excerpt: "Oracle has updated its cloud infrastructure service to include a new artificial intelligence suite of services comprising of six new tools."
-    publishedDateTime: 2021-11-07T09:07:00Z
-    webUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 41
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/oracle_dreamstime_3.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
     excerpt: "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ..."
     publishedDateTime: 2021-11-03T21:04:00Z
     webUrl: "https://www.reseller.co.nz/article/692775/oracle-bolsters-cloud-infrastructure-suite-ai-tools/?fpid=1"
@@ -50,6 +36,20 @@ related:
     images:
       - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/oracle-cloud-on-building-100730618-orig_1.jpgautowebp8570"
         width: 472
+        height: 315
+        isCached: true
+  - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
+    excerpt: "Oracle has updated its cloud infrastructure service to include a new artificial intelligence suite of services comprising of six new tools."
+    publishedDateTime: 2021-11-07T09:07:00Z
+    webUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/?fp=2&fpid=1"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/oracle_dreamstime_3.jpg"
+        width: 504
         height: 315
         isCached: true
 
