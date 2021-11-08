@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Privacy commission demands Clearview AI delete all facial recognition data collected in Australia"
-    excerpt: "Australian regulators have demanded that facial-recognition firm Clearview AI cease scraping the biometric data of Australian citizens and destroy all information and images previously gathered on"
-    publishedDateTime: 2021-11-03T20:46:00Z
-    webUrl: "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 91
-    images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2021/03/2021-03-23-ts3_thumbs-2c5.jpg"
-        width: 800
-        height: 560
-        isCached: true
   - title: "Clearview AI Forced to Cease Data Scraping Operations in Australia"
     excerpt: "Australia's national privacy regulator determined Clearview AI breached users' privacy and violated the Australian Privacy Act 1988."
     publishedDateTime: 2021-11-04T00:58:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/95da1f03aebf41e4a0369aa2ecfddc6c.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai"
+    excerpt: "(https://bit.ly/3BY8Kwp) \"We see broad application for AI and machine learning technology right across ... as it looks to match offerings from rival fintech firms. read more CBA also leads the banking sector's entry into the fast-growing Buy Now Pay ..."
+    publishedDateTime: 2021-11-07T21:24:00Z
+    webUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 79
+    images:
+      - url: "https://www.reuters.com/resizer/fy1Hr0OcjcfQo6t81SMK4FPVg6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34TS4M35IJKKRBSMOKLXM76LSA.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Commonwealth Bank of Australia announces Artificial Intelligence partnership"
     excerpt: "Australia: The Commonwealth Bank of Australia (CBA) announced its latest venture into the world of Artificial Intelligence (AI) on Monday, a..|News Track"
@@ -87,19 +85,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai"
-    excerpt: "Commonwealth Bank of Australia said on Monday it acquired a minority stake in a Silicon Valley-based artificial intelligence (AI) firm, H2O.ai Inc, in a bid to provide smarter and personalised products to its customer base."
-    publishedDateTime: 2021-11-08T09:24:00Z
-    webUrl: "https://www.channelnewsasia.com/business/australias-cba-partners-silicon-valley-artificial-intelligence-firm-h2oai-2297451"
+  - title: "H2O.ai Closes $100 Million in Funding Led by Customer Commonwealth Bank of Australia"
+    excerpt: "H2O.ai, the AI Cloud leader, today announced it has closed $100 million in Series E funding led by Australia’s largest bank, customer Commonwealth Bank of Australia (CBA). H2O.ai has now raised over $250 million and is valued at $1.7 billion. Pivot ..."
+    publishedDateTime: 2021-11-08T13:06:00Z
+    webUrl: "https://www.citizentribune.com/news/business/h2o-ai-closes-100-million-in-funding-led-by-customer-commonwealth-bank-of-australia/article_a03d1d95-5df5-5b3a-b46f-f1ffab2168f8.html"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 49
+      name: Citizen Tribune
+      domain: citizentribune.com
+    quality: 47
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--KukTN_kZ--/c_crop%2Ch_450%2Cw_800%2Cx_0%2Cy_6/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-11-07t212021z_1_lynxmpeha609y_rtroptp_3_cba-agm-climate-blackrock.jpg?itok=psBVdlhN"
-        width: 1200
-        height: 676
+      - url: "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/4/fd/4fd7ceef-23e7-50b7-b880-ac6a4bf96c0a/618923582badc.image.jpg?resize=622%2C630"
+        width: 622
+        height: 630
         isCached: true
 
 secured: "CD6Oq5EMZAUdhLi6XcfUUHZO50MA29v2qoZ+MQkO85oEAAly2KqEkB5XHM26XImnmBwXwRvYvmNN6mF/Nqlab9KABUWMASbxxnru+hlYi7AeskoMxSZbWlD5SkwHNDRNYd6g+twSTtwBNVK4eCv4OYtIpRl0eMw9xkl4Nmb2azPTT/+LFq5+IsIqht8+bQdh8ml6bm8JkS0vrGOoixWkb+Yv4riSv71VhH3obvLwpyOIi0pA4+6ZZP0DvIQHYsWmfykvPsc2ngiKHssWfL4irW2ZlM7zjvU5xerJhFpfpcc3kuMgdnz1piX76voplpjVpedOQEyEAJEFQYbRZl6zkmYoZ15ElloopS6cHK3CChU=;VVVdalTba87cHaOaBoRD/Q=="

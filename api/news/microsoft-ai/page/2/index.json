@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-10-22-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript.md",
-      "title": "International Business Machines Corporation (IBM) Q3 2021 Results - Earning Call Transcript",
-      "excerpt": "This is led by global business services in cloud and cognitive software ... the continued investments we are making in our Red Hat, Microsoft, and AWS practices. As Arvind said, we added over ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4460953-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4460953-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4460953-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4460953-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript",
-      "publishedDateTime": "2021-10-21T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-21-give-it-one-year-3-lessons-learned-from-my-azure-cloud-journey.md",
       "title": "Give It One Year: 3 Lessons Learned From My Azure Cloud Journey",
       "excerpt": "I received a Facebook memory that one year ago I passed my Azure Data Fundamentals exam. If you’d been following me you would know that it was an adventure to say the least (You can watch my proctored exam ‘experience’ video right here!",
@@ -1310,6 +1267,49 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-artificial-intelligence-ai-in-drug-discovery-market-swot-analysis-by-key-players-microsoft-atomwise-ibm.md",
+      "title": "Artificial Intelligence (AI) in Drug Discovery Market Swot Analysis by Key Players Microsoft, Atomwise, IBM",
+      "excerpt": "Latest released Global Artificial Intelligence AI in Drug Discovery Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles product service offerings market price and sales revenue to better derive market size estimation With this assesment",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
+      "originalUrl": "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/a/Ua13702630_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
+      "publishedDateTime": "2021-10-13T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

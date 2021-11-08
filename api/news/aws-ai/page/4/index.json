@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-28-comparing-aws-microsoft-and-google-cloud-cyber-security-in-the-public-cloud.md",
+      "title": "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud",
+      "excerpt": "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/",
+      "originalUrl": "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_updated_2.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026.md",
       "title": "Artificial Intelligence Chipsets Market Size Outlook, Opportunity and Demand Analysis Report by 2026",
       "excerpt": "The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms. The increasing use of social media and ecommerce platforms has further led to strong growth in data volume,",
@@ -1379,40 +1424,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-aws-to-build-new-uci-track-champions-league-data-platform-for-discovery.md",
-      "title": "AWS to build new UCI Track Champions League data platform for Discovery",
-      "excerpt": "The new AWS fan engagement platform for the UCI Track Champions League is part of new tie-up with media giant's events arm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportspromedia.com/news/aws-uci-track-champions-league-discovery-sports-events-app-cycling-amazon/?blocktaxonomy=smartseries",
-      "originalUrl": "https://www.sportspromedia.com/news/aws-uci-track-champions-league-discovery-sports-events-app-cycling-amazon/?blocktaxonomy=smartseries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SportsPro",
-        "domain": "sportspromedia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

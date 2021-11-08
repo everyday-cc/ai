@@ -47,7 +47,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/What-Happened-in-Reinforcement-Learning-in-2021.jpg"
         width: 1920

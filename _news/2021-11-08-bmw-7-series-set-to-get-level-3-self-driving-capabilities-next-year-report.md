@@ -26,6 +26,22 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Next BMW 7-Series to feature Level 3 self-driving system"
+    excerpt: "The redesigned BMW 7-Series due in 2022 is expected to launch with a true self-driving system designed for highway use."
+    publishedDateTime: 2021-11-08T13:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1134097_next-bmw-7-series-to-feature-level-3-self-driving-system"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/2023-bmw-7-series-spy-shots--photo-credits-baldauf-sb-medien_100795963_h.jpg"
+        width: 1913
+        height: 1280
+        isCached: true
+
 secured: "kx8i6Csi0uqmd63ih2gbjpxibOj2rcavVswI+MqnepU7Ss756iRaOUWtYxDJjDXEO/P4toRvfI4wEl75zUBlF77hf7afIy6psb/QicqrG1+bHqtgkeN24obQROZsPLXUK3ScpdivOtPLLaL64bxbINVeLmRYYxZpxmcsqVkMF7RjyQYUBU2CUbnRC910zWAZsNsrfj+U2j6/SSYzm6H0ejkcmU4igwsxjXGxjg/0nLFoxFeUQkE3XwpBzZEzJFWK9+xc5mnMJus4emmIZRX93lYLDf9v9beZa3FzKDR7SmD9pryPrzU8aEMsi+c4lImTiIA7n0iPBEi5OXtsG3ZWHL8/BigPR83ysLQGTcNGE2I=;px0FQvq1vZoTZUZEaxldfQ=="
 ---
 

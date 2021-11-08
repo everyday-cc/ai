@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The Future is Now: Automation, Robotics & AI are Safeguarding Energy and Utilities Industries"
+    excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
+    publishedDateTime: 2021-11-08T14:14:00Z
+    webUrl: "https://www.energylivenews.com/2021/11/08/the-future-is-now-automation-robotics-ai-are-safeguarding-energy-and-utilities-industries/"
+    type: article
+    provider:
+      name: Energy Live News
+      domain: energylivenews.com
+    quality: 58
+    images:
+      - url: "https://www.energylivenews.com/wp-content/uploads/2018/05/robotic-arm.jpg"
+        width: 720
+        height: 412
+        isCached: true
   - title: "The Bank of the Future Will Be Powered by AI"
     excerpt: "The paper, titled The Bank of the Future: How AI Will Power Ubiquitous Services and Personalised Customer Experiences, explores the key drivers fueling change in the banking space and delves into how financial institutions can leverage AI and cloud ..."
     publishedDateTime: 2021-11-08T08:45:00Z

@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-10-14-artificial-intelligence-ai-in-drug-discovery-market-swot-analysis-by-key-players-microsoft-atomwise-ibm.md",
-      "title": "Artificial Intelligence (AI) in Drug Discovery Market Swot Analysis by Key Players Microsoft, Atomwise, IBM",
-      "excerpt": "Latest released Global Artificial Intelligence AI in Drug Discovery Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles product service offerings market price and sales revenue to better derive market size estimation With this assesment",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
-      "originalUrl": "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua13702630_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
-      "publishedDateTime": "2021-10-13T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-14-microsoft-and-nvidia-partner-up-on-speech-recognition-model-training.md",
       "title": "Microsoft and Nvidia partner up on speech recognition model training",
       "excerpt": "Microsoft and Nvidia have announced a new collaboration focusing on the training of artificial intelligence-powered natural language processing models.",
@@ -1329,6 +1286,60 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.md",
+      "title": "Review: Google Cloud Vertex AI irons out ML platform wrinkles",
+      "excerpt": "Vertex AI greatly improves the integration of Google Cloud’s AI/ML platform and AutoML services, combining a new unified API with very good modeling capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.html",
+      "originalUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/10/google-cloud-vertex-ai-11-100905535-medium.jpg?auto=webp",
+          "width": 300,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.amp.html",
+      "publishedDateTime": "2021-10-04T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
       ]
     }
   ],

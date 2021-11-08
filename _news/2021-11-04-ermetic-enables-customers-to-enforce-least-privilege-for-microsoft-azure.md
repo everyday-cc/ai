@@ -7,8 +7,8 @@ originalUrl: "https://us.acrofan.com/detail.php?number=559531"
 webUrl: "https://us.acrofan.com/detail.php?number=559531"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: 아크로팬
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft offers glimpse into healthcare offerings in a digital-first workforce"
-    excerpt: "The COVID-19 pandemic accelerated digital transformation, and Mr. Nadella said Microsoft will make many of the changes it applied to Microsoft Azure during the pandemic into permanent features. Looking ahead,"
-    publishedDateTime: 2021-11-03T21:08:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-offers-glimpse-into-healthcare-offerings-in-a-digital-first-workforce.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 52
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/7.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Welbilt to Upgrade Cloud Solution through HCL Technologies and Microsoft Azure"
     excerpt: "Microsoft Azure Sphere to upgrade security in its KitchenConnect internet-connected equipment and will host the solution on Microsoft Azure through a new partnership with HCL Technologies.  Welbilt KitchenConnect is an award-winning open cloud solution that offers a digital platform for internet connected equipment in the foodservice industry."
     publishedDateTime: 2021-11-04T15:13:00Z

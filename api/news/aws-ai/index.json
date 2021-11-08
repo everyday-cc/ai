@@ -716,6 +716,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-29-analyze-video-feeds-at-the-edge-with-aws-panorama-appliance.md",
+      "title": "Analyze Video Feeds at the Edge with AWS Panorama Appliance",
+      "excerpt": "AWS announced the general availability (GA) of AWS Panorama Appliance, a new device that customers can install in their facilities to run applications that analyze multiple video streams from existing on-premises cameras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/10/aws-panorama-edge-ga/",
+      "originalUrl": "https://www.infoq.com/news/2021/10/aws-panorama-edge-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/10/aws-panorama-edge-ga/en/headerimage/generatedHeaderImage-1635348688066.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-amazon-third-quarter-earnings-live-blog.md",
       "title": "Amazon Third-Quarter Earnings Live Blog",
       "excerpt": "Among analysts polled by FactSet, the consensus is for Amazon to post Q3 revenue of $111.51 billion (up 16% Y/Y) and GAAP EPS of $8.90 (down 28% due to high spending). Amazon typically shares revenue and operating income guidance in its earnings reports.",
@@ -1402,58 +1445,6 @@
         "name": "Daily News",
         "domain": "galvnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table.md",
-      "title": "AWS wins deal to store UK spy agencies' work, brings AI to the table",
-      "excerpt": "The UK's spy agencies will move top secret data to AWS data centers and gain access to its artificial intelligence tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/",
-      "originalUrl": "https://www.zdnet.com/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/13bc191e6c7643df0b3930684177fc754f3eabc3/2021/10/06/42e4848e-e92e-4e87-9a51-fa1f779b23d9/20211006-danny-zuzana.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/",
-      "publishedDateTime": "2021-10-26T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

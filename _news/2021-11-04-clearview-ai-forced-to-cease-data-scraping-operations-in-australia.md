@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-opera
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895/amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Gizmodo
@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Privacy commission demands Clearview AI delete all facial recognition data collected in Australia"
-    excerpt: "Australian regulators have demanded that facial-recognition firm Clearview AI cease scraping the biometric data of Australian citizens and destroy all information and images previously gathered on"
-    publishedDateTime: 2021-11-03T20:46:00Z
-    webUrl: "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html"
+  - title: "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai"
+    excerpt: "(https://bit.ly/3BY8Kwp) \"We see broad application for AI and machine learning technology right across ... as it looks to match offerings from rival fintech firms. read more CBA also leads the banking sector's entry into the fast-growing Buy Now Pay ..."
+    publishedDateTime: 2021-11-07T21:24:00Z
+    webUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 91
+      name: Reuters
+      domain: reuters.com
+    quality: 79
     images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2021/03/2021-03-23-ts3_thumbs-2c5.jpg"
-        width: 800
-        height: 560
+      - url: "https://www.reuters.com/resizer/fy1Hr0OcjcfQo6t81SMK4FPVg6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34TS4M35IJKKRBSMOKLXM76LSA.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Commonwealth Bank of Australia announces Artificial Intelligence partnership"
     excerpt: "Australia: The Commonwealth Bank of Australia (CBA) announced its latest venture into the world of Artificial Intelligence (AI) on Monday, a..|News Track"
@@ -90,19 +88,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai"
-    excerpt: "Commonwealth Bank of Australia said on Monday it acquired a minority stake in a Silicon Valley-based artificial intelligence (AI) firm, H2O.ai Inc, in a bid to provide smarter and personalised products to its customer base."
-    publishedDateTime: 2021-11-08T09:24:00Z
-    webUrl: "https://www.channelnewsasia.com/business/australias-cba-partners-silicon-valley-artificial-intelligence-firm-h2oai-2297451"
+  - title: "H2O.ai Closes $100 Million in Funding Led by Customer Commonwealth Bank of Australia"
+    excerpt: "H2O.ai, the AI Cloud leader, today announced it has closed $100 million in Series E funding led by Australia’s largest bank, customer Commonwealth Bank of Australia (CBA). H2O.ai has now raised over $250 million and is valued at $1.7 billion. Pivot ..."
+    publishedDateTime: 2021-11-08T13:06:00Z
+    webUrl: "https://www.citizentribune.com/news/business/h2o-ai-closes-100-million-in-funding-led-by-customer-commonwealth-bank-of-australia/article_a03d1d95-5df5-5b3a-b46f-f1ffab2168f8.html"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 49
+      name: Citizen Tribune
+      domain: citizentribune.com
+    quality: 47
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--KukTN_kZ--/c_crop%2Ch_450%2Cw_800%2Cx_0%2Cy_6/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-11-07t212021z_1_lynxmpeha609y_rtroptp_3_cba-agm-climate-blackrock.jpg?itok=psBVdlhN"
-        width: 1200
-        height: 676
+      - url: "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/4/fd/4fd7ceef-23e7-50b7-b880-ac6a4bf96c0a/618923582badc.image.jpg?resize=622%2C630"
+        width: 622
+        height: 630
         isCached: true
 
 secured: "/UXuOvy6WVIWakoYyCapmFT6Zl4DChm9HSXqWndCVs0Bxj1yCdGX0VHxDVdiIAXaCBRMSNRpq1cC4AIrtG71yggMsoDIeJFDHDvwqN/MQXwRCZDn7Pghx7IhH3ZaPXvBTIhErgqhSZpNPTh9VoUnkXeriEQWiB3b0yn8LWzwl+RCUlVnP/FHECaMiipFsX7/5LxD/QKV2oNZ0/PAlBniUWKB0jnxXB5RjdN0MnipwtEs1znypS3W/b9e+SkWqkU/Rj+WHSPPkHueL2KNLkRDrPidGRCqsycF8N5CQSCQRRDGS5DgLypTYM1n001OdWVEWL9oimwRZejj1hl0NRR46WOBEYuyn86Z6lSi8tMCabZd8Ju1X9peyj2rsasGFEJcw8jXYX2wFAxcMaGG1NmCrrpLevcuPueA42VhtneJxLo0R0MDIZKJHh1T/JLzmTHoCPerFUnoldPzitX1VcVA+at68cLb0ERJMq39qw/UzCbg7AJXlWbAbDyX9L2/kXLDAqVJLY2px4kiUoijUGm3VQ==;HuIdMlaeGTKpc6YwqQLROg=="

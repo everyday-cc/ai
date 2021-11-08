@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-26-extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store.md",
+      "title": "Extend model lineage to include ML features using Amazon SageMaker Feature Store",
+      "excerpt": "Feature engineering is expensive and time-consuming, which may lead you to adopt a feature store for managing features across teams and models. Unfortunately, machine learning (ML) lineage solutions have yet to adapt to this new concept of feature management. To achieve the full benefits of a feature",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/21/ML-6028-image001.png",
+          "width": 861,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T14:11:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-how-machine-learning-speeds-up-power-bi-reports.md",
+      "title": "How machine learning speeds up Power BI reports",
+      "excerpt": "Machine learning delivers insights in Power BI reports—and it enables you to get a large amount of data into your reports to generate those insights more quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "originalUrl": "https://www.techrepublic.com/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/26/474c6c29-95d0-40b3-858b-07d93a25467f/resize/1200x/d5131a4c50e74c49613e984987cbbda4/shutterstock-1062915260.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "publishedDateTime": "2021-10-26T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-artificial-intelligence-models-predict-how-the-brain-processes-language.md",
       "title": "Artificial Intelligence Models Predict How the Brain Processes Language",
       "excerpt": "Neuroscientists find the internal workings of next-word prediction models resemble those of language-processing centers in the brain.",
@@ -1207,102 +1312,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-how-data-analytics-and-machine-learning-are-driving-value-in-aws.md",
-      "title": "How data analytics and machine learning are driving value in AWS",
-      "excerpt": "As organizations process petabytes of data on architectures designed to handle gigabytes, it’s becoming apparent that a shift in data architecture is needed to handle this volume. Companies with the 5 essential characteristics of data-driven organizations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bitpipe.com/detail/RES/1632786997_410.html",
-      "originalUrl": "https://www.bitpipe.com/detail/RES/1632786997_410.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/bitpipe/covers/1632786997_410_lg.jpg",
-          "width": 315,
-          "height": 237,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bitpipe",
-        "domain": "bitpipe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-singapore-based-geniebooks-personalized-learning-platform-raises-166m-series-a.md",
-      "title": "Singapore-based Geniebook’s personalized learning platform raises $16.6M Series A",
-      "excerpt": "Geniebook is a Singapore-based learning platform that uses a combination of machine learning and human teacheres to personalize each student’s education. The company announced today it has raised $16.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/",
-      "originalUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Geniebook_iPhone_iPad_Interface-copy.jpg?w=1000",
-          "width": 1000,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/amp/",
-      "publishedDateTime": "2021-10-18T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

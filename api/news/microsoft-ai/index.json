@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-04-ermetic-enables-customers-to-enforce-least-privilege-for-microsoft-azure.md",
-      "title": "Ermetic Enables Customers to Enforce Least Privilege for Microsoft Azure",
-      "excerpt": "Cloud Infrastructure Security Platform Detects and Remediates Excessive Privileges in Azure Active Directory Privileged Identity Management ServicePALO ALTO, Calif. & TEL AVIV, Israel--(BUSINESS WIRE)--#Azure--Ermetic,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=559531",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=559531",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-04-ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant.md",
       "title": "CEO Mike Betzer’s Triple Play At Enterprise AI Firm Hypergiant",
       "excerpt": "We think data scientists are the cool kids of the future, and we're going to enable them to do what they want to do best, which is to show value in this data.",
@@ -1436,6 +1393,49 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript.md",
+      "title": "International Business Machines Corporation (IBM) Q3 2021 Results - Earning Call Transcript",
+      "excerpt": "This is led by global business services in cloud and cognitive software ... the continued investments we are making in our Red Hat, Microsoft, and AWS practices. As Arvind said, we added over ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4460953-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4460953-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4460953-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4460953-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript",
+      "publishedDateTime": "2021-10-21T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

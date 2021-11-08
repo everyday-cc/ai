@@ -2,6 +2,249 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-05-suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage.md",
+      "title": "SUNY Polytechnic leaders explain causes, solutions behind chip shortage",
+      "excerpt": "Computer chips are a hard find in pandemic times, but it’s not the materials in short supply — it’s the manpower. “Silicon is one of the most abundant elements",
+      "sourceUrl": null,
+      "webUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/",
+      "originalUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news10.com/wp-content/uploads/sites/64/2021/11/SUNY-POLY-STILL.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/amp/",
+      "publishedDateTime": "2021-11-04T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTEN",
+        "domain": "news10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-self-driving-company-aurora-makes-nasdaq-debut.md",
+      "title": "Self driving company Aurora makes Nasdaq debut",
+      "excerpt": "In another highly-anticipated IPO, self-driving technology company Aurora Innovation (AUR) made it’s Nasdaq debut today. The company merged in October with Reinvent Technology Partners Y (RTPY), a special purpose acquisition company (SPAC) led by LinkedIn co-founder Reid Hoffman and Zynga founder Mark Pincus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/self-driving-company-aurora-makes-nasdaq-debut/",
+      "originalUrl": "https://www.therobotreport.com/self-driving-company-aurora-makes-nasdaq-debut/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/11/aurora-nasdaq-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450.md",
+      "title": "Report: Enterprise use of AI to predict cash flow expected to increase 450%",
+      "excerpt": "To sharpen cash forecasting capabilities, today's enterprises are embracing AI and machine learning for greater automation and efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/",
+      "originalUrl": "https://venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/pricing-1-e1635876555154.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/amp/",
+      "publishedDateTime": "2021-11-04T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-amazon-vets-land-10m-for-whylabs-a-seattle-startup-that-monitors-machine-learning-models.md",
+      "title": "Amazon vets land $10M for WhyLabs, a Seattle startup that monitors machine learning models",
+      "excerpt": "WhyLabs, a spinout from the Seattle’s Allen Institute for Artificial Intelligence (AI2), raised $10 million and released a new tool to support machine learning applications. The problem:",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/",
+      "originalUrl": "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/04/Alessya-Visnjic-280x300.jpeg",
+          "width": 280,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/amp/",
+      "publishedDateTime": "2021-11-04T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-is-metas-facial-recognition-retreat-another-head-fake.md",
+      "title": "Is Meta’s Facial Recognition Retreat Another Head Fake?",
+      "excerpt": "Facebook, oops, Meta — boy, this is going to take some getting used to — announced this week that it would end its decade-old facial recognition system and delete the face dat",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html",
+      "originalUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/11/04/opinion/04Swisher-image/04Swisher-image-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html",
+      "publishedDateTime": "2021-11-04T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-pamela-mccorduck-historian-of-artificial-intelligence-dies-at-80.md",
       "title": "Pamela McCorduck, Historian of Artificial Intelligence, Dies at 80",
       "excerpt": "She interviewed many of the scientists who were at the heart of the field through the end of the 1970s, and she compiled a groundbreaking history of its early years.",
@@ -578,49 +821,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-04-ermetic-enables-customers-to-enforce-least-privilege-for-microsoft-azure.md",
-      "title": "Ermetic Enables Customers to Enforce Least Privilege for Microsoft Azure",
-      "excerpt": "Cloud Infrastructure Security Platform Detects and Remediates Excessive Privileges in Azure Active Directory Privileged Identity Management ServicePALO ALTO, Calif. & TEL AVIV, Israel--(BUSINESS WIRE)--#Azure--Ermetic,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=559531",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=559531",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-04-ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant.md",
       "title": "CEO Mike Betzer’s Triple Play At Enterprise AI Firm Hypergiant",
       "excerpt": "We think data scientists are the cool kids of the future, and we're going to enable them to do what they want to do best, which is to show value in this data.",
@@ -918,6 +1118,57 @@
       ]
     },
     {
+      "path": "_news/2021-11-04-clearview-ai-forced-to-cease-data-scraping-operations-in-australia.md",
+      "title": "Clearview AI Forced to Cease Data Scraping Operations in Australia",
+      "excerpt": "Australia's national privacy regulator determined Clearview AI breached users' privacy and violated the Australian Privacy Act 1988.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895",
+      "originalUrl": "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/95da1f03aebf41e4a0369aa2ecfddc6c.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895/amp",
+      "publishedDateTime": "2021-11-03T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy.md",
       "title": "TuSimple aims to test self-driving trucks on public roads without human safety operator by EOY",
       "excerpt": "Self-driving trucks startup TuSimple signaled it is close to testing its system without a human safety operator on public roads before the end of the year. During the startup’s third-quarter earnings call on Wednesday,",
@@ -966,265 +1217,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-how-adobe-uses-deep-learning-to-improve-its-products.md",
-      "title": "How Adobe uses deep learning to improve its products",
-      "excerpt": "Adobe is leveraging deep learning to improve its apps and solidify its position in the video and image editing market.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/",
-      "originalUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/amp/",
-      "publishedDateTime": "2021-11-03T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025.md",
-      "title": "Cloud datacenters anticipated to become largely robot-dependent by 2025",
-      "excerpt": "In a strong endorsement to the value of artificial intelligence and machine learning, research firm Gartner predicts that half of cloud datacenters will be leveraging advanced robots by 2025. Gartner believes these AI-centered deployments will ramp up the operating efficiency of datacenters by a margin of 30%.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/",
-      "originalUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/human_robot_collaboration-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/amp/",
-      "publishedDateTime": "2021-11-03T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-privacy-commission-demands-clearview-ai-delete-all-facial-recognition-data-collected-in-australia.md",
-      "title": "Privacy commission demands Clearview AI delete all facial recognition data collected in Australia",
-      "excerpt": "Australian regulators have demanded that facial-recognition firm Clearview AI cease scraping the biometric data of Australian citizens and destroy all information and images previously gathered on",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "originalUrl": "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/03/2021-03-23-ts3_thumbs-2c5.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "publishedDateTime": "2021-11-03T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-waymo-will-start-operating-in-new-york-city.md",
-      "title": "Waymo will start operating in New York City",
-      "excerpt": "Waymo will start testing its self-driving vans in New York City on November 4th, helping it prepare for heavy traffic and snow..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-self-driving-cars-new-york-city-130044539.html",
-      "originalUrl": "https://www.engadget.com/waymo-self-driving-cars-new-york-city-130044539.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/0a2fefa0-3c1b-11ec-bfeb-09e0beaa0f08",
-          "width": 5287,
-          "height": 2974,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html",
-      "publishedDateTime": "2021-11-03T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-eric-schmidt-ai-is-not-ready-to-make-profound-decisions.md",
-      "title": "Eric Schmidt: AI is not ready to make profound decisions",
-      "excerpt": "Former Google CEO Eric Schmidt says reliance on artificial intelligence \"can create incredibly dangerous, incredibly destabilizing national security scenarios.\" MIT Dean Daniel Huttenlocher, who co-authored a new book on AI with Schmidt and Henry Kissinger,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness",
-      "originalUrl": "https://www.cnn.com/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/211103115423-eric-schmidt-daniel-huttenlocher-artifical-intelligence-ethics-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness",
-      "publishedDateTime": "2021-11-03T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

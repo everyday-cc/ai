@@ -39,20 +39,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Microsoft offers glimpse into healthcare offerings in a digital-first workforce"
-    excerpt: "The COVID-19 pandemic accelerated digital transformation, and Mr. Nadella said Microsoft will make many of the changes it applied to Microsoft Azure during the pandemic into permanent features. Looking ahead,"
-    publishedDateTime: 2021-11-03T21:08:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-offers-glimpse-into-healthcare-offerings-in-a-digital-first-workforce.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 52
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/7.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "A+OggzdzmZckO6XNM1Ra5oukHbc0O6lw8ljmpXtEWp6gvoEWezd/E+lXA6EskkmILJA+YyUN6Hp1fWoaAawFhwHE2o84zjZZsP1lj/CaantEx7CjoClinYeShao0bDB2OupQSaoGfAcwE+gImjWzvuis7Bq1ged+GhjN+ooc4vrYWa89VHuWNSoBJre+pUCygLOGM6sN7L1RpuxiVgH/mT6LzEdglm6XyHkuI7Hw2dt7bRUX3MKmi95+q5MEkJoo7M8FXJu0lw9qy/3N0sIAv3KfCagGWjx+LJUuYVXkdv7gIQdnyb8vXQcBJYH6T5p8VqK/i6zF0ECEVyLwt5BP0cdyOhUgS724Dlaw8qgO4eaVBcQN6rvvfBet+hdFwjcTv23qiiuHxFI16IV6UWFO62TVfHMZNz4Gonlmi0pfLueaMmn4wusKPg3bsCDHwSzDK80LNe4O7pPHYcCh1TmdZ0dxQmrj18659PleHCuNfFWyjx01mrECo39wTQmNodWP7KM9rk5BHL+3g7zkKEP/YA==;3V1RYxmCkw94LHjMREX3uw=="
 ---

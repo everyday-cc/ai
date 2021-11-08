@@ -2,6 +2,281 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-10-19-how-deep-learning-is-shaping-the-future-of-content-production.md",
+      "title": "How Deep Learning Is Shaping The Future Of Content Production",
+      "excerpt": "What role will synthetic media play, and what trends are exploding on the market of deep learning products? This article will highlight the main changes that AI/ML is bringing about in the modern media environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616d7d4eb2706e2abb1463cf%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/amp/",
+      "publishedDateTime": "2021-10-19T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-virtana-platform-now-available-in-aws-marketplace.md",
+      "title": "Virtana Platform Now Available In AWS Marketplace",
+      "excerpt": "Visit the Virtana Platform AWS Marketplace profile to learn ... and multi-cloud environments. Using artificial intelligence for IT operations (AIOps) technologies, including machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/virtana-platform-now-available-in-aws-marketplace-301402779.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/virtana-platform-now-available-in-aws-marketplace-301402779.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1245497/Virtana__Logo.jpg?p=facebook",
+          "width": 864,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-mage-aims-to-be-the-stripe-for-ai-raises-63m-for-developer-tools-to-build-ai-into-apps.md",
+      "title": "Mage aims to be the ‘Stripe for AI;’ raises $6.3M for developer tools to build AI into apps",
+      "excerpt": "Product developers want to use AI, but don't always have the right tools to do it without relying on data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/",
+      "originalUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Mage-team-photo-1.jpg?w=1024",
+          "width": 1024,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/amp/",
+      "publishedDateTime": "2021-10-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-artificial-networks-learn-to-smell-like-the-brain.md",
+      "title": "Artificial networks learn to smell like the brain",
+      "excerpt": "Using machine learning, a computer model can teach itself to smell in just a few minutes. When it does, researchers have found, it builds a neural network that closely mimics the olfactory circuits that animal brains use to process odors.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-10-artificial-networks-brain.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-10-artificial-networks-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-networks-le.jpg",
+          "width": 792,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-10-artificial-networks-brain.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-artificial-networks-brain.amp",
+      "publishedDateTime": "2021-10-19T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-wejo-integrates-with-microsoft-mapping-services-to-provide-real-time-transportation-data.md",
+      "title": "Wejo Integrates With Microsoft Mapping Services to Provide Real-Time Transportation Data",
+      "excerpt": "Wejo, a global leader in connected vehicle data, today announced an expanded collaboration with Microsoft through which Wejo's real-time mapping and traffic data will be integrated with Microsoft mapping services to deliver enhanced accuracy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20053150.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20053150.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-happiest-minds-included-in-now-tech-robotic-process-automation-services-analyst-report.md",
+      "title": "Happiest Minds included in Now Tech: Robotic Process Automation Services analyst report",
+      "excerpt": "Born Agile', Mindful IT Company, today announced being included in the Forrester Now Tech: Robotic Process Automation Services ... Tibco and RPA products of Microsoft, UiPath, Blueprism ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/happiest-minds-included-in--now-tech-robotic-process-automation-services-analyst-report-301403108.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/happiest-minds-included-in--now-tech-robotic-process-automation-services-analyst-report-301403108.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1327416/Happiest_Minds_Logo.jpg?p=facebook",
+          "width": 1497,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-cybersecurity-data-monitoring-platform-queryai-secures-15m.md",
       "title": "Cybersecurity data monitoring platform Query.ai secures $15M",
       "excerpt": "Query, a startup providing a security monitoring plane for enterprises, has raised $15 million in a venture funding round.",
@@ -858,295 +1133,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-accelerating-the-discovery-of-new-materials-for-3d-printing.md",
-      "title": "Accelerating the discovery of new materials for 3D printing",
-      "excerpt": "The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes, has created more demand for new 3D printing materials designed for",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/accelerating-materials-3d-printing-1015",
-      "originalUrl": "https://www.chemeurope.com/en/news/1173177/accelerating-the-discovery-of-new-materials-for-3d-printing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/MIT-Accelerating-Materials-01-Press.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CHEMIE.DE Information Service GmbH",
-        "domain": "chemeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia.md",
-      "title": "Lost in translation: Language barrier is hurting commercialisation in Australia",
-      "excerpt": "It's hard to collaborate when industry want to get straight to the point and academics rely on lengthy research papers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
-      "originalUrl": "https://www.zdnet.com/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b6720e60a46b7b4223f6c02fb97515471eb6e217/2018/04/05/ebb87ff9-14b6-4a39-a906-ad4a7a5b31b9/istock-625736338.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
-      "publishedDateTime": "2021-10-18T22:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-convegenius-ai-indias-leading-edtech-startup-raises-5m-usd-pre-series-a-for-mass-market-direct-to-consumer-expansion-to-serve-100m-households.md",
-      "title": "ConveGenius AI, India’s Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households",
-      "excerpt": "ConveGenius has raised $5M USD in Venture Capital funding to grow its conversational AI platform in India and South-East Asian markets. The company first launched its conversational AI platform in 2020 with a focus on providing a tailor-fit EdTech solution that offers an adaptive Whatsapp-based learning system for K-12 students from lower tier cities,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-the-roi-of-ai-will-it-deliver-real-value.md",
-      "title": "The ROI of AI: Will it deliver real value?",
-      "excerpt": "AI is not just a platform to be purchased and implemented. It is a fundamental shift in the way digital systems operate and are managed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/",
-      "originalUrl": "https://venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ai-money_-shutterstock_592403636-e1626678216479.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/amp/",
-      "publishedDateTime": "2021-10-18T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias.md",
-      "title": "Achieving Instagram Growth In The Age Of AI And Algorithmic Bias",
-      "excerpt": "Over the last few years, it has become clear that Instagram has an algorithmic bias towards certain accounts. Marginalized groups such as LGBTQIA+ and BIPOC have repeatedly been vocal about seeing their reach shrink significantly under the current system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/18/achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/18/achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616e3afe547346c9dd22f01e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2832%26cropY1%3D706%26cropY2%3D2299",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/18/achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/18/achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias/amp/",
-      "publishedDateTime": "2021-10-18T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics.md",
-      "title": "Data intelligence provider Alation acquires AI insights company Lyngo Analytics",
-      "excerpt": "Data intelligence firm Alation has acquired AI data insights company Lyngo Analytics, citing more presence in enterprise data culture.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/",
-      "originalUrl": "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/",
-      "publishedDateTime": "2021-10-18T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
