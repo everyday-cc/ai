@@ -59,6 +59,22 @@ related:
         width: 626
         height: 352
         isCached: true
+  - title: "Team 8 Takes Refreshing Approach to Driving Business Development, Fintech"
+    excerpt: "Team 8, an Israeli venture group, has a unique recipe for success, its vice president for business development and Fintech Galia Beer Gabel said. A lawyer by training, Beer Gabel moved into a business"
+    publishedDateTime: 2021-11-08T11:01:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 43
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/11/Galia-Beer-Gabel-smalll.jpeg"
+        width: 1600
+        height: 1608
+        isCached: true
   - title: "How the Bank of England Is Embracing Fintech Innovation"
     excerpt: "During her keynote address at the FinTech & InsurTech Live event, Tangy Morgan, an independent BoE advisor, discussed how the central bank's innovations"
     publishedDateTime: 2021-11-07T09:17:00Z
@@ -100,20 +116,6 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2021/11/Journalinc-AdamDeunk-Final-7378-1.jpg"
         width: 1050
         height: 700
-        isCached: true
-  - title: "Mississippi Fintech is Innovating Small Business Lending with Brokers in Mind"
-    excerpt: "Bradley Tompkins, CIO, Vergent Vergent, a loan management software, is creating a space where brokers and lenders alike can manage all aspects of a deal in one place. Based in Ridgefield, Mississippi,"
-    publishedDateTime: 2021-11-03T18:52:00Z
-    webUrl: "https://debanked.com/2021/11/mississippi-fintech-is-innovating-small-business-lending-with-brokers-in-mind/"
-    type: article
-    provider:
-      name: deBanked
-      domain: debanked.com
-    quality: 21
-    images:
-      - url: "https://debanked.com/wp-content/uploads/2021/11/BradleyTompkins.jpg"
-        width: 500
-        height: 500
         isCached: true
 
 secured: "c2M9i4q8akZDtMIBNxlxknUASCp9c4/N88ySksaWK0oU5I7A9fJGx5g0AcoCX3GHLfsonfSiSM2v4W/MSUukUf0jIdHPxR+nCZF0vDFIImbtQRgfVXJvUG5li4l/d7z7KkAOO3lThH6Ryj9ml8bC2Oq03Z2fRORIFsqnzJeiMOArAudAKPyR/tJvoNuwbFA6eBitrOusGC+n0GsVA20lskxyetv3Zt/4Ub4jLF7wvkDI9WYjwCSocNuRgVEm7AFGTqZjE3geXDeLFe9I5js8P0OtBO5msuw67xOQsZ+vuHYO0EupTfjQfeW54POL0vfpQRbr9bewVbTu5N8FPqsYayDiHUQJaoyOvcGXaOiOMpuUXCJnIUoVkyMSkP1eKhm/tP2ijztxWXY61twyXBLHhhrMHB5X1GYoUNk//3kmqmK7Nn1w33cDAXwTwIjcjE66HMxaKfgut++EWbYL1SbInTGTyLu8o02bGk5J4+jrgC11WxfOPyyJfah3dN3iK9Vy762xKBp85W0gjdXfMm08Bg==;xR+epReyfagp9bktH/nM4g=="

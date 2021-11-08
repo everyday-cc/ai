@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public-self-driving-test?_amp=true"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/02/apple-carplay-carkey.jpg"
         width: 798
         height: 365
-        isCached: true
-  - title: "Tesla’s ‘full self-driving’ delights and annoys with Jekyll-and-Hyde personality, drivers say"
-    excerpt: "By Matt McFarland, CNN Business Drivers with Tesla’s “full self-driving” software often don’t know what their cars will do next. Tesla owners have been wowed by their cars’ new abilities, but some say they have also been alarmed and frustrated by the accompanying flaws."
-    publishedDateTime: 2021-11-03T18:57:00Z
-    webUrl: "https://ktvz.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 28
-    images:
-      - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "zVktFICwJVj9Z5olWaJ3NZAKZmvLN4SFoqZepbXszgIGhSTJ8jyVwqtU8drmzfzWlhQoan8yp1eCnL4tiDSQAdat717YmxSOEdRVbZEoxwjNZRYtEe59zS4hru2HFhMizy+9BJwY4BMnyCjatSyON7FlKPjpSPiZTadsDm3jhouNOew/jKCYn/ryRl/vub2hNjemwU4uHgklEiYNXO4WdEiJoP51lvpMD9zRnTjz2n9ERAPn0A/flIlkaw3CVi+4tKU7kkjW9R/kDW4Ct9ah6jCuI3SCyy4IU4pEXaDQ8nfycEIPi4mcZ8RY/tMg5tPBiNwAqQH0KvpDdJiqDUpRgBEhRPqOk47s/e8NYK98W7wP+N2ftZTnv7kxFOKH6V9lHnmwJM7klKNZxdF+dMxZNZHyri1+u57MUW/zAyUp+/6C34ev/ixPA0aDTZexQzMyMpJITs9LvUrJHAhEQub0yqJeVAgj4wGlukJ9+Hj1vJ07nSLRC/3ghhD8t+xOb0OU7YtSrWbaI0U5OMMeodEeMg==;ObTIaW68p3W2pxU/XCCIig=="

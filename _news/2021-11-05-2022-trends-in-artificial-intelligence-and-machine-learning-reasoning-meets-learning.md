@@ -39,6 +39,20 @@ related:
         width: 929
         height: 500
         isCached: true
+  - title: "What Happened in Reinforcement Learning in 2021"
+    excerpt: "2021 saw innovations in the reinforcement learning space in the robotics, gaming , sequential decision making space amidst growing curiosity among students and professionals."
+    publishedDateTime: 2021-11-08T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/what-happened-in-reinforcement-learning-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/What-Happened-in-Reinforcement-Learning-in-2021.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "rAMVsQ58VtLcnnpyTXi2QIvMHxkO+Hy0u+TwT/kHzBwWW5QOY3OVazFA1nPH10c8DsM8dHNe6slKNndZXIcZDGlam9a3asofssRDoy6Ni7g7O5nRuaxXxA8BPDrpYs406o1NnqBH/slFQzCYvuqXsBlaKmrk5q/LnGZIFmQWI7cazfJPkxBdwZKr00GQCQoe9cYqb1CQfytNrdPt1wmqxuzA6sX3x9T0z6Pcar940ilfaKYl2vTUurXSdlk0nWuvz/SlP4+vXNZiYvjla+yDyUUXTRBdAjVfylN7Kbcmbs4fTd6axuaWQjxedsfBcQVxMSsDDBqp+IRzT0Rg8UvY6vVXLU5zO7O+xxhkCpS8jEPGlHgpL32Fsc4yc/O7iZFuqJVJeUCp8vMa7G/73NinanEE9pTTFCOd+XPWCam+MRJkC4c4mNjXHUJ4+dsyWx+QCHw60HdE7Bg4+aCgdveL20AZ8TV2EbtonaSBaB7rQmqCMtmnJR1YHALabFqkjkJBmUEkgxD6vUlsAV7hIZN8nw==;SgZY9avYjqyXAD3tLsd2OQ=="
 ---

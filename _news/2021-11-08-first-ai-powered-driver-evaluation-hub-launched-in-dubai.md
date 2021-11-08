@@ -40,6 +40,20 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Dubai First taps flybits and Mastercard for AI-based personal services"
+    excerpt: "Dubai First, which offers consumer services under First Abu Dhabi Bank (FAB), and Mastercard introduced an experiential consumer engagement platform for the first time in the Middle East and Africa region."
+    publishedDateTime: 2021-11-08T11:34:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90142/dubai-first-taps-flybits-and-mastercard-for-ai-based-personal-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "BLyWcmj0OOP4v5DnLQ3r7zIKfe9V9olkNt58EsVefQFxLp36RkgFTraURsQjzwOuknRuDwzkPZKhqon2fE9C21zNhdn5ixJzCzUPSNGF5mbnIwQJTIAsB+42dF87f6CsQKuQy1Licn0znXnVOf+xEbNLNSE47l3Fk7y0IxVB1wGW5NQ4Btxlma+LtDHiFUlc/TVTTfaX2h6xkFZ+80Hxg/ESn3b8bTtOB7Dh1SNbb2NqdIpCuYoPpgAm7rf2rU25UKHyuOQP1zosIw5r+voTQ9ycBThLpkVBmyKf21vk7w9TklOPMcaJVoQXW5B9ou7FKQje2un3F4WitwQsiXG2oANJoNE+uuD2YEkTRCH7TTo=;8KebhrtPyHBIajCmI3Apfg=="
 ---

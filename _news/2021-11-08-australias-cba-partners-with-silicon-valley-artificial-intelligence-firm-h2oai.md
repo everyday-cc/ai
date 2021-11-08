@@ -57,21 +57,21 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Australia says facial recognition software firm Clearview breached privacy law"
-    excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data"
-    publishedDateTime: 2021-11-03T18:03:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/australia-says-facial-recognition-software-firm-clearview-breached-pri-rcna4476"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna4476"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna4476"
+  - title: "Commonwealth Bank of Australia announces Artificial Intelligence partnership"
+    excerpt: "Australia: The Commonwealth Bank of Australia (CBA) announced its latest venture into the world of Artificial Intelligence (AI) on Monday, a..|News Track"
+    publishedDateTime: 2021-11-08T12:32:00Z
+    webUrl: "https://english.newstracklive.com/news/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 85
+      name: News Track
+      domain: newstracklive.com
+    quality: 71
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-11/211103-one-time-use-clearview-ai-se-200p-cadd54.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://media.newstrack.in/uploads/latest-news/world-news/Nov/08/big_thumb/commonWealth_618918bf8cac0.jpg"
+        width: 631
+        height: 450
         isCached: true
   - title: "Australia says U.S. facial recognition software firm Clearview breached privacy law"
     excerpt: "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data collected in the country after an investigation found it breached privacy laws."
@@ -102,6 +102,6 @@ related:
         height: 630
         isCached: true
 
-secured: "WHwN8k5l+DX3sdazZWbIxTLMA1u28Ry4uLOoDk38snWl5+SmRXd8LnO7TywbaN++xcAqFzNfIwvk+6YYz8UpoH6VAXPd4VCD/VIYr0uKvyUaOoRqnvjREDmV2Ofl6z1myWWAYbO+oOh6ep0pnfh41403qLTrrvJtVHKLXHSLJfMYBCZq7Atk8+N0MuWeNeEGnlYWH2x1vybw/JrHQFU9RDHrlJVRUHbConL0BcLhsOk5Fy2rTj2BhFntecbXkmqRb9+I9X4h0meOZc58MsgfUaBBe5GHZroclLxwm6MUOVE8uVu1IlDOeC9hzDDc58f3pXXnH+mh7cAoSzDyH5ukR2nOyKoENImuHSt+8TqaGYU=;RFL8bayKg8DQFzsxTNvvGw=="
+secured: "Rv+Om8siOZCfMZ3rzxt8nSCFUkslzgifG9fCMBDk+a9TfCLN3BFy/ar6xYJgVkzDfzC1gcwD9/az57o3WbomP9GggqBLt/4f31KtOf6me/GTkDdA609mvRf0v898nBe+EvUn6XKq9AzGLRSScdY9bqcL+QvQhTnPZSHPQZShgSqALavhbdemF/K1avroO5OYfYii23oYGr19TM87hxFxBi+BV889P/OpKNht6sgrrx0Yi2pPeO+MAFlVftos+rwqYqAtSzDt9THeTPjiquoHZeLVWuSoM77BCUCT6qj2J4NrAq/J6wQzKsIgxaNyBXQhwnpUuhUqIX9s+TZW/LCvZuoOSSEbvzBDu56E4OBHHRpgamKAOQ3sAuVBGNtitRH8+kaaG6FYfxO/KyGdGEh1GuJ8Si76vJZwPi4+JXVs+qEiibNrDmdNqAapiPb4980VbnBwrE8lhAAQ/uee1ilXmiALop8x1LL3U9sCmBmkqWAs6T0lYoXGgzix1kQlHMZPoCpSef+jX8JOEN0dYZTQcg==;MT6IdeHpnJ3SxHQXztGF8w=="
 ---
 

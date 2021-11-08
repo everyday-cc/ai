@@ -47,22 +47,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Tencent pushes beyond online content, unveils first AI chips"
-    excerpt: "Tencent has unveiled its first chips, showcasing a yearlong foray into silicon design as the Chinese tech giant seeks to grow beyond digital entertainment."
-    publishedDateTime: 2021-11-03T19:27:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/11/03/1600x900/CHINA-GAMES-HUAWEI-TENCENT-HOLDINGS-2_1635926062591_1635926076330.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Tencent chip initiatives detailed, providing a glimpse at China's semiconductor industry"
     excerpt: "Countries all around the world are working toward becoming technological powerhouses, though few are pushing as hard as China. Tencent's recent R&D reveals are a taste of what's in development in the eastern nation."
     publishedDateTime: 2021-11-04T19:12:00Z

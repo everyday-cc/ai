@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tencent pushes beyond online content, unveils first AI chips"
-    excerpt: "Tencent has unveiled its first chips, showcasing a yearlong foray into silicon design as the Chinese tech giant seeks to grow beyond digital entertainment."
-    publishedDateTime: 2021-11-03T19:27:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tencent-pushes-beyond-online-content-unveils-first-ai-chips-71635925916846.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/11/03/1600x900/CHINA-GAMES-HUAWEI-TENCENT-HOLDINGS-2_1635926062591_1635926076330.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Tencent launches three self-designed chips in expansion drive, helping boost China’s semiconductor development efforts"
     excerpt: "Internet giant Tencent unveiled on Wednesday its Zixiao artificial intelligence chip, Canghai video transcoding device and Xuanling network interface controller."
     publishedDateTime: 2021-11-03T21:30:00Z

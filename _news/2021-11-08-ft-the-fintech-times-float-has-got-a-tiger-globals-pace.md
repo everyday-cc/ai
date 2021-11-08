@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 1277
         isCached: true
+  - title: "Team 8 Takes Refreshing Approach to Driving Business Development, Fintech"
+    excerpt: "Team 8, an Israeli venture group, has a unique recipe for success, its vice president for business development and Fintech Galia Beer Gabel said. A lawyer by training, Beer Gabel moved into a business"
+    publishedDateTime: 2021-11-08T11:01:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 43
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/11/Galia-Beer-Gabel-smalll.jpeg"
+        width: 1600
+        height: 1608
+        isCached: true
   - title: "How the Bank of England Is Embracing Fintech Innovation"
     excerpt: "During her keynote address at the FinTech & InsurTech Live event, Tangy Morgan, an independent BoE advisor, discussed how the central bank's innovations"
     publishedDateTime: 2021-11-07T09:17:00Z
@@ -101,21 +117,7 @@ related:
         width: 540
         height: 720
         isCached: true
-  - title: "Mississippi Fintech is Innovating Small Business Lending with Brokers in Mind"
-    excerpt: "Bradley Tompkins, CIO, Vergent Vergent, a loan management software, is creating a space where brokers and lenders alike can manage all aspects of a deal in one place. Based in Ridgefield, Mississippi,"
-    publishedDateTime: 2021-11-03T18:52:00Z
-    webUrl: "https://debanked.com/2021/11/mississippi-fintech-is-innovating-small-business-lending-with-brokers-in-mind/"
-    type: article
-    provider:
-      name: deBanked
-      domain: debanked.com
-    quality: 21
-    images:
-      - url: "https://debanked.com/wp-content/uploads/2021/11/BradleyTompkins.jpg"
-        width: 500
-        height: 500
-        isCached: true
 
-secured: "c2yl1J5/ScS99+u87QMUbsMR/yqfD4aqRZ5fFVl7wHkVBJqK9QvSO/P9cyEXOqPN9u8uZWh9WeetNKIJnwMS0CLfcTUcfr5yG6Z6v7JbNB23cSd4V2jkvmrnVekyocKZXqmiOJ6y+eUFUeKcmNH7YHT7/JzNG80NI23o637T/qNfWVqgEvbeeN4IgtEAr84wfT+c/2BJgPudYWmb8d7yN+dlJ/1cdu34FcUFUFXyHsr4LB5pTCtkOzLFe/NpK3M0iZciSag08MGLS1PQEMT/HHSsxzxoOiV/0d6B8XXaNYB+FIyDUsWLPimzfKHoB6uLEOn2egxGre9vFXqONfRz0vcsUuxwUgV9TrQmOCOmzDM=;47qVdr8AzHQWhPhGICTEvw=="
+secured: "f4Bm0j+CUZMN+eMuO2hXeEMBMWSB0A8nHfoHFYK40msNMgL+GmPXsrXcCFe3+AoNEFtnA0CHCiT4M+wWlY/NOne54oHqvL+UcxOuAHDhnJ1v906VZ3xYBRS2/1JU3F4hXc1ZoUBX5kRCTrdOoF2h1lchM+iJgOXLDN19UgTcmz6dfLpEcB442PusqXyhBJF2n0HCDZ6sQOXM9q73M+Yi++Z4L/+LLAyY8NeJba18xddlIOYUzBDiyVb5Mz2PK5G2FKVQuXEHtCp3mrAPmfveQQf0pa5lnOvt4GTIzXNJ9VIfAjMvlk1ikMNUlqz+1GAa5iPAamRQNeYBnu8zgMyxQJ/4XmByj8APec5jaNV1C+odudsEeraI+3f0j3uHpdGq4PBq/o9i4h33z89gvBKc/fxBDFVUY5UD+pE9OL9wsoj8mbExg/aJKDDBy2lSr6M1xOi52fxNYccZKkmIaLXNrVZFMK9PzNL6pvSC1gDJ6+wAzIiFzGWh/8bxo+8UQwyi197fdrDkBvBGbCjVa3RIQw==;KuVMUB+VKbXLD2uEqBKWRw=="
 ---
 

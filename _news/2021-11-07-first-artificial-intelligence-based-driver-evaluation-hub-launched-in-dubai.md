@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/first-artificial-intelligence-based-dri
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dubai First taps flybits and Mastercard for AI-based personal services"
+    excerpt: "Dubai First, which offers consumer services under First Abu Dhabi Bank (FAB), and Mastercard introduced an experiential consumer engagement platform for the first time in the Middle East and Africa region."
+    publishedDateTime: 2021-11-08T11:34:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90142/dubai-first-taps-flybits-and-mastercard-for-ai-based-personal-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "First AI-powered driver evaluation hub launched in Dubai"
     excerpt: "An Artificial Intelligence-powered simulation device that can better assess driver behaviour has been launched in Dubai. A Dubai-based telematics technology company Location Solutions is launching the Artificial Intelligence Driving Hub in partnership with driving school Excellence Driving Centre."
     publishedDateTime: 2021-11-08T04:40:00Z

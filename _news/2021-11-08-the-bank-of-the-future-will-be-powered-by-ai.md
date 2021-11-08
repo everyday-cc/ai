@@ -73,17 +73,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How To Successfully Ride The Next Wave Of AI"
-    excerpt: "When it came to AI innovation, there were many sets of big waves to ride this year, like the advancements in computer vision, edge AI, and AI-driven software coding."
-    publishedDateTime: 2021-11-03T20:00:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-successfully-ride-the-next-wave-of-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-successfully-ride-the-next-wave-of-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-successfully-ride-the-next-wave-of-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "Addressing the effects of AI on nature"
     excerpt: "The Sustainable AI Lab of the University of Bonn (Germany) addresses this topic and is present at COP26 with a unique artwork to remind people of what nature is doing and that AI is getting in the way of this."
     publishedDateTime: 2021-11-05T00:00:00Z

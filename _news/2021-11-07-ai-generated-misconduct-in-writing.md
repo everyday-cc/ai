@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Office 365 will get integrated AI"
+    excerpt: "What are you writing Dave? Microsoft is introducing what it calls a \"set of natively integrated AI experiences\" across Microsoft 365. These new AI experiences are branded \"Context IQ.\" The first product that will get the Context IQ treatment is Microsoft Editor,"
+    publishedDateTime: 2021-11-08T11:13:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/53834-office-365-will-get-integrated-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/dbd7d5b05121712a74e6e30e76ed2759_L.jpg"
+        width: 620
+        height: 466
+        isCached: true
   - title: "Experts Weigh in on Artificial Intelligence Reshaping the Semiconductor Industry"
     excerpt: "Learn from this panel of experts addressing artificial intelligence's impact on the on the semiconductor industry, specifically, chip design verification."
     publishedDateTime: 2021-11-05T16:11:00Z

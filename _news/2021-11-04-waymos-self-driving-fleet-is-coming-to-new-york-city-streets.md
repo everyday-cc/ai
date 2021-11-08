@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo will start operating in New York City"
-    excerpt: "Waymo will start testing its self-driving vans in New York City on November 4th, helping it prepare for heavy traffic and snow.."
-    publishedDateTime: 2021-11-03T19:32:00Z
-    webUrl: "https://www.engadget.com/waymo-self-driving-cars-new-york-city-130044539.html"
-    ampWebUrl: "https://www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html"
+  - title: "California commerce is in a jam — the answer could be self-driving trucks."
+    excerpt: "It’s the same old empty shelf, but the underlying problem is different, and for California it’s going to require an innovative fix: self-driving trucks. While the Biden Administration has taken some important steps to address the crisis by opening up ports 24/7,"
+    publishedDateTime: 2021-11-04T22:37:00Z
+    webUrl: "https://www.ocregister.com/2021/11/04/california-commerce-is-in-a-jam-the-answer-could-be-self-driving-trucks/"
+    ampWebUrl: "https://www.ocregister.com/2021/11/04/california-commerce-is-in-a-jam-the-answer-could-be-self-driving-trucks/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/11/04/california-commerce-is-in-a-jam-the-answer-could-be-self-driving-trucks/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 42
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/0a2fefa0-3c1b-11ec-bfeb-09e0beaa0f08"
-        width: 5287
-        height: 2974
-        isCached: true
-  - title: "Waymo's Self-Driving Vehicles Arrive on New York City Streets"
-    excerpt: "After rolling out in several cities including San Francisco, Google‘s Waymo brings its self-driving vehicles to the bustling New York City streets. As the most densely populated city in the United States with “unusual road geometrics,"
-    publishedDateTime: 2021-11-05T04:34:00Z
-    webUrl: "https://hypebeast.com/2021/11/waymo-driver-new-york-city-arrival-news"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 39
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F11%2Fwaymo-driver-new-york-city-arrival-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/11/TDB-L-PORTINCENTIVES-0120-8-1.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "h7UKjgpeqNpxFeWntjc2/YuX1/Kev5Tj3v48lcXIXDLbeQgpgBrbiPL9WOPwCZhF1eIM7mqWcqk5xQkkhkWQ5MuX8MNcDgScy+HvR5PC+IjnE6s1y66XkSJdhZ8Dzedf+Ro9m2DUfDxwvD7+HUD2qknuAifd21vcEK6aLs/AMAwCrDc/IxMflQMZ3dfs315e87ueEKheGNIA+YIBmPXRqc3mcvv21HrwcN4eqzYk4ZyM7qmthkyG7vVtwtPUxossZN2FEQCj6OGdTyfCXCCpr5yc/G6dS9MUhaXc+/Cj/byyEW0+50yAoZ3aTE4y5BYCSICudnlUkK02RbB01T7g6b2TYiUbzORLaRaCFczdwZ6QK2kU0USvDVqjsIg1wFYTQCOaKlySmWYDHNA0/0SUJCJ7GddAE76qh5fJbhIZywOkhbwqSr0Xl4+mE+0oW4k9BXTArISScG0a8e4Mjxj5TI4mFYMJcTJCMni3hIQ4KHop1F5PaledNm1Tf/81LPhr8tislWfzcwinXqtuQ8aRcw==;hlVfpCFFr3j9q0E2uYnT/g=="

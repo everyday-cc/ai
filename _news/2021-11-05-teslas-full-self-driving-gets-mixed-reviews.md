@@ -87,20 +87,6 @@ related:
         width: 798
         height: 365
         isCached: true
-  - title: "Tesla’s ‘full self-driving’ delights and annoys with Jekyll-and-Hyde personality, drivers say"
-    excerpt: "By Matt McFarland, CNN Business Drivers with Tesla’s “full self-driving” software often don’t know what their cars will do next. Tesla owners have been wowed by their cars’ new abilities, but some say they have also been alarmed and frustrated by the accompanying flaws."
-    publishedDateTime: 2021-11-03T18:57:00Z
-    webUrl: "https://ktvz.com/news/2021/11/03/teslas-full-self-driving-delights-and-annoys-with-jekyll-and-hyde-personality-drivers-say/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 28
-    images:
-      - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "RnVfxBpoDhZHxQIp5JjGBVvwzhUD0B9gceCrditehz8klETnPnIlIkoT3iun3KcMfbkRdo6l988qdpYDqVIEo0MI5HDIj0GnuE+fEmMPgnTbjEB3kKbZtIPeV30z5DfyRv8WNyvug6O0+lyrstrcUOxrORHXeck6g/BWpIAV4qFgZcIF0I3pJyUk/3adTdvHNtqk8j+RvbghqqjhEyMacxdU29XxNIykmpgVSm6c9FugyQXB6ToqeiX3IbPNHMOHN9qvo8tVzHn+nuMkv2IEkr3dLaH9xV5VTF9Pr+yZDESPE895FPvhGfJJPNHeHNKaZ/McfndDNfGTH4TVrfBDhQU7CY7NIBbBuNz2uKq/uOW39lHJiBGUiTj8B3G3pvvLD4k2k9RRTgj47k7rGp5KJxCcGuWjtDKI07XXfA7VHytHRiIXRg12RLEZuw1ksl5jIFKXybGX5CJgj2490xu93FulRbijkDRQK7LuWiuB2tR13HvrzOzmYR2LpskYI+grh0SUzKDbjwd6mur6N1dPmg==;/pEPC9L/1c7uYRsP7zq7/w=="
 ---

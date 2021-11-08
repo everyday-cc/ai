@@ -69,17 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "TuSimple, UPS mapping new self-driving routes in southern U.S. states"
-    excerpt: "Self-driving truck technology company TuSimple Holdings Inc TSP.O said on Wednesday it is mapping new freight lanes with UPS UPS.N from Arizona to Florida and has hit significant fuel savings for the package delivery company at highway speeds."
-    publishedDateTime: 2021-11-03T20:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "sz6TNAUX2VmzV7hbeLD6ewl8mNkKH4RPDCPffNFyJIK1WvTzIaPbmft+bkM81vv66RmV1AZp5J1ICzVu2aQ3SmyXDtyS0GtdFjhThRie0/YRCMO166DlOD9mkZbaOLmoHEKsOTPFvgKbZCJNE0WybRglMBNmPlNBQHsagFcsabdEvw/fclGGI7aXCX1eSaczRbXwTc6IgHO5Vhjz6YK0o32WdSlaAnzHE5yiveOFg3k35O7pYegCmJ1quztIVh7TqdBfb+XxOsvUniCC7Uq9wSMeUpIdrK4SkQ0duQbrooPHHZ6/Nh+qqAv+CjjoVH+IFTn/iTjTDS6uwLq9wMtmOOw2yDhQBVE+Kw5ewu+A/99puAzQOe17wbwXtm7/PKZ6q3XzkYXVAK6iqVNINRUx50u3LpVsD2fJaRaHfAiz2qwXlLgzCCbq7+j3JCtSTJR3a2zRTCo71qmvpE3E5E8PwowP+lD8eM1N2TfslymLgTNRaLuJC+k9KGFDFVaFCw0OIwoMR5jsHqmjVrS+sg8Vsw==;AwAFLiokSQvSmjQ4/OSG6A=="
 ---

@@ -70,17 +70,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "TuSimple, UPS mapping new self-driving routes in southern U.S. states"
-    excerpt: "Self-driving truck technology company TuSimple Holdings Inc TSP.O said on Wednesday it is mapping new freight lanes with UPS UPS.N from Arizona to Florida and has hit significant fuel savings for the package delivery company at highway speeds."
-    publishedDateTime: 2021-11-03T20:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tusimple-ups-mapping-new-self-driving-routes-in-southern-u.s.-states-2021-11-03?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "TRKILy7kR3ivWU8g4hXN2YPTsB9BUu+MhaUajv5JGxgKnh+O2PGN/+EYiEbogyblmp1PGePPm2mVLawcFnJqWN6/s5klcDUcwK/jZ7LuoTy2F7lTSwFnWbITX86A5XP9KerySlT7l51kOE0d0+PNi9nuZzF6HaZpurKxsdikIv7GKFn2k2Ha5RJ2I8PoN2/w1Lb9E4KYvLOjdnA5Cy3fk1SwtPO//RzMXKhftqXoazevabsajGD67VHHWDSZylRXC2/NFMHMe9tZu/icy6o4k10pc8iBCkKbm27ALPl9ZxnKagC9+2blPL2xhuKsS27UqOyNHBT/8AKTf4jxMI1OZsIvUTkyRJFK8SUmE8eQwQfNMQPJJxtIoGCV9vppVyi0JKbULBVC2pT/wspYf4bfRSD/V4bzxotusp4lp61BZ3lux9Y65znepE9PpvW3k7Vxql0+jehzmWPlurqLk3Yn6vblrAKtqAe85Fj81fgDNNmXLBlSZAu83Oev1FRZPpBavcsHKFqXlWYdr73xAQUtQw==;VWGh74/iLGJQ4j0/xikroQ=="
 ---

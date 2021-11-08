@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-08T10:42:00Z
 originalUrl: "https://menafn.com/1103120081/Artificial-Intelligence-in-Drug-Screening-Market-to-Set-Phenomenal-Growth-in-Key-Regions-By-2025"
 webUrl: "https://menafn.com/1103120081/Artificial-Intelligence-in-Drug-Screening-Market-to-Set-Phenomenal-Growth-in-Key-Regions-By-2025"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://menafn.com/updates/pr/2021-11/08/EP_9e436image_story.png"
@@ -55,6 +56,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "uSe7rKpuUARdbz5yztpPXuHT+3n13QHDvOZZEbVr36I9DtAkkWKRII0uNfgGWcn6zPKFug65NgNWLcAt4lI1pC9JEXYW0WVJIP1tTZ1Ma/Z0RtrgYTi6CTCkHBFZNcbWMrmn4abZFkl9+bczChtNmfN3FS6O3e4wb5EVwlv7zwpSxMxMKu6DgWxKerAfD2wKJ9sCss792q8WnbFE1QRmlvBWWtPa6k7jcnS9LyflhkF6AwJMk7k/zIDkT/4QLu8z4wf+vZMiskVQhowWE/QW1HmsZNq5I8Y/Fjk2vuPQpJpI7oPLzNsBjavZ+hYdf7mePLgaohEqsoZFdSw4A0D0plgf2MgCruZPSrYon7Qwkc0=;JH6SkI5SsFHhWd7H1dGE2A=="
+secured: "HhMkyKkgIWnULjWXmUA9TwzDhLBcPMWElVT7cOz5MoiYdE8Y6qbRPQOnx+EEOPqObj/wgPktwT7ft1dyTEUcfUM26VQvbd3TsEXGZbNq9Y7siCFnHHV5IdzZcU5gtldEbf7+I05w3Iv3+fNeQvAXKCeSKOeSVOd2ONzjca3QGmOUctiz+uOS4blUWrm8Daai5fbP2+ZWLqCRbQuIJk6/806PnEV4p69GBIEC5y9qAMCjdq6N800lta3Xeu+0jwCgHHiHGmoX+wu+KpFTZX/O23Osk8shDNn2Id9n4SGrp19GJLf5URTemD5UYIrOJ6xwIkO7vZ26EJ0x9MhqVMBo5/b9JOeQIDBmrLeO7I8/vhs3M8YHseWxJegcbfJUTSESvGQZwPLm123Ud32PIZjA0goFEq2r66H2AO2k6KuWmQn9imK4lVEcueGKV7JUrOiXKp644lt9Z4EtT5yw8Exgy3JsPZlgi8PSGI5SaW6Vmgg4pog4ZL8r1JqT1OLx0zN+bYqEjnp9kWfs9rqdCCA5Og==;KI13YS+PFGfuc3UXRh+FpA=="
 ---
 

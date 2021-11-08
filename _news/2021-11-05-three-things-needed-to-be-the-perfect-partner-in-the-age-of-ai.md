@@ -62,17 +62,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How To Successfully Ride The Next Wave Of AI"
-    excerpt: "When it came to AI innovation, there were many sets of big waves to ride this year, like the advancements in computer vision, edge AI, and AI-driven software coding."
-    publishedDateTime: 2021-11-03T20:00:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-successfully-ride-the-next-wave-of-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-successfully-ride-the-next-wave-of-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-successfully-ride-the-next-wave-of-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "The Bank of the Future Will Be Powered by AI"
     excerpt: "The paper, titled The Bank of the Future: How AI Will Power Ubiquitous Services and Personalised Customer Experiences, explores the key drivers fueling change in the banking space and delves into how financial institutions can leverage AI and cloud ..."
     publishedDateTime: 2021-11-08T08:45:00Z
