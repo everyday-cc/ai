@@ -62,7 +62,7 @@
       "originalUrl": "https://www.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -398,6 +398,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-north-korea-seeks-to-boost-english-education-with-robot-teachers-enhance-intelligence.md",
+      "title": "North Korea seeks to boost English education with robot teachers - 'Enhance intelligence'",
+      "excerpt": "NORTH KOREA has shared footage of a new toy-like robot teaching kids English and maths while the country suffers from famine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/world/1516828/north-korea-news-boost-english-education-robot-teachers-ont",
+      "originalUrl": "https://www.express.co.uk/news/world/1516828/north-korea-news-boost-english-education-robot-teachers-ont",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/North-Korea-robot-teacher-1516828.jpg?r=1636084563213",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/world/1516828/north-korea-news-boost-english-education-robot-teachers-ont/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1516828/north-korea-news-boost-english-education-robot-teachers-ont/amp",
+      "publishedDateTime": "2021-11-04T19:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
       ]
     },
     {
@@ -1380,58 +1424,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-robots-to-clean-nyc-skyscrapers.md",
-      "title": "Robots to clean NYC skyscrapers",
-      "excerpt": "The use case makes a lot of sense: managers of every commerce building in major U.S. cities need some way to clean their building's exterior glass. In fact, window cleaning is $40B global market. The surfaces involved are generally uniform and the path predictable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
-      "originalUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b656a675bbd1838bfbf9bdff16eb479741d8edae/2021/10/28/37ceec2f-0fc4-4223-82ef-92fab5b771a2/skyline-window-cleaning.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
-      "publishedDateTime": "2021-10-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

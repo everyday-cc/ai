@@ -109,22 +109,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Facial recognition firm Clearview AI to appeal order to stop collecting images of Australians"
-    excerpt: "Company stands ground after watchdog finds it breached Australians’ privacy by scraping images online"
-    publishedDateTime: 2021-11-03T07:11:00Z
-    webUrl: "https://www.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 63
-    images:
-      - url: "https://i.guim.co.uk/img/media/9b8e05babaf9fcfff8634a9e89dbf5bcce73a207/1493_0_3799_2280/master/3799.jpg?width=620&quality=85&auto=format&fit=max&s=2952e1eef9cde6048259b3ac7ac52a9c"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Facial Recognition company, Clearview AI asked to ‘clear’ its stolen data"
     excerpt: "Following a BuzzFeed News disquisition, Australia’s public sequestration controller has ordered disputed facial recognition company Clearview AI to exclude all filmland and facial templates belonging to Australian residers."
     publishedDateTime: 2021-11-07T17:45:00Z

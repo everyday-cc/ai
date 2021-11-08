@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "North Korea seeks to boost education with toy-like robots"
-    excerpt: "North Korean leader Kim Jong Un has been pushing for education reform in recent years by spurring technological and scientific innovation."
-    publishedDateTime: 2021-11-03T07:52:00Z
-    webUrl: "https://www.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888"
-    ampWebUrl: "https://m.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/omg/north-korea-seeks-to-boost-education-with-toy-like-robots-683888/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 76
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/477601"
-        width: 640
-        height: 428
-        isCached: true
   - title: "North Korea seeks to boost English education with robot teachers - 'Enhance intelligence'"
     excerpt: "NORTH KOREA has shared footage of a new toy-like robot teaching kids English and maths while the country suffers from famine."
     publishedDateTime: 2021-11-05T02:45:00Z
@@ -88,20 +72,6 @@ related:
       - url: "https://e3.365dm.com/21/11/640x380/skynews-robot-north-korea-flag_5570091.jpg?20211103122720"
         width: 640
         height: 380
-        isCached: true
-  - title: "Edge platform with facial recognition, situation analysis unveiled in South Korea"
-    excerpt: "Researchers have created a prototype of an edge biometric platform that can reportedly recognize faces and situations that take place around its nodes."
-    publishedDateTime: 2021-11-04T16:31:00Z
-    webUrl: "https://www.biometricupdate.com/202111/edge-platform-with-facial-recognition-situation-analysis-unveiled-in-south-korea"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
-        width: 2048
-        height: 1366
         isCached: true
 
 secured: "VcX6vaIeJJvfhzwGGoVFRA2HZYF5n4o46ZTr92JZDPABHTd26N76+l6XNU65RNZZYXWd435KxsMn1i0cs/tkyIU78FWszu0vb27GlfkZAIsBgBSGUhHFIM8dt5DopdOzLzVgNbQQZeK6EBL4icJNmmZQXcAG2oJ+QdkwhuAeXtBxGqNN4l9tHNX1MPf+tVoAwYhffH29lobwjCI2LQC/OJDqehpP5GS3Q7nRd2gRbOzhMjHtykesbMk6iyf7jhcBn0IfqjHAfFDz7LROrExc2TmxXZcyE8S+hTHMWRaHkXEgxFxXRhvHc/d2NVfOGmT+/56ajAMdRLHmhcjKVCVnaQTa1YsieSfvH5uBlX21P1+B6pDZtx6/OVKrKVyCSePrNidFGbokHbRBlyh9R/WHNS0OQ7f66I4jYQpUp7zRn7A32Ycz3DxW3XY/ZALpZnJ8VyWhp8DbVraFAwkxJyPoJ0E9L0vOrhyzroy3FhQXc712XSv3z3o5Afr7tsraDVVKXxmAwHgkwvHO15z7y4yK1g==;pXWo9bO3NMfeLZE8C87IJg=="

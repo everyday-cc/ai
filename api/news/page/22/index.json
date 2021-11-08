@@ -2,6 +2,48 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-10-19-convegenius-ai-indias-leading-edtech-startup-raises-5m-usd-pre-series-a-for-mass-market-direct-to-consumer-expansion-to-serve-100m-households.md",
+      "title": "ConveGenius AI, India’s Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households",
+      "excerpt": "ConveGenius has raised $5M USD in Venture Capital funding to grow its conversational AI platform in India and South-East Asian markets. The company first launched its conversational AI platform in 2020 with a focus on providing a tailor-fit EdTech solution that offers an adaptive Whatsapp-based learning system for K-12 students from lower tier cities,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-the-roi-of-ai-will-it-deliver-real-value.md",
       "title": "The ROI of AI: Will it deliver real value?",
       "excerpt": "AI is not just a platform to be purchased and implemented. It is a fundamental shift in the way digital systems operate and are managed.",
@@ -1117,40 +1159,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-pagaya-partners-with-sofi-to-expand-access-to-financial-services-and-create-opportunities-for-customers.md",
-      "title": "Pagaya Partners With SoFi to Expand Access to Financial Services and Create Opportunities for Customers",
-      "excerpt": "Pagaya Technologies Ltd. (“Pagaya”), a financial technology company that enables financial institutions to expand access to more customers through its",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211018005244/en/Pagaya-Partners-With-SoFi-to-Expand-Access-to-Financial-Services-and-Create-Opportunities-for-Customers",
-      "originalUrl": "https://www.businesswire.com/news/home/20211018005244/en/Pagaya-Partners-With-SoFi-to-Expand-Access-to-Financial-Services-and-Create-Opportunities-for-Customers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

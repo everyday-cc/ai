@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-04-cruise-graduates-to-more-unmanned-operations-with-ride-1-in-san-francisco.md",
+      "title": "Cruise Graduates To More Unmanned Operations With ‘Ride #1’ In San Francisco",
+      "excerpt": "This is not too surprising — the initial focus was and should be on doing the driving task ... Zoox, WeRide, Baidu, Argo and many, many others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/11/04/cruise-graduates-to-more-unmanned-operations-with-ride-1-in-san-francisco/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/11/04/cruise-graduates-to-more-unmanned-operations-with-ride-1-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602442d388db8ea1313bb39f%2F0x0.jpg",
+          "width": 1200,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/11/04/cruise-graduates-to-more-unmanned-operations-with-ride-1-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/11/04/cruise-graduates-to-more-unmanned-operations-with-ride-1-in-san-francisco/amp/",
+      "publishedDateTime": "2021-11-04T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-aptiv-tops-expectations-but-chip-shortage-will-continue-to-hit-self-driving-cars.md",
       "title": "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars",
       "excerpt": "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters.",
@@ -460,7 +512,7 @@
       "originalUrl": "https://www.msn.com/en-us/finance/other/facebook-is-backing-away-from-facial-recognition-meta-isn-e2-80-99t/ar-AAQhzQz",
       "featuredContent": null,
       "highlight": null,
-      "heat": 469,
+      "heat": 449,
       "tags": null,
       "images": [
         {
@@ -607,7 +659,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -762,7 +814,7 @@
       "originalUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -1156,58 +1208,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-3-ways-robots-won-in-2021.md",
-      "title": "3 ways robots won in 2021",
-      "excerpt": "For all its ups and downs, 2021 has been a phenomenally important year for automation. Robots had a big year. Amid uncertainties related to the pandemic, chronic labor shortages, supply chain catastrophes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
-      "originalUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7e09bb766f67616acc2732d695a17f0ff180c967/2021/11/01/65cc6183-2683-4c96-b7d9-dda44927a628/ubtech-walker.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 923,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
-      "publishedDateTime": "2021-11-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

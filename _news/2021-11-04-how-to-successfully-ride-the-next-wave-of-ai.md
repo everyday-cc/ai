@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 836
         isCached: true
-  - title: "The Future Role Of AI And The UK National AI Strategy – Insights From Professor Mark Girolami"
-    excerpt: "This article captures the key insights from an interview with Professor Mark Girolami, the first chief scientist of the Alan Turing Institute, the UK’s national institute for data science and artificial intelligence."
-    publishedDateTime: 2021-11-03T06:34:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2021/11/03/the-future-role-of-ai-and-the-uk-national-ai-strategy--insights-from-professor-mark-girolami/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/11/03/the-future-role-of-ai-and-the-uk-national-ai-strategy--insights-from-professor-mark-girolami/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/03/the-future-role-of-ai-and-the-uk-national-ai-strategy--insights-from-professor-mark-girolami/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61822d28e9dc8960891c7a9b%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial Intelligence in the Vineyard"
     excerpt: "Adopting this new vineyard technology is critical to the California grape industry. —Tom Shapland, PhD, CEO and cofounder of Tule Technologies Anything humans can observe with their eyes a computer can be taught to see as well."
     publishedDateTime: 2021-11-03T13:00:00Z

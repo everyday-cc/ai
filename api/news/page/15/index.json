@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-10-25-2-artificial-intelligence-stocks-that-have-spooked-investors.md",
+      "title": "2 Artificial Intelligence Stocks That Have Spooked Investors",
+      "excerpt": "Both stocks are far off their all-time highs, but that does not mean they don’t have bright futures. Lemonade’s AI is making waves in insurance, and so far, no other incumbent in the industry has duplicated its model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/",
+      "originalUrl": "https://www.fool.com/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F647585%2Fperson-thinking-about-a-problem-at-a-desk.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/",
+      "publishedDateTime": "2021-10-25T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-gfk-launches-ai-supported-intelligence-platform-gfknewron-in-uae.md",
       "title": "GfK launches AI-supported intelligence platform 'gfknewron' in UAE",
       "excerpt": "GfK, a leading provider of consumer and market intelligence, analytics and consulting services, launched gfknewron, its integrated, AI-powered software platform in the Middle East. gfknewron is an important step in GfK's transformation from classical market researcher towards an AI-powered data analytics and consulting company.",
@@ -1122,49 +1173,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-tusimple-taking-retail-money-may-be-too-simple.md",
-      "title": "TuSimple: Taking Retail Money May Be Too Simple",
-      "excerpt": "Driverless technology is the future of ... A wicked waste of dumb money may be chasing the industry. Artificial intelligence is progressively more central to leading investment themes – whether ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "originalUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1127822663/medium_image_1127822663.jpg",
-          "width": 768,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "publishedDateTime": "2021-10-24T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

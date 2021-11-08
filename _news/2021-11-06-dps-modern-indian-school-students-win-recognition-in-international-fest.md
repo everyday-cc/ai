@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "On Making AI Research More Lucrative In India"
-    excerpt: "The research work coming out of Indian institutions is impressive. We have a great talent for tackling real-world problems across domains."
-    publishedDateTime: 2021-11-05T08:31:00Z
-    webUrl: "https://analyticsindiamag.com/on-making-ai-research-more-lucrative-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/How-Research-Culture-can-be-lucrative-in-india.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "DPS-Modern Indian School students win recognition in international fest"
     excerpt: "DPS-Modern Indian School students participated in ‘VOILA 2021’, the International Fest and Virtual Open Day organised by Delhi Public School, Gomti Nagar Extension, Lucknow, India, and won laurels"
     publishedDateTime: 2021-11-05T14:43:00Z

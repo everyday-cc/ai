@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcase
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 115
 published: true
 
 provider:

@@ -238,22 +238,6 @@ related:
         width: 1280
         height: 768
         isCached: true
-  - title: "Facebook Is Shutting Down Its Face Recognition System; Here’s Why"
-    excerpt: "Facebook has surprised everyone with its decision to shut down the face recognition system on its platform over the coming weeks."
-    publishedDateTime: 2021-11-03T06:51:00Z
-    webUrl: "https://beebom.com/facebook-shutting-down-face-recognition-system-heres-why/"
-    ampWebUrl: "https://beebom.com/facebook-shutting-down-face-recognition-system-heres-why/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/facebook-shutting-down-face-recognition-system-heres-why/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 59
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2021/11/Facebook-Shuts-Down-Face-Recognition-System.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Meta to continue use of facial recognition technology"
     excerpt: "Facebook this week announced that it will no longer deploy facial recognition technologies on its platform, but the social network's parent company, Meta, said that the commitment does not apply to it"
     publishedDateTime: 2021-11-04T02:10:00Z
@@ -429,20 +413,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 26
-  - title: "Facebook ending its system of facial IDs"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-03T07:29:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/nov/03/facebook-ending-its-system-of-facial-ids/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199814388_4D1facebook1103_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Facebook’s not safe for face biometrics, but privacy can be built into Meta?"
     excerpt: "Both Recode and Fortune are reporting on misgivings that some in the industry have about Zuckerberg's happiness to delete 1 billion face templates."
     publishedDateTime: 2021-11-05T15:46:00Z

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-21-inhabitats-week-in-green-the-worlds-tallest-skyscraper-mind-controlled-robot-exoskeleton-and-a-lego-bat-cave.md",
+      "title": "Inhabitat's Week in Green: the world's tallest skyscraper, mind-controlled robot exoskeleton and a Lego Bat Cave",
+      "excerpt": "In the world of wearable tech, Japanese company Cyberdyne created a mind-controlled robot exoskeleton to protect Fukushima workers from nuclear radiation, and NASA developed an Iron Man-like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2012-10-21-tallest-skyscraper-mind-controlled-robot-lego-bat-cave.html",
+      "originalUrl": "https://www.engadget.com/2012-10-21-tallest-skyscraper-mind-controlled-robot-lego-bat-cave.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/KewcAbB25TppQrbiOH3ETQ--~B/aD00MTE7dz01Mzc7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2012/10/yang-holographic-butterfly-coating-537x411.jpeg",
+          "width": 537,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-egypt-detains-artist-robot-ai-da-before-historic-pyramid-show.md",
       "title": "Egypt detains artist robot Ai-Da before historic pyramid show",
       "excerpt": "Sculpture and its futuristic creator held for 10 days, possibly in fear she is part of spying plot",
@@ -1330,40 +1382,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-rise-of-the-robots-the-future-of-robotics-is-social.md",
-      "title": "Rise of the Robots: The Future of Robotics is Social",
-      "excerpt": "As an example, an autonomous robot named ‘Xavier’ has been deployed in Singapore to stamp out undesirable social behaviour such as smoking in prohibited areas and illegal bicycle parking. As the world’s most automated country,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11",
-      "originalUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11?amp",
-      "publishedDateTime": "2021-10-11T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
