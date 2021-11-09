@@ -2,21 +2,27 @@
 category: news
 title: "AWS Announces Plans to Open Second Region in Canada"
 excerpt: "(NASDAQ: AMZN), announced plans to open an infrastructure Region in Alberta, Canada, in late 2023/early 2024. The new AWS Canada West (Calgary) Region will consist of three Availability Zones (AZs) at launch and join the existing AWS Canada (Central) Region in Montreal,"
-publishedDateTime: 2021-11-09T05:41:00Z
-originalUrl: "https://www.indiainfoline.com/article/news-business-wire-services/aws-announces-plans-to-open-second-region-in-canada-121110900536_1.html"
-webUrl: "https://www.indiainfoline.com/article/news-business-wire-services/aws-announces-plans-to-open-second-region-in-canada-121110900536_1.html"
+publishedDateTime: 2021-11-08T16:34:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786"
+webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: India Infoline
-  domain: indiainfoline.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Amazon Web Services to invest billions in Calgary cloud hub"
@@ -34,6 +40,6 @@ related:
         height: 300
         isCached: true
 
-secured: "hqgVV/zyB3hqncTuYHw1MsG7yAvzqxvnx8GI4gF5spStKlVnBN8TPmPmRhIO9S8ZGqzMS/zS2Lut4bd7qTmCcuPDBG//eGkV62xUxquoM0P9E//kYBxCw3xqXytMT8zq5Xjt1YMxwUQx87CoByGzePrsQgj9Iqd1Y9PKucnBWyB83Eh1oFJfFZp7CtuxYH3wQI/08aX2/Q4i2tqz58QadbY8tZSlkUzxD7ooJtUQt30iiYIljM8zRpPkcZfJdhc6NPBwefyH1+6ezx1wN481phBPon2ItDh1q6T+38pymHCQY60YHsIaHJjaqJXCgqaEFapVbm4XWnhCiMNmra9jW+NmPyiCIB6rveI9avUeAqA=;Ffn4jRsqfgxtSAAYMK2u9w=="
+secured: "jcR2okJTsNHKWbE7e3+wH9qXSTFV+eWPSyLCasEzLeN6Omu+2dH31jmLv14QkWzFO3XNdhnz4Ie8aBceKdKRA7ZrPTENyOPrdtycH5c0jtsm/jcKH/q6fz3CcEun8iFbt9ZoH5Ih+5Y9qPuFvNm4o4zhDsyVwMWE2PgzXeiMt1LEZrUjdSbYJ6DEy0h4+vrjyMoD4RItpk1Y+KGoXLU/NvanE4fZPLscABsQZo+dCO323foZRl/5u5teQc4ZumkgCNQ/ahIXsJ7ZvEOIKNyWv1HPePh1HIBe4Rd/pzUXd99jz9aOoTTMFr0GQOiSx/DfsscfxbzQcEK6qURwBpFz4n6wLuqDkHaDyJkU82kFeB4=;ekCeBW5p7x9LxcAkRUqGsQ=="
 ---
 

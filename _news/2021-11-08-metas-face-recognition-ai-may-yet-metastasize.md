@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/online-views/metas-face-recognition
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html"
 type: article
 quality: 74
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -59,6 +59,36 @@ related:
         width: 1500
         height: 860
         isCached: true
+  - title: "Meta to Halt Use of Facial Recognition Technology on Facebook"
+    excerpt: "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse"
+    publishedDateTime: 2021-11-09T20:05:00Z
+    webUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/"
+    ampWebUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 59
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2021/08/OculusHorizonWorkroomsHero-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "DHS Researching Public Perception of Facial Recognition and AI Use"
+    excerpt: "The Department of Homeland Security is collecting privacy concerns as critics fight to ban facial recognition outright."
+    publishedDateTime: 2021-11-09T20:05:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/11/dhs-researching-public-perception-facial-recognition-and-ai-use/186731/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 54
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/11/09/NGface20211109/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Facebook to shut down face-recognition system, delete data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
     publishedDateTime: 2021-11-05T22:20:00Z
@@ -69,7 +99,7 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://s.hdnux.com/photos/01/22/50/01/21659713/3/ratio3x2_400.jpg"
         width: 400

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Giving robots social skills"
-    excerpt: "MIT researchers have developed a control framework that enables robots to understand what it means to help or hinder one another and incorporate social reasoning into the tasks they are accomplishing."
-    publishedDateTime: 2021-11-05T04:00:00Z
-    webUrl: "https://news.mit.edu/2021/robots-social-skills-1105"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202111/MIT-Social-Interaction-01.jpg"
-        width: 3477
-        height: 2318
-        isCached: true
   - title: "New Machine-Learning System Gives Robots Social Skills"
     excerpt: "A new machine-learning system helps robots understand and perform certain social interactions. Robots can deliver food on a college campus and hit a hole-in-one on the golf course, but even the most s"
     publishedDateTime: 2021-11-05T09:27:00Z

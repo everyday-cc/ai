@@ -8,7 +8,7 @@ webUrl: "https://www.chron.com/news/article/Facebook-to-shut-down-face-recogniti
 ampWebUrl: "https://www.chron.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://s.hdnux.com/photos/01/22/50/01/21659713/3/ratio3x2_400.jpg"
@@ -74,6 +75,36 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
         width: 1500
         height: 860
+        isCached: true
+  - title: "Meta to Halt Use of Facial Recognition Technology on Facebook"
+    excerpt: "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse"
+    publishedDateTime: 2021-11-09T20:05:00Z
+    webUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/"
+    ampWebUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 59
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2021/08/OculusHorizonWorkroomsHero-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "DHS Researching Public Perception of Facial Recognition and AI Use"
+    excerpt: "The Department of Homeland Security is collecting privacy concerns as critics fight to ban facial recognition outright."
+    publishedDateTime: 2021-11-09T20:05:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/11/dhs-researching-public-perception-facial-recognition-and-ai-use/186731/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 54
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/11/09/NGface20211109/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Facebook to End Use of Its Facial Recognition System"
     excerpt: "Facebook parent Meta Platforms Inc. announced in a blog post that it will shut down its “Face Recognition” system in coming weeks as part of a company-w"

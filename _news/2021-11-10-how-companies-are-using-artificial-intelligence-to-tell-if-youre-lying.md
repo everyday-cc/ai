@@ -24,37 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "Should you be using AI to solve your online retail woes?"
-    excerpt: "The use of AI in e-Commerce and digital retail is commonplace, so how exactly can it be used to alleviate problems faced by online retailers?"
-    publishedDateTime: 2021-11-05T03:19:00Z
-    webUrl: "https://techwireasia.com/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/"
+  - title: "How No-Code Platforms Can Bring AI to Small and Midsize Businesses"
+    excerpt: "Just as the clickable icons of Windows replaced obscure DOS commands, new “no-code” platforms are replacing programming languages with simple drag and drop interfaces. This means that tech that was previously too labor intensive and expensive for smaller companies,"
+    publishedDateTime: 2021-11-05T12:25:00Z
+    webUrl: "https://hbr.org/2021/11/how-no-code-platforms-can-bring-ai-to-small-and-midsize-businesses?ab=hero-subleft-1"
+    ampWebUrl: "https://hbr.org/amp/2021/11/how-no-code-platforms-can-bring-ai-to-small-and-midsize-businesses"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/11/how-no-code-platforms-can-bring-ai-to-small-and-midsize-businesses"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 59
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/10/shutterstock_524159932-450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "Kindle (online PDF) You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place"
-    excerpt: "COPY LINK TO DOWNLOAD BELLOW ***********************************  *********************************** As heard on NPR's 'Science Friday,' discover the book recommended by Malcolm Gladwell, Susan Cain,"
-    publishedDateTime: 2021-11-07T20:12:00Z
-    webUrl: "https://www.yumpu.com/en/document/view/65958199/kindle-online-pdf-you-look-like-a-thing-and-i-love-you-how-artificial-intelligence-works-and-why-its-making-the-world-a-weirder-place"
-    type: article
-    provider:
-      name: Yumpu
-      domain: yumpu.com
-    quality: 6
-    images:
-      - url: "https://documents.yumpu.com/000/065/958/199/a51bcafb853fd1467b36bdfd810392bbda042aa0/513478793970647a4e734e42367a756c71554e5477673d3d/7634492b6b6b5168482b2b6f35794a434867416246673d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1636326000&Signature=QC%2B1dXiLM4lCwgUooidynpu4SM4%3D"
-        width: 452
-        height: 640
+      - url: "https://hbr.org/resources/images/article_assets/2021/11/Nov21_05_691850015.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "ugzrtVmM9/YD07HMXmYO/Iyue26o9VIySdoRWd5JgVciaY849CrX2ycWFE7Nzss14uqJRsh1HRrgT+3LkczD9oAQ3TiXZ/XHtRCRxvV/acHQ6LKXiDE7iTtFQBF26wgsD6gnFZjf/ZngJTe6TgfdPrXLysViclCmH6493u9OJwYAe17MFIx17E863QFNwNOAZrQXobBvokRxLjT13GhQAshpUmvOFjzHnvXHWrdMLNox68sqH7qUDyD5+z5oMkkFw+K3wgepljRdSdUTY3mOC6tkqSnm7vAKrLYCdGB4fbnPg2IiF0EqcrwjnHM71dyKHDTxlaT6nelUmIJtJlhuSZn6Jmc47NF/89AxtHz3R7Y=;lmmhwEgrKD/ra3t72ZOO9w=="
+secured: "b9E+OJqiDjRxAUyKxEDixRELrpfmUf6t8VmEKbERoIyRZCEoeDlTyPRLIzpy34run2z9Jt/BsK7VjHFYx52i/nsq7Ylb1c9ATn7zDKUjIC34bWYIXMUOh2dkHE+b2tAL+1fAtyRYkyQnm7uJ0mEKq7JG+9Etuh1dlavzYdQVhteH9AEiqfJQu9lhIUvhci6rHS9M9UIUGUlRNta/TrP3Gqgh+87z8I8GsGzoeUdfU2x/+ndZ5tWKP0erV066aoWzmWgcTbnokOkYazGP7GgBZkPpuoUTw4cQ09WsyDu9eu0jvB7iTGIGViFAAH8JzSZHOJhtwcRBSpZE3q24IvEnqD8QPvHWprutBD9BEwKmqRUTE1lwkEbNEJbi6+DMaPu4X6jFMu/0RDlSyy5ONFI24Ais9h3FlUnaz4/T9PoYsZgrEAzkPSbPiB2CKEpH5olmRJ+TWBKDHdntEvUotYuWyG9PogKnI0DNOvLQOidKt5HG1u754uFGHaftPaD7F6jjYzqOdW7GbFEtUgwLNJPExw==;cHbsDFlSmYKQZZoLZb3WcA=="
 ---
 

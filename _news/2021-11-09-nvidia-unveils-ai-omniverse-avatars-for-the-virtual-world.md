@@ -71,7 +71,7 @@ related:
     provider:
       name: thenewstack.io
       domain: thenewstack.io
-    quality: 39
+    quality: 43
     images:
       - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
         width: 648

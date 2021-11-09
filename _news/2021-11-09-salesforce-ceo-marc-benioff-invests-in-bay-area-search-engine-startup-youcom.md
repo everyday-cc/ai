@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 662
         isCached: true
+  - title: "Early Money: A startup gunning for Google with a new AI-powered search engine just got $20 million in seed funding"
+    excerpt: "Former @Salesforce chief scientist @RichardSocher has a new search engine that's using #AI to help prioritize results. Here's more on its new seed deal and recent ones for other #BayArea #startups . #"
+    publishedDateTime: 2021-11-09T16:07:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/inno/stories/fundings/2021/11/09/google-rival-with-ai-search-gets-20m-seed-deal.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "IGi5Tx4W/938eb8IioFthxEvwpjAuGNwP/LhNHbmnmOcVKtF2iZ/AZesTbEroVvbBMcmaOKZAxlCj6Nsc4NRYdMUc4IbXXWo5dFtEQiQiY0JuW+GMJJoUn/qshwasrqKKHNAEnB7MeIbpguh2jRQf86/RWGYcjgYWdxP+/dJ9Oo0yeCXFRjSX+Q20rkPEHsEjipbPVJwKfgTAkaw9SVeQOBUi5j3VTH2c1v5TPyPqetQ0QpDAm0FgNV2r7bAoMK0wQN7XzmHIm/PL2vaDaAxqjAKO0Mfo0DKjZHsJXvTeE2Qqr5m3hat0VrjFyWy48/iQATn655E+jaGqkE4YNP3685UjHb+dgVTy3NebIaBtYA=;yz/W8m4SIFDjksu9f9RO6A=="
 ---

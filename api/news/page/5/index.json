@@ -2,6 +2,255 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-05-tencents-foray-into-chips-isnt-at-all-surprising.md",
+      "title": "Tencent’s foray into chips isn’t at all surprising",
+      "excerpt": "Tencent unveiled its progress in chips for the first time this week, which immediately gave its stock price a modest boost. Silicon seems distant from the giant’s main arenas of video games and social networks,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/",
+      "originalUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-937997094.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/",
+      "publishedDateTime": "2021-11-04T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-giving-robots-social-skills.md",
+      "title": "Giving robots social skills",
+      "excerpt": "MIT researchers have developed a control framework that enables robots to understand what it means to help or hinder one another and incorporate social reasoning into the tasks they are accomplishing.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/robots-social-skills-1105",
+      "originalUrl": "https://news.mit.edu/2021/robots-social-skills-1105",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202111/MIT-Social-Interaction-01.jpg",
+          "width": 3477,
+          "height": 2318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-should-you-be-using-ai-to-solve-your-online-retail-woes.md",
+      "title": "Should you be using AI to solve your online retail woes?",
+      "excerpt": "The use of AI in e-Commerce and digital retail is commonplace, so how exactly can it be used to alleviate problems faced by online retailers?",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/",
+      "originalUrl": "https://techwireasia.com/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/10/shutterstock_524159932-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/",
+      "publishedDateTime": "2021-11-04T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers.md",
+      "title": "How Artificial Intelligence Is Helping Veterans Become First Time Homebuyers",
+      "excerpt": "Recent statistics show that veteran homelessness increased by about 4% in 2020, aggravating an already bad situation. The US government and the VA have created very accommodating measures to enable Veterans to become homeowners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/11/04/how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/11/04/how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6184985bca6403c5698595c7%2F0x0.jpg",
+          "width": 1200,
+          "height": 807,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/11/04/how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/11/04/how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers/amp/",
+      "publishedDateTime": "2021-11-04T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-disruption-in-action-ai-accelerated.md",
+      "title": "Disruption In Action: AI Accelerated",
+      "excerpt": "Global spending on artificial intelligence systems has nearly tripled since 2019, and it's set to more than double again by the end of 2025, according to IDC. Hear from a pair of disruptors driving the accelerated adoption of AI's many promising applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106964175-5ED1-REQ-102121-DISRUPTIONINACTIONAIACCELERATED.jpg?v=1635776688",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T19:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage.md",
       "title": "SUNY Polytechnic leaders explain causes, solutions behind chip shortage",
       "excerpt": "Computer chips are a hard find in pandemic times, but it’s not the materials in short supply — it’s the manpower. “Silicon is one of the most abundant elements",
@@ -964,233 +1213,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-orica-selects-microsoft-azure-as-strategic-cloud-platform.md",
-      "title": "Orica selects Microsoft Azure as strategic cloud platform",
-      "excerpt": "For 140-plus years Orica has carved a reputation as one of the world’s leading blasting companies, supporting mining customers in more than 100 countries. Explosives are still its stock-in-trade – but the company is rapidly expanding its digital capability – creating data rich and artificial intelligence (AI)-infused tools that enable step-change improvements in customers’ productivity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalminingreview.com/technology-digitalisation/04112021/orica-selects-microsoft-azure-as-strategic-cloud-platform/",
-      "originalUrl": "https://www.globalminingreview.com/technology-digitalisation/04112021/orica-selects-microsoft-azure-as-strategic-cloud-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d19qcjcztr69p4.cloudfront.net/media/articles/pop/cloud-technology-01.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalminingreview.com/technology-digitalisation/04112021/orica-selects-microsoft-azure-as-strategic-cloud-platform/amp/",
-      "cdnAmpWebUrl": "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/technology-digitalisation/04112021/orica-selects-microsoft-azure-as-strategic-cloud-platform/amp/",
-      "publishedDateTime": "2021-11-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Mining Review",
-        "domain": "globalminingreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-aptiv-tops-expectations-but-chip-shortage-will-continue-to-hit-self-driving-cars.md",
-      "title": "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars",
-      "excerpt": "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
-      "originalUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-345715/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
-      "publishedDateTime": "2021-11-04T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-see-the-10-slide-pitch-amberscript-a-transcription-startup-that-aims-to-tackle-europes-vast-array-of-languages-used-to-raise-10-million.md",
-      "title": "See the 10-slide pitch Amberscript, a transcription startup that aims to tackle Europe's vast array of languages, used to raise $10 million",
-      "excerpt": "The series A raise was led by growth capital firm Endeit Capital, which will help the startup scale internationally.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pitch-deck-ai-amberscript-10-million-audio-and-video-accessible-2021-11",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pitch-deck-ai-amberscript-10-million-audio-and-video-accessible-2021-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images2.markets.businessinsider.com/6180ff9a23745d0018249320?format=jpeg",
-          "width": 701,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-deep-learning-ai-explained-neural-networks.md",
-      "title": "Deep Learning AI Explained: Neural Networks",
-      "excerpt": "Ballyhooed artificial-intelligence technique known as “deep learning” revives 70-year-old idea. In the past 10 years, the best-performing artificial-intelligence systems — such as the speech recognize",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/",
-      "originalUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Artificial-Intelligence-Neural-Network-Concept-777x583.jpg",
-          "width": 777,
-          "height": 583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-ai-explained-neural-networks/amp/",
-      "publishedDateTime": "2021-11-04T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-super-human-vision-technology-to-revolutionize-road-safety-in-autonomous-vehicles.md",
-      "title": "Super-human vision technology to revolutionize road safety in autonomous vehicles",
-      "excerpt": "Terranet AB (NASDAQ: TERRNT B) teams up with NEVS to explore innovative applications of its VoxelFlowTM technology to redefine urban road safety enabled by its unrivalled detection speed Lund, Sweden,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-road-safety-055650946f5176e87c4673bebfe1a27a",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-road-safety-055650946f5176e87c4673bebfe1a27a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

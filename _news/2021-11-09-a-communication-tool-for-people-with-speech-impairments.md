@@ -1,0 +1,35 @@
+---
+category: news
+title: "A communication tool for people with speech impairments"
+excerpt: "For millions of people, being able to speak and be understood can be difficult as a result of conditions that can impact speech, including stroke, ALS, Cerebral Palsy, traumatic brain injury or Parkinson's disease. Today, we’re inviting an initial group of people to test Project Relate, a new Android"
+publishedDateTime: 2021-11-09T19:00:00Z
+originalUrl: "https://blog.google/outreach-initiatives/accessibility/project-relate/"
+webUrl: "https://blog.google/outreach-initiatives/accessibility/project-relate/"
+ampWebUrl: "https://blog.google/outreach-initiatives/accessibility/project-relate/amp/"
+cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/project-relate/amp/"
+type: article
+quality: 109
+heat: 109
+published: true
+
+provider:
+  name: Google
+  domain: blog.google
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - Google AI
+
+images:
+  - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PROJECT_RELATE_YT_THUMBNAIL.max-1300x1300.jpg"
+    width: 1300
+    height: 731
+    isCached: true
+
+secured: "zgS/3OCW+76lSO5cXPA54x3UkULr7xkLwxPst+qOrVcZRc2FqQeBd90QZRnJdaTpNOosdRUCI5gp8jy6FrX8VZpp+4VQNV2B+ABvejwnt8DEgw4CyRJGzs8Wzhd9kmUanRK01zekT2rDg9TKJpo9baAuChvGSKY81iXRKBrDk4WODcdJ0Y5OTKwqDMXjIDmcp/rbcgWgRAa0Z493PjO3WYj00vFsfwrnS0o3xV9wTIpV1EqAWwwlU7tRNgN8D1EbWFUF+JBEN4AjqXLV9SAV9xQupgXdEkjDE+bThqTG0NeozQRGi5GF0uJ7FcLOhOJGDUtjl0lAQsCh5MRTNxN/mrE5uso56L7l+i2TJWALqe4=;oSIbsGP7sgrP0Gh3WtH7iA=="
+---
+

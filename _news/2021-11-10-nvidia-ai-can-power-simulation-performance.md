@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-09T17:51:00Z
 originalUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
 webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AWS AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
@@ -74,6 +76,6 @@ related:
         height: 756
         isCached: true
 
-secured: "qc5iTc36/qZF30oq086jI2bt/2LdvFXnXXHBM6c4jS9Xa4YOfLCr4XAYddN75Kx9+L1+ECXHx0XkYkZBZRGWu0/DA1EO+OlJMQL/Rd+CvhNAAEWFaSbU3q7Us81hsCskyoE5EdkmZnyh3oIpT11yO9+CG734C2S+GQfnCx8e0ZmH3A4yH6WH2M0uEcZR185dya0RIxr5HwBaUBzsfWtuvuVQ1JDvMGX5SYId52KUfc1RWJzoPyj2bWFxQ0rT63blv3o3WwE9+d1nb2YORbzLaAlrbv9pfqf6ZVcuttkm1guVQmcr7M+pbWH3ERGrNLmWRuwuN8IW/sWTDiVLXEpubf1iiphL7HEN4jvJ32Pg16M=;IrCJOUs6x5JigeWCSk7NtQ=="
+secured: "5v8F+TneTH3NJg4Ui2UAtCWXPXe7lXWxUghRyez+9LAErhz8JmKIAkSmZoS0q9sVSO/YzQrol8PbFjSkE21CXU1UxUXkwDS+Zin1pOAq+HnN79oIbbySZPK2D4zI2dG17Sjz8UnudmacE//drqMGlQCT4P5W2eEsVTWfcdSKPE+FPFCLQb2/x8UB3DxbFqZeqaQTcvpu+LbrUmJMZF/PH72bmsZkDJHp//Y9qUvyy+P5haKoO1HsC40eSn0awTLEesT2f609Oe2e8ywxN3oOfbPR0L+zwK1Am2YJHlBwTFyS9ij6hdrVoeqy6UvmEWBmb8fQGHq6pKTiJ6+PjfJqT3Q0pFJup5InUmQ1upTahHZIQo/EES3py+QpVCikYjy7yLU5zbnbeyjEpADOR53nptGcbCJRodGoOdQT9Uw/s53YK/yZpBgg2CQ1vrkV2EoF2rZBLrWxO8BQjf6LUhIjp81alzsLDLtS2KuPL13KvGOTLWJ4aMzE6/kV3wdkdEmxHihgAPQACFBDYrqeaZ9jlQ==;R9WE11O0tZjDDJTkFhYZjQ=="
 ---
 

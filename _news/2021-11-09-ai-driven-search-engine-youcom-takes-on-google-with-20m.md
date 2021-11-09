@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/ai-driven-search-engine-you-com-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/ai-driven-search-engine-you-com-takes-on-google-with-20m/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,7 +46,16 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Early Money: A startup gunning for Google with a new AI-powered search engine just got $20 million in seed funding"
+    excerpt: "Former @Salesforce chief scientist @RichardSocher has a new search engine that's using #AI to help prioritize results. Here's more on its new seed deal and recent ones for other #BayArea #startups . #"
+    publishedDateTime: 2021-11-09T16:07:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/inno/stories/fundings/2021/11/09/google-rival-with-ai-search-gets-20m-seed-deal.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
-secured: "GADIsDWitgMh1DZfaH4xnLGIWHCw/vWrcm4P/rZmW+zj3LGr6j36seQBaEfLO1WMRLO+BUsmlkAq8dV3alXhjKMu6GeUc8GUfObcgLhUVKEItvxOhQp3UQvBNEpeDo23WUIyP62haNcAsmR3wxxLt07tORb6iiYo2slRYYMZoVm85WqxyBzHDdZA3tO1DSpvDnlrECnPwBON0d1tEuP9tQ54c57hS17pXgdhIWrLyBtc84A/7+RDUaqM/r57AFSIC0MlByxUjSOzPpATINH95V4vcn6IDMafQ5NZOtSi4fiCUuFpprTsqJAzb3iqXFnbI2SsP27AGaQynABTgKGqjrNdrdUkprc2sVN1wVRU+VA=;G/OgT5GFGm3kdVgpYcrvVg=="
+secured: "l3NlxXk2bnnk/rqLuAOUKcSczEOF1mDxPIxyxC+foz1B8Xjqc4yeaWDcRNE5vd4CcxIdRub4ShXc3tUPmVfXQiScRTfZrXLQO9YdzWFRUg4BazNttnnRWHRzwxoW3zpTdwA8BrCMjE5Uk+TFBd25KpaUk7fXrLDDmNLQS3NY31AdvArT3RgplVtcZ//NSmXX1/QkOF6qtU6w7dLxfDOj+51CbUa8d5RTzZhbD7OScCot0GgJYtSU9Qvw1hMv+M/MqMgShtSofgCOlilpqKfVbSvN3uVFewT5n8iqqzDPY45+97G+0HomEhkImvfytIjewn+ZYEtI4aaAykt7gT8PaBee7smRBNj9fIlqCAmGqvMJAJWf6BeKgTdmBvyIsnOZZUZYDikjIZ3bOKyBxkWtkA/mFrpCZKZRAgyeiFHdjPnAz0GFr67i1sYANYNW3Sa4xebmosK1G8f3Qnws6kH0abBea348meSP5ihqJYkiy2K27sbmgowJM1VENeewy5bxCqVa5HWeN9DzUxPOQjEtsg==;ZM1OTnywePu2pXV9kHEkvQ=="
 ---
 

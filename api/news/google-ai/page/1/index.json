@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-09-a-communication-tool-for-people-with-speech-impairments.md",
+      "title": "A communication tool for people with speech impairments",
+      "excerpt": "For millions of people, being able to speak and be understood can be difficult as a result of conditions that can impact speech, including stroke, ALS, Cerebral Palsy, traumatic brain injury or Parkinson's disease. Today, we’re inviting an initial group of people to test Project Relate, a new Android",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/accessibility/project-relate/",
+      "originalUrl": "https://blog.google/outreach-initiatives/accessibility/project-relate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PROJECT_RELATE_YT_THUMBNAIL.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/accessibility/project-relate/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/project-relate/amp/",
+      "publishedDateTime": "2021-11-09T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-expanding-our-ml-based-flood-forecasting.md",
+      "title": "Expanding our ML-based flood forecasting",
+      "excerpt": "In 2018 we began our flood forecasting initiative to help combat the catastrophic damage from floods each year by equipping those in harm’s way with accurate and detailed alerts. This work is a part of Google’s broader Crisis Response program which provides people access to trusted information and resources",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
+      "originalUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/inundation_modeling.max-1000x1000.png",
+          "width": 1000,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
+      "publishedDateTime": "2021-11-09T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-ai-weekly-corporate-ai-labs-turn-toward-commercial-research-highlights-need-for-investment-in-basic-science.md",
       "title": "AI Weekly: Corporate AI labs’ turn toward commercial research highlights need for investment in basic science",
       "excerpt": "Corporate-backed AI labs are increasingly targeting commercial applications and domains, unsurprisingly. Where does that leave basic science?",
@@ -1351,101 +1456,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-google-owned-ai-firm-deepmind-turns-profit-for-first-time.md",
-      "title": "Google owned AI firm DeepMind turns profit for first time",
-      "excerpt": "Google owned AI Lab DeepMind turned a profit for the first time in 2020 according to Companies' House filings (Photo by Sean Gallup/Getty Images) Google’s AI department DeepMind turned a profit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/",
-      "originalUrl": "https://www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2021/09/Google-Announces-EUR-1-Billion-Investment-In-Germany-Including-Renewable-Energies-1337404394.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/amp/",
-      "publishedDateTime": "2021-10-06T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.md",
-      "title": "Alphabet’s DeepMind A.I. lab turns a profit for the first time ever",
-      "excerpt": "DeepMind, one of the world's top artificial intelligence labs, has turned a profit for the first time, according to a filing with the U.K. company registry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/alphabet-e2-80-99s-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever/ar-AAP9Dua",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 279,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105099255-DeepMind_Hassabis_WechatIMG253.jpg?v=1529477891",
-          "width": 4189,
-          "height": 2792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html",
-      "publishedDateTime": "2021-10-05T05:03:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html",
-        "domain": "com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

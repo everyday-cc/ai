@@ -2,6 +2,190 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-22-researchers-study-recurrent-neural-network-structure-in-the-brain.md",
+      "title": "Researchers study recurrent neural network structure in the brain",
+      "excerpt": "A recurrent neural network structure exists in the most important part of the brain -- the frontal cortex -- and this network is less complex than has been thought and mostly unidirectional, new research shows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/09/210921172655.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/09/210921172655.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-ge-healthcare-unveils-new-ai-powered-ct-system.md",
+      "title": "GE Healthcare unveils new AI-powered CT system",
+      "excerpt": "GE Healthcare today introduced its Revolution Ascend with Effortless Workflow computed tomography (CT) system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.massdevice.com/ge-healthcare-unveils-new-ai-powered-ct-system/",
+      "originalUrl": "https://www.massdevice.com/ge-healthcare-unveils-new-ai-powered-ct-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.massdevice.com/wp-content/uploads/2021/09/revolution_ascend_ge_healthcare.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassDevice",
+        "domain": "massdevice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-carbon-lighthouse-fights-climate-change-with-data-and-machine-learning.md",
+      "title": "Carbon Lighthouse Fights Climate Change With Data And Machine Learning",
+      "excerpt": "With machine learning, organizations can monitor and report environmental impact on demand, efficiently manage data streams through AI, and reduce carbon emissions by closing the",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/09/21/carbon-lighthouse-fights-climate-change-with-data-and-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/09/21/carbon-lighthouse-fights-climate-change-with-data-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6149e56c5e54ad1919b031cd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/09/21/carbon-lighthouse-fights-climate-change-with-data-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/09/21/carbon-lighthouse-fights-climate-change-with-data-and-machine-learning/amp/",
+      "publishedDateTime": "2021-09-21T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-making-games-immersive-and-engaging-through-aws-aiml.md",
+      "title": "Making games immersive and engaging through AWS AI/ML",
+      "excerpt": "He also cited the case study of how Sony Interactive Entertainment modernised the PlayStation Playstore, using Amazon SageMaker and Amazon Personalize. In terms of monetisation strategies ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
+      "originalUrl": "https://yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagek34f-1632226292285.jpg ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
+      "publishedDateTime": "2021-09-21T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-machine-learning-at-the-edge-a-hardware-and-software-ecosystem.md",
       "title": "Machine learning at the edge: A hardware and software ecosystem",
       "excerpt": "Being able to deploy machine learning applications at the edge bears the promise of unlocking a multi-billion dollar market. For that to happen, hardware and software must work in tandem. Arm's partner ecosystem exemplifies this,",
@@ -1191,163 +1375,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation.md",
-      "title": "Deep Learning Market – Major Technology Giants in Buzz Again | General Vision Inc., Microsoft Corporation, Intel Corporation",
-      "excerpt": "A new research study from JCMR with title Global Deep Learning Market Research Report 2021 provides an in-depth assessment of the Deep Learning including key market trends, upcoming technologies, industry drivers,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-how-to-invest-in-artificial-intelligence.md",
-      "title": "How to Invest in Artificial Intelligence",
-      "excerpt": "Learn how to invest in the growing artificial intelligence market, which is projected to reach nearly US$1 trillion in value by 2028. Artificial intelligence (AI) has been pegged by some as the fourth industrial revolution,",
-      "sourceUrl": null,
-      "webUrl": "https://investingnews.com/daily/tech-investing/emerging-tech-investing/artificial-intelligence-investing/how-to-invest-in-artificial-intelligence/",
-      "originalUrl": "https://investingnews.com/daily/tech-investing/emerging-tech-investing/artificial-intelligence-investing/how-to-invest-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investingnews.com/app/uploads/2020/07/how-to-invest-in-artificial-intelligence.jpeg",
-          "width": 500,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing News Network",
-        "domain": "investingnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-datarobots-new-ai-cloud-speeds-up-enterprise-machine-learning-projects.md",
-      "title": "DataRobot’s new AI Cloud speeds up enterprise machine learning projects",
-      "excerpt": "The startup says that the platform, AI Cloud, can function as the central hub for a company’s AI initiatives. It provides features for all the key coding and software deployment tasks involved in building machine learning applications.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/09/14/datarobots-new-ai-cloud-speeds-enterprise-machine-learning-projects/",
-      "originalUrl": "https://siliconangle.com/2021/09/14/datarobots-new-ai-cloud-speeds-enterprise-machine-learning-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/datarobot.png",
-          "width": 930,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis.md",
-      "title": "Descartes Labs to Host GEOINT 2021 Training Workshop on Creating Machine Learning-Based Computer Vision Models for Planetary Scale Data Analysis",
-      "excerpt": "The one-hour workshop, “Advanced Geospatial Analytics Utilizing Ever Increasing Geo Data with Computer Vision at Planetary Scale: Learn to Build and Deploy Machine Learning Models for Young Professionals to Senior Scientists,",
-      "sourceUrl": null,
-      "webUrl": "https://sensorsandsystems.com/descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis/",
-      "originalUrl": "https://sensorsandsystems.com/descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sensorsandsystems.com",
-        "domain": "sensorsandsystems.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

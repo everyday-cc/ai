@@ -9,8 +9,8 @@ ampWebUrl: "https://scitechdaily.com/new-machine-learning-system-gives-robots-so
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/amp/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: SciTech Daily
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Giving robots social skills"
-    excerpt: "MIT researchers have developed a control framework that enables robots to understand what it means to help or hinder one another and incorporate social reasoning into the tasks they are accomplishing."
-    publishedDateTime: 2021-11-05T04:00:00Z
-    webUrl: "https://news.mit.edu/2021/robots-social-skills-1105"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202111/MIT-Social-Interaction-01.jpg"
-        width: 3477
-        height: 2318
-        isCached: true
   - title: "Giving Robots Social Skills"
     excerpt: "Enabling social skills in robots could lead to smoother, more positive human-robot interactions, researchers say."
     publishedDateTime: 2021-11-05T23:22:00Z
