@@ -47,6 +47,20 @@ related:
         width: 680
         height: 453
         isCached: true
+  - title: "AI pioneer Andrew Ng’s Landing AI raises $57M in funding"
+    excerpt: "Landing AI Inc., a startup led by artificial intelligence pioneer Andrew Ng, has raised $57 million in funding from a group of investors that included the venture capital arms of Intel Corp. and Samsung Electronics Co."
+    publishedDateTime: 2021-11-08T20:42:00Z
+    webUrl: "https://siliconangle.com/2021/11/08/ai-pioneer-andrew-ngs-landing-ai-raises-57m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Andrew-Ng.jpeg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "sa+4yLg9AkWc96M0KM4YvMcFtvAuy0o5leXG8vZknPgLihR7B1GYzX44M7m+oAm+sA4szrt1KJx75MH2UNp7kt6RvRLCLuCWjZxUAdNrTIqr7L1qDbE8wEcXxgsjcPRucLq3qVLmzjI9ZBv69dMTBH9ITLya80EYxjoMBVQoa0sovFmQ+OetR1WRvtcytcT4XD9VqZ1IB7bJoFYQF5r8Y0DH/zb1cfmEvZOQWy4iszF45ROoqJYwFYZ8ChspJk4tSLjmU74qeFCQdycj9YjeNZnRSVq8qElHpSJsNQGKd7pP4Df0vJLW8fNvvXeYmH3rgnIgCr+M2vczdVLdq+fUFWhF5vdnmMKwx6W1NYTXytZ0PCh9tTAuiVMOIEbZgPkfnI4l9SjFxAlfkjr6nR1wV+ZnKAFe8QXAOw5Zl3Po+JfUaKEEndDNl22o4iYyanLYIr7EOEJr9zy2ELv8ecyhloI7+PMmXQRM0gJ86db9NsxneFrGDuIzTxM9xPpveMr06VgYWBRMTaPIsMG1V4LN8w==;WNERhH6kJuXRw8b66/rkJQ=="
 ---

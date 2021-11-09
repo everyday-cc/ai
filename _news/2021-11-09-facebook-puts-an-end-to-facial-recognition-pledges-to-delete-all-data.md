@@ -8,7 +8,7 @@ webUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial
 ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
@@ -222,6 +223,6 @@ related:
         height: 1366
         isCached: true
 
-secured: "0PX8nkgGqymOTHsyuUfUgiCHHu+rATSREGPfjTwBe6JEpaPQoyzFyexnlx71Vge0gMtqBmyFSIdnScxxbLPqjKvEnvXM2newK0oD3Mgp027Zoc5YsJAziUF2Jmsdo1L/8fW6RmnMHOubvNzLR8AIzLvgby0+acPk4ZxvCsbzq74eEYY/yn4ZbYjaVQyFhe/98AhNLmNfi1h+nvJjZvzEGW5QBXOJrk00Y1UMEmsDZ30GtUFw9JNXHe4fUepoysLQv7L1QurI8gNaY2Y59IsOg1jG39Lt5/kuSOj6h/4MfTGn4qYftMsCyOxlTI5dWJCp6YHXMMSa4Zgaw4tr4YXqjBOHf9mN2Zr6NSKv/3C1/80=;vE833MqIzsiQh0zrmAHxGQ=="
+secured: "m3c7zO33IAWp9gBDYUnvAGPo6QFKSHzKQNZct55HCxNXR4gLBsluzxZkKIl4o/OhulbRKsU+ch2kRLYEI9QIL4CzylcWq9KzcmyQ7VqcsQTKikyhdHTi8yMJi7d7/Woa0NrQZKUWqMb4zPHZSuT9r6yM18R9h6o8RWJJiF4+7gk38oWaDZR2GJPW66X81AWQ9cPDncPKlp+vJdIGhiXEtOwNrHuUnhxt44Avc5G8tDKuWKHY0YWbSeMYScI3cTLipoHYRxNzKnMPOWIGND93K6Vt8x4soUPKj5ADEUmPRaJIQrCMn0OefliY+X3EojfVG/3sfezZQKesHxetAd79ND8QnXxuWgyLXAXkUJhLmvMwp+HHFQKeaRiVFnBuHXc4D0k9AcIjekj4BeeRayx7Qt//d9VdzOLCo1SseB84NTWjpprQBL3/uQXMq+ktWaGXHxx4x5CKIfS4hKNgNNDLgiY0OIuo04uYL98YzI3LEzjRefK0RydevwkwlaeK79Ex8l5O5I8IzXNhs9ztqozk1A==;Ejl397Q44K3rZVxU3Ty2lQ=="
 ---
 

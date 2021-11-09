@@ -39,6 +39,29 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "What impact has Artificial Intelligence had on the restaurant industry during the pandemic?"
+    excerpt: "The implementation of technological tools, such as Artificial Intelligence (AI), have changed the paradigm in different industries and have allowed them to optimize and make their processes more efficient."
+    publishedDateTime: 2021-11-08T21:54:00Z
+    webUrl: "https://www.timesunion.com/business/article/What-impact-has-Artificial-Intelligence-had-on-16602810.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 27
+    images:
+      - url: "https://s.hdnux.com/photos/01/22/56/63/21687549/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Application of artificial intelligence and machine learning for HIV prevention interventions"
+    excerpt: "In 2019, the US Government announced its goal to end the HIV epidemic within 10 years, mirroring the initiatives set forth by UNAIDS. Public health prevention interventions are a crucial part of this ambitious goal."
+    publishedDateTime: 2021-11-08T23:57:00Z
+    webUrl: "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(21)00247-2/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 23
 
 secured: "Peo4Zevf39J7gq8hhxf9+i6phXUCsxJBaWAPraenImYJ4e71L20Uzjmnuby8A0IWNYExAvzDgQFYKuUJ6noyQc7Vhl3q12enyy98+RKG2MoERBTWaNhLXiRDCQSaD+2Dl9kfSF7d9eKwUXgeDlWMW81hCtCBCAZSEeMPfMq2Lh3jZBWZBR24QxzQka0LOo3ZuAcTafW5RSJy85KuYFJkXC7bA0gibn+QiLVJoTJgUdFGhZRhX3ubDhR3vpsTdqv/Vlb2uHr2gwa8NUEjGRwbKA/1wUqzi6hUU2eUDD+xUWaUDpYUsTRJFkhRriq+QR8UVSFDnFjWH935piZMaBcflGXPDsyO21QXtx+14JObmIMNIkBT0mBxEEU+kvOjzw/WHtgCyHosNqa6yb/reciBVKb6bMN+IaJYUf4WbXo0pjBn0vb3ross1ep3J71HOyvzNP2iaog3bjHodCXv7qIlbAt+lHVYzLvUCLGS4AGe8+ZA9RwCRBEEQVsfbDnXH6WU/j2zhgrZ9mf7LsxpsyVC8Q==;jO/a8D9UWJblgx89yrbYsA=="
 ---

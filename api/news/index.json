@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-09-how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai.md",
+      "title": "How enterprises can keep fear, uncertainty, and doubt from impeding AI",
+      "excerpt": "Resistance to new processes is nothing new, but it could become a crucial factor for AI and the radical shift it brings to data environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/",
+      "originalUrl": "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1300108018-e1636131773896.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/amp/",
+      "publishedDateTime": "2021-11-08T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk.md",
+      "title": "Automate detection of broken utility poles using the Amazon Rekognition Custom Labels SDK",
+      "excerpt": "Domestic infrastructure issues are a pain for everyone involved. Not only does it negatively affect customer satisfaction, it also has a cascading effect on businesses and their bottom line in terms of financials. Electric utility poles, for example, are an example of a cumbersome infrastructure issue",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/08/damaged-pole-2.jpg",
+          "width": 801,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T16:02:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-insurance-ai-company-lemonade-acquires-metromile-to-boost-automotive-offering.md",
+      "title": "Insurance AI company Lemonade acquires Metromile to boost automotive offering",
+      "excerpt": "Metromile's auto insurance offerings are informed by a decade's worth of data, which should improve the quality of the newly-introduced product, Lemonade Car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/insurance-ai-company-lemonade-acquires-metromile-to-boost-automotive-offering/",
+      "originalUrl": "https://www.zdnet.com/article/insurance-ai-company-lemonade-acquires-metromile-to-boost-automotive-offering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0821aa41bc72b1f7e4b69f8648e5edb9107beeea/2021/11/08/7a3f4a5e-0b96-4dd7-9e5e-6ff69333f5c0/metromile.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/insurance-ai-company-lemonade-acquires-metromile-to-boost-automotive-offering/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/insurance-ai-company-lemonade-acquires-metromile-to-boost-automotive-offering/",
+      "publishedDateTime": "2021-11-08T14:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-ai-weekly-corporate-ai-labs-turn-toward-commercial-research-highlights-need-for-investment-in-basic-science.md",
       "title": "AI Weekly: Corporate AI labs’ turn toward commercial research highlights need for investment in basic science",
       "excerpt": "Corporate-backed AI labs are increasingly targeting commercial applications and domains, unsurprisingly. Where does that leave basic science?",
@@ -10,7 +166,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/08/ai-weekly-corporate-ai-labs-turn-toward-commercial-research-highlights-need-for-investment-in-basic-science/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -50,7 +206,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -462,7 +619,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -719,7 +876,7 @@
       "originalUrl": "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-in-finance-and-insurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1069,152 +1226,6 @@
         "name": "Inshorts",
         "domain": "inshorts.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-singapore-to-boost-ai-research-funds-start-bank-partnerships.md",
-      "title": "Singapore to Boost AI Research Funds; Start Bank Partnerships",
-      "excerpt": "Singapore will introduce two artificial-intelligence programs in finance and government, and allocate an additional S$180 million ($133 million) for research into the technology, according to Deputy Prime Minister Heng Swee Keat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-boost-ai-research-funds-start-bank-partnerships",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-boost-ai-research-funds-start-bank-partnerships",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGtzxPrVHurM/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-07T17:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-indian-ai-market-to-reach-soaring-heights-by-2025.md",
-      "title": "Indian AI market to reach soaring heights by 2025",
-      "excerpt": "CIOs looking to keep pace with their competitors will need to up their spending on AI in the coming years. IDC forecasts that businesses will adopt it to address organizational needs such as real-time analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.html",
-      "originalUrl": "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/08/thinkstockphotos-99261890-100609753-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.amp.html",
-      "publishedDateTime": "2021-11-07T16:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027.md",
-      "title": "Global Artificial Intelligence Robotics Market Report Shows Demand to Boost Industry Growth from 2021 to 2027",
-      "excerpt": "With this report titled Global Artificial Intelligence Robotics Market 2021-2027, research analysts of MarketsandResearch.biz help us to present our clients with insightful data on the investment or growth opportunities in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-07T13:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

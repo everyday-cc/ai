@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 125
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/07/Landing-AI-Dongyan-Wang.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AI pioneer Andrew Ng’s Landing AI raises $57M in funding"
+    excerpt: "Landing AI Inc., a startup led by artificial intelligence pioneer Andrew Ng, has raised $57 million in funding from a group of investors that included the venture capital arms of Intel Corp. and Samsung Electronics Co."
+    publishedDateTime: 2021-11-08T20:42:00Z
+    webUrl: "https://siliconangle.com/2021/11/08/ai-pioneer-andrew-ngs-landing-ai-raises-57m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Andrew-Ng.jpeg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "Hv6JxLua3a30wLceSkjapzAx5ELYWmlOqBXJPi+XgIMIGVO3vKnPRV9okY6/nr8XSjIqcT4lgwDrUcZp7JHLWD984fLDzub2x2P1+G9TN054rKW0czt3TgeCbc6aU6+wovWqlqU6ZObQw4tXEOSgDcYB/fL7F0oFtvUS4WBjcuoAZL4sMY6eG38f2dr9ZyYjF0G+SDU/kHmKHUpBQWyNq7vLpBe4qFjIjLQDoBgiTLXjfR01JTIwwN65NxPQ4YExgaKUqZ26bpPbu/5nug593mL1b0R/sFcFNKTt2bL+W5YuIHYl63x7dE+OZ2MSgYTo18d6OM+h5rBNd0/Cdygx1pEsMdVhutAlDNV+2r2fLQKH+ByprA0gX7TsOW8xNumeTdvIIaXzDAvmVGnD8Ovs5w2lHyC0QRItFR5MS/W2r1jp8/i2NRCjzR3dH5WE9UJ8K9GIMm0pCL8nlOAeaTslfUura7394O5VUzPsGdwXY3toBBsYBq+znmmLiQuXTew8y8jvkbocWZjnR/XGjfQd4A==;j1L9iiMLXPG3ksh6Wfoibw=="

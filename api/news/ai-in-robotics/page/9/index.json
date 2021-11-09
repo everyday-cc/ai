@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-09-14-is-the-robot-war-upon-us.md",
+      "title": "Is The Robot War Upon Us?!",
+      "excerpt": "Yikes... For decades, mankind has feared the day technology becomes cleverer than us. Now it’s here, and we were too busy trying to sync our Sonos to notice. Welcome to The Big Techover.... Is The Robot War Upon Us?",
+      "sourceUrl": null,
+      "webUrl": "https://www.cosmopolitanme.com/news/23082-robot-war-tech-intelligence-normal",
+      "originalUrl": "https://www.cosmopolitanme.com/news/23082-robot-war-tech-intelligence-normal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cosmopolitanme.com",
+        "domain": "cosmopolitanme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-logistics-robotics-startup-ambi-raises-26m.md",
       "title": "Logistics robotics startup Ambi raises $26M",
       "excerpt": "Ambi Robotics emerged from stealth with a $6 million raise. Today the Bay Area-based firm is back with several times that, announcing a $26 million Series A, led by Tiger Global. The new round also features participation from existing investors,",
@@ -1272,59 +1306,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-irobots-roomba-j7-robot-vacuum-uses-machine-learning-to-avoid-pet-poop.md",
-      "title": "iRobot's Roomba j7+ Robot Vacuum Uses Machine Learning to Avoid Pet Poop",
-      "excerpt": "The company is offering a P.O.O.P. (Pet Owner Official Promise) guarantee that its latest robot vac will avoid solid waste.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet",
-      "originalUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02r1tXjDU88QfgITP4P7TKQ-1.1631035488.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet?amp=true",
-      "publishedDateTime": "2021-09-08T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

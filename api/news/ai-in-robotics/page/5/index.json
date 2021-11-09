@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-08-wild-images-show-scientists-training-robots-to-clean-up-chernobyls-waste.md",
+      "title": "Wild Images Show Scientists Training Robots to Clean Up Chernobyl’s Waste",
+      "excerpt": "Now, the scientists are hoping that the site of the disaster can help train robots to help humans stay safe in the decommissioning process. 2 / 8 The team worked largely in what’s known as the New Safe Confinement (NSC),",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/wild-images-show-scientists-training-robots-to-clean-up-1847817874",
+      "originalUrl": "https://gizmodo.com/wild-images-show-scientists-training-robots-to-clean-up-1847817874",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/098423da31c5aff80afdd3a62ba78ddc.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/wild-images-show-scientists-training-robots-to-clean-up-1847817874/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/wild-images-show-scientists-training-robots-to-clean-up-1847817874/amp",
+      "publishedDateTime": "2021-10-07T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-as-a-strategic-advisor.md",
       "title": "Tomahawk Robotics appoints LTG (Ret.) Paul Ostrowski as a Strategic Advisor",
       "excerpt": "I believe Tomahawk Robotics' universal robotic control software, Kinesis ... Designed from the ground up with the user in mind, Kinesis is the only multidomain, cross-architecture, AI-enabled control system that unlocks intuitive interaction with remote ...",
@@ -1302,40 +1354,6 @@
       "provider": {
         "name": "Scroll",
         "domain": "scroll.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-mars-robots-take-cruise-control-during-solar-event.md",
-      "title": "Mars robots take cruise control during solar event",
-      "excerpt": "When the sun gets in between Mars and Earth, NASA experiences a communication gap with its robotic explorers at the red planet. The Mars solar conjunction takes place between October 2 and 16, and the event happens for a couple of weeks every two years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.waaytv.com/content/national/575445912.html",
-      "originalUrl": "https://www.waaytv.com/content/national/575445912.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-02T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAAY-TV",
-        "domain": "waaytv.com",
         "images": null,
         "publishers": null,
         "authors": null

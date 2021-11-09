@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Oracle bolsters cloud infrastructure with suite of AI tools"
-excerpt: "Oracle has updated its cloud infrastructure service to include a new artificial intelligence suite of services comprising of six new tools."
-publishedDateTime: 2021-11-07T09:07:00Z
-originalUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/?fp=2&fpid=1"
-webUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/?fp=2&fpid=1"
+excerpt: "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth ..."
+publishedDateTime: 2021-11-07T08:13:00Z
+originalUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/"
+webUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/"
 type: article
 quality: 39
 heat: 39
@@ -40,6 +40,6 @@ related:
         height: 720
         isCached: true
 
-secured: "OR0QWCCRu5ZHqt/YTTQFDukSQwA15IbZhDSab6O5pjRiMQOXqcaAnlyBwgvsU5ZC777TT+lemUwFW3AkgPQSUkmq/uvR0/YLFkdlO/RK2yHqJv2Ah4zkQE+eXmMp2DXDvlPmklP3iHLEWTXPp/tLA+znRI3VIpFBkc912njaQOiinwBQKSGeBS8UV1Apf3wXYRty0wpsE0OKnC07CUqM85ZAPr4Evjdx5bdUYPoJOXvuujWXI9l3YVja09g3ozCGx7cyXcvEYXg65Zu4O4lAwYsh58SRHRhabtu5QYlHdz/s2abUWb7GMKMBe6uGI8CMccZ5Iwt214ZPSSiEN69L46jV9Wf3565KzQEXIAsgPj4V/DUveCJcJSSsLCfB2NOtvKdPLf0h8Hno31FgFpsuhC6DtmQGi6e19dFJA1gIUi/Uj61gVQKuy+Q7oWZh1rsrreqLi1/UWuZuH3nNT5tMIDq1PDShkyjJvU/uVIB7qTcWmeEBKKyBmP+vInAOQY8bwUL45G7n+ouZ5ocvcVrFfw==;HBMOBO3EqTpYD9aVL4rzag=="
+secured: "RNbRshstJse/faQft7FEwZnlX2t7d86YXV3gGMs1kI6f3ysvfgRE8cXv2JCngKCoSyk2FvHzKFkkMJPsTTGK6PgzyLoIddA2SxGmtu9b9Czf+PTE3kcVsxfw94aMkbTa3ksALX3uueQiEUoy0rLqfa+xcTeYFFmGK0PM7mj9GJF98FE4lYlFGM69lIEeZgQ19MfDq81LaiXAGAtKPFzyT0dypqcIqXgHFJVrUDUa+iRB1cRy/SoKT1cBHAE6C8yoSlp7OdrgJ99YOieUUsQAlNKSzCw6hsLEq+Fy64Vh+Ik0OSgc2I4MgegF3yl5mTK+7YpcGG4fH9Hh2g7gGs/uTErt5ZMjKv4VqNepkZhe1lI=;1FYqQhFTPO+drs4dhzh0qw=="
 ---
 

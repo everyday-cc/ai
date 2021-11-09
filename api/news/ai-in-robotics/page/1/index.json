@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-09-how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai.md",
+      "title": "How enterprises can keep fear, uncertainty, and doubt from impeding AI",
+      "excerpt": "Resistance to new processes is nothing new, but it could become a crucial factor for AI and the radical shift it brings to data environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/",
+      "originalUrl": "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1300108018-e1636131773896.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/amp/",
+      "publishedDateTime": "2021-11-08T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-bt-steps-up-robotics-play-with-new-lab.md",
       "title": "BT steps up robotics play with new lab",
       "excerpt": "BT opened a robotics test lab in its R&D campus Adastral Park in the UK county of Suffolk, to trial technology for maintenance and deployment of telecoms infrastructure.",
@@ -1378,50 +1430,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-samsungs-jet-bot-ai-robot-vacuum-is-a-must-have-for-pet-owners.md",
-      "title": "Samsung's Jet Bot AI+ robot vacuum is a must-have for pet owners",
-      "excerpt": "The Samsung JetBot AI+ looks like the robot vacuum of the future, and has some ultramodern tech under the hood. Credit: leah stodart / mashable Despite their overall hands-off capabilities, most robot vacuums require some sort of pre-cleaning to avoid eaten phone chargers or socks.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum",
-      "originalUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/reviews/006pViF0SeLANeuxsVnRG1c/hero-image.fill.size_1200x675.v1635563107.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/review/samsung-jetbot-ai-plus-robot-vacuum?amp",
-      "publishedDateTime": "2021-10-29T20:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

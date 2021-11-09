@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/c4ecfae/2147483647/strip/true/crop/2946x1547+0+209/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F12%2Fdb%2F1da3cf1a45d3b1207114913d77ba%2Fadobestock-180950831.jpeg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Financial Secretary Visited MioTech at 2021 Hong Kong FinTech Week"
-    excerpt: "Pictured/ Financial Secretary of Hong Kong SAR, Paul Chan Making Opening Remarks at 2021 Hong Kong FinTech Week The main conference of 2021 Hong Kong FinTech Week starts today at the Hong Kong Convention & Exhibition Centre and online."
-    publishedDateTime: 2021-11-04T06:23:00Z
-    webUrl: "https://www.linkedin.com/pulse/financial-secretary-visited-miotech-2021-hong-kong-fintech-week-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFpfhEvprxcVA/article-cover_image-shrink_720_1280/0/1635934637969?e=1641427200&v=beta&t=-dXGAFB8PqqLA8pqf-PKY8V8zRO2HinEdmEUTCXpVQg"
-        width: 540
-        height: 720
         isCached: true
   - title: "F|T: The FinTech Times – Float has got a Tiger Global’s pace"
     excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."

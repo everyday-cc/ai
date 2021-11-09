@@ -93,6 +93,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facebook Puts an End To Facial Recognition, Pledges To Delete All Data"
+    excerpt: "Facebook's opt-in facial recognition system will no longer be available in a matter of weeks, and the templates it relied on to function will be deleted. The decision comes as the social media giant rebrands as \"Meta\" and looks to keep ahead of regulations."
+    publishedDateTime: 2021-11-08T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 61
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Why is Facebook ditching face recognition and will it delete my data?"
     excerpt: "Users of the social network will have their face data deleted, Facebook's parent company Meta has announced, but it is less clear what will happen with the AI algorithms trained on that data"
     publishedDateTime: 2021-11-04T12:02:00Z
@@ -108,22 +124,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/11/04112004/PRI_208269358.jpg?width=1200&enable=upscale"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Facebook Puts an End To Facial Recognition, Pledges To Delete All Data"
-    excerpt: "Facebook's opt-in facial recognition system will no longer be available in a matter of weeks, and the templates it relied on to function will be deleted. The decision comes as the social media giant rebrands as \"Meta\" and looks to keep ahead of regulations."
-    publishedDateTime: 2021-11-08T22:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 59
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
-        width: 1500
-        height: 860
         isCached: true
   - title: "Facebook to shut down face-recognition system, delete data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."

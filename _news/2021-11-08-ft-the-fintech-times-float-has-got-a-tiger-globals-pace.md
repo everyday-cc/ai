@@ -133,20 +133,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Financial Secretary Visited MioTech at 2021 Hong Kong FinTech Week"
-    excerpt: "Pictured/ Financial Secretary of Hong Kong SAR, Paul Chan Making Opening Remarks at 2021 Hong Kong FinTech Week The main conference of 2021 Hong Kong FinTech Week starts today at the Hong Kong Convention & Exhibition Centre and online."
-    publishedDateTime: 2021-11-04T06:23:00Z
-    webUrl: "https://www.linkedin.com/pulse/financial-secretary-visited-miotech-2021-hong-kong-fintech-week-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFpfhEvprxcVA/article-cover_image-shrink_720_1280/0/1635934637969?e=1641427200&v=beta&t=-dXGAFB8PqqLA8pqf-PKY8V8zRO2HinEdmEUTCXpVQg"
-        width: 540
-        height: 720
-        isCached: true
 
 secured: "f4Bm0j+CUZMN+eMuO2hXeEMBMWSB0A8nHfoHFYK40msNMgL+GmPXsrXcCFe3+AoNEFtnA0CHCiT4M+wWlY/NOne54oHqvL+UcxOuAHDhnJ1v906VZ3xYBRS2/1JU3F4hXc1ZoUBX5kRCTrdOoF2h1lchM+iJgOXLDN19UgTcmz6dfLpEcB442PusqXyhBJF2n0HCDZ6sQOXM9q73M+Yi++Z4L/+LLAyY8NeJba18xddlIOYUzBDiyVb5Mz2PK5G2FKVQuXEHtCp3mrAPmfveQQf0pa5lnOvt4GTIzXNJ9VIfAjMvlk1ikMNUlqz+1GAa5iPAamRQNeYBnu8zgMyxQJ/4XmByj8APec5jaNV1C+odudsEeraI+3f0j3uHpdGq4PBq/o9i4h33z89gvBKc/fxBDFVUY5UD+pE9OL9wsoj8mbExg/aJKDDBy2lSr6M1xOi52fxNYccZKkmIaLXNrVZFMK9PzNL6pvSC1gDJ6+wAzIiFzGWh/8bxo+8UQwyi197fdrDkBvBGbCjVa3RIQw==;KuVMUB+VKbXLD2uEqBKWRw=="
 ---

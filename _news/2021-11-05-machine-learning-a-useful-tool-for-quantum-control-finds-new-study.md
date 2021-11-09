@@ -39,20 +39,6 @@ related:
         width: 2001
         height: 1279
         isCached: true
-  - title: "Machine learning a useful tool for quantum control, finds new study (w/video)"
-    excerpt: "Researchers show through simulations, that reinforcement learning, a type of machine learning, can be used to produce accurate quantum control even with noisy measurements."
-    publishedDateTime: 2021-11-04T07:43:00Z
-    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=59069.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 36
-    images:
-      - url: "https://www.nanowerk.com/nanotechnology-news2/id59069_1.png"
-        width: 400
-        height: 256
-        isCached: true
 
 secured: "meftg5sgvl4dxrLklu2x5G7D6Tc6U55Vw0lGiSK0nN4CDhZCjVarZsW00vRqCo753AxWEgypdKx2+TTojTaoCgKKYrtoAGkUIsRUUx2JUHGvRj3tSMtRtjJOOCi/BfMAHrDU5aKH+5KgIivXHj1k6yYuEgXWdJzb/js+typoKnw2rCx94m6nManDUYC2U9I/WwfbOhBpKy5zYk1F9sYQzdq4UCG+tH9qUKm0q9CC9uXTU/CwibTk2op95FNRYXzILDF013gi85FbqzrkZUJPHy99FtMe9wEHtHLSv0R6+QraPHfP8O0aabJAL2uRIdeL6VbIdYz0qv+1cpGLVP7ICvbU5LnY/irY1PctuAIIaJg=;3RZ51O8WoUG0QvoxSzgggw=="
 ---

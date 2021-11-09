@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-12-omniq-partners-with-911inform-to-expand-offerings-and-sales-channels-for-ai-based-object-identification-and-location-discovery-solutions.md",
+      "title": "omniQ Partners with 911inform to Expand Offerings and Sales Channels for AI-Based Object Identification and Location Discovery Solutions",
+      "excerpt": "Frost & Sullivan New Product Innovation Award in Enterprise Safety Solutions. 911inform, serves such diverse organizations",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/10/g23333007/omniq-partners-with-911inform-to-expand-offerings-and-sales-channels-for-ai-based-object-identific",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/10/g23333007/omniq-partners-with-911inform-to-expand-offerings-and-sales-channels-for-ai-based-object-identific",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23333007",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23333007",
+      "publishedDateTime": "2021-10-12T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-synaptiq-and-algolook-demo-machine-vision-mask-detection-model-at-2021-nsc-safety-congress-and-expo.md",
       "title": "Synaptiq and AlgoLook Demo Machine Vision Mask Detection Model at 2021 NSC Safety Congress and Expo",
       "excerpt": "The novel machine vision model uses a deep neural network trained on thousands of images to detect the presence or absence of masks in milliseconds. “As businesses rebound from",
@@ -1320,49 +1355,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-image-recognition-market-will-reach-usd-91029-million-by-2030-at-156-cagr-marketbiz.md",
-      "title": "Image Recognition Market, Will Reach USD 91,029 Million By 2030 at 15.6% CAGR-Market.Biz",
-      "excerpt": "The Image Recognition Industry research report focuses on global and regional key company information such as company profiles, products, object specifications, industrial capacity, production ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/image-recognition-market-will-reach-usd-91029-million-by-2030-at-15-6-cagr-market-biz",
-      "originalUrl": "https://www.digitaljournal.com/pr/image-recognition-market-will-reach-usd-91029-million-by-2030-at-15-6-cagr-market-biz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

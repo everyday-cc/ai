@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-09-automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk.md",
+      "title": "Automate detection of broken utility poles using the Amazon Rekognition Custom Labels SDK",
+      "excerpt": "Domestic infrastructure issues are a pain for everyone involved. Not only does it negatively affect customer satisfaction, it also has a cascading effect on businesses and their bottom line in terms of financials. Electric utility poles, for example, are an example of a cumbersome infrastructure issue",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/08/damaged-pole-2.jpg",
+          "width": 801,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T16:02:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-11-07-facial-recognition-on-smartphones-is-it-secure-and-should-you-use-it.md",
       "title": "Facial recognition on smartphones: Is it secure and should you use it?",
       "excerpt": "Facial recognition has become common on smartphones and laptops, but they're not all equally reliable or even secure.",
@@ -1360,49 +1413,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-167m.md",
-      "title": "Deep North, which uses AI to track people from camera footage, raises $16.7M",
-      "excerpt": "Deep North, a startup developing technology to monitor the behaviors of people captured on camera, has raised $16.7 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/",
-      "originalUrl": "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/",
-      "publishedDateTime": "2021-10-21T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

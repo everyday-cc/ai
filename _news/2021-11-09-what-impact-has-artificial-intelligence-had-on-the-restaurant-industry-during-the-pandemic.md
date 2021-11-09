@@ -1,48 +1,67 @@
 ---
 category: news
 title: "What impact has Artificial Intelligence had on the restaurant industry during the pandemic?"
-excerpt: "Technological solutions are being used more and more in the restaurant sector. For example, as of COVID-19, the consultation of the menus through QR code was incorporated."
-publishedDateTime: 2021-11-08T16:33:00Z
-originalUrl: "https://www.entrepreneur.com/article/395960"
-webUrl: "https://www.entrepreneur.com/article/395960"
+excerpt: "The implementation of technological tools, such as Artificial Intelligence (AI), have changed the paradigm in different industries and have allowed them to optimize and make their processes more efficient."
+publishedDateTime: 2021-11-08T21:54:00Z
+originalUrl: "https://www.timesunion.com/business/article/What-impact-has-Artificial-Intelligence-had-on-16602810.php"
+webUrl: "https://www.timesunion.com/business/article/What-impact-has-Artificial-Intelligence-had-on-16602810.php"
 type: article
-quality: 57
-heat: 67
+quality: 27
+heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1636389211-dark-kitchens1.jpg"
+  - url: "https://s.hdnux.com/photos/01/22/56/63/21687549/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
 
 related:
-  - title: "How is AI impacting the automotive industry?"
-    excerpt: "AI or artificial intelligence – as an abstract concept – conjures up multiple images, in part because it has been...Read"
-    publishedDateTime: 2021-11-08T16:59:00Z
-    webUrl: "https://www.just-auto.com/features/how-is-ai-impacting-the-automotive-industry/"
+  - title: "Interesting AI, ML, NLP Applications in Finance and Insurance"
+    excerpt: "Many blogs address the effect of AI in the financial and insurance industries, but many of them focus on far-fetched AI and machine learning concepts that have yet to be proven or implemented in either."
+    publishedDateTime: 2021-11-08T10:41:00Z
+    webUrl: "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-in-finance-and-insurance/"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 88
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/shutterstock_1698736867.jpg"
-        width: 500
-        height: 282
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Learning_AIM.jpg"
+        width: 1120
+        height: 630
         isCached: true
+  - title: "5 FinTech companies disrupting the financial sector in Boston"
+    excerpt: "FinTech is the cross-culmination of traditional methods often associated with accounting, banking, finance industries, and of innovative tech"
+    publishedDateTime: 2021-11-08T12:37:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-companies-disrupting-the-financial-sector-in-boston/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Application of artificial intelligence and machine learning for HIV prevention interventions"
+    excerpt: "In 2019, the US Government announced its goal to end the HIV epidemic within 10 years, mirroring the initiatives set forth by UNAIDS. Public health prevention interventions are a crucial part of this ambitious goal."
+    publishedDateTime: 2021-11-08T23:57:00Z
+    webUrl: "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(21)00247-2/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 23
 
-secured: "2cCOCLowtW5i/+WMjAs8twkFLFdrNGlz0hLAXSYOLSk0h70JjdBjml6XuIbBNMsIAYYFjoWFEMSLr9ptA6Onty23HOkI0JsiFmYsv4Ai7Aur1ofV8snUWSYS9gJYR1Avxtiu9BHJ99fRgMNSArj7zDH3GiQS2Uz5IQkDHkOnnifRTXCVNkKudONQlOvM1RU4OXjdXmnzPWY8S3POj5FyssVeSBt4byYvVD9Ea5NfADasyeZDnDmGHyQlfCrLNrxe10SUS1GcysAsXiE9Ka9IDnNdCAnVoVB0cZ9VdhLbve1hXsfxO4CQnalFC5B4AvSG8YlKZvGQNcBnZknIPQZANpKUaLG8pT5Oy9wuau9N3ys=;fmFfYFLLgRNkD1/IKeBv1Q=="
+secured: "cBdypBy2ubWlu1er6o0qcLf6h0xt0Bw/UN4caWWDiHGNwhKKGNNTo0NApuOWCpBuF3rhWT3H+24ib/L1mQIBOFLw4HVijSNLiVef47LhBqKTM1v5BJcEX0jNmK2gaKY8xcnw+FmcGLfq07sevOC3SkQ6clBCvMqKq8Erf3DeBKimaoXeh2iqIiaVzJc9GBmFuqpUl/2rW6Nx4TkAFqKcnEwYVGy2Jfl6xxiGRHugQkhm/C34QfHj2YWMz5UgmtBnX3Wy2+8TzyW0svDihUEoOY/gOvJ/dHauL9yxvsRdbwIG6PQ4hWfFbXCSSGFN5NkE2bYPXlQkZ0FaUw3dtxewWySXHmwUUstrRxCej3tRAuU=;q77M5uQc8m/p13nm6Xtb4A=="
 ---
 

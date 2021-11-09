@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/11/08/ai-weekly-corporate-ai-labs-turn-tow
 ampWebUrl: "https://venturebeat.com/2021/11/08/ai-weekly-corporate-ai-labs-turn-toward-commercial-research-highlights-need-for-investment-in-basic-science/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/ai-weekly-corporate-ai-labs-turn-toward-commercial-research-highlights-need-for-investment-in-basic-science/amp/"
 type: article
-quality: 70
-heat: 70
+quality: 72
+heat: 72
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "WnynYpGoSL2f/PQEKRU6VU0DKO49YJLdKghVssR+OHtYV/Xsiio6DRGuHddUfMlDptvZVm7Lz0HhyNwYKVLj6vR35O0jiYjQJOeO8hweJcwuDgoGEAMmlgO0oMSdST8WyAcQfcBXU4qdlOIC66krz7EreCbPx64CMZQiyLDQmqN0hsMYBxayUaRi74YB5iCNexDNc4ByNxdL0hQ6SQ6Q9pKxKKfCOYuXW3AXX0xFNWG3LrRFTSA3dmaekCPcUDFSBVeZYzqBEAGYrl8XcG0a1U94aWeltYVP6UFcjbtd5wxu6GIpRr2HA2i8yqBhsrzQc+K545xN2PPjCVWV8aQMbmwPcQ8HCMXWCHoWVTK9zRo=;zSQlSneGuXbO+Sxed77Wug=="
+secured: "mHcRgXKQr5YPn4fnxKmrw7Kv2H8u5NhTiQuGCbFxp54S3wMm4ZiQprLQz/60hElxIgogePbuphBu9OeNVwcvNbnL2xPrcdfJfBKkX+osFfIFCicO57cJB7bKSmhtBrXAL+HV7WRJP8fgO+7vpkap49ICTKwEPsFeNtkS5yri+UzkkxqtYHyIoAhLnXooTHbmT1fDp7TqTvbnVpSZv4uQ0KsuYT4hDjEkD02ey5cLBiS4KGwSm5XEL9rcpbn1Z7euyskkSM2tMQksr37V00ONjq8kwz9zsisGxf5aqPzsKPVXD/1kRErEFEHuSs2zFsuKq8joplqPGUUBtXRA87j2t0n/26JECPWhueIWOGNFnAWmpfWwNMtVJ8W+qicBqO7/gmzJSjji73zgl9KYA8gRYpKwUVvFyWyUGn/n80cBawYbRK5wh/yqJ6ZB1mQxh//5P6NNCQLyVLoCTsw7mRPYyH5Ji7TNRQOTgcEnmiEtMi35c6my3bpNIVwCDjQNC3/bBCnTlRKfofL0OgCBPcZNxA==;rYMHQ6s8RhZCnwlgVOfvJw=="
 ---
 

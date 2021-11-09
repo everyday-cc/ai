@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-29-elon-musk-says-tesla-shouldnt-have-an-nda-for-its-full-self-driving-beta.md",
+      "title": "Elon Musk says Tesla shouldn’t have an NDA for its Full Self-Driving Beta",
+      "excerpt": "Elon Musk says Tesla shouldn’t have a non-disclosure agreement (NDA) for its Full Self-Driving (FSD) Beta testers. Yesterday, we reported on Tesla’s NDA for its Full Self-Driving Beta program. In the document,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/",
+      "originalUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 298,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-Beta-v9-driving-visuzalization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/",
+      "publishedDateTime": "2021-09-28T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-cloud-computing-in-education-sector-market-may-see-a-big-move-major-giants-verizon-cloud-salesforce-aliyun-google-cloud-platform-rackspace.md",
       "title": "Cloud Computing in Education Sector Market May See a Big Move : Major Giants Verizon Cloud, Salesforce, Aliyun, Google Cloud Platform, Rackspace",
       "excerpt": "Edison, NJ — (SBWIRE) — 09/28/2021 — Worldwide Cloud Computing In Education Sector Market In-depth Research Report 2021, Forecast to 2026 is latest research study released by HTF MI ...",
@@ -1314,58 +1366,6 @@
         "name": "InvestorPlace",
         "domain": "investorplace.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-tesla-slips-on-evergrande-contagion-and-report-of-us-vehicle-regulator-concerns-over-self-driving-tech.md",
-      "title": "Tesla slips on Evergrande contagion and report of US vehicle regulator concerns over self-driving tech",
-      "excerpt": "Tesla Model 3 .. Tesla shares pulled back Monday, swept up in contagion fears over the fallout of China's Evergrande property develo",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60c36c906d855e0018157852?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9?amp",
-      "publishedDateTime": "2021-09-20T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

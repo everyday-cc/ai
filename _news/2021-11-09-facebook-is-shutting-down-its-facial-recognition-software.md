@@ -89,6 +89,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facebook Puts an End To Facial Recognition, Pledges To Delete All Data"
+    excerpt: "Facebook's opt-in facial recognition system will no longer be available in a matter of weeks, and the templates it relied on to function will be deleted. The decision comes as the social media giant rebrands as \"Meta\" and looks to keep ahead of regulations."
+    publishedDateTime: 2021-11-08T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 61
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Why is Facebook ditching face recognition and will it delete my data?"
     excerpt: "Users of the social network will have their face data deleted, Facebook's parent company Meta has announced, but it is less clear what will happen with the AI algorithms trained on that data"
     publishedDateTime: 2021-11-04T12:02:00Z
@@ -104,22 +120,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/11/04112004/PRI_208269358.jpg?width=1200&enable=upscale"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Facebook Puts an End To Facial Recognition, Pledges To Delete All Data"
-    excerpt: "Facebook's opt-in facial recognition system will no longer be available in a matter of weeks, and the templates it relied on to function will be deleted. The decision comes as the social media giant rebrands as \"Meta\" and looks to keep ahead of regulations."
-    publishedDateTime: 2021-11-08T22:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 59
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
-        width: 1500
-        height: 860
         isCached: true
   - title: "Meta says it's getting rid of facial recognition on Facebook - but that won't apply to the metaverse"
     excerpt: "Facebook is scrapping facial recognition but a Meta spokesperson told Recode the technology 'has the potential to enable positive use cases.'"
@@ -222,6 +222,6 @@ related:
         height: 1366
         isCached: true
 
-secured: "oWccPkoR2EGbZ3rp8aYiu39ea9Vj1GxXem7y1PLznw/PQJWaBN+LsckU6gqOESDd/Tf4Mr0PsCdtB8Md5/RIImwOeCdOL2M22tMoUr66Ac4LsufQ6mn1seQw+yCmHvqwjxmmiFQxSkzKFVhI51jysW2LKUgALYOIN5Nlst2uK3NoyXtRdPaF2AF7+n+9OqJc2xSHgLtA5wLplvY50Z4ZGJgl5coLfQTGWtCrKvIZYVtzG6k/NTY5fw8EcrhFeqD+P2ZwnGZNWJ7xtuJIbpFBCGpy5uYTYzx5hmBBG2V3va0JSJagzjpVq5Gvr6NM1OayXi1Uuo0QxSa1uTlveL3owc/eShqC+CyFnZDRgVkN6OQ=;JrtEGFd5sAa975OGxufZzQ=="
+secured: "l9IBKzc3dA7Y3k/xzXhLaGq9pn1H3Qh16u0DY2pWNNyZhFbZEwekQzp4IA5/4NxcykBTptPYJ+8ao1SyAS8RKjm5Nnu1c4iyurQJ5gPla4DD0rgOePJvGqQ5+iJLpt4OPWujVdX3aMOMHZqHEHdR210RtamBfamtXGwVNyKhSUwlXVNFelNGezpUkptMGYGgOtHhXo/S/UuQmUYznG33G2IwUBhipd2XJMGrk/73pH6mIlVK+AWpJORMK0ad5uZmMz72KT9ySGRLzuLs9soK2lP45Qlh9d7pg2KxWorI5UBVcIV6NRvbwt1aG8oXdsm/twM1g+Q1lah5i1OmNu2QKJjas1si3EHpFZ2ESCcJ6rXDl/gOBvu65J2kpzRY8h7cVpOG7ZW1bPRB88Fmdbh+9lbKFbtZvM8uTaXxI+E6nCErmQN3VkCRuuP6itD6/Z8GHH7N/usLtdJeoFquTmCD0Fo+n+0BQrnXF2Rbv1sEUPR9ysivDHqCm2Q8KsibnIk+ayHlzfgjk0XwlnKGGRyF0A==;4xgOZuKA+GLHzYFFHehRxg=="
 ---
 

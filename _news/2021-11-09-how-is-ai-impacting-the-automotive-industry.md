@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "What impact has Artificial Intelligence had on the restaurant industry during the pandemic?"
-    excerpt: "Technological solutions are being used more and more in the restaurant sector. For example, as of COVID-19, the consultation of the menus through QR code was incorporated."
-    publishedDateTime: 2021-11-08T16:33:00Z
-    webUrl: "https://www.entrepreneur.com/article/395960"
+  - title: "Applying AI: Artificial Intelligence Across Major Industries"
+    excerpt: "If we had to name the most impactful technology having a transformative effect on just about any industry on the planet, it would most certainly be AI. The term Artificial Intelligence emerged as early as the middle of the 20th century,"
+    publishedDateTime: 2021-11-04T15:17:00Z
+    webUrl: "https://opendatascience.com/applying-ai-artificial-intelligence-across-major-industries/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 57
+      name: Open Data Science
+      domain: opendatascience.com
+    quality: 54
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1636389211-dark-kitchens1.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://opendatascience.com/wp-content/uploads/2021/11/AdobeStock_333318146-1-640x300.jpeg"
+        width: 640
+        height: 300
         isCached: true
 
 secured: "fSU4W0lfHFQNDdVVTXgvENtG4PDC9qYBVLItQgddLCZB2sdBXSqvN500za/qjwMziXLwW1QHPK9i23DYzsdkQHxkgylxEqXRAoCN1N5PANuIOOzcydsV0btk0hHwAN13cNkq9i4TgjEp1ALQm3JC3FEEkTzbWZJpBst7ZymsLzJGcmJI2CR/mNEuuJjh+6mBCn27+DIiz50ohHVV1uMsDnMfiUloFeqxlWjNtF2MsL8/LymKHjKv9Y7eNH7peZzwjM3GkDVMhArFgb/+mjzwrMSx3eUCnTt2hrqpj6jplPkcl1tbu6XdU9j0BdrBzTXePrahISlL+MCyAEIkYVj8W/qEAREeFspaa9Rew+nrbs+arbSsC5+d8xHpbzc8lYsbtpw7cFXqEWxUcaXMg/KocmNiFq6tEwYkq8bTvVxir4PFzPDxCep35Pjz3Pysmcwr5QNt8EL0/uXLoDruxlCkw8eUrbRsUItVFYbK/WfxoaCe9Z4W/YdAU5pn7ja8gJB+6jbIx0QrwIMgM7XVdJKLvQ==;1hnlEX8ZG94cN0f7tuppGg=="
