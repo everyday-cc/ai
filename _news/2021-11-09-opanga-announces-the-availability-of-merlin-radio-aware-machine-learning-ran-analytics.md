@@ -57,6 +57,22 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "Azure Services Platform Provider, 3Cloud Acquires CCG Analytics"
+    excerpt: "Microsoft Azure services platform 3Cloud announced its acquiring CCG Analytics, a Tampa FL-based data analytics and consulting firm. Aimed to help customers treat data as a critical asset across their organizations,"
+    publishedDateTime: 2021-11-09T17:52:00Z
+    webUrl: "https://www.cmswire.com/information-management/azure-services-platform-provider-3cloud-acquires-ccg-analytics/"
+    ampWebUrl: "https://www.cmswire.com/information-management/azure-services-platform-provider-3cloud-acquires-ccg-analytics/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/azure-services-platform-provider-3cloud-acquires-ccg-analytics/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/341ede5c8aa442089cb753ea0b410f4a.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "ADLINK launches rugged AI-enabled video analytics platform for railway"
     excerpt: "Built on the industrial version of Nvidia’s Jetson AGX Xavier module, the AVA-RAGX provides a compact, rugged AI-enabled solution for both onboard and wayside railway applications that delivers reliability and performance in harsh operating environments."
     publishedDateTime: 2021-11-05T11:39:00Z

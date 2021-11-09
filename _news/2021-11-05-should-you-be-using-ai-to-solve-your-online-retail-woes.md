@@ -9,8 +9,8 @@ ampWebUrl: "https://techwireasia.com/amp/2021/11/should-you-be-using-ai-to-solve
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techwireasia.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Companies Are Using Artificial Intelligence to Tell if You’re Lying"
+    excerpt: "But when the upstart insurer earlier this year said on Twitter that artificial intelligence analyzes these videos for “non-verbal cues” that may suggest fraud, the company received a barrage of angry messages on social media. “There’s a wide range ..."
+    publishedDateTime: 2021-11-09T17:23:00Z
+    webUrl: "https://www.consumerreports.org/artificial-intelligence/how-companies-use-artificial-intelligence-to-detect-lying-a4041224738/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 37
+    images:
+      - url: "https://article.images.consumerreports.org/image/upload/v1636396298/prod/content/dam/CRO-Images-2021/Electronics/11Nov/CR-TEch-Inlinehero-lie-detection-tech-1121"
+        width: 1199
+        height: 674
+        isCached: true
   - title: "Kindle (online PDF) You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place"
     excerpt: "COPY LINK TO DOWNLOAD BELLOW ***********************************  *********************************** As heard on NPR's 'Science Friday,' discover the book recommended by Malcolm Gladwell, Susan Cain,"
     publishedDateTime: 2021-11-07T20:12:00Z

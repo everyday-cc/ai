@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Tesla Handled a Braking Bug in Public Self-Driving Test"
-    excerpt: "In a recall report to federal safety regulators Friday, Tesla put the problems like this: The company discovered a software glitch that \"can produce negative object velocity detections when other vehicles are present."
-    publishedDateTime: 2021-11-05T00:51:00Z
-    webUrl: "https://www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public-self-driving-test"
-    ampWebUrl: "https://www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public-self-driving-test?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public-self-driving-test?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/a9a0a3e/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F0f%2F5d%2F638415b88cd0cc4b3eef174d6e53%2Ftesla.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Apple Hires Former Tesla Engineer to Advance Self-Driving Car Efforts"
     excerpt: "Apple hired a former Tesla software engineer to advance its efforts to develop a self-driving car, sources told Bloomberg. Christopher “CJ” Moore is the second Tesla alum hired for Apple’s autonomous car endeavors,"
     publishedDateTime: 2021-11-08T19:20:00Z

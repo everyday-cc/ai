@@ -15,7 +15,7 @@ provider:
   domain: retail-insight-network.com
 
 topics:
-  - AI Hardware
+  - Facebook AI
   - AI
 
 images:
@@ -53,6 +53,6 @@ related:
         height: 229
         isCached: true
 
-secured: "F77s3qOwl9wKissPHGrrtSBkA2TyR9RBgPshZ999OCkrWtg54EDf8MGT4jM4/NWntjSbE+LDhLIhFOIMv3jiND/kALfe62fpMsKnNdMYOasulR0QT6XYQ+ORzo0idrMZQBD7zrdvOUpo4xP2U8mRkBfd1ujZK8biCroD/iu5BANlPmvQFAD0tSIXTp8qnc4FTmD9V/mxdzpJaZNsdlZJrrs9ht6B9oEOLujKc0AWfq19Jxxl01+WdUHQPoXTOLxf5pnsY3NYa76wuzx5FxcP/KxFegEz7JIWEshyq30epuVHyFnGHNZ6MfbJmL0dXuS9Ei8m4nO4AldwT6BrMyRNc5+4L/UaBczNWcB/40CC5VU=;4mLtgnF5jcDaTOH5qK1rdQ=="
+secured: "fBB0ZqcVijY3fdnsWAre4aPxHCh0jCxLL9qy3MxfHeGve44ysDbD8MAQ016zdIi/9mpducWDgGyowVWVLbxmgXiPUMU8z2QBoC2CShK0fPXit9cxQAiZW8LRhrpmrcnbqysTYYgsL0LHTsKFA07f6ygWHOPCpNfUeOHnYXmonjw+Hp+NlhNuxzd5OVDSWSq5FRwC/Zz7mDilOnf5BOGkekBp6ABWhkUj8bZR5ZaEk8gOwhgraHrBAxcKuaQvNb76C2GQMV4BjshWOPT37LHHzVwrCjQn3Abu5Rurc+HZ7iStL4dwm3Kg7UA83Z8CIjvuiGUwqc0vW9RwrHrrT/ZKCnibdtPg6KzGb/QhW6yknWY=;jIEKGnLjzPlVJFPfGARfbw=="
 ---
 

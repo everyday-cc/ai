@@ -39,6 +39,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Israel’s army using facial recognition surveillance in Palestinian city"
+    excerpt: "Israel’s army has deployed a sweeping personal data collection program using facial recognition technology targeting Palestinians in parts of the occupied"
+    publishedDateTime: 2021-11-09T18:10:00Z
+    webUrl: "https://english.alarabiya.net/News/middle-east/2021/11/09/Israel-s-army-using-facial-recognition-surveillance-in-Palestinian-city"
+    ampWebUrl: "https://english.alarabiya.net/amp/News/middle-east/2021/11/09/Israel-s-army-using-facial-recognition-surveillance-in-Palestinian-city"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/News/middle-east/2021/11/09/Israel-s-army-using-facial-recognition-surveillance-in-Palestinian-city"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 59
+    images:
+      - url: "https://vid.alarabiya.net/images/2017/03/13/f9ff99cf-1850-4894-a233-e77a6dcaace3/f9ff99cf-1850-4894-a233-e77a6dcaace3_16x9_600x338.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Israel deploys sweeping facial recognition tech in West Bank: report"
     excerpt: "People worry about fingerprinting, but this is that several times over,' one former soldier tells Washington Post"
     publishedDateTime: 2021-11-09T07:41:00Z

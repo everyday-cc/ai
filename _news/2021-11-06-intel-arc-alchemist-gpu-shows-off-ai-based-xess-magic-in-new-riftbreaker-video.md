@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92108-intel-ai-based-xess-shows-pr
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92108-intel-ai-based-xess-shows-promise-new-4k.html"
 type: article
 quality: 100
-heat: 103
+heat: 100
 published: true
 
 provider:

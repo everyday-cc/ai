@@ -41,6 +41,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "How Companies Are Using Artificial Intelligence to Tell if You’re Lying"
+    excerpt: "But when the upstart insurer earlier this year said on Twitter that artificial intelligence analyzes these videos for “non-verbal cues” that may suggest fraud, the company received a barrage of angry messages on social media. “There’s a wide range ..."
+    publishedDateTime: 2021-11-09T17:23:00Z
+    webUrl: "https://www.consumerreports.org/artificial-intelligence/how-companies-use-artificial-intelligence-to-detect-lying-a4041224738/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 37
+    images:
+      - url: "https://article.images.consumerreports.org/image/upload/v1636396298/prod/content/dam/CRO-Images-2021/Electronics/11Nov/CR-TEch-Inlinehero-lie-detection-tech-1121"
+        width: 1199
+        height: 674
+        isCached: true
 
 secured: "wCnKYb3NeUWBDxcEoIKd9vQvkeGYq6POIemVx8InIMjT0OakZrM4pN8A0LFnB0VjAlI6GLtwF39wypMlHMqW2JT4VfQ/nhcQXJRBON37+6IHbQ/bF0mEIqRpL1uvDhuckFUA2w3P83Z2m1UlRnx85AoQkounFwjrcnUr2KTh6QKBjsORCCEAen8QcsNhcQYJ5IhuinTINTzorD8DGMJYbompuitTO5r/ps3C6XkauRLGwKWEMxtLp6w2wrIVEpDkuHuS4Qqhoy0/+Bq02Ac9b9XEhfwl57Mgr8ovfRRfxSG4fiYJfwdwKbdMiy21yHBa7/bEEft7ZWkhEI4bUWCiY1dca1L44zWyjy9m21NN89DhC79jwq54G8D7qvTDs+TnViAy1o+yrIPq8fog1eGzQU983/l5c8nPwnlowPcT2gsdrnTvNAQzsQ3trOkCOq7zYBy/k2c8nvQaQeBxh8OCn6ByaQjziyMo8udYWytegq8WNuWAVFmbogZFhRPEwH+/bEVjvkDxApFqffPvyL3a0g==;/WBxjMMcBZZy1P/2syx+/A=="
 ---

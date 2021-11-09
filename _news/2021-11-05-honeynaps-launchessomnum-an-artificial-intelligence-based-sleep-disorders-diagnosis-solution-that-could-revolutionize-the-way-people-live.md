@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/honeynaps-launchessomnum-
 webUrl: "https://www.prnewswire.com/news-releases/honeynaps-launchessomnum-an-artificial-intelligence-based-sleep-disorders-diagnosis-solution-that-could-revolutionize-the-way-people-live-301417247.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 600
     height: 315
     isCached: true
+
+related:
+  - title: "AI-Enabled Sleep Disorder Tools"
+    excerpt: "HoneyNap - Korean health-tech startup Honeynaps has announced the launch of SOMNUM, a new medical software program that uses artificial intelligence to"
+    publishedDateTime: 2021-11-09T16:51:00Z
+    webUrl: "https://www.trendhunter.com/trends/honeynap"
+    ampWebUrl: "https://www.trendhunter.com/amp/trends/honeynap"
+    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/honeynap"
+    type: article
+    provider:
+      name: TrendHunter
+      domain: trendhunter.com
+    quality: 57
+    images:
+      - url: "https://cdn.trendhunterstatic.com/thumbs/honeynap.jpeg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "p3gU955/Y7mPLg0vLAZ9Y5bNxCntxDnFfRTcZVXLG0X6byUSJ59NdaEofkCLgrv5ujzl6m0wohFIRoUsGgElpYc8K3Dpbo7qXkq87PwgcgpjwyNSWUwM+JVvGLGPw0zQ2njb/Z76MXR/cs/M7jfdk4p669jgi+cXSAylpr1TQNL9Kf2WaD1Pkftq0/PATc1/u+qNErzEvrxwVvrR/wusQlLWpa/bUfnfJAO++CzTDbr26XmgfoqHVCZ/3Agt2ikB0n4msAeCNPlv97bLN6mLnDLPvzoW97j/ojwkx3dOAWYkm1vaZUyfyqiOfq4weVMybJMgMZMo/QQzKueHnGbp1KH2jCHro1Uc63FaGcdUr2lq41diXnTVsDv4d3ZkCiNR45gM1d+mtFo2pRc1q0SoCSnzzF4OKMkPGT2KzRZlr28NM/ZzocEyU9ecp3xnj1vp3ZM3QrzXFNfe7bMnihYcgL27QovIEQPc6I61Bc6dkHIb4hZZ5VBlJcrUuJHp/oBOWjpEfsmtrVl1JR3GJv1LDg==;7CTycDAwLv0/wmWert05ZQ=="
 ---

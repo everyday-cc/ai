@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-11-materials-advancement-ai-technology.am
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-materials-advancement-ai-technology.amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 505
     height: 662
     isCached: true
-
-related:
-  - title: "Disruption In Action: AI Accelerated"
-    excerpt: "Global spending on artificial intelligence systems has nearly tripled since 2019, and it's set to more than double again by the end of 2025, according to IDC. Hear from a pair of disruptors driving the accelerated adoption of AI's many promising applications,"
-    publishedDateTime: 2021-11-05T02:01:00Z
-    webUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106964175-5ED1-REQ-102121-DISRUPTIONINACTIONAIACCELERATED.jpg?v=1635776688"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "Ctb+JHfoxwTqAmkD4T07qKmVVme56rFgDJi4gqg5Au0nNE9BrCxSOfivj770hwOPw0WL7WKbH4mOVH0QrFvdQrSfmmd98rLhJ/QOXFVDbwI2MY6+XPqdQY/OBGA8IkY3nMkxkcxCAN9SQK2NxsBwTFpxm8YKWF1gMRrsMWYrTLF2keL3jCifcJgv5IRW3FsNhKF1qNB0vs1ShZ0bhWHAfAWptoWeXVJPS7MVZTcoxtMif/1DJ0ZqPuLUX8ZYle26B8ypAe2IkummtmxtEjAkpmBmcwLVDJDqeyEryI2affnx3bLNv7s9ONL4vmGLz7xOQAqeIMrL9NyqUPrmVCdiCmtoqPHcJ2vm3om4P/dIHrYOfyNiBY4coHkJ0VY+4RnbVTnAOEA3K12fEDCnfk4ZbZkdw4TK3jDbiSXmHkbSWV8yMkAfJdrtRMzu5XqwWtkombbX1a5EphNNARfiLkdKBSej7mfDvu0iBePdAK/y3QGQTd+gKeUawiMhwFPdYGDLzdrc8yeqeBgDgjP/RekbqA==;7s97up+stiU5e8dk2jlaWQ=="
 ---

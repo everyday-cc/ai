@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Singapore wants AI startups to think about healthcare"
+    excerpt: "SingHealth inks three-year partnership with SGInnovate to provide resources and opportunities that deep tech startups need to develop artificial intelligence tools for the healthcare sector."
+    publishedDateTime: 2021-11-09T16:51:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-wants-ai-startups-to-think-about-healthcare/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d0624aa4285fa985c80aad93f7165b8b4ef681d3/2014/11/28/e02b1e39-76b6-11e4-b569-d4ae52e95e57/no-deaths-from-buggy-health-software-qld-health-minister.jpg?width=770&height=578&fit=crop&auto=webp"
+        width: 770
+        height: 578
+        isCached: true
   - title: "Bilaspur woman helping Singapore govt on Artificial Intelligence"
     excerpt: "Kirti Chandel, an electronics and communication engineer from Bilaspur, is helping the Government of Singapore on use of Artificial Intelligence (AI) in its programme ‘Expression of Artificial Intelligence’."
     publishedDateTime: 2021-11-08T04:48:00Z

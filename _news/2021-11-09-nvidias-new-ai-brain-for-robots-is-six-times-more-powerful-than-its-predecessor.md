@@ -121,6 +121,15 @@ related:
         width: 832
         height: 624
         isCached: true
+  - title: "Run:AI releases dynamic scheduling for NVIDIA Multi-Instance GPU technology"
+    excerpt: "\"NVIDIA MIG technology is revolutionary for running multiple simultaneous jobs like inference on one GPU,\" said Omri Geller, Run:AI's co-founder and CEO. \"Now, with Run:AI's dynamic scheduling for MIG,"
+    publishedDateTime: 2021-11-09T17:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-runai-releases-dynamic-scheduling-nvidia-multi-instance-gpu-/2021/11/09/9488085.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
 
 secured: "lJdmSgcP0njuThXjvGb8g9etldKhTacuaS6sKA6Jqnm7n0a/HZ35ZMj1JlbeMNgPfV8F+5ctlqSx0m/9MhhUJVR0hwqhUwAZz+Y9SPwXmTN77nHltuSa9g6RUqwgiTXROU2GWuLP+tR/QMCMzBS9qTr63+kqfsK+obKxCbfsPBMcFLfRO5nmhSgXtaEqhch2XIwIPM96OeaIn5oh9rwp3Qm9lHSWxR6AEnbXsIomvvprvxXkyDioaw0WPmv30wfHM0twXNgelOdiBPcTNqEQbCq4DfDNK9H73Y7RVBLQX2wMaH46R9AalsAX+M/ADTLGMYvQeHEF11UukjLdJ8Zt7INVOhaMZY5xwD8jVCnpPc2I1JV1c+7UHemRgYB3gZzf3SpDYTp9By/kqiaAZXaf2jTr870M1lFP9WY58v8zfnbpGu2U5gkR06hPR6CxvZWw0BuukBmxPkTU7CSBvLwELabsx9XWOOe5hC8tsXnViVEyB7DngDv3+lKNOqxW12hIG64TZtufBVjidd1yeqq8Sw==;56wzxDbjMjqg+++kvlYWAQ=="
 ---

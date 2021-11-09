@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avata
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/f3093f55db1b12000c82b7534e35491a88175dbc/2021/11/09/2859cd08-d3cd-48bc-a1b6-ee39f3b82f30/doca-zero-trust-image.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 756
+        isCached: true
+  - title: "Nvidia: AI Can Power Simulation Performance"
+    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
+    publishedDateTime: 2021-11-09T17:51:00Z
+    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
+        width: 648
+        height: 392
         isCached: true
 
 secured: "RyxeGSX4L7CcoVuMCKDATi3Vg5WGKN5w4RFVDTQeJeoRLe+oDcVB9LBxx/PazsS9wuwsrgigyCf7bl64UABmHsONypPf1DscjqY2MaQ6xvJGKB9TFRJIuI++O3Tmvq36lOu/cPKSQF5JwySQayaKxzJUusL4jOih8DamGsvNg1mvDvWNPCSGIE4BIuOa+UscOVy7ol8rm3yeu2rGFs1yUSq+zCJbXqflIlvqw7n+8OePBA5iI6h8oxmPm59kMOItWTnXpygn4JcvlXGpcsyEzjMZN//6dzOMNkmSuUFeFD8lcyvshJeUfkUg5RHsdvQ44ASmVqdO50z0anScFUzMVxe0H5qrVtSI73y2wkmuCWalQMKXRLBJpFb/SZRh23b180pa9hL9dl+KSkBeHD+CEE5TmoZUtVM+rhFhlc7fFwpTOcinkslvDliXWoMUdzp9l28LZdMtSARVqBotAHZlP+IStiBqYLt4Gsc+QqHW8rvYIq2mL42xi7Ebx4JiZ7vsRSBC5KUtuZtsVoUudFOqMQ==;FFktRDx4fpo8WORbuiXhQA=="

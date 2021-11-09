@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 756
         isCached: true
+  - title: "Nvidia: AI Can Power Simulation Performance"
+    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
+    publishedDateTime: 2021-11-09T17:51:00Z
+    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
+        width: 648
+        height: 392
+        isCached: true
 
 secured: "+PaMFO411DHP9deU37T7B2zy3gr8sHESWWc+QoE+Jazlm2nQDIQp7b4krmjg9MtWgDWmvyZBekNpvBdK5PrALhnIP/jMPeM42agUp5YRlkvbxs+Nf8r3D7r4n7N7GzvZ4MaBApkJLK9xIuZt+fClQCACIamZfmOFicaXsDa7d/t2OlWz6Lo/erzHaGCD9ZDCP1vGHp4guIe018LF8HW24cq1bFEGN1dcO1ZmWrb2X1XII8XpvQFNkdtD6f6bxCA80Mwn/xb2pTqMBiVGZim4ehFzQMaVbJF0up94e7ABrQix5OpooqRv7bjrehe6AHmsKnrzUO62uDJB2rgo8KqgljWwWRKvocrWbF0Ub0eXeDumddhNq1HQYoR5pj+lefr/2x78/VEJZJInnsXHwlZNKfGhJm9dvOC/NgILY5u1KfAWkYDTpsfYJqU47tamN8kNHiSvV4QPrZlqvETHt+yf1VUBOd79G8pXEAUGiAWyr+Q+LyvH7cAdl+lrb9iNW+e4gReVV4C9i/qq7Fm7QZypvg==;RaaNCYhg/OqYpQTqAT+rvw=="
 ---

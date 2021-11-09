@@ -57,6 +57,22 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "Azure Services Platform Provider, 3Cloud Acquires CCG Analytics"
+    excerpt: "Microsoft Azure services platform 3Cloud announced its acquiring CCG Analytics, a Tampa FL-based data analytics and consulting firm. Aimed to help customers treat data as a critical asset across their organizations,"
+    publishedDateTime: 2021-11-09T17:52:00Z
+    webUrl: "https://www.cmswire.com/information-management/azure-services-platform-provider-3cloud-acquires-ccg-analytics/"
+    ampWebUrl: "https://www.cmswire.com/information-management/azure-services-platform-provider-3cloud-acquires-ccg-analytics/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/azure-services-platform-provider-3cloud-acquires-ccg-analytics/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/341ede5c8aa442089cb753ea0b410f4a.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Opanga Announces the Availability of Merlin: Radio-Aware Machine Learning RAN Analytics"
     excerpt: "Today, Opanga is announcing the availability of its breakthrough RAN Analytics platform which, for the first time, uniquely combines the power of big data and data science with radio-aware machine learning to modernize RAN planning,"
     publishedDateTime: 2021-11-09T08:12:00Z

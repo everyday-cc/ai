@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-bo
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-boost-ai-research-funds-start-bank-partnerships"
 type: article
 quality: 84
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore wants AI startups to think about healthcare"
+    excerpt: "SingHealth inks three-year partnership with SGInnovate to provide resources and opportunities that deep tech startups need to develop artificial intelligence tools for the healthcare sector."
+    publishedDateTime: 2021-11-09T16:51:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-wants-ai-startups-to-think-about-healthcare/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d0624aa4285fa985c80aad93f7165b8b4ef681d3/2014/11/28/e02b1e39-76b6-11e4-b569-d4ae52e95e57/no-deaths-from-buggy-health-software-qld-health-minister.jpg?width=770&height=578&fit=crop&auto=webp"
+        width: 770
+        height: 578
+        isCached: true
   - title: "Singapore launches national AI schemes, adds $133M investment to research"
     excerpt: "Two programmes will look to drive the adoption of artificial intelligence in the government and financial services sectors, with another SG$180 million to be invested in the national research plan to tap the technology in key areas,"
     publishedDateTime: 2021-11-08T08:51:00Z

@@ -43,6 +43,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Chatbots Can Fill Gaps in Mental Health Care for Children—To a Point"
+    excerpt: "Chatbots have the potential to help millions. How can we use them to improve mental health in children? While many people may remember childhood as a carefree time, kids today face countless sources of stress: academic pressure,"
+    publishedDateTime: 2021-11-09T17:00:00Z
+    webUrl: "https://www.psychiatrictimes.com/view/chatbots-can-fill-gaps-in-mental-health-care-for-children-to-a-point"
+    type: article
+    provider:
+      name: Psychiatric Times
+      domain: psychiatrictimes.com
+    quality: 24
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/psychtimes/972990255d4a55fab15b6cc6ddc7a18b0fdffa6e-1000x422.jpg?fit=crop&auto=format"
+        width: 1000
+        height: 422
+        isCached: true
 
 secured: "TllJq9F4tkOX+QmGGjV8p4L5WgGzr8RWdU15aSi06wBoiBW3xJ6Gf/+WLG9NsBmiDV3SPBIk6KsuOGhc/njEcnooXuU8b7R0uv53Y38hMak6Wwuz4bM9wdGayr6dR5Tm/nOCQc5fro/sse+QKWQZhEkWltuL6jkltM2cSezVjJIw2EIBJIMsTiopdVtSp9BpbEqFkeeQn9JUGSubJnCVexKPB9H34UNz0RZzDB/n4wZYC9akgAwVEgbUckbUG/JxHwXMC+rc02uap2RFM2qPn+zJGsnXfPC5yTd6/MFI32gFww45V9PtG7Vs3qIyFtIwbq/9T97FMiyc4WDqLieD9oF0m4FEgjpJdknkfvkkP8E75Ql/m54kSwrNpUpuNAgv8TawizwSsRd708AJBpuSJXjMy3kLYOFpX0AkvGewiNDXa5NkyOAEDuU0mjM1GznxJfhC1MEplDJm6oPrm81nfkykQSLbuDvgdydJP3THzs42CzG8vNvNruZThlkiZYHgBwpqg5S35Dw/DK5nJoe16g==;BVh+xNlcjooeH/vUcMSTTQ=="
 ---
