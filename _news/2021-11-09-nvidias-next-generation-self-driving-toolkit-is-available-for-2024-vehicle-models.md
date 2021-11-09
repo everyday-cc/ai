@@ -73,7 +73,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 64
+    quality: 66
     images:
       - url: "https://www.zdnet.com/a/img/resize/4a37395f96eb1190ee15b364e0c4799d6bd4c299/2021/11/09/cd687ced-56c7-4ca6-aff9-a6f1d128ed60/morpheus-image.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200

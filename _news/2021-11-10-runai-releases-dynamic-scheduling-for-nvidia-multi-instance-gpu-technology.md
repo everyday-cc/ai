@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Run:AI releases dynamic scheduling for NVIDIA Multi-Instance GPU technology"
-excerpt: "\"NVIDIA MIG technology is revolutionary for running multiple simultaneous jobs like inference on one GPU,\" said Omri Geller, Run:AI's co-founder and CEO. \"Now, with Run:AI's dynamic scheduling for MIG,"
-publishedDateTime: 2021-11-09T17:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-runai-releases-dynamic-scheduling-nvidia-multi-instance-gpu-/2021/11/09/9488085.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-runai-releases-dynamic-scheduling-nvidia-multi-instance-gpu-/2021/11/09/9488085.htm"
+excerpt: "AI, a leader in compute orchestration for AI workloads, today announced dynamic scheduling support for customers using the"
+publishedDateTime: 2021-11-09T23:00:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/runai-releases-dynamic-scheduling-for-nvidia-multi-instance-gpu-technology-301419557.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/runai-releases-dynamic-scheduling-for-nvidia-multi-instance-gpu-technology-301419557.html"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
@@ -126,6 +126,6 @@ related:
         height: 624
         isCached: true
 
-secured: "1cBSPwU+Iez6WmOrGAzmA4NlBp/t5YLcBrCiOnB+dcBC5cEYAucqaIFTTnZLHC+tP51nchXBYi0KGhiZjkdQmRCUxv0tujGPsjg3drNSqovgYJfplOxe7hjU7nlx54t+fjsoLCvuJ8murVGOhbr7ggCc5+b8z+GZSPir9Zo4nQtPl3vUIBZcbRnlxZ7Bfw1VYV+XAkvTIfHlqd585zSRyKW42Ic9nJz/jqAQkSrTGFlLVWqIVkyVCSx0dnvEmIaxADTLoc8aAgQLtljsHfdfBde0rDeCR9dbmOPVNsbrg9GrSwpCx+S+Zv6kIerRSR+wTm3BzZYMXKV4CD1NE0hDmIAybyYiX+DUynf2Mpz+mR8=;THpo0zk3JELRz05evnrUcA=="
+secured: "+EZKWgxsIIgMaN7WpFstrTfY/jOPjoBCf3XZoUC4HCu4Yo5Bfp0txkxV57Ar7opmiOlyPBFaS8CAXoS3TPlLVmRT8aK00Z9mahr8sv3P2H7rpYig7CXMyS/qxbcMy9oIDN7TMDs/q5GkNp9zH/bvy5Q/mUwvL3z6aHPolg6FJbeOX76l9A5GfqgVPsyAdWxLJyXpTXBvQzQjI3s5DnN1/ziVs00xwktiRLGoDn2fck9EGMxR65XeyKAiYtJ7JaBGUARXpRxGr5wOsCoMvBnIsq7llxl16dYyE6lFqiZWsOAammY34mRnDMg5cXp1htxdZDJgIxjuJ7RE2kC/n5TkGuQD4aJEpTT5SNTMzWzlR2o=;BJhjpQGtdXHW2HQdTlRoMw=="
 ---
 

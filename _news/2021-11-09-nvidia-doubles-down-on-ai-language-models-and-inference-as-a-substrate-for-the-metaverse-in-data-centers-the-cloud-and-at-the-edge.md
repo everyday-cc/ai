@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/nvidia-doubles-down-on-ai-language-models
 ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
 type: article
-quality: 64
+quality: 66
 heat: -1
 published: false
 
@@ -26,6 +26,7 @@ topics:
   - AI Hardware
   - AWS AI
   - Microsoft AI
+  - AI in Robotics
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/4a37395f96eb1190ee15b364e0c4799d6bd4c299/2021/11/09/cd687ced-56c7-4ca6-aff9-a6f1d128ed60/morpheus-image.jpg?width=1200&fit=bounds&auto=webp"

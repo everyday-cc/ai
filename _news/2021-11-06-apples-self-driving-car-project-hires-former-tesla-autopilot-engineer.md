@@ -167,20 +167,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Waymo's Self-Driving Vehicles Arrive on New York City Streets"
-    excerpt: "After rolling out in several cities including San Francisco, Google‘s Waymo brings its self-driving vehicles to the bustling New York City streets. As the most densely populated city in the United States with “unusual road geometrics,"
-    publishedDateTime: 2021-11-05T04:34:00Z
-    webUrl: "https://hypebeast.com/2021/11/waymo-driver-new-york-city-arrival-news"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 39
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F11%2Fwaymo-driver-new-york-city-arrival-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
   - title: "Apple hires former Tesla engineer to boost self-driving car effort"
     excerpt: "Cupertino, California-based Apple has tapped Christopher Moore for its team working on a self-driving car, the report said. Apple and Tesla did not immediately respond to Reuters requests for comment."
     publishedDateTime: 2021-11-08T05:27:00Z

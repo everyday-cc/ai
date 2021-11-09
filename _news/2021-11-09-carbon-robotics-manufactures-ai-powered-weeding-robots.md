@@ -67,6 +67,15 @@ related:
         width: 929
         height: 480
         isCached: true
+  - title: "NVIDIA GTC: Networking, Healthcare AI, Modeling and Simulation﻿"
+    excerpt: "Jensen Huang’s kitchen—the site of the past several NVIDIA GTC Keynotes—deconstructed itself today in a slick simulated introduction as Huang, NVIDIA’s CEO, delivered his keynote highlighting the latest in AI and accelerated computing at NVIDIA."
+    publishedDateTime: 2021-11-09T22:50:00Z
+    webUrl: "https://www.bio-itworld.com/news/2021/11/09/nvidia-gtc-networking-healthcare-ai-modeling-and-simulation"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 36
 
 secured: "mnxaBQAG6ipTYV/ApZ/OsxWshUS2qB8iPQT/4ByMQcMM0fLiMcOMf0Ucdbh0auX7uWBdePQh7QOyrjGpe+ESs2CnREMDWzB+Z0Sc2lwSFTHY4Nwux5PmPNfWFwV8/bKO74++JTdJO/Fbh9o1U/9GXXZtTgbzthrUbZV7aKXjVt21vXLdsbgrIifyPpdI/CdrMy7lHnRrnBX83yxQW4eiblwL8zPTvCGLCd41ANDN36LYxGJ62P7qo9SP6DBKsaqqBcH28YeOTuZkL4EP12+KRwD7T49S1Rw6qdlO8xXy0mMxAA6I63KjzEsRsAbXAquwitE7Hr8SvysonbBLDROxcIWhuSdDLsOaOjKPG9m7j4FWXiYL3SWOpC9TzmHLMvy5IF2ftPPY/pAoyujwP/If97B/jqSKePGyZIS7lEgS2zEAlCyZ186w9hWUFuS0CDrsFBOl2NhdGbj2iNQFSUMFCK/N2sGxz8lC34laLFEwiWmAEU4d8sf+CEQfqSaWHWgoYpxtKHqZeQZwWoXqm6tAuQ==;+O/RWfe+Mm2xivqa+D4XdQ=="
 ---

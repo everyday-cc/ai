@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 619
         isCached: true
+  - title: "Artificial Intelligence Bot Turns Racist & Homophobic After Hanging Around Humans Too Long"
+    excerpt: "An artificial intelligence bot programmed to answer common ethical questions – via algorithms – has shocked its creators after turning into a racist homophobe. The bot, called Ask Delphi, was created by a team at the Allen Institute Of AI in Seattle in the US."
+    publishedDateTime: 2021-11-09T21:00:00Z
+    webUrl: "https://www.bandt.com.au/artificial-intelligence-bot-turns-racist-homophobic-after-hanging-around-humans-too-long/"
+    type: article
+    provider:
+      name: B and T
+      domain: bandt.com.au
+    quality: 31
+    images:
+      - url: "https://www.bandt.com.au/information/uploads/2021/11/Screen-Shot-2021-11-09-at-5.23.51-pm.png"
+        width: 1926
+        height: 1548
+        isCached: true
 
 secured: "XECbXaUrkRkvFErjEntsbrU0k15HbyE1MPiM7dpw/ZEyeQtc/jHwjlVgqVzzLOgj/htqFoipkdPuObhiKtLVMzLPE/PINxeKY2DXiTsILk6A50KyECrJyzEjtlogk72nrNM7/KnMDKWlTSePcKha8PGGF1ubJpLD2L3Nm9baByPh5DK4cbhakI75f/0SnU+YWl0xLt8wx9ngE0uw3J7YsaYSs2MQXmIaP00yXFYIu/EMqXuaJmT+fLPmydzIC4Vs/dDQ1dLUrgdTLbl0m/UgQ4lh+qxTH7cd1giN9uBwH5bnZwK73EwBr1fhv5N8LOOpFuJInKWjm0f8hotSR8DadlxkYBSO9mkXs8FFxzx+j6nEW39jZnpq/xDMEIkvuQPXB7ojNAEpw5LV5KULGKng98E09u3yzYDH680/Nu1sqfXXX/6sRsw43suJ6+d/tt6aiALobaQ9B0unATlwi9lSl2/YSXCFoEjaO2g3G03vylAfmW2yTMChzNN2XES88tC7+NLr3J48skd90CHFuNt4yQ==;jJYa/jClg171ISHwtwgJOg=="
 ---

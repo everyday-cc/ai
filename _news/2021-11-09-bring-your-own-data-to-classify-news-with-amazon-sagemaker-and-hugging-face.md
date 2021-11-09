@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-data-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-data-to-classify-news-with-amazon-sagemaker-and-hugging-face/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/google-launches-deepmind-2-pharmaceuti
 webUrl: "https://thenextweb.com/news/google-launches-deepmind-2-pharmaceutical-hullabaloo"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Alphabet Chases Wonder Drugs With DeepMind AI Spinoff Isomorphic Labs"
-    excerpt: "After DeepMind's breakthrough in protein folding last year, Alphabet will double down on artificial intelligence in biology and health with its new venture."
-    publishedDateTime: 2021-11-07T15:00:00Z
-    webUrl: "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/"
-    ampWebUrl: "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 74
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/11/pills-rows-yellow-background-1-1.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
 
 secured: "/rCX5puTZkxv0PI4vmBfGlOaESvy04SoeJ1kINWC6BYmhUudUUt5Swv+eWII6aHcirXAQwephp0EqA/eT9tb/x2YYRxntaikg6b6/l/oAGmqFiegeZa6tkscNDfZ5sIHga7Q0lO8SvxRwcrD8axSn5WaUE0tkA0wf2QrYXI9br/SHK3U9KkFHQFrBpvYa9W1Zj+WRwcURod/gpCEBlKXOwQWYu0/thabWEMUcyEC5PZymYWekNZM1D7Z26xvQGVWjw1USf430kzHuTAyF93lRwZ+x/T68t+HIu8HzL5LANEcpu1ML3CVULADZDftyfPoQrWqGp9huz/qUHY/+tv0SZ97+RGcWgw8pnmN9+QeWoRxB2U6TmsYZywtl4+EOIPLtG91lbPYaRMXUUhPsZhY4fytuwUvz0dznVydw0IJcT5uDcZ0ESiac1YlJ/b6zRWiNRZIuxExClifrHbw2Ipuu4dJgjGDz/IS2t1K+3y6/I6fz3rvirYmQ0S4CnQRmwgVenWY8RhG4nEZyL0gm32BRA==;sPtuRrmScQiTw9g1+8U3FA=="
 ---
