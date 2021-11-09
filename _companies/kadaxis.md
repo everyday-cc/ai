@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "kadaxis"
   url: "https://twitter.com/kadaxis"
-  followers: 28808
+  followers: 28805
 
 size: 2-10 employees
 yearFounded: 2013
