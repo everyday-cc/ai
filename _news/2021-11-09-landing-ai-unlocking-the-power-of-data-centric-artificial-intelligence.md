@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlockin
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/amp/"
 type: article
-quality: 102
-heat: 132
+quality: 106
+heat: 136
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618a1203531adf7a3d1b3daf%2F0x0.jpg%3FcropX1%3D95%26cropX2%3D2400%26cropY1%3D0%26cropY2%3D1729"
@@ -77,6 +79,6 @@ related:
         height: 480
         isCached: true
 
-secured: "7uHmxU36iZu94GOsRf/GzddsVKqWvSZctVgbdtWXzo7M4Jt5YpTYHHesY/SbJuEyNY8bjhytj3FpL52ShVosbrS5RzYdvoMHHiXPE4s4iJtv1geXH1kyYrPcXDp8WQlvIU0zFe3zYqQL3itNz32yYETF2t0r5FXfa4I6Lvnr2fVxTmD5dU4YNjPwjspSwrtC6WLZBDLccXPFoiUKClp2V4Uvc8JCCoN+CX3F1Luf8FjmPnBls8j6Fr8YBBZHf9Zp8yDTB5Otg0VcJ6N9gSZlnrOLKrGyFAxwRnuMctqJ0hPWxIn2s5gOCWsXE3ZiQkx61Dj1QIYqbn7eZayMlZLzkw2Yce25oIxVicDuiI8DhxY=;Ny2G2iDApjD/rUjKY6HoJQ=="
+secured: "5ScT/Ja7NqD6YpPaurrJi0kx24MOLeF1ATPTfnIwGWMXZukeewWtRKbxDVvgkm/m5XGfKomelvOwXyhtgoA80fn6cBa5+HHTJ+AFCNawu6yDw4wRclAAJOiDyzg/shoyV+1W0oOcB0/Fz6RNzKD+iTlgOAP67QXMBAHwLwqTxYcy2SZPRckGsJUWZwS0JHz8gS14EBLCnd+pKWu0oxraJT8C72aNiEHfnoBSsbJzjN1sjDqDhiaL0qc89TNPo8BQ4TrBEaO24XB6TrLNMNKgHfZtzSEw2s+uCdS3+W7rIewFDfct7H+t0xsd1faNpMWFQHH5GkJ3rpbOSoy10W5qUuKNY8U/NxIMYVfTfr7KlFRy1OhCjLXeetXY1FseA6RCKD64VKWglMEFK12f4r+8AqRJ631xrdGk029c20F4yK2UZHN2/kIbLiyXYje0LUG4clnHv1HliaIZPBDxSymqW+sooevQPqZiPJittFVoPaV1k9is3b6RIIxpFMIBpbNdPDiGWQ9K3lUGTe46OI69jw==;yj7vADu6/3VWmW6e7s07qA=="
 ---
 

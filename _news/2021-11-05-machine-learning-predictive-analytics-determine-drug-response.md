@@ -25,20 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "ADLINK launches rugged AI-enabled video analytics platform for railway"
-    excerpt: "Built on the industrial version of Nvidia’s Jetson AGX Xavier module, the AVA-RAGX provides a compact, rugged AI-enabled solution for both onboard and wayside railway applications that delivers reliability and performance in harsh operating environments."
-    publishedDateTime: 2021-11-05T11:39:00Z
-    webUrl: "https://www.embedded.com/adlink-launches-rugged-ai-enabled-video-analytics-platform-for-railway/"
+  - title: "Opanga Announces the Availability of Merlin: Radio-Aware Machine Learning RAN Analytics"
+    excerpt: "Today, Opanga is announcing the availability of its breakthrough RAN Analytics platform which, for the first time, uniquely combines the power of big data and data science with radio-aware machine learning to modernize RAN planning,"
+    publishedDateTime: 2021-11-09T08:12:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-1b97bb2a9fd3f2cecacdced8083f6177"
     type: article
     provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
     images:
-      - url: "https://www.embedded.com/wp-content/uploads/2021/11/ADLINK-railways-AVA-RAGX-image.jpg"
-        width: 900
-        height: 600
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Analytics Insight presents the top 10 machine learning stocks to buy this month."
+    excerpt: "Machine learning and artificial intelligence has become a significant competitive differentiator for many companies. Check out the top machine learning stocks to buy in November 2021."
+    publishedDateTime: 2021-11-05T07:30:00Z
+    webUrl: "https://www.analyticsinsight.net/check-out-the-top-machine-learning-stocks-to-buy-in-november-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 34
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/Check-Out-the-Top-Machine-Learning-Stocks-to-Buy-in-November-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Opanga Networks: Opanga Announces the Availability of Merlin: Radio-Aware Machine Learning RAN Analytics"
+    excerpt: "SEATTLE, Nov. 09, 2021 (GLOBE NEWSWIRE) -- Today, Opanga is announcing the availability of its breakthrough RAN Analytics platform which, for the first time, uniquely combines the power of big data and data science with radio-aware machine learning to ..."
+    publishedDateTime: 2021-11-09T08:17:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-11/54433306-opanga-networks-opanga-announces-the-availability-of-merlin-radio-aware-machine-learning-ran-analytics-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 17
 
 secured: "ri9P+43MjRqufYMaipZ+eFgn10scTZTysiEuxqsuC6k5TKetxH6u4T/em5LTIY/gI3IUvCrPT7IQ22efNgSt0PB9uvPuqKZnJbmK4XJEforIv+ewTV+4uUlUCkKmU9qsWlZP/Cgk2plG5+ktrSVU42MfZU28DqwLf66swQWEhDPaZFSKhaCJyE18Vdr5N/CG8bCN95Jng9XAYaKdNiQ7f4en0xGsbJuh8b8jfdTLXwwdLYo8mpnGeNOetJ0sBspepLjiLz56yCZnzpJVyoLoBcb8Da2sgyKWxHi0vhRcgwQrYZPwj21dGw+abBIHq+Rg+ueVLfpGFHHUVS8P6SANNj4N5oMlcOKs75hABbawKmeWUBFRNBvIJptd4c+lR1PDHvTwz/qBApSZQShuHAc/vwU/FQg0G6ZxM9X5WdbQS7vDkqJk6QSVlaFPJ54KaA0GgJMeNavY77c4WSZknbc/xj4+6+fQk/lf0AoyMQAj7wZvBiwYNrK2A9MwSvZYSXb51v/YYlIixQ8W/B8Bjh5Aag==;SoRbPYV+rtaNXhQfNejDeQ=="
 ---

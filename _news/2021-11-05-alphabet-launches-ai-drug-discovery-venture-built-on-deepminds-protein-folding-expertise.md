@@ -230,20 +230,6 @@ related:
         width: 605
         height: 340
         isCached: true
-  - title: "Alphabet has a new drug discovery company building on DeepMind’s AI chops"
-    excerpt: "Isomorphic's CEO said the company plans to use computational AI methods to “reimagine the whole drug discovery process.\""
-    publishedDateTime: 2021-11-04T15:00:00Z
-    webUrl: "https://www.statnews.com/2021/11/04/alphabet-launches-drug-discovery-company-building-on-deepmind/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 53
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/11/AdobeStock_211444725-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google's parent company launches AI-driven drug discovery start-up; here's what we know so far"
     excerpt: "Google's parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery, The new company, called Isomorphic Laboratories, will leverage the success of DeepMind,"
     publishedDateTime: 2021-11-05T10:01:00Z

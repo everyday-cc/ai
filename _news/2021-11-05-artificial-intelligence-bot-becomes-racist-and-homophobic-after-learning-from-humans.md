@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Bot Has Turned Racist And Homophobic After Copying Human Traits"
+    excerpt: "As technology advances, many of us have wondered what life might be like if major decisions were made by AI robots rather than by flawed, easy influenced human beings. Surely the cold synthetic mind would cut through problems with far greater ease than we emotional mortals,"
+    publishedDateTime: 2021-11-05T17:00:00Z
+    webUrl: "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/"
+    ampWebUrl: "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 66
+    images:
+      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F11%2FRacist_AI.jpg"
+        width: 1200
+        height: 619
+        isCached: true
   - title: "Artificial Intelligence bot learns problematic human traits - becomes 'racist' and 'homophobic'"
     excerpt: "Ask Delphi is not a physical robot with a solid body. It's actually just a software that was supposed to let users ask tricky questions that do not have direct 'yes' or 'no' answers."
     publishedDateTime: 2021-11-05T07:03:00Z

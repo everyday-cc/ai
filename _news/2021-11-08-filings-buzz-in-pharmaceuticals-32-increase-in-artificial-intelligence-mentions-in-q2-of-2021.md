@@ -38,20 +38,6 @@ related:
         width: 500
         height: 334
         isCached: true
-  - title: "Filings buzz: tracking artificial intelligence mentions in the automotive industry"
-    excerpt: "Mentions of artificial intelligence within the filings of companies in the automotive industry were 141% increase between July 2020 and...Read"
-    publishedDateTime: 2021-11-04T15:53:00Z
-    webUrl: "https://www.just-auto.com/features/filings-buzz-tracking-artificial-intelligence-mentions-in-the-automotive-industry/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 31
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_1097273573.jpg"
-        width: 500
-        height: 334
-        isCached: true
 
 secured: "3/Az3gkU9X4Un0aVD6zYbIoz2WPG5AyWW5VIiW2MMZlN+6aDr+FL4tO4TH8zGKdJI4695KdDUs8fiSBIcTQoLtRuCbnl9QO0Gixcpvyl8R+vQr1Hz1rPkAdAQB3uAley2XvmdUtA2EdmCrzG38OwUu/MT1uYIVNBxIgYGB4ccUR9wGgmOF48z6N+zQ/dlxDnjfmHMkhURwz+KUWqhl8YRoeB60786gxkhx33YBe3ckb8x73hj9/ccqmLYAuPO/fIkkHuDVDIiSHCOfOQi0OXAryGeihPpRK5Fcvg7/J2ciyfQ9ECsuTaaO3tQXt8ATEsZqw4mXBoNYNm9Zgep4s5TXg+ejvbiXPLkKxpA7xqijOrwhohrs1JTqkqw7ILPadZFA1CGeAUPauSn0C3F5ns+4OoCz91Ns3nM4jYL2UbpRU6RckkQtR8K3dIH4ptDvtP9U0OTk2pt3MQkwAJhEYusjNIbzAA4VMq/vJ1vbgbnZTsSwLOvXuvbKSrgAbP+PLRhYoSAVTPutepqcVwBo1YsQ==;ZcsuW9gKu9jhv6emWQ+UwQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recogniti
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
 type: article
 quality: 93
-heat: 193
+heat: 203
 published: true
 
 provider:
@@ -180,6 +180,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
         width: 2048
         height: 1366
+        isCached: true
+  - title: "Facebook Ends Recognition Software"
+    excerpt: "Facebook plans to shut down its decade-old facial recognition system, deleting the face scan data of more than one billion users."
+    publishedDateTime: 2021-11-09T08:20:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/facebook-ends-recognition-software-5957.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 24
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(75).png"
+        width: 796
+        height: 900
         isCached: true
 
 secured: "tf83KlNb4dcGREvwTJpLCoZVypVjVfVBlw8Vtz3jrD0HXJONpKw/Nnrm8tfQ3mgYIXRAfl+TnIAthUzb9J/AF4N4rjT55PVyNsVGF+IJ8rKpk/yNAFinNrK1mdYMoXL9NVTuKUFPxIOIYBxTTjyiLkmTD281IdXD5BoxYEEyUo1bWhTgnIMzwemZKyCzM5CVzWl8GTb7/BSbEjpsuNI9S5UTiaAopA/yUVGckUBNhkoEr4LPS2/7kcYOw78zJ5ycHLsoqMjkXjrOzggTkW8QHY0mAeDnXU0y+t+TvB0GK0gNvC5yeoL13QzVDLfS8Fal24VfV1JvCOCIQJ45iYkWu32VeEL/f9L/rZM4vIBupuMDPsg4JmS3BKXJ3ahi6gTA9RLa8Sx1RxkIGHoXGF0VgXhlH9ZhxI81piHvlXpFMo6VhjK3cosLLMGm4Ofc2R2ft8B0MoESWPSz5JXgvE75pgnPwNYPayLyHiPjb9odxRQ5bjy+zcf8FLpfsyu4weFa492sZhz1344AwYftYy1frg==;rLl2wfO4bavcBKw52BuJHg=="

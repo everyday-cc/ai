@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Filings buzz: tracking artificial intelligence mentions in the automotive industry"
-    excerpt: "Mentions of artificial intelligence within the filings of companies in the automotive industry were 141% increase between July 2020 and...Read"
-    publishedDateTime: 2021-11-04T15:53:00Z
-    webUrl: "https://www.just-auto.com/features/filings-buzz-tracking-artificial-intelligence-mentions-in-the-automotive-industry/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 31
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_1097273573.jpg"
-        width: 500
-        height: 334
-        isCached: true
   - title: "Filings buzz in pharmaceuticals: 32% increase in artificial intelligence mentions in Q2 of 2021"
     excerpt: "Mentions of artificial intelligence within the filings of companies in the pharmaceutical industry rose 32% between the first and second quarters of 2021. In total, the frequency of sentences related to artificial intelligence between July 2020 and June 2021 was 150% increase over 2016 when GlobalData,"
     publishedDateTime: 2021-11-08T15:00:00Z

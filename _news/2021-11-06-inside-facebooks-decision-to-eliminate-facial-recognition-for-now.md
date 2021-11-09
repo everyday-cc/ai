@@ -176,6 +176,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Facebook Ends Recognition Software"
+    excerpt: "Facebook plans to shut down its decade-old facial recognition system, deleting the face scan data of more than one billion users."
+    publishedDateTime: 2021-11-09T08:20:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/facebook-ends-recognition-software-5957.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 24
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(75).png"
+        width: 796
+        height: 900
+        isCached: true
 
 secured: "0OaX+vN1Tq0I3hxoHe2tiRXes2V7YrRikFMp0lGLXh8AR//5Wysy+TONvvhyJDLXBOYUnRyh3sXnUJ/QyjKeo8PfBrNy/Me79pH7hyohkP8bU/M//QWl5nbRjl3TE48O+b8SBwGmna2ZlwN4/5zGtKOqzfmN5uDiBZpyvczji1XHhMAvTFtwf0L+QLM7J5JpsypPvDudaMnLNdz2eFL5oXYpy9smoNNQpU+I11xWGtGlPWpGf5CrYnr1EGg9Ask7JXurmATnWnhfKUk0+W6EuNlV31EXDXW1N8R/WA3JrsCRzoPlNlCp6VjlSuok39UV5T67XnwxqgJUeOpggPGPHJi6P2JNEZaQ0SAEy/YZQDAMnSwVlHvVmvYURlCKnTbEGXclfJXK5DtSLvMaKzXEi3Ac5Atcyu3H9XzzJ5TQ+g0UXcFz3sriihIcsI4gV+Ri7iAp6P6jVP4DT5D9WjBV7GpRT+YYfe9W1gqzrGXHqlKQEvFt5GaBXbiHB0VYWjXZlpjFSGqtVyDWcI+N6Ql/Sw==;Ayp2CwfS1WNUKpnIy5EsEg=="
 ---

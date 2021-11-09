@@ -1,0 +1,31 @@
+---
+category: news
+title: "Kristal.AI launched over 15 pre-IPO deals in a year"
+excerpt: "Indian accredited investors have shown a significant increase in the interest to invest in pre-IPO technology companies, reported Kristal.AI."
+publishedDateTime: 2021-11-09T08:50:00Z
+originalUrl: "https://laffaz.com/kristal-ai-launched-pre-ipo/"
+webUrl: "https://laffaz.com/kristal-ai-launched-pre-ipo/"
+ampWebUrl: "https://laffaz.com/kristal-ai-launched-pre-ipo/amp/"
+cdnAmpWebUrl: "https://laffaz-com.cdn.ampproject.org/c/s/laffaz.com/kristal-ai-launched-pre-ipo/amp/"
+type: article
+quality: 59
+heat: 59
+published: false
+
+provider:
+  name: LAFFAZ
+  domain: laffaz.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://laffaz.com/wp-content/uploads/2021/11/kristal-ai-launched-pre-ipo.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "4hQ8lCyuExQd/huD4NUa70N41KKcVayG9MLh6OmoV9b6KMD2+69ljcg+/AYjzG1TU80hj8ofvzX9xkAWjCKOX6AGxUfGUlfdlIJaQYjcUST/auAr0LgtYAay9zT/vjGZ10hdg445+TJtanYRLtOQhSaJXmZu8XuqLp2pGTMWGWOxDkeeubcR3/z601oz4fDxYMSNkMcgaHCNoAbhSt7vbHgdonKSPz3+hjshUWzsNfZyPmPlGrvh+9HxBx4MMScuDs3cFITuCP+zJwv/HIRwWXbcxtFPhMWxUpOncN2K8TS4MwXLtqCvu5E8+r4MlUbAFkS0TB347Z9dZ80L4tJL+M7Qt9uNV/jkJM6UX2Jc5bk=;xznsyO3zOCzFp2FOM/cyBw=="
+---
+

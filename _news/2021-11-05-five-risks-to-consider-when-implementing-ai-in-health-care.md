@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Codoxo's Forensic AI Platform Selected as a Finalist in the Fierce Healthcare Innovation Awards"
-    excerpt: "Codoxo, a trusted provider of healthcare artificial intelligence solutions and services for healthcare payers and agencies, has been named a finalist in the 2021"
-    publishedDateTime: 2021-11-04T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/codoxos-forensic-ai-platform-selected-as-a-finalist-in-the-fierce-healthcare-innovation-awards/article_59bcff61-0d60-5758-b05b-f29bb164854d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "NyxVUIdPMzO0IFeueW+2vnkbj7IN/E91d3bDgaCC1uvmB7yrylg6/c1kKWbXmiDimfLJxMpYX7yGAqrow2HdELk5Y7nuYWPXdujEM0fLFXOn36u8uO2GYoDtsDiuQUytzWzbe4UMM9xzUWQ+AZim+zCbZyqHPshSiqHOg5XDeN++KTgpamnx7950t6+DBgmuWU783zw6xpmlGWRGyMNDJ735OKx2+T+PQd0s/iiqnoFb/t0bta9MHfwrtQpdytlhOYEPZNDa93sGUIBXTwi1/wZFiBg49FOyLhysP1caqIPq1WsPn/GgowKKMRMPE9556F2cgM9+K0ENZSTUfREa3V3je47e1KXw197zcTHqoW7AzVs/hDOexA5Liiv1m2iKqdJ3T3BuJyoB+oja7SZCt7zmNM9WEe629R8GBOqlxMvSsYt8W9x0zdkXAlHZMAX04tpjiurye4yjHWJfMbLYVLgzwqDI3CPChUZ/WaQm6Paq0ryodbwI8fhoIyq1T+kwgWSnaCeoP45KC6Vse8vtuw==;ocPfGxbWjYcLtDsQdO2HbQ=="
 ---

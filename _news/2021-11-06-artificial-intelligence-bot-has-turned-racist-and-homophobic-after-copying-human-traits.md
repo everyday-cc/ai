@@ -9,8 +9,8 @@ ampWebUrl: "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/amp/"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: UNILAD
@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "An ‘ethical’ AI trained on human morals has turned racist"
-    excerpt: "It’s wrong, according to AI. Explaining Delphi’s goal, its creators wrote online: “Extreme-scale neural networks learned from raw internet data are ever more powerful than we anticipated, yet fail to learn human values, norms, and ethics. Our ..."
-    publishedDateTime: 2021-11-04T15:16:00Z
-    webUrl: "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi"
-    ampWebUrl: "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi?amp=1"
-    cdnAmpWebUrl: "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi?amp=1"
+  - title: "Artificial Intelligence bot learns problematic human traits - becomes 'racist' and 'homophobic'"
+    excerpt: "Ask Delphi is not a physical robot with a solid body. It's actually just a software that was supposed to let users ask tricky questions that do not have direct 'yes' or 'no' answers."
+    publishedDateTime: 2021-11-05T07:03:00Z
+    webUrl: "https://www.timesnownews.com/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394"
+    ampWebUrl: "https://www.timesnownews.com/amp/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394"
     type: article
     provider:
-      name: Dazed
-      domain: dazeddigital.com
-    quality: 74
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 62
     images:
-      - url: "https://dazedimg-dazedgroup.netdna-ssl.com/1200/0-0-1345-897/azure/dazed-prod/1310/6/1316177.jpeg"
+      - url: "https://imgk.timesnownews.com/story/Bot.png?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Artificial Intelligence Bot Becomes Racist And Homophobic After Learning From Humans"
+    excerpt: "An artificial intelligence bot designed to answer ethical questions has ended up learning some problematic traits from humans. Ask Delphi was created by the Allen Institute for AI in the hope it could answer life's trickiest conundrums."
+    publishedDateTime: 2021-11-04T23:09:00Z
+    webUrl: "https://www.ladbible.com/news/latest-ai-bot-becomes-racist-and-homophobic-after-learning-from-humans-20211104"
+    ampWebUrl: "https://www.ladbible.com/news/latest-ai-bot-becomes-racist-and-homophobic-after-learning-from-humans-20211104.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-ai-bot-becomes-racist-and-homophobic-after-learning-from-humans-20211104.amp.html"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 52
+    images:
+      - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2F080e0e716184ec2b1e0e8080811fa342.png"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
 
 secured: "yUJIuvQXuyXAM6Axe5rBCVegYXDl9rFlKjIxZ2yO8VKoe0B7S6JDLd2Dur5qDbZdWhgopXU2TVdTSexMBu7nM3QZNO7DdMPitEysUKzolte/PJx+WRNDDp3nwg5iFZpVI1JF0q6laaRVQEHeivBvbhsi7YNm7s8e6zu19RTHH4Pf53pGlvf/Xs0DTBZnUBdhjHYq5EdizVNG9UovARlB8KNr1YYS5yglx6/6MOIRDudXmcVqLl4OTkWg0rN0gAKlB6N9v9WRf/yQSIn4OyB0u7DgYtEaMhr26gMpXIiRbE7qjwY/RO5z0yQ1mmF5mG117mZYqIIMo3hdEsLVvKX7gjhSbz6CD+ZH+n0qJZ42iSE=;NbNaRBB7Fhkf5Np2NvU5YA=="

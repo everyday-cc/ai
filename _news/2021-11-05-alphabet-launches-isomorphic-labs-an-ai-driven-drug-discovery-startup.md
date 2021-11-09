@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/alphabet-launches-isomorphic-la
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/"
 type: article
 quality: 189
-heat: 389
+heat: 379
 published: true
 
 provider:
@@ -218,20 +218,6 @@ related:
       - url: "https://pharmaphorum.com/wp-content/uploads/2021/07/AlphaFold-605x340.jpg"
         width: 605
         height: 340
-        isCached: true
-  - title: "Alphabet has a new drug discovery company building on DeepMind’s AI chops"
-    excerpt: "Isomorphic's CEO said the company plans to use computational AI methods to “reimagine the whole drug discovery process.\""
-    publishedDateTime: 2021-11-04T15:00:00Z
-    webUrl: "https://www.statnews.com/2021/11/04/alphabet-launches-drug-discovery-company-building-on-deepmind/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 53
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/11/AdobeStock_211444725-1024x576.jpeg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Alphabet launches AI drug discovery venture built on DeepMind's protein-folding expertise"
     excerpt: "The new Isomorphic Laboratories aims to deliver an “AI-first approach” for tackling biopharma research, with the goal of serving as a commercial partner to drugmakers."
