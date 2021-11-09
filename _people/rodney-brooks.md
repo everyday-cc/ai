@@ -14,14 +14,14 @@ website: https://rodneybrooks.com/
 twitter:
   username: rodneyabrooks
   url: https://twitter.com/rodneyabrooks
-  followers: 24665
+  followers: 24663
 
 linkedin:
   url: https://www.linkedin.com/in/rodney-brooks-1a137517/
 
 googleScholar:
   url: https://scholar.google.ca/citations?user=BCGgwlEAAAAJ
-  citations: 49660
+  citations: 49645
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Rodney_Brooks
