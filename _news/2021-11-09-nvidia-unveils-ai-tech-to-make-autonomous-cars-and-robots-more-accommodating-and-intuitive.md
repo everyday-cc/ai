@@ -44,47 +44,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA's new AI brain for robots is six times more powerful than its predecessor"
-    excerpt: "NVIDIA has launched the Jetson AGX Orin, its new AI brain for robots with six times the processing power of its predecessor.."
-    publishedDateTime: 2021-11-09T10:02:00Z
-    webUrl: "https://www.engadget.com/nvidi-as-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor-093024102.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 62
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-11/7720b2b0-4130-11ec-96e3-0babf84499b8"
-        width: 1152
-        height: 648
-        isCached: true
-  - title: "NVIDIA Announces Platform for Creating AI Avatars"
-    excerpt: "NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company's technologies in speech AI, computer vision, natural language understanding,"
-    publishedDateTime: 2021-11-09T09:42:00Z
-    webUrl: "https://menafn.com/1103128294/NVIDIA-Announces-Platform-for-Creating-AI-Avatars"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?33002"
-        width: 443
-        height: 250
-        isCached: true
   - title: "NVIDIA Brings Large Language AI Models to Enterprises Worldwide"
     excerpt: "NVIDIA today opened the door for enterprises worldwide to develop and deploy large language models (LLM) by enabling them to build their own domain-specific chatbots, personal assistants and other AI applications that understand language with unprecedented levels of subtlety and nuance."
-    publishedDateTime: 2021-11-09T09:42:00Z
-    webUrl: "https://menafn.com/1103128255/NVIDIA-Brings-Large-Language-AI-Models-to-Enterprises-Worldwide"
+    publishedDateTime: 2021-11-09T08:52:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-9c1edef4a29ea071baa60df72dc17dda"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?33002"
-        width: 443
-        height: 250
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
     excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."
@@ -94,13 +66,13 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Triton-Image.jpg"
         width: 1100
         height: 508
         isCached: true
 
-secured: "dtTzmnnw7XhRWMl/2fCe3tsgCbHGFeaLp2FHhBY+uY/VDyh4FvlOLZzLMspevXpW7afSgwiTT11TsHPB/odd31rXQQrLC9XBIIW1f08czPwXRcFg9ULQbkHBV4R43n9kfJkWupVwF/oZr7DZVzAg1ZZWIWsW9mbOa+mHD32pFH4x0p9q40ikgAMF9YBuAHVnXlMuMPmscjK2mlRrJOf5AHRaJKUtKFzNKSD8hWpxpJTpblmZckxFo1MORdcT3WpQRKP+voB+yWPbRrp4HI3RYuZgN39HR80nef7BKllFJBSWrJzHgNKrK7bbvfg5rzdVCjtGhFiGNauBo95ox1pSXpy49MqcN7ZRoaX6P3ZbS7s=;6rfMZ+LCvPNSVe1OwlE+YQ=="
+secured: "zGpr2KGaRm758xDQ8FUi0KM4qVMF0etqAaiaOzMKoVAdXLKGgo7ZMG6Rd3lxD5Oc9TttpLdsV9WZ5yMP1A3Dw7G7s1Wl51mPI995TpgrvufTYwekq0TquBbuKRKlJJEtg2Ge/DOnkADYALzy9HbApDgR4wcQzDtzLRjvKWOiidYatR1sIyivB0HS2HEAfE/RJYBaeQqsi3+wmfKq02nVS5PSF1TH0CocRMhzuNDvN0mJ+nxmruFAFaSd28tCbLxwdOgXG8cqNuAlUH0fnU7aArxeCFzUSx1AZpHg0K0P2BaVHuX39YasP+Uu0SqtSqkndCRVGo4Xi0YqWQ9nlUmJ3uIeBq1kNC8UqxMxEiPsaYJjOCrfZQU4M+qPOvxlNI4X7TGlfgnoYi8Dq5iSzUnXL7jbuiEaxe9pMFPiD6QcxS8l5RNioH26U8Z7iUJlS6kTL8rWNwNGChQo/ptFF5CFLD6iRn4tX0ZOXi7JXSj8p/ZRHpy+dE1cBAv1CkEzPFauThLc69SG4bBTynZY3EbUYg==;VWFBpe15WF9OuuroZzlDPw=="
 ---
 

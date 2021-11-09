@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/nvidia-doubles-down-on-ai-language-models
 ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
 type: article
-quality: 60
+quality: 64
 heat: -1
 published: false
 
@@ -24,6 +24,8 @@ topics:
   - Natural Language Processing
   - AI
   - AI Hardware
+  - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/4a37395f96eb1190ee15b364e0c4799d6bd4c299/2021/11/09/cd687ced-56c7-4ca6-aff9-a6f1d128ed60/morpheus-image.jpg?width=1200&fit=bounds&auto=webp"
@@ -64,7 +66,23 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Nvidia’s next-generation self-driving toolkit is available for 2024 vehicle models"
+    excerpt: "Automakers, suppliers and startups aiming to roll out automated driving features, robotaxis and self-driving trucks are a little closer to accessing Nvidia’s newest compute and sensor toolkit. Nvidia founder and CEO Jensen Huang announced Tuesday at the company’s fall GTC event that"
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://techcrunch.com/2021/11/09/nvidias-next-generation-self-driving-toolkit-is-available-for-2024-vehicle-models/"
+    ampWebUrl: "https://techcrunch.com/2021/11/09/nvidias-next-generation-self-driving-toolkit-is-available-for-2024-vehicle-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/nvidias-next-generation-self-driving-toolkit-is-available-for-2024-vehicle-models/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/DRIVE-Hyperion-Image.jpeg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
 
-secured: "QUTtyyH6Uq6ONIRWqDl0RTyFsZcpO77a8swMASB7UhC11Hk59AMBWuBKxGJtUD0nOoQLrnq0XzAQPBx9+kCX1AWAVmt1UDoqGvuwgWX/7tApQyW5/qK1iJnzWOTDMM7jqHGF5K61ut/0xCtL2edfU0LRIIlAUDAeB+0bKxbHbfDUkQ4aL89sWXs/4d6ueO7jBxxit01/Ws9sPfpeGwoNzOl34qELUNjl6LfsVTdickR8pqDtOzYMoDI5EuIgRs8UJ474cda3TCIt1aWD/kMXqik8MReDTNvmOl53+rRxeV4SEylJvl0htdYpVtpySQwNjInOGadMhp1vUrqIejP2vmQ3blJ7hONXGBKx2iqIni4=;rfCcJvB48UeZG54gmDsSuw=="
+secured: "8/dQ2pWBWsFUjxoCD0ymU+Z763A4Lr3ZklsOZNnCr1uIaDEt8wSz/4UjB7nbxWgQ3aBz4EI5MZgtPXTohh5NH7UpbGSzmzalQA4Z0vFUx1M79zoCpTBRpFtvaOPYrrmjuMYyAWzXGyznXiE3cU1dAoXkTzK4E6+YqCqJfRfGnG1pI19IjrS5faOhuvSmIRglTD0ZUAqqtcITaHQMLEFw4qnlNgwY9O+uyZ7k4ZHOG9u+CuS2ldI53ekpPY3EE7EbveV7R+f/9nbGfbxhak1reNUNclGa12P7qGtOvGV9t4K82fkfkuoEcr+Itd1+r9cwM5hAQJJC5RVzHBAaf2QEAubVeIw5ZkPhS7tOIl30+8KNR9PwjZfy0rYuk/yVMmelE7FCQdFf05NCf+fR1u7KyNenVclEUFa16hS1P9uCPlZcFmvw8Z6JRNZqIhEOeiBGltEnkENf92IxeVhM0lJHPaKje7hblWoFIVhEEBLHgAo70oge4FGFpT+G/R8w7z+XgOILtHMgBXdSVfSDyqYXSg==;EQkI6W7XRviGmldTDOqDXA=="
 ---
 

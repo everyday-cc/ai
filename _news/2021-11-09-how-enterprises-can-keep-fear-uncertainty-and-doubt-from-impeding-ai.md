@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-unc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Explore the top ten enterprise AI platforms for better intelligent enterprises"
+    excerpt: "This article features the top ten enterprise AI platforms available in 2021 with the integration of artificial intelligence (AI). Click here to know about multiple AI platforms with enterprise AI."
+    publishedDateTime: 2021-11-09T12:47:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-amazing-enterprise-ai-platforms-available-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/Top-10-Amazing-Enterprise-AI-Platforms-Available-in-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "KNDThSzs824/+3wo8L3z/wcIupw6iqzcu6cJEbyPu7rAsZ2Mw0VvNKBXqGgfKnQVJS6LtuVZb+s69ItFgxRc/AqqnckZfNKGshgTS8SXa0QCjePzR9ZHyeUEyjxP/c89XGbaerjoXuPWRGHLWDcJmB3Ay+sRFf19tNh970sFXBumOHKnXnSJJf0MuYr1k1jVGw2bTuhKjcuH0oWrMUz9EoA6gHE4W5BZRamXoGC0O/ybEXKLoWKT6/1j+cGtuA3s+IEGkUTw6S4LIL0+G7fsOxrEUipT0fQbXcvIOXXpSOVVnrG+A9GJXeJoSXGUbU9EN0/g9hX7sQQZWzjYc6VcSQVs+EKyW7ku5V1lgAR1j3yqlIHK5uvT/LXF0xRbLt0bWIrXZ8BiYMgzbe6fwa4peb4/ygOgOLLitqPUgDpjvzSAhV9MPq4n10BGXOOwujz6rZR9Ksi8Kmku/WgatBmWUb7s0E05+p+mNdUVF22YPiQRzJg7crM0FC4HXQJKDDjnRNhYXRb5/WtvpoZfFpvOvw==;2wWUgr4BR7WRprKiIN68pg=="
 ---

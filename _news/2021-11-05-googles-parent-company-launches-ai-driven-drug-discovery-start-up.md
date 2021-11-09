@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Isomorphic Labs is Alphabet’s play in AI drug discovery"
-    excerpt: "The field of drug discovery has been supercharged by the capabilities of AI, which several companies have applied in various ways to turn an enormous practical problem into a tractable information problem."
-    publishedDateTime: 2021-11-04T18:06:00Z
-    webUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/"
-    ampWebUrl: "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/isomorphic-labs.png?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Alphabet's Isomorphic Labs Says It Will Use AI to Discover New Drugs"
     excerpt: "The company will build off of breakthroughs in protein prediction from DeepMind and inches Big Tech one step further into the healthcare industry."
     publishedDateTime: 2021-11-05T23:20:00Z
@@ -192,20 +176,6 @@ related:
       - url: "https://pharmaphorum.com/wp-content/uploads/2021/07/AlphaFold-605x340.jpg"
         width: 605
         height: 340
-        isCached: true
-  - title: "Alphabet launches AI drug discovery venture built on DeepMind's protein-folding expertise"
-    excerpt: "The new Isomorphic Laboratories aims to deliver an “AI-first approach” for tackling biopharma research, with the goal of serving as a commercial partner to drugmakers."
-    publishedDateTime: 2021-11-04T18:58:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/alphabet-google-ai-drug-discovery-deepmind-protein-folding"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 47
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1636052397/GettyImages-867159754.jpg/GettyImages-867159754.jpg?VersionId=Wz.7bs13f3QJMcVV_ZH80QowTKRNr2f8"
-        width: 800
-        height: 533
         isCached: true
   - title: "Google's parent company launches AI-driven drug discovery start-up; here's what we know so far"
     excerpt: "Google's parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery, The new company, called Isomorphic Laboratories, will leverage the success of DeepMind,"

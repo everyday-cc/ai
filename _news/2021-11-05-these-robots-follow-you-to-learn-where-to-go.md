@@ -34,7 +34,7 @@ related:
   - title: "Tagalong robots follow you to learn where you go"
     excerpt: "Follower robots have been under development since the late 1990s, beginning on the ground and extending underwater and into the sky. Initial forms relied on following the location of a tag in a person’s pocket,"
     publishedDateTime: 2021-11-06T11:00:00Z
-    webUrl: "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/?comments=1"
+    webUrl: "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/"
     type: article
     provider:
       name: Ars Technica

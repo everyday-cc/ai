@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cobi robot autonomously performs needle-less vaccinations"
-    excerpt: "It goes without saying that a lot of people are receiving the COVID-19 vaccine these days, and will continue to do so for some time. A new robot is designed to help streamline the process, by autonomously – and needle-lessly – vaccinating human patients."
-    publishedDateTime: 2021-11-04T18:30:00Z
-    webUrl: "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/"
-    ampWebUrl: "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/735b46a/2147483647/strip/true/crop/746x497+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F92%2Fb2%2Fd4ed008e4c199d20be0d2caa5b92%2Fscreen-shot-2021-11-04-at-12.09.10%20PM.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "This New Robot Can Perform Vaccinations Without Any Needles"
     excerpt: "Advertisement Just in time for vaccination season. Life after 2020 has been crazy. Firstly dealing with the COVID-19 pandemic and then vaccinating everyone against the contagious disease has been on top of the list for health care centers around the globe."
     publishedDateTime: 2021-11-07T14:11:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/11/09/nvidias-latest-autonomous-driv
 webUrl: "https://siliconangle.com/2021/11/09/nvidias-latest-autonomous-driving-system-can-drive-b-park-safely-create-real-time-maps/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Nvidia's virtual driving assistance can park a standard car autonomously"
+    excerpt: "The company has also brought a virtual driving assistant that can park a standard vehicle. Dubbed as Drive Concierge, the technology uses artificial intelligence software to provide a variety of services,"
+    publishedDateTime: 2021-11-09T11:24:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/nvidias-virtual-driving-assistance-can-park-a-standard-car-autonomously-41636455046813.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/nvidias-virtual-driving-assistance-can-park-a-standard-car-autonomously/amp-41636455046813.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/nvidias-virtual-driving-assistance-can-park-a-standard-car-autonomously/amp-41636455046813.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 43
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/11/09/600x338/9511e106-3221-11ea-abf9-d6598481f54e_1578554866586_1636456904352.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "rLcnEr/oh/8u3svkC4i4Mah7RTScAdeYJk7xEbvzn2YUGxbgzlY9ASXHw/zK9LXxMs54auhDQQ3PTeMGz8bE4adtWbwhgKHURddprIfxJ0NjiRE9AKLPI27xuiHzEO7q0QRm9bGt0JlPeKP8nRmQNoclI0TwsfnTrNqp1oCc1YlZhAvBO299U3dyfDnwwiypgZdotyrJg26iMmjVgxCBxvelHhJqjXFLFlLb8zyLEixU0gpSM4JWGR7B0nCeksDUWgizB7TXTnAXYY10AoKIF2hzdHxQMh1guXbuaEj5FjDDcIbIwX714FXCvsqbgWLzDGkKiWJu/PW5anmMHRH+MXDzgUwtIR14O13NS5LMA+0=;KAQejevOVaPwtC0ipV3T+g=="
 ---

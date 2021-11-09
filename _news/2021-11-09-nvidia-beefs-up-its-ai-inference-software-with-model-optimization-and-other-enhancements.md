@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-09T09:30:00Z
 originalUrl: "https://siliconangle.com/2021/11/09/nvidia-beefs-ai-inference-software-model-optimization-enhancements/"
 webUrl: "https://siliconangle.com/2021/11/09/nvidia-beefs-ai-inference-software-model-optimization-enhancements/"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - AI Hardware
+  - AWS AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Triton-Image.jpg"
@@ -58,47 +59,19 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "NVIDIA's new AI brain for robots is six times more powerful than its predecessor"
-    excerpt: "NVIDIA has launched the Jetson AGX Orin, its new AI brain for robots with six times the processing power of its predecessor.."
-    publishedDateTime: 2021-11-09T10:02:00Z
-    webUrl: "https://www.engadget.com/nvidi-as-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor-093024102.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 62
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-11/7720b2b0-4130-11ec-96e3-0babf84499b8"
-        width: 1152
-        height: 648
-        isCached: true
-  - title: "NVIDIA Announces Platform for Creating AI Avatars"
-    excerpt: "NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company's technologies in speech AI, computer vision, natural language understanding,"
-    publishedDateTime: 2021-11-09T09:42:00Z
-    webUrl: "https://menafn.com/1103128294/NVIDIA-Announces-Platform-for-Creating-AI-Avatars"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?33002"
-        width: 443
-        height: 250
-        isCached: true
   - title: "NVIDIA Brings Large Language AI Models to Enterprises Worldwide"
     excerpt: "NVIDIA today opened the door for enterprises worldwide to develop and deploy large language models (LLM) by enabling them to build their own domain-specific chatbots, personal assistants and other AI applications that understand language with unprecedented levels of subtlety and nuance."
-    publishedDateTime: 2021-11-09T09:42:00Z
-    webUrl: "https://menafn.com/1103128255/NVIDIA-Brings-Large-Language-AI-Models-to-Enterprises-Worldwide"
+    publishedDateTime: 2021-11-09T08:52:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-9c1edef4a29ea071baa60df72dc17dda"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?33002"
-        width: 443
-        height: 250
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "nfczRp2JujpFi4tLTPsvx4rLoo84P3BekwG3C7QvI4b2bh1n56S9tX2aJ3pvieti9dprp9UTzASSFHdW6COMxHD9lsoBD9XK9R/hUwbELjGB46TXu3jtZXfG/1S+osctao2P3fqbiA/yN5mo0SA9IcLa3RbmLn3O1EYs8IhFVw3DYhTAHUa0WeB9C15PtUVcEdZ+TAangh3m6bWQMevHfguDpU5JZMHtelMdq2CzM1laDe8aSBAy8md1jIL/eeW/+Iqz/TNOQMP7oYdco728yykyw33ks+QxySWfQ9feya+qgfiJDnG2lZo+wp2jLKOvRQWb5XDBlvsIAY751Lo9fiDjrLCPZez14WB7cARHm60=;HARvybEReye9TQzS2YREvg=="

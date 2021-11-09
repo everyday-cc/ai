@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-acce
 webUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Focus needs to turn to doing AI analytics right as adoption soars"
-    excerpt: "Digital transformation and adoption of artificial intelligence (AI) have soared around the world since the onset of the Covid-19 pandemic, making it increasingly important for organisations to focus on the tools,"
-    publishedDateTime: 2021-11-05T06:50:00Z
-    webUrl: "https://www.itweb.co.za/content/wbrpO7gYOWPqDLZn"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7gYOWPqDLZn"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7gYOWPqDLZn"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/p9rDEy2TS05gmljGu-JgnaBaMzEV42FH5xYwNZwp0-uz2JUzLKTHQV8zCDIIog1zKOcCSsTbXdvxfvRDsOGrwhi3vcZlptMvPrt4=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
   - title: "Materials advancement accelerates the realization of AI technology"
     excerpt: "Researchers in Korea succeeded in developing a core material for the next-generation neuromorphic (neural network imitation) semiconductor for the first time in the country. This is a result of a research team led by Dr."
     publishedDateTime: 2021-11-08T17:02:00Z

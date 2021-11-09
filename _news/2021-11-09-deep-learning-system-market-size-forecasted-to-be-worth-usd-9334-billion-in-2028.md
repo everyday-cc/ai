@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/deep-learning-system-market-size-forecasted-
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/amp/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 400
     isCached: true
 
-secured: "RpS3DGe4Zqk6Zpri1wg1Op8EXs9rwZcshG1Bnrg5b5Omdf/TLvgBNsl9I1pioO7rjRhfMcYSHdjGg2QbvaCBm9JtLaCWl5vAtriVqyYtSz4DgMJV/wUrrIqCCevAiZqAApLr1f2KUpDDvQyK94gwybiJ0EtWN9IIodgehi7J60UKZ9UjwMriJmMijhds1Jq/J+89OLT8jBskZmxmDZv46NPz2tJKam0PldT3rokAaqT9ecuhOI8+sQTvt2woDty1nAjeNKdH2mic/ciPTk3Uau+u+FXIcX6F+yyYxUXHnA+C37NMUyKejViZvv9NTSdd582nEhAb5TuqfMpnCi/9/Q2OagcRQozzjxLBCZDnS40=;0C7FVLsVZXLFzbmHAZo+nw=="
+related:
+  - title: "Artificial Intelligence In Diagnostics Market - Global Forecast to 2028: Growing Strategic Alliances Amongst the Healthcare and Technology Giants - Re"
+    excerpt: "The \"Global Artificial Intelligence In Diagnostics Market Size By Component, By Technology, By Diagnosis Type, By Geographic Scope And Forecast\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-11-09T11:04:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=562293"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+
+secured: "oyZv+YXzDHUj16iwI0i+L224PV4kZ8/Z/aLx+Jq9zYdvPZlMxSFx3IlmxZosoJTVeZ10tebXN1ciQx0GtDLEfwJ0xPQmqy/O7KgMxKL/SabH79sNL/9z6ypdLzxLt1LHQbYi1PhCfg9sPf6FOUTCtypEgn2YzE0lqcWkdaJUVnjnzFKJR3WdlgXeEXWbGyqkj00CSkXfKZabI7lHf4S16uwuiK1/2b/LhIBoW2JOPsncT5go+IJtH+cJlhV/iT2ACSqbZkSw6nFEuH/lIUi7LwBEpYv6yJ5/V1bxsZGVy4OW1aKusyNIbZV1JX4lOSp0jv1PRt2NsAVELBcdWmujJa1CU+kfYX7rrYB8U+jmyd97NCoSMHhEGf8l38/ZQt327LSgzIgcHJhr8zVbPu4CDtAepZLrBmm3mVpg/9XmxSWcZrD5DStO+nnL/NsrQ01M2AZdMM4yvyAF/mLHHxJpZ9cnMF+Y1tibCJTe8afMR16B3W2jNpMBFnHMqqty5SIhHNdM4MANwryWu0WWP5u81w==;J7MHFqjhXUYVd9IsL8dzWQ=="
 ---
 

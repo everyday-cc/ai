@@ -31,51 +31,55 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Is Not A Chip Company. It’s A Platform Company."
-    excerpt: "NVIDIA seems impervious to competitive threats that arise from dozens of startups and large companies like Intel and Google. Its the platform."
-    publishedDateTime: 2021-11-09T08:30:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/11/09/nvidia-is-not-a-chip-company-its-now-a-platform-company/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/11/09/nvidia-is-not-a-chip-company-its-now-a-platform-company/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/09/nvidia-is-not-a-chip-company-its-now-a-platform-company/amp/"
+  - title: "Nvidia makes massive language model available to enterprises"
+    excerpt: "Nvidia has made available one of the world's largest language models -- Megatron 530B -- to enterprise customers."
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/"
+    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618588964341fae9689dac26%2F0x0.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
         width: 1200
-        height: 616
+        height: 600
         isCached: true
-  - title: "Luminar To Supply Laser Sensors For Nvidia’s Self-Driving Car Platform"
-    excerpt: "The lidar upstart will supply the sensors for the DRIVE Hyperion system Nvidia is developing for use in personal self-driving vehicles starting in 2024."
-    publishedDateTime: 2021-11-09T08:30:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/11/09/luminar-to-supply-laser-sensors-for-nvidias-self-driving-car-platform/"
+  - title: "Nvidia’s enterprise AI development LaunchPad program goes global"
+    excerpt: "Nvidia has announced the expansion of its LaunchPad platform to multiple Equinix datacenter locations around the world."
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://venturebeat.com/2021/11/09/nvidia-enterprise-ai-development-launchpad-program-goes-global/"
+    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-enterprise-ai-development-launchpad-program-goes-global/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-enterprise-ai-development-launchpad-program-goes-global/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189d750f0d6cffe961b3daf%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Inspur Information Announces Full Support for the NVIDIA AI Platform for Inference Processing"
-    excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced at NVIDIA GTC that its AI and Edge inference servers will support NVIDIA A100, A30, and the newly announced A2 Tensor Core GPU s throughout its entire inference server portfolio."
-    publishedDateTime: 2021-11-09T09:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-ae9ac0f26e074e2b8be9e526383c5520"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/800-1.jpg?w=1200&strip=all"
+        width: 800
         height: 450
         isCached: true
+  - title: "NVIDIA doubles down on AI language models and inference as a substrate for the Metaverse, in data centers, the cloud and at the edge"
+    excerpt: "At NVIDIA's GTC event today, CEO Jensen Huang made announcements the company claims have the potential to transform multi-trillion dollar industries. We cherry-pick from the announcements, focusing on the hardware and software infrastructure that powers the applications that make the headlines."
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4a37395f96eb1190ee15b364e0c4799d6bd4c299/2021/11/09/cd687ced-56c7-4ca6-aff9-a6f1d128ed60/morpheus-image.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 648
+        isCached: true
 
-secured: "RJIPVBTu8CMzvN7puEWKJr7FzBc38I1EUgwRf4OLZgH+N3ZJe0NEhDH4AZbZhGyj6FrvxBvX7Jx6+Xm85EJhYUAqdVOOzLEf1B/7DsS04LuUiDynGMkAA+FotLgw//toFV9wuEHHUC0VVO/u0fpirCYw/rDr9PEISbeO1osgPCcH0TUOv0ugL9NvNDR0x0bHyZtC0kafsApzM0mIIZm1nsuDUJ3OToIixFV2TzSw12TAa2eCMJJPTY+f2P1qPOkuYshX7YtWUaejX3ZqHRgRCBQjGbHyjsQiUcaxIY1FKlLP8+OkXEeKokEYjN3w5k21a5GG87LFHAr6vxj+qXHkPwEisyz3djLCEfhUhasD1Ic=;XaiHSQ56fj0DJfKUGNISRA=="
+secured: "JSTriQa4hYgvV43V0A1MLvs0lf3K67r7XwnnsTWIjOiziEELngmNwUtdVIA5KEGSXU3kSFqPHXTciHFbbI9rXcIsZ12K55FEjypclsUIoSCdjnn59x2prTbn3S4AmHO/NDMPaVLJ5otEXEcbgK+FH0wC9u+W6qWtq7xo86sT4tM3nwO6FhtCdd4+0KT/UFrQ4U8cXZpucZTn7eoycs2JKS6U9WEn5NIcGJRj2ZrNf2a4S3aikNoTkekQu6O+byQZiNV+dORQFMASTKlXYAQuYLEW9roN0eAbW0/jVX257WVzfsFX35tMksd9dF7Z6mBlpSWmr+5kEVgduSMs3IY1lDecXair6ee0BErYaTKxlLlMDmMI+PyAE1NyPgdmmsueXqTTT+nouaX6xCvDFFz6yK/9VEh5VKvJOWDsfumS7kBaREoH+qPV3WDf4KlkdMjM/jst5Qg3K3o4z4+k/q2p9ABi8lRALG7GVhuAhBr9+HN2yGcQ7Va1rYvJfQB1MHz6aKWnU35rGQwLc6oeo3aYug==;I/NvIZ4/ay1LPUpsHPbsVw=="
 ---
 

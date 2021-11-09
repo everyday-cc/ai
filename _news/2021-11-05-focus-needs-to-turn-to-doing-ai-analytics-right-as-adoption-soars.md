@@ -27,35 +27,100 @@ images:
     isCached: true
 
 related:
-  - title: "Disruption In Action: AI Accelerated"
-    excerpt: "Global spending on artificial intelligence systems has nearly tripled since 2019, and it's set to more than double again by the end of 2025, according to IDC. Hear from a pair of disruptors driving the accelerated adoption of AI's many promising applications,"
-    publishedDateTime: 2021-11-05T02:01:00Z
-    webUrl: "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html"
+  - title: "Why HR Should Pay Attention To The Emergence Of People Analytics And AI"
+    excerpt: "A key differentiator for successful organizations is how well they manage their talent. As the value of data continues to increase, the opportunity for HR to leverage this data will become more prominent."
+    publishedDateTime: 2021-11-09T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106964175-5ED1-REQ-102121-DISRUPTIONINACTIONAIACCELERATED.jpg?v=1635776688"
-        width: 400
-        height: 225
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189427be94633fae4f28dfa%2F0x0.jpg"
+        width: 1200
+        height: 841
         isCached: true
-  - title: "Materials advancement accelerates the realization of AI technology"
-    excerpt: "Researchers in Korea succeeded in developing a core material for the next-generation neuromorphic (neural network imitation) semiconductor for the first time in the country. This is a result of a research team led by Dr."
-    publishedDateTime: 2021-11-08T17:02:00Z
-    webUrl: "https://phys.org/news/2021-11-materials-advancement-ai-technology.html"
-    ampWebUrl: "https://phys.org/news/2021-11-materials-advancement-ai-technology.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-materials-advancement-ai-technology.amp"
+  - title: "Opanga Announces the Availability of Merlin: Radio-Aware Machine Learning RAN Analytics"
+    excerpt: "Today, Opanga is announcing the availability of its breakthrough RAN Analytics platform which, for the first time, uniquely combines the power of big data and data science with radio-aware machine learning to modernize RAN planning,"
+    publishedDateTime: 2021-11-09T08:12:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-1b97bb2a9fd3f2cecacdced8083f6177"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/materials-advancement.jpg"
-        width: 505
-        height: 662
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "ADLINK launches rugged AI-enabled video analytics platform for railway"
+    excerpt: "Built on the industrial version of Nvidia’s Jetson AGX Xavier module, the AVA-RAGX provides a compact, rugged AI-enabled solution for both onboard and wayside railway applications that delivers reliability and performance in harsh operating environments."
+    publishedDateTime: 2021-11-05T11:39:00Z
+    webUrl: "https://www.embedded.com/adlink-launches-rugged-ai-enabled-video-analytics-platform-for-railway/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 39
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/11/ADLINK-railways-AVA-RAGX-image.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Machine Learning, Predictive Analytics Determine Drug Response"
+    excerpt: "Using machine learning and predictive analytics, researchers can identify cancer patients who will benefit from immunotherapy drugs."
+    publishedDateTime: 2021-11-05T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-predictive-analytics-determine-drug-response"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "Analytics Insight presents the top 10 machine learning stocks to buy this month."
+    excerpt: "Machine learning and artificial intelligence has become a significant competitive differentiator for many companies. Check out the top machine learning stocks to buy in November 2021."
+    publishedDateTime: 2021-11-05T07:30:00Z
+    webUrl: "https://www.analyticsinsight.net/check-out-the-top-machine-learning-stocks-to-buy-in-november-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 34
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/Check-Out-the-Top-Machine-Learning-Stocks-to-Buy-in-November-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Opanga Networks: Opanga Announces the Availability of Merlin: Radio-Aware Machine Learning RAN Analytics"
+    excerpt: "SEATTLE, Nov. 09, 2021 (GLOBE NEWSWIRE) -- Today, Opanga is announcing the availability of its breakthrough RAN Analytics platform which, for the first time, uniquely combines the power of big data and data science with radio-aware machine learning to ..."
+    publishedDateTime: 2021-11-09T08:17:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-11/54433306-opanga-networks-opanga-announces-the-availability-of-merlin-radio-aware-machine-learning-ran-analytics-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 17
+  - title: "How financial services leaders and HR teams can leverage analytics for strategic partnerships?"
+    excerpt: "HR teams need to provide the right support and guidance to meet strategic priorities, including supporting projected growth, competing for talent, and focusing on crucial diversity and employee well-being efforts."
+    publishedDateTime: 2021-11-05T13:29:00Z
+    webUrl: "https://www.finextra.com/blogposting/21132/how-financial-services-leaders-and-hr-teams-can-leverage-analytics-for-strategic-partnerships"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 12
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/b6e5222b-d1e6-4220-a2ee-772af03f6584.jpeg"
+        width: 500
+        height: 261
         isCached: true
 
 secured: "PKntjKVoX3+aWH0j35mcpJ/DdWZSsDwsADMKVpoIjR6Ah2VLY4RAhMMJBQw7G9Y3RR1e7wRJePVrYUTkohrDs0c95y98sEausdVl5TMdEVfl/xyGLuiI69NqXV07UCIV5YdLgwyDZGClc8JvEFF0Za7gCvGAJgsuA4md+RiGGDokLzT1C8s9hhMfR9zi9YvNmv2pwPih1gcaGGCAt/FvrYLFFzpdcuIf5OE/PA4Vn8Y91Lc08pW0J5Nj8feIm6QO2vwFVvGzxNuUwG/sWVLW2kdCG1z7SNK6AOvsTGvH2Px1E+jnTHkNmVZ06Jf9LQdHIGmqTHOjIYdyc8DsaR79ZhUkmfJNtiIkbkyfaWJqaJbt0grVxBUZXYj5v9eVrA+cgo6ylz7WY5VDtFoEQTkjQ+L23nsoYchemp7PQkhbEuTOblhqN26LKP1tMDWdbRbNIuhcGETG9MBXrY8SOqMdZqucPgcYhSDRWgq+tbXEyiU2dq1+XvnaTUqoT+cGB79qcvzNC8GQHCOCPJMcIjPiXQ==;I9bam+e/HoX81o9DcUQ52Q=="

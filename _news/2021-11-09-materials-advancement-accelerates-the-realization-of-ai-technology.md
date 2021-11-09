@@ -40,22 +40,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Focus needs to turn to doing AI analytics right as adoption soars"
-    excerpt: "Digital transformation and adoption of artificial intelligence (AI) have soared around the world since the onset of the Covid-19 pandemic, making it increasingly important for organisations to focus on the tools,"
-    publishedDateTime: 2021-11-05T06:50:00Z
-    webUrl: "https://www.itweb.co.za/content/wbrpO7gYOWPqDLZn"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7gYOWPqDLZn"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7gYOWPqDLZn"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/p9rDEy2TS05gmljGu-JgnaBaMzEV42FH5xYwNZwp0-uz2JUzLKTHQV8zCDIIog1zKOcCSsTbXdvxfvRDsOGrwhi3vcZlptMvPrt4=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
 
 secured: "Ctb+JHfoxwTqAmkD4T07qKmVVme56rFgDJi4gqg5Au0nNE9BrCxSOfivj770hwOPw0WL7WKbH4mOVH0QrFvdQrSfmmd98rLhJ/QOXFVDbwI2MY6+XPqdQY/OBGA8IkY3nMkxkcxCAN9SQK2NxsBwTFpxm8YKWF1gMRrsMWYrTLF2keL3jCifcJgv5IRW3FsNhKF1qNB0vs1ShZ0bhWHAfAWptoWeXVJPS7MVZTcoxtMif/1DJ0ZqPuLUX8ZYle26B8ypAe2IkummtmxtEjAkpmBmcwLVDJDqeyEryI2affnx3bLNv7s9ONL4vmGLz7xOQAqeIMrL9NyqUPrmVCdiCmtoqPHcJ2vm3om4P/dIHrYOfyNiBY4coHkJ0VY+4RnbVTnAOEA3K12fEDCnfk4ZbZkdw4TK3jDbiSXmHkbSWV8yMkAfJdrtRMzu5XqwWtkombbX1a5EphNNARfiLkdKBSej7mfDvu0iBePdAK/y3QGQTd+gKeUawiMhwFPdYGDLzdrc8yeqeBgDgjP/RekbqA==;7s97up+stiU5e8dk2jlaWQ=="
 ---

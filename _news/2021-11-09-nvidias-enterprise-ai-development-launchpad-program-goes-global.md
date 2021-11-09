@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nvidia’s next-generation self-driving toolkit is available for 2024 vehicle models"
+    excerpt: "Automakers, suppliers and startups aiming to roll out automated driving features, robotaxis and self-driving trucks are a little closer to accessing Nvidia’s newest compute and sensor toolkit. Nvidia founder and CEO Jensen Huang announced Tuesday at the company’s fall GTC event that"
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://techcrunch.com/2021/11/09/nvidias-next-generation-self-driving-toolkit-is-available-for-2024-vehicle-models/"
+    ampWebUrl: "https://techcrunch.com/2021/11/09/nvidias-next-generation-self-driving-toolkit-is-available-for-2024-vehicle-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/nvidias-next-generation-self-driving-toolkit-is-available-for-2024-vehicle-models/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/DRIVE-Hyperion-Image.jpeg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "NVIDIA doubles down on AI language models and inference as a substrate for the Metaverse, in data centers, the cloud and at the edge"
     excerpt: "At NVIDIA's GTC event today, CEO Jensen Huang made announcements the company claims have the potential to transform multi-trillion dollar industries. We cherry-pick from the announcements, focusing on the hardware and software infrastructure that powers the applications that make the headlines."
     publishedDateTime: 2021-11-09T09:30:00Z
@@ -56,13 +72,13 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 60
+    quality: 64
     images:
       - url: "https://www.zdnet.com/a/img/resize/4a37395f96eb1190ee15b364e0c4799d6bd4c299/2021/11/09/cd687ced-56c7-4ca6-aff9-a6f1d128ed60/morpheus-image.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 648
         isCached: true
 
-secured: "l+V8hJguHpVzAedRKEOBJacczC0k5JLpTJuUDpykha7Alldbiil8K2mne1kHup+hnLf/aAlCHMJs8ZpmPlLiHtmjzQBOBdwWLk65q77rrukBTFvCSSMc3535UuiZqb9DvDcEO84HE52qoLvgY6hPFr1lURTsUs7LxbtJm1vX5Orn04QUrmoSygAGzsQ0LHGoXum3mU4QT27oyvBzPtzUAOb6J8tkWnkRFTwJW2B0iuR1IAPV9KLSyPUGQMTPjqHVlr5HeeK2L1tDakTVNxXVzz3fCN1H4V3MdK4QLFxILiEd37UF2YU1l/ZvEMQqMlnfESn8qz9rvT2IuBbz+SvWt8Z/lcwIhjEcyLoKB6+lPOU=;e9XstSxks90C0pnOH7IY1w=="
+secured: "DZHQ9srxZ53OVJOjfbX1rOCPf9NHntp24DdDovXyTDBzxJuMhMj3eiDR+jrlG9DX3xaX4qw1ueXN6EmIpL1dANwh2Bd7agc5VaAdkQ9PaxlDBGFj5ZKxbfIV3amQs5NzYTagWW/MrNUDPvFwwYIj2nYsfFrVAqM7rmZSxNR5Z9imKQ6UFMsKYo39mOcz3NEIQjHQ7Z0YAk0tTjWH+ShkKV/NmleBl/aHEuAQLNO+G+5IByIF+xFQO9W/6V8bAiIenSpBDFtHGan1Xcy/D+bqCr3z0VPK/fE0KWtoiEBr1t9CcWCaMIm2KjT9CMdHG9p8jd4G9apjFKtS0PkAo8MBT3TFgWfaepN7S9cf8pMIfLqZIYwobsg8xkf5Al4k46FCHm3nGZcgKHoBdGcnSX27JhBIJHEBEpAYSNoRNz5BPQXlcmGk+BO/qGQI3zzPr5KUkVqz8xsTUGZ//lZ1BPfy36cxDBJ+iR6uUScqVcoI9IMxK3GdfM8jyMasqwsusI1j/BPCz/ke5C1kSRiN32Oe9A==;ho3SQ2icmsIsqs0/AV/mIQ=="
 ---
 

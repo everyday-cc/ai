@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-11-ai-power-natural-language-africa
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ai-power-natural-language-african.amp"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1800
     height: 1920
     isCached: true
+
+related:
+  - title: "AI brings African languages to forefront of neural network model"
+    excerpt: "The new neural network model, which the researchers have dubbed AfriBERTa, uses deep-learning techniques to achieve “state-of-the-art” results for low-resource languages."
+    publishedDateTime: 2021-11-09T12:15:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/11/ai-brings-power-of-natural-language-processing-to-african-languages/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 56
+    images:
+      - url: "https://eandt.theiet.org/media/17099/dreamstime_xxl_49750410.jpg?crop=0,0.1252001953125,0,0.38261230468749996&cropmode=percentage&width=1200&height=450&rnd=132809280780000000"
+        width: 1200
+        height: 450
+        isCached: true
 
 secured: "9vo8WPnAsdQ5nXnu+j/GCaU3PY8t1i9D0qz3y9hKEEloQXZhvXK72bZj+hNzJqeIzUI+AzazyG2r/eKgyrlBl1gS/CXuLFy1uz/uy76BbY1DppCqssF/rqYrdrVlVK8jNJCPY1voVtbzbrb0IUeqfAK91543EgPF/FhSKCCTS6cmlMWxE+tQlpU30rxixKLjksYXOajITvvyMbSMION7oEAwwP9I6cirY+wBM3HJ8BXf4P6j984JlxcopclsDhS2Xr7/ojad5Q6epXpKqT5pXrVyFw0/UU65mJXFaoL5LBG1uZ2mLyqaDBD1T4ImNuD1zhnzoUHKt0qG6UQsvP2qzq1DdWPjruTHT3L66BemlUU=;f1sqQCmycUMmqRr77uAdDw=="
 ---

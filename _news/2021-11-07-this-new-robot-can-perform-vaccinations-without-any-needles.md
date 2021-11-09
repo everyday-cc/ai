@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/this-new-robot-can-perform-vaccinat
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-robot-can-perform-vaccinations-without-any-needles/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cobi robot autonomously performs needle-less vaccinations"
-    excerpt: "It goes without saying that a lot of people are receiving the COVID-19 vaccine these days, and will continue to do so for some time. A new robot is designed to help streamline the process, by autonomously – and needle-lessly – vaccinating human patients."
-    publishedDateTime: 2021-11-04T18:30:00Z
-    webUrl: "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/"
-    ampWebUrl: "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/735b46a/2147483647/strip/true/crop/746x497+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F92%2Fb2%2Fd4ed008e4c199d20be0d2caa5b92%2Fscreen-shot-2021-11-04-at-12.09.10%20PM.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Canadian startup's robot performs autonomous needle-free vaccinations with a high-pressure jet of fluid that passes through an opening in the skin the width of a human hair"
     excerpt: "Cobi's AI software determines the optimal injection site, then its robotic 'arm' applies a high-pressure jet of serum without a needle. Its use could protect healthcare workers and lower costs."
     publishedDateTime: 2021-11-05T16:23:00Z

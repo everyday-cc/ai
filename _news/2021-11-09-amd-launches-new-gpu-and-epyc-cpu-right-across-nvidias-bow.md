@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/11/08/amd-launches-new-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/08/amd-launches-new-gpu-and-epyc-cpu-right-across-nvidias-bow/amp/"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,19 +31,79 @@ images:
     isCached: true
 
 related:
-  - title: "AMD Blitzes Intel, Nvidia With New Faster EPYC, Instinct Chips"
-    excerpt: "With plans to launch the refreshed EPYC chips in the first quarter of 2022 ... AMD executive Brad McCredie called the new Instinct MI200 series “the world’s fastest HPC and AI accelerator,” saying it can provide up to 4.9 times faster HPC performance ..."
-    publishedDateTime: 2021-11-08T18:38:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/amd-blitzes-intel-nvidia-with-new-faster-epyc-instinct-chips"
+  - title: "Nvidia says its GPU chip is a giant leap forward for computing"
+    excerpt: "Nvidia estimates that over the past 10 years, the raw computational power of its GPUs has grown by a factor of 1,000."
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/"
+    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/NVIDIA-Cambridge-1_GPU-closeup-e1636399396836.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "NVIDIA Is Not A Chip Company. It’s A Platform Company."
+    excerpt: "NVIDIA seems impervious to competitive threats that arise from dozens of startups and large companies like Intel and Google. Its the platform."
+    publishedDateTime: 2021-11-09T08:30:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/11/09/nvidia-is-not-a-chip-company-its-now-a-platform-company/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/11/09/nvidia-is-not-a-chip-company-its-now-a-platform-company/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/09/nvidia-is-not-a-chip-company-its-now-a-platform-company/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618588964341fae9689dac26%2F0x0.jpg"
+        width: 1200
+        height: 616
+        isCached: true
+  - title: "NVIDIA's new AI brain for robots is six times more powerful than its predecessor"
+    excerpt: "NVIDIA has launched the Jetson AGX Orin, its new AI brain for robots with six times the processing power of its predecessor.."
+    publishedDateTime: 2021-11-09T10:02:00Z
+    webUrl: "https://www.engadget.com/nvidi-as-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor-093024102.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 64
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-11/7720b2b0-4130-11ec-96e3-0babf84499b8"
+        width: 1152
+        height: 648
+        isCached: true
+  - title: "NVIDIA Announces Platform for Creating AI Avatars"
+    excerpt: "NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company's technologies in speech AI, computer vision, natural language understanding,"
+    publishedDateTime: 2021-11-09T09:42:00Z
+    webUrl: "https://menafn.com/1103128294/NVIDIA-Announces-Platform-for-Creating-AI-Avatars"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://www.crn.com/resources/026f-13acbea95961-a8f4a6aad485-1000/amdepyc.jpg"
-        width: 610
-        height: 342
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?33002"
+        width: 443
+        height: 250
+        isCached: true
+  - title: "The top five product announcements from Nvidia’s GPU Technology Conference"
+    excerpt: "Nvidia Corp.’s GPU Technology Conference, being held this week in digital format, has evolved over the years from a hard-core tech event for pure propellerheads to more of an industry event where the latest and greatest innovations in accelerated computing are highlighted."
+    publishedDateTime: 2021-11-09T11:00:00Z
+    webUrl: "https://siliconangle.com/2021/11/09/top-five-product-announcements-nvidias-gpu-technology-conference/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/08/jensenhuang-gtc17-1.jpg"
+        width: 832
+        height: 624
         isCached: true
 
 secured: "mwB5+X6jaYf0OArZQc+PAwIwGJIcoiuWIByEfr7vA2Zh6TsBFaOJ9MEaorLqk/mjtY5hrRR0mJ6xZY3H4IMhtDR3LrIZgu8TKcdcW5NJyn4zNqUXErJYHZmAO51dQrOT1OTpeJT26nJpRRGJBGluokozCGy8NIBh1DCpPL+9fCkgtbnI+9IfneMZll2BY3mJKv4EpjOftcoLOZglaOXZaJRzLYmoi7cgNwr4MQuyb0a8hVUd1oqFLzDXWqgvMFNoH19bFsR3VJhLNhN4AMhGSkpx3DuF07w/LzEa43PE/JYeJNyVHQ0iOr0Uo7TPqN2gG2Bg8AnupC+PHqP21DYirD4CKndL8oQ4oo50ySgt0DS721jZIgxhnsMjGCKKh38CIhf2Z9myB6kxBy8azyTnHr5rytz4fpwcJYp3jn2iN1scUsShk2HFP2+emT32AAZ8JthRlDINN8STDL0ooqfQrQs9aTHuefBs5Q2UV5lknjG2905OmDF/QSyebw8EqpYTAP9rDsyK+ofyh/5AFLvzhg==;SdloZF96c4VeVUuSeL2JxA=="
