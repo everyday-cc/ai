@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2016/01/tencent.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Update: Tencent Unveils Three Computer Chips of Its Own Design"
-    excerpt: "Tencent Holdings Ltd., China’s most valuable publicly traded software firm, touted its progress in getting into the hardware business on Wednesday when it announced it is making three computer chips of its own design."
-    publishedDateTime: 2021-11-04T12:46:00Z
-    webUrl: "https://www.caixinglobal.com/2021-11-04/update-tencent-unveils-three-computer-chips-of-its-own-design-101800674.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
-    images:
-      - url: "https://img.caixin.com/2021-11-04/163602786997083_560_373.jpg"
-        width: 560
-        height: 373
         isCached: true
 
 secured: "34+VC1kC1dtf4d7BTJykLZtgEfr78srKvmbZZKhGWwgG6J3XqZbQ7gyXxtGtEmx5oSWBV07Ct7C7J749Si2Z8PyxX+eflmpec/qic17pHEdro2lxStPhgmWaaPIyCT5n3vjBM6l1UW2BJODtux/yRjWD8x2G4ncIQ4kGU9SgNxU8b88s26o40HS0ZlIaaDIk5R7Bn//r06tuDnQTbRKCeH01gM1KXwDhXrVRQAMzJj0jV7xw9N9PZ8qjn2R8X3YnJsqT5b+9sERJz5dkRBt2/j4rbE4e5FjntBqSCI1eB4/NUBRzNyBFIlPzY/nPBoueOFylU3dTCqb8wrN25vXk6yj2tVWxztxV7eqf2i8TiLnKvocG1LGlJ6x7jEnTBYwGoa93ryx3n+BDIUmw/tgX739/TwVgtySz0LIHzbqs33XeA4tJEa3/TlasPPBKpQG8ejENxqlUeJkTbFtIwWWM2K248e7SjId+FbkSnzeQy+tAHY5UZjGQTWEKia3q2c64pqoXvxmzUltdAEu2awJtKg==;M8jO+X7i6yS3CLbONTaSFA=="

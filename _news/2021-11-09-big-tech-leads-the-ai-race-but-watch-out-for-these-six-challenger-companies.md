@@ -15,7 +15,7 @@ provider:
   domain: retail-insight-network.com
 
 topics:
-  - AI in Robotics
+  - Facebook AI
   - AI
 
 images:
@@ -53,6 +53,6 @@ related:
         height: 229
         isCached: true
 
-secured: "ZUWfhVkVNdCXwyQv1WsEr20zCVk8WJSMV5/vfFNfPJzCp5iu/rrMhnvxxinnmKt3jooN96EsDqTugcdGB681hiBVx8tHikJcH9GOzsGviqWqdXUh9MK6LBMJ9nv7JR1R9YAF8+R8I1nPFXmqYVB3cvXrUCIe9CAHo5vTbCFhxoMCWXaIi9Ua2uUt1gbpZqQr2KOLQ3HQe5Vv8xt0KO2ggvt4rh4FGJePgHgmczL4TGYGC8AWP5ZvwoHhaD2tJIMUW1c4gxAs5QjtyqFsoouWBiwO71MeIJq5x8vRdOfk6bniAcp6wn1VOJbw4sgWoYURjKXlH0M+RYLj8ZW8L3iumticF28jFy/5kpUkst5A3eE=;LfXUOzGk/koLdxX3kzQuJQ=="
+secured: "+x8OehF5qhBJHRoWZhyRO3Y1SxkfPSfjGDo9ZBlOL2Xpqg9Z6YeNprz8jVFTwbhL+9F4//WZ/fDp0vzVngm9poD0Y2PcdzSR5m2It60U2RCDoyOp0xNmsC4Kqh82Y+5brVGejgaXmxCdK0MCcyE/mWEZVHPc6+8jJBOHG5/iZElaV5e5Qu8jQyMBzpkHxIZ7OcIBVOc4Yl7kk6oVITx9n/XOGq36fFeE9ELACkiWDfot0aRGd/pfWKRsL35K5uab64wXaCNnxBI82uzbzWMEGV5Cr98nza5MlMOkNxkPlx0zO37xvTtfVfIx2ln83GdanXljXw+G2o2WtigoD95qoJFOA9DKiMf/CnDdkOz+6Tg=;Na6mQPsaFCpY3Vw+lNHTVg=="
 ---
 

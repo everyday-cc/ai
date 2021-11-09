@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibility-and-risk/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Making Artificial Intelligence Real"
-    excerpt: "What happens when we really combine organizational change and technology in the guise of artificial intelligence?"
-    publishedDateTime: 2021-11-04T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/amazonwebservices/2021/11/04/making-artificial-intelligence-real/"
-    ampWebUrl: "https://www.forbes.com/sites/amazonwebservices/2021/11/04/making-artificial-intelligence-real/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/11/04/making-artificial-intelligence-real/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6182c5b42592d7776de42480%2F0x0.jpg"
-        width: 1200
-        height: 663
-        isCached: true
   - title: "Public comments on patent eligibility elevate issues surrounding artificial intelligence"
     excerpt: "While efforts to reform patent eligibility have stalled, public responses to a request by the USPTO have revived the issue."
     publishedDateTime: 2021-11-05T10:00:00Z

@@ -40,6 +40,20 @@ related:
         width: 627
         height: 353
         isCached: true
+  - title: "The Fuel that is Boosting Transformation in Every Industry- AI"
+    excerpt: "AI is used everywhere. AI is boosting transformation in industries. There are several benefits of AI applications. This article shows how is AI used for transformation."
+    publishedDateTime: 2021-11-06T14:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-fuel-that-is-boosting-transformation-in-every-industry-ai/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/The-Fuel-that-is-Boosting-Transformation-in-Every-Industry-.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "JmOnga/l5tNLSirQY+LcHQwtPclDQw0IYbWQ0QBHMznWp/U2VMNJFsPPZSwddah9IW9Mx9i2yQkYZ4YTo2WiKtJpRzKUO1kejurvymuHvA4p46mSt5Vb5PZ/f+KKOnEKoDqJnSdxrhU9tauNnfx35oIidwUzUuuf2iR10oxmw774KPiTxu5wcK9Xss7GJDDpl626sLynePeXuOHfCkHravqdtZWTtS700suxxrmcZwRUlBccQhSH5nA4MV9Oo/BPfXOiNQzXjb7smcjcqMfUPqQZkUqN4kVf2+t43jv6+kXabgHYLTGMOG1if+xRQm3qZg5uTudaq19JrkX+S5Sec4SgmcUqLmS/0n6NdtExUtWvvNBiiOFDJM+g1fWA54mXNQxxifjUI0SVm3dd6oN6MO7QIpbo+JfqnHEdaDwpAZ82DeKy2d95sw8oHqnRxXsMjNI3fWQW0YSAd1gnEYJOa00OcvVztqxkSzf0+zfjKg7gytp7HGHyjtlikCkFXe3RaazCvFFKtif8Y1lgAJ9/6A==;xcLCL+4aKUdmnFK84+CnTA=="
 ---

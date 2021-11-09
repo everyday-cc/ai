@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-simulation-driving-major-advance
 webUrl: "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Future is Now: Automation, Robotics & AI are Safeguarding Energy and Utilities Industries"
+    excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
+    publishedDateTime: 2021-11-08T14:14:00Z
+    webUrl: "https://www.energylivenews.com/2021/11/08/the-future-is-now-automation-robotics-ai-are-safeguarding-energy-and-utilities-industries/"
+    type: article
+    provider:
+      name: Energy Live News
+      domain: energylivenews.com
+    quality: 58
+    images:
+      - url: "https://www.energylivenews.com/wp-content/uploads/2018/05/robotic-arm.jpg"
+        width: 720
+        height: 412
+        isCached: true
   - title: "Solving Real World AI Productization Challenges With Adaptive Computing"
     excerpt: "Major gaps hinder AI algorithm proof-of-concepts from becoming real hardware deployments. The field of artificial intelligence (AI) moves swiftly, with the pace of innovation only accelerating. While the software industry has been successful in deploying AI in production,"
     publishedDateTime: 2021-11-08T08:01:00Z

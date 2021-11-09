@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsday.com/amp/business/technology/henry-schein-machine
 cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/technology/henry-schein-machine-learning-artificial-intelligence-blockchain-1.50411647"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1280
     height: 719
     isCached: true
-
-related:
-  - title: "Five risks to consider when implementing AI in health care"
-    excerpt: "Health care organizations must take time to familiarize themselves with the uses, benefits, limitations and hazards of AI tools."
-    publishedDateTime: 2021-11-05T04:04:00Z
-    webUrl: "https://www.propertycasualty360.com/2021/11/05/five-risks-to-consider-when-implementing-ai-in-health-care/"
-    type: article
-    provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 21
 
 secured: "vZmdBa9mlbQuV1laRgeq2z8fwhhEPurmxAQseSlkcs6Mh64qOyX5zOii8pi0bd1VK3GzRWvmcYVnXEa2ymqKICbVLn9pyF229gyBwG9mr8DGWUl2Ac88ortj61LPIJ/5atnnQLTdojSxWnbFhXA46TyYJS7XkIqx7XfRpmlcAIeuXFolDHDEztYKq1Q2lD49gEbctJAr/QqRgMmcaRN0a+CsbsF3/Q5NNnSgxyuTObvBP5G/hh69UZ9wGlRuVqBJvTpkLvvgqGsrbl+0FacRR2tdL2+fow02PqDSaF7VxynQtC5K5f/BcXB+4ZcJu8lumo7cLwE7vjXIGAm4b7lTE4M81zLzwAxdk/SUTKtjeWN/JPmOy0XekpQE72Mt1z98xQ7KUhe/m9rS2WNnhbNQV9Cm1NmEjIquqmmXG6os1qlL6/IpFN6cOvmvqoe1/XzxE5VIUsjBN7xD0+FQdjp98ehsz6kT3wheJiHuSNahkvUAuRAhTgJIoN52TmJldjWUoDDrRJnUx3NzbrJQQJnLuw==;laiGzyA3ED8aPbtUJROP3A=="
 ---

@@ -180,6 +180,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 3
+  - title: "NEC champions co-creation partnerships with SMBC at Singapore Fintech Festival 2021"
+    excerpt: "NEC Corporation (NEC; TSE: 6701) and NEC Asia Pacific advocated the need to co-create with collaborative partnerships in the banking and finance service during today's workshop at the Singapore FinTech Festival (SFF) from Nov."
+    publishedDateTime: 2021-11-09T06:56:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/09/9487002.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 0
 
 secured: "CiMAU2hkLL+4LB8BKvvf2FwXmz09HXv57jEUaxRiOaDPmiocOFZtKGhw6BkXlI4ciKTAfYxCENit25trLoA+TBK3AI/IYEpAEw7CyF7T+Xmvwlz6zeYaf37ScvfSAhNd2yWMIHDaFLFRXWEf9/chLHzBxDe2PN4/gf+LGmJf61wJozonP7H8vARuqS+YIpL3CgdRnKQABW8BDs8Z0WOoSJTRdDRmgdbIhNZQHkUi3zwIuWTGCy4f9uGOBqLcRAzzdXP95QmpK3/tQFIqTrwZ+g5c7lOPSgSdE8PAafKdMJA8iY9BZZdxBMNDi54vFfNXB5Orfqd1pNOl2HNa8S2iz5ADCf5zquXawNUtMCBCG0MHs0waPuCUv4SS3YipU5ntbYwA6JwyIyVmzv+C45HqsBnku7WPc9hrnVOVnjIAW7bbVBFWspBlb/H+a5gRbvEqcGIv76Kv2ggFC1LTaRIIDHkvH0RPHKkoUaxXoGX+8dED6BTnL4AzaQI7gqEh82M0a/WLyViPr3qDNt2iv2Vyxg==;qvMcXrkLdPYmQTi/KUu5Dw=="
 ---

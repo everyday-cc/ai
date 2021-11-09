@@ -43,22 +43,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Three reasons Facebook/Meta is shutting down its face recognition system"
-    excerpt: "Given there are benefits that come from face recognition, why is Meta getting rid of the Facebook feature? We break it down."
-    publishedDateTime: 2021-11-04T13:00:00Z
-    webUrl: "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/"
-    ampWebUrl: "https://www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/why-facebook-is-shutting-down-its-face-recognition-system/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 88
-    images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/mark-zuckerberg-addresses-f8-facebook-developer-conference-2.jpg"
-        width: 2000
-        height: 1369
-        isCached: true
   - title: "Meta’s face recognition AI may yet metastasize"
     excerpt: "Facebook said it would drop this tool and delete a billion-plus face templates, but it looks integral to its parent company’s metaverse ambitions. This makes privacy regulation a must"
     publishedDateTime: 2021-11-07T16:43:00Z
@@ -106,22 +90,6 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
         width: 1500
         height: 860
-        isCached: true
-  - title: "Why is Facebook ditching face recognition and will it delete my data?"
-    excerpt: "Users of the social network will have their face data deleted, Facebook's parent company Meta has announced, but it is less clear what will happen with the AI algorithms trained on that data"
-    publishedDateTime: 2021-11-04T12:02:00Z
-    webUrl: "https://www.newscientist.com/article/2295967-why-is-facebook-ditching-face-recognition-and-will-it-delete-my-data/"
-    ampWebUrl: "https://www.newscientist.com/article/2295967-why-is-facebook-ditching-face-recognition-and-will-it-delete-my-data/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2295967-why-is-facebook-ditching-face-recognition-and-will-it-delete-my-data/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/11/04112004/PRI_208269358.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 799
         isCached: true
   - title: "Inside Facebook’s decision to eliminate facial recognition — for now"
     excerpt: "Facebook’s facial recognition decision was in the works for months, long before the current whistleblower scandal."

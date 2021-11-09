@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Toward speech recognition for uncommon spoken languages"
-    excerpt: "Automated speech-recognition technology has become more common with the popularity of virtual assistants like Siri, but many of these systems only perform well with the most widely spoken of the world's roughly 7,"
-    publishedDateTime: 2021-11-04T13:57:00Z
-    webUrl: "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/toward-speech-recognit.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Introducing Speech Recognition for Uncommon Spoken Languages"
     excerpt: "Speech recognition is used worldwide. Automated speech recognition is used in various technologies. Advancements in speech recognition technology will now enable identifying uncommon languages. This article shows how speech recognition system for uncommon languages can be used."
     publishedDateTime: 2021-11-08T07:15:00Z
@@ -48,20 +32,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/Introducing-Speech-Recognition-for-Uncommon-Spoken-Languages.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "Appliance Maker Implements Speech Recognition Software on the Assembly Line"
-    excerpt: "The pace at which artificial intelligence (AI) is becoming a mainstream technology in manufacturing is quite impressive. Companies in many industries use AI daily to optimize assembly processes, perform predictive maintenance,"
-    publishedDateTime: 2021-11-04T13:00:00Z
-    webUrl: "https://www.assemblymag.com/articles/96703-appliance-maker-implements-speech-recognition-software-on-the-assembly-line"
-    type: article
-    provider:
-      name: Assembly Mag
-      domain: assemblymag.com
-    quality: 37
-    images:
-      - url: "https://www.assemblymag.com/ext/resources/Issues/2021/November/AiA/asb1121AIA1.jpg?height=635&t=1635962341&width=1200"
-        width: 900
-        height: 550
         isCached: true
 
 secured: "fcSsn6iwcmW8A53K6g0NGgWgw3WZ/pi0hodM5BRGRqfQv3RyGDnPWPRcqCqXSuWo1okGUguLQsP6Exz8HvKHI2E/5ZkR6F3nVXu2TuuqBpzruGmkfDy5TrhAiKehCImQsvdLEDqX2Vs3eU+dmoABL0I1xZFJqGmKi0KzGOHuH9e7G3K2Ir68eoV3POoAG6Fdv9CK85TCIA72YpOEuvCJlVqGEKv+fdWdmyqq+dsgnxf/hYSD0C4M8I7SgP0wiEsFW4t5N7n3aOy/WcwaOAFYijB/s5b4y1gCMjJMy6suoWZpZ2D0A0gncVBZkvOvYSXoEd3+yRBxeS9L8K8TLfzmM5hdtsWAShcN9GKWmkbQ/7g=;n/mP2JjTwXL7FWqiGOBMcA=="

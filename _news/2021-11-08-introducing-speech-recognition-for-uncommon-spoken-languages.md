@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/introducing-speech-recognition-fo
 webUrl: "https://www.analyticsinsight.net/introducing-speech-recognition-for-uncommon-spoken-languages/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toward speech recognition for uncommon spoken languages"
-    excerpt: "Automated speech-recognition technology has become more common with the popularity of virtual assistants like Siri, but many of these systems only perform well with the most widely spoken of the world's roughly 7,"
-    publishedDateTime: 2021-11-04T13:57:00Z
-    webUrl: "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/toward-speech-recognit.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Appliance Maker Implements Speech Recognition Software on the Assembly Line"
-    excerpt: "The pace at which artificial intelligence (AI) is becoming a mainstream technology in manufacturing is quite impressive. Companies in many industries use AI daily to optimize assembly processes, perform predictive maintenance,"
-    publishedDateTime: 2021-11-04T13:00:00Z
-    webUrl: "https://www.assemblymag.com/articles/96703-appliance-maker-implements-speech-recognition-software-on-the-assembly-line"
-    type: article
-    provider:
-      name: Assembly Mag
-      domain: assemblymag.com
-    quality: 37
-    images:
-      - url: "https://www.assemblymag.com/ext/resources/Issues/2021/November/AiA/asb1121AIA1.jpg?height=635&t=1635962341&width=1200"
-        width: 900
-        height: 550
-        isCached: true
   - title: "Toward Speech Recognition for Uncommon Spoken Languages"
     excerpt: "The new Prune, Adjust, and Re-Prune (PARP) technique allows an advanced speech-learning model learn uncommon spoken languages more easily."
     publishedDateTime: 2021-11-05T18:34:00Z

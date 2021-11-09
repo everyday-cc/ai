@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/amp/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Fuel that is Boosting Transformation in Every Industry- AI"
+    excerpt: "AI is used everywhere. AI is boosting transformation in industries. There are several benefits of AI applications. This article shows how is AI used for transformation."
+    publishedDateTime: 2021-11-06T14:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-fuel-that-is-boosting-transformation-in-every-industry-ai/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/The-Fuel-that-is-Boosting-Transformation-in-Every-Industry-.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "AI-Driven ITSM is Transforming IT Management"
     excerpt: "Companies that have adopted the ITSM model are finding that AI assists to close tickets faster & empowers customers with rapid self-service."
     publishedDateTime: 2021-11-08T18:11:00Z

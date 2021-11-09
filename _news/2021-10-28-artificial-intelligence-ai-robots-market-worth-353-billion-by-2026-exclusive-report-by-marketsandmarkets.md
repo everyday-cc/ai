@@ -2,14 +2,14 @@
 category: news
 title: "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
 excerpt: "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ..."
-publishedDateTime: 2021-10-28T14:33:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--876060912.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--876060912.html"
+publishedDateTime: 2021-10-28T13:41:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301410858.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-robots-market-worth-35-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301410858.html"
 type: article
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
@@ -21,6 +21,6 @@ images:
     height: 350
     isCached: true
 
-secured: "+S2J1JQVdm3bwPK/wo8SzTGkxeaAvB0PiP5VNjzvrcNtmd/xYsLS3S4pLLwQThVfdOKQa/fwtHVtPwlcMUptQ4tURpXvp3iGF0rcHRSIGqerBiwEZ9UeHOoEXnGImL1PNH/5/XRv5H6fig+ZmFrTDcdBGg+0UN4WwB/6hk2scsEwIWkQ25xv4OoiHTVSQTDIphUHGL7LSbYRcfc7nxP1djTxn1Toq0Y8cGDNesaZxUn5a631IEKwr8lWAoGboCexFKsP75cJWED4eFTiXhjVxUcyRBYd6XNze6hf29nlVSEEg17DUsJW5Q6oW9SIdfKmpXVWNQFbj2Pn1eDbZ3ijYMArbUecVakcXkaylkYmIKIJnAhjLRHmQqlN0DrF28ruApM4G7NVVvQ1Es8iU9tzW/jDVkMbl7Jk6ZvfAea8qFOiqeXPNSBpgNTKAzo3orT22pH+BJJgMsudX5iSnzXSBDmb41ekPPBPZ2lfBbfdvAYrGJ/dtajR/bPG/r3PdjAkfjbAwWBSPNil4CsW746JHw==;CNaHxLJ8it7l0WSpTnxiwQ=="
+secured: "N5xixtbepP55lmj1IWaCJq/K6FqJxitsm4P8wxXGZ4nKi8FECoKibEv130ipnFHsg2L/K3gx7lZWAcjyxlP+S922+ePrB5UwCsVUX632Sg1cyI1q1MPWlem5+afhwboE4Au4/TKodo/FGEz8Sy9C0TxuG2e+ATbGJxlwOFph4chos8PwXaTRrBw1p/9DlGIf6Mu2nqMDZT0J3OEIeFIWV+fiKna7WtIRzinIGQNhj0AESDCzsWS4OJ/io26AVlh2Mr7g4KbIqFBGxDl3p2y/UGHm7B1HMTDnsEsgBO30c3cVEgSlURZSBTLdlTkZOtektGGfS21ADeeULQw033zx+7ok8HGv4DS7A2HyQD4Z8QI=;ZWxkNKW3tu2WnJitOJDBQw=="
 ---
 

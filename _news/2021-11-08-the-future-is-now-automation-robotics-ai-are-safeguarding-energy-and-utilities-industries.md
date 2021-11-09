@@ -25,135 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Governing The Future Of AI"
-    excerpt: "Where we go, AI follows—for better or for worse. These days, artificial intelligence (AI) is becoming our version of the deus ex machina, promising to swoop in and solve our most pressing business problems."
-    publishedDateTime: 2021-11-05T23:34:00Z
-    webUrl: "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/amp/"
+  - title: "AI and Simulation Driving Major Advances in Robotics"
+    excerpt: "Whether autonomously moving parts and products or visually inspecting goods for defects, the rapid growth of e-commerce, onshoring of manufacturing and labor shortages have accelerated the urgency for robotics deployment and automation."
+    publishedDateTime: 2021-11-05T07:03:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61724b282ff0576e24e0a2ea%2F0x0.jpg"
-        width: 1200
-        height: 897
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFPov227PVLFA/article-cover_image-shrink_720_1280/0/1636095105698?e=1641427200&v=beta&t=t2hu2gjZ-2hTVXnmtcXdmzFeSzLJuRHWLsh8ELc8FDI"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Three Things Needed To Be The Perfect Partner In The Age Of AI"
-    excerpt: "Brands must be extremely agile in how they create (and continually recreate) more personalized and effortless customer experiences."
-    publishedDateTime: 2021-11-05T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/05/three-things-needed-to-be-the-perfect-partner-in-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/05/three-things-needed-to-be-the-perfect-partner-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/05/three-things-needed-to-be-the-perfect-partner-in-the-age-of-ai/amp/"
+  - title: "Solving Real World AI Productization Challenges With Adaptive Computing"
+    excerpt: "Major gaps hinder AI algorithm proof-of-concepts from becoming real hardware deployments. The field of artificial intelligence (AI) moves swiftly, with the pace of innovation only accelerating. While the software industry has been successful in deploying AI in production,"
+    publishedDateTime: 2021-11-08T08:01:00Z
+    webUrl: "https://semiengineering.com/solving-real-world-ai-productization-challenges-with-adaptive-computing/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 41
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg"
-        width: 1200
-        height: 836
+      - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/Xilinx_AI-productization-adaptive-computing-fig1.png?fit=929%2C480&#038;ssl=1"
+        width: 929
+        height: 480
         isCached: true
-  - title: "Human in the Loop for AI in Healthcare"
-    excerpt: "The future of AI technologies in the healthcare sector in India seems bright, as there is a strong need for volume, scale, and accuracy, along with lo.."
-    publishedDateTime: 2021-11-08T10:43:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-87585233,imgsize-1131636,width-1200,height-628,overlay-ethealthworld/human-in-the-loop-for-ai-in-healthcare.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "The Bank of the Future Will Be Powered by AI"
-    excerpt: "The paper, titled The Bank of the Future: How AI Will Power Ubiquitous Services and Personalised Customer Experiences, explores the key drivers fueling change in the banking space and delves into how financial institutions can leverage AI and cloud ..."
-    publishedDateTime: 2021-11-08T08:45:00Z
-    webUrl: "https://fintechnews.sg/57003/ai/the-bank-of-the-future-will-be-powered-by-ai/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 54
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/11/The-Bank-of-the-Future-Will-Be-Powered-by-AI-New-Report-Says.jpg?x61066"
-        width: 2048
-        height: 1136
-        isCached: true
-  - title: "Addressing the effects of AI on nature"
-    excerpt: "The Sustainable AI Lab of the University of Bonn (Germany) addresses this topic and is present at COP26 with a unique artwork to remind people of what nature is doing and that AI is getting in the way of this."
-    publishedDateTime: 2021-11-05T00:00:00Z
-    webUrl: "https://www.pressreleasepoint.com/addressing-effects-ai-nature"
-    type: article
-    provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
-    quality: 39
-    images:
-      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
-        width: 256
-        height: 256
-        isCached: true
-  - title: "Addressing the effects of AI on nature"
-    excerpt: "While there is a growing number of research publications directed towards Artificial Intelligence (AI) for the Sustainable Development Goals, there is little research addressing, the often hidden, environmental costs of AI."
-    publishedDateTime: 2021-11-05T17:03:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/934022"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/213a5cb7-3f8c-4ff9-aecf-48c228f4f71c/Rendition/low-res/Content/Public"
-        width: 560
-        height: 700
-        isCached: true
-  - title: "The Fuel that is Boosting Transformation in Every Industry- AI"
-    excerpt: "AI is used everywhere. AI is boosting transformation in industries. There are several benefits of AI applications. This article shows how is AI used for transformation."
-    publishedDateTime: 2021-11-06T14:30:00Z
-    webUrl: "https://www.analyticsinsight.net/the-fuel-that-is-boosting-transformation-in-every-industry-ai/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/The-Fuel-that-is-Boosting-Transformation-in-Every-Industry-.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Architecture in the Age of Artificial Intelligence"
-    excerpt: "AI - which I like to call Architectural Intelligence - is a tool that will one day allow us architects to fly. This book, like all Neil Leach's books, is a multi-perspective view of a possible future for architecture."
-    publishedDateTime: 2021-11-07T03:54:00Z
-    webUrl: "https://www.bloomsbury.com/in/architecture-in-the-age-of-artificial-intelligence-9781350165540/"
-    type: article
-    provider:
-      name: Bloomsbury
-      domain: bloomsbury.com
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale/jackets/9781350165540.jpg"
-        width: 360
-        height: 563
-        isCached: true
-  - title: "Rescuing humanity in the age of automation, artificial intelligence and Big Tech"
-    excerpt: "Roose counters the optimistic appraisals of artificial intelligence (AI) made by many technology gurus by identifying “four big claims” that AI optimists use in arguing that it will create many more positive than negative effects. One of them contends ..."
-    publishedDateTime: 2021-11-07T11:05:00Z
-    webUrl: "https://www.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
-    ampWebUrl: "https://amp.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
-    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
-    type: article
-    provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
-    quality: 32
 
 secured: "52uf9cxaEylQWlUaBEKTOROOxVKdpJcYW2QKNR7b2Fh7fQMgYcsTG9XRvsM0DgglKqo615OSv2aYCb4ccpM9yIXA3a6w153sqyVlKzuQaP8YWwRYLGnWetzO3xsosanNPJs6J3iZ+CN4QtZnhmZVoMOqoao33zkoIQFsH+f0ABrcEfIQRnXbWfwhN9oWHek1lkB4akc2pia2D20hJtCbEzcTlrB7SZGAIWMM2mYKZTCsgX8pFqgrvFcyKkx6uHg3E1lm5kzWWSCALpabX7oiDsvka0bxVZpsPwpQml0riYO56X+D0DQDAGFBHn958gw/4kGJUbWgZGkHm2YSEu4ZE2zU5nEu2SBmQkE8DML3O2Tm8aU6CJVR1IKqODy1u6YQ/IYwZoQiKvgh1TeAY6mI3b/fCURTeXInFqhxVVsAa2h9okwm0xqsXbn2vBwRVF9eweIoFN6N5kkji3aJKJAfQmJyG4A8osbM44H8jaHaDXCCgsjyVIRmZf2g//BEN6TENidtdx+NT2K6e8VqQZGCAQ==;1NUd7e68p96wlJm6Zb8v6Q=="
 ---

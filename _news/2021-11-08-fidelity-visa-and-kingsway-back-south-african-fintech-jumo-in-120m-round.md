@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-so
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 900
     height: 600
     isCached: true
+
+related:
+  - title: "Jumo raises $120M to power fintech services across Africa"
+    excerpt: "The South Africa- and UK-based fintech will use the funding, led by Fidelity, to expand to Nigeria and Cameroon and add more financial products. Who is Jumo? Launched in 2015, it’s a banking as a service (BaaS) provider that powers the infrastructure for banks and fintechs to offer lending and savings products."
+    publishedDateTime: 2021-11-09T05:05:00Z
+    webUrl: "https://www.emarketer.com/content/jumo-raises-120m-to-power-fintech-across-africa"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 39
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/1b1d94106d5030e67d9eecd16768b9dd/default-image-share.png?im=FitAndFill,width=1200,height=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "af9DY443yJXzoRxGOGmnlrbCdyfLJZwQ+UAvievfKmffoNXrYk3qPWvUAQshcaaI0PEgHsmS8zyLJQIvCX3y+L2VMHItXXzl1xqidTwQb0kV/ZF5RK1j76Et6CIe8N+5k/JB56RwQRChSCvSNBqakPTgEUMUTNgh2i5t344gNnttYWnP4pXFk5660HXM3ri+HjkFi+6YbeA/cxOOl/wPxDe2evRkWP44Te5t90vkiL1VsglsoTaK6d2g428zAig0Xdw/Zq1yinObd6V9NaTR7ADzHOQuLAENBUk+LYbplpT6FDssNgGcCAWhdyWmWWEsS8nGSzY4c4EC0SxWKbvA0lZTvQkJjkYOdHWXQLQBnsZ2rjelTkNwPAGlrek+QswBrfCMafj8/GGjhPiQwN7IbyC/s5A7exGYEPoWx3oRjgudqb6vmpKbFnjHQg3HolHnWEUGTgUQ7zY8lqlNdFzJ35v7h5Qvqhns4xp+W0RFmPfYPjm595wxN1267m2jMs2yJU1ftbylkFddJMxrDSYysg==;rhbkZbMQfaVHgpP8q8MWKw=="
 ---
