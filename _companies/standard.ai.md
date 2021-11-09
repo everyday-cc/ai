@@ -2,7 +2,7 @@
 name: "Standard Cognition"
 overview: "Improving the retail checkout experience, by removing it entirely."
 type: "profile"
-heat: 41
+heat: 127
 
 website: https://standard.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "standardAI"
   url: "https://twitter.com/standardAI"
-  followers: 2316
+  followers: 2317
 
 size: 51-200 employees
 yearFounded: 2017
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "vOorYKnFxCZ0C2+tQLkjVVNZ7lFuHBp8ltthgWGT375mgaiDYbL4VkjnahPNo3t8uGEXVntCJH1bV213Lije8hKhKUuf4fGcBP/DD7qL9XdWKLeVIpeH7vkNeKrXu90Y4KZfc+HS6IQS4cEO1TxMyEqEGq0m4gZyhjk5Yz98e+HGbVXvhXKIjEH/rqn4I1D3XWIzrX/nd9CMFgOvNEKjtIXK8cmTn3I4kgKbsRlag/2HNPx0DgwPUStv0q8mg0mwkhr+lv14bQptCQ6p7Z8n4hSBkPWEc5M7/UVic2UjKIuEVSfoiunrUrMo0/RQUwhGfuWv9ai6+bDMbaT+jJfkhbgJRWLMHkKmW5hUgyhr7qlze/IIIBThEnhEwqzpQcYHEl3M6iHbPJ8L+G5IAPYF9KCHiGNCxR/fQHUWfhLIfR8=;N6IG2F4wDo9010EZwL9ChA=="
+secured: "/g6LYAEq8HJYGcZGHIYn3tp3tWNo2NC+B5DxKk+5HbzNqJQsIF6dAEWRY3sQkL6HLX0OVwjpUMv0uagSC9FFnuJ5fEX3QVm9menG2CmYsqguP/8SsKJyj0be/uiCtiSKtEFZ07qexr6RrqqG1fH3IhFq8IA6exk97KUw2tw5yC6ofpBd9o5/Xrtc/Zp9A8Mb/GAj6xAlRjKtB6iMPwAvCJ/xku3i9hq4Z2fY6gYPNTnRJJEsW6FgZoqualGcjHnR9KQbmf+3mSDT+dBZuZtXJTxcduNyaYxOVGqTauN/wl4nz2oaMhA0yaNMd/FblFGybIaZAkpyH8Fi9wl+NS5lqeXaqRMI+o62iTgGh8uYcUe3t57/1YltCGLFNxG40V0oT4WoN/wHQpcaWcpydhVMvp2wKXEu0A/tEhnkE5rylKc=;hylV4yShJyY5iQDnxyv+Pg=="
 ---
 
