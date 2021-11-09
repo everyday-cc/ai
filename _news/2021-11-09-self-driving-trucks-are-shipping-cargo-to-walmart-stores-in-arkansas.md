@@ -29,38 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gatik’s self-driving trucks are now making driverless deliveries for Walmart in Arkansas"
-    excerpt: "Autonomous vehicle startup Gatik has reached a new milestone in its partnership with Walmart and within the industry. Gatik said Monday it has pulled the safety operator from behind the wheel of two self-driving box trucks that operate in Walmart’s home turf of Bentonville,"
-    publishedDateTime: 2021-11-08T14:33:00Z
-    webUrl: "https://techcrunch.com/2021/11/08/gatik-driverless-deliveries-walmart/"
-    ampWebUrl: "https://techcrunch.com/2021/11/08/gatik-driverless-deliveries-walmart/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/gatik-driverless-deliveries-walmart/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/Gatik-Fully-Driverless_1.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Today in Retail: Walmart Manages Fully Driverless Deliveries; Lowe’s to Launch Room-Scanning Tool"
-    excerpt: "Walmart has achieved daily deliveries without a safety driver, and Amazon is promoting the use of its payment service on other merchants’ sites."
-    publishedDateTime: 2021-11-09T01:28:00Z
-    webUrl: "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/"
-    ampWebUrl: "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 61
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/Lowes_Companies_Inc_Room_Measurements-457x274.jpeg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "For robots all roads lead to Walmart, for now"
     excerpt: "Cruise, the autonomous driving arm of General Motors, won approval in September to start carrying cargo without a driver and ... Nuro and Waymo and recently enlisted a fifth player, Argo AI, to test last-mile deliveries in Miami later this year."
     publishedDateTime: 2021-11-08T14:57:00Z
@@ -77,36 +45,6 @@ related:
         width: 750
         height: 510
         isCached: true
-  - title: "Walmart rolls out driverless trucks for deliveries of online orders"
-    excerpt: "Walmart and autonomous vehicle startup Gatik have deployed fully autonomous trucks without a safety driver for a daily, seven-mile delivery route between a \"dark store\", or fulfillment center, and a Neighborhood Market retail store in Bentonville,"
-    publishedDateTime: 2021-11-08T18:29:00Z
-    webUrl: "https://www.foxbusiness.com/technology/walmart-delivery-driverless-trucks"
-    ampWebUrl: "https://www.foxbusiness.com/technology/walmart-delivery-driverless-trucks.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/walmart-delivery-driverless-trucks.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/Walmart-Gatick-autonomous-trucks-2.jpg"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "Walmart Stomps the Pedal on Self-Driving Delivery"
-    excerpt: "The giant retailer has thrown its weight behind five startups and just let the Gatik robots take the wheel in Arkansas."
-    publishedDateTime: 2021-11-08T11:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-08/walmart-stomps-the-pedal-on-self-driving-delivery"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRou81bN2qpU/v1/1200x646.jpg"
-        width: 1200
-        height: 646
-        isCached: true
   - title: "Robotruck Startup Gatik Making Delivery Runs For Walmart Without Humans At The Wheel"
     excerpt: "The Silicon Valley-based developer of robotic technology specializes in “middle-mile” deliveries from distribution centers to stores."
     publishedDateTime: 2021-11-08T09:00:00Z
@@ -120,20 +58,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6188b51efa6e325431582562%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Walmart Accelerates Self-Driving Delivery"
-    excerpt: "At the moment, the future of transportation is at the Walmart on Regional Airport Boulevard in Bentonville, Ark."
-    publishedDateTime: 2021-11-08T14:15:00Z
-    webUrl: "https://www.ttnews.com/articles/walmart-stomps-pedal-self-driving-delivery"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/gatik-walmart.jpg?itok=hme3qFdV"
-        width: 470
-        height: 246
         isCached: true
 
 secured: "7OwFnqn4OJAQRkUvknh2sgBCXsV0W5o185XgtxY6OFlS3xGdla4rslAggZzL7DAKsJRcHv1sC+CXawlDSary+F//i+0/DX+kb+COWTyvMbml8AgaErsqTDmU82ADaGOhq0r2zyAIKhbh/1VYAU6ZJWzZZFU7Swhk/KdUroE2VGXzOF2U4Yh8rGIyGw9wGqh4fORlnyFNg8RycJVk+xmqJ2rAznvUrBl0oMzIthp3zgtAjntAH4vnRVM+QJGrJ5EZ7PLUpbZkMfWkApBnoXebQFuQdcnLes4lH9ac/DyE4DVtdWuCplbB5jCyADDV4zU5BEcWkUfxwa5Ka26U8keV1/4WrqzpOU+P6JOs9uGwi64BkM57tBkCrhplDium14g2TCtCePnCpMAX7AIg2Hf1HERoOTePCtlyVJGVfvTtqB9+UrVEyKFGHH6rDze/9ycWC7rb9joh4DzPBzJ/W0oWaFKVKmME9JfzH7BKUDRDEye6ERkkrFpkWA4fkncb7fIZvlad389KjIQE3bVvsg1pNQ==;lFb9Ma4kaoAptx0HIHhw6w=="

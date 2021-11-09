@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Carbon Robotics Manufactures AI-Powered Weeding Robots"
-excerpt: "Seattle-based agricultural robotics startup Carbon Robotics has developed an autonomous robot that lasers to zap weeds."
-publishedDateTime: 2021-11-09T09:36:00Z
-originalUrl: "https://www.just-drinks.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/"
-webUrl: "https://www.just-drinks.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/"
+excerpt: "Concept: Seattle-based agricultural robotics startup Carbon Robotics has developed an autonomous robot that lasers to zap weeds. Integrated with computer vision, the weeders can clear out around 100,000 weeds an hour."
+publishedDateTime: 2021-11-09T09:35:00Z
+originalUrl: "https://www.pharmaceutical-technology.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/"
+webUrl: "https://www.pharmaceutical-technology.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Drinks
-  domain: just-drinks.com
+  name: Pharmaceutical Technology
+  domain: pharmaceutical-technology.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/11/shutterstock_651441412.jpg"
+  - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/11/shutterstock_651441412.jpg"
     width: 500
     height: 250
     isCached: true
@@ -68,6 +68,6 @@ related:
         height: 480
         isCached: true
 
-secured: "BoSEXhWXlQwF6C/GHs4p0p95x4IzHbNel837+sgFQbCmJ6S+cIgbQ9kb7xwm3AVa77MWx1Vhf+UmgDpq/1Pz9wE7qo3PdMSs95BfwhIhhw9pjx3BHOloUI/DXjS5tSN585zvkAlCWcLKbYTsBmu3YLSOnaqV9RJRcbnreU4IvILpBkoLVQ+Kqt58ShbbljTkZ/UNbFVRuFiZEANhcbymmfnXMMqv0e+inWU7Wtfe/aLI66ETktYa6Ei5LoEl6scTEuq38Yewyskvpa9cpX9uA6PmferOyzJNp3sakCdfPdOi07ShQK10MB33wIAvz0Lb24KomX8ZTYzYU4qGk7rGkfvBEDVP8zOdiCun7T9XnLo=;IJPp4wkdmbEKhdAlkz0V6A=="
+secured: "5tNtCPZqxoQoYvjS956p5LUCgKe0VS3REAIDuyXn6hdE9MKJ7XhGubiYmO9blRFhqogrul98zzgxz/W7WbJt/M1rnw0APbsizQkO3i/fyoCAxxFlKLp9nRckG+CUqVTUv+5OqeZdqNmXHkEFwEAJcFmXudDN6SkCxlbpckhiwIi/xcMXYW65sb+GEW1hvi5DT/Miwd0TQ4IjutlBtpWP7DPdBcMQtV68/k6k65ZVZlDEiM0sW1j6GrGrPoRa3FwCw9+aUO+ZzqYyN0eJD6dEoCD8evsJajruop3SmBGE1q+iZXxGgMq45eqAgqu+3H3YCNttAWaJ8UdUO5NNv7BPAf611eqG7COLVjf6PeaSfNE=;svrj9HcYTmztyaLqBkxDfA=="
 ---
 

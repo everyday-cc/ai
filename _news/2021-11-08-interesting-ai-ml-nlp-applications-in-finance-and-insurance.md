@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-i
 webUrl: "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-in-finance-and-insurance/"
 type: article
 quality: 88
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Shell Offers New AI-Powered Applications Through Open AI Energy Initiative"
+    excerpt: "C3 AI and Shell today announced three new Shell products that will be available through the Open AI Initiative (OAI), an open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
+    publishedDateTime: 2021-11-09T14:19:00Z
+    webUrl: "https://www.lelezard.com/en/news-20092621.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 37
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "What impact has Artificial Intelligence had on the restaurant industry during the pandemic?"
     excerpt: "The implementation of technological tools, such as Artificial Intelligence (AI), have changed the paradigm in different industries and have allowed them to optimize and make their processes more efficient."
     publishedDateTime: 2021-11-08T21:54:00Z
@@ -64,6 +78,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "FinTech Global's industry lists affirm Montoux's groundbreaking AI-driven capabilities in life and health insurance"
+    excerpt: "Montoux, the Decision Science and Actuarial Automation platform for life and health insurers, was recognized on both 2021 Insurtech100 and AIFintech100 lists by FinTech Global. These lists identify 'The world's most innovative companies' working in insurance and fintech that 'every leader needs to know about in 2021'."
+    publishedDateTime: 2021-11-09T14:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fintech-globals-industry-lists-affirm-montouxs-groundbreaking-ai-/2021/11/09/9487853.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "onDz+l34il2SZ43nC8Lpip90QwPEJuwZpAcFlv6tMoBFA7aKC+2AURWolVQMhdXriH+vaX9Gk+MhUFGldncMF0rB3kdiumEvIdtV9+sJ+ui0oJoSq2RFuga0Y5MnZQ18u6ibq9tL0udjOwgBIIQEN9sxLBW7VkGnk8HzsfGMrLmXl+mVC+yA2VWkBD/2ts/mF4Bwzwz99xWxc7WYcDOSduA4vxtBtEP23wyuNoi/LS1MHT5PquGfMyNWgN/uRR0dHYJDyCiePzI1u/HkN4/ggoLqr45g8ArJv6zfL9yNQFrPgxmQmtJxFL6YVn7Vfimj3L6YFELBDaZjNPurIdmpOzd9A/Z4mSrtrVAKL136XMA=;4XJxFb2fYq7RCwUMXZKs7Q=="
 ---

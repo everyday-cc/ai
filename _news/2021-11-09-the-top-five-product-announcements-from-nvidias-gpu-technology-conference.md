@@ -87,6 +87,22 @@ related:
         width: 1152
         height: 648
         isCached: true
+  - title: "NVIDIA's new chip for robots is six times more powerful than its predecessor"
+    excerpt: "NVIDIA has launched a successor to the Jetson AGX Xavier, its $1,100 AI brain for robots that it released back in 2018.  The new Jetson AGX Orin"
+    publishedDateTime: 2021-11-09T13:09:00Z
+    webUrl: "https://www.pinkvilla.com/tech/news/nvidia-s-new-chip-for-robots-is-six-times-more-powerful-than-its-predecessor-936957"
+    ampWebUrl: "https://www.pinkvilla.com/tech/news/nvidia-s-new-chip-for-robots-is-six-times-more-powerful-than-its-predecessor-936957?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/nvidia-s-new-chip-for-robots-is-six-times-more-powerful-than-its-predecessor-936957?amp"
+    type: article
+    provider:
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 56
+    images:
+      - url: "https://www.pinkvilla.com/files/styles/large/public/cbcgfb.jpg?itok=SKTxpe-H"
+        width: 600
+        height: 338
+        isCached: true
   - title: "NVIDIA Announces Platform for Creating AI Avatars"
     excerpt: "NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company's technologies in speech AI, computer vision, natural language understanding,"
     publishedDateTime: 2021-11-09T09:42:00Z
@@ -102,6 +118,6 @@ related:
         height: 250
         isCached: true
 
-secured: "Yyc6NWZtnlYxMhLf1wV9tNmBm0wzIO+p5zrE7MWWAPc6OY44lKwr/N38yzLc1xxD1h2IrXK/qi3BELD3NmuonO8fhPaaoeqfF/UDZUGZa6/Urin3Eexr+qkehf2EBRCVGfetkX/SQcJ7TcAilJJo+zq3pWTtHjbbANik7gtG02BFXKXjcb1ikhLpJNyN5vX18yRfvZLS2icRInWFxDMPV7+bXffmKmcuhDWuH5UliG7FJ2KDRHaABCCoAtPlm2NN2VLhKxYSAHfkw83FQEP5TeUrN8+cbTEp15jGkpal/rBVogSnm9FbeEC+5xrJ5zcsw4/4EMyL3KQBD/oxnF4ee+9aEfWjvTSKUJCAbr9JQiY=;SM06NXvu3y6ailBPc3352g=="
+secured: "q+LlbsxGP7i/6PO1IwuqqDgZH4a6s7QX/obeXbrnYp02VJARmQfAetJDk33xfxLSORxkni0ZJOAkn950HkmnirKfVeR+bjO+Bo4pmHoi8IOkkC0893G1Hav77SJ5k6On4jwFvmeakV5noBdbGFZEVZJ5jNijzI2z3xw9tdy0luEnxzHzF2cR6x+pLbvbcCGp3+zPVmZTxN39V1Bqu1yRx1gTGcMG5BXO7kUmcomxDM4uUFToO+7R22KyYdtU/xSnWc4c3eXvm+zoxpYewyg/MLBgccKGkaQxiPJgwuB8YK3yewWDav9YiqaWEoqDX3eafc8K74Z384U9EsnPC1RX/uCjRp1jK6haBuJr2mfFkVGb9uCXzvbcmZG/GrK1fRFqrEQW58QSOLumJgSiC3FH2kTux6yKSk2eVAocpUPCNt7B+y2JWYJwyYSn3mtqYVeigzqLPLuWgN+xGkqTPsvMSFqeBq9X2Z172o7e/5sf8mcuMJHIQOXjiYvuEWLvLlGb/4E8ByEMBQNh8y7OotViSQ==;WHrEqfJCscH35e15T+OKUQ=="
 ---
 

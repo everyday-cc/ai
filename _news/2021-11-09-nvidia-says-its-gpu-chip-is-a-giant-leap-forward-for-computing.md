@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-gia
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-11/7720b2b0-4130-11ec-96e3-0babf84499b8"
         width: 1152
         height: 648
+        isCached: true
+  - title: "NVIDIA's new chip for robots is six times more powerful than its predecessor"
+    excerpt: "NVIDIA has launched a successor to the Jetson AGX Xavier, its $1,100 AI brain for robots that it released back in 2018.  The new Jetson AGX Orin"
+    publishedDateTime: 2021-11-09T13:09:00Z
+    webUrl: "https://www.pinkvilla.com/tech/news/nvidia-s-new-chip-for-robots-is-six-times-more-powerful-than-its-predecessor-936957"
+    ampWebUrl: "https://www.pinkvilla.com/tech/news/nvidia-s-new-chip-for-robots-is-six-times-more-powerful-than-its-predecessor-936957?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/nvidia-s-new-chip-for-robots-is-six-times-more-powerful-than-its-predecessor-936957?amp"
+    type: article
+    provider:
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 56
+    images:
+      - url: "https://www.pinkvilla.com/files/styles/large/public/cbcgfb.jpg?itok=SKTxpe-H"
+        width: 600
+        height: 338
         isCached: true
   - title: "NVIDIA Announces Platform for Creating AI Avatars"
     excerpt: "NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company's technologies in speech AI, computer vision, natural language understanding,"

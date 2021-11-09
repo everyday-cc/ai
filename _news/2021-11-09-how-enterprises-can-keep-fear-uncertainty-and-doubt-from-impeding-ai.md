@@ -39,7 +39,7 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 35
+    quality: 37
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/Top-10-Amazing-Enterprise-AI-Platforms-Available-in-2021.jpg"
         width: 900

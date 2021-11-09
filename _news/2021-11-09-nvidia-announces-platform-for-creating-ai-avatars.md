@@ -87,6 +87,22 @@ related:
         width: 1152
         height: 648
         isCached: true
+  - title: "NVIDIA's new chip for robots is six times more powerful than its predecessor"
+    excerpt: "NVIDIA has launched a successor to the Jetson AGX Xavier, its $1,100 AI brain for robots that it released back in 2018.  The new Jetson AGX Orin"
+    publishedDateTime: 2021-11-09T13:09:00Z
+    webUrl: "https://www.pinkvilla.com/tech/news/nvidia-s-new-chip-for-robots-is-six-times-more-powerful-than-its-predecessor-936957"
+    ampWebUrl: "https://www.pinkvilla.com/tech/news/nvidia-s-new-chip-for-robots-is-six-times-more-powerful-than-its-predecessor-936957?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/nvidia-s-new-chip-for-robots-is-six-times-more-powerful-than-its-predecessor-936957?amp"
+    type: article
+    provider:
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 56
+    images:
+      - url: "https://www.pinkvilla.com/files/styles/large/public/cbcgfb.jpg?itok=SKTxpe-H"
+        width: 600
+        height: 338
+        isCached: true
   - title: "The top five product announcements from Nvidia’s GPU Technology Conference"
     excerpt: "Nvidia Corp.’s GPU Technology Conference, being held this week in digital format, has evolved over the years from a hard-core tech event for pure propellerheads to more of an industry event where the latest and greatest innovations in accelerated computing are highlighted."
     publishedDateTime: 2021-11-09T11:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/business/autos/2021/11/07/teslas-handling
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/?outputType=amp"
 type: article
 quality: 73
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -129,22 +129,6 @@ related:
       - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/02/apple-carplay-carkey.jpg"
         width: 798
         height: 365
-        isCached: true
-  - title: "Self-driving startup Aurora Innovation trades 14.67% lower in public trading debut"
-    excerpt: "From merger to business combination in less than four months, self-driving startup Aurora Innovation expects to begin public trading on Thursday."
-    publishedDateTime: 2021-11-04T21:01:00Z
-    webUrl: "https://www.freightwaves.com/news/spac-shareholders-approve-public-debut-for-self-driving-startup-aurora-innovation"
-    ampWebUrl: "https://www.freightwaves.com/news/spac-shareholders-approve-public-debut-for-self-driving-startup-aurora-innovation/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/spac-shareholders-approve-public-debut-for-self-driving-startup-aurora-innovation/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 38
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/11/110221-Aurora-SPAC-1200x672.png"
-        width: 1200
-        height: 672
         isCached: true
   - title: "Self-Driving Software Developer Aurora Goes Public"
     excerpt: "Self-driving technology company Aurora announced it completed its business combination with Reinvent Technology Partners Y, a special purpose acquisition company."

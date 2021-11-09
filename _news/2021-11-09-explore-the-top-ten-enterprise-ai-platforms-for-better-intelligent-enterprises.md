@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-09T12:47:00Z
 originalUrl: "https://www.analyticsinsight.net/top-10-amazing-enterprise-ai-platforms-available-in-2021/"
 webUrl: "https://www.analyticsinsight.net/top-10-amazing-enterprise-ai-platforms-available-in-2021/"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/Top-10-Amazing-Enterprise-AI-Platforms-Available-in-2021.jpg"

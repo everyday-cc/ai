@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Walmart is using fully driverless trucks to ramp up its online grocery business"
+    excerpt: "\"Taking the driver out is the holy grail of this technology,\" Gatik CEO Gautam Narang, who founded the autonomous trucking company in 2017, told CNBC."
+    publishedDateTime: 2021-11-08T10:00:01Z
+    webUrl: "https://www.cnbc.com/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html"
+    type: article
+    provider:
+      name: com/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html
+      domain: com/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html
+    quality: 155
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106971628-1636137435152WALMART1.jpg?v=1636153072"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Gatik’s self-driving trucks are now making driverless deliveries for Walmart in Arkansas"
     excerpt: "Autonomous vehicle startup Gatik has reached a new milestone in its partnership with Walmart and within the industry. Gatik said Monday it has pulled the safety operator from behind the wheel of two self-driving box trucks that operate in Walmart’s home turf of Bentonville,"
     publishedDateTime: 2021-11-08T14:33:00Z
@@ -57,22 +73,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "For robots all roads lead to Walmart, for now"
-    excerpt: "Cruise, the autonomous driving arm of General Motors, won approval in September to start carrying cargo without a driver and ... Nuro and Waymo and recently enlisted a fifth player, Argo AI, to test last-mile deliveries in Miami later this year."
-    publishedDateTime: 2021-11-08T14:57:00Z
-    webUrl: "https://www.businesslive.co.za/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/_rtaYMh4OZvoQjDfnvzruj7QWYtBwlt5T9qV1aP0Ioppo-zVWVdmI7cAnGqiXrBBVjGBqh66RGO8xqBmCeNvRKKNTKxAWV-QUuThrO4PcTdrOWw=s750"
-        width: 750
-        height: 510
-        isCached: true
   - title: "Walmart rolls out driverless trucks for deliveries of online orders"
     excerpt: "Walmart and autonomous vehicle startup Gatik have deployed fully autonomous trucks without a safety driver for a daily, seven-mile delivery route between a \"dark store\", or fulfillment center, and a Neighborhood Market retail store in Bentonville,"
     publishedDateTime: 2021-11-08T18:29:00Z
@@ -103,33 +103,33 @@ related:
         width: 1200
         height: 646
         isCached: true
-  - title: "Self-Driving Trucks Are Shipping Cargo to Walmart Stores In Arkansas"
-    excerpt: "Walmart has been relying on self-driving trucks with no human driver on board to ferry shipments from warehouses to retail stores in Bentonville, Arkansas. The self-driving trucks come from a Silicon Valley firm called Gatik,"
-    publishedDateTime: 2021-11-08T16:28:00Z
-    webUrl: "https://in.pcmag.com/cars-auto/146024/self-driving-trucks-are-shipping-cargo-to-walmart-stores-in-arkansas"
+  - title: "UAE will become first in ME to test driverless cars on its roads, says Mohammed"
+    excerpt: "\"We are awaiting the report of the Ministry of Interior, in coordination with the Office of Artificial Intelligence, for the results of the tests, to take the appropriate decision\""
+    publishedDateTime: 2021-11-09T13:14:00Z
+    webUrl: "https://www.gulftoday.ae/news/2021/11/09/uae-will-become-first-in-me-to-test-driverless-cars-on-its-roads-says-mohammed"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 54
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 35
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/s/self-drivi/self-driving-trucks-are-shipping-cargo-to-walmart-stores-in_6nty.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2021/11/9/screen-shot-20211109-at-42027-pm.ashx?la=en&hash=9E218E50420C21C02C35A46D3F815CBA"
+        width: 604
+        height: 454
         isCached: true
-  - title: "Robotruck Startup Gatik Making Delivery Runs For Walmart Without Humans At The Wheel"
-    excerpt: "The Silicon Valley-based developer of robotic technology specializes in “middle-mile” deliveries from distribution centers to stores."
-    publishedDateTime: 2021-11-08T09:00:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/11/08/robotruck-startup-gatik-making-walmart-delivery-runs-without-human-drivers/"
+  - title: "Walmart is Using Self-Driving Trucks in a 7 Mile Delivery Loop"
+    excerpt: "It's the first time ever that an autonomous vehicle company has removed drivers from a delivery route's middle mile."
+    publishedDateTime: 2021-11-09T13:04:00Z
+    webUrl: "https://www.extremetech.com/extreme/328840-walmart-is-using-self-driving-trucks-in-a-7-mile-delivery-loop"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6188b51efa6e325431582562%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/11/ExtremeTech-formatter-1-1-640x353.jpg"
+        width: 640
+        height: 353
         isCached: true
 
 secured: "NKVEzGCd3OnKl5tv3wsxeoQGfYsEn9bIMILKNK/vUnCM0Wh/4j0ptjq+K5ADRJ+MWG5JQ2z0B52QTl20VAm7mPGpHPTParupa2t1xxtGZdRpfAmmsY7ydAnjVROnOkx657GcPbS4Qxf6UTCf6AiYY09R8/H6W7105edkZHP6qjrQ2e0MM8kWlYLtQzK9y1HoUOJiaJmZK52DyeVob3lGRuD1m+vOnT9U13H/EdFfH+QVP0c2geTx0UeLaVEIDkWV1xlJBJP6YdiNwg94oR0tgyai8L9lTlP+XegGvk5eD748biJIeij8H/yslR1EZeHpPv3bavl7Js6edy1RTRjdK4jTm3RESbhVF4h/2k7Yg/9uX7IFsdz+Chpeki8RbxY93KqnXHbKu7ykNcq/byqdmYHK9/gTg7CuodMNhk9RmKLUXSac14w0KID2a/wNxTyIsLgRa56+Uodmdq8DzId9kN26NbIxIkjbWYfmbAt3yopRXp6jUTZDomSd/bkvjT3sWulOyHPDKeluic4PfaTnpQ==;QyNKwrpbg6ou4kObeHlwow=="

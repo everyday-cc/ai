@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia and Lockheed Martin plan to fight forest fires with AI. Here's how"
+    excerpt: "The companies have teamed up with state and federal firefighting services and are creating a dedicated lab to predict the path of fires to help stop them in their tracks."
+    publishedDateTime: 2021-11-09T14:35:00Z
+    webUrl: "https://www.cnet.com/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://www.cnet.com/a/img/G6G2x6gQsRtkGqciyOhYYdHfo7I=/1200x630/2021/11/09/7a97c262-f936-4251-9ddf-195eb78471f4/gettyimages-1234819592.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "New NVIDIA Edge AI and robotics teaching kits now available"
+    excerpt: "NVIDIA has this week made available new teaching kits for educators covering the subjects of Edge artificial intelligence and robotics"
+    publishedDateTime: 2021-11-09T11:44:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-teaching-kits-09-11-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 69
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/NVIDIA-Edge-AI-and-robotics-teaching-kits.jpg"
+        width: 700
+        height: 490
+        isCached: true
   - title: "NVIDIA Unveils AI Tech To Make Autonomous Cars And Robots More Accommodating And Intuitive"
     excerpt: "NVIDIA is much more than a consumer graphics card company, it's also heavily involved with AI, robotics and autonomous vehicles, which are at the heart of its GTC '21 unveil."
     publishedDateTime: 2021-11-09T08:30:00Z
