@@ -7,7 +7,7 @@ originalUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-po
 webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/apple-hires-another-tesla-engineer-alphabet-launches-ai-drug-company-and-a-chat-with-raghunandan-g-of-zolve/71391"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,54 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Google parent launches new company that uses AI to create new drugs"
+    excerpt: "Google's parent company Alphabet said it has launched a new company called Isomorphic Labs in the UK. The company plans to use artificial intelligence (AI) software to create new drugs and medicines and will build on research carried out by another Alphabet subsidiary DeepMind."
+    publishedDateTime: 2021-11-05T12:11:00Z
+    webUrl: "https://inshorts.com/en/news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/5_fri/img_1636112648756_603.jpg?"
+        width: 1080
+        height: 607
+        isCached: true
+  - title: "Google's parent company launches venture to discover drugs with A.I."
+    excerpt: "Alphabet, the parent company of Google, is launching a project in Britain that will use artificial intelligence software to \"reimagine\" the process of discovering new drugs and medical treatments."
+    publishedDateTime: 2021-11-05T13:21:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 44
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6701636113799/2021/1/e5ff4bc64d822c9b64bb6926c376ca19/v1.5/Googles-parent-company-launches-venture-to-discover-drugs-with-AI.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Why Did Alphabet Launch A Separate Company For Drug Discovery"
+    excerpt: "Why did Alphabet and DeepMind feel the need for a separate company dedicated to AI-driven drug discovery. One of last week’s top stories was the launch of Isomorphic Labs, a company exclusively dedicated to drug discovery,"
+    publishedDateTime: 2021-11-09T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/why-did-alphabet-launch-a-separate-company-for-drug-discovery/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Isomorphic_AIM.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Hl1uWMdRPDoYsWPZ7rPTSnAwEyrCIol3jAt3/GtR1h0bQHb4xKSMR2Sd2GEWmT3OLM8IbYMz5YI/Yt8oU7BJiKyIQVR1xowhequqyDheearQwGmjhyk4tHVRyeVHOQDLMiRFWOywDcphV0u723TV2a66Y50UhVnyal2VF1KGlQ0dcR457yaiec29mCyXM1hthyatzVbnJcKHL8sf44mVXCsR+QsWSxOiNPYgFJiyfQ5aw5/pgsjUibEogyYJMZvTyg35IebQ+/inYzMS/b3iap8bZTGfnLpVSLA+TSMKVF61jCwoWfVPRv9nnkN3KGn0FNHfBgaS/mrs1SeSX2SMVVMqD4Xv9i2XyvuLB5VrVIqFgDC3FOpNzulePV2E/pzcnhz/UFqOZlm2oo/jX0bmaSMqZ9f5TuocQwyoYi8s0BLlyKjnk78BI2eOLiX1+RUBrlCOS3N6v5ujCViz7sjGE0OoqLBYJIqdDL0qsSZ0KjaZ13GuVK9zC0sAQac3LIEHmYBNII77FQraqrjwQN3m/Q==;TSl4+QybT4zBK3rnPbRVhQ=="
 ---

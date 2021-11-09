@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-simulation-driving-major-advance
 webUrl: "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Carbon Robotics Manufactures AI-Powered Weeding Robots"
+    excerpt: "Seattle-based agricultural robotics startup Carbon Robotics has developed an autonomous robot that lasers to zap weeds."
+    publishedDateTime: 2021-11-09T09:36:00Z
+    webUrl: "https://www.just-drinks.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/"
+    type: article
+    provider:
+      name: Drinks
+      domain: just-drinks.com
+    quality: 69
+    images:
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/11/shutterstock_651441412.jpg"
+        width: 500
+        height: 250
+        isCached: true
   - title: "The Future is Now: Automation, Robotics & AI are Safeguarding Energy and Utilities Industries"
     excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
     publishedDateTime: 2021-11-08T14:14:00Z

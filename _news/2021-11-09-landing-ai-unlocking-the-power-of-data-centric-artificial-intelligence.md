@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlockin
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/amp/"
 type: article
-quality: 106
-heat: 136
+quality: 108
+heat: 138
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI
   - AI in Healthcare
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618a1203531adf7a3d1b3daf%2F0x0.jpg%3FcropX1%3D95%26cropX2%3D2400%26cropY1%3D0%26cropY2%3D1729"

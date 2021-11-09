@@ -59,22 +59,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Conversion Al: How It's Helping Banks Stay On Top Of The Fintech Industry"
-    excerpt: "Artificial Intelligence continues to be a disruptive technology to the banking system. Over the years, banks and financial institutions have depended on this technology"
-    publishedDateTime: 2021-11-04T17:51:00Z
-    webUrl: "https://www.benzinga.com/fintech/21/11/23901830/conversion-al-how-its-helping-banks-stay-on-top-of-the-fintech-industry"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23901830"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23901830"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://www.benzinga.com/files/use-cases-of-ai-in-the-banking-sector.jpeg"
-        width: 626
-        height: 352
-        isCached: true
   - title: "China: WeiyangX Fintech Review"
     excerpt: "According to the law, activities such as collection, processing, and trading of personal information will be strictly monitored,"
     publishedDateTime: 2021-11-07T17:38:00Z
@@ -132,6 +116,20 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2021/11/Journalinc-AdamDeunk-Final-7378-1.jpg"
         width: 1050
         height: 700
+        isCached: true
+  - title: "Seven technologies shaping the future of fintech"
+    excerpt: "In the next 10 years, seven key technologies will drive business model reinventions while shaping the competitive landscape of the financial industry."
+    publishedDateTime: 2021-11-09T10:02:00Z
+    webUrl: "https://www.mckinsey.com/cn/our-insights/our-insights/seven-technologies-shaping-the-future-of-fintech"
+    type: article
+    provider:
+      name: McKinsey & Company
+      domain: mckinsey.com
+    quality: 24
+    images:
+      - url: "https://www.mckinsey.com/~/media/mckinsey/locations/asia/greater%20china/our%20insights/seven%20technologies%20shaping%20the%20future%20of%20fintech/seven-fintech_trends.jpg"
+        width: 1536
+        height: 864
         isCached: true
 
 secured: "SDkp0gqHr7sbDwhPqxtIEWpZNzKJK60kp8KEY3PXb+qKiUZGuZQnqdv9TG1tV6fl58agDy/1+0U+efuN7Mq6udSQV2sZyItyrZAeAhzV/Xo2k74eWLc+gBdcguajQ+HjJqbYkbNk8sxxd5NVcoM+8yv2nqUQl84LwpxYCmLHT/1QL6W8vn/9jB5hmA2I1D7yfEseyeLU/9wh1BHb44PJBYpqb3J2xDn3Fc/wwuifWK4kpJ3V3O/Zy+XI00K1iOxh7aNQVSWsBVu1d+apLVFCd96XPx5hbGpMO03PDbePsXwAGG1p+af3LjsDptHEF+UuU7BsaZWbQSZqQKAl76U6Y5jsG0b0cHFYtjK19fTwgffGvZcZO86zH4a7301qijGaqg+3m+zlvnbbhGHjGo44skAH3TBGxAgb4kX5Qmchv3PpywVK1XWmkBUVCGnCARbHy9BCYdB7l7C8b4Aqt6jmhS3vHPvAdeXrUOLezmVRRQY1Dwe2LAl7sAVOHgQDlxKP/ubI3ztZkDIeWL4SFViR1w==;+RCsUab0a/nxOlh0iaccyQ=="

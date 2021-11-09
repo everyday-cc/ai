@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service"
-excerpt: "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,"
-publishedDateTime: 2021-10-27T17:25:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2"
-webUrl: "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2"
+excerpt: "As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue, Index Ventures, and Alkeon. Series C ..."
+publishedDateTime: 2021-10-27T17:31:00Z
+originalUrl: "https://www.1011now.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/"
+webUrl: "https://www.1011now.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 1011 Now
+  domain: 1011now.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "k0793swl/h1IEamm9pZ0+RZLzB78ol7RHI9Ej/j/dcQmDFvIMdvQ60gzKpYR9gOtTUwFt4NhG5EiDajLFOFWqIQc1B9R156PAbD9gRJ/czUcAEBH7MlG6Y+i12rHd9306we2BOYJNVC6NIPTXVPWXDTpjBMiwd+SHu4ntl3dPsQFiNcvBvY4L0Ovxc1wpMBNrAgvufGzA47mlziwpGCAT+8V6IZ3ok/7tTnROCJjrpE59PCM6VN+fQLh+YAH6gcHVezdON8rO8qELjWBLgNbcibbothNjJJpYvn4aAda04JFlqXO5DT1Km++SC3lE5zDYXUXIUy0w1vrycRtm0XaP5M1BryqfH4OCKDxqFzlof0=;vCSk78G96iWQ7PPVZLszSw=="
+secured: "rd4BDeYggM4S8bQE3T3OUPbTgIBq6BC9193ayeJieltavWaFRlkVcfkntbXjTQUXyToUb7e2y0F5jwackrT6IdWyn5NKn5ttkttmqtb9GkH92oNylT0MmfdGb/lxdKk8Z4fV1NLMopHhpQYjZQVapCuGf/0+QUAVVmhWNFgid2kQqaXwnack9kR+HNRX1Gnqb2iH41Dg7BMZ5hSphRhyhfhJcNYHkMXke5C2mJyu28cfEIJUJCauL8bXYM8Fj1IJkF9dFdueW1x37xBYAvIr4mYOvclJjCRX8ZKUqywKKVo4PcFDA6tT5GV3odJ9vgIvIvrDOAIvhZoQ4r47jcpw8NcZW6e5GyP2hW7HQMY49YY=;DiHLU6jerRkTJ3QsQqWwNw=="
 ---
 

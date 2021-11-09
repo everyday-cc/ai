@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Carbon Robotics Manufactures AI-Powered Weeding Robots"
+    excerpt: "Seattle-based agricultural robotics startup Carbon Robotics has developed an autonomous robot that lasers to zap weeds."
+    publishedDateTime: 2021-11-09T09:36:00Z
+    webUrl: "https://www.just-drinks.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/"
+    type: article
+    provider:
+      name: Drinks
+      domain: just-drinks.com
+    quality: 69
+    images:
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/11/shutterstock_651441412.jpg"
+        width: 500
+        height: 250
+        isCached: true
   - title: "Solving Real World AI Productization Challenges With Adaptive Computing"
     excerpt: "Major gaps hinder AI algorithm proof-of-concepts from becoming real hardware deployments. The field of artificial intelligence (AI) moves swiftly, with the pace of innovation only accelerating. While the software industry has been successful in deploying AI in production,"
     publishedDateTime: 2021-11-08T08:01:00Z

@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet launches Isomorphic Labs, an AI-driven drug discovery startup"
-    excerpt: "The new venture plans to partner with biomedical and pharmaceutical companies, using artificial intelligence to discover new medicinal advancements."
-    publishedDateTime: 2021-11-04T17:40:00Z
-    webUrl: "https://www.cnet.com/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 189
-    images:
-      - url: "https://www.cnet.com/a/img/BLQLT7e8qsxx3tLRBPtY0jSKrY8=/1200x630/2021/11/04/117bf529-9fcc-40c5-9e37-f3a6a80a18a1/gettyimages-1290225107.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Alphabet lets AI take the lead role in new drug discovery startup"
     excerpt: "DeepMind produced a stunning advance in scientific research, demonstrating how its artificial intelligence could be used to predict 3D structures of unique proteins in a solution to a 50-year science problem."
     publishedDateTime: 2021-11-05T04:50:00Z
@@ -79,38 +63,17 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Google parent launches company dedicated to drug discovery."
-    excerpt: "The new company, called Isomorphic Labs, will build on recent research from DeepMind, a London-based artificial intelligence lab also owned and operated by Alphabet. Demis Hassabis, the co-founder and chief executive of DeepMind, will also serve as chief ..."
-    publishedDateTime: 2021-11-04T16:45:00Z
-    webUrl: "https://www.nytimes.com/2021/11/04/business/google-alphabet-drug-discovery.html"
-    ampWebUrl: "https://www.nytimes.com/2021/11/04/business/google-alphabet-drug-discovery.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/business/google-alphabet-drug-discovery.amp.html"
+  - title: "Alphabet creates DeepMind offshoot focused on using AI for drug discovery"
+    excerpt: "Alphabet has created a new subsidiary called Isomorphic Labs that will focus on using AI processes to develop new drugs. An offshoot from Deepmind, another AI subsidiary of Alphabet, the idea for Isomorphic Labs came after Deepmind's AI system AlphaFold 2 solved a 50-year old protein folding challenge by predicting the 3D structure of a protein directly from its amino acid sequence to atomic-level accuracy."
+    publishedDateTime: 2021-11-05T00:36:00Z
+    webUrl: "https://www.zdnet.com/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Alphabet Chases Wonder Drugs With DeepMind AI Spinoff Isomorphic Labs"
-    excerpt: "After DeepMind's breakthrough in protein folding last year, Alphabet will double down on artificial intelligence in biology and health with its new venture."
-    publishedDateTime: 2021-11-07T15:00:00Z
-    webUrl: "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/"
-    ampWebUrl: "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 74
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/11/pills-rows-yellow-background-1-1.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
   - title: "Alphabet launches AI company to discover new drugs"
     excerpt: "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind “to accelerate drug discovery,"
     publishedDateTime: 2021-11-05T15:46:00Z
@@ -124,6 +87,22 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/deepmind-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "Google-parent Alphabet has set up a new lab that will use A.I. to try to discover new drugs"
+    excerpt: "The company will build on research carried out by London artificial intelligence lab DeepMind, which Google acquired in 2014. Demis Hassabis, the CEO and co-founder of DeepMind, is the founder and ..."
+    publishedDateTime: 2021-11-05T12:48:00Z
+    webUrl: "https://www.cnbc.com/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 64
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106971248-1636102203025-gettyimages-1155768576-AFP_1IS4CD.jpeg?v=1636102259"
+        width: 4488
+        height: 2992
         isCached: true
   - title: "Alphabet launches AI-driven drug discovery startup"
     excerpt: "The new venture also plans to partner with biomedical and pharmaceutical companies, using artificial intelligence to discover new medicinal advancements."
@@ -141,21 +120,21 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Google parent launches new company that uses AI to create new drugs"
-    excerpt: "Google's parent company Alphabet said it has launched a new company called Isomorphic Labs in the UK. The company plans to use artificial intelligence (AI) software to create new drugs and medicines and will build on research carried out by another Alphabet subsidiary DeepMind."
-    publishedDateTime: 2021-11-05T12:11:00Z
-    webUrl: "https://inshorts.com/en/news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
+  - title: "Google’s Parent Company Bets On AI To Discover Possible Medications"
+    excerpt: "Investing in resources in this field, Google’s parent company Alphabet has announced a new firm that will leverage AI to find new medications. The newly founded company, called “Isomorphic Laboratories,"
+    publishedDateTime: 2021-11-05T09:55:00Z
+    webUrl: "https://fossbytes.com/isomorphic-labs-medical-research/"
+    ampWebUrl: "https://fossbytes.com/isomorphic-labs-medical-research/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/isomorphic-labs-medical-research/amp/"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
+      name: Foss Bytes
+      domain: fossbytes.com
     quality: 59
     images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/5_fri/img_1636112648756_603.jpg?"
-        width: 1080
-        height: 607
+      - url: "https://fossbytes.com/wp-content/uploads/2021/11/alphabet-isomorphic-labs-artificial-intelligence.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Alphabet Just Launched a Company That's Using AI to Design New Drugs"
     excerpt: "Alphabet has launched a new company called Isomorphic Labs which will use artificial intelligence (AI) to discover new pharmaceutical drugs. The venture will reportedly rely on advancements made by Alphabet’s DeepMind whose AI uses a model called AlphaFold2 to predict the shape of proteins with incredible accuracy."
@@ -248,22 +227,6 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2021-11/de6df62a-0425-4a8c-a531-7a405e71a489/blah__56_.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google's parent company launches venture to discover drugs with A.I."
-    excerpt: "Alphabet, the parent company of Google, is launching a project in Britain that will use artificial intelligence software to \"reimagine\" the process of discovering new drugs and medical treatments."
-    publishedDateTime: 2021-11-05T13:21:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 44
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6701636113799/2021/1/e5ff4bc64d822c9b64bb6926c376ca19/v1.5/Googles-parent-company-launches-venture-to-discover-drugs-with-AI.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Alphabet launches a new company that focuses on drug discovery using AI"
     excerpt: "Alphabet is launching a new company that mainly focuses on using artificial intelligence to find methods to discover new drugs."

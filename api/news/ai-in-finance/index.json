@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-09-hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks.md",
+      "title": "Hyper-personalization and new-age tech will drive AI-enabled banks",
+      "excerpt": "India has witnessed a rapidly growing Big Data Revolution with the integration of AI, ML, IoT into the financial services industry.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks/articleshow/87605161.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks/articleshow/87605161.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-24800,msid-87605256/ai.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/industry/banking/finance/banking/hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks/amp_articleshow/87605161.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/banking/hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks/amp_articleshow/87605161.cms",
+      "publishedDateTime": "2021-11-09T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-interesting-ai-ml-nlp-applications-in-finance-and-insurance.md",
       "title": "Interesting AI, ML, NLP Applications in Finance and Insurance",
       "excerpt": "Many blogs address the effect of AI in the financial and insurance industries, but many of them focus on far-fetched AI and machine learning concepts that have yet to be proven or implemented in either.",
@@ -1344,40 +1387,6 @@
       "provider": {
         "name": "아크로팬",
         "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-pagaya-partners-with-sofi-to-expand-access-to-financial-services-and-create-opportunities-for-customers.md",
-      "title": "Pagaya Partners With SoFi to Expand Access to Financial Services and Create Opportunities for Customers",
-      "excerpt": "Pagaya Technologies Ltd. (“Pagaya”), a financial technology company that enables financial institutions to expand access to more customers through its artificial intelligence network, today announced its new partnership with SoFi,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/pagaya-partners-with-sofi-to-expand-access-to-financial-services-and-create-opportunities-for-customers/",
-      "originalUrl": "https://www.financialbuzz.com/pagaya-partners-with-sofi-to-expand-access-to-financial-services-and-create-opportunities-for-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null

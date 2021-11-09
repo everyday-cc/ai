@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook should not have bowed to public outrage and shut down its facial recognition system, former world chess champion says"
-    excerpt: "Facebook is wrong to shut down facial recognition, according to Gary Kasparov, the former world chess champion and chairman of Human Rights Foundation."
-    publishedDateTime: 2021-11-04T17:42:00Z
-    webUrl: "https://www.cnbc.com/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 61
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106173405-1570674137430gettyimages-1167464772.jpeg?v=1570674164"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Governments must check if Facebook really does scrap face recognition, Frances Haugen says"
     excerpt: "Facebook made the announcement on Tuesday, partly in response to growing scrutiny from regulators and legislators over user safety and abuses on its p.."
     publishedDateTime: 2021-11-05T05:30:00Z

@@ -161,20 +161,6 @@ related:
         width: 500
         height: 357
         isCached: true
-  - title: "Edge platform with facial recognition, situation analysis unveiled in South Korea"
-    excerpt: "Researchers have created a prototype of an edge biometric platform that can reportedly recognize faces and situations that take place around its nodes."
-    publishedDateTime: 2021-11-04T16:31:00Z
-    webUrl: "https://www.biometricupdate.com/202111/edge-platform-with-facial-recognition-situation-analysis-unveiled-in-south-korea"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
   - title: "Facebook Ends Recognition Software"
     excerpt: "Facebook plans to shut down its decade-old facial recognition system, deleting the face scan data of more than one billion users."
     publishedDateTime: 2021-11-09T08:20:00Z

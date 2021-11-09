@@ -19,72 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Alphabet creates DeepMind offshoot focused on using AI for drug discovery"
-    excerpt: "Alphabet has created a new subsidiary called Isomorphic Labs that will focus on using AI processes to develop new drugs. An offshoot from Deepmind, another AI subsidiary of Alphabet, the idea for Isomorphic Labs came after Deepmind's AI system AlphaFold 2 solved a 50-year old protein folding challenge by predicting the 3D structure of a protein directly from its amino acid sequence to atomic-level accuracy."
-    publishedDateTime: 2021-11-05T00:36:00Z
-    webUrl: "https://www.zdnet.com/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alphabet-creates-new-subsidiary-isomorphic-labs-that-will-focus-on-using-ai-for-drug-discovery/"
+  - title: "AI and deepfakes are bringing history to life – but at a steep moral cost"
+    excerpt: "Beyond anxieties about the wholesale fabrication of history, there are subtler consequences that are worrying."
+    publishedDateTime: 2021-11-06T18:00:00Z
+    webUrl: "https://scroll.in/article/1009721/ai-and-deepfakes-are-bringing-history-to-life-but-at-a-high-moral-cost"
+    ampWebUrl: "https://amp.scroll.in/article/1009721/ai-and-deepfakes-are-bringing-history-to-life-but-at-a-high-moral-cost"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1009721/ai-and-deepfakes-are-bringing-history-to-life-but-at-a-high-moral-cost"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-  - title: "Google launches DeepMind 2, a pharmaceutical hullabaloo"
-    excerpt: "Isomorphic Labs is Alphabet's newest spinoff. The media's in love with this darling little company run by the head of DeepMind. Should it be?"
-    publishedDateTime: 2021-11-05T20:26:00Z
-    webUrl: "https://thenextweb.com/news/google-launches-deepmind-2-pharmaceutical-hullabaloo"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: Scroll
+      domain: scroll.in
+    quality: 58
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2Fisomorphiclabs.jpg&signature=10d72a2c2b689228a1c574734e5da880"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Fresh Patches For Your DeepMind 12"
-    excerpt: "Robust American Patches tell us that they have released Volume I for the DeepMind 12. They tell us that nearly every patch in this collection of 74 has extensive velocity, modwheel and aftertouch assignments."
-    publishedDateTime: 2021-11-05T01:02:00Z
-    webUrl: "https://sonicstate.com/news/2021/11/05/fresh-patches-for-your-deepmind-12/"
-    type: article
-    provider:
-      name: Sonic State
-      domain: sonicstate.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/35178_378.jpg"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "AI drug discovery co DeepCure raises $40m"
-    excerpt: "AI drug discovery company DeepCure, which is developing novel, small molecule therapeutics, announced today the closing of a $40 million Series A financing round led by Morningside Ventures, with participation from existing investors TLV Partners,"
-    publishedDateTime: 2021-11-08T16:53:00Z
-    webUrl: "https://en.globes.co.il/en/article-ai-drug-discovery-co-deepcure-raises-40m-1001390221"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1632315500/direct/shutterstock_680060608_ilkxyw.jpg"
-        width: 800
-        height: 392
-        isCached: true
-  - title: "Using Artificial Intelligence And High Performance Computing To Speed Up Scientific Discovery And Drug Development"
-    excerpt: "The human body is an incredibly complex machine, and no one has come close to creating a complete model of how it works. This is a big challenge when it comes to developing drugs and medicines that interact with the organism in order to fight diseases like cancer or Alzheimer’s."
-    publishedDateTime: 2021-11-08T05:44:00Z
-    webUrl: "https://www.linkedin.com/pulse/using-artificial-intelligence-high-performance-computing-bernard-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 17
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEa3x31d9yMPQ/article-cover_image-shrink_720_1280/0/1636350099853?e=1642032000&v=beta&t=MQO7Vr6FRgltIvFF2xoV6846o5ENOlWH54YDKGR8a58"
-        width: 1080
-        height: 720
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/165922-cwehibllcu-1635943386.jpeg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "jVuCIuU1BOQQ0opa/Sl7Xxtcg8tXbAI53BHMRZmCJaaBcoG5cePDISzQawg5R42WO1B7fFZBpmiPlo+pB3Uwnf+KNNB7vQkG5IB4Znj7F7hwXf4JhI2XJFwkhmr3H5IEhItVbkReJp2X4GTqms2fvbg9KavE6DD2tvNmlxgeYiGp4OjMl3Xqt2jeqiWwXcB5wuXPHrWRvXxcd/o9co1jnfLaXEVouuWN2RMTnvANj7I4d+0uIQ4txrriqMxShiQw6PH4YgHBKxDc7iCfauFSSGCanCyIUPXzaaQj9TkBn/UKMQy+NDzAceYDrTcVg5wEmQFgjK5QD7QoRsUF4D2ZZBgQFE2TySBGbv8A4+0wew4=;J12HFsvroYtLutjdNvh/jw=="

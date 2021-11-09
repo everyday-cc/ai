@@ -57,22 +57,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Conversion Al: How It's Helping Banks Stay On Top Of The Fintech Industry"
-    excerpt: "Artificial Intelligence continues to be a disruptive technology to the banking system. Over the years, banks and financial institutions have depended on this technology"
-    publishedDateTime: 2021-11-04T17:51:00Z
-    webUrl: "https://www.benzinga.com/fintech/21/11/23901830/conversion-al-how-its-helping-banks-stay-on-top-of-the-fintech-industry"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23901830"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23901830"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://www.benzinga.com/files/use-cases-of-ai-in-the-banking-sector.jpeg"
-        width: 626
-        height: 352
-        isCached: true
   - title: "China: WeiyangX Fintech Review"
     excerpt: "According to the law, activities such as collection, processing, and trading of personal information will be strictly monitored,"
     publishedDateTime: 2021-11-07T17:38:00Z
@@ -132,6 +116,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/c4ecfae/2147483647/strip/true/crop/2946x1547+0+209/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F12%2Fdb%2F1da3cf1a45d3b1207114913d77ba%2Fadobestock-180950831.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Seven technologies shaping the future of fintech"
+    excerpt: "In the next 10 years, seven key technologies will drive business model reinventions while shaping the competitive landscape of the financial industry."
+    publishedDateTime: 2021-11-09T10:02:00Z
+    webUrl: "https://www.mckinsey.com/cn/our-insights/our-insights/seven-technologies-shaping-the-future-of-fintech"
+    type: article
+    provider:
+      name: McKinsey & Company
+      domain: mckinsey.com
+    quality: 24
+    images:
+      - url: "https://www.mckinsey.com/~/media/mckinsey/locations/asia/greater%20china/our%20insights/seven%20technologies%20shaping%20the%20future%20of%20fintech/seven-fintech_trends.jpg"
+        width: 1536
+        height: 864
         isCached: true
 
 secured: "f4Bm0j+CUZMN+eMuO2hXeEMBMWSB0A8nHfoHFYK40msNMgL+GmPXsrXcCFe3+AoNEFtnA0CHCiT4M+wWlY/NOne54oHqvL+UcxOuAHDhnJ1v906VZ3xYBRS2/1JU3F4hXc1ZoUBX5kRCTrdOoF2h1lchM+iJgOXLDN19UgTcmz6dfLpEcB442PusqXyhBJF2n0HCDZ6sQOXM9q73M+Yi++Z4L/+LLAyY8NeJba18xddlIOYUzBDiyVb5Mz2PK5G2FKVQuXEHtCp3mrAPmfveQQf0pa5lnOvt4GTIzXNJ9VIfAjMvlk1ikMNUlqz+1GAa5iPAamRQNeYBnu8zgMyxQJ/4XmByj8APec5jaNV1C+odudsEeraI+3f0j3uHpdGq4PBq/o9i4h33z89gvBKc/fxBDFVUY5UD+pE9OL9wsoj8mbExg/aJKDDBy2lSr6M1xOi52fxNYccZKkmIaLXNrVZFMK9PzNL6pvSC1gDJ6+wAzIiFzGWh/8bxo+8UQwyi197fdrDkBvBGbCjVa3RIQw==;KuVMUB+VKbXLD2uEqBKWRw=="

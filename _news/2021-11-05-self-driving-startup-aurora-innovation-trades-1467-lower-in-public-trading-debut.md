@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's handling of braking bug in public self-driving test raises alarms"
-    excerpt: "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an \"over the air\" update."
-    publishedDateTime: 2021-11-04T16:30:00Z
-    webUrl: "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 73
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/tesla.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Tesla’s handling of braking bug in public self-driving test raises alarms"
     excerpt: "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an “over the"
     publishedDateTime: 2021-11-07T10:00:00Z
@@ -147,20 +131,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/22/54/05/21676404/3/rawImage.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Waymo's Self-Driving Vehicles Arrive on New York City Streets"
-    excerpt: "After rolling out in several cities including San Francisco, Google‘s Waymo brings its self-driving vehicles to the bustling New York City streets. As the most densely populated city in the United States with “unusual road geometrics,"
-    publishedDateTime: 2021-11-05T04:34:00Z
-    webUrl: "https://hypebeast.com/2021/11/waymo-driver-new-york-city-arrival-news"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 39
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F11%2Fwaymo-driver-new-york-city-arrival-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
         isCached: true
   - title: "Apple’s Self-Driving Car Project Hires Former Tesla Autopilot Engineer"
     excerpt: "Bloomberg’s Mark Gurman and Dana Hull are reporting Apple has hired a former Tesla Autopilot engineer to its “Project Titan” self-driving car project: The iPhone maker tapped Christopher “CJ” Moore for its team working on a self-driving car,"

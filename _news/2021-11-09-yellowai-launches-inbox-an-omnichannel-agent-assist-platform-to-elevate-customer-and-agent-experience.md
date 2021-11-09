@@ -2,9 +2,9 @@
 category: news
 title: "Yellow.ai Launches INBOX - an Omnichannel Agent Assist Platform to Elevate Customer and Agent Experience"
 excerpt: "Yellow.ai, the world's leading customer experience (CX) automation platform, trusted by 1000+ enterprises globally, today announced the"
-publishedDateTime: 2021-11-09T06:11:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/yellow-ai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience-878913573.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/yellow-ai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience-878913573.html"
+publishedDateTime: 2021-11-09T10:11:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/yellow-ai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience-878913573.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/yellow-ai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience-878913573.html"
 type: article
 quality: 22
 heat: 22
@@ -24,6 +24,6 @@ images:
     height: 419
     isCached: true
 
-secured: "2s93dED0/ngwKkhRj5jLg9uK+uoSXd+ZBxLXIIED30xxcW4R3YIJfOTWqAmdL4EvvwyW0m+KpYL9LuNtu05X9rAjP/CdZO9CaFATYEs+LgvjkUaMTX+zoCkYEGwXneOB6b/g8eauWt52W04Qtx+9B1sbvExxenxAd6Czpl/33Wp46/WNnlxKhhVnsJt8DvJvE0VlxnZqHdYFZyLn2noaFoJ3uw8yqTu5Pw0xIjZejSIvG6PuZL0DqlnG/SMgQK/Rb+oEHsuDgyeqnm0+VitKDwt+cF5wKzbKypgUDopRS1/MHAEupq/COhC1DV4gLVrNESCaeX4ByCOnxEYWWppvD+WMF/NxKf0f2g/DkwrDdRg=;ssPCf6Um6hnp9o8Au4ksfA=="
+secured: "VCxGpof4+TkuJfBXtvLozfaZICUgkqsgc5QedSePighMhETC66cIOJ/YdT3bBIa9PXg9sjMT2FSigQTpq+JifrRkTzUmrp5pc/OthPiybdt+KED3r3VkgedVuwmLgqurHFbODcVPJDw2h0RPgm8AvxxvpAvGQYuSeTMUBQ6XCW8fURWZmk3/ojx855jkDCwysV7FJyAPrIVkKpNWC7fDnheioLlCZF2g2id/+qyGci+QDaJMFV24+gNmq6HylwjblgvSPaS3wNnHE+iNjvifkp6SQBvebJSufhnkFBtLfwVBlrydikK1p0Rqf+NOUDb/n8AGhrumz+MwMsBsEHpIZ+UwG+bgPY/IG1YFeqCPwLI=;9L2+IbnjuVkKOKI58UDrzQ=="
 ---
 

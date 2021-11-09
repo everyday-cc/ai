@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.marketoracle.co.uk/images/2021/Oct/true-AI_image002.png"
