@@ -9,8 +9,8 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hir
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: U.S. News & World Report
@@ -25,137 +25,20 @@ topics:
   - AI
 
 related:
-  - title: "Tesla’s handling of braking bug in public self-driving test raises alarms"
-    excerpt: "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an “over the"
-    publishedDateTime: 2021-11-07T10:00:00Z
-    webUrl: "https://www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/"
-    ampWebUrl: "https://www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/?outputType=amp"
+  - title: "Apple hires another Tesla engineer; Alphabet launches AI drug company; and a chat with Raghunandan G of Zolve"
+    excerpt: "Apple has recruited another former Tesla engineer to build its electric car team, Bloomberg reported on Sunday. Alphabet, Google's parent company, has started a drug discovery company in Britain, based on DeepMind's AI technology."
+    publishedDateTime: 2021-11-08T04:58:00Z
+    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/apple-hires-another-tesla-engineer-alphabet-launches-ai-drug-company-and-a-chat-with-raghunandan-g-of-zolve/71391"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 73
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 37
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/AmbEHg3M_fzCyfIDOEtFv7jxU-U=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/JIUOTGYNEC25SBFEECLP23BLUQ.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.forbesindia.com/media/audio/2021/Nov/forbesindiatechbriefingpodcast_800x600_logo.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "How Tesla Handled a Braking Bug in Public Self-Driving Test"
-    excerpt: "In a recall report to federal safety regulators Friday, Tesla put the problems like this: The company discovered a software glitch that \"can produce negative object velocity detections when other vehicles are present."
-    publishedDateTime: 2021-11-05T00:51:00Z
-    webUrl: "https://www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public-self-driving-test"
-    ampWebUrl: "https://www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public-self-driving-test?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public-self-driving-test?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/a9a0a3e/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F0f%2F5d%2F638415b88cd0cc4b3eef174d6e53%2Ftesla.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Tesla Self-Driving Update Caused Cars to Behave Dangerously"
-    excerpt: "It’s not every day that Tesla decides to contact regulators about a serious issue with its self-driving software. Late last month, Tesla reported an issue with its Full Self-Driving software to the National Highway Traffic Safety Administration (NHTSA),"
-    publishedDateTime: 2021-11-08T16:09:00Z
-    webUrl: "https://futurism.com/tesla-update-cars-dangerous"
-    ampWebUrl: "https://futurism.com/tesla-update-cars-dangerous/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-update-cars-dangerous/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2021/11/tesla-update-cars-dangerous-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Apple hires former Tesla engineer to boost self-driving car effort: Report"
-    excerpt: "Cupertino, California-based Apple has tapped Christopher Moore for its team working on a self-driving car, the report said."
-    publishedDateTime: 2021-11-06T05:44:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/auto/apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-report-7684791.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/auto/apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-report-7684791.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-report-7684791.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/11/2021-11-05T211937Z_1_LYNXMPEHA412U_RTROPTP_2_EU-APPLE-ANTITRUST-770x433.png?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
-  - title: "Apple hires former Tesla Autopilot Software Director for self-driving car team"
-    excerpt: "The move suggests that Apple is moving ahead with its plans to develop its own self-driving vehicle in a race to catch up with automakers such as Tesla."
-    publishedDateTime: 2021-11-06T05:20:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/apple-hires-former-tesla-autopilot-software-director-for-self-driving-car-team-41636171247146.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/apple-hires-former-tesla-autopilot-software-director-for-self-driving-car-team/amp-41636171247146.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apple-hires-former-tesla-autopilot-software-director-for-self-driving-car-team/amp-41636171247146.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 55
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/11/06/600x338/apple_icar_youtube_1612505634970_1612505641070_1636175785402.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Tesla's 'Full Self-Driving' Gets Mixed Reviews"
-    excerpt: "Drivers who utilize Tesla’s Full Self-Driving have mixed reviews, being simultaneously impressed and alarmed by it, according to a new report from CNN, which relied on interviews with vehicle owners who use the software and a review of videos posted to social media."
-    publishedDateTime: 2021-11-05T14:35:00Z
-    webUrl: "https://www.chron.com/business/article/Tesla-s-Full-Self-Driving-Gets-Mixed-Reviews-16595098.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/54/05/21676404/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Apple’s Self-Driving Car Project Hires Former Tesla Autopilot Engineer"
-    excerpt: "Bloomberg’s Mark Gurman and Dana Hull are reporting Apple has hired a former Tesla Autopilot engineer to its “Project Titan” self-driving car project: The iPhone maker tapped Christopher “CJ” Moore for its team working on a self-driving car,"
-    publishedDateTime: 2021-11-05T23:06:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apples-self-driving-car-project-hires-former-tesla-autopilot-engineer/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 39
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/02/apple-carplay-carkey.jpg"
-        width: 798
-        height: 365
-        isCached: true
-  - title: "Self-Driving Software Developer Aurora Goes Public"
-    excerpt: "Self-driving technology company Aurora announced it completed its business combination with Reinvent Technology Partners Y, a special purpose acquisition company."
-    publishedDateTime: 2021-11-08T15:15:00Z
-    webUrl: "https://www.ttnews.com/articles/self-driving-software-developer-aurora-goes-public"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/aurora-truck-0727.jpg?itok=kIF3GM9D"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "Tesla's Full Self-Driving update made cars go haywire. Here's the impact"
-    excerpt: "The EV maker appears to be adjusting to scrutiny from federal safety regulators and negative publicity about some of its practices."
-    publishedDateTime: 2021-11-08T15:18:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2021/11/08/teslas-full-self-driving-update-made-cars-go-crazy-impact-tdn/6337764001/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 18
 
 secured: "hsY4x8gx2zy3j0An+LQH70fryhUYaxnlg2sHoALV/YjrwsJ0l7vdcl5mpGzLeEGX25T7W1g+oWb3/dfJF+LCbFqXdzQEbM/pWw7Woxw3oD8TN2YyycNFzUTQfcJ07RRIRzQboPRhgahl4wcE0a6GuxZsDWAFf+OAF8iQQTFLGzIHJG+PrXNqe5paWInSOnhD4ieJbCoWR8I25hdQj34/4bJGLjtgp4whM0wd7pYc7P1G+0H/WUliQLV1YW2RTEY7EVLNDaIMie4KuDKYQWwmD85Z3kCDyPT+Y0+LkBa55iNLJy/5y8pELG4XGHK8MGaGjJ8sa+N6ZNdWSSt3vIFtcWzCZWTSfXPslk91IaRW63iJgymzlFmQbkrhaYxLfLx9TterbbwwJWKUIEScD1nw0UGkl7ZLPl38C5ZfNEHtaFVmv11aTxGhVZVFFbZu5EUEo5/ZZpmOv6WX0Eb8RJ/SgTykVpfJ6ZXfvieLs8vnvtRaH3yhPttD1fmUOPBi1iP4vNwFE5t4FbRX7coofKFMhQ==;X0M19+I2RIhl4sqg6aykvg=="
 ---

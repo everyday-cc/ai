@@ -7,7 +7,7 @@ originalUrl: "https://www.ktbs.com/news/clinical-trials-begin-for-covid-19-oral-
 webUrl: "https://www.ktbs.com/news/clinical-trials-begin-for-covid-19-oral-therapeutics-discovered-using-lsu-developed-ai/article_2fbccfec-3e4e-11ec-9de5-47e997ebbd05.html"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 745
     height: 419
     isCached: true
-
-related:
-  - title: "Smarter Artificial Intelligence and Deep Learning Post Covid-19"
-    excerpt: "Artificial intelligence has quickened its progress across vaccines, autonomous vehicles, language processing, and quantum computing."
-    publishedDateTime: 2021-11-05T00:01:00Z
-    webUrl: "https://www.bbntimes.com/technology/smarter-artificial-intelligence-and-deep-learning-post-covid-19"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 56
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Smarter_Artificial_Intelligence_.jpeg"
-        width: 1000
-        height: 665
-        isCached: true
 
 secured: "WFMgpH3A/X9PNkaN/nAeAWbAn3dNueMYIk6Gf34qB/xzDL0o5lmPXYUXLOtYJnAS908WIH4xn1pkF/wxEblS9O2vM7b30+g7OL9e56AMDRbhRiUvSoi/4WAhgSh0Zq38Va6YftwyagLDrSlIUfj7O2qa9HyCF5VxYmznb3j+lSaDtagp2tZH22Q9j+r+VbC5lnYzmoAOM9RkjVgpGC+yyZR3TgyhRdKmnbZ69fGFO1sIyURb5gaLsYAjLvtj9I0AhJMiAK4dKdhMWNNKoaWnp9sJrYyT/3A/uSV4WASxnDc+vsUu4+KXnamiAlJbebudcGT6hs3tA46OTMcFCE0ifru3MRgxJXzRyIHVXj2EL81TIO0nDiCOjc10xv77gtRpvH3dWiB9VT3q+xd4jLzBfOcH47JjH12TD1hhxUhGJN2YPGlGBs+8iPkVA9/1gXprQlpma2qOZtb1ChDwDSLsfkAmclbK54OG5g/Y59B5s0JnC3zHxNKq9IdJP4JBcsjRCuqUXN1c9ZlWsXMz7rHH3w==;9M7V5mRuM4bSgm62OZ9WVw=="
 ---

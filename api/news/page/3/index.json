@@ -2,6 +2,332 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-08-walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.md",
+      "title": "Walmart is using fully driverless trucks to ramp up its online grocery business",
+      "excerpt": "\"Taking the driver out is the holy grail of this technology,\" Gatik CEO Gautam Narang, who founded the autonomous trucking company in 2017, told CNBC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html",
+      "originalUrl": "https://www.msn.com/en-us/money/companies/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business/ar-AAQrjF4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106971628-1636137435152WALMART1.jpg?v=1636153072",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html",
+      "publishedDateTime": "2021-11-08T02:00:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html",
+        "domain": "com/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-ai-fleets-solution-to-trucker-shortage-is-based-on-a-better-lifestyle.md",
+      "title": "AI Fleet’s Solution To Trucker Shortage Is Based On A Better Lifestyle",
+      "excerpt": "Better pay, better lifestyle and greater efficiency are the methods upstart AI Fleet is using to attract more truck drivers, especially women, to help solve the national driver shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2021/11/08/ai-fleets-solution-to-trucker-shortage-is-based-on-a-better-lifestyle/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2021/11/08/ai-fleets-solution-to-trucker-shortage-is-based-on-a-better-lifestyle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6185a7dd3c0b65c8dd52b7f0%2F0x0.jpg",
+          "width": 851,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2021/11/08/ai-fleets-solution-to-trucker-shortage-is-based-on-a-better-lifestyle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2021/11/08/ai-fleets-solution-to-trucker-shortage-is-based-on-a-better-lifestyle/amp/",
+      "publishedDateTime": "2021-11-08T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round.md",
+      "title": "Fidelity, Visa and Kingsway back South African fintech JUMO in $120M round",
+      "excerpt": "JUMO, a South Africa- and London-based company that offers financial services to entrepreneurs and businesses in emerging markets, has raised $120 million in a new round of funding led by Fidelity Management & Research Company.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/",
+      "originalUrl": "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/09/Andrew-Watkins-Ball-JUMO2.jpg?w=900",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/amp/",
+      "publishedDateTime": "2021-11-08T00:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-symblai-provider-of-conversational-intelligence-apis-and-tools-gets-17m.md",
+      "title": "Symbl.ai, provider of conversational intelligence APIs and tools, gets $17M",
+      "excerpt": "Communication platform-as-a-service startup Symbl.ai raised $17 million in series A funding to develop its conversational AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/",
+      "originalUrl": "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/amp/",
+      "publishedDateTime": "2021-11-07T21:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning.md",
+      "title": "NIT Warangal offers five-day online course on Artificial Intelligence and Machine Learning",
+      "excerpt": "NIT Warangal Faculty members, post-doctoral fellows, doctoral research students and participants from industry can apply The online course will be conducted three hours a day and interested candidates can submit their online applications till November 15 NIT Warangal has invited applications for a five-day online course on Artificial Intelligence and Machine Learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/edugraph/news/nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning/cid/1837857",
+      "originalUrl": "https://www.telegraphindia.com/edugraph/news/nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning/cid/1837857",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2021/Nov/1636344661_nit-1.jpg",
+          "width": 558,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/news/nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning/cid/1837857",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning/cid/1837857",
+      "publishedDateTime": "2021-11-07T20:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-omron-invests-in-taiwans-collaborative-robot-company-techman-robot-inc.md",
+      "title": "OMRON Invests in Taiwan's Collaborative Robot Company Techman Robot Inc.",
+      "excerpt": "OMRON & Techman Robot will together deliver a highly flexible and scalable ... By adopting a wide range of control devices and artificial intelligence (AI), machines can learn through experience and maintain themselves in optimal condition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/omron-invests-taiwans-collaborative-robot-company-techman-robot-inc",
+      "originalUrl": "https://www.asiaone.com/business/omron-invests-taiwans-collaborative-robot-company-techman-robot-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/pr-newswire_500_4_763.jpg?itok=3PkWL07Z",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/omron-invests-taiwans-collaborative-robot-company-techman-robot-inc?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/omron-invests-taiwans-collaborative-robot-company-techman-robot-inc?amp",
+      "publishedDateTime": "2021-11-07T20:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-ai-system-that-lets-robots-manipulate-2000-objects-created-mit.md",
+      "title": "AI system that lets robots manipulate 2,000 objects created: MIT",
+      "excerpt": "MIT scientists have created an artificial intelligence-based algorithm that allows robots to learn how to manipulate and reorient more than 2,000 geometrically different objects, with both the hand facing upwards and downwards.",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "originalUrl": "https://inshorts.com/en/news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/7_sun/img_1636297058079_596.jpg?",
+          "width": 1080,
+          "height": 1748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "publishedDateTime": "2021-11-07T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-singapore-to-boost-ai-research-funds-start-bank-partnerships.md",
       "title": "Singapore to Boost AI Research Funds; Start Bank Partnerships",
       "excerpt": "Singapore will introduce two artificial-intelligence programs in finance and government, and allocate an additional S$180 million ($133 million) for research into the technology, according to Deputy Prime Minister Heng Swee Keat.",
@@ -247,6 +573,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-metas-face-recognition-ai-may-yet-metastasize.md",
+      "title": "Meta’s face recognition AI may yet metastasize",
+      "excerpt": "Facebook said it would drop this tool and delete a billion-plus face templates, but it looks integral to its parent company’s metaverse ambitions. This makes privacy regulation a must",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html",
+      "originalUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/11/07/600x338/edit_1636303267610_1636303286718.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html",
+      "publishedDateTime": "2021-11-07T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -544,49 +913,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-07-teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms.md",
-      "title": "Tesla’s handling of braking bug in public self-driving test raises alarms",
-      "excerpt": "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an “over the",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/",
-      "originalUrl": "https://www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/AmbEHg3M_fzCyfIDOEtFv7jxU-U=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/JIUOTGYNEC25SBFEECLP23BLUQ.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/?outputType=amp",
-      "publishedDateTime": "2021-11-07T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-07-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
       "title": "Robots hit the streets as demand for food delivery grows",
       "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon.",
@@ -595,7 +921,7 @@
       "originalUrl": "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -741,7 +1067,7 @@
       "originalUrl": "https://www.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -830,383 +1156,29 @@
       ]
     },
     {
-      "path": "_news/2021-11-05-run-alphafold-v20-on-amazon-ec2.md",
-      "title": "Run AlphaFold v2.0 on Amazon EC2",
-      "excerpt": "After the article in Nature about the open-source of AlphaFold v2.0 on GitHub by DeepMind, many in the scientific and research community have wanted to try out DeepMind’s AlphaFold implementation firsthand. With compute resources through Amazon Elastic Compute Cloud (Amazon EC2) with Nvidia GPU, you",
+      "path": "_news/2021-11-06-apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-bloomberg-news.md",
+      "title": "Apple Hires Former Tesla Engineer to Boost Self-Driving Car Effort Bloomberg News",
+      "excerpt": "Apple Inc has hired a former engineer from Tesla Inc in an effort to boost its car-development efforts, Bloomberg News reported on Friday, citing people with knowledge of the matter.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-alphafold-v2-0-on-amazon-ec2/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-alphafold-v2-0-on-amazon-ec2/",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML_5671_feature.png",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T12:59:37-07:00",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
+      "publishedDateTime": "2021-11-05T14:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-how-ai-will-make-your-doctor-smarter.md",
-      "title": "How AI Will Make Your Doctor Smarter",
-      "excerpt": "From suicide prevention to infection tracking, the U.S. military is applying the latest technology to a host of medical challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
-      "originalUrl": "https://www.wsj.com/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-429385/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
-      "publishedDateTime": "2021-11-05T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits.md",
-      "title": "Artificial Intelligence Bot Has Turned Racist And Homophobic After Copying Human Traits",
-      "excerpt": "As technology advances, many of us have wondered what life might be like if major decisions were made by AI robots rather than by flawed, easy influenced human beings. Surely the cold synthetic mind would cut through problems with far greater ease than we emotional mortals,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/",
-      "originalUrl": "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F11%2FRacist_AI.jpg",
-          "width": 1200,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/amp/",
-      "cdnAmpWebUrl": "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/amp/",
-      "publishedDateTime": "2021-11-05T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNILAD",
-        "domain": "unilad.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-aiba-uses-ai-technology-to-vet-judges-and-refs-at-belgrade-worlds.md",
-      "title": "AIBA uses AI technology to vet judges and refs at Belgrade worlds",
-      "excerpt": "Boxing's governing AIBA claimed a win against corruption and bout manipulation on Friday after using military-approved artificial intelligence to screen judges and referees at the world championships in Belgrade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/lifestyle/sports/aiba-uses-ai-technology-vet-judges-refs-belgrade-worlds-2021-11-05/",
-      "originalUrl": "https://www.reuters.com/lifestyle/sports/aiba-uses-ai-technology-vet-judges-refs-belgrade-worlds-2021-11-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/w_zT4LABtnS_bpcBh9Xn6Jivquc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D75EWXMYIJJ4DMAWJ4ICT2KNXU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-who-is-the-robot-voice-in-finch-caleb-landry-jones-shines-as-a-bumbling-ai.md",
-      "title": "Who Is the Robot Voice in ‘Finch’? Caleb Landry Jones Shines As A Bumbling AI",
-      "excerpt": "I’m speaking of course, of the voice of the anthropomorphic robot who becomes Hanks’ son/best friend in the movie, Jeff. The premise of Finch is fairly straightforward. A series of radioactive solar flares have destroyed the ozone layer,",
-      "sourceUrl": null,
-      "webUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/",
-      "originalUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://decider.com/wp-content/uploads/2021/11/Finch-robot-voice.jpg?quality=90&strip=all&w=680&h=450",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/amp/",
-      "cdnAmpWebUrl": "https://decider-com.cdn.ampproject.org/c/s/decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/amp/",
-      "publishedDateTime": "2021-11-05T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Decider",
-        "domain": "decider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-apple-and-amazon-mlai-leads-to-speak-on-accessibility-at-sight-tech-global-2021.md",
-      "title": "Apple and Amazon ML/AI leads to speak on accessibility at Sight Tech Global 2021",
-      "excerpt": "Sensors and data are proliferating. Whether it’s from a phone, a car or smart home devices, astonishing amounts of data fuel the work of researchers and product developers conceiving new products and experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/",
-      "originalUrl": "https://techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Sight-Tech-Global-machine-learning.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/amp/",
-      "publishedDateTime": "2021-11-05T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster.md",
-      "title": "Can Artificial Intelligence Save America From The Global Supply Chain Disaster?",
-      "excerpt": "Leveraging AI to its maximum potential in supply chain technology is paramount in our race to solve the crises of the day. Big wins will help companies around the world to build more resilient, agile",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61853070a9d6a56144f276a1%2F0x0.jpg",
-          "width": 1200,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/amp/",
-      "publishedDateTime": "2021-11-05T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles.md",
-      "title": "A Former Uber Executive Takes a Fresh Approach to Self-Driving Vehicles",
-      "excerpt": "Waabi founder Raquel Urtasun wants to solve the puzzle of autonomous trucks without driving millions of miles in real-world tests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929",
-      "originalUrl": "https://www.wsj.com/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-428284/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929",
-      "publishedDateTime": "2021-11-05T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is Meta’s Facial Recognition Retreat Another Head Fake?"
-    excerpt: "Facebook, oops, Meta — boy, this is going to take some getting used to — announced this week that it would end its decade-old facial recognition system and delete the face dat"
-    publishedDateTime: 2021-11-04T22:24:00Z
-    webUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html"
-    ampWebUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 93
-    images:
-      - url: "https://static01.nyt.com/images/2021/11/04/opinion/04Swisher-image/04Swisher-image-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Meta’s face recognition AI may yet metastasize"
     excerpt: "Facebook said it would drop this tool and delete a billion-plus face templates, but it looks integral to its parent company’s metaverse ambitions. This makes privacy regulation a must"
     publishedDateTime: 2021-11-07T16:43:00Z
@@ -92,62 +76,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Inside Facebook’s decision to eliminate facial recognition — for now"
-    excerpt: "Facebook’s facial recognition decision was in the works for months, long before the current whistleblower scandal."
-    publishedDateTime: 2021-11-05T20:34:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/11/05/facebook-facial-recognition/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 41
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XU3HESB3AUI6ZPLP3I3W6RZQJY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Facebook to shut down facial recognition system over privacy concerns"
-    excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
-    publishedDateTime: 2021-11-06T11:44:00Z
-    webUrl: "https://menafn.com/1103111021/Facebook-to-shut-down-facial-recognition-system-over-privacy-concerns"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?980041"
-        width: 337
-        height: 250
-        isCached: true
-  - title: "Facial Recognition Program Being Shut Down By Facebook"
-    excerpt: "Facebook is going to shut down its facial recognition program. The company which now goes by the name Meta made the announcement in a blog post. Its VP of Artificial Intelligence wrote those who opted in won’t be recognized in photos and videos anymore."
-    publishedDateTime: 2021-11-07T08:56:00Z
-    webUrl: "https://www.kabc.com/2021/11/07/facial-recognition-program-being-shut-down-by-facebook/"
-    type: article
-    provider:
-      name: KABC
-      domain: kabc.com
-    quality: 39
-    images:
-      - url: "https://express-images.franklymedia.com/6616/sites/320/2021/11/04095912/meta-fb-Rokas-Tenys-Shutterstock.com-shutterstock_2065583711.jpg"
-        width: 627
-        height: 418
-        isCached: true
-  - title: "Facebook is shutting down its facial recognition software"
-    excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
-    publishedDateTime: 2021-11-08T21:55:00Z
-    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 39
-    images:
-      - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Facebook to End Use of Its Facial Recognition System"
     excerpt: "Facebook parent Meta Platforms Inc. announced in a blog post that it will shut down its “Face Recognition” system in coming weeks as part of a company-w"
     publishedDateTime: 2021-11-08T22:33:00Z
@@ -161,20 +89,6 @@ related:
       - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/13513/Biometrics.facialrecognition.scanner.privacy_3_0.jpg?itok=XFC82dYr"
         width: 500
         height: 357
-        isCached: true
-  - title: "Facebook Ends Recognition Software"
-    excerpt: "Facebook plans to shut down its decade-old facial recognition system, deleting the face scan data of more than one billion users."
-    publishedDateTime: 2021-11-09T08:20:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/facebook-ends-recognition-software-5957.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 24
-    images:
-      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(75).png"
-        width: 796
-        height: 900
         isCached: true
 
 secured: "sTVMESv59x/XZawGftprgStZ8syrtjh+RekoBvk6XzjBvmopzbutwaWE9Quk/uEatGfAZvqwK1OkIS7n0h/Z6ERCDQxvhItQVnQshc3uf10+iwk9Wp4+qR6yG42lQK0t3XkwQ7XZLoCnCO+nwRDCOHxbMUyOHMIlIXnaRKNLc/CWHM/+vAL/cY+2H3Aa5h+5d3bvUL2DmUQ2XnBMbR4bdELgTb4dampCFHn9/1B4BCQvgJ1w+vtwSx+oXhWtmWL/scjVnseR1oh49EQ5A8PXZGx5YVUqt6Fwnqx8ZAtXWg04r05jwS8hNLKs7X3hKrlho0fAZlSLThRMw8Ic2Ujvvixr1Mue5Iz3YFdkv+Bok1iudsL/02+6hOORufr5qcyd1mj7tD8ykWPb94cjz+lTmdkow4iExeS+7/bDA51z2qVD4udeyONzEJFC4+NhRhZY3gGilG6SKlT5uAHJCjYnCZMw0IvGwBFQ2IRkunqKIFoh5GtPc70eLVITYRdxyaXdhPqIRegTtINPlGLoLHF/0A==;4N5eyFa+XMkga9RHOKO0uA=="

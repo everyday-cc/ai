@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-gb/news/world/israel-escalates-surveillance
 webUrl: "https://www.washingtonpost.com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html"
 type: article
 quality: 146
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/11/9/99cf0ec8-7wo5exid8j2bwprjwbz3e8.jpeg"
         width: 600
         height: 336
+        isCached: true
+  - title: "Israel using facial recognition surveillance in Palestinian city"
+    excerpt: "Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an organisation working with former soldiers said Tuesday."
+    publishedDateTime: 2021-11-09T16:49:00Z
+    webUrl: "https://www.bangkokpost.com/world/2212607/israel-using-facial-recognition-surveillance-in-palestinian-city"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20211109/c1_4139239_700.jpg"
+        width: 700
+        height: 461
         isCached: true
   - title: "‘Blue Wolf’: Israel Employs Massive Facial Recognition Program in Hebron"
     excerpt: "The Israeli army is using a massive facial recognition program in the occupied West Bank city of Hebron (Al-Khalil), a Washington Post report revealed on Monday."

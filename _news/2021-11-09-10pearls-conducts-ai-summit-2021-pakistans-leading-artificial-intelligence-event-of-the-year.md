@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-09T14:38:00Z
 originalUrl: "https://www.techjuice.pk/10pearls-conducts-ai-summit-2021-pakistans-leading-artificial-intelligence-event-of-the-year/"
 webUrl: "https://www.techjuice.pk/10pearls-conducts-ai-summit-2021-pakistans-leading-artificial-intelligence-event-of-the-year/"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/11/AI-Summit-team.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1365
     isCached: true
 
-secured: "P56RBa9Q0t5lcyr6RfdQRflybR8eST5YFY4ccLfg+MZBWXBfL6QYI4J9a+fkTMWloLK5m3kANb30L49eHKuJIpV0CcEBhf2FycdhtOni+4R9fFV0y1dcRykt5Tll8kxpC4YOnGmEIyaLIvxDax5Az1MJkjTd7It0SkccrRb6XZ03nYpsBINvRtJ7b5DorpEKhviXDQ2m7U0t1B+Q6USsVB+yBvK/2HlxC90qjhtrTPWmxa6UeZFmVrirFZoy8KDlrc+OwmN28aUmTcedekItFXxqx1SU11h3x2Rr+QPbUqZvhqqkLL4+kcS3ANGst/4oNuz6iXX2DnJyLIEtv751VDQkkUrzj5kdUOUedKcQfUQ=;Ab5WnpFj4u2aiZdV6+kbcg=="
+secured: "vI8OHB+WE3+4iC1INATk2SnnH8QkeHcIjlwhsQ7eRod5LVEmJpHCsu6VUxEuVPDKw+wHWxLQm8XGTA8W0DaRmqpa5fM2LEHFS4DM2Cwgqoshq6MVDcpXYDhe7AcN76HVGiS8tI9PY2t4tVHngiYFS4PQ7o8fbvHLWt4BgkLs3nYz1VnlrcgRYAq6zdht+HInEZp++a6Fl/BqUeVN2W9A1HVDLB8O+EJVqWkiATnwHgYCuzukZT38DvYvIx74S1Al0/HpfPFzLUvkuXCb0QtjxBZXuAJea+YcalRGpkPIXXIX5yfCkUVROX3Z7hBrTqQiiFOYJnXHLPWRLdl0a0ap7EpqcXf9d0wGPrfKosKP+t3oZymANLebGqs5iNYD4pqBWdD8jU2e/KTlFcVfr3AZZKvtfvO9kCQa7sDMxXlDI/ovkMyvwIso+Gc2Oc0iaccXvK8/zxWkH03d8+zSXJDPQ7HYFTBwSIdTacwL26L1hMYDg8JZUBeWYL2hqiZwThSWrhl6/7qnqkZqdi8DRqJpsQ==;fAf4JP3K8smtdAqZCwblFw=="
 ---
 

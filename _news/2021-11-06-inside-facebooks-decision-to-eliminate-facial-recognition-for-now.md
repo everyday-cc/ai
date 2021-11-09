@@ -26,85 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Is Meta’s Facial Recognition Retreat Another Head Fake?"
-    excerpt: "Facebook, oops, Meta — boy, this is going to take some getting used to — announced this week that it would end its decade-old facial recognition system and delete the face dat"
-    publishedDateTime: 2021-11-04T22:24:00Z
-    webUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html"
-    ampWebUrl: "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html"
+  - title: "Governments must check if Facebook really does scrap face recognition, Frances Haugen says"
+    excerpt: "Facebook made the announcement on Tuesday, partly in response to growing scrutiny from regulators and legislators over user safety and abuses on its p.."
+    publishedDateTime: 2021-11-05T05:30:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 93
+      name: India Times
+      domain: indiatimes.com
+    quality: 51
     images:
-      - url: "https://static01.nyt.com/images/2021/11/04/opinion/04Swisher-image/04Swisher-image-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Meta’s face recognition AI may yet metastasize"
-    excerpt: "Facebook said it would drop this tool and delete a billion-plus face templates, but it looks integral to its parent company’s metaverse ambitions. This makes privacy regulation a must"
-    publishedDateTime: 2021-11-07T16:43:00Z
-    webUrl: "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html"
-    ampWebUrl: "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2021/11/07/600x338/edit_1636303267610_1636303286718.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "EXPLAINED: What's Made Meta Go Off Face Recognition And What Happens To Tagging Photos On Facebook"
-    excerpt: "Meta, Facebook's parent company, has said that it's dropping the use of face recognition on the social networking site even as it tries to scrub clean its image"
-    publishedDateTime: 2021-11-07T08:19:00Z
-    webUrl: "https://www.news18.com/news/explainers/explained-whats-made-meta-go-off-face-recognition-and-what-happens-to-tagging-photos-on-facebook-4414391.html"
-    ampWebUrl: "https://www.news18.com/amp/news/explainers/explained-whats-made-meta-go-off-face-recognition-and-what-happens-to-tagging-photos-on-facebook-4414391.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/explainers/explained-whats-made-meta-go-off-face-recognition-and-what-happens-to-tagging-photos-on-facebook-4414391.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 62
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/09/mark-zuckerberg-reuters-163228819616x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Facebook Puts an End To Facial Recognition, Pledges To Delete All Data"
-    excerpt: "Facebook's opt-in facial recognition system will no longer be available in a matter of weeks, and the templates it relied on to function will be deleted. The decision comes as the social media giant rebrands as \"Meta\" and looks to keep ahead of regulations."
-    publishedDateTime: 2021-11-08T22:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 61
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
-        width: 1500
-        height: 860
-        isCached: true
-  - title: "Facebook to shut down face-recognition system, delete data"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-05T22:20:00Z
-    webUrl: "https://www.chron.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/50/01/21659713/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87533911,imgsize-30076,width-1200,height-628,overlay-etbrandequity/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Facebook to shut down facial recognition system over privacy concerns"
     excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
@@ -147,20 +83,6 @@ related:
       - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Facebook to End Use of Its Facial Recognition System"
-    excerpt: "Facebook parent Meta Platforms Inc. announced in a blog post that it will shut down its “Face Recognition” system in coming weeks as part of a company-w"
-    publishedDateTime: 2021-11-08T22:33:00Z
-    webUrl: "https://www.natlawreview.com/article/facebook-to-end-use-its-facial-recognition-system"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/13513/Biometrics.facialrecognition.scanner.privacy_3_0.jpg?itok=XFC82dYr"
-        width: 500
-        height: 357
         isCached: true
   - title: "Facebook Ends Recognition Software"
     excerpt: "Facebook plans to shut down its decade-old facial recognition system, deleting the face scan data of more than one billion users."

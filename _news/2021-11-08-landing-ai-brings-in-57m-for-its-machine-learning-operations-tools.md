@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/"
 type: article
 quality: 104
-heat: 135
+heat: 134
 published: true
 
 provider:

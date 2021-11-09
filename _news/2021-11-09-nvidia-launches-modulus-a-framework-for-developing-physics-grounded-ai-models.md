@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/11/09/nvidia-launches-modulus-a-framework-
 ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-launches-modulus-a-framework-for-developing-physics-grounded-ai-models/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-launches-modulus-a-framework-for-developing-physics-grounded-ai-models/amp/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all"

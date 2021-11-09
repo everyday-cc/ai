@@ -2,6 +2,112 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-27-amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip.md",
+      "title": "Amazon launches AWS instances powered by Habana’s AI accelerator chip",
+      "excerpt": "Amazon has launched new AWS instances powered by Habana's Gaudi, a chip that accelerates the training of AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/",
+      "originalUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/",
+      "publishedDateTime": "2021-10-26T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-qualcomm-unveils-latest-mobile-chips-for-mid-range-and-budget-devices.md",
+      "title": "Qualcomm unveils latest mobile chips for mid-range and budget devices",
+      "excerpt": "Qualcomm has added four new Snapdragon mobile chips to its portfolio for both 4G and 5G-capable handsets at varying budget ranges. The Snapdragon 778G Plus 5G, 695 5G, 480 Plus 5G, and 680 4G chips are now official,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
+      "originalUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1635255685/itpro/Qualcomm_Snapdragon_Refresh_Oct_2021.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
+      "publishedDateTime": "2021-10-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad.md",
       "title": "Photoshop update brings new Sensei AI features to desktop, Raw camera support to iPad",
       "excerpt": "Adobe MAX is here, and the company’s most popular editing software is unsurprisingly getting a host of updates for the occasion. The most significant updates are landing on Photoshop for desktop,",
@@ -1327,101 +1433,6 @@
         "IBM AI",
         "Facebook AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to-accelerate-a-wide-range-of-ai-hpc-and-cloud-workloads.md",
-      "title": "Supermicro Expands GPU System Portfolio with Innovative New Servers to Accelerate a Wide Range of AI, HPC, and Cloud Workloads",
-      "excerpt": "These servers are designed for demanding AI applications where low latency and high application performance are essential. The 2U NVIDIA HGX™ A100 4-GPU system is suited for deploying modern AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to-accelerate-a-wide-range-of-ai-hpc-and-cloud-workloads-301397716.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to-accelerate-a-wide-range-of-ai-hpc-and-cloud-workloads-301397716.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1657653/Supermicro_Expands_GPU_System_Portfolio.jpg?p=facebook",
-          "width": 1873,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-ai-chipmaker-hailo-raises-136m-as-it-doubles-down-new-opportunities-for-ai-modules-in-edge-devices.md",
-      "title": "AI chipmaker Hailo raises $136M as it doubles down new opportunities for AI modules in edge devices",
-      "excerpt": "Amid a global semiconductor shortage, an upstart in the world of AI chips is announcing a big round of funding to meet a boom in demand for its technology. Hailo, which makes edge-device chips customized to work with AI workloads — typical implementations include smart cities,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/",
-      "originalUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/",
-      "publishedDateTime": "2021-10-12T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -71,6 +71,20 @@ related:
         width: 899
         height: 599
         isCached: true
+  - title: "Robot food delivery service starts at SDSU"
+    excerpt: "BROOKINGS – Starship Technologies rolled out its robot food delivery service Monday on the South Dakota State University campus. SDSU became the first campus in the state of South Dakota to implement robot food delivery service."
+    publishedDateTime: 2021-11-09T15:46:00Z
+    webUrl: "https://brookingsregister.com/article/robot-food-delivery-service-starts-at-sdsu"
+    type: article
+    provider:
+      name: Brookings Register
+      domain: brookingsregister.com
+    quality: 39
+    images:
+      - url: "https://brookingsregister.com/uploads/images/2021/11/91bea4604ccd0b605b064f9119bba63d.jpg"
+        width: 1024
+        height: 662
+        isCached: true
 
 secured: "6J/VNonVQiOZweKOu6L8HuC8GHURhXtOobZ1JUN8qQC/JIu1+KZ6idej2HDgNcyA3KKLhc2ojIb/T/uM5saN2EN+8mTV1tOnET1mhAlo01b+dFq75jzMIaTv/K478OP/7RCB8NauulEO13wn4e3WBxf4W3nMZT9E6XVEDk2gnoObGVmP9mpXL2oVRlfpyQ5JhhfI9WSAGvu0gtaV5aU0qWnRzWK9cU6t4jsuqanPYzZRjXIZ8E2PRps/i7qKSL/KNkpcAzfJnHZGWptLii3spnJ0lH3C4DoNgK+aN8Ft6g0hUXPM3xbv/6fF9nVz+Yh3r1g3JiMLs7BXVtdsufVR4JGqQFiCpuoqtRR50wEm/6E=;xl58c0Kzgi8ZOB5JOxmghA=="
 ---

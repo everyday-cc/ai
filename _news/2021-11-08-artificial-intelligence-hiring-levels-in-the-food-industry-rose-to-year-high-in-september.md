@@ -38,6 +38,20 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "Artificial intelligence hiring levels in the air force industry dropped in September 2021"
+    excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence-related positions dropped in September 2021, with 51.5% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2021-11-09T16:50:00Z
+    webUrl: "https://www.airforce-technology.com/features/artificial-intelligence-hiring-levels-in-the-air-force-industry-dropped-in-september-2021/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 43
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/11/AIMS-ISR-Operator.png"
+        width: 1024
+        height: 570
+        isCached: true
 
 secured: "ipoZzjy1XzD3fPK1QZ+Lwl1NeVYlL2ywYdXisvPvL4HFuU0SFPRytHt6jSv4NrvRmaXg5AvMgPkuNZZRq/yxk3YojRW1/SGEjxlaFEJ+Fq9h5Z6Q+tJNIwzMglC3p4lQVDy5lcETaZus1oDfgRM27JHGmHzrHInYLCq/uqmv/delsivdxIdFRXEVyoj8uuxWfvhQwdV0QQNTOi4BvlnqtZALmBCZ+JqJBfcrzu4gWWDc/ws8uZFzhksBVlkJ1xNjiQ8c8xVAzt8+lI6dZSfOS9+OiDYn15jBt5Sa806aS1EUJqoawY5tP2dqTIwsmnEWkRNHhzNHfP6Lg0U4vp1HWMHq3jU/DYG/2TdWS0HrhRNnYWjM6GTp5mUEFkunxXXRlNR9N/30MH6Xn99vneiA14ciBM8at2dfqMAWVmMPkGEwlmMhgzG35CCynXMzCxP1L7Vpl7tYMdKfuLCjekLDjW4fuMZaIejDBAVmFuWQrlJz3CgckCUVDofqPlOeZiT6rSClx/1EDDGG6OdfHIfgkg==;mKeZPzGW/OjUawVTj/XOUg=="
 ---

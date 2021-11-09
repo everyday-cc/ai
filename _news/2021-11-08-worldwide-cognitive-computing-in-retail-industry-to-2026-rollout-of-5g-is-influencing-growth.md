@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Worldwide Payment Processing Solutions Industry to 2025 - Rising Financial Inclusion Across the Globe Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The \"Global Payment Processing Solutions Market (2020-2025) by Payment Mode, Vertical, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-11-08T13:50:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=561549"
+    excerpt: "The “Global Payment Processing Solutions Market (2020-2025) by Payment Mode, Vertical, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-11-08T14:52:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-48a70fd80c7c482f8f99238f0583b347"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "6fYUltvKD0j3Guam6zBQRcdftAmQmmX2YhyNCEsNVutloEs0AEj3FKOMXtwm4EXWQ/8x8RqzqYukqx2oVr52sNhB17QGuCnkSRAVUHoxRNaUGEPNIJoziA4ysuTUkM3/9RD3OcdykIw2UTZlC0FdlX8HJFUmgkV4n+daSrg9ro7B4lVJZEGzzuiGoJV6eG3hmiu0dc9aTzLq6CXeBCWJTMVJRvCStiVlG/5aS64NcsEwESgbA/bYCT2YLzKEpuZpJgrm9chJcmtmEx2znRAfF2AzGis85Zl/1/tjOSXpvqE2VfOfAV8LwsWh3ic+lYagdShKozKWozqL6PP/B1CzngC0k+VPDe60IwhmtCh61gsyHJY+GDk5aN9HC7n4KjakWTf+KvJyEIiMbbvR6bfOO8Y8bH4jxlS65GiRo/VpnqR3jAhz55sO3J+6RjW6OdIww5d6fdqAyHfL5rEITjIBDWuYqcLrz6/VRrtAPRQ+OQYLtKrtZmylCBeYVwjZAiFHPU6iiR+O0UM8OLiiNTsqXA==;lCKvxyvG8FExqRkY1SRmMA=="

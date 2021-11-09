@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2021/nov/06/streaming-the-best-film
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

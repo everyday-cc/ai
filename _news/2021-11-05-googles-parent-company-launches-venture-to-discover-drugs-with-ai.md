@@ -43,20 +43,6 @@ related:
         width: 1080
         height: 607
         isCached: true
-  - title: "Apple hires another Tesla engineer; Alphabet launches AI drug company; and a chat with Raghunandan G of Zolve"
-    excerpt: "Apple has recruited another former Tesla engineer to build its electric car team, Bloomberg reported on Sunday. Alphabet, Google's parent company, has started a drug discovery company in Britain, based on DeepMind's AI technology."
-    publishedDateTime: 2021-11-08T04:58:00Z
-    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/apple-hires-another-tesla-engineer-alphabet-launches-ai-drug-company-and-a-chat-with-raghunandan-g-of-zolve/71391"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 37
-    images:
-      - url: "https://www.forbesindia.com/media/audio/2021/Nov/forbesindiatechbriefingpodcast_800x600_logo.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Why Did Alphabet Launch A Separate Company For Drug Discovery"
     excerpt: "Why did Alphabet and DeepMind feel the need for a separate company dedicated to AI-driven drug discovery. One of last week’s top stories was the launch of Isomorphic Labs, a company exclusively dedicated to drug discovery,"
     publishedDateTime: 2021-11-09T10:30:00Z

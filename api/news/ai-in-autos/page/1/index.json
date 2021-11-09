@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-09-tesla-starts-retrofit-program-for-cameras-on-older-vehicles-with-full-self-driving.md",
+      "title": "Tesla starts retrofit program for cameras on older vehicles with ‘Full Self-Driving’",
+      "excerpt": "Tesla has launched a retrofit program for Autopilot cameras on older vehicles with the “Full Self-Driving” package. Starting with the introduction of its Autopilot 2.0 suite of sensors in 2016, Tesla started selling all of its cars with the promise that they have all the hardware necessary to achieve full self-driving capability with future software",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/",
+      "originalUrl": "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 252,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/",
+      "publishedDateTime": "2021-11-09T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-its-go-time-for-self-driving-cars-north-of-the-arctic-circle.md",
       "title": "It’s ‘Go Time’ For Self-Driving Cars – North Of The Arctic Circle",
       "excerpt": "Northern Norway will be a closely watched, wintry testing ground for self-driving cars. If they can make it there, autonomous vehicle industry members say, driverless cars can make it anywhere.",
@@ -187,36 +239,36 @@
       ]
     },
     {
-      "path": "_news/2021-11-07-teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms.md",
-      "title": "Tesla’s handling of braking bug in public self-driving test raises alarms",
-      "excerpt": "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an “over the",
+      "path": "_news/2021-11-06-apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-bloomberg-news.md",
+      "title": "Apple Hires Former Tesla Engineer to Boost Self-Driving Car Effort Bloomberg News",
+      "excerpt": "Apple Inc has hired a former engineer from Tesla Inc in an effort to boost its car-development efforts, Bloomberg News reported on Friday, citing people with knowledge of the matter.",
       "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/",
-      "originalUrl": "https://www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 74,
       "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/AmbEHg3M_fzCyfIDOEtFv7jxU-U=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/JIUOTGYNEC25SBFEECLP23BLUQ.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/?outputType=amp",
-      "publishedDateTime": "2021-11-07T02:00:00-08:00",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
+      "publishedDateTime": "2021-11-05T14:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -291,7 +343,7 @@
       "originalUrl": "https://www.wsj.com/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1426,40 +1478,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-from-cars-the-movie-to-self-driving-pixar-veterans-join-aurora-to-advance-companys-simulation-efforts.md",
-      "title": "From Cars (the Movie) to Self-Driving: Pixar Veterans Join Aurora to Advance Company's Simulation Efforts",
-      "excerpt": "Aurora continues to scale its Virtual Testing Suite, running millions of daily tests to rapidly increase capabilities of Aurora Driver Self-driving company Aurora announced it is accelerating simulation efforts by welcoming the team from Colrspace – a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/10/b23707997/from-cars-the-movie-to-self-driving-pixar-veterans-join-aurora-to-advance-companys-simulation-effo",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/10/b23707997/from-cars-the-movie-to-self-driving-pixar-veterans-join-aurora-to-advance-companys-simulation-effo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23707997",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23707997",
-      "publishedDateTime": "2021-10-28T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

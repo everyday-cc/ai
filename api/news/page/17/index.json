@@ -2,6 +2,417 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-10-26-itmo-itmo-signs-russias-first-ai-ethics-code.md",
+      "title": "ITMO: ITMO Signs Russia’s First AI Ethics Code",
+      "excerpt": "The first Russian AI code of ethics establishes general ethical principles and standards of conduct to guide those involved in activities using artificial intelligence. This has to do with ethical asp",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
+      "originalUrl": "https://indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/ITMO_University-1-1024x724.png",
+          "width": 1024,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
+      "publishedDateTime": "2021-10-26T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-the-3-steps-to-building-an-ai-powered-organization.md",
+      "title": "The 3 Steps To Building An AI-Powered Organization",
+      "excerpt": "Despite awareness about the potential of AI, leaders struggle to build an organization with AI at its core. The three-box solution helps organizations use AI to optimize their business today while innovating for exponential growth in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/10/26/the-3-steps-to-building-an-ai-powered-organization/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/10/26/the-3-steps-to-building-an-ai-powered-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617726ced00338e8a7016b8f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2453%26cropY1%3D117%26cropY2%3D1496",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-snapap-adds-four-members-to-leadership-team.md",
+      "title": "SnapAP Adds Four Members to Leadership Team",
+      "excerpt": "The B2B finance automation company SnapAP has named four new hires to its senior management team. The Canadian firm said in a news release on Tuesday (Oct. 26) that the new hires are: Roshni Wijayasinha as its chief marketing officer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/",
+      "originalUrl": "https://www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/snapap-457x274.png",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/amp/",
+      "publishedDateTime": "2021-10-26T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-this-startup-uses-ai-and-satellite-imagery-to-preserve-trees-moose-habitat-in-minnesota.md",
+      "title": "This startup uses AI and satellite imagery to preserve trees, moose habitat in Minnesota",
+      "excerpt": "NCX pays Minnesota landowners to delay harvesting trees for timber one year at a time, hoping to reduce the effects of climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.desmoinesregister.com/story/news/2021/10/26/ncx-pays-owners-preserve-trees-carbon-credits-minnesota-ai-microsoft-satellites-forest-management/5906505001/",
+      "originalUrl": "https://www.desmoinesregister.com/story/news/2021/10/26/ncx-pays-owners-preserve-trees-carbon-credits-minnesota-ai-microsoft-satellites-forest-management/5906505001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/10/11/PSTC/f77e289f-856c-418b-8a58-8e3bd9a835bf-MN_12x18.png?auto=webp&crop=815,458,x9,y244&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.desmoinesregister.com/amp/5906505001",
+      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5906505001",
+      "publishedDateTime": "2021-10-26T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Des Moines Register",
+        "domain": "desmoinesregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-amazon-gets-contract-from-british-spy-agencies-to-increase-use-of-ai-for-espionage.md",
+      "title": "Amazon gets contract from British spy agencies to increase use of AI for espionage",
+      "excerpt": "British spy agencies have signed a deal with Amazon Web Services to host classified material in a deal to boost the use of AI for espionage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/10/26/amazon-gets-contract-from-british-spy-agencies-for-ai-espionage/",
+      "originalUrl": "https://www.gizmochina.com/2021/10/26/amazon-gets-contract-from-british-spy-agencies-for-ai-espionage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/02/Amazon-Logo.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-visionary-global-fintech-companies-invest-in-customer-service-experience-by-partnering-with-helpshift.md",
+      "title": "Visionary Global Fintech Companies Invest in Customer Service Experience by Partnering with Helpshift",
+      "excerpt": "Helpshift, the established leader for in-app customer service in the mobile gaming industry, has set its sights on expanding its services to the rapidly growing fintech industry. Helpshift had long predicted an all-mobile shift of payments,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsaw.com/prnewswire/2021/10/26/visionary-global-fintech-companies-invest-customer-service-experience-by-partnering-with-helpshift/",
+      "originalUrl": "https://www.wsaw.com/prnewswire/2021/10/26/visionary-global-fintech-companies-invest-customer-service-experience-by-partnering-with-helpshift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/LEGaG8bqRHIOwshaD5h71_c42RI=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/NXTVMD3MEAEFUHBC7ZES5QXHIM.jpg",
+          "width": 980,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSAW",
+        "domain": "wsaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-ethics-guidance-issued-for-machine-learning-in-research.md",
+      "title": "Ethics guidance issued for machine learning in research",
+      "excerpt": "The UK Statistics Authority’s Centre for Applied Data Ethics has published ethics guidance focused on the use of machine learning for research and official statistics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/ethics_guidance_issued_for_machine_learning_in_research/id/5090982",
+      "originalUrl": "https://www.research-live.com/article/news/ethics_guidance_issued_for_machine_learning_in_research/id/5090982",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5090982&name=ethics-guidance-issued-for-machine-learning-in-research",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5090982&name=ethics-guidance-issued-for-machine-learning-in-research",
+      "publishedDateTime": "2021-10-26T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details.md",
+      "title": "IIT Delhi to offer MTech in Machine Intelligence and Data Science. Check details",
+      "excerpt": "IIT Delhi's Senate, the faculty body responsible for taking all major educational decisions, has approved the proposed programme titled ‘M Tech in Machine Intelligence and Data Science’ (MINDS)",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
+      "originalUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/10/26/600x338/185614e0-310a-11ec-901b-e0eb6ffe225f_1635240619247_1635240635839.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
+      "publishedDateTime": "2021-10-26T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-ai-powered-spend-management-platform-yokoy-secures-26m.md",
+      "title": "AI-powered spend management platform Yokoy secures $26M",
+      "excerpt": "Yokoy, a company developing spend management tools for enterprises, has raised $26 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
+      "originalUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
+      "publishedDateTime": "2021-10-26T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-byju-innovation-labs-bridging-the-teacher-student-gap-with-ai-ml.md",
       "title": "Byju Innovation Labs: Bridging the teacher-student gap with AI, ML",
       "excerpt": "With an aim to solve moonshot problems, Byju's lab initiative hopes to consistently innovate internally to solve education's biggest challenges with technology to avoid becoming obsolete",
@@ -722,442 +1133,6 @@
         "Machine Learning",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-agencies-face-continued-challenges-making-security-data-ready-for-machine-learning.md",
-      "title": "Agencies face continued challenges making security data ready for machine learning",
-      "excerpt": "Proofpoint fraud expert Rob Holmes looks at how threat actors are exploiting agency supply chains to launch imposter email attacks and compromise agency networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/category/sponsored-content/",
-      "originalUrl": "https://www.fedscoop.com/category/sponsored-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony.md",
-      "title": "Frances Haugen: Key moments from Facebook whistleblower's UK parliamentary testimony",
-      "excerpt": "The former Facebook product engineer answered questions from lawmakers on regulation, Instagram Kids and whether she thought Facebook was evil.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/b08c5Epe3NTGTrmK4QYvTgFuIsQ=/1200x630/2021/10/25/943d7bc3-8a31-4cd3-9a2c-eeb0a0b39f77/screenshot-2021-10-25-at-14-36-38.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "publishedDateTime": "2021-10-25T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-coming-convergence-of-nfts-and-artificial-intelligence.md",
-      "title": "The Coming Convergence of NFTs and Artificial Intelligence",
-      "excerpt": "Building AI capabilities into the lifecycle of NFTs opens the door to forms of intelligent ownership, says the CEO of IntoTheBlock.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
-      "originalUrl": "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coindesk.com/resizer/337Dm4j0iUQkmYa0l8YD8QPsAXQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LANV5ORSRJAIRN7KPVV7V2ZCDE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
-      "publishedDateTime": "2021-10-25T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-facebook-whistle-blower-brings-her-campaign-to-europe-after-her-disclosures.md",
-      "title": "The Facebook whistle-blower brings her campaign to Europe after her disclosures.",
-      "excerpt": "Beginning a European tour in Britain, the former Facebook manager was questioned by policymakers drafting tougher tech regulations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
-      "originalUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/10/25/business/25economy-briefing-facebook-haugen/25economy-briefing-facebook-haugen-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html",
-      "publishedDateTime": "2021-10-25T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-best-kirby-games-ranked-from-best-to-worst.md",
-      "title": "The best Kirby games, ranked from best to worst",
-      "excerpt": "Looking at Kirby's entire catalogue of games is overwhelming. Here's our best attempt to go through all the best Kirby games and rank them from best to worst.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/",
-      "originalUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/kirby-star-allies-review-4.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/?amp",
-      "publishedDateTime": "2021-10-25T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-ai-open-platform-market-may-set-new-growth-story-with-aws-hpe-microsoft-google.md",
-      "title": "AI Open Platform Market May Set New Growth Story with AWS, HPE, Microsoft, Google",
-      "excerpt": "While emphasizing the key driving and restraining forces for this ... Jingdong, Alibaba, Huawei, Baidu, Tencent & Jinshan AI Open Platform Market Study guarantees you to remain / stay advised ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-open-platform-market-may-set-new-growth-story-with-aws-hpe-microsoft-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-open-platform-market-may-set-new-growth-story-with-aws-hpe-microsoft-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/AAA-3-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-life-service-to-shop-to-shop-o2o-market-next-big-thing-major-giants-amazon-alibaba-jd.md",
-      "title": "Life Service to Shop (to Shop O2O) Market Next Big Thing | Major Giants Amazon, Alibaba, JD",
-      "excerpt": "While emphasizing the key driving and restraining forces for this ... Gmarket.co.kr,, Amazon, Meituan & Baidu Life Service to Shop (to Shop O2O) Market Study guarantees you to remain / stay ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/life-service-to-shop-to-shop-o2o-market-next-big-thing-major-giants-amazon-alibaba-jd",
-      "originalUrl": "https://www.digitaljournal.com/pr/life-service-to-shop-to-shop-o2o-market-next-big-thing-major-giants-amazon-alibaba-jd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/13a598baaf979d9de09bf0939a2c50817f524ef2-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-when-a-ghost-seemingly-has-taken-your-ai-self-driving-car.md",
-      "title": "When A Ghost Seemingly Has Taken Your AI Self-Driving Car",
-      "excerpt": "In the spirit of Halloween, consider whether a ghost can drive off or more rightly spirit away with your AI self-driving car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616f63a78381218bc51e3a22%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2024%26cropY1%3D0%26cropY2%3D1408",
-          "width": 1200,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/",
-      "publishedDateTime": "2021-10-25T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-rent-a-robot-is-a-game-changer-for-manufacturing.md",
-      "title": "‘Rent-A-Robot’ Is A Game Changer For Manufacturing",
-      "excerpt": "For years, cobots have been shown to make manufacturing processes faster and more efficient, but research shows that fewer than 10% of manufacturers use them. The “rent-a-robot” model—which is gaining steam across the country—can change that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176c70049b5743372cc15c8%2F0x0.jpg",
-          "width": 1200,
-          "height": 763,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/amp/",
-      "publishedDateTime": "2021-10-25T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

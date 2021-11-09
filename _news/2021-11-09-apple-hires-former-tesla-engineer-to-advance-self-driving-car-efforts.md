@@ -27,21 +27,69 @@ images:
     isCached: true
 
 related:
-  - title: "A Former Uber Executive Takes a Fresh Approach to Self-Driving Vehicles"
-    excerpt: "Waabi founder Raquel Urtasun wants to solve the puzzle of autonomous trucks without driving millions of miles in real-world tests."
-    publishedDateTime: 2021-11-05T13:02:00Z
-    webUrl: "https://www.wsj.com/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929"
-    ampWebUrl: "https://www.wsj.com/amp/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929"
+  - title: "Tesla starts retrofit program for cameras on older vehicles with ‘Full Self-Driving’"
+    excerpt: "Tesla has launched a retrofit program for Autopilot cameras on older vehicles with the “Full Self-Driving” package. Starting with the introduction of its Autopilot 2.0 suite of sensors in 2016, Tesla started selling all of its cars with the promise that they have all the hardware necessary to achieve full self-driving capability with future software"
+    publishedDateTime: 2021-11-09T15:10:00Z
+    webUrl: "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/"
+    ampWebUrl: "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
+      name: Electrek
+      domain: electrek.co
+    quality: 82
     images:
-      - url: "https://images.wsj.net/im-428284/social"
-        width: 1280
-        height: 640
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla’s handling of braking bug in public self-driving test raises alarms"
+    excerpt: "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an “over the"
+    publishedDateTime: 2021-11-07T10:00:00Z
+    webUrl: "https://www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/"
+    ampWebUrl: "https://www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 73
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/AmbEHg3M_fzCyfIDOEtFv7jxU-U=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/JIUOTGYNEC25SBFEECLP23BLUQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Tesla Handled a Braking Bug in Public Self-Driving Test"
+    excerpt: "In a recall report to federal safety regulators Friday, Tesla put the problems like this: The company discovered a software glitch that \"can produce negative object velocity detections when other vehicles are present."
+    publishedDateTime: 2021-11-05T00:51:00Z
+    webUrl: "https://www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public-self-driving-test"
+    ampWebUrl: "https://www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public-self-driving-test?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/how-tesla-handled-a-braking-bug-in-public-self-driving-test?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a9a0a3e/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F0f%2F5d%2F638415b88cd0cc4b3eef174d6e53%2Ftesla.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Tesla Self-Driving Update Caused Cars to Behave Dangerously"
+    excerpt: "It’s not every day that Tesla decides to contact regulators about a serious issue with its self-driving software. Late last month, Tesla reported an issue with its Full Self-Driving software to the National Highway Traffic Safety Administration (NHTSA),"
+    publishedDateTime: 2021-11-08T16:09:00Z
+    webUrl: "https://futurism.com/tesla-update-cars-dangerous"
+    ampWebUrl: "https://futurism.com/tesla-update-cars-dangerous/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-update-cars-dangerous/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2021/11/tesla-update-cars-dangerous-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Apple hires former Tesla engineer to bolster its self-driving car project"
     excerpt: "Apple has hired a former Tesla engineer to work on software for its secretive \"Apple Car\" project, according to a new report."
@@ -59,6 +107,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple hires former Tesla engineer to boost self-driving car effort: Report"
+    excerpt: "Cupertino, California-based Apple has tapped Christopher Moore for its team working on a self-driving car, the report said."
+    publishedDateTime: 2021-11-06T05:44:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/auto/apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-report-7684791.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/auto/apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-report-7684791.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-report-7684791.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/11/2021-11-05T211937Z_1_LYNXMPEHA412U_RTROPTP_2_EU-APPLE-ANTITRUST-770x433.png?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
+  - title: "Apple hires former Tesla Autopilot Software Director for self-driving car team"
+    excerpt: "The move suggests that Apple is moving ahead with its plans to develop its own self-driving vehicle in a race to catch up with automakers such as Tesla."
+    publishedDateTime: 2021-11-06T05:20:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/apple-hires-former-tesla-autopilot-software-director-for-self-driving-car-team-41636171247146.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/apple-hires-former-tesla-autopilot-software-director-for-self-driving-car-team/amp-41636171247146.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apple-hires-former-tesla-autopilot-software-director-for-self-driving-car-team/amp-41636171247146.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/11/06/600x338/apple_icar_youtube_1612505634970_1612505641070_1636175785402.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Apple hires former Tesla Autopilot software exec to bolster self-driving car effort"
     excerpt: "As reported by Bloomberg late on Friday, Apple has hired away Tesla’s former Autopilot software director Christopher Moore. Bloomberg says Moore will report to Stuart Bowers, another former Tesla employee."
     publishedDateTime: 2021-11-05T21:20:00Z
@@ -75,6 +155,48 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla's 'Full Self-Driving' Gets Mixed Reviews"
+    excerpt: "Drivers who utilize Tesla’s Full Self-Driving have mixed reviews, being simultaneously impressed and alarmed by it, according to a new report from CNN, which relied on interviews with vehicle owners who use the software and a review of videos posted to social media."
+    publishedDateTime: 2021-11-05T14:35:00Z
+    webUrl: "https://www.chron.com/business/article/Tesla-s-Full-Self-Driving-Gets-Mixed-Reviews-16595098.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/22/54/05/21676404/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Waymo's Self-Driving Vehicles Arrive on New York City Streets"
+    excerpt: "After rolling out in several cities including San Francisco, Google‘s Waymo brings its self-driving vehicles to the bustling New York City streets. As the most densely populated city in the United States with “unusual road geometrics,"
+    publishedDateTime: 2021-11-05T04:34:00Z
+    webUrl: "https://hypebeast.com/2021/11/waymo-driver-new-york-city-arrival-news"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F11%2Fwaymo-driver-new-york-city-arrival-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
+  - title: "Apple’s Self-Driving Car Project Hires Former Tesla Autopilot Engineer"
+    excerpt: "Bloomberg’s Mark Gurman and Dana Hull are reporting Apple has hired a former Tesla Autopilot engineer to its “Project Titan” self-driving car project: The iPhone maker tapped Christopher “CJ” Moore for its team working on a self-driving car,"
+    publishedDateTime: 2021-11-05T23:06:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apples-self-driving-car-project-hires-former-tesla-autopilot-engineer/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 39
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/02/apple-carplay-carkey.jpg"
+        width: 798
+        height: 365
+        isCached: true
   - title: "Apple hires former Tesla engineer to boost self-driving car effort"
     excerpt: "Cupertino, California-based Apple has tapped Christopher Moore for its team working on a self-driving car, the report said. Apple and Tesla did not immediately respond to Reuters requests for comment."
     publishedDateTime: 2021-11-08T05:27:00Z
@@ -89,6 +211,45 @@ related:
         width: 1107
         height: 731
         isCached: true
+  - title: "Is the Apple Car FINALLY on the way? Apple hires former Tesla Autopilot software director to help develop a self-driving vehicle, report claims"
+    excerpt: "Apple has reportedly hired former Tesla software director Christopher Moore. The Cupertino-based tech giant has been working on its long-rumoured self-driving car project since 2014."
+    publishedDateTime: 2021-11-09T15:30:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10182151/Apple-hires-Tesla-expert-self-driving-car-project-report-says.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10182151/amp/Apple-hires-Tesla-expert-self-driving-car-project-report-says.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10182151/amp/Apple-hires-Tesla-expert-self-driving-car-project-report-says.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 38
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/11/09/14/36181330-0-image-a-27_1636469823253.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Tesla’s recent Full Self-Driving update made cars go haywire. It may be the excuse regulators needed."
+    excerpt: "The National Highway Traffic Safety Administration previously asked Tesla for increased transparency around updates."
+    publishedDateTime: 2021-11-08T18:22:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/11/08/tesla-regulation-elon-musk/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4PPJ4XR32AI6ZPLP3I3W6RZQJY.jpg&w=1440"
+        width: 1440
+        height: 890
+        isCached: true
+  - title: "Tesla's Full Self-Driving update made cars go haywire. Here's the impact"
+    excerpt: "The EV maker appears to be adjusting to scrutiny from federal safety regulators and negative publicity about some of its practices."
+    publishedDateTime: 2021-11-08T15:18:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2021/11/08/teslas-full-self-driving-update-made-cars-go-crazy-impact-tdn/6337764001/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 18
   - title: "Apple hires former Tesla executive to work on self-driving software - report"
     excerpt: "Apple has hired Christopher Moore, a former engineer at Tesla, to join its self-driving car operations, Bloomberg reported, citing sources with knowledge of the matter. Apple declined to comment on the matter. Moore will work on software and report to ..."
     publishedDateTime: 2021-11-08T10:38:00Z
@@ -98,15 +259,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 16
-  - title: "Uber, Aurora co-founder are big winners in self-driving tech company's stock debut"
-    excerpt: "Two stakeholders in Aurora own more than $1 billion of the company's stock after its first day of trading as a public company #selfdriving #wallstreet"
-    publishedDateTime: 2021-11-05T14:16:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/05/uber-auroras-co-founder-are-big-winners-in-debut.html"
+  - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
+    excerpt: "Tech-industry experts, city planners and even Gov. Jay Inslee have touted self-driving cars as a panacea, cutting congestion and vehicle emissions while reducing collisions."
+    publishedDateTime: 2021-11-09T08:34:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/09/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: The Star
+      domain: thestar.com.my
+    quality: 14
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/09/1361672.jpeg"
+        width: 1240
+        height: 1042
+        isCached: true
 
 secured: "Fgfe7lMa9GYUI5SRcn0DEB8Zkg6zY2FQ+46uDvmRPV0yNGhLiQ+z2XguGbN1uRtArMv/br8gQ04oR8ygHHojS/ks6uD6dvPVyhVZgE9MT1VnRXGMXD9VN2S+kqT8OM8As+j7l5rk+o8ZoMO1zViomShM1eWeP9pKfope8eOgrtYIfLhHylsK+rD94oFeFYK2Eppx+Hvk9wlBlqUhddVHI1Lsof4UQXpujapiy7gyXW+eYPPi4i6s0xhCmHN1kukjfq3ebtQkX1boVToCJmYPQE71/YsBIsMbi9YzzqQBinMZv6JMOlviNcvDCJhR5+rUH6vICFvnNXalwUt5u2cLXoWLtcVZnjIQ2H+lVIwhc6ULo+U8rhcH5qRFlCZbeR8qWQtELUVxNZv4l95edNJEKh8n5Cb1w+3Qx8xMNFwZ8MnHzw0kHWnGixqBZ8BglysSpZKa1oEmSD8RlI60iTLPmuGOJUwqz5TLAhhENOUm97C6dmGHgexEiGekHzf8na/vZtCaHZdEboK6H8Gfgx6zig==;61p0QWK+zeHMcTnM5O5uzw=="
 ---

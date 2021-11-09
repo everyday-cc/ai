@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Paging the plagiarism police — AI is getting better at writing students’ essays"
+    excerpt: "Cheating during the pandemic has been rampid and concerns are growing in a climate where automation writing continue to improve."
+    publishedDateTime: 2021-11-09T15:03:00Z
+    webUrl: "https://thenextweb.com/news/plagiarism-improving-writing-students-essays-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FRobot-typing-hed.jpg&signature=16c5fbe850f2ab359134736037a6901d"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Artificial intelligence is getting better at writing, and universities should worry about plagiarism"
     excerpt: "The dramatic rise of online learning during the COVID-19 pandemic has spotlit concerns about the role of technology in exam surveillance and also in student cheating. Some universities have reported more"
     publishedDateTime: 2021-11-06T08:17:00Z

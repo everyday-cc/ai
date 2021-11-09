@@ -2,6 +2,126 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-15-facial-recognition-enters-new-phase-at-gates.md",
+      "title": "Facial recognition enters new phase at gates",
+      "excerpt": "Some drivers may have noticed a difference if they’re using the facial recognition to gain access to Redstone this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theredstonerocket.com/news/article_b4087992-1633-11ec-82e6-b306b9e4ef9f.html",
+      "originalUrl": "https://www.theredstonerocket.com/news/article_b4087992-1633-11ec-82e6-b306b9e4ef9f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/theredstonerocket.com/content/tncms/custom/image/71ee924c-4845-11e6-a51b-ebabb80465c3.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Redstone Rocket",
+        "domain": "theredstonerocket.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-computer-vision-for-visual-effects.md",
+      "title": "Computer Vision for Visual Effects",
+      "excerpt": "These effects are made possible by research from the field of computer vision, the study of how to automatically understand images. Computer Vision for Visual Effects will educate students, engineers and researchers about the fundamental computer vision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/sz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
+      "originalUrl": "https://www.cambridge.org/sz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-automated-boba-bar-startup-integrates-facial-recognition-payments-to-build-loyalty-through-frictionless-convenience.md",
+      "title": "Automated Boba Bar Startup Integrates Facial Recognition Payments to Build Loyalty Through Frictionless Convenience",
+      "excerpt": "Automated boba bar startup Bobacino has partnered with facial recognition payment company PopID to enable consumers to pay for their beverage with their faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/",
+      "originalUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Bobacino-facial-recognition-payment-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/amp/",
+      "publishedDateTime": "2021-09-14T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis.md",
       "title": "Descartes Labs to Host GEOINT 2021 Training Workshop on Creating Machine Learning-Based Computer Vision Models for Planetary Scale Data Analysis",
       "excerpt": "The one-hour workshop, “Advanced Geospatial Analytics Utilizing Ever Increasing Geo Data with Computer Vision at Planetary Scale: Learn to Build and Deploy Machine Learning Models for Young Professionals to Senior Scientists,",

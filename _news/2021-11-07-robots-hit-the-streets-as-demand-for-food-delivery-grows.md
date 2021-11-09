@@ -9,7 +9,7 @@ ampWebUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-deman
 cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://pcdn.columbian.com/wp-content/uploads/2021/11/Robot_Food_Delivery_67862.jpg-3acea.jpg"
         width: 899
         height: 599
+        isCached: true
+  - title: "Robot food delivery service starts at SDSU"
+    excerpt: "BROOKINGS – Starship Technologies rolled out its robot food delivery service Monday on the South Dakota State University campus. SDSU became the first campus in the state of South Dakota to implement robot food delivery service."
+    publishedDateTime: 2021-11-09T15:46:00Z
+    webUrl: "https://brookingsregister.com/article/robot-food-delivery-service-starts-at-sdsu"
+    type: article
+    provider:
+      name: Brookings Register
+      domain: brookingsregister.com
+    quality: 39
+    images:
+      - url: "https://brookingsregister.com/uploads/images/2021/11/91bea4604ccd0b605b064f9119bba63d.jpg"
+        width: 1024
+        height: 662
         isCached: true
 
 secured: "ocLc0SDDeOcDagKqBkMoMIxhmZoFsxwaqVFreEgwchrA8kkDt/cJuJFQvMKHPr+1pawafTbf3jI46C1+8oRsDbKcPtsvaFOOjSGDxreNdj9GsN7+4IQGeObXXdo2ZVr24PBj+llMvl7TjksmtZ748t2Ye4DECnf5PdFWLvsUkNL4jdPOjoOaGNBZvtMNS5C0WEpiPg9EsDWsb+hWK6l0CWLGsNaXA19+dN5Jei2KIlC2HEUhEEYMPYgqDJQMLMqQdyMbWAyTLQO9X0VnsWU5C+PFG0rmUSVT0wnRlucs+cYyQm8G9nZYl3brIZ1wYgTsEsKZTUjPT5FyF3PZ3elpLS8c8MuKXhWO0JCxa03BkIW1ksDck6i7EpWLpdqqeQYTePMeOalix8icqAn0dB52K+fCjX0uIoWgPfDQlJuJBffppt/iWuIyILgOVJJ8fEATESONcxiM34oOycqXpqMHYsSjM5aZrC0kprTqDOHrs4LaNEj/X8BAIMYJ993GdzFkZ404Io3fz+H9uCIbJ2z2hg==;XYy/sFw+Xh3qszd6gA52OQ=="

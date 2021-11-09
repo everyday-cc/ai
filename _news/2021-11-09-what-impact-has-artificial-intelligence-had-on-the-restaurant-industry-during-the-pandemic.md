@@ -3,8 +3,8 @@ category: news
 title: "What impact has Artificial Intelligence had on the restaurant industry during the pandemic?"
 excerpt: "The implementation of technological tools, such as Artificial Intelligence (AI), have changed the paradigm in different industries and have allowed them to optimize and make their processes more efficient."
 publishedDateTime: 2021-11-08T21:54:00Z
-originalUrl: "https://www.timesunion.com/business/article/What-impact-has-Artificial-Intelligence-had-on-16602810.php"
-webUrl: "https://www.timesunion.com/business/article/What-impact-has-Artificial-Intelligence-had-on-16602810.php"
+originalUrl: "https://www.timesunion.com/business/article/What-impact-has-Artificial-Intelligence-had-on-16602810.php?bingParse"
+webUrl: "https://www.timesunion.com/business/article/What-impact-has-Artificial-Intelligence-had-on-16602810.php?bingParse"
 type: article
 quality: 27
 heat: -1
@@ -85,6 +85,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "+1UtvSVLXZaFBQbZYbaDMTmv2rd+8znZT8/p+nbp6KRsz75yRVfR2/glguozIPUjRVsNrjdEt1S2Dx4LlSUiXsLAj0zyQRa7y6RQ3j/PWLq4uhr9ubJN0qWqHWihB70IoIC56nvpNiiDy6qVwR1uH2EsemPpmoRboZh3YoILrvuwUO8TrzYdR1oCnyOP4u+0q09q2pbszrS26QB/wdqLGdbalmzsY4rhzDU9u2+TLcj1teQNpQKGxTlIaSBCL2yRML8GRBUm5X4g4+BGF8TWvQecYUI+cL8qSOFpmlXf51E8pjc40nRbNYl5CG9LsRyfCjE+hYrCvdzvPJ2Pidd7sdMJXJ8Ex2nh3DuznAgAfuZzg84VZX243v5FCWGzvGHb1XLWP228wWQ8w0IP+dbNtqbRc447Du1SY+bH6YPh9hEGEbihmO5d3XibyX22hsXIXwSJhAYzbTj4KUA6WgO7OuhqKAUVAewPuWkra2A0d6JpZQI3mvkCiOABe53+L5IGIQuQ8O/WaaCsUNcUcmZn3w==;NYqlceEUaKbvppsWoIpeiw=="
+secured: "T0US82lkqODYIdQlT0OYF7ncmpsJ2tbfmVutDVLOQg94GrUWxYMVPea3bXvenhM6rE62kFGGBZ3h172VKokUOMDpz4KUJsa9UEuSlJmn3GttI5Ci8B+ke81S6d30ZyYUSxHCzclezxjKUWYJni6HNVSikKZdDgnsmKRvHcYB4a4YJGaYi4ag0upPqkItnibreKoyoNmcwZS0SGRha3Z+4S1x8oTLqetW3wKoI/ooHiXSjr/gx7MbpoKMZ9iBh05VPrA2KpE1pFhLPvem/E41TWXzNEMgHaR9irAL2EtMEDw6jaAm/9UA56qQV7ufg8HOpJS1YQFhFHdUQst+tLUEkyRSD1GVlxt0dYh0jN0KV8A=;ZdxuMnSOPrUmpIIT0hRxwA=="
 ---
 

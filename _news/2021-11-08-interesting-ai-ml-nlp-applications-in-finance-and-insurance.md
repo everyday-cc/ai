@@ -44,7 +44,7 @@ related:
   - title: "What impact has Artificial Intelligence had on the restaurant industry during the pandemic?"
     excerpt: "The implementation of technological tools, such as Artificial Intelligence (AI), have changed the paradigm in different industries and have allowed them to optimize and make their processes more efficient."
     publishedDateTime: 2021-11-08T21:54:00Z
-    webUrl: "https://www.timesunion.com/business/article/What-impact-has-Artificial-Intelligence-had-on-16602810.php"
+    webUrl: "https://www.timesunion.com/business/article/What-impact-has-Artificial-Intelligence-had-on-16602810.php?bingParse"
     type: article
     provider:
       name: Times Union

@@ -40,6 +40,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Israel using facial recognition surveillance in Palestinian city"
+    excerpt: "Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an organisation working with former soldiers said Tuesday."
+    publishedDateTime: 2021-11-09T16:49:00Z
+    webUrl: "https://www.bangkokpost.com/world/2212607/israel-using-facial-recognition-surveillance-in-palestinian-city"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20211109/c1_4139239_700.jpg"
+        width: 700
+        height: 461
+        isCached: true
   - title: "‘Blue Wolf’: Israel Employs Massive Facial Recognition Program in Hebron"
     excerpt: "The Israeli army is using a massive facial recognition program in the occupied West Bank city of Hebron (Al-Khalil), a Washington Post report revealed on Monday."
     publishedDateTime: 2021-11-08T18:21:00Z

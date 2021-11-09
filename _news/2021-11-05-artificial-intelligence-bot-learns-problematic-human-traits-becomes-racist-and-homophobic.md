@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 619
         isCached: true
-  - title: "Artificial Intelligence Bot Becomes Racist And Homophobic After Learning From Humans"
-    excerpt: "An artificial intelligence bot designed to answer ethical questions has ended up learning some problematic traits from humans. Ask Delphi was created by the Allen Institute for AI in the hope it could answer life's trickiest conundrums."
-    publishedDateTime: 2021-11-04T23:09:00Z
-    webUrl: "https://www.ladbible.com/news/latest-ai-bot-becomes-racist-and-homophobic-after-learning-from-humans-20211104"
-    ampWebUrl: "https://www.ladbible.com/news/latest-ai-bot-becomes-racist-and-homophobic-after-learning-from-humans-20211104.amp.html"
-    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-ai-bot-becomes-racist-and-homophobic-after-learning-from-humans-20211104.amp.html"
-    type: article
-    provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 52
-    images:
-      - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2F080e0e716184ec2b1e0e8080811fa342.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "XECbXaUrkRkvFErjEntsbrU0k15HbyE1MPiM7dpw/ZEyeQtc/jHwjlVgqVzzLOgj/htqFoipkdPuObhiKtLVMzLPE/PINxeKY2DXiTsILk6A50KyECrJyzEjtlogk72nrNM7/KnMDKWlTSePcKha8PGGF1ubJpLD2L3Nm9baByPh5DK4cbhakI75f/0SnU+YWl0xLt8wx9ngE0uw3J7YsaYSs2MQXmIaP00yXFYIu/EMqXuaJmT+fLPmydzIC4Vs/dDQ1dLUrgdTLbl0m/UgQ4lh+qxTH7cd1giN9uBwH5bnZwK73EwBr1fhv5N8LOOpFuJInKWjm0f8hotSR8DadlxkYBSO9mkXs8FFxzx+j6nEW39jZnpq/xDMEIkvuQPXB7ojNAEpw5LV5KULGKng98E09u3yzYDH680/Nu1sqfXXX/6sRsw43suJ6+d/tt6aiALobaQ9B0unATlwi9lSl2/YSXCFoEjaO2g3G03vylAfmW2yTMChzNN2XES88tC7+NLr3J48skd90CHFuNt4yQ==;jJYa/jClg171ISHwtwgJOg=="
 ---

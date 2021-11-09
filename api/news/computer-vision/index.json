@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-09-soekarno-hatta-airport-readies-facial-recognition-system.md",
+      "title": "Soekarno-Hatta Airport readies facial recognition system",
+      "excerpt": "State-owned airport operator PT Angkasa Pura (AP) II (Persero) is creating a facial recognition system with biometric technology for aircraft passengers to process departures at Soekarno-Hatta Airport.",
+      "sourceUrl": null,
+      "webUrl": "https://en.antaranews.com/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
+      "originalUrl": "https://en.antaranews.com/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.antaranews.com/cache/800x533/2021/11/08/IMG-20211108-WA0006_3.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.antaranews.com/amp/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
+      "cdnAmpWebUrl": "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
+      "publishedDateTime": "2021-11-08T23:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Antara News",
+        "domain": "antaranews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-israel-escalates-surveillance-of-palestinians-with-facial-recognition-program-in-west-bank.md",
       "title": "Israel escalates surveillance of Palestinians with facial recognition program in West Bank",
       "excerpt": "Israel’s military is utilising facial recognition software to monitor Palestinians in the West Bank. The sweeping surveillance effort utilises a smartphone technology called Blue Wolf and has been in operation for the past two years,",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.msn.com/en-gb/news/world/israel-escalates-surveillance-of-palestinians-with-facial-recognition-program-in-west-bank/ar-AAQtj3m",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -99,6 +142,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-08-metas-face-recognition-ai-may-yet-metastasize.md",
+      "title": "Meta’s face recognition AI may yet metastasize",
+      "excerpt": "Facebook said it would drop this tool and delete a billion-plus face templates, but it looks integral to its parent company’s metaverse ambitions. This makes privacy regulation a must",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html",
+      "originalUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/11/07/600x338/edit_1636303267610_1636303286718.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html",
+      "publishedDateTime": "2021-11-07T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-07-facial-recognition-on-smartphones-is-it-secure-and-should-you-use-it.md",
       "title": "Facial recognition on smartphones: Is it secure and should you use it?",
       "excerpt": "Facial recognition has become common on smartphones and laptops, but they're not all equally reliable or even secure.",
@@ -148,6 +234,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says.md",
+      "title": "Governments must check if Facebook really does scrap face recognition, Frances Haugen says",
+      "excerpt": "Facebook made the announcement on Tuesday, partly in response to growing scrutiny from regulators and legislators over user safety and abuses on its p..",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-87533911,imgsize-30076,width-1200,height-628,overlay-etbrandequity/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911",
+      "publishedDateTime": "2021-11-04T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -951,24 +1081,33 @@
     {
       "path": "_news/2021-10-28-abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service.md",
       "title": "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service",
-      "excerpt": "As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue, Index Ventures, and Alkeon. Series C ...",
+      "excerpt": "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,",
       "sourceUrl": null,
-      "webUrl": "https://www.nbc12.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/",
-      "originalUrl": "https://www.nbc12.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T10:53:00-07:00",
+      "publishedDateTime": "2021-10-27T10:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WWBT",
-        "domain": "nbc12.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1259,153 +1398,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-nightly-news-full-broadcast-october-26th.md",
-      "title": "Nightly News Full Broadcast (October 26th)",
-      "excerpt": "FDA panel recommends Pfizer’s Covid vaccine for kids ages 5 to 11, powerful nor’easter hits East Coast, and how facial recognition will change the way you travel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-october-26th-124680261894",
-      "originalUrl": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-october-26th-124680261894",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/NY-NN-XXXXXXXX_CLN_18_30_19_00_Nightly_News_with_Lester_Holt_AS_frame_5770-shy7m3.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo124680261894",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124680261894",
-      "publishedDateTime": "2021-10-26T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-global-ai-in-computer-vision-market-2021-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2027.md",
-      "title": "Global AI In Computer Vision Market 2021 Industry Key Player, Trend and Segmented Data, Demand and Forecast by 2027",
-      "excerpt": "MarketsandResearch.biz has deployed an intelligence report entitled Global AI In Computer Vision Market 2021-2027 that is the complete creation of meticulous primary and secondary research. The report thoroughly covers analyzed insights in view of the market along with its ever-changing patterns,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2027-2021-10-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2027-2021-10-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking.md",
-      "title": "Vancouver Fraser Port Authority Improves Supply Chain Visibility With Computer Vision-Based Container Tracking",
-      "excerpt": "With AWS Panorama, Deloitte is helping the port authority develop a new class of insights on its physical operations that will improve collaboration with supply chain partners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/",
-      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176ea4756ac37e705249128%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/10/26/vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking/amp/",
-      "publishedDateTime": "2021-10-26T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
