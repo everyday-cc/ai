@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-26-snapap-adds-four-members-to-leadership-team.md",
+      "title": "SnapAP Adds Four Members to Leadership Team",
+      "excerpt": "The B2B finance automation company SnapAP has named four new hires to its senior management team. The Canadian firm said in a news release on Tuesday (Oct. 26) that the new hires are: Roshni Wijayasinha as its chief marketing officer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/",
+      "originalUrl": "https://www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/snapap-457x274.png",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/amp/",
+      "publishedDateTime": "2021-10-26T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-accelerating-healthcare-ai-innovation-with-zero-trust-technology.md",
       "title": "Accelerating healthcare AI innovation with Zero Trust technology",
       "excerpt": "From research to diagnosis to treatment, AI has the potential to improve outcomes for some treatments by 30 to 40 percent and reduce costs by up to 50 percent. Obtaining the large data sets necessary for generalizability, transparency, and reducing bias has historically been difficult and time-consuming.",
@@ -1252,49 +1295,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-10-17T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SQL Server Central",
-        "domain": "sqlservercentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-azure-cosmos-db-htap-using-synapse-analytics.md",
-      "title": "Azure Cosmos DB – HTAP using Synapse Analytics",
-      "excerpt": "using AutoML to develop a Regression/Classification/Time Series Forecasting model using the Azure Machine Learning linked service, and multi language support for advanced analytics using the Spark ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sqlservercentral.com/blogs/azure-cosmos-db-htap-using-synapse-analytics",
-      "originalUrl": "https://www.sqlservercentral.com/blogs/azure-cosmos-db-htap-using-synapse-analytics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sqlroadie.files.wordpress.com/2021/10/blog-stats-2021.jpg?w=1024",
-          "width": 1024,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-17T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SQL Server Central",

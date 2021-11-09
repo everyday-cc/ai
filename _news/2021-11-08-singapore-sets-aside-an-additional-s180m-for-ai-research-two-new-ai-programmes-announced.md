@@ -133,6 +133,20 @@ related:
         width: 700
         height: 402
         isCached: true
+  - title: "Singapore launches national programme to deepen AI capabilities in financial services"
+    excerpt: "Singapore's Deputy Prime Minister Heng Swee Keat announced the launch of the National Artificial Intelligence (AI) Programme in Finance at the Singapore FinTech Festival (SFF) and Singapore Week of Innovation and Technology (SWITCH) 2021."
+    publishedDateTime: 2021-11-09T03:18:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/11/09/singapore-launches-national-programme-to-deepen-ai-capabilities-in-financial-services"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 32
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/09/1361356.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Singapore to invest additional $180 million to accelerate AI research; launches two new AI programs"
     excerpt: "Two new public artificial intelligence (AI) programs have been launched as part of the Republic's strategy to use the technology to effect social and economic good. These come"
     publishedDateTime: 2021-11-08T05:26:00Z

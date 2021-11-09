@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI Pioneer Andrew Ng’s Startup Raises $57 Million In Series A"
+    excerpt: "AI pioneer Andrew Ng's startup provides tools that make building and deploying AI systems in manufacturing faster and easier."
+    publishedDateTime: 2021-11-09T04:23:00Z
+    webUrl: "https://analyticsindiamag.com/ai-pioneer-andrew-ngs-startup-raises-57-million-in-series-a/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Landing-AI-raises-Series-A-funding.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "icDWcSBIw5YtyRQdp5WJBi922m6qZZS1oF/7pH7cR/z4aZpohaEFnro2JvWaDXAzgm0kTfSPmDQurKWJQ5l3tR0fvAlxK0onHoOGlSGexLxaKco19wcmvAUgk/Yys5Fjx10GPtZghNnxGY505CRTcesKWe3hsmnKyy821k586LG+kyhKk+sCkomAn9qlmSY1gz5ex3bPUmS1W6l4Fv/4+4wSE+AGyI6z7fO3+h92hQU/6nNjPxnfiEwdALxgXWLNrLkR5Cjp9/XL26kEG/3Za+Tgn0lQOdlXIe8jjLosM8glB7+uAnIXE10NFNtq7Gn51jidagfauGiha9BsZshA9ZL2/579Y01uhXnFX4Cr7Js9m/VfhjOW/iUbdJ5Uzm4VwvCXrOFm4z1KrwiSxfpYybyrPXaGmblJNb1pT7ebcesmtPHbebs68iiVZOJhlupgrGAJX8pubZapogcSfMjmzX8TaJXttcdi5R5j2AC7ezUv0+7USeybv7EEXqBPYYUjZasAfRD9teoq9D+XV7PEUA==;vxUnMAApo9TB5x8Kpc6rgA=="
 ---

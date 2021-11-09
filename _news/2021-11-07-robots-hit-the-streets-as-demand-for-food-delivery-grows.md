@@ -9,7 +9,7 @@ ampWebUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-deman
 cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robots hit the streets as demand for food delivery grows"
+    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots—knee-high and able to hold around four large pizzas—are now navigating college campuses and even some city sidewalks in the U."
+    publishedDateTime: 2021-11-09T03:51:00Z
+    webUrl: "https://www.clickondetroit.com/business/2021/11/09/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+    ampWebUrl: "https://www.clickondetroit.com/business/2021/11/09/robots-hit-the-streets-as-demand-for-food-delivery-grows/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/business/2021/11/09/robots-hit-the-streets-as-demand-for-food-delivery-grows/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 59
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2HKCHCIGGNHNLGE27ZLD4N5SGQ.jpg?_a=ATABlay0"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Robots hit the streets as demand for food delivery grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots — knee-high and able to hold around four large pizzas — are now navigating college campuses and even some city sidewalks in the U."
     publishedDateTime: 2021-11-06T11:45:00Z

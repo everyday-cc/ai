@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-02-reducing-city-transport-emissions-with-maps-and-ai.md",
+      "title": "Reducing city transport emissions with Maps and AI",
+      "excerpt": "City transportation is crucial to connecting residents to education, employment and essential services. At the same time, the transportation sector is where global greenhouse gas (GHG) emissions are rising the quickest.In 2018, we launched the Environmental Insights Explorer (EIE) in collaboration with",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
+      "originalUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transportation_Blog.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 975,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
+      "publishedDateTime": "2021-11-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-fmr-google-ceo-on-how-artificial-intelligence-will-transform-society.md",
       "title": "Fmr. Google CEO on how artificial intelligence will transform society",
       "excerpt": "Former Google chairman and CEO Eric Schmidt joins 'Squawk Box' to discuss the future of artificial intelligence.",
@@ -762,6 +814,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-02-azure-databricks-sao-paulo-meetup.md",
+      "title": "Azure Databricks - Sao Paulo Meetup",
+      "excerpt": "Meetup October 27th 2021 This is the story of a rainy evening in Sao Paulo. As the old hispanic saying goes \"a long lasting marriage starts with a rainy wedding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/azure-databricks-sao-paulo-meetup-fernando-herrera",
+      "originalUrl": "https://www.linkedin.com/pulse/azure-databricks-sao-paulo-meetup-fernando-herrera",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHGDDNwXPQ2MQ/article-cover_image-shrink_720_1280/0/1635797724823?e=1642032000&v=beta&t=YxapMahAfU0T3QnVn4nz3H3z1OMR8OQ9zjiIRZpb98Q",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-ford-taps-non-it-professionals-to-broaden-its-ai-expertise.md",
       "title": "Ford Taps Non-IT Professionals to Broaden Its AI Expertise",
       "excerpt": "The auto maker has trained more than 1,000 employees on a platform it developed to put AI tools in the hands of people across the company.",
@@ -1077,109 +1181,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-ai-powered-camera-surveys-scenes-to-auto-capture-memorable-moments.md",
-      "title": "AI-powered camera surveys scenes to auto capture memorable moments",
-      "excerpt": "Canon turned to the Japanese crowd to fund development and production of an AI-powered photo/video camera that automatically captures scenes unfolding in front of it. Now the company has launched the device in Europe as the PowerShot PX.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/photography/canon-powershot-px-camera/",
-      "originalUrl": "https://newatlas.com/photography/canon-powershot-px-camera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/a338f35/2147483647/strip/true/crop/4614x3076+427+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe5%2F1d%2F9c42fabe446a9d51beaac3045927%2Fpowershot-px-find-out-more-1a385af89cf648a3aa0025dd1abb76bb.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/photography/canon-powershot-px-camera/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/canon-powershot-px-camera/?amp=true",
-      "publishedDateTime": "2021-11-01T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-machine-learning-deployment-platform-octoml-raises-85m.md",
-      "title": "Machine learning deployment platform OctoML raises $85M",
-      "excerpt": "OctoML, which helps companies deploy their machine models into production, has raised $85 million in a series C round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/",
-      "originalUrl": "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/octo-ml.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/",
-      "publishedDateTime": "2021-11-01T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

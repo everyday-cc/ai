@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/"
 type: article
 quality: 104
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Andrew-Ng.jpeg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "AI Pioneer Andrew Ng’s Startup Raises $57 Million In Series A"
+    excerpt: "AI pioneer Andrew Ng's startup provides tools that make building and deploying AI systems in manufacturing faster and easier."
+    publishedDateTime: 2021-11-09T04:23:00Z
+    webUrl: "https://analyticsindiamag.com/ai-pioneer-andrew-ngs-startup-raises-57-million-in-series-a/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Landing-AI-raises-Series-A-funding.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "Hv6JxLua3a30wLceSkjapzAx5ELYWmlOqBXJPi+XgIMIGVO3vKnPRV9okY6/nr8XSjIqcT4lgwDrUcZp7JHLWD984fLDzub2x2P1+G9TN054rKW0czt3TgeCbc6aU6+wovWqlqU6ZObQw4tXEOSgDcYB/fL7F0oFtvUS4WBjcuoAZL4sMY6eG38f2dr9ZyYjF0G+SDU/kHmKHUpBQWyNq7vLpBe4qFjIjLQDoBgiTLXjfR01JTIwwN65NxPQ4YExgaKUqZ26bpPbu/5nug593mL1b0R/sFcFNKTt2bL+W5YuIHYl63x7dE+OZ2MSgYTo18d6OM+h5rBNd0/Cdygx1pEsMdVhutAlDNV+2r2fLQKH+ByprA0gX7TsOW8xNumeTdvIIaXzDAvmVGnD8Ovs5w2lHyC0QRItFR5MS/W2r1jp8/i2NRCjzR3dH5WE9UJ8K9GIMm0pCL8nlOAeaTslfUura7394O5VUzPsGdwXY3toBBsYBq+znmmLiQuXTew8y8jvkbocWZjnR/XGjfQd4A==;j1L9iiMLXPG3ksh6Wfoibw=="

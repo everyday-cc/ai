@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "The programme that can give AI a sense of ethics"
-    excerpt: "Researchers trained an algorithm to answer questions about human values but Professor Micro Musolesi (UCL Computer Science) says it merely describes the views of a group of people and reflects those people’s cultural biases rather than offering a view on what’s right or wrong."
-    publishedDateTime: 2021-11-04T11:15:00Z
-    webUrl: "https://www.ucl.ac.uk/news/headlines/2021/nov/programme-can-give-ai-sense-ethics"
+  - title: "Republic to invest additional US$133.5mil to accelerate AI research"
+    excerpt: "It includes an industry-wide AI platform – dubbed NovA! – which generates insights about financial risks. NovA! is a collaboration between Singapore-based banks and local fintech firms, and aims to help financial institutions better assess companies ..."
+    publishedDateTime: 2021-11-09T03:55:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/11/09/republic-to-invest-additional-us1335mil-to-accelerate-ai-research"
     type: article
     provider:
-      name: UCL
-      domain: ucl.ac.uk
-    quality: 34
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ecu4DD4APr4OHsbkWU85sYuVXzV7acVFf4R6p7R/SMyazKtFT0I2o4KsdiH8P9aOVRpk1LZsD9hW819bzDbXxEfKXIAuM2lR6GE8KuQhyQyb75yS7DdpfmnPWJkZFkcgwCiDA+e8jKRlk4UPTL0vSj6plawXX52NH9KdPVALQnbOayS0nMi66f+mYklurhgvYFR+elblLQuKgnMg8PG478ecipW4GnntV4p0rUE27gH95NuCpsv/Zvs8qJnn7ThkSuLoKBEDBTCiydfcaW2FK0DhvKTmOMgKxYBiYasqnnTO3GgYqZKxkmypq5cH5qstDoxIzyMbbeelAAiDMV6Bk0xbrzxBXRtM0zQ9+Ao31NSFF3OgwIh51qwznQvWJO85fFTvFkyRomffWNk3xEyqhJDUM+sDJiDd2VhA1B6N0m+UJ9B1B7fzR0gHML8JvGjkfFCznOa/wQcBPyTIZoYByvWE8AgNGy2ofTaP5A9x3Tp7QslW3uC8tY+Rbbu6SCW4xrlTDEJrVf0ICY6n8WzkGA==;B2TZO1kDxUvXUer7zr9JdQ=="
 ---

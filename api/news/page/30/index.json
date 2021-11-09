@@ -2,6 +2,101 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-10-14-waymo-adds-750-million-to-war-chest-as-driverless-cars-prove-tough-to-deploy.md",
+      "title": "Waymo Adds $750 Million to War Chest as Driverless Cars Prove Tough to Deploy",
+      "excerpt": "Waymo LLC has raised a further $750 million ... are going to big companies rather than unproven startups as the artificial intelligence technology has proven harder to deploy than expected ...",
+      "sourceUrl": null,
+      "webUrl": "https://br.advfn.com/noticias/DJN/2020/artigo/82437841",
+      "originalUrl": "https://br.advfn.com/noticias/DJN/2020/artigo/82437841",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:GOOG&p=5&t=52",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ADVFN",
+        "domain": "advfn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027.md",
+      "title": "Global Edge Computing AI Chips Market 2021 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2027",
+      "excerpt": "MarketsandResearch.biz has recently published a report titled Global Edge Computing AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which assesses dynamic factors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-10-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-to-lead-in-ai-the-us-needs-a-dedicated-workforce-policy.md",
       "title": "To lead in AI, the US needs a dedicated workforce policy",
       "excerpt": "Taking and keeping the lead in talent means not only having the best and brightest, but an adequate supply across the entire U.S. AI workforce, along with secure domestic talent pipelines.",
@@ -1031,92 +1126,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers.md",
-      "title": "AI Startup MosaicML Comes Out Of Stealth To Aid AI Developers",
-      "excerpt": "Nervana and Intel, leads the new company focused on improving the efficiency of AI Training Training a deep neural network takes a lot of computational horsepower.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165f8cf45f04e14c76729e4%2F0x0.jpg",
-          "width": 1200,
-          "height": 1228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/",
-      "publishedDateTime": "2021-10-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022.md",
-      "title": "1 Explosive Artificial Intelligence Stock Set to Grow Sales 359% by 2022",
-      "excerpt": "A combination of factors, including low interest rates and aggressive government spending, has put the stock market in a great position to move higher. It's a particularly good environment for technology stocks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13",
-      "originalUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13?amp",
-      "publishedDateTime": "2021-10-13T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

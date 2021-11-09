@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/interface-mas
 webUrl: "https://www.joplinglobe.com/region/national_business/interface-masters-networking-hardware-solutions-set-a-new-standard-for-artificial-intelligence-ai-and-deep/article_8f45b4f7-d722-5ce0-b26a-77de95cbc911.html"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1109
     height: 630
     isCached: true
-
-related:
-  - title: "Air Force asks industry for artificial intelligence (AI) and machine learning for aerial battle planning"
-    excerpt: "Stratagem seeks new AI capabilities that can reason in real-time about the battlespace, and assist planners responsible for reacting, John Keller reports for Military & Aerospace Electronics."
-    publishedDateTime: 2021-11-04T11:50:00Z
-    webUrl: "https://www.intelligent-aerospace.com/military/article/14213433/air-force-asks-industry-for-artificial-intelligence-ai-and-machine-learning-for-aerial-battle-planning"
-    type: article
-    provider:
-      name: Intelligent Aerospace
-      domain: intelligent-aerospace.com
-    quality: 52
-    images:
-      - url: "https://img.intelligent-aerospace.com/files/base/ebm/ias/image/2021/11/aerial_battle_3_Nov_2021.618197a16b4b6.618302d749495.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "9LEwK6J5u9RFYtSCwNq0xhTC1hKCuBN6gYQzaGEDes9FExO8X+xDICAtok2vD/zyNBp+nFacan82px/SLvMsoFi3iHW2OunhaTi+PouhWvIAn8DD4G1S01gtzhbZ9oKShlMc46IhVdnXWPD9OTG3IDDvvypJ2GPihnfCBWsOvBqDrZKBV/yVUJJji3HYBaieKj+iVc6FEZIXVSrwgDkqcfHELsFArETjblLP/JTChvu356Ux5VoFyYKggF+qtgQvaWyHicSV3buculpZ0ag3/Nqx4pwNGLX3WveQAdb103B8zh74tIEl78FBtIIlUZkCuoRvpvY/lTrNel+45PjDI/eGE365dqRwzHuENoGPaSwzU9GIdkjZPxzSAriFQA//3iNMfksKx7En42dFTTbkHNwE6EPZnzaw5Wnks/KQs9vAaDBgKXBWlBPwauXFU96QX3lWMSs6SQDQ7wjxrFls9qXQyTz6+XRNw5sHHalmgc81J0O4aS50evzAP+EBnQO3YZztpXDYZOmOJCgzAZi/OA==;2Y1ELSK6NwlgTzSFlfJrBA=="
 ---

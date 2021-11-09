@@ -1,32 +1,29 @@
 ---
 category: news
 title: "Noble.AI Announces the Appointment of Thomas Baruch as Senior Special Advisor"
-excerpt: "Noble.AI, whose artificial intelligence (\"AI\") software enables engineers, scientists, and researchers to make more discoveries faster and at lower cost, today announced the appointment of Thomas Baruch as Senior Special Advisor."
-publishedDateTime: 2021-11-08T21:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/noble-ai-announces-the-appointment-of-thomas-baruch-as-senior-special-advisor-1030950686"
-webUrl: "https://markets.businessinsider.com/news/stocks/noble-ai-announces-the-appointment-of-thomas-baruch-as-senior-special-advisor-1030950686"
+excerpt: "Noble.AI's platform for achieving a quantum singularity, leveraging AI and GPU computing, will match or exceed in software what investors in quantum computing hardware are only now dreaming about to take place for some period 10 years in the future.\""
+publishedDateTime: 2021-11-08T23:08:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/noble-ai-announces-the-appointment-of-thomas-baruch-as-senior-special-advisor/article_f02a3e75-8ed0-584b-a578-f3e0851e56ab.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/noble-ai-announces-the-appointment-of-thomas-baruch-as-senior-special-advisor/article_f02a3e75-8ed0-584b-a578-f3e0851e56ab.html"
 type: article
-quality: 64
-heat: 64
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1682346/Thomas_Baruch_NobleAI_Large.jpg"
-    width: 267
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/fb/5fbc1cab-d375-5d5f-aa2c-7e057489a327/618990a573cd9.image.jpg?resize=421%2C630"
+    width: 421
+    height: 630
     isCached: true
 
-secured: "iQtaHtDqcuBXUJgFXr78xUFGyieZeyjTthnM4lKdaqm8rQIADhtvXbwFJ8pewHwz9LdOosc16NDguydtfKvlDIsBHl1AJyHYpQSjyPEbbxod8tAGZHjunRFnrZ6ROUwpaRAe/w+e51ZzRNYSxGZdJtksMGsx1pz52o7qGe9KbFxjAJOaob8UAfxF0GYVftmi9HKlDWm2lum3TSGoFJJokFjAUtBUteWkIw5AdmiGBaoaZxzHM3wmf73+SDs7hJTEdSOrVfxwrfX+ODj7f7fQM8DSPauC4vZQ9kLCe5yCuRLteFCgWQ44XBiWWi7tqdV8RxczAOvUttBXdaBdWI4ITDX+0u9/kgqubuFIwlTdCkA=;45+zBPza0TQcvPzOHrodug=="
+secured: "RSdp6mW/OGrG7w9srXwC6bZaFK6rFPn2rDLfCsTv50z5iEzK/wuxtmTKMfWMX7kHtU/UofS7KXEulS4jQXU9lzL9r9S/MKr77+L6SppN1+HYnp3iagUJ5Bd/hGVmXnokh3uVeMzIkvScno4tuuAvW+N8LE1HrhZ5S1G2gyqyOhVw0142IPXJtU7qXmCcRL2EaHVQvhFmabWPzGWp9z2v5HSicb8ECva8VJL2P3RjOzLTVZvRFUuKAZrHtEu2DlzMiKck8VETXzcmeuNNIH+4Jgq4Nut1O75OGnsmQp4Qp33ZG7vFJuR4iqEiXXK4C7VxZLiQXu0zo7h2THKdjt3ULa/YO55nEkUXTkjU4QKLATA=;0Au82LcHosS6Tq576q0XRg=="
 ---
 

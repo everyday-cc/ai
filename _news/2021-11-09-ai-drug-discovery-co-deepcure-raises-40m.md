@@ -49,20 +49,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The slippery slope of using AI and deepfakes to bring history to life"
-    excerpt: "To mark Israel’s Memorial Day in 2021, the Israel Defense Forces musical ensembles collaborated with a company that specializes in synthetic videos, also known as “deepfake” technology, to bring photos from the 1948 Israeli-Arab war to life."
-    publishedDateTime: 2021-11-04T11:42:00Z
-    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/11/04/prc-the-conversation-the-slippery-slope-of-using-ai-and-deepfakes-to-bring-history-to-life/"
-    type: article
-    provider:
-      name: St. George News
-      domain: stgeorgeutah.com
-    quality: 39
-    images:
-      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/11/abelincoln-1290x726.jpg"
-        width: 1290
-        height: 726
-        isCached: true
   - title: "Fresh Patches For Your DeepMind 12"
     excerpt: "Robust American Patches tell us that they have released Volume I for the DeepMind 12. They tell us that nearly every patch in this collection of 74 has extensive velocity, modwheel and aftertouch assignments."
     publishedDateTime: 2021-11-05T01:02:00Z

@@ -890,6 +890,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-02-azure-databricks-sao-paulo-meetup.md",
+      "title": "Azure Databricks - Sao Paulo Meetup",
+      "excerpt": "Meetup October 27th 2021 This is the story of a rainy evening in Sao Paulo. As the old hispanic saying goes \"a long lasting marriage starts with a rainy wedding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/azure-databricks-sao-paulo-meetup-fernando-herrera",
+      "originalUrl": "https://www.linkedin.com/pulse/azure-databricks-sao-paulo-meetup-fernando-herrera",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHGDDNwXPQ2MQ/article-cover_image-shrink_720_1280/0/1635797724823?e=1642032000&v=beta&t=YxapMahAfU0T3QnVn4nz3H3z1OMR8OQ9zjiIRZpb98Q",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-sonrai-security-joins-microsoft-intelligent-security-association-sonrai-dig-listed-as-preferred-solution-on-microsoft-azure-marketplace.md",
       "title": "Sonrai Security Joins Microsoft Intelligent Security Association; Sonrai Dig Listed as Preferred Solution on Microsoft Azure Marketplace",
       "excerpt": "Sonrai Security, an established leader in enterprise cloud security, strengthens its relationship with Microsoft by joining the Microsoft intelligent Security Association (MISA) for integrations with Microsoft Azure services.",
@@ -1377,49 +1429,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-snapap-adds-four-members-to-leadership-team.md",
-      "title": "SnapAP Adds Four Members to Leadership Team",
-      "excerpt": "The B2B finance automation company SnapAP has named four new hires to its senior management team. The Canadian firm said in a news release on Tuesday (Oct. 26) that the new hires are: Roshni Wijayasinha as its chief marketing officer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/",
-      "originalUrl": "https://www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/snapap-457x274.png",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/amp/",
-      "publishedDateTime": "2021-10-26T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

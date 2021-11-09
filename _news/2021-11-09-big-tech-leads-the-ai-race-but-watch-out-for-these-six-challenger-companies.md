@@ -3,23 +3,23 @@ category: news
 title: "Big Tech leads the AI race – but watch out for these six challenger companies"
 excerpt: "Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),"
 publishedDateTime: 2021-11-09T01:15:00Z
-originalUrl: "https://www.railway-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
-webUrl: "https://www.railway-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
+originalUrl: "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
+webUrl: "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Railway Technology
-  domain: railway-technology.com
+  name: Verdict Retail
+  domain: retail-insight-network.com
 
 topics:
-  - AI Hardware
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/11/leaders.jpg"
+  - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/leaders.jpg"
     width: 1400
     height: 934
     isCached: true
@@ -53,6 +53,6 @@ related:
         height: 229
         isCached: true
 
-secured: "+apZGp35tBjY7FHKdnT/1PGYFspEEv3cVXRPMCpKL98dQzBlZ5LUSoc5r1Mbdpt3E1QafVaVmZHlOFJT+e/Y51p2wPHGHL8ZAHicjtREvPyzZae8bsevW6G0Yh8R30AkBmNm2MImdgetO9ZybHZ9Gz1/hYojAwmz0QT78rLzC4BF3wISUziOVOSbg8oHZx4Odx1oJQgPHTg5xM5uEa+/VMK5KVZGR+zOErbdrxPXSghhbQDYgFNuvzV7UggYKBRktXOvjzYwGtYBIMUCGSX5gfmXKlajzAMtIe8n2rLj6Dj0G7GbhO+t8+TWsZKV+eNE5wWycjvmub5sJ6RWrZTeVdeLf9XdyPX2QetbadHoiOA=;E8CaclRC46JU998Q85qvNg=="
+secured: "ZUWfhVkVNdCXwyQv1WsEr20zCVk8WJSMV5/vfFNfPJzCp5iu/rrMhnvxxinnmKt3jooN96EsDqTugcdGB681hiBVx8tHikJcH9GOzsGviqWqdXUh9MK6LBMJ9nv7JR1R9YAF8+R8I1nPFXmqYVB3cvXrUCIe9CAHo5vTbCFhxoMCWXaIi9Ua2uUt1gbpZqQr2KOLQ3HQe5Vv8xt0KO2ggvt4rh4FGJePgHgmczL4TGYGC8AWP5ZvwoHhaD2tJIMUW1c4gxAs5QjtyqFsoouWBiwO71MeIJq5x8vRdOfk6bniAcp6wn1VOJbw4sgWoYURjKXlH0M+RYLj8ZW8L3iumticF28jFy/5kpUkst5A3eE=;LfXUOzGk/koLdxX3kzQuJQ=="
 ---
 

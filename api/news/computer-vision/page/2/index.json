@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-22-computer-vision-in-artificial-intelligence-ai-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-regions-to.md",
+      "title": "Computer Vision in Artificial Intelligence (AI) Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Regions to 2026",
+      "excerpt": "Computer Vision in Artificial Intelligence (AI) Market” covering both global and regional markets. It aims to give",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-regions-to-2026-2021-10-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-regions-to-2026-2021-10-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-22T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-167m.md",
       "title": "Deep North, which uses AI to track people from camera footage, raises $16.7M",
       "excerpt": "Deep North, a startup developing technology to monitor the behaviors of people captured on camera, has raised $16.7 million.",
@@ -1346,50 +1398,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-uae-digital-first-bank-mashreq-neo-debuts-facial-recognition.md",
-      "title": "UAE Digital-First Bank Mashreq NEO Debuts Facial Recognition",
-      "excerpt": "Digital bank Mashreq NEO, based in the United Arab Emirates, is letting residents open bank accounts with facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/",
-      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/UAE-facial-recognition-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/",
-      "publishedDateTime": "2021-10-12T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -44,14 +44,14 @@ related:
   - title: "Big Tech leads the AI race – but watch out for these six challenger companies"
     excerpt: "Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),"
     publishedDateTime: 2021-11-09T01:15:00Z
-    webUrl: "https://www.railway-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
+    webUrl: "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
     type: article
     provider:
-      name: Railway Technology
-      domain: railway-technology.com
+      name: Verdict Retail
+      domain: retail-insight-network.com
     quality: 36
     images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/11/leaders.jpg"
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/leaders.jpg"
         width: 1400
         height: 934
         isCached: true

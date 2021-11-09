@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=559531"
 webUrl: "https://us.acrofan.com/detail.php?number=559531"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Orica selects Microsoft Azure as strategic cloud platform"
-    excerpt: "For 140-plus years Orica has carved a reputation as one of the world’s leading blasting companies, supporting mining customers in more than 100 countries. Explosives are still its stock-in-trade – but the company is rapidly expanding its digital capability – creating data rich and artificial intelligence (AI)-infused tools that enable step-change improvements in customers’ productivity,"
-    publishedDateTime: 2021-11-04T12:00:00Z
-    webUrl: "https://www.globalminingreview.com/technology-digitalisation/04112021/orica-selects-microsoft-azure-as-strategic-cloud-platform/"
-    ampWebUrl: "https://www.globalminingreview.com/technology-digitalisation/04112021/orica-selects-microsoft-azure-as-strategic-cloud-platform/amp/"
-    cdnAmpWebUrl: "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/technology-digitalisation/04112021/orica-selects-microsoft-azure-as-strategic-cloud-platform/amp/"
-    type: article
-    provider:
-      name: Global Mining Review
-      domain: globalminingreview.com
-    quality: 74
-    images:
-      - url: "https://d19qcjcztr69p4.cloudfront.net/media/articles/pop/cloud-technology-01.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "Welbilt to Upgrade Cloud Solution through HCL Technologies and Microsoft Azure"
     excerpt: "Microsoft Azure Sphere to upgrade security in its KitchenConnect internet-connected equipment and will host the solution on Microsoft Azure through a new partnership with HCL Technologies.  Welbilt KitchenConnect is an award-winning open cloud solution that offers a digital platform for internet connected equipment in the foodservice industry."
     publishedDateTime: 2021-11-04T15:13:00Z
@@ -54,20 +38,6 @@ related:
       - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-11/webilt.jpg?itok=OXKQZf58"
         width: 765
         height: 446
-        isCached: true
-  - title: "Women in Cloud, Microsoft, Coursera and IAMCP Partner to Provide Azure Training and Certification Scholarships to Women in India"
-    excerpt: "PressRelease) Launches #empowHERfamily initiative to create a digital skilling ecosystem to skill Women in India for in-demand Cloud Jobs."
-    publishedDateTime: 2021-11-08T01:57:00Z
-    webUrl: "https://www.yumpu.com/en/document/view/65944657/women-in-cloud-microsoft-coursera-and-iamcp-partner-to-provide-azure-training-and-certification-scholarships-to-women-in-india"
-    type: article
-    provider:
-      name: Yumpu
-      domain: yumpu.com
-    quality: 40
-    images:
-      - url: "https://documents.yumpu.com/000/065/944/657/7432e1489af3cf982a100b61fece9c381ade7b6c/5777457477666c507a435a464a676d344a542f4f2f413d3d/536f59346b3144344e464475394c68517049574261413d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1636347600&Signature=cSDZWz96pIMYa9yOEb6s57higQQ%3D"
-        width: 452
-        height: 640
         isCached: true
 
 secured: "IH4G6UeLxGJroI3QecTOVoqx4sefgaGR9qfb8M9Ww+VcFWraFjtC8a+c6X2f5y+N0f726ZVaLOTQ89gD/f6JG+Ezh3mKrjkdLChSVoiNkV1DZZSnVq/HAxL2UfIbp8Bw0EQ5Gpt+SKgNJQUTFn68a6iHJDepZaI7P4BWPyb4odc6qFebJlrhynzIhYE0LX2SgbRJxxFZGYim733VbPnyJzF8j8qrXCopb5ZiGJxvsB7vybcIuB7KQDWP72L5FVosL0rLLBKW9vcv104FUTfoK2TJUXJ1ntB2tbDd1qPhVjk6XZp2p7FinEVVnobB5MINTb7OKmJCW2wa1avGPa5+aQ416vdeX/pLZU6r2jq7zmA=;82UcV7zSWAfV/U+YMSai6A=="

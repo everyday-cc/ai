@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-bo
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-boost-ai-research-funds-start-bank-partnerships"
 type: article
 quality: 84
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://www.brudirect.com/images/news/XINHUA.jpg"
         width: 700
         height: 402
+        isCached: true
+  - title: "Singapore launches national programme to deepen AI capabilities in financial services"
+    excerpt: "Singapore's Deputy Prime Minister Heng Swee Keat announced the launch of the National Artificial Intelligence (AI) Programme in Finance at the Singapore FinTech Festival (SFF) and Singapore Week of Innovation and Technology (SWITCH) 2021."
+    publishedDateTime: 2021-11-09T03:18:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/11/09/singapore-launches-national-programme-to-deepen-ai-capabilities-in-financial-services"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 32
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/09/1361356.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Singapore Sets Aside An Additional S$180m For AI Research, Two New AI Programmes Announced"
     excerpt: "Heng announced that the S$180 million would be set aside to accelerate fundamental and translational AI research."

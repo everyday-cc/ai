@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Meta says it's getting rid of facial recognition on Facebook - but that won't apply to the metaverse"
-    excerpt: "Facebook is scrapping facial recognition but a Meta spokesperson told Recode the technology 'has the potential to enable positive use cases.'"
-    publishedDateTime: 2021-11-04T11:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/facebook-metaverse-meta-facial-recognition-zuckerberg-2021-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://images2.markets.businessinsider.com/617be03446a50c0018d42a2c?format=jpeg"
-        width: 704
-        height: 526
-        isCached: true
   - title: "Facebook to shut down face-recognition system, delete data"
     excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
     publishedDateTime: 2021-11-05T22:20:00Z

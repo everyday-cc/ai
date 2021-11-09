@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The $11 Trillion Healthcare Industry Is About To Change Forever"
-    excerpt: "The $11-trillion healthcare industry is going fully digital, disrupting industry giants & government monopolies, and finally giving the power back to the people. That means no more googling of symptoms for a panic-driven"
-    publishedDateTime: 2021-11-04T11:55:00Z
-    webUrl: "https://www.baystreet.ca/stockstowatch/11610/The-11-Trillion-Healthcare-Industry-Is-About-To-Change-Forever"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 39
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/1b.jpg"
-        width: 845
-        height: 396
-        isCached: true
   - title: "How robots could help solve the US recycling problem"
     excerpt: "New technology made to streamline the process may help the U.S. make strides in eliminating the amount of plastic that ends up in landfills."
     publishedDateTime: 2021-11-04T23:00:00Z
