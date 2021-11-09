@@ -812,24 +812,33 @@
     {
       "path": "_news/2021-10-28-abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service.md",
       "title": "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service",
-      "excerpt": "Abacus.AI, the world's first end-to-end AI platform, announces Series C led by Tiger Global with participation from Coatue, Index Ventures, and Alkeon and releases support for several Computer Vision",
+      "excerpt": "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,",
       "sourceUrl": null,
-      "webUrl": "https://www.wsaw.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/",
-      "originalUrl": "https://www.wsaw.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T10:24:00-07:00",
+      "publishedDateTime": "2021-10-27T10:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WSAW",
-        "domain": "wsaw.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

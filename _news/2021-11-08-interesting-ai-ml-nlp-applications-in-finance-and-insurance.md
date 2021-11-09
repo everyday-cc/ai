@@ -41,6 +41,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Application of artificial intelligence and machine learning for HIV prevention interventions"
+    excerpt: "In 2019, the US Government announced its goal to end the HIV epidemic within 10 years, mirroring the initiatives set forth by UNAIDS. Public health prevention interventions are a crucial part of this ambitious goal."
+    publishedDateTime: 2021-11-08T23:57:00Z
+    webUrl: "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(21)00247-2/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 25
   - title: "5 FinTech companies disrupting the financial sector in Boston"
     excerpt: "FinTech is the cross-culmination of traditional methods often associated with accounting, banking, finance industries, and of innovative tech"
     publishedDateTime: 2021-11-08T12:37:00Z
@@ -55,15 +64,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Application of artificial intelligence and machine learning for HIV prevention interventions"
-    excerpt: "In 2019, the US Government announced its goal to end the HIV epidemic within 10 years, mirroring the initiatives set forth by UNAIDS. Public health prevention interventions are a crucial part of this ambitious goal."
-    publishedDateTime: 2021-11-08T23:57:00Z
-    webUrl: "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(21)00247-2/fulltext"
-    type: article
-    provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 23
 
 secured: "onDz+l34il2SZ43nC8Lpip90QwPEJuwZpAcFlv6tMoBFA7aKC+2AURWolVQMhdXriH+vaX9Gk+MhUFGldncMF0rB3kdiumEvIdtV9+sJ+ui0oJoSq2RFuga0Y5MnZQ18u6ibq9tL0udjOwgBIIQEN9sxLBW7VkGnk8HzsfGMrLmXl+mVC+yA2VWkBD/2ts/mF4Bwzwz99xWxc7WYcDOSduA4vxtBtEP23wyuNoi/LS1MHT5PquGfMyNWgN/uRR0dHYJDyCiePzI1u/HkN4/ggoLqr45g8ArJv6zfL9yNQFrPgxmQmtJxFL6YVn7Vfimj3L6YFELBDaZjNPurIdmpOzd9A/Z4mSrtrVAKL136XMA=;4XJxFb2fYq7RCwUMXZKs7Q=="
 ---

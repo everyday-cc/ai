@@ -2,6 +2,84 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-15-deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation.md",
+      "title": "Deep Learning Market – Major Technology Giants in Buzz Again | General Vision Inc., Microsoft Corporation, Intel Corporation",
+      "excerpt": "A new research study from JCMR with title Global Deep Learning Market Research Report 2021 provides an in-depth assessment of the Deep Learning including key market trends, upcoming technologies, industry drivers,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation/",
+      "originalUrl": "https://manometcurrent.com/deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies.md",
+      "title": "Skit launches on Microsoft Azure Marketplace to accelerate innovations and target over 140 global geographies",
+      "excerpt": "Leading Voice AI Company, Skit today has announced that its solution has launched on Microsoft Azure Marketplace, to unlock its growth capabilities. The availability will help Skit accelerate innovations and scale operations,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
+      "originalUrl": "https://indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
+      "publishedDateTime": "2021-09-14T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-mendix-low-code-paas-adds-industry-clouds-for-key-business-sectors.md",
       "title": "Mendix low-code PaaS adds Industry Clouds for key business sectors",
       "excerpt": "At its Mendix World event, the low-code vendor announced ways for ISVs and partners to sell on its marketplace, as well as new AI, automation and Data Hub capabilities.",

@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-05-google-parent-alphabet-has-set-up-a-new-lab-that-will-use-ai-to-try-to-discover-new-drugs.md",
+      "title": "Google-parent Alphabet has set up a new lab that will use A.I. to try to discover new drugs",
+      "excerpt": "The company will build on research carried out by London artificial intelligence lab DeepMind, which Google acquired in 2014. Demis Hassabis, the CEO and co-founder of DeepMind, is the founder and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html",
+      "originalUrl": "https://www.cnbc.com/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106971248-1636102203025-gettyimages-1155768576-AFP_1IS4CD.jpeg?v=1636102259",
+          "width": 4488,
+          "height": 2992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html",
+      "publishedDateTime": "2021-11-05T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-how-fintech-lending-trends-benefit-small-businesses.md",
+      "title": "How Fintech Lending Trends Benefit Small Businesses",
+      "excerpt": "Disrupting the closed-club of legacy financial institutions and bringing alternative, tech-focused options into the mainstream is creating a new sector and also enabling more entrepreneurs to build and scale their businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efb5527222b100007dd1410%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/",
+      "publishedDateTime": "2021-11-05T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-how-even-nontechnical-founders-can-launch-their-startup-fast-with-aws-vb.md",
       "title": "How even nontechnical founders can launch their startup fast, with AWS (VB)",
       "excerpt": "Join a panel of pros in this VB Live event for tips, best practices, and more for getting your minimum viable product to market fast.",
@@ -646,7 +750,7 @@
       "originalUrl": "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1137,101 +1241,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-an-ethical-ai-trained-on-human-morals-has-turned-racist.md",
-      "title": "An ‘ethical’ AI trained on human morals has turned racist",
-      "excerpt": "It’s wrong, according to AI. Explaining Delphi’s goal, its creators wrote online: “Extreme-scale neural networks learned from raw internet data are ever more powerful than we anticipated, yet fail to learn human values, norms, and ethics. Our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi",
-      "originalUrl": "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dazedimg-dazedgroup.netdna-ssl.com/1200/0-0-1345-897/azure/dazed-prod/1310/6/1316177.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi?amp=1",
-      "cdnAmpWebUrl": "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi?amp=1",
-      "publishedDateTime": "2021-11-04T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dazed",
-        "domain": "dazeddigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-better-ai-stock-nvidia-or-palantir.md",
-      "title": "Better AI Stock: Nvidia or Palantir",
-      "excerpt": "Nvidia (NASDAQ:NVDA) and Palantir operate in different sectors, but both tech companies are profiting from the secular expansion of the artificial intelligence (AI) market. Nvidia",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "originalUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F649882%2Fgettyimages-664246660.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "publishedDateTime": "2021-11-04T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

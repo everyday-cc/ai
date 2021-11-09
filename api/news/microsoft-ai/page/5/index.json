@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-27-engineering-local-recommendations-leveraging-heinekens-global-scale.md",
+      "title": "Engineering local recommendations leveraging HEINEKEN's global scale",
+      "excerpt": "The HEINEKEN Company is innovating its 157 years old business with data and analytics. Recommendation systems increasingly support our business processes by filtering information for insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/engineering-local-recommendations-leveraging-global-van-der-goes",
+      "originalUrl": "https://www.linkedin.com/pulse/engineering-local-recommendations-leveraging-global-van-der-goes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGMyYVesu3FuQ/article-cover_image-shrink_600_2000/0/1632724880412?e=1639008000&v=beta&t=946KCQQXJKo69bwczeC5H4hei93-oj4imvn9zWmqoZ0",
+          "width": 1664,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-26-become-a-microsoft-azure-expert-with-this-60-bundle.md",
+      "title": "Become a Microsoft Azure expert with this $60 bundle",
+      "excerpt": "Meanwhile, Microsoft Azure powers thousands of cloud platforms ... Instead of being tied to a particular work machine, we will be able to access data and run powerful software from a virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bleepingcomputer.com/offer/deals/become-a-microsoft-azure-expert-with-this-60-bundle/",
+      "originalUrl": "https://www.bleepingcomputer.com/offer/deals/become-a-microsoft-azure-expert-with-this-60-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bleepingcomputer.com/offer/deals/become-a-microsoft-azure-expert-with-this-60-bundle/amp/",
+      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/become-a-microsoft-azure-expert-with-this-60-bundle/amp/",
+      "publishedDateTime": "2021-09-26T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bleeping Computer",
+        "domain": "bleepingcomputer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business.md",
       "title": "Microsoft cloud storage: is OneDrive or Azure right for your business?",
       "excerpt": "Microsoft is one of the best cloud storage providers, and offers some of the best cloud storage for business too. But before you can dive into Microsoft cloud storage, you have to choose between two different products: OneDrive and Azure.",
@@ -1226,84 +1321,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation.md",
-      "title": "Deep Learning Market – Major Technology Giants in Buzz Again | General Vision Inc., Microsoft Corporation, Intel Corporation",
-      "excerpt": "A new research study from JCMR with title Global Deep Learning Market Research Report 2021 provides an in-depth assessment of the Deep Learning including key market trends, upcoming technologies, industry drivers,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies.md",
-      "title": "Skit launches on Microsoft Azure Marketplace to accelerate innovations and target over 140 global geographies",
-      "excerpt": "Leading Voice AI Company, Skit today has announced that its solution has launched on Microsoft Azure Marketplace, to unlock its growth capabilities. The availability will help Skit accelerate innovations and scale operations,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
-      "originalUrl": "https://indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
-      "publishedDateTime": "2021-09-14T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

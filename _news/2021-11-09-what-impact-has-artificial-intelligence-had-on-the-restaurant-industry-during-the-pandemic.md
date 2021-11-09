@@ -38,6 +38,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Application of artificial intelligence and machine learning for HIV prevention interventions"
+    excerpt: "In 2019, the US Government announced its goal to end the HIV epidemic within 10 years, mirroring the initiatives set forth by UNAIDS. Public health prevention interventions are a crucial part of this ambitious goal."
+    publishedDateTime: 2021-11-08T23:57:00Z
+    webUrl: "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(21)00247-2/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 25
   - title: "5 FinTech companies disrupting the financial sector in Boston"
     excerpt: "FinTech is the cross-culmination of traditional methods often associated with accounting, banking, finance industries, and of innovative tech"
     publishedDateTime: 2021-11-08T12:37:00Z
@@ -52,16 +61,7 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Application of artificial intelligence and machine learning for HIV prevention interventions"
-    excerpt: "In 2019, the US Government announced its goal to end the HIV epidemic within 10 years, mirroring the initiatives set forth by UNAIDS. Public health prevention interventions are a crucial part of this ambitious goal."
-    publishedDateTime: 2021-11-08T23:57:00Z
-    webUrl: "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(21)00247-2/fulltext"
-    type: article
-    provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 23
 
-secured: "cBdypBy2ubWlu1er6o0qcLf6h0xt0Bw/UN4caWWDiHGNwhKKGNNTo0NApuOWCpBuF3rhWT3H+24ib/L1mQIBOFLw4HVijSNLiVef47LhBqKTM1v5BJcEX0jNmK2gaKY8xcnw+FmcGLfq07sevOC3SkQ6clBCvMqKq8Erf3DeBKimaoXeh2iqIiaVzJc9GBmFuqpUl/2rW6Nx4TkAFqKcnEwYVGy2Jfl6xxiGRHugQkhm/C34QfHj2YWMz5UgmtBnX3Wy2+8TzyW0svDihUEoOY/gOvJ/dHauL9yxvsRdbwIG6PQ4hWfFbXCSSGFN5NkE2bYPXlQkZ0FaUw3dtxewWySXHmwUUstrRxCej3tRAuU=;q77M5uQc8m/p13nm6Xtb4A=="
+secured: "+1UtvSVLXZaFBQbZYbaDMTmv2rd+8znZT8/p+nbp6KRsz75yRVfR2/glguozIPUjRVsNrjdEt1S2Dx4LlSUiXsLAj0zyQRa7y6RQ3j/PWLq4uhr9ubJN0qWqHWihB70IoIC56nvpNiiDy6qVwR1uH2EsemPpmoRboZh3YoILrvuwUO8TrzYdR1oCnyOP4u+0q09q2pbszrS26QB/wdqLGdbalmzsY4rhzDU9u2+TLcj1teQNpQKGxTlIaSBCL2yRML8GRBUm5X4g4+BGF8TWvQecYUI+cL8qSOFpmlXf51E8pjc40nRbNYl5CG9LsRyfCjE+hYrCvdzvPJ2Pidd7sdMJXJ8Ex2nh3DuznAgAfuZzg84VZX243v5FCWGzvGHb1XLWP228wWQ8w0IP+dbNtqbRc447Du1SY+bH6YPh9hEGEbihmO5d3XibyX22hsXIXwSJhAYzbTj4KUA6WgO7OuhqKAUVAewPuWkra2A0d6JpZQI3mvkCiOABe53+L5IGIQuQ8O/WaaCsUNcUcmZn3w==;NYqlceEUaKbvppsWoIpeiw=="
 ---
 

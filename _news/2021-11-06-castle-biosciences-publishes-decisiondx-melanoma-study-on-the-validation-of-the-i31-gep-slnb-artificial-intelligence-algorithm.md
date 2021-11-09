@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Castle Biosciences Publishes DecisionDx®-Melanoma Study on the Validation of the i31-GEP SLNB Artificial Intelligence Algorithm"
-excerpt: "Castle Biosciences, Inc. (Nasdaq: CSTL), a company applying innovative diagnostics to inform disease management and improve patient outcomes, today announced the publication of a study validating performance of a novel algorithm designed to integrate the DecisionDx ® -Melanoma gene expression profile (GEP) test with clinicopathologic features (i31-GEP SLNB) to determine sentinel lymph node biopsy (SLNB) positivity risk in patients with cutaneous melanoma."
-publishedDateTime: 2021-11-05T21:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-science-technology-business-melanoma-b54532c71d214233b100c84c9001449d"
-webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-science-technology-business-melanoma-b54532c71d214233b100c84c9001449d"
+excerpt: "Castle announced the publication of a study validating performance of the i31-SLNB algorithm to determine sentinel lymph node biopsy positivity risk."
+publishedDateTime: 2021-11-06T01:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm"
+webUrl: "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm"
 type: article
-quality: 11
-heat: 11
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "hH32UYO5K51Q6JgeLG3C2c9kHItMmAnU1BizTuRFPMixa7+ZhGwpPFtksbSGaVegFepCtZj+mvRdPb9a6tqZF8FEpArOuHL1mWJJNJvHtv9c/wkpREkG5lNBm+BuMk2Jm9IBCYAZhGtUEOtktaXfjZzkM80ol9Y6P3ls22cqEu0zSwbYMm13/TwImIliw0Obl2IFfVuWDKvBsazF+FCwkAKNmUB52DDgpmR6TKFATyDdg6lAqOB7EF0p+LjpLIivxHzFpoya71hTGxFIUV0hizvRs5vqTjK5bHeg4ZEXpXuUSdbAWILkfmR39uWGEW8MVKyqkn8N647n5imsF8hxqd5zreIdBE+JXDk2NaxAQh8=;bLX+TiJCwp1OJFIcav7Yjg=="
+secured: "Tca/JRT8W701LRBeiB/MLcd9I8aH5WVkjks8N8yZ6wmWb/XQxC+kaMGinPiaqMv6+FH9118EdSXJR1Ll6qbvoAPqg3pXka1bNOmqcn389wJMudnXcOzAMUC6bq/JMHCBueXcpHX101wXNye1riNkom+5BMT8Ytfiw9w4jsKoUvcYuyeASlJWCgjdlveseb2K+4TGT9OThlfqh1ZB9UO101UYdDF+WDJIG+3BLDCGL08s68S+x/YieljrT6MJhP8bp5ck8cuBXZVAN6Ft+pnQoogyiRh1oewJm1jQi7oV8lc308HP1otnW84KjOPXNdkiAvy4JssE0MnMpp662kNSSxssw72TXpoZ3GFHq9UYpKI=;xlLLzmFxDiSVFzpRO9Wuhg=="
 ---
 

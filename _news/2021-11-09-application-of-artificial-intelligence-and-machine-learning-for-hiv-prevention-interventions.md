@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-08T23:57:00Z
 originalUrl: "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(21)00247-2/fulltext"
 webUrl: "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(21)00247-2/fulltext"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 related:
   - title: "Interesting AI, ML, NLP Applications in Finance and Insurance"

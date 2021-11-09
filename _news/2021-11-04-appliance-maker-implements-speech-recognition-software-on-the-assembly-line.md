@@ -55,20 +55,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Unite gives FCA deadline for union recognition"
-    excerpt: "The general secretary of Unite Sharon Graham has written to the Financial Conduct Authority (FCA) demanding trade union recognition for its workforce."
-    publishedDateTime: 2021-11-04T09:02:00Z
-    webUrl: "https://www.covermagazine.co.uk/news/4039744/unite-fca-deadline-union-recognition"
-    type: article
-    provider:
-      name: covermagazine.co.uk
-      domain: covermagazine.co.uk
-    quality: 24
-    images:
-      - url: "https://www.covermagazine.co.uk/api/v1/wps/a335ee4/98e043a8-6166-4a9f-bfff-263f351c76af/4/fca-building-370x229.jpeg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Toward Speech Recognition for Uncommon Spoken Languages"
     excerpt: "The new Prune, Adjust, and Re-Prune (PARP) technique allows an advanced speech-learning model learn uncommon spoken languages more easily."
     publishedDateTime: 2021-11-05T18:34:00Z

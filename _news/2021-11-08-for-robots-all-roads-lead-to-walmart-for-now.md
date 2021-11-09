@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Today in Retail: Walmart Manages Fully Driverless Deliveries; Lowe’s to Launch Room-Scanning Tool"
+    excerpt: "Walmart has achieved daily deliveries without a safety driver, and Amazon is promoting the use of its payment service on other merchants’ sites."
+    publishedDateTime: 2021-11-09T01:28:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 61
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/Lowes_Companies_Inc_Room_Measurements-457x274.jpeg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Walmart rolls out driverless trucks for deliveries of online orders"
     excerpt: "Walmart and autonomous vehicle startup Gatik have deployed fully autonomous trucks without a safety driver for a daily, seven-mile delivery route between a \"dark store\", or fulfillment center, and a Neighborhood Market retail store in Bentonville,"
     publishedDateTime: 2021-11-08T18:29:00Z

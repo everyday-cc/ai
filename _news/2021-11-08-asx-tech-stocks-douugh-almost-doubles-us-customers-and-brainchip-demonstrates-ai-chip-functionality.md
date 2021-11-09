@@ -9,7 +9,7 @@ ampWebUrl: "https://stockhead.com.au/tech/asx-tech-stocks-douugh-almost-doubles-
 cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/asx-tech-stocks-douugh-almost-doubles-us-customers-and-brainchip-demonstrates-ai-chip-functionality/?amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -37,8 +37,22 @@ related:
     provider:
       name: WTOP News
       domain: wtop.com
-    quality: 58
+    quality: 62
+  - title: "Big Tech leads the AI race – but watch out for these six challenger companies"
+    excerpt: "Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),"
+    publishedDateTime: 2021-11-09T01:15:00Z
+    webUrl: "https://www.railway-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 36
+    images:
+      - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/11/leaders.jpg"
+        width: 1400
+        height: 934
+        isCached: true
 
-secured: "o/CvYQ/Imyu16jw/v21dgLqEfZ9sv9KMAXpAuPpVI4MW9FfTxdabkWn1kaJEinyr1Rbg0LnM7vVixWlKfNYi5lADhv1Np454IOE/IE1Pu6t5Mt73tjUvuLEmNASNgApj8uKkJkGriXAKd9Tu5F9DbiGUNXBkHYUtY7lNMPNrDyCyI3ChdBAfiarbWHcK3CJCGeI9gbxhIqjORZq2GPypzpHhxhwszDrjn25bTqGxlT9iRCldfvLBThbxw/S8YKtz9+g16bqX2mP7Y+X3CxG/Qqvo7zh1jfwp0A8IcJPWZES1M2R47tIHA7VHM/UOZL66sOE+FL/D79bVZ5qxWNMNqbaoL8bUjMa8S9RggT757s0=;vrrP9d/Y8IbaSxqrUw3Zsg=="
+secured: "ua11eJo4q/FFBBDEAiR76GscCcrxXCdj8gqmLmYETwpvK6bCxMww23WRXwgJywTHdsLJpNzzAqLhOynGqXgmjvkM7Magp/ZaIoIc5a7LDc2XfL2j1jjfga49MKjxhtYYEv0/lgFy0kJelGYJIdKv4xrTl3s8ONZNNb6oCKks1+u59AKwpQMSwp2fgEq6xRXuTnAlmOhCkyLPB5UDQyVNLXqe0eZGWZg8/OtA2rus5BiKiFfhvvvj8gds/RMCqRMPJUkdI0IndjFnDJV8rROXEBsS+9BTvB8DE0FQxJC5sY5EcANL24MvD+pq245ZT+JAJqjNPqbf9g/aRywk3YShw4hdjCWfUwWa8ktvIR0B5mxOykyowWfdCRICQ4eZfnnUFAvCmjj4z7FfMcbyqH0/Qkjwdo+Suo8EbDkwdcTqe+PL1Jh6qB5Ff67YSNWidTau/ydd6XxzemifaZtluoGm1hYs+ZbyY1v04cr7Nj8oA4tCYknWGjAdm4hXv1AFUqcRKv/MveHIRQI+QjBzPgHT7g==;gkb0fLP4EoNBkCoKZim2BA=="
 ---
 

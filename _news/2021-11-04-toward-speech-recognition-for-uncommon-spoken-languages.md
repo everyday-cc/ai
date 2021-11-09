@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spok
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.assemblymag.com/ext/resources/Issues/2021/November/AiA/asb1121AIA1.jpg?height=635&t=1635962341&width=1200"
         width: 900
         height: 550
-        isCached: true
-  - title: "Unite gives FCA deadline for union recognition"
-    excerpt: "The general secretary of Unite Sharon Graham has written to the Financial Conduct Authority (FCA) demanding trade union recognition for its workforce."
-    publishedDateTime: 2021-11-04T09:02:00Z
-    webUrl: "https://www.covermagazine.co.uk/news/4039744/unite-fca-deadline-union-recognition"
-    type: article
-    provider:
-      name: covermagazine.co.uk
-      domain: covermagazine.co.uk
-    quality: 24
-    images:
-      - url: "https://www.covermagazine.co.uk/api/v1/wps/a335ee4/98e043a8-6166-4a9f-bfff-263f351c76af/4/fca-building-370x229.jpeg"
-        width: 370
-        height: 229
         isCached: true
   - title: "Toward Speech Recognition for Uncommon Spoken Languages"
     excerpt: "The new Prune, Adjust, and Re-Prune (PARP) technique allows an advanced speech-learning model learn uncommon spoken languages more easily."
