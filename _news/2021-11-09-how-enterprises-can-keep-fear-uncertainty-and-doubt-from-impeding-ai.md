@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-unc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Unis are using AI to keep students from cheating and it’s a bit creepy"
+    excerpt: "Some programs simply enable a person to supervise students remotely. More sophisticated, automated proctoring software hijacks the student’s computer to block and monitor suspicious activity. These programs often use artificial intelligence (AI) to scrutinise exam conduct."
+    publishedDateTime: 2021-11-10T16:37:00Z
+    webUrl: "https://thenextweb.com/news/unis-ai-keep-students-from-cheating-creepy-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-3.jpg&signature=487768bc4975bf0afe78f27dfbc5d074"
+        width: 796
+        height: 398
+        isCached: true
   - title: "Explore the top ten enterprise AI platforms for better intelligent enterprises"
     excerpt: "This article features the top ten enterprise AI platforms available in 2021 with the integration of artificial intelligence (AI). Click here to know about multiple AI platforms with enterprise AI."
     publishedDateTime: 2021-11-09T12:47:00Z

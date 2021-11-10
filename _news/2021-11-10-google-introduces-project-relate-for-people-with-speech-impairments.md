@@ -57,6 +57,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Google's Project Relate Aims to Help People With Atypical Speech Communicate"
+    excerpt: "Google's newest assistive technology, Project Relate, looks to help people with atypical speech communicate with the people and technology around them."
+    publishedDateTime: 2021-11-10T16:37:00Z
+    webUrl: "https://au.pcmag.com/news/90690/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 66
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/g/googles-pr/googles-project-relate-aims-to-help-people-with-atypical-spe_1a6r.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google’s Project Relate aims to help people with speech impairments communicate more easily"
     excerpt: "Google LLC is asking for help in developing and testing a new app that it says will be able to help people with speech impairments communicate with others more easily. The app is called Project Relate,"
     publishedDateTime: 2021-11-10T00:39:00Z

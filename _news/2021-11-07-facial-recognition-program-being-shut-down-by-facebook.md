@@ -41,6 +41,22 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Facebook will drop its facial recognition system – but here’s why we should be sceptical"
+    excerpt: "Facebook has announced that it will stop using its facial recognition system – the artificial intelligence software which recognises people in photos and videos and generates suggestions about who to “tag” in them."
+    publishedDateTime: 2021-11-10T11:22:00Z
+    webUrl: "https://theconversation.com/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+    ampWebUrl: "https://theconversation.com/amp/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 52
+    images:
+      - url: "https://images.theconversation.com/files/430501/original/file-20211105-10492-raehl0.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=214&fit=crop"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Facebook to shut down facial recognition system over privacy concerns"
     excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
     publishedDateTime: 2021-11-06T11:44:00Z
@@ -68,20 +84,6 @@ related:
       - url: "https://ktvz.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Facebook will drop its facial recognition system but here's why we should be sceptical"
-    excerpt: "Facebook has announced that it will stop using its facial recognition system – the artificial intelligence software which recognises people in photo"
-    publishedDateTime: 2021-11-10T11:44:00Z
-    webUrl: "https://menafn.com/1103141333/Facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 33
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/10/TC_700fdimage_story.jpg"
-        width: 1250
-        height: 834
         isCached: true
   - title: "Facebook Ends Recognition Software"
     excerpt: "Facebook plans to shut down its decade-old facial recognition system, deleting the face scan data of more than one billion users."

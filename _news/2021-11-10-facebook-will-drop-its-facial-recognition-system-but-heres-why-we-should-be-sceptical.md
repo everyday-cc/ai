@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Facebook will drop its facial recognition system but here's why we should be sceptical"
-excerpt: "Facebook has announced that it will stop using its facial recognition system – the artificial intelligence software which recognises people in photo"
-publishedDateTime: 2021-11-10T11:44:00Z
-originalUrl: "https://menafn.com/1103141333/Facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical"
-webUrl: "https://menafn.com/1103141333/Facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical"
+title: "Facebook will drop its facial recognition system – but here’s why we should be sceptical"
+excerpt: "Facebook has announced that it will stop using its facial recognition system – the artificial intelligence software which recognises people in photos and videos and generates suggestions about who to “tag” in them."
+publishedDateTime: 2021-11-10T11:22:00Z
+originalUrl: "https://theconversation.com/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+webUrl: "https://theconversation.com/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+ampWebUrl: "https://theconversation.com/amp/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
 type: article
-quality: 33
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Facebook AI
@@ -20,9 +22,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-11/10/TC_700fdimage_story.jpg"
-    width: 1250
-    height: 834
+  - url: "https://images.theconversation.com/files/430501/original/file-20211105-10492-raehl0.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=214&fit=crop"
+    width: 320
+    height: 214
     isCached: true
 
 related:
@@ -99,6 +101,6 @@ related:
         height: 900
         isCached: true
 
-secured: "Q1gsoxtsoN6xep7zyDOne8a9c0dqby7KAJy6XE9MTg4CQgHliolU+ocvtrLXQfE/ox2waaJPjRLiEQn30tdU8iYExDaA7HkXcfsmTOoCPb56okZtmGgGgl1G2oFz2lFiHAHVpbsFsQfeVuwBWdESxSd14OKs3ObwSOufnowInTYw6T5jhbhDd1L9xAdhyaIM9eKl0kDOe4IPEgKriZ37T2zjw3Y89CAJbOATaqVz4lwqf5KICBqtbHz52nPufH7vFfL3XZxj1HmGiHcv2ql3g0f3Tlo43aYngf4YzAfn3tWq1rgHsDgdJtMS+bV19lpoFfj6TWrIrySExipyB3Smg4s+aYTYg5kizH1UyKK3tyE=;KtrLm6m6d7FyySW1eL+4Ww=="
+secured: "5yoNZbPkFq9o7sMWrnpy95PxgGbB4Mr0iZnE8z39dkfHKCgoocHxm3V78xMVQUqrxqNHeQfXCo/9R0zB0oAQ9ByJCIx48utExC8gajDexUUjpAtgT+LXPGP9SUu1vik5KMmR2v53U32l9RZk7gaxdPN4amVIT4vJJc89km4FmmIOE2UO5Lp3tFg48/Jl3k4NZFYXtl+G6EWvSHhNsX2aZydJSNlm4UvqMqG7wpzOHQ2MNpEFS/oPYVd4Akrh/GvWcowcwuBdJ+IOGwOqfJ0qtZzNOeVRKkBO/KefwqleU+s10tf91Rn9RQfbxqNUv6nk+vywmOMMtb9kdkITwU8q4gDWEggyXToOnlrjk8CI+CI=;P10XJ+y1RrhbMJ4eRuXdhw=="
 ---
 

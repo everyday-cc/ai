@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-gia
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -166,6 +166,15 @@ related:
     provider:
       name: Engineering360 News
       domain: globalspec.com
+    quality: 19
+  - title: "Nvidia announces new platform for creating AI Avatars"
+    excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
+    publishedDateTime: 2021-11-10T16:16:00Z
+    webUrl: "https://netindia123.com/articles/showdetails.asp?id=3853979&n_date=20211110&cat=Science"
+    type: article
+    provider:
+      name: Net India 123
+      domain: netindia123.com
     quality: 19
 
 secured: "vkT03KeaZoRmKpQdwUR46uhiVNnLb6dfo0sYLJfD8/pq5Le8CEssTrwo7x3LEhCeKgLJsEdWOOGhJBUg1GHPZp5jg9NyDl25n9Xrdu8LXCMhoXXnZVF3k6t06WH5zlTr+30a2eJrHYh1+Q8xYvAfBznaZxQmP0s5CI8caLIVDOKaT9dCt4bA2CDKGzci609IQRV+xvcwobF1t2m0gl2wUdoA7iLNmEJMW32ISvVCeTaU5Is1AzAAsGBOAAfDSeNyYEXrQfwGcxSEsS5DyWKZCw1yMI/7L15f4HT117XFUw9qwiMHECXaQ3VJ5AkzoKFTw6CajQVJ67GNH6Wa2i6asYd/nszgEZra3dZ9/09wOoY=;+PFxNjGOEcXRkoo0F761cg=="

@@ -121,20 +121,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Apple’s Self-Driving Car Project Hires Former Tesla Autopilot Engineer"
-    excerpt: "Bloomberg’s Mark Gurman and Dana Hull are reporting Apple has hired a former Tesla Autopilot engineer to its “Project Titan” self-driving car project: The iPhone maker tapped Christopher “CJ” Moore for its team working on a self-driving car,"
-    publishedDateTime: 2021-11-05T23:06:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apples-self-driving-car-project-hires-former-tesla-autopilot-engineer/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 39
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/02/apple-carplay-carkey.jpg"
-        width: 798
-        height: 365
-        isCached: true
   - title: "Is the Apple Car FINALLY on the way? Apple hires former Tesla Autopilot software director to help develop a self-driving vehicle, report claims"
     excerpt: "Apple has reportedly hired former Tesla software director Christopher Moore. The Cupertino-based tech giant has been working on its long-rumoured self-driving car project since 2014."
     publishedDateTime: 2021-11-09T15:30:00Z

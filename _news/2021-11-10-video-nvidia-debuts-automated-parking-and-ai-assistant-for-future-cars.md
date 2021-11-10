@@ -162,6 +162,15 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 32
+  - title: "Nvidia announces new platform for creating AI Avatars"
+    excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
+    publishedDateTime: 2021-11-10T16:16:00Z
+    webUrl: "https://netindia123.com/articles/showdetails.asp?id=3853979&n_date=20211110&cat=Science"
+    type: article
+    provider:
+      name: Net India 123
+      domain: netindia123.com
+    quality: 19
 
 secured: "6svrcwyE3e53hJBoh3U/JGHCZpltCBDLg0oBVMJ9HtyAxLegV/QzFaJZiQ5wwTxpfa7cFNR8dLMtr3ps8N/O14Pl+zncUlHkT8rvSqvNpu2OEUpYWiqozzISv/2WH70zCebwg1cMYZ0mbosZ0nqRAAL6cyHwUmiPzzhzenMejPDxmQje3+lMC4qhjfLIaLxmuTr/gxoW5f5k6FtjlZB1CHETdovEuvQM9KUlLJmxaV51KBEBn1as5TL8Zvp/KusYF6urYZ3oNzueo3ocwVzg9SVAreiFo3HsmOkrUoHTxZc3UJMFdd0EvbQoazcpfTUO+Lq1YBHQFI4VqnK1xFpggx/GcHih3mRgHp3ZdyzoD0s=;0MNof8XpdGovBNTZWn7ZPg=="
 ---

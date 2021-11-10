@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unloc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/amp/"
 type: article
 quality: 108
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -33,22 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Governing The Future Of AI"
-    excerpt: "Where we go, AI follows—for better or for worse. These days, artificial intelligence (AI) is becoming our version of the deus ex machina, promising to swoop in and solve our most pressing business problems."
-    publishedDateTime: 2021-11-05T23:34:00Z
-    webUrl: "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2021/11/05/governing-the-future-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61724b282ff0576e24e0a2ea%2F0x0.jpg"
-        width: 1200
-        height: 897
-        isCached: true
   - title: "Taking a production-centric approach to enterprisewide AI adoption"
     excerpt: "In a model-centric approach, the path to production doesn't facilitate the infrastructure needed for wide AI adoption. This calls for a paradigm shift to a production-centric approach."
     publishedDateTime: 2021-11-08T21:13:00Z

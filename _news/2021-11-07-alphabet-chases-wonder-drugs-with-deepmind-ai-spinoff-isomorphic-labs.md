@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-w
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Singularity Hub
@@ -27,54 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet's Isomorphic Labs Says It Will Use AI to Discover New Drugs"
-    excerpt: "The company will build off of breakthroughs in protein prediction from DeepMind and inches Big Tech one step further into the healthcare industry."
-    publishedDateTime: 2021-11-05T23:20:00Z
-    webUrl: "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449"
-    ampWebUrl: "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ff798528b11ef62b1fe1def5a6099780.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Alphabet Just Launched a Company That's Using AI to Design New Drugs"
-    excerpt: "Alphabet has launched a new company called Isomorphic Labs which will use artificial intelligence (AI) to discover new pharmaceutical drugs. The venture will reportedly rely on advancements made by Alphabet’s DeepMind whose AI uses a model called AlphaFold2 to predict the shape of proteins with incredible accuracy."
-    publishedDateTime: 2021-11-06T14:13:00Z
-    webUrl: "https://interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs"
-    ampWebUrl: "https://amp.interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 59
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8xEAzGm/sizes/proteinss_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
-  - title: "Google's parent company launches AI-driven drug discovery start-up"
-    excerpt: "Google's parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"
-    publishedDateTime: 2021-11-06T04:43:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/googles-parent-company-launches-ai-driven-drug-discovery-start-up/87548968"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/googles-parent-company-launches-ai-driven-drug-discovery-start-up/87548968"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/googles-parent-company-launches-ai-driven-drug-discovery-start-up/87548968"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-87548968,imgsize-9642,width-1200,height-628,overlay-etcio/google-s-parent-company-launches-ai-driven-drug-discovery-start-up.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Decoding Alphabet’s Bet On Drug Discovery With New AI Company Isomorphic Labs"
     excerpt: "Isomorphic Labs will use technologies coming out of the DeepMind lab to accelerate the drug discovery process with an AI-first approach."
     publishedDateTime: 2021-11-06T08:30:00Z
@@ -89,15 +41,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Google’s new sister company to use AI to speed up process of discovering new drugs"
-    excerpt: "CEO Demis Hassabis promises to usher in a new era that reimagines the entire drug discovery process with an AI-first approach. Google’s new sister company to use AI to speed up process of discovering new drugs."
-    publishedDateTime: 2021-11-10T05:40:00Z
-    webUrl: "https://www.itp.net/emergent-tech/googles-new-sister-company-to-use-ai-to-speed-up-process-of-discovering-new-drugs"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 13
 
 secured: "ICkfTGZHe5cZI6WFHqWWpeH048eJfd3h0CDcNtwVuD6mM76/yZ59OwOdZHQJecSvq86JDWFmrF1uMt3FotO+Ov6Bi5/ewdfqIuYJ1pbDVbVWsjoUHtIqoZzXJCHWmLmYXh8yx8Xiv95n9Qmj8Wk1pVwEkjXr8e36+LnP3OajRowLIwpmiMdH657NddvHkWRxyuBfZAdunhB8Y2EHUoaukzLUzINxQb0lP2tYMzGDGJuQUrY1UrRX8B/X921ih9bcvDVsU0h7cvMCTQH5SJFnGWskQNNDszdDdGhvW5DxVOBkTEeA5JveDvkvisz82rf1NJSdv9cz7YzSdKLyiXAehWEJjSRz+geGfwMKYOEBxNtlOKrKS5tfLnctPIypgARF22pAdvb4HfneEJcyMC0VBfO09CQ/m6RUW6tSDN0SzOrpFl4HPA5GqJkhoSFEg/t6qd/b+ZYbnHS+RQr8KNzMeQ52iyXRcXMR0zp8Ww0KJkgN3z2PA8EUmJDbvJYVUNVX5so8Xe2aSDN6z90Q3YAAAQ==;NwY5OQ5glfssfWaZxLJwhQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/accessibility/project-relat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/project-relate/amp/"
 type: article
 quality: 109
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/google-project-relate.jpg"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Google's Project Relate Aims to Help People With Atypical Speech Communicate"
+    excerpt: "Google's newest assistive technology, Project Relate, looks to help people with atypical speech communicate with the people and technology around them."
+    publishedDateTime: 2021-11-10T16:37:00Z
+    webUrl: "https://au.pcmag.com/news/90690/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 66
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/g/googles-pr/googles-project-relate-aims-to-help-people-with-atypical-spe_1a6r.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google introduces ‘Project Relate’ for people with speech impairments"
     excerpt: "Google has recently introduced its “Project Relate” that aims at helping people having speech impairments communicate more effectively."

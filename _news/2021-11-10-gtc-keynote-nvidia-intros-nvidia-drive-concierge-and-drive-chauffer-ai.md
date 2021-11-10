@@ -81,6 +81,20 @@ related:
         width: 648
         height: 392
         isCached: true
+  - title: "Data Scientists Can Now Use RStudio With Amazon SageMaker"
+    excerpt: "Data scientists can choose between programming languages and coding interfaces to switch between RStudio and Amazon SageMaker Studio notebook."
+    publishedDateTime: 2021-11-08T06:15:00Z
+    webUrl: "https://analyticsindiamag.com/data-scientists-can-now-use-rstudio-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/AWS-RStudio-Announces-General-Availability.jpg"
+        width: 1600
+        height: 1200
+        isCached: true
   - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
     excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."
     publishedDateTime: 2021-11-09T09:30:00Z

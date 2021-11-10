@@ -7,7 +7,7 @@ originalUrl: "https://www.schroders.com/en/sg/wealth-management/insights/strateg
 webUrl: "https://www.schroders.com/en/sg/wealth-management/insights/strategy-and-economics/what-analysing-language-tells-us-about-inflation/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 945
     height: 470
     isCached: true
+
+related:
+  - title: "What analysing language tells us about inflation"
+    excerpt: "With the headline consumer price index (CPI) rate at a 13-year high in the US, it is not surprising that companies are talking more about inflation. It’s"
+    publishedDateTime: 2021-11-10T11:37:00Z
+    webUrl: "https://www.cityam.com/what-analysing-language-tells-us-about-inflation/"
+    ampWebUrl: "https://www.cityam.com/what-analysing-language-tells-us-about-inflation/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/what-analysing-language-tells-us-about-inflation/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 44
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/11/GettyImages-85393417-3.jpg"
+        width: 1024
+        height: 709
+        isCached: true
 
 secured: "0ewJFWRGQw6n1Cz6txShBDQQTHpOq9XDoQJTZVtX0NTFpHR2EldAR9mxDcynzAwx8iAE5kXS9/fOlrshPUBZL4aH1YOvA5jHzpJwGM+Q7rxRU0oX6VhMc8lkAQdJ+cMMtpfMCowuyetSpo0DMra8bCQ1kIt6grPSw/Jv0l8Ucs4lAsQb0tUz8CeBgZrEFWJxEMzMhiYaFtylOK2UvhdRa0tSojlfcDCL3WN7JLvhUVXAwNnTPL5Vm+S0LNPFGOwxkGnXKaGRViH2FsaXfir7h0OJXRWSkHVZojNQmHJR1hWf5s6/gnd5s9rUQGjGuG0/+0aC+ExEoC+orLOUmg8IMh5pU+2D9GxrxWMyc4//zrw=;0AydTJyF5P4kWBvXrLbT6Q=="
 ---

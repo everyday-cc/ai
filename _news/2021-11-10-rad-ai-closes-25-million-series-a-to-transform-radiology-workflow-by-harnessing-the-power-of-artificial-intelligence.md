@@ -2,28 +2,27 @@
 category: news
 title: "Rad AI Closes $25 Million Series A to Transform Radiology Workflow by Harnessing the Power of Artificial Intelligence"
 excerpt: "Rad AI, the fastest growing radiologist-led AI company, today announced $25 million in Series A funding. The round was led by ARTIS Ventures with participation by several existing investors, including OCV Partners,"
-publishedDateTime: 2021-11-10T14:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-berkeley-health-artificial-intelligence-ce3668e390d42e956dd2c71e594b6232"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-berkeley-health-artificial-intelligence-ce3668e390d42e956dd2c71e594b6232"
+publishedDateTime: 2021-11-10T14:06:00Z
+originalUrl: "https://www.lelezard.com/en/news-20096128.html"
+webUrl: "https://www.lelezard.com/en/news-20096128.html"
 type: article
-quality: 31
-heat: 31
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "PSIUhy6X18QMdD27XkXjXIl7i2eov6TIJnJRBabq1Tx341BqW9hBOeEf56V9NzWQIuuyCvfVAmbpcUMvvcO57fN79TTKBSt70g2pGOlk+DutCAg05L6dlOj7oSVLZQnQ4gWsc2QIBEjhnZMOFrpc29EnDkn6B08UTKxRN5TAySvDYNQgrvVyTYq1FeD/GG4jd4ykv/4hIjUdOmirSCImckZ/DaFn2YKGG0nd46mCXV/mBm9ZCEh0EIk4hps+DKOFM5fZIifPgXck/73UOFYiN9YbG5ze/PgtQkq4ZLR41dHDfrlhoSI93M5r5DXldqk25xqyFVPX47KkATwOpaKcwLbkS5KPM3ZbyosA6yek+Bw=;xPJGiAwISaBu/B4WUGY+Pw=="
+secured: "NbXClG7L1GIyJB516pZ9qTdV7+Lui8yhD8JTYmDPupQeohS8mQc75WPyeWWwacQeeXX9tbQRneyI33iZWcT4wc6ecyBgvk1R8YcKGXRfkj4mjfKX8v/iNd3NFmJyuxFUjDxuBkIAhUO/fuvjefK9k51f+rUWg1i4nNiGidDJ2NhDQTqVOQsZxLVPx1gafO91ZvaR1WexbDY+gPSQKVAX9UjcDKo1Z/jcKZkdw5e8cgB5bSoBe6A3ugQvUYfgYSUQdkdt/c8Rw3BTug9MdDULbrRWdziET8gKgnW61ldqJAYUGu7FgRrXLmtEVlLRCOCnCcc1R71gvsb6AIHuTyCi8omQcnrW1S4KPDJLVtlyrQY=;We6kQV/KaYmuZRe7Hir7Hg=="
 ---
 

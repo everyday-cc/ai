@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/amp/"
 type: article
 quality: 98
-heat: 99
+heat: 100
 published: true
 
 provider:

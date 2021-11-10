@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1068
     height: 601
     isCached: true
+
+related:
+  - title: "Neuromorphic Computing and the Future of Artificial Intelligence"
+    excerpt: "A specter is haunting Artificial Intelligence (AI)—the specter of the environmental costs of Deep Learning (DL). As Neural Networks become ubiquitous in modern AI applications, the gains the industry has seen in applying Deep Neural Networks (DNNs) to solve ever more complex problems increasingly come at a high price."
+    publishedDateTime: 2021-11-10T15:48:00Z
+    webUrl: "https://www.abiresearch.com/market-research/product/7779932-neuromorphic-computing-and-the-future-of-a/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 19
 
 secured: "4PhIwETKYbp8otAzuWGS3x7QMCD0g756SKybozb3WciC/vKeYk+T7zU34U54dha2SGsd7QzAdnEOaF92DsMPlj0afanRykb30tXuyuUOP72m6L+zKwNafss4FiioOy5AsWa84AtbGXLXYh4qNcJSKFtmUhWKrrQMLlaiU8jlhdu3zJhH6KNP6o8dvjxqcXeXqpppfVVIKQB7VQLncw9j3yov3d8SNY/H37z+oKwyO543x9QKcGFc41YdevVzRnCpQHhp/pVFueHg0nwKbix6To70Z1uw5EYteahlIojwYRbu+/uiiLkI16x2DZrr9HaqzslIN1iTN2nyWSjN3n1Z8xt5N2lF5Rl/ZiRL5NG3YEk=;cVQV+QveRn0OE6hGa2/rJw=="
 ---

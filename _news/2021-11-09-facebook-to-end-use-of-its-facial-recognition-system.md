@@ -103,22 +103,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Facebook to shut down face-recognition system, delete data"
-    excerpt: "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others."
-    publishedDateTime: 2021-11-05T22:20:00Z
-    webUrl: "https://www.chron.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 46
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/50/01/21659713/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "WNOL/8u9Mv6cDFr9VLuUcOTtUwG69pzMJ6rgpuz4TfkSRsdUaaQVNQQM4X/Y2SPKZXk+J+plI+aLakDFh27cyA+Cu5a4qnw1/RpSOyTV9n/Sibvo5CTtKZ3s3MfyMrT8fIKpDFD6u4Ogm0HeVE1fC8PRMQLHT0O4ei6jvavUtDTo0HSjPfm9uE7hVESvEbaPy057wmr6YPnsuLlhx4FE7Lczh2YdZ4mL3TOUxOfOLK56edECPFE2ddzAIOsTZp8Qqp9zVhhmDIuYwjhQyVv4SpxWcJsTmuzQF3kh5NHlIkvb2rJ+mHv6G0BcRAZNiIUXNMhI3VBvbLivEk/f397PllJk8XlIs0/UtyvWTRbPdsQ=;MYZoLhrguujlH+nNNTJdkw=="
 ---

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "AtScale Achieves Amazon Redshift Ready Designation"
-excerpt: "Achieving the Amazon Redshift Ready designation differentiates AtScale as an AWS Partner Network (APN) member with a fully supported product integrating with Amazon Redshift. AWS Service Ready Partners have demonstrated success building products integrated with AWS services,"
-publishedDateTime: 2021-11-10T14:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-atscale-achieves-amazon-redshift-ready-designation-/2021/11/10/9489127.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-atscale-achieves-amazon-redshift-ready-designation-/2021/11/10/9489127.htm"
+excerpt: "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced that it has achieved the Amazon Redshift Ready designation, part of the Amazon Web Services (AWS) Service"
+publishedDateTime: 2021-11-10T15:27:00Z
+originalUrl: "https://www.lelezard.com/en/news-20095762.html"
+webUrl: "https://www.lelezard.com/en/news-20095762.html"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "+OG8n4ZBzld/izFM5nWo4TJ4AVwKkNXs7J3ywaCqu76BJCRrXR77aMetGvu/cdmsR1k4kz/xTThQVHe7fOobV1g1vk+xuzaJrWRiRG1t6wY2i1WOsTNbw0cOCrwoL7wwP6huKnboqKZr/Xaqb6droRbHOmMVC5caZlyG5HR0ODq+DW3ubW9xY6znzjY0nJZYKX1zlmoLDtAIylj0joRK29UFN+QTAilLTIL9tGRbrCV0+CNE/wPZbPTh1GebqWZnE/t3v5h1YIZOaFLKdlI6EjwuvNcyrB9fD/MK0fj+6XKeEgRHz736jGvb2WUVoWGC3Ut+n5qO3B9I+rdlt5kaoG0K+YX3eEnNibRQs0p4F6A=;8D3E4+XbSW58J26PthjYRA=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "U9zxyH4JeXy0FcMysymYTZP4jfAzVkuP+fSPq0oAXBbffh6WUai3ZkhybJGYNna2Kvz2NSMm7SPY8xbUmtqWCpqY2nSIZTRdLkbEXPibDnMMDriYgNHt9BdoSPNi0VqutLUOeIKpwwQLOTFCtb1Q+PRHSk7Rf3bu8HZmcR2QegXMQ+7N6x/9ZQ30vNNK4+NCDQENxw3z1YhoBJ5fYVupoeXIbV8yyVLhZtmebBiTtH3E907NiLkk82mJNEielhaN+X64zS7/g21MAqgFgCjtlseskl+gCxDyBkFq5+0Z/UUPmFHdr3DXzhDxXNGgNAqaV6HjPd0e2LRCY35bnNcZhuBnq+No4u90XAW0kXF1w1s=;gD2p+1gDnQmS/22Km9R1tQ=="
 ---
 

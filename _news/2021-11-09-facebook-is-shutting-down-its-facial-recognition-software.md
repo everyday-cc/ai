@@ -41,6 +41,22 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Facebook will drop its facial recognition system – but here’s why we should be sceptical"
+    excerpt: "Facebook has announced that it will stop using its facial recognition system – the artificial intelligence software which recognises people in photos and videos and generates suggestions about who to “tag” in them."
+    publishedDateTime: 2021-11-10T11:22:00Z
+    webUrl: "https://theconversation.com/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+    ampWebUrl: "https://theconversation.com/amp/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 52
+    images:
+      - url: "https://images.theconversation.com/files/430501/original/file-20211105-10492-raehl0.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=214&fit=crop"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Facebook to shut down facial recognition system over privacy concerns"
     excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
     publishedDateTime: 2021-11-06T11:44:00Z
@@ -69,20 +85,6 @@ related:
         width: 627
         height: 418
         isCached: true
-  - title: "Facebook will drop its facial recognition system but here's why we should be sceptical"
-    excerpt: "Facebook has announced that it will stop using its facial recognition system – the artificial intelligence software which recognises people in photo"
-    publishedDateTime: 2021-11-10T11:44:00Z
-    webUrl: "https://menafn.com/1103141333/Facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 33
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/10/TC_700fdimage_story.jpg"
-        width: 1250
-        height: 834
-        isCached: true
   - title: "Facebook Ends Recognition Software"
     excerpt: "Facebook plans to shut down its decade-old facial recognition system, deleting the face scan data of more than one billion users."
     publishedDateTime: 2021-11-09T08:20:00Z
@@ -98,6 +100,6 @@ related:
         height: 900
         isCached: true
 
-secured: "VjHOtYuVzWv4WpeETmL9U9AmhC+jDfWlA0H/4uU4h49eSaIumvLs/wBU8bL86tBmol3PuuFsYqIWVttdbxCWlmC8XfUmVb7B9nG9nwgHWLpMAJihFc3JijOzwPdEoiLUSX8yMyuG2y3rbVp7Y/pCtQJdsEYHTGli6YxpcQw17CDddj2B6FtadWXqiiLjJLjvOzpJOmWFn4XwewxoZo2CZ/oEbspl5L+Tl9kh837vPHB8WW1GkuGry9L497BWRG3ydB9XhxLzipKiJyslFUmMQiZY6up4OhYtbo05P49yo07r/645HRXVlHzC0LrYHFhwhoo9b6yirO3I2MbvzUwg8zLPZ4lIwMqgepp0DBf07iE=;3q6uNfQM2DjbtbG0Oe/ZUA=="
+secured: "wrviyCfxZp7kkoDgaa/mdA/4RCfvY5xudm9zejw36eSnOQEuunDDGnHDVWl9UaV5Agi0Iyo2N3fUpcPEidvPSbpj7J0LBo0iCut5P6QM/SJudsKu/HEoD3U+z5GgeYan3buKdyd44z7rP8cvZeXblYIBKciyZ3prqPITpMxNODFpBUT6sLLAATsLO16+wiMMnx+fIacVMtAmvLl4i6rTFWYvPyUhjgIslNORhH8IAiwAlb0O3V9fdxE/RjPbhQUEXrufiprPYXsyKKlYwlfE9+s3T9dr1T/jz7Vlne7T/PgnCV+mJwsNb0Nb7V7Frx90GqRFB5MZGDDckOX9Ni3OOjzQ4wC/1I3HfzYqOJBfXhrSIzSPBHqlTuV+xxlxCt6LL7DqY7x7hXmQgBYsWbA1tudHVqqgdVn/hHzLCIe9pew53yxHEzEj/Tfi1+ZexEc+HTRcEVdX5/TknLKigWBlQQZjGJl3b+wNlYyDv/A21HPGNpKf2TErm9etHFH70yItLhVn5lr3ZPIV/HMoQN1zwg==;KJYVhO0BMp7sVRb1CGaInA=="
 ---
 

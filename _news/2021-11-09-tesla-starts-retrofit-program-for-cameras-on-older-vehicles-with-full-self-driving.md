@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/"
 type: article
 quality: 82
-heat: 212
+heat: 202
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/11/06/600x338/apple_icar_youtube_1612505634970_1612505641070_1636175785402.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Apple’s Self-Driving Car Project Hires Former Tesla Autopilot Engineer"
-    excerpt: "Bloomberg’s Mark Gurman and Dana Hull are reporting Apple has hired a former Tesla Autopilot engineer to its “Project Titan” self-driving car project: The iPhone maker tapped Christopher “CJ” Moore for its team working on a self-driving car,"
-    publishedDateTime: 2021-11-05T23:06:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apples-self-driving-car-project-hires-former-tesla-autopilot-engineer/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 39
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/02/apple-carplay-carkey.jpg"
-        width: 798
-        height: 365
         isCached: true
   - title: "Apple hires former Tesla engineer to boost self-driving car effort"
     excerpt: "Cupertino, California-based Apple has tapped Christopher Moore for its team working on a self-driving car, the report said. Apple and Tesla did not immediately respond to Reuters requests for comment."

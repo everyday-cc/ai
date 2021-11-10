@@ -39,6 +39,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Global Payments to Participate in Citi's 2021 FinTech Conference"
+    excerpt: "Global Payments Inc. , a leading worldwide provider of payment technology and software solutions, announced today that Cameron Bready, President and Chief Operating Officer, will present virtually at Citi's 2021 FinTech Conference at 12:45 p."
+    publishedDateTime: 2021-11-10T16:01:00Z
+    webUrl: "https://www.lelezard.com/en/news-20096033.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "ykPdm1ENk7FbMmtcx+Tf0rgcbaKxT1kKAlueJLVst9g8aEPt80RSjNhRppL29FVIGqaSQS4L+6/h+9Q1lcvWqrageTULGPq3FPNrMoSCDyGmbp7Zx4paqg2qD0ZTaW0E5zAuWUM+Y/Wy1YSDHkIycfTugD6iPTy+8PzK6V2Bx4VoviZ4+Y0IoYGexUOaaIRVUJaUNUonK1BpJy4/qGOlNuPHx/sHNVf+tA9xKIrBsdwj9bD4ydvjqfWzx5qQywgszOPiDvEL6cBmWtYt+UK9HHI/fgnOsO0LepvlQFGCq62E/Cku16YcO6HlJ0BhMHNoWlfRACggLK63/0v44rFSY04rZJNjNZOC57sDAB+DYKM=;hLS3A7cBBW+MV/jBsbeP/g=="
 ---
