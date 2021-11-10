@@ -2,6 +2,272 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-10-01-qlik-acquires-big-squid-for-augmented-analytics-with-no-code-automated-ml.md",
+      "title": "Qlik acquires Big Squid for augmented analytics with no-code automated ML",
+      "excerpt": "Qlik acquires Big Squid for augmented analytics with no-code automated ML Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/80112-2/",
+      "originalUrl": "https://www.dqindia.com/80112-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2017/02/RPA.jpeg",
+          "width": 540,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/80112-2/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/80112-2/amp/",
+      "publishedDateTime": "2021-10-01T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-alphasense-raises-180-mn-series-c-funding-from-viking-global-goldman-sachs-others.md",
+      "title": "AlphaSense raises $180 mn Series C funding from Viking Global, Goldman Sachs, others",
+      "excerpt": "AlphaSense, a market intelligence and search platform, on Friday said it has raised $180 million (about Rs 1,336.5 crore) in funding led by Viking Global Investors and the Growth Equity business within Goldman Sachs Asset Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/alphasense-raises-180-million-series-c-led-by-viking-global-and-goldman-sachs-joined-by-morgan-stanley-citi-bank-of-america-barclays-wells-fargo-cowen-alliancebernstein-866205418.html",
+      "originalUrl": "https://www.freepressjournal.in/business/alphasense-raises-180-mn-series-c-funding-from-viking-global-goldman-sachs-others",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
+      "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
+      "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "publishedDateTime": "2021-10-01T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report.md",
+      "title": "GCC Artificial Intelligence Market 2021-26: Industry Trends, Size, Share, Analysis and Forecast Report",
+      "excerpt": "According to IMARC Group's latest report, titled \"GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" the GCC artificial intelligence market grew at a CAGR of around 24% during 2015-2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-10-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-10-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-intel-advances-neuromorphic-with-loihi-2-new-lava-software-framework.md",
+      "title": "Intel advances neuromorphic with Loihi 2, new Lava software framework",
+      "excerpt": "Intel has introduced Loihi 2, its second-generation neuromorphic research chip, and Lava, an open-source software framework for developing neuro-inspired applications. Their introduction signals Intel's ongoing progress in advancing neuromorphic technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-neuromorphic-loihi-2-lava-software.html",
+      "originalUrl": "https://www.digitimes.com/news/a20211001PR200.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.intel.com/content/dam/www/public/us/en/newsroom/posts/galleries/2021-09-30-loihi-2/intel-loihi-2-1-16x9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-honda-sets-its-sights-on-an-evtol-telepresence-robot-and-space-tech.md",
+      "title": "Honda sets its sights on an eVTOL, telepresence robot and space tech",
+      "excerpt": "Honda has laid out new technologies it plans to pursue in the coming decades. Building on current areas of expertise, the company will look to develop an eVTOL for inter-city transport, a robot that will act as an avatar for users to perform tasks remotely,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/",
+      "originalUrl": "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/dd2dba0/2147483647/strip/true/crop/1620x1080+597+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F76%2F52fc0bd94744bc076553e9b6fa34%2Fhonda-evtol.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true",
+      "publishedDateTime": "2021-09-30T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-brief-exscientia-announces-pricing-of-3047-million-upsized-initial-public-offering-and-1600-million-concurrent-private-placements.md",
       "title": "BRIEF-Exscientia Announces Pricing Of $304.7 Million Upsized Initial Public Offering And $160.0 Million Concurrent Private Placements",
       "excerpt": "Sept 30 (Reuters) - Exscientia PLC: * EXSCIENTIA ANNOUNCES PRICING OF $304.7 ... ITS UPSIZED INITIAL PUBLIC OFFERING OF 13,850,000 ADSS REPRESENTING 13,850,000 ORDINARY SHARES AT AN IPO PRICE ...",
@@ -902,292 +1168,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-use-sec-text-for-ratings-classification-using-multimodal-ml-in-amazon-sagemaker-jumpstart.md",
-      "title": "Use SEC text for ratings classification using multimodal ML in Amazon SageMaker JumpStart",
-      "excerpt": "Starting today, we’re releasing new tools for multimodal financial analysis within Amazon SageMaker JumpStart. SageMaker JumpStart helps you quickly and easily get started with machine learning (ML) and provides a set of solutions for the most common use cases that can be trained and deployed readily",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-sec-text-for-ratings-classification-using-multimodal-ml-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-sec-text-for-ratings-classification-using-multimodal-ml-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T09:30:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-microsofts-msft-azure-platform-implemented-by-truveta.md",
-      "title": "Microsoft's (MSFT) Azure Platform Implemented by Truveta",
-      "excerpt": "Microsoft’s MSFT Azure cloud platform and Artificial Intelligence (AI) capabilities are being leveraged by Truveta to improve the scalability of its data platform. The software giant is also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30",
-      "originalUrl": "https://www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30?amp",
-      "publishedDateTime": "2021-09-30T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-teslas-full-self-driving-mode-is-actually-not-fully-self-driving.md",
-      "title": "Tesla’s full self-driving mode is actually not fully self-driving",
-      "excerpt": "The capability is marketed as a way to take your hands off the wheel, but some experts, including Alistair Weaver of Edmunds, say the technology isn't ready.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2021/09/GettyImages-490598518.jpg?fit=740%2C416",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp",
-      "publishedDateTime": "2021-09-30T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-kratos-voice-actor-says-god-of-war-ragnarok-delayed-because-of-me.md",
-      "title": "Kratos’ voice actor says God of War: Ragnarok delayed ‘because of me’",
-      "excerpt": "Kratos’ voice actor, Christopher Judge, says he’s the reason why God of War: Ragnarok was delayed. In a tweet, Judge writes that he needed multiple surgeries in 2019 and that God of War developer Sony Santa Monica studios delayed the game so he could recover and continue voicing video games’ favorite problematic dad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5",
-      "originalUrl": "https://www.theverge.com/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/dkclWGip4dpQXjiWOacSaczXySw=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69931807/E_3vU3YXMAEXoy2.0.0.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5",
-      "publishedDateTime": "2021-09-30T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed.md",
-      "title": "Yes, robots are coming for your job, but you might like the new one more (if you're still employed)",
-      "excerpt": "For decades, a speculated wave of job-stealing technologies has stirred debate about the role of humans in the labor force alongside automation and AI adds a new wrinkle to the equation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "originalUrl": "https://www.techrepublic.com/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/30/7a07b8cb-59d6-437e-8545-6e201f357d11/resize/1200x/4118c23f5db2dbd1621784b3792dbad2/gettyimages-gremlin.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "publishedDateTime": "2021-09-30T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-cardinal-healths-cah-unit-to-aid-canadian-healthcare-system.md",
-      "title": "Cardinal Health's (CAH) Unit to Aid Canadian Healthcare System",
-      "excerpt": "Cardinal Health's (CAH) subsidiary to support the Canadian Healthcare system against COVID-19 with vaccination policy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/388628",
-      "originalUrl": "https://www.entrepreneur.com/article/388628",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388628.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

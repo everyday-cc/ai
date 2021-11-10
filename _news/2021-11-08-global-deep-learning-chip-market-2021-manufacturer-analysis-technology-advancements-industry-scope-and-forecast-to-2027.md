@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Robot Market Research Report 2021 | Share, Trends, Growth, Outlook and Forecast 2026"
+    excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, the global smart robot market reached a value of US$ XX Billion in 2020."
+    publishedDateTime: 2021-11-10T11:43:00Z
+    webUrl: "https://ipsnews.net/business/2021/11/10/smart-robot-market-research-report-2021-share-trends-growth-outlook-and-forecast-2026/"
+    ampWebUrl: "https://ipsnews.net/business/2021/11/10/smart-robot-market-research-report-2021-share-trends-growth-outlook-and-forecast-2026/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/11/10/smart-robot-market-research-report-2021-share-trends-growth-outlook-and-forecast-2026/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 49
+    images:
+      - url: "https://beta-kiosk.icrowdnewswire.com/assets/source/users/kamal.negi/Smart%20Robot%20Market1.jpg?1636539321479"
+        width: 563
+        height: 743
+        isCached: true
 
 secured: "0Xp4+sbwujAT6YApLs1eu4nDxqF5WTwLj52YHdW9ynDmWWM18KceklP5ZoZDFVzAmE9Mz33PL4S+j2VDRwGbcFD0s2R8vf6zNAfZqb6c8iUjwghzZB1T6Av9LGLcxPCYkJHJ9Gy3ppcNxqD7Wbgk2rF3i3d5T7LMFTbpVHHiIlj5hO9rocqZqGZSqh54mq+YBMv4/E3t/BFUeD9tWp/GzsSBVe83BEnZG+WfDmFiaehAI/jk8lqmsXdSeydGQh+d+5ts4XmfHJapXr3UVFhyetfVGWaS9iod4jCrWDqUeGefhqFm0kDkm/9EILdoIw220ucRDyS/uikoVOoNFq0ErJpuvBlyz4ZzGfzyzrELs14=;nfgM+bjY0dvBaeSEik5REQ=="
 ---

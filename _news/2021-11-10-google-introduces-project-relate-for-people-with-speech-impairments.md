@@ -41,6 +41,22 @@ related:
         width: 1300
         height: 731
         isCached: true
+  - title: "Google Project Relate Android app helps those with speech impairments"
+    excerpt: "There are several medical conditions and diseases that can impact a person’s ability to communicate with others through speech. Google is working to make its apps more accessible to people"
+    publishedDateTime: 2021-11-10T11:54:00Z
+    webUrl: "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/"
+    ampWebUrl: "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/google-project-relate.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Google’s Project Relate aims to help people with speech impairments communicate more easily"
     excerpt: "Google LLC is asking for help in developing and testing a new app that it says will be able to help people with speech impairments communicate with others more easily. The app is called Project Relate,"
     publishedDateTime: 2021-11-10T00:39:00Z

@@ -2,6 +2,302 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-08-use-autogluon-tabular-in-aws-marketplace.md",
+      "title": "Use AutoGluon-Tabular in AWS Marketplace",
+      "excerpt": "AutoGluon-Tabular is an open-source AutoML framework that requires only a single line of Python to train highly accurate machine learning (ML) models on an unprocessed tabular dataset. In this post, we walk you through a way of using AutoGluon-Tabular as a code-free AWS Marketplace product. We use this",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-autogluon-tabular-in-aws-marketplace/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-autogluon-tabular-in-aws-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T11:42:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra.md",
+      "title": "Augment search with metadata by chaining Amazon Textract, Amazon Comprehend, and Amazon Kendra",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T10:56:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-why-is-artificial-intelligence-so-bad-at-sales-and-marketing.md",
+      "title": "Why is Artificial Intelligence So Bad at Sales and Marketing?",
+      "excerpt": "Today, I want to talk about why artificial intelligence is so bad at sales and marketing. One of the main reasons is that artificial intelligence (AI) bots need to have some contextual information in order to understand what you’re saying or what you mean.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203",
+      "originalUrl": "https://www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/11/IMG_2460.jpe",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203/amp",
+      "publishedDateTime": "2021-11-08T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-after-beating-q3-earnings-estimates-is-ontrak-a-good-healthcare-stock-to-buy.md",
+      "title": "After Beating Q3 Earnings Estimates, is Ontrak a Good Healthcare Stock to Buy?",
+      "excerpt": "AI-powered healthcare company Ontrak Inc. (OTRK) recently released its third-quarter earnings, which beat the consensus estimate. However, a lawsuit against the company and severe business headwinds may hinder its",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/395953",
+      "originalUrl": "https://www.entrepreneur.com/article/395953",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-395953.jpeg",
+          "width": 2560,
+          "height": 1209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads.md",
+      "title": "AMD rolls out Instinct MI200 GPUs for HPC and AI workloads",
+      "excerpt": "AMD on Monday unveiled the Instinct MI200 accelerator, the latest generation of its data center GPU. The chipmaker says it's the fastest HPC and AI accelerator, surpassing records set by the MI100, rolled out last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
+      "originalUrl": "https://www.zdnet.com/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
+      "publishedDateTime": "2021-11-08T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-its-go-time-for-self-driving-cars-north-of-the-arctic-circle.md",
+      "title": "It’s ‘Go Time’ For Self-Driving Cars – North Of The Arctic Circle",
+      "excerpt": "Northern Norway will be a closely watched, wintry testing ground for self-driving cars. If they can make it there, autonomous vehicle industry members say, driverless cars can make it anywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/",
+      "originalUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61894faa6cc9ac8540b3fa1f%2F0x0.jpg%3FcropX1%3D135%26cropX2%3D2364%26cropY1%3D0%26cropY2%3D1671",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/",
+      "publishedDateTime": "2021-11-08T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-artificial-intelligence-stocks-the-10-best-ai-companies.md",
       "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
       "excerpt": "AI stocks may be excellent long-term investments. The rise of artificial intelligence, automation and robots is disrupting virtually every major industry and business. From machine learning to",
@@ -390,7 +686,7 @@
       "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -467,49 +763,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world.md",
-      "title": "The pursuit of problem solving: Inside Nvidia’s plans to democratise chips and AI in India and rest of the world",
-      "excerpt": "As Nvidia gears up for another GTC event, Financial Express Online caught up with its Asia-South MD, Vishal Dhupar to understand why the company does what it does, what’s the next frontier and basically,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2021/11/Nvidia-GeForce-RTX-3090-main-image.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/lite/",
-      "publishedDateTime": "2021-11-08T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -931,256 +1184,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027.md",
-      "title": "Global Artificial Intelligence Robotics Market Report Shows Demand to Boost Industry Growth from 2021 to 2027",
-      "excerpt": "With this report titled Global Artificial Intelligence Robotics Market 2021-2027, research analysts of MarketsandResearch.biz help us to present our clients with insightful data on the investment or growth opportunities in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-07T13:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai.md",
-      "title": "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai",
-      "excerpt": "(https://bit.ly/3BY8Kwp) \"We see broad application for AI and machine learning technology right across ... as it looks to match offerings from rival fintech firms. read more CBA also leads the banking sector's entry into the fast-growing Buy Now Pay ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/",
-      "originalUrl": "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/fy1Hr0OcjcfQo6t81SMK4FPVg6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34TS4M35IJKKRBSMOKLXM76LSA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-07T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-artificial-intelligence-is-still-no-match-for-us.md",
-      "title": "Artificial Intelligence Is Still No Match for Us",
-      "excerpt": "Scientists misunderstand human reason and an AI system fails the Turing test.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-427090/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
-      "publishedDateTime": "2021-11-07T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-metas-face-recognition-ai-may-yet-metastasize.md",
-      "title": "Meta’s face recognition AI may yet metastasize",
-      "excerpt": "Facebook said it would drop this tool and delete a billion-plus face templates, but it looks integral to its parent company’s metaverse ambitions. This makes privacy regulation a must",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html",
-      "originalUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/11/07/600x338/edit_1636303267610_1636303286718.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html",
-      "publishedDateTime": "2021-11-07T08:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars.md",
-      "title": "Colorado Bear Busts In And Finally Sort Of Busts Out Of A Car, Providing Bearish Lessons For AI Self-Driving Cars",
-      "excerpt": "Bears are smart enough to try and find food inside of cars, which brings up considerations for AI ... [+] self-driving cars. Get ready for a bit of a surprise. Imagine that you’ve driven up to the mountains to enjoy some fresh air and are relishing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613e7aa68eb80aa61d6a1636%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3403%26cropY1%3D24%26cropY2%3D2555",
-          "width": 1200,
-          "height": 893,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-11-07T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

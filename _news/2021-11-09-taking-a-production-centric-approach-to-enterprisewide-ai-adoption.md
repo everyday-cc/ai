@@ -76,6 +76,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Tencent reveals three data center chips - for AI, video transcoding, and networking"
+    excerpt: "Chinese technology and media giant Tencent has announced three chips for the data center. Zixiao is an artificial intelligence chip focused on processing images, video and natural language; Canghai is a video transcoding device;"
+    publishedDateTime: 2021-11-10T11:17:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/tencent-reveals-three-data-center-chips-for-ai-video-transcoding-and-networking/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 48
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/tencentpenguin.2e16d0ba.fill-1200x630.jpg"
+        width: 1100
+        height: 579
+        isCached: true
 
 secured: "tTyku6ffWF1EXlVNGSfvAZCzCn4x+Zeksrah8gf4+oTBU99TOIwbXU7pwHae/sg+2g0z4/k9jAM9k4t4Ime1TGH3Wfo+EqAh5MsYhnEW0KDiRAkJt4aJxMZqZejgWGt9ks+fnNyPvqaVUvc4u+VJWF4ftUHE2jaKAXoLANI+EfyFwnng4AOt3Qx62N77Bd1dtgGq9mRq6vnLb0dMz7fMLuktHx8jV3pfxae3fcYBleAh3m1cBOL9q8Qoc1ZLkZiUUvDCqaNy9msToJNyeXNiVH0xQrnzdAKRkwOUhe9KTFMWDDH4mJ8LoCXYwhtIAkcxTVkGebHie5q4mBjx+dGBKe9Rzo6jWT958s4hqEv9QEI=;iYjwFYVyRbFPJEru0c8ZIA=="
 ---

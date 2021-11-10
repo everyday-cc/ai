@@ -41,6 +41,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Artificial Intelligence in BFSI Market Size Forecasted to be Worth USD 68.23 Billion in 2028"
+    excerpt: "According to a recent analysis, the global Artificial Intelligence in BFSI market size is forecast to reach USD 68.23 Billion from USD 5.64 Billion in 2020, at a CAGR of 36.5% over 2021-2028. Increasing adoption of AI in BFSI for fraud prevention applications is expected to drive global Artificial Intelligence in BFSI market growth."
+    publishedDateTime: 2021-11-10T11:59:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-bfsi-market-size-forecasted-to-be-worth-usd-68-23-billion-in-2028/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-in-bfsi-market-size-forecasted-to-be-worth-usd-68-23-billion-in-2028/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-bfsi-market-size-forecasted-to-be-worth-usd-68-23-billion-in-2028/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 46
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/Artificial-Intelligence-in-BFSI.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "GzL8XWZF5AC78ZoK3ZCRXb7cwWXypljnRCGi9cpG0EuI6gmJzJNlzHQrl3dULaW4UxZ0eOVWkDJHBe/Ajok0Q/M5kPWAR5cHpuzrox9ZfECf0cuUnyc508W5LLj24GIkDm9KQF0Ynzyt9ne2ksL2Oq8csehdOE6ZTpz8M7lmNVeBDOTLVys/MlycmdV8FQkGoDrOPjJ8AhykkY3f0zql3gMHG9VWmuI4Svf2QSbN0k8QWWTebc3vwnHNB+1LUfshAJAm5S6Mq8eHxcsCHROQlNdeJMIyUWk4cTft5nB6NHR2vJMSZxWZyovKvUVHOuqSxculdJRz1hC+oCocudm53/eyg8ohO/Y+2USa/aszzPs=;zkrpHZyunYR4YxGwXn5iYg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/australias-cba-partners-with-si
 webUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://media.newstrack.in/uploads/latest-news/world-news/Nov/08/big_thumb/commonWealth_618918bf8cac0.jpg"
         width: 631
         height: 450
+        isCached: true
+  - title: "Facial recognition firm ordered to delete photos in Australia"
+    excerpt: "Facial recognition company Clearview AI contravened privacy laws in Australia, according to the Office of the Australian Information Commissioner (OAIC) following a joint investigation with the UK Information Commissioner’s Office (ICO)."
+    publishedDateTime: 2021-11-10T11:53:00Z
+    webUrl: "https://www.research-live.com/article/news/facial-recognition-firm-ordered-to-delete-photos-in-australia/id/5091952"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5091952&name=facial-recognition-firm-ordered-to-delete-photos-in-australia"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5091952&name=facial-recognition-firm-ordered-to-delete-photos-in-australia"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
         isCached: true
   - title: "H2O.ai Closes $100 Million in Funding Led by Customer Commonwealth Bank of Australia"
     excerpt: "H2O.ai, the AI Cloud leader, today announced it has closed $100 million in Series E funding led by Australia’s largest bank, customer Commonwealth Bank of Australia (CBA). H2O.ai has now raised over $250 million and is valued at $1.7 billion. Pivot ..."

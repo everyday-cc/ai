@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Alphabet Introduces New AI Drug Discovery Company"
-    excerpt: "Isomorphic Laboratories, an AI-driven startup owned by Google parent firm Alphabet, announced plans to foray into drug discovery and development by tapping into the technology of its sister company DeepMind."
-    publishedDateTime: 2021-11-05T19:43:00Z
-    webUrl: "https://www.pharmalive.com/alphabet-introduces-new-ai-drug-discovery-company/"
-    type: article
-    provider:
-      name: PharmaLive
-      domain: pharmalive.com
-    quality: 39
-    images:
-      - url: "https://www.pharmalive.com/wp-content/uploads/2021/11/Alphabet-Introduces-New-AI-Drug-Discovery-Company-BioSpace-11-5-21.jpeg"
-        width: 625
-        height: 350
-        isCached: true
   - title: "Decoding Alphabet’s Bet On Drug Discovery With New AI Company Isomorphic Labs"
     excerpt: "Isomorphic Labs will use technologies coming out of the DeepMind lab to accelerate the drug discovery process with an AI-first approach."
     publishedDateTime: 2021-11-06T08:30:00Z
@@ -111,15 +97,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Alphabet Launches AI Drug Discovery Spin-Off"
-    excerpt: "Demis Hassabis, CEO and co-founder of DeepMind, is the founder of Isomorphic Labs and will also serve as the company’s CEO."
-    publishedDateTime: 2021-11-05T18:44:00Z
-    webUrl: "https://www.fdanews.com/articles/205224-alphabet-launches-ai-drug-discovery-spin-off"
-    type: article
-    provider:
-      name: FDAnews
-      domain: fdanews.com
-    quality: 19
 
 secured: "KClyjjX389SSBZorbPMcb6g5pgExkNO5od55EtEX3YmcU0HbQYVPXhNUIcVbiUHPzsrCYgaNLhsXW/N3BPeuRScHZdvWdNp/bl7Of6PclafFWgp9sWWXGaHJ3RXrIbf6gNx7Mh7txO5l3+ArFCpszrqOCrq0IL/epspZ2XQ7P/Ideusoyg7ut8LNtVONEOt/nuJRcwgXiSET3gCbt5pN80X+9pSl0GRKkXnQ1GCFduo6ZbFvexBEJKByPvgHxBm8/U5QBjRMS2lRcL5oFLohKnKwrScPGPqSFK8g09KoRcA5p45lXlVacf/xmPGF5Ii8ntSYPBYdjSSeYKbmrnB2PLH58gLuPc0Ergxm4re4LU84TnI5hXqY+bFElrobs9DMnAC7JQMpRLpJSUujnlF0Rw0yujSotXPAXzHcALEd4eO6wwkY11rtas9Gs+PBJu+qmxG/m9c4a95qlY/VcFbkJJ1uYtqlF0rL958vY3o5k+M5zNNTWv4Kwb9Hre40S4BCSqiLp9ADZzMmxs6qjF0uJQ==;uWlic4lLT8wjWVDXE73CTA=="
 ---

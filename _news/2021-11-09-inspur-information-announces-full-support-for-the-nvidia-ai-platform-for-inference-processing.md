@@ -25,35 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "The pursuit of problem solving: Inside Nvidia’s plans to democratise chips and AI in India and rest of the world"
-    excerpt: "As Nvidia gears up for another GTC event, Financial Express Online caught up with its Asia-South MD, Vishal Dhupar to understand why the company does what it does, what’s the next frontier and basically,"
-    publishedDateTime: 2021-11-08T10:30:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/lite/"
+  - title: "Luminar Lidar to Integrate with NVIDIA DRIVE Hyperion AI Platform; Shares Jump"
+    excerpt: "Luminar Technologies (LAZR), the global automotive lidar hardware and software technology provider, announced that its lidar solution has been selected to integrate into the sensor suite of semiconductor maker Nvidia Corporation’s (NVDA) AI vehicle computing platform for autonomous vehicles."
+    publishedDateTime: 2021-11-10T11:15:00Z
+    webUrl: "https://www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/"
+    ampWebUrl: "https://www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/amp/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 53
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 55
     images:
-      - url: "https://images.financialexpress.com/2021/11/Nvidia-GeForce-RTX-3090-main-image.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/05/Luminar-Technologies.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "The dawn of a founder-led startup ecosystem in India"
-    excerpt: "Early and successful Indian serial entrepreneurs are giving back to the community through investments and supports. Over the years, a wide array of factors have accounted for the growth of India’s startup ecosystem."
-    publishedDateTime: 2021-11-08T07:02:00Z
-    webUrl: "https://www.linkedin.com/pulse/dawn-founder-led-startup-ecosystem-india-krasia"
+  - title: "Luminar Wins Nvidia Business in Self Driving Deal. It’s a Big Win for the Lidar Maker."
+    excerpt: "Lidar maker Luminar Technologies and tech-giant Nvidia are pairing up to put self driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate. Luminar (ticker ..."
+    publishedDateTime: 2021-11-09T09:32:00Z
+    webUrl: "https://www.barrons.com/articles/luminar-wins-nvidia-business-in-self-driving-deal-its-a-big-win-for-the-lidar-maker-51636418195"
+    ampWebUrl: "https://www.barrons.com/amp/articles/luminar-wins-nvidia-business-in-self-driving-deal-its-a-big-win-for-the-lidar-maker-51636418195"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-wins-nvidia-business-in-self-driving-deal-its-a-big-win-for-the-lidar-maker-51636418195"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 22
+      name: Barron's
+      domain: barrons.com
+    quality: 51
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFUCCbytg3iSA/article-cover_image-shrink_720_1280/0/1636354806696?e=1642032000&v=beta&t=lDksi_MsJegECyDcazi-RiTnmdJa0w5vKaMhlhSN0_U"
-        width: 1080
-        height: 720
+      - url: "https://images.barrons.com/im-356249/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Luminar Wins Nvidia Business in Self-Driving Deal"
+    excerpt: "Text measurement Dreamstime Lidar maker Luminar Technologies and tech-giant Nvidia are pairing as much as put self-driving {hardware} into automobiles. It’s an enormous deal for Luminar and reveals traders the event of autonomous driving know-how goes to speed up."
+    publishedDateTime: 2021-11-09T12:09:00Z
+    webUrl: "https://www.tidewaternews.com/business/luminar-wins-nvidia-business-in-self-driving-deal/"
+    type: article
+    provider:
+      name: Tidewater News
+      domain: tidewaternews.com
+    quality: 24
+    images:
+      - url: "https://www.tidewaternews.com/wp-content/uploads/2021/11/1636459777_social.jpeg"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "IMtLj9t7KP5FhQhS1xXe4ZEAMTR/kJEJ/gRbX4ocNhOUV3r05UOhOTxgC0rQnJVfkDBI/ppxuS4HmRsGLMdwyPTrlHvFKy+pMtiDt0VAlPmChY9XquzcFYX06tmV5ebd/tZplQa06pF6xXh5JYa6Un2LFoekqmJwHx3Bd31aG0k0qepiOCFwKh4H/UwNyoaMwirNmk5LPmJaL+dJ1i4BwCFflyGhwzhXrz1andJqeKoOJ3eCuOaFCCeiFh7YGNW3vndH57HD6KPHqFRORnK0LOpWRaIJBBJQYzWQYtK6M29zwHLoB9xT1/X+hhYCbFnNvanfsuanUXsxFoK7yyHPzLCeJ55/6y1RWuE7hd8IeBc=;Bf4ipXeIZOlTjFZV0bq7dw=="

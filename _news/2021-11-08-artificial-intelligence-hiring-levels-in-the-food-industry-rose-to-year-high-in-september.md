@@ -38,20 +38,6 @@ related:
         width: 1024
         height: 570
         isCached: true
-  - title: "How is AI impacting the automotive industry?"
-    excerpt: "AI or artificial intelligence – as an abstract concept – conjures up multiple images, in part because it has been...Read"
-    publishedDateTime: 2021-11-08T16:59:00Z
-    webUrl: "https://www.just-auto.com/features/how-is-ai-impacting-the-automotive-industry/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/shutterstock_1698736867.jpg"
-        width: 500
-        height: 282
-        isCached: true
 
 secured: "ipoZzjy1XzD3fPK1QZ+Lwl1NeVYlL2ywYdXisvPvL4HFuU0SFPRytHt6jSv4NrvRmaXg5AvMgPkuNZZRq/yxk3YojRW1/SGEjxlaFEJ+Fq9h5Z6Q+tJNIwzMglC3p4lQVDy5lcETaZus1oDfgRM27JHGmHzrHInYLCq/uqmv/delsivdxIdFRXEVyoj8uuxWfvhQwdV0QQNTOi4BvlnqtZALmBCZ+JqJBfcrzu4gWWDc/ws8uZFzhksBVlkJ1xNjiQ8c8xVAzt8+lI6dZSfOS9+OiDYn15jBt5Sa806aS1EUJqoawY5tP2dqTIwsmnEWkRNHhzNHfP6Lg0U4vp1HWMHq3jU/DYG/2TdWS0HrhRNnYWjM6GTp5mUEFkunxXXRlNR9N/30MH6Xn99vneiA14ciBM8at2dfqMAWVmMPkGEwlmMhgzG35CCynXMzCxP1L7Vpl7tYMdKfuLCjekLDjW4fuMZaIejDBAVmFuWQrlJz3CgckCUVDofqPlOeZiT6rSClx/1EDDGG6OdfHIfgkg==;mKeZPzGW/OjUawVTj/XOUg=="
 ---

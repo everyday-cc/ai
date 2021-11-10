@@ -2,6 +2,298 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-10-28-monashees-backs-grain-trading-startup-tarken.md",
+      "title": "Monashees backs grain trading startup Tarken",
+      "excerpt": "As its startup market accelerates ... To give similar transparency to grain trading in Brazil, Tarken set up an AI tool that pulls in data from different sources and generates a price for every ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/",
+      "originalUrl": "https://techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/tarken_screencap.png?w=1024",
+          "width": 1024,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/28/monashees-backs-grain-trading-startup-tarken/amp/",
+      "publishedDateTime": "2021-10-28T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-slashnext-which-uses-ai-to-combat-phishing-raises-26m.md",
+      "title": "SlashNext, which uses AI to combat phishing, raises $26M",
+      "excerpt": "“Our technology has logged more than 2.5 million [phishing] threats hiding in legitimate infrastructures like Amazon Web Services, Outlook, Sharepoint, and Microsoft Azure. [SlashNext’s AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
+      "originalUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/fly-d-9PivUW7l1m4-unsplash-e1631050913938.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
+      "publishedDateTime": "2021-10-28T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-artificial-intelligence-is-now-part-of-us-air-forces-kill-chain.md",
+      "title": "Artificial Intelligence Is Now Part Of U.S. Air Force’s ‘Kill Chain’",
+      "excerpt": "The U.S.A.F. revealed recently that it had used artificial intelligence to aid targeting decisions for the first time. It turns out that this was not simply an experimental one-off use to test the technology: AI is embedded in the Air Force’s targeting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617a9d30b0511aeedee7de16%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/10/28/ai-now-part-of-us-air-force-kill-chain/amp/",
+      "publishedDateTime": "2021-10-28T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-how-financial-services-firms-are-playing-a-pivotal-role-in-driving-progress-on-sustainability.md",
+      "title": "How financial services firms are playing a pivotal role in driving progress on sustainability",
+      "excerpt": "The recent IPCC report was the latest  urgent call for action on climate change, and global attention is firmly fixed on the upcoming COP26 meeting of world leaders in Scotland. And while politicians and policy-makers will be central to determining how we respond,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/how-financial-services-firms-playing-pivotal-role-driving-stirrett",
+      "originalUrl": "https://www.linkedin.com/pulse/how-financial-services-firms-playing-pivotal-role-driving-stirrett",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQEiNusiLDSP8A/article-cover_image-shrink_720_1280/0/1635415909767?e=1641427200&v=beta&t=gOPRGpo8Y11wXkm4sp8wpoPv6sg-Db3XxRX8hoegpX4",
+          "width": 957,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-intel-turns-focus-on-developers-with-new-pc-and-data-center-chips.md",
+      "title": "Intel turns focus on developers with new PC and data center chips",
+      "excerpt": "The development of new chips took centerstage at inaugural Intel Innovation event, with announcements spanning new products, developer tools, technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2021/10/intel-turns-focus-on-developers-with-new-pc-and-data-center-chips/",
+      "originalUrl": "https://techhq.com/2021/10/intel-turns-focus-on-developers-with-new-pc-and-data-center-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/10/intel-chip.jpeg",
+          "width": 480,
+          "height": 298,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-legaltech-startup-vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives.md",
+      "title": "Legaltech Startup Vakilsearch Raises $10 Mn To Accelerate Its AI And ML Initiatives",
+      "excerpt": "“With this investment, we will leverage the strengths of Vakilsearch and accelerate our Artificial Intelligence (AI) and Machine ... India CEO Manish Modi. The startup had raised $2 Mn from ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/",
+      "originalUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2021/10/vakilsearch-featured.jpg",
+          "width": 1360,
+          "height": 1020,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/amp/",
+      "publishedDateTime": "2021-10-28T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-people-believe-robots-can-support-their-career-better-than-humans.md",
       "title": "People Believe Robots Can Support Their Career Better Than Humans",
       "excerpt": "People are turning to robots to support their career development after the COVID-19 pandemic left them feeling lonely",
@@ -862,284 +1154,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-cairo-airport-security-detains-robot.md",
-      "title": "Cairo airport security detains robot",
-      "excerpt": "Da, upon arriving at Cairo airport for 10 days, before the British embassy intervened to resolve the issue and ensure their release.",
-      "sourceUrl": null,
-      "webUrl": "https://www.al-monitor.com/originals/2021/10/cairo-airport-security-detains-robot",
-      "originalUrl": "https://www.al-monitor.com/originals/2021/10/cairo-airport-security-detains-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-10/GettyImages-1236079719.jpg?h=a5ae579a&itok=Z2HEwine",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al-monitor.com/originals/2021/10/cairo-airport-security-detains-robot?amp",
-      "cdnAmpWebUrl": "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/10/cairo-airport-security-detains-robot?amp",
-      "publishedDateTime": "2021-10-27T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al-Monitor",
-        "domain": "al-monitor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service.md",
-      "title": "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service",
-      "excerpt": "As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue, Index Ventures, and Alkeon. Series C ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wdbj7.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/",
-      "originalUrl": "https://www.wdbj7.com/prnewswire/2021/10/27/abacusai-raises-50m-series-c-releases-computer-vision-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDBJ",
-        "domain": "wdbj7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers.md",
-      "title": "This Restuarant Chain Is Putting Robots In Charge Of Its Deep Fryers",
-      "excerpt": "Advertisement The robotic technology startup behind the burger-flipping robot, Miso Robotics, announced a collaboration with Inspire Brands’ Buffalo Wild Wings on Thursday. Flippy Wings is a “robotic chicken wing frying solution” that helps brands maximise chicken wing output,",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/",
-      "originalUrl": "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/10/4fcb5faddfdec3c5dcdd640168970b0a6747.jpg",
-          "width": 1300,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-restuarant-chain-is-putting-robots-in-charge-of-its-deep-fryers/amp/",
-      "publishedDateTime": "2021-10-27T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform.md",
-      "title": "LivePerson acquires VoiceBase and Tenfold for its conversational AI platform",
-      "excerpt": "LivePerson has acquired two startups, VoiceBase and Tenfold, to bolster its expanding conversational AI platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/",
-      "originalUrl": "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/04/rob_185_final.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/liveperson-acquires-voicebase-and-tenfold-for-its-conversational-ai-platform/amp/",
-      "publishedDateTime": "2021-10-27T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu.md",
-      "title": "Intel partners with Google to deploy ‘Mount Evans’ ASIC-based GPU",
-      "excerpt": "Intel has announced that it partnered with Google to deploy the chipmaker's IPU across Google Cloud infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/",
-      "originalUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1208499003-e1631641886627.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/amp/",
-      "publishedDateTime": "2021-10-27T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-abacusai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases.md",
-      "title": "Abacus.ai snags $50M Series C as it expands into computer vision use cases",
-      "excerpt": "Abacus.ai wants to build an AI platform that simplifies machine learning model creation, while still leaving room for power users. Today the company announced a $50 million Series C. At the same time,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
-      "originalUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-imsev208-063.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
-      "publishedDateTime": "2021-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
       ]
     }
   ],

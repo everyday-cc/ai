@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How is AI impacting the automotive industry?"
-    excerpt: "AI or artificial intelligence – as an abstract concept – conjures up multiple images, in part because it has been...Read"
-    publishedDateTime: 2021-11-08T16:59:00Z
-    webUrl: "https://www.just-auto.com/features/how-is-ai-impacting-the-automotive-industry/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/shutterstock_1698736867.jpg"
-        width: 500
-        height: 282
-        isCached: true
   - title: "Artificial intelligence hiring levels in the food industry rose to year-high in September"
     excerpt: "GlobalData digs into its jobs database to present the latest trends in the food industry for posts linked to artificial intelligence."
     publishedDateTime: 2021-11-08T08:41:00Z

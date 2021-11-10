@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook will drop its facial recognition system – but here’s why we should be sceptical"
+    excerpt: "Facebook has announced that it will stop using its facial recognition system – the artificial intelligence software which recognises people in photos and videos and generates suggestions about who to “tag” in them."
+    publishedDateTime: 2021-11-10T11:22:00Z
+    webUrl: "https://theconversation.com/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+    ampWebUrl: "https://theconversation.com/amp/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 50
+    images:
+      - url: "https://images.theconversation.com/files/430501/original/file-20211105-10492-raehl0.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=214&fit=crop"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Inside Facebook’s decision to eliminate facial recognition — for now"
     excerpt: "Facebook’s facial recognition decision was in the works for months, long before the current whistleblower scandal."
     publishedDateTime: 2021-11-05T20:34:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XU3HESB3AUI6ZPLP3I3W6RZQJY.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Facebook, the metaverse and the monetisation of higher education"
-    excerpt: "The metaverse is a virtual world in which users represented by an avatar can shop socialise take part in leisure activities ndash and learn Its de"
-    publishedDateTime: 2021-11-09T13:12:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271690241/facebook-the-metaverse-and-the-monetisation-of-higher-education"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cvr1636461579.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Facebook to shut down facial recognition system over privacy concerns"
     excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
@@ -94,20 +96,6 @@ related:
       - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(75).png"
         width: 796
         height: 900
-        isCached: true
-  - title: "Facebook is now revealing how often users see bullying or harassing posts"
-    excerpt: "The parent company of Facebook and Instagram has released data for the first time showing how often people see bullying or harassing posts on its apps, amid scrutiny over how its social networks may be harming users and society at large."
-    publishedDateTime: 2021-11-09T18:11:00Z
-    webUrl: "https://kuow.org/stories/facebook-is-now-revealing-how-often-users-see-bullying-or-harassing-posts"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 23
-    images:
-      - url: "https://kuow-prod.imgix.net/store/cfdac8b72741ad70d4441331bd867d2f.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 837
-        height: 628
         isCached: true
 
 secured: "l9IBKzc3dA7Y3k/xzXhLaGq9pn1H3Qh16u0DY2pWNNyZhFbZEwekQzp4IA5/4NxcykBTptPYJ+8ao1SyAS8RKjm5Nnu1c4iyurQJ5gPla4DD0rgOePJvGqQ5+iJLpt4OPWujVdX3aMOMHZqHEHdR210RtamBfamtXGwVNyKhSUwlXVNFelNGezpUkptMGYGgOtHhXo/S/UuQmUYznG33G2IwUBhipd2XJMGrk/73pH6mIlVK+AWpJORMK0ad5uZmMz72KT9ySGRLzuLs9soK2lP45Qlh9d7pg2KxWorI5UBVcIV6NRvbwt1aG8oXdsm/twM1g+Q1lah5i1OmNu2QKJjas1si3EHpFZ2ESCcJ6rXDl/gOBvu65J2kpzRY8h7cVpOG7ZW1bPRB88Fmdbh+9lbKFbtZvM8uTaXxI+E6nCErmQN3VkCRuuP6itD6/Z8GHH7N/usLtdJeoFquTmCD0Fo+n+0BQrnXF2Rbv1sEUPR9ysivDHqCm2Q8KsibnIk+ayHlzfgjk0XwlnKGGRyF0A==;4xgOZuKA+GLHzYFFHehRxg=="

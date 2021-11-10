@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Smart Robot Market Research Report 2021 | Share, Trends, Growth, Outlook and Forecast 2026"
+    excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, the global smart robot market reached a value of US$ XX Billion in 2020."
+    publishedDateTime: 2021-11-10T11:43:00Z
+    webUrl: "https://ipsnews.net/business/2021/11/10/smart-robot-market-research-report-2021-share-trends-growth-outlook-and-forecast-2026/"
+    ampWebUrl: "https://ipsnews.net/business/2021/11/10/smart-robot-market-research-report-2021-share-trends-growth-outlook-and-forecast-2026/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/11/10/smart-robot-market-research-report-2021-share-trends-growth-outlook-and-forecast-2026/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 49
+    images:
+      - url: "https://beta-kiosk.icrowdnewswire.com/assets/source/users/kamal.negi/Smart%20Robot%20Market1.jpg?1636539321479"
+        width: 563
+        height: 743
         isCached: true
 
 secured: "OyJXJMbHAT0ChtzNNxqNchbCPCQyrfdgFYJ6397uZiW4kFgWHS+GlI2ph9TPTIQxciL3lIu0Lh1hqb4OW53kDHI0xND4xVGOfKRs8sMWKl8M/TMOnwvmOGtw54BPIa/OOSzrRaJDgAdiXQ29bzxOny1FEM3i0h5Z+p5+RqrhMUIMDcJefkXCmCt5LET2X61qeyVdOIBFbvehQcD01BNf4oMXeEcp3U272BdfUXhQQDX6nEqhxfXsCjYmiBu4SBeKvBMx2Ms/GLRTHhyaXGbVxuT5fnNmt1D8pRJkrzjeAGoDdoDuPEJubWY8forIgv/QpMLKO8CUiOqpCbIuuQEsqcD8+LcnTt4674nrowW6V04=;NIzDiIMWr0syRXFlR3bBKA=="

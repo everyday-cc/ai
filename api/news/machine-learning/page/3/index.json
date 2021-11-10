@@ -2,6 +2,83 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-21-deep-learning-for-reticular-opacity-on-chest-radiographs-with-interstitial-lung-disease.md",
+      "title": "Deep learning for reticular opacity on chest radiographs with interstitial lung disease",
+      "excerpt": "According to ARRS’ American Journal of Roentgenology (AJR), radiologists’ sensitivity on chest radiographs for reticular opacity in patients with interstitial lung disease (ILD)—including those with mild disease—improved using a commercially available deep learning algorithm (DLA) from VUNO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/932237",
+      "originalUrl": "https://www.eurekalert.org/news-releases/932237",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-us-air-force-teams-with-uk-on-machine-learning-demo.md",
+      "title": "US Air Force teams with UK on machine learning demo",
+      "excerpt": "By sharing data and machine learning algorithms, the two countries were able to improve situational awareness for war fighters in a demonstration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/CmSkjK0LuGwWeGDLXmB8GBzgViI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/RT4BUYK7P5BCHORIBCZAVETTLQ.jpeg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-machine-learning-can-be-fair-and-accurate.md",
       "title": "Machine learning can be fair and accurate",
       "excerpt": "A CMU team aims to dispel that assumption in a new study, recently published in Nature Machine Intelligence. Rayid Ghani, a professor in the School of Computer Science's Machine Learning Department (MLD) and the Heinz College of Information Systems and Public Policy;",
@@ -1280,106 +1357,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-deep-learning-helps-predict-traffic-crashes-before-they-happen.md",
-      "title": "Deep learning helps predict traffic crashes before they happen",
-      "excerpt": "A deep learning model predicts high-resolution automobile crash risk maps that describe the expected number of crashes and identify high-risk areas. The work was led by scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Qatar Center for Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012",
-      "originalUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/crash-maps_0.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-artificial-intelligence-stocks-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: Best AI Companies",
-      "excerpt": "Artificial intelligence (AI) can be the most prominent new industry in the 21st century. Artificial intelligence (AI), once the stuff of science fiction, is now a reality. Machine learning and neural networks are already being used daily by the finest artificial intellegence stocks to invest in.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/10/AI-Stocks.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
-      "publishedDateTime": "2021-10-12T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AI in Autos",
-        "IBM AI",
-        "Facebook AI",
-        "AWS AI"
       ]
     }
   ],

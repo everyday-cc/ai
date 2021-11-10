@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Impact Of Artificial Intelligence In Banking Industry"
-    excerpt: "Computer systems can now do jobs that would otherwise require human interaction, thanks to artificial intelligence. Machine Learning is a fundamental component of AI, and it assists in making decisions that robots cannot complete without the assistance of a human."
-    publishedDateTime: 2021-11-08T11:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/impact-artificial-intelligence-banking-industry-mori-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHxZmbvp7PXWw/article-cover_image-shrink_720_1280/0/1636371367268?e=1642032000&v=beta&t=9JM3miuGokQkkA9c1iBUWt5Kt1azGABtOP8hHQkyhn4"
-        width: 720
-        height: 720
-        isCached: true
 
 secured: "l9mbF3jOj7ea2y2mMpNhR2+hM+Bc4h3tijZi707/19O9urddQHPxDwjH+98cJxgnR0oCMCI9GamE1nXr3VvX0j0x9z0FyBL35yqzj+/VEVJjcmm3aUAxFw2SxvJnUhuiZhGheJRlKD0enaAOOhhb0RRwLHcucerdIq43t55I7tjSNNDg9SFPEUcBmknZj60AMFrJHZBxZkU2ma1E1uKNa/3QmVjcPAL4FbLckaV0EPVVngIntH7syvqWWs+Md1uYhVWOEnMLwQQ1ORCFTyOGnwbWGX4XVoOavJjw079gs4CNu7dAG3a0Vvagk8PapL0fCjwuv2szfVoO7aea/7eY07FQ4beFrCkqSQJa1Sy6XPo=;U8AA7OsMRSIZ2zjsXLRFnw=="
 ---

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-10-google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires.md",
+      "title": "Google and AWS harness the power of machine learning to predict floods and fires",
+      "excerpt": "Can machine learning from tech giants help the world respond better to environmental disasters like sudden floods and bushfires?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
+      "originalUrl": "https://www.zdnet.com/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/814987b3fe1a287d422e09be34ab00abb53c1e1a/2021/11/10/2e9f14c1-26b5-4bbc-b761-454cebd855d0/climate-change-flood.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
+      "publishedDateTime": "2021-11-10T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production.md",
       "title": "ML observability platform WhyLabs raises $10M to monitor models and data in production",
       "excerpt": "WhyLabs, a startup developing an observability platform for machine learning projects, has raised $10 million in venture capital.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -265,6 +318,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-09-deep-learning-system-market-size-forecasted-to-be-worth-usd-9334-billion-in-2028.md",
+      "title": "Deep Learning System Market Size Forecasted to be Worth USD 93.34 Billion in 2028",
+      "excerpt": "According to a recent analysis, the global deep learning system market size was valued at USD 6.59 Billion in 2020 and is forecast to exceed USD 93.34 Billion in terms of revenue, at a CAGR of 39.1% through 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/",
+      "originalUrl": "https://techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/11/Deep-Learning-System-Market-Size.png",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/amp/",
+      "publishedDateTime": "2021-11-09T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence.md",
       "title": "Landing AI: Unlocking The Power Of Data-Centric Artificial Intelligence",
       "excerpt": "There is normally an assumption that Artificial Intelligence (AI) requires huge volumes of data. Here, we explore a data-centric approach to AI, which instead focuses on data quality and domain expertise - an approach advocated by Dr.",
@@ -273,7 +369,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -1347,94 +1443,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai.md",
-      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-      "excerpt": "Having an AI Risk Management Playbook and a list of best practices can help AI projects in the federal government achieve success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-      "originalUrl": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2.jpeg",
-          "width": 550,
-          "height": 235,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "aitrends",
-        "domain": "aitrends.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-aws-releases-amazon-ec2-dl1-instances-that-train-machine-learning-models.md",
-      "title": "AWS Releases Amazon EC2 DL1 Instances that Train Machine Learning Models",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, is releasing Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models. DL1 instances are powered by Gaudi accelerators from Habana Labs (an Intel company) to provide up to 40% better price performance for training machine learning models than the latest GPU-powered Amazon EC2 instances,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/AWS-Releases-Amazon-EC2-DL1-Instances-that-Train-Machine-Learning-Models-149794.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta.com",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

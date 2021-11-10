@@ -23,6 +23,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Magellan AI adds download data to its podcast media planning platform for advertisers"
+    excerpt: "Magellan AI, the standard for podcast media planning and competitive intelligence, announced today a major development in their platform — Magellan AI Verified Downloads. The new feature will provide Magellan AI's advertiser and agency partners with a central source for accurate show downloads,"
+    publishedDateTime: 2021-11-10T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-magellan-ai-adds-download-data-its-podcast-media-/2021/11/10/9488703.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+
 secured: "thAKZj+zeFj4epZGeh3R1Jd/YMLOLC34aLm6Ip5ObLFlCXte+62Grf3iYbOnegvuVm+4IsC+OJMSPDPK2goTn1hQDNT1/HzuRuqIADlCDxydhEPIINat3iWc/ylF3yBnM3GeCf7ByOpu9yqLEKpUvwoqbuqsT0oNbIO2F+I1WIwAez0GA5Q726C9tdZOgDtNN+E6Qjm44w2JLJECO8X3266cLEJez6YvqgqeVjtvD3q49MuWVhET6tNbBcm5h/RicA82BCsUSJN4RgO0PBis1KIR20uxaj+ZmxbwUo6oHZsNZ8BfuZtr6HpyEooM3Iipc/N3OLZAw+0TyHBXG5WCbEFAm0fLRx3axytHCa9b74/UQniBABUINeGULvK8XLyx9MSS7YFU+jxFbpgxCZxFIf3rlUal6gSIvjPgyu0rOP8tC3kCxqkPAGpumcL8EGkY/J3kJUT60kOD7E5ceb0FN/WACXsMmaY/u5wg4MaRfjWTYLW4XZvoibET0JzV0q/exJHEuQwtL65NKCxACrwyHA==;ZANd5/zmM4XjDViVOg2cmA=="
 ---
 

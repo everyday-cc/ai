@@ -26,35 +26,93 @@ images:
     isCached: true
 
 related:
-  - title: "Human in the Loop for AI in Healthcare"
-    excerpt: "The future of AI technologies in the healthcare sector in India seems bright, as there is a strong need for volume, scale, and accuracy, along with lo.."
-    publishedDateTime: 2021-11-08T10:43:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+  - title: "How AI And Mass Customization Could Change The Fashion Industry"
+    excerpt: "We can use mass communications to shed light on the possibilities of these technologies so that others in the industry, as well as consumers, will understand their importance for our future."
+    publishedDateTime: 2021-11-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-87585233,imgsize-1131636,width-1200,height-628,overlay-ethealthworld/human-in-the-loop-for-ai-in-healthcare.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60be3e89c19bf74973b7aeee%2F0x0.jpg"
         width: 1200
-        height: 628
+        height: 799
         isCached: true
-  - title: "Architecture in the Age of Artificial Intelligence"
-    excerpt: "AI - which I like to call Architectural Intelligence - is a tool that will one day allow us architects to fly. This book, like all Neil Leach's books, is a multi-perspective view of a possible future for architecture."
-    publishedDateTime: 2021-11-07T03:54:00Z
-    webUrl: "https://www.bloomsbury.com/in/architecture-in-the-age-of-artificial-intelligence-9781350165540/"
+  - title: "This New AI Can Change Your Accent Mid-Conversation"
+    excerpt: "Advertisement In today’s multicultural society, language is the biggest barrier between the employer and the employee. And now as more opportunities for remote jobs are open, employees’ biggest fear is the language barrier or the different accents that might put them in a tough spot with the company they are applying for."
+    publishedDateTime: 2021-11-08T18:55:00Z
+    webUrl: "https://wonderfulengineering.com/this-new-ai-can-change-your-accent-mid-conversation/"
+    ampWebUrl: "https://wonderfulengineering.com/this-new-ai-can-change-your-accent-mid-conversation/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-ai-can-change-your-accent-mid-conversation/amp/"
     type: article
     provider:
-      name: Bloomsbury
-      domain: bloomsbury.com
-    quality: 37
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 59
     images:
-      - url: "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale/jackets/9781350165540.jpg"
-        width: 360
-        height: 563
+      - url: "https://www.futuroprossimo.it/wp-content/uploads/2021/11/CAEB8251-43CD-4533-BCEC-B831789808CB.jpeg"
+        width: 639
+        height: 639
+        isCached: true
+  - title: "The Future is Now: Automation, Robotics & AI are Safeguarding Energy and Utilities Industries"
+    excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
+    publishedDateTime: 2021-11-08T14:14:00Z
+    webUrl: "https://www.energylivenews.com/2021/11/08/the-future-is-now-automation-robotics-ai-are-safeguarding-energy-and-utilities-industries/"
+    type: article
+    provider:
+      name: Energy Live News
+      domain: energylivenews.com
+    quality: 58
+    images:
+      - url: "https://www.energylivenews.com/wp-content/uploads/2018/05/robotic-arm.jpg"
+        width: 720
+        height: 412
+        isCached: true
+  - title: "The Fuel that is Boosting Transformation in Every Industry- AI"
+    excerpt: "AI is used everywhere. AI is boosting transformation in industries. There are several benefits of AI applications. This article shows how is AI used for transformation."
+    publishedDateTime: 2021-11-06T14:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-fuel-that-is-boosting-transformation-in-every-industry-ai/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/The-Fuel-that-is-Boosting-Transformation-in-Every-Industry-.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Impact Of Artificial Intelligence In Banking Industry"
+    excerpt: "Computer systems can now do jobs that would otherwise require human interaction, thanks to artificial intelligence. Machine Learning is a fundamental component of AI, and it assists in making decisions that robots cannot complete without the assistance of a human."
+    publishedDateTime: 2021-11-08T11:47:00Z
+    webUrl: "https://www.linkedin.com/pulse/impact-artificial-intelligence-banking-industry-mori-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHxZmbvp7PXWw/article-cover_image-shrink_720_1280/0/1636371367268?e=1642032000&v=beta&t=9JM3miuGokQkkA9c1iBUWt5Kt1azGABtOP8hHQkyhn4"
+        width: 720
+        height: 720
+        isCached: true
+  - title: "How is AI impacting the automotive industry?"
+    excerpt: "AI or artificial intelligence – as an abstract concept – conjures up multiple images, in part because it has been...Read"
+    publishedDateTime: 2021-11-08T16:59:00Z
+    webUrl: "https://www.just-auto.com/features/how-is-ai-impacting-the-automotive-industry/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/shutterstock_1698736867.jpg"
+        width: 500
+        height: 282
         isCached: true
   - title: "Rescuing humanity in the age of automation, artificial intelligence and Big Tech"
     excerpt: "Roose counters the optimistic appraisals of artificial intelligence (AI) made by many technology gurus by identifying “four big claims” that AI optimists use in arguing that it will create many more positive than negative effects. One of them contends ..."

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-10-luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump.md",
+      "title": "Luminar Lidar to Integrate with NVIDIA DRIVE Hyperion AI Platform; Shares Jump",
+      "excerpt": "Luminar Technologies (LAZR), the global automotive lidar hardware and software technology provider, announced that its lidar solution has been selected to integrate into the sensor suite of semiconductor maker Nvidia Corporation’s (NVDA) AI vehicle computing platform for autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/",
+      "originalUrl": "https://www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smarteranalyst.com/wp-content/uploads/2021/05/Luminar-Technologies.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/amp/",
+      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/amp/",
+      "publishedDateTime": "2021-11-10T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Smarter Analyst",
+        "domain": "smarteranalyst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage.md",
       "title": "Li Ka-Shing-Backed AI Startup Founder Targets Electric Vehicles, Growth Amid Global Chip Shortage",
       "excerpt": "Albert Liu founded San Diego-based AI startup Kneron in 2015. Since then, it has raised more than $100 million in funding from investors including Alibaba, Foxconn and Hong Kong billionaire Li Ka-shing's Horizons Ventures.",
@@ -475,49 +518,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world.md",
-      "title": "The pursuit of problem solving: Inside Nvidia’s plans to democratise chips and AI in India and rest of the world",
-      "excerpt": "As Nvidia gears up for another GTC event, Financial Express Online caught up with its Asia-South MD, Vishal Dhupar to understand why the company does what it does, what’s the next frontier and basically,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2021/11/Nvidia-GeForce-RTX-3090-main-image.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/lite/",
-      "publishedDateTime": "2021-11-08T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

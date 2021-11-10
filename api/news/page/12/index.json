@@ -2,6 +2,280 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-10-30-one-ec-restaurant-may-have-an-answer-to-the-national-labor-shortage-robotic-servers.md",
+      "title": "One E.C. Restaurant May Have an Answer to the National Labor Shortage: Robotic Servers",
+      "excerpt": "While gorging on delicious sushi rolls and Lo Mein noodles at Eau Claire’s Shanghai Bistro, you might spot a rather unusual and extraordinary addition to their wait staff. Its name is Jonny 5. No, it’s not the fictional robotic star of the 1980s \"Short Circuit\" films;",
+      "sourceUrl": null,
+      "webUrl": "https://volumeone.org/articles/2021/10/29/285420-one-ec-restaurant-may-have-an-answer-to-the",
+      "originalUrl": "https://volumeone.org/articles/2021/10/29/285420-one-ec-restaurant-may-have-an-answer-to-the",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://volumeone.org/uploads/image/article/285/420/285420/header_1920x1080/123967_web_servi_shanghai_bistro_rebecca_mennecke_2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Volume One",
+        "domain": "volumeone.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-labor-shortages-outrank-cyber-threats-as-biggest-concern-for-tech-companies.md",
+      "title": "Labor shortages outrank cyber threats as biggest concern for tech companies",
+      "excerpt": "57% of tech executives responding to CNBC's Technology Executive Council survey said finding qualified employees is the biggest concern for their company right now. Respondents ranked it higher than supply chain issues and cyber security threats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103681763-GettyImages-532200478.jpg?v=1635369654",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html",
+      "publishedDateTime": "2021-10-29T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-expert-warns-that-human-beings-are-going-to-start-getting-hacked.md",
+      "title": "Expert Warns That Human Beings Are Going to Start Getting Hacked",
+      "excerpt": "Yuval Harari, a world-renowned social philosopher and the bestselling author of “Sapiens,” has a stark warning: we need to start regulating AI, because otherwise big companies are going to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/yuval-harari-human-hack",
+      "originalUrl": "https://futurism.com/the-byte/yuval-harari-human-hack",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/10/genehack-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/yuval-harari-human-hack/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/yuval-harari-human-hack/amp",
+      "publishedDateTime": "2021-10-29T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-robots-deliver-food-at-north-carolina-at-state-university.md",
+      "title": "Robots Deliver Food at North Carolina A&T State University",
+      "excerpt": "The knee-high robots use machine learning, artificial intelligence and sensors to navigate the campus ... Joe Burdi, who oversees food services at A&T for Sodexo, said the decision to start using the robots was not caused by a labor shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/2f5990f/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1c%2Ffa%2F359e4dd58737b5bfcee5c940058c%2Fshutterstock-622400270.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university?_amp=true",
+      "publishedDateTime": "2021-10-29T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-mits-csail-self-driving-water-taxis-launched-in-the-amsterdam-canals.md",
+      "title": "MIT’s CSAIL self-driving water taxis launched in the Amsterdam canals",
+      "excerpt": "Granted, there aren’t many cities where self-driving water taxis are a viable ... scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Senseable ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/29/mit-csail/",
+      "originalUrl": "https://techcrunch.com/2021/10/29/mit-csail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Roboat09%C2%A9MIT_AMS-Institute.jpg?w=1024",
+          "width": 1024,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/29/mit-csail/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/29/mit-csail/amp/",
+      "publishedDateTime": "2021-10-29T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-4-reasons-residents-are-open-to-ai-for-fall-prevention.md",
+      "title": "4 Reasons Residents are Open to AI for Fall Prevention",
+      "excerpt": "Picture this. Residents check the calendar for that evening’s activities and they’re thrilled to see it there, right near dinner time: “Gait night.”",
+      "sourceUrl": null,
+      "webUrl": "https://seniorhousingnews.com/2021/10/29/4-reasons-residents-are-open-to-ai-for-fall-prevention/",
+      "originalUrl": "https://seniorhousingnews.com/2021/10/29/4-reasons-residents-are-open-to-ai-for-fall-prevention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://seniorhousingnews.com/wp-content/uploads/sites/3/2019/03/SHN-Facebook-Share-Size.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Senior Housing News",
+        "domain": "seniorhousingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-turning-to-robots-for-career-advice.md",
       "title": "Turning to Robots for Career Advice",
       "excerpt": "According to new research commissioned by Oracle, 80% of employees say they’re not satisfied with employer support and 72% of the US workforce think robots and artificial intelligence can support their careers better than humans. Joining us to explain ...",
@@ -867,281 +1141,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-aws-announces-general-availability-of-babelfish-for-amazon-aurora-postgresql.md",
-      "title": "AWS Announces General Availability of Babelfish for Amazon Aurora PostgreSQL",
-      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Babelfish for Amazon Aurora PostgreSQL-Compatible Edition, a new capability that allows customers to run applications written for Microsoft ( News - Alert) SQL Server directly on Amazon Aurora with little to no code changes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-babelfish-amazon-aurora-postgresql-/2021/10/28/9480379.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-babelfish-amazon-aurora-postgresql-/2021/10/28/9480379.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes.md",
-      "title": "tinyML-based machine learning platform helps build AI models in minutes",
-      "excerpt": "Imagimob announced that the new release of its tinyML platform is now available to its customers. The new release focuses on making it easier and faster for developers to build and deploy performance-ready tinyML applications on edge devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
-      "originalUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eeworldonline.com/wp-content/uploads/2021/10/Capture-2-1.png",
-          "width": 862,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eeworldonline.com",
-        "domain": "eeworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai.md",
-      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-      "excerpt": "Having an AI Risk Management Playbook and a list of best practices can help AI projects in the federal government achieve success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-      "originalUrl": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2.jpeg",
-          "width": 550,
-          "height": 235,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "aitrends",
-        "domain": "aitrends.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-ai-and-ethics-experts-speak-about-challenges-possible-directions.md",
-      "title": "AI and Ethics: Experts Speak about Challenges, Possible Directions",
-      "excerpt": "How do you see AI regulation proceeding? Any advice for organizations and companies that want to ensure that they build ethics into their AI deployment? What do you see, a few years (or several years) out for ethics in AI? Will the question of ethics be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-ethics-experts-speak-about-challenges-directions/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-ethics-experts-speak-about-challenges-directions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/10/New-eSPEAKS-thumbnail-5.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-clearview-ai-finally-takes-part-in-a-federal-accuracy-test.md",
-      "title": "Clearview AI finally takes part in a federal accuracy test.",
-      "excerpt": "But the test ... Though its accuracy had never been audited by NIST, Clearview AI claims thousands of local and state police departments as customers; a recent report from the Government Accountability Office also cited use by a number of federal agencies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.html",
-      "originalUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/29/business/28clearview-01/28clearview-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/10/28/technology/clearview-ai-test.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/28/technology/clearview-ai-test.amp.html",
-      "publishedDateTime": "2021-10-28T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-almost-30-percent-of-new-github-code-is-written-with-ai-assistance.md",
-      "title": "Almost 30 percent of new GitHub code is written with AI assistance",
-      "excerpt": "If you haven't heard of Copilot before, it's essentially the equivalent of the predictive text systems you'd find on Gmail or even your phone. You start",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "originalUrl": "https://www.techspot.com/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-28-image-28.jpg",
-          "width": 2634,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91984-almost-30-percent-new-github-code-written-ai.html",
-      "publishedDateTime": "2021-10-28T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,298 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-09-machine-learning-builds-customer-advocacy-beyond-black-friday-spike.md",
+      "title": "Machine Learning Builds Customer Advocacy Beyond Black Friday Spike",
+      "excerpt": "Savvy CPG leaders this holiday season are firing up customer advocacy with an online referral marketing platform that rewards high-value shoppers and their trusted circles for growth long after Black Friday sales peak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6182cd6cfb85e417104d17a2%2F0x0.jpg",
+          "width": 971,
+          "height": 647,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/amp/",
+      "publishedDateTime": "2021-11-09T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-the-evolution-of-voice-in-elevating-the-user-experience.md",
+      "title": "The Evolution Of Voice In Elevating The User Experience",
+      "excerpt": "Voice biometric technology and voice recognition will continue to become more ingrained within the modern digital user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61892951ad641ca64a264904%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/amp/",
+      "publishedDateTime": "2021-11-09T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai.md",
+      "title": "Why HR Should Pay Attention To The Emergence Of People Analytics And AI",
+      "excerpt": "A key differentiator for successful organizations is how well they manage their talent. As the value of data continues to increase, the opportunity for HR to leverage this data will become more prominent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189427be94633fae4f28dfa%2F0x0.jpg",
+          "width": 1200,
+          "height": 841,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/",
+      "publishedDateTime": "2021-11-09T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-could-blockchain-and-ai-help-prevent-deforestation.md",
+      "title": "Could Blockchain And AI Help Prevent Deforestation?",
+      "excerpt": "The technology firm iov42 is working with the EU to develop a “blockchain-style” infrastructure system, the aim of which is to leverage blockchain to improve standards of cross-border services for governments and organisations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/",
+      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6188f85eff2d01fdfa45c2f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/amp/",
+      "publishedDateTime": "2021-11-09T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-deep-learning-system-market-size-forecasted-to-be-worth-usd-9334-billion-in-2028.md",
+      "title": "Deep Learning System Market Size Forecasted to be Worth USD 93.34 Billion in 2028",
+      "excerpt": "According to a recent analysis, the global deep learning system market size was valued at USD 6.59 Billion in 2020 and is forecast to exceed USD 93.34 Billion in terms of revenue, at a CAGR of 39.1% through 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/",
+      "originalUrl": "https://techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/11/Deep-Learning-System-Market-Size.png",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/amp/",
+      "publishedDateTime": "2021-11-09T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks.md",
+      "title": "Hyper-personalization and new-age tech will drive AI-enabled banks",
+      "excerpt": "India has witnessed a rapidly growing Big Data Revolution with the integration of AI, ML, IoT into the financial services industry.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks/articleshow/87605161.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks/articleshow/87605161.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-24800,msid-87605256/ai.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/industry/banking/finance/banking/hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks/amp_articleshow/87605161.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/banking/hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks/amp_articleshow/87605161.cms",
+      "publishedDateTime": "2021-11-09T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more.md",
       "title": "Everything announced at Nvidia's Fall GTC 2021: Omniverse Avatar, CuQuantum, Clara Holoscan and more",
       "excerpt": "During the GTC keynote, Nvidia CEO Jensen Huang showcased a range of new Nvidia products and initiatives, spanning virtual reality, enterprise AI, cybersecurity, quantum computing, advances in automotive and healthcare and more.",
@@ -512,7 +804,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -767,7 +1059,7 @@
       "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -954,302 +1246,6 @@
         "Google AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-use-autogluon-tabular-in-aws-marketplace.md",
-      "title": "Use AutoGluon-Tabular in AWS Marketplace",
-      "excerpt": "AutoGluon-Tabular is an open-source AutoML framework that requires only a single line of Python to train highly accurate machine learning (ML) models on an unprocessed tabular dataset. In this post, we walk you through a way of using AutoGluon-Tabular as a code-free AWS Marketplace product. We use this",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-autogluon-tabular-in-aws-marketplace/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-autogluon-tabular-in-aws-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T11:42:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra.md",
-      "title": "Augment search with metadata by chaining Amazon Textract, Amazon Comprehend, and Amazon Kendra",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T10:56:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-why-is-artificial-intelligence-so-bad-at-sales-and-marketing.md",
-      "title": "Why is Artificial Intelligence So Bad at Sales and Marketing?",
-      "excerpt": "Today, I want to talk about why artificial intelligence is so bad at sales and marketing. One of the main reasons is that artificial intelligence (AI) bots need to have some contextual information in order to understand what you’re saying or what you mean.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203",
-      "originalUrl": "https://www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2021/11/IMG_2460.jpe",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203/amp",
-      "publishedDateTime": "2021-11-08T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-after-beating-q3-earnings-estimates-is-ontrak-a-good-healthcare-stock-to-buy.md",
-      "title": "After Beating Q3 Earnings Estimates, is Ontrak a Good Healthcare Stock to Buy?",
-      "excerpt": "AI-powered healthcare company Ontrak Inc. (OTRK) recently released its third-quarter earnings, which beat the consensus estimate. However, a lawsuit against the company and severe business headwinds may hinder its",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/395953",
-      "originalUrl": "https://www.entrepreneur.com/article/395953",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-395953.jpeg",
-          "width": 2560,
-          "height": 1209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads.md",
-      "title": "AMD rolls out Instinct MI200 GPUs for HPC and AI workloads",
-      "excerpt": "AMD on Monday unveiled the Instinct MI200 accelerator, the latest generation of its data center GPU. The chipmaker says it's the fastest HPC and AI accelerator, surpassing records set by the MI100, rolled out last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
-      "originalUrl": "https://www.zdnet.com/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
-      "publishedDateTime": "2021-11-08T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-its-go-time-for-self-driving-cars-north-of-the-arctic-circle.md",
-      "title": "It’s ‘Go Time’ For Self-Driving Cars – North Of The Arctic Circle",
-      "excerpt": "Northern Norway will be a closely watched, wintry testing ground for self-driving cars. If they can make it there, autonomous vehicle industry members say, driverless cars can make it anywhere.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/",
-      "originalUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61894faa6cc9ac8540b3fa1f%2F0x0.jpg%3FcropX1%3D135%26cropX2%3D2364%26cropY1%3D0%26cropY2%3D1671",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/",
-      "publishedDateTime": "2021-11-08T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -55,6 +55,22 @@ related:
         width: 631
         height: 450
         isCached: true
+  - title: "Facial recognition firm ordered to delete photos in Australia"
+    excerpt: "Facial recognition company Clearview AI contravened privacy laws in Australia, according to the Office of the Australian Information Commissioner (OAIC) following a joint investigation with the UK Information Commissioner’s Office (ICO)."
+    publishedDateTime: 2021-11-10T11:53:00Z
+    webUrl: "https://www.research-live.com/article/news/facial-recognition-firm-ordered-to-delete-photos-in-australia/id/5091952"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5091952&name=facial-recognition-firm-ordered-to-delete-photos-in-australia"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5091952&name=facial-recognition-firm-ordered-to-delete-photos-in-australia"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
 
 secured: "ToJlfcw1BWn4lwD7j62KB73wQK1Pb2+JvuL3fKiVyDsgRAxJNHrLeWTziSfxzaanghDIJR697GzsoBQvUAVkOsrydZLH7Txa0qFG4miLO+KLRUQ2nC5EauH77GqLNYGWuPQkpZ/yFwj/R4qyIe3hHKKHlW07rpcn051DiNWRxN/cV/pIv1t++XwC+s7XQRXr3pmtebBP02ZUA5Gql4NBVWtIvkGYv/GD7Qk3v6KqBxAlCRVPGzC9mjQMTDWTy3PWAqD1EFJXhr/UvIkAbVLM3lpIVtHbWYVaWTh9i1L9e5Fm6aXeQAhXBFJAMFo+uyPFX+cru2uyMTHOj6uW4f+yMlwQepXqVRazUmrCxbHcYFM=;vcRp9UrhdvQKWrVPeVsgew=="
 ---

@@ -89,29 +89,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Alphabet Introduces New AI Drug Discovery Company"
-    excerpt: "Isomorphic Laboratories, an AI-driven startup owned by Google parent firm Alphabet, announced plans to foray into drug discovery and development by tapping into the technology of its sister company DeepMind."
-    publishedDateTime: 2021-11-05T19:43:00Z
-    webUrl: "https://www.pharmalive.com/alphabet-introduces-new-ai-drug-discovery-company/"
-    type: article
-    provider:
-      name: PharmaLive
-      domain: pharmalive.com
-    quality: 39
-    images:
-      - url: "https://www.pharmalive.com/wp-content/uploads/2021/11/Alphabet-Introduces-New-AI-Drug-Discovery-Company-BioSpace-11-5-21.jpeg"
-        width: 625
-        height: 350
-        isCached: true
-  - title: "Alphabet Launches AI Drug Discovery Spin-Off"
-    excerpt: "Demis Hassabis, CEO and co-founder of DeepMind, is the founder of Isomorphic Labs and will also serve as the company’s CEO."
-    publishedDateTime: 2021-11-05T18:44:00Z
-    webUrl: "https://www.fdanews.com/articles/205224-alphabet-launches-ai-drug-discovery-spin-off"
-    type: article
-    provider:
-      name: FDAnews
-      domain: fdanews.com
-    quality: 19
   - title: "Google’s new sister company to use AI to speed up process of discovering new drugs"
     excerpt: "CEO Demis Hassabis promises to usher in a new era that reimagines the entire drug discovery process with an AI-first approach. Google’s new sister company to use AI to speed up process of discovering new drugs."
     publishedDateTime: 2021-11-10T05:40:00Z
