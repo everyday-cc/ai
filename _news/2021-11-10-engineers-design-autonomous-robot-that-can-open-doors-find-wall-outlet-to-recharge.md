@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 827
         isCached: true
+  - title: "Autonomous robot can open doors, find nearest electric outlet"
+    excerpt: "Robots can do many things, but if you want one to open a door by itself and go through the doorway, that’s a tremendous challenge,” Ma said. Students in UC’s Intelligent Robotics and Autonomous Systems Laboratory have solved this complex problem in three-dimensional digital simulations."
+    publishedDateTime: 2021-11-10T08:05:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59101.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 39
+    images:
+      - url: "https://www.nanowerk.com/news2/robotics/id59101_1.png"
+        width: 400
+        height: 283
+        isCached: true
 
 secured: "viMT6mX4Ycna4/OPBAI6/NsRdOwOkzIhAFypgazONuN0e35Ugg9DRvm9Ox81zEb0CkjXU7wJ3eEsNm5nL4p+OJ15qjSPDHvjG/MxzWEMpXfPsVxOqvWikcrDNywcdMLYx3byx2XtXfmaMoIetRXqCMKMV8O4NJkDs6nvt41XRfSbnabYAuhCo3dfRRlwUGf27ZhTgQZJasVJlc9VicBqzIyvGHbQiwKEeZj4VSmdWQUywEr+AOc2Q5BUFhvtxBlAvtAvUDo77hwdxVbn9OGRbjB+bn30MV7F7M2twxhl3sxPzhwY4Xg7184LrQkeU7ERsjdLioj+a0Il/Pw6wiD8CH5NkQ2QTwb+AUvAME5lJR4=;WVpyYs+J3fWIpNbxOGV6Iw=="
 ---

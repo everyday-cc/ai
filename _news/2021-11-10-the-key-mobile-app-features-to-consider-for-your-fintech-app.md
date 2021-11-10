@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Whale Cloud and Ant Group Join Force with Toka Fintech to Expand Inclusive Financial Services"
+    excerpt: "Whale Cloud, a leading technology company providing software solutions and services for telecommunications and multiple other industries, today reached a partnership with Toka Fintech, a Mexican-leading financial group,"
+    publishedDateTime: 2021-11-10T07:13:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-china-financial-services-telecommunications-92074fc89c3c4614a19bb193ce853eec"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "9TMaManJn6+vNqHCf46GFsEUq0RmSZNQEEQHJR1gWT7MI/33QyN97NJK/fvua9KSgVh99NCRbMljPtJKQjZGIkAOIxAi4FDhjp+Wfn6s/9/m+w/ijGim7LGV5PX16cZzMSkWTG2l0OpGdngzfeRXk99Siq88RGKPrGCmS2ya1YxhZBGvnfbKDW1VE/q+oVip5sAXOwFHH/GkWVJLZpptF8eicI2kxjmsXlz/7qTGFwaUNq2DU3c2FTLje9ZEkM6lp2q2tEPqmn6sxxSFHXCO421RbSnkJkmCeEVlvZnqvMdiACvaQq3cT93YPYMCuEyTcVi1LKPXK+WrKfvmgfl+DGT4XhOazURKbT4dcO5cASM=;Eu3TMAakL/SZN7kE3YNjVQ=="
 ---

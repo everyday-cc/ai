@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Whale Cloud and Ant Group Join Force with Toka Fintech to Expand Inclusive Financial Services"
+    excerpt: "Whale Cloud, a leading technology company providing software solutions and services for telecommunications and multiple other industries, today reached a partnership with Toka Fintech, a Mexican-leading financial group,"
+    publishedDateTime: 2021-11-10T07:13:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-china-financial-services-telecommunications-92074fc89c3c4614a19bb193ce853eec"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The Key Mobile App Features to Consider for your Fintech App"
     excerpt: "Almost every major bank, financial organization and investment firm has a fintech presence. For most financial companies it is the mobile apps that remain at the forefront of the fintech revolution they take part in."
     publishedDateTime: 2021-11-10T03:16:00Z

@@ -153,20 +153,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's 'Full Self-Driving' Gets Mixed Reviews"
-    excerpt: "Drivers who utilize Tesla’s Full Self-Driving have mixed reviews, being simultaneously impressed and alarmed by it, according to a new report from CNN, which relied on interviews with vehicle owners who use the software and a review of videos posted to social media."
-    publishedDateTime: 2021-11-05T14:35:00Z
-    webUrl: "https://www.chron.com/business/article/Tesla-s-Full-Self-Driving-Gets-Mixed-Reviews-16595098.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/54/05/21676404/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Apple’s Self-Driving Car Project Hires Former Tesla Autopilot Engineer"
     excerpt: "Bloomberg’s Mark Gurman and Dana Hull are reporting Apple has hired a former Tesla Autopilot engineer to its “Project Titan” self-driving car project: The iPhone maker tapped Christopher “CJ” Moore for its team working on a self-driving car,"
     publishedDateTime: 2021-11-05T23:06:00Z

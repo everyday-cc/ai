@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://assets.entrepreneur.com/static/20190315024232-ActionAmbitionPodcastlogo.png"

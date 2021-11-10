@@ -84,6 +84,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Shell Offers New AI-Powered Applications Through Open AI Energy Initiative"
+    excerpt: "C3 AI (NYSE:AI) and Shell (NYSE:RDS) today announced three new Shell products that will be available through the Open AI Initiative (OAI), an open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
+    publishedDateTime: 2021-11-10T06:58:00Z
+    webUrl: "https://www.businesswireindia.com/shell-offers-new-ai-powered-applications-through-open-ai-energy-initiative-75892.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 17
 
 secured: "7R+p6RRVLxM8ivmqdaS8/z7QTkO+gCkGp8ZEnF8E2wB/pTb7oK+8fmHFxnGvX/x3iWga3Rpd1XS/z0Qcfdcmg8bo2n3uOc9gyLuRyfWEqO/6D0U5Lh324d8JP19W2tHIEPnMNW76QFu59AxwhaYkdIHD+ZwIx/p9I3FkVRf85sOQtST8OER+XXfPf+gVQ1yvIiEHmbtALhYdhJfYBZczr6OUtDnQr5M6VPXtbZNmFLx9LdVLyoklhPFEQVhkiUffVbvONjO9RZHAB7MxH+Vy+L3NzSqlLCUlLiXiXMVS+IgT8tiBR+SLcx9UtaAvdwjUk66S9rQnBgs3Nqs9y6iPqyS6k4/TIMXRfxemCx7+TyI=;nJ/bRJZwytHNDjM9FWCn1A=="
 ---

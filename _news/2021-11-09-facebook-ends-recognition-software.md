@@ -109,20 +109,6 @@ related:
         width: 837
         height: 628
         isCached: true
-  - title: "Facebook’s not safe for face biometrics, but privacy can be built into Meta?"
-    excerpt: "Both Recode and Fortune are reporting on misgivings that some in the industry have about Zuckerberg's happiness to delete 1 billion face templates."
-    publishedDateTime: 2021-11-05T15:46:00Z
-    webUrl: "https://www.biometricupdate.com/202111/facebooks-not-safe-for-face-biometrics-but-privacy-can-be-built-into-meta"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
 
 secured: "L9qxC1MMtlYe7xCVVFzQ+26WM9LSCaUSGwR1sJRwHEJvmM+aEMfhC2z1YJCyD1KalRJ1e0M+rvJgzWDxdKBIFYlphbP8j5mFvVlFRwrJMoLAzxyLnVLG9DUR/22O5UcEp6NHqQ1+SfP8aDLYFjhVeJ0UbhxyvfsAkV2YT8f1T6oZyjVM+AeEPjTxVcFQH/pb9AJB562wkmFgcBRat0Ut70uirEhSwjydo9W80MheeDR53zBiFl3jvlJkKpap5DIccil4JRXbRryyBtJcpg40VbY6vEdPKF0rG1hLct3/nkpHfCwmaMzc+efnfyMJX4wpKPVEexAVZJMDQQ8VEO8xtzJsbdfliwnEV+LdyqgUevw=;pJwqrjumvlI9LmNndSiGkQ=="
 ---

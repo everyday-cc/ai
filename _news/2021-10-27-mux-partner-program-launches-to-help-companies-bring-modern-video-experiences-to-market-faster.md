@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Mux Partner Program Launches to Help Companies Bring Modern Video Experiences to Market Faster"
-excerpt: "SAN FRANCISCO, Oct. 27, 2021 /PRNewswire/ -- Mux, the leading video platform for developers, today announced the Mux Partner Program to help new and existing customers quickly build and launch ..."
-publishedDateTime: 2021-10-27T16:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster-301409656.html"
-webUrl: "https://www.prnewswire.com/news-releases/mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster-301409656.html"
+excerpt: "The program makes it simple to use Mux in conjunction with a curated ecosystem of developer tools, product design and development agencies, and cloud providers"
+publishedDateTime: 2021-10-27T16:00:00Z
+originalUrl: "https://www.wjhg.com/prnewswire/2021/10/27/mux-partner-program-launches-help-companies-bring-modern-video-experiences-market-faster/"
+webUrl: "https://www.wjhg.com/prnewswire/2021/10/27/mux-partner-program-launches-help-companies-bring-modern-video-experiences-market-faster/"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WJHG
+  domain: wjhg.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1611559/Mux_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://gray-wjhg-prod.cdn.arcpublishing.com/resizer/0BLpjpxQZnTlpxtbi8Sym045azI=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/HF77FU6G7AQGBYAFLHQ3AIAA24.jpg"
+    width: 980
+    height: 475
     isCached: true
 
-secured: "0GTRNB7QKv2zGT2t7YjVotudD1VlnDU5co8GaAcORJbeXegDI7Hx/hp4MrW3cNLdnUND/njyl57L2pathsGcaXn/jM9r5amZqkgtLcrB10xFEpZ02cyDCXj+xK2eH3D7gjv4jSFW8XGmFl+kHzEWl/nPOtHy/5pdnV5qb6tbrmloD8P9x47LuhXyIZ7TDSPg7ZwYRKkW0vdDf0DuTsBTbNduHGQjXRyB8euTiWYfGH+6e5iVAQGxRTcylb2aU+NhBOLfWC1uv9HDTi9c0cvlUfWpa8PytMX4bHwB+9BZnnKXPWcEbtKTkCKedSk3YzyVNkqA/62dJh3qpK+StnCeVSn8+PGEiNC8i60FdviZca4=;WpeOO/JkiK29RnvsLXtW9g=="
+secured: "l+eqBLl2J5+DfErHKKWPP7c8Kj0kPO4HWI21/p39oqaRhJOysXo6SKA5w0kmP1gsD87v21p7Ku9zR3Vc4U67zuXuWp6i0rsQDeduUirss5g6G3r/1pnK01+rKDx0Hsrovqw/ooWXF6STXCrAzyGcwR/uWoIqO3wzZraIRdbWJ/H3GBuTX4oZqlgcZfnfSX5+yxXnlluImk2+mgbzhGK7J+fMt2xCU6hi3gMOy/Ps19uchAYK2T0BoOfjYWW9xKDwMv+yC8sMLpgWKwLeqStzVJJN+V/hsCqs9qMQAtPw50tyfdgnNDNVsp1sYXRCrQeGIrNqvuMOGvi1kLk5yJHdLOtnwewktBJZsMgEQH53lDw=;Re7Y08m4fiERXH04Mw9ZHQ=="
 ---
 

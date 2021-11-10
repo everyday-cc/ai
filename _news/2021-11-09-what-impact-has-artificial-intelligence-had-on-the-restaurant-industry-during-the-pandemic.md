@@ -75,6 +75,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Shell Offers New AI-Powered Applications Through Open AI Energy Initiative"
+    excerpt: "C3 AI (NYSE:AI) and Shell (NYSE:RDS) today announced three new Shell products that will be available through the Open AI Initiative (OAI), an open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
+    publishedDateTime: 2021-11-10T06:58:00Z
+    webUrl: "https://www.businesswireindia.com/shell-offers-new-ai-powered-applications-through-open-ai-energy-initiative-75892.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 17
   - title: "FinTech Global's industry lists affirm Montoux's groundbreaking AI-driven capabilities in life and health insurance"
     excerpt: "Montoux, the Decision Science and Actuarial Automation platform for life and health insurers, was recognized on both 2021 Insurtech100 and AIFintech100 lists by FinTech Global. These lists identify 'The world's most innovative companies' working in insurance and fintech that 'every leader needs to know about in 2021'."
     publishedDateTime: 2021-11-09T14:33:00Z
