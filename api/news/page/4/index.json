@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-08-sneaker-fit-startup-neatsyai-gets-1m-seed-after-b2b-pivot.md",
+      "title": "Sneaker fit startup Neatsy.ai gets $1M seed after b2b pivot",
+      "excerpt": "Sneaker fit startup, Neatsy.ai, has snagged $1 million in seed funding after a b2b pivot. Investors in the round include Cabra VC, Flyer One VC and some unnamed business angels. The US startup, which was founded back in March 2019 by Artem Semyanov (the former head of the machine learning team at",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/08/neatsy-ai-seed/",
+      "originalUrl": "https://techcrunch.com/2021/11/08/neatsy-ai-seed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screenshot-2021-11-08-at-12.12.35.png?w=1024",
+          "width": 1023,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/08/neatsy-ai-seed/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/neatsy-ai-seed/amp/",
+      "publishedDateTime": "2021-11-08T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-human-in-the-loop-for-ai-in-healthcare.md",
+      "title": "Human in the Loop for AI in Healthcare",
+      "excerpt": "The future of AI technologies in the healthcare sector in India seems bright, as there is a strong need for volume, scale, and accuracy, along with lo..",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-87585233,imgsize-1131636,width-1200,height-628,overlay-ethealthworld/human-in-the-loop-for-ai-in-healthcare.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233",
+      "publishedDateTime": "2021-11-08T02:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-interesting-ai-ml-nlp-applications-in-finance-and-insurance.md",
       "title": "Interesting AI, ML, NLP Applications in Finance and Insurance",
       "excerpt": "Many blogs address the effect of AI in the financial and insurance industries, but many of them focus on far-fetched AI and machine learning concepts that have yet to be proven or implemented in either.",
@@ -1101,100 +1195,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-alphabet-just-launched-a-company-thats-using-ai-to-design-new-drugs.md",
-      "title": "Alphabet Just Launched a Company That's Using AI to Design New Drugs",
-      "excerpt": "Alphabet has launched a new company called Isomorphic Labs which will use artificial intelligence (AI) to discover new pharmaceutical drugs. The venture will reportedly rely on advancements made by Alphabet’s DeepMind whose AI uses a model called AlphaFold2 to predict the shape of proteins with incredible accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
-      "originalUrl": "https://interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8xEAzGm/sizes/proteinss_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
-      "publishedDateTime": "2021-11-06T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-rise-of-the-robots-speeds-up-in-pandemic-with-us-labor-scarce.md",
-      "title": "Rise of the Robots Speeds Up in Pandemic With U.S. Labor Scarce",
-      "excerpt": "American workers are hoping that the tight pandemic ... labor market will translate into better pay. It might just mean robots take their jobs instead. Labor shortages and rising wages are pushing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-06/rise-of-the-robots-speeds-up-in-pandemic-with-u-s-labor-scarce",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-06/rise-of-the-robots-speeds-up-in-pandemic-with-u-s-labor-scarce",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/illkdk7Rv8g8/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-06T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

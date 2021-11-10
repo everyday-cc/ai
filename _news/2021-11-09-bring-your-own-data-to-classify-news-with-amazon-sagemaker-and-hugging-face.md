@@ -43,6 +43,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Use integrated explainability tools and improve model quality using Amazon SageMaker Autopilot"
+    excerpt: "Whether you are developing a machine learning (ML) model for reducing operating cost, improving efficiency, or improving customer satisfaction, there are no perfect solutions when it comes to producing an effective model. From an ML development perspective, data scientists typically go through stages"
+    publishedDateTime: 2021-11-10T17:54:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-integrated-explainability-tools-and-improve-model-quality-using-amazon-sagemaker-autopilot/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 92
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/28/ML-5375-image003.png"
+        width: 403
+        height: 483
+        isCached: true
   - title: "Nvidia: AI Can Boost Simulation in VR, Quantum Compute"
     excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
     publishedDateTime: 2021-11-09T17:51:00Z

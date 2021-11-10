@@ -121,6 +121,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI That Provides A Running Narrative Commentary While Driving Could Be The Tell All For Imbuing Safety Into Self-Driving Cars"
+    excerpt: "Providing commentary about driving while driving can be quite useful, and likewise we might wish to have AI self-driving cars undertake Digital Commentary Driving (DCD) for safety achieving purposes."
+    publishedDateTime: 2021-11-10T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/10/ai-that-provides-a-running-narrative-commentary-while-driving-could-be-the-tell-all-for-imbuing-safety-into-self-driving-cars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6119a059395a107d86cf31d1%2F0x0.jpg%3FcropX1%3D37%26cropX2%3D1868%26cropY1%3D142%26cropY2%3D1171"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Is the Apple Car FINALLY on the way? Apple hires former Tesla Autopilot software director to help develop a self-driving vehicle, report claims"
     excerpt: "Apple has reportedly hired former Tesla software director Christopher Moore. The Cupertino-based tech giant has been working on its long-rumoured self-driving car project since 2014."
     publishedDateTime: 2021-11-09T15:30:00Z

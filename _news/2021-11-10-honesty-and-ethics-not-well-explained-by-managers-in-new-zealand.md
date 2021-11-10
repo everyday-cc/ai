@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-11-honesty-ethics-zealand.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-honesty-ethics-zealand.amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 2880
     height: 1922
     isCached: true
+
+related:
+  - title: "Connecterra Expands Access to Artificial Intelligence Technology for New Zealand Dairy Farmers"
+    excerpt: "Dutch-based startup Connecterra, a world leader in using artificial intelligence to deliver insights to dairy farmers, announced its intent to launch in New Zealand. The company has signed an agreement with Fonterra Co-Operative Group Limited and will be sold through its retail division,"
+    publishedDateTime: 2021-11-10T18:42:00Z
+    webUrl: "https://menafn.com/1103144539/Connecterra-Expands-Access-to-Artificial-Intelligence-Technology-for-New-Zealand-Dairy-Farmers"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?325605"
+        width: 555
+        height: 250
+        isCached: true
 
 secured: "6nq2UdTVWgK02uauYhJEZsid2eQeiW/+EGeYYD64qF0/pkztbEE8JLUC693zw4JJpAlmfb19/eHC1UFh6Vue4KXNahrbRY4PGJsN3gdhop5Tbux15TYFcAEq3t9ln9L5BPuyl2gh5KWOdzVBfNq4AeQLB+a78FjFjhZbbFq2bOZxUXfzGhGb8vfcjDPaxl4cxjIkoFKPxMaFh/j+F5U/X8HVi4jP3uv+1Q3Hun3JS9hv+ZUC5qMzTsVQCTGR4FPNep2uhfseEV0a4mng6DVRqKKfpkak4AbkiiQ9i5dh41Wl/70xxqCm6Z6j0g5coUgt8V0WRpboX06HhY+px2EkK8dVYDzpbJxcIYJLxWfBor4FX6ILI1CCV6feE/UWzSZkznVNN8mbn4yIDvR3vrr6/e3w+v6WIUXGl9ONKpCvqgwHR2U+4LNDEVIp5Y/pjY30AjicdoP56bqFZhNAUlyG5tRf2x18vliX+TmgxQtBTl+XWi4ooS0CjwGQ2LCwXMPHvDGgllzGuNEiW+RnvG1Tqg==;A5gjE87R6l4+0ulnkhXyiA=="
 ---

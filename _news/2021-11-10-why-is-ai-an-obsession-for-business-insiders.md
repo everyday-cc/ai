@@ -7,7 +7,7 @@ originalUrl: "https://www.retail-insight-network.com/analysis/why-is-ai-an-obses
 webUrl: "https://www.retail-insight-network.com/analysis/why-is-ai-an-obsession-for-business-insiders/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Will Transform Business"
-    excerpt: "\"Artificial intelligence\" is a broad and general term ... \"AI is starting to make what was once considered impossible possible, like driverless cars,\" said Russell Glenister, CEO and founder ..."
-    publishedDateTime: 2021-11-08T00:00:00Z
-    webUrl: "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html"
+  - title: "The 7 new business values in the era of Artificial Intelligence"
+    excerpt: "In the era of Artificial Intelligence, consumers and customers increasingly demand a better experience from companies."
+    publishedDateTime: 2021-11-10T18:39:00Z
+    webUrl: "https://www.entrepreneur.com/article/396564"
     type: article
     provider:
-      name: Business News Daily
-      domain: businessnewsdaily.com
-    quality: 39
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://www.business.com/images/content/5ca/3d0715a215e8a458b6a82/1500-0-"
-        width: 1000
-        height: 567
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1636569535-inteligencia-artificial1.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "TtTFH0DADWcTiSHvDvjF9PGvNg4c9N4CbYmBHjh2XX/shVwFVKoXxh9tsqdaDVFT2jRpYqpeg5WxyG4BObXMjObIjdXk5SXpWC5fUCNHT3nh/BB/IepLcFRq3lRULLsaa6GceuivepclAHLaojtaP9GVbF7NVqeEKcCMOOS9l9ZB9p7CfMiLZVPzVzUj/Ta+VlTTdOZ3I1oU4SGfteZ7rJMpcEgdLRCO7qTSqezVtPZR3aRgARlD6N9jbSuAhlQexgQDrqf6IGWysytGRPL+BeqhgS1y4sRTvoBMmzVK8u1F3Gyl6TSLEuyFANh5m5uRCW9SixS5Gmn6gffYMllZP9Uqxd5tASfr6aKecxufkVwIH1CLZwmdl9G72LVPQ+Ui6ETB/a4cOpC/FI6cJ4HghhtcBiQSeHOqsH3v7QI4wVUriJ6EpXmxfk0xSjOnlS/jXoxl5OwS7HM8KqHZxu6vB8SvU1HYalQsylN1w8hHXgwhfyvmawLhl0S9KDrMWQs5jca+Mw41TOPHXqMH31OxKQ==;8jy3/vaMXMJ8wgo/AM1h3Q=="

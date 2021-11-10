@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-robotics-raises-125m/amp/"
 type: article
 quality: 121
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/11/B2EZVYMUTBHWBITYJZWEAB7WR4.jpeg?w=1200&strip=all"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Self-Driving Truck Startup Kodiak Raises $125 Million in Series B Round"
+    excerpt: "On November 11, self-driving truck startup Kodiak announced that it had raised $125 million in an oversubscribed Series B round for a total of $165 million raised to date."
+    publishedDateTime: 2021-11-10T17:31:00Z
+    webUrl: "https://syncedreview.com/2021/11/10/self-driving-truck-startup-kodiak-raises-125-million-in-series-b-round/"
+    ampWebUrl: "https://syncedreview.com/2021/11/10/self-driving-truck-startup-kodiak-raises-125-million-in-series-b-round/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/10/self-driving-truck-startup-kodiak-raises-125-million-in-series-b-round/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 59
+    images:
+      - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/11/Kodiak_Robotics_Self_Driving_Truck.jpg?fit=800%2C450&ssl=1"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "EESDzHawXVH/2WsJhilK4chLiDQsZWx2H0jPq3KOGuiiJEfVWyqDgpT2k74jnr+hzA/qD4PiMVJbOTqIQ2+n08U5TSzMgsdUpVLaBc4lAes8uEYscjnMj8a4zTmf5njmmizlY9D3giWzeE8IVL63CwCZTRUaBMnv+TDDCV/W7MbBP1XoH5s29sXANQAN0KJBVGdL9LKdeVpSOhEr5EEx8n77yyfV+sKpRvdKc+Z5xduPgeSa63aQqVcFqznNnFlxbpJBbIu+oPWIffQcG+kvx3AJtqj6fIpITwPYM07lDjIjXl0tJpQ59H7KAkdYTd2cimEMcLmJJ3YZW+f6fKBaLbsPirFo3ko5wijQsAIQtlafoTldvvQ8ERfc/PGFlnn7ZzVJXJ/BchWOeAtjpQ8rLJwzw+kNW3SQvYfe+6iaADqf5frLL9y7ZWbVYfhQWHOnWrJcU+0t40myVZLBkKUMYvgxy3H657JksEyyI9vOv24cO656G3wJ8+hI5QQbyQWJUXLY5X3sV9nVFBOwmgwT4Q==;GrWW1mhS8DM/ECuoDR4TFQ=="

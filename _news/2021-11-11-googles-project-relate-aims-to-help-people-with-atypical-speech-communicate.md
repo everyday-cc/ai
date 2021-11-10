@@ -3,8 +3,8 @@ category: news
 title: "Google's Project Relate Aims to Help People With Atypical Speech Communicate"
 excerpt: "Google's newest assistive technology, Project Relate, looks to help people with atypical speech communicate with the people and technology around them."
 publishedDateTime: 2021-11-10T16:37:00Z
-originalUrl: "https://au.pcmag.com/news/90690/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate"
-webUrl: "https://au.pcmag.com/news/90690/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate"
+originalUrl: "https://in.pcmag.com/news/146071/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate"
+webUrl: "https://in.pcmag.com/news/146071/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate"
 type: article
 quality: 66
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/g/googles-pr/googles-project-relate-aims-to-help-people-with-atypical-spe_1a6r.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_in/news/g/googles-pr/googles-project-relate-aims-to-help-people-with-atypical-spe_5rm9.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -90,6 +90,6 @@ related:
         height: 1406
         isCached: true
 
-secured: "hWBR4u9mos5Fy7q7I3+4XCF3rqkR7mZPwNVYxM9mwSxR9WyMxEP1pLDpasoCclTDp60aovK2N7tu+wDhXtRkN9zCqjKILmOZ4/bitft8Rt0r+yhfBhBWzHfUbLKfUpluNBrXHKIi0v5w4h15TUi3M38/O9sIBFCTei/ko/OO1mrRzOLaYDKJUTqXaENiTbP+T0V0Iy/PSXgz26bKAu9v4t9dz6g+v1DL3qZrygtifutA+DzbVaKlkC8xjJ1B43TCy6ORX2vpx23nRUibqs4g1pUwgv+hhD0LR+JiFmtyblznfDf5dwS30JSVUo+XbGy1cZ3ojjY7Jz8z1zF2ONj9Ln+LM8QLjuadiar9b4bZwEE=;k7MmPcnv89fSwuqgYYQ71Q=="
+secured: "Oass1Mdww+3BOAU3/SwwWnp0ocklQJWa/FieIWxuTmY2Y0vWaWe6Aj5LGDZzYjUN9/H27OUpu5R4feDz/BXvx46oHpArmAjyh5v/7vfcvGYU6V8jTKCGvXPAJHvoZQaoW9/BBvaojrxbAfI+mx0CKGL7iVyNFX3Flpl3nlCX69FNfTNX3cWYmwHgW3y2BoJPP9X1z/oM5eZpGedAevfgIb/+kpHfj2oGtmeSsIsdpnXq6b4elEZKI7I85RNtUPeN3HSeSSjAUBcid6qKXtPTLSL9KP1Q9X8mcnF8jn9f1QJILifNQoRS9hPNNXJvEHLfRFMc1/NM/potz/l6aDGUswrGe8wcoHUG987EZ/PRicg=;sDvWyCdnWakB3nOatjpDWA=="
 ---
 

@@ -1,0 +1,45 @@
+---
+category: news
+title: "Standard AI acquires ThirdEye and teams up to bolster autonomous checkout tech"
+excerpt: "Standard AI, which provides an AI-based solution for autonomous retail checkout, has acqui-hired computer vision startup ThirdEye Labs."
+publishedDateTime: 2021-11-10T17:00:00Z
+originalUrl: "https://venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/"
+webUrl: "https://venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/"
+ampWebUrl: "https://venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/amp/"
+type: article
+quality: 83
+heat: 93
+published: true
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2018/09/0N5A4946-e1596208218299.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
+
+related:
+  - title: "Standard AI Completes Computer Vision Acquisition, Bolsters ML Leadership to Drive the Future of Autonomous Retail"
+    excerpt: "Circle K, Compass Group and others look to Standard AI to transform existing retail and convenience stores to deliver an amazing shopping experience to customers. The first and best-funded startup in this space, Standard AI has launched multiple ..."
+    publishedDateTime: 2021-11-10T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 29
+
+secured: "hiOAh2JdD+9boefKiQ9UjCec4wQuStyj9AXcEVMyqeYAuqgx8ZQHxbAkblkpVFhmKkFVP8SackPkjtheuKMsEWqFl0EySPAt5b9rQ+CyyScdYXsOQ2tJpF1dWxhsDnhdYSO6uxvEYH4m9G2jCjQYYqcvi2o5k89QpTVydywwMBMdURIpKyy0lasqir5a/YUrPLnmYdUQPfo/CJCJt2Sp2dzYdjow18fcmrAzxy6IBOiUnZ+RAw7tvohBQslYS1JkcRYdkIMSrszauIA/OEMkOkIAgcgLvlYTOWxmAa2mD61yjmFcSXzaS7m5WTWjSG6QCplfRGzwu1ZcaXLWBK0s9W+iPvLNTfO3tQQiwvm4kM4=;D6YEaaGt442KCDZVS8YiTg=="
+---
+

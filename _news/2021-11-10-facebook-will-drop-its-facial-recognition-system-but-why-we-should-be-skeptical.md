@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2021-11-facebook-facial-recognition-skeptic
 ampWebUrl: "https://techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.amp"
 type: article
-quality: 54
-heat: 104
+quality: 56
+heat: 106
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/facebook-will-drop-its.jpg"
@@ -72,16 +73,16 @@ related:
         height: 418
         isCached: true
   - title: "Facebook is shutting down its facial recognition software"
-    excerpt: "CNN By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
-    publishedDateTime: 2021-11-08T16:55:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+    excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
+    publishedDateTime: 2021-11-08T21:55:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: Local News 8
+      domain: localnews8.com
     quality: 39
     images:
-      - url: "https://ktvz.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
+      - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
         width: 2000
         height: 1333
         isCached: true

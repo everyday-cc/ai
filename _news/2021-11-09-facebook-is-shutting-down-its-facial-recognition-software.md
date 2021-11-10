@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Facebook is shutting down its facial recognition software"
-excerpt: "CNN By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
-publishedDateTime: 2021-11-08T16:55:00Z
-originalUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
-webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
+publishedDateTime: 2021-11-08T21:55:00Z
+originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
+  - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -35,7 +35,7 @@ related:
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/facebook-will-drop-its.jpg"
         width: 1356
@@ -100,6 +100,6 @@ related:
         height: 900
         isCached: true
 
-secured: "wrviyCfxZp7kkoDgaa/mdA/4RCfvY5xudm9zejw36eSnOQEuunDDGnHDVWl9UaV5Agi0Iyo2N3fUpcPEidvPSbpj7J0LBo0iCut5P6QM/SJudsKu/HEoD3U+z5GgeYan3buKdyd44z7rP8cvZeXblYIBKciyZ3prqPITpMxNODFpBUT6sLLAATsLO16+wiMMnx+fIacVMtAmvLl4i6rTFWYvPyUhjgIslNORhH8IAiwAlb0O3V9fdxE/RjPbhQUEXrufiprPYXsyKKlYwlfE9+s3T9dr1T/jz7Vlne7T/PgnCV+mJwsNb0Nb7V7Frx90GqRFB5MZGDDckOX9Ni3OOjzQ4wC/1I3HfzYqOJBfXhrSIzSPBHqlTuV+xxlxCt6LL7DqY7x7hXmQgBYsWbA1tudHVqqgdVn/hHzLCIe9pew53yxHEzEj/Tfi1+ZexEc+HTRcEVdX5/TknLKigWBlQQZjGJl3b+wNlYyDv/A21HPGNpKf2TErm9etHFH70yItLhVn5lr3ZPIV/HMoQN1zwg==;KJYVhO0BMp7sVRb1CGaInA=="
+secured: "6HMtSkizd57HaPpkt5Hf/lwyW0D2vBuBaeOVi8TNWB7d3bsla0aZsoAd9TJHwrx3G/WotRQ+FEGu+HVRluacmCGsbMROXHgMWCWEZEoMIDWAOd+K7725Y80OsSNZXuUfFnaD2B42yBG60yBFDpM51UW4BDdjYMZm4vPSM0Ztz688SN04HYLFfZnGqQOU8YARgJSJnlyYC3gjaU798MBaGKMzzFLWP6bbRr20EsoBMUcs3K4iwIBaQ1W82KGQatf6tHMHQ4zLmgCjmsECoT6cikTknKKoD5WWzMmeCeEX/nPeVqYoKyFRXtWC0/tWp9ze0DluTMM9vOcohReZZlPc9Mf1Scwz8xIA2fGIdIxwmJM=;Ni3FWKy3O5/0PAZ1IWriEQ=="
 ---
 

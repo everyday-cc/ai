@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Self-Driving Truck Startup Kodiak Raises $125 Million in Series B Round"
+    excerpt: "On November 11, self-driving truck startup Kodiak announced that it had raised $125 million in an oversubscribed Series B round for a total of $165 million raised to date."
+    publishedDateTime: 2021-11-10T17:31:00Z
+    webUrl: "https://syncedreview.com/2021/11/10/self-driving-truck-startup-kodiak-raises-125-million-in-series-b-round/"
+    ampWebUrl: "https://syncedreview.com/2021/11/10/self-driving-truck-startup-kodiak-raises-125-million-in-series-b-round/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/10/self-driving-truck-startup-kodiak-raises-125-million-in-series-b-round/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 59
+    images:
+      - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/11/Kodiak_Robotics_Self_Driving_Truck.jpg?fit=800%2C450&ssl=1"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "17dD9eywxFpDsDqEbfOVJmxvfzX1kCjSgInwyyiCs/EYyrTw6bYjnYhZOly4EA8BjpiTFR4pOfTOZJjipuwLxL0yG3Gcc4SyQyCZRCsG2XVclKs02b7FIEoiurcs9E4Rb+4BBDpMxzLU7hMRXIIT0oxJqE/q30YT6QJPB4sIQ7JozbWrMltVB8Sw1MhQ+RE3o5yCFtc8ZHwXb5BkVr3NPt9PwFsjo6lA8VcFTGQSn5xPZ0NF2d1IW/iEP4phUvj3/DNmaFl11SXci41gQfrw+uGPL6L46Odoq65pId1Dkx2wM/SzmCdCdaGVpbDsRzB0ERrTSlhD00rl7250pKS2c6lGSM/AhFZXF/mze29uyP0vSCQlbABl71STBQOJQ6EIzmcLlbwIgPeLAy0mVx46GtUbwdgMfMsmqtqmc3U1aELAtyIqKPT8hOllkiwilacFuvAi5DEd1UvYzYyzLJU27h8NRzLZt/Nqtqwy5asw0wq3yiNIGQzrcitwVNOCWONSoKDHKMR1c71cfm7LTSZOqw==;WmS/K+zc6tGrq/TtxxjcOw=="
 ---

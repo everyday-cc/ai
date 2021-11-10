@@ -39,6 +39,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Use integrated explainability tools and improve model quality using Amazon SageMaker Autopilot"
+    excerpt: "Whether you are developing a machine learning (ML) model for reducing operating cost, improving efficiency, or improving customer satisfaction, there are no perfect solutions when it comes to producing an effective model. From an ML development perspective, data scientists typically go through stages"
+    publishedDateTime: 2021-11-10T17:54:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-integrated-explainability-tools-and-improve-model-quality-using-amazon-sagemaker-autopilot/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 92
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/28/ML-5375-image003.png"
+        width: 403
+        height: 483
+        isCached: true
   - title: "Bring your own data to classify news with Amazon SageMaker and Hugging Face"
     excerpt: "The fields of natural language processing (NLP), natural language understanding (NLU), and related branches of machine learning (ML) for text analysis have rapidly evolved to address use cases involving text classification, summarization, translation, and more. State-of-the art, general-purpose architectures"
     publishedDateTime: 2021-11-09T17:53:07Z
@@ -124,6 +138,6 @@ related:
         height: 450
         isCached: true
 
-secured: "UvDtVlLeR4x676AoQ9XEEDMTtM3/r4HWYsc/Lga/Zs+i+qFVfGRpLRel8cTZmdvyTLVmxwYKVkRVAnUR0uCJRwzW8ermBMeP7MxwZQxBKNf2ST7FqFaAd8qLRm0wXYS8TO0U5h2VjmcCtJUcczIBm3rxE5nKjEkjhmVCxNuVspDr0j962ZkqJO+pW+Yhk1rrWHKMOU8qlBZvDdJIIjGjYfAJuzApXanbJ8NHUyAj26IvaLsOkbIExQzar+pIVOhvL7sFsOiKNT9/7BAO2Y6pZWOvymwsDS2R+wLENFsQoTBaOpmfaHIculbCi04xE+YlEEfpRMC3xf049AdzMGwen6bWYR8XT60USlYp/d8EuDk=;lFAfhSdpX9uxefLEgOU6YQ=="
+secured: "zqMox+v5m4C1emGgXaKL2jrKto4iX66Y2djQXuuno91MJWjGGL6KMuJv62OmfeFJfh9k7AKSondsVTI27Kjry3kky55synEuzN7HTe/N7c27TvaZhGwhjGXR0ertv5XkQ4hSsw6Qvc0VIHOOGLudCf3woMnc9MLrmto2e4FTm1o4jCUNUYfFCoBIe8zQC6cdjypIhiyK9EDls+mwvkTO9bV1WqjNUsMvSQ6/AXTlyorcMuob7NrarCvThNJp6faXb2xWPJ8sqJW10QViInaPrCGLmGoZO26fgzrb+IYfNue5KsLB9ycxKHg0bRDFc7CLz01SEvfv3vhwpwpvO6AlDn7HeXNGGQkbAhqHa9b/0VDWw3dSgtsq99jgjVUtjsAEkmByOO+75YLJL21+5dt//kO0/ynS3g4TACsxYAIEgThueH7HgLnsvrtis2uDwwdEtfWc6gf1EF2WC+Xru2mhbgX5Qxk28cdTwd5pGAOevo4WMmUh8Uilbf+eBew/VMrdaER8Wpv8K7j+NUY9tmaqCw==;T20gsefMWnfn7xocVPC3+g=="
 ---
 

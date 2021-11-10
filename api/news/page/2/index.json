@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-10-kai-fu-lee-and-yoky-matsuoka-imagine-ais-potential-for-good.md",
+      "title": "Kai-Fu Lee and Yoky Matsuoka Imagine AI's Potential for Good",
+      "excerpt": "The investor and entrepreneur discuss \"human-in-the-loop\" technology, and how artificial intelligence might be used for health and caregiving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/rewired-2021-kai-fu-lee-yoky-matysuoka-gideon-lichfield/",
+      "originalUrl": "https://www.wired.com/story/rewired-2021-kai-fu-lee-yoky-matysuoka-gideon-lichfield/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6189cab61667c44ded0704e0/master/pass/Kai-Fu-Lee_Yoky-Matysuoka.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/rewired-2021-kai-fu-lee-yoky-matysuoka-gideon-lichfield/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rewired-2021-kai-fu-lee-yoky-matysuoka-gideon-lichfield/amp",
+      "publishedDateTime": "2021-11-09T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers.md",
+      "title": "Breaking Out Of The Content Clutter: Machine Learning And Artificial Intelligence Offer A Vital Tool For Broadcasters And Streamers",
+      "excerpt": "For streamers and broadcasters looking to break out of the clutter, machine learning models can ... [+] offer a new way to promote or offer additional content.  Wi",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcberman1/2021/11/09/breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers/",
+      "originalUrl": "https://www.forbes.com/sites/marcberman1/2021/11/09/breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618a85beb852c065881b3db1%2F0x0.jpg",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcberman1/2021/11/09/breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcberman1/2021/11/09/breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers/amp/",
+      "publishedDateTime": "2021-11-09T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-tesla-starts-retrofit-program-for-cameras-on-older-vehicles-with-full-self-driving.md",
       "title": "Tesla starts retrofit program for cameras on older vehicles with ‘Full Self-Driving’",
       "excerpt": "Tesla has launched a retrofit program for Autopilot cameras on older vehicles with the “Full Self-Driving” package. Starting with the introduction of its Autopilot 2.0 suite of sensors in 2016, Tesla started selling all of its cars with the promise that they have all the hardware necessary to achieve full self-driving capability with future software",
@@ -10,7 +113,7 @@
       "originalUrl": "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -1126,100 +1229,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-new-ai-brings-the-power-of-natural-language-processing-to-african-languages.md",
-      "title": "New AI brings the power of natural language processing to African languages",
-      "excerpt": "Researchers have developed an AI model to help computers work more efficiently with a wider variety of languages.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-11-ai-power-natural-language-african.html",
-      "originalUrl": "https://techxplore.com/news/2021-11-ai-power-natural-language-african.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/3-ai.jpg",
-          "width": 1800,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-11-ai-power-natural-language-african.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ai-power-natural-language-african.amp",
-      "publishedDateTime": "2021-11-09T00:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-daniel-eks-fund-puts-100m-into-defence-startup-helsingai-to-support-democracies.md",
-      "title": "Daniel Ek’s fund puts €100M into defence startup Helsing.ai, to support democracies",
-      "excerpt": "Spotify co-founder Daniel Ek pledged 1 billion euros ($1.2 billion) of his personal fortune towards funding deeptech “moonshot projects”, spread across the next 10 years. In particular, he was most interested in boosting European tech and European entrepreneurs as he said",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
-      "originalUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/03/daniel-ek.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/amp/",
-      "publishedDateTime": "2021-11-09T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

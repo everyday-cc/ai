@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-23-artificial-intelligence-for-edge-devices-market-is-booming-worldwide-alibaba-mobileye-google.md",
+      "title": "Artificial Intelligence for Edge Devices Market Is Booming Worldwide | Alibaba, Mobileye, Google",
+      "excerpt": "AMA Research recently released research coverage on Global Artificial Intelligence for Edge Devices Market that evaluates and provides market size, trend, and estimation to 2026. The Artificial Intelligence for Edge Devices market study provides ready-to-access and self-analyzed study with significant research data proves to be a useful document for managers,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-for-edge-devices-market-is-booming-worldwide-alibaba-mobileye-google/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-for-edge-devices-market-is-booming-worldwide-alibaba-mobileye-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-for-edge-devices-market-is-booming-worldwide-alibaba-mobileye-google/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-for-edge-devices-market-is-booming-worldwide-alibaba-mobileye-google/",
+      "publishedDateTime": "2021-09-23T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-the-royal-air-force-launches-first-trial-of-self-driving-technology-on-its-airbases-with-academy-of-robotics.md",
       "title": "The Royal Air Force Launches First Trial of Self-Driving Technology on Its Airbases With Academy of Robotics",
       "excerpt": "Academy of Robotics and the Royal Air Force announced a new trial deployment of autonomous vehicles on an airbase as part of the RAF’s Astra campaign to deliver next generation Air Force capability. This trial is the first time that autonomous vehicles have been deployed on a UK airbase by the RAF.",
@@ -1332,49 +1366,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-intels-mobileye-to-launch-self-driving-taxi-service-in-germany-in-2022.md",
-      "title": "Intel's Mobileye to launch self-driving taxi service in Germany in 2022",
-      "excerpt": "Intel's self-driving car division, Mobileye, used last weekend's Munich auto show to announce plans to launch a self-driving taxi service in Germany in 2022. The service will initially be run as a trial in Munich but there are plans to expand it to more cities as regulations allow,",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorauthority.com/news/1133565_intel-s-mobileye-to-launch-self-driving-taxi-service-in-germany-in-2022",
-      "originalUrl": "https://www.motorauthority.com/news/1133565_intel-s-mobileye-to-launch-self-driving-taxi-service-in-germany-in-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hgmsites.net/hug/mobileye-self-driving-taxi_100806500_h.jpg",
-          "width": 1920,
-          "height": 1192,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Authority",
-        "domain": "motorauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
