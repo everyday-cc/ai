@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 841
         isCached: true
-  - title: "Focus needs to turn to doing AI analytics right as adoption soars"
-    excerpt: "Digital transformation and adoption of artificial intelligence (AI) have soared around the world since the onset of the Covid-19 pandemic, making it increasingly important for organisations to focus on the tools,"
-    publishedDateTime: 2021-11-05T06:50:00Z
-    webUrl: "https://www.itweb.co.za/content/wbrpO7gYOWPqDLZn"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7gYOWPqDLZn"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7gYOWPqDLZn"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/p9rDEy2TS05gmljGu-JgnaBaMzEV42FH5xYwNZwp0-uz2JUzLKTHQV8zCDIIog1zKOcCSsTbXdvxfvRDsOGrwhi3vcZlptMvPrt4=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
   - title: "Azure Services Platform Provider, 3Cloud Acquires CCG Analytics"
     excerpt: "Microsoft Azure services platform 3Cloud announced its acquiring CCG Analytics, a Tampa FL-based data analytics and consulting firm. Aimed to help customers treat data as a critical asset across their organizations,"
     publishedDateTime: 2021-11-09T17:52:00Z
@@ -100,20 +84,6 @@ related:
       - url: "https://www.embedded.com/wp-content/uploads/2021/11/ADLINK-railways-AVA-RAGX-image.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Analytics Insight presents the top 10 machine learning stocks to buy this month."
-    excerpt: "Machine learning and artificial intelligence has become a significant competitive differentiator for many companies. Check out the top machine learning stocks to buy in November 2021."
-    publishedDateTime: 2021-11-05T07:30:00Z
-    webUrl: "https://www.analyticsinsight.net/check-out-the-top-machine-learning-stocks-to-buy-in-november-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 34
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/Check-Out-the-Top-Machine-Learning-Stocks-to-Buy-in-November-2021.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Opanga Networks: Opanga Announces the Availability of Merlin: Radio-Aware Machine Learning RAN Analytics"
     excerpt: "SEATTLE, Nov. 09, 2021 (GLOBE NEWSWIRE) -- Today, Opanga is announcing the availability of its breakthrough RAN Analytics platform which, for the first time, uniquely combines the power of big data and data science with radio-aware machine learning to ..."

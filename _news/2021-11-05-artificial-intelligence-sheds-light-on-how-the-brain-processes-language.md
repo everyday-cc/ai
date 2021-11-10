@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/10/211025172047.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/10/211025172047.htm"
 type: article
 quality: 64
-heat: 67
+heat: 64
 published: false
 
 provider:

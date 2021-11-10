@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/solving-real-world-ai-productization-c
 webUrl: "https://semiengineering.com/solving-real-world-ai-productization-challenges-with-adaptive-computing/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,59 +24,6 @@ images:
     width: 929
     height: 480
     isCached: true
-
-related:
-  - title: "AI and Simulation Driving Major Advances in Robotics"
-    excerpt: "Whether autonomously moving parts and products or visually inspecting goods for defects, the rapid growth of e-commerce, onshoring of manufacturing and labor shortages have accelerated the urgency for robotics deployment and automation."
-    publishedDateTime: 2021-11-05T07:03:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 69
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFPov227PVLFA/article-cover_image-shrink_720_1280/0/1636095105698?e=1641427200&v=beta&t=t2hu2gjZ-2hTVXnmtcXdmzFeSzLJuRHWLsh8ELc8FDI"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Carbon Robotics Manufactures AI-Powered Weeding Robots"
-    excerpt: "Concept: Seattle-based agricultural robotics startup Carbon Robotics has developed an autonomous robot that lasers to zap weeds. Integrated with computer vision, the weeders can clear out around 100,000 weeds an hour."
-    publishedDateTime: 2021-11-09T09:35:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 69
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/11/shutterstock_651441412.jpg"
-        width: 500
-        height: 250
-        isCached: true
-  - title: "The Future is Now: Automation, Robotics & AI are Safeguarding Energy and Utilities Industries"
-    excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
-    publishedDateTime: 2021-11-08T14:14:00Z
-    webUrl: "https://www.energylivenews.com/2021/11/08/the-future-is-now-automation-robotics-ai-are-safeguarding-energy-and-utilities-industries/"
-    type: article
-    provider:
-      name: Energy Live News
-      domain: energylivenews.com
-    quality: 58
-    images:
-      - url: "https://www.energylivenews.com/wp-content/uploads/2018/05/robotic-arm.jpg"
-        width: 720
-        height: 412
-        isCached: true
-  - title: "NVIDIA GTC: Networking, Healthcare AI, Modeling and Simulation﻿"
-    excerpt: "Jensen Huang’s kitchen—the site of the past several NVIDIA GTC Keynotes—deconstructed itself today in a slick simulated introduction as Huang, NVIDIA’s CEO, delivered his keynote highlighting the latest in AI and accelerated computing at NVIDIA."
-    publishedDateTime: 2021-11-09T22:50:00Z
-    webUrl: "https://www.bio-itworld.com/news/2021/11/09/nvidia-gtc-networking-healthcare-ai-modeling-and-simulation"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 36
 
 secured: "2AbpEJLIL5tTo/uU3kQDPdjv75A6U/8YmAaMK2x5xPfnBpdoflDWcKUU01dqCetxwVQswVhjpFZWfy/wW1ZSZX7YL4niQwMVFN++Rc5h6rb/h+YERl5FYpGJsVHFFGHB1yQ6ETy/ZfY0yYcNPd1Naud6bxbfRyvCWLhozvqWywp49m3N8ikkt/VKAdt2KbWsfdtZgOQc0VAUxqojnPG49BQDM1ctTEIel/0NuczPRkFRHVaoFxwwcHsKZpSLhxe+3As93zFuKdh+MeWVWEi7het3PYy0BgoBOMjRV9j9qtCbZwmi1PX6FkAejiL4kARtwXCEyLMs67aHvuNh2TLc6t7I2BsDI3YqpYE51VNeVWOZaDp4NgL/WLv5CmVlTa6zcAf+pFPBTa6pPaf9+JlvTfk6VIGaZfeJLHdMXmd6k6WlCqo83IZRk7efLJg2Inttg/A408x924ihbbIOfGmvH/mU5Gir1m9+64OSTd5djRRQBzORo20CY76EF/5FNtJd9ASvabMaKMt9NuW8nkHwXg==;qgjs1xvQBhMgwhrqp7tUwA=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Mux Partner Program Launches to Help Companies Bring Modern Video Experiences to Market Faster"
-excerpt: "From content delivery network (CDN) offerings like Fastly's edge cloud servers to popular content platforms, including Contentful, Sanity, and Strapi, Mux's Platform Partners can help developers ..."
-publishedDateTime: 2021-10-27T16:54:00Z
-originalUrl: "https://www.kcrg.com/prnewswire/2021/10/27/mux-partner-program-launches-help-companies-bring-modern-video-experiences-market-faster/"
-webUrl: "https://www.kcrg.com/prnewswire/2021/10/27/mux-partner-program-launches-help-companies-bring-modern-video-experiences-market-faster/"
+excerpt: "SAN FRANCISCO, Oct. 27, 2021 /PRNewswire/ -- Mux, the leading video platform for developers, today announced the Mux Partner Program to help new and existing customers quickly build and launch ..."
+publishedDateTime: 2021-10-27T16:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster-301409656.html"
+webUrl: "https://www.prnewswire.com/news-releases/mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster-301409656.html"
 type: article
 
 provider:
-  name: ABC Kcrg  9
-  domain: kcrg.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/0BLpjpxQZnTlpxtbi8Sym045azI=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/HF77FU6G7AQGBYAFLHQ3AIAA24.jpg"
-    width: 980
-    height: 475
+  - url: "https://mma.prnewswire.com/media/1611559/Mux_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
-secured: "/S0OJVMexIsTijKfV6u5Ix3yxIrZlgZprFa2l8pjlXuy4ONTPuMPCT0AirGWmJd/wizi4xB40RPVrgvgomV/Y7QZrwpYiiYkyUYlh4TNqKYt3fEY1bMXKbndjmlR0NE+RI8A5Ob5JM7ZvVBPn3DsPFACY+TizkRa3BQTJTM3NO3ZKdgEI1Dr+NgaCsVNEoarM9OlgAjd9OKprvdGU6BaMRvE3aQTlQnovgZixcfYaSaeaIH9OYFmcCOpK50eGclbo75K7aZWrOE1ZKvRBYfz3AaurgtmO3xCfjEccPTRQr+G8d9icSOxotsWuk5Keob0iEPGBU9JBGDWrXKXuRqBOTflY/z0lvLlwFmaB1fmWYg=;YceDk97jPJQ7qxzp2QZvwA=="
+secured: "jWBQVqmr4f+dSs//Lbmw5pjNLKdfrhNNQwRBsN1jhtMxVnsTQa+xJF4bQiVsxuQcig//h/w3WtycRbmYXPtcdyEPEqj8FG47NHGk4aUZqbaulQi/EHTlm4XXU6ldCrwTAtQ2/fBOqZvIACnCbHv+ra7KvolnQLS286nR4DXJmKkUUtxfE0TrmEQE9r3fu4dEym7bWHdx9lou3ygC/+8Bfbd3ab8+flkDmY0pHbhfvhJlcGH7eT7Iz94VIpm+Or27/oLt7Jj5Wn9n0a2e5H9H1OEuIdADygt0p6v+iqU49c9jz6W1EEHytipLOa8squ80+cYEon8YVG5AwgN3dXJoCTbcJ2oV2GrUaCczh9nCblM=;LHDjgMDTl4cGnvuoxUARKA=="
 ---
 

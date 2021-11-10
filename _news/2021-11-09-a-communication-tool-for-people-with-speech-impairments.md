@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/accessibility/project-relat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/project-relate/amp/"
 type: article
 quality: 109
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1300
     height: 731
     isCached: true
+
+related:
+  - title: "Google’s Project Relate aims to help people with speech impairments communicate more easily"
+    excerpt: "Google LLC is asking for help in developing and testing a new app that it says will be able to help people with speech impairments communicate with others more easily. The app is called Project Relate,"
+    publishedDateTime: 2021-11-10T00:39:00Z
+    webUrl: "https://siliconangle.com/2021/11/09/googles-project-relate-aims-help-people-speech-impairments-communicate-easily/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Google-Project-Relate-1.jpeg"
+        width: 1406
+        height: 1406
+        isCached: true
 
 secured: "zgS/3OCW+76lSO5cXPA54x3UkULr7xkLwxPst+qOrVcZRc2FqQeBd90QZRnJdaTpNOosdRUCI5gp8jy6FrX8VZpp+4VQNV2B+ABvejwnt8DEgw4CyRJGzs8Wzhd9kmUanRK01zekT2rDg9TKJpo9baAuChvGSKY81iXRKBrDk4WODcdJ0Y5OTKwqDMXjIDmcp/rbcgWgRAa0Z493PjO3WYj00vFsfwrnS0o3xV9wTIpV1EqAWwwlU7tRNgN8D1EbWFUF+JBEN4AjqXLV9SAV9xQupgXdEkjDE+bThqTG0NeozQRGi5GF0uJ7FcLOhOJGDUtjl0lAQsCh5MRTNxN/mrE5uso56L7l+i2TJWALqe4=;oSIbsGP7sgrP0Gh3WtH7iA=="
 ---

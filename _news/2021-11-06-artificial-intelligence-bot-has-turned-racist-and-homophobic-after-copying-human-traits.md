@@ -9,7 +9,7 @@ ampWebUrl: "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/amp/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence bot learns problematic human traits - becomes 'racist' and 'homophobic'"
-    excerpt: "Ask Delphi is not a physical robot with a solid body. It's actually just a software that was supposed to let users ask tricky questions that do not have direct 'yes' or 'no' answers."
-    publishedDateTime: 2021-11-05T07:03:00Z
-    webUrl: "https://www.timesnownews.com/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394"
-    ampWebUrl: "https://www.timesnownews.com/amp/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394"
-    type: article
-    provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 62
-    images:
-      - url: "https://imgk.timesnownews.com/story/Bot.png?tr=w-400,h-300,fo-auto"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence Bot Turns Racist & Homophobic After Hanging Around Humans Too Long"
     excerpt: "An artificial intelligence bot programmed to answer common ethical questions – via algorithms – has shocked its creators after turning into a racist homophobe. The bot, called Ask Delphi, was created by a team at the Allen Institute Of AI in Seattle in the US."
     publishedDateTime: 2021-11-09T21:00:00Z

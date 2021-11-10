@@ -42,23 +42,7 @@ related:
         width: 1200
         height: 619
         isCached: true
-  - title: "Artificial Intelligence bot learns problematic human traits - becomes 'racist' and 'homophobic'"
-    excerpt: "Ask Delphi is not a physical robot with a solid body. It's actually just a software that was supposed to let users ask tricky questions that do not have direct 'yes' or 'no' answers."
-    publishedDateTime: 2021-11-05T07:03:00Z
-    webUrl: "https://www.timesnownews.com/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394"
-    ampWebUrl: "https://www.timesnownews.com/amp/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/the-buzz/article/artificial-intelligence-bot-learns-problematic-human-traits-becomes-racist-and-homophobic/829394"
-    type: article
-    provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 62
-    images:
-      - url: "https://imgk.timesnownews.com/story/Bot.png?tr=w-400,h-300,fo-auto"
-        width: 400
-        height: 300
-        isCached: true
 
-secured: "GyWGbTJBo2+bLObmFi2padAJpxD5MLx2Sdk849BjrGUWXijbcKNgQD/7QVGQnLLKzj3DuZY7nUfV0VkG6SEWXB0dPEOb/LUZhB+n+KCH/b72m++ieqtfqigkBH1vCCfSqHiAm99VrOtWM/ojxJ3FndO76VK4bF3zMMb/CCLXTDafkb65OFPpfV6f5NQUfXqIeWphIxvv/H57OxNn0Of1eLT99hxNqiw2+65f1gf5LFzBtKn63TCTX9CxWNQoMjSLy6CE6T9omSi77O73T6jPjJj4cMhVkIu+Ie/YJF8f3169sIFiibbveEgysnqFLsJqngZ2U6XvfE8GBdIduacKHUG71MewTc8rvnCR0JMtOZA=;gwC4d7P+KSDJHxe2tDQ/dA=="
+secured: "tFjLQ2aNDi3wC16lWCncQOoGi4xvXrJGE6P+DWEEzgIMkKHjGszH6elXpZZDvCYzoiwrW3Ji43kSoXNQTq+POIAXbjJuS9Hz9fKVctF3ONQMbPKLYh4Ia48WrS+RbXdxRnJAGJR8/4v+Chf6mugA7F5dirgvI9t6Gb5KbQEI4WfRehvOX5p1oJRdJH+/E2IO4+Fmi0e/2m5cGRJ1D0KCyg7FxxcV/YQgK8Itk0Iur3DlJ+2Us8Trpd0U2WnKzSwZyIvJRHqNNi2ShajR5PlS8tCd9mvszXpw7pcm6AL7wejtUekaUxcDMDqTiuD1ZiYu+8d8DDupP4g9JUou+sC8C60pIGaSCbjK8nc4+y1AseBHrF99PQclg/j2nAxAklRL4IADuMCmW6iFuw+oA7gP1x6kQjUn9f8Fvn6zmVTvkxkmDaFCkKhwWq+1IwaCTlyeaVKeHlgOwNnxgzZOUr1TKJCPkBYaKCFMlSXleCP+gm1AUCxYJJYs4xLy1+z2rGav2Rzmo3rCtoIgAnDHA3m3DA==;5K3+1Zx0rgz4bMNMnZ7FDg=="
 ---
 
