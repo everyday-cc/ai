@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "New AI Model Uses NLP To Analyze African Languages"
+    excerpt: "Researchers have developed an AI model to help computers work more efficiently with a wider variety of languages."
+    publishedDateTime: 2021-11-10T11:23:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/new-ai-model-uses-nlp-to-analyze-african-languages-355697"
+    ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/new-ai-model-uses-nlp-to-analyze-african-languages-355697"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/new-ai-model-uses-nlp-to-analyze-african-languages-355697"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 74
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/355697/new-ai-model-uses-nlp-to-analyze-african-languages-355697-1280x720.jpg?cb=11497643"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "New AI brings the power of natural language processing to African languages"
     excerpt: "Researchers have developed an AI model to help computers work more efficiently with a wider variety of languages."
     publishedDateTime: 2021-11-09T08:57:00Z

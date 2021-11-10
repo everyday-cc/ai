@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-27-nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.md",
+      "title": "Nvidia GeForce RTX 3070 vs. AMD Radeon RX 6800: Which GPU should you buy?",
+      "excerpt": "We compare Nvidia's GeForce RTX 3070 and AMD's Radeon RX 6800 across a wide range of metrics. Performance matters—but the price may matter even more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/544303/nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.html",
+      "originalUrl": "https://www.pcworld.com/article/544303/nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2021/10/P1000516.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/544303/nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/544303/nvidia-geforce-rtx-3070-vs-amd-radeon-rx-6800-which-gpu-should-you-buy.html/amp",
+      "publishedDateTime": "2021-10-27T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-kontron-launches-a-new-35-single-board-computer-to-help-developers-build-an-ai-enabled-system.md",
       "title": "Kontron Launches A New 3.5\" Single Board Computer To Help Developers Build An AI-enabled System",
       "excerpt": "Kontron, a leading global provider of IoT / Embedded Computing Technology, launches a new 3.5\" single board computer, named 3.5\"-SBC-TGL, powered by 11th Generation Intel® Core™ U-Series processors (Tiger Lake UP3),",
@@ -1383,58 +1435,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers.md",
-      "title": "AI Startup MosaicML Comes Out Of Stealth To Aid AI Developers",
-      "excerpt": "Nervana and Intel, leads the new company focused on improving the efficiency of AI Training Training a deep neural network takes a lot of computational horsepower.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165f8cf45f04e14c76729e4%2F0x0.jpg",
-          "width": 1200,
-          "height": 1228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/",
-      "publishedDateTime": "2021-10-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

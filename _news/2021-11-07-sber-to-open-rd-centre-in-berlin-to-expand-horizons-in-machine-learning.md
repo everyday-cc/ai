@@ -3,8 +3,8 @@ category: news
 title: "Sber to open R&D centre in Berlin “to expand horizons in machine learning”"
 excerpt: "Sber, the Russian financial and digital giant, is preparing to open an R&D centre in Berlin — its first one in Western Europe. These plans were"
 publishedDateTime: 2021-11-07T12:43:00Z
-originalUrl: "https://intellinews.com/sber-to-open-randd-centre-in-berlin-to-expand-horizons-in-machine-learning-226136/?source=russia"
-webUrl: "https://intellinews.com/sber-to-open-randd-centre-in-berlin-to-expand-horizons-in-machine-learning-226136/?source=russia"
+originalUrl: "https://intellinews.com/index.php/sber-to-open-randd-centre-in-berlin-to-expand-horizons-in-machine-learning-226136/?source=cee-telecoms-media-it-newswatch"
+webUrl: "https://intellinews.com/index.php/sber-to-open-randd-centre-in-berlin-to-expand-horizons-in-machine-learning-226136/?source=cee-telecoms-media-it-newswatch"
 type: article
 quality: 39
 heat: 39
@@ -25,6 +25,6 @@ images:
     height: 510
     isCached: true
 
-secured: "fpJ98c8jdgMZajNgMfJvc9+20KJKYBUwDm2YmnFsMYeRrL45zF7nne2P5+DqjTXC0s1sEMD2Oh+RBX3wyNj38cHz73sB12BTZlsDP/XjLjQxBFvUZTXJALr3NUS3OWGBNap0BSH7hwSsKkfF/1JYS9abKn38TYvWPXRTu3ik7UIt8EeshMP3KmWI4GCPRIL23GF3ovn0khGP1ddy98jYevRhJdq6hRf3GL086bG/sv+6VsNtHqVnPGv0dH0L74JtjfNPqf/t7tohvHnf4iEKMrSq/OLYMxtvyrLPmNZwy33w5aYLUo5Xqqt69Q9CkWVAiPva3xyVkjsywf7ayA3rWHOemt4oOapQ6EGVw7lbRRw7DIh1iejFqhwwhMwUSxKTa6QpQZylgw8z0eOo6mCo3FVFZTqYrTs9WqaJdzSSW4e6ArElwZXw/GjPDNwNVtRq2DXZxiEGOdCNVr/5CYauYfh7VJLg8dWk2EKAw9LpZfJ5kLQB0/lV4l1aIKGITOMvLl6Qdp2DGwXwvQFNTZfjGA==;7erF+d2Ab65geDIXHiHyjg=="
+secured: "yC0+q0lBy73H4+U/4noF17gOxxXJ/HK2BBoQF1KVBLTKhrrDGUgE0x2DPgOXXjalFT6rv3r4oNu6kvvFmdCfbOFKFKzq7wPp832e9x4J5KQHkzbsHGbDd4gpEpgFPw1rqqCdVtxOqlt5W1x4VkvDGprNkQevwnQy14NQNz649F6uSkIA2Z37BYP4pMutu1Z4tsghgkI4aSGIRvr+FabumKefovx+khqB6d+KfpOnUVv68yIwjcRxPJ8Qx+26b71E6uNvDXC4nxpBwQw6A7OvHCYqofwQvf17v3oPrDMBpbJzdKUee4dW5SfjfIbXlm9851oaprKbpKEbwmbpX+IrgT1WtJ0LjK9zP7SJ6lCBVKI=;obcFf9sqocYGcux9Z8rbJA=="
 ---
 

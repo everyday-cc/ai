@@ -115,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -167,7 +167,7 @@
       "originalUrl": "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -193,7 +193,8 @@
         "AI in Healthcare",
         "AI in Robotics",
         "Microsoft AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AWS AI"
       ]
     },
     {

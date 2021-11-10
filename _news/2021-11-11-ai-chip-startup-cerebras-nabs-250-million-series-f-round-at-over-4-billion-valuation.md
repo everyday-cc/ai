@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-n
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
 type: article
 quality: 96
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chip developer Cerebas bolsters AI-powered workload capabilities with $250M"
+    excerpt: "The company stated that this capital will let it globally expand its business and deploy its AI-powered CS-2 system to new customers."
+    publishedDateTime: 2021-11-10T20:20:00Z
+    webUrl: "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/"
+    ampWebUrl: "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1317362609-e1636572613687.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 533
+        isCached: true
   - title: "AI chip startup Cerebras Systems raises US$250 million in funding"
     excerpt: "Cerebras Systems, a Silicon Valley-based startup developing a massive computing chip for artificial intelligence, said on Wednesday that it has raised an additional US$250 million in venture funding,"
     publishedDateTime: 2021-11-10T15:14:00Z
@@ -44,34 +60,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Nexus backed H2O.ai raises $100 million in Series E funding at $1.7 billion valuation"
-    excerpt: "Silicon Valley-based artificial intelligence startup H2O.ai Inc, which is backed by Indian venture capital firm Nexus Venture"
-    publishedDateTime: 2021-11-09T08:53:00Z
-    webUrl: "https://www.vccircle.com/nexus-backed-h2o-ai-raises-100-million-in-series-e-funding-at-1-7-billion-valuation"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 30
-    images:
-      - url: "https://assets.vccircle.com/uploads/2021/09/fundingrfxl.jpeg"
-        width: 810
-        height: 506
-        isCached: true
-  - title: "Options AI Closes $4.1 Million Seed Funding Round to Bring Smarter Options to Retail Investors"
-    excerpt: "Options AI, a unique brokerage platform putting option spreads in the toolkit of retail investors, today announced it has closed an oversubscribed $4.1 million seed round. The funding round was led by Akuna Capital,"
-    publishedDateTime: 2021-11-08T14:45:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-miami-5c1a76582ae3734841d3cc0844c9560f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "5afq9Aeit3XXz2vxbuduqzLsCoAWhJxo4saYcPyneRlidFajmvE1iB/jdZ6VGODXrfdXPSJM4XkS3kEBg1NDCl+1j3Ac5b4rNIjYgPbzoxQGy56Vqzn0owwv0tJHtjle6WVLSqkaZkak46/b9ZNobL/H8Bw4I4Yw3h0zKhJhszeSq74pbkGp02iuYZK0zoKfTxdQrDVVcS9IovGyIvcsqaH2Y07oWMUhdsagmXRBBZyT/rSFwFJEU/9o25VegqGEPHiZUnpm+UkbOX2oieMBufVz+R61Or2L49TarqnBx2iIQYmn2Q/Kf97ezNTHp6vi1qm95V4Mt1ORO0dstX9lORielTY9Y8TAfN0v49TbSIR0RKcpze+4fGPIpqwuUAixUC39AG9SNU+b6P/EjsroWqiuWc00rGS78QOZsXReyXr9KoHFZeGhyDSTm39yO2eJHoR3UojVnRbnF6JGu9HpO+hCooIEw28SKLegKXbjyiAPoDOOMkIk9bm7cmhtJHqzroWDXm0rxyOTB3qPM7p5Yw==;fEmKLSqluo8nqr0ay3oAow=="

@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meet The Winners Of The 2021 Benzinga Global Fintech Awards"
+    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, held its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
+    publishedDateTime: 2021-11-10T19:28:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-financial-technology-def643374cf19c039d27f8ae216e11db"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The Key Mobile App Features to Consider for your Fintech App"
     excerpt: "Almost every major bank, financial organization and investment firm has a fintech presence. For most financial companies it is the mobile apps that remain at the forefront of the fintech revolution they take part in."
     publishedDateTime: 2021-11-10T03:16:00Z

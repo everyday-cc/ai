@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-gb/news/world/israel-escalates-surveillance
 webUrl: "https://www.washingtonpost.com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html"
 type: article
 quality: 146
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://vid.alarabiya.net/images/2017/03/13/f9ff99cf-1850-4894-a233-e77a6dcaace3/f9ff99cf-1850-4894-a233-e77a6dcaace3_16x9_600x338.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Israel using facial recognition surveillance in Palestinian city"
+    excerpt: "HEBRON: Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an"
+    publishedDateTime: 2021-11-10T19:43:00Z
+    webUrl: "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city"
+    ampWebUrl: "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 59
+    images:
+      - url: " https://i.tribune.com.pk/media/images/Surveillance1636573997-0/Surveillance1636573997-0.jpg  "
+        width: 712
+        height: 400
         isCached: true
   - title: "Israel deploys sweeping facial recognition tech in West Bank: report"
     excerpt: "People worry about fingerprinting, but this is that several times over,' one former soldier tells Washington Post"

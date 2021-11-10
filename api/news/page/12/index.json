@@ -2,6 +2,151 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-10-31-neuron-bursts-can-mimic-a-famous-ai-learning-strategy.md",
+      "title": "Neuron Bursts Can Mimic a Famous AI Learning Strategy",
+      "excerpt": "A new model of learning centers on blasts of neural activity that act as teaching signals—approximating an algorithm called backpropagation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/neuron-bursts-can-mimic-a-famous-ai-learning-strategy/?bxid=6135c198731d496fb67b3e85&esrc=HeaderAndFooter&hashc=18e94e742165e1e48bd754cfafae708b7c59852fea2bbdbc2c3c14f17738af58&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
+      "originalUrl": "https://www.wired.com/story/neuron-bursts-can-mimic-a-famous-ai-learning-strategy/?bxid=6135c198731d496fb67b3e85&esrc=HeaderAndFooter&hashc=18e94e742165e1e48bd754cfafae708b7c59852fea2bbdbc2c3c14f17738af58&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/617bf827cb9b28f739668a86/191:100/w_1280,c_limit/Science_branbackprop_2880x1620_lede.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-31-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder.md",
+      "title": "Use Of Artificial Intelligence (AI) In Content Marketing Was Huge In 2022, Says Scalenut Founder",
+      "excerpt": "Scalenut is a next-gen AI-powered platform for content research and content creation. From short-form to long-form, its AI writes everything.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/website/story/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "originalUrl": "https://www.outlookindia.com/website/story/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.outlookindia.com/public/uploads/articles/2021/10/31/Mayank-Jain-Co-Founder-Scalenut1_550_550.jpg",
+          "width": 550,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "publishedDateTime": "2021-10-31T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-31-ai-weiweis-artistic-rebellion.md",
+      "title": "Ai Weiwei’s Artistic Rebellion",
+      "excerpt": "The artist-activist on his most beloved objects and his new memoir, “1000 Years of Joys and Sorrows,” which charts his father’s life, and his own, as an “enemy of the state.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-weiweis-artistic-rebellion-11635683260",
+      "originalUrl": "https://www.wsj.com/articles/ai-weiweis-artistic-rebellion-11635683260",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-422318/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-weiweis-artistic-rebellion-11635683260",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiweis-artistic-rebellion-11635683260",
+      "publishedDateTime": "2021-10-31T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-31-artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-symantec.md",
       "title": "Artificial Intelligence (AI) in Cyber Security Market Next Big Thing : Major Giants BAE Systems, Cisco, Symantec",
       "excerpt": "Latest Study on Industrial Growth of Artificial Intelligence AI in Cyber Security Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the Artificial Intelligence AI in Cyber Security market The report contains different market",
@@ -1067,135 +1212,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-turning-to-robots-for-career-advice.md",
-      "title": "Turning to Robots for Career Advice",
-      "excerpt": "According to new research commissioned by Oracle, 80% of employees say they’re not satisfied with employer support and 72% of the US workforce think robots and artificial intelligence can support their careers better than humans. Joining us to explain ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice",
-      "originalUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/596/45bf940c346f431c9be273b8942ab6eb/59640f3b51cd412a9b3c3b83a2107ec5/poster_da477495870d4fc9a826480e882ccebe.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true",
-      "cdnAmpWebUrl": "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true",
-      "publishedDateTime": "2021-10-29T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC Action News",
-        "domain": "abcactionnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-intel-reconfirms-flagship-arc-alchemist-gpu-specs-and-gamers-will-be-stoked.md",
-      "title": "Intel Reconfirms Flagship Arc Alchemist GPU Specs And Gamers Will Be Stoked",
-      "excerpt": "During its Architecture Day 2021 event earlier this year, Intel outlined its Xe Arc GPU roadmap ... and dedicated matrix engines (up to 16) for AI acceleration. Intel is calling those matrix ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
-      "originalUrl": "https://hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/56646/content/Intel_Graphics_Card.jpg",
-          "width": 708,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
-      "publishedDateTime": "2021-10-29T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-deepmind-study-resolves-delusions-in-sequence-models-for-interaction-and-control.md",
-      "title": "DeepMind Study Resolves Delusions in Sequence Models for Interaction and Control",
-      "excerpt": "Large-scale language models such as transformers have become the de facto standard for a wide range of natural language processing (NLP) tasks. Despite their apparent linguistic savvy, such sequence models are known to lack a real understanding of the cause and effect of their actions,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/10/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-134/",
-      "originalUrl": "https://syncedreview.com/2021/10/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-134/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/10/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-134/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/10/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-134/amp/",
-      "publishedDateTime": "2021-10-29T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

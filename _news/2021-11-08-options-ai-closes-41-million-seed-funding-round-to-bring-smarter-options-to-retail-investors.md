@@ -24,50 +24,52 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup Cerebras nabs $250 million Series F round at over $4 billion valuation"
-    excerpt: "New money follows Cerebras's expansion from a single system to a portfolio of products and cloud partnerships."
-    publishedDateTime: 2021-11-10T16:28:00Z
-    webUrl: "https://www.zdnet.com/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
+  - title: "Artificial Intelligence Chip Startup Nabs $4 Billion Valuation"
+    excerpt: "Cerebras Systems Inc., an upstart chipmaker trying to break into the growing market for artificial intelligence processors, raised $250 million in an investment round that valued the company at more than $4 billion."
+    publishedDateTime: 2021-11-10T19:42:00Z
+    webUrl: "https://www.bloombergquint.com/business/artificial-intelligence-chip-startup-nabs-4-billion-valuation"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 96
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/92729ebb49764ebb9d08476f41908a19f0672ada/2021/04/20/11fc5675-b618-42c2-85fa-979364fdf9e8/wse2-natalia.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 1697
-        isCached: true
-  - title: "AI chip startup Cerebras Systems raises US$250 million in funding"
-    excerpt: "Cerebras Systems, a Silicon Valley-based startup developing a massive computing chip for artificial intelligence, said on Wednesday that it has raised an additional US$250 million in venture funding,"
-    publishedDateTime: 2021-11-10T15:14:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-chip-startup-cerebras-systems-raises-us250-million-funding-2304671"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
+      name: BloombergQuint
+      domain: bloombergquint.com
     quality: 54
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
-        height: 676
+        height: 630
         isCached: true
-  - title: "Nexus backed H2O.ai raises $100 million in Series E funding at $1.7 billion valuation"
-    excerpt: "Silicon Valley-based artificial intelligence startup H2O.ai Inc, which is backed by Indian venture capital firm Nexus Venture"
-    publishedDateTime: 2021-11-09T08:53:00Z
-    webUrl: "https://www.vccircle.com/nexus-backed-h2o-ai-raises-100-million-in-series-e-funding-at-1-7-billion-valuation"
+  - title: "Andrew Ng’s Computer Vision Startup Nabs $57 Million"
+    excerpt: "Landing AI, the computer vision startup founded by the computer scientist Andrew Ng to use AI to modernize business process in real-world companies, today"
+    publishedDateTime: 2021-11-09T00:19:00Z
+    webUrl: "https://www.datanami.com/2021/11/08/andrew-ngs-computer-vision-startup-nabs-57-million/"
     type: article
     provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 30
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
     images:
-      - url: "https://assets.vccircle.com/uploads/2021/09/fundingrfxl.jpeg"
-        width: 810
-        height: 506
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Industrial_IoT_shutterstock_Blue-Planet-Studio.jpg"
+        width: 1000
+        height: 659
         isCached: true
+  - title: "Machine learning software startup H20.ai sees its valuation quadruple to $1.7B in new funding round"
+    excerpt: "H2O.ai Inc.'s valuation more than quadrupled to $1.7 billion in a $100 million funding that the machine learning automation company landed this week. The Mountain View company's Series E funding was led by a customer,"
+    publishedDateTime: 2021-11-08T19:28:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/08/machine-learning-startup-h20-ai-hits-2b-valuation.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 22
+  - title: "Cincinnati-based AI startup lands $13M in funding, plans HQ move"
+    excerpt: "The team that led a Columbus machine-learning business to acquisition in three years is back, this time with a new AI-for-anyone startup that's raised $12.75 million. CEO Ryan Sevey and CTO Jason Montgomery founded Mantium Inc."
+    publishedDateTime: 2021-11-10T17:22:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/news/2021/11/10/drive-capital-invests-in-ai-for-anybody-mantium.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "/qrAjhy7ooeYsoiTAo9DKJA3kaMyYoF7I+WIYDbmpmyhShhFHjScZBK4svJGm3sWNOClUQhff9c5Fh4allsAZyCpA+oeyo4ZuQHxNkdygDbkfVmt2dbReJSNzjP2JikRHum7gwSAFUJq7tZZwlbkxwJgR7BHHQfC/w6yQki1WDsZhk0Jltciw3yGumsJmV81wM+CmX6EQlnKJAVOSlDDb3ZoDhc6iOIDwq7I9/FZfIGdw+8dQsHwoHOxXF7s02CbAoJ+Q8zwItJdi+g37jAyqhIVxa7lMYqU5zO6LxGW1Cg/9Mu+MmDZNe3agmVZeNvttoP6KobFbMpYYDmobN5e1fN8YdMtDsiCLmH3o1+KNpc=;5iAWb5vw8I3zOor+s1P+4g=="
 ---

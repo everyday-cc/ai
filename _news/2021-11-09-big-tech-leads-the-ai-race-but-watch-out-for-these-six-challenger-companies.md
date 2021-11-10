@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Big Tech leads the AI race – but watch out for these six challenger companies"
-excerpt: "Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),"
+excerpt: "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),"
 publishedDateTime: 2021-11-09T01:15:00Z
-originalUrl: "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
-webUrl: "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
+originalUrl: "https://www.pharmaceutical-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
+webUrl: "https://www.pharmaceutical-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Verdict Retail
-  domain: retail-insight-network.com
+  name: Pharmaceutical Technology
+  domain: pharmaceutical-technology.com
 
 topics:
-  - Facebook AI
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/leaders.jpg"
+  - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/11/leaders.jpg"
     width: 1400
     height: 934
     isCached: true
@@ -35,7 +35,7 @@ related:
     provider:
       name: WTOP News
       domain: wtop.com
-    quality: 62
+    quality: 64
   - title: "ASX Tech Stocks: Douugh almost doubles US customers and BrainChip demonstrates AI chip functionality"
     excerpt: "Douugh US customer base grows 42%, BrainChip improves performance and power consumption of Akida chip, and SenSen raises $4.2 million for R&D."
     publishedDateTime: 2021-11-08T13:42:00Z
@@ -53,6 +53,6 @@ related:
         height: 229
         isCached: true
 
-secured: "jLMdUhUCC9l/Cyv83RZaKPCZsL69foPtXDwli4xk2HTSDLkeT3qTm9RtKjtjSMeY2bMWsrJYs7/aishOw0S/0titvABnvM8CqmLFdIIobQWYzXk3LsUyoLbUmeTmyBILi4sGdv1YSwCGyRB5wFDWZvUX25Ghjuei5Lq9KcvJCwwB0y30MjrEHGMODKf02cpw85X7PDnHkTJ8dlivwtt6TG6uENL42B2poeiPsC8l4/4sSyFcXSFw38eu8XMV5e1koov4gK8chzeIbwbKWtVeC16UcoqDD9wH8IyA5TW7gNZZoGIfUqDrkYIi2OaMvC48W6NseCT2vbBdSG1JLdyptHPuc4oyzIBruqo5C486Uzo=;vN2sbmY+z/+h0nESrGLtdA=="
+secured: "/uwRaPiNKgBJXTas8u91LmGaxThKqToNtBcQ7sQjgzwdcSdtQXYVp2My1/2dtubUPkZgJoznxpxKFtKAcLiraVVIAmnfKnL44vVUQ7DCQB4C8on1WQOKmYQ/ONJN9LD8/wYP6WITz3YlzuIpvibMJWvtTrv8QINx3SiAP3ZPltbjy5lHqXYHJ9u0e7CnGUY6kEkEYOxLOg/GTreeGaazS+SRK30932HuUANbVHdoC9FhEhJo+WDI99YveM3iZBXnMZsSNnCPFZ0pQt9lGrdJ9y1yvb0VnZJYjtveoU3Vj3QQHOZcx3krl/BA8dva0X9KzfaamoEuQuQeu1UkeRhb1Ag7doal1jhNn1XP81Hksxw=;kdUNbOUIDuY1fYzoeTUuDw=="
 ---
 

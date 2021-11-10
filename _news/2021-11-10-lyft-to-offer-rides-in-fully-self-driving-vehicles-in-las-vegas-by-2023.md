@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving vehicles in UAE: The journey so far"
+    excerpt: "Self-driving cars are not new to Dubai. On Tuesday, His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice-President and Prime Minister of the UAE and Ruler of Dubai, announced that the UAE will ..."
+    publishedDateTime: 2021-11-10T20:05:00Z
+    webUrl: "https://menafn.com/1103144936/Self-driving-vehicles-in-UAE-The-journey-so-far"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/10/KT_4f33bimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "eUj7RQOEGwqjVOF++h9ywXtRLTROpezxS7KFUfbBaOVsY6WXzfdY5yyWyoYAUI17GInNqsI9tyUpihtjo0gt3HtMT6KlyXs9eTeAUEjMA02RzZ7fFr4GM80BdJnneVdSxPp4i/b2BpwEX/4M/QXlcm4zeb1tGsOO/LlgoN7m1ZThosIlMvb97SVj2qEoU+mFCEVilAvZZ5ChemXm2jdmRztDMiqH8UQKojtDMq8Jud9Zu1sG4ssF3FnwaxmzZrTBMISJEaw7IV777nzhWrIYFGwjIr5mcZg24qySSevT4hqUXR4CH/IB48A9iIXuggxW1HWbD5FVt4BGnF8dmq+gOwMK9zti8OUoN9hc9i0dhDe+mH/vp5sfS0eQ0PSqhREi4XN1i4wcGYRqrjKRf3ajNR2VsxWvkHN3CaTvk3vkTgjvws4Zpt388VWSKMNjMig3VlWAgLK6G/m9mJ+rkymylX/lCJ17sE6Rdl0e51rG/LDkJ01VqqjaYoXft65rZMDtW4+58M6HsjPhod3hq+niyQ==;0FzuKm642ILYdTQf5Ow/Fw=="
 ---

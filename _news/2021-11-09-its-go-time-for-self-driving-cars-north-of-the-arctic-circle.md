@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -35,20 +35,6 @@ related:
     excerpt: "Google is getting NYC ready for self-driving cars  Their autonomous vehicle company Waymo is sending a fleet of cars to the big apple equipped with high te"
     publishedDateTime: 2021-11-06T09:54:00Z
     webUrl: "https://www.newstalkzb.co.nz/on-air/saturday-morning-with-jack-tame/audio/paul-stenhouse-self-driving-cars-in-the-big-apple-6/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 24
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/22956989/new-york.jpg?mode=crop&width=635&height=395&rnd=132806730473130000"
-        width: 635
-        height: 395
-        isCached: true
-  - title: "Paul Stenhouse: self-driving cars in the Big Apple (8)"
-    excerpt: "Google is getting NYC ready for self-driving cars  Their autonomous vehicle company Waymo is sending a fleet of cars to the big apple equipped with high te"
-    publishedDateTime: 2021-11-06T03:19:00Z
-    webUrl: "https://www.newstalkzb.co.nz/on-air/saturday-morning-with-jack-tame/audio/paul-stenhouse-self-driving-cars-in-the-big-apple-8/"
     type: article
     provider:
       name: Newstalk ZB

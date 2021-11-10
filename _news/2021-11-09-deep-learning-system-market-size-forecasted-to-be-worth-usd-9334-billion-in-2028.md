@@ -37,7 +37,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://techbullion.com/wp-content/uploads/2021/11/Artificial-Intelligence-in-BFSI.jpg"
         width: 700

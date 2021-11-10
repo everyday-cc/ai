@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/11/9/22770614/you-salesfo
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/9/22770614/you-salesforce-startup-search-engine-privacy-information-control"
 type: article
 quality: 142
-heat: 152
+heat: 153
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         height: 662
         isCached: true
 
-secured: "hR7CG0FCpm5W+ApLUGF86iuZZtS8sc4tK6FABpS2WBOyfehfXYv3MvH3NgRrAHHw+BFfpN0YGVwGqXblmHXY9uJIP2tVBMhQ2H1lRaPG8btJhPSRCklo+pAu3AxLs4WkHYSHbiz96dW4TwJlQ3Hbkdyp+raSv2ND8nmLIltSDnOmMyx7fv3sImS/TUKEUL+QVRY91lTXX6bI+i/w0hkktRfRQncXDdQRfQptfCAvVVaMlBOLsPFh6jG3bas5OwKlDeakZVfa0bH4TV8HvpEn+r7NCHIQiR8cySJdHxNJNt/F8N03GFSoBJ9hxj/+AGqaFrlF1VClmZMj+v391VBChMnBwEX2ZVaxKgbrTTSBW9o=;G4TmCZaQicqgE9zPVlFpJQ=="
+secured: "u3oY4jO5u2TyYRiza6Xoo16tWw36+lw+tJflGwXm/JwkC0gHT+zwvOpx75Jxz+0RKtu4zbHG1hg5E5AMItnAeISFrJPoYlu51L0LO8PM62ed0DA2OxTlsgli1PNpvhLdRMg7lucuxvfTt4/cHIOmbohcfI6cagYz9KTohbxbnia1oBZ5G7A2xOcU3Tgb5gdLLeeMDkl7DIVJ4DRDF6/z36JA7ewJXTmPw7MeICI8lnqidvOwcQqU3rdOBLoH88GvWMCDHiRWQqZE4FmzVjsXTV0dNTd/RAD0Qs0hTtO/g/EBtxLfPAEFd6vQ5HyTxmo7zVFcVUltsM0aXzqfkdr9mdkVJyMM18t5OEjJZUAaxw4OYjX9sD6FbQXSal3wo8+2jnTNSYOD15CY4D0NDQlm6p4LMSzt224Orkx9Y2OUOfYfDjSIIctgIRYzhBkHykd1bfRgveQf48ZD81lKYL7eg2tXWbp7INwfNYpAwIacJxzhBelo7CQbdwKi3ZwRbU48hD7DYGD8JIqBTuXouTAywG5xzS2puPNjkbygtmB+Roc=;wN4d7Atu+6UN8NwWxCzQEQ=="
 ---
 

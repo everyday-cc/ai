@@ -2,25 +2,25 @@
 category: news
 title: "Connecterra Expands Access to Artificial Intelligence Technology for New Zealand Dairy Farmers"
 excerpt: "Dutch-based startup Connecterra, a world leader in using artificial intelligence to deliver insights to dairy farmers, announced its intent to launch in New Zealand. The company has signed an agreement with Fonterra Co-Operative Group Limited and will be sold through its retail division,"
-publishedDateTime: 2021-11-10T18:42:00Z
-originalUrl: "https://menafn.com/1103144539/Connecterra-Expands-Access-to-Artificial-Intelligence-Technology-for-New-Zealand-Dairy-Farmers"
-webUrl: "https://menafn.com/1103144539/Connecterra-Expands-Access-to-Artificial-Intelligence-Technology-for-New-Zealand-Dairy-Farmers"
+publishedDateTime: 2021-11-10T18:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-europe-new-zealand-artificial-intelligence-46727054c9135bb6fb632c175a36761f"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-europe-new-zealand-artificial-intelligence-46727054c9135bb6fb632c175a36761f"
 type: article
 quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?325605"
-    width: 555
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 1922
         isCached: true
 
-secured: "I0b1KXvpIcCbXkUYCWB5V6ugGrrYildTwpCzQFeq0E++4SnYmmrOjLRD3LEoRD87jVpciiAgHEkfQJZzNmq453d81Agm+1VxsU6y31cHG/crFRy3d8t47ol1WtMhqrSvdX0zAt8UHBhxLSlgO9yXPOi2VbMxSlFIez1L5ICJFd2p9II0iSyShzs6jI2juZnOmvRUVM5q2NDVmcO8F9HVkvLG8SLcps/x9DDyai0870XoVlPGie37aGH6oU2aZRjxR6VdM8fYnzBIboEJRYphyR9VTDC0qMPUOx8+SzIgt8vG6zOHlxg0eMdd5K4EAu4r21Q7E/Qs4kVyFOw8SYP8KEax2hPjvPqFOTL63Q9Z3G0=;OORZwC+aYbfvFznjIXuN7w=="
+secured: "gdxWOw65KByBvxadyNIgGOFAz4Ndg8Dqq7dxXgvvG6UJ9yRXUzDBs+qQSZoOFb+kYgsXCVusa3svJqioqfbZz0zvWv//lLdLFSt7beg654zb3m58TWqwv2IlNqTdQLHROKlGLsp3YPaKXGyRNmJIPVPENtTCrD7uf2GYQDL4IzD4DXVuHHnrQzJKsaNhCVd7bxnHhh/FnM6/UxuCBmhe3cVWIpRUF5/4iWcahln0qOxrBcuev5IZ3vRunJ7Y4aQ5H1qYbN+AnLvSSslDybvmNKgywjEHN5f6Wd0c/Ix1t9NLNi+1llDXRR8nS8sRqKYNhGDZLr0tcOE51ruJ+UjD6vVfxKIzQ3KRn/Bqe62mhgk=;Sd34XwDzIXJNTspcYA46RA=="
 ---
 

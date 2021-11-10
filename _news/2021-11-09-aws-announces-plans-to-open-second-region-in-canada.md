@@ -1,45 +1,23 @@
 ---
 category: news
 title: "AWS Announces Plans to Open Second Region in Canada"
-excerpt: "(NASDAQ: AMZN), announced plans to open an infrastructure Region in Alberta, Canada, in late 2023/early 2024. The new AWS Canada West (Calgary) Region will consist of three Availability Zones (AZs) at launch and join the existing AWS Canada (Central) Region in Montreal,"
-publishedDateTime: 2021-11-08T16:34:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786"
-webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786"
+excerpt: "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services like Amazon SageMaker and Amazon QuickSight for business ..."
+publishedDateTime: 2021-11-08T16:37:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/11/08/aws-announces-plans-to-open-second-region-in-canada"
+webUrl: "https://stockhouse.com/news/press-releases/2021/11/08/aws-announces-plans-to-open-second-region-in-canada"
 type: article
-quality: 39
-heat: -1
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Amazon Web Services to invest billions in Calgary cloud hub"
-    excerpt: "Amazon Web Services (AWS) is about to provide an enormous shot in the arm to Alberta’s small-but-growing tech sector. The global cloud services and infrastructure giant will create a new AWS Canada West Region based in Calgary."
-    publishedDateTime: 2021-11-08T22:38:00Z
-    webUrl: "https://renx.ca/amazon-web-services-to-invest-billions-in-calgary-cloud-hub/"
-    type: article
-    provider:
-      name: Ottawa
-      domain: renx.ca
-    quality: 41
-    images:
-      - url: "https://renx.ca/wp-content/uploads/sites/2/2021/11/AmazonWebServices_Logo.jpg"
-        width: 400
-        height: 300
-        isCached: true
-
-secured: "traOuAxesJxppRxrr0TlEV89WQVt6IQVHGbG3GYRiW+IHtTHZk3xDO3fw48icP6rCUBzUughItoo1jJw7OcQJgipDIxgrbNEQSEgJwhOx3FV7S8irqWOoD5vj3//P+AacUHFGvd2rDB8zaq+PB6UyvjpSZ+eQCf4mUNR0iS4gHKbxdCMj4Isk8HftMMGSB64OiTPDybdDIWVbvV0kAkVXZ3LqF+eNklifLwMgIBfM/9G5ERdf/xrG6rTIHQ1uT9vpUJwq/uyI0HuyzdvV0kXjMbf1kcdFZhM4wtd9oliuegQcyx2jsC51jojcOnUGEyKwv8w/AC2reJ7uprHpW+esPMnXsGo64ewPeOlaE0fvsU=;mYhDE0g4/TWP+955QnCm6w=="
+secured: "t739DsfNAXm5cjCot6Ap3uFenRJr2jy/J0cKM0FWqxgnN1Q+6n4+PbzRw4mjbWj/IobRfHIcKY++Ai6hVmBIOc2l0NUUAe+dIEBexZjHMSw/gOzXGGfkP0AoHYkatNZ53508UpJ946aKnTX2bdsZLaMuQ/d/4/YctmS833PoE+XPO4wucfCdZdhPBNkgFiS3B1FPna6DNVFnB7OSwmstTivVWgQuDToZ81H62EQfKZUVUmccbigIQFKfuj6kB5wxrgluGsS8uIB+DDNAA/va0qaLYUzi72zT8pl2xC1TuKdWTv2szIhWDB5I6T1Gd4rIv9UCq0Gc/yjCLu/r3IkI88nGIk9Qhif9qK/K8psEbDY=;mk9IYpGVYrkiIB6TgBDpcg=="
 ---
 

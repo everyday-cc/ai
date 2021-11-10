@@ -29,17 +29,17 @@ images:
 related:
   - title: "Connecterra Expands Access to Artificial Intelligence Technology for New Zealand Dairy Farmers"
     excerpt: "Dutch-based startup Connecterra, a world leader in using artificial intelligence to deliver insights to dairy farmers, announced its intent to launch in New Zealand. The company has signed an agreement with Fonterra Co-Operative Group Limited and will be sold through its retail division,"
-    publishedDateTime: 2021-11-10T18:42:00Z
-    webUrl: "https://menafn.com/1103144539/Connecterra-Expands-Access-to-Artificial-Intelligence-Technology-for-New-Zealand-Dairy-Farmers"
+    publishedDateTime: 2021-11-10T18:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-europe-new-zealand-artificial-intelligence-46727054c9135bb6fb632c175a36761f"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Associated Press
+      domain: apnews.com
     quality: 40
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?325605"
-        width: 555
-        height: 250
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "6nq2UdTVWgK02uauYhJEZsid2eQeiW/+EGeYYD64qF0/pkztbEE8JLUC693zw4JJpAlmfb19/eHC1UFh6Vue4KXNahrbRY4PGJsN3gdhop5Tbux15TYFcAEq3t9ln9L5BPuyl2gh5KWOdzVBfNq4AeQLB+a78FjFjhZbbFq2bOZxUXfzGhGb8vfcjDPaxl4cxjIkoFKPxMaFh/j+F5U/X8HVi4jP3uv+1Q3Hun3JS9hv+ZUC5qMzTsVQCTGR4FPNep2uhfseEV0a4mng6DVRqKKfpkak4AbkiiQ9i5dh41Wl/70xxqCm6Z6j0g5coUgt8V0WRpboX06HhY+px2EkK8dVYDzpbJxcIYJLxWfBor4FX6ILI1CCV6feE/UWzSZkznVNN8mbn4yIDvR3vrr6/e3w+v6WIUXGl9ONKpCvqgwHR2U+4LNDEVIp5Y/pjY30AjicdoP56bqFZhNAUlyG5tRf2x18vliX+TmgxQtBTl+XWi4ooS0CjwGQ2LCwXMPHvDGgllzGuNEiW+RnvG1Tqg==;A5gjE87R6l4+0ulnkhXyiA=="

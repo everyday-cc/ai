@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-
 webUrl: "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos-1030959393"
 type: article
 quality: 99
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 648
         isCached: true
+  - title: "Nvidia Announces Omniverse Avatar Platform for Creating Interactive AI Avatars"
+    excerpt: "At GPU Technology Conference 2021, among other new products, Nvidia announced the Omniverse Avatar technology platform for creating interactive AI avatars. The platform brings together the company’s developments in the field of speech AI,"
+    publishedDateTime: 2021-11-10T20:03:00Z
+    webUrl: "https://thegoaspotlight.com/2021/11/10/nvidia-announces-omniverse-avatar-platform-for-creating-interactive-ai-avatars/"
+    type: article
+    provider:
+      name: thegoaspotlight
+      domain: thegoaspotlight.com
+    quality: 15
 
 secured: "3D3AzUaJ1JOS6LoLQdF+0+ytO8u3h1mdE3NjE5fGfSw1UsB70UFyKh34aUCL2tJGpi112Ot9mqvF0CwT3VdRud+Hs3Ki05jjgrTdsr2ZGG/EAmQV5GvRMR9+QllNrXhTXQjoJrydLpsrTBDPpUZsI59TqX/rZAB1tIwe1ZUHmIZmXe8lr0UX00YkN89yGUkNF6wSQJc4TFIkjqaH9FEuJgRHwGqordL17M90o5459+uyvuFIqbo66vlLrknUf9wRHADtUZvP0kASXu0eVlhlAGp1v3TovgIzxEk4c4BR9jt/+WlBAXJEPqc6E/bXhr/+oLtyybyY7O8qO6bbPA3zSmOXCIeUDOkzfacZ4JSgA3EvPQ2fdBkTymiCXY8AcJwzZcfIUtzWjCn4CKuMGhvPqUEyfNdLu+b60wC6E7E2KDZfDoXCq21za4Vw2FogH6bWujuZEMH8tjLS7zvP6yK/vKQwGhp5rNuYZAlMsue+CpPkm00jS3Oib4+pXjCJ8eBq5VdlcCmLyJ4mR5YktimJTg==;5buUa4r10xA9KluIDlXsZg=="
 ---

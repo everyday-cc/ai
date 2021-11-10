@@ -57,6 +57,22 @@ related:
         height: 337
         isCached: true
   - title: "Israel using facial recognition surveillance in Palestinian city"
+    excerpt: "HEBRON: Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an"
+    publishedDateTime: 2021-11-10T19:43:00Z
+    webUrl: "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city"
+    ampWebUrl: "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 59
+    images:
+      - url: " https://i.tribune.com.pk/media/images/Surveillance1636573997-0/Surveillance1636573997-0.jpg  "
+        width: 712
+        height: 400
+        isCached: true
+  - title: "Israel using facial recognition surveillance in Palestinian city"
     excerpt: "Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an organisation working with former soldiers said Tuesday."
     publishedDateTime: 2021-11-09T16:49:00Z
     webUrl: "https://www.bangkokpost.com/world/2212607/israel-using-facial-recognition-surveillance-in-palestinian-city"

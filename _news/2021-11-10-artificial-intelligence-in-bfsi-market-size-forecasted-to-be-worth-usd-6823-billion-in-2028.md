@@ -8,7 +8,7 @@ webUrl: "https://techbullion.com/artificial-intelligence-in-bfsi-market-size-for
 ampWebUrl: "https://techbullion.com/artificial-intelligence-in-bfsi-market-size-forecasted-to-be-worth-usd-68-23-billion-in-2028/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-bfsi-market-size-forecasted-to-be-worth-usd-68-23-billion-in-2028/amp/"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2021/11/Artificial-Intelligence-in-BFSI.jpg"
