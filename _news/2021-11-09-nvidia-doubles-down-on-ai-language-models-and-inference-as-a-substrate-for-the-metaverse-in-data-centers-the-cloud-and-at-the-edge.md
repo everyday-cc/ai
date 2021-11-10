@@ -35,53 +35,65 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia makes massive language model available to enterprises"
-    excerpt: "Nvidia has made available one of the world's largest language models -- Megatron 530B -- to enterprise customers."
+  - title: "BofA Finds Nvidia \"Uniquely Ready\" For AI, Robotics, Metaverse, Autos"
+    excerpt: "He believes Nvidia is \"uniquely ready\" with its combo of hardware, software, and developer ecosystem to address new technologies across AI, robotics, metaverse, and autos as well as \"any new markets that materialize."
+    publishedDateTime: 2021-11-10T13:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos-1030959393"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_2498.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Nvidia unveils AI Omniverse Avatars for the virtual world"
+    excerpt: "Nvidia today unveiled Omniverse Avatar, a platform for generating immersive AI-driven avatars. The platform enables users to leverage speech AI, computer vision, natural language understanding, and simulation to create avatars that recognize speech and communicate with human users within real-world simulation and collaboration platforms like Nvidia Omniverse,"
     publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/"
-    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/amp/"
+    webUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/"
+    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/omni.jpg?w=1200&strip=all"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Nvidia’s enterprise AI development LaunchPad program goes global"
-    excerpt: "Nvidia has announced the expansion of its LaunchPad platform to multiple Equinix datacenter locations around the world."
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://venturebeat.com/2021/11/09/nvidia-enterprise-ai-development-launchpad-program-goes-global/"
-    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-enterprise-ai-development-launchpad-program-goes-global/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-enterprise-ai-development-launchpad-program-goes-global/amp/"
+  - title: "NVIDIA Blitzes Markets With Powerful New Tech For AI, The Metaverse, Autonomous Vehicles And More"
+    excerpt: "The emerging enterprise metaverse will allow us a better visualization of the future, and what could be mankind’s next greatest achievement."
+    publishedDateTime: 2021-11-09T08:30:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/800-1.jpg?w=1200&strip=all"
-        width: 800
-        height: 450
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189f24a1df54fe5821b3db1%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Nvidia’s next-generation self-driving toolkit is available for 2024 vehicle models"
-    excerpt: "Automakers, suppliers and startups aiming to roll out automated driving features, robotaxis and self-driving trucks are a little closer to accessing Nvidia’s newest compute and sensor toolkit. Nvidia founder and CEO Jensen Huang announced Tuesday at the company’s fall GTC event that"
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://techcrunch.com/2021/11/09/nvidias-next-generation-self-driving-toolkit-is-available-for-2024-vehicle-models/"
-    ampWebUrl: "https://techcrunch.com/2021/11/09/nvidias-next-generation-self-driving-toolkit-is-available-for-2024-vehicle-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/nvidias-next-generation-self-driving-toolkit-is-available-for-2024-vehicle-models/amp/"
+  - title: "New NVIDIA Edge AI and robotics teaching kits now available"
+    excerpt: "NVIDIA has this week made available new teaching kits for educators covering the subjects of Edge artificial intelligence and robotics"
+    publishedDateTime: 2021-11-09T11:44:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-teaching-kits-09-11-2021/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/DRIVE-Hyperion-Image.jpeg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/NVIDIA-Edge-AI-and-robotics-teaching-kits.jpg"
+        width: 700
+        height: 490
         isCached: true
 
 secured: "8/dQ2pWBWsFUjxoCD0ymU+Z763A4Lr3ZklsOZNnCr1uIaDEt8wSz/4UjB7nbxWgQ3aBz4EI5MZgtPXTohh5NH7UpbGSzmzalQA4Z0vFUx1M79zoCpTBRpFtvaOPYrrmjuMYyAWzXGyznXiE3cU1dAoXkTzK4E6+YqCqJfRfGnG1pI19IjrS5faOhuvSmIRglTD0ZUAqqtcITaHQMLEFw4qnlNgwY9O+uyZ7k4ZHOG9u+CuS2ldI53ekpPY3EE7EbveV7R+f/9nbGfbxhak1reNUNclGa12P7qGtOvGV9t4K82fkfkuoEcr+Itd1+r9cwM5hAQJJC5RVzHBAaf2QEAubVeIw5ZkPhS7tOIl30+8KNR9PwjZfy0rYuk/yVMmelE7FCQdFf05NCf+fR1u7KyNenVclEUFa16hS1P9uCPlZcFmvw8Z6JRNZqIhEOeiBGltEnkENf92IxeVhM0lJHPaKje7hblWoFIVhEEBLHgAo70oge4FGFpT+G/R8w7z+XgOILtHMgBXdSVfSDyqYXSg==;EQkI6W7XRviGmldTDOqDXA=="

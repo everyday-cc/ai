@@ -158,6 +158,15 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 32
+  - title: "Video: Nvidia debuts automated parking and AI assistant for future cars"
+    excerpt: "At Nvidia GTC 2021, Nvidia Corp. debuted several new processes for automated driving including intelligent parking and an artificial intelligence (AI) assistant to help with the daily drive grind. The company introduced the Drive Concierge and Drive Chauffeur AI platforms."
+    publishedDateTime: 2021-11-10T13:40:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17397/video-nvidia-debuts-automated-parking-and-ai-assistant-for-future-cars"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "ExJWcqnh40fcqTSW1flA/FSonLO6OMWk4MvTDT6lfJPabfif482XTBfVwxHzJybu5gOzZe5B6IPjymUkgbb06FYzCRGZw99A2oXydmSoYLuu+sFeigFCIn1EnBqhh6RXbnlfCeVU75qOcvPpjY45GTsUaqtaVncp1JWruu2QItVvPy9fFmliYKNIbMRc/lBk2NOZh2Ckc+US3b8bH9knR3YWsAH4QM8JWaGKsJZQCsaUs/nHJojmJdcSxXbr1yWiW1nwjazSknmbCV9hk8eixu8D9IrYvPRDnXxBxUJCH4sJeCFl+mqXvDJ+tloS5c7Pf2uGWfXIEaDpZL0bTgwIgWQ2fC2XkqtmRPd8VuHQ8k51eTA/bPrkFRKZcvNmnqzBG4rxm+hVlknhWXh11avDk2lUAsyJH3uTnkkilJztbUZyiDhTrwprWtMkhl0rVToW9Fz6eobcWHPr+ee6QRumFcfVwDmdsnD87e4ktMpiqrrPpx+smO+cJYRohAqLI6mqxSfTodr1aua2Dh2UyhdnRw==;u4FFalSbqiqVDYrgpZS6FA=="
 ---

@@ -41,21 +41,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA Blitzes Markets With Powerful New Tech For AI, The Metaverse, Autonomous Vehicles And More"
-    excerpt: "The emerging enterprise metaverse will allow us a better visualization of the future, and what could be mankind’s next greatest achievement."
-    publishedDateTime: 2021-11-09T08:30:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/amp/"
+  - title: "The Glimpse Group and D-ID Partner to Bring Life to the Metaverse with AI, VR & AR"
+    excerpt: "Harnessing AI-powered synthetic media with the visual power of Augmented & Virtual Reality to enhance viewing and interaction in the Metaverse NEW YORK, NY / ACCESSWIRE / November 10, 2021 / The Glimpse Group,"
+    publishedDateTime: 2021-11-10T13:31:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-media-artificial-intelligence-1d867449edbe7a2fd6ce0c33913d8344"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189f24a1df54fe5821b3db1%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "DyqoQ0Ki4+bVYnDgajr19kQGKG8otHJxozaprN77ivWquYALD7sK88VrWrKAhJq9zzZf6G153O0Bq06m6F9rsYyjAMDXyAExA1V3Q2XGs/jsUgeogZXSFGxsnww15STbyE6ym5XAzJeBESm5Nj1/IOPmIzRoxKATNYyOJBn9vaJpGK6WvUTU07dTt1MFih7ArBV9WbVLs+Lhs70KCt4AJfLA/PMrbN6rJYQFIL0LDzMzzRdsUpGPvnycOwaLy7Vz4cpJUrPguPUObU6WLG9gdxarTwoAwFkE0zcTLekzi6KCX71ZN+LyvXDtjkADoASKL0lsd1w7VnTjn3s/ioLpDjNhks4QNgkgAqi6sdCwpXk0V0bx4fYV4PkFq+tMA+nMid+UBHbb3i3o4f19iUED+LaWyu5NvzmOUWhhdUGJSfEcinm35xPHtFJ/dDyYV5IbYAnIWxnVxI776nXfT9pDJzkBuXZokTTVMDt0Nz2q/HWewioRBnMtvnCWVIM3jo52qGLhVh+3nNVRYUMrJiXnbA==;5yHJjrGrqWHTbSWJ3fUPuw=="

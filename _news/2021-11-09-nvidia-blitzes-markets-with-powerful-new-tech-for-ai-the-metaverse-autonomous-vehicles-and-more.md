@@ -31,35 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Inworld AI joins metaverse innovation with AI-driven virtual characters"
-    excerpt: "Inworld AI announces plans to populate the metaverse with AI-driven virtual characters, and raises $7 million."
-    publishedDateTime: 2021-11-09T22:34:00Z
-    webUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/"
-    ampWebUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
+  - title: "BofA Finds Nvidia \"Uniquely Ready\" For AI, Robotics, Metaverse, Autos"
+    excerpt: "He believes Nvidia is \"uniquely ready\" with its combo of hardware, software, and developer ecosystem to address new technologies across AI, robotics, metaverse, and autos as well as \"any new markets that materialize."
+    publishedDateTime: 2021-11-10T13:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos-1030959393"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_2498.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Nvidia unveils AI Omniverse Avatars for the virtual world"
+    excerpt: "Nvidia today unveiled Omniverse Avatar, a platform for generating immersive AI-driven avatars. The platform enables users to leverage speech AI, computer vision, natural language understanding, and simulation to create avatars that recognize speech and communicate with human users within real-world simulation and collaboration platforms like Nvidia Omniverse,"
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/"
+    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/9xonhbI.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/omni.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "UAE-Shell Offers New AI-Powered Applications Through Open AI Energy Initiative"
-    excerpt: "C3 AI (NYSE:AI) and Shell (NYSE:RDS) today announced three new Shell products that will be available through the Open AI Initiative (OAI), an open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
-    publishedDateTime: 2021-11-10T09:43:00Z
-    webUrl: "https://menafn.com/1103139250/UAE-Shell-Offers-New-AI-Powered-Applications-Through-Open-AI-Energy-Initiative"
+  - title: "New NVIDIA Edge AI and robotics teaching kits now available"
+    excerpt: "NVIDIA has this week made available new teaching kits for educators covering the subjects of Edge artificial intelligence and robotics"
+    publishedDateTime: 2021-11-09T11:44:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-teaching-kits-09-11-2021/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 69
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?660333"
-        width: 443
-        height: 250
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/NVIDIA-Edge-AI-and-robotics-teaching-kits.jpg"
+        width: 700
+        height: 490
+        isCached: true
+  - title: "NVIDIA doubles down on AI language models and inference as a substrate for the Metaverse, in data centers, the cloud and at the edge"
+    excerpt: "At NVIDIA's GTC event today, CEO Jensen Huang made announcements the company claims have the potential to transform multi-trillion dollar industries. We cherry-pick from the announcements, focusing on the hardware and software infrastructure that powers the applications that make the headlines."
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4a37395f96eb1190ee15b364e0c4799d6bd4c299/2021/11/09/cd687ced-56c7-4ca6-aff9-a6f1d128ed60/morpheus-image.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 648
         isCached: true
 
 secured: "+PaMFO411DHP9deU37T7B2zy3gr8sHESWWc+QoE+Jazlm2nQDIQp7b4krmjg9MtWgDWmvyZBekNpvBdK5PrALhnIP/jMPeM42agUp5YRlkvbxs+Nf8r3D7r4n7N7GzvZ4MaBApkJLK9xIuZt+fClQCACIamZfmOFicaXsDa7d/t2OlWz6Lo/erzHaGCD9ZDCP1vGHp4guIe018LF8HW24cq1bFEGN1dcO1ZmWrb2X1XII8XpvQFNkdtD6f6bxCA80Mwn/xb2pTqMBiVGZim4ehFzQMaVbJF0up94e7ABrQix5OpooqRv7bjrehe6AHmsKnrzUO62uDJB2rgo8KqgljWwWRKvocrWbF0Ub0eXeDumddhNq1HQYoR5pj+lefr/2x78/VEJZJInnsXHwlZNKfGhJm9dvOC/NgILY5u1KfAWkYDTpsfYJqU47tamN8kNHiSvV4QPrZlqvETHt+yf1VUBOd79G8pXEAUGiAWyr+Q+LyvH7cAdl+lrb9iNW+e4gReVV4C9i/qq7Fm7QZypvg==;RaaNCYhg/OqYpQTqAT+rvw=="

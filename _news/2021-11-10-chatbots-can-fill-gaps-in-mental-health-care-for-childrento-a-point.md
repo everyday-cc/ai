@@ -41,6 +41,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "AI shop assistants: get ready for a world where you can’t tell humans and chatbots apart"
+    excerpt: "Flowers.com, a conversational AI tool integrated with Messenger, and explain what you want. You don’t even need to enter card details if you use Apple, Samsung or Google Pay. Or maybe like me you are a die-hard coffee lover."
+    publishedDateTime: 2021-11-10T13:49:00Z
+    webUrl: "https://theconversation.com/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart-171522"
+    ampWebUrl: "https://theconversation.com/amp/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart-171522"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart-171522"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 50
+    images:
+      - url: "https://images.theconversation.com/files/431068/original/file-20211109-15-ll83na.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
   - title: "How figurative language confuses chatbots"
     excerpt: "Computer scientists recently examined the performance of dialog systems, such as personal assistants and chatbots designed to interact with humans. The team found that when these systems are confronted with dialog that includes idioms or similes,"
     publishedDateTime: 2021-11-08T15:39:00Z

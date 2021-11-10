@@ -26,31 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI-driven search engine You.com takes on Google with $20M"
-    excerpt: "You.com, an AI-powered search engine cofounded by former Salesforce chief scientist Richard Socher, is launching in beta."
-    publishedDateTime: 2021-11-09T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/09/ai-driven-search-engine-you-com-takes-on-google-with-20m/"
-    ampWebUrl: "https://venturebeat.com/2021/11/09/ai-driven-search-engine-you-com-takes-on-google-with-20m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/ai-driven-search-engine-you-com-takes-on-google-with-20m/amp/"
+  - title: "Salesforce CEO Benioff invests in search engine startup You.com"
+    excerpt: "You.com, a startup looking to challenge Alphabet Inc's Google by developing a more customizable search engine, announced on Tuesday a $20 million investment led by the venture fund of Salesforce.com Inc Chief Executive Marc Benioff."
+    publishedDateTime: 2021-11-09T16:10:00Z
+    webUrl: "https://www.reuters.com/technology/salesforce-ceo-benioff-invests-search-engine-startup-youcom-2021-11-09/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Reuters
+      domain: reuters.com
+    quality: 52
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/3f8d6844-db06-40ae-908b-60ee63e60864.png?w=1200&strip=all"
+      - url: "https://www.reuters.com/resizer/KHeFSpZsp3wXQ5_L7DiDK-kGmgo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/J2U6YLFWYVIEFPFTBT7QLPQIVY.jpg"
         width: 1200
-        height: 662
+        height: 628
         isCached: true
-  - title: "Early Money: A startup gunning for Google with a new AI-powered search engine just got $20 million in seed funding"
-    excerpt: "Former @Salesforce chief scientist @RichardSocher has a new search engine that's using #AI to help prioritize results. Here's more on its new seed deal and recent ones for other #BayArea #startups . #"
-    publishedDateTime: 2021-11-09T16:07:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/inno/stories/fundings/2021/11/09/google-rival-with-ai-search-gets-20m-seed-deal.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "IGi5Tx4W/938eb8IioFthxEvwpjAuGNwP/LhNHbmnmOcVKtF2iZ/AZesTbEroVvbBMcmaOKZAxlCj6Nsc4NRYdMUc4IbXXWo5dFtEQiQiY0JuW+GMJJoUn/qshwasrqKKHNAEnB7MeIbpguh2jRQf86/RWGYcjgYWdxP+/dJ9Oo0yeCXFRjSX+Q20rkPEHsEjipbPVJwKfgTAkaw9SVeQOBUi5j3VTH2c1v5TPyPqetQ0QpDAm0FgNV2r7bAoMK0wQN7XzmHIm/PL2vaDaAxqjAKO0Mfo0DKjZHsJXvTeE2Qqr5m3hat0VrjFyWy48/iQATn655E+jaGqkE4YNP3685UjHb+dgVTy3NebIaBtYA=;yz/W8m4SIFDjksu9f9RO6A=="
 ---

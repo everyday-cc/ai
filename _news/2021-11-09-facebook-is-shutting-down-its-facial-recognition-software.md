@@ -1,59 +1,45 @@
 ---
 category: news
 title: "Facebook is shutting down its facial recognition software"
-excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
-publishedDateTime: 2021-11-08T21:55:00Z
-originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
-webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+excerpt: "CNN By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
+publishedDateTime: 2021-11-08T16:55:00Z
+originalUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
+  - url: "https://ktvz.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
     width: 2000
     height: 1333
     isCached: true
 
 related:
-  - title: "Facebook will drop its facial recognition system – but here’s why we should be sceptical"
-    excerpt: "Facebook has announced that it will stop using its facial recognition system – the artificial intelligence software which recognises people in photos and videos and generates suggestions about who to “tag” in them."
-    publishedDateTime: 2021-11-10T11:22:00Z
-    webUrl: "https://theconversation.com/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
-    ampWebUrl: "https://theconversation.com/amp/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+  - title: "Facebook will drop its facial recognition system, but why we should be skeptical"
+    excerpt: "Facebook has announced that it will stop using its facial recognition system—the artificial intelligence software which recognizes people in photos and videos and generates suggestions about who to \"tag\" in them."
+    publishedDateTime: 2021-11-10T14:30:00Z
+    webUrl: "https://techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 50
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 54
     images:
-      - url: "https://images.theconversation.com/files/430501/original/file-20211105-10492-raehl0.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=214&fit=crop"
-        width: 320
-        height: 214
-        isCached: true
-  - title: "Inside Facebook’s decision to eliminate facial recognition — for now"
-    excerpt: "Facebook’s facial recognition decision was in the works for months, long before the current whistleblower scandal."
-    publishedDateTime: 2021-11-05T20:34:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/11/05/facebook-facial-recognition/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 41
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XU3HESB3AUI6ZPLP3I3W6RZQJY.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/facebook-will-drop-its.jpg"
+        width: 1356
+        height: 668
         isCached: true
   - title: "Facebook to shut down facial recognition system over privacy concerns"
     excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
@@ -83,6 +69,20 @@ related:
         width: 627
         height: 418
         isCached: true
+  - title: "Facebook will drop its facial recognition system but here's why we should be sceptical"
+    excerpt: "Facebook has announced that it will stop using its facial recognition system – the artificial intelligence software which recognises people in photo"
+    publishedDateTime: 2021-11-10T11:44:00Z
+    webUrl: "https://menafn.com/1103141333/Facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/10/TC_700fdimage_story.jpg"
+        width: 1250
+        height: 834
+        isCached: true
   - title: "Facebook Ends Recognition Software"
     excerpt: "Facebook plans to shut down its decade-old facial recognition system, deleting the face scan data of more than one billion users."
     publishedDateTime: 2021-11-09T08:20:00Z
@@ -98,6 +98,6 @@ related:
         height: 900
         isCached: true
 
-secured: "l9IBKzc3dA7Y3k/xzXhLaGq9pn1H3Qh16u0DY2pWNNyZhFbZEwekQzp4IA5/4NxcykBTptPYJ+8ao1SyAS8RKjm5Nnu1c4iyurQJ5gPla4DD0rgOePJvGqQ5+iJLpt4OPWujVdX3aMOMHZqHEHdR210RtamBfamtXGwVNyKhSUwlXVNFelNGezpUkptMGYGgOtHhXo/S/UuQmUYznG33G2IwUBhipd2XJMGrk/73pH6mIlVK+AWpJORMK0ad5uZmMz72KT9ySGRLzuLs9soK2lP45Qlh9d7pg2KxWorI5UBVcIV6NRvbwt1aG8oXdsm/twM1g+Q1lah5i1OmNu2QKJjas1si3EHpFZ2ESCcJ6rXDl/gOBvu65J2kpzRY8h7cVpOG7ZW1bPRB88Fmdbh+9lbKFbtZvM8uTaXxI+E6nCErmQN3VkCRuuP6itD6/Z8GHH7N/usLtdJeoFquTmCD0Fo+n+0BQrnXF2Rbv1sEUPR9ysivDHqCm2Q8KsibnIk+ayHlzfgjk0XwlnKGGRyF0A==;4xgOZuKA+GLHzYFFHehRxg=="
+secured: "VjHOtYuVzWv4WpeETmL9U9AmhC+jDfWlA0H/4uU4h49eSaIumvLs/wBU8bL86tBmol3PuuFsYqIWVttdbxCWlmC8XfUmVb7B9nG9nwgHWLpMAJihFc3JijOzwPdEoiLUSX8yMyuG2y3rbVp7Y/pCtQJdsEYHTGli6YxpcQw17CDddj2B6FtadWXqiiLjJLjvOzpJOmWFn4XwewxoZo2CZ/oEbspl5L+Tl9kh837vPHB8WW1GkuGry9L497BWRG3ydB9XhxLzipKiJyslFUmMQiZY6up4OhYtbo05P49yo07r/645HRXVlHzC0LrYHFhwhoo9b6yirO3I2MbvzUwg8zLPZ4lIwMqgepp0DBf07iE=;3q6uNfQM2DjbtbG0Oe/ZUA=="
 ---
 

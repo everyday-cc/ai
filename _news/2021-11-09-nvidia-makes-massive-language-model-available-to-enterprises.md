@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-mod
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/11/DRIVE-Hyperion-Image.jpeg?w=1024"
         width: 1024
         height: 576
-        isCached: true
-  - title: "NVIDIA doubles down on AI language models and inference as a substrate for the Metaverse, in data centers, the cloud and at the edge"
-    excerpt: "At NVIDIA's GTC event today, CEO Jensen Huang made announcements the company claims have the potential to transform multi-trillion dollar industries. We cherry-pick from the announcements, focusing on the hardware and software infrastructure that powers the applications that make the headlines."
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/4a37395f96eb1190ee15b364e0c4799d6bd4c299/2021/11/09/cd687ced-56c7-4ca6-aff9-a6f1d128ed60/morpheus-image.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 648
         isCached: true
 
 secured: "6MEoL7cNQ03WKQxJwhSfJasCk2FXvY7pCWFwe7UFb9O3Y8MeoVkgaiLQ3w4gn0y9dZQE9kdaCxP7C+hMLt7eMz2XxXxiE+Ej1V3JNLsukSaMLgJ1UomEkkKKejEH78ydTrk5hR6Bb1/yo0ihfPtcTMq/EbCmp2CuxlgXLtV+bpG/DyOnUdS+bbfltjfZ11mUlBcMwgbtFiGxspUAhSFoLsEwm/mgSG9qc2gk41uiUJaH5ugTKQMRi+ccqZkJvwXEK9DEpYP7qMuYpiyZZ5S8Ou6FLgN3C3zP95ZyW9aqopzkEzb2/qrANNi1aQOtatMdraqrwwVwCLiKctwiVLY+fL/iagAlQOW40sps6fP9VOSDWVtnSqBYvHUlTpWIDwCmbUawuXj8YhFyKqvlU0sb2Y7TtTm08lgDtuOPt71BTlXXriFDKLHKl0R+ftFHEXcXEqjqlclmJ14rEwmJCXXH9QYt9ewRCQ2BGZxO/IiM1hnrHAVidLElBVa3RlbYP5neQFXn7mMZ4fQ+w5m2LY1tRw==;EZVO+B7VOxVSljEkzqKB1w=="

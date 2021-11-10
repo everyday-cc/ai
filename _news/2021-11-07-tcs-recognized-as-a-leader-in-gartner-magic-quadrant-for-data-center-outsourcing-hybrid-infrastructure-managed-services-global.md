@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/tcs-recognized-as-a-leader-in-gartner
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-data-center-outsourcing-hybrid-infrastructure-managed-services-global-2/"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "TCS Recognized as a Leader in Wealth and Asset Management Services by NelsonHall"
-    excerpt: "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has been positioned as a Leader in the NelsonHall NEAT vendor eva"
-    publishedDateTime: 2021-11-08T08:41:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=301508"
+  - title: "GRAX Named a 2021 Gartner® Cool Vendor in Data Management"
+    excerpt: "GRAX, Inc., the leading SaaS Data Value Platform, today announced it has been named a 2021 Cool Vendor in Data Management: Creating Operational Efficiency by Gartner1. According to the report, “There’s increased demand for organizations to organize,"
+    publishedDateTime: 2021-11-10T13:05:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-data-management-331da95d5d934973ad2832131a1c42ee"
     type: article
     provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "xKVxtR3/ulhuwb9loOF//NtIoITSSPSu8ggzvoXa1YkwIxyKd5r56BsIDke9y7sCkiYoGftSeoHTTOJ0BchJ9pEPRletoAtQr9kCeJDbjhBiIOasYUxdB3ST/yTAbsn87DWZNuOPNvdpVjdEUnlzcH8Mwhxv2vd18bWPst/jDTebbXkUWnwofUJu7G/7pWniEpSgPVdk2sQjH/lVWw6CVdqExC/gWh1B7gFYOVLfwpVclqVLlSejJLC0/HSQmFWSQABO26b192mWfl1ras5zx2BjA9UkY4ejb7oWjEiugEUq2cJ5M/tK+1ywY3QLVyzp2NXweuGmNCeWKVQEM5zMWiedlGvGhZR4+RrG+Nlv9Ez5KpPYPsOmIpygq4B+XhGC7MWi1yE6pokOL3MBu0jFqvHtO6iFd9sGZOgOAdtgFDmiql/606VAHBK0peX5XzDqQ94rzSO4E1fnoUJs84kkhsnM8RPZGJ0Irn6YwtepsY5pzggjDrjFC9kzSK52C9naDSI3uAUlUjJ8ME+medcCDg==;4UEE9yyfzRvK/yN4mp7Z2w=="
 ---

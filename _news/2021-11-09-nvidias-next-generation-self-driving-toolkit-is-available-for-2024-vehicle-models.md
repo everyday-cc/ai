@@ -63,22 +63,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "NVIDIA doubles down on AI language models and inference as a substrate for the Metaverse, in data centers, the cloud and at the edge"
-    excerpt: "At NVIDIA's GTC event today, CEO Jensen Huang made announcements the company claims have the potential to transform multi-trillion dollar industries. We cherry-pick from the announcements, focusing on the hardware and software infrastructure that powers the applications that make the headlines."
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/4a37395f96eb1190ee15b364e0c4799d6bd4c299/2021/11/09/cd687ced-56c7-4ca6-aff9-a6f1d128ed60/morpheus-image.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 648
-        isCached: true
 
 secured: "JSTriQa4hYgvV43V0A1MLvs0lf3K67r7XwnnsTWIjOiziEELngmNwUtdVIA5KEGSXU3kSFqPHXTciHFbbI9rXcIsZ12K55FEjypclsUIoSCdjnn59x2prTbn3S4AmHO/NDMPaVLJ5otEXEcbgK+FH0wC9u+W6qWtq7xo86sT4tM3nwO6FhtCdd4+0KT/UFrQ4U8cXZpucZTn7eoycs2JKS6U9WEn5NIcGJRj2ZrNf2a4S3aikNoTkekQu6O+byQZiNV+dORQFMASTKlXYAQuYLEW9roN0eAbW0/jVX257WVzfsFX35tMksd9dF7Z6mBlpSWmr+5kEVgduSMs3IY1lDecXair6ee0BErYaTKxlLlMDmMI+PyAE1NyPgdmmsueXqTTT+nouaX6xCvDFFz6yK/9VEh5VKvJOWDsfumS7kBaREoH+qPV3WDf4KlkdMjM/jst5Qg3K3o4z4+k/q2p9ABi8lRALG7GVhuAhBr9+HN2yGcQ7Va1rYvJfQB1MHz6aKWnU35rGQwLc6oeo3aYug==;I/NvIZ4/ay1LPUpsHPbsVw=="
 ---

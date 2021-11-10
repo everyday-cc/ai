@@ -24,6 +24,17 @@ images:
     height: 840
     isCached: true
 
+related:
+  - title: "Under Armour Selects AWS as Its Preferred Cloud Provider for SAP Environments"
+    excerpt: "(NASDAQ: AMZN), announced that Under Armour, Inc. (NYSE: UA, UAA) has selected AWS as its preferred cloud provider for SAP to increase resilience, enhance security, and provide more significant insights across its business."
+    publishedDateTime: 2021-11-10T14:05:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/11/10/under-armour-selects-aws-as-its-preferred-cloud-provider-for-sap-environments"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 16
+
 secured: "WvrozKqNxWvmgbjFs37FsKiUBPU+I7fuP66HFLleIoAwFMleyg9DMXwwJ3ZBYdB5seWzXe0zsSNDj+SVJ3Ql77NX6kWpofDGfw9JO7yzGXoOd2FAs8Qm9RppM13/ULCc/Xf1D3HpqTBV0zSZuN+iE+FQ7p91b0xSpCUHKtUQDB/z81HmQFsZhg0drXOEU3uz2gQ5BQTSOvrktEurxmp+YlwEcp5WybxVJPBjGgenLMe+YxiHMLKgRH8MqgUuvVVdKUemCC2YTE6YdaYkqC4u81RgEKYNDfR9svSdwLtE6JLNl/jCNU7s4DEnmWR4hyOkvgAjRgmIWe8mv+qFocw+aZmQq2R0WNU55axq/z/kJgCqdAyoBjnRjovBhxBjxfGvXyBc0VzRtiLWL03jMQkuIDgEZ1wlPQgjYV2aFvryv2RwpYjgDfsTWyBa3zynGYTQtu1WTf86tIbqWq9HdP6in709NgIK5tzYxXuB6rL5D4c4lAMsjM3GCiTNwPYFy3f1uMGlQGllKt/wVxevdseAJQ==;aR47E4PGxYS/JZ7EfPt9Kg=="
 ---
 
