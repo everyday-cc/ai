@@ -652,6 +652,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-05-opensource-gui-tool-for-opencv-and-deeplearning.md",
+      "title": "OpenSource GUI Tool For OpenCV And DeepLearning",
+      "excerpt": "AI and Deep Learning for computer vision projects has come to the masses. This can be attributed partly to the community projects that help ease the pain for newbies. [Abhishek] contributes one ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
+      "originalUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/02/monkai_feat.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-amazon-vets-land-10m-for-whylabs-a-seattle-startup-that-monitors-machine-learning-models.md",
       "title": "Amazon vets land $10M for WhyLabs, a Seattle startup that monitors machine learning models",
       "excerpt": "WhyLabs, a spinout from the Seattle’s Allen Institute for Artificial Intelligence (AI2), raised $10 million and released a new tool to support machine learning applications. The problem:",
@@ -1123,6 +1166,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-01-a-new-way-to-train-brain-inspired-ai.md",
+      "title": "A New Way To Train Brain-Inspired AI",
+      "excerpt": "A new study by German-Swiss researchers has shown a route towards training brain-inspired artificial intelligence systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/a-new-way-to-train-brain-inspired-ai-355317",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/a-new-way-to-train-brain-inspired-ai-355317",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/355317/a-new-way-to-train-brain-inspired-ai-355317-1280x720.jpg?cb=11484601",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/neuroscience/news/amp/a-new-way-to-train-brain-inspired-ai-355317",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/a-new-way-to-train-brain-inspired-ai-355317",
+      "publishedDateTime": "2021-11-01T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia.md",
       "title": "Machine Learning in Retail Market 2021 is Booming Globally with Top Key Players- IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA",
       "excerpt": "IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA, Google, Sentient Technologies, Salesforce, ViSenze Recently added report provided by QY Reports Machine Learning in Retail Market Presents an Analysis of Market Situation and Challenges.",
@@ -1349,101 +1435,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-legaltech-startup-vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives.md",
-      "title": "Legaltech Startup Vakilsearch Raises $10 Mn To Accelerate Its AI And ML Initiatives",
-      "excerpt": "“With this investment, we will leverage the strengths of Vakilsearch and accelerate our Artificial Intelligence (AI) and Machine ... India CEO Manish Modi. The startup had raised $2 Mn from ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/",
-      "originalUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2021/10/vakilsearch-featured.jpg",
-          "width": 1360,
-          "height": 1020,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/vakilsearch-raises-10-mn-to-accelerate-its-ai-and-ml-initiatives/amp/",
-      "publishedDateTime": "2021-10-28T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-ai-startup-abacusai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models.md",
-      "title": "AI startup Abacus.ai snags $50 million Series C to advance hybrid deep learning models",
-      "excerpt": "Read More Abacus.AI, the two-year-old startup that is developing \"hybrid\" neural network forms of deep learning, on Wednesday announced the company has obtained $50 million in venture capital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/359f488c1d4da85361cfa341b0979ad30669fffc/2021/10/27/c21380a5-f9f3-4b99-b069-753e102e4472/abacus-team-photo-2021.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models/",
-      "publishedDateTime": "2021-10-28T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

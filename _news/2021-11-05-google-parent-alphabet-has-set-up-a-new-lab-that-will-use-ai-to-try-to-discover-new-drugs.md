@@ -77,22 +77,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Alphabet launches AI-driven drug discovery startup"
-    excerpt: "The new venture also plans to partner with biomedical and pharmaceutical companies, using artificial intelligence to discover new medicinal advancements."
-    publishedDateTime: 2021-11-05T10:17:00Z
-    webUrl: "https://www.thestatesman.com/technology/alphabet-launches-ai-driven-drug-discovery-startup-1503022919.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/alphabet-launches-ai-driven-drug-discovery-startup-1503022919.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/alphabet-launches-ai-driven-drug-discovery-startup-1503022919.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/11/iStock-1035004756-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Google parent launches new company that uses AI to create new drugs"
     excerpt: "Google's parent company Alphabet said it has launched a new company called Isomorphic Labs in the UK. The company plans to use artificial intelligence (AI) software to create new drugs and medicines and will build on research carried out by another Alphabet subsidiary DeepMind."
     publishedDateTime: 2021-11-05T12:11:00Z

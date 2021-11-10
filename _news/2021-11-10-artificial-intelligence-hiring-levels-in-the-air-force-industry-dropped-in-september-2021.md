@@ -7,7 +7,7 @@ originalUrl: "https://www.airforce-technology.com/features/artificial-intelligen
 webUrl: "https://www.airforce-technology.com/features/artificial-intelligence-hiring-levels-in-the-air-force-industry-dropped-in-september-2021/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence hiring levels in the railway industry dropped in September 2021"
-    excerpt: "We've analysed hiring patterns using data from GlobalData.  The proportion of railway equipment supply, product and services companies hiring for artificial intelligence related positions dropped in September 2021,"
-    publishedDateTime: 2021-11-05T11:51:00Z
-    webUrl: "https://www.railway-technology.com/features/artificial-intelligence-hiring-levels-in-the-railway-industry-dropped-in-september-2021/"
+  - title: "How is AI impacting the automotive industry?"
+    excerpt: "AI or artificial intelligence – as an abstract concept – conjures up multiple images, in part because it has been...Read"
+    publishedDateTime: 2021-11-08T16:59:00Z
+    webUrl: "https://www.just-auto.com/features/how-is-ai-impacting-the-automotive-industry/"
     type: article
     provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 44
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
     images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/08/Manfred-Antranias-Zimmer-from-Pixabay-800.jpg"
-        width: 800
-        height: 392
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/shutterstock_1698736867.jpg"
+        width: 500
+        height: 282
         isCached: true
   - title: "Artificial intelligence hiring levels in the food industry rose to year-high in September"
     excerpt: "GlobalData digs into its jobs database to present the latest trends in the food industry for posts linked to artificial intelligence."

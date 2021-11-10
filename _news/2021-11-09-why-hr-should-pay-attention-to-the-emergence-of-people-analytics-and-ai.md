@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "ADLINK launches rugged AI-enabled video analytics platform for railway"
-    excerpt: "Built on the industrial version of Nvidia’s Jetson AGX Xavier module, the AVA-RAGX provides a compact, rugged AI-enabled solution for both onboard and wayside railway applications that delivers reliability and performance in harsh operating environments."
-    publishedDateTime: 2021-11-05T11:39:00Z
-    webUrl: "https://www.embedded.com/adlink-launches-rugged-ai-enabled-video-analytics-platform-for-railway/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2021/11/ADLINK-railways-AVA-RAGX-image.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "Machine Learning, Predictive Analytics Determine Drug Response"
     excerpt: "Using machine learning and predictive analytics, researchers can identify cancer patients who will benefit from immunotherapy drugs."

@@ -131,6 +131,15 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "The Key Mobile App Features to Consider for your Fintech App"
+    excerpt: "Almost every major bank, financial organization and investment firm has a fintech presence. For most financial companies it is the mobile apps that remain at the forefront of the fintech revolution they take part in."
+    publishedDateTime: 2021-11-10T03:16:00Z
+    webUrl: "https://www.finextra.com/blogposting/21229/the-key-mobile-app-features-to-consider-for-your-fintech-app"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "uU9BQ47CNU08k2RZ3U+DKL3h28zLnX8Ca7j4ZQxH+uJAKVAbkHh5Vd1NJsxDvQwfbTiYH0uXDQHRQ8/IbpqoQ8H/LJ72nq7bMQ7a8S7zctTjAagE17PfsMOEUGBxii1nS4hHev3jpML+mHRBk5kjGR5dWRP08S7Pkcv04oaM9RmLnzWdRMp4FOQ79NfVwaQKro+jN1LiCONvZJMsHAXn64P8hwEMF+rmFSziwyttkJp1yChgVCs5GbzWR1rAztWi4UJsR7p4O+FzGgoCSirbxJgv7H8PU/ddYw7/mDmvqPFnTZGX3I9mc5MugME5xmLQce7MOcfJXGDcgRH2fLAW9bHUvy2C4hSss28+S7R5f/X0AtyiAw2XDnK3IOt8+XYDi1/cBYPqGjL4nPDfLFz8Bn6kF2RY+NzSq9YWV7C0ZZapiRJenNmbiJHsbe6DEizKmP3QM/ujHzMs/A6CBQy37pYH+VY4M38EQYp5scrTjuGSy5Dn2b2GpxWQnlPElFynhVuRsNK0CViu08p+u9S4Fg==;Y5Fmz606D934cP3YqThpUA=="
 ---

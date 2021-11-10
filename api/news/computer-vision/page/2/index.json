@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-27-the-future-of-workspaces-is-flexible-secure-and-collaborative-20-quotes-of-the-week-on-digital-transformation.md",
+      "title": "‘The future of workspaces is flexible, secure, and collaborative’ – 20 quotes of the week on digital transformation",
+      "excerpt": "Innovation can be greatly accelerated with AI capabilities that are on par with those of humans in areas such as object recognition, speech recognition, reading comprehension, and language ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
+      "originalUrl": "https://yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/28b451402d6a11e9aa979329348d4c3e/ving-hybrid-1635242078838.png ",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
+      "publishedDateTime": "2021-10-26T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-nightly-news-full-broadcast-october-26th.md",
       "title": "Nightly News Full Broadcast (October 26th)",
       "excerpt": "FDA panel recommends Pfizer’s Covid vaccine for kids ages 5 to 11, powerful nor’easter hits East Coast, and how facial recognition will change the way you travel.",
@@ -1346,40 +1389,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-facial-recognition-market-size-worth-102-billion-globally-by-2028-at-1592-cagr-verified-market-research.md",
-      "title": "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research",
-      "excerpt": "The facial recognition system is increasingly being used to control access by governments and law enforcement agencies to identify a person for better safety of valuable assets and therefore",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54203219-facial-recognition-market-size-worth-dollar-10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54203219-facial-recognition-market-size-worth-dollar-10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

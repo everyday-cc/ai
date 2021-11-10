@@ -124,15 +124,6 @@ related:
         width: 1950
         height: 1003
         isCached: true
-  - title: "NUS, Cisco pour $40m into tech research center in Singapore"
-    excerpt: "Corporate Laboratory aims to deliver 12 improved products and services in areas such as AI, healthcare, urban infrastructure, and cybersecurity."
-    publishedDateTime: 2021-11-05T10:30:00Z
-    webUrl: "https://www.techinasia.com/nus-cisco-pour-40m-tech-research-center-corporate-laboratory-singapore"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 34
   - title: "Singapore Launches National Programme To Deepen AI Capabilities In Financial Services"
     excerpt: "Singapore Launches National Programme To Deepen AI Capabilities In Financial Services. November 8th, 2021 \\| 12:08 PM \\| 34 views. SIN"
     publishedDateTime: 2021-11-08T05:11:00Z

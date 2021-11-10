@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/Technology/He-sold-a-startup-to-P
 webUrl: "https://asia.nikkei.com/Business/Technology/He-sold-a-startup-to-Panasonic.-Now-he-puts-AI-in-Vietnam-s-shops"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Artificial intelligence, machine learning a trend in Vietnam job market"
+    excerpt: "An understanding of AI and ML coupled with a person’s expertise might increase their competitiveness in the job market"
+    publishedDateTime: 2021-11-10T04:03:00Z
+    webUrl: "https://tuoitrenews.vn/news/features/20211110/artificial-intelligence-machine-learning-a-trend-in-vietnam-job-market/64023.html"
+    type: article
+    provider:
+      name: Tuoi Tre news
+      domain: tuoitrenews.vn
+    quality: 54
+    images:
+      - url: "https://secure3.vncdn.vn/ttnew/r/2021/11/08/10-16360301027331675386381-1636361838.jpg"
+        width: 586
+        height: 412
+        isCached: true
 
 secured: "XAjHPbWUh9JYi7ASRnK3TIOEUrsAKlK3Pu79mZeYAdlXARfrOHzQXkzUcHCKapngX3wuyNw1pupBMk7FPM6ebCjGKxSiciMMskjKJl+wyskjw8Zo5Ele5cV5OC7lUkzUuSPQPdZ6nLz2DGP2JAWb0YsIpnGyYVwSe9evm2uU0soGXfGSQsNeEy4K0q+Jb9dxpZIl9g3rSkiGIKj9Aus0BBBtOMzppXgIbx9QSsRNKpg32mwPAJxu40DkpeDGHtBfn+IWjH+0Dq1Ua++Rpppww5aG9El04ozn0Zbv13+iQL3SuicMAxibXL2250GxiJ/GpQ5jpmJW0O8j55+aKCjADbwnQoVnLMb0NfToOFxaYwtK5TcaD/S84GOE+MDXmCkhmJF5jTJI3r0cNk3fkvK7yTa59bwSIxA2ryQ0gcxk2NMcJD9emB7EIXSodIZ8kIYXi3Xv1JD4mmvot4aj6a32BbeIDAuXru3KyfUkR2UPJGfeInwqpF/jL548kSU/osm7/5eTj73h3D3+2gTnBd5iJQ==;VMhQdFU85gj/eId5GqqW+g=="
 ---

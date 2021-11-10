@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-14-facial-recognition-market-size-worth-102-billion-globally-by-2028-at-1592-cagr-verified-market-research.md",
+      "title": "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research",
+      "excerpt": "The facial recognition system is increasingly being used to control access by governments and law enforcement agencies to identify a person for better safety of valuable assets and therefore",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54203219-facial-recognition-market-size-worth-dollar-10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54203219-facial-recognition-market-size-worth-dollar-10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-the-evolution-of-computer-vision-and-its-impact-on-real-world-applications.md",
       "title": "The Evolution Of Computer Vision And Its Impact On Real-World Applications",
       "excerpt": "Present-day capabilities and applications are only scratching the surface of this technology's potential, which is nearly limitless.",
@@ -1332,58 +1366,6 @@
         "name": "What To Expect",
         "domain": "whattoexpect.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-ex-uber-driver-takes-legal-action-over-racist-face-recognition-software.md",
-      "title": "Ex-Uber driver takes legal action over ‘racist’ face-recognition software",
-      "excerpt": "UK driver alleges his account was illegally deactivated when Uber software decided he was not who he said he was",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software",
-      "originalUrl": "https://www.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/55c54451224be3752e08c4b3ee40e9886df70ba7/0_217_6500_3900/master/6500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c819f6205781f6edad3b66bedd92282b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software",
-      "publishedDateTime": "2021-10-05T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

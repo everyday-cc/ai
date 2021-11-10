@@ -71,20 +71,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "ADLINK launches rugged AI-enabled video analytics platform for railway"
-    excerpt: "Built on the industrial version of Nvidia’s Jetson AGX Xavier module, the AVA-RAGX provides a compact, rugged AI-enabled solution for both onboard and wayside railway applications that delivers reliability and performance in harsh operating environments."
-    publishedDateTime: 2021-11-05T11:39:00Z
-    webUrl: "https://www.embedded.com/adlink-launches-rugged-ai-enabled-video-analytics-platform-for-railway/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2021/11/ADLINK-railways-AVA-RAGX-image.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Opanga Networks: Opanga Announces the Availability of Merlin: Radio-Aware Machine Learning RAN Analytics"
     excerpt: "SEATTLE, Nov. 09, 2021 (GLOBE NEWSWIRE) -- Today, Opanga is announcing the availability of its breakthrough RAN Analytics platform which, for the first time, uniquely combines the power of big data and data science with radio-aware machine learning to ..."
     publishedDateTime: 2021-11-09T08:17:00Z

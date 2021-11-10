@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-15-russia-broad-facial-recognition-use-undermines-rights.md",
+      "title": "Russia: Broad Facial Recognition Use Undermines Rights",
+      "excerpt": "Russian authorities continue expanding their use of facial recognition technology across the country, with no regulation, oversight, or data protection and against the backdrop of misidentification reports,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hrw.org/news/2021/09/15/russia-broad-facial-recognition-use-undermines-rights",
+      "originalUrl": "https://www.hrw.org/news/2021/09/15/russia-broad-facial-recognition-use-undermines-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hrw.org/sites/default/files/media_2021/09/202109eca_russia_camkremlin.jpg",
+          "width": 4000,
+          "height": 2690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Human Rights Watch",
+        "domain": "hrw.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-facial-recognition-enters-new-phase-at-gates.md",
       "title": "Facial recognition enters new phase at gates",
       "excerpt": "Some drivers may have noticed a difference if they’re using the facial recognition to gain access to Redstone this week.",

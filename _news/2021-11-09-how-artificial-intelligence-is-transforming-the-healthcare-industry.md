@@ -42,7 +42,32 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Architecture in the Age of Artificial Intelligence"
+    excerpt: "AI - which I like to call Architectural Intelligence - is a tool that will one day allow us architects to fly. This book, like all Neil Leach's books, is a multi-perspective view of a possible future for architecture."
+    publishedDateTime: 2021-11-07T03:54:00Z
+    webUrl: "https://www.bloomsbury.com/in/architecture-in-the-age-of-artificial-intelligence-9781350165540/"
+    type: article
+    provider:
+      name: Bloomsbury
+      domain: bloomsbury.com
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale/jackets/9781350165540.jpg"
+        width: 360
+        height: 563
+        isCached: true
+  - title: "Rescuing humanity in the age of automation, artificial intelligence and Big Tech"
+    excerpt: "Roose counters the optimistic appraisals of artificial intelligence (AI) made by many technology gurus by identifying “four big claims” that AI optimists use in arguing that it will create many more positive than negative effects. One of them contends ..."
+    publishedDateTime: 2021-11-07T11:05:00Z
+    webUrl: "https://www.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
+    ampWebUrl: "https://amp.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
+    type: article
+    provider:
+      name: Idaho Statesman
+      domain: idahostatesman.com
+    quality: 32
 
-secured: "mLzqQ7X6WCEZKYr1U8iJ1uESHRfmW8ISso232RoTq4xqppBfBKm74dVhDusKndZmUJVCfWkGMSrh+lHC4LsckhFhNbJLA55bBkmzFfKjgdHPxStuTcbl65SZ8xjfQYYcFuuQ82Ccj07a4/HRarovmOVDUE/mG8WWYpW7hX13kUMbeU7ivU1oCuf8nZObMeh98Ukm4C1I47ad8NX7BB/vo5op3PPazWATAjNiRJhiR9lMFKE13ayzD/NbJlE5HDV2oJRIloDR0BO0tjMDJo3DzuCGh31r8lv3DWAH1tfNHaGQ9c0XKVwIbAShwC8jHKE3OrwCGx5MJdYpi50Ds1nshQeiCX2oXIiHAY5soFbL8pQ=;APgfjPiKHi77ksi0XfioVA=="
+secured: "K0GMolQlGEQMczq8UamDt723qos+awo4lbNsLfPabgkqhTZEJMNMWYiZNwqWtCtKSuQrm4c4XRRkfFPDNhSZRoPg2Tww0UDS+23pn/9kgS5WLkShsrm4fcEC/x5Jy2Hoec7nVsiNeFCwG5MiCVJpbNloJNGuevFjcjHzYByXOwrOfyoaJ49uJ2srs0k1L6V6nhQvupKXv4dqtk8wbptoIuouDSkfNZRSssfRAAYnYyCPj8IA6iLJn3OphkGLClqLdD3iSspzTgNh8tfgV8b4q7IhuEE+ZHLiRP73dlNkfXbkBy4KBTX2V5Pb6w7/aDxGKo8E/W9MmgIXWz70cBFY1hSEmPRBbtvEhB4xxJFqLWuAq6foJIDXHd3Lwwr9GpWiQQRzz9Rp7CU54KPH1nCPLbc14cfCLUknIKMciaIk/J8dIGZP2r2ZLxr7Y02iacDF9WmcPINwMNEtoUIJIjIjbz3Hhk5hpYSgsB3vJ+pgFpfKaU6pE4WQ1deY+tsOHF5bfb2xAfICZsT0uc2JTm7FNg==;NSml8xvB8emgBALDXv2ebw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-antificial-intelligence-will-ma
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "How Artificial Intelligence Will Transform Business"
+    excerpt: "\"Artificial intelligence\" is a broad and general term ... \"AI is starting to make what was once considered impossible possible, like driverless cars,\" said Russell Glenister, CEO and founder ..."
+    publishedDateTime: 2021-11-08T00:00:00Z
+    webUrl: "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html"
+    type: article
+    provider:
+      name: Business News Daily
+      domain: businessnewsdaily.com
+    quality: 39
+    images:
+      - url: "https://www.business.com/images/content/5ca/3d0715a215e8a458b6a82/1500-0-"
+        width: 1000
+        height: 567
+        isCached: true
 
 secured: "ICvQhE6JP71wlnviKtJth0zcLcQtQmiQgh7WBY+xhu6e8TAgZO6hdqOcW56Xw3S53az9/Mo/nnzqJeUocV97VwJfKsYdTIMUpBh/3B1g8zd3OsJwLQMzaIGRzZV5tqMWJSsNIf4C9/j+HFAW/MvAwOUie61bmn+Eai6B+QD/+Zv9U8jn4SMGL8Iq5s4TuPnzwMBGfH4/b9VF5kqCf6lMVcpRhbEF8zhMLAdWHgRzmW3uxrMkYQpAcKlkZlP5qxr01ReBXqB1JO2C0HIwwVm1tiCV6FNtTWM3/IMURC2PSmTzy7GhrSlefLivhXO7zafeFwRpCM8nPjcyZEFM2ff7iOFkGFpKxpzh7gScqS1RSB8VKfZv0BU6cbhTpPv54+peFW/bO46ZkAyDDGv5FNDOWMTByVO0FVRrz8X7HVqHmXcIkNfzgU/CxVahGVgh9il1e/NekUKgTNxObB5ajJGeav6VFIt1iTUijwTLI1OrcGe9lftcxNgHr9AZ2ODm16iTbp/eDjHJWCLFpRui5OP9GQ==;GbtDZe7FnBinTXtjmdxxiA=="
 ---

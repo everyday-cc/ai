@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "The Key Mobile App Features to Consider for your Fintech App"
+    excerpt: "Almost every major bank, financial organization and investment firm has a fintech presence. For most financial companies it is the mobile apps that remain at the forefront of the fintech revolution they take part in."
+    publishedDateTime: 2021-11-10T03:16:00Z
+    webUrl: "https://www.finextra.com/blogposting/21229/the-key-mobile-app-features-to-consider-for-your-fintech-app"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "+BI2CyPbp4MfbpUdf8Np+ANirJKFlGZy1JYxc52Q6TceJ/K4vbgWBKY/djesqWslMkSzrnrFvC4sk1IRil6KcJtxh9RmuLbkePkl23yYZW+ZLU3kn2Vo/3yr5mnX7LBMbNSoCv2/DgBQhAB5ZwSR1S7lzTJrSb+oEX/JKqJGx+BjtizOs2svKRFzDH6oJ7QGEiDx0sXhb74XG4RA74Q34/a14Kup5ZmVKM2Y/W9vCPHR02oZLQAKW/9tFazCyzMXdkyhF+jlxCjmmW+QaqMFlygdi1m1ePpsvbOlKuToED6ByHIlIDVtu5apBdeS8Pji45O0H6Rc1JXscqKqi9Zv916B4iikwZxQI5YAM4tj4Xws+Q1tdWxojuqgYLdCj35C74xIIpx1sprYPlxm5EybbWUrdvsxICvhChY1o4+4TIbMgZS6kgo6ZzYOF/LVsMoyESL0wBomXTZSJYeOWbu06xf2dWUvVcsFZIFoi9EsuFuGzl7eNrEmW6e/poCfQdOb9AJtDTzO8ZICOSpAmlO+9Q==;NPFL0OvXrI8ZrtLLWDDzOQ=="
 ---

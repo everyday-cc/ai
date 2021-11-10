@@ -20,21 +20,35 @@ topics:
   - AI
 
 related:
-  - title: "Three Things Needed To Be The Perfect Partner In The Age Of AI"
-    excerpt: "Brands must be extremely agile in how they create (and continually recreate) more personalized and effortless customer experiences."
-    publishedDateTime: 2021-11-05T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/05/three-things-needed-to-be-the-perfect-partner-in-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/05/three-things-needed-to-be-the-perfect-partner-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/05/three-things-needed-to-be-the-perfect-partner-in-the-age-of-ai/amp/"
+  - title: "Human in the Loop for AI in Healthcare"
+    excerpt: "The future of AI technologies in the healthcare sector in India seems bright, as there is a strong need for volume, scale, and accuracy, along with lo.."
+    publishedDateTime: 2021-11-08T10:43:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87585233,imgsize-1131636,width-1200,height-628,overlay-ethealthworld/human-in-the-loop-for-ai-in-healthcare.jpg"
         width: 1200
-        height: 836
+        height: 628
+        isCached: true
+  - title: "How Artificial Intelligence is Transforming the Healthcare Industry?"
+    excerpt: "Artificial intelligence and related technologies are widely used in business and society, and they are rapidly entering the healthcare sector."
+    publishedDateTime: 2021-11-09T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-transforming-the-healthcare-industry-nid-8690.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 56
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/rw2rnai450308.jpg"
+        width: 450
+        height: 308
         isCached: true
   - title: "Architecture in the Age of Artificial Intelligence"
     excerpt: "AI - which I like to call Architectural Intelligence - is a tool that will one day allow us architects to fly. This book, like all Neil Leach's books, is a multi-perspective view of a possible future for architecture."

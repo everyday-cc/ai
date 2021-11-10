@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence hiring levels in the railway industry dropped in September 2021"
-    excerpt: "We've analysed hiring patterns using data from GlobalData.  The proportion of railway equipment supply, product and services companies hiring for artificial intelligence related positions dropped in September 2021,"
-    publishedDateTime: 2021-11-05T11:51:00Z
-    webUrl: "https://www.railway-technology.com/features/artificial-intelligence-hiring-levels-in-the-railway-industry-dropped-in-september-2021/"
-    type: article
-    provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 44
-    images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/08/Manfred-Antranias-Zimmer-from-Pixabay-800.jpg"
-        width: 800
-        height: 392
-        isCached: true
   - title: "Artificial intelligence hiring levels in the air force industry dropped in September 2021"
     excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence-related positions dropped in September 2021, with 51.5% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2021-11-09T16:50:00Z
@@ -51,6 +37,20 @@ related:
       - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/11/AIMS-ISR-Operator.png"
         width: 1024
         height: 570
+        isCached: true
+  - title: "How is AI impacting the automotive industry?"
+    excerpt: "AI or artificial intelligence – as an abstract concept – conjures up multiple images, in part because it has been...Read"
+    publishedDateTime: 2021-11-08T16:59:00Z
+    webUrl: "https://www.just-auto.com/features/how-is-ai-impacting-the-automotive-industry/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/shutterstock_1698736867.jpg"
+        width: 500
+        height: 282
         isCached: true
 
 secured: "ipoZzjy1XzD3fPK1QZ+Lwl1NeVYlL2ywYdXisvPvL4HFuU0SFPRytHt6jSv4NrvRmaXg5AvMgPkuNZZRq/yxk3YojRW1/SGEjxlaFEJ+Fq9h5Z6Q+tJNIwzMglC3p4lQVDy5lcETaZus1oDfgRM27JHGmHzrHInYLCq/uqmv/delsivdxIdFRXEVyoj8uuxWfvhQwdV0QQNTOi4BvlnqtZALmBCZ+JqJBfcrzu4gWWDc/ws8uZFzhksBVlkJ1xNjiQ8c8xVAzt8+lI6dZSfOS9+OiDYn15jBt5Sa806aS1EUJqoawY5tP2dqTIwsmnEWkRNHhzNHfP6Lg0U4vp1HWMHq3jU/DYG/2TdWS0HrhRNnYWjM6GTp5mUEFkunxXXRlNR9N/30MH6Xn99vneiA14ciBM8at2dfqMAWVmMPkGEwlmMhgzG35CCynXMzCxP1L7Vpl7tYMdKfuLCjekLDjW4fuMZaIejDBAVmFuWQrlJz3CgckCUVDofqPlOeZiT6rSClx/1EDDGG6OdfHIfgkg==;mKeZPzGW/OjUawVTj/XOUg=="
