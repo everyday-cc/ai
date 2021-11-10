@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unloc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/amp/"
 type: article
 quality: 108
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://m.economictimes.com/thumb/msid-87584701,width-640,height-480,resizemode-7/raghu-ravinutala.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "The future starts with AI: AI, Automation & Robotics are safeguarding energy and utilities Industries"
+    excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to artificial intelligence, automation, they are actually some of the biggest potential adopters of these technologies."
+    publishedDateTime: 2021-11-10T22:14:00Z
+    webUrl: "https://www.energylivenews.com/2021/11/10/the-future-starts-with-ai-ai-automation-robotics-are-safeguarding-energy-and-utilities-industries/"
+    type: article
+    provider:
+      name: Energy Live News
+      domain: energylivenews.com
+    quality: 54
+    images:
+      - url: "https://www.energylivenews.com/wp-content/uploads/2021/01/shutterstock_1174434661.jpg"
+        width: 720
+        height: 412
         isCached: true
   - title: "Tencent reveals three data center chips - for AI, video transcoding, and networking"
     excerpt: "Chinese technology and media giant Tencent has announced three chips for the data center. Zixiao is an artificial intelligence chip focused on processing images, video and natural language; Canghai is a video transcoding device;"

@@ -1,32 +1,25 @@
 ---
 category: news
-title: "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai"
-excerpt: "(https://bit.ly/3BY8Kwp) \"We see broad application for AI and machine learning technology right across ... as it looks to match offerings from rival fintech firms. read more CBA also leads the banking sector's entry into the fast-growing Buy Now Pay ..."
-publishedDateTime: 2021-11-07T21:24:00Z
-originalUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
-webUrl: "https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/"
+title: "Australia's CBA Partners With Silicon Valley Artificial Intelligence Firm H2O.ai"
+excerpt: "Commonwealth Bank of Australia said on Monday it acquired a minority stake in a Silicon Valley-based artificial intelligence (AI) firm, H2O.ai Inc, in a bid to provide smarter and personalised products to its customer base."
+publishedDateTime: 2021-11-07T21:20:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-11-07/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-11-07/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai"
 type: article
-quality: 79
-heat: 109
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Finance
   - AI
-
-images:
-  - url: "https://www.reuters.com/resizer/fy1Hr0OcjcfQo6t81SMK4FPVg6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34TS4M35IJKKRBSMOKLXM76LSA.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Commonwealth Bank of Australia announces Artificial Intelligence partnership"
@@ -76,6 +69,6 @@ related:
         height: 630
         isCached: true
 
-secured: "W3/OULwNQCsQfuS0wYWt+x6DWf1S8S0CpNtMdsDR9aKTPVkNeXN4QPkePSaCA11/Ij6LqXFkSDeAzg19WTIzBOK6S+xfNFly3fPRt9VG/3IwlbiY3kOZJCln+yTSuzVVbXdIYBBZ/QX1DZ/bDSj31hAeNJk1tszziGvf+o1O1LUxeJVyBcAJSMV74MzwbtPr11vaB4uBbKSY2AC1QwfCvTwV9qlPlVlko5OgffriqByC5NRYEFUIfkVYPCN1XxTUHIAW7PaxPpJpNTpxWjY5AMpkJYRLFkiSNEX28ZiHnSW0mRhrw/YnltUgZ/I6BmSapNA6mZPHJk37oamfN9Wj4Di9NALHO7qHnUDVbxtA2jFUVNeODzkf2PH4MkrGy/lPBImkCm9xOM4FOxHQtHCviu7IeIpdZxyTXhTRdg8BCsQXHynTGdDaM3AcnzvVBCgygt8wud0kMgSuVsN9w5Vn/nfAm1Vk+DkCCSSVyPgNl1XG95q7v2rasbvK4zG9Rp9dhQA8rOLrsa8ya53KCZPS/A==;al7IVuNEM4zB6mweCVQwAw=="
+secured: "JLpmRzYBl5mI3i9KBy8T7KXaA36cvVm6w+4r5vGTAyKRgfPUVbbIBcDxYo2WKhkZmARK+4SR4SRQc9GVSMOw/SGh85IlJgXrQmV1DqhcqO3JT+9h6A5qC8QBY2G8x22Vnd+YJZ80lbi46aTTJWYuTGb5RkhwWYymdDGawbNbwCJC4L7XYVOIBi4IBECi9Vy15rWpvKPFIJATELc8FAQPH/TTjuRtdQ1JQEl+m4YDenJ+EbFh5Dv+BCtN4+jYfzbLS7NvMgKqm9q6fDmBSQxDk9BlYZCjRtIURiQudkxjlJdBLvPdtFqklsK/JXmkKKxNKg/IY31ME8EmLwTNSHfy07w3mcOB2HpcC48eGI/4MbhveKdbA7OryirkdDWVKGhYv+6ZPbc34XFs0GIJN1MS6tS435oT7ExrV/Rud92nkjqkqUsuL8otMyRXVHnr+AFF3KxofhU1wLixXI/z/mfgvvIGUkx3q74W4zp7l0NekIl2Q4Q6/wpMrvJy7HnMV2OVubUC+dGK+4444NVmilOG6A==;wFcBKOIRyaCJwEHtmgqGmw=="
 ---
 

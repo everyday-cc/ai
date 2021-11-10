@@ -75,38 +75,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Apple hires former Tesla engineer to boost self-driving car effort: Report"
-    excerpt: "Cupertino, California-based Apple has tapped Christopher Moore for its team working on a self-driving car, the report said."
-    publishedDateTime: 2021-11-06T05:44:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/auto/apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-report-7684791.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/auto/apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-report-7684791.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-report-7684791.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/11/2021-11-05T211937Z_1_LYNXMPEHA412U_RTROPTP_2_EU-APPLE-ANTITRUST-770x433.png?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
-  - title: "Apple hires former Tesla Autopilot Software Director for self-driving car team"
-    excerpt: "The move suggests that Apple is moving ahead with its plans to develop its own self-driving vehicle in a race to catch up with automakers such as Tesla."
-    publishedDateTime: 2021-11-06T05:20:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/apple-hires-former-tesla-autopilot-software-director-for-self-driving-car-team-41636171247146.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/apple-hires-former-tesla-autopilot-software-director-for-self-driving-car-team/amp-41636171247146.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apple-hires-former-tesla-autopilot-software-director-for-self-driving-car-team/amp-41636171247146.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 55
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/11/06/600x338/apple_icar_youtube_1612505634970_1612505641070_1636175785402.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "AI That Provides A Running Narrative Commentary While Driving Could Be The Tell All For Imbuing Safety Into Self-Driving Cars"
     excerpt: "Providing commentary about driving while driving can be quite useful, and likewise we might wish to have AI self-driving cars undertake Digital Commentary Driving (DCD) for safety achieving purposes."
     publishedDateTime: 2021-11-10T15:30:00Z

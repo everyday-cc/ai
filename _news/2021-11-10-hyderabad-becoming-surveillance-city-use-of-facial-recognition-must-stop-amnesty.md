@@ -57,6 +57,20 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "BitCenter UK facial recognition app puts CCTV capability on mobile phones"
+    excerpt: "BitCenter UK has developed a facial recognition mobile app, FarFaces, that it says provides the capabilities of a biometric CCTV system on a smartphone."
+    publishedDateTime: 2021-11-10T19:49:00Z
+    webUrl: "https://www.biometricupdate.com/202111/bitcenter-uk-facial-recognition-app-puts-cctv-capability-on-mobile-phones"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
+        isCached: true
 
 secured: "kEu5RKwtY4Wezn/BwvTWufhQZn47RamnjnQpGp2MkiIIMpuN93q2MU+FSvbS1IcrdniLxjIvRUZfoWRzJUIHtEnjFZv5pKH4LBDQisnX91QQjkeJJOmR0IR3/W174EjlUXF+GuYnqgDrh4BGMy0se19WC4PckdH/qwiagUkJT8vebIvbzVDbTK/YsFOi0I2Q+E6ZGMllRgw+PJNhRDr9vRRKIQO2IFgUNnaSg15sT6s7xumUiAJ/KSscqamNx3QlP6M537VZQVaMlMu1yc/JeSzvrGbMR3RUX+vr3mwJ7tFKuS66U+5ovA44f4v/xFyp+W5jkl2lbi44iScvmyJJGuJ1wgeYn7LeMtE/ln3Un/I=;YeA8XgiLmAjfwTZeL5oW/w=="
 ---

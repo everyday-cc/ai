@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/human-
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI and Healthcare: A timely partnership"
+    excerpt: "Today, almost every field is leveraging AI irrespective of the sectors or industries. Every day, AI is getting increasingly sophisticated at doing what we can do."
+    publishedDateTime: 2021-11-10T06:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-healthcare-timely-partnership-raju-kumar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFLbpBjEvhD-w/article-cover_image-shrink_600_2000/0/1636524697847?e=1642032000&v=beta&t=GGKDExtDKUhls3heeV1JVvZOsVruKQwCYrrdBhoyfQc"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Architecture in the Age of Artificial Intelligence"
     excerpt: "AI - which I like to call Architectural Intelligence - is a tool that will one day allow us architects to fly. This book, like all Neil Leach's books, is a multi-perspective view of a possible future for architecture."
     publishedDateTime: 2021-11-07T03:54:00Z

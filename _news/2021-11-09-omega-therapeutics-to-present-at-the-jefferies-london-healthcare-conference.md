@@ -53,6 +53,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "LendingClub to Participate in a Fireside Chat at Citi's 2021 FinTech Conference on November 17"
+    excerpt: "LendingClub Corporation (NYSE: LC ), the parent company of LendingClub Bank, America's leading digital marketplace bank, announced that its Chief Executive Officer Scott Sanborn and its Chief Financial Officer Tom Casey will participate in Citi's FinTech Conference on November 17 at 11:15 a."
+    publishedDateTime: 2021-11-10T21:40:00Z
+    webUrl: "https://menafn.com/1103145699/LendingClub-to-Participate-in-a-Fireside-Chat-at-Citis-2021-FinTech-Conference-on-November-17"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?328678"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "Y1zQflsbtgP59o+V6jleP+RmZSywbOOz5sL3r6SIZDYvKXkDOqXlVfLPFAROtDusZYqsc0SBzs2M6wumtMVa4gDZe8d0SrOi4xZLg58lVzulHCveNNCTW1gEckzQNlotGb+A09gk5tX5q0HkURct6a3rRG73/kw+v8JnFI+jFxNh3svUJuFbVlh6MSl+j/yjuhhxj+NJ13quxQtQOIUf2nWknyIzfwdQPV4EKTw9z13Q7LJDpNRX41oXnn12d3W1XIplyDVCUxRcRTBCxKH4NOFaWbAKds3qZdvvooYT3EDeNF9Ln8eOHiyjJ+19M0swhsQ87E7yc3YuocFxhA4Fq/US8fTSfTs9WZZGbkbBr4U=;vixd3SMxYsBqrJ8drL0J/g=="
 ---

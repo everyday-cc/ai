@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Cerebras Systems raises $250M for the ‘fastest AI processor on Earth’"
+    excerpt: "Cerebras Systems Inc., the developer of a wafer-sized artificial intelligence chip with 2.6 trillion transistors, has raised $250 million in funding to further develop its technology and expand industry adoption."
+    publishedDateTime: 2021-11-10T20:37:00Z
+    webUrl: "https://siliconangle.com/2021/11/10/cerebras-systems-raises-250m-fastest-ai-processor-earth/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/cerebras.jpg"
+        width: 718
+        height: 404
+        isCached: true
 
 secured: "5afq9Aeit3XXz2vxbuduqzLsCoAWhJxo4saYcPyneRlidFajmvE1iB/jdZ6VGODXrfdXPSJM4XkS3kEBg1NDCl+1j3Ac5b4rNIjYgPbzoxQGy56Vqzn0owwv0tJHtjle6WVLSqkaZkak46/b9ZNobL/H8Bw4I4Yw3h0zKhJhszeSq74pbkGp02iuYZK0zoKfTxdQrDVVcS9IovGyIvcsqaH2Y07oWMUhdsagmXRBBZyT/rSFwFJEU/9o25VegqGEPHiZUnpm+UkbOX2oieMBufVz+R61Or2L49TarqnBx2iIQYmn2Q/Kf97ezNTHp6vi1qm95V4Mt1ORO0dstX9lORielTY9Y8TAfN0v49TbSIR0RKcpze+4fGPIpqwuUAixUC39AG9SNU+b6P/EjsroWqiuWc00rGS78QOZsXReyXr9KoHFZeGhyDSTm39yO2eJHoR3UojVnRbnF6JGu9HpO+hCooIEw28SKLegKXbjyiAPoDOOMkIk9bm7cmhtJHqzroWDXm0rxyOTB3qPM7p5Yw==;fEmKLSqluo8nqr0ay3oAow=="
 ---

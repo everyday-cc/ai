@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -61,7 +61,21 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Cerebras Systems raises $250M for the ‘fastest AI processor on Earth’"
+    excerpt: "Cerebras Systems Inc., the developer of a wafer-sized artificial intelligence chip with 2.6 trillion transistors, has raised $250 million in funding to further develop its technology and expand industry adoption."
+    publishedDateTime: 2021-11-10T20:37:00Z
+    webUrl: "https://siliconangle.com/2021/11/10/cerebras-systems-raises-250m-fastest-ai-processor-earth/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/cerebras.jpg"
+        width: 718
+        height: 404
+        isCached: true
 
-secured: "V0jtzOfHCU7zN+7OKmOXjYyAnlWd5cKBLgfn0YPL36FqVnU0Vm7M+hLWiAFFrrMkh6q+jKnsSuLVvDHKq/5LPJGXgjGTf6qYR5gSyeDfgND7eMFL0nY1dm14Jg0VlswecZpoeUynddLziHtpFjBpAYVgG4Yx0hcBgU30eu6ZPTDpVlIKuoCa2u8Jja1pzaG/8TzLsMXPAAPYC02CG9HxchDquE07fneo+R8Eqmp3SYPiUo5LkSw3J3DNIsUnUfo8RQEGhxQzs5CQ/AOhVwTnMKs4w3LbAVxGd0gxYFPvkN5FZ83Y3XRV8nwsRf/oDwwXELJwIUr70q6nltAvvZMQBTV13FiEsL4ErfTaVSgSg0M=;YAhzOws9x+V4BvE2Otoxjw=="
+secured: "UZC9WqxBI7v9Entxi/A1rxILKjIivVwfUAWMdGAfLnDJ1kcBHWhcJaISsUnuf4k4YN3h7cBmjEpyzutWOoXIus9YlODktY2s7OxO8nZXY6KiOygq1Fw0BSxUqrX5tjOla34PgyhNmzniZ4mSeFs3E5VrLuLyiXq4W/YTvppfJuHyANoQhOgvuk3FEIeHgsLka0leBuhkVzi3KBxnDNkEsh+1mgYO9clq6pZQQEXKxKNMztOFMjvTaX0amatML90F6UZMoDpUQuIrP5UpDNYPWNM3SEBkmvyKfY1BsfNkTDjGDHLI1s+TMX0XfsvV2ajUWBC1JkyltdKA9asqOM7FMYYfSsJOqc/lskXRI4t9oSEWZU5CSoOLens8T67KUiX2+1giflp1LUyNldIJGKEfjKNxN3fRI622WKjrOYOt6sltdVKCkpnhbjlfjjuZ3JHPMIYa9VaeRAEtoZClKd+qXA8TzB1CpcFXAiZ7z4ebLJJBzcslb1uuWuACaWNp+S0uTWtegI1FIecZanQoYKc/5w==;od5y2Mw7/yEkvbL1/C54gw=="
 ---
 

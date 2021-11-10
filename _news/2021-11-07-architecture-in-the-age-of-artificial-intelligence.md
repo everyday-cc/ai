@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI and Healthcare: A timely partnership"
+    excerpt: "Today, almost every field is leveraging AI irrespective of the sectors or industries. Every day, AI is getting increasingly sophisticated at doing what we can do."
+    publishedDateTime: 2021-11-10T06:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-healthcare-timely-partnership-raju-kumar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFLbpBjEvhD-w/article-cover_image-shrink_600_2000/0/1636524697847?e=1642032000&v=beta&t=GGKDExtDKUhls3heeV1JVvZOsVruKQwCYrrdBhoyfQc"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "9S/6VEcSeysc1S2x3Aqw/3o8A6qVC9RmuNjOvqpNnpy0X3+13nUpQVtHtPYHjVhdMMBMPANSPm5LwDuitJQ/gY1Y40eJYpTU6pYVlYx/f07x4rW74J5Or1rg+y7w1OWJ00/s3ejAzCssnIOE54QvtvnA6VqjTf9Zc11I/AEfcOvdu8hxF0tcM5XyCQUmlOu6b963ZONztXRI3fhflxIDsUKKKe4Ocjw9ferwDKYKHpmPls4FiSC57lUNBnqTK9u+3ZQDmh8tzYGjaceM63ZEZtI6p0FvvrAYAD9mAhBpZETjwuMhycgBs0CjQjrWgUNlZSXniUSFtdBgPr+JokfGQtTgyT47dDK0rQv8H9VylhUTlzXdIYSAw2PZikdW1EVHndY/G40sAdQrvrINYmaM4zvYqs2LAEZWlyUAhvnh8MDimClKHNWefDqzverTbNyStYFnE6QNteGAkn6qNAKeoipYNFy/gf/ciy/NqiljeshBBnYop+OhFHNIgTQBRE+Vlz01k0FYNg0OohpD6OYY6A==;WQTn5DokGckQGwQdoWKW2A=="
 ---

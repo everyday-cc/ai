@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/amnesty-international
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/amnesty-international-concerned-over-facial-recognition-cctv-surveillance-in-hyd/article37423824.ece/amp/"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics.jpg"
         width: 1254
         height: 836
+        isCached: true
+  - title: "BitCenter UK facial recognition app puts CCTV capability on mobile phones"
+    excerpt: "BitCenter UK has developed a facial recognition mobile app, FarFaces, that it says provides the capabilities of a biometric CCTV system on a smartphone."
+    publishedDateTime: 2021-11-10T19:49:00Z
+    webUrl: "https://www.biometricupdate.com/202111/bitcenter-uk-facial-recognition-app-puts-cctv-capability-on-mobile-phones"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
         isCached: true
 
 secured: "wagNYwhyLETdBuR09DeQL9Vm9H+1eU6TlKbzhwc8U3EDpuKci+NKb9nybhUQnSZIZ1SJJlzEWdRS/G/fVQS1hSZhh6B/45F9iXZcS0gMfBUHSBtQNtztatuAtoO1j3ImudXgjw5IZjz6zu68Ck6dXs2VYjI8V7slMlRM1oi0B7W1c4tf/o6WtlZvedYGKmk1+9zXFxTEIHYj0OHOVqHDA4v8Z6m46knFaUO4lKdWohAlJ60NocJ17lel9brf9HkQX3u5hvGJ8pfFnBeOZLwaknK95gneFW4NrZXx5d+83RA87wwUKN06U3s48IvYYOt3bezt43q3gS5yPgUYwLDKf0sXWS/vlWlELzFe8hU52aEl6WEhRc3VtGY3APIGSJp6gkH9uMYY+J3OkGOUKOLeywlc4G02BuWogKEZWZNG6eGbw/9CYqHJKkKzcQ11FIYRtJKFjTq1SS9zas4fqAOk09TZHiAJKEfOvCjsWCAnavn2MAZQ9A21hSw02ufv9bEZmiRQWkHsgvjmKUOJZxm3vg==;j8B+rOeKE7d9P6sCLSSXng=="
