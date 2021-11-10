@@ -83,7 +83,7 @@ related:
         width: 700
         height: 490
         isCached: true
-  - title: "Nvidia: AI Can Power Simulation Performance"
+  - title: "Nvidia: AI Can Boost Simulation in VR, Quantum Compute"
     excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
     publishedDateTime: 2021-11-09T17:51:00Z
     webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
@@ -97,7 +97,7 @@ related:
         width: 648
         height: 392
         isCached: true
-  - title: "Nvidia: AI Can Boost Simulation in VR, Quantum Compute"
+  - title: "Nvidia: AI Can Power Simulation Performance"
     excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
     publishedDateTime: 2021-11-09T17:51:00Z
     webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
@@ -105,7 +105,7 @@ related:
     provider:
       name: thenewstack.io
       domain: thenewstack.io
-    quality: 39
+    quality: 43
     images:
       - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
         width: 648
@@ -140,6 +140,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Td4+YHNe0jnG/1drsmtlaK8UvlrMvAHsFAllJDI+r7aVTTB6vRdIRfHpqzu8nGrWzurm+wtQT/ajarf1lqkLxaU4QTK829AWk6qOlBaJWgtnDJ5GYLVyY/Q/GGduobspFR5j6660VZizjSIy9I/9a5Vv0wyU49hEleSF7eGrNdA6JoH3Y+AN+io2q5WC9m/JA1VRQPHlC37eD0GXK24OkJUxcV5zJaK7GoTslqqFPdSCwRL8Y7HCA3sUNDEfU/06Npocdzd5j6Dd+TsdES6ymzszv4EHUSJbC+pOyx16Q/6w3MNH/5EX6FE1a7ITz1+SwV2wxr4vP4WfQkEKyFzrFl3wSZAjuJW/l8I45UH2Hq8=;0eFgapP+2Vzk0i4V/sGthg=="
+secured: "tA54eyKzVomqrwOGPRDLWwSW+gH8rRGQT2yhiSXANCASqEmebmI1hieDd0xqU7XzU+ZJ9eL3dBQ5vEaUDrbxqsvvS8ef9FYzfDBST4CN+TluQvM8JF7M9p7cRhjfFKQwEHmKm18GfgS9t6y5HJ3JIIr9L+HhlzdoW8CxRBO3VN45rcbgz1Iifpot8IlvvyeGI1eMU9KEVIHiC699uYha10DBAWDnnsl0zjG7FK+mc/op88IiRPNCA223nVs3uW3eHrMbVNsJFwbnL7vrPxPYp27BrikwnRlu013Uzxv3PfYnXuOT0xOh3Klm1WrNG26lieiJ9d+U9y98a0mhu0YKfld85javSr5K+nNxDZ8RBazt51UHskcQQT6AKH08FF60I+l1w8IkZyvLp0fvyYuKimkaz04loSLCdPVRP88VPAQGWwBdDGaGbPd2Hb5fQBbKHjAz3eMgkp9GcoePzXlDXSCQ5hv1iy6xQLjXMJYiqiNiD9HYVx//3VG8Zr2VQIjzO26bEnJfPggo/4hZabRTMg==;TYRgqz8am2i9jafVnmnFtQ=="
 ---
 

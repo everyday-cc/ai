@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "A Former Uber Executive Takes a Fresh Approach to Self-Driving Vehicles"
-    excerpt: "Waabi founder Raquel Urtasun wants to solve the puzzle of autonomous trucks without driving millions of miles in real-world tests."
-    publishedDateTime: 2021-11-05T13:02:00Z
-    webUrl: "https://www.wsj.com/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929"
-    ampWebUrl: "https://www.wsj.com/amp/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-former-uber-executive-takes-a-fresh-approach-to-self-driving-vehicles-11636120929"
+  - title: "Self-Driving Software Developer Aurora Goes Public"
+    excerpt: "Self-driving technology company Aurora announced it completed its business combination with Reinvent Technology Partners Y, a special purpose acquisition company."
+    publishedDateTime: 2021-11-08T15:15:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-software-developer-aurora-goes-public"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
     images:
-      - url: "https://images.wsj.net/im-428284/social"
-        width: 1280
-        height: 640
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/aurora-truck-0727.jpg?itok=kIF3GM9D"
+        width: 470
+        height: 246
         isCached: true
 
 secured: "/DG5Pb83EqyQ5S20NOKAaWn/3df+OUgYCsjDTxwK3GgVlKzF21Bm7x6b/RmtHI/nTBp/2td5UAK4rI4zB+Cl5to/E+/wQyL+2Db1VqrwepKDvdehbHrGxENOV1StYPyeTp/X9+t6y1M2zPe6vi0gEwFoQ/SR1bV6iftdPaBXHMsHZwNnoSFpDwOsXmt2sUkZHwe1d0uubVXl9r7EAHbNmUh+r4nq5BhkSt4Fcfap9FZE3U6X65uWvgYH8s5B4fDZlYjAqoZL++TZA92SGE+k2yNOKccn5/aaQLBqkMupjsr8j7xyCW7rCZN+Sic2Y+khWKxO4g4XbMxc7sVjCJNoqMzohnbtrTEbZRSa8CMF8AOCPT6N3CGSZXNIvTlUF6AUbKHVwDlM5QPYAUtfOH/3r4wsCRj9EJ+COsEUG70EsySln0zGUbPciUgjRgWeeNyn7qbSXp++nZ4Dm3ad/rsqtx0Mi1YhYbH1GOnFPLTasU1Mf3kuvprKxm+Erv4HtAkIU5y+ibMxEsB5U31yFxL/nw==;4rsmt0aK32bTFusOY/00Lg=="

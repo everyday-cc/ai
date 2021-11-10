@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-so
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "FinTech JUMO Raises $120M to Support Emerging Market Entrepreneurs"
+    excerpt: "FinTech JUMO raised $120 million to help the startup further support emerging market entrepreneurs with next-generation financial services."
+    publishedDateTime: 2021-11-08T16:11:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1902368425-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Jumo raises $120M to power fintech services across Africa"
     excerpt: "The South Africa- and UK-based fintech will use the funding, led by Fidelity, to expand to Nigeria and Cameroon and add more financial products. Who is Jumo? Launched in 2015, it’s a banking as a service (BaaS) provider that powers the infrastructure for banks and fintechs to offer lending and savings products."
     publishedDateTime: 2021-11-09T05:05:00Z

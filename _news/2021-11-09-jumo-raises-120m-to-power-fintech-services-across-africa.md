@@ -41,6 +41,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "FinTech JUMO Raises $120M to Support Emerging Market Entrepreneurs"
+    excerpt: "FinTech JUMO raised $120 million to help the startup further support emerging market entrepreneurs with next-generation financial services."
+    publishedDateTime: 2021-11-08T16:11:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1902368425-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "j1vs7+qc6Bg7YApK5Xz6ByE6hSYeL68aZCtPsAUVvR5wtVOZBVbVB38k/T8ZvXuiZ9DchzwffO8x6+AjO+MDBB5DVnTluVVwDJ08EQBZkBRKpJyYOFHAomnIGDUDHaQhQskOP7pb1vocmrLbGELGRdwaXFEFeUTx4ZI1sfFBvWMxaeahvUBejY0Lvdj8frsATLzYMLmPi2rJ7us2/IyP5wC7FzgptLeRoEzXvl4deaMEsusU8+tXjUL8d5Voi1brJq9tonrfhVNKNiQk2jmTv+7/ZUGy8iv3TK1SZumw+ihUmBjLe/NxNSskN86vv0pd/n9D++ij+st+F12hiCnqRHE0fqOXN3OSJzlc0btQYpK5aiRbin60t2ckLbm4O0o/TYo9GDpUrg92zNRZPz/RbwaHBcUVx+KJhderA3BuiCD/TWqkzgPkEtm3c1eoyhaC1K8LgG/sz3z+QQKpNUbZmz5qOkRQFO8FZhApzZPRbQGDhZ5dsSmSQ0pLzVxIy4D4lY8Hma4uV5N4gMtaFD33eg==;CwOKW19TFSpb9sAVf+HYMg=="
 ---

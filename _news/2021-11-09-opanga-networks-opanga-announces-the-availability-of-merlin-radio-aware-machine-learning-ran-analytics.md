@@ -65,34 +65,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Machine Learning, Predictive Analytics Determine Drug Response"
-    excerpt: "Using machine learning and predictive analytics, researchers can identify cancer patients who will benefit from immunotherapy drugs."
-    publishedDateTime: 2021-11-05T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-predictive-analytics-determine-drug-response"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "How financial services leaders and HR teams can leverage analytics for strategic partnerships?"
-    excerpt: "HR teams need to provide the right support and guidance to meet strategic priorities, including supporting projected growth, competing for talent, and focusing on crucial diversity and employee well-being efforts."
-    publishedDateTime: 2021-11-05T13:29:00Z
-    webUrl: "https://www.finextra.com/blogposting/21132/how-financial-services-leaders-and-hr-teams-can-leverage-analytics-for-strategic-partnerships"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 12
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/b6e5222b-d1e6-4220-a2ee-772af03f6584.jpeg"
-        width: 500
-        height: 261
-        isCached: true
 
 secured: "RcsMfZ5oXSgxdSrEWbwt8RCQPiA+t08MGPKjJVqYGPCT7oWIFPJJGBLQaPG4+oRt6bhM++YRxyjMPXE7AKkxJZtZTQp0k60JkYuCSzbmdp63CV9ItIlYizhjZbvivBEY0irYLJbgrN4i2L7hGcjsIsYypLIZqxhQh5uJqFOw0Qe+9eoRz/kEArgDk3cSd4GUEvjEcdugnisImHMr2ktbJFXPZTyQXJj/tpd62lvAf/6t/hUTcJuhXB6JnMOWyV1joE8BJACLm5pYYirTGSuRxJ5oQYM/kmx4fK20RHDeuZ7O0gZFvE2n12QFY6p073hE2+BBQ6zA/kh5r5uJfWusKEqi+tC81Yyuu7kdjweSgtA=;k+ccuXX1xRy+bg/1w+iUfg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182637-china-weiyangx-finte
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182637-china-weiyangx-fintech-review-221/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Fintech Lending Trends Benefit Small Businesses"
-    excerpt: "Disrupting the closed-club of legacy financial institutions and bringing alternative, tech-focused options into the mainstream is creating a new sector and also enabling more entrepreneurs to build and scale their businesses."
-    publishedDateTime: 2021-11-05T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efb5527222b100007dd1410%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "FinTech JUMO Raises $120M to Support Emerging Market Entrepreneurs"
-    excerpt: "FinTech JUMO raised $120 million to help the startup further support emerging market entrepreneurs with next-generation financial services."
-    publishedDateTime: 2021-11-08T16:11:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1902368425-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Team 8 Takes Refreshing Approach to Driving Business Development, Fintech"
     excerpt: "Team 8, an Israeli venture group, has a unique recipe for success, its vice president for business development and Fintech Galia Beer Gabel said. A lawyer by training, Beer Gabel moved into a business"
     publishedDateTime: 2021-11-08T11:01:00Z
@@ -75,48 +43,6 @@ related:
         width: 1600
         height: 1608
         isCached: true
-  - title: "How the Bank of England Is Embracing Fintech Innovation"
-    excerpt: "During her keynote address at the FinTech & InsurTech Live event, Tangy Morgan, an independent BoE advisor, discussed how the central bank's innovations"
-    publishedDateTime: 2021-11-07T09:17:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-bank-england-embracing-fintech-innovation"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/tangy-morgan-boe.jpg.png?itok=kUV_LM7f"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How credit unions use AI to compete with fintech lenders"
-    excerpt: "Northern Hills Federal Credit Union in South Dakota is one of several institutions testing tools that can deliver faster loan decisions, an edge they need against digital upstarts."
-    publishedDateTime: 2021-11-08T16:32:00Z
-    webUrl: "https://www.americanbanker.com/creditunions/news/how-credit-unions-use-ai-to-compete-with-fintech-lenders"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/c4ecfae/2147483647/strip/true/crop/2946x1547+0+209/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F12%2Fdb%2F1da3cf1a45d3b1207114913d77ba%2Fadobestock-180950831.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "F|T: The FinTech Times – Float has got a Tiger Global’s pace"
-    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
-    publishedDateTime: 2021-11-08T10:30:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-float-has-got-a-tiger-globals-pace/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 24
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2021/11/Journalinc-AdamDeunk-Final-7378-1.jpg"
-        width: 1050
-        height: 700
-        isCached: true
   - title: "Seven technologies shaping the future of fintech"
     excerpt: "In the next 10 years, seven key technologies will drive business model reinventions while shaping the competitive landscape of the financial industry."
     publishedDateTime: 2021-11-09T10:02:00Z
@@ -131,15 +57,6 @@ related:
         width: 1536
         height: 864
         isCached: true
-  - title: "The Key Mobile App Features to Consider for your Fintech App"
-    excerpt: "Almost every major bank, financial organization and investment firm has a fintech presence. For most financial companies it is the mobile apps that remain at the forefront of the fintech revolution they take part in."
-    publishedDateTime: 2021-11-10T03:16:00Z
-    webUrl: "https://www.finextra.com/blogposting/21229/the-key-mobile-app-features-to-consider-for-your-fintech-app"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "c2M9i4q8akZDtMIBNxlxknUASCp9c4/N88ySksaWK0oU5I7A9fJGx5g0AcoCX3GHLfsonfSiSM2v4W/MSUukUf0jIdHPxR+nCZF0vDFIImbtQRgfVXJvUG5li4l/d7z7KkAOO3lThH6Ryj9ml8bC2Oq03Z2fRORIFsqnzJeiMOArAudAKPyR/tJvoNuwbFA6eBitrOusGC+n0GsVA20lskxyetv3Zt/4Ub4jLF7wvkDI9WYjwCSocNuRgVEm7AFGTqZjE3geXDeLFe9I5js8P0OtBO5msuw67xOQsZ+vuHYO0EupTfjQfeW54POL0vfpQRbr9bewVbTu5N8FPqsYayDiHUQJaoyOvcGXaOiOMpuUXCJnIUoVkyMSkP1eKhm/tP2ijztxWXY61twyXBLHhhrMHB5X1GYoUNk//3kmqmK7Nn1w33cDAXwTwIjcjE66HMxaKfgut++EWbYL1SbInTGTyLu8o02bGk5J4+jrgC11WxfOPyyJfah3dN3iK9Vy762xKBp85W0gjdXfMm08Bg==;xR+epReyfagp9bktH/nM4g=="
 ---

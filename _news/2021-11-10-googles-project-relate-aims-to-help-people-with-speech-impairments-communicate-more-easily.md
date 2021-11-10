@@ -41,6 +41,20 @@ related:
         width: 1300
         height: 731
         isCached: true
+  - title: "Google introduces ‘Project Relate’ for people with speech impairments"
+    excerpt: "Google has recently introduced its “Project Relate” that aims at helping people having speech impairments communicate more effectively."
+    publishedDateTime: 2021-11-10T05:01:00Z
+    webUrl: "https://techstory.in/google-introduces-project-relate-for-people-with-speech-impairments/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/11/maxresdefault-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "63FlB5o95IBBq7Isz/g/HLZ+QplRZxkcx/Id1cC0r5FyI4OADr1KmesnPCMnLVUlQRN0/a/Ry5MC6HWXYm/TadkYwiE8mgj8qEwalEUiFbKMbftdbT9lKB8Yh5JaUe3XhcpGdWgGH8qoA0NHYvllHleGsdUBGSTE0S3DR/4g7+TavDuRMWA0w3Y9Av7i5cQuX/UG2rt/lS9v+7oCmknywsd9IM7Ks2bagqRUKiPB6wKbszruDpVJyNxS79SiRfXqN7ENC/O4hcxyXMlDqQG1XzLQTwYuOljZR6wAtxNt1aRzzuMGw4SoNZggxVms86Iin+rL6Kq1l18YMJTN+lDEFJiqLjxMh4iLnolVkYrKG2V3yV4G67pghUR+7iZupEqX5OlSTS7+CgNexaLvAUxt+3hGLrQ/8YgxwRLgnGKIjMD/WwuUYDU7/WS5ICtfdqU8USyym00CtkU2yEB//gM1BsHBqjLnnEHLm9Y59jlpmUehbH951SIzpzdO5pldfBqzgF3PCY71b8vRDR+IuVYFow==;Y0Vu6LKJk1mYDe+dD375GA=="
 ---

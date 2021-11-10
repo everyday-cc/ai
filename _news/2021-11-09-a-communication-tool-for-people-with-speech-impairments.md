@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/accessibility/project-relat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/project-relate/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google introduces ‘Project Relate’ for people with speech impairments"
+    excerpt: "Google has recently introduced its “Project Relate” that aims at helping people having speech impairments communicate more effectively."
+    publishedDateTime: 2021-11-10T05:01:00Z
+    webUrl: "https://techstory.in/google-introduces-project-relate-for-people-with-speech-impairments/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/11/maxresdefault-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google’s Project Relate aims to help people with speech impairments communicate more easily"
     excerpt: "Google LLC is asking for help in developing and testing a new app that it says will be able to help people with speech impairments communicate with others more easily. The app is called Project Relate,"
     publishedDateTime: 2021-11-10T00:39:00Z

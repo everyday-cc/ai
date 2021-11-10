@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-11-materials-advancement-ai-technology.am
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-materials-advancement-ai-technology.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 505
     height: 662
     isCached: true
+
+related:
+  - title: "Development of artificial intelligence technology for producing CT images based on MRI"
+    excerpt: "Dr. Hyungmin Kim's team at the Bionics Research Center at the Korea Institute of Science and Technology (KIST, President Seok-Jin Yoon) developed an artificial intelligence technology to generate CT images based on MRI images and conducted a simulation ..."
+    publishedDateTime: 2021-11-10T06:53:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/934152"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c7bbfeb8-0dd2-430b-a4f8-fa17ba46a03f/Rendition/low-res/Content/Public"
+        width: 700
+        height: 286
+        isCached: true
 
 secured: "Ctb+JHfoxwTqAmkD4T07qKmVVme56rFgDJi4gqg5Au0nNE9BrCxSOfivj770hwOPw0WL7WKbH4mOVH0QrFvdQrSfmmd98rLhJ/QOXFVDbwI2MY6+XPqdQY/OBGA8IkY3nMkxkcxCAN9SQK2NxsBwTFpxm8YKWF1gMRrsMWYrTLF2keL3jCifcJgv5IRW3FsNhKF1qNB0vs1ShZ0bhWHAfAWptoWeXVJPS7MVZTcoxtMif/1DJ0ZqPuLUX8ZYle26B8ypAe2IkummtmxtEjAkpmBmcwLVDJDqeyEryI2affnx3bLNv7s9ONL4vmGLz7xOQAqeIMrL9NyqUPrmVCdiCmtoqPHcJ2vm3om4P/dIHrYOfyNiBY4coHkJ0VY+4RnbVTnAOEA3K12fEDCnfk4ZbZkdw4TK3jDbiSXmHkbSWV8yMkAfJdrtRMzu5XqwWtkombbX1a5EphNNARfiLkdKBSej7mfDvu0iBePdAK/y3QGQTd+gKeUawiMhwFPdYGDLzdrc8yeqeBgDgjP/RekbqA==;7s97up+stiU5e8dk2jlaWQ=="
 ---

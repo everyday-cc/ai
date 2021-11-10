@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Alphabet launches a new company that focuses on drug discovery using AI"
-excerpt: "Alphabet is launching a new company that mainly focuses on using artificial intelligence to find methods to discover new drugs."
-publishedDateTime: 2021-11-05T14:30:00Z
-originalUrl: "https://pocketnow.com/alphabet-launches-a-new-company-that-focuses-on-drug-discovery-using-ai"
-webUrl: "https://pocketnow.com/alphabet-launches-a-new-company-that-focuses-on-drug-discovery-using-ai"
+title: "Google’s new sister company to use AI to speed up process of discovering new drugs"
+excerpt: "CEO Demis Hassabis promises to usher in a new era that reimagines the entire drug discovery process with an AI-first approach. Google’s new sister company to use AI to speed up process of discovering new drugs."
+publishedDateTime: 2021-11-10T05:40:00Z
+originalUrl: "https://www.itp.net/emergent-tech/googles-new-sister-company-to-use-ai-to-speed-up-process-of-discovering-new-drugs"
+webUrl: "https://www.itp.net/emergent-tech/googles-new-sister-company-to-use-ai-to-speed-up-process-of-discovering-new-drugs"
 type: article
-quality: 39
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: pocketnow.com
-  domain: pocketnow.com
+  name: GDPR fines
+  domain: itp.net
 
 topics:
-  - Google AI
+  - Facebook AI
   - AI
-
-images:
-  - url: "https://pocketnow.com/wp/../files/2021/11/Alphabet-launches-Isomorphic-Laboratories.png"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "Alphabet's Isomorphic Labs Says It Will Use AI to Discover New Drugs"
@@ -103,6 +97,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Alphabet launches a new company that focuses on drug discovery using AI"
+    excerpt: "Alphabet is launching a new company that mainly focuses on using artificial intelligence to find methods to discover new drugs."
+    publishedDateTime: 2021-11-05T14:30:00Z
+    webUrl: "https://pocketnow.com/alphabet-launches-a-new-company-that-focuses-on-drug-discovery-using-ai"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 39
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/11/Alphabet-launches-Isomorphic-Laboratories.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Alphabet Introduces New AI Drug Discovery Company"
     excerpt: "Isomorphic Laboratories, an AI-driven startup owned by Google parent firm Alphabet, announced plans to foray into drug discovery and development by tapping into the technology of its sister company DeepMind."
     publishedDateTime: 2021-11-05T19:43:00Z
@@ -140,16 +148,7 @@ related:
       name: FDAnews
       domain: fdanews.com
     quality: 19
-  - title: "Google’s new sister company to use AI to speed up process of discovering new drugs"
-    excerpt: "CEO Demis Hassabis promises to usher in a new era that reimagines the entire drug discovery process with an AI-first approach. Google’s new sister company to use AI to speed up process of discovering new drugs."
-    publishedDateTime: 2021-11-10T05:40:00Z
-    webUrl: "https://www.itp.net/emergent-tech/googles-new-sister-company-to-use-ai-to-speed-up-process-of-discovering-new-drugs"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 13
 
-secured: "PyWMtRO5RQo+eHpYeh5sD+uc/lgsvj/nmYrwmPXWfJuKZJUZiZN0hsUvEh2VG+CJTYPDZlkjafHzmmaB20caeAtJ4jfX2GC3QMtVFjb6YOyJRKUjq/fqcwKerRNI6DArMQbpLMcl8kJQjT64zaJj5KN+0zLWfhKIQNkm0y31muFUZEB7eplwWDj5CVWfWqmw0LJtyezRtynJ9ak0b1iab5E26sjagsJTUxaEdSnyX77KkUSjcG6Oi8Xc5gqF348kU1EsERhF85h6RoetL9EGm0S3PheIQxQvaxWBNoQKGWRcntp5cU3GiEOaHTQVrZ1GJ0nxloxs8oApHReqy3MAq53NAtn1s+xd6kpCo2cWIh8+tUHw6TEk8SJyhWyE4W7ljKF5DuigeNPLdKZJuXejQ2viI+v2W/KOLlwBsI3xTl1Lp/0Hgl8j9yNvr4dN6hFK+v7i4TSsAooifGaK0ISaK0/L5nDEEbODpH6OX/8mthMwCjwvshAIYsKjYcbvkPlB+1bd2Klcb7iFNjIW1isDvA==;tfWINaUI+LfH7DZ+OhUsZA=="
+secured: "KClyjjX389SSBZorbPMcb6g5pgExkNO5od55EtEX3YmcU0HbQYVPXhNUIcVbiUHPzsrCYgaNLhsXW/N3BPeuRScHZdvWdNp/bl7Of6PclafFWgp9sWWXGaHJ3RXrIbf6gNx7Mh7txO5l3+ArFCpszrqOCrq0IL/epspZ2XQ7P/Ideusoyg7ut8LNtVONEOt/nuJRcwgXiSET3gCbt5pN80X+9pSl0GRKkXnQ1GCFduo6ZbFvexBEJKByPvgHxBm8/U5QBjRMS2lRcL5oFLohKnKwrScPGPqSFK8g09KoRcA5p45lXlVacf/xmPGF5Ii8ntSYPBYdjSSeYKbmrnB2PLH58gLuPc0Ergxm4re4LU84TnI5hXqY+bFElrobs9DMnAC7JQMpRLpJSUujnlF0Rw0yujSotXPAXzHcALEd4eO6wwkY11rtas9Gs+PBJu+qmxG/m9c4a95qlY/VcFbkJJ1uYtqlF0rL958vY3o5k+M5zNNTWv4Kwb9Hre40S4BCSqiLp9ADZzMmxs6qjF0uJQ==;uWlic4lLT8wjWVDXE73CTA=="
 ---
 

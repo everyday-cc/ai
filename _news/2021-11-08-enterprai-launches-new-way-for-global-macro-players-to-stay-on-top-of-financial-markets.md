@@ -2,21 +2,17 @@
 category: news
 title: "Enterprai Launches New Way for Global Macro Players to Stay on Top of Financial Markets"
 excerpt: "Enterprai - the AI-powered SaaS workstation for global macro professionals, pioneering predictive analytics for FX and fixed income markets - today launched a set of products offering global macro portfolio managers,"
-publishedDateTime: 2021-11-08T12:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/enterprai-launches-new-way-for-global-macro-players-to-stay-on-top-of-financial-markets-1030948581"
-webUrl: "https://markets.businessinsider.com/news/stocks/enterprai-launches-new-way-for-global-macro-players-to-stay-on-top-of-financial-markets-1030948581"
+publishedDateTime: 2021-11-08T12:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-enterprai-launches-new-way-global-macro-players-stay-/2021/11/08/9486221.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-enterprai-launches-new-way-global-macro-players-stay-/2021/11/08/9486221.htm"
 type: article
-quality: 41
-heat: 41
+quality: 11
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -39,7 +35,21 @@ related:
         width: 1280
         height: 731
         isCached: true
+  - title: "DDN Advances Powerful Enterprise AI Breakthroughs with Its Latest AI Storage Platform"
+    excerpt: "DDN®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced the latest addition to its powerful A 3 I ® solutions, the AI400X2, which delivers twice the performance of the previous generation appliance in the same footprint,"
+    publishedDateTime: 2021-11-09T14:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ddn-advances-powerful-enterprise-ai-breakthroughs-with-its-/2021/11/09/9487645.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
+        width: 283
+        height: 400
+        isCached: true
 
-secured: "QhGOTr0eyLLqrPS4VjDOLe0dAnPQpoUcQiXD87tO6iK3RWakguE82PyEH5h0MC3QroZyxatcdWt7P/AS7ILiXV3AKw3VpH56e7er/4VbWvJH9kqqrMyjVRdhKtCIAIFBkOA9gGORRVW1g2F9eZh26/ZZU6P22qF95WRCM7ctn+tHWCvoWaHw3nsRYTOuZKXmqI87Sm+S4x+cvhoS/LzWDtN6Wqpsperq7g8L5YLOD3iEuY9o/yGAvwx5lRXP6JRwUy+GBgTsV8WEw+GJroLFDO7VMrD4gicytLrRBHFUDVgXuGK1PLVODzFB0tihsvYymYUo8NH2Nv8ZhcgKL0bs+MtTh+l6YArOlISwKByKDRc=;92z7wm6uKgtPDBMkD4v9iw=="
+secured: "FHhwG1oQ1wBeiimJrysWkmJLo6G44g315sULDoZGlrHXro9dF4wFnYTeDTxiJdOuAyxMpJEojAOOooEPuLyNkxHPwfv73PdoyVKQoWSfuqC1e5yuFUAl4ttldHoRdWRLicEfxWfDtU/E95gnaCK53vEuQDnZ0010V91pI4t7SHukxgmdh68sF/Y2KJoDaIdBIlOfOBYQXokxisVVwTKOBMULKPUYhm+WDx2zXtXh5lPCuIX4w//s9cjm5pudmyVX+VjAs2rIXoeJY0JB4LTXcy62tMQZQK8sqvlrbpydEE4FDaL8AdVEcV84Zy4iRrJEdV08E7pAjfdKt9hq95zRDQ39R6ymyNmOzPK4r9PcqVU=;iMXVhJZ/KkzRQGOQqXmTHQ=="
 ---
 

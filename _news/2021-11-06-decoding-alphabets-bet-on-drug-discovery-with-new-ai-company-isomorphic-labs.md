@@ -71,38 +71,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google-parent Alphabet has set up a new lab that will use A.I. to try to discover new drugs"
-    excerpt: "The company will build on research carried out by London artificial intelligence lab DeepMind, which Google acquired in 2014. Demis Hassabis, the CEO and co-founder of DeepMind, is the founder and ..."
-    publishedDateTime: 2021-11-05T12:48:00Z
-    webUrl: "https://www.cnbc.com/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/05/isomorphic-labs-deepmind-ceo-to-lead-new-alphabet-drug-discovery-lab.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 64
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106971248-1636102203025-gettyimages-1155768576-AFP_1IS4CD.jpeg?v=1636102259"
-        width: 4488
-        height: 2992
-        isCached: true
-  - title: "Google parent launches new company that uses AI to create new drugs"
-    excerpt: "Google's parent company Alphabet said it has launched a new company called Isomorphic Labs in the UK. The company plans to use artificial intelligence (AI) software to create new drugs and medicines and will build on research carried out by another Alphabet subsidiary DeepMind."
-    publishedDateTime: 2021-11-05T12:11:00Z
-    webUrl: "https://inshorts.com/en/news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-parent-launches-new-company-that-uses-ai-to-create-new-drugs-1636114146786"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 59
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/5_fri/img_1636112648756_603.jpg?"
-        width: 1080
-        height: 607
-        isCached: true
   - title: "Alphabet Just Launched a Company That's Using AI to Design New Drugs"
     excerpt: "Alphabet has launched a new company called Isomorphic Labs which will use artificial intelligence (AI) to discover new pharmaceutical drugs. The venture will reportedly rely on advancements made by Alphabet’s DeepMind whose AI uses a model called AlphaFold2 to predict the shape of proteins with incredible accuracy."
     publishedDateTime: 2021-11-06T14:13:00Z
@@ -134,38 +102,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-87548968,imgsize-9642,width-1200,height-628,overlay-etcio/google-s-parent-company-launches-ai-driven-drug-discovery-start-up.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Google's parent company launches AI-driven drug discovery start-up"
-    excerpt: "Google's parent company Alphabet has launched a new company that aims to use artificial intelligence for drug discovery,"
-    publishedDateTime: 2021-11-05T12:22:00Z
-    webUrl: "https://www.glamsham.com/world/technology/googles-parent-company-launches-ai-driven-drug-discovery-start-up-2"
-    ampWebUrl: "https://www.glamsham.com/world/technology/googles-parent-company-launches-ai-driven-drug-discovery-start-up-2/amp"
-    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/googles-parent-company-launches-ai-driven-drug-discovery-start-up-2/amp"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 57
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/10/Optimum-Featured-Image-Not-Found-Will-Be-attached-When-Available-1.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google's parent company launches venture to discover drugs with A.I."
-    excerpt: "Alphabet, the parent company of Google, is launching a project in Britain that will use artificial intelligence software to \"reimagine\" the process of discovering new drugs and medical treatments."
-    publishedDateTime: 2021-11-05T13:21:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/11/05/uk-isomorphic-labs-artificial-intelligence-drugs/6701636113799/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 44
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6701636113799/2021/1/e5ff4bc64d822c9b64bb6926c376ca19/v1.5/Googles-parent-company-launches-venture-to-discover-drugs-with-AI.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Alphabet launches a new company that focuses on drug discovery using AI"
     excerpt: "Alphabet is launching a new company that mainly focuses on using artificial intelligence to find methods to discover new drugs."
@@ -204,6 +140,15 @@ related:
       name: FDAnews
       domain: fdanews.com
     quality: 19
+  - title: "Google’s new sister company to use AI to speed up process of discovering new drugs"
+    excerpt: "CEO Demis Hassabis promises to usher in a new era that reimagines the entire drug discovery process with an AI-first approach. Google’s new sister company to use AI to speed up process of discovering new drugs."
+    publishedDateTime: 2021-11-10T05:40:00Z
+    webUrl: "https://www.itp.net/emergent-tech/googles-new-sister-company-to-use-ai-to-speed-up-process-of-discovering-new-drugs"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 13
 
 secured: "jdA1DMEbwGD5eaeDqp9jMmergC7xhP2RBjEbLAHT2lHMhs51Iu+E6vWaLlI29RbDoT3tcK+xjwj6FYczyPx331YBEfmDQrk93fXwru2mvGJU4Bg8bT6l07J7iyMitMeXeA403tgXWiBa9C9z13XWMo2lZbdcfRF3DSw2+dSwk4PjA8jqt1eVIYPKaV7QdR0zDl1XVFpHOikbwrM2pp8d1JA5KWQGWesKbxjXWnUZWF1HWrcp4TdpSGlFvPM/6A1D+Abs+13WW6QHpCQ85LDdkZKr/rPiKCttrPN50CGcVqUXZXMMHLP+/SJhsXgPy8MfAdnlW9ShPxEs3ODP6E+8tayOiC3nQ8J6g7q8J45fKAFh7dZeD7UDraJhb9D1lsDdEclF1lsLtjh+tEbVrS8iDIO5uHvphJADkqLaXN0W9EygFoGsNS7DYjVSKtJLhEYsOZMVvwNpJW2LuwxB4w9vJ9Hzg8fwWiCLsRBTUrMo2UZmC9418XUxQ1FWewENqlawqupiNG3v7syhU1l3C2MglA==;MJdGPLuauyTNL+UfVNHNlw=="
 ---

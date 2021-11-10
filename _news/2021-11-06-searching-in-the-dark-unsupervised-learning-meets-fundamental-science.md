@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "2022 Trends in Artificial Intelligence and Machine Learning: Reasoning Meets Learning"
-    excerpt: "In this contributed article, editorial consultant Jelani Harper discusses some important trends for the next year in terms of how 2022 will usher in a surplus of use cases in which converging AI’s respective connectionist and reasoning approaches,"
-    publishedDateTime: 2021-11-05T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/11/05/2022-trends-in-artificial-intelligence-and-machine-learning-reasoning-meets-learning/"
+  - title: "Researchers Present Global Effort to Develop Machine Learning Tools for Automated Assessment of Radiographic Damage in Rheumatoid Arthritis"
+    excerpt: "Damage in the joints of people with RA is currently measured by visual inspection and detailed scoring on radiographic images of small joints in the hands, wrists and feet. This includes both joint space narrowing (which indicates cartilage loss) and bone erosions (which indicates damage from invasion of the inflamed joint lining)."
+    publishedDateTime: 2021-11-06T12:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/researchers-present-global-effort-to-develop-machine-learning-tools-for-automated-assessment-of-radiographic-damage-in-rheumatoid-arthritis-1030944025"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 47
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2019/07/shutterstock_1396230830.jpg"
-        width: 500
-        height: 334
-        isCached: true
-  - title: "What Happened in Reinforcement Learning in 2021"
-    excerpt: "2021 saw innovations in the reinforcement learning space in the robotics, gaming , sequential decision making space amidst growing curiosity among students and professionals."
-    publishedDateTime: 2021-11-08T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/what-happened-in-reinforcement-learning-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 26
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/What-Happened-in-Reinforcement-Learning-in-2021.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://mma.prnewswire.com/media/465239/HSS_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "DoRsfP+G+e+uMOLrV29CyTPb96h/Fd6cdqHL5fMmR1FoYS5n5wKq+gpDoDMoDL/3Afrh6CBMSIv/OEkqPjarKQTPw6F+TD4exdRBFq2zlhdmEGRZvFm0skuKCVxeq8b8J8+FOF4XSZcLe4OV+x0cN1QjjwOkM+exTXta7z9xwrig2gXxioZaLOitCUeFOWuHqWTLEAM+Hxy2YELMtGdZnscbTA8NwhzvkEKWWhvje+NJRm+UX4iTzo6Ckgpp6Mo7vCOhscIOJDH4/sq8jP8SZAGriujKh1rZmleP74L31gjkSz2ZoJmjuizomQoBEpAnpRCV3QhU7d/QpwU3vVdWBB2iMLfjNySdd6AJk64389+t35I46/k6kDfAd9ELr+o3M9T3IhfgUvtXOdZy+okPCm0Y5gjTLu4LALuhI4bbvNAvkgXCgJS90YgciCZwTOofiO584yO4Gt+kGetjfEi3vPUPaxwujVCC4GqrHhxLIui9fVflRQ9VMYuTlfOFERmyyL9cQP0ei6SRMCuT0bwbbw==;O8BBGiC0PbijHPrMpzkfQg=="

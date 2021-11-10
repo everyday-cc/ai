@@ -57,20 +57,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Machine Learning, Predictive Analytics Determine Drug Response"
-    excerpt: "Using machine learning and predictive analytics, researchers can identify cancer patients who will benefit from immunotherapy drugs."
-    publishedDateTime: 2021-11-05T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-predictive-analytics-determine-drug-response"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Opanga Networks: Opanga Announces the Availability of Merlin: Radio-Aware Machine Learning RAN Analytics"
     excerpt: "SEATTLE, Nov. 09, 2021 (GLOBE NEWSWIRE) -- Today, Opanga is announcing the availability of its breakthrough RAN Analytics platform which, for the first time, uniquely combines the power of big data and data science with radio-aware machine learning to ..."
     publishedDateTime: 2021-11-09T08:17:00Z
@@ -80,20 +66,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 17
-  - title: "How financial services leaders and HR teams can leverage analytics for strategic partnerships?"
-    excerpt: "HR teams need to provide the right support and guidance to meet strategic priorities, including supporting projected growth, competing for talent, and focusing on crucial diversity and employee well-being efforts."
-    publishedDateTime: 2021-11-05T13:29:00Z
-    webUrl: "https://www.finextra.com/blogposting/21132/how-financial-services-leaders-and-hr-teams-can-leverage-analytics-for-strategic-partnerships"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 12
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/b6e5222b-d1e6-4220-a2ee-772af03f6584.jpeg"
-        width: 500
-        height: 261
-        isCached: true
 
 secured: "XG13yz/Xh0qQ+rttMxL+cEJKlZDllkRQQqBXYV6BcExNYJ2aSwVhKMGjJey67hCxIqac9kfnhziU3AprXqjbyF3mRhkYCY548A+4J2/sC0u2TdJ+hcslY+1WBOawa9MlSj+OeuEjTLWMz+XfDiLVXTh7Am4P39IUQJx7GiJFyT3qP6PkUOK+3VpjLRXOYQgBFn8gaScq/9Pa0eQErGM87Nzj4Pj1Q5LKQSfdniazXn9EMfKXjgL+Os0rDC94EKFA3mxQTNys7pmjNgbRIPw2AJPmE2J4sjEXpbDgWQeKiwWLNfUg3J1iX5DWwIPbdBinqcGkox+Nphv/bxZQ6GiuNYbo4epoV4Qr8G1R379XB+5yZ59wA1W124ep6EVczhtN8jyuc6xmH2Gw52dqYm4SaznR+YbhBSscNsrRZ+6+YjHSdAoH0Hp3AKQe/bvmkD5FZ4fFM7MeeQxOiJxEhVJhect9hppTYL8Pzuu3879kqhnHajG/S+XMWc4JUI4GPBKsxkf17tp4y5JILScpbxU0gA==;dd+DxwHniJVTNPplgQIE8g=="
 ---

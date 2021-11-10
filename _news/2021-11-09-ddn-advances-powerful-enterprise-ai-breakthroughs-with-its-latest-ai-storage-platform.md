@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-ddn-advances-powerful-enterprise-a
 webUrl: "https://www.tmcnet.com/usubmit/-ddn-advances-powerful-enterprise-ai-breakthroughs-with-its-/2021/11/09/9487645.htm"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,33 @@ images:
     width: 283
     height: 400
     isCached: true
+
+related:
+  - title: "AI enhanced SaaS Platform Enterprai Introduces New Way for Macro Players to Stay on Top of Global Financial Markets"
+    excerpt: "Enterprai, the AI-enhanced software-as-a-service (SaaS) workstation for international macro professionals, pioneering predictive analytics for FX and fixed income markets, has introduced a set of products offering macro portfolio managers,"
+    publishedDateTime: 2021-11-10T01:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/182700-ai-enhanced-saas-platform-enterprai-introduces-new-way-for-macro-players-to-stay-on-top-of-global-financial-markets/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182700-ai-enhanced-saas-platform-enterprai-introduces-new-way-for-macro-players-to-stay-on-top-of-global-financial-markets/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182700-ai-enhanced-saas-platform-enterprai-introduces-new-way-for-macro-players-to-stay-on-top-of-global-financial-markets/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/Global-World-Earth-Map-International.jpeg"
+        width: 1280
+        height: 731
+        isCached: true
+  - title: "Enterprai Launches New Way for Global Macro Players to Stay on Top of Financial Markets"
+    excerpt: "Enterprai - the AI-powered SaaS workstation for global macro professionals, pioneering predictive analytics for FX and fixed income markets - today launched a set of products offering global macro portfolio managers,"
+    publishedDateTime: 2021-11-08T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-enterprai-launches-new-way-global-macro-players-stay-/2021/11/08/9486221.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "thAKZj+zeFj4epZGeh3R1Jd/YMLOLC34aLm6Ip5ObLFlCXte+62Grf3iYbOnegvuVm+4IsC+OJMSPDPK2goTn1hQDNT1/HzuRuqIADlCDxydhEPIINat3iWc/ylF3yBnM3GeCf7ByOpu9yqLEKpUvwoqbuqsT0oNbIO2F+I1WIwAez0GA5Q726C9tdZOgDtNN+E6Qjm44w2JLJECO8X3266cLEJez6YvqgqeVjtvD3q49MuWVhET6tNbBcm5h/RicA82BCsUSJN4RgO0PBis1KIR20uxaj+ZmxbwUo6oHZsNZ8BfuZtr6HpyEooM3Iipc/N3OLZAw+0TyHBXG5WCbEFAm0fLRx3axytHCa9b74/UQniBABUINeGULvK8XLyx9MSS7YFU+jxFbpgxCZxFIf3rlUal6gSIvjPgyu0rOP8tC3kCxqkPAGpumcL8EGkY/J3kJUT60kOD7E5ceb0FN/WACXsMmaY/u5wg4MaRfjWTYLW4XZvoibET0JzV0q/exJHEuQwtL65NKCxACrwyHA==;ZANd5/zmM4XjDViVOg2cmA=="
 ---
