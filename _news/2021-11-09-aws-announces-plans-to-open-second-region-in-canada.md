@@ -1,23 +1,45 @@
 ---
 category: news
 title: "AWS Announces Plans to Open Second Region in Canada"
-excerpt: "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services like Amazon SageMaker and Amazon QuickSight for business ..."
-publishedDateTime: 2021-11-08T16:37:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/11/08/aws-announces-plans-to-open-second-region-in-canada"
-webUrl: "https://stockhouse.com/news/press-releases/2021/11/08/aws-announces-plans-to-open-second-region-in-canada"
+excerpt: "(NASDAQ: AMZN), announced plans to open an infrastructure Region in Alberta, Canada, in late 2023/early 2024. The new AWS Canada West (Calgary) Region will consist of three Availability Zones (AZs) at launch and join the existing AWS Canada (Central) Region in Montreal,"
+publishedDateTime: 2021-11-08T16:34:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786"
+webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "9NKc04V5CQfXrZ6r8OoNbvgANaCwFFDVzzt4Osf5LRgBL1nk795hCPx786mu7E2KloUNXY+rJHqiThvFT8kW0EHKO+YtyC1GG7eplyLAgAt267Y7XF3ytXhhXhvkFmWi9C4nom0KNfVaRZxsluio2w12SU+MbAVat9wQFvmwxu+fIekTZISMmYvKOddeV6SX2pxjEfuQVIwVsGyiKqguT/mdV0+ETGW+hDE3sZv+6mUMgN95D/FizU4b8l/XH1zhu4RvlyOHZvaR2oIm4EJF0M7r2cHM3iaVSkp0Kg19NbYJAGXxHdfCTwYDf5tp2wgUAQg2Bl2jiDiJg3ZV6y8S0gPayI0YLY8oVDMly4uj3Mg=;7B8ON/u6iAZ/xDHR2ZNaew=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "Amazon Web Services to invest billions in Calgary cloud hub"
+    excerpt: "Amazon Web Services (AWS) is about to provide an enormous shot in the arm to Alberta’s small-but-growing tech sector. The global cloud services and infrastructure giant will create a new AWS Canada West Region based in Calgary."
+    publishedDateTime: 2021-11-08T22:38:00Z
+    webUrl: "https://renx.ca/amazon-web-services-to-invest-billions-in-calgary-cloud-hub/"
+    type: article
+    provider:
+      name: Ottawa
+      domain: renx.ca
+    quality: 41
+    images:
+      - url: "https://renx.ca/wp-content/uploads/sites/2/2021/11/AmazonWebServices_Logo.jpg"
+        width: 400
+        height: 300
+        isCached: true
+
+secured: "j8Xa+CpHpGuKJU2RZhfbzUaqnwkwagUvSbq3WXTvbyVEzuU3FN1zX5uKCLKnVwpgpgdlbKryDEPxKW+V79TIAfZgM1gWJHMIgYfGUXMFIEjJ+ZVepiNfTtqitruD/j1e998sUhIGJkT7w6CPVtb+0t+MPCobDpEENC9i8rQGs8Gla2zs6rArLe5HxfgAPrRvsy7Tv6lWYMsFj7dCfjsAHNMQmU7Cg1XmVbzmuCvPRGs76qNf/XdX6Un0vAI86rgwKwXV63zqKwT7V2kit55mqGyIYEhts3GPjloi94Jvk737+xU/XZpKrvm8dk2WGH6OpfrU7cQENj+gVWau1kX1rmsaJI3cnZWK0BGA9ixbMlI=;FQNWd8Bo9f8bQLiqeeT12Q=="
 ---
 

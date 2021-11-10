@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/this-new-robot-can-perform-vaccinat
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-robot-can-perform-vaccinations-without-any-needles/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Canadian startup's robot performs autonomous needle-free vaccinations with a high-pressure jet of fluid that passes through an opening in the skin the width of a human hair"
-    excerpt: "Cobi's AI software determines the optimal injection site, then its robotic 'arm' applies a high-pressure jet of serum without a needle. Its use could protect healthcare workers and lower costs."
-    publishedDateTime: 2021-11-05T16:23:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10170025/Robot-gives-needle-free-shots-high-pressure-jet-fluid-opening-width-hair.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10170025/amp/Robot-gives-needle-free-shots-high-pressure-jet-fluid-opening-width-hair.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10170025/amp/Robot-gives-needle-free-shots-high-pressure-jet-fluid-opening-width-hair.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 23
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/11/05/17/50114535-0-image-a-2_1636133831313.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "sgwOhS5Njg5iQnnkBK4hWXXZPGAFD7zs8c3zKLzfPncAWQbqxlKA2nMXGLxqf301N4Ns6gFm9zFkeP9C0ZoPe1a/guiARarV08rCtAMLd3YaX6cdxYm/9Js0TTqxhcGQERMK+bXXQgiQhFoDCPKVHMwTwo/oFRLbbWBUwYGB2LH17Ym/j26AyvdSzOwiJMz/rToNox+cyh3w7W4cEQ58XmkPZGecd2tqVf8V3wCJz7ZNyGBMItCtJhYSOnIUg7dReSvgQTxl4PcBF+zI201hINXohbUMP5gZyUaWXPwwSkm+IkL1bVUimQ/qUb6ITyUe0AywyaUMArB6Q7L4OMl0i003ZRyZrkxY1s2yapZm9ZvjuVHoy1EvXx8ClfLBiHHtzReylKSrTaIgigEQ/Knhwnn4nvNSqaJsOhUXvDTCGCWXLcdZXjVJKsz7/xck+SavMim0stCPTBOKaxokx9K6kSxdwEU6NSj7wv0WdmaFp4HA9NEssNqASbaoPV5UCEl348VfRMQwKt3ovysIORKKgQ==;xr4zRBcT6T1k2OxiUGFAWw=="
 ---

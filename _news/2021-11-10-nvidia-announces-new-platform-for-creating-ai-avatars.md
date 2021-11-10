@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Nvidia says its GPU chip is a giant leap forward for computing"
-excerpt: "Nvidia estimates that over the past 10 years, the raw computational power of its GPUs has grown by a factor of 1,000."
-publishedDateTime: 2021-11-09T09:30:00Z
-originalUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/"
-webUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/"
-ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
+title: "Nvidia announces new platform for creating AI Avatars"
+excerpt: "Chip-maker Nvidia Wednesday announced ‘Omniverse Avatar’, a technology platform for generating interactive Artificial Intelligence (AI) Avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
+publishedDateTime: 2021-11-10T10:01:00Z
+originalUrl: "https://www.orissapost.com/nvidia-announces-new-platform-for-creating-ai-avatars/"
+webUrl: "https://www.orissapost.com/nvidia-announces-new-platform-for-creating-ai-avatars/"
 type: article
-quality: 104
-heat: 194
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: orissapost.com
+  domain: orissapost.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/07/NVIDIA-Cambridge-1_GPU-closeup-e1636399396836.jpg?w=1200&strip=all"
-    width: 1200
-    height: 600
+  - url: "https://www.orissapost.com/wp-content/uploads/2021/11/bb56d03f30a83d4508cd267602851abe-1.jpg"
+    width: 1789
+    height: 957
     isCached: true
 
 related:
+  - title: "Nvidia says its GPU chip is a giant leap forward for computing"
+    excerpt: "Nvidia estimates that over the past 10 years, the raw computational power of its GPUs has grown by a factor of 1,000."
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/"
+    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/NVIDIA-Cambridge-1_GPU-closeup-e1636399396836.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AMD Launches New GPU And EPYC CPU Right Across NVIDIA’s Bow"
     excerpt: "The new Instinct MI200 is groundbreaking, a multi-die chip for AI and HPC About a year ago I comp[lained that the AMD MI100 was great for HPC, but inadequate for most AI workloads."
     publishedDateTime: 2021-11-08T16:00:00Z
@@ -107,20 +117,6 @@ related:
         width: 443
         height: 250
         isCached: true
-  - title: "Nvidia announces new platform for creating AI Avatars"
-    excerpt: "Chip-maker Nvidia Wednesday announced ‘Omniverse Avatar’, a technology platform for generating interactive Artificial Intelligence (AI) Avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
-    publishedDateTime: 2021-11-10T10:01:00Z
-    webUrl: "https://www.orissapost.com/nvidia-announces-new-platform-for-creating-ai-avatars/"
-    type: article
-    provider:
-      name: orissapost.com
-      domain: orissapost.com
-    quality: 39
-    images:
-      - url: "https://www.orissapost.com/wp-content/uploads/2021/11/bb56d03f30a83d4508cd267602851abe-1.jpg"
-        width: 1789
-        height: 957
-        isCached: true
   - title: "NVIDIA Announces Platform for Creating AI Avatars"
     excerpt: "PTI takes no editorial responsibility for the same.) Bangalore, Karnataka, India– Business Wire India NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars."
     publishedDateTime: 2021-11-10T09:44:00Z
@@ -159,6 +155,6 @@ related:
       domain: prnewswire.com
     quality: 32
 
-secured: "vkT03KeaZoRmKpQdwUR46uhiVNnLb6dfo0sYLJfD8/pq5Le8CEssTrwo7x3LEhCeKgLJsEdWOOGhJBUg1GHPZp5jg9NyDl25n9Xrdu8LXCMhoXXnZVF3k6t06WH5zlTr+30a2eJrHYh1+Q8xYvAfBznaZxQmP0s5CI8caLIVDOKaT9dCt4bA2CDKGzci609IQRV+xvcwobF1t2m0gl2wUdoA7iLNmEJMW32ISvVCeTaU5Is1AzAAsGBOAAfDSeNyYEXrQfwGcxSEsS5DyWKZCw1yMI/7L15f4HT117XFUw9qwiMHECXaQ3VJ5AkzoKFTw6CajQVJ67GNH6Wa2i6asYd/nszgEZra3dZ9/09wOoY=;+PFxNjGOEcXRkoo0F761cg=="
+secured: "eua3wQ9dSfNu2v7PuTvRzeecT6RVdVgRekcO57NBMfWmyXCYlaHl2s7dtZDMrG5Uuq8OM8yShyhU58PFxdkHY1bsO9G7tUm6NnUz2b/RE9i1d5LF7b5oxJ1jXr5ZFFPj3PqVAhel+gZ0Q5+9aSmVM6QVSJOXz8ynOwDk9y2wb8jMMbu8MMmhuy8OHMUO2zsqJnMSYzk3iekomYtNCTCbUoHuukcRJ22O3zYKYc3hiNJTMkD+9/Ip4a59AwHzWwc8wQZVX70A/s4mY1e9yTvIG5iXDtYIVioscU4rECirthCSF1CFPozfnGt8NByF02s1obq9u66f/0SFHSAj8HplTnUWPixOPaR3G72JEuDjUI8=;cUpwVxlFJHWm4WaVyBsHNg=="
 ---
 

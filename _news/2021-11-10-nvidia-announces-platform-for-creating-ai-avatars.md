@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Nvidia says its GPU chip is a giant leap forward for computing"
-excerpt: "Nvidia estimates that over the past 10 years, the raw computational power of its GPUs has grown by a factor of 1,000."
-publishedDateTime: 2021-11-09T09:30:00Z
-originalUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/"
-webUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/"
-ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
+title: "NVIDIA Announces Platform for Creating AI Avatars"
+excerpt: "PTI takes no editorial responsibility for the same.) Bangalore, Karnataka, India– Business Wire India NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars."
+publishedDateTime: 2021-11-10T09:44:00Z
+originalUrl: "https://www.theweek.in/wire-updates/business/2021/11/10/pwr10-nvidia.html"
+webUrl: "https://www.theweek.in/wire-updates/business/2021/11/10/pwr10-nvidia.html"
 type: article
-quality: 104
-heat: 194
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Week
+  domain: theweek.in
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/07/NVIDIA-Cambridge-1_GPU-closeup-e1636399396836.jpg?w=1200&strip=all"
-    width: 1200
-    height: 600
+  - url: "https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg"
+    width: 540
+    height: 315
     isCached: true
 
 related:
+  - title: "Nvidia says its GPU chip is a giant leap forward for computing"
+    excerpt: "Nvidia estimates that over the past 10 years, the raw computational power of its GPUs has grown by a factor of 1,000."
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/"
+    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/NVIDIA-Cambridge-1_GPU-closeup-e1636399396836.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AMD Launches New GPU And EPYC CPU Right Across NVIDIA’s Bow"
     excerpt: "The new Instinct MI200 is groundbreaking, a multi-die chip for AI and HPC About a year ago I comp[lained that the AMD MI100 was great for HPC, but inadequate for most AI workloads."
     publishedDateTime: 2021-11-08T16:00:00Z
@@ -121,20 +131,6 @@ related:
         width: 1789
         height: 957
         isCached: true
-  - title: "NVIDIA Announces Platform for Creating AI Avatars"
-    excerpt: "PTI takes no editorial responsibility for the same.) Bangalore, Karnataka, India– Business Wire India NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars."
-    publishedDateTime: 2021-11-10T09:44:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2021/11/10/pwr10-nvidia.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 39
-    images:
-      - url: "https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg"
-        width: 540
-        height: 315
-        isCached: true
   - title: "The top five product announcements from Nvidia’s GPU Technology Conference"
     excerpt: "Nvidia Corp.’s GPU Technology Conference, being held this week in digital format, has evolved over the years from a hard-core tech event for pure propellerheads to more of an industry event where the latest and greatest innovations in accelerated computing are highlighted."
     publishedDateTime: 2021-11-09T11:00:00Z
@@ -159,6 +155,6 @@ related:
       domain: prnewswire.com
     quality: 32
 
-secured: "vkT03KeaZoRmKpQdwUR46uhiVNnLb6dfo0sYLJfD8/pq5Le8CEssTrwo7x3LEhCeKgLJsEdWOOGhJBUg1GHPZp5jg9NyDl25n9Xrdu8LXCMhoXXnZVF3k6t06WH5zlTr+30a2eJrHYh1+Q8xYvAfBznaZxQmP0s5CI8caLIVDOKaT9dCt4bA2CDKGzci609IQRV+xvcwobF1t2m0gl2wUdoA7iLNmEJMW32ISvVCeTaU5Is1AzAAsGBOAAfDSeNyYEXrQfwGcxSEsS5DyWKZCw1yMI/7L15f4HT117XFUw9qwiMHECXaQ3VJ5AkzoKFTw6CajQVJ67GNH6Wa2i6asYd/nszgEZra3dZ9/09wOoY=;+PFxNjGOEcXRkoo0F761cg=="
+secured: "E45gkLZ2mddz+htYmxJcmu0hZBnZ+N5llmkLmtx15Fb8KxLi/HZq5QWzEawNKKmBRJpmh2SM7WYbw2oFLxPz6fl20FBYmRFJgjU0piS2hKprnS6OxdvkFlOVg26IM3ZlJTgPt6ClLg0pHhSAKY4WV/DHtLbn2SJr3ypyHFHP49+STJdPPfUoAUoFE99Q3GOmBPRa5vd6giAeYlYggx6zkODzbjy1+9svPrOy2kwZ3y+3VDa8yjfQK+C5glYCb3kjDasAVbCEuwfq7Bz6JUq0pKQ6LbICSu6W2dzlIeMG6fVChiMwzWQD1rZmCD6oPJFdny0uFcSn5wdaqQfjTtpzh7+92aA6ebK9OKSh/Z3cQc8=;ko2ZN+KpPPqElWQp8gAaXg=="
 ---
 

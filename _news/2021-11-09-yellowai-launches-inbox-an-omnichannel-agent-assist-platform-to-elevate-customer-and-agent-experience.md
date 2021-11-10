@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/in/news-releases/yellow-ai-launches-inb
 webUrl: "https://www.prnewswire.com/in/news-releases/yellow-ai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience-828535549.html"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 419
     isCached: true
+
+related:
+  - title: "Yellow.ai launches INBOX to elevate customer and agent experience"
+    excerpt: "Customer experience (CX) automation platform, Yellow.ai, has launched a new solution – INBOX – a unified omnichannel customer support helpdesk for agents to seamlessly manage customer queries across 35+ conversational channels."
+    publishedDateTime: 2021-11-10T08:57:00Z
+    webUrl: "https://www.indiaretailing.com/2021/11/10/latest-news/yellow-ai-launches-inbox-to-elevate-customer-and-agent-experience/"
+    type: article
+    provider:
+      name: indiaretailing.com
+      domain: indiaretailing.com
+    quality: 39
+    images:
+      - url: "https://i2.wp.com/www.indiaretailing.com/wp-content/uploads/2021/11/customer-experience-1.jpg?fit=681%2C400&ssl=1"
+        width: 681
+        height: 400
+        isCached: true
 
 secured: "iaJHVohyWjyvzO1d0jwTbguVJ52bEn0nKXiAWgnwSKkjLFNIX+7rwFGhBQpWsHBLdpLfPQqLd8AZpkzAYApg4lZj9VB+4BgXOhtXCal+WqRUE3y40HkmeJzqWABuwygzx0F6C3mv/Ho93D2eHhTvfpd+PpW4Y4v82O0gCuNyr/DpPordeezydJGJM34o8hS5Hdlf3F/e5TbZBYckQ+L86wn5yTfOiyhuHV/1o2pH7o6+I37nNILVc6SNjK3/okjks7SuraLvdiZ++SAmx8fwo2atL/I/TwqwBj8z+HT3h2lUv6+xN0RXrcWwlh9Z8v5cIdiJW8RTHrs7nBgLDXYB53Bb59srpL/DiI1tYSybJQM=;6pWZefoRtn50ChdsriWuLA=="
 ---

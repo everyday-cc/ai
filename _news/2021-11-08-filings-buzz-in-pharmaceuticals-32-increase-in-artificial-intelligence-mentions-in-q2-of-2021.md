@@ -7,7 +7,7 @@ originalUrl: "https://www.clinicaltrialsarena.com/analysis/filings-buzz-in-pharm
 webUrl: "https://www.clinicaltrialsarena.com/analysis/filings-buzz-in-pharmaceuticals-32-increase-in-artificial-intelligence-mentions-in-q2-of-2021/"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "Filings buzz in retail: 39% increase in artificial intelligence mentions since Q2 of 2020"
-    excerpt: "Mentions of artificial intelligence within the filings of companies in the retail sector were 39% higher in the second quarter of 2021 than in Q2 of 2020. In total, the frequency of sentences related to artificial intelligence between July 2020 and June 2021 was 118% increase than in 2016 when GlobalData,"
-    publishedDateTime: 2021-11-05T17:08:00Z
-    webUrl: "https://www.retail-insight-network.com/analysis/filings-buzz-in-retail-39-increase-in-artificial-intelligence-mentions-since-q2-of-2020/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 43
-    images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/10/shutterstock_714285595.jpg"
-        width: 500
-        height: 334
-        isCached: true
 
 secured: "3/Az3gkU9X4Un0aVD6zYbIoz2WPG5AyWW5VIiW2MMZlN+6aDr+FL4tO4TH8zGKdJI4695KdDUs8fiSBIcTQoLtRuCbnl9QO0Gixcpvyl8R+vQr1Hz1rPkAdAQB3uAley2XvmdUtA2EdmCrzG38OwUu/MT1uYIVNBxIgYGB4ccUR9wGgmOF48z6N+zQ/dlxDnjfmHMkhURwz+KUWqhl8YRoeB60786gxkhx33YBe3ckb8x73hj9/ccqmLYAuPO/fIkkHuDVDIiSHCOfOQi0OXAryGeihPpRK5Fcvg7/J2ciyfQ9ECsuTaaO3tQXt8ATEsZqw4mXBoNYNm9Zgep4s5TXg+ejvbiXPLkKxpA7xqijOrwhohrs1JTqkqw7ILPadZFA1CGeAUPauSn0C3F5ns+4OoCz91Ns3nM4jYL2UbpRU6RckkQtR8K3dIH4ptDvtP9U0OTk2pt3MQkwAJhEYusjNIbzAA4VMq/vJ1vbgbnZTsSwLOvXuvbKSrgAbP+PLRhYoSAVTPutepqcVwBo1YsQ==;ZcsuW9gKu9jhv6emWQ+UwQ=="
 ---

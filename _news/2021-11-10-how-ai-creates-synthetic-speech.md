@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-10T06:51:00Z
 originalUrl: "https://www.linkedin.com/pulse/how-ai-creates-synthetic-speech-bernard-marr"
 webUrl: "https://www.linkedin.com/pulse/how-ai-creates-synthetic-speech-bernard-marr"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGVkQ6OvS0uDw/article-cover_image-shrink_720_1280/0/1636527035739?e=1642032000&v=beta&t=D5wov3ZKLG_cgxbXGAft0wmD6KWILu1He6GiYlzj-zQ"
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "A0HdnrCe9KO/7KWzwnADQLwbPWqYwYDVeDQZU4roFgFrAAwCvN0eCmqu3IfomVW2pS2FK5XSmVC/e1YHe18znJY1zsFXfum10jn4fPmzRi17sPcdS+l7yRkMkWZFWTMK8G9WxSeVsIG+cO3WHSdtoEzTSXN+/+FEbx5UEkQv+L1e6Y6/6jiax4JrfDpk3Zl8bFW3L6Z2fm/fwBsRD2JfGSqjbMsw3aYz19EitRb7xqbm/I2TAeh/8PCQ/eRWXQs3lLfeiRj+G3Xt+musQIy9mPhWJXRgPWyp2d5O3J9lhUj/V4V1RSjCk8H8FVGf8tm8OYafu31Rbut6mDtgVhxIBU+Q/UhE086F05Jp1x2ycXQ=;KaHYL1NdogkbLxGV6e3nDg=="
+secured: "2nDA0EFEe3+dse22idKSLFoS+gS0+3ik/Px62XHEf3VZJP+pxUvauxenSxfhhYvjPq7oknc63Bt4LK9bRUlGBeavmIu6k6kD4t0rnWgVcRnnkAJPbDMkk02g+tKuiyv9PNC4LxDXKEOkjif7kasIDJ1UF7SuGs2FbNNorxM7o5czChPEJq0wI96NSRknSEj0CapQkZ8g3ce4GpMt/hCuzMD3rsr6LyjN7qMyv8jPtS5pNsS4TqfXDE5h3oqTH5eRjY45J9U3ZP/YOCUHOeep185ldY4vk0e9JisvsJ12mgc1RTK9demEPtrBwtDnn1StXgjULydeKun24B6i6+nrkP2uiVtcjaIQm7tz1zsrwKyi9yEcACPw4GnvtCXN65hhkCSEQoEW0xIirubvxoEvO5eTdn7dtRI33FPqMraKTnshPURreCUfedziXz6pfGDkTk3BC+hPeKapV1f2iChQGOr8p4a/4Md5ihG/eIUJzd8l77GwLkOkB37wE7KNloiqL1IyyfnVlEpY7ho3zWBN7g==;Pl8iu96+WShhAWht/wkvtQ=="
 ---
 

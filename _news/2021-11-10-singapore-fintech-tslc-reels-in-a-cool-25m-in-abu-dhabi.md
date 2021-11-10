@@ -1,0 +1,47 @@
+---
+category: news
+title: "Singapore fintech TSLC reels in a cool $25m in Abu Dhabi"
+excerpt: "TSLC will ramp up operations and AI capabilities with capital raised Dubai: (TSLC), a Singapore-based fintech, pulled $25 million in a funding round from an investor consortium led by ADGM-domiciled ARV Investments."
+publishedDateTime: 2021-11-10T09:56:00Z
+originalUrl: "https://gulfnews.com/business/markets/singapore-fintech-tslc-reels-in-a-cool-25m-in-abu-dhabi-1.83587594"
+webUrl: "https://gulfnews.com/business/markets/singapore-fintech-tslc-reels-in-a-cool-25m-in-abu-dhabi-1.83587594"
+ampWebUrl: "https://gulfnews.com/amp/business/markets/singapore-fintech-tslc-reels-in-a-cool-25m-in-abu-dhabi-1.83587594"
+cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/singapore-fintech-tslc-reels-in-a-cool-25m-in-abu-dhabi-1.83587594"
+type: article
+quality: 44
+heat: 44
+published: false
+
+provider:
+  name: Gulf News
+  domain: gulfnews.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://imagevars.gulfnews.com/2021/11/10/Stock---TSLC-_17d09469bd9_medium.jpg"
+    width: 540
+    height: 405
+    isCached: true
+
+related:
+  - title: "TruEra and Demyst Win “Codifying Responsible AI” Competition at Singapore Fintech Festival 2021"
+    excerpt: "TruEra , a provider of purpose-built Artificial Intelligence (AI) Quality solutions, today announced that, along with its data partner Demyst , it has emerged as one of the three winners of the Global Veritas Challenge 2021 at the Singapore Fintech Festival,"
+    publishedDateTime: 2021-11-09T14:45:00Z
+    webUrl: "https://menafn.com/1103130130/TruEra-and-Demyst-Win-Codifying-Responsible-AI-Competition-at-Singapore-Fintech-Festival-2021"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?539080"
+        width: 376
+        height: 250
+        isCached: true
+
+secured: "y0Qj7AW/CZTiYYiozE/YHmoQ6sPazsQKRhrgP1uts1usUJVYkzfbFjVsGMCYdlXCcY3HsrWiNhsnv6AqM+jYawBVQpS7bt2EUM8Eq/afIf6cJ87YXXjP5enXNecykbbz6Dfn+xY7cw+R0ccToNVAHI3auMwjSh3eI9tLaWyHTU8STjuwA/AQnCTdVjfO7XpJn9bKKHWdrCeno1q2DyRd8wccnxcTve+ATmM9bHba53l0FR8ZGQDvojJhIwXKHZ5OBM6orDy9l0MfFiIMwNH0O/t0Ue+tlTRvk7mnEBUC4kWzZ+ScanaKePuZj0JYRdOxEB4q/mpw97w+YgsOTBqm68EozNfRtoSWltqrzBQ77fI=;NBtVMR1IbAAjzwYyEV6RXQ=="
+---
+

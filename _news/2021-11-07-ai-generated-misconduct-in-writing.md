@@ -53,20 +53,6 @@ related:
         width: 620
         height: 466
         isCached: true
-  - title: "Experts Weigh in on Artificial Intelligence Reshaping the Semiconductor Industry"
-    excerpt: "Learn from this panel of experts addressing artificial intelligence's impact on the on the semiconductor industry, specifically, chip design verification."
-    publishedDateTime: 2021-11-05T16:11:00Z
-    webUrl: "https://www.allaboutcircuits.com/industry-white-papers/experts-weigh-in-on-artificial-intelligence-reshaping-the-semiconductor-industry/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 32
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Siemens-9-NOV21-800x400.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "txOqdZ/UVkLrOxpWAHUwPNiEBvwFvYFOE6vEJzM4VDZ6mJPkhJGylfMc00UxMQQ2mNz9lNFnMqutF7zYkOSkzZQoQz82hgfDZDezKFb61aRnMElBRzmwoy7OOoDTbAQbXbBes1dcDiwhJVKkXQPeWv+t0w1PoLWreaqlqnBn9DQR34lF2uPzkZgYwQ8LUcjyYiIPttONrltmfLjY3XlgaOvoMnM4KNycmLxTtDxYblyt/MiDXKy+brinycwlZcoCSgOFHiOeblMxHOJ/E7NyEBGxX3SpZekIUYnavG82vV3vY15I9r3zFOpF6LhXnWmKqHAmY6PWzdymAnhyro94eQOBZaXq31bteJ254GQzpvquoosNQQWIdSIHMuRQ7m/hw3Mz6guiuwzm8t/lFm5Ac2uPbS4WJuuPujrJrMlMsTLXBKpLf7w9ySSJNyV7JwuXmnzXf9HU/255ONrXIyoshpgOPErWqZZ61+5S1E/vTp0fYBLSIUWpHyaHjVW9fQ9rrwzkf0jikYrbRNucH2nMVg==;zlKi4jtTFsqNUWK4WIp1KA=="
 ---

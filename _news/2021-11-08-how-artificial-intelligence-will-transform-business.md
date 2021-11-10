@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Will Make Your Doctor Smarter"
-    excerpt: "From suicide prevention to infection tracking, the U.S. military is applying the latest technology to a host of medical challenges."
-    publishedDateTime: 2021-11-05T17:31:00Z
-    webUrl: "https://www.wsj.com/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757"
-    ampWebUrl: "https://www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757"
+  - title: "Why is AI an obsession for business insiders?"
+    excerpt: "Business leaders are still worrying about artificial intelligence (AI), but with Facebook pushing hard into the metaverse, augmented reality (AR) has also proven a massive concern for corporate chieftains."
+    publishedDateTime: 2021-11-10T01:56:00Z
+    webUrl: "https://www.retail-insight-network.com/analysis/why-is-ai-an-obsession-for-business-insiders/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 41
     images:
-      - url: "https://images.wsj.net/im-429385/social"
-        width: 1280
-        height: 640
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/ai-robots.jpg"
+        width: 1296
+        height: 737
         isCached: true
 
 secured: "QePFswJdK/67yhwn5rX4XQ4X3jbC/wpXNCua0f/7rPXz39BQZg8j36JZuzKAY4jtMDjS5BOJzoZa+/jszBDGRvhLS96gVF4maOjAKTphAZvEQrpcbMA2qp9lzdHBv1zs53eQ9kQW4i3vW4dyP2C3D27+Suha1gIEHyRblDkz4OGzDjKTtbwYA7lnGklZBFP5O21m4EfF+rpm6rWOByioEIKzOGcmw3JtkdOLIor8H979TVhDQZfJ7ZqW1NIEp2mON+Ponn/c2HE1x3WvKzZGS43qLNVQdN9LGJXCwzmwkqcpOCkGExRHS8XSHU78tyxGK1cTYfCVSgk+ECSN2FzktjtqWWexAVstShdrF8yvZAY=;W0Sr/XYLE4pp9d/EfNcdBg=="

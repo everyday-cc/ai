@@ -117,6 +117,34 @@ related:
         width: 443
         height: 250
         isCached: true
+  - title: "Nvidia announces new platform for creating AI Avatars"
+    excerpt: "Chip-maker Nvidia Wednesday announced ‘Omniverse Avatar’, a technology platform for generating interactive Artificial Intelligence (AI) Avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
+    publishedDateTime: 2021-11-10T10:01:00Z
+    webUrl: "https://www.orissapost.com/nvidia-announces-new-platform-for-creating-ai-avatars/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 39
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2021/11/bb56d03f30a83d4508cd267602851abe-1.jpg"
+        width: 1789
+        height: 957
+        isCached: true
+  - title: "NVIDIA Announces Platform for Creating AI Avatars"
+    excerpt: "PTI takes no editorial responsibility for the same.) Bangalore, Karnataka, India– Business Wire India NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars."
+    publishedDateTime: 2021-11-10T09:44:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2021/11/10/pwr10-nvidia.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 39
+    images:
+      - url: "https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg"
+        width: 540
+        height: 315
+        isCached: true
   - title: "Run:AI releases dynamic scheduling for NVIDIA Multi-Instance GPU technology"
     excerpt: "AI, a leader in compute orchestration for AI workloads, today announced dynamic scheduling support for customers using the"
     publishedDateTime: 2021-11-09T23:00:00Z
