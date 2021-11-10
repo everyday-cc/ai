@@ -26,6 +26,17 @@ images:
     height: 827
     isCached: true
 
+related:
+  - title: "Engineers design autonomous robot that can open doors, find wall outlet to recharge"
+    excerpt: "Engineering students have designed an autonomous robot that can find and open doors in 3D digital simulations. Now they're building the hardware for an autonomous robot that not only can open its own doors but also can find the nearest electric wall outlet to recharge without human help."
+    publishedDateTime: 2021-11-10T01:26:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/11/211109193246.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 43
+
 secured: "UwPC6RQOMFPMtYXhGJhfws8Ux7l7c1VXl0plzoCeXobkJ8V2QVhdWLTgX6etUkjH+OkfA2YXXgjSJulxHo1CnbKelyngGSnlU+8LlX3B/7xiTUOLrRRsEJocAHCq1+JhtzzoBW++TOPi2a4XdWRq7yC3YdOtfYpuE9xNG1MhaZMUaklZ1D0N2Fmt0fYh24bg4t6CT3RqbngZKZHUrqu68Olz5WxFVVxBZMQE53sS2RUjrELmLFdCgQZ5Iur7F/Rvn6/1w6KUrYc+xpVAAafw7RnQhOgGoFcH9tGxwra/8yCwQo3gFjTF97UHBsrFBHCaCrXu1CpA1keeG2ckHcjNHla/tjKHS+kZ4snvkO251QY=;LaxflX/tMWDPSYvEoXUEhQ=="
 ---
 

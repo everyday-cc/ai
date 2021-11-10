@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "On Making AI Research More Lucrative In India"
-    excerpt: "The research work coming out of Indian institutions is impressive. We have a great talent for tackling real-world problems across domains."
-    publishedDateTime: 2021-11-05T08:31:00Z
-    webUrl: "https://analyticsindiamag.com/on-making-ai-research-more-lucrative-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/How-Research-Culture-can-be-lucrative-in-india.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "HhMkyKkgIWnULjWXmUA9TwzDhLBcPMWElVT7cOz5MoiYdE8Y6qbRPQOnx+EEOPqObj/wgPktwT7ft1dyTEUcfUM26VQvbd3TsEXGZbNq9Y7siCFnHHV5IdzZcU5gtldEbf7+I05w3Iv3+fNeQvAXKCeSKOeSVOd2ONzjca3QGmOUctiz+uOS4blUWrm8Daai5fbP2+ZWLqCRbQuIJk6/806PnEV4p69GBIEC5y9qAMCjdq6N800lta3Xeu+0jwCgHHiHGmoX+wu+KpFTZX/O23Osk8shDNn2Id9n4SGrp19GJLf5URTemD5UYIrOJ6xwIkO7vZ26EJ0x9MhqVMBo5/b9JOeQIDBmrLeO7I8/vhs3M8YHseWxJegcbfJUTSESvGQZwPLm123Ud32PIZjA0goFEq2r66H2AO2k6KuWmQn9imK4lVEcueGKV7JUrOiXKp644lt9Z4EtT5yw8Exgy3JsPZlgi8PSGI5SaW6Vmgg4pog4ZL8r1JqT1OLx0zN+bYqEjnp9kWfs9rqdCCA5Og==;KI13YS+PFGfuc3UXRh+FpA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/08/humans-bigger
 webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/08/humans-bigger-threat-than-ai-says-chess-legend-kasparov"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Humans Bigger Threat Than AI, Says Chess Legend Kasparov"
-    excerpt: "Russian chess legend Garry Kasparov was beaten by a supercomputer -- but when it comes to artificial intelligence, he is firmly convinced that it's the humans who pose the real threat. Kasparov has remained fascinated by technology since his famous matches against IBM's Deep Blue computer in the 1990s."
-    publishedDateTime: 2021-11-05T09:29:00Z
-    webUrl: "https://www.ibtimes.com/humans-bigger-threat-ai-says-chess-legend-kasparov-3331955"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/11/05/kasparov-has-remained-fascinated-by-technology-since-his.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Chess legend Garry Kasparov – who was famously beaten at the game by a supercomputer – dismisses fears over artificial intelligence going rogue because 'people still have a ..."
     excerpt: "Speaking at the Web Summit Conference in Portugal Russian chess legend Garry Kasparov said humans are more of a threat than AI, because people use the advanced technology to harm others."
     publishedDateTime: 2021-11-05T13:33:00Z

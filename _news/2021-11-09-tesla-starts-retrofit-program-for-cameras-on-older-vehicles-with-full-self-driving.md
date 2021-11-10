@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/"
 type: article
 quality: 82
-heat: 232
+heat: 242
 published: true
 
 provider:
@@ -214,6 +214,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4PPJ4XR32AI6ZPLP3I3W6RZQJY.jpg&w=1440"
         width: 1440
         height: 890
+        isCached: true
+  - title: "You can now take a free self-driving bus to get to a GTA GO station"
+    excerpt: "Transit riders in one GTA city can now hop on a self-driving bus free of charge to get themselves to the local GO Station."
+    publishedDateTime: 2021-11-10T02:53:00Z
+    webUrl: "https://dailyhive.com/toronto/self-driving-shuttle-bus-whitby-go-gta"
+    type: article
+    provider:
+      name: Daily Hive
+      domain: dailyhive.com
+    quality: 24
+    images:
+      - url: "https://images.dailyhive.com/20211109102930/whitby-go-self-driving-shuttle-bus-500x258.jpeg"
+        width: 500
+        height: 258
         isCached: true
   - title: "Tesla's Full Self-Driving update made cars go haywire. Here's the impact"
     excerpt: "The EV maker appears to be adjusting to scrutiny from federal safety regulators and negative publicity about some of its practices."

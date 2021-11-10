@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker"
+    excerpt: "Machine learning (ML) and deep learning (DL) are becoming effective tools for solving diverse computing problems, from image classification in medical diagnosis, conversational AI in chatbots, to recommender systems in ecommerce. However, ML models that have specific latency or high throughput requirements"
+    publishedDateTime: 2021-11-10T01:56:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-fast-and-scalable-ai-with-nvidia-triton-inference-server-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/05/ML-6284-image001-1120x630.png"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Nvidia unveils AI Omniverse Avatars for the virtual world"
     excerpt: "Nvidia today unveiled Omniverse Avatar, a platform for generating immersive AI-driven avatars. The platform enables users to leverage speech AI, computer vision, natural language understanding, and simulation to create avatars that recognize speech and communicate with human users within real-world simulation and collaboration platforms like Nvidia Omniverse,"
     publishedDateTime: 2021-11-09T09:30:00Z
@@ -43,53 +57,61 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Inworld AI joins metaverse innovation with AI-driven virtual characters"
-    excerpt: "Inworld AI announces plans to populate the metaverse with AI-driven virtual characters, and raises $7 million."
-    publishedDateTime: 2021-11-09T22:34:00Z
-    webUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/"
-    ampWebUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
+  - title: "Bring your own data to classify news with Amazon SageMaker and Hugging Face"
+    excerpt: "The fields of natural language processing (NLP), natural language understanding (NLU), and related branches of machine learning (ML) for text analysis have rapidly evolved to address use cases involving text classification, summarization, translation, and more. State-of-the art, general-purpose architectures"
+    publishedDateTime: 2021-11-09T17:53:07Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-data-to-classify-news-with-amazon-sagemaker-and-hugging-face/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: AWS
+      domain: aws.amazon.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/9xonhbI.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4161-image003.png"
+        width: 452
+        height: 476
         isCached: true
-  - title: "NVIDIA Blitzes Markets With Powerful New Tech For AI, The Metaverse, Autonomous Vehicles And More"
-    excerpt: "The emerging enterprise metaverse will allow us a better visualization of the future, and what could be mankind’s next greatest achievement."
-    publishedDateTime: 2021-11-09T08:30:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/amp/"
+  - title: "New NVIDIA Edge AI and robotics teaching kits now available"
+    excerpt: "NVIDIA has this week made available new teaching kits for educators covering the subjects of Edge artificial intelligence and robotics"
+    publishedDateTime: 2021-11-09T11:44:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-teaching-kits-09-11-2021/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189f24a1df54fe5821b3db1%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/NVIDIA-Edge-AI-and-robotics-teaching-kits.jpg"
+        width: 700
+        height: 490
         isCached: true
-  - title: "Everything announced at Nvidia's Fall GTC 2021: Omniverse Avatar, CuQuantum, Clara Holoscan and more"
-    excerpt: "During the GTC keynote, Nvidia CEO Jensen Huang showcased a range of new Nvidia products and initiatives, spanning virtual reality, enterprise AI, cybersecurity, quantum computing, advances in automotive and healthcare and more."
+  - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
+    excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."
     publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://www.zdnet.com/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
+    webUrl: "https://siliconangle.com/2021/11/09/nvidia-beefs-ai-inference-software-model-optimization-enhancements/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 59
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
     images:
-      - url: "https://www.zdnet.com/a/img/resize/f3093f55db1b12000c82b7534e35491a88175dbc/2021/11/09/2859cd08-d3cd-48bc-a1b6-ee39f3b82f30/doca-zero-trust-image.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 756
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Triton-Image.jpg"
+        width: 1100
+        height: 508
+        isCached: true
+  - title: "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference"
+    excerpt: "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,"
+    publishedDateTime: 2021-11-09T09:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "5v8F+TneTH3NJg4Ui2UAtCWXPXe7lXWxUghRyez+9LAErhz8JmKIAkSmZoS0q9sVSO/YzQrol8PbFjSkE21CXU1UxUXkwDS+Zin1pOAq+HnN79oIbbySZPK2D4zI2dG17Sjz8UnudmacE//drqMGlQCT4P5W2eEsVTWfcdSKPE+FPFCLQb2/x8UB3DxbFqZeqaQTcvpu+LbrUmJMZF/PH72bmsZkDJHp//Y9qUvyy+P5haKoO1HsC40eSn0awTLEesT2f609Oe2e8ywxN3oOfbPR0L+zwK1Am2YJHlBwTFyS9ij6hdrVoeqy6UvmEWBmb8fQGHq6pKTiJ6+PjfJqT3Q0pFJup5InUmQ1upTahHZIQo/EES3py+QpVCikYjy7yLU5zbnbeyjEpADOR53nptGcbCJRodGoOdQT9Uw/s53YK/yZpBgg2CQ1vrkV2EoF2rZBLrWxO8BQjf6LUhIjp81alzsLDLtS2KuPL13KvGOTLWJ4aMzE6/kV3wdkdEmxHihgAPQACFBDYrqeaZ9jlQ==;R9WE11O0tZjDDJTkFhYZjQ=="

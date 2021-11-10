@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New NVIDIA Edge AI and robotics teaching kits now available"
-    excerpt: "NVIDIA has this week made available new teaching kits for educators covering the subjects of Edge artificial intelligence and robotics"
-    publishedDateTime: 2021-11-09T11:44:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-teaching-kits-09-11-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 69
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/NVIDIA-Edge-AI-and-robotics-teaching-kits.jpg"
-        width: 700
-        height: 490
-        isCached: true
   - title: "NVIDIA Unveils AI Tech To Make Autonomous Cars And Robots More Accommodating And Intuitive"
     excerpt: "NVIDIA is much more than a consumer graphics card company, it's also heavily involved with AI, robotics and autonomous vehicles, which are at the heart of its GTC '21 unveil."
     publishedDateTime: 2021-11-09T08:30:00Z
@@ -86,20 +72,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/56740/content/small_nvidia_jetson_agx_orin.jpg"
         width: 708
         height: 398
-        isCached: true
-  - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
-    excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://siliconangle.com/2021/11/09/nvidia-beefs-ai-inference-software-model-optimization-enhancements/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Triton-Image.jpg"
-        width: 1100
-        height: 508
         isCached: true
 
 secured: "eIAiMttMnDdYGAzRhhxjSsPWWZVc6P/a3jtsAThlljjmbsLmakP4lOtkHM3rXMsnqOdhS71549gaED+AZ9kz0PbH7xvzU5oOn+tm/3zJ886AOl1fLcOeMf8VhrzLerIGMAHUyp0MfX4LZ4v92jt7lnoEIcuRtsx1AUmptN4bsFinirfBuNRrh3Im8AeVILj5yGS4I+oA46M52j9QrFaBtEJNuB5BPt4XyWCBWNI75VY7rHEBkbLebh65dJMKnTlGkFH/SLMk0bM0Y6MbTB2AFhwLhOicXWX3XIiB5PlGWcCefmRg4zJLTO7SB/wah02dgjE1TIIpdyAYw9i68chY0wLyepPGAPMSlyMY7hST2f0=;sM02O+Sl0BmqTHizZZtIng=="

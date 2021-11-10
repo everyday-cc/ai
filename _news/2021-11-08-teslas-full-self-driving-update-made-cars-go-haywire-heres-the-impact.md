@@ -219,6 +219,20 @@ related:
         width: 1440
         height: 890
         isCached: true
+  - title: "You can now take a free self-driving bus to get to a GTA GO station"
+    excerpt: "Transit riders in one GTA city can now hop on a self-driving bus free of charge to get themselves to the local GO Station."
+    publishedDateTime: 2021-11-10T02:53:00Z
+    webUrl: "https://dailyhive.com/toronto/self-driving-shuttle-bus-whitby-go-gta"
+    type: article
+    provider:
+      name: Daily Hive
+      domain: dailyhive.com
+    quality: 24
+    images:
+      - url: "https://images.dailyhive.com/20211109102930/whitby-go-self-driving-shuttle-bus-500x258.jpeg"
+        width: 500
+        height: 258
+        isCached: true
   - title: "Apple hires former Tesla executive to work on self-driving software - report"
     excerpt: "Apple has hired Christopher Moore, a former engineer at Tesla, to join its self-driving car operations, Bloomberg reported, citing sources with knowledge of the matter. Apple declined to comment on the matter. Moore will work on software and report to ..."
     publishedDateTime: 2021-11-08T10:38:00Z

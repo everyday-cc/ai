@@ -25,21 +25,91 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s Riva Custom Voice lets companies create custom voices powered by AI"
-    excerpt: "GTC conference, Nvidia unveiled Riva Custom Voice, a service designed to let customers create AI-powered custom voices."
+  - title: "Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker"
+    excerpt: "Machine learning (ML) and deep learning (DL) are becoming effective tools for solving diverse computing problems, from image classification in medical diagnosis, conversational AI in chatbots, to recommender systems in ecommerce. However, ML models that have specific latency or high throughput requirements"
+    publishedDateTime: 2021-11-10T01:56:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-fast-and-scalable-ai-with-nvidia-triton-inference-server-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/05/ML-6284-image001-1120x630.png"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Nvidia unveils AI Omniverse Avatars for the virtual world"
+    excerpt: "Nvidia today unveiled Omniverse Avatar, a platform for generating immersive AI-driven avatars. The platform enables users to leverage speech AI, computer vision, natural language understanding, and simulation to create avatars that recognize speech and communicate with human users within real-world simulation and collaboration platforms like Nvidia Omniverse,"
     publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/amp/"
+    webUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/"
+    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 88
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/omni.jpg?w=1200&strip=all"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Bring your own data to classify news with Amazon SageMaker and Hugging Face"
+    excerpt: "The fields of natural language processing (NLP), natural language understanding (NLU), and related branches of machine learning (ML) for text analysis have rapidly evolved to address use cases involving text classification, summarization, translation, and more. State-of-the art, general-purpose architectures"
+    publishedDateTime: 2021-11-09T17:53:07Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-data-to-classify-news-with-amazon-sagemaker-and-hugging-face/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4161-image003.png"
+        width: 452
+        height: 476
+        isCached: true
+  - title: "New NVIDIA Edge AI and robotics teaching kits now available"
+    excerpt: "NVIDIA has this week made available new teaching kits for educators covering the subjects of Edge artificial intelligence and robotics"
+    publishedDateTime: 2021-11-09T11:44:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-teaching-kits-09-11-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 69
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/NVIDIA-Edge-AI-and-robotics-teaching-kits.jpg"
+        width: 700
+        height: 490
+        isCached: true
+  - title: "Nvidia: AI Can Power Simulation Performance"
+    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
+    publishedDateTime: 2021-11-09T17:51:00Z
+    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 43
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
+        width: 648
+        height: 392
+        isCached: true
+  - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
+    excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://siliconangle.com/2021/11/09/nvidia-beefs-ai-inference-software-model-optimization-enhancements/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Triton-Image.jpg"
+        width: 1100
+        height: 508
         isCached: true
 
 secured: "rAVdn2okkFVCVnQ5R+XXW48inGtqsm+y4ZW3LLXSVr+vkwvgIJ7GFmUJ9Hc2W011BWj/1uav1NLddMRvD+hI8hwlTmJAf1DQ+sROSZUwbjhOxvj2qfM820gQQqiaHNw1hZejtY2Ox5l0gpJB05FqwIXSWxPIRAfZH1XZcY2k+lE88UPT+NjLt34iSrowPmo//sc4SLaYUi+x/wvotluRdvzXYHAgrb4vDrJvaxqPAvPVdkqYAmtAdw+0S+J63/t5QBfuDiHKXuuE+3v5Dij+uprjZzn39aJP9CrX+zaKpUq5wuywRdJXMr0stDtK6wbWaivaTpVoeY8EhicJguR06a7w3TBuWW1UwPaWsAzD4m0=;gSUQ+HGrl99IbGw99BR03Q=="

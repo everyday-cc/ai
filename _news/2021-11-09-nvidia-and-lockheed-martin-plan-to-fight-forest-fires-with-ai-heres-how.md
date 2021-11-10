@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New NVIDIA Edge AI and robotics teaching kits now available"
-    excerpt: "NVIDIA has this week made available new teaching kits for educators covering the subjects of Edge artificial intelligence and robotics"
-    publishedDateTime: 2021-11-09T11:44:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-teaching-kits-09-11-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 69
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/NVIDIA-Edge-AI-and-robotics-teaching-kits.jpg"
-        width: 700
-        height: 490
-        isCached: true
   - title: "NVIDIA Unveils AI Tech To Make Autonomous Cars And Robots More Accommodating And Intuitive"
     excerpt: "NVIDIA is much more than a consumer graphics card company, it's also heavily involved with AI, robotics and autonomous vehicles, which are at the heart of its GTC '21 unveil."
     publishedDateTime: 2021-11-09T08:30:00Z
@@ -89,20 +75,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
-    excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://siliconangle.com/2021/11/09/nvidia-beefs-ai-inference-software-model-optimization-enhancements/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Triton-Image.jpg"
-        width: 1100
-        height: 508
         isCached: true
 
 secured: "g9RunOchWrIa/MWU0WraS26SEb1+Mh922Ykzz02EnwxOSSXv/DrPGCjAe9TaGZ2p5UdWMSlHB3+w+HAPSnfl7Ppd8SeJDJvEmOmHZg1Tx/U4r+OUlJc5KgY9zqaTuuzu+11LBy0lApJ8EGIdbOmb4FP8h3o6VLhjm+S+5XIbLUlCop6Cz+qGUcCBkPjnhozSXt/Ce0BrPRwDJ/ujvTpWpj7LzqqNZbFRit2vR7fsUoBr24ND5D3BbwluvDW5Rmm/MNyrEPVDVDAojOZPZoRu6PCupdFjuH5jTeJmf6odZlvTJKsvaTpmgY8eRDF1n/GT9KGX1L3KARSBeEFvz6YATkditAu3SW08MLf74vuhbdY=;90nOGGe7TfwJxM5ykxxXnw=="

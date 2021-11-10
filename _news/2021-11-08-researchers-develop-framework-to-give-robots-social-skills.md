@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Machine-Learning System Gives Robots Social Skills"
-    excerpt: "A new machine-learning system helps robots understand and perform certain social interactions. Robots can deliver food on a college campus and hit a hole-in-one on the golf course, but even the most s"
-    publishedDateTime: 2021-11-05T09:27:00Z
-    webUrl: "https://scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/"
-    ampWebUrl: "https://scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 61
-    images:
-      - url: "https://scitechdaily.com/images/Industrial-Robots-Teamwork-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
   - title: "Giving Robots Social Skills"
     excerpt: "Enabling social skills in robots could lead to smoother, more positive human-robot interactions, researchers say."
     publishedDateTime: 2021-11-05T23:22:00Z

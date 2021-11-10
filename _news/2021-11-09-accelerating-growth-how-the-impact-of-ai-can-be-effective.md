@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/accelerating-growth-how-impact-ai-c
 webUrl: "https://www.linkedin.com/pulse/accelerating-growth-how-impact-ai-can-effective-gianluca-savenije"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Limits to growth: Can AI’s voracious appetite for data be tamed?"
-    excerpt: "Bigger datasets are said to be better for training machine learning algorithms. But critics seek limits — and change"
-    publishedDateTime: 2021-11-05T08:45:00Z
-    webUrl: "https://www.salon.com/2021/11/05/limits-to-growth-can-ais-voracious-appetite-for-data-be-tamed_partner/"
+  - title: "The Impact of Artificial Intelligence Is the Subject of White House Inquiry"
+    excerpt: "This article reviews a recent initiative by the White House Office of Science and Technology to gather information and public opinion on the deployment of artificial intelligence."
+    publishedDateTime: 2021-11-08T17:30:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2021/11/08/the-impact-of-artificial-intelligence-is-the-subject-of-white-house-inquiry/"
     type: article
     provider:
-      name: Salon
-      domain: salon.com
-    quality: 41
+      name: Law
+      domain: law.com
+    quality: 35
     images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2019/01/facial-recognition2.jpg"
-        width: 1200
-        height: 810
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2021/08/Artificial-Intelligence-Technology-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "X+9z1CkpHv+qiHGURUIHEaA8xTnrbFcQY4uBbTcrqhQ4tU99h949oyFvisYFz590RjZhwMiNY7bbWCZOb9sKcehgHxllKS7COJLNGwAW8rMMypVh0brRy/6Bypr5+K6fMYmd8fuYYkQNdmvvYOQkQdkmDpvLI9xUHaXegCv//Lkbn49tHtqijT5gGGXlJSTQv8R93rDYjQA8R5tIrwHMF9/nZYGk17sZX4tgCcDWfHED+Xy+6d2NdfvWq73dVwe6sOJsUk6KgCEM0gK+ZQmD7cIYsBmCzBnfmPMOQU6H7kizsjwwTfU60isZSfUDfdHM8R2TSLMZu/RAaWgXU3Gt2utGJG6xT11P0iT2siSjAcw=;/7gnXZoPpots5Cymji0cbQ=="

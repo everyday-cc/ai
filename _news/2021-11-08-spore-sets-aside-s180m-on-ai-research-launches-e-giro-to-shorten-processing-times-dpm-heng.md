@@ -96,6 +96,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Singapore launches national AI programme in finance"
+    excerpt: "The programme is a joint initiative by the Monetary Authority of Singapore (MAS) and the National AI Office (NAIO) at the Smart Nation and Digital Government Office (SNDGO). It aims to build deep AI capabilities within Singapore's financial sector to strengthen customer service,"
+    publishedDateTime: 2021-11-10T02:37:00Z
+    webUrl: "https://en.dangcongsan.vn/world-events-and-comments/news/singapore-launches-national-ai-programme-in-finance-586590.html"
+    type: article
+    provider:
+      name: dangcongsan.vn
+      domain: dangcongsan.vn
+    quality: 56
+    images:
+      - url: "http://en.dangcongsan.vn/DATA/3/IMAGES/2021/11/BTA_KK101121SGLA.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "NUS, Cisco pour $40m into tech research center in Singapore"
     excerpt: "Corporate Laboratory aims to deliver 12 improved products and services in areas such as AI, healthcare, urban infrastructure, and cybersecurity."
     publishedDateTime: 2021-11-05T10:30:00Z

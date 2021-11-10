@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-announced-at-nvi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: ZDNet
@@ -31,68 +31,29 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia unveils AI Omniverse Avatars for the virtual world"
-    excerpt: "Nvidia today unveiled Omniverse Avatar, a platform for generating immersive AI-driven avatars. The platform enables users to leverage speech AI, computer vision, natural language understanding, and simulation to create avatars that recognize speech and communicate with human users within real-world simulation and collaboration platforms like Nvidia Omniverse,"
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/"
-    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/omni.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Inworld AI joins metaverse innovation with AI-driven virtual characters"
-    excerpt: "Inworld AI announces plans to populate the metaverse with AI-driven virtual characters, and raises $7 million."
-    publishedDateTime: 2021-11-09T22:34:00Z
-    webUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/"
-    ampWebUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/9xonhbI.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "NVIDIA Blitzes Markets With Powerful New Tech For AI, The Metaverse, Autonomous Vehicles And More"
-    excerpt: "The emerging enterprise metaverse will allow us a better visualization of the future, and what could be mankind’s next greatest achievement."
+  - title: "Nvidia announces deeper push into healthcare industry at GTC 2021"
+    excerpt: "Nvidia is diving deeper into the healthcare industry. During its GTC 2021 conference, the company rolled out artificial intelligence and cloud capabilities meant to do everything"
     publishedDateTime: 2021-11-09T08:30:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/amp/"
+    webUrl: "https://www.aol.com/finance/nvidia-announces-deeper-push-healthcare-093030243.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: AOL
+      domain: aol.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189f24a1df54fe5821b3db1%2F0x0.jpg"
+      - url: "https://s.yimg.com/ny/api/res/1.2/TMoXXvptdfK3BdabthDiag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Mzg-/https://s.yimg.com/uu/api/res/1.2/IbicQk__gOxYepdMl8eL.w--~B/aD02ODA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_finance_433/ac55e8369c2010fa148d1246f4dc8c99"
         width: 1200
-        height: 675
+        height: 638
         isCached: true
-  - title: "Nvidia: AI Can Power Simulation Performance"
-    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
-    publishedDateTime: 2021-11-09T17:51:00Z
-    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
+  - title: "NVIDIA GTC: Networking, Healthcare AI, Modeling and Simulation﻿"
+    excerpt: "Jensen Huang’s kitchen—the site of the past several NVIDIA GTC Keynotes—deconstructed itself today in a slick simulated introduction as Huang, NVIDIA’s CEO, delivered his keynote highlighting the latest in AI and accelerated computing at NVIDIA."
+    publishedDateTime: 2021-11-09T22:50:00Z
+    webUrl: "https://www.bio-itworld.com/news/2021/11/09/nvidia-gtc-networking-healthcare-ai-modeling-and-simulation"
     type: article
     provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 43
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
-        width: 648
-        height: 392
-        isCached: true
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 38
 
 secured: "MSEnh8LINh39HRzpxt0yjn/ut3opJAo/fI72L8mTtboruzV4G0S5Sj+8Bs0yh1vNnAqqo8o+5UZrGwRNpJIlmp6BXWp0f/g05dts/7lmp715V5E5QKO0S1OAgWCcY2SeDS7AR/uwS0fILZfbGVcqr/AbGP1VRljssPMIsjMTrDGsgUWdZx601P6ZiyNzM+lXQAUvpe9pSLtbC/5HdRJgK5qEaXPh5AMY+kC5O1R+Bb4UhIhB538B8jeTYvkOnnefhV22KeVa0EtG8iYYadJ79uX9FYOFZWt20IRfAHInxPuueGa96cjYP1cqcPU8KzPYiDDZnAEX9P0wzMlYRNMce09dgMiSEi0kITCvRVkL+SEXL8xdNSziCYDyGzg0S7e8dCENEiB5VxlvQg0vYR39tX20EjRr9aXCWAEgKnP6X1TPmSBB8oAxUA1IKTUAPQ8HcHSDoROVn0Djp7s/VDV4F81jl9SGLequaUTwD7cbjr1PJKFW4gUiax5HcvfbPsDGEHZwxCCQyLA/Fjd00dRe5g==;iF/tuooX5Sc5QU3M+LUj9A=="
 ---

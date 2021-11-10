@@ -3,8 +3,8 @@ category: news
 title: "AI skin cancer diagnoses risk being less accurate for dark skin – study"
 excerpt: "Research finds few image databases available to develop technology contain details on ethnicity or skin type"
 publishedDateTime: 2021-11-09T22:32:00Z
-originalUrl: "https://www.theguardian.com/society/2021/nov/09/ai-skin-cancer-diagnoses-risk-being-less-accurate-for-dark-skin-study?fr=operanews"
-webUrl: "https://www.theguardian.com/society/2021/nov/09/ai-skin-cancer-diagnoses-risk-being-less-accurate-for-dark-skin-study?fr=operanews"
+originalUrl: "https://www.theguardian.com/society/2021/nov/09/ai-skin-cancer-diagnoses-risk-being-less-accurate-for-dark-skin-study"
+webUrl: "https://www.theguardian.com/society/2021/nov/09/ai-skin-cancer-diagnoses-risk-being-less-accurate-for-dark-skin-study"
 ampWebUrl: "https://amp.theguardian.com/society/2021/nov/09/ai-skin-cancer-diagnoses-risk-being-less-accurate-for-dark-skin-study"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2021/nov/09/ai-skin-cancer-diagnoses-risk-being-less-accurate-for-dark-skin-study"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "LFk2S7EO4y/ut0rdxnjRcKhMeXhV7T+kZLsRwmxHybre73JTR4cIzSv9NqLjjmbd4cl0JD6HezjYFRoe5Plh8RI2Oig/moP2fXDa8UbVYWw12Nr/lvtiWTP4KDJKiT+XgQLCmYB5OXKtYe80Qp/wA5vFKJM6iyCWYsQY306TqPU+G3gCg3wi0KwQ/AWzLVEzq4nmgBdB98Yg7UyvLVpwHurrLKXPdTFb3/ybcedo0PgUZHACP3wE1MwknsitGMeNuLDrwF7qWSj2DMzCOf/2n4ZfpswiXRInn3K0krKuQU+yVtWrZxM57Iow5MxTBN5KiA7iuRVbyR5XDXWZUMOsEQK1Gt9640Qk8pNRtGsJc44=;h5jniXH8VhUBtFckWByweA=="
+secured: "WTSSnoE3ViRlFSITPMYHy94ImiD0IzvPTQaBWndnqs8S8nUKT5qzOlKTfdAk4fI7+wMiZCJfRR8y9EDcRabWauroFw8Io5W4gzVJ/nS6eC4OBBfOMKiFBI7IYR6ZryFn7Tz4zW8PYFmH8jPpRmBV4fMhpx6xoB5DymV7rgENIXjLq90qZrSgBcJ+Z0P0al6iirIOX4mU/DFKjWfPXBelCK3owOCSP7+W5uqEZGvd2ywG1k9MBnjIstzrIgslxykt0uDveze2psnbZbAHClFfsucS8czh7Fj4hAyA0dZwVgPnn/SRpv3qGo6nUpTAnk4M6IxkcqRlQb9175u47x6YLweq2ouqeKwdDvCT1zAckVg=;EcO4q13vG2ZZQtQFP47udg=="
 ---
 

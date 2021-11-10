@@ -9,7 +9,7 @@ ampWebUrl: "https://neurosciencenews.com/social-skill-robots-19598/amp/"
 cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/social-skill-robots-19598/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Machine-Learning System Gives Robots Social Skills"
-    excerpt: "A new machine-learning system helps robots understand and perform certain social interactions. Robots can deliver food on a college campus and hit a hole-in-one on the golf course, but even the most s"
-    publishedDateTime: 2021-11-05T09:27:00Z
-    webUrl: "https://scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/"
-    ampWebUrl: "https://scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 61
-    images:
-      - url: "https://scitechdaily.com/images/Industrial-Robots-Teamwork-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
   - title: "Researchers Develop Framework to Give Robots Social Skills"
     excerpt: "Researchers at the Massachusetts Institute of Technology (MIT) have developed a control framework to give robots social skills. The framework enables machines to understand what it means to help or hinder each other,"
     publishedDateTime: 2021-11-07T22:55:00Z

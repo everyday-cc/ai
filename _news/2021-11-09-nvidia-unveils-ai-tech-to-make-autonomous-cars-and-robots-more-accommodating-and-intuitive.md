@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New NVIDIA Edge AI and robotics teaching kits now available"
-    excerpt: "NVIDIA has this week made available new teaching kits for educators covering the subjects of Edge artificial intelligence and robotics"
-    publishedDateTime: 2021-11-09T11:44:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-teaching-kits-09-11-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 69
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/NVIDIA-Edge-AI-and-robotics-teaching-kits.jpg"
-        width: 700
-        height: 490
-        isCached: true
   - title: "NVIDIA Brings Large Language AI Models to Enterprises Worldwide"
     excerpt: "NVIDIA today opened the door for enterprises worldwide to develop and deploy large language models (LLM) by enabling them to build their own domain-specific chatbots, personal assistants and other AI applications that understand language with unprecedented levels of subtlety and nuance."
     publishedDateTime: 2021-11-09T08:52:00Z
@@ -87,20 +73,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
-    excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://siliconangle.com/2021/11/09/nvidia-beefs-ai-inference-software-model-optimization-enhancements/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Triton-Image.jpg"
-        width: 1100
-        height: 508
         isCached: true
 
 secured: "zGpr2KGaRm758xDQ8FUi0KM4qVMF0etqAaiaOzMKoVAdXLKGgo7ZMG6Rd3lxD5Oc9TttpLdsV9WZ5yMP1A3Dw7G7s1Wl51mPI995TpgrvufTYwekq0TquBbuKRKlJJEtg2Ge/DOnkADYALzy9HbApDgR4wcQzDtzLRjvKWOiidYatR1sIyivB0HS2HEAfE/RJYBaeQqsi3+wmfKq02nVS5PSF1TH0CocRMhzuNDvN0mJ+nxmruFAFaSd28tCbLxwdOgXG8cqNuAlUH0fnU7aArxeCFzUSx1AZpHg0K0P2BaVHuX39YasP+Uu0SqtSqkndCRVGo4Xi0YqWQ9nlUmJ3uIeBq1kNC8UqxMxEiPsaYJjOCrfZQU4M+qPOvxlNI4X7TGlfgnoYi8Dq5iSzUnXL7jbuiEaxe9pMFPiD6QcxS8l5RNioH26U8Z7iUJlS6kTL8rWNwNGChQo/ptFF5CFLD6iRn4tX0ZOXi7JXSj8p/ZRHpy+dE1cBAv1CkEzPFauThLc69SG4bBTynZY3EbUYg==;VWFBpe15WF9OuuroZzlDPw=="

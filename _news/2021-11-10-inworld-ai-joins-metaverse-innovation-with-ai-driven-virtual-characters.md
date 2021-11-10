@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innova
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia unveils AI Omniverse Avatars for the virtual world"
-    excerpt: "Nvidia today unveiled Omniverse Avatar, a platform for generating immersive AI-driven avatars. The platform enables users to leverage speech AI, computer vision, natural language understanding, and simulation to create avatars that recognize speech and communicate with human users within real-world simulation and collaboration platforms like Nvidia Omniverse,"
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/"
-    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/omni.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "NVIDIA Blitzes Markets With Powerful New Tech For AI, The Metaverse, Autonomous Vehicles And More"
     excerpt: "The emerging enterprise metaverse will allow us a better visualization of the future, and what could be mankind’s next greatest achievement."
     publishedDateTime: 2021-11-09T08:30:00Z
@@ -61,36 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189f24a1df54fe5821b3db1%2F0x0.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Everything announced at Nvidia's Fall GTC 2021: Omniverse Avatar, CuQuantum, Clara Holoscan and more"
-    excerpt: "During the GTC keynote, Nvidia CEO Jensen Huang showcased a range of new Nvidia products and initiatives, spanning virtual reality, enterprise AI, cybersecurity, quantum computing, advances in automotive and healthcare and more."
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://www.zdnet.com/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 59
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/f3093f55db1b12000c82b7534e35491a88175dbc/2021/11/09/2859cd08-d3cd-48bc-a1b6-ee39f3b82f30/doca-zero-trust-image.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 756
-        isCached: true
-  - title: "Nvidia: AI Can Power Simulation Performance"
-    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
-    publishedDateTime: 2021-11-09T17:51:00Z
-    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 43
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
-        width: 648
-        height: 392
         isCached: true
 
 secured: "Si0Aj1PK5CksDXiSJoAn3kodWeb20VPSpk9kf6U8eHgbTrz7HuI3aajnn7GeaIE0L+FIgGLqb+S71i1grH0/6o6Tn/09RQ72sJKtZYMhY6jjCRs5ScAxiAdRptkEIC0ucZLd+kfdakM5mXvjPNBXRPG/6vVvgGWC/+D0nfFyhyUOjvctCu+L26/5gvaaY5oEuja1X4yhvWP0VBNMdp48tvVIqQMIxoEtNnh6MVMGfn1brMLx9Cc7n0v+sLVwD/A2KWWGYa+H6Adx1GDRmCTAB4/bwRXLmVwd2xvvF6+Pv2kCHytNEx2USugrAjzuJcfI8tC/jKPlAEzTkA9eaLyM2XD2aVVcd5XmXi/VA4m08rvijqcMWfrK36FZ1s9nmw3kGZbvAlCSV+mghnhAix97HvYY3vvF8Pgm1ELnbChbA8OuhWPGCDvCTQ4nOs5HhlF/YDYuOiSqK1zSlqUgCNOSlxUoKKW8+Dr6tnWphC6sfZlqBHf6AZEqmi+WqJbw1wIVmDUTMxrzZYYBuLNC1U0qTA==;VSvSNRvk2s+hwqJ8StBVbw=="

@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-10-01-statistical-natural-language-processing-market.md",
-      "title": "Statistical Natural Language Processing market",
-      "excerpt": "Statistical Natural Language Processing Market report gives a thorough analysis of this dynamic focus of this market with a secondary search. The report sheds light on the Statistical Natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2414594/statistical-natural-language-processing-market-to-see-huge",
-      "originalUrl": "https://www.openpr.com/news/2414594/statistical-natural-language-processing-market-to-see-huge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua01186854_g.jpg",
-          "width": 660,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2414594/statistical-natural-language-processing-market-to-see-huge",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2414594/statistical-natural-language-processing-market-to-see-huge",
-      "publishedDateTime": "2021-10-01T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-30-kratos-voice-actor-says-god-of-war-ragnarok-delayed-because-of-me.md",
       "title": "Kratos’ voice actor says God of War: Ragnarok delayed ‘because of me’",
       "excerpt": "Kratos’ voice actor, Christopher Judge, says he’s the reason why God of War: Ragnarok was delayed. In a tweet, Judge writes that he needed multiple surgeries in 2019 and that God of War developer Sony Santa Monica studios delayed the game so he could recover and continue voicing video games’ favorite problematic dad.",
@@ -1382,6 +1339,58 @@
         "Natural Language Processing",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2028.md",
+      "title": "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2028",
+      "excerpt": "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2028-2021-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2028-2021-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],
