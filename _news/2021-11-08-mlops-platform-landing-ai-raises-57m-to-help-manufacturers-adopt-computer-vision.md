@@ -75,6 +75,20 @@ related:
         width: 450
         height: 338
         isCached: true
+  - title: "Discovering exoplanets using artificial intelligence"
+    excerpt: "The majority of exoplanets discovered to date have been discovered using the transit method. This technique is based on a mini eclipse caused when a planet passes in front of its star. The decrease in luminosity observed makes it possible to deduce the existence of a planet and to estimate its diameter,"
+    publishedDateTime: 2021-11-11T17:45:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/934587"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/364745f9-0aa9-4dd0-a5e3-48af5e6391e5/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 226
+        isCached: true
   - title: "AI Pioneer Andrew Ng’s Startup Raises $57 Million In Series A"
     excerpt: "AI pioneer Andrew Ng's startup provides tools that make building and deploying AI systems in manufacturing faster and easier."
     publishedDateTime: 2021-11-09T04:23:00Z

@@ -293,6 +293,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-07-self-driving-cars-will-eventually-be-safer-than-those-driven-by-people-says-chinese-search-engine-giant-baidu.md",
+      "title": "Self-driving cars will eventually be safer than those driven by people, says Chinese search engine giant Baidu",
+      "excerpt": "Autonomous driving will offer a safer and more reliable driving experience than human drivers,’ said Wei Dong, vice-president and COO of Baidu’s intelligent driving division, at a future mobility forum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3155196/self-driving-cars-will-eventually-be-safer-those-driven-people",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3155196/self-driving-cars-will-eventually-be-safer-those-driven-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/07/cd4b19b4-3fa0-11ec-a1b3-e785d5c8830c_image_hires_205017.jpg?itok=R-JqBc1M&v=1636289431",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3155196/self-driving-cars-will-eventually-be-safer-those-driven-people",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3155196/self-driving-cars-will-eventually-be-safer-those-driven-people",
+      "publishedDateTime": "2021-11-07T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-bloomberg-news.md",
       "title": "Apple Hires Former Tesla Engineer to Boost Self-Driving Car Effort Bloomberg News",
       "excerpt": "Apple Inc has hired a former engineer from Tesla Inc in an effort to boost its car-development efforts, Bloomberg News reported on Friday, citing people with knowledge of the matter.",
@@ -1409,40 +1461,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-ex-wall-street-banker-hopes-to-spearhead-reverse-innovation-in-india.md",
-      "title": "Ex-Wall Street banker hopes to spearhead “reverse innovation” in India",
-      "excerpt": "Implementation of new business models are now driven by technologies such as Artificial Intelligence and Machine Learning, Invest India reported. In an exclusive interview with Jaya Vaidhyanathan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/",
-      "originalUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/ex-wall-street-banker-hopes-spearhead/amp/",
-      "publishedDateTime": "2021-11-01T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

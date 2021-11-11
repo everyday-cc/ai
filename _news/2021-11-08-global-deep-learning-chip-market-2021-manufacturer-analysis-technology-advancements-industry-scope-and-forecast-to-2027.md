@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI for Speech Recognition Market 2021 – Industry Development Scenario, Data Synthesis, Growth Analysis and Regional Overview by 2027"
+    excerpt: "Global AI for Speech Recognition Market 2021-2027 published by MarketsandResearch.biz carries out research and analysis of the market which includes the investigation into customer tendency. A number of producers will benefit from this research in identifying and expanding their market."
+    publishedDateTime: 2021-11-09T00:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-for-speech-recognition-market-2021-industry-development-scenario-data-synthesis-growth-analysis-and-regional-overview-by-2027-2021-11-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Smart Robot Market Research Report 2021 | Share, Trends, Growth, Outlook and Forecast 2026"
     excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, the global smart robot market reached a value of US$ XX Billion in 2020."
     publishedDateTime: 2021-11-10T11:43:00Z

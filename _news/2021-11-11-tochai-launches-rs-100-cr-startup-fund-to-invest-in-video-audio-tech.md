@@ -9,8 +9,8 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/tochai-launches-rs-100-
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Free Press Journal
@@ -41,6 +41,20 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/Artificial-intelligence-is-of-the-fastest-growing-fields?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/da23abea-6d35-580a-97a8-f036b3a1e667&operation=CROP&offset=0x5&resize=700x394"
         width: 650
         height: 366
+        isCached: true
+  - title: "Toch.ai Launches INR 100 Cr Startup Fund To Invest In Video And Audio Tech Start-Ups"
+    excerpt: "The company announced that they'll provide advisory and networking opportunities to the most promising start-ups along with capital infusion."
+    publishedDateTime: 2021-11-11T11:51:00Z
+    webUrl: "https://analyticsindiamag.com/toch-ai-launches-inr-100-cr-startup-fund-to-invest-in-video-and-audio-tech-start-ups/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 30
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Toch.ai_Co-Founders.jpeg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "VEx0nCOXYFxzSku4PbWIxba+YuO8hGVRL2VjWB1gLWNlebrJZ3Y69FP0u0+Ue99ICa1xWbRRpJPQsd/M475s4zczDohK0aeVSpM+sF6GFaYP03RTtN3dYYfdE3hFLs/XXCTl9A+Rh6l2FZJU91oGyu0ea6Jm9nb3m8GRTdkuk2sMmaNvgc9JEfOJvkZ6tUlcFBNCQlHFolaF3nrSNBdcno4hYxoKh9LLcIXX+IxOEuibttMKK0R0DSLQ3/z4fO8T9eqmFv2413wkhdh8/rQyJ0Fqnhm4CMmd4Enn4A1+tzx53nutXdzVbubZK3QB+sb+ZEH1j/qjdlc5X+C+6yfDC7XzJJoTuWAZjKDU+y9JMo2RCqOfaTbbkRKPibMZ87EG4o7vizMXXtnPdZEMr9ErDeudPeFB1jFV2blUmsKpaOZRPXzsQ/wvOhcqAnicfjiPtGrHMh9U0h5YS1Y6EykAijXPHJMWIYml44hmpuyeklnGe3rrW/m9N95Phm35SVr2brXSV2Q2hw2s7+8N34uiHw==;ARbi7W/nr8JE9QcmCdeo6Q=="

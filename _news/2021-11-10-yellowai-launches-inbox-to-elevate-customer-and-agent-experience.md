@@ -39,6 +39,15 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Yellow.ai Launches INBOX - an Omnichannel Agent Assist Platform to Elevate Customer and Agent Experience"
+    excerpt: "omnichannel virtual assistants, and ticketing automation suite. Yellow.ai has raised more than $102M from blue-chip investors and has offices across six countries."
+    publishedDateTime: 2021-11-11T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1221925&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "siBD9wNJnZlsmLl07hzZulUxvKvaXWfK4aYmcTeEddoSA3ZdK2A+8/9p/8N9zYjmA228+S/w+ykXHvoA3WI++2iFvaNJ/OI699sAR77ihOThYfLwfXDNBuP3Y0L8n3TnDu8mjW4RlT+dta5sDgufB2yfZZLXMpXimrFLizXy3eO2IQKa6u4A7qUeZrS1bPNrrO/qv3bdnQJ61OLCkY2lp3fYJ4FUqPPCW9pqPcn8IbzzJdwF9bKCkGXKXC2xRwzBGZXRxgxFXgctZJcNzZ/kBb72n/ckos2jEdeaVjZdCXCUgE+FfelinFt8tZcG+NlWsiJhj3JPpssBDNRjuwEHwxx2xMG31ma7gzNJiLqCDlH6Ddvnq6AQwyzDkhPDX94nBEdfwP1Zm2iw6aWoJZlVpE/XexqhHpeRk3upDMrxDriEmZQ4kfO8ZG1asSac+AytpffsS//Na6kKvMm4K2eZ6p4RtQ2joC2vP5ipt9N0lG1x3o20FZg9UJkxqypcdSPZh5C26rO1lUJRlrPthrGp+w==;ig5ng7iGE7H/7dMxfFjuzA=="
 ---

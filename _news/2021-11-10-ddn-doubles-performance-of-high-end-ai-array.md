@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DDN Advances Powerful Enterprise AI Breakthroughs with Its Latest AI Storage Platform"
-    excerpt: "DDN®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced the latest addition to its powerful A 3 I ® solutions, the AI400X2, which delivers twice the performance of the previous generation appliance in the same footprint,"
-    publishedDateTime: 2021-11-09T14:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ddn-advances-powerful-enterprise-ai-breakthroughs-with-its-/2021/11/09/9487645.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
-        width: 283
-        height: 400
-        isCached: true
   - title: "Using Artificial Intelligence And High Performance Computing To Speed Up Scientific Discovery And Drug Development"
     excerpt: "The human body is an incredibly complex machine, and no one has come close to creating a complete model of how it works. This is a big challenge when it comes to developing drugs and medicines that interact with the organism in order to fight diseases like cancer or Alzheimer’s."
     publishedDateTime: 2021-11-08T05:44:00Z
