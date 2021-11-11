@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-15-nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data.md",
+      "title": "NHS Artificial Intelligence provider reports 160% growth, promising to transform healthcare with better data",
+      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its data-led solutions are increasingly embraced by NHS trusts, private healthcare providers and pharmaceutical companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg",
+          "width": 267,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-top-10-massive-failures-of-artificial-intelligence-till-date.md",
       "title": "Top 10 Massive Failures of Artificial Intelligence Till Date",
       "excerpt": "The creation of Artificial Intelligence has been postponed for several millennia and current AI Technology is still far from being able to re-design itself. This article will give an idea of the top AI Failures in this AI era.",

@@ -2,6 +2,91 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-09-improved-ai-gives-chatbots-a-second-life-in-the-digital-ecosystem.md",
+      "title": "Improved AI Gives Chatbots a Second Life in the Digital Ecosystem",
+      "excerpt": "Chatbots could be set to make a comeback, as improved artificial intelligence has some eCommerce leaders looking to use messaging platforms to make sales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/improved-ai-gives-chatbots-second-life-in-digital-ecosystem/",
+      "originalUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/improved-ai-gives-chatbots-second-life-in-digital-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/ecommerce-chatbot-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/improved-ai-gives-chatbots-second-life-in-digital-ecosystem/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/improved-ai-gives-chatbots-second-life-in-digital-ecosystem/amp/",
+      "publishedDateTime": "2021-11-08T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now.md",
+      "title": "For robots all roads lead to Walmart, for now",
+      "excerpt": "Cruise, the autonomous driving arm of General Motors, won approval in September to start carrying cargo without a driver and ... Nuro and Waymo and recently enlisted a fifth player, Argo AI, to test last-mile deliveries in Miami later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/",
+      "originalUrl": "https://www.businesslive.co.za/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/_rtaYMh4OZvoQjDfnvzruj7QWYtBwlt5T9qV1aP0Ioppo-zVWVdmI7cAnGqiXrBBVjGBqh66RGO8xqBmCeNvRKKNTKxAWV-QUuThrO4PcTdrOWw=s750",
+          "width": 750,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/",
+      "publishedDateTime": "2021-11-08T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-landing-ai-brings-in-57m-for-its-machine-learning-operations-tools.md",
       "title": "Landing AI brings in $57M for its machine learning operations tools",
       "excerpt": "CEO Andrew Ng says industries should adopt a data-centric approach to building AI, which provides a more efficient way for manufacturers to teach an AI model what to do.",
@@ -1090,110 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-facial-recognition-on-smartphones-is-it-secure-and-should-you-use-it.md",
-      "title": "Facial recognition on smartphones: Is it secure and should you use it?",
-      "excerpt": "Facial recognition has become common on smartphones and laptops, but they're not all equally reliable or even secure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
-      "originalUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2018/10/huawei-mate-20-pro-review-aa-notch-3d-face-unlock-earpiece-11.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/face-unlock-smartphones-3043993/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/face-unlock-smartphones-3043993/",
-      "publishedDateTime": "2021-11-07T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-h2oai-raises-100m-at-a-16b-pre-money-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise.md",
-      "title": "H2O.ai raises $100M at a $1.6B pre-money valuation for tools to make AI usable by any kind of enterprise",
-      "excerpt": "H2O.ai — a startup that has developed an open-source framework as well as proprietary apps that make it easier for any kind of enterprise to build and operate artificial intelligence-based services — has seen a surge of interest as AI applications have become more ubiquitous,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/",
-      "originalUrl": "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/27307283983_c56396a33a_k.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/amp/",
-      "publishedDateTime": "2021-11-07T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

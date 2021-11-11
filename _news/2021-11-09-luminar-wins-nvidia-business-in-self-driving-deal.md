@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Luminar Wins Nvidia Business in Self-Driving Deal. It’s a Big Moment for the Lidar Maker."
+    excerpt: "Lidar maker Luminar Technologies and tech giant Nvidia are pairing up to put self-driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate."
+    publishedDateTime: 2021-11-09T17:22:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 35
+    images:
+      - url: "https://images.barrons.com/im-356249/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "/UcZFmEmbTLSXerSjBYWKPp4DunsM3Q2JY7lptMAW7qBN1t9GxxJwQNq5aQJQDikCrMRLtkjtc437JNFTXkXaRtOJZxX9vQ1YGBIYwbCsEPfjoCk17np90wrjm0EcV7c1lcwJB4OzeAf8/fv3fADBOcDhXcWLc+buymcF1nMOq6sY3sE2Jw1k8nZvsXlsb6B3XgLd6rQnOMvTIfrgwECXzyOXoTpIgedPpSCSPodJB1f12zpRny6RJShryoQaT5EV6SoUr3icvZdYsNqpL0Ez1wFIvrYNG1a4ppMRjaYcAexAZ/1WeymAE8sW5JKD3si8BZyrX93JVRGgPGEVHQ3q8FyHAUeK8LkSZny7HYxBUE=;MqPcbameHC7bTqcbatRfAg=="
 ---

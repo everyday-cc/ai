@@ -3,23 +3,23 @@ category: news
 title: "The (in)human touch: AI and fairness in insurance"
 excerpt: "AI could revolutionise how insurers process claims. It could even improve insurance's image. But can AI insurance be fairer? People don’t trust insurers. We’ve probably all had to contact an insurer about a problem only to find it’s not covered in the small print."
 publishedDateTime: 2021-11-11T05:49:00Z
-originalUrl: "https://www.pharmaceutical-technology.com/features/the-inhuman-touch-ai-and-fairness-in-insurance/"
-webUrl: "https://www.pharmaceutical-technology.com/features/the-inhuman-touch-ai-and-fairness-in-insurance/"
+originalUrl: "https://www.retail-insight-network.com/features/the-inhuman-touch-ai-and-fairness-in-insurance/"
+webUrl: "https://www.retail-insight-network.com/features/the-inhuman-touch-ai-and-fairness-in-insurance/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Pharmaceutical Technology
-  domain: pharmaceutical-technology.com
+  name: Verdict Retail
+  domain: retail-insight-network.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/09/shutterstock_1043017390.jpg"
+  - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/09/shutterstock_1043017390.jpg"
     width: 1000
     height: 562
     isCached: true
@@ -84,6 +84,6 @@ related:
         height: 563
         isCached: true
 
-secured: "e4Xugj/7I+6iWh2i5uJ5u7L+7Z97EjqlQy67BMNOzGJZW0yUtxuxBsru1lZGqZi97aqA65Hea0vhB382dHbL1pxPnmoHzRlUMQ8OrqnFzQlpGgxCSp71NiLbRA0AWWrAPGrHnnPO4vb6N+FRyRQvBfgNfXCZpCpaZx56DQV8eN6u4Ujvj1JWvo23racRBD1vaPISLaOewhTezIJ8UsBp8Mz+M862AEQthU/bbKdbc5ezqB16xjoGZg9DWcbAIbsdkcDDN7kWYrvXZkPeS4Jh65mLZnqBf9orQlBqE94w5PJ6Dd5DjhAFmm+ox/0+uuXRJNhXBsbWXTdHljZ6JrLYgbetJYCOk5YanqHLQ+p/EYg=;lPxBvIysX5aMUEyk3PrljA=="
+secured: "SQi1k1hMEZqoz7EPlkCeOWO8lNEtq5vhoBy7/ecI5m8Amub9yTJlygDQX3iaIHbIM47iFeHu8ZurXbH5XFyc40C7JtALelbFkr2BoHZzdVTrPavKgQpfUKyavYs8MNG3qIufUxnXqZAf7fXYFNTzMAGHxV6fHbDCBDA/TAZWbDutTGGr3pRKotcqUX9G91bT08wfvuZjMfx5ZeJ4fuVfIieOr3LQOosnlI5RSDHwOPPYZVUGxTTU4O+tGEFotBid/v4zsXcgcPdpc2qp2AQcHJnBqcDTQC9Shymi8rM6l/veJwpyggltkL/OSH63NhXCHDkqWgIu2RDpq+ArGBCPwwIw+1TkR5EYVpuyxTZM++o=;Ux4nhS90ICHVOtr7+b0BCA=="
 ---
 

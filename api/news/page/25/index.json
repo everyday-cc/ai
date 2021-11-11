@@ -2,6 +2,102 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-10-20-ai-meets-autonomous-vehicles-and-calls-for-ai-ethics-to-make-it-inclusive.md",
+      "title": "AI meets Autonomous Vehicles and calls for AI Ethics to make it Inclusive",
+      "excerpt": "I believe in Steve Job's advice to keep doing what we are passionate about and connect the dots later. I am excited to see how my passion for Autonomous Vehicles and my recent work with teaching Artificial Intelligence to Product and Business users is coming together now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-meets-autonomous-vehicles-calls-ethics-make-inclusive-sudha-jamthe",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-meets-autonomous-vehicles-calls-ethics-make-inclusive-sudha-jamthe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFmzzOHAWq63Q/article-cover_image-shrink_720_1280/0/1634712849105?e=1640822400&v=beta&t=__zTcIj5fTCXYt-VaP6qSFTRuMf_kKUf6XsUu-QOXfs",
+          "width": 1038,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.md",
+      "title": "Google Cloud tools aim to ease machine learning, cross-cloud analytics",
+      "excerpt": "GCP is offering new data and machine learning tools designed to clear up data inefficiencies and ease application development for enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/692337/google-cloud-tools-aim-ease-machine-learning-cross-cloud-analytics/",
+      "originalUrl": "https://www.reseller.co.nz/article/692337/google-cloud-tools-aim-ease-machine-learning-cross-cloud-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_15.jpg",
+          "width": 472,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-debug-tf2-migrated-training-pipeline.md",
       "title": "Debug TF2 Migrated Training Pipeline",
       "excerpt": "One assumption is you have TF1.x code and trained models for comparison, and you want to build a TF2 model that achieves similar validation accuracy. This notebook does NOT cover debugging performance issues for training/inference speed or memory usage.",
@@ -1047,110 +1143,6 @@
         "AI Ethics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6.md",
-      "title": "With Tensor, Google bets on its own chip design for the Pixel 6",
-      "excerpt": "I’m not sure there’s ever been a phone we knew more about before its official launch than Google’s Pixel 6 and Pixel 6 Pro. But in a world of samey Android phones, Google made some interesting choices,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/",
-      "originalUrl": "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Screenshot-2021-10-19-100548.jpg?w=1024",
-          "width": 1024,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/amp/",
-      "publishedDateTime": "2021-10-19T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer.md",
-      "title": "Google's Tensor chip aims to make the Pixel 6 smarter and last longer",
-      "excerpt": "In an interview with CNET, Google executives talk about why they went through the trouble of building a chip for the newest Pixel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/9KBAW8InGVbWcaoh_mZAkq5ZeJQ=/1200x630/2021/10/17/57b1bbc8-52d9-484a-a190-1a411d6cf8f4/google-tensor-jpeg.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/",
-      "publishedDateTime": "2021-10-19T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-02-why-you-should-make-artificial-intelligence-part-of-your-digital-strategy.md",
+      "title": "Why You Should Make Artificial Intelligence Part Of Your Digital Strategy",
+      "excerpt": "AI is being used in many ways today to make our lives better. It's assisting us with complex tasks that we can't do by ourselves, creating a symbiosis between humans and machines that allows both to achieve more than they can alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-should-make-artificial-intelligence-part-of-your-digital-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-should-make-artificial-intelligence-part-of-your-digital-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b34bfb6bd8aa1effe59ed%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-should-make-artificial-intelligence-part-of-your-digital-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/02/why-you-should-make-artificial-intelligence-part-of-your-digital-strategy/amp/",
+      "publishedDateTime": "2021-11-02T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-robot-food-delivery-coming-soon-to-a-campus-near-you.md",
       "title": "Robot food delivery, coming soon to a campus near you",
       "excerpt": "Robots navigate the Bowling Green State University campus in Bowling Green, Ohio on Thursday, Oct. 13, 2021. Robot food delivery is no longer the stuff of science fiction. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
@@ -1306,50 +1358,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-artificial-intelligence-ai-in-construction.md",
-      "title": "Artificial Intelligence (AI) in Construction",
-      "excerpt": "Examples of artificial intelligence (AI) in construction are increasingly common throughout the industry, from planning to building. Construction professionals are turning to AI to add efficiency and accuracy to projects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-construction/",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-construction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-1-1024x393.jpeg",
-          "width": 1024,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

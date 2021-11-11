@@ -46,7 +46,7 @@ related:
     provider:
       name: Verdict Retail
       domain: retail-insight-network.com
-    quality: 36
+    quality: 40
     images:
       - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/leaders.jpg"
         width: 1400

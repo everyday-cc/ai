@@ -62,14 +62,14 @@ related:
   - title: "The (in)human touch: AI and fairness in insurance"
     excerpt: "AI could revolutionise how insurers process claims. It could even improve insurance's image. But can AI insurance be fairer? People don’t trust insurers. We’ve probably all had to contact an insurer about a problem only to find it’s not covered in the small print."
     publishedDateTime: 2021-11-11T05:49:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/features/the-inhuman-touch-ai-and-fairness-in-insurance/"
+    webUrl: "https://www.retail-insight-network.com/features/the-inhuman-touch-ai-and-fairness-in-insurance/"
     type: article
     provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
+      name: Verdict Retail
+      domain: retail-insight-network.com
     quality: 39
     images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/09/shutterstock_1043017390.jpg"
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/09/shutterstock_1043017390.jpg"
         width: 1000
         height: 562
         isCached: true

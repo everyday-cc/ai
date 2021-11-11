@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/education/10-tech-and-non-tech-skills-to-k
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/education/10-tech-and-non-tech-skills-to-kickstart-a-career-in-artificial-intelligence-11c385b9-7d38-4f6b-9609-92aa1acfa5be"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 650
     height: 366
     isCached: true
+
+related:
+  - title: "Toch.ai launches Rs 100 cr Startup Fund; to invest in video, audio tech"
+    excerpt: "Toch.ai, an AI-driven SaaS platform for digital content players today launched a Rs 100 crore Startup Fund to invest in video and audio tech startups globally over a period of time. The fund aims to empower early-stage startups to drive innovation and bolster growth in the industry."
+    publishedDateTime: 2021-11-11T07:50:00Z
+    webUrl: "https://www.freepressjournal.in/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 57
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-11/e1f7a425-dd56-4a5f-9314-e526345683bf/Toch_ai_Co_Founders.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "mQAgvB/OfGZtH1M5qpZMipK5+YHHo88PhX9dNUavb4h2FSKm8PKFGpzKRNSBBznJPzMPvL75A1VVzBWqtVFn4Dkj2vAdASP8gLXhmiCjKoN2N22goLYvXEVnZIpMVr5bcLrS9V6ULofy1whqSN0u8Q6cMMEKQVevgfIe++dJOrQo1I+fvyVx4DibLwetpmC6MNOYta/MBxaVXMkcg5du0xjGqZ/nr8P+kwebjztSw8xZe1HA8h2q3lkSotSQ+LJ5TuTA+hdYTX8rMa2LtchAYEDjxFLA1jNfOyO+VBV3Nf8IGVD5AUIQJ2L7kPV+LGCQJPxw5OHeAc0tBqt9KOwwiF6NS0y9Cf+Os9PUYWhL4bM=;RtlmmK6Qd053ztpU2ElqQA=="
 ---

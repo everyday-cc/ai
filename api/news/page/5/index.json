@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-07-facial-recognition-on-smartphones-is-it-secure-and-should-you-use-it.md",
+      "title": "Facial recognition on smartphones: Is it secure and should you use it?",
+      "excerpt": "Facial recognition has become common on smartphones and laptops, but they're not all equally reliable or even secure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
+      "originalUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2018/10/huawei-mate-20-pro-review-aa-notch-3d-face-unlock-earpiece-11.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amp/face-unlock-smartphones-3043993/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/face-unlock-smartphones-3043993/",
+      "publishedDateTime": "2021-11-07T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-07-h2oai-raises-100m-at-a-16b-pre-money-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise.md",
+      "title": "H2O.ai raises $100M at a $1.6B pre-money valuation for tools to make AI usable by any kind of enterprise",
+      "excerpt": "H2O.ai — a startup that has developed an open-source framework as well as proprietary apps that make it easier for any kind of enterprise to build and operate artificial intelligence-based services — has seen a surge of interest as AI applications have become more ubiquitous,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/",
+      "originalUrl": "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/27307283983_c56396a33a_k.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/amp/",
+      "publishedDateTime": "2021-11-07T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-07-a-robot-imitates-the-rolling-stonesand-other-small-business-tech-news-this-week.md",
       "title": "A Robot Imitates The Rolling Stones…And Other Small Business Tech News This Week",
       "excerpt": "1 —Boston Dynamics robots imitated the Rolling Stones performing ‘Start Me Up’. Boston Dynamics recently shared ... 81 percent of online retailers are increasing their AI budget to automate AP processes. The 2021 eCommerce Outlook Report from ...",
@@ -346,40 +450,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-06-castle-biosciences-publishes-decisiondx-melanoma-study-on-the-validation-of-the-i31-gep-slnb-artificial-intelligence-algorithm.md",
-      "title": "Castle Biosciences Publishes DecisionDx®-Melanoma Study on the Validation of the i31-GEP SLNB Artificial Intelligence Algorithm",
-      "excerpt": "Castle announced the publication of a study validating performance of the i31-SLNB algorithm to determine sentinel lymph node biopsy positivity risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
-      "originalUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-06-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
       "title": "AI & ML latest: Google disbands another AI ethics committee",
       "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
@@ -516,6 +586,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-castle-biosciences-publishes-decisiondx-melanoma-study-on-the-validation-of-the-i31-gep-slnb-artificial-intelligence-algorithm.md",
+      "title": "Castle Biosciences Publishes DecisionDx®-Melanoma Study on the Validation of the i31-GEP SLNB Artificial Intelligence Algorithm",
+      "excerpt": "Castle Biosciences, Inc. (Nasdaq: CSTL), a company applying innovative diagnostics to inform disease management and improve patient outcomes, today announced the publication of a study validating performance of a novel algorithm designed to integrate the DecisionDx ® -Melanoma gene expression profile (GEP) test with clinicopathologic features (i31-GEP SLNB) to determine sentinel lymph node biopsy (SLNB) positivity risk in patients with cutaneous melanoma.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-science-technology-business-melanoma-b54532c71d214233b100c84c9001449d",
+      "originalUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-science-technology-business-melanoma-b54532c71d214233b100c84c9001449d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1120,101 +1233,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-new-machine-learning-system-gives-robots-social-skills.md",
-      "title": "New Machine-Learning System Gives Robots Social Skills",
-      "excerpt": "A new machine-learning system helps robots understand and perform certain social interactions. Robots can deliver food on a college campus and hit a hole-in-one on the golf course, but even the most s",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/",
-      "originalUrl": "https://scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Industrial-Robots-Teamwork-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/amp/",
-      "publishedDateTime": "2021-11-05T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-autonomous-driving-startup-momenta-raises-another-500m.md",
-      "title": "Autonomous driving startup Momenta raises another $500M",
-      "excerpt": "In the wake of a $300 million investment from General Motors in September, Momenta, an autonomous driving solution provider from China, announced today an additional $500 million added to its Series C round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/05/momenta-500-million/",
-      "originalUrl": "https://techcrunch.com/2021/11/05/momenta-500-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/51961636095813_.pic_.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/05/momenta-500-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/05/momenta-500-million/amp/",
-      "publishedDateTime": "2021-11-05T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -8,8 +8,8 @@ webUrl: "https://www.mos.ru/en/news/item/98446073/"
 ampWebUrl: "https://www.mos.ru/amp/en/news/item/98446073/"
 cdnAmpWebUrl: "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/98446073/"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.mos.ru/upload/newsfeed/newsfeed/neirosetigrishkin(27).jpg"

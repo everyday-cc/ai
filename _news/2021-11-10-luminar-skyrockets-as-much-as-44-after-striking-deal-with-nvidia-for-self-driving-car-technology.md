@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/luminar-stock-price-nvidia-lidar-aut
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 51
+    images:
+      - url: "https://images.barrons.com/im-356249/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Luminar Wins Nvidia Business in Self-Driving Deal. It’s a Big Moment for the Lidar Maker."
+    excerpt: "Lidar maker Luminar Technologies and tech giant Nvidia are pairing up to put self-driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate."
+    publishedDateTime: 2021-11-09T17:22:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 35
     images:
       - url: "https://images.barrons.com/im-356249/social"
         width: 1280

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/amp/"
 type: article
 quality: 87
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/rw2rnai450308.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "The Fuel that is Boosting Transformation in Every Industry- AI"
-    excerpt: "AI is used everywhere. AI is boosting transformation in industries. There are several benefits of AI applications. This article shows how is AI used for transformation."
-    publishedDateTime: 2021-11-06T14:30:00Z
-    webUrl: "https://www.analyticsinsight.net/the-fuel-that-is-boosting-transformation-in-every-industry-ai/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/The-Fuel-that-is-Boosting-Transformation-in-Every-Industry-.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Impact Of Artificial Intelligence In Banking Industry"
     excerpt: "Computer systems can now do jobs that would otherwise require human interaction, thanks to artificial intelligence. Machine Learning is a fundamental component of AI, and it assists in making decisions that robots cannot complete without the assistance of a human."

@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-09T01:15:00Z
 originalUrl: "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
 webUrl: "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
 type: article
-quality: 36
+quality: 40
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
+  - AI Hardware
 
 images:
   - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/leaders.jpg"
@@ -53,6 +55,6 @@ related:
         height: 229
         isCached: true
 
-secured: "kYCd/84uZ3uGpo20vD7N2MaK36libYW/ZmikMwkBh4+heEVHhpCU3UnoauRI45MX7KEdqDqDKgEtS7hT36gCbJgr2DBfKoHWMJeKrxY1WSdNmtsXgk9Ki6Qym+CtvfQrfNwrxQ8tPXGhJzF1EOQo808HF8NIvwIbyWnlbsfyoLVMWpxn/RQzNsd/5BjFcU5OR3Zt6sNCKCEob0+ixmC2J7BLtm6BVkYu6/R9wpDiFhHg7YRuUws5nfjQwf7KdPxt5VhbnVanEAqjD1+2mn0w1zdnXcdsuYfNPWWytbUlYfnLWxi6oB6CM9mFRHnYyTqXYAMC5NKEmbq2BlAjjzkJ+uVgsnzoUg2l7voyl+9A5jU=;mhcRGXJnNgHjeSt5dDoc9w=="
+secured: "pY/zPtl356irrjisgIzCllB7RLeLP7yT3SceUWZPSHkU6RbPcwLkfh9L01faApk/9CpdH71Ijy0u8rW1hqwWlydqsvNK5z/h5XfpQjYDKKMNo4V91UxtKmOvyAIU0mKs3DMG3EvWpha6pjLIrOHzS2ZPih1+cID4Z9UT8m8v1+Gcs1BKL3zkJgPbLAqzRf2yTEkzTf8vQXF75YnPm5zGoCn5+gKPXWlgasKz8JBFJk8tn0Pd7x5EdU58BlsPjriMKcJ0rV6hDoKCv2YYzRub5pfEvSjJZODBuGnuS7ipAQcCKcMLIdOiADxoWkzqicQKRft4UuLe55KsiRQQH0B4HsnjhnMjN4+97O8bLsBirA73wNXQ8kWCE5+ff+ib3CvpeapkegSqKSdvoq7f96jym0AJofWHTtM8ZMM/ecXMCXtzuVHg5C3PgQuv+HRmExpMwOwleg9XQyWrPb0XWvjfOXmYJLJiASNYb5sf1wfthROL7hbKJ4xerZHZjqaTjxKGG+UAkJ3DZvk6m+rUYS9KCw==;DAScqLfaPolpPqj7cLCZYQ=="
 ---
 
