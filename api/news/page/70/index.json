@@ -2,6 +2,101 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-09-19-mit-researchers-combine-voice-and-object-recognition-in-new-model.md",
+      "title": "MIT researchers combine voice and object recognition in new model",
+      "excerpt": "Researchers at MIT have developed a new system that combines voice and object recognition capable of identifying an object within an image given only a spoken description of that image.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/mit-researchers-combine-voice-and-object-recognition-in-new-model/",
+      "originalUrl": "https://sdtimes.com/ai/mit-researchers-combine-voice-and-object-recognition-in-new-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/09/MIT-Audio-Images_0.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-new-deals-may-double-240m-funding-for-mit-ibm-ai-lab-director-says.md",
+      "title": "New Deals May Double $240M Funding For MIT-IBM AI Lab, Director Says",
+      "excerpt": "Now, the Cambridge, MA-based MIT-IBM Watson AI Lab is growing in personnel, funding, partners, and square feet, says David Cox, a former Harvard professor who leads the program for IBM (NYSE ...",
+      "sourceUrl": null,
+      "webUrl": "https://xconomy.com/boston/2019/09/19/new-deals-may-double-240m-funding-for-mit-ibm-ai-lab-director-says/",
+      "originalUrl": "https://xconomy.com/boston/2019/09/19/new-deals-may-double-240m-funding-for-mit-ibm-ai-lab-director-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.xconomy.com/wordpress/wp-content/images/2019/09/19151247/mit-ibm.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Xconomy",
+        "domain": "xconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-19-uaeu-turns-to-artificial-intelligence-and-robotics-as-part-of-the-fourth-industrial-revolution.md",
       "title": "UAEU turns to Artificial Intelligence and Robotics as part of the Fourth Industrial Revolution",
       "excerpt": "The UAEU's Artificial Intelligence and Robotics Laboratory (AIRL) aligns its work to the UAE's strategic vision. Its initial focus is on education and health technologies. Dr Fady Al-Najjar ...",
@@ -1068,92 +1163,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-artificial-intelligence-market-to-grow-at-a-cagr-of-245-by-2030-tmr.md",
-      "title": "Artificial Intelligence Market to grow at a CAGR of ~24.5% by 2030 – TMR",
-      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ~ 29% during the forecast period,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/?amp=1",
-      "publishedDateTime": "2021-09-17T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development.md",
-      "title": "ITRI, AITA, and UCLA CHIPS Forge Cooperation on AI Chip Development",
-      "excerpt": "DoIT Science and Technology Advisor Xian-Yi Lin stated that the DoIT supports ITRI, ATIA, and UCLA CHIPS in inking a collaborative agreement, which will help the parties quickly grasp international system specification trends in the areas of design,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development-1030806889",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development-1030806889",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1628526/Photo_20210917.jpg",
-          "width": 400,
-          "height": 289,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-08-landing-ai-brings-in-57m-for-its-machine-learning-operations-tools.md",
+      "title": "Landing AI brings in $57M for its machine learning operations tools",
+      "excerpt": "CEO Andrew Ng says industries should adopt a data-centric approach to building AI, which provides a more efficient way for manufacturers to teach an AI model what to do.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/",
+      "originalUrl": "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/image001.jpeg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/",
+      "publishedDateTime": "2021-11-08T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-how-ai-can-help-drive-your-employee-experience-strategy.md",
       "title": "How AI Can Help Drive Your Employee Experience Strategy",
       "excerpt": "As an integral part of all digital transformation programs, AI is poised to become the game-changer for creating a work environment that will drive better employee satisfaction.",
@@ -578,49 +630,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-08-nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning.md",
-      "title": "NIT Warangal offers five-day online course on Artificial Intelligence and Machine Learning",
-      "excerpt": "NIT Warangal Faculty members, post-doctoral fellows, doctoral research students and participants from industry can apply The online course will be conducted three hours a day and interested candidates can submit their online applications till November 15 NIT Warangal has invited applications for a five-day online course on Artificial Intelligence and Machine Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/edugraph/news/nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning/cid/1837857",
-      "originalUrl": "https://www.telegraphindia.com/edugraph/news/nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning/cid/1837857",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2021/Nov/1636344661_nit-1.jpg",
-          "width": 558,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/news/nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning/cid/1837857",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning/cid/1837857",
-      "publishedDateTime": "2021-11-07T20:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-08-omron-invests-in-taiwans-collaborative-robot-company-techman-robot-inc.md",
       "title": "OMRON Invests in Taiwan's Collaborative Robot Company Techman Robot Inc.",
       "excerpt": "OMRON & Techman Robot will together deliver a highly flexible and scalable ... By adopting a wide range of control devices and artificial intelligence (AI), machines can learn through experience and maintain themselves in optimal condition.",
@@ -672,7 +681,7 @@
       "originalUrl": "https://inshorts.com/en/news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 74,
       "tags": null,
       "images": [
         {

@@ -608,49 +608,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-08-nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning.md",
-      "title": "NIT Warangal offers five-day online course on Artificial Intelligence and Machine Learning",
-      "excerpt": "NIT Warangal Faculty members, post-doctoral fellows, doctoral research students and participants from industry can apply The online course will be conducted three hours a day and interested candidates can submit their online applications till November 15 NIT Warangal has invited applications for a five-day online course on Artificial Intelligence and Machine Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/edugraph/news/nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning/cid/1837857",
-      "originalUrl": "https://www.telegraphindia.com/edugraph/news/nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning/cid/1837857",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2021/Nov/1636344661_nit-1.jpg",
-          "width": 558,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/news/nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning/cid/1837857",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/nit-warangal-offers-five-day-online-course-on-artificial-intelligence-and-machine-learning/cid/1837857",
-      "publishedDateTime": "2021-11-07T20:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-06-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
       "title": "AI & ML latest: Google disbands another AI ethics committee",
       "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
@@ -1444,6 +1401,49 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes.md",
+      "title": "tinyML-based machine learning platform helps build AI models in minutes",
+      "excerpt": "Imagimob announced that the new release of its tinyML platform is now available to its customers. The new release focuses on making it easier and faster for developers to build and deploy performance-ready tinyML applications on edge devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
+      "originalUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eeworldonline.com/wp-content/uploads/2021/10/Capture-2-1.png",
+          "width": 862,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline.com",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

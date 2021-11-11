@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-11-it-looks-like-the-pixel-6-could-get-a-face-unlock-feature-after-all.md",
+      "title": "It Looks Like the Pixel 6 Could Get a Face Unlock Feature After All",
+      "excerpt": "In recent days there has been an uptick in Pixel 6 users on Twitter begging Google to bring back the face unlock feature it offered on previous Pixels. The company left out the ability in its latest flagship in favor of an i n-screen fingerprint sensor.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794",
+      "originalUrl": "https://gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/0432b222a9e429d8ea7f0fc88bd53a11.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794/amp",
+      "publishedDateTime": "2021-11-10T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-amnesty-international-concerned-over-facial-recognition-cctv-surveillance-in-hyd.md",
       "title": "Amnesty International concerned over facial recognition, CCTV surveillance in Hyd.",
       "excerpt": "Hyderabad, by means of its CCTV network and facial recognition technology, is one of the most surveilled cities in the world, and extensive surveillance here is putting human rights at risk, Amnesty International said in a statement.",
@@ -1345,58 +1397,6 @@
         "name": "SourceSecurity",
         "domain": "sourcesecurity.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts.md",
-      "title": "Computer vision platform Cogniac nabs $20M to bolster its customer acquisition efforts",
-      "excerpt": "Cogniac, a startup developing computer vision technology primarily for industrial and manufacturing companies, raised $20 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/",
-      "originalUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/amp/",
-      "publishedDateTime": "2021-10-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

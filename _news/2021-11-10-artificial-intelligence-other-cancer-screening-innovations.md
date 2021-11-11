@@ -7,7 +7,7 @@ originalUrl: "https://www.openaccessgovernment.org/cancer-screening/124048/"
 webUrl: "https://www.openaccessgovernment.org/cancer-screening/124048/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2000
     height: 1335
     isCached: true
-
-related:
-  - title: "Biggest AI Innovations And Milestones Of 2021"
-    excerpt: "We take a look back at the year that was, and the AI innovations and milestones of 2021 that made it to the headlines."
-    publishedDateTime: 2021-11-06T06:43:00Z
-    webUrl: "https://analyticsindiamag.com/biggest-ai-innovations-and-milestones-of-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/inno-banner-_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "4FGm5v1dwo/oRI8g3L2EoE7s9DohSgWp1FUG2WQNtGuryRXeoknTB8fbLTv607NzcGKDlLvYc8vSfhdbySV8nIqdgaBcewAv2V3gl6z4GHSlpek8z4PWelv22tmxELu3buVQGvmk4wiqsfkWmlnQUh60V5JWs5u5xBnhr2hKZmw4IPS1i+RrEpNGdLdt1rx3FTI/oRlHCnxmOS3E0sy/cIQCKfCGae1nB3lW6Ia8PQ3nb7GhA33A2UiPZgip7pSheMNjYfP3yg2DFvBLmpGjuQBmfxL+9PA9BW7L0I4m2GgpHIrZ6AtFa3PdZxxEHzVj1X9mRQP09YZqmTnwuUn4C+5c5FDNKzX/qoVNJIBPjH35FtSjdptlwy4BjDcfC34gcQ6D4KZyq+Mv+xEgLTZQujxiF9ERkveOU1IqO7FgBvLPNhrKK3SWkSQxTgLyU5d1C8rSFK5N/aHHyaIowT0CNboQ3R23dfqtjF796NYVZLctNry7WvOeaGy+ZM2IU4N6rVD8tX7YGqzjZkR30UZatg==;Ak1h7P/vmwExjXxrcr9EvA=="
 ---

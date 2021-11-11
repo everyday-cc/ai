@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-27-computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts.md",
+      "title": "Computer vision platform Cogniac nabs $20M to bolster its customer acquisition efforts",
+      "excerpt": "Cogniac, a startup developing computer vision technology primarily for industrial and manufacturing companies, raised $20 million in capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/",
+      "originalUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/amp/",
+      "publishedDateTime": "2021-10-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-delta-launching-facial-recognition-tech-trial-at-atlanta-airport.md",
       "title": "Delta launching facial recognition tech trial at Atlanta airport",
       "excerpt": "For the first time, your next flight could be unlocked by facial recognition technology, starting at bag check, going through security and all the way to the gate.",
@@ -1353,58 +1405,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data.md",
-      "title": "Clarifai moves beyond computer vision to manage companies’ unstructured data",
-      "excerpt": "Clarifai enables customers to make sense of the 90% of unstructured data they have using artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
-      "originalUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1168836247-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
-      "publishedDateTime": "2021-10-15T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

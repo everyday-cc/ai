@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-11-it-looks-like-the-pixel-6-could-get-a-face-unlock-feature-after-all.md",
+      "title": "It Looks Like the Pixel 6 Could Get a Face Unlock Feature After All",
+      "excerpt": "In recent days there has been an uptick in Pixel 6 users on Twitter begging Google to bring back the face unlock feature it offered on previous Pixels. The company left out the ability in its latest flagship in favor of an i n-screen fingerprint sensor.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794",
+      "originalUrl": "https://gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/0432b222a9e429d8ea7f0fc88bd53a11.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794/amp",
+      "publishedDateTime": "2021-11-10T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m.md",
       "title": "CoreWeave, a provider of cloud services for GPU-powered apps, gets $50M",
       "excerpt": "CoreWeave, a specialized cloud services provider for GPU-based workloads, also partnered with Nvidia to enable companies to scale infrastructure.",
@@ -885,7 +937,7 @@
       "originalUrl": "https://www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1175,58 +1227,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-timnit-gebru-says-artificial-intelligence-needs-to-slow-down.md",
-      "title": "Timnit Gebru Says Artificial Intelligence Needs to Slow Down",
-      "excerpt": "Artificial intelligence researchers are facing a problem of accountability: How do you try to ensure decisions are responsible when the decision maker is not a responsible person, but rather an algorithm?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
-      "originalUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6189c83d08983f9bcb06800e/master/pass/Timnit-Gebru.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rewired-2021-timnit-gebru/amp",
-      "publishedDateTime": "2021-11-09T13:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

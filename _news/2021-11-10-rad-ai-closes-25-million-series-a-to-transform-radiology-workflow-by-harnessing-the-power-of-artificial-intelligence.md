@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Rad AI Closes $25 Million Series A to Transform Radiology Workflow by Harnessing the Power of Artificial Intelligence"
-excerpt: "Rad AI, the fastest growing radiologist-led AI company, today announced $25 million in Series A funding. The round was led by ARTIS"
-publishedDateTime: 2021-11-10T14:34:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/rad-ai-closes-25-million-series-a-to-transform-radiology-workflow-by-harnessing-the-power-of-artificial-intelligence-857307441.html"
-webUrl: "https://www.prnewswire.com/news-releases/rad-ai-closes-25-million-series-a-to-transform-radiology-workflow-by-harnessing-the-power-of-artificial-intelligence-857307441.html"
+excerpt: "Rad AI, the fastest growing radiologist-led AI company, today announced $25 million in Series A funding. The round was led by ARTIS Ventures with participation by several existing investors, including OCV Partners,"
+publishedDateTime: 2021-11-10T14:32:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-berkeley-health-artificial-intelligence-ce3668e390d42e956dd2c71e594b6232"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-berkeley-health-artificial-intelligence-ce3668e390d42e956dd2c71e594b6232"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1683977/Rad_AI_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 405
         isCached: true
 
-secured: "kRnaUjIbtbMqraPXW2p2j6xEM6xT2NABB6lUKQ0ExXgBk9ce9C+ckJWgy3/wMpaaN++2x9ABuBZ2Tm+KWCWDEAxFaJJ8YwpP2Lg01UpcszTfwZu8b1GLwEQ61qA0hInY6DIN8sTg0RnKP5zLm9CO49NzkFdNy7RWg/eZqQn29jeLwSi+VNVwvXJtUmcxgsRtLv9H8eWDOkuI4i+Rv8L4jJrzEprUqLaevdDvqUXFsNP/vwBaT5o7Ac9cDMP3A4358kGCr7fzT3C7M/tswTd7n1tThUDIov8w2n5YaQOydgB7vhBt/cGe+7lcNR1A8/kTA9EpUEgGHkvjGOcfeYVCY9rZIiev/OvAQELGbOJ3L/UNygT7U1rowjfjHbeJ03dy/Tsvnf/p6mk0VXt5LD7Ccpl/RdWIqguQo0ueeWu1ssxtBkLKIofQ9rTS5IZ/08KNh6gQ8awyWxg3IKWtchBm2mRt6wX0wvYxY+1O5SqROAPSchlxeC2CmX7CaL94SHQHA+1+2bGQmS3yRtUx6a7oKA==;cbkxtTVPkdTZtsaBdEz6Lw=="
+secured: "g/qGP+U4B022w//OSdmqrqY99zb3nw2tuPXZVe0DP0EVhbkXZXr0M9n1kRd+AOGSTHM+KW7hOlggZ0igMxmBsDmNJtSFKmN9hfXVDo+OTB805K2nLp98YDl8KFaC1nmYkAVTfPnyEg6V0jnf/zyYF5Vn3BMnpQQ3/tDifZG5eD54gikCJZjv+8b4SbIozbE5OhZmreB12YWWQyV+5YTb5iLz6vhOIPKzL/aYj6+zeeQt291pVRVgZPFqwRkMq1q4DCjcqNDtTEYwshwpk+rs3riSjOpxUkUtwmVVJTN/vvQwk+ijULOczY6XHZAKNbc7iKaLKzlDXuMq4DPLwCerKx4qGLNKPP5p9KDmTduQvvs=;zbEcAoBEIwpUOPgpEXY4oQ=="
 ---
 

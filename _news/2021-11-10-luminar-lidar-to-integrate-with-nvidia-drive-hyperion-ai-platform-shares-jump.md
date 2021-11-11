@@ -9,7 +9,7 @@ ampWebUrl: "https://www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with
 cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/amp/"
 type: article
 quality: 55
-heat: 85
+heat: 86
 published: true
 
 provider:

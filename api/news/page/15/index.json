@@ -485,6 +485,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-28-cognitive-systems-spending-market-study-international-manufacturers-growth-barriers-opportunity-and-future-scope-2021-2027.md",
+      "title": "Cognitive Systems Spending Market Study International Manufacturers Growth, Barriers, Opportunity, and Future Scope 2021-2027",
+      "excerpt": "The global cognitive systems spending market is estimated to account for US$ 24,710 Mn in terms of value by the end of 2027. The new research on Cognitive Systems Spending Market Perspective paints an unmistakable picture of vital drivers, key elements ...",
+      "sourceUrl": null,
+      "webUrl": "https://chipdesignmag.com/cognitive-systems-spending-market-study-international-manufacturers-growth-barriers-opportunity-and-future-scope-2021-2027/",
+      "originalUrl": "https://chipdesignmag.com/cognitive-systems-spending-market-study-international-manufacturers-growth-barriers-opportunity-and-future-scope-2021-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.themarketfeeds.com/seoimages/three.jpg",
+          "width": 3250,
+          "height": 3854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chip Design",
+        "domain": "chipdesignmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-free-month-for-robotics-learning-center-grand-opening.md",
       "title": "Free Month for Robotics Learning Center Grand Opening",
       "excerpt": "It’s a quick subway ride away for the robotics, coding, and entrepreneurship after-school program that first started here in the neighborhood.",
@@ -525,6 +568,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-top-benefits-of-using-azure-machine-learning.md",
+      "title": "Top Benefits of Using Azure Machine Learning",
+      "excerpt": "Fortunately, Microsoft's Azure Machine Learning empowers organizations to overcome these challenges when deploying and using ML. It delivers comprehensive, simple, robust and responsible services enabling partners to build impactful data driven apps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbta.com/Editorial/Think-About-It/Top-Benefits-of-Using-Azure-Machine-Learning-149029.aspx",
+      "originalUrl": "https://www.dbta.com/Editorial/Think-About-It/Top-Benefits-of-Using-Azure-Machine-Learning-149029.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dbta.com",
+        "domain": "dbta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1042,101 +1129,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service.md",
-      "title": "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service",
-      "excerpt": "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu.md",
-      "title": "Intel partners with Google to deploy ‘Mount Evans’ ASIC-based GPU",
-      "excerpt": "Intel has announced that it partnered with Google to deploy the chipmaker's IPU across Google Cloud infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/",
-      "originalUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1208499003-e1631641886627.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/amp/",
-      "publishedDateTime": "2021-10-27T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

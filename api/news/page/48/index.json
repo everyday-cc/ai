@@ -2,6 +2,92 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-10-05-this-is-best-practice-for-using-facial-recognition-in-law-enforcement.md",
+      "title": "This is best practice for using facial recognition in law enforcement",
+      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Lofred Madzou, Project Lead, Artificial Intelligence and",
+      "sourceUrl": null,
+      "webUrl": "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/",
+      "originalUrl": "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://europeansting.files.wordpress.com/2021/10/face.webp",
+          "width": 687,
+          "height": 1031,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/",
+      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/",
+      "publishedDateTime": "2021-10-05T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "europeansting.com",
+        "domain": "europeansting.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-gap-inc-acquires-ai-startup-cb4-to-drive-sales.md",
+      "title": "Gap Inc. acquires AI startup CB4 to drive sales",
+      "excerpt": "Gap has acquired AI startup CB4 to improve retail operations through predictive analytics and demand sensing. “We believe artificial intelligence and machine learning will shape the future of our industry.",
+      "sourceUrl": null,
+      "webUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
+      "originalUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fashionunited.com/UUP2jAnSbMTf2wCkU6WZm5VCOGW7PmAHjB96odlvT0E/resize:fill:1388:781:1/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvbWFzdGVyLzIwMjEvMTAvMDUvMTIwMHB4LWdhcC1sb2dvLXN2Zy1mMHdvaDQ5aC0yMDIxLTEwLTA1LmpwZWc",
+          "width": 1388,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
+      "cdnAmpWebUrl": "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
+      "publishedDateTime": "2021-10-05T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fashionunited.com",
+        "domain": "fashionunited.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-tesla-gears-up-to-launch-self-driving-software-but-with-a-catch.md",
       "title": "Tesla gears up to launch self-driving software but with a catch",
       "excerpt": "Tesla will monitor driving behaviors before allowing owners to take advantage of its Full Self-Driving software.",
@@ -977,92 +1063,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept.md",
-      "title": "Tamil Nadu CM MK Stalin Launches Face Recognition Software Aimed At Assisting Police Dept",
-      "excerpt": "The software would help the police personnel to compare the photos of suspects with a data resource uploaded in the Crime and Criminal Tracking Network and Systems (CCTNS).",
-      "sourceUrl": null,
-      "webUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919",
-      "originalUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/09/14/004e57e228a060db41cf8e468c733bc5_original.jpg?impolicy=abp_images&imwidth=1200",
-          "width": 720,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919/amp",
-      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919/amp",
-      "publishedDateTime": "2021-10-04T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.abplive",
-        "domain": "abplive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-robotics-transforming-knee-replacement-surgeries.md",
-      "title": "Robotics transforming knee replacement surgeries",
-      "excerpt": "The most advanced innovation is the Navio Surgical System, a robotic platform that does not need any CT scan or MRIs and creates a real-time image of the limb and deformity and the surgeon is able to visualise all around the knee and make a plan on how it is going to be after surgery even before the bone is touched.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsx.com/health/robotics-transforming-knee-replacement-surgeries.html",
-      "originalUrl": "https://www.newsx.com/health/robotics-transforming-knee-replacement-surgeries.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newsx.com/wp-content/uploads/2021/10/robotics-in-knee-replacement-309117-y432JCRT.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html",
-      "cdnAmpWebUrl": "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html",
-      "publishedDateTime": "2021-10-04T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewsX",
-        "domain": "newsx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

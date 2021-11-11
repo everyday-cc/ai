@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-system-that-lets-robots-manipu
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612"
 type: article
 quality: 74
-heat: 78
+heat: 74
 published: true
 
 provider:

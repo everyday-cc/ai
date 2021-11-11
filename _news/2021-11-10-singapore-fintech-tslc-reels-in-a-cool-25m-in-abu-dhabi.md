@@ -42,18 +42,18 @@ related:
         height: 630
         isCached: true
   - title: "Rad AI Closes $25 Million Series A to Transform Radiology Workflow by Harnessing the Power of Artificial Intelligence"
-    excerpt: "Rad AI, the fastest growing radiologist-led AI company, today announced $25 million in Series A funding. The round was led by ARTIS"
-    publishedDateTime: 2021-11-10T14:34:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/rad-ai-closes-25-million-series-a-to-transform-radiology-workflow-by-harnessing-the-power-of-artificial-intelligence-857307441.html"
+    excerpt: "Rad AI, the fastest growing radiologist-led AI company, today announced $25 million in Series A funding. The round was led by ARTIS Ventures with participation by several existing investors, including OCV Partners,"
+    publishedDateTime: 2021-11-10T14:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-berkeley-health-artificial-intelligence-ce3668e390d42e956dd2c71e594b6232"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 31
     images:
-      - url: "https://mma.prnewswire.com/media/1683977/Rad_AI_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "y0Qj7AW/CZTiYYiozE/YHmoQ6sPazsQKRhrgP1uts1usUJVYkzfbFjVsGMCYdlXCcY3HsrWiNhsnv6AqM+jYawBVQpS7bt2EUM8Eq/afIf6cJ87YXXjP5enXNecykbbz6Dfn+xY7cw+R0ccToNVAHI3auMwjSh3eI9tLaWyHTU8STjuwA/AQnCTdVjfO7XpJn9bKKHWdrCeno1q2DyRd8wccnxcTve+ATmM9bHba53l0FR8ZGQDvojJhIwXKHZ5OBM6orDy9l0MfFiIMwNH0O/t0Ue+tlTRvk7mnEBUC4kWzZ+ScanaKePuZj0JYRdOxEB4q/mpw97w+YgsOTBqm68EozNfRtoSWltqrzBQ77fI=;NBtVMR1IbAAjzwYyEV6RXQ=="

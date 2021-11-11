@@ -53,6 +53,20 @@ related:
         width: 400
         height: 283
         isCached: true
+  - title: "Autonomous Robot Finds and Opens Doors While Recharging Itself"
+    excerpt: "A team of engineering students at the University of Cincinnati are building an autonomous robot that can open its own doors and find the nearest electrical wall outlet, which enables it to recharge without human assistance."
+    publishedDateTime: 2021-11-10T23:54:00Z
+    webUrl: "https://www.unite.ai/autonomous-robot-finds-and-opens-doors-while-recharging-itself/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-xRtzky6d/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/11/doors-1767562_1280.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "viMT6mX4Ycna4/OPBAI6/NsRdOwOkzIhAFypgazONuN0e35Ugg9DRvm9Ox81zEb0CkjXU7wJ3eEsNm5nL4p+OJ15qjSPDHvjG/MxzWEMpXfPsVxOqvWikcrDNywcdMLYx3byx2XtXfmaMoIetRXqCMKMV8O4NJkDs6nvt41XRfSbnabYAuhCo3dfRRlwUGf27ZhTgQZJasVJlc9VicBqzIyvGHbQiwKEeZj4VSmdWQUywEr+AOc2Q5BUFhvtxBlAvtAvUDo77hwdxVbn9OGRbjB+bn30MV7F7M2twxhl3sxPzhwY4Xg7184LrQkeU7ERsjdLioj+a0Il/Pw6wiD8CH5NkQ2QTwb+AUvAME5lJR4=;WVpyYs+J3fWIpNbxOGV6Iw=="
 ---
