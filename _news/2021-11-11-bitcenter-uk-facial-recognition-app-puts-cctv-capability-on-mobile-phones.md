@@ -71,6 +71,20 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Amnesty confronts facial recognition, surveillance in Hyderabad by calling for a blanket ban"
+    excerpt: "Facial recognition in Hyderabad is the focus of a newly launched Amnesty International campaign that pushes for a ban on such technology."
+    publishedDateTime: 2021-11-11T11:40:00Z
+    webUrl: "https://www.medianama.com/2021/11/223-facial-recognition-hyderabad-amnesty-campaign/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 28
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g8d41a09b1_1280.jpg"
+        width: 1280
+        height: 759
+        isCached: true
 
 secured: "HHRSciP6W1QStdmbQDOxqH0howo4gV5rzoifkrnpXUaWJgiiCORJabskDRKIgZ3dHvHlIBd5XFgk+0llqdWqo+idodZi9M2alfaJFjpmqBiNDI/1xK0sUGIWimYguoCy0NW/foH+SMx5YHX7PybHKQ6HwvP6jnP8bx/HQyiDc3mBYoays/IVjJ9PLgICcpV4J19JKlIBu7rIY3HJ3iaK2UoxouyS0ta+jcRWNOj1Cr+OJfNDQF96PYK06bvMOuL+D80u5GTweXtTC8WOm7Zk2Xajk4EyoGDawLQ2bDLe76fRvof+1PltxyUrIGb4SdvR0SIYJaja9xv67ftKu8vDNOl1GmS2UNFlTgT0y+mijrgIsqEI/Jf2h6dC1OdilVi+75Lqtt2XeIT7pVpnb1y2gAaewUci2vsPNZGS1TF/m58O0bIH6DDKEfyUxNuB7gtnsGwJ7R4WXruN3465Gk29fBquGPwkR05RORbg3JPTKUV4FyYYzfN4y5IR1Ot5Gk457sRboegH46dlt0jp5LeZyQ==;szTUsbRF48bX4cNjfvWleA=="
 ---

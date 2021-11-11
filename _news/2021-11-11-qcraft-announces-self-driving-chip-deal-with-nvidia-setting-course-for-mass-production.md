@@ -90,6 +90,22 @@ related:
         width: 1152
         height: 648
         isCached: true
+  - title: "NVIDIA announces platform for creating AI avatars"
+    excerpt: "NVIDIA Omniverse Avatar Enables Real-Time Conversational AI Assistants. NVIDIA announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
+    publishedDateTime: 2021-11-11T12:37:00Z
+    webUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/"
+    ampWebUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "NVIDIA's new chip for robots is six times more powerful than its predecessor"
     excerpt: "NVIDIA has launched a successor to the Jetson AGX Xavier, its $1,100 AI brain for robots that it released back in 2018.  The new Jetson AGX Orin"
     publishedDateTime: 2021-11-09T13:09:00Z
@@ -190,6 +206,6 @@ related:
       domain: netindia123.com
     quality: 19
 
-secured: "vjtebFPDdOsS+eXTXaVXTeq0EloeXZhAvQx1jHRava0LjNaa3Ql9Y8c1az4fuYAm5i/YX9NPst+GLHJskgVwbkg8QX0n+yvRS3Ni5iytx8ZP1GaAtoW0YR499UXRb3NKmDClSUf3T2QSK2N2DjC4iCagwGlmHjplRcaXBuCzIU7Vu7dbb/OwvpWXsFCIO20xHkFItb+HPKJC4UmqTB56x4Xm0bg6LlhHVw3SrJaTqp55m0d+3vuykJsNkNT8hHJg81wE+jJmh49k1v3i8GxjgqvsMzfLV6QyhSFKMlvdgUrqzN/tJe0cMXEJ6tw12AdGRWhYnYPjGlI5ycBhwBzz8GwDa5naQMJPsfsTrtPEikc=;Yr3pE3q6yrKEwqfmwpZJjQ=="
+secured: "bj2sUoUfRHlsgdmLxBZR370+cxZyFXVB1Z00jcFs7TzSx5rfe0SkYGP46SKg4L65xXxXjLrIrXlDGkgjfuwkeDmHPbxrImIkWbtGLDyhIXEgz8+Qu7NHm87BRtW6yM8+zHkmZ5i7woovpFMDzXNB9JRKtuqA84k+Lr9TgwJCQpar1bMbxIul75DKAST6omGONm/HHsJOaFXSfBsW9vgRRGBVOQec3QgWKOSlGqMD6PFP0SCzeP1+BovOXiu7lWKBHDa3FRzWV6tdoS+GDVvhoZusp+XTCr65hOSNsbBCCZUJe3jOu70roaNB4N4UJc9sU4monLaw08pBF3KqwRcB2R5qlnuDsim+AMC4RVK0ArSuCnTO7ba1OdKS4omFTrS1vqgpGZn9wLGwe91r+sDaMI20ueFSJQYYo/PV76mLj9wWfLBg+JLolLw4MSFy3KULYfc+py1AFvxZOqZ3a9FtPGXnKXbq4f7DtZSuFVGuYNqtC5mnx7Dne2UDH5pZRPlZUZbN+g59mBCvDWxjPLzqmQ==;q/CvgzQj7/s30hYYYjGzoA=="
 ---
 

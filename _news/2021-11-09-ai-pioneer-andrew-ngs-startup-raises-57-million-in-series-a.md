@@ -78,7 +78,7 @@ related:
     provider:
       name: Nanowerk
       domain: nanowerk.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.nanowerk.com/news2/space/id59109_1.png"
         width: 450

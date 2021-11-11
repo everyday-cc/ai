@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-gia
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-11/7720b2b0-4130-11ec-96e3-0babf84499b8"
         width: 1152
         height: 648
+        isCached: true
+  - title: "NVIDIA announces platform for creating AI avatars"
+    excerpt: "NVIDIA Omniverse Avatar Enables Real-Time Conversational AI Assistants. NVIDIA announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
+    publishedDateTime: 2021-11-11T12:37:00Z
+    webUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/"
+    ampWebUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
+        width: 800
+        height: 420
         isCached: true
   - title: "NVIDIA's new chip for robots is six times more powerful than its predecessor"
     excerpt: "NVIDIA has launched a successor to the Jetson AGX Xavier, its $1,100 AI brain for robots that it released back in 2018.  The new Jetson AGX Orin"

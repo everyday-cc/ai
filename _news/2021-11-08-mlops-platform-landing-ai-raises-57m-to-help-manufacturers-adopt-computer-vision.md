@@ -61,6 +61,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Discovering exoplanets using artificial intelligence"
+    excerpt: "A team of astronomers used artificial intelligence (AI) applied to image recognition. They taught a machine to predict the effect of interactions between planets, making it possible to discover exoplanets that were impossible to detect until now."
+    publishedDateTime: 2021-11-11T08:45:00Z
+    webUrl: "https://www.nanowerk.com/news2/space/newsid=59109.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 39
+    images:
+      - url: "https://www.nanowerk.com/news2/space/id59109_1.png"
+        width: 450
+        height: 338
+        isCached: true
   - title: "AI Pioneer Andrew Ng’s Startup Raises $57 Million In Series A"
     excerpt: "AI pioneer Andrew Ng's startup provides tools that make building and deploying AI systems in manufacturing faster and easier."
     publishedDateTime: 2021-11-09T04:23:00Z
@@ -74,20 +88,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Landing-AI-raises-Series-A-funding.jpg"
         width: 2048
         height: 1152
-        isCached: true
-  - title: "Discovering exoplanets using artificial intelligence"
-    excerpt: "A team of astronomers used artificial intelligence (AI) applied to image recognition. They taught a machine to predict the effect of interactions between planets, making it possible to discover exoplanets that were impossible to detect until now."
-    publishedDateTime: 2021-11-11T08:45:00Z
-    webUrl: "https://www.nanowerk.com/news2/space/newsid=59109.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 37
-    images:
-      - url: "https://www.nanowerk.com/news2/space/id59109_1.png"
-        width: 450
-        height: 338
         isCached: true
 
 secured: "sa+4yLg9AkWc96M0KM4YvMcFtvAuy0o5leXG8vZknPgLihR7B1GYzX44M7m+oAm+sA4szrt1KJx75MH2UNp7kt6RvRLCLuCWjZxUAdNrTIqr7L1qDbE8wEcXxgsjcPRucLq3qVLmzjI9ZBv69dMTBH9ITLya80EYxjoMBVQoa0sovFmQ+OetR1WRvtcytcT4XD9VqZ1IB7bJoFYQF5r8Y0DH/zb1cfmEvZOQWy4iszF45ROoqJYwFYZ8ChspJk4tSLjmU74qeFCQdycj9YjeNZnRSVq8qElHpSJsNQGKd7pP4Df0vJLW8fNvvXeYmH3rgnIgCr+M2vczdVLdq+fUFWhF5vdnmMKwx6W1NYTXytZ0PCh9tTAuiVMOIEbZgPkfnI4l9SjFxAlfkjr6nR1wV+ZnKAFe8QXAOw5Zl3Po+JfUaKEEndDNl22o4iYyanLYIr7EOEJr9zy2ELv8ecyhloI7+PMmXQRM0gJ86db9NsxneFrGDuIzTxM9xPpveMr06VgYWBRMTaPIsMG1V4LN8w==;WNERhH6kJuXRw8b66/rkJQ=="

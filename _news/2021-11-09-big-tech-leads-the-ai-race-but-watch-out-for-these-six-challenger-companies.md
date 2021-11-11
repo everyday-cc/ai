@@ -54,6 +54,15 @@ related:
         width: 336
         height: 229
         isCached: true
+  - title: "3 Best AI Stocks to Buy Now for 2022 and Beyond"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) stocks continue to gain traction among growth"
+    publishedDateTime: 2021-11-11T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-best-ai-stocks-to-buy-now-for-2022-and-beyond-1030964474"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "pY/zPtl356irrjisgIzCllB7RLeLP7yT3SceUWZPSHkU6RbPcwLkfh9L01faApk/9CpdH71Ijy0u8rW1hqwWlydqsvNK5z/h5XfpQjYDKKMNo4V91UxtKmOvyAIU0mKs3DMG3EvWpha6pjLIrOHzS2ZPih1+cID4Z9UT8m8v1+Gcs1BKL3zkJgPbLAqzRf2yTEkzTf8vQXF75YnPm5zGoCn5+gKPXWlgasKz8JBFJk8tn0Pd7x5EdU58BlsPjriMKcJ0rV6hDoKCv2YYzRub5pfEvSjJZODBuGnuS7ipAQcCKcMLIdOiADxoWkzqicQKRft4UuLe55KsiRQQH0B4HsnjhnMjN4+97O8bLsBirA73wNXQ8kWCE5+ff+ib3CvpeapkegSqKSdvoq7f96jym0AJofWHTtM8ZMM/ecXMCXtzuVHg5C3PgQuv+HRmExpMwOwleg9XQyWrPb0XWvjfOXmYJLJiASNYb5sf1wfthROL7hbKJ4xerZHZjqaTjxKGG+UAkJ3DZvk6m+rUYS9KCw==;DAScqLfaPolpPqj7cLCZYQ=="
 ---

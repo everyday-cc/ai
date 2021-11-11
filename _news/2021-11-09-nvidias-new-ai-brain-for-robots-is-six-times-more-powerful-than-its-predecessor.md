@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 616
         isCached: true
+  - title: "NVIDIA announces platform for creating AI avatars"
+    excerpt: "NVIDIA Omniverse Avatar Enables Real-Time Conversational AI Assistants. NVIDIA announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
+    publishedDateTime: 2021-11-11T12:37:00Z
+    webUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/"
+    ampWebUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "NVIDIA's new chip for robots is six times more powerful than its predecessor"
     excerpt: "NVIDIA has launched a successor to the Jetson AGX Xavier, its $1,100 AI brain for robots that it released back in 2018.  The new Jetson AGX Orin"
     publishedDateTime: 2021-11-09T13:09:00Z

@@ -89,6 +89,22 @@ related:
         width: 1152
         height: 648
         isCached: true
+  - title: "NVIDIA announces platform for creating AI avatars"
+    excerpt: "NVIDIA Omniverse Avatar Enables Real-Time Conversational AI Assistants. NVIDIA announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
+    publishedDateTime: 2021-11-11T12:37:00Z
+    webUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/"
+    ampWebUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "QCraft announces self-driving chip deal with Nvidia, setting course for mass production"
     excerpt: "Nvidia’s Drive Orin chipsets will underpin the hardware suite that will be fitted in QCraft’s next-generation self-driving car fleet."
     publishedDateTime: 2021-11-11T09:39:00Z

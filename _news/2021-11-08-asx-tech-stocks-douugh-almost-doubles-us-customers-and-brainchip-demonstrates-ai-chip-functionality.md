@@ -38,6 +38,15 @@ related:
       name: WTOP News
       domain: wtop.com
     quality: 64
+  - title: "3 Best AI Stocks to Buy Now for 2022 and Beyond"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) stocks continue to gain traction among growth"
+    publishedDateTime: 2021-11-11T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-best-ai-stocks-to-buy-now-for-2022-and-beyond-1030964474"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Big Tech leads the AI race – but watch out for these six challenger companies"
     excerpt: "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),"
     publishedDateTime: 2021-11-09T01:15:00Z
