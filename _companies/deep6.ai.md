@@ -2,7 +2,7 @@
 name: "Deep 6 AI"
 overview: "Deep 6 AI disrupts the clinical trial enrollment process by transforming the way researchers identify eligible patients. Using artificial intelligence and natural language processing to mine structured and unstructured patient data, DEEP 6 AI finds more, better-matching patients for trials in minutes, not months."
 type: "profile"
-heat: 58
+heat: 71
 
 website: https://deep6.ai/
 
@@ -45,6 +45,6 @@ images:
     height: 425
     title: "banner"
 
-secured: "RQ/3nT6Byt/KPH9e2ww/Y8NsCyFPREdNZwfFMtQzBibJQJMdP8nYtRvPdiDglIOjvYV7s7U2ROh4DHwroVP8oCR9c2lvt7/PwuptIy4zw4T/w6/UutsYChoY1oWoxg4aT4kqSk3aEW7PK90t4hxgLZQpNMmVyhnNoRgzdBgBbogUI45Sqi12QpSyE7Qo3YMSsWw9HGvPboyq0HcRsLtvI4nnIDEAuPeYZ3rFnOHVLFN7nQCtMo7SorykxEUu5d+Qr9qdPi0k50QxuHIGAedMpf03KWXAfJNTBNlRAQhvUOGyyT/KWotdWbdDOrBWKIKFtzjg1mUe5LlM9cRjSYLpMDUDN7T9Xnoskv06jVnHbsMDew9gHsN1KZMcT80znUZrWRwYM+fmYulDRhhL/C8Ga7CQB4o1LHnS8WfPDJzgP44=;CiI0Ka5C3v0OCFUwHcOEoA=="
+secured: "HEhhyv/gwXMVo2SRXEQcu1toOBaf8I0q8Lc8XB2L06BcQ9vgknVrKJ8KqBuxnKu0U1w1ajD+GXLcVmzXm5hBuO0GCJAx1txKxVux9yrgbyxONf4VvUNtM4Km9k7rWSCGCi6DPLO5upD4POPLAohL4k2Y6V+c5QDj96sna6thXkVMk2qBGE0nk6lHpvs9l4Hpm7gk9CVssHT8fvP68IG7t9wsU/EwpsNDnbyU+CL3bmfGoYQnLnLH0KXPosSZa16WENXhktrDP9p2zRVqaSoN4JwrlmW5c1Kiii0DUXH5j1nqmvifiMvNPtJksg7TKK5TKl4UdVY22eCC6o32phV/HlOM6S9M/sgZQ4PMaP9Xi+q7AnCAnW5P9Vu373e2DPNV9t1M1rtLGKZtF1tQUf5jlqN0AkaAv2sBfX/GWIY01SE=;T19eu/4K5FeTc+3wzqAgyg=="
 ---
 
