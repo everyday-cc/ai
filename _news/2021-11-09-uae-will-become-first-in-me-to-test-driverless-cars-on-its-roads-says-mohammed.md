@@ -103,6 +103,22 @@ related:
         width: 1200
         height: 646
         isCached: true
+  - title: "Walmart now using fully driverless trucks as automation speeds up in wake of pandemic"
+    excerpt: "In a first for the autonomous vehicle industry, Walmart and Silicon Valley startup Gatik announced Monday that their self-driving trucks are now operating without a safety driver."
+    publishedDateTime: 2021-11-11T21:03:00Z
+    webUrl: "https://www.christianpost.com/news/walmart-begins-using-fully-driverless-trucks-to-deliver-groceries.html"
+    ampWebUrl: "https://www.christianpost.com/amp/walmart-begins-using-fully-driverless-trucks-to-deliver-groceries.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/walmart-begins-using-fully-driverless-trucks-to-deliver-groceries.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 52
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/14/38/143842_w_450_249.png"
+        width: 450
+        height: 249
+        isCached: true
   - title: "Walmart Accelerates Self-Driving Delivery"
     excerpt: "At the moment, the future of transportation is at the Walmart on Regional Airport Boulevard in Bentonville, Ark."
     publishedDateTime: 2021-11-08T14:15:00Z

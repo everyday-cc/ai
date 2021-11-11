@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/China-People-AFP-1K-600x337.jpg"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/70006f82ca567a1b1d83916b3e944e6b5bd93604-600x337.jpg"
     width: 600
     height: 337
     isCached: true
 
-secured: "lGM/a0xz6mrlp1aHAlpS2O+2E9d8xH2p2VNd4gMK1VC0RqgTT0cfIXJnGOo9dZY3CBVwahg4c17rEJfEzFyxLGA9EDtd2ZuW7o1VZ+PtZ0+dezsAjY1paHEtRCVMFXAHfMMj+yvq0dJpKWJEKUyDXxR/7Jlg+gadj03Qem28SNqbUmnug2noaRvXaN/dhSVEMO/MuFuyfF4LXaQqJJG/JnYWROK8bUf48WofS+3lSFSJGqWNmpaQYyPh8EgBytJytk9fWG9lGi274bu9Pa8nUk+XA8T3LL1om6QXuWjWnITyWy5qOZNbtsKcJ2nk+ef9N0GaI7AFRgO/TR4K8gVA49+nlS52N40R7aNsirbEil4=;ztCOMsLFRQmaAkgSNVXjqA=="
+secured: "GZ21VJ1qLzKO27ynHC7kruWnhXs1FwuqAOwujQSQdqdPG/lJWxCmMvUCF6S9tn/WK1VrlEo8Iqp/Hx18YKJK1JiP5xGaiP4cy/IR1cktvYRQZEtRMDyUJIOqHN/bPquu7wUsyxoVbXsrBqMHNaiHq1gfwXU6ArK7+37GHu4ZQKTQyqK2Y7W0pSt/Aiqf3WSgqJpRbB4bDIaM+hW0t+eed/QE72LmfqHNJj29WwmNvzTQHGNfvJsEJsnM8xy0fGIKgSyG8jpqwhE327DHVTraVZAHzbq4gmbrOYQmueYpYUOX1ypUygYjCpLMdb4E9NgDBpuRvbVPgpOFgxvaIRI4cA4Jqh0gTVdftLLOyl5vj6w=;vVqeAm/+kpXMwYD6uGQQNw=="
 ---
 

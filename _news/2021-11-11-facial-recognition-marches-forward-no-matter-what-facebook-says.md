@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognit
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognition-tech-won-t-go-away-despite-facebook-fb-ending-system"
 type: article
 quality: 69
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
     quality: 39
     images:
       - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Facebook is shutting down its facial recognition software"
+    excerpt: "Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
+    publishedDateTime: 2021-11-11T14:59:00Z
+    webUrl: "https://www.channel3000.com/i/facebook-is-shutting-down-its-facial-recognition-software/"
+    type: article
+    provider:
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2021/11/o/g/9c3f8e10450ee7728627c50a15d71b0ed0d4e27c.jpg"
         width: 2000
         height: 1333
         isCached: true

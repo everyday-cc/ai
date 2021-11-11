@@ -7,8 +7,8 @@ originalUrl: "https://mainichi.jp/english/articles/20211109/p2g/00m/0sc/030000c"
 webUrl: "https://mainichi.jp/english/articles/20211109/p2g/00m/0sc/030000c"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: mainichi.jp
@@ -39,6 +39,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "AI being used to translate sign language to assist hearing disabled people in Japan"
+    excerpt: "Local governments in Japan are turning to artificial intelligence to improve communication with people who are deaf or hard of hearing at their counters for the public. A system jointly developed by the University of Electro-Communications in Tokyo and SoftBank Corp converts sign-language gestures into written text."
+    publishedDateTime: 2021-11-11T21:44:00Z
+    webUrl: "https://japantoday.com/category/tech/feature-ai-being-employed-to-translate-sign-language-to-assist-deaf-in-japan"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 28
 
 secured: "B3fyoVSb31mwESVgPXLEBpL4BGNvL1cvZFFfpEfZY8uJwAKqOaq3UT6KLIaHsqm3J2GVq+Js24yZxMN6jaMbCF0kmwrNqAb0V4JnPOCJL2b0A10dMWhO0wH1oT/W/UsAlgI0kYOmX39BaHqan1DN8mxUnLcAcEuwG6KbchrJ5wEhgnlSRJfXTYSzjv25EWlgZ+IU/6XASnZbk9B680FVi30iuPLIykxGjIziZGyXLOVuKTL4JyBiFNWbqIvpTMs6BhcIywCxbp/R1HVh8S6HPwY+lSxp459HqmWErgvRjw1Fn5J/OxLHjwVhLGiblzLZMXOEeakjQrcJEhRyofnPZKkevBrb68cCCY6SuIKwEMyNhL+HsfAeJe9Ud5bA//c036WEd2ys9gfsJytsiAGptv8fll07O8Q2gAieTOsyzqrG7nqURNU7RXUzZ0t8rrPMaJfjN3CDLXpYd9DjslI2V2tiKwizpGxNFgByw88YUWNfIbaunBbgpFSTSScOVleam2M9/yUG3JHFC94Ft7lkXg==;G6lUnS6Zyx+UhhScj1Mi4g=="
 ---

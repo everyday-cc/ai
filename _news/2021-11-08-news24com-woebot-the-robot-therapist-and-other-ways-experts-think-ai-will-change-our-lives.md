@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/news24-com--woebot
 webUrl: "https://markets.businessinsider.com/news/stocks/news24-com--woebot-the-robot-therapist---and-other-ways-experts-think-ai-will-change-our-lives-10715887"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -23,17 +23,17 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "5 ways artificial intelligence could shape our lives"
-    excerpt: "Technology evangelists habitually brim with enthusiasm over artificial intelligence's potential to transform our lives, and the crowds at this year's Web Summit were no exception.. Read more at straitstimes."
-    publishedDateTime: 2021-11-08T21:00:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/5-ways-artificial-intelligence-could-shape-our-lives"
+  - title: "The AI robot therapist will see you now"
+    excerpt: "With artificial intelligence pervading every part of life and chatbots available 24/7, will there still be a place for psychiatrists?. Read more at straitstimes.com."
+    publishedDateTime: 2021-11-11T21:00:00Z
+    webUrl: "https://www.straitstimes.com/opinion/the-ai-robot-therapist-will-see-you-now"
     type: article
     provider:
       name: The Straits Times
       domain: straitstimes.com
-    quality: 37
+    quality: 54
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/11/08/mi_mona_081121.jpg?itok=reokzp6U"
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/11/11/hzrobot111121.jpg?itok=6kMXd6IA"
         width: 763
         height: 509
         isCached: true

@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Verint Wins Multiple Globee Gold Awards for Excellence in Driving Customer Engagement Transformation and Workforce Optimization"
+    excerpt: "Verint Wins Multiple Globee Gold Awards for Excellence in Driving Customer Engagement Transformation and Workforce Optimization"
+    publishedDateTime: 2021-11-11T17:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211111005225/en/Verint-Wins-Multiple-Globee-Gold-Awards-for-Excellence-in-Driving-Customer-Engagement-Transformation-and-Workforce-Optimization"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "GpIcUjv94R9sj+4ca3o8UebPAr7GIEoINOtOSoeGITEzY4b/n5snBT3nqGqRw/fRqcyMHBhPj6FHbOpigZ/2BKnts5mNPSUBXQ+V7uYpUMKy9zS7+IawF2/OqLJM7+VM3Ft/ELybIpPYxeCiYgXw7PM52g3y/U8vSTi1Hn0YvXhnicdqIWNaTm8eyvoCyhkYY8VDSRNDLZsYWCvUepLVxig7LJ1pUB5KBiqTetb7cnZyXBZxp5RPYlMHhuS0wV7HLFIDkDSDtgm7VuKsMbN94TDy6Yg8tjQHDEoNJO1Jk0qc1T0VwJrMwE2JsnyMSSNcOM7fKuarxrQqm4WpyQRC9UXVGjhHUEFeTD/fHHtB/AY=;oNPpy9U8t+HHXF++wEMMSA=="
 ---
 

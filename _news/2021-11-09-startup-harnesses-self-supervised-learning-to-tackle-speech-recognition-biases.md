@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/speechmatics-uses-self-supervised-lear
 webUrl: "https://thenextweb.com/news/speechmatics-uses-self-supervised-learning-tackle-speech-recognition-biases"
 type: article
 quality: 65
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Google Research changes the game for medical imaging with self-supervised learning"
+    excerpt: "Medical training data has a great cost, which makes it difficult to use deep learning for many apps. Google Research suggests a new solution."
+    publishedDateTime: 2021-11-11T22:20:00Z
+    webUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/"
+    ampWebUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/04/shutterstock_734378278-e1636485612226.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "RumTLMpienhQegzqcjMXcriD9OSK2FwApJdPSmwFvvH4lfDPAh0JDSBhKEAilvh5UfcfEZZGw9bVBV4x2Nh82hzDSgXeNOQtQ9WeqrQqhU8Id6jwfOfdhLUihqy0RAH+VfZ3rJF8pBndyeLdIY/rzM8YeXnKXG9u8r1Z/BHG3m35CZZaieHcxAwp0W5Sg4YntdNDQ/NfKl7RrcMAe6TeId+JfuYFqaa5zBWWQ3MT2PO1wQis3A0cINutn7mPc5/7n4Wq2fPp9DmAWxTzjcRWyP2SooIkV2/Kl8CAYVKA7iuRFcRTgfU1f7yZ1Q+/LJAeIKzXR3p5p8zbPaYJgi4g88+V+8nTJGBBRTnpqjqKw8kAyJ8nG0TjALLMTnVTNICBdVNOsPxGvVJox2fFGIN2SYCgrP2e5DsHncbFSTq4fK1IpmZT4sVEjxVpwbtUqPxgDhwrBo6/tdpETnl31Pwas7iaO39CTUmDZMHHSjARtrKUc1dBmLWcO/tXjJNUCbqAPniDKNFwa6bTrh6Ti92KaA==;THRsvqu9H9qTfaANwbHAjQ=="
 ---

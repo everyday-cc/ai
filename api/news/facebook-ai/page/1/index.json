@@ -143,6 +143,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-02-facebook-to-shut-down-face-recognition-system-delete-data.md",
+      "title": "Facebook to shut down face-recognition system, delete data",
+      "excerpt": "Facebook says it will shut down its face-recognition system and will delete the faceprints of more than 1 billion people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksla.com/2021/11/02/facebook-shut-down-face-recognition-system-delete-data/",
+      "originalUrl": "https://www.ksla.com/2021/11/02/facebook-shut-down-face-recognition-system-delete-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/IF2cLlf2MJQeFMKSCbRwJq8iuKU=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/D4V6RZBG6RCI7NOS4LWGWRD6DY.jpg",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSLA",
+        "domain": "ksla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-reskin-aims-to-give-ai-a-sense-of-touch.md",
       "title": "ReSkin aims to give AI a sense of touch",
       "excerpt": "Humans take the sense of touch for granted, and it’s one of the most important types of input that we get in certain situations. Our sense of touch allows us to do things like feel how we",
@@ -1444,58 +1487,6 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-what-facebook-should-change-according-to-its-whistleblower.md",
-      "title": "What Facebook should change, according to its whistleblower",
-      "excerpt": "She noted that Facebook’s own research has found that “engagement ... She also said that Facebook’s AI-based moderation tools were much less effective than what the company has publicly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/what-facebook-whistleblower-frances-haugen-said-should-change-143051354.html",
-      "originalUrl": "https://www.engadget.com/what-facebook-whistleblower-frances-haugen-said-should-change-143051354.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/c7435030-25f7-11ec-8ffe-eed4478fd616",
-          "width": 6432,
-          "height": 4288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

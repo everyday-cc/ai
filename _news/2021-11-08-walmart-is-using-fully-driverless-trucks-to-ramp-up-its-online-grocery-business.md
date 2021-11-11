@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/11/08/walmart-is-using-fully-driverles
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html"
 type: article
 quality: 155
-heat: 225
+heat: 235
 published: true
 
 provider:
@@ -88,6 +88,22 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRou81bN2qpU/v1/1200x646.jpg"
         width: 1200
         height: 646
+        isCached: true
+  - title: "Walmart now using fully driverless trucks as automation speeds up in wake of pandemic"
+    excerpt: "In a first for the autonomous vehicle industry, Walmart and Silicon Valley startup Gatik announced Monday that their self-driving trucks are now operating without a safety driver."
+    publishedDateTime: 2021-11-11T21:03:00Z
+    webUrl: "https://www.christianpost.com/news/walmart-begins-using-fully-driverless-trucks-to-deliver-groceries.html"
+    ampWebUrl: "https://www.christianpost.com/amp/walmart-begins-using-fully-driverless-trucks-to-deliver-groceries.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/walmart-begins-using-fully-driverless-trucks-to-deliver-groceries.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 52
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/14/38/143842_w_450_249.png"
+        width: 450
+        height: 249
         isCached: true
   - title: "UAE will become first in ME to test driverless cars on its roads, says Mohammed"
     excerpt: "\"We are awaiting the report of the Ministry of Interior, in coordination with the Office of Artificial Intelligence, for the results of the tests, to take the appropriate decision\""
