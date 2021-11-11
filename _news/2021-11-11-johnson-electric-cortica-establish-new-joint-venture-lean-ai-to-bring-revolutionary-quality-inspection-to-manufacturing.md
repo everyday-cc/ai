@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturingtomorrow.com/news/2021/11/11/johnson-elec
 webUrl: "https://www.manufacturingtomorrow.com/news/2021/11/11/johnson-electric-cortica-establish-new-joint-venture-lean-ai-to-bring-revolutionary-quality-inspection-to-manufacturing/17878/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Unsupervised AI arrives for quality inspection"
+    excerpt: "The quality inspection revolution begins with some wildly independent AI. Quality in manufacturing is mission critical. AI-powered quality inspection is nothing new, but a joint venture from two big players in manufacturing could markedly improve outcomes and reduce barriers to entry."
+    publishedDateTime: 2021-11-11T14:00:00Z
+    webUrl: "https://www.zdnet.com/article/unsupervised-ai-arrives-for-quality-inspection/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/unsupervised-ai-arrives-for-quality-inspection/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unsupervised-ai-arrives-for-quality-inspection/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/25f0e2c9b846bb90f08290ce4bb55c3b3e5296d2/2019/11/08/5cc28d1a-4b47-45ef-b971-6d0e9745a2a9/ai.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "0D/pefpZXAEa77g9ZHtEfObL8wTC97EQlkeh34YbjBx5pRw5aa9oPM+/Y6WtZ1q+DQy3q4Cka4WQkff+kDubmN5t54KeGdVmVCEESo5SW3UuGieIenauEAmg0oMXqdug+Y/UhfZCb49cjChsViQ50v8i8YpUFP8HTO5IHaI039g3/Pn1AqSQBSl6ZlIZnWJ8PBtyl9FSFpStTvQW6mYgA+uWKePI4+zgiq7PL9fBOGQRiX9aYhi1hkw/NStKuIaC1vZAqeRBvIRrJziBjgrmEp1iZHiVeIFK/JWqq77bG2JPpkUyDOgnbGTPcbhAr1Jwy/iO03cfVXEtbYzkDuUomgFJN2pt73OHkOXhHZZWRo0=;Y5QmUUWLqBdXejgxKKvI1A=="
 ---

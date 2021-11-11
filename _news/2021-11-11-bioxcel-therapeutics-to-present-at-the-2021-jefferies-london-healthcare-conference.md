@@ -1,28 +1,22 @@
 ---
 category: news
 title: "BioXcel Therapeutics to Present at the 2021 Jefferies London Healthcare Conference"
-excerpt: "About BioXcel Therapeutics, Inc. BioXcel Therapeutics, Inc. is a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology."
-publishedDateTime: 2021-11-11T12:45:00Z
-originalUrl: "https://menafn.com/1103150088/BioXcel-Therapeutics-to-Present-at-the-2021-Jefferies-London-Healthcare-Conference"
-webUrl: "https://menafn.com/1103150088/BioXcel-Therapeutics-to-Present-at-the-2021-Jefferies-London-Healthcare-Conference"
+excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
+publishedDateTime: 2021-11-11T12:25:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-present-the-2021-jefferies-london-healthcare-/2021/11/11/9489984.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-present-the-2021-jefferies-london-healthcare-/2021/11/11/9489984.htm"
 type: article
-quality: 33
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?213680"
-    width: 333
-    height: 250
-    isCached: true
 
 related:
   - title: "Bio-Techne To Present At The Stifel 2021 Virtual Healthcare Conference"
@@ -68,6 +62,6 @@ related:
         height: 250
         isCached: true
 
-secured: "JpwQPTzYHDEdMmHBdAbH2epKzUFt5dCtwfcSbajmsQ2ktju3hu27Zj3etb3OuAlGYtppgUxec80euvgv+osqitdG4Ub0eCrlJG7UGLxJszqAp0TATSTvGiN7pL/LMDxPkne9HG65lJc3ty4Mukhhg8Iv2fYscIAgXfzlK+8DuXQzfPo6UlIePumb+dz4i+LQTfJpXoZIOT2xN9qlpBvCw+l7iykd7MuFEyH2csA06TXVSHnpVYvfraVh/IA+nRIkwUerBmd8rK3g/yFw2H6MBC//o9KhVaosMTD9YfUO6p2LiaOZWlyIkbEVxmzsI8aQmKgzoyGclmreIT+9pBT584D174I3I8pte1yReeSNgL0=;OsebDsjZyLf507NLGPx74w=="
+secured: "RB2r8m/BJkjJtm/ESdNDIayEdByxQT842Oak4F33mSnKewEelhMDUGi2lfLXeWf0b1lnwkCUrfScSQqC12czMn8u0Gex3UZNMD/015TWRdxTOPlw59Cz/iZXEleBxmkmpJruV6Gpo3GSxGjNxnLNI5W0TBz7Dopi48/fUMcmjZZUerC5iaxQAl0wLfsjQ/bb7UIMdeU1APCg9o9QkdwzV6Y7Zo6ScZUWufRg+0sDzTi4pCGeL+2wvaIavQpjTJt1L/ihO9HxnOb7PwTefBI/dgE22wfnBYYkJrKxj63b1C1u0PI0Izh1iUxo/TLIMdaf0pfP2mKqqB8AHLRJvy5ikuT3niSCv5XEFrgEsCXTVOk=;s5mBLc9mf8rjJ3IEU2BtwA=="
 ---
 

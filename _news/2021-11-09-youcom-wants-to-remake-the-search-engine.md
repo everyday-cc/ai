@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/11/9/22770614/you-salesfo
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/9/22770614/you-salesforce-startup-search-engine-privacy-information-control"
 type: article
 quality: 142
-heat: 153
+heat: 152
 published: true
 
 provider:

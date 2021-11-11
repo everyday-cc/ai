@@ -54,19 +54,14 @@ related:
         height: 480
         isCached: true
   - title: "BioXcel Therapeutics to Present at the 2021 Jefferies London Healthcare Conference"
-    excerpt: "About BioXcel Therapeutics, Inc. BioXcel Therapeutics, Inc. is a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology."
-    publishedDateTime: 2021-11-11T12:45:00Z
-    webUrl: "https://menafn.com/1103150088/BioXcel-Therapeutics-to-Present-at-the-2021-Jefferies-London-Healthcare-Conference"
+    excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
+    publishedDateTime: 2021-11-11T12:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-present-the-2021-jefferies-london-healthcare-/2021/11/11/9489984.htm"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 33
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?213680"
-        width: 333
-        height: 250
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "WOE+dd1w32Ud9v7Jd8Nq+YPhZ0VKdIa0eFDNn3MgOsH28SZ9oMID1mWFDlAnn2PTpA++s26kporjtVuYD7b17Lm/lS4bm2NSa09Ka7OTYQNHyf1eF7uuWnT3Eha2luij31lX6/H1UW3hjA7U8jo0NUDNzdpPZWKxEzQuZGNf3UyAcuOYiXOFh+1Y5TXkIQz+bgCbMX1dYrm+Oox/Ps8JnhjDM+MKknlZOtIMnir69iPVYPkiB+BEwajwHomfkKud8xaBE6uP61zuvTwiHuJoeL7ERU0yh6qAzxd9BTZ09Iv0uAx4O6/pUDAhtvqy5liFBBy+6gdPx4NYDh/hkyGv/Xxqlsqkb0oeWivAKvU4LUg=;SuRfbi2no1Cv/nTgO+o3OQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/jpost-tech/israeli-startup-lets-insurers-rental-
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israeli-startup-lets-insurers-rental-agencies-inspect-cars-by-ai-684277/amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 640
     height: 428
     isCached: true
+
+related:
+  - title: "Israel joins international artificial intelligence group"
+    excerpt: "Israel was added today to the Global Partnership on Artificial Intelligence, joining 19 an alliance of technologically advanced democratic countries."
+    publishedDateTime: 2021-11-11T16:21:00Z
+    webUrl: "https://www.al-monitor.com/originals/2021/11/israel-joins-international-artificial-intelligence-group"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 39
+    images:
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-11/gpai%205.jpg?h=a5ae579a&itok=GC5p-cwQ"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "eSiYJNblzsJbeYKaU9QD/+uHsmFkKqr7jhAr8YC4sBGqQ/OlXJTatgxsSmXI2LnA8Jxg46Y5BlinRGasuSQcxoUpDVa9dduvO0DmK7rLad13giTJO700umGqNhu5wq7tVu3QmN9gHnfZZwBoqMJuAmdTV2cxFNcyH7P458m/6Kz7ZyzqxJz5rYS+UkihtSDG2rYVhgkz73grPc8j+Uv7ykSdSrj5i8GV8cxltf853oxPCVWAlFaetpIvP6MDjV3Q63OztYkDN07casiKEx6s0gVXg5Vs3E0ZJA1yzSRqlW6OyTDs/8lMGc7LUzjCuk3Qiu1AxR1Q6WS8gzjKXX/ch0WGmKcsKsWXvl/ldw0dWYx4jM2MwW+Fz808UG5PvQRV7TZK9qXlchdMf/kxk2uybmDu1jMJYTJvs+14qGHPOw9ptVtCcNmQQye06IW2iP169xfZP5btlLg2uL9/xGld4OCz1W9gNk469b2AsZl2Pt1/GzzVFC8nMvVJahb887FGk7QO+k9zsyeJzUffiCVhuQ==;bYobcNGqV1r/zhmFRf85xQ=="
 ---

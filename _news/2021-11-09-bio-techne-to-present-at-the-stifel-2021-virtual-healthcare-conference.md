@@ -40,19 +40,14 @@ related:
         height: 480
         isCached: true
   - title: "BioXcel Therapeutics to Present at the 2021 Jefferies London Healthcare Conference"
-    excerpt: "About BioXcel Therapeutics, Inc. BioXcel Therapeutics, Inc. is a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology."
-    publishedDateTime: 2021-11-11T12:45:00Z
-    webUrl: "https://menafn.com/1103150088/BioXcel-Therapeutics-to-Present-at-the-2021-Jefferies-London-Healthcare-Conference"
+    excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
+    publishedDateTime: 2021-11-11T12:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-present-the-2021-jefferies-london-healthcare-/2021/11/11/9489984.htm"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 33
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?213680"
-        width: 333
-        height: 250
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
   - title: "LendingClub to Participate in a Fireside Chat at Citi's 2021 FinTech Conference on November 17"
     excerpt: "LendingClub Corporation (NYSE: LC ), the parent company of LendingClub Bank, America's leading digital marketplace bank, announced that its Chief Executive Officer Scott Sanborn and its Chief Financial Officer Tom Casey will participate in Citi's FinTech Conference on November 17 at 11:15 a."
     publishedDateTime: 2021-11-10T21:40:00Z

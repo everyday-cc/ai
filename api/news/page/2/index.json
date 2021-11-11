@@ -2,6 +2,136 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-10-artificial-intelligence-huge-potential-if-ethical-risks-are-addressed.md",
+      "title": "Artificial intelligence: huge potential if ethical risks are addressed",
+      "excerpt": "This article is brought to you in association with the European Parliament. Artificial Intelligence regulation should focus on the level of risk associated with specific uses, a",
+      "sourceUrl": null,
+      "webUrl": "https://europeansting.com/2021/11/10/artificial-intelligence-huge-potential-if-ethical-risks-are-addressed/",
+      "originalUrl": "https://europeansting.com/2021/11/10/artificial-intelligence-huge-potential-if-ethical-risks-are-addressed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://europeansting.files.wordpress.com/2021/11/robotic-hand.jpg?w=1200",
+          "width": 1200,
+          "height": 863,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://europeansting.com/2021/11/10/artificial-intelligence-huge-potential-if-ethical-risks-are-addressed/amp/",
+      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/11/10/artificial-intelligence-huge-potential-if-ethical-risks-are-addressed/amp/",
+      "publishedDateTime": "2021-11-10T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "europeansting.com",
+        "domain": "europeansting.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires.md",
+      "title": "Google and AWS harness the power of machine learning to predict floods and fires",
+      "excerpt": "Can machine learning from tech giants help the world respond better to environmental disasters like sudden floods and bushfires?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
+      "originalUrl": "https://www.zdnet.com/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/814987b3fe1a287d422e09be34ab00abb53c1e1a/2021/11/10/2e9f14c1-26b5-4bbc-b761-454cebd855d0/climate-change-flood.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
+      "publishedDateTime": "2021-11-10T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump.md",
+      "title": "Luminar Lidar to Integrate with NVIDIA DRIVE Hyperion AI Platform; Shares Jump",
+      "excerpt": "Luminar Technologies (LAZR), the global automotive lidar hardware and software technology provider, announced that its lidar solution has been selected to integrate into the sensor suite of semiconductor maker Nvidia Corporation’s (NVDA) AI vehicle computing platform for autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
+      "originalUrl": "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
+      "publishedDateTime": "2021-11-10T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-new-ai-model-uses-nlp-to-analyze-african-languages.md",
       "title": "New AI Model Uses NLP To Analyze African Languages",
       "excerpt": "Researchers have developed an AI model to help computers work more efficiently with a wider variety of languages.",
@@ -959,7 +1089,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/technology/youcom-wants-to-remake-the-search-engine/ar-AAQv26d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -1091,160 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter.md",
-      "title": "Peloton's $495 Guide Camera Uses AI to Help You Strength Train Smarter",
-      "excerpt": "The Peloton Guide uses machine learning and smart camera technology to track your movements, assess your form, and recommend classes focused on muscle groups you need to work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter",
-      "originalUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/07F3bNYyH001RVJQnJLO1dl-1.1636390379.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter?amp=true",
-      "publishedDateTime": "2021-11-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-new-world-population-problems-are-literally-letting-ai-enemies-win-the-game.md",
-      "title": "'New World' Population Problems Are Literally Letting AI Enemies Win The Game",
-      "excerpt": "New World has 2,000 players on a server, which was supposed to be enough to sustain a healthy, large-scale PvE and PvP endgame of faction wars and defenses against demon hordes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paultassi/2021/11/09/new-world-population-problems-are-literally-letting-ai-enemies-win-the-game/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/11/09/new-world-population-problems-are-literally-letting-ai-enemies-win-the-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618a76f1c59faea5c3bab64a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/11/09/new-world-population-problems-are-literally-letting-ai-enemies-win-the-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/11/09/new-world-population-problems-are-literally-letting-ai-enemies-win-the-game/amp/",
-      "publishedDateTime": "2021-11-09T04:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-machine-learning-builds-customer-advocacy-beyond-black-friday-spike.md",
-      "title": "Machine Learning Builds Customer Advocacy Beyond Black Friday Spike",
-      "excerpt": "Savvy CPG leaders this holiday season are firing up customer advocacy with an online referral marketing platform that rewards high-value shoppers and their trusted circles for growth long after Black Friday sales peak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6182cd6cfb85e417104d17a2%2F0x0.jpg",
-          "width": 971,
-          "height": 647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/amp/",
-      "publishedDateTime": "2021-11-09T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

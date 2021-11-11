@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-19-how-data-analytics-and-machine-learning-are-driving-value-in-aws.md",
+      "title": "How data analytics and machine learning are driving value in AWS",
+      "excerpt": "As organizations process petabytes of data on architectures designed to handle gigabytes, it’s becoming apparent that a shift in data architecture is needed to handle this volume. Companies with the 5 essential characteristics of data-driven organizations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bitpipe.com/detail/RES/1632786997_410.html",
+      "originalUrl": "https://www.bitpipe.com/detail/RES/1632786997_410.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/bitpipe/covers/1632786997_410_lg.jpg",
+          "width": 315,
+          "height": 237,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bitpipe",
+        "domain": "bitpipe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition.md",
       "title": "Scan Amazon S3 buckets for content moderation using S3 Batch and Amazon Rekognition",
       "excerpt": "Dealing with content in large scale is often challenging, costly, and a heavy lift operation. The volume of user-generated and third-party content has been increasing substantially in industries like social media, ecommerce, online advertising, and media sharing. Customers may want to review this content",
@@ -1304,49 +1348,6 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-artificial-intelligence-ai-in-medical-market-opportunity-analytical-insights-business-growth-analysis-nvidia-intel-ibm-etc.md",
-      "title": "Artificial Intelligence (AI) in Medical Market Opportunity, Analytical Insights, Business Growth Analysis |NVIDIA, Intel, IBM, etc",
-      "excerpt": "Digitization is the new buzzword that affects every aspect of our lives, How can it be that the Artificial Intelligence (AI) in Medical industries are not affected? Pre-Purchase PDF Sample Request ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-medical-market-opportunity-analytical-insights-business-growth-analysis-nvidia-intel-ibm-etc",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-medical-market-opportunity-analytical-insights-business-growth-analysis-nvidia-intel-ibm-etc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

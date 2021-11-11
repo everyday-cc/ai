@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-12-european-bank-sees-path-to-fastest-ai-supercomputer.md",
+      "title": "European Bank Sees Path to Fastest AI Supercomputer",
+      "excerpt": "While Hungarian banks with collective names like OTP Group might not have household recognition here in the U.S., they do represent a notable portion of",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/",
+      "originalUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/ab_business_building.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/",
+      "publishedDateTime": "2021-11-11T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-report-ai-startup-funding-hits-record-high-of-179b-in-q3.md",
+      "title": "Report: AI startup funding hits record high of $17.9B in Q3",
+      "excerpt": "A new report from CB Insights has revealed that global funding in AI startups has seen a surge of 8% to $17.9 billion during Q3 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/",
+      "originalUrl": "https://venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/amp/",
+      "publishedDateTime": "2021-11-11T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers.md",
       "title": "FlyFin offers AI-based tax app aimed at freelancers, gig workers",
       "excerpt": "This new AI tax engine replaces the self-employed and ... A desktop version is also available for Macs with an Apple M1 chip. Android users can download FlyFin’s app here.",
@@ -10,7 +105,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -51,7 +146,8 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "AI in Finance"
+        "AI in Finance",
+        "AWS AI"
       ]
     },
     {
@@ -1313,92 +1409,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai.md",
-      "title": "AI And Data At Dow Jones: Why Humans Are The Machine Behind AI",
-      "excerpt": "Dow Jones is a data company. I speak to Dow Jones’ head of data strategy to explore the important role of humans to leverage data and artificial intelligence (AI) in order to create authentic intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/22/ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/22/ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61727575baf82c128aa7d180%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/22/ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/10/22/ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai/amp/",
-      "publishedDateTime": "2021-10-22T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-iron-mountain-wins-google-cloud-financial-services-customer-award.md",
-      "title": "Iron Mountain Wins Google Cloud Financial Services Customer Award",
-      "excerpt": "Iron Mountain Incorporated ® (NYSE:IRM), the global leader in innovative storage and information management services, today announced that it has received a Google Cloud Customer Award for its work with a large financial institution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/",
-      "originalUrl": "https://www.financialbuzz.com/iron-mountain-wins-google-cloud-financial-services-customer-award/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

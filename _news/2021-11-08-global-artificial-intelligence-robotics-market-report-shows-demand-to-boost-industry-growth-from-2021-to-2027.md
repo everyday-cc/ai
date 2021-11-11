@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 563
         height: 743
         isCached: true
+  - title: "Artificial Intelligence Market 2021 CAGR Value, Top Manufacturers, Competitive Landscape, Growth, Industry Share, Size, and Forecast till 2026"
+    excerpt: "Artificial Intelligence Market report 2021 presents the development status, growth opportunities, future prospects, technologies, including top leading players are IBM Watson Health,"
+    publishedDateTime: 2021-11-11T11:15:00Z
+    webUrl: "https://www.wboc.com/story/45172538/artificial-intelligence-market-2021-cagr-value-top-manufacturers-competitive-landscape-growth-industry-share-size-and-forecast-till-2026"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 0
 
 secured: "OyJXJMbHAT0ChtzNNxqNchbCPCQyrfdgFYJ6397uZiW4kFgWHS+GlI2ph9TPTIQxciL3lIu0Lh1hqb4OW53kDHI0xND4xVGOfKRs8sMWKl8M/TMOnwvmOGtw54BPIa/OOSzrRaJDgAdiXQ29bzxOny1FEM3i0h5Z+p5+RqrhMUIMDcJefkXCmCt5LET2X61qeyVdOIBFbvehQcD01BNf4oMXeEcp3U272BdfUXhQQDX6nEqhxfXsCjYmiBu4SBeKvBMx2Ms/GLRTHhyaXGbVxuT5fnNmt1D8pRJkrzjeAGoDdoDuPEJubWY8forIgv/QpMLKO8CUiOqpCbIuuQEsqcD8+LcnTt4674nrowW6V04=;NIzDiIMWr0syRXFlR3bBKA=="
 ---

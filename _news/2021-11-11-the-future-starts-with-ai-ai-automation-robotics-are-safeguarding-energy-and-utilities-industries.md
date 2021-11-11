@@ -1,10 +1,10 @@
 ---
 category: news
-title: "The future starts with AI: AI, Automation & Robotics are safeguarding energy and utilities Industries"
-excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to artificial intelligence, automation, they are actually some of the biggest potential adopters of these technologies."
-publishedDateTime: 2021-11-10T22:14:00Z
-originalUrl: "https://www.energylivenews.com/2021/11/10/the-future-starts-with-ai-ai-automation-robotics-are-safeguarding-energy-and-utilities-industries/"
-webUrl: "https://www.energylivenews.com/2021/11/10/the-future-starts-with-ai-ai-automation-robotics-are-safeguarding-energy-and-utilities-industries/"
+title: "The future starts with AI: AI, Automation & Robotics are safeguarding energy and utilities industries"
+excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
+publishedDateTime: 2021-11-11T14:01:00Z
+originalUrl: "https://www.energylivenews.com/2021/11/08/the-future-is-now-automation-robotics-ai-are-safeguarding-energy-and-utilities-industries/"
+webUrl: "https://www.energylivenews.com/2021/11/08/the-future-is-now-automation-robotics-ai-are-safeguarding-energy-and-utilities-industries/"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.energylivenews.com/wp-content/uploads/2021/01/shutterstock_1174434661.jpg"
+  - url: "https://www.energylivenews.com/wp-content/uploads/2018/05/robotic-arm.jpg"
     width: 720
     height: 412
     isCached: true
@@ -86,6 +86,6 @@ related:
         height: 579
         isCached: true
 
-secured: "5cZb2lsDUVTaE7pHOkIMZgKqi2LgR74ocQ9bbHJZg5KyIaWoXFVjI3pJNBysnjRUrKy5uS9BLuSTXmEDK2QlukPh+AqstRhpEuvZwRl/3qeRq8+oCejDuvBSPwkNc9tY+JfnyGW5RkrMJIqaduBAKvrFsPtzGoKpV4vOJWe8cyR3O4nsYtRLeD8dNa015sBWxqOwFhhYoUCj8c+ZuMKAk/fZdTtVG/r7QcJpUcwnTCvYgXikJgTdsRR8b/at2P8yr2laG5Pb8ay+kyuMEyoRMvQjPeAUGhiDaUWGurA+lrKBwmwyOD8lOPint8cvXwskXvvtMWGnF8diZhpzf3H/rkQ6h6czOY42TD3dQhE2E5EnEUq3mK3OIgx0Mr2II3O/cqGWPUs2M+kLrNIQaf1grjVZYI1Zg/ujs+AaK26mn0m2pcIb/C2g0rw4UE5Y8eutwqLQ1XJ5Mp+4ULfO79AVoKnXEdVV4fCWCVmliCdHIHhMNDjGQtorresuyLm8ySIMb86lXALoaaonh7tL6yn1yg==;FMqATDwSUd3IOkcYsveyxA=="
+secured: "LKwGtnKzhF9ib/2HzxyagVa8YKMxUCdCFNm++9I/3qxFLqpeUHnpckSloegm4ikmVMNsQATbFb8dyxOMOCcv9z2gGxUiKQXLxLrlB9NWkHtu2hlVd2GHEXaF+oZ8K+CeQe4nHKtpzp5pTPJcvQ5wh1wOkw0OGmZnZ/+eIHXNyytZfryZJ01yj/RvKmTObviiXPljZaNDy7FUNxX1CUIKpb0aD+Uqjd3cfWUgMC4pQHopWgvxOHjU2LXqsJAcsIapYsKyyqaFSsmkYO0GoKTpbZqz9wtGacnRl50v3TAi7ShNWACjEhvqZLY3a/Ghcc65dC7CGZ8TR1zWDr1WAKnIbdhWKIrJcESkRkCY+A94iG4=;7+Aul68n9kwEl+h9+hVBuA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can-help-drive-your-employee-experience-strategy/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Search Abandonment Costs Retailers. Here’s How AI Can Help."
+    excerpt: "Brands like Macy’s and IKEA Retail are leveraging Retail Search and Recommendations AI to help consumers find what they want first and fast."
+    publishedDateTime: 2021-11-11T14:04:00Z
+    webUrl: "https://www.forbes.com/sites/googlecloud/2021/11/11/search-abandonment-costs-retailers-heres-how-ai-can-help/"
+    ampWebUrl: "https://www.forbes.com/sites/googlecloud/2021/11/11/search-abandonment-costs-retailers-heres-how-ai-can-help/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/11/11/search-abandonment-costs-retailers-heres-how-ai-can-help/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618cba92d8e95b1aa757f14a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1089%26cropY1%3D51%26cropY2%3D664"
+        width: 1089
+        height: 613
+        isCached: true
 
 secured: "9o3LKYwTOrkOJID/eyv9Z99G7qocV/zPiei4bv4CseIH2e/PAjR16CnZ+tXDqVmp/3qavIjOHyBmVq9pHA2/AWCPQKWqmHHv6tKBHgithnG0Qv+oUkf4y4MzwSV41urrFyWMDZFaOaKY4nHvsyeozm+Bu0ZkhCHLsHe5rKNwRTP/Ly8f+77vtPr/TLWIf5UYabaU9LQHhl0isqmgpkdAYR+qoshsRgSPNKRjZRFIZyYY3N2QDLJ+9DUS84gsHGfcKFOlIvpJ26ZIJ9TJMatUK82vFjZnGxAsrIa/fwXg+3H9vLH/leWOCpjKoDuCod4kbP5RPm5f12ctNQ83b8yYDVKumFdPuudBZkcsyeVkpnk=;sgdPcroKfIBhDcyQznLpOw=="
 ---

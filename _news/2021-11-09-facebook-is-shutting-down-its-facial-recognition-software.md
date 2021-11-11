@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Facebook is shutting down its facial recognition software"
-excerpt: "CNN By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
-publishedDateTime: 2021-11-08T16:55:00Z
-originalUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
-webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
+publishedDateTime: 2021-11-08T21:55:00Z
+originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
+  - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -142,6 +142,6 @@ related:
         height: 400
         isCached: true
 
-secured: "lAPh4SQXs7ob8fzQI2EyMQKeykiYv++lTfic1ioyxjM+1RcJnizcxFwSwvMVTyCk+7+e4TveHZUw+8iTAkmE/xPpGvrcJ5M+9iwH/WcviJxM8V43aXbeDD6XUBo8eX35ysGevyp8mVPVZZv5YUB/iAzZfyDTLaCf+utD/wO0FepZI5t/hMSPdmRaYEVA0LE//8oS1C9SdHUpgwV6uCZEe5KIOD6H+IFJbnm6YFr9Rj6tsicloXf8GFxP/yLStxoKD4BXedp+QI1ZLQ98s601J1/W/v7EFEgduz1JxafywgBqNAWy9UxE4XL+uhRvO7g45qss9g7iTrKxCir/PruYKf5EclI56lZCtGn7QCvddqY0+l9o7gmOaPPGO+LesO+NgZppRFpLDgbwtLgukAyPqSNzPT2icCFe72Gn8zwUDU+T2sn3FbQR0tNRSP1/No7KfB6T1OYT02jFX8tn5//4IyQlhgnpa8nb6+Q8fFO8QeYixhVNzsnqrFOl02+9rGA4ZlZYB7Vr++2zXZKYcEWnxA==;HAK4RedXqmVUrIKbU0sJPw=="
+secured: "3GBQpr/IF888rlQ4xg3GbyJXZuhNlDkod2EOxGd5gbCS64KaNf9asLkHxQwftwIH4CAkfVx/PcYW3PkIFNrygV2xIFMrWaKwImnmuk/3z2nBYBORFVs6TZAcgIBH0+XX1m2SHRshb4HA1yv0fPEbgcU4TfL0oGwY23L4OA/MKM0RolGT48EMzB+ZEd2bmecFIgFIz0h3L3UZWBbXkD5rwcigZ1GoVEElmwUaYqAy5DMW++tZk2yZD2Vc/A99qlPwueLwqwzTYL0DFxC25LBVB7hpMhUsDcoACDg5qNFgbX5wvghQpF/Sx0fFhig+IF04EPKuM4p0R1BM+qS+V1ieJ/lUNjvtNCEPRPPQ5t+4kuw=;p5/1zCavZTUJSEDIrWFtHA=="
 ---
 

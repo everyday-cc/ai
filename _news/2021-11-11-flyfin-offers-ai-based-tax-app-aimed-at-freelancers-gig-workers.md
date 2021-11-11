@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed
 ampWebUrl: "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/"
 type: article
-quality: 91
-heat: 111
+quality: 93
+heat: 113
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI Hardware
   - AI
   - AI in Finance
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/11/cryptocurrency-tax.jpg?w=1200&strip=all"
@@ -56,6 +57,6 @@ related:
       domain: businesswireindia.com
     quality: 17
 
-secured: "2VkXVKe3Ne4FJwsCnGTWyys9rJljrVOcoJ3X3YRNKeU/aVcPne5uvrGR4QRtIrSZrZt8bk313TkywNpFvS+sab+PCV6w7EgFLcHZjgjTjcTsT/8+Pm0SbLT2o6NI62Jttgz8XVEOzWIOhC6fL9s0dEd4mQERw213Ky+1EMnE/EyeVuYb7I077DcnGDQdQNojQ/u5BJVjM9ZlyI+uBHbnG3cI7F0gUWyuYqWO3FpxdSYGiF56Xug3eSGX1GMW9KhH+l8mglirx+73hMIg8jbKT1yHCbpxEWyIhGQ7Yu440/FSruo88rZC/c6x+vIsy+wklvQ7FzPNZbUKJIOaNpExXpiEEUjDqFufh2JkzuWe7sE=;4KjBB0pHPc6ZOydQxl4I5A=="
+secured: "MZrVV+Ha1YI//kXfAKeha4twDDfm7saXhjcfgJbqeOkRpN/zBrUS2OD+r9rwnqERYg+LrYU/mXawgoL2++3+nrbPo0wXZR4OsKzG2YG3BBMb4vP57GbIR3rYKSMvi/B/bAN7Q2UtgHPoEtvjuufRZnibewFGYNNuu5X7SMC3XM1KBSqLKPdFjaqxNT/PLxovhjVPrPvkCqshcVSrOx8G03gbHb0WldmvXQAtmkoIJ1rqC3gAHR93q36YC9l/zYkdG3u9N1dWy+3AtaSuWS6zY5PsOHCextJE0s+Vgu9vHRy6FE3meXf4IHwLQFnxHjN6C3tge5LgCTMpWuet270IVHubk1Xo/p7IU6KhUUohlMyroORaxCs9HUtAyM5+7Z4nuRQQ/gDgR9i5yspBLGF6wf8MXyJaksqYguMRvWgt4662cZztbHlVkRxt3BLqwbRwM0p+I2UjsozVmfGlFQpymDB0Kay0SFRXe/kecrnbX6Ss7STlGrT88JudHEdSIHIiUUYfvM15PKpLoDW0jE3Ebg==;0EuBIHvFeYY9zVBiL7AuCg=="
 ---
 

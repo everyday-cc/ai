@@ -2,6 +2,179 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-09-15-locus-robotics-collects-50-million-in-new-funding-for-amrs.md",
+      "title": "Locus Robotics collects $50 million in new funding for AMRs",
+      "excerpt": "Warehouse automation provider Locus Robotics today gained new fuel to develop its autonomous mobile robot (AMR) technology for fulfillment tasks, thanks to a $50 million funding round. Massachusetts-based Locus Robotics said the new backing would facilitate continued growth and expansion into new markets around the globe,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/52306-locus-robotics-collects-50-million-in-new-funding-for-amrs",
+      "originalUrl": "https://www.dcvelocity.com/articles/52306-locus-robotics-collects-50-million-in-new-funding-for-amrs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/2021/09/14/locus-Screen-Shot-2021-09-14-at-1.41.48-PM.png?height=635&t=1631652043&width=1200",
+          "width": 984,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-dish-selects-ibm-for-ai-for-5g-network.md",
+      "title": "Dish Selects IBM for AI for 5G Network",
+      "excerpt": "DISH Network Corporation (NYSE:DISH) selected IBM (NYSE:IBM) to help automate the United States’ first greenfield cloud-native 5G network. DISH’s new smart network will be designed to be agile, scalable and fully virtualized,",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecompetitor.com/dish-selects-ibm-for-ai-for-5g-network/",
+      "originalUrl": "https://www.telecompetitor.com/dish-selects-ibm-for-ai-for-5g-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telecompetitor.com/images/5g-signal-290x290.jpg",
+          "width": 290,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OTT",
+        "domain": "telecompetitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry.md",
+      "title": "Peak Fintech Acquires Heartbeat Insurance Platform and Brings Analytics and AI Expertise to Insurance Industry",
+      "excerpt": "Peak Fintech Group Inc. (CSE:PKK) (NASDAQ:TNT) (\"Peak\" or the \"Company\"), an innovative Fintech service provider",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22939082/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insura",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22939082/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insura",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1625279/Peak_Fintech_Group_Inc__Peak_Fintech_Acquires_Heartbeat_Insuranc.jpg",
+          "width": 323,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22939082",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22939082",
+      "publishedDateTime": "2021-09-14T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-datarobots-new-ai-cloud-speeds-up-enterprise-machine-learning-projects.md",
+      "title": "DataRobot’s new AI Cloud speeds up enterprise machine learning projects",
+      "excerpt": "The startup says that the platform, AI Cloud, can function as the central hub for a company’s AI initiatives. It provides features for all the key coding and software deployment tasks involved in building machine learning applications.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/09/14/datarobots-new-ai-cloud-speeds-enterprise-machine-learning-projects/",
+      "originalUrl": "https://siliconangle.com/2021/09/14/datarobots-new-ai-cloud-speeds-enterprise-machine-learning-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/datarobot.png",
+          "width": 930,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-speakers-corner-why-the-connected-brain-is-the-key-to-the-future-of-csps.md",
       "title": "Speakers’ Corner: Why the Connected Brain is the key to the future of CSPs",
       "excerpt": "The Connected Brain could be pivotal in powering B2B and B2C growth models for communication service providers, says Accenture communications, media and telecoms industry lead Francesco Venturini",
@@ -895,187 +1068,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-snowflake-launches-financial-services-data-cloud-touts-big-customer-wins.md",
-      "title": "Snowflake launches Financial Services Data Cloud, touts big customer wins",
-      "excerpt": "Snowflake launched its Financial Services Data Cloud with more than 600 industry data partners as well as large customers including BlackRock, Capital One and Western Union. In February, Snowflake ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/snowflake-launches-financial-services-data-cloud-touts-big-customer-wins/",
-      "originalUrl": "https://www.zdnet.com/article/snowflake-launches-financial-services-data-cloud-touts-big-customer-wins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/13/bed3330e-9d63-4f85-8879-0016d089e88a/resize/1200xauto/c1f36f8f4e67cf9809fe57cbd2d6b16c/snowflake-finserv2.png",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/snowflake-launches-financial-services-data-cloud-touts-big-customer-wins/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/snowflake-launches-financial-services-data-cloud-touts-big-customer-wins/",
-      "publishedDateTime": "2021-09-14T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity.md",
-      "title": "This Indian company is tapping into the huge autonomous driving opportunity",
-      "excerpt": "Be it artificial intelligence (AI), 5G ... Global companies such as Tesla and Waymo are leading the race when it comes to automated driving. But what about Indian companies?",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
-      "originalUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/09/14/600x338/car-kHv--621x414@LiveMint_1631620785356.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
-      "publishedDateTime": "2021-09-14T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-ai-driven-api-security-startup-neosec-launches-with-207m-in-new-funding.md",
-      "title": "AI-driven API security startup Neosec launches with $20.7M in new funding",
-      "excerpt": "Artificial intelligence-driven application programming interface security startup Neosec launched out of stealth mode today with an announcement that it has raised $20.7 million in new funding. The Series A round included True Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/09/14/ai-driven-api-security-startup-neosec-launches-20-7m-new-funding",
-      "originalUrl": "https://siliconangle.com/2021/09/14/ai-driven-api-security-startup-neosec-launches-20-7m-new-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
-      "title": "GPU as a Service Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
-      "excerpt": "A comprehensive research study on GPU as a Service market added on Market Study Report provides insights into the market size and growth trends of this industry over the forecast timeline. The study evaluates key aspects of GPU as a Service market in terms of the demand landscape,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-09-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

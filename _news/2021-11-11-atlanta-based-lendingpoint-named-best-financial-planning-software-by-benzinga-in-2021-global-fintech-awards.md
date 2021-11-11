@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Atlanta-Based LendingPoint Named Best Financial Planning Software by Benzinga in 2021 Global Fintech Awards"
-excerpt: "LendingPoint, an AI-driven CreditTech platform, today announced that it won Best Financial Planning Software from Benzinga in the seventh annual Global Fintech Awards. The award recognizes LendingPoint's ability to adapt and innovate to serve"
-publishedDateTime: 2021-11-11T14:35:00Z
-originalUrl: "https://www.lelezard.com/en/news-20098595.html"
-webUrl: "https://www.lelezard.com/en/news-20098595.html"
+excerpt: "LendingPoint, an AI-driven CreditTech platform, today announced that it won Best Financial Planning Software from Benzinga in the seventh annual Global Fintech Awards. The award recognizes LendingPoint's ability to adapt and innovate to serve its customers at all experience touchpoints to provide fair access to credit for those that need it most."
+publishedDateTime: 2021-11-11T14:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-atlanta-based-lendingpoint-named-best-financial-planning-software-/2021/11/11/9490333.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-atlanta-based-lendingpoint-named-best-financial-planning-software-/2021/11/11/9490333.htm"
 type: article
-quality: 6
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "TruEra, Demyst Celebrate Award Win at Singapore Fintech Festival, Finish in Top 3"
@@ -56,6 +50,6 @@ related:
         height: 250
         isCached: true
 
-secured: "XVz1GHo3wdsYWDrVwoKfhp4APytEqR0xrWiDf3Fhppw7qp4TNvl3FaqtQZvvwij+W/XVLQVSfgbp8W9NyR5J7zRtn7cWW3G/+++sPyFnFuXDAdMR9ZpoVjLGvp57xCkBp7L3bJNe7JLjMsAdC+a88Del5z2Fpi7fVn6tT4UNJpbPL5jj7HGy0+HdXMgzvR0bgwfIPXE4BZHbxKkzUqS2olhV6Ti0mKWrQXfCCa2T1VhjFSdHPs9XQJYWnKnDzTwwq4yYmXKi23Iv/OavqBI4Nk83f+/NFQiKN5Ked9rw7WEjbEO67HwTnSOe0PZEokNJ5/psaQZPRY8a5MhQbMGfQ92Uw/CYL60N9w/l8J8Plfs=;A/4wu7NSBumjsLqkERzphw=="
+secured: "yOeunq6Oo5FDpqXKfTP8Z/VBFq20jcywmyO5+f1r8MHAH97mdtOkAyyGcnHUUTA09nM+yU6OAlGQ6kEhttBRVjitF8IYM48BpFtZXW259iH1n21rp4Hab8Cl3+ifSqow2GAiLI8B9GNDwd2bF33TFZJV4jcUXv95aUImAUU07boAlsmIdKN3dP+2aQHVfZssTvurB0lKgFmF5MjaRZhFxPGZD43LJ9sWgaMhjnAlLTNDKGXMQsG5qkjRpNcvfL/AaOBHsmQqMW6WaszLyhIeMdvFJnPN6DHRrAG7EehG/oDYQb37Aq2ZGgReLtvWvewpspgQw9UZd6T9aHOsh2eO3ZHdEly1fhhSG9QcnK6ssnI=;MYGlJm7n1e39OO9Eafg07A=="
 ---
 

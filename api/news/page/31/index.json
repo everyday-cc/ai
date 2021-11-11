@@ -2,6 +2,187 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-10-16-scarce-chips-may-pinch-apples-iphone-holiday-sales.md",
+      "title": "Scarce chips may pinch Apple's iPhone holiday sales",
+      "excerpt": "According to Refinitiv IBES, analyst are expecting about 45 million units for the fourth quarter and 79.4 million units in the key holiday quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/scarce-chips-may-pinch-apples-iphone-holiday-sales/articleshow/87056292.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/scarce-chips-may-pinch-apples-iphone-holiday-sales/articleshow/87056292.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-87056292,imgsize-23630,width-800/87056292.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/scarce-chips-may-pinch-apples-iphone-holiday-sales/amp_articleshow/87056292.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/scarce-chips-may-pinch-apples-iphone-holiday-sales/amp_articleshow/87056292.cms",
+      "publishedDateTime": "2021-10-15T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-10-16-can-ai-help-prevent-natural-disasters.md",
+      "title": "Can AI Help Prevent Natural Disasters?",
+      "excerpt": "With the power of big data, advanced analytics, and AI geospatial companies can play a critical role in understanding factors contributing to natural disasters like wildfires, the associated risks, and impacts on communities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61671e8c4646978144e70864%2F0x0.jpg",
+          "width": 1200,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/amp/",
+      "publishedDateTime": "2021-10-15T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-16-can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women.md",
+      "title": "Can Artificial Intelligence Help To Close The Financial Equality Gap For Women?",
+      "excerpt": "How can women can build wealth utilizing advanced technologies and what should they should consider when looking at different services available on the market today?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616a5baafe639c680bdd2bd7%2F0x0.jpg",
+          "width": 1200,
+          "height": 761,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/amp/",
+      "publishedDateTime": "2021-10-15T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-16-googles-deepmind-faces-suit-over-uk-health-data.md",
+      "title": "Google’s DeepMind faces suit over UK health data",
+      "excerpt": "Google's AI department secures lawsuit over 1.6 million confidential NHS patient medical records. DeepMind Faces: Google's AI department, otherwise known as",
+      "sourceUrl": null,
+      "webUrl": "https://micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
+      "originalUrl": "https://micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
+      "cdnAmpWebUrl": "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
+      "publishedDateTime": "2021-10-15T19:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Micky",
+        "domain": "micky.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-object-detection-with-tensorflow.md",
       "title": "Object Detection, With TensorFlow",
       "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
@@ -970,195 +1151,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-extraordinary-ai-motorcycle-hud-highlights-hazards-and-cornering-lines.md",
-      "title": "Extraordinary AI motorcycle HUD highlights hazards and cornering lines",
-      "excerpt": "The head-up display for motorcyclists: it's the great white whale of the technology world. Over the years, we've seen at least a dozen different attempts to put information into the eyeline of the motorcycle rider,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
-      "originalUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/e991b46/2147483647/strip/true/crop/1983x1322+282+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F19%2Fd7%2Fb28d9cd849b49549acc2945a2c16%2Fscreen-shot-2021-10-15-at-5.25.26%20pm.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
-      "publishedDateTime": "2021-10-15T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-ponyai-to-start-driverless-tests-on-public-roads-in-beijing.md",
-      "title": "Pony.ai to Start Driverless Tests on Public Roads in Beijing",
-      "excerpt": "Silicon Valley-based leading autonomous driving company Pony.ai, today announced that it has been authorized to conduct driverless tests on public roads in China’s capital city, Beijing. The company is one of the two autonomous software companies to receive this important Beijing permit.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-china-beijing-a0f4dcf4efd645c0b1a1dac481aa11af",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-china-beijing-a0f4dcf4efd645c0b1a1dac481aa11af",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-facebook-is-researching-ai-systems-that-see-hear-and-remember-everything-you-do.md",
-      "title": "Facebook is researching AI systems that see, hear, and remember everything you do",
-      "excerpt": "A new research project led by Facebook’s AI team suggests the scope of the company’s ambitions. It imagines AI systems that are constantly analyzing peoples’ lives using first-person video ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research",
-      "originalUrl": "https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/73gyBNbYY43DUsIXiVz5LZCFdH8=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69993206/acastro_180828_1777_facebook_0001.0.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research",
-      "publishedDateTime": "2021-10-14T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-autonomous-vehicles-spurring-advent-of-industry-40-in-unexpected-ways.md",
-      "title": "Autonomous Vehicles Spurring Advent Of Industry 4.0 In Unexpected Ways",
-      "excerpt": "Autonomous vehicles could be a boon for undertaking massive transit needs for massively distributed manufacturing in Industry 4.0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aitrends.com/ai-insider/autonomous-vehicles-spurring-advent-of-industry-4-0-in-unexpected-ways/",
-      "originalUrl": "https://www.aitrends.com/ai-insider/autonomous-vehicles-spurring-advent-of-industry-4-0-in-unexpected-ways/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-15LEliot-Micromanufacturing-2.jpeg",
-          "width": 550,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "aitrends",
-        "domain": "aitrends.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -74,6 +74,15 @@ related:
         width: 563
         height: 743
         isCached: true
+  - title: "Artificial Intelligence Market 2021 CAGR Value, Top Manufacturers, Competitive Landscape, Growth, Industry Share, Size, and Forecast till 2026"
+    excerpt: "Artificial Intelligence Market report 2021 presents the development status, growth opportunities, future prospects, technologies, including top leading players are IBM Watson Health,"
+    publishedDateTime: 2021-11-11T11:15:00Z
+    webUrl: "https://www.wboc.com/story/45172538/artificial-intelligence-market-2021-cagr-value-top-manufacturers-competitive-landscape-growth-industry-share-size-and-forecast-till-2026"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 0
 
 secured: "0Xp4+sbwujAT6YApLs1eu4nDxqF5WTwLj52YHdW9ynDmWWM18KceklP5ZoZDFVzAmE9Mz33PL4S+j2VDRwGbcFD0s2R8vf6zNAfZqb6c8iUjwghzZB1T6Av9LGLcxPCYkJHJ9Gy3ppcNxqD7Wbgk2rF3i3d5T7LMFTbpVHHiIlj5hO9rocqZqGZSqh54mq+YBMv4/E3t/BFUeD9tWp/GzsSBVe83BEnZG+WfDmFiaehAI/jk8lqmsXdSeydGQh+d+5ts4XmfHJapXr3UVFhyetfVGWaS9iod4jCrWDqUeGefhqFm0kDkm/9EILdoIw220ucRDyS/uikoVOoNFq0ErJpuvBlyz4ZzGfzyzrELs14=;nfgM+bjY0dvBaeSEik5REQ=="
 ---
