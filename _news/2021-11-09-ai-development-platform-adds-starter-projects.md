@@ -33,6 +33,20 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Inside CMU’s new AI Maker Space, a hub for collaborative software development"
+    excerpt: "Funded by JPMorgan Chase, the new space will give students from all schools at the university a chance to innovate robotics applications: \"It’s for everybody.”"
+    publishedDateTime: 2021-11-10T22:02:00Z
+    webUrl: "https://technical.ly/pittsburgh/2021/11/10/cmu-ai-maker-space/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 36
+    images:
+      - url: "https://technical.ly/pittsburgh/wp-content/uploads/sites/7/2021/11/robot-playground-UA-211110A-JPMorgan-Chase-AI-Maker-Space575.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Y7Y4cYH0iJFB/vjDGhYjTIFw98j1bR3K3vsNmccmzb1EnERfi2WikciBPqjo0HUOWQ27bzICObMqYpSl6UI1KSGl3erV/qP10CL4te5FIH+wcz83trQ6YlR0QkMPLpWIgkPLsffpw/EP8S4Az0fXjFFYv5M0d/Vl5qff9cEzkWdQRYjcYROpvi6CSyT0UXlLtnMxydOAz0nIwPxUA3LIdGIF1/b6k71gVxhBrl9cnDeHsLQPdNEwrCtwqt3SNI57f+TFSl6Tm7+TJAjyBjp/S1Vh9DAgFfU3nq5+53K/fVtoTQSN4Nv44BiM9Ao2JUJ3dHfrFrxxpVmNIg0jcgicFC1o+xCLE7d5J2dyX0QWqVp6urKLWDhZYWLxFuskAzBeL/WqNdy/pQVIdSO91l7SxNjD7vCZhaKrTygYt5pHF5Ecv2KxYrtJIcdCogPI6rlkZ1b+m9RvJbsAfK/Q071hKhVHXUiOpQd/Q4614OSpd1A924Vmsx4YLCXUspJSZHSae84HkUFRwZhawKmWxp/Nqw==;+wkpy6v0zC5uota3uQentw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Paul Stenhouse: self-driving cars in the Big Apple (6)"
-    excerpt: "Google is getting NYC ready for self-driving cars  Their autonomous vehicle company Waymo is sending a fleet of cars to the big apple equipped with high te"
-    publishedDateTime: 2021-11-06T09:54:00Z
-    webUrl: "https://www.newstalkzb.co.nz/on-air/saturday-morning-with-jack-tame/audio/paul-stenhouse-self-driving-cars-in-the-big-apple-6/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 24
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/22956989/new-york.jpg?mode=crop&width=635&height=395&rnd=132806730473130000"
-        width: 635
-        height: 395
-        isCached: true
 
 secured: "DhU4YX7bsjkKNvstxUtR/fh53cOQLGLhXsNIfO+dbshxzv71ASKrjbq2iuU9k3U6UsZarVurIbAko4B5Bh4nB61704eFxqRy6RXLLLdnGbC1Bs7JcQpD5rHyzlt2SYXA2reoZoZ7Rh6kuso0e0rdXEBV/ktjkQjvjA+j/aVQ/CLsXjE4u7Ia7WcbdcVhl+FBUYMDzDtfbwx0zSNjNf630zTu+r4ZjXjpxBJe7RMJOvF22m2/A9+07p0zHgcDop6ChOehllHfh0JHTWvJnzuwXzECzc9fTwvoZVAlNFq1miVWIsyo3hNfR+OfEXsVt9XIjRdT6Faw+yGyv45SZcj1AczrIedHGDpQmNM5wTiexF0fP/0K3xMzzD+2Zlg7GvF/6s5hqdeLSpT1uxi5uknc+RQd0lL9vOpyQ6+WoXPCpktapq5ufPXhQYU9JiiiX9u+GZfwlkoRpnCvDAF4jn0+yMLLkmRKgZdNIgo7nGYkgEYWZsfOey84Tm8I1ZX8CzMnS4V9FcsUpHDBPN3+QUdgOw==;tTfhaF4vcC1qE+wol506vw=="
 ---

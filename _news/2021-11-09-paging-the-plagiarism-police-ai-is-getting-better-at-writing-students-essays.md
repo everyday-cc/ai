@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/plagiarism-improving-writing-students-
 webUrl: "https://thenextweb.com/news/plagiarism-improving-writing-students-essays-syndication"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is getting better at writing, and universities should worry about plagiarism"
-    excerpt: "The dramatic rise of online learning during the COVID-19 pandemic has spotlit concerns about the role of technology in exam surveillance and also in student cheating. Some universities have reported more"
-    publishedDateTime: 2021-11-06T08:17:00Z
-    webUrl: "https://www.econotimes.com/Artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism-1620701"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 24
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202111057f9270258d3832985_th_1024x0.jpg"
-        width: 496
-        height: 342
-        isCached: true
   - title: "MINDZAK and EATON: Artificial intelligence is getting better at writing, and universities should worry about plagiarism"
     excerpt: "Michael Mindzak, Assistant Professor of Educational Studies at Brock University, and Sarah Elaine Eaton, Educational Leader in Residence, Academic Integrity and Assistant Professor at the University of Calgary,"
     publishedDateTime: 2021-11-09T14:56:00Z

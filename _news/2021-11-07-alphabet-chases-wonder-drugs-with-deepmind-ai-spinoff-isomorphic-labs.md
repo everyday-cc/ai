@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-w
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1068
     height: 601
     isCached: true
-
-related:
-  - title: "Decoding Alphabet’s Bet On Drug Discovery With New AI Company Isomorphic Labs"
-    excerpt: "Isomorphic Labs will use technologies coming out of the DeepMind lab to accelerate the drug discovery process with an AI-first approach."
-    publishedDateTime: 2021-11-06T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/decoding-alphabets-bet-on-drug-discovery-with-new-ai-company-isomorphic-labs/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Alphabet-launches-Isomorphic-labs.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
 
 secured: "ICkfTGZHe5cZI6WFHqWWpeH048eJfd3h0CDcNtwVuD6mM76/yZ59OwOdZHQJecSvq86JDWFmrF1uMt3FotO+Ov6Bi5/ewdfqIuYJ1pbDVbVWsjoUHtIqoZzXJCHWmLmYXh8yx8Xiv95n9Qmj8Wk1pVwEkjXr8e36+LnP3OajRowLIwpmiMdH657NddvHkWRxyuBfZAdunhB8Y2EHUoaukzLUzINxQb0lP2tYMzGDGJuQUrY1UrRX8B/X921ih9bcvDVsU0h7cvMCTQH5SJFnGWskQNNDszdDdGhvW5DxVOBkTEeA5JveDvkvisz82rf1NJSdv9cz7YzSdKLyiXAehWEJjSRz+geGfwMKYOEBxNtlOKrKS5tfLnctPIypgARF22pAdvb4HfneEJcyMC0VBfO09CQ/m6RUW6tSDN0SzOrpFl4HPA5GqJkhoSFEg/t6qd/b+ZYbnHS+RQr8KNzMeQ52iyXRcXMR0zp8Ww0KJkgN3z2PA8EUmJDbvJYVUNVX5so8Xe2aSDN6z90Q3YAAAQ==;NwY5OQ5glfssfWaZxLJwhQ=="
 ---

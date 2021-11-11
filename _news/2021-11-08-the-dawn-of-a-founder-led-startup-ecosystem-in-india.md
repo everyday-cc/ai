@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Inspur Information Announces Full Support for the NVIDIA AI Platform for Inference Processing"
+    excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced at NVIDIA GTC that its AI and Edge inference servers will support NVIDIA A100, A30, and the newly announced A2 Tensor Core GPU s throughout its entire inference server portfolio."
+    publishedDateTime: 2021-11-09T09:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-ae9ac0f26e074e2b8be9e526383c5520"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "XxWkiIOZi3NaNtgE6X5XM9TBMIedRqN5QpKG7hnKV125V28g6k/KzU3F92HahnqsFD9ttEUXEUCY1BCn1/Zl7Q+uauU5VpBIe41vGaziPf/5bGbVRAtY8jJJ3VH5V5QV3Xv0ZhE0YgnGOZESoQPAWGX1LaM9NVQWqALQE65OrYaCbnvfhBKNHjd3EHU0GMhWbtFQ2JOWDU2R0bvDT6LsSVPCGKVnaYM/cX45B5+zJoiYxCdd4pXYmfDYokTFOZ+EfJZOYU/+bSYyzw9QKHE+Gi3JdsgHAzujZgEN9+Ph0XHvXAqy5Ej2g0qpRjTW4OAdBSYZ5d6dUM80hJsxwFdJ9T+/MB6AsuEIZHn338yLMJ/ipdVIAleevtH3m+65NAmZksy9AoxvItXpPuWD/h6ED+iliSw0kCItUIG7lTkfNPQMvYuMXMPSsD3rGyeMWRbb4e0fPT1g3WO+YxIX+NwmAfj87x8gohHzF51loSEcav7q+MyCV6YFb4OdJIPo5i8axRZSgoJQAwCy9JeIndtX6Q==;g/6QZ9FZnBDbRpc+Cqoidg=="
 ---

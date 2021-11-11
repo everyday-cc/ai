@@ -2,6 +2,91 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-10-12-get-started-with-speech-recognition.md",
+      "title": "Get Started With Speech Recognition",
+      "excerpt": "Speech recognition makes it easier for us to be lazy with our devices – or perhaps set up the coolest voice-controlled project around. After the voice controlled home automation post ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
+      "originalUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2010/07/capture7.jpg",
+          "width": 356,
+          "height": 244,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-joint-artificial-intelligence-center-jaic.md",
+      "title": "Joint Artificial Intelligence Center (JAIC)",
+      "excerpt": "On the latest episode of The Daily Scoop Podcast, Michael Peckham, CFO, HHS Program Support Center, Kathy Conrad, Director, Digital Government, Accenture Federal Services and Ronald Sanders, Staff Director, The Florida Center for Cybersecurity, University ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/jaic-chief-wants-ai-progress-to-be-slow-and-incremental/",
+      "originalUrl": "https://www.fedscoop.com/tag/joint-artificial-intelligence-center-jaic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
+          "width": 629,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-lifebio-secures-second-national-institute-on-aging-grant-research-will-use-artificial-intelligence-as-a-possible-diagnostic-tool-for-alzheimers.md",
       "title": "LifeBio Secures Second National Institute on Aging Grant; Research Will Use Artificial Intelligence as a Possible Diagnostic Tool for Alzheimer's",
       "excerpt": "\"Reminiscence therapy has been an effective tool in ... LifeBioALZ, will use artificial intelligence to take person-centered care and contextualized health to a new level.\" LifeBio has now secured ...",
@@ -1075,101 +1160,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-windows-11-voice-typing-how-to-configure-it.md",
-      "title": "Windows 11 Voice Typing: How to configure it",
-      "excerpt": "While testing it, I found its speech recognition near to perfect and pretty fast. So, if you do not want to take the hassle of writing things down using the keyboard on your Windows 11 system ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thespectrum.com/story/news/local/mesquite/2021/10/11/pc-periodicals-windows-11-voice-typing-how-configure/6088725001/",
-      "originalUrl": "https://www.thespectrum.com/story/news/local/mesquite/2021/10/11/pc-periodicals-windows-11-voice-typing-how-configure/6088725001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/10/05/USAT/53e029f8-196d-496b-9313-7f40afdbbaeb-Windows-11-PC-Devices.jpg?auto=webp&crop=971,547,x0,y10&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.thespectrum.com/amp/6088725001",
-      "cdnAmpWebUrl": "https://amp-thespectrum-com.cdn.ampproject.org/c/s/amp.thespectrum.com/amp/6088725001",
-      "publishedDateTime": "2021-10-11T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spectrum",
-        "domain": "thespectrum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-fintech-and-compliance-its-not-one-size-fits-all.md",
-      "title": "Fintech And Compliance: It’s Not One Size Fits All",
-      "excerpt": "Fintech companies are the future of business. But with new rules and regulations being created to keep watch over them, compliance must be viewed as a top priority at fintech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
-      "originalUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61605e0d20fbebdd18e54839%2F0x0.jpg",
-          "width": 1200,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/",
-      "publishedDateTime": "2021-10-11T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

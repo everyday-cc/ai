@@ -57,6 +57,20 @@ related:
         width: 1600
         height: 1608
         isCached: true
+  - title: "About Bridge+ FinTech Odyssey"
+    excerpt: "Bridge+ FinTech Odyssey brings leaders in the FinTech industry together to share insights on the innovations and breakthroughs in the FinTech Sector. Happening from 8th to 12th November 2021 at 79 Robinson Road,"
+    publishedDateTime: 2021-11-11T02:51:00Z
+    webUrl: "https://www.capitaland.com/sites/bridgeplus/sg/FinTech-Odyssey.html"
+    type: article
+    provider:
+      name: CapitaLand
+      domain: capitaland.com
+    quality: 24
+    images:
+      - url: "https://www.capitaland.com/sites/bridgeplus/sg/images/nav1.jpg"
+        width: 417
+        height: 292
+        isCached: true
 
 secured: "8vR4EysvLDBTdeNUWQMGzVIgcOAR4L7dFf0ee1LuhD28d+SeltcTGalPxZQn6h7nb0D5ized6oewm9lqwlqEa99bdo3aQV3JSVzlDYMbNMOHJKNh/y74lbrst7smDWHhlPl+EBuhYnjRfRGZQFglfoo7wnwcArTFsdql4Nu18+eQLb+Ilz2QaQ5th1h24lw9jkUEzXR52W8BkpymD/1YeNED3Wa/mibIpC6ErocVnXw7gitYqOO8gFm9cuzM9aemPjfwd0tJ6mwcULa/cTuyYkpHNgrMM2Yp8jkmjPR6jox5AJQ2jT3dWsaZ2Al6NLjDqzj3o4WMamdH7W3gUyA0QRcRejrsMFRYI9RYs9VE104quSQqy1wcRDPAvmidWNL/WaWIlOCm8GENtf2LET6ve7Xh2aFGipNNQ9qicLANc/LFXjo+jPa0A3+TPixBHPv3l0hbTjiALksYNP7d/nLLOOwvMo5dFXf1P90Xjp29X7Cjb0+sPfKmkcScD4Ht0fWHsh9poV4e/2a9srvmNnERSw==;pBmWxNWwHEB/6WFAHhP23w=="
 ---

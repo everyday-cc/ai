@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/business/artificial-intelligence-ch
 webUrl: "https://www.bloombergquint.com/business/artificial-intelligence-chip-startup-nabs-4-billion-valuation"
 type: article
 quality: 54
-heat: 94
+heat: 96
 published: true
 
 provider:

@@ -25,6 +25,22 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "NXP's i.MX 93 Edge Machine Learning APU Is the First to Include an Arm Ethos-U65 microNPU"
+    excerpt: "NXP has introduced the first processor in their i.MX 9 product family. The i.MX 93 is an application processor targeting edge-powered machine learning applications with strengths in security, connectivity,"
+    publishedDateTime: 2021-11-11T00:25:00Z
+    webUrl: "https://www.hackster.io/news/nxp-s-i-mx-93-edge-machine-learning-apu-is-the-first-to-include-an-arm-ethos-u65-micronpu-c320bddfc942"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 30
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1371665/_47tirOOsEc.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
+        width: 600
+        height: 450
+        isCached: true
+
 secured: "FoPyQUXbCZa3l6fK7MUon5oxLlbdt06HwFxw3nXP3qCmLtaX9Idoc0rn39Yu22LnmBKA7Dh+9/CQN5iIa0g3rLbQZCH1lCi2VdbYxuwsxrT4LsftIvzi0nFROgioVk4ehLMkgQMwhtoiYj3YrSIH001kbjPXaPsFve5RYVQqlgWLnkHPR8Tvst8gIKNlXj1dlgxFOEOgykjN3syFTLNedsOhlyjfrWikrR+tlkaBFsB2BmXMxbFdHBXiVk1dOaHWAZUNK0liR9sfryvhYPph6ryMHFC321bH7Wdz1m17x/ZSKvbqZyWihsAOozkQf9nfPyrgam5ZaSoeR0u7PZuP8hdfy/PyIcXRcGpXXuCybv/s7tPpofddI8c+EUCVzlvSlTerTlgVYAVay3VjKLTzQLNtAeUh0ZplYLPgmMB1vq3y3/y0hqA8ZWtJ3vbMpm9S9jr3DSwJpKf9rmDMO50Dw5MD81jntJW/LQ6dAoj+6NEuBv1gLVlCnOsea77B0FZD/McUIfRIpbpYhDgKCyhXsg==;/AbhzyR17hAfJi+HqIW9Kg=="
 ---
 

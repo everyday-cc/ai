@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial intelligence is getting better at writing, and universities should worry about plagiarism"
-    excerpt: "The dramatic rise of online learning during the COVID-19 pandemic has spotlit concerns about the role of technology in exam surveillance and also in student cheating. Some universities have reported more"
-    publishedDateTime: 2021-11-06T08:17:00Z
-    webUrl: "https://www.econotimes.com/Artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism-1620701"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 24
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202111057f9270258d3832985_th_1024x0.jpg"
-        width: 496
-        height: 342
-        isCached: true
 
 secured: "ZRh30vkIj2jol05JkP4PHWB+8g9CrzfVIAdYURFyoAt+2852tKka6g6PvRlhPeunPAY5Kq7j8B3Y9W5nUKNHJTCyGWX37WwHRVDNiSVXpcZSJmHxXXI8awojX3heRTo5ZHLmX7G8anIVkC+dfr6mcCTQhF05XWZaJgDSe9HhnEJmuwt8eV83zFAcn9SqYqgwPoLVBoECZRzDLbeHDBiPG3NKrV2nEk2p9P7eDGMsf6+Q6/F7VIm7MbzOkNDdWruy3L67E953qodMKMbVULpZ+O27ekzLeZkqXkpAhv77aucASSEqTkyRvLfmKBblLIkOlXcX9h7B63xSfouHB3FOICXrZ+m/5eNMfBE/YOEb144=;iAOWGoowTzx0T1C5RzstHg=="
 ---

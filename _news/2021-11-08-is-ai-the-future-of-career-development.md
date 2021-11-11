@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Inside CMU’s new AI Maker Space, a hub for collaborative software development"
+    excerpt: "Funded by JPMorgan Chase, the new space will give students from all schools at the university a chance to innovate robotics applications: \"It’s for everybody.”"
+    publishedDateTime: 2021-11-10T22:02:00Z
+    webUrl: "https://technical.ly/pittsburgh/2021/11/10/cmu-ai-maker-space/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 36
+    images:
+      - url: "https://technical.ly/pittsburgh/wp-content/uploads/sites/7/2021/11/robot-playground-UA-211110A-JPMorgan-Chase-AI-Maker-Space575.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI development platform adds starter projects"
     excerpt: "AI development platform update makes it easier and faster to build tinyML applications for edge devices. Imagimob has updated its AI development platform to make it easier and faster to build tinyML applications for edge devices."
     publishedDateTime: 2021-11-08T18:01:00Z
