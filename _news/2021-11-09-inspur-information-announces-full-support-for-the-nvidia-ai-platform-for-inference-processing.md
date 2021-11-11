@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The dawn of a founder-led startup ecosystem in India"
-    excerpt: "Early and successful Indian serial entrepreneurs are giving back to the community through investments and supports. Over the years, a wide array of factors have accounted for the growth of India’s startup ecosystem."
-    publishedDateTime: 2021-11-08T07:02:00Z
-    webUrl: "https://www.linkedin.com/pulse/dawn-founder-led-startup-ecosystem-india-krasia"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 22
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFUCCbytg3iSA/article-cover_image-shrink_720_1280/0/1636354806696?e=1642032000&v=beta&t=lDksi_MsJegECyDcazi-RiTnmdJa0w5vKaMhlhSN0_U"
-        width: 1080
-        height: 720
-        isCached: true
 
 secured: "IMtLj9t7KP5FhQhS1xXe4ZEAMTR/kJEJ/gRbX4ocNhOUV3r05UOhOTxgC0rQnJVfkDBI/ppxuS4HmRsGLMdwyPTrlHvFKy+pMtiDt0VAlPmChY9XquzcFYX06tmV5ebd/tZplQa06pF6xXh5JYa6Un2LFoekqmJwHx3Bd31aG0k0qepiOCFwKh4H/UwNyoaMwirNmk5LPmJaL+dJ1i4BwCFflyGhwzhXrz1andJqeKoOJ3eCuOaFCCeiFh7YGNW3vndH57HD6KPHqFRORnK0LOpWRaIJBBJQYzWQYtK6M29zwHLoB9xT1/X+hhYCbFnNvanfsuanUXsxFoK7yyHPzLCeJ55/6y1RWuE7hd8IeBc=;Bf4ipXeIZOlTjFZV0bq7dw=="
 ---

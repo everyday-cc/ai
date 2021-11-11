@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/amp/"
 type: article
 quality: 87
-heat: 158
+heat: 169
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/rw2rnai450308.jpg"
         width: 450
         height: 308
+        isCached: true
+  - title: "How test automation, machine learning, and AI will change test coverage forever"
+    excerpt: "Did you know the biggest challenge IT leaders face in achieving test automation is the lack of platform coverage? With test automation key to the future of test coverage, its as important as ever to learn what testing strategies promote reliability of apps,"
+    publishedDateTime: 2021-11-11T09:43:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1635314243_836.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 50
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1635314243_836_lg.jpg"
+        width: 315
+        height: 237
         isCached: true
   - title: "Impact Of Artificial Intelligence In Banking Industry"
     excerpt: "Computer systems can now do jobs that would otherwise require human interaction, thanks to artificial intelligence. Machine Learning is a fundamental component of AI, and it assists in making decisions that robots cannot complete without the assistance of a human."

@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/human-
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
         width: 360
         height: 563
         isCached: true
+  - title: "AI Journey discusses digital healthcare"
+    excerpt: "Digital healthcare technology evolved fast before the pandemic: the industry would use many designs like smart watches, disinfection robots in clinics, and bioprinting robots, AI for drug development and repurposing,"
+    publishedDateTime: 2021-11-11T09:37:00Z
+    webUrl: "https://www.publicnow.com/view/CA68965C403711CD86D00517A95D90BE612565C0"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 34
 
 secured: "aLIjJh6i7WVd47GXeXHZpWERptP6vRzvtvJ+W1hhSXa2NCF96sq3rHbTFU8kElR7/DZv63ikQRkGPIb+uDqbHa1CsuZw274MqaYKPC51yQhOuO6037HTRNLuoQQ0kQPjc3FKLS/FDGYi/FcHB/C2292i8khRSa1EY7mlf311tqrC85XsWMqRV0SBvoUXfqdDshYDQuuyO62rY+XDnb36nfEWjSosvGnVufdLoNQxk8FuPSX+RHgyYrWNWRPnoQ46M038JxQkFBBUQZV0u5zjxaxh6X0ocekICI0kXoZ/lXi9WTsspfgcvTDorPuH4kLN6Y8jjNaz87IKs1ZK4Vm7Las7XTyowIvkGUcpcHkm4YQ=;NKXwcIzzrFapnw1Gue5GGw=="
 ---

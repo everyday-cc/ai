@@ -2,6 +2,57 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-09-28-build-or-buy-ai-three-factors-that-can-determine-your-strategy.md",
+      "title": "Build Or Buy AI: Three Factors That Can Determine Your Strategy",
+      "excerpt": "To build the right ModelOps pipeline — one that can adapt to future needs — organizations must plan for shifting priorities and make insightful decisions that will stand the test of time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ccae14f704a6c42d127c1d%2F0x0.jpg",
+          "width": 1200,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/amp/",
+      "publishedDateTime": "2021-09-28T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-over-2-billion-devices-will-be-shipped-with-a-dedicated-chipset-for-ambient-sound-or-natural-language-processing-by-2026.md",
       "title": "Over 2 Billion Devices Will be Shipped with a Dedicated Chipset for Ambient Sound or Natural Language Processing By 2026",
       "excerpt": "SINGAPORE, Sept. 21, 2021 /PRNewswire/ -- Natural Language Processing (NLP) and ambient sound processing are traditionally considered exclusive cloud technologies and this has restricted their ...",
@@ -1106,58 +1157,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory.md",
-      "title": "Anyone Can Download An Autonomous ‘Research Robot’ From The Air Force Research Laboratory",
-      "excerpt": "In the fight to prevail over America’s adversaries by out-innovating them - a fight which has all the hallmarks of a Cold War despite President Biden’s assertions to the contrary - increasing the speed at which physical lab experiments can be done and iterated is vital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/erictegler/2021/09/27/anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory/",
-      "originalUrl": "https://www.forbes.com/sites/erictegler/2021/09/27/anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e2c6a619e124d42a2a15d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2021/09/27/anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2021/09/27/anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory/amp/",
-      "publishedDateTime": "2021-09-27T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -103,6 +103,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "QCraft announces self-driving chip deal with Nvidia, setting course for mass production"
+    excerpt: "Nvidia’s Drive Orin chipsets will underpin the hardware suite that will be fitted in QCraft’s next-generation self-driving car fleet."
+    publishedDateTime: 2021-11-11T09:39:00Z
+    webUrl: "https://technode.com/2021/11/11/qcraft-announces-self-driving-chip-deal-with-nvidia-setting-course-for-mass-production/"
+    ampWebUrl: "https://technode.com/2021/11/11/qcraft-announces-self-driving-chip-deal-with-nvidia-setting-course-for-mass-production/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/11/11/qcraft-announces-self-driving-chip-deal-with-nvidia-setting-course-for-mass-production/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 53
+    images:
+      - url: "https://technode.com/wp-content/uploads/2021/11/轻舟智航自动驾驶测试车的副本.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Nvidia announces new platform for creating AI Avatars"
     excerpt: "Chip-maker Nvidia Wednesday announced ‘Omniverse Avatar’, a technology platform for generating interactive Artificial Intelligence (AI) Avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
     publishedDateTime: 2021-11-10T10:01:00Z

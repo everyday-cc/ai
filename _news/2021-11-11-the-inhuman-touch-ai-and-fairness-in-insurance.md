@@ -83,7 +83,16 @@ related:
         width: 360
         height: 563
         isCached: true
+  - title: "AI Journey discusses digital healthcare"
+    excerpt: "Digital healthcare technology evolved fast before the pandemic: the industry would use many designs like smart watches, disinfection robots in clinics, and bioprinting robots, AI for drug development and repurposing,"
+    publishedDateTime: 2021-11-11T09:37:00Z
+    webUrl: "https://www.publicnow.com/view/CA68965C403711CD86D00517A95D90BE612565C0"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 34
 
-secured: "SQi1k1hMEZqoz7EPlkCeOWO8lNEtq5vhoBy7/ecI5m8Amub9yTJlygDQX3iaIHbIM47iFeHu8ZurXbH5XFyc40C7JtALelbFkr2BoHZzdVTrPavKgQpfUKyavYs8MNG3qIufUxnXqZAf7fXYFNTzMAGHxV6fHbDCBDA/TAZWbDutTGGr3pRKotcqUX9G91bT08wfvuZjMfx5ZeJ4fuVfIieOr3LQOosnlI5RSDHwOPPYZVUGxTTU4O+tGEFotBid/v4zsXcgcPdpc2qp2AQcHJnBqcDTQC9Shymi8rM6l/veJwpyggltkL/OSH63NhXCHDkqWgIu2RDpq+ArGBCPwwIw+1TkR5EYVpuyxTZM++o=;Ux4nhS90ICHVOtr7+b0BCA=="
+secured: "LMFepDsPdGIsIq4rD2a6Wn9BpVs+pIDx/PF4zXoTl25E4Up6CNm1YF8TNo16Ci9p8XbXt3fwtanZQBrD80Vq6PPn/Y08owrMEC4MZD1abMp1yDPsH4gmXRBi7etoMZcsqk4f77x6GD/4cpBMfLo3aSu7lhDU9A2NvZWvHpU701qA23X4yp3GAClzfhDaS7bV6FJYSewANssbCsOYiqZJ2BaTKTXdtsNXql7Aoxu+C1fzpvtH/9JTOCeGimJQwQ71gKDvbNkn9wgCCAQyW9NUpF1JaReEEP2IrTZRrC23bzwV0FmnBQ4HAcPwyb2ipuRH3orY27SDYYrGr7tiqIz7Im3jlq+LmM6xXTthhi4uAr59WwC6/AF0ojl8ZuzQ0gxgpzYoaCoveXPtKUhwQwKUXBIqXSYewOSsxLQf+hxeQpDb9SVw6hL3eOuq8/DEXGUwcOe2t5A7Ac9Gio/x50xe8L/6pcQwjpXaro1mH4o2gdt6N1Lc+J7pY2MNIyjhIouhOttNVHKiwgbJ0s5nbTQZSA==;UjRC9mIoiiku9T1AuYMi4Q=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2021-09-10-biobest-makes-investment-in-robotics-and-artificial-intelligence.md",
+      "title": "Biobest Makes Investment in Robotics and Artificial Intelligence",
+      "excerpt": "Along with Biobest’s $10 million investment in ecoation, the companies are also joining forces to develop new IPM-related technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/",
+      "originalUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.greenhousegrower.com/greenhousegrow/wp-content/uploads/2021/07/Ecoation-OKO-Platform.jpg",
+          "width": 896,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/?amp",
+      "cdnAmpWebUrl": "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/?amp",
+      "publishedDateTime": "2021-09-09T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Greenhouse Grower",
+        "domain": "greenhousegrower.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-update-on-artificial-intelligence-court-rules-that-ai-cannot-qualify-as-inventor.md",
       "title": "Update on Artificial Intelligence: Court Rules that AI Cannot Qualify As “Inventor”",
       "excerpt": "Striking a blow to patent applicants seeking to assert inventorship by artificial intelligence (“AI”) systems, the U.S. District Court for the Eastern District of Virginia ruled on Septemb",
@@ -1111,50 +1154,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-botz-a-robotics-ai-etf-with-a-strong-track-record.md",
-      "title": "BOTZ: A Robotics & AI ETF With A Strong Track Record",
-      "excerpt": "Technology stocks, ETFs, portfolio strategy, renewable energy, and O&G companies. Primary goal is growing net-worth. I typically allocate a portion of my own portfolio and devote some of my SA ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
-      "originalUrl": "https://seekingalpha.com/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1280407804/medium_image_1280407804.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
-      "publishedDateTime": "2021-09-09T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

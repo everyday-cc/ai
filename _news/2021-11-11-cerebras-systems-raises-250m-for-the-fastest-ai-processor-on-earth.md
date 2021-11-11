@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI wafer scale chip startup Cerebras raises $250m at $4bn valuation"
+    excerpt: "Cerebras Systems, the AI semiconductor startup selling the world's largest computer chip, has raised $250 million, valuing the company at $4 billion. The company's Series F round was led by Alpha Wave Ventures,"
+    publishedDateTime: 2021-11-11T10:39:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ai-wafer-scale-chip-startup-cerebras-raises-250m-at-4bn-valuation/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Cerebras_Chip.2e16d0ba.fill-1200x630.jpg"
+        width: 678
+        height: 357
+        isCached: true
 
 secured: "3RvZqNKAQABewc4G72gCPToEbeRgxVdAR1R1CRn2rB4gpg08C3EZnaGPpzt1W+wnzDZNEMFkLQWFJmws/5U2Mrqvs05UMT6dGKfoa0jUACtvEjJMvGWOYwd8DDw1CCoRlRQ2Ly4+btI2j/DEE6a8PUymj3flHb1bjirE6WIXzBcbOPy9ZvUs9li37p1dN6J7PfNqkARrzHNpza+5RI1d4XWqTqSqs2QiCrjwRkoDBPGa1TtjhaFYC3eSJ7/F9O8KNWIcPW0ks81nSfH2Tw7M4NRuRMIIQ4yC3XzZnNMwOUjRnN1jWR/jVMSQsScAgTKscGrI1uIpnOCLnm3oPh02/UNuQ1/3H5NjI0lbkG1oehP27sMtDjRYflYFRKjlpbcfUgtPysUQjJjeB5YJVSbFf+iBZEWoL7AvruUE5JCdefy0u7OXn9i/ANt/Lr1HUgoHloHknVJoJ8+7LSLnBi5Y/bW5Zf/pDd1yJpjtsCygPtPumAdbVM08LdH/HEzwjnqP8Uxc8UYkzw/9uWPPYSE9nQ==;9bcBgB3YkHLAn5CQ+4d94A=="
 ---

@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Team 8 Takes Refreshing Approach to Driving Business Development, Fintech"
-    excerpt: "Team 8, an Israeli venture group, has a unique recipe for success, its vice president for business development and Fintech Galia Beer Gabel said. A lawyer by training, Beer Gabel moved into a business"
-    publishedDateTime: 2021-11-08T11:01:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 43
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/11/Galia-Beer-Gabel-smalll.jpeg"
-        width: 1600
-        height: 1608
-        isCached: true
-  - title: "Seven technologies shaping the future of fintech"
-    excerpt: "In the next 10 years, seven key technologies will drive business model reinventions while shaping the competitive landscape of the financial industry."
-    publishedDateTime: 2021-11-09T10:02:00Z
-    webUrl: "https://www.mckinsey.com/cn/our-insights/our-insights/seven-technologies-shaping-the-future-of-fintech"
-    type: article
-    provider:
-      name: McKinsey & Company
-      domain: mckinsey.com
-    quality: 24
-    images:
-      - url: "https://www.mckinsey.com/~/media/mckinsey/locations/asia/greater%20china/our%20insights/seven%20technologies%20shaping%20the%20future%20of%20fintech/seven-fintech_trends.jpg"
-        width: 1536
-        height: 864
-        isCached: true
   - title: "About Bridge+ FinTech Odyssey"
     excerpt: "Bridge+ FinTech Odyssey brings leaders in the FinTech industry together to share insights on the innovations and breakthroughs in the FinTech Sector. Happening from 8th to 12th November 2021 at 79 Robinson Road,"
     publishedDateTime: 2021-11-11T02:51:00Z

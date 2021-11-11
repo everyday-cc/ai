@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/industry/technology/the-pursuit-of-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/the-pursuit-of-problem-solving-inside-nvidias-plans-to-democratise-chips-and-ai-in-india-and-rest-of-the-world/2364915/lite/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: The Financial Express
@@ -40,20 +40,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "The dawn of a founder-led startup ecosystem in India"
-    excerpt: "Early and successful Indian serial entrepreneurs are giving back to the community through investments and supports. Over the years, a wide array of factors have accounted for the growth of India’s startup ecosystem."
-    publishedDateTime: 2021-11-08T07:02:00Z
-    webUrl: "https://www.linkedin.com/pulse/dawn-founder-led-startup-ecosystem-india-krasia"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 22
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFUCCbytg3iSA/article-cover_image-shrink_720_1280/0/1636354806696?e=1642032000&v=beta&t=lDksi_MsJegECyDcazi-RiTnmdJa0w5vKaMhlhSN0_U"
-        width: 1080
-        height: 720
         isCached: true
 
 secured: "Df+jtVS04bmDP5QJ8pCzROuT6M+lRZgsz4SsYe80K6zTsmC63qfg1OABw/AVxnZkdwfzy1iKI36HXz0zgeYhaufNsarPwl2Ezm86v9UId/VXauBXTvQAkiR++W6WGfrkfURhMsww5VH3uPrytv5spfBSlDHS+cBmluTSFecKRgdE4DQPT4UppsNWkR+f8DwIUqFQMiv/nzPo/zNXDLNB+R0ByH9eVX9uAi1IZRyNPWs/lfamr+lFgSORGRSX+N7ctFSclT7FA3Kq03en87E4h4CdS4OmqpOXzAi37Z38WEhm/0GU40Tmtq+oC2wYskBuD6BiKXFiyFZme0y1rKaAEYRSF/ojxeyz1yHkcjXB+G0=;NBfZnKLn/GmevqZTJnhHGQ=="

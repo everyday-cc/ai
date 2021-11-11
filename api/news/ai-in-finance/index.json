@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-11-how-fintech-companies-are-changing-the-idea-of-credit-in-india.md",
+      "title": "How Fintech Companies Are Changing the Idea Of Credit In India",
+      "excerpt": "Credit is a more frequent term in the current Indian fintech industry in comparison with a decade-ago period. India has developed as Asia’s biggest target for fintech deals, leaving behind China. With around 33 deals valued at $647.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/396710",
+      "originalUrl": "https://www.entrepreneur.com/article/396710",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1636627414-towfiqu-barbhuiya-jpqyfK7GB4w-unsplash1.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T02:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks.md",
       "title": "Hyper-personalization and new-age tech will drive AI-enabled banks",
       "excerpt": "India has witnessed a rapidly growing Big Data Revolution with the integration of AI, ML, IoT into the financial services industry.",
@@ -1347,49 +1399,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-fintech-innovation-lab-new-york-now-accepting-applicants-for-2022-class.md",
-      "title": "FinTech Innovation Lab New York Now Accepting Applicants for 2022 Class",
-      "excerpt": "Program founded by Accenture and Partnership Fund for New York City seeks companies using innovative technologies in major areas such as cyber-tech, blockchain, analytics, future of work and sustainabilityNEW YORK--(BUSINESS WIRE)--Applications are now being accepted for the FinTech Innovation Lab New York,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=549207",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=549207",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://us.acrofan.com/img/noImg.jpg",
-          "width": 500,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

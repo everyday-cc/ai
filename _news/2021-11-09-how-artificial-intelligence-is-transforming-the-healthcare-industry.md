@@ -88,6 +88,20 @@ related:
         width: 720
         height: 412
         isCached: true
+  - title: "How test automation, machine learning, and AI will change test coverage forever"
+    excerpt: "Did you know the biggest challenge IT leaders face in achieving test automation is the lack of platform coverage? With test automation key to the future of test coverage, its as important as ever to learn what testing strategies promote reliability of apps,"
+    publishedDateTime: 2021-11-11T09:43:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1635314243_836.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 50
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1635314243_836_lg.jpg"
+        width: 315
+        height: 237
+        isCached: true
   - title: "Impact Of Artificial Intelligence In Banking Industry"
     excerpt: "Computer systems can now do jobs that would otherwise require human interaction, thanks to artificial intelligence. Machine Learning is a fundamental component of AI, and it assists in making decisions that robots cannot complete without the assistance of a human."
     publishedDateTime: 2021-11-08T11:47:00Z

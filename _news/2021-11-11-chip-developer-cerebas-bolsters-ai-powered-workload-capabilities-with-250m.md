@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/"
 type: article
 quality: 102
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
         width: 1200
         height: 676
+        isCached: true
+  - title: "AI wafer scale chip startup Cerebras raises $250m at $4bn valuation"
+    excerpt: "Cerebras Systems, the AI semiconductor startup selling the world's largest computer chip, has raised $250 million, valuing the company at $4 billion. The company's Series F round was led by Alpha Wave Ventures,"
+    publishedDateTime: 2021-11-11T10:39:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ai-wafer-scale-chip-startup-cerebras-raises-250m-at-4bn-valuation/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Cerebras_Chip.2e16d0ba.fill-1200x630.jpg"
+        width: 678
+        height: 357
         isCached: true
   - title: "Cerebras Systems raises $250M for the ‘fastest AI processor on Earth’"
     excerpt: "Cerebras Systems Inc., the developer of a wafer-sized artificial intelligence chip with 2.6 trillion transistors, has raised $250 million in funding to further develop its technology and expand industry adoption."

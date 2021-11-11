@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why is AI an obsession for business insiders?"
+    excerpt: "Adidas expects its growth for the full-year (FY) 2021 to come in at the lower end of its predicted range due to supply chain issues."
+    publishedDateTime: 2021-11-11T10:09:00Z
+    webUrl: "https://www.just-style.com/features/ai-obsession-business-insiders/"
+    type: article
+    provider:
+      name: Companies
+      domain: just-style.com
+    quality: 41
+    images:
+      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/11/ai-robots.jpg"
+        width: 1296
+        height: 737
+        isCached: true
   - title: "How Artificial Intelligence Will Transform Business"
     excerpt: "\"Artificial intelligence\" is a broad and general term ... \"AI is starting to make what was once considered impossible possible, like driverless cars,\" said Russell Glenister, CEO and founder ..."
     publishedDateTime: 2021-11-08T00:00:00Z

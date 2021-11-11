@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-gia
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://www.pinkvilla.com/files/styles/large/public/cbcgfb.jpg?itok=SKTxpe-H"
         width: 600
         height: 338
+        isCached: true
+  - title: "QCraft announces self-driving chip deal with Nvidia, setting course for mass production"
+    excerpt: "Nvidia’s Drive Orin chipsets will underpin the hardware suite that will be fitted in QCraft’s next-generation self-driving car fleet."
+    publishedDateTime: 2021-11-11T09:39:00Z
+    webUrl: "https://technode.com/2021/11/11/qcraft-announces-self-driving-chip-deal-with-nvidia-setting-course-for-mass-production/"
+    ampWebUrl: "https://technode.com/2021/11/11/qcraft-announces-self-driving-chip-deal-with-nvidia-setting-course-for-mass-production/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/11/11/qcraft-announces-self-driving-chip-deal-with-nvidia-setting-course-for-mass-production/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 53
+    images:
+      - url: "https://technode.com/wp-content/uploads/2021/11/轻舟智航自动驾驶测试车的副本.jpg"
+        width: 1280
+        height: 854
         isCached: true
   - title: "NVIDIA Announces Platform for Creating AI Avatars"
     excerpt: "NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company's technologies in speech AI, computer vision, natural language understanding,"
@@ -177,6 +193,6 @@ related:
       domain: netindia123.com
     quality: 19
 
-secured: "vkT03KeaZoRmKpQdwUR46uhiVNnLb6dfo0sYLJfD8/pq5Le8CEssTrwo7x3LEhCeKgLJsEdWOOGhJBUg1GHPZp5jg9NyDl25n9Xrdu8LXCMhoXXnZVF3k6t06WH5zlTr+30a2eJrHYh1+Q8xYvAfBznaZxQmP0s5CI8caLIVDOKaT9dCt4bA2CDKGzci609IQRV+xvcwobF1t2m0gl2wUdoA7iLNmEJMW32ISvVCeTaU5Is1AzAAsGBOAAfDSeNyYEXrQfwGcxSEsS5DyWKZCw1yMI/7L15f4HT117XFUw9qwiMHECXaQ3VJ5AkzoKFTw6CajQVJ67GNH6Wa2i6asYd/nszgEZra3dZ9/09wOoY=;+PFxNjGOEcXRkoo0F761cg=="
+secured: "8AXmKOT3oBVWHEqPl3lJnQZNuiotJ6SBYcU26KiaSjehobBeD8nqjj5N7aN34JrhE4oZB9LLpf66PS+sKK60SyvbaKmBYb6X1DlY20+HCB7+tuBUefxce5dL08f6Dpy9Qgq5UI9wY9JRn8UcnFQYNyzJ/Tuij80zYTJuQsJIeAXUUBLUxL1UD0qeClxbnYZumMtWVTCcI9GYJ5unp7W6N0KB5JsT92yJgaXSfFz2+yCfdmS4qBXClUgA3bstaC8Gjy5/AkHuZzNolvMQS+CfFxhjsB0uj43JNwhGQOdEh4Hg/sXe0q9li4v12z1tv3IRuJDmHn3WdQPkn3eqFCUG5QkGsaASoGA9zGTSbBMXfaHRe1pJ9Mqwze8c77tmR1z+m/zX5pCwXRTQ89ld9AfKieRZX58S2WSC/iiY8iGr4oWNn/Iu6sxwXsX/6zcpmNnnqaRIkE9A81C1VvfEVSXxAC/YCY2LomrkLlOT7vWNHMq/dkdH1OdIA4P5TUebnJ2PlzPErC9g4uX9pz17JRiVGg==;kyANLAWdxYgMmGeLBlkS3g=="
 ---
 

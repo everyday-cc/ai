@@ -39,6 +39,20 @@ related:
         width: 1296
         height: 737
         isCached: true
+  - title: "Why is AI an obsession for business insiders?"
+    excerpt: "Adidas expects its growth for the full-year (FY) 2021 to come in at the lower end of its predicted range due to supply chain issues."
+    publishedDateTime: 2021-11-11T10:09:00Z
+    webUrl: "https://www.just-style.com/features/ai-obsession-business-insiders/"
+    type: article
+    provider:
+      name: Companies
+      domain: just-style.com
+    quality: 41
+    images:
+      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/11/ai-robots.jpg"
+        width: 1296
+        height: 737
+        isCached: true
   - title: "The 7 new business values in the era of Artificial Intelligence"
     excerpt: "Although Artificial Intelligence (AI) is a technology that has existed for more than sixty years, today, thanks to greater computing power, the applications of this field of information technology have had a direct impact on the spine of companies."
     publishedDateTime: 2021-11-10T21:42:00Z

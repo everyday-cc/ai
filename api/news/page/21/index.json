@@ -2,6 +2,50 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education.md",
+      "title": "How Should We Approach the Ethical Considerations of AI in K-12 Education?",
+      "excerpt": "We live in a world fundamentally transformed by our own creations. Once imagined only in science fiction, artificial intelligence now powers much of",
+      "sourceUrl": null,
+      "webUrl": "https://www.edsurge.com/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
+      "originalUrl": "https://www.edsurge.com/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/14446/How_Should_We_Approach_the_Ethical_Considerations_of_AI_in_K-1634587066.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop",
+          "width": 640,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
+      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
+      "publishedDateTime": "2021-10-25T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdSurge",
+        "domain": "edsurge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it.md",
       "title": "The Use Of Artificial Intelligence In Business Codifies Gendered Ageism. How Do We Fix It?",
       "excerpt": "As more organizations adopt AI and use data to make decisions like hiring, what are the consequences of not involving a diverse set of individuals, especially women, in the design process?",
@@ -1122,58 +1166,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-whats-a-self-driving-car-heres-an-explanation.md",
-      "title": "What's a self-driving car? Here's an explanation",
-      "excerpt": "Understand what is, and isn't a self-driving or autonomous car with this explainer. There are no self-driving cars on sale today. Point blank. That's the cold-hard truth. Nothing fits the bill based on the SAE Scale of Autonomy's standard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/",
-      "publishedDateTime": "2021-10-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

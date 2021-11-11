@@ -28,6 +28,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "The sweet sound of synthetic speech"
+    excerpt: "After Alex experienced a serious deterioration in his sight, he came to rely on artificial voices to help him with everyday tasks. Find out how synthetic speech came to be developed."
+    publishedDateTime: 2021-11-11T09:59:00Z
+    webUrl: "https://wellcomecollection.org/articles/YXKOtBEAACIARP_H"
+    type: article
+    provider:
+      name: Wellcome Collection
+      domain: wellcomecollection.org
+    quality: 24
+    images:
+      - url: "https://images.prismic.io/wellcomecollection/347a041a-c1dc-4d78-b18e-4041b9776860_Chap+2+IMG_0441-Edit.jpg?auto=compress%2Cformat&rect=&w=800&h="
+        width: 800
+        height: 450
+        isCached: true
+
 secured: "2nDA0EFEe3+dse22idKSLFoS+gS0+3ik/Px62XHEf3VZJP+pxUvauxenSxfhhYvjPq7oknc63Bt4LK9bRUlGBeavmIu6k6kD4t0rnWgVcRnnkAJPbDMkk02g+tKuiyv9PNC4LxDXKEOkjif7kasIDJ1UF7SuGs2FbNNorxM7o5czChPEJq0wI96NSRknSEj0CapQkZ8g3ce4GpMt/hCuzMD3rsr6LyjN7qMyv8jPtS5pNsS4TqfXDE5h3oqTH5eRjY45J9U3ZP/YOCUHOeep185ldY4vk0e9JisvsJ12mgc1RTK9demEPtrBwtDnn1StXgjULydeKun24B6i6+nrkP2uiVtcjaIQm7tz1zsrwKyi9yEcACPw4GnvtCXN65hhkCSEQoEW0xIirubvxoEvO5eTdn7dtRI33FPqMraKTnshPURreCUfedziXz6pfGDkTk3BC+hPeKapV1f2iChQGOr8p4a/4Md5ihG/eIUJzd8l77GwLkOkB37wE7KNloiqL1IyyfnVlEpY7ho3zWBN7g==;Pl8iu96+WShhAWht/wkvtQ=="
 ---
 

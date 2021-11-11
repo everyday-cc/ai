@@ -39,20 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Global Payments to Participate in Citi's 2021 FinTech Conference"
-    excerpt: "Global Payments Inc. , a leading worldwide provider of payment technology and software solutions, announced today that Cameron Bready, President and Chief Operating Officer, will present virtually at Citi's 2021 FinTech Conference at 12:45 p."
-    publishedDateTime: 2021-11-10T16:01:00Z
-    webUrl: "https://www.lelezard.com/en/news-20096033.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "LendingClub to Participate in a Fireside Chat at Citi's 2021 FinTech Conference on November 17"
     excerpt: "LendingClub Corporation (NYSE: LC ), the parent company of LendingClub Bank, America's leading digital marketplace bank, announced that its Chief Executive Officer Scott Sanborn and its Chief Financial Officer Tom Casey will participate in Citi's FinTech Conference on November 17 at 11:15 a."
     publishedDateTime: 2021-11-10T21:40:00Z

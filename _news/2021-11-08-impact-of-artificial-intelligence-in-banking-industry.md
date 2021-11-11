@@ -105,6 +105,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "How test automation, machine learning, and AI will change test coverage forever"
+    excerpt: "Did you know the biggest challenge IT leaders face in achieving test automation is the lack of platform coverage? With test automation key to the future of test coverage, its as important as ever to learn what testing strategies promote reliability of apps,"
+    publishedDateTime: 2021-11-11T09:43:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1635314243_836.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 50
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1635314243_836_lg.jpg"
+        width: 315
+        height: 237
+        isCached: true
   - title: "How is AI impacting the automotive industry?"
     excerpt: "AI or artificial intelligence – as an abstract concept – conjures up multiple images, in part because it has been...Read"
     publishedDateTime: 2021-11-08T16:59:00Z

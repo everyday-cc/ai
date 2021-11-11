@@ -73,6 +73,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "AI shop assistants: get ready for a world where you can’t tell humans and chatbots apart"
+    excerpt: "I regularly fly with KLM from Minneapolis to New Delhi, and always stop over in Amsterdam. I am frequently in Minneapolis for research and this is my route to go home to take a break from work. I have done the journey so many times that I know almost all the shops at Schiphol inside"
+    publishedDateTime: 2021-11-11T10:38:00Z
+    webUrl: "https://capx.co/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart/"
+    type: article
+    provider:
+      name: CapX
+      domain: capx.co
+    quality: 30
+    images:
+      - url: "https://capx.co/wp-content/uploads/2021/11/shop_bot-scaled.jpg"
+        width: 2560
+        height: 1371
+        isCached: true
 
 secured: "L0PCEbW7HONW3Zosyg7NTOxt0Vl1RL4r2TaVs8uhx2eWvGOh9oGLv9DEoO2y5XowQQZYlt2sUV1LM/9SkRIN1gL4p/gwPt/Xg0QwMI1m+o/AUHqp8FuIBFyGE3mkW49Yihsb3+hldFmH6M0lUgfvsXC32wBUuAXJVUIdVyygt2ApyO0FL9OJ6LrvYADfJ+lXWC29uPuwW4tXxn9LBM9PZsydN3E41ihtbqj0HYoRxyNnBZx826kcjj2wvZGrVmiskLwq970uTiR6MNGkLXFoJAAXsNBIEUn94oPzWRhspmDdCgfz9dVL6cJ8WvWrwSQkR9XnkaOhI98fITvQOeBEItnuyo3Xfus+s6iCQTG8CNh6CI3DV+6htDp0tUdsoeR+LMGJfg6EDnvo3GLCMQNOsSudy+wjSE4PgMmif4f//Al9j+/pOUypXf/BUAYLKIf7a4PUksg9R2mv0LrWvgLqGQrX2AwPNpAopOTEag2KGMECf6ZmltCWU1Ju6P/mIh2BklSdp1/WuCIv1ibq+tBjZw==;o/121nQDDEfkQ6OL2ATNZQ=="
 ---

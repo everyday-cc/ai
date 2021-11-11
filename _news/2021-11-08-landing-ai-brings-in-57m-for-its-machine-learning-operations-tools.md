@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Landing-AI-raises-Series-A-funding.jpg"
         width: 2048
         height: 1152
+        isCached: true
+  - title: "Discovering exoplanets using artificial intelligence"
+    excerpt: "A team of astronomers used artificial intelligence (AI) applied to image recognition. They taught a machine to predict the effect of interactions between planets, making it possible to discover exoplanets that were impossible to detect until now."
+    publishedDateTime: 2021-11-11T08:45:00Z
+    webUrl: "https://www.nanowerk.com/news2/space/newsid=59109.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 37
+    images:
+      - url: "https://www.nanowerk.com/news2/space/id59109_1.png"
+        width: 450
+        height: 338
         isCached: true
 
 secured: "Hv6JxLua3a30wLceSkjapzAx5ELYWmlOqBXJPi+XgIMIGVO3vKnPRV9okY6/nr8XSjIqcT4lgwDrUcZp7JHLWD984fLDzub2x2P1+G9TN054rKW0czt3TgeCbc6aU6+wovWqlqU6ZObQw4tXEOSgDcYB/fL7F0oFtvUS4WBjcuoAZL4sMY6eG38f2dr9ZyYjF0G+SDU/kHmKHUpBQWyNq7vLpBe4qFjIjLQDoBgiTLXjfR01JTIwwN65NxPQ4YExgaKUqZ26bpPbu/5nug593mL1b0R/sFcFNKTt2bL+W5YuIHYl63x7dE+OZ2MSgYTo18d6OM+h5rBNd0/Cdygx1pEsMdVhutAlDNV+2r2fLQKH+ByprA0gX7TsOW8xNumeTdvIIaXzDAvmVGnD8Ovs5w2lHyC0QRItFR5MS/W2r1jp8/i2NRCjzR3dH5WE9UJ8K9GIMm0pCL8nlOAeaTslfUura7394O5VUzPsGdwXY3toBBsYBq+znmmLiQuXTew8y8jvkbocWZjnR/XGjfQd4A==;j1L9iiMLXPG3ksh6Wfoibw=="
