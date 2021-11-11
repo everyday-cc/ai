@@ -57,20 +57,6 @@ related:
         width: 320
         height: 214
         isCached: true
-  - title: "Facebook to shut down facial recognition system over privacy concerns"
-    excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
-    publishedDateTime: 2021-11-06T11:44:00Z
-    webUrl: "https://menafn.com/1103111021/Facebook-to-shut-down-facial-recognition-system-over-privacy-concerns"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?980041"
-        width: 337
-        height: 250
-        isCached: true
   - title: "Facial Recognition Program Being Shut Down By Facebook"
     excerpt: "Facebook is going to shut down its facial recognition program. The company which now goes by the name Meta made the announcement in a blog post. Its VP of Artificial Intelligence wrote those who opted in won’t be recognized in photos and videos anymore."
     publishedDateTime: 2021-11-07T08:56:00Z

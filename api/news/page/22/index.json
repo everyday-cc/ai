@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-10-24-artificial-intelligence-ai-in-marketing.md",
+      "title": "Artificial Intelligence (AI) in Marketing",
+      "excerpt": "How is artificial intelligence (AI) being used by marketing pros to reach and connect with customers? See here:",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-marketing/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/04/data-1024x683.jpeg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-23T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-10-24-advancing-ai-emotion-sensors-in-the-transportation-and-logistics-industry-series-blog-3.md",
       "title": "Advancing AI Emotion Sensors In The Transportation And Logistics Industry Series: Blog #3",
       "excerpt": "In the first blog in the AI transportation and logistics series, I featured the AI transformation innovations at Purolator, the second blog focused on the acceleration of smarter AI telematics infrastructure in fleet management.",
@@ -1116,48 +1159,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-palantirs-peter-thiel-thinks-people-should-be-concerned-about-surveillance-ai.md",
-      "title": "Palantir's Peter Thiel thinks people should be concerned about surveillance AI",
-      "excerpt": "Tech billionaire Peter Thiel said this week that people should be more worried about \"surveillance AI\" than artificial general intelligences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/palantirs-peter-thiel-thinks-people-should-be-concerned-about-surveillance-ai/ar-AAPPGG9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106723917-1601485714383-gettyimages-1183198447-350472044_1-12.jpeg?v=1618328636",
-          "width": 4643,
-          "height": 3096,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
-      "publishedDateTime": "2021-10-22T05:29:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
-        "domain": "com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

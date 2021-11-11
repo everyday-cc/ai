@@ -27,17 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "PopID and SoftBank's Japan Computer Vision Partner to Launch PopPay In Japan"
-    excerpt: "PopID, Japan Computer Vision (\"JCV\", a subsidiary of SoftBank Corp), and Wendy's First Kitchen (\"WFK\") announced today the launch of PopPay - PopID's face-recognition-based ordering and payment ..."
-    publishedDateTime: 2021-11-09T04:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23972605"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23972605"
+  - title: "PopID and SoftBank’s Japan Computer Vision Partner to Launch PopPay In Japan"
+    excerpt: "PopID, Japan Computer Vision (“JCV”, a subsidiary of SoftBank Corp), and Wendy’s First Kitchen (“WFK”) announced today the launch of PopPay - PopID’s face-recognition-based ordering and payment system - in Tokyo,"
+    publishedDateTime: 2021-11-09T04:01:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-japan-tokyo-pasadena-softbank-corp-8f556b4ab1b547648a8410c4ff97279a"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "RODEQi0UjkztxpCHeXX/J7H9Op5BxAGvqtBldbqLoYOraVF5r2OXY0ZQ/EvLTH2w68Okfrg39hfq7prGUGAFwQ1D5gFMrMEWhogOJXIeKFhEZf+u/1QJjtbMqFKIl6YmmmL51RxdEmitAEQfKqXRjBI2ijKokUc3ncRZJ7DRXA4oLuNoW2l1JX1zPibN6ur21B6P6Zw+IzZQv7HWGEA41HOZ/uzRxchGVn3igTUsZ6BXXZjWCO2bVSv1zO+W9Jx+XXsmSkdg6V7MRGHIf5ECj6ZFU/BUTXIep1ksP4DWO/70cg2BeClFs1PEFZgxkAade7woczFRVP5bjKYhk8fFBbASdnKwMtQdPbfOJ8rEzTQ=;qPFhsS4T6u3EEc7l5UYIhw=="
 ---

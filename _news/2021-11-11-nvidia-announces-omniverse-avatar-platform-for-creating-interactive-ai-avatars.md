@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 648
         isCached: true
+  - title: "Nvidia brings highly realistic, walking, talking AI avatars to its Omniverse design tool"
+    excerpt: "It’s launching with the enticing new Nvidia Omniverse Avatar capability, which is said to combine Nvidia’s speech AI, computer vision, natural language understanding, recommendation engine and ..."
+    publishedDateTime: 2021-11-09T14:57:00Z
+    webUrl: "https://siliconangle.com/2021/11/09/nvidia-brings-highly-realistic-walking-talking-ai-avatars-omniverse-design-tool/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Omniverse-Avatar-Image.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "VoRIj9kQC5IMzSKYtf5F5LLo4H89pXBDF5GWkunWvNCuPqoFkjlsYV1HKq6KPL9vhotL5G2YS1a0BgRW+03zm4FDgcBcfsrBXKJt7QzbXxnuhargd9jqI61byZp/02tyYaT+bnQQ6+M3J0Blig6wBtK2VW/2Uz0N9ClnjoW4o/4uZik9hScAxI2X6s/DG/Q61KSqQX7gCLhWOA9g5ma0NowzEUJM6MY9dDxZ8kUJyGUPsYsoXsEq+avCviW6LxRDH4LWny5X93dm4e10CNkqKcq+5Abnp0axRTfuT0Op77JmkkjLs4wiQfEqRYeDleNAi0VnADkgkl8kguDAUBpxx4LnWfDJPi6KMBJJi45P4W4ivnlKfhux6v7E3IBLo9e5Mc7HhjnAr8lLpNVDmYoY1SOrOBiUfleUpLftHgkcXDRIdbuLfH09adni2QQ3LdRValazPdK8+qAPadxP+FwpQrOIYeeMPKNSfwuxVVIJ4M/+Z5un72R6hbNMslVK1/yrm7W5NB9qH9puw78h+xxTvA==;OqjbDowvwiGjivY7Jar5MA=="
 ---

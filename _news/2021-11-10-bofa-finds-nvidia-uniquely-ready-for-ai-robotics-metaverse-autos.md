@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-
 webUrl: "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos-1030959393"
 type: article
 quality: 99
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/4a37395f96eb1190ee15b364e0c4799d6bd4c299/2021/11/09/cd687ced-56c7-4ca6-aff9-a6f1d128ed60/morpheus-image.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 648
+        isCached: true
+  - title: "Nvidia brings highly realistic, walking, talking AI avatars to its Omniverse design tool"
+    excerpt: "It’s launching with the enticing new Nvidia Omniverse Avatar capability, which is said to combine Nvidia’s speech AI, computer vision, natural language understanding, recommendation engine and ..."
+    publishedDateTime: 2021-11-09T14:57:00Z
+    webUrl: "https://siliconangle.com/2021/11/09/nvidia-brings-highly-realistic-walking-talking-ai-avatars-omniverse-design-tool/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Omniverse-Avatar-Image.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Nvidia Announces Omniverse Avatar Platform for Creating Interactive AI Avatars"
     excerpt: "At GPU Technology Conference 2021, among other new products, Nvidia announced the Omniverse Avatar technology platform for creating interactive AI avatars. The platform brings together the company’s developments in the field of speech AI,"

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Nvidia unveils AI Omniverse Avatars for the virtual world"
-excerpt: "Nvidia today unveiled Omniverse Avatar, a platform for generating immersive AI-driven avatars. The platform enables users to leverage speech AI, computer vision, natural language understanding, and simulation to create avatars that recognize speech and communicate with human users within real-world simulation and collaboration platforms like Nvidia Omniverse,"
-publishedDateTime: 2021-11-09T09:30:00Z
-originalUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/"
-webUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/"
-ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
+title: "Nvidia brings highly realistic, walking, talking AI avatars to its Omniverse design tool"
+excerpt: "It’s launching with the enticing new Nvidia Omniverse Avatar capability, which is said to combine Nvidia’s speech AI, computer vision, natural language understanding, recommendation engine and ..."
+publishedDateTime: 2021-11-09T14:57:00Z
+originalUrl: "https://siliconangle.com/2021/11/09/nvidia-brings-highly-realistic-walking-talking-ai-avatars-omniverse-design-tool/"
+webUrl: "https://siliconangle.com/2021/11/09/nvidia-brings-highly-realistic-walking-talking-ai-avatars-omniverse-design-tool/"
 type: article
-quality: 89
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/11/omni.jpg?w=1200&strip=all"
-    width: 1200
-    height: 675
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Omniverse-Avatar-Image.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -44,6 +38,22 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_2498.png"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Nvidia unveils AI Omniverse Avatars for the virtual world"
+    excerpt: "Nvidia today unveiled Omniverse Avatar, a platform for generating immersive AI-driven avatars. The platform enables users to leverage speech AI, computer vision, natural language understanding, and simulation to create avatars that recognize speech and communicate with human users within real-world simulation and collaboration platforms like Nvidia Omniverse,"
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/"
+    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/omni.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
   - title: "NVIDIA Blitzes Markets With Powerful New Tech For AI, The Metaverse, Autonomous Vehicles And More"
     excerpt: "The emerging enterprise metaverse will allow us a better visualization of the future, and what could be mankind’s next greatest achievement."
@@ -91,20 +101,6 @@ related:
         width: 1200
         height: 648
         isCached: true
-  - title: "Nvidia brings highly realistic, walking, talking AI avatars to its Omniverse design tool"
-    excerpt: "It’s launching with the enticing new Nvidia Omniverse Avatar capability, which is said to combine Nvidia’s speech AI, computer vision, natural language understanding, recommendation engine and ..."
-    publishedDateTime: 2021-11-09T14:57:00Z
-    webUrl: "https://siliconangle.com/2021/11/09/nvidia-brings-highly-realistic-walking-talking-ai-avatars-omniverse-design-tool/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Omniverse-Avatar-Image.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Nvidia Announces Omniverse Avatar Platform for Creating Interactive AI Avatars"
     excerpt: "At GPU Technology Conference 2021, among other new products, Nvidia announced the Omniverse Avatar technology platform for creating interactive AI avatars. The platform brings together the company’s developments in the field of speech AI,"
     publishedDateTime: 2021-11-10T20:03:00Z
@@ -115,6 +111,6 @@ related:
       domain: thegoaspotlight.com
     quality: 15
 
-secured: "RyxeGSX4L7CcoVuMCKDATi3Vg5WGKN5w4RFVDTQeJeoRLe+oDcVB9LBxx/PazsS9wuwsrgigyCf7bl64UABmHsONypPf1DscjqY2MaQ6xvJGKB9TFRJIuI++O3Tmvq36lOu/cPKSQF5JwySQayaKxzJUusL4jOih8DamGsvNg1mvDvWNPCSGIE4BIuOa+UscOVy7ol8rm3yeu2rGFs1yUSq+zCJbXqflIlvqw7n+8OePBA5iI6h8oxmPm59kMOItWTnXpygn4JcvlXGpcsyEzjMZN//6dzOMNkmSuUFeFD8lcyvshJeUfkUg5RHsdvQ44ASmVqdO50z0anScFUzMVxe0H5qrVtSI73y2wkmuCWalQMKXRLBJpFb/SZRh23b180pa9hL9dl+KSkBeHD+CEE5TmoZUtVM+rhFhlc7fFwpTOcinkslvDliXWoMUdzp9l28LZdMtSARVqBotAHZlP+IStiBqYLt4Gsc+QqHW8rvYIq2mL42xi7Ebx4JiZ7vsRSBC5KUtuZtsVoUudFOqMQ==;FFktRDx4fpo8WORbuiXhQA=="
+secured: "uAoIq/vFqG5OsNS5veiGszN3GlcT+UtDxlnY+PLhOEeriuhtDh1o3PhSpxdC+nmzZM5+7dDfWjTWqS0qoiH9OU4/bNGgzErLA3etVoc/cDf/fdE2HDZDGSRxV8A2ufNhQEFX1aMeSajs720NPBAi7IJ2xe6MjwG0GeoihVCAdqJ3m8XZxL0eA9sFQnAi3kXX5/CgnVEwv2HtqQN3PhuDX3tOaOcTrPfo09epzSYl+oWORHMax5CgVAh4YFQQWOqkcZwP7mJgaULnBKEBC1gh+S1ImufnsmxGqup6qtYJDywDId8JdGHoejg9GgwKz9zmpxB0tsfE1aRyKN/CuZMW0ag18nqzF4Mkg6Fc/6RhCmc=;0dKuiT3cuEqL6s0LcJPQ6Q=="
 ---
 
