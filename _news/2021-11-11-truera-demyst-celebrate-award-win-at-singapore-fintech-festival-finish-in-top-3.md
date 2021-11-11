@@ -41,6 +41,20 @@ related:
         width: 376
         height: 250
         isCached: true
+  - title: "Atlanta-Based LendingPoint Named Best Financial Planning Software by Benzinga in 2021 Global Fintech Awards"
+    excerpt: "LendingPoint, an AI-driven CreditTech platform, today announced that it won Best Financial Planning Software from Benzinga in the seventh annual Global Fintech Awards. The award recognizes LendingPoint's ability to adapt and innovate to serve"
+    publishedDateTime: 2021-11-11T14:35:00Z
+    webUrl: "https://www.lelezard.com/en/news-20098595.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 6
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "uHGCFJ9V3wWh9Pco6GMsAWfB62kiDa+c3pMCSt9OCHY7wsWxtuSEnNOs85ZYgyYx3+ac2v+wAgh/MMHEzVE+wEE3KGzCmy2jMpbn3nFDSLXE7D3cs4FQdoV7uB2mjez73MixrHmoq644Zd0AABO5mIyW+lRIv8TeS0sbsc7Osjx0CxyQMgnMXVlfyH4FvRK9ARTiUaz5jTk8wvmuTTOKhtAy8FkSelbDr5x2+tf8JH9mOT/LY3bd/Nw+oMZKj8VzDZ5r4BOfLTdsqtFKiCC9d7KD9WNmAu5lZJQTwd/vOMfCu13/mov4y7U9JGUibDu4eBgZ7skbjOykC9nHasUVHVuI9QU1vvjnCYsNcUBymfNWjFofu8fWSC9+JifgdMd5Oqa5S2VBsqgfNAHOZTXBsque2mmLZL+IvkNVi0zMVJzbYOklBwNWjoijrReGMNTzWHLFQHhjycejLx/u14drs3w6RKt3iaBFxSgEKju62U+NZ5D2dCfCxfel3l8DpFCwcCw3Gf20RTO4qoRxVblImQ==;6Jq6Qks9T9r4tygqeSHk6A=="
 ---

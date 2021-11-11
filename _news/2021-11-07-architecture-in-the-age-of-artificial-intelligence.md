@@ -91,6 +91,20 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 34
+  - title: "The Future is Now - Artificial Intelligence in Diabetes Management is Transforming Diabetes Care"
+    excerpt: "\"Diabetes Management Care Using Artificial Intelligence to Improve Patient Outcomes\" Download the most up-to-date research study and application @  The worldwide artificial intelligence in diabetes management industry is expected to grow significantly between 2017 and 2024."
+    publishedDateTime: 2021-11-10T22:01:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-now-artificial-intelligence-diabetes-management-pooja-m"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGSFmHNp2wD8w/article-cover_image-shrink_720_1280/0/1636581666832?e=1642032000&v=beta&t=dzrKyxUa3n4gGzDZFoL7cBVaF78iIxZVIhnDgJaayZk"
+        width: 1079
+        height: 720
+        isCached: true
 
 secured: "9S/6VEcSeysc1S2x3Aqw/3o8A6qVC9RmuNjOvqpNnpy0X3+13nUpQVtHtPYHjVhdMMBMPANSPm5LwDuitJQ/gY1Y40eJYpTU6pYVlYx/f07x4rW74J5Or1rg+y7w1OWJ00/s3ejAzCssnIOE54QvtvnA6VqjTf9Zc11I/AEfcOvdu8hxF0tcM5XyCQUmlOu6b963ZONztXRI3fhflxIDsUKKKe4Ocjw9ferwDKYKHpmPls4FiSC57lUNBnqTK9u+3ZQDmh8tzYGjaceM63ZEZtI6p0FvvrAYAD9mAhBpZETjwuMhycgBs0CjQjrWgUNlZSXniUSFtdBgPr+JokfGQtTgyT47dDK0rQv8H9VylhUTlzXdIYSAw2PZikdW1EVHndY/G40sAdQrvrINYmaM4zvYqs2LAEZWlyUAhvnh8MDimClKHNWefDqzverTbNyStYFnE6QNteGAkn6qNAKeoipYNFy/gf/ciy/NqiljeshBBnYop+OhFHNIgTQBRE+Vlz01k0FYNg0OohpD6OYY6A==;WQTn5DokGckQGwQdoWKW2A=="
 ---

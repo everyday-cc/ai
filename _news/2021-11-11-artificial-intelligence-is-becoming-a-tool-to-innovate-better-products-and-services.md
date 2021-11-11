@@ -34,7 +34,7 @@ related:
     provider:
       name: GlobeSt.com
       domain: globest.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.globest.com/contrib/content/uploads/sites/304/2021/11/Machine-Learning-AI-Hornibrook-OpTech-resize.jpg"
         width: 613

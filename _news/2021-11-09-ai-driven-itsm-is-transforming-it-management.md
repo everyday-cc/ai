@@ -40,6 +40,20 @@ related:
         width: 627
         height: 353
         isCached: true
+  - title: "Turing.com Experts Explain: How Artificial Intelligence is Transforming the Recruitment Space"
+    excerpt: "Technology has transformed the way we think and work and has become an inseparable part of our life. Industries all around the world are embracing AI/ML-based technology to improve their present systems and processes,"
+    publishedDateTime: 2021-11-10T08:12:00Z
+    webUrl: "https://www.linkedin.com/pulse/turingcom-experts-explain-how-artificial-intelligence-choudhury"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 43
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEkEJiOOECe9A/article-cover_image-shrink_600_2000/0/1636531688295?e=1642032000&v=beta&t=QjQ4HbRSxWMw2vi0_4W2nhlbYSyhbA6oeEyCkMM-KBs"
+        width: 870
+        height: 580
+        isCached: true
 
 secured: "JmOnga/l5tNLSirQY+LcHQwtPclDQw0IYbWQ0QBHMznWp/U2VMNJFsPPZSwddah9IW9Mx9i2yQkYZ4YTo2WiKtJpRzKUO1kejurvymuHvA4p46mSt5Vb5PZ/f+KKOnEKoDqJnSdxrhU9tauNnfx35oIidwUzUuuf2iR10oxmw774KPiTxu5wcK9Xss7GJDDpl626sLynePeXuOHfCkHravqdtZWTtS700suxxrmcZwRUlBccQhSH5nA4MV9Oo/BPfXOiNQzXjb7smcjcqMfUPqQZkUqN4kVf2+t43jv6+kXabgHYLTGMOG1if+xRQm3qZg5uTudaq19JrkX+S5Sec4SgmcUqLmS/0n6NdtExUtWvvNBiiOFDJM+g1fWA54mXNQxxifjUI0SVm3dd6oN6MO7QIpbo+JfqnHEdaDwpAZ82DeKy2d95sw8oHqnRxXsMjNI3fWQW0YSAd1gnEYJOa00OcvVztqxkSzf0+zfjKg7gytp7HGHyjtlikCkFXe3RaazCvFFKtif8Y1lgAJ9/6A==;xcLCL+4aKUdmnFK84+CnTA=="
 ---

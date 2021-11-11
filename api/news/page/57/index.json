@@ -2,6 +2,248 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-09-29-teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers.md",
+      "title": "Tesla's 'full self-driving' feature could be days away for approved drivers",
+      "excerpt": "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test",
+      "sourceUrl": null,
+      "webUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.html",
+      "originalUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/46/e4637dd0-9aeb-5452-b24f-a8a50379cbcd/61539075d1f2e.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html",
+      "cdnAmpWebUrl": "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html",
+      "publishedDateTime": "2021-09-28T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arizona Daily Star",
+        "domain": "tucson.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-nowcasting-the-next-hour-of-rain.md",
+      "title": "Nowcasting the Next Hour of Rain",
+      "excerpt": "Our latest research and state-of-the-art model advances the science of Precipitation Nowcasting.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/nowcasting",
+      "originalUrl": "https://deepmind.com/blog/article/nowcasting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/tPtvqnIoqRR2CtHpVYwurl5HNRtQ8lXfcNVxRmuOSSihah1Ocz2SwC3elaT49gSy6u0ozVr2VT_RgxPRCUGYFdbrRDFgQkVGIqx7EX-ZvofXV68acg",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group.md",
+      "title": "Programming artificial intelligence for object recognition made easy – by the BMW Group",
+      "excerpt": "Munich. The BMW Group is releasing another software package that makes light work of creating artificial intelligence (AI) applications for object recognition. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.press.bmwgroup.com/global/article/detail/T0317790EN/programming-artificial-intelligence-for-object-recognition-made-easy-–-by-the-bmw-group",
+      "originalUrl": "https://www.press.bmwgroup.com/global/article/detail/T0317790EN/programming-artificial-intelligence-for-object-recognition-made-easy-–-by-the-bmw-group",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediapool.bmwgroup.com/cache/P9/202009/P90401410/P90401410-an-associate-labels-photos-from-door-sill-strips-of-the-bmw-3-series-creating-an-ai-object-recogniti-2250px.jpg",
+          "width": 2250,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "www.press.bmwgroup.com",
+        "domain": "bmwgroup.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-amazon-echo-show-astro-event-live-blog-follow-our-coverage-now.md",
+      "title": "Amazon Echo Show, Astro event live blog: Follow our coverage now",
+      "excerpt": "The e-commerce giant is holding an invite-only press event now. Find out what's coming to your cart. And Astro, the robot Alexa.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/home/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/",
+      "originalUrl": "https://www.cnet.com/home/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/nrQga32ASqNPqhWuy9Zbqt9HimI=/647x389:7377x3994/1200x630/2021/09/28/4dcaa407-d125-4473-a62d-b8ba24b4a0a6/hey-disney-echo-show-5-on-white.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/",
+      "publishedDateTime": "2021-09-28T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-elon-musk-says-tesla-shouldnt-have-an-nda-for-its-full-self-driving-beta.md",
+      "title": "Elon Musk says Tesla shouldn’t have an NDA for its Full Self-Driving Beta",
+      "excerpt": "Elon Musk says Tesla shouldn’t have a non-disclosure agreement (NDA) for its Full Self-Driving (FSD) Beta testers. Yesterday, we reported on Tesla’s NDA for its Full Self-Driving Beta program. In the document,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/",
+      "originalUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 298,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-Beta-v9-driving-visuzalization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/",
+      "publishedDateTime": "2021-09-28T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-amazons-astro-is-a-robot-without-a-cause.md",
       "title": "Amazon’s Astro Is a Robot Without a Cause",
       "excerpt": "Actually, you get Astro, Amazon’s long-rumored home robot. The company has been working on this for nearly four years, and it has plans for Astro. It’s just not quite sure exactly what those are yet,",
@@ -947,249 +1189,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-adobe-adds-ai-powered-masking-tools-to-lightroom.md",
-      "title": "Adobe adds AI-powered masking tools to Lightroom",
-      "excerpt": "Adobe has revealed some new masking upgrades that are coming to Lightroom, Lightroom Classic and Adobe Camera Raw (or ACR, Photoshop's raw photo processing tool). The company calls it the \"biggest change to providing control over selectively enhancing photos\" since it released Lightroom 2 in 2008.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/adobe-camera-raw-lightroom-classic-mask-features-ai-160056644.html",
-      "originalUrl": "https://www.engadget.com/adobe-camera-raw-lightroom-classic-mask-features-ai-160056644.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/0SAt8C3pZMiN3YYNcl6KTg--~B/Zmk9ZmlsbDtoPTQ1MDt3PTY3NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2021-09/6bcedf10-2068-11ec-afd7-f6730c12cb32.cf.jpg",
-          "width": 675,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to-give-a-healthy-push-to-market-growth.md",
-      "title": "United States Natural Language Processing Markets to 2026: Rapid Innovations in the Healthcare Industry to Give a Healthy Push to Market Growth",
-      "excerpt": "Natural language processing service providers, vendors and other stakeholders Government bodies such as regulating authorities and policy makers Organizations, forums and alliances related to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to/article_0bb320a9-d5fc-5eff-9baf-7e84e9c7fd4f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to/article_0bb320a9-d5fc-5eff-9baf-7e84e9c7fd4f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-migrate-multi-worker-cpugpu-training.md",
-      "title": "Migrate multi-worker CPU/GPU training",
-      "excerpt": "Distributed training with TensorFlow Parameter server training with Keras Model.fit/a custom training loop MultiWorkerMirroredStrategy with Keras Model.fit MultiWorkerMirroredStrategy with a custom training loop. def _input_fn(): return tf1.data.Dataset ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/migrate/multi_worker_cpu_gpu_training?hl=sv",
-      "originalUrl": "https://www.tensorflow.org/guide/migrate/multi_worker_cpu_gpu_training?hl=sv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sv",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-amid-rapid-adoption-paravision-unveils-new-computer-vision-capabilities-making-face.md",
-      "title": "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ...",
-      "excerpt": "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-microsoft-launches-data-governance-service-azure-purview-in-general-availability.md",
-      "title": "Microsoft launches data governance service Azure Purview in general availability",
-      "excerpt": "Microsoft announced the launch of Azure Purview, a unified data governance solution for on-premises, cloud, and app-based systems. Today marks the broadened availab",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/",
-      "originalUrl": "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/",
-      "publishedDateTime": "2021-09-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

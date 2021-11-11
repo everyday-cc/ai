@@ -8,9 +8,9 @@ webUrl: "https://www.zdnet.com/article/ai-chip-startups-cerebras-nabs-250-millio
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
 type: article
-quality: 96
-heat: -1
-published: false
+quality: 196
+heat: 266
+published: true
 
 provider:
   name: ZDNet
@@ -75,6 +75,20 @@ related:
         width: 678
         height: 357
         isCached: true
+  - title: "Artificial Intelligence Chip Startup Nabs $4 Billion Valuation"
+    excerpt: "Cerebras Systems Inc., an upstart chipmaker trying to break into the growing market for artificial intelligence processors, raised $250 million in an investment round that valued the company at more than $4 billion."
+    publishedDateTime: 2021-11-10T19:42:00Z
+    webUrl: "https://www.bloombergquint.com/business/artificial-intelligence-chip-startup-nabs-4-billion-valuation"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 54
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cerebras Systems raises $250M for the ‘fastest AI processor on Earth’"
     excerpt: "Cerebras Systems Inc., the developer of a wafer-sized artificial intelligence chip with 2.6 trillion transistors, has raised $250 million in funding to further develop its technology and expand industry adoption."
     publishedDateTime: 2021-11-10T20:37:00Z
@@ -89,7 +103,35 @@ related:
         width: 718
         height: 404
         isCached: true
+  - title: "Nexus backed H2O.ai raises $100 million in Series E funding at $1.7 billion valuation"
+    excerpt: "Silicon Valley-based artificial intelligence startup H2O.ai Inc, which is backed by Indian venture capital firm Nexus Venture"
+    publishedDateTime: 2021-11-09T08:53:00Z
+    webUrl: "https://www.vccircle.com/nexus-backed-h2o-ai-raises-100-million-in-series-e-funding-at-1-7-billion-valuation"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 30
+    images:
+      - url: "https://assets.vccircle.com/uploads/2021/09/fundingrfxl.jpeg"
+        width: 810
+        height: 506
+        isCached: true
+  - title: "Options AI Closes $4.1 Million Seed Funding Round to Bring Smarter Options to Retail Investors"
+    excerpt: "Options AI, a unique brokerage platform putting option spreads in the toolkit of retail investors, today announced it has closed an oversubscribed $4.1 million seed round. The funding round was led by Akuna Capital,"
+    publishedDateTime: 2021-11-08T14:45:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-miami-5c1a76582ae3734841d3cc0844c9560f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "5afq9Aeit3XXz2vxbuduqzLsCoAWhJxo4saYcPyneRlidFajmvE1iB/jdZ6VGODXrfdXPSJM4XkS3kEBg1NDCl+1j3Ac5b4rNIjYgPbzoxQGy56Vqzn0owwv0tJHtjle6WVLSqkaZkak46/b9ZNobL/H8Bw4I4Yw3h0zKhJhszeSq74pbkGp02iuYZK0zoKfTxdQrDVVcS9IovGyIvcsqaH2Y07oWMUhdsagmXRBBZyT/rSFwFJEU/9o25VegqGEPHiZUnpm+UkbOX2oieMBufVz+R61Or2L49TarqnBx2iIQYmn2Q/Kf97ezNTHp6vi1qm95V4Mt1ORO0dstX9lORielTY9Y8TAfN0v49TbSIR0RKcpze+4fGPIpqwuUAixUC39AG9SNU+b6P/EjsroWqiuWc00rGS78QOZsXReyXr9KoHFZeGhyDSTm39yO2eJHoR3UojVnRbnF6JGu9HpO+hCooIEw28SKLegKXbjyiAPoDOOMkIk9bm7cmhtJHqzroWDXm0rxyOTB3qPM7p5Yw==;fEmKLSqluo8nqr0ay3oAow=="
+secured: "bOZZtVqZgpzgEqfOqNDYL7p/7KOIbCizA2LrC2XTyNoll4qQlZFpdnm7WYw2Oo4V9tpqw+fBwK5Wmr4coRtTzcezkIlhzpvPcEmjl+zNjm/3LS9mOuXYj5CBzpXcZxMFC9K01Xr6NzY+y1qlVFg/vA3lFXYUySL0AG+TYXCKkwvyEER6xJ7Y87pdWcH1/Zdyserm0+I+5/prsr2dBkHtAcl/JtS0q2Bysci4cOuw0Nb6MP7qGkEsxvYt05C1dMDX8YM56v7bUlEX5ETMqqA4Vll80KZKjYKve47RHLO8lbD6rxrqgYkNx6+iXZfoGhLtifJS+4mTJ0Ny6TRxXYEP9SnABVORzXWwNf9wKDjmXbdgN/pww8RDkZ+n15o5WgZl2PFmPmXnVuGEoWOdZoARGwlhZ9e+c9ZD8GkBKH2hfjbpk6IsGvP5boN3nIShrOqWMfdS3pKQUoXI1Bo8cDuKrvPyhRl4NgDGp45+Dfskh0yELCcbxTVUwqVQEkND2JPZoCwbHvxfIKWdeOooAOQP2iyImZ2l2ytwDUk0P/GKcVs=;4vPf+jBdAWgvJDlg7dkyZw=="
 ---
 

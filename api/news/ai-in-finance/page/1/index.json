@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-11-flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers.md",
+      "title": "FlyFin offers AI-based tax app aimed at freelancers, gig workers",
+      "excerpt": "This new AI tax engine replaces the self-employed and ... A desktop version is also available for Macs with an Apple M1 chip. Android users can download FlyFin’s app here.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
+      "originalUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/11/cryptocurrency-tax.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
+      "publishedDateTime": "2021-11-11T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-how-fintech-companies-are-changing-the-idea-of-credit-in-india.md",
       "title": "How Fintech Companies Are Changing the Idea Of Credit In India",
       "excerpt": "Credit is a more frequent term in the current Indian fintech industry in comparison with a decade-ago period. India has developed as Asia’s biggest target for fintech deals, leaving behind China. With around 33 deals valued at $647.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/396710",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -192,7 +245,7 @@
       "originalUrl": "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-in-finance-and-insurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -226,6 +279,58 @@
         "Machine Learning",
         "Natural Language Processing",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025.md",
+      "title": "At 17.1% CAGR, AI in Fintech Market Size Set to Register 8984.9 million USD by 2025",
+      "excerpt": "The global AI in Fintech market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 17.1% in the forecast period of 2020 to 2025 and will expected to reach USD 8984.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025-2021-11-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025-2021-11-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T02:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1304,101 +1409,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-how-financial-services-can-avoid-compliance-issues-in-the-cloud.md",
-      "title": "How Financial Services Can Avoid Compliance Issues in the Cloud",
-      "excerpt": "Machine learning. Machine learning algorithms that use federated learning techniques — which train algorithms across multiple decentralized edge services — can streamline cloud compliance by allowing financial institutions to exchange data insights ...",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud",
-      "originalUrl": "https://biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202110/BTQ421_CSAM_hero3_Finance.jpg?itok=F2lzgS1b",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud?amp",
-      "publishedDateTime": "2021-10-20T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-resistant-ai-scores-166m-for-its-anti-fraud-fintech-tools.md",
-      "title": "Resistant AI scores $16.6M for its anti-fraud fintech tools",
-      "excerpt": "Resistant AI, which uses artificial intelligence to help financial services companies combat fraud and financial crime — selling tools to protect credit risk scoring models, payment systems, customer onboarding and more — has closed $16.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/",
-      "originalUrl": "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024",
-          "width": 1024,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/",
-      "publishedDateTime": "2021-10-20T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

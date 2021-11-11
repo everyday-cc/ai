@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-26-wolters-kluwer-announces-integration-of-its-clinical-natural-language-processing-solution-with-henry-scheins-micromd-emr-platform.md",
+      "title": "Wolters Kluwer Announces Integration of Its Clinical Natural Language Processing Solution With Henry Schein's MicroMD EMR Platform",
+      "excerpt": "Wolters Kluwer, Health announced today that MicroMD®, Henry Schein Medical Systems' practice management and electronic medical record (EMR) solution, will implement the Health Language clinical Natural Language Processing (cNLP) solution to",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20065889.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20065889.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-onvisource-partners-with-voicegain-for-speech-recognition-based-on-deep-learning-technologies-and-the-edge-architecture-powered-by-nvidia-gpus.md",
       "title": "OnviSource partners with Voicegain for Speech Recognition based on Deep Learning technologies and the Edge Architecture powered by Nvidia GPUs",
       "excerpt": "OnviSource, a leading provider of intelligent automation solutions for workforce optimization, contact center operation analytics and automation, customer experience management, and business process automation,",
@@ -1331,50 +1374,6 @@
       "provider": {
         "name": "Biometric Companies",
         "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3.md",
-      "title": "Microsoft’s Massive New Language AI Is Triple the Size of OpenAI’s GPT-3",
-      "excerpt": "Given the tricks GPT-3 had up its sleeve, it’s intriguing to wonder how the Megatron-Turing model may surprise us given that it's three times larger.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/",
-      "originalUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/10/natural-language-processing-Microsoft-Megatron-Turing-model-AI.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/",
-      "publishedDateTime": "2021-10-13T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-11-01-ex-wall-street-banker-hopes-to-spearhead-reverse-innovation-in-india.md",
-      "title": "Ex-Wall Street banker hopes to spearhead “reverse innovation” in India",
-      "excerpt": "Implementation of new business models are now driven by technologies such as Artificial Intelligence and Machine Learning, Invest India reported. In an exclusive interview with Jaya Vaidhyanathan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/",
-      "originalUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/ex-wall-street-banker-hopes-spearhead/amp/",
-      "publishedDateTime": "2021-11-01T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-30-mits-csail-self-driving-water-taxis-launched-in-the-amsterdam-canals.md",
       "title": "MIT’s CSAIL self-driving water taxis launched in the Amsterdam canals",
       "excerpt": "Granted, there aren’t many cities where self-driving water taxis are a viable ... scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Senseable ...",
@@ -1348,6 +1314,58 @@
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers.md",
+      "title": "Charles de Gaulle airport (timidly) tests autonomous EV luggage haulers",
+      "excerpt": "The terrestrial e-drones are supervised with an artificial intelligence-enhanced central server, which compliments the natural intelligence (or lapses thereof) of human monitors. The trial EV ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/",
+      "originalUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/3944365286_3831cc7eaa_b.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/amp/",
+      "publishedDateTime": "2021-10-19T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

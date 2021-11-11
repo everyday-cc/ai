@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/amp/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Turing.com Experts Explain: How Artificial Intelligence is Transforming the Recruitment Space"
+    excerpt: "Technology has transformed the way we think and work and has become an inseparable part of our life. Industries all around the world are embracing AI/ML-based technology to improve their present systems and processes,"
+    publishedDateTime: 2021-11-10T08:12:00Z
+    webUrl: "https://www.linkedin.com/pulse/turingcom-experts-explain-how-artificial-intelligence-choudhury"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 43
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEkEJiOOECe9A/article-cover_image-shrink_600_2000/0/1636531688295?e=1642032000&v=beta&t=QjQ4HbRSxWMw2vi0_4W2nhlbYSyhbA6oeEyCkMM-KBs"
+        width: 870
+        height: 580
+        isCached: true
   - title: "AI-Driven ITSM is Transforming IT Management"
     excerpt: "Companies that have adopted the ITSM model are finding that AI assists to close tickets faster & empowers customers with rapid self-service."
     publishedDateTime: 2021-11-08T18:11:00Z

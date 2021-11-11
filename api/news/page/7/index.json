@@ -2,6 +2,153 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-05-alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup.md",
+      "title": "Alphabet launches Isomorphic Labs, an AI-driven drug discovery startup",
+      "excerpt": "The new venture plans to partner with biomedical and pharmaceutical companies, using artificial intelligence to discover new medicinal advancements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
+      "originalUrl": "https://www.cnet.com/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 379,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/BLQLT7e8qsxx3tLRBPtY0jSKrY8=/1200x630/2021/11/04/117bf529-9fcc-40c5-9e37-f3a6a80a18a1/gettyimages-1290225107.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
+      "publishedDateTime": "2021-11-04T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-alphabet-is-launching-a-company-that-uses-ai-for-drug-discovery.md",
+      "title": "Alphabet is launching a company that uses AI for drug discovery",
+      "excerpt": "It’ll build off of the work done by DeepMind, another Alphabet subsidiary that has done groundbreaking work using AI to predict the structure of proteins. The new company, called Isomorphic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
+      "originalUrl": "https://www.theverge.com/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/kdddLIUWJSyu7gOt6TTdsILtLKw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70094151/msingleton_180612_2663_0002.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
+      "publishedDateTime": "2021-11-04T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms.md",
+      "title": "Tesla's handling of braking bug in public self-driving test raises alarms",
+      "excerpt": "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an \"over the air\" update.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/tesla.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp",
+      "publishedDateTime": "2021-11-04T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok.md",
       "title": "“Ethical AI” Trained To Offer Moral Advice Descends Into Giving Genocide The OK",
       "excerpt": "Artificial intelligence (AI) is changing our world, whether it's making historic breakthroughs in medicine, or taking our fast-food orders at the drive-thr",
@@ -314,6 +461,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-gelsight-partners-with-meta-ai-to-democratize-digital-tactile-sensing.md",
+      "title": "GelSight Partners with Meta AI to Democratize Digital Tactile Sensing",
+      "excerpt": "GelSight will commercially manufacture the DIGIT sensor to increase access and enable new tactile applications in robotics and beyond",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/content.php?post=17736",
+      "originalUrl": "https://www.roboticstomorrow.com/content.php?post=17736",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -991,214 +1172,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-how-adobe-uses-deep-learning-to-improve-its-products.md",
-      "title": "How Adobe uses deep learning to improve its products",
-      "excerpt": "Adobe is leveraging deep learning to improve its apps and solidify its position in the video and image editing market.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/",
-      "originalUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/amp/",
-      "publishedDateTime": "2021-11-03T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025.md",
-      "title": "Cloud datacenters anticipated to become largely robot-dependent by 2025",
-      "excerpt": "In a strong endorsement to the value of artificial intelligence and machine learning, research firm Gartner predicts that half of cloud datacenters will be leveraging advanced robots by 2025. Gartner believes these AI-centered deployments will ramp up the operating efficiency of datacenters by a margin of 30%.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/",
-      "originalUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/human_robot_collaboration-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/amp/",
-      "publishedDateTime": "2021-11-03T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-privacy-commission-demands-clearview-ai-delete-all-facial-recognition-data-collected-in-australia.md",
-      "title": "Privacy commission demands Clearview AI delete all facial recognition data collected in Australia",
-      "excerpt": "Australian regulators have demanded that facial-recognition firm Clearview AI cease scraping the biometric data of Australian citizens and destroy all information and images previously gathered on",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "originalUrl": "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/03/2021-03-23-ts3_thumbs-2c5.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "publishedDateTime": "2021-11-03T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-waymo-will-start-operating-in-new-york-city.md",
-      "title": "Waymo will start operating in New York City",
-      "excerpt": "Waymo will start testing its self-driving vans in New York City on November 4th, helping it prepare for heavy traffic and snow..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-self-driving-cars-new-york-city-130044539.html",
-      "originalUrl": "https://www.engadget.com/waymo-self-driving-cars-new-york-city-130044539.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/0a2fefa0-3c1b-11ec-bfeb-09e0beaa0f08",
-          "width": 5287,
-          "height": 2974,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html",
-      "publishedDateTime": "2021-11-03T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

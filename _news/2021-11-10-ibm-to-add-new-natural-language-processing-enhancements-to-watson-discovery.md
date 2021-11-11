@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-add-new-nat
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-1030959202"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM adds new natural language processing enhancements to Watson Discovery"
+    excerpt: "IBM has announced a new set of natural language processing enhancements to Watson Discovery. IBM is targeting financial services, insurance and legal"
+    publishedDateTime: 2021-11-11T09:11:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2021/11/11/ibm-adds-new-natural-language-processing-enhancements-to-watson-discovery/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 55
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/11/archive-1850170_1920.jpg"
+        width: 728
+        height: 410
+        isCached: true
   - title: "IBM Watson Services Market– Key Opportunities & Development 2025"
     excerpt: "\"IBM Watson is considered to be the first-ever commercialized cognitive computing platform, designed specifically for underpinning the development of various enterprise solutions. IBM Watson services continue to tap immense opportunity in the rapidly evolving cognitive computing field,"
     publishedDateTime: 2021-11-09T19:20:00Z

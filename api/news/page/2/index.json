@@ -2,6 +2,142 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-10-new-ai-model-uses-nlp-to-analyze-african-languages.md",
+      "title": "New AI Model Uses NLP To Analyze African Languages",
+      "excerpt": "Researchers have developed an AI model to help computers work more efficiently with a wider variety of languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/355697/new-ai-model-uses-nlp-to-analyze-african-languages-355697-1280x720.jpg?cb=11497643",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
+      "publishedDateTime": "2021-11-10T03:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-how-ai-and-mass-customization-could-change-the-fashion-industry.md",
+      "title": "How AI And Mass Customization Could Change The Fashion Industry",
+      "excerpt": "We can use mass communications to shed light on the possibilities of these technologies so that others in the industry, as well as consumers, will understand their importance for our future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60be3e89c19bf74973b7aeee%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/amp/",
+      "publishedDateTime": "2021-11-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-eu-artificial-intelligence-regulation-threatens-social-safety-net.md",
+      "title": "EU: Artificial Intelligence Regulation Threatens Social Safety Net",
+      "excerpt": "The European Union’s plan to regulate artificial intelligence is ill-equipped to protect people from flawed algorithms that deprive them of lifesaving benefits and discriminate against vulnerable populations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hrw.org/news/2021/11/10/eu-artificial-intelligence-regulation-threatens-social-safety-net",
+      "originalUrl": "https://www.hrw.org/news/2021/11/10/eu-artificial-intelligence-regulation-threatens-social-safety-net",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hrw.org/sites/default/files/media_2021/11/202111us_euairegs_conference_0.jpg",
+          "width": 4024,
+          "height": 2683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Human Rights Watch",
+        "domain": "hrw.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-deploy-fast-and-scalable-ai-with-nvidia-triton-inference-server-in-amazon-sagemaker.md",
       "title": "Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker",
       "excerpt": "Machine learning (ML) and deep learning (DL) are becoming effective tools for solving diverse computing problems, from image classification in medical diagnosis, conversational AI in chatbots, to recommender systems in ecommerce. However, ML models that have specific latency or high throughput requirements",
@@ -313,6 +449,57 @@
       ]
     },
     {
+      "path": "_news/2021-11-10-report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai.md",
+      "title": "Report: 40% of execs say increasing business process efficiency is top benefit of AI",
+      "excerpt": "The need to boost customer service, employee efficiency, and innovation are three main factors driving an increase in AI adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cognitivescale.com/survey_drivingadoption/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cognitivescale.com/wp-content/uploads/2020/08/News-Banners-e1636510765124.png",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-bushfire-mitigation-through-machine-learning-with-ausnet-and-aws.md",
       "title": "Bushfire mitigation through Machine Learning with AusNet and AWS",
       "excerpt": "Eastern Australia is among the most fire-prone regions in the world. Although bushfires are a regular occurrence in Australia, the 2019–2020 bushfire crisis set ablaze over 17 million hectares of land (larger than the size of England), costing the Australian economy more than $100 billion between property,",
@@ -426,7 +613,7 @@
       "originalUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -518,58 +705,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-luminar-skyrockets-as-much-as-44-after-striking-deal-with-nvidia-for-self-driving-car-technology.md",
-      "title": "Luminar skyrockets as much as 44% after striking deal with Nvidia for self-driving car technology",
-      "excerpt": "Nvidia headquarters in Santa Clara, California Justin Sullivan/Getty Images Luminar stock shot up as much as 44% after a new self-driving car",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/618a941723745d001825a76c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp",
-      "publishedDateTime": "2021-11-09T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1110,151 +1245,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering.md",
-      "title": "Lemonade buys US data science firm to boost car insurance offering",
-      "excerpt": "Israeli-founded, NY-based company makes first acquisition with MetroMile, a San Francisco outfit that leverages AI for personalized insurance policies",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/",
-      "originalUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/11/DanielShai2019-1-640x400.jpeg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/amp/",
-      "publishedDateTime": "2021-11-09T03:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-the-evolution-of-voice-in-elevating-the-user-experience.md",
-      "title": "The Evolution Of Voice In Elevating The User Experience",
-      "excerpt": "Voice biometric technology and voice recognition will continue to become more ingrained within the modern digital user experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61892951ad641ca64a264904%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/amp/",
-      "publishedDateTime": "2021-11-09T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai.md",
-      "title": "Why HR Should Pay Attention To The Emergence Of People Analytics And AI",
-      "excerpt": "A key differentiator for successful organizations is how well they manage their talent. As the value of data continues to increase, the opportunity for HR to leverage this data will become more prominent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189427be94633fae4f28dfa%2F0x0.jpg",
-          "width": 1200,
-          "height": 841,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/",
-      "publishedDateTime": "2021-11-09T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

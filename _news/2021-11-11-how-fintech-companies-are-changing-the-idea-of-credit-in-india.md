@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/396710"
 webUrl: "https://www.entrepreneur.com/article/396710"
 type: article
 quality: 54
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
     quality: 39
     images:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/tangy-morgan-boe.jpg.png?itok=kUV_LM7f"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How credit unions use AI to compete with fintech lenders"
-    excerpt: "Northern Hills Federal Credit Union in South Dakota is one of several institutions testing tools that can deliver faster loan decisions, an edge they need against digital upstarts."
-    publishedDateTime: 2021-11-08T16:32:00Z
-    webUrl: "https://www.americanbanker.com/creditunions/news/how-credit-unions-use-ai-to-compete-with-fintech-lenders"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/c4ecfae/2147483647/strip/true/crop/2946x1547+0+209/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F12%2Fdb%2F1da3cf1a45d3b1207114913d77ba%2Fadobestock-180950831.jpeg"
         width: 1200
         height: 630
         isCached: true

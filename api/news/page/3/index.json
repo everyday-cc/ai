@@ -2,6 +2,151 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-09-lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering.md",
+      "title": "Lemonade buys US data science firm to boost car insurance offering",
+      "excerpt": "Israeli-founded, NY-based company makes first acquisition with MetroMile, a San Francisco outfit that leverages AI for personalized insurance policies",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/",
+      "originalUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/11/DanielShai2019-1-640x400.jpeg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/amp/",
+      "publishedDateTime": "2021-11-09T03:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-the-evolution-of-voice-in-elevating-the-user-experience.md",
+      "title": "The Evolution Of Voice In Elevating The User Experience",
+      "excerpt": "Voice biometric technology and voice recognition will continue to become more ingrained within the modern digital user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61892951ad641ca64a264904%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/amp/",
+      "publishedDateTime": "2021-11-09T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai.md",
+      "title": "Why HR Should Pay Attention To The Emergence Of People Analytics And AI",
+      "excerpt": "A key differentiator for successful organizations is how well they manage their talent. As the value of data continues to increase, the opportunity for HR to leverage this data will become more prominent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189427be94633fae4f28dfa%2F0x0.jpg",
+          "width": 1200,
+          "height": 841,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/",
+      "publishedDateTime": "2021-11-09T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-could-blockchain-and-ai-help-prevent-deforestation.md",
       "title": "Could Blockchain And AI Help Prevent Deforestation?",
       "excerpt": "The technology firm iov42 is working with the EU to develop a “blockchain-style” infrastructure system, the aim of which is to leverage blockchain to improve standards of cross-border services for governments and organisations.",
@@ -49,49 +194,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-deep-learning-system-market-size-forecasted-to-be-worth-usd-9334-billion-in-2028.md",
-      "title": "Deep Learning System Market Size Forecasted to be Worth USD 93.34 Billion in 2028",
-      "excerpt": "According to a recent analysis, the global deep learning system market size was valued at USD 6.59 Billion in 2020 and is forecast to exceed USD 93.34 Billion in terms of revenue, at a CAGR of 39.1% through 2028.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/",
-      "originalUrl": "https://techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/11/Deep-Learning-System-Market-Size.png",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/amp/",
-      "publishedDateTime": "2021-11-09T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -547,57 +649,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-09-report-most-global-execs-say-ai-drives-financial-cultural-benefits.md",
-      "title": "Report: Most global execs say AI drives financial, cultural benefits",
-      "excerpt": "SMR and BCG shows that AI deployment not only brings financial gains but also significant improvements to team culture.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/08/report-most-global-execs-say-ai-drives-financial-cultural-benefits/",
-      "originalUrl": "https://venturebeat.com/2021/11/08/report-most-global-execs-say-ai-drives-financial-cultural-benefits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/fintech-e1623107307747.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/08/report-most-global-execs-say-ai-drives-financial-cultural-benefits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/report-most-global-execs-say-ai-drives-financial-cultural-benefits/amp/",
-      "publishedDateTime": "2021-11-08T23:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-09-soekarno-hatta-airport-readies-facial-recognition-system.md",
       "title": "Soekarno-Hatta Airport readies facial recognition system",
       "excerpt": "State-owned airport operator PT Angkasa Pura (AP) II (Persero) is creating a facial recognition system with biometric technology for aircraft passengers to process departures at Soekarno-Hatta Airport.",
@@ -692,6 +743,49 @@
         "AI in Healthcare",
         "Machine Learning",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
+      "title": "Robots hit the streets as demand for food delivery grows",
+      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots—knee-high and able to hold around four large pizzas—are now navigating college campuses and even some city sidewalks in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/business/2021/11/09/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
+      "originalUrl": "https://www.clickondetroit.com/business/2021/11/09/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2HKCHCIGGNHNLGE27ZLD4N5SGQ.jpg?_a=ATABlay0",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.clickondetroit.com/business/2021/11/09/robots-hit-the-streets-as-demand-for-food-delivery-grows/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/business/2021/11/09/robots-hit-the-streets-as-demand-for-food-delivery-grows/?outputType=amp",
+      "publishedDateTime": "2021-11-08T19:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -904,7 +998,7 @@
       "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1145,102 +1239,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-why-is-artificial-intelligence-so-bad-at-sales-and-marketing.md",
-      "title": "Why is Artificial Intelligence So Bad at Sales and Marketing?",
-      "excerpt": "Today, I want to talk about why artificial intelligence is so bad at sales and marketing. One of the main reasons is that artificial intelligence (AI) bots need to have some contextual information in order to understand what you’re saying or what you mean.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203",
-      "originalUrl": "https://www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2021/11/IMG_2460.jpe",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203/amp",
-      "publishedDateTime": "2021-11-08T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-after-beating-q3-earnings-estimates-is-ontrak-a-good-healthcare-stock-to-buy.md",
-      "title": "After Beating Q3 Earnings Estimates, is Ontrak a Good Healthcare Stock to Buy?",
-      "excerpt": "AI-powered healthcare company Ontrak Inc. (OTRK) recently released its third-quarter earnings, which beat the consensus estimate. However, a lawsuit against the company and severe business headwinds may hinder its",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/395953",
-      "originalUrl": "https://www.entrepreneur.com/article/395953",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-395953.jpeg",
-          "width": 2560,
-          "height": 1209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

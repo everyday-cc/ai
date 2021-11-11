@@ -2,29 +2,23 @@
 category: news
 title: "Luminar Lidar to Integrate with NVIDIA DRIVE Hyperion AI Platform; Shares Jump"
 excerpt: "Luminar Technologies (LAZR), the global automotive lidar hardware and software technology provider, announced that its lidar solution has been selected to integrate into the sensor suite of semiconductor maker Nvidia Corporation’s (NVDA) AI vehicle computing platform for autonomous vehicles."
-publishedDateTime: 2021-11-10T11:15:00Z
-originalUrl: "https://www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/"
-webUrl: "https://www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/"
-ampWebUrl: "https://www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/amp/"
-cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/amp/"
+publishedDateTime: 2021-11-10T11:47:00Z
+originalUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
+webUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
+ampWebUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 65
+heat: 115
+published: true
 
 provider:
-  name: Smarter Analyst
-  domain: smarteranalyst.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/05/Luminar-Technologies.jpg"
-    width: 1000
-    height: 667
-    isCached: true
 
 related:
   - title: "Luminar skyrockets as much as 44% after striking deal with Nvidia for self-driving car technology"
@@ -75,6 +69,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Inspur Information Announces Full Support for the NVIDIA AI Platform for Inference Processing"
+    excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced at NVIDIA GTC that its AI and Edge inference servers will support NVIDIA A100, A30, and the newly announced A2 Tensor Core GPU s throughout its entire inference server portfolio."
+    publishedDateTime: 2021-11-09T09:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-ae9ac0f26e074e2b8be9e526383c5520"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Luminar Wins Nvidia Business in Self-Driving Deal"
     excerpt: "Text measurement Dreamstime Lidar maker Luminar Technologies and tech-giant Nvidia are pairing as much as put self-driving {hardware} into automobiles. It’s an enormous deal for Luminar and reveals traders the event of autonomous driving know-how goes to speed up."
     publishedDateTime: 2021-11-09T12:09:00Z
@@ -90,6 +98,6 @@ related:
         height: 640
         isCached: true
 
-secured: "BEgEYUcKaaChSjy5TdNvyYH19pzzco842Ow0NcKKYir6+4Mw6nu1HLk3vHWu6ZQnmgAr9fmFQTHlmI7Mcs7ZmBMTDJJQDBuC2I4mFz3I0Y/KRSIueXIH4jZle43BdCHxujF+b9aCb4XoRMz594krkhgOg2QNF+AMerQAOEAIpwJ3qfCEXQl1VG7oYySyZPRqmRo8t97pmfnjgHx+D9cZ7efftrQYkrO3aTxWk6u9TE6M2aC0uHucdp8WOkc6j/ycZOv7A+gZvy2B85C+Hfz96zf8kpP8jjvX/cN5lKVsEj/Y/s1dhu0tc38OWEcrhaIJgw2P/4mykkwAbl45z4IL/gwj6OBlH2jQb7/AN5Mq/nFi/WJrpyUJfNDhsQGEnaodB5VO8aXSWg7QwqDZIjcFdXxKPqdFT3ML7f4dwqxlnGpmA9WY86Yrn4HczCpKOZ37aJyPp8XKG2FgYoELIBlhEvbI6fS64Af6GxELDE2KDk6TWSzd3NxQwTE9NwdOIlF7c8o/0Ip4iViAWrgDVU3f6A==;lN3RcFvn6MmWwqiPVM6xCg=="
+secured: "GMwccc0p/AvBsYaRY4wsI6yVNRqYrO6GUGZBav6ABmP5NtVPAuhLv/nqrpjGu19jvHDWiB3j1iw/mavs5f6YB4WV8vT4T4iOE6GMsvnwTQyG0t+ZosYFBTPnSrHfK3SYYB4DYNHhDY/XLJNUTN0DJ4wL7hfH9bhc1PLNh+VVO/+ji+PsKwMEurmHwHrlYRSAqsLVnWbYyf3IUL2NVK6WMYA62/YZ+34P4j07B7fxjgCP48qkaKbfbVLY5eucX2PIplva79tI92UBaiXscXXIZLEFkTopW32/6H+iqoeAJiqFhpbiLeBDsNatSlZFafI0+2Lrm7dsyUUnuRw7gVDcucGuHmubgn8Wr+nwztjFuHs=;RTR+Hs/05mRPwKCtVbHJxw=="
 ---
 

@@ -335,6 +335,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-27-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network.md",
+      "title": "Insurtech: AI enhanced Platform Arturo Joins Amazon Web Services Partner Network",
+      "excerpt": "an artificial intelligence-powered platform that derives property insights and predictive analytics from aerial and satellite imagery, announced that it has joined the Amazon Web Services (AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/amp/",
+      "publishedDateTime": "2021-10-26T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-aws-announces-general-availability-of-amazon-ec2-dl1-instances.md",
       "title": "AWS Announces General Availability of Amazon EC2 DL1 Instances",
       "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models.",
@@ -1346,59 +1389,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition.md",
-      "title": "Scan Amazon S3 buckets for content moderation using S3 Batch and Amazon Rekognition",
-      "excerpt": "Dealing with content in large scale is often challenging, costly, and a heavy lift operation. The volume of user-generated and third-party content has been increasing substantially in industries like social media, ecommerce, online advertising, and media sharing. Customers may want to review this content",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/18/ML-4838-image001.jpg",
-          "width": 1230,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T12:53:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

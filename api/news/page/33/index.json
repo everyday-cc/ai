@@ -2,6 +2,257 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-10-14-deloitte-launches-cognitivespark-for-marketing-artificial-intelligence-solution.md",
+      "title": "Deloitte Launches CognitiveSpark™ for Marketing Artificial Intelligence Solution",
+      "excerpt": "Cloud-based product for life sciences companies leverages AI to boost patient engagement and improve digital marketing value measurement",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
+      "originalUrl": "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg",
+          "width": 980,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSAW",
+        "domain": "wsaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-writing-helper-copyai-closes-on-its-second-funding-round-this-year.md",
+      "title": "Writing helper Copy.ai closes on its second funding round this year",
+      "excerpt": "Copy.ai’s software can, for example, write a blog post outline based on a few sentences and create link descriptions for Facebook ads and even generate a company motto.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/",
+      "originalUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-930041786.jpg?w=1024",
+          "width": 1024,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/",
+      "publishedDateTime": "2021-10-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai.md",
+      "title": "The state of AI in 2021: Machine learning in production, MLOps and data-centric AI",
+      "excerpt": "With lessons learned from operationalizing AI, the emphasis is shifting from shiny new models to perhaps more mundane, but practical aspects such as data quality and data pipeline management",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/",
+      "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5584082bdb757e39890090a19b6bac63d69c1a1a/2021/10/14/88c23a9f-31d8-48ab-beba-5638f912d9e6/datacentricai.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/",
+      "publishedDateTime": "2021-10-14T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-the-evolution-of-computer-vision-and-its-impact-on-real-world-applications.md",
+      "title": "The Evolution Of Computer Vision And Its Impact On Real-World Applications",
+      "excerpt": "Present-day capabilities and applications are only scratching the surface of this technology's potential, which is nearly limitless.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolution-of-computer-vision-and-its-impact-on-real-world-applications/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolution-of-computer-vision-and-its-impact-on-real-world-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6166dee76a8d72827012fd29%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolution-of-computer-vision-and-its-impact-on-real-world-applications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolution-of-computer-vision-and-its-impact-on-real-world-applications/amp/",
+      "publishedDateTime": "2021-10-14T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-facebook-here-comes-the-ai-of-the-metaverse.md",
+      "title": "Facebook: Here comes the AI of the Metaverse",
+      "excerpt": "Facebook is has gathered thousands of hours of first-person video so that neural networks can be developed to operate more capably with data seen from a first-person point of view.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-here-comes-the-ai-of-the-metaverse/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-here-comes-the-ai-of-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/cea33ab7569a2a56e6368d94900c1553c4e1067c/2021/10/14/acd9a5f9-79ea-4ae2-92b6-f51c656ce8b5/facebook-2021-before-after-detectron-modelfinal.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/",
+      "publishedDateTime": "2021-10-14T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric.md",
       "title": "Facebook introduces dataset and benchmarks to make AI more ‘egocentric’",
       "excerpt": "Facebook's latest long-term research project, Ego4D, focuses on developing AI with an 'egocentric,' first-person perspective.",
@@ -926,229 +1177,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-to-lead-in-ai-the-us-needs-a-dedicated-workforce-policy.md",
-      "title": "To lead in AI, the US needs a dedicated workforce policy",
-      "excerpt": "Taking and keeping the lead in talent means not only having the best and brightest, but an adequate supply across the entire U.S. AI workforce, along with secure domestic talent pipelines.",
-      "sourceUrl": null,
-      "webUrl": "https://cset.georgetown.edu/publication/u-s-ai-workforce-policy-recommendations/",
-      "originalUrl": "https://www.msn.com/en-us/news/politics/to-lead-in-ai-the-us-needs-a-dedicated-workforce-policy/ar-AAPu58I",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cset.georgetown.edu/wp-content/uploads/U.S.-AI-Workforce-Policy-Recommendations_Cover-Image.png",
-          "width": 1148,
-          "height": 1484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T13:01:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "georgetown.edu/publication/u-s-ai-workforce-policy-recommendations/",
-        "domain": "georgetown.edu/publication/u-s-ai-workforce-policy-recommendations/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-win-the-robot-vacuum-that-even-empties-itself-with-irobot.md",
-      "title": "Win the robot vacuum that even empties itself with iRobot!",
-      "excerpt": "If you’ve followed me for a while, you’ll know about my longstanding love affair with Bertie, my iRobot Roomba robot vacuum. If there’s one thing I recommend over and",
-      "sourceUrl": null,
-      "webUrl": "https://theinteriorsaddict.com/win-the-robot-vacuum-that-even-empties-itself-with-irobot",
-      "originalUrl": "https://theinteriorsaddict.com/win-the-robot-vacuum-that-even-empties-itself-with-irobot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.theinteriorsaddict.com/uploads/2021/10/Screen-Shot-2021-10-13-at-10.47.11-am.png",
-          "width": 1078,
-          "height": 572,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theinteriorsaddict.com",
-        "domain": "theinteriorsaddict.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-artificial-intelligence-in-life-sciences-market-global-industry-overview-by-size-trends-growth-forecast.md",
-      "title": "Artificial Intelligence In Life Sciences Market Global Industry Overview By Size, Trends & Growth Forecast",
-      "excerpt": "An emerging area of artificial intelligence (AI), specifically the ... platform is capable of substantially improving combination therapy in bortezomib-resistant multiple myeloma, which is used ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102966190/Artificial-Intelligence-In-Life-Sciences-Market-Global-Industry-Overview-By-Size-Trends-Growth-Forecast",
-      "originalUrl": "https://menafn.com/1102966190/Artificial-Intelligence-In-Life-Sciences-Market-Global-Industry-Overview-By-Size-Trends-Growth-Forecast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/banners/b45ebf54-a.png",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-natural-language-processing-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth.md",
-      "title": "Natural Language Processing Market Detailed Analysis of Current Industry Figures with Forecasts Growth",
-      "excerpt": "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Oct 13, 2021, 08:34 /Comserve / -- Natural Language Processing Market With Top Countries Data, Industry Analysis ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102966192/Natural-Language-Processing-Market-Detailed-Analysis-of-Current-Industry-Figures-with-Forecasts-Growth",
-      "originalUrl": "https://menafn.com/1102966192/Natural-Language-Processing-Market-Detailed-Analysis-of-Current-Industry-Figures-with-Forecasts-Growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?12923",
-          "width": 406,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-applying-the-power-of-deep-learning-to-cybersecurity.md",
-      "title": "Applying The Power Of Deep Learning To Cybersecurity",
-      "excerpt": "There are lots of cybersecurity tools out there that promise to help organizations scale to manage the volume of threats and help separate the signal from the noise to identify security events that should be escalated to the IT security team for response.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616733004f45ec9f5112fd25%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/",
-      "publishedDateTime": "2021-10-13T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

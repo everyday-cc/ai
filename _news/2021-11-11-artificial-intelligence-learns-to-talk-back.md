@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-lea
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-learns-to-talk-back/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

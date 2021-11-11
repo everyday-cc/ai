@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-27-intel-challenges-amd-and-nvidia-with-new-ai-technologies-amid-renewed-developer-commitments.md",
+      "title": "Intel Challenges AMD And NVIDIA With New AI Technologies Amid Renewed Developer Commitments",
+      "excerpt": "Intel renews AI Technologies with Sapphire Rapids CPU and Ponte Vecchio GPUs. But can they do better than AMD and NVIDIA?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6178729f3f1896228c1e3a3e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2687%26cropY1%3D0%26cropY2%3D1512",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
+      "publishedDateTime": "2021-10-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-google-tensor-gets-crushed-by-apple-a15-in-machine-learning-despite-being-a-ml-centric-chip.md",
       "title": "Google Tensor gets crushed by Apple A15 in machine learning despite being a ML-centric chip",
       "excerpt": "The Google Tensor processor is supposed be all about machine learning but it got crushed by the Apple A15 Bionic in the Geekbench ML app.",
@@ -1383,59 +1435,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos.md",
-      "title": "Spot AI emerges from stealth with $22M with a platform to draw out more intelligence from organizations’ basic security videos",
-      "excerpt": "Security cameras, for better or for worse, are part and parcel of how many businesses monitor spaces in the workplace for security or operational reasons. Now, a startup is coming out of stealth with funding for tech designed to make the video produced by those cameras more useful.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/",
-      "originalUrl": "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/spot-ai-video-frame.jpg?w=1024",
-          "width": 1024,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/amp/",
-      "publishedDateTime": "2021-10-15T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

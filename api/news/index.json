@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-11-flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers.md",
+      "title": "FlyFin offers AI-based tax app aimed at freelancers, gig workers",
+      "excerpt": "This new AI tax engine replaces the self-employed and ... A desktop version is also available for Macs with an Apple M1 chip. Android users can download FlyFin’s app here.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
+      "originalUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/11/cryptocurrency-tax.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
+      "publishedDateTime": "2021-11-11T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-interactive-voice-response-becomes-multifamilys-latest-go-to-ai-tool.md",
+      "title": "Interactive Voice Response Becomes Multifamily’s Latest Go-To AI Tool",
+      "excerpt": "Voice-recognition AI is the next big thing in artificial intelligence. Commercial real estate companies are starting to experiment with it as a way to improve operations. Consumers are gradually becoming more exposed to this technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globest.com/2021/11/11/interactive-voice-response-becomes-multifamilys-latest-go-to-ai-tool/",
+      "originalUrl": "https://www.globest.com/2021/11/11/interactive-voice-response-becomes-multifamilys-latest-go-to-ai-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.globest.com/contrib/content/uploads/sites/304/2021/11/Machine-Learning-AI-Hornibrook-OpTech-resize.jpg",
+          "width": 613,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globest.com/2021/11/11/interactive-voice-response-becomes-multifamilys-latest-go-to-ai-tool/?amp=1",
+      "cdnAmpWebUrl": "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2021/11/11/interactive-voice-response-becomes-multifamilys-latest-go-to-ai-tool/?amp=1",
+      "publishedDateTime": "2021-11-11T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeSt.com",
+        "domain": "globest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets.md",
       "title": "Why AI Teams Need A Unified Data Format For Machine Learning Datasets",
       "excerpt": "Data is the most important commodity today, yet we are still processing data in primitive ways. We need to break free of conventional tools and techniques for data processing. The Rise Of Unstructured Data: The Main Difference Between Structured And Unstructured data Structured data represented in rows and columns while unstructured data includes images,",
@@ -62,7 +159,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/396710",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -322,7 +419,7 @@
       "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-learns-to-talk-back/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -522,101 +619,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-11-chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m.md",
-      "title": "Chip developer Cerebas bolsters AI-powered workload capabilities with $250M",
-      "excerpt": "The company stated that this capital will let it globally expand its business and deploy its AI-powered CS-2 system to new customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/",
-      "originalUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1317362609-e1636572613687.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/",
-      "publishedDateTime": "2021-11-10T12:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-artificial-intelligence-chip-startup-nabs-4-billion-valuation.md",
-      "title": "Artificial Intelligence Chip Startup Nabs $4 Billion Valuation",
-      "excerpt": "Cerebras Systems Inc., an upstart chipmaker trying to break into the growing market for artificial intelligence processors, raised $250 million in an investment round that valued the company at more than $4 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/business/artificial-intelligence-chip-startup-nabs-4-billion-valuation",
-      "originalUrl": "https://www.bloombergquint.com/business/artificial-intelligence-chip-startup-nabs-4-billion-valuation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2021-11-11-standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech.md",
       "title": "Standard AI acquires ThirdEye and teams up to bolster autonomous checkout tech",
       "excerpt": "Standard AI, which provides an AI-based solution for autonomous retail checkout, has acqui-hired computer vision startup ThirdEye Labs.",
@@ -665,6 +667,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-ai-chip-startup-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation.md",
+      "title": "AI chip startup Cerebras nabs $250 million Series F round at over $4 billion valuation",
+      "excerpt": "New money follows Cerebras's expansion from a single system to a portfolio of products and cloud partnerships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/",
+      "originalUrl": "https://www.zdnet.com/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/92729ebb49764ebb9d08476f41908a19f0672ada/2021/04/20/11fc5675-b618-42c2-85fa-979364fdf9e8/wse2-natalia.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/",
+      "publishedDateTime": "2021-11-10T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -960,7 +1014,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-1030959202",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1154,35 +1208,26 @@
       ]
     },
     {
-      "path": "_news/2021-11-10-new-ai-model-uses-nlp-to-analyze-african-languages.md",
-      "title": "New AI Model Uses NLP To Analyze African Languages",
-      "excerpt": "Researchers have developed an AI model to help computers work more efficiently with a wider variety of languages.",
+      "path": "_news/2021-11-10-luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump.md",
+      "title": "Luminar Lidar to Integrate with NVIDIA DRIVE Hyperion AI Platform; Shares Jump",
+      "excerpt": "Luminar Technologies (LAZR), the global automotive lidar hardware and software technology provider, announced that its lidar solution has been selected to integrate into the sensor suite of semiconductor maker Nvidia Corporation’s (NVDA) AI vehicle computing platform for autonomous vehicles.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
+      "webUrl": "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
+      "originalUrl": "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 115,
       "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/355697/new-ai-model-uses-nlp-to-analyze-african-languages-355697-1280x720.jpg?cb=11497643",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
-      "publishedDateTime": "2021-11-10T03:23:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
+      "publishedDateTime": "2021-11-10T03:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1192,58 +1237,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-how-ai-and-mass-customization-could-change-the-fashion-industry.md",
-      "title": "How AI And Mass Customization Could Change The Fashion Industry",
-      "excerpt": "We can use mass communications to shed light on the possibilities of these technologies so that others in the industry, as well as consumers, will understand their importance for our future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60be3e89c19bf74973b7aeee%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/amp/",
-      "publishedDateTime": "2021-11-10T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

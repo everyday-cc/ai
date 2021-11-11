@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-21-how-financial-services-can-avoid-compliance-issues-in-the-cloud.md",
+      "title": "How Financial Services Can Avoid Compliance Issues in the Cloud",
+      "excerpt": "Machine learning. Machine learning algorithms that use federated learning techniques — which train algorithms across multiple decentralized edge services — can streamline cloud compliance by allowing financial institutions to exchange data insights ...",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud",
+      "originalUrl": "https://biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202110/BTQ421_CSAM_hero3_Finance.jpg?itok=F2lzgS1b",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud?amp",
+      "publishedDateTime": "2021-10-20T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-resistant-ai-scores-166m-for-its-anti-fraud-fintech-tools.md",
+      "title": "Resistant AI scores $16.6M for its anti-fraud fintech tools",
+      "excerpt": "Resistant AI, which uses artificial intelligence to help financial services companies combat fraud and financial crime — selling tools to protect credit risk scoring models, payment systems, customer onboarding and more — has closed $16.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/",
+      "originalUrl": "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024",
+          "width": 1024,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/",
+      "publishedDateTime": "2021-10-20T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-fintech-innovation-lab-new-york-now-accepting-applicants-for-2022-class.md",
       "title": "FinTech Innovation Lab New York Now Accepting Applicants for 2022 Class",
       "excerpt": "Program founded by Accenture and Partnership Fund for New York City seeks companies using innovative technologies in major areas such as cyber-tech, blockchain, analytics, future of work and sustainabilityNEW YORK--(BUSINESS WIRE)--Applications are now being accepted for the FinTech Innovation Lab New York,",
@@ -1210,93 +1305,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite.md",
-      "title": "Descartes Unveils Artificial Intelligence And Machine Learning Enhancements To Routing, Mobile & Telematics Suite",
-      "excerpt": "Descartes Systems Group (Nasdaq: DSGX) (TSX:DSG), the global leader in uniting logistics-intensive businesses in commerce, unveiled artificial intelligence (AI)- and machine learning (ML)-based enhancements to its Routing Mobile & Telematics suite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fieldtechnologiesonline.com/doc/descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite-0001",
-      "originalUrl": "https://www.fieldtechnologiesonline.com/doc/descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite-0001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vertassets.blob.core.windows.net/sites/contentbribes/FTO-nl-popup.png",
-          "width": 800,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Field Technologies Online",
-        "domain": "fieldtechnologiesonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-onfido-named-to-2021-cb-insights-fintech-250-list-of-top-fintech-startups-for-fourth-year-running.md",
-      "title": "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running",
-      "excerpt": "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private companies working on groundbreaking financial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-22a08396da0a4a55b9da5282107d6de8",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-22a08396da0a4a55b9da5282107d6de8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

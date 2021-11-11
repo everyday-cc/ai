@@ -39,6 +39,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM adds new natural language processing enhancements to Watson Discovery"
+    excerpt: "IBM has announced a new set of natural language processing enhancements to Watson Discovery. IBM is targeting financial services, insurance and legal"
+    publishedDateTime: 2021-11-11T09:11:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2021/11/11/ibm-adds-new-natural-language-processing-enhancements-to-watson-discovery/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 55
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/11/archive-1850170_1920.jpg"
+        width: 728
+        height: 410
+        isCached: true
 
 secured: "n2CQVCyT6n6dnFPS+7mvQUv2InrOMVYylwVQoQ0kSSk67YgCJwOG9SLD5+HFevomnek02aDeQS2KDPk7thDpEwNqldy11sputaBHJ1mdzcpc2el7tPlNl95FyQGxaTbKbKR1q1adLKrj+h2r9RQuDTfoQyYjfIVvemni5ewECQsQWdLWMRPGkQYbcvuVZ32dDV1nMDAH7ndoV31Z3TalEYhN7QBwfOiDvHoyfJ8VUyWEk1smOFYiknfOwadBkNGlg4kzu5tTJsNzlyoxpcTMJgaNsZHAOHBa2IjLL2X3IQLWlX9W/DPHEgF6o4fRgyjn5+X1cizfr+K1YfMj4HD0UQM2KRoZFgXMzNqNGvIb+xw=;diqi86vmFkaLbA6yo0RWFg=="
 ---

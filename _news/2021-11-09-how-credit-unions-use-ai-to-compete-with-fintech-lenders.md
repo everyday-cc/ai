@@ -25,145 +25,80 @@ images:
     isCached: true
 
 related:
-  - title: "How Fintech Companies Are Changing the Idea Of Credit In India"
-    excerpt: "Credit is a more frequent term in the current Indian fintech industry in comparison with a decade-ago period. India has developed as Asia’s biggest target for fintech deals, leaving behind China. With around 33 deals valued at $647."
-    publishedDateTime: 2021-11-11T10:43:00Z
-    webUrl: "https://www.entrepreneur.com/article/396710"
+  - title: "At 17.1% CAGR, AI in Fintech Market Size Set to Register 8984.9 million USD by 2025"
+    excerpt: "The global AI in Fintech market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 17.1% in the forecast period of 2020 to 2025 and will expected to reach USD 8984."
+    publishedDateTime: 2021-11-08T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025-2021-11-08"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning System Market Size Forecasted to be Worth USD 93.34 Billion in 2028"
+    excerpt: "According to a recent analysis, the global deep learning system market size was valued at USD 6.59 Billion in 2020 and is forecast to exceed USD 93.34 Billion in terms of revenue, at a CAGR of 39.1% through 2028."
+    publishedDateTime: 2021-11-09T10:36:00Z
+    webUrl: "https://techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/"
+    ampWebUrl: "https://techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/deep-learning-system-market-size-forecasted-to-be-worth-usd-93-34-billion-in-2028/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 54
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1636627414-towfiqu-barbhuiya-jpqyfK7GB4w-unsplash1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Team 8 Takes Refreshing Approach to Driving Business Development, Fintech"
-    excerpt: "Team 8, an Israeli venture group, has a unique recipe for success, its vice president for business development and Fintech Galia Beer Gabel said. A lawyer by training, Beer Gabel moved into a business"
-    publishedDateTime: 2021-11-08T11:01:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 43
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/11/Galia-Beer-Gabel-smalll.jpeg"
-        width: 1600
-        height: 1608
-        isCached: true
-  - title: "How the Bank of England Is Embracing Fintech Innovation"
-    excerpt: "During her keynote address at the FinTech & InsurTech Live event, Tangy Morgan, an independent BoE advisor, discussed how the central bank's innovations"
-    publishedDateTime: 2021-11-07T09:17:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-bank-england-embracing-fintech-innovation"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/tangy-morgan-boe.jpg.png?itok=kUV_LM7f"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hiring to scaling: 3 fintech unicorn CEOs share what it takes to build a successful company"
-    excerpt: "As part of Singapore Fintech Festival 2021, three CEOs of fintech unicorns in Asia — Linklogis, VNLIFE and Advance Intelligence Group — came together as panellists to discuss the key ingredients for success that help to shape and grow a unicorn."
-    publishedDateTime: 2021-11-10T09:29:00Z
-    webUrl: "https://vulcanpost.com/768732/fintech-unicorn-ceos-tips-to-build-successful-company/"
-    ampWebUrl: "https://vulcanpost.com/768732/fintech-unicorn-ceos-tips-to-build-successful-company/amp/"
-    cdnAmpWebUrl: "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/768732/fintech-unicorn-ceos-tips-to-build-successful-company/amp/"
-    type: article
-    provider:
-      name: Vulcan Post
-      domain: vulcanpost.com
-    quality: 34
-    images:
-      - url: "https://cdn01.vulcanpost.com/wp-uploads/2021/11/fintech-f2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Seven technologies shaping the future of fintech"
-    excerpt: "In the next 10 years, seven key technologies will drive business model reinventions while shaping the competitive landscape of the financial industry."
-    publishedDateTime: 2021-11-09T10:02:00Z
-    webUrl: "https://www.mckinsey.com/cn/our-insights/our-insights/seven-technologies-shaping-the-future-of-fintech"
-    type: article
-    provider:
-      name: McKinsey & Company
-      domain: mckinsey.com
-    quality: 24
-    images:
-      - url: "https://www.mckinsey.com/~/media/mckinsey/locations/asia/greater%20china/our%20insights/seven%20technologies%20shaping%20the%20future%20of%20fintech/seven-fintech_trends.jpg"
-        width: 1536
-        height: 864
-        isCached: true
-  - title: "Global Payments to Participate in Citi's 2021 FinTech Conference"
-    excerpt: "Global Payments Inc. , a leading worldwide provider of payment technology and software solutions, announced today that Cameron Bready, President and Chief Operating Officer, will present virtually at Citi's 2021 FinTech Conference at 12:45 p."
-    publishedDateTime: 2021-11-10T16:01:00Z
-    webUrl: "https://www.lelezard.com/en/news-20096033.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Meet The Winners Of The 2021 Benzinga Global Fintech Awards"
-    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, held its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
-    publishedDateTime: 2021-11-10T19:28:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-financial-technology-def643374cf19c039d27f8ae216e11db"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/Deep-Learning-System-Market-Size.png"
         width: 700
-        height: 450
+        height: 400
         isCached: true
-  - title: "The Role of Fintech in Achieving a Net Zero Emission Reality"
-    excerpt: "The world is moving toward a net-zero economy, and the financial technology sector may be at the vanguard of this change"
-    publishedDateTime: 2021-11-11T10:04:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/role-fintech-achieving-net-zero-emission-reality"
+  - title: "Artificial Intelligence in BFSI Market Size Forecasted to be Worth USD 68.23 Billion in 2028"
+    excerpt: "According to a recent analysis, the global Artificial Intelligence in BFSI market size is forecast to reach USD 68.23 Billion from USD 5.64 Billion in 2020, at a CAGR of 36.5% over 2021-2028. Increasing adoption of AI in BFSI for fraud prevention applications is expected to drive global Artificial Intelligence in BFSI market growth."
+    publishedDateTime: 2021-11-10T11:59:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-bfsi-market-size-forecasted-to-be-worth-usd-68-23-billion-in-2028/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-in-bfsi-market-size-forecasted-to-be-worth-usd-68-23-billion-in-2028/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-bfsi-market-size-forecasted-to-be-worth-usd-68-23-billion-in-2028/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 48
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/Artificial-Intelligence-in-BFSI.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "AI in Fintech Market 2021 Top manufacturers Records, Size, Market Share & Trends Analysis |CAGR of |[Reports Page No 110]"
+    excerpt: "Reports Page No 110] In 2021, What is “ AI in Fintech Market “ Insights? AI in Fintech Market gives a top to bottom"
+    publishedDateTime: 2021-11-09T03:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-top-manufacturers-records-size-market-share-trends-analysis-cagr-of-reports-page-no-110-2021-11-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Three leading fintech trends to watch in 2022"
+    excerpt: "As the fintech space develops, 2022 will see disruption from three major trends in the finserve and banking industries"
+    publishedDateTime: 2021-11-11T12:45:00Z
+    webUrl: "https://fintechmagazine.com/digital-payments/three-leading-fintech-trends-watch-2022"
     type: article
     provider:
       name: fintechmagazine
       domain: fintechmagazine.com
     quality: 24
     images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/green-forest-with-technological-twist.jpg.png?itok=hnz8TRum"
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1322656065.jpg.png?itok=a1iWWzTF"
         width: 1200
         height: 630
         isCached: true
-  - title: "The dawn of a founder-led startup ecosystem in India"
-    excerpt: "Early and successful Indian serial entrepreneurs are giving back to the community through investments and supports. Over the years, a wide array of factors have accounted for the growth of India’s startup ecosystem."
-    publishedDateTime: 2021-11-08T07:02:00Z
-    webUrl: "https://www.linkedin.com/pulse/dawn-founder-led-startup-ecosystem-india-krasia"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 22
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFUCCbytg3iSA/article-cover_image-shrink_720_1280/0/1636354806696?e=1642032000&v=beta&t=lDksi_MsJegECyDcazi-RiTnmdJa0w5vKaMhlhSN0_U"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "The Key Mobile App Features to Consider for your Fintech App"
-    excerpt: "Almost every major bank, financial organization and investment firm has a fintech presence. For most financial companies it is the mobile apps that remain at the forefront of the fintech revolution they take part in."
-    publishedDateTime: 2021-11-10T03:16:00Z
-    webUrl: "https://www.finextra.com/blogposting/21229/the-key-mobile-app-features-to-consider-for-your-fintech-app"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "uU9BQ47CNU08k2RZ3U+DKL3h28zLnX8Ca7j4ZQxH+uJAKVAbkHh5Vd1NJsxDvQwfbTiYH0uXDQHRQ8/IbpqoQ8H/LJ72nq7bMQ7a8S7zctTjAagE17PfsMOEUGBxii1nS4hHev3jpML+mHRBk5kjGR5dWRP08S7Pkcv04oaM9RmLnzWdRMp4FOQ79NfVwaQKro+jN1LiCONvZJMsHAXn64P8hwEMF+rmFSziwyttkJp1yChgVCs5GbzWR1rAztWi4UJsR7p4O+FzGgoCSirbxJgv7H8PU/ddYw7/mDmvqPFnTZGX3I9mc5MugME5xmLQce7MOcfJXGDcgRH2fLAW9bHUvy2C4hSss28+S7R5f/X0AtyiAw2XDnK3IOt8+XYDi1/cBYPqGjL4nPDfLFz8Bn6kF2RY+NzSq9YWV7C0ZZapiRJenNmbiJHsbe6DEizKmP3QM/ujHzMs/A6CBQy37pYH+VY4M38EQYp5scrTjuGSy5Dn2b2GpxWQnlPElFynhVuRsNK0CViu08p+u9S4Fg==;Y5Fmz606D934cP3YqThpUA=="
 ---

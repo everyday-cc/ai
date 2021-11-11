@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "Robots hit the streets as demand for food delivery grows"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
-    publishedDateTime: 2021-11-06T22:00:00Z
-    webUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.html"
-    ampWebUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.amp.html"
-    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.amp.html"
-    type: article
-    provider:
-      name: Niagara Gazette
-      domain: niagara-gazette.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/b/01/b015bac8-0f3d-5a50-9f7e-7e911196eb67/61835e66e5071.image.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Robots hit the streets as demand for food delivery grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots—knee-high and able to hold around four large pizzas—are now navigating college campuses and even some city sidewalks in the U."
     publishedDateTime: 2021-11-09T03:51:00Z
     webUrl: "https://www.clickondetroit.com/business/2021/11/09/robots-hit-the-streets-as-demand-for-food-delivery-grows/"

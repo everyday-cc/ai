@@ -9,8 +9,8 @@ ampWebUrl: "https://www.clickondetroit.com/business/2021/11/09/robots-hit-the-st
 cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/business/2021/11/09/robots-hit-the-streets-as-demand-for-food-delivery-grows/?outputType=amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: clickondetroit.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots hit the streets as demand for food delivery grows"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
-    publishedDateTime: 2021-11-06T22:00:00Z
-    webUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.html"
-    ampWebUrl: "https://www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.amp.html"
-    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/robots-hit-the-streets-as-demand-for-food-delivery-grows/article_0328e2a6-2180-5fba-be4f-ea665e0c156f.amp.html"
-    type: article
-    provider:
-      name: Niagara Gazette
-      domain: niagara-gazette.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/b/01/b015bac8-0f3d-5a50-9f7e-7e911196eb67/61835e66e5071.image.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Robots hit the streets as demand for food delivery grows"
     excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
     publishedDateTime: 2021-11-08T13:07:00Z

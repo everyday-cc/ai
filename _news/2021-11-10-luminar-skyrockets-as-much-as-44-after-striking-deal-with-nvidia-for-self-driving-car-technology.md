@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/luminar-stock-price-nvidia-lidar-aut
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp"
 type: article
 quality: 61
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -33,20 +33,15 @@ images:
 related:
   - title: "Luminar Lidar to Integrate with NVIDIA DRIVE Hyperion AI Platform; Shares Jump"
     excerpt: "Luminar Technologies (LAZR), the global automotive lidar hardware and software technology provider, announced that its lidar solution has been selected to integrate into the sensor suite of semiconductor maker Nvidia Corporation’s (NVDA) AI vehicle computing platform for autonomous vehicles."
-    publishedDateTime: 2021-11-10T11:15:00Z
-    webUrl: "https://www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/"
-    ampWebUrl: "https://www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump/amp/"
+    publishedDateTime: 2021-11-10T11:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
+    ampWebUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
     type: article
     provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 55
-    images:
-      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/05/Luminar-Technologies.jpg"
-        width: 1000
-        height: 667
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 65
   - title: "Luminar Wins Nvidia Business in Self Driving Deal. It’s a Big Win for the Lidar Maker."
     excerpt: "Lidar maker Luminar Technologies and tech-giant Nvidia are pairing up to put self driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate. Luminar (ticker ..."
     publishedDateTime: 2021-11-09T09:32:00Z
@@ -78,6 +73,20 @@ related:
       - url: "https://images.barrons.com/im-356249/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Inspur Information Announces Full Support for the NVIDIA AI Platform for Inference Processing"
+    excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced at NVIDIA GTC that its AI and Edge inference servers will support NVIDIA A100, A30, and the newly announced A2 Tensor Core GPU s throughout its entire inference server portfolio."
+    publishedDateTime: 2021-11-09T09:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-ae9ac0f26e074e2b8be9e526383c5520"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Luminar Wins Nvidia Business in Self-Driving Deal"
     excerpt: "Text measurement Dreamstime Lidar maker Luminar Technologies and tech-giant Nvidia are pairing as much as put self-driving {hardware} into automobiles. It’s an enormous deal for Luminar and reveals traders the event of autonomous driving know-how goes to speed up."

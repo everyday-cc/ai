@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How credit unions use AI to compete with fintech lenders"
-    excerpt: "Northern Hills Federal Credit Union in South Dakota is one of several institutions testing tools that can deliver faster loan decisions, an edge they need against digital upstarts."
-    publishedDateTime: 2021-11-08T16:32:00Z
-    webUrl: "https://www.americanbanker.com/creditunions/news/how-credit-unions-use-ai-to-compete-with-fintech-lenders"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/c4ecfae/2147483647/strip/true/crop/2946x1547+0+209/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F12%2Fdb%2F1da3cf1a45d3b1207114913d77ba%2Fadobestock-180950831.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Hiring to scaling: 3 fintech unicorn CEOs share what it takes to build a successful company"
     excerpt: "As part of Singapore Fintech Festival 2021, three CEOs of fintech unicorns in Asia — Linklogis, VNLIFE and Advance Intelligence Group — came together as panellists to discuss the key ingredients for success that help to shape and grow a unicorn."
     publishedDateTime: 2021-11-10T09:29:00Z

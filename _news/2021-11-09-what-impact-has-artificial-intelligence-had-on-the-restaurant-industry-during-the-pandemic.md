@@ -38,20 +38,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Shell Offers New AI-Powered Applications Through Open AI Energy Initiative"
-    excerpt: "C3 AI and Shell today announced three new Shell products that will be available through the Open AI Initiative (OAI), an open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
-    publishedDateTime: 2021-11-09T14:19:00Z
-    webUrl: "https://www.lelezard.com/en/news-20092621.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 37
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Application of artificial intelligence and machine learning for HIV prevention interventions"
     excerpt: "In 2019, the US Government announced its goal to end the HIV epidemic within 10 years, mirroring the initiatives set forth by UNAIDS. Public health prevention interventions are a crucial part of this ambitious goal."
     publishedDateTime: 2021-11-08T23:57:00Z
@@ -75,15 +61,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Shell Offers New AI-Powered Applications Through Open AI Energy Initiative"
-    excerpt: "C3 AI (NYSE:AI) and Shell (NYSE:RDS) today announced three new Shell products that will be available through the Open AI Initiative (OAI), an open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
-    publishedDateTime: 2021-11-10T06:58:00Z
-    webUrl: "https://www.businesswireindia.com/shell-offers-new-ai-powered-applications-through-open-ai-energy-initiative-75892.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 17
   - title: "FinTech Global's industry lists affirm Montoux's groundbreaking AI-driven capabilities in life and health insurance"
     excerpt: "Montoux, the Decision Science and Actuarial Automation platform for life and health insurers, was recognized on both 2021 Insurtech100 and AIFintech100 lists by FinTech Global. These lists identify 'The world's most innovative companies' working in insurance and fintech that 'every leader needs to know about in 2021'."
     publishedDateTime: 2021-11-09T14:33:00Z

@@ -8,9 +8,9 @@ webUrl: "https://www.globest.com/2021/11/11/interactive-voice-response-becomes-m
 ampWebUrl: "https://www.globest.com/2021/11/11/interactive-voice-response-becomes-multifamilys-latest-go-to-ai-tool/?amp=1"
 cdnAmpWebUrl: "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2021/11/11/interactive-voice-response-becomes-multifamilys-latest-go-to-ai-tool/?amp=1"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: GlobeSt.com
@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.globest.com/contrib/content/uploads/sites/304/2021/11/Machine-Learning-AI-Hornibrook-OpTech-resize.jpg"
@@ -42,6 +43,6 @@ related:
         height: 500
         isCached: true
 
-secured: "y/p7sxJJt7FuqM92Rop5jwaVHb9hKA4Mfq555YXKqSKv4XajiQA0/CddMOxKJiGVmsmwlB80crj1og3eSBAW1w04drx/LIO0ECbFb8eUD+ZtT7NaQzGajQRyHoUsJaz9/K7AuDDto2uEJb9wtBr5lkq0kxCnfP33swdXxR2ivzC6VSsMZAkgTFCvFCH6gEwxnp6pt9iDLss7WzUMkNdkcpUhA4tyMQviEDERo8oINM3XIM4jb/W7Ic5zoVD5ibmwsNobRWW9sUucLj0kbtLlUoYb8pHm4lzXUgWdHPJJ2r0CH8XErTKnF4QBhczlogybK94E3nLK8VqEOE7LwVtmpb/akwnAn6l1ETtUQlHddr4=;zA16PBeomH3SWxmpe016SQ=="
+secured: "DgcWYGGs9Qx7A+lUT9DJw0WdgdszlGn78eBAoSxPzwUydNukOI6uMpJl2CQ4OWgrVgv4/4J/WrIa7XcDd7OwfvTnWOaf953SHiqvNLO7qstIS45u/hdlAzvNnUc4np+YUB14DaxvhnJvI5kj57oaT38eUAxvgK+IruaIdC5nc2Xdc3CgYBHKqenZpMfSxcPiRfCpEjDF7By9AJwNGr3N+7wVzVEzIpg9l17fEOIJT1zvZaXeWV5QGW/wsWDZEEs1e2zjcZQ/Zp1DoCQiNRAku64wOoR5QB28QCz4LIwgE1MvM5fR8/6t3heGrISfnpiUrYFRCShSyxzuplr9ywlgkCFXqwwslbdBRltmwV73/fIXP1wt/bN9aqM6v+JTgIMwNchQ3Jxf/h0MjdQByIIVmwkqdsboZGYJrlgct8D+Xf4bJuKo6zLimb9lKYx1BenbqYOUIvB9H8Ee0LGmNb+0juEuI+u0OTf3HabEvDvGzRwtjl+8ELqDqQgUI1GuW7E5CLoGjMGc3NlFjFzTfUKtAA==;imc4iIBm02O6k7gLa9FlMg=="
 ---
 

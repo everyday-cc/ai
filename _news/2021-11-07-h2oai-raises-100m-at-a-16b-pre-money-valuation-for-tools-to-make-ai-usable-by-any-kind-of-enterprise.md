@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valua
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Sri-Ambati.png"
         width: 1143
         height: 574
-        isCached: true
-  - title: "Nexus backed H2O.ai raises $100 million in Series E funding at $1.7 billion valuation"
-    excerpt: "Silicon Valley-based artificial intelligence startup H2O.ai Inc, which is backed by Indian venture capital firm Nexus Venture"
-    publishedDateTime: 2021-11-09T08:53:00Z
-    webUrl: "https://www.vccircle.com/nexus-backed-h2o-ai-raises-100-million-in-series-e-funding-at-1-7-billion-valuation"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 30
-    images:
-      - url: "https://assets.vccircle.com/uploads/2021/09/fundingrfxl.jpeg"
-        width: 810
-        height: 506
         isCached: true
 
 secured: "KZvmZ6fhF50YVB4AiqShVDDg+BA/mFA9ZNAYhHu55WCV9oxiv11K4KkMvyvOkygTBaiSoxSEpBWmiG4rVv2mRPgjdQ214twvC74AUqzK37R0Ul5BfwatmxaImxs3sC/9Upy4kkjf8ZPjjSM2BWuhm+D3bF12oM+dzsNGQZPtBPKwzlebdK0KBYGnZ9Y9lD8JeYYcjb7f1uCcbdPZAjlRojgxdD+VbS81Q2UtnjEfZrM0d/VySjoFvvnXF7v8EuqDXr7H58sy3gi28UodQFChBV/+OAjt+srKV6hgJQp0ifzR5GKBkYvvP9QPgOlXZxiPb90oAQe6zKOLUXEkRDQI9eAMmBLY1ot8hGbbcRJkk3hNs6uePWbYk8lrvhc65d7dnb+Cx1Oa9stK/A5WtMVF1rWW5GawaXXFEaYf/OCNGOP36OcDlddeAdekB4PfD88Ow8gD1EDPVGiGbfwU0wZHMOHxCtbzA7aF2uFGPO/PH9IQa32c0L7tIExZRtUxKW0brfi5xM8DqAbgvA9n8YE4oQ==;rsB93rhzDN4Mc5UeZqKcnA=="

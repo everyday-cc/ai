@@ -24,6 +24,66 @@ images:
     isCached: true
 
 related:
+  - title: "AI chip startup Cerebras nabs $250 million Series F round at over $4 billion valuation"
+    excerpt: "New money follows Cerebras's expansion from a single system to a portfolio of products and cloud partnerships."
+    publishedDateTime: 2021-11-10T16:28:00Z
+    webUrl: "https://www.zdnet.com/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 196
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/92729ebb49764ebb9d08476f41908a19f0672ada/2021/04/20/11fc5675-b618-42c2-85fa-979364fdf9e8/wse2-natalia.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 1697
+        isCached: true
+  - title: "Chip developer Cerebas bolsters AI-powered workload capabilities with $250M"
+    excerpt: "The company stated that this capital will let it globally expand its business and deploy its AI-powered CS-2 system to new customers."
+    publishedDateTime: 2021-11-10T20:20:00Z
+    webUrl: "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/"
+    ampWebUrl: "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1317362609-e1636572613687.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "AI chip startup Cerebras Systems raises US$250 million in funding"
+    excerpt: "Cerebras Systems, a Silicon Valley-based startup developing a massive computing chip for artificial intelligence, said on Wednesday that it has raised an additional US$250 million in venture funding,"
+    publishedDateTime: 2021-11-10T15:14:00Z
+    webUrl: "https://www.channelnewsasia.com/business/ai-chip-startup-cerebras-systems-raises-us250-million-funding-2304671"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "AI wafer scale chip startup Cerebras raises $250m at $4bn valuation"
+    excerpt: "Cerebras Systems, the AI semiconductor startup selling the world's largest computer chip, has raised $250 million, valuing the company at $4 billion. The company's Series F round was led by Alpha Wave Ventures,"
+    publishedDateTime: 2021-11-11T10:39:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ai-wafer-scale-chip-startup-cerebras-raises-250m-at-4bn-valuation/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Cerebras_Chip.2e16d0ba.fill-1200x630.jpg"
+        width: 678
+        height: 357
+        isCached: true
   - title: "Artificial Intelligence Chip Startup Nabs $4 Billion Valuation"
     excerpt: "Cerebras Systems Inc., an upstart chipmaker trying to break into the growing market for artificial intelligence processors, raised $250 million in an investment round that valued the company at more than $4 billion."
     publishedDateTime: 2021-11-10T19:42:00Z
@@ -38,38 +98,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Andrew Ng’s Computer Vision Startup Nabs $57 Million"
-    excerpt: "Landing AI, the computer vision startup founded by the computer scientist Andrew Ng to use AI to modernize business process in real-world companies, today"
-    publishedDateTime: 2021-11-09T00:19:00Z
-    webUrl: "https://www.datanami.com/2021/11/08/andrew-ngs-computer-vision-startup-nabs-57-million/"
+  - title: "Cerebras Systems raises $250M for the ‘fastest AI processor on Earth’"
+    excerpt: "Cerebras Systems Inc., the developer of a wafer-sized artificial intelligence chip with 2.6 trillion transistors, has raised $250 million in funding to further develop its technology and expand industry adoption."
+    publishedDateTime: 2021-11-10T20:37:00Z
+    webUrl: "https://siliconangle.com/2021/11/10/cerebras-systems-raises-250m-fastest-ai-processor-earth/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 39
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Industrial_IoT_shutterstock_Blue-Planet-Studio.jpg"
-        width: 1000
-        height: 659
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/cerebras.jpg"
+        width: 718
+        height: 404
         isCached: true
-  - title: "Machine learning software startup H20.ai sees its valuation quadruple to $1.7B in new funding round"
-    excerpt: "H2O.ai Inc.'s valuation more than quadrupled to $1.7 billion in a $100 million funding that the machine learning automation company landed this week. The Mountain View company's Series E funding was led by a customer,"
-    publishedDateTime: 2021-11-08T19:28:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/08/machine-learning-startup-h20-ai-hits-2b-valuation.html"
+  - title: "Nexus backed H2O.ai raises $100 million in Series E funding at $1.7 billion valuation"
+    excerpt: "Silicon Valley-based artificial intelligence startup H2O.ai Inc, which is backed by Indian venture capital firm Nexus Venture"
+    publishedDateTime: 2021-11-09T08:53:00Z
+    webUrl: "https://www.vccircle.com/nexus-backed-h2o-ai-raises-100-million-in-series-e-funding-at-1-7-billion-valuation"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 22
-  - title: "Cincinnati-based AI startup lands $13M in funding, plans HQ move"
-    excerpt: "The team that led a Columbus machine-learning business to acquisition in three years is back, this time with a new AI-for-anyone startup that's raised $12.75 million. CEO Ryan Sevey and CTO Jason Montgomery founded Mantium Inc."
-    publishedDateTime: 2021-11-10T17:22:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/news/2021/11/10/drive-capital-invests-in-ai-for-anybody-mantium.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: VCCircle
+      domain: vccircle.com
+    quality: 30
+    images:
+      - url: "https://assets.vccircle.com/uploads/2021/09/fundingrfxl.jpeg"
+        width: 810
+        height: 506
+        isCached: true
 
 secured: "/qrAjhy7ooeYsoiTAo9DKJA3kaMyYoF7I+WIYDbmpmyhShhFHjScZBK4svJGm3sWNOClUQhff9c5Fh4allsAZyCpA+oeyo4ZuQHxNkdygDbkfVmt2dbReJSNzjP2JikRHum7gwSAFUJq7tZZwlbkxwJgR7BHHQfC/w6yQki1WDsZhk0Jltciw3yGumsJmV81wM+CmX6EQlnKJAVOSlDDb3ZoDhc6iOIDwq7I9/FZfIGdw+8dQsHwoHOxXF7s02CbAoJ+Q8zwItJdi+g37jAyqhIVxa7lMYqU5zO6LxGW1Cg/9Mu+MmDZNe3agmVZeNvttoP6KobFbMpYYDmobN5e1fN8YdMtDsiCLmH3o1+KNpc=;5iAWb5vw8I3zOor+s1P+4g=="
 ---

@@ -4,19 +4,17 @@ title: "Report: 40% of execs say increasing business process efficiency is top b
 excerpt: "The need to boost customer service, employee efficiency, and innovation are three main factors driving an increase in AI adoption."
 publishedDateTime: 2021-11-09T20:00:00Z
 originalUrl: "https://venturebeat.com/2021/11/09/report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai/"
-webUrl: "https://venturebeat.com/2021/11/09/report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai/"
-ampWebUrl: "https://venturebeat.com/2021/11/09/report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai/amp/"
+webUrl: "https://www.cognitivescale.com/survey_drivingadoption/"
 type: article
-quality: 80
-heat: -1
-published: false
+quality: 160
+heat: 170
+published: true
 
 provider:
   name: VentureBeat
   domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +22,9 @@ topics:
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all"
-    width: 1200
-    height: 600
+  - url: "https://www.cognitivescale.com/wp-content/uploads/2020/08/News-Banners-e1636510765124.png"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -47,6 +45,6 @@ related:
         height: 600
         isCached: true
 
-secured: "mqawYtC/bahYIQ6efq+isDzGUAFwNRfe0POKQ9q+KQdOZtu9kxyrXPh7vj1hrlAEjFioZkSqloMWjJw08bNkokPTPzkwDOP19Jq2GLmle8fzNhipfCEZ3sQdsmYWRl9r4g+uA7kDceUxd+7ja6VPJxnWkmtu1+eG87F3phcN18NlWg4Mj463szJB+BWvxFx4o8du16SEguUIKYqDF9cnrEMzAan7/qHSZdP8m8vQ15GxhlaTVZ/UI5WU1t/fopO79ykMrnAoEfBc8f0KSdqTlaeFhgpuLUsrxaxApbJ0xT7aP339zt/29hunDRVVUVO2ALRBscSwvjJO6OkTTawsxkRDc6XAId+hsog/3Qt0NZI=;oP5XIHLuVO2Su9z3Gd+Dqw=="
+secured: "XjGygwBy7eBBYZp+PVNVqJ2fRYeLeZRzCuLleMjue7NP4aGgHYjGrqyjUKJn52rwx7orEAJIsVtGMi/KOF+2ubLqdm+9FoAHt0M62yRPHyWnU8Pebzgmunn0dec0lzTaeA4YuuiLh1FGHiBuWXSO/vRrctoCusEycmDgK6bp1wAfPN9aQX2hxk0tdIzmoaP9CtujqjK3W5iHXYt9G1DMQvRIKpByLrSXiHMFk5S9kLpZ7DSqOW8uJs6W3BGqO8bLqhIGbbVPrAbmUZ1zGgBamEsqPoyd90WYBZdTWdjdA2U6sbohWGUTgxN9BfdwnNy5JgNyPihP1/miB+nFx68tq0g/IFnmr0YcKNiHZRDJECs=;rT6yfGUoDi9u2FvDfZw+bQ=="
 ---
 
