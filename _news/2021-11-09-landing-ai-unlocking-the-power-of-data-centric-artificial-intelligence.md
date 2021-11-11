@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unloc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/amp/"
 type: article
 quality: 108
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://m.economictimes.com/thumb/msid-87584701,width-640,height-480,resizemode-7/raghu-ravinutala.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Scaling enterprise-grade AI: A study in cloud-based AI for automation"
+    excerpt: "From cloud chaos to cloud clarity.” We hope you enjoy this article. In the next several years, the cloud will move the needle for AI from being experimental to becoming an enterprise-wide presence. The two technologies will complement each other."
+    publishedDateTime: 2021-11-11T20:44:00Z
+    webUrl: "https://www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/"
+    ampWebUrl: "https://www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/scaling.png?w=2508"
+        width: 2508
+        height: 1410
         isCached: true
   - title: "The future starts with AI: AI, Automation & Robotics are safeguarding energy and utilities industries"
     excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."

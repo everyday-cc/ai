@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Early Money: 11 Bay Area startups just raised $230M in Series A funds, led by Landing AI's jumbo round"
+    excerpt: "AI helped push the total raised by #BayArea startups in #SeriesA rounds over the last week well past the $200 million mark. #venture"
+    publishedDateTime: 2021-11-11T16:37:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/inno/stories/fundings/2021/11/11/early-money-11-startups-raise-230m-in-series-a.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
+
 secured: "WT8vISnCE+vZ8vHVxXfxsphg7FI6rrmaBpKbkICYMcOsvqoPptglXz+HZge0IfYIeoWIwdqc8bIpFPJ7bzABQXKgb/2eLx2kDCBCZKXDua+Aohw00nn6Xd8dYgiIr00EAR75UHdoNHB3o+vT5maTmgKOobiwA8AKZ8QYw85jx7N4Kes1hnvTJQsiPvT2RtYWPk+FNsJbI+fXvfpm++retjSlxwRd4hqRwTqq3RmdqWm4DAHGY79MRmipp4IlL7PyZmiVD1dgq8oHC+TJjr2a+lxo/IWeSJ55QAgVxXNZtyEny5KlN83RdfVifo5QGEA6ZqO3iBrlLpawRRv39/PgKdcZEVzNL4vV35erIgAnI5s=;V5lAg1mw0RQHDDUBRMMUZA=="
 ---
 

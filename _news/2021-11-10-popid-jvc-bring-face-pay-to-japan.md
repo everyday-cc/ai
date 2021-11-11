@@ -41,6 +41,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "New partnerships, face and iris biometric payment systems for PopID and PayEye"
+    excerpt: "PopID partners with SoftBank subsidiary Japan Computer Vision and Wendy's First Kitchen in Japan, as PayEye presents new tech in Dubai ahead of a pilot."
+    publishedDateTime: 2021-11-11T19:05:00Z
+    webUrl: "https://www.biometricupdate.com/202111/new-partnerships-face-and-iris-biometric-payment-systems-for-popid-and-payeye"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09161443/iris-and-face-biometrics.jpg"
+        width: 1720
+        height: 1032
+        isCached: true
 
 secured: "RODEQi0UjkztxpCHeXX/J7H9Op5BxAGvqtBldbqLoYOraVF5r2OXY0ZQ/EvLTH2w68Okfrg39hfq7prGUGAFwQ1D5gFMrMEWhogOJXIeKFhEZf+u/1QJjtbMqFKIl6YmmmL51RxdEmitAEQfKqXRjBI2ijKokUc3ncRZJ7DRXA4oLuNoW2l1JX1zPibN6ur21B6P6Zw+IzZQv7HWGEA41HOZ/uzRxchGVn3igTUsZ6BXXZjWCO2bVSv1zO+W9Jx+XXsmSkdg6V7MRGHIf5ECj6ZFU/BUTXIep1ksP4DWO/70cg2BeClFs1PEFZgxkAade7woczFRVP5bjKYhk8fFBbASdnKwMtQdPbfOJ8rEzTQ=;qPFhsS4T6u3EEc7l5UYIhw=="
 ---

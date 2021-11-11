@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook shutting down automatic facial recognition in photos"
+    excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
+    publishedDateTime: 2021-11-11T18:00:00Z
+    webUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521"
+    ampWebUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/11/11/faceb.jpg?itok=QLjSS1xF"
+        width: 750
+        height: 393
+        isCached: true
   - title: "Facebook will drop its facial recognition system – but here’s why we should be sceptical"
     excerpt: "Facebook has announced that it will stop using its facial recognition system – the artificial intelligence software which recognises people in photos and videos and generates suggestions about who to “tag” in them."
     publishedDateTime: 2021-11-10T11:22:00Z

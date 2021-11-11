@@ -994,6 +994,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-05-here-are-the-top-10-ways-robotics-is-benefiting-brick-and-mortar-stores-in-2021.md",
+      "title": "Here are the top 10 ways robotics is benefiting brick and mortar stores in 2021",
+      "excerpt": "The utilization of robots in the logistics and production network empowers retailers to accomplish sizeable reserve funds. Here are the top 10 ways robotics is benefiting brick and mortar stores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/10-ways-robotics-is-benefiting-brick-and-mortar-stores/",
+      "originalUrl": "https://www.analyticsinsight.net/10-ways-robotics-is-benefiting-brick-and-mortar-stores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/11/10-Ways-Robotics-is-Benefiting-Brick-and-Mortar-Stores.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-these-robots-follow-you-to-learn-where-to-go.md",
       "title": "These Robots Follow You to Learn Where to Go",
       "excerpt": "Burro makes carts that help growers of trees and vineyards with harvests. Meanwhile, the maker of Vespa scooters wants to carry your groceries.",
@@ -1400,49 +1443,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
-      "title": "Robots hit the streets as demand for food delivery grows",
-      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "originalUrl": "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "publishedDateTime": "2021-11-03T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "seattlepi.com",
-        "domain": "seattlepi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

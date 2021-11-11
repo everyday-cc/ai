@@ -77,20 +77,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Architecture in the Age of Artificial Intelligence"
-    excerpt: "AI - which I like to call Architectural Intelligence - is a tool that will one day allow us architects to fly. This book, like all Neil Leach's books, is a multi-perspective view of a possible future for architecture."
-    publishedDateTime: 2021-11-07T03:54:00Z
-    webUrl: "https://www.bloomsbury.com/in/architecture-in-the-age-of-artificial-intelligence-9781350165540/"
-    type: article
-    provider:
-      name: Bloomsbury
-      domain: bloomsbury.com
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale/jackets/9781350165540.jpg"
-        width: 360
-        height: 563
-        isCached: true
   - title: "The Future is Now - Artificial Intelligence in Diabetes Management is Transforming Diabetes Care"
     excerpt: "\"Diabetes Management Care Using Artificial Intelligence to Improve Patient Outcomes\" Download the most up-to-date research study and application @  The worldwide artificial intelligence in diabetes management industry is expected to grow significantly between 2017 and 2024."
     publishedDateTime: 2021-11-10T22:01:00Z

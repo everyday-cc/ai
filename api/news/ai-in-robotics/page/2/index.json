@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-03-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
+      "title": "Robots hit the streets as demand for food delivery grows",
+      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "originalUrl": "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "publishedDateTime": "2021-11-03T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-3-ways-robots-won-in-2021.md",
       "title": "3 ways robots won in 2021",
       "excerpt": "For all its ups and downs, 2021 has been a phenomenally important year for automation. Robots had a big year. Amid uncertainties related to the pandemic, chronic labor shortages, supply chain catastrophes,",
@@ -236,6 +279,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-02-has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile.md",
+      "title": "Has Robotics Finally Arrived? Benefits Emerge in the Store, Microfulfillment Center and Last Mile",
+      "excerpt": "Robots are already an established part of large-scale warehouses run by behemoths like Amazon. They move swiftly and at scale, covering a lot of ground in a stable, well-routed environment designed specifically for them.",
+      "sourceUrl": null,
+      "webUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile",
+      "originalUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2021/11/robot.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile/amp",
+      "publishedDateTime": "2021-11-02T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-robot-food-delivery-coming-soon-to-a-campus-near-you.md",
       "title": "Robot food delivery, coming soon to a campus near you",
       "excerpt": "Robots navigate the Bowling Green State University campus in Bowling Green, Ohio on Thursday, Oct. 13, 2021. Robot food delivery is no longer the stuff of science fiction. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
@@ -308,6 +394,49 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-from-a-garage-to-swiss-lakes-and-rivers-the-story-of-proteus-an-underwater-robot.md",
+      "title": "From a garage to Swiss lakes and rivers: the story of Proteus, an underwater robot",
+      "excerpt": "The project involved underwater robots, also known as Remotely Operated Vehicles (ROVs). But now Christian wanted to step it up a gear. He not only wanted to build an ROV, but he also wanted to take part at the international MATE ROV Competition 2019 – the biggest ROV competition in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://robohub.org/from-a-garage-to-swiss-lakes-and-rivers-the-story-of-proteus-an-underwater-robot/",
+      "originalUrl": "https://robohub.org/from-a-garage-to-swiss-lakes-and-rivers-the-story-of-proteus-an-underwater-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://robohub.org/wp-content/uploads/2021/11/04_20210616_051338-512x384-1-425x319.jpg",
+          "width": 425,
+          "height": 319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robohub",
+        "domain": "robohub.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -503,6 +632,49 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-boston-dynamics-boasts-spot-robots-dance-moves.md",
+      "title": "Boston Dynamics boasts Spot Robot’s dance moves",
+      "excerpt": "Boston Dynamics is one of the leading engineering companies in the world that specialises in building robots and human simulation software. Spot Robot is one of its best or rather most popular agile mobile robots,",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/boston-dynamics-boasts-spot-robots-dance-moves/",
+      "originalUrl": "https://techstory.in/boston-dynamics-boasts-spot-robots-dance-moves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/10/maxresdefault.jpeg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-30T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1149,196 +1321,6 @@
       "provider": {
         "name": "WOWT.com",
         "domain": "wowt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-robot-taxi-boats-take-to-the-water-in-amsterdam.md",
-      "title": "Robot taxi boats take to the water in Amsterdam",
-      "excerpt": "The self-driving boat, dubbed Roboat III, is the creation of MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the Senseable City Laboratory, and the Amsterdam Institute for Advanced Metropolitan Solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "originalUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b28ff8b30f4357577c4bd78f6367cfa9959b5b56/2021/10/25/c75fd06e-1512-4c6e-9770-86eb11d8f1cc/screenshot-2021-10-25-at-10-58-37.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 791,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "publishedDateTime": "2021-10-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-top-indian-robotics-start-ups-that-have-gained-funding-in-2021.md",
-      "title": "Top Indian Robotics Start-ups that have Gained Funding in 2021",
-      "excerpt": "India has been evolving as the biggest start-ups ecosystem. In which robotics start-ups have a great visible space. Let’s know more about the Indian robotics start-ups funding in 2021 in this article.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/",
-      "originalUrl": "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-Indian-Robotics-Startups-that-have-Gained-Funding-in-2021.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers.md",
-      "title": "Why Many People Are Turning Toward Robots And AI To Help Support Their Mental Health And Careers",
-      "excerpt": "I interviewed Yvette Cameron, Oracle Cloud HCM senior vice-president, to learn more about how technology, artificial intelligence and robots can help workers with their mental health matters and careers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61781b53d924acaeb26729d0%2F0x0.jpg",
-          "width": 1087,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/amp/",
-      "publishedDateTime": "2021-10-26T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-teaching-robots-to-think-like-us-brain-cells-electrical-impulses-steer-robot-though-maze.md",
-      "title": "Teaching robots to think like us: Brain cells, electrical impulses steer robot though maze",
-      "excerpt": "Can intelligence be taught to robots? Advances in physical reservoir computing, a technology that makes sense of brain signals, could contribute to creating artificial intelligence machines that think like us.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.html",
-      "originalUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/teaching-robots-to-thi.jpg",
-          "width": 854,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.amp",
-      "publishedDateTime": "2021-10-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

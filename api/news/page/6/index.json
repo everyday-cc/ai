@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-06-apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-bloomberg-news.md",
+      "title": "Apple Hires Former Tesla Engineer to Boost Self-Driving Car Effort Bloomberg News",
+      "excerpt": "Apple Inc has hired a former engineer from Tesla Inc in an effort to boost its car-development efforts, Bloomberg News reported on Friday, citing people with knowledge of the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
+      "publishedDateTime": "2021-11-05T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-castle-biosciences-publishes-decisiondx-melanoma-study-on-the-validation-of-the-i31-gep-slnb-artificial-intelligence-algorithm.md",
       "title": "Castle Biosciences Publishes DecisionDx®-Melanoma Study on the Validation of the i31-GEP SLNB Artificial Intelligence Algorithm",
       "excerpt": "Castle Biosciences, Inc. (Nasdaq: CSTL), a company applying innovative diagnostics to inform disease management and improve patient outcomes, today announced the publication of a study validating performance of a novel algorithm designed to integrate the DecisionDx ® -Melanoma gene expression profile (GEP) test with clinicopathologic features (i31-GEP SLNB) to determine sentinel lymph node biopsy (SLNB) positivity risk in patients with cutaneous melanoma.",
@@ -438,6 +481,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-here-are-the-top-10-ways-robotics-is-benefiting-brick-and-mortar-stores-in-2021.md",
+      "title": "Here are the top 10 ways robotics is benefiting brick and mortar stores in 2021",
+      "excerpt": "The utilization of robots in the logistics and production network empowers retailers to accomplish sizeable reserve funds. Here are the top 10 ways robotics is benefiting brick and mortar stores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/10-ways-robotics-is-benefiting-brick-and-mortar-stores/",
+      "originalUrl": "https://www.analyticsinsight.net/10-ways-robotics-is-benefiting-brick-and-mortar-stores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/11/10-Ways-Robotics-is-Benefiting-Brick-and-Mortar-Stores.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1137,92 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-opensource-gui-tool-for-opencv-and-deeplearning.md",
-      "title": "OpenSource GUI Tool For OpenCV And DeepLearning",
-      "excerpt": "AI and Deep Learning for computer vision projects has come to the masses. This can be attributed partly to the community projects that help ease the pain for newbies. [Abhishek] contributes one ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
-      "originalUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/02/monkai_feat.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage.md",
-      "title": "SUNY Polytechnic leaders explain causes, solutions behind chip shortage",
-      "excerpt": "Computer chips are a hard find in pandemic times, but it’s not the materials in short supply — it’s the manpower. “Silicon is one of the most abundant elements",
-      "sourceUrl": null,
-      "webUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/",
-      "originalUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news10.com/wp-content/uploads/sites/64/2021/11/SUNY-POLY-STILL.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/amp/",
-      "publishedDateTime": "2021-11-04T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTEN",
-        "domain": "news10.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

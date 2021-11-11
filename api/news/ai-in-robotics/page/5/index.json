@@ -2,6 +2,205 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-10-how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains.md",
+      "title": "How to Move More Goods Through America’s Clogged Infrastructure? Robot Trains",
+      "excerpt": "Self-driving trains could be greener, carry more stuff, and help unclog America’s congested supply chains. And making them a reality will likely be far easier than perfecting autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633812291",
+      "originalUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633812291",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-414056/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633812291",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633812291",
+      "publishedDateTime": "2021-10-09T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-09-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
+      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "excerpt": "AI is quickly becoming more useful in our world, and these two companies are perfectly positioned to benefit from it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
+      "originalUrl": "https://www.fool.com/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F645506%2Fai-button-on-a-circuit-board.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
+      "publishedDateTime": "2021-10-09T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-09-how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains.md",
+      "title": "How to Move More Goods Through America’s Clogged Infrastructure? Robot Trains",
+      "excerpt": "Self-driving trains could be greener, carry more stuff, and help unclog America’s congested supply chains. And making them a reality will likely be far easier than perfecting autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
+      "originalUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-414056/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
+      "publishedDateTime": "2021-10-09T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-09-artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor.md",
+      "title": "Artificial Intelligence and robotics are game-changing courses of future markets: AP government advisor",
+      "excerpt": "The state government advisor said Andhra Pradesh was the first state to include skill development as part of the curriculum at the graduation level.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/articleshow/86890710.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/articleshow/86890710.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-86890895,width-1070,height-580,imgsize-86670,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/amp_articleshow/86890710.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/amp_articleshow/86890710.cms",
+      "publishedDateTime": "2021-10-09T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-09-sophia-the-first-android-with-citizenship-now-wants-to-have-a-robot-baby.md",
       "title": "Sophia, the first android with citizenship, now wants to have a robot baby",
       "excerpt": "In early 2021, the Hanson Robotics company announced that they would start the production of hundreds of robots with Artificial Intelligence like Sophia, to help fight Covid-19.",
@@ -1202,196 +1401,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-fruitcore-robotics-closes-20m-series-a.md",
-      "title": "Fruitcore Robotics closes $20M Series A",
-      "excerpt": "Fruitcore Robotics plans to expand its engineering, sales and support teams in Europe as it continues to grow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/fruitcore-robotics-closes-20m-series-a/",
-      "originalUrl": "https://www.therobotreport.com/fruitcore-robotics-closes-20m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/10/fruitcore-robotics-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-robots-give-greeces-postal-service-speed-boost.md",
-      "title": "Robots give Greece's postal service speed boost",
-      "excerpt": "There's a new addition to Greece's postal service: a fleet of yellow robots sorting through the mail. Fifty-five small, four-wheeled autonomous mobile robots -- or AMR's -- powered by artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/robots-give-greeces-postal-service-speed-boost-2021-10-05/",
-      "originalUrl": "https://www.reuters.com/technology/robots-give-greeces-postal-service-speed-boost-2021-10-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/mw--lj5UsgWqAMr7Rax6sj6IVLk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R2WEQVYR3ZNKFC3PWJSIQACGEU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-forget-about-cars-honda-wants-flying-vehicles-avatar-robots-and-rockets.md",
-      "title": "Forget about cars: Honda wants flying vehicles, avatar robots, and rockets",
-      "excerpt": "Honda R&D Co., the company’s innovations arm, will be leading the efforts to produce an eVTOL (electric vertical take-off and landing) aircraft, an avatar robot, and space tech. First up, Honda’s foray into an entirely new",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech",
-      "originalUrl": "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-16-2.jpg&signature=43f2a28c8d2f3abde4fe4d01c91fa1f9",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-robots-at-dubai-expo-have-multiple-roles-while-interacting-with-visitors.md",
-      "title": "Robots at Dubai Expo have multiple roles while interacting with visitors",
-      "excerpt": "Dubai, the first World Expo ever held in the Middle East, Africa, and South Asia (MEASA) region got underway on Thursday, visitors to the",
-      "sourceUrl": null,
-      "webUrl": "https://english.alarabiya.net/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
-      "originalUrl": "https://english.alarabiya.net/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vid.alarabiya.net/images/2021/10/05/aec11461-ea75-4082-8b28-e9b168a5d468/aec11461-ea75-4082-8b28-e9b168a5d468_16x9_600x338.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
-      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
-      "publishedDateTime": "2021-10-05T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "العربية.نت",
-        "domain": "alarabiya.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

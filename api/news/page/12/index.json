@@ -2,6 +2,197 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-11-01-dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars.md",
+      "title": "Dump Truck Accident Pours Liquid Asphalt From Overpass Onto Vehicles Below, Providing Lessons For AI Self-Driving Cars",
+      "excerpt": "The recent news report about a dump truck that inadvertently spewed hot asphalt from an overpass onto a freeway is closely examined, and lessons for AI-based self-driving cars are gleaned from the harrowing event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d133c17070cc69341f362d%2F0x0.jpg%3FcropX1%3D344%26cropX2%3D1919%26cropY1%3D21%26cropY2%3D1203",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-11-01T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-venture-capital-drawn-to-ai-and-data-fintechs-as-next-connected-economy-unicorns.md",
+      "title": "Venture Capital Drawn to AI and Data FinTechs as Next Connected Economy Unicorns",
+      "excerpt": "Blumberg Capital Founder and Managing Partner David Blumberg laid out his company’s vision for funding vital problem-solving FinTechs that scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/connectedeconomy/2021/venture-capital-drawn-to-ai-data-fintechs-as-next-connected-economy-unicorns/",
+      "originalUrl": "https://www.pymnts.com/connectedeconomy/2021/venture-capital-drawn-to-ai-data-fintechs-as-next-connected-economy-unicorns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/connectedeconomy/2021/venture-capital-drawn-to-ai-data-fintechs-as-next-connected-economy-unicorns/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/connectedeconomy/2021/venture-capital-drawn-to-ai-data-fintechs-as-next-connected-economy-unicorns/amp/",
+      "publishedDateTime": "2021-11-01T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform.md",
+      "title": "OctoML raises $85M for it for its machine learning acceleration platform",
+      "excerpt": "OctoML, a Seattle-based startup that helps enterprises optimize and deploy their machine learning models, today announced that it has raised a $85 million Series C round led by Tiger Global Management.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/",
+      "originalUrl": "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 258,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gpO4y1mPMWA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/",
+      "publishedDateTime": "2021-11-01T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-top-10-robotics-stories-of-october.md",
+      "title": "Top 10 robotics stories of October",
+      "excerpt": "DeepMind acquiring MuJoCo and Waymo's self-driving cars getting stuck on a dead-end street in SF captured your attention in October 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/top-10-robotics-stories-of-october-2021/",
+      "originalUrl": "https://www.therobotreport.com/top-10-robotics-stories-of-october-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/11/october-2021-recap-web.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-why-should-humankind-strive-to-build-artificial-general-intelligence.md",
       "title": "Why Should Humankind Strive To Build Artificial General Intelligence?",
       "excerpt": "Artificial intelligence, or AI, has been a buzzword for a while now. Although it has its own set of rewards and accolades mustered through disciplines like machine learning (ML), deep learning (DL) and natural language processing (NLP),",
@@ -1021,196 +1212,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder.md",
-      "title": "Use Of Artificial Intelligence (AI) In Content Marketing Was Huge In 2022, Says Scalenut Founder",
-      "excerpt": "Scalenut is a next-gen AI-powered platform for content research and content creation. From short-form to long-form, its AI writes everything.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/website/story/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
-      "originalUrl": "https://www.outlookindia.com/website/story/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.outlookindia.com/public/uploads/articles/2021/10/31/Mayank-Jain-Co-Founder-Scalenut1_550_550.jpg",
-          "width": 550,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
-      "publishedDateTime": "2021-10-31T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-ai-weiweis-artistic-rebellion.md",
-      "title": "Ai Weiwei’s Artistic Rebellion",
-      "excerpt": "The artist-activist on his most beloved objects and his new memoir, “1000 Years of Joys and Sorrows,” which charts his father’s life, and his own, as an “enemy of the state.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-weiweis-artistic-rebellion-11635683260",
-      "originalUrl": "https://www.wsj.com/articles/ai-weiweis-artistic-rebellion-11635683260",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-422318/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-weiweis-artistic-rebellion-11635683260",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiweis-artistic-rebellion-11635683260",
-      "publishedDateTime": "2021-10-31T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-symantec.md",
-      "title": "Artificial Intelligence (AI) in Cyber Security Market Next Big Thing : Major Giants BAE Systems, Cisco, Symantec",
-      "excerpt": "Latest Study on Industrial Growth of Artificial Intelligence AI in Cyber Security Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the Artificial Intelligence AI in Cyber Security market The report contains different market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2448621/artificial-intelligence-ai-in-cyber-security-market-next-big",
-      "originalUrl": "https://www.openpr.com/news/2448621/artificial-intelligence-ai-in-cyber-security-market-next-big",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua31654763_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2448621/artificial-intelligence-ai-in-cyber-security-market-next-big",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2448621/artificial-intelligence-ai-in-cyber-security-market-next-big",
-      "publishedDateTime": "2021-10-31T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-security-ai-is-the-next-big-thing.md",
-      "title": "Security AI is the next big thing",
-      "excerpt": "This isn't a takeover by cybersecurity AI; it's a force multiplier for security teams and doing a lot of work behind the scenes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/",
-      "originalUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/Cybertron-Full-small.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/",
-      "publishedDateTime": "2021-10-30T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

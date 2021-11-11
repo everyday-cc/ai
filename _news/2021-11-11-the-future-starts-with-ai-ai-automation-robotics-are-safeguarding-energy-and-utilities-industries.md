@@ -71,6 +71,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Scaling enterprise-grade AI: A study in cloud-based AI for automation"
+    excerpt: "From cloud chaos to cloud clarity.” We hope you enjoy this article. In the next several years, the cloud will move the needle for AI from being experimental to becoming an enterprise-wide presence. The two technologies will complement each other."
+    publishedDateTime: 2021-11-11T20:44:00Z
+    webUrl: "https://www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/"
+    ampWebUrl: "https://www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/scaling.png?w=2508"
+        width: 2508
+        height: 1410
+        isCached: true
   - title: "Tencent reveals three data center chips - for AI, video transcoding, and networking"
     excerpt: "Chinese technology and media giant Tencent has announced three chips for the data center. Zixiao is an artificial intelligence chip focused on processing images, video and natural language; Canghai is a video transcoding device;"
     publishedDateTime: 2021-11-10T11:17:00Z

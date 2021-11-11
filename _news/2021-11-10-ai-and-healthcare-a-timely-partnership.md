@@ -73,20 +73,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Architecture in the Age of Artificial Intelligence"
-    excerpt: "AI - which I like to call Architectural Intelligence - is a tool that will one day allow us architects to fly. This book, like all Neil Leach's books, is a multi-perspective view of a possible future for architecture."
-    publishedDateTime: 2021-11-07T03:54:00Z
-    webUrl: "https://www.bloomsbury.com/in/architecture-in-the-age-of-artificial-intelligence-9781350165540/"
-    type: article
-    provider:
-      name: Bloomsbury
-      domain: bloomsbury.com
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale/jackets/9781350165540.jpg"
-        width: 360
-        height: 563
-        isCached: true
   - title: "AI Journey discusses digital healthcare"
     excerpt: "Digital healthcare technology evolved fast before the pandemic: the industry would use many designs like smart watches, disinfection robots in clinics, and bioprinting robots, AI for drug development and repurposing,"
     publishedDateTime: 2021-11-11T09:37:00Z

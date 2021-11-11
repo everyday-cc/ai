@@ -2,6 +2,178 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-12-singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial.md",
+      "title": "Singapore sends Xavier the robot to help police keep streets safe under three-week trial",
+      "excerpt": "Singapore's Home Team Science and Technology Agency (HTX) roving robot has hit the streets of Toa Payoh ... health and safety.\" Over a three-week trial period, Xavier will detect \"undesirable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/ar-AAOcBbQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/93ef6a41135ffe35b9de2f4c77ab57bccc93e39b/2021/09/07/dc92ae6e-f0f0-4901-ba9d-0783c4e4c8cc/xavier-at-toa-payoh-central.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
+      "publishedDateTime": "2021-09-11T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "zdnet.com/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
+        "domain": "zdnet.com/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-mit-robotics-experts-create-pair-of-shoulder-mounted-arms-to-give-us-six-limbs.md",
+      "title": "MIT robotics experts create pair of shoulder-mounted arms to give us six limbs",
+      "excerpt": "And now roboticists at the Massachusetts Institute of Technology have created robotic arms that can ... to a person’s body and cannot be controlled by the mind. Scroll down for video The extra ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-2647170/Turning-humans-INSECTS-Robotics-experts-create-extra-pair-shoulder-mounted-arms-six-limbs.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-2647170/Turning-humans-INSECTS-Robotics-experts-create-extra-pair-shoulder-mounted-arms-six-limbs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/i/pix/2014/06/03/article-2647170-1E6E525F00000578-516_636x382.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-2647170/amp/Turning-humans-INSECTS-Robotics-experts-create-extra-pair-shoulder-mounted-arms-six-limbs.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-2647170/amp/Turning-humans-INSECTS-Robotics-experts-create-extra-pair-shoulder-mounted-arms-six-limbs.html",
+      "publishedDateTime": "2021-09-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-small-mighty-robots-mimic-the-powerful-punch-of-mantis-shrimp.md",
+      "title": "Small, Mighty Robots Mimic the Powerful Punch of Mantis Shrimp",
+      "excerpt": "Modeling the mechanics of the strongest punch in the animal kingdom, researchers with U.S. Army funding built a robot that mimics the movement of the mantis shrimp. These pugnacious crustaceans could pave the way for small,",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
+      "originalUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2021/09/mantis-shrimp-robot-neurosinces.jpg",
+          "width": 769,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
+      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
+      "publishedDateTime": "2021-09-11T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-agile-robots-closes-220m-series-c-funding.md",
+      "title": "Agile Robots closes $220M Series C funding",
+      "excerpt": "Agile Robots, closes a $220M Series C round - to enable the company to extend its product and expand its global market reach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "originalUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/agile-robots-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-the-best-robotic-lawnmowers-for-2021.md",
       "title": "The best robotic lawnmowers for 2021",
       "excerpt": "You can control this lawn care device through your ... and more. Yes. Keep in mind that a robotic mower may not offer the same power and features as a traditional push mower, gas- or electric ...",

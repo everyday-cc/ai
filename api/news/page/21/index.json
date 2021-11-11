@@ -2,6 +2,249 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-10-26-agencies-face-continued-challenges-making-security-data-ready-for-machine-learning.md",
+      "title": "Agencies face continued challenges making security data ready for machine learning",
+      "excerpt": "Proofpoint fraud expert Rob Holmes looks at how threat actors are exploiting agency supply chains to launch imposter email attacks and compromise agency networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/category/sponsored-content/",
+      "originalUrl": "https://www.fedscoop.com/category/sponsored-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
+          "width": 629,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony.md",
+      "title": "Frances Haugen: Key moments from Facebook whistleblower's UK parliamentary testimony",
+      "excerpt": "The former Facebook product engineer answered questions from lawmakers on regulation, Instagram Kids and whether she thought Facebook was evil.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/b08c5Epe3NTGTrmK4QYvTgFuIsQ=/1200x630/2021/10/25/943d7bc3-8a31-4cd3-9a2c-eeb0a0b39f77/screenshot-2021-10-25-at-14-36-38.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "publishedDateTime": "2021-10-25T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-the-coming-convergence-of-nfts-and-artificial-intelligence.md",
+      "title": "The Coming Convergence of NFTs and Artificial Intelligence",
+      "excerpt": "Building AI capabilities into the lifecycle of NFTs opens the door to forms of intelligent ownership, says the CEO of IntoTheBlock.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
+      "originalUrl": "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coindesk.com/resizer/337Dm4j0iUQkmYa0l8YD8QPsAXQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LANV5ORSRJAIRN7KPVV7V2ZCDE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
+      "publishedDateTime": "2021-10-25T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-the-facebook-whistle-blower-brings-her-campaign-to-europe-after-her-disclosures.md",
+      "title": "The Facebook whistle-blower brings her campaign to Europe after her disclosures.",
+      "excerpt": "Beginning a European tour in Britain, the former Facebook manager was questioned by policymakers drafting tougher tech regulations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
+      "originalUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/25/business/25economy-briefing-facebook-haugen/25economy-briefing-facebook-haugen-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html",
+      "publishedDateTime": "2021-10-25T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-the-best-kirby-games-ranked-from-best-to-worst.md",
+      "title": "The best Kirby games, ranked from best to worst",
+      "excerpt": "Looking at Kirby's entire catalogue of games is overwhelming. Here's our best attempt to go through all the best Kirby games and rank them from best to worst.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/",
+      "originalUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/kirby-star-allies-review-4.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/?amp",
+      "publishedDateTime": "2021-10-25T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-ai-open-platform-market-may-set-new-growth-story-with-aws-hpe-microsoft-google.md",
       "title": "AI Open Platform Market May Set New Growth Story with AWS, HPE, Microsoft, Google",
       "excerpt": "While emphasizing the key driving and restraining forces for this ... Jingdong, Alibaba, Huawei, Baidu, Tencent & Jinshan AI Open Platform Market Study guarantees you to remain / stay advised ...",
@@ -953,249 +1196,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-some-say-self-driving-robotaxi-isnt-a-business-billions-are-being-bet-that-it-is.md",
-      "title": "Some Say Self-Driving Robotaxi Isn’t A Business; Billions Are Being Bet That It Is",
-      "excerpt": "Some people contest the idea that the robotaxi business that many firms are investing billions in will be worth it. What will it take to tap the potential trillions of revenue that has everybody so excited?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-driving-robotaxi-isnt-a-business--billions-are-being-bet-that-it-is/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-driving-robotaxi-isnt-a-business--billions-are-being-bet-that-it-is/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6175e665d6aa65ab93407785%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-driving-robotaxi-isnt-a-business--billions-are-being-bet-that-it-is/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-driving-robotaxi-isnt-a-business--billions-are-being-bet-that-it-is/amp/",
-      "publishedDateTime": "2021-10-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-tesla-pulls-latest-full-self-driving-beta-less-than-a-day-after-release.md",
-      "title": "Tesla pulls latest Full Self-Driving beta less than a day after release",
-      "excerpt": "Tesla boss Elon Musk said on Sunday the automaker had pulled the latest version of its Full Self-Driving feature after discovering a number of issues with it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/",
-      "originalUrl": "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/tesla-fsd-demo.jpg",
-          "width": 1135,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp",
-      "publishedDateTime": "2021-10-25T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-artificial-intelligence-the-enemy-and-the-solution.md",
-      "title": "Artificial Intelligence: The Enemy and The Solution",
-      "excerpt": "How do we prevent AI from being used as a tool for cyberattacks? We need to come up with ways to keep AI under control and stop hackers from manipulating automated computer systems and cause them to take actions they were never intended to take.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/",
-      "originalUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/10/artificial-intelligence-the-enemy-and-the-solution_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/",
-      "publishedDateTime": "2021-10-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches.md",
-      "title": "Four Phases Of Analytics Evolution: From Spreadsheets To AI Workbenches",
-      "excerpt": "Four phases of growth in analytics tech. getty. Many years ago, I went looking for some “desktop AI”—artificial intelligence that would allow me to tease out trends in data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/",
-      "originalUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174516510646884d19ee044%2F0x0.jpg",
-          "width": 1200,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/",
-      "publishedDateTime": "2021-10-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-introduce-robotics-ai-in-curriculum.md",
-      "title": "Introduce robotics, AI in curriculum",
-      "excerpt": "Our annual survey of CXOs and decision makers has revealed that as we emerge from the current crisis, optimism with regard to AI has gone up significantly from 72 percent to 92 percent, and the rate of AI adoption has increased from 62 percent to 70 percent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
-      "originalUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.monitor.co.ug/resource/blob/3574060/bb0203f685069f14f00a1b5d66bf87f5/comm03pix-data.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
-      "cdnAmpWebUrl": "https://www-monitor-co-ug.cdn.ampproject.org/c/s/www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
-      "publishedDateTime": "2021-10-25T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Monitor",
-        "domain": "monitor.co.ug",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

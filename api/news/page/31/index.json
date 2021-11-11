@@ -2,6 +2,222 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-10-17-you-can-now-pay-for-ride-fares-in-the-moscow-subway-with-your-face.md",
+      "title": "You Can Now Pay for Ride Fares in the Moscow Subway With Your Face",
+      "excerpt": "As of this week, you can even pay for subway fares with your face. Before you ask where you can sign up, this new facial recognition payment system has debuted in Russia, sparking concerns that it will be used by authorities as a surveillance tool.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989",
+      "originalUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/578fa339d916724cb77388670d5ea274.jpg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989/amp",
+      "publishedDateTime": "2021-10-17T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-17-amazon-to-extend-ban-on-police-use-of-face-recognition-tech.md",
+      "title": "Amazon to Extend Ban on Police Use of Face Recognition Tech",
+      "excerpt": "Activists have targeted Amazon Web Services cloud computing unit's \"Rekognition\" facial recognition technology and Ring surveillance cameras used for home security. It was not clear the degree to which police have used the systems. Amazon last year called ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
+      "originalUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
+      "publishedDateTime": "2021-10-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-10-17-the-tiniest-computer-vision-platform-just-got-better.md",
+      "title": "The Tiniest Computer Vision Platform Just Got Better",
+      "excerpt": "The future, if you believe the ad copy, is a world filled with cameras backed by intelligence, neural nets, and computer vision. Despite the hype, this may actually turn out to be true ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
+      "originalUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/09/openmvheader.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-17-gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta.md",
+      "title": "Gitex 2021: New innovations in self-driving transportation, smart parking to be unveiled by RTA",
+      "excerpt": "Dubai's Roads and Transport Authority (RTA) will unveil technology that uses artificial intelligence (AI ... projects qualified for the finals of the Dubai World Challenge for Self-Driving Transport 2021. “RTA has an integrated roadmap for the future ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta",
+      "originalUrl": "https://www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=4707ce77-230a-5048-af0b-1ba6a5c4d314&function=cropresize&type=preview&source=false&q=75&crop_w=0.92188&crop_h=0.99999&x=0.03906&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta?amp=1",
+      "publishedDateTime": "2021-10-16T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-17-nalsar-chss-to-empower-security-agencies-with-ai-course.md",
+      "title": "NALSAR, CHSS to empower security agencies with AI course",
+      "excerpt": "Hyderabad: The NALSAR University of Law and the Centre for Human Security Studies (CHSS) have joined hands to organise Artificial Intelligence (AI) for Smart Policing. The 3-day Executive Certificate Program (ECP) to All India Police Departments and Central Paramilitary Forces (CISF-CRPF-SSB-ITBP-BSF) and other important law enforcement agencies in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
+      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/10/16/1117482-nalsr.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
+      "publishedDateTime": "2021-10-16T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-10-17-self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents.md",
       "title": "Self-driving Waymo cars gather in a San Francisco neighborhood, confusing residents",
       "excerpt": "It was a modern mystery. In a tiny neighborhood in San Francisco's Richmond District, self-driving Waymo cars have been converging at all hours of the",
@@ -885,239 +1101,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos.md",
-      "title": "Spot AI emerges from stealth with $22M with a platform to draw out more intelligence from organizations’ basic security videos",
-      "excerpt": "Security cameras, for better or for worse, are part and parcel of how many businesses monitor spaces in the workplace for security or operational reasons. Now, a startup is coming out of stealth with funding for tech designed to make the video produced by those cameras more useful.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/",
-      "originalUrl": "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/spot-ai-video-frame.jpg?w=1024",
-          "width": 1024,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/amp/",
-      "publishedDateTime": "2021-10-15T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-duke-computer-scientist-wins-nobel-prize-worth-1m-for-artificial-intelligence-work.md",
-      "title": "Duke computer scientist wins ‘Nobel Prize’ worth $1M for artificial intelligence work",
-      "excerpt": "After 15 years of advocating for and developing \"interpretable\" machine learning algorithms that allow humans to see inside AI, Cynthia Rudin's contributions to the field have earned he",
-      "sourceUrl": null,
-      "webUrl": "https://pratt.duke.edu/about/news/rudin-squirrel-award",
-      "originalUrl": "https://www.wraltechwire.com/2021/10/15/duke-computer-scientist-wins-nobel-prize-worth-1m-for-artificial-intelligence-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pratt.duke.edu/sites/pratt.duke.edu/files/images/news/feature/rudin-feature.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-paris-based-natural-language-processing-and-ai-automation-startup-expands-globally-with-new-york-city-headquarters.md",
-      "title": "Paris-Based Natural Language Processing and AI Automation Startup Expands Globally with New York City Headquarters",
-      "excerpt": "PARIS, Oct. 15, 2021 /PRNewswire/ -- Yseop, a pioneer in Natural Language Processing (NLP) and world-leading AI software company, today announced the expansion of its global operations in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/10/n23394132/paris-based-natural-language-processing-and-ai-automation-startup-expands-globally-with-new-york-c",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/10/n23394132/paris-based-natural-language-processing-and-ai-automation-startup-expands-globally-with-new-york-c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23394132",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23394132",
-      "publishedDateTime": "2021-10-15T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data.md",
-      "title": "Clarifai moves beyond computer vision to manage companies’ unstructured data",
-      "excerpt": "Clarifai enables customers to make sense of the 90% of unstructured data they have using artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
-      "originalUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1168836247-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
-      "publishedDateTime": "2021-10-15T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-truly-smart-robots-know-when-to-ask-for-help.md",
-      "title": "Truly Smart Robots Know When To Ask For Help",
-      "excerpt": "Ask a manufacturing company what their current top headaches are, and supply chain disruptions and staff shortages will probably top the list. Vecna Robotics might have the solution for both. Vecna Robotics develops autonomous mobile robots (AMRs) used in distribution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/",
-      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61696387164eb221966729d2%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/amp/",
-      "publishedDateTime": "2021-10-15T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

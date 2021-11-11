@@ -31,14 +31,19 @@ images:
 
 related:
   - title: "Standard AI Completes Computer Vision Acquisition, Bolsters ML Leadership to Drive the Future of Autonomous Retail"
-    excerpt: "Circle K, Compass Group and others look to Standard AI to transform existing retail and convenience stores to deliver an amazing shopping experience to customers. The first and best-funded startup in this space, Standard AI has launched multiple ..."
-    publishedDateTime: 2021-11-10T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail"
+    excerpt: "Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based computer vision company, ThirdEye Labs (“ThirdEye”); and added Sameer Qureshi, who joins from ..."
+    publishedDateTime: 2021-11-10T17:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-7e05400f94394a46ae38b0a4611b3a6f"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 29
+      name: Associated Press
+      domain: apnews.com
+    quality: 49
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "RX7MDZo9HyahJWwsZ0UDW6+PZ+bKYZDvPQ9MOwnP6fYQYFIoxkyZ+oCUgOKFc0TgTNxZBqMrKLtuPF60yDBTkFs3zqVCxWT5X8Nd0yc5yTav+MAZynZJyhJbYOqv7bnM7+/LSvIenWxMPaTKuHgC9er6w/v4xa5XGImZwdwGl7wUL6RV/8UWXgZFJ4AMTL7Ljs179jTWRujmqQ8H5A0uDCg45wOxqMBkeVcUBd+Sb+U6ysr/dvBnTaprPwhSYS81LbYitbIURzVCuMS6IZpNGHgWbGZ0NJz17RTaJ0+yCrCfLNkblWSwb4TGvqFPri8YXkSzH2u/LFiVf0dzlfONocBkIYVc0VvWL2UyN6wYWONJ5cIcgfWF4axuTzXhB9dHH+1RsvqS18iN/31dFxYrh3ul94mrO1QSKMOqez+Cvy7tYBaxInbsI5fb5Zj/lVnxbaqpzL3PJB6L3naRBUnRTBbNmpFn1kw4nSB1SPnShjF3eUy+IT0csiGzCXy4IehKAYa3sF382zhTMu70DMZUbA==;AQUvslee+Y0nT9ySJwS88g=="
 ---

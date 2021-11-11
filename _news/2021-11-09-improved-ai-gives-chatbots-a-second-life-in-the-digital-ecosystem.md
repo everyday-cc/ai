@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/improved-ai-gi
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/improved-ai-gives-chatbots-second-life-in-digital-ecosystem/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/want-to-throw-off-your.jpg"
         width: 960
         height: 540
+        isCached: true
+  - title: "We studied suicide notes to learn about the language of despair – and we’re training AI chatbots to do the same"
+    excerpt: "Individuals who experience suicidal thoughts can show signs of this in the language they use. We analysed more than 100 suicide notes to find these language patterns."
+    publishedDateTime: 2021-11-11T18:57:00Z
+    webUrl: "https://theconversation.com/we-studied-suicide-notes-to-learn-about-the-language-of-despair-and-were-training-ai-chatbots-to-do-the-same-169828"
+    ampWebUrl: "https://theconversation.com/amp/we-studied-suicide-notes-to-learn-about-the-language-of-despair-and-were-training-ai-chatbots-to-do-the-same-169828"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-studied-suicide-notes-to-learn-about-the-language-of-despair-and-were-training-ai-chatbots-to-do-the-same-169828"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 39
+    images:
+      - url: "https://images.theconversation.com/files/431426/original/file-20211111-21-cbuohc.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=214&fit=crop"
+        width: 320
+        height: 214
         isCached: true
   - title: "AI shop assistants: get ready for a world where you can’t tell humans and chatbots apart"
     excerpt: "I regularly fly with KLM from Minneapolis to New Delhi, and always stop over in Amsterdam. I am frequently in Minneapolis for research and this is my route to go home to take a break from work. I have done the journey so many times that I know almost all the shops at Schiphol inside"

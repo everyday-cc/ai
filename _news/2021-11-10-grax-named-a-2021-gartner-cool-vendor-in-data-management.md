@@ -24,24 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "TCS Recognized as a Leader in Gartner® Magic Quadrant™ for Data Center Outsourcing & Hybrid Infrastructure Managed Services, Global"
-    excerpt: "MUMBAI: Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has been positioned as a Leader in the Gartner Magic Quad"
-    publishedDateTime: 2021-11-07T03:23:00Z
-    webUrl: "https://indiaeducationdiary.in/tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-data-center-outsourcing-hybrid-infrastructure-managed-services-global-2/"
-    ampWebUrl: "https://indiaeducationdiary.in/tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-data-center-outsourcing-hybrid-infrastructure-managed-services-global-2/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-data-center-outsourcing-hybrid-infrastructure-managed-services-global-2/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 14
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/08/tcsjpg.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
 secured: "fsBPb/hvFT4eoLLporjP0d+oWsi7TXKlRHBksFFk7WMG/uMawKLI2/s9bn6cN0oZrqnfwe6pr9bo9tT0Xg5ht54eOt/eUl1WaZAZ6ztVff83Jq7wDFmVAhdVqbio1w2rWsoR6xpVXAlBOpP48OcY1uUFKIGcOv7sDY7xvkibPDJOivIXgeodtsijteTIAW9JLoKb4Na8/iALMgwAod2kTUOs3WmcNHoNynAUi8rTY50fLfUePlBXyQzuIl5IByUnNzeXssJIdwpZI+10EcUdxhi/Mi/CSXbaq3mEusTmEMNuQQGLO987mHa6UaSqvV51rj87IRMObbUHwpn33/4ex05IaP3UNvqZHHOetxdmPnw=;yXEIEebvz/H9Jm2urPSaTg=="
 ---
 
