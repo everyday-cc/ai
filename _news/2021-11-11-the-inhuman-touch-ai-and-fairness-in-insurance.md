@@ -1,31 +1,27 @@
 ---
 category: news
-title: "AI and Healthcare: A timely partnership"
-excerpt: "Today, almost every field is leveraging AI irrespective of the sectors or industries. Every day, AI is getting increasingly sophisticated at doing what we can do."
-publishedDateTime: 2021-11-10T06:11:00Z
-originalUrl: "https://www.linkedin.com/pulse/ai-healthcare-timely-partnership-raju-kumar"
-webUrl: "https://www.linkedin.com/pulse/ai-healthcare-timely-partnership-raju-kumar"
+title: "The (in)human touch: AI and fairness in insurance"
+excerpt: "AI could revolutionise how insurers process claims. It could even improve insurance's image. But can AI insurance be fairer? People don’t trust insurers. We’ve probably all had to contact an insurer about a problem only to find it’s not covered in the small print."
+publishedDateTime: 2021-11-11T05:49:00Z
+originalUrl: "https://www.pharmaceutical-technology.com/features/the-inhuman-touch-ai-and-fairness-in-insurance/"
+webUrl: "https://www.pharmaceutical-technology.com/features/the-inhuman-touch-ai-and-fairness-in-insurance/"
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: LinkedIn
-  domain: linkedin.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Pharmaceutical Technology
+  domain: pharmaceutical-technology.com
 
 topics:
-  - AI in Healthcare
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C5612AQFLbpBjEvhD-w/article-cover_image-shrink_600_2000/0/1636524697847?e=1642032000&v=beta&t=GGKDExtDKUhls3heeV1JVvZOsVruKQwCYrrdBhoyfQc"
-    width: 1024
-    height: 512
+  - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/09/shutterstock_1043017390.jpg"
+    width: 1000
+    height: 562
     isCached: true
 
 related:
@@ -45,6 +41,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI and Healthcare: A timely partnership"
+    excerpt: "Today, almost every field is leveraging AI irrespective of the sectors or industries. Every day, AI is getting increasingly sophisticated at doing what we can do."
+    publishedDateTime: 2021-11-10T06:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-healthcare-timely-partnership-raju-kumar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFLbpBjEvhD-w/article-cover_image-shrink_600_2000/0/1636524697847?e=1642032000&v=beta&t=GGKDExtDKUhls3heeV1JVvZOsVruKQwCYrrdBhoyfQc"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2030"
     excerpt: "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Nov 10, 2021, 23:02 /Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $ ..."
     publishedDateTime: 2021-11-11T05:40:00Z
@@ -58,20 +68,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?232578"
         width: 261
         height: 250
-        isCached: true
-  - title: "The (in)human touch: AI and fairness in insurance"
-    excerpt: "AI could revolutionise how insurers process claims. It could even improve insurance's image. But can AI insurance be fairer? People don’t trust insurers. We’ve probably all had to contact an insurer about a problem only to find it’s not covered in the small print."
-    publishedDateTime: 2021-11-11T05:49:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/features/the-inhuman-touch-ai-and-fairness-in-insurance/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 39
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/09/shutterstock_1043017390.jpg"
-        width: 1000
-        height: 562
         isCached: true
   - title: "Architecture in the Age of Artificial Intelligence"
     excerpt: "AI - which I like to call Architectural Intelligence - is a tool that will one day allow us architects to fly. This book, like all Neil Leach's books, is a multi-perspective view of a possible future for architecture."
@@ -88,6 +84,6 @@ related:
         height: 563
         isCached: true
 
-secured: "38QM9ja6M0rhkirv1RTKnsznclPqxSbCi1U6W9ZVnlpiazLOgjNNihS5VFjkDjCFVKKEHROHwTDPlQGqSmawP+OczIcevqUpSboZi2dQKczyf2FO4RaYgjzATVzQkARCn4TIuG9vINfrpwZUlNo+bzzSFzfmhjRSSXHyRaJx4+LWY3X8oU11EOGv3DmjEmq4puMgvDL0AbhMv+PYTygFE012cBwr57GzEKazmugO18sV/0EQ/TtINv/0g41pL5aFV67szl9bDPXuWNF+H8d4bzfS7tq3oFlYcfUNAD0QhO5hOXHv8PZkl0kN8H6UxXvNcvHPrb4npE3Vv8r67kdqBwvtv4uAUBPVoYOROLvP0MFMhc+Wan4DzxSYoSgjChemqs4PQT2pald3DPOshE9X3ASOQ2U5WaUTKQuc61sVFcC/ixJ68CuUHJ+f6Wd5vi6Wif1BALuoqqidSNnroUku+RaXjksKncVirMkn1GyJWrJmoOxi5w/0fpNAL9QW6IVtUwYYaBhg1BTR8vpVBYkIiQ==;UKjHoM8b+/qnwfjK1LcqGQ=="
+secured: "e4Xugj/7I+6iWh2i5uJ5u7L+7Z97EjqlQy67BMNOzGJZW0yUtxuxBsru1lZGqZi97aqA65Hea0vhB382dHbL1pxPnmoHzRlUMQ8OrqnFzQlpGgxCSp71NiLbRA0AWWrAPGrHnnPO4vb6N+FRyRQvBfgNfXCZpCpaZx56DQV8eN6u4Ujvj1JWvo23racRBD1vaPISLaOewhTezIJ8UsBp8Mz+M862AEQthU/bbKdbc5ezqB16xjoGZg9DWcbAIbsdkcDDN7kWYrvXZkPeS4Jh65mLZnqBf9orQlBqE94w5PJ6Dd5DjhAFmm+ox/0+uuXRJNhXBsbWXTdHljZ6JrLYgbetJYCOk5YanqHLQ+p/EYg=;lPxBvIysX5aMUEyk3PrljA=="
 ---
 

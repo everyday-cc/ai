@@ -1,45 +1,29 @@
 ---
 category: news
 title: "AWS Announces Plans to Open Second Region in Canada"
-excerpt: "(NASDAQ: AMZN), announced plans to open an infrastructure Region in Alberta, Canada, in late 2023/early 2024. The new AWS Canada West (Calgary) Region will consist of three Availability Zones (AZs) at launch and join the existing AWS Canada (Central) Region in Montreal,"
-publishedDateTime: 2021-11-08T16:34:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786"
-webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786"
+excerpt: "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services ..."
+publishedDateTime: 2021-11-08T16:54:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-plans-to-open-second-region-in-canada/article_3e90a1cf-25c0-5307-bb52-1d31149706c2.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-plans-to-open-second-region-in-canada/article_3e90a1cf-25c0-5307-bb52-1d31149706c2.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-related:
-  - title: "Amazon Web Services to invest billions in Calgary cloud hub"
-    excerpt: "Amazon Web Services (AWS) is about to provide an enormous shot in the arm to Alberta’s small-but-growing tech sector. The global cloud services and infrastructure giant will create a new AWS Canada West Region based in Calgary."
-    publishedDateTime: 2021-11-08T22:38:00Z
-    webUrl: "https://renx.ca/amazon-web-services-to-invest-billions-in-calgary-cloud-hub/"
-    type: article
-    provider:
-      name: Ottawa
-      domain: renx.ca
-    quality: 41
-    images:
-      - url: "https://renx.ca/wp-content/uploads/sites/2/2021/11/AmazonWebServices_Logo.jpg"
-        width: 400
-        height: 300
-        isCached: true
-
-secured: "+YEHmDbfDpHjAjrHuPHyYO/s2XAXh6frXI0a34a96ZeJpMqEpVjCPzTZGb3XnbgUpW/6aiaJSMeK1rdY50uQ2DFXV410z0eJAbM9nhonWNXFuoOLNtiNAojHmAGlPmHAiYqfH6L7r2cczi5JJ63f4UP26JE6uh4n5J5ZOOwVwBPjiekAJu5sFD3eFoxGlhlBja05mxxosi9hgsyzmAyrw/WU1eQkA9MetryiBisgq0tno7ZCEFpHh1mAIR7NvbwVmJwJyh1R4IDiPWyyExEUX+/8CFAsOxQSUuHSGpua4vROxeCAteAveN8W/N139PNKHUZlGCKIjrj+A+z5tEd5evdcY5AM/fLzz2em93N1TVg=;C2umIf5FdjuaCicDjxsXMQ=="
+secured: "x6+MVro0BP8nalzG0XJu32fUf46T4Z+vqoFozbfg8GZw2g2irh+JuDSRlIC99EfCbcs8hcMlrgKLqMdrpqxJT9HiW9KWPsFexkyjj/NvnglM6k+QrkXKvjaWHaXyuhEDMYPHwHWnHL4K+LvigrPi94dxgUIV1AaPbVl+t0cVv6zxSf+h74JFlOSGaPsVI6JMQSxWY03ok4BM1mfXHWeS128kU8qi4lyXx9mx4vvFata90fpinUfW9uP/onkCrf16K7+x2k1xMCFyxEkaENaJrzRMelFYpq1vL9WjrrjtxMOCbVYA0Qun9VA6AUobv+iB1oSCm3+cKyqOIbyyGmy6JDYRXdgY+UsfeKppSYj8Lqc=;oPrMOYlT0uAxE29LmQYv+Q=="
 ---
 

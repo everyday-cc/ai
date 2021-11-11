@@ -1,32 +1,46 @@
 ---
 category: news
-title: "Human in the Loop for AI in Healthcare"
-excerpt: "The future of AI technologies in the healthcare sector in India seems bright, as there is a strong need for volume, scale, and accuracy, along with lo.."
-publishedDateTime: 2021-11-08T10:43:00Z
-originalUrl: "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-webUrl: "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2030"
+excerpt: "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Nov 10, 2021, 23:02 /Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $ ..."
+publishedDateTime: 2021-11-11T05:40:00Z
+originalUrl: "https://menafn.com/1103146676/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2030"
+webUrl: "https://menafn.com/1103146676/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2030"
 type: article
-quality: 74
-heat: 114
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-87585233,imgsize-1131636,width-1200,height-628,overlay-ethealthworld/human-in-the-loop-for-ai-in-healthcare.jpg"
-    width: 1200
-    height: 628
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?232578"
+    width: 261
+    height: 250
     isCached: true
 
 related:
+  - title: "Human in the Loop for AI in Healthcare"
+    excerpt: "The future of AI technologies in the healthcare sector in India seems bright, as there is a strong need for volume, scale, and accuracy, along with lo.."
+    publishedDateTime: 2021-11-08T10:43:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87585233,imgsize-1131636,width-1200,height-628,overlay-ethealthworld/human-in-the-loop-for-ai-in-healthcare.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI and Healthcare: A timely partnership"
     excerpt: "Today, almost every field is leveraging AI irrespective of the sectors or industries. Every day, AI is getting increasingly sophisticated at doing what we can do."
     publishedDateTime: 2021-11-10T06:11:00Z
@@ -40,20 +54,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQFLbpBjEvhD-w/article-cover_image-shrink_600_2000/0/1636524697847?e=1642032000&v=beta&t=GGKDExtDKUhls3heeV1JVvZOsVruKQwCYrrdBhoyfQc"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2030"
-    excerpt: "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Nov 10, 2021, 23:02 /Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $ ..."
-    publishedDateTime: 2021-11-11T05:40:00Z
-    webUrl: "https://menafn.com/1103146676/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?232578"
-        width: 261
-        height: 250
         isCached: true
   - title: "The (in)human touch: AI and fairness in insurance"
     excerpt: "AI could revolutionise how insurers process claims. It could even improve insurance's image. But can AI insurance be fairer? People don’t trust insurers. We’ve probably all had to contact an insurer about a problem only to find it’s not covered in the small print."
@@ -84,6 +84,6 @@ related:
         height: 563
         isCached: true
 
-secured: "aLIjJh6i7WVd47GXeXHZpWERptP6vRzvtvJ+W1hhSXa2NCF96sq3rHbTFU8kElR7/DZv63ikQRkGPIb+uDqbHa1CsuZw274MqaYKPC51yQhOuO6037HTRNLuoQQ0kQPjc3FKLS/FDGYi/FcHB/C2292i8khRSa1EY7mlf311tqrC85XsWMqRV0SBvoUXfqdDshYDQuuyO62rY+XDnb36nfEWjSosvGnVufdLoNQxk8FuPSX+RHgyYrWNWRPnoQ46M038JxQkFBBUQZV0u5zjxaxh6X0ocekICI0kXoZ/lXi9WTsspfgcvTDorPuH4kLN6Y8jjNaz87IKs1ZK4Vm7Las7XTyowIvkGUcpcHkm4YQ=;NKXwcIzzrFapnw1Gue5GGw=="
+secured: "dMgFXNsQTnXmlA04jeAsUkluNFf0R63EvwX7PSB9sGCmvBGTQaeQUQpWzi413NgGkqbr42p+Llb2rh6MeebAag8GPc5s89tQF5xOqkAysRTrC8v/poFqy924ajr1PJHIaLK27gfNO/S65x1yuK1ExCJKYNNeL8MQiauynXLAa1YeuIG1IeSNbzuSNPCJg5ny17Xm4MTYweDrFbWeIDJtk4Uqfw0LtF7s8SVpaLmzoX8+4IaHodBSG3az9NWVadJHJlUanJV0xxQ8Padez5xyyHW6xrCTat+Vf5rfw98T7u3I/qEQT9Ij8YAEseeUzJVFI5RNRtSeB6P67dFvRFa4ONtrCmzSmh+M4Qa/2SJ7sxU=;kG7SpfMJQafOVWSBK4AOyA=="
 ---
 

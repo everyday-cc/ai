@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-11-it-looks-like-the-pixel-6-could-get-a-face-unlock-feature-after-all.md",
-      "title": "It Looks Like the Pixel 6 Could Get a Face Unlock Feature After All",
-      "excerpt": "In recent days there has been an uptick in Pixel 6 users on Twitter begging Google to bring back the face unlock feature it offered on previous Pixels. The company left out the ability in its latest flagship in favor of an i n-screen fingerprint sensor.",
+      "path": "_news/2021-11-11-google-pixel-6-series-might-get-face-unlock-smarts-after-all.md",
+      "title": "Google Pixel 6 series might get face unlock smarts after all",
+      "excerpt": "The Google Pixel 6 series launched without face unlock, however, a new commit suggests that the firm is still working on the feature.",
       "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794",
-      "originalUrl": "https://gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794",
+      "webUrl": "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/",
+      "originalUrl": "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/0432b222a9e429d8ea7f0fc88bd53a11.jpg",
-          "width": 800,
-          "height": 450,
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/11/pixel-6-fingerprint.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794/amp",
-      "publishedDateTime": "2021-11-10T15:30:00-08:00",
+      "ampWebUrl": "https://www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/",
+      "publishedDateTime": "2021-11-10T22:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {

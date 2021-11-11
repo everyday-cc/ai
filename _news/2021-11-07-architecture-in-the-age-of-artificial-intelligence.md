@@ -54,6 +54,34 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2030"
+    excerpt: "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Nov 10, 2021, 23:02 /Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $ ..."
+    publishedDateTime: 2021-11-11T05:40:00Z
+    webUrl: "https://menafn.com/1103146676/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?232578"
+        width: 261
+        height: 250
+        isCached: true
+  - title: "The (in)human touch: AI and fairness in insurance"
+    excerpt: "AI could revolutionise how insurers process claims. It could even improve insurance's image. But can AI insurance be fairer? People don’t trust insurers. We’ve probably all had to contact an insurer about a problem only to find it’s not covered in the small print."
+    publishedDateTime: 2021-11-11T05:49:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/features/the-inhuman-touch-ai-and-fairness-in-insurance/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 39
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/09/shutterstock_1043017390.jpg"
+        width: 1000
+        height: 562
+        isCached: true
 
 secured: "9S/6VEcSeysc1S2x3Aqw/3o8A6qVC9RmuNjOvqpNnpy0X3+13nUpQVtHtPYHjVhdMMBMPANSPm5LwDuitJQ/gY1Y40eJYpTU6pYVlYx/f07x4rW74J5Or1rg+y7w1OWJ00/s3ejAzCssnIOE54QvtvnA6VqjTf9Zc11I/AEfcOvdu8hxF0tcM5XyCQUmlOu6b963ZONztXRI3fhflxIDsUKKKe4Ocjw9ferwDKYKHpmPls4FiSC57lUNBnqTK9u+3ZQDmh8tzYGjaceM63ZEZtI6p0FvvrAYAD9mAhBpZETjwuMhycgBs0CjQjrWgUNlZSXniUSFtdBgPr+JokfGQtTgyT47dDK0rQv8H9VylhUTlzXdIYSAw2PZikdW1EVHndY/G40sAdQrvrINYmaM4zvYqs2LAEZWlyUAhvnh8MDimClKHNWefDqzverTbNyStYFnE6QNteGAkn6qNAKeoipYNFy/gf/ciy/NqiljeshBBnYop+OhFHNIgTQBRE+Vlz01k0FYNg0OohpD6OYY6A==;WQTn5DokGckQGwQdoWKW2A=="
 ---
