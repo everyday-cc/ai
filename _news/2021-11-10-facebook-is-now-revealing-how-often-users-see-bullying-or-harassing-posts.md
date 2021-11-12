@@ -115,6 +115,20 @@ related:
         width: 796
         height: 900
         isCached: true
+  - title: "New Facebook Product for Financial Advertisers"
+    excerpt: "Machine Learning powers Financial Discovery Hot on the heels of Discovery Commerce, Facebook has recently launched Financial Discovery, a service designed to help advertisers find customers most likely to"
+    publishedDateTime: 2021-11-12T09:39:00Z
+    webUrl: "https://www.accuracast.com/newsletter/fb-financial-discovery/"
+    type: article
+    provider:
+      name: accuracast.com
+      domain: accuracast.com
+    quality: 24
+    images:
+      - url: "https://www.accuracast.com/wp-content/uploads/2021/11/facebook-finanical-discovery.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Facebook whistleblower says Digital Services Act can rein in social media giant"
     excerpt: "Haugen: ‘Facebooks’s profit optimisation machine is generating self-harm and self-hate especially for vulnerable groups like teenage girls’"
     publishedDateTime: 2021-11-09T17:03:00Z

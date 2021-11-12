@@ -57,6 +57,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "AI Chip Startup Cerebras Systems Raises $250 Million in Funding"
+    excerpt: "Cerebras Systems, a Silicon Valley-based startup developing a massive computing chip for artificial intelligence, said on Wednesday that it has raised an additional $250 million in venture funding, bringing its total to date to $720 million."
+    publishedDateTime: 2021-11-10T15:13:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-11-10/ai-chip-startup-cerebras-systems-raises-250-million-in-funding"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "AI wafer scale chip startup Cerebras raises $250m at $4bn valuation"
     excerpt: "Cerebras Systems, the AI semiconductor startup selling the world's largest computer chip, has raised $250 million, valuing the company at $4 billion. The company's Series F round was led by Alpha Wave Ventures,"
     publishedDateTime: 2021-11-11T10:39:00Z

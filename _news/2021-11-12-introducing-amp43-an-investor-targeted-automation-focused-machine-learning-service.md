@@ -3,27 +3,22 @@ category: news
 title: "Introducing AMP43, An Investor-Targeted Automation-Focused & Machine Learning Service"
 excerpt: "Marketing technology firm NAV43 today announced the launch of AMP43, its visionary new Service that uses machine learning to curate an audience of potential investors. Aimed primarily at IPO-ready brands and newly-launched stocks looking to grow their shareholder base,"
 publishedDateTime: 2021-11-11T20:29:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-canada-17c06cbaa2294b318c318c39e73ecd98"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-canada-17c06cbaa2294b318c318c39e73ecd98"
+originalUrl: "https://www.financialbuzz.com/introducing-amp43-an-investor-targeted-automation-focused-machine-learning-service/"
+webUrl: "https://www.financialbuzz.com/introducing-amp43-an-investor-targeted-automation-focused-machine-learning-service/"
 type: article
-quality: 32
-heat: 32
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "jM12h7iou0gh7ZCTzDKYcPs8fhAJsIuFRLue4RCzRYrc8/w8HzNsY8ja3/zn5uEi8QV6FvILWMwLnksigA+XdKXlWg4Y1gXgo3LM1Owjp9moO3p2ULUxbbvpSRRaOY7aFx44Agn/ui/D9Zcj87nGU1VrEkxkvj2Z5m54B6Wu+ERvi4oUkQt0MGzbVWAub9gqA3Z1khc5XA8e771sXjY5RZpkzZv4F20w9na/4wP26uLmyE8JT4EmyCkAcitFBPm/5/n8k6hGwiBlu+YZpE2nKRhjkLjRjYBXzrq4DdRPXENzNzL6E4ud38Yjc/GXv149FWbWjUCUVtRJKSh8S8hvw+JUsRcNzXQogRk/9C0m9ow=;omb4aDNSbfxL4Xazwj6JJg=="
+secured: "LsuDUuCQae9cRnE7oZkweBZPbWH6nQ1vrTY1RzqrO0R4YhMb9ucm/G9lPMpRybWfMu7UsPVHSlY6xFYlIgJqyfFIfcOkcmLtnwtSztuu/cc6QHTr0a8Zl3DUl+62d66mb2c2nn2/GL8dghNvMeBpcmt72EKIScBycW1SJNNCn6JaRPxXh7k/BwJI3TBHGeoo7ZwTFqu+HBpGO/A9veWVLjXiaoyfc0pyJy2Cp2k8mjaJ7RLc8nnbizQir9UPbH+HtMy5FrxEN1XMFqzCUuxkar9pFDcHBYgRZkutqc5Oh6+c/wCkqKiM+I7qZ9CTbImwlKgTW5LR78gUIs4TEl5VEDfAd57PsUU2b6BeK36d8+c=;ZV24tgX848iXlZxg/ichXQ=="
 ---
 

@@ -54,7 +54,7 @@
       "originalUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -343,6 +343,57 @@
       ]
     },
     {
+      "path": "_news/2021-11-12-is-this-top-artificial-intelligence-powered-cybersecurity-stock-a-buy.md",
+      "title": "Is This Top Artificial-Intelligence-Powered Cybersecurity Stock a Buy?",
+      "excerpt": "The cybersecurity industry has massive secular tailwinds as risks and awareness rise. Does this young outperformer have the metrics and technology to continue to dominate the market?",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
+      "originalUrl": "https://www.fool.com/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F652465%2Fgettyimages-1279862993.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
+      "publishedDateTime": "2021-11-11T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-european-bank-sees-path-to-fastest-ai-supercomputer.md",
       "title": "European Bank Sees Path to Fastest AI Supercomputer",
       "excerpt": "While Hungarian banks with collective names like OTP Group might not have household recognition here in the U.S., they do represent a notable portion of",
@@ -446,7 +497,7 @@
       "originalUrl": "https://www.zdnet.com/article/unsupervised-ai-arrives-for-quality-inspection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -700,7 +751,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/396710",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -804,7 +855,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognition-tech-won-t-go-away-despite-facebook-fb-ending-system",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1002,7 +1053,7 @@
       "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-learns-to-talk-back/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1199,57 +1250,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech.md",
-      "title": "Standard AI acquires ThirdEye and teams up to bolster autonomous checkout tech",
-      "excerpt": "Standard AI, which provides an AI-based solution for autonomous retail checkout, has acqui-hired computer vision startup ThirdEye Labs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/",
-      "originalUrl": "https://venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/0N5A4946-e1596208218299.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/amp/",
-      "publishedDateTime": "2021-11-10T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

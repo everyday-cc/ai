@@ -351,6 +351,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-05-alphabet-launches-ai-company-to-discover-new-drugs.md",
+      "title": "Alphabet launches AI company to discover new drugs",
+      "excerpt": "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind “to accelerate drug discovery,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/?comments=1&start=40",
+      "originalUrl": "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/?comments=1&start=40",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/deepmind-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-alphabet-lets-ai-take-the-lead-role-in-new-drug-discovery-startup.md",
       "title": "Alphabet lets AI take the lead role in new drug discovery startup",
       "excerpt": "DeepMind produced a stunning advance in scientific research, demonstrating how its artificial intelligence could be used to predict 3D structures of unique proteins in a solution to a 50-year science problem.",
@@ -1412,58 +1464,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-deepminds-ai-supporting-meteorologists.md",
-      "title": "DeepMind's AI supporting meteorologists",
-      "excerpt": "Welcome to the 37th edition of the AI and Global Grand Challenges newsletter, where we explore how AI is tackling the largest problems facing the world. The aim: To inspire AI action by builders, regulators,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/deepminds-ai-supporting-meteorologists-marcel-hedman",
-      "originalUrl": "https://www.linkedin.com/pulse/deepminds-ai-supporting-meteorologists-marcel-hedman",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGRnjWVyGCICw/article-cover_image-shrink_600_2000/0/1633612628492?e=1640217600&v=beta&t=cmP25hjLbBX_6U6tbZAWHHNT4kjTJPPjC_Q_PLf6Lm4",
-          "width": 1800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

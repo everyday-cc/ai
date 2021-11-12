@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognit
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognition-tech-won-t-go-away-despite-facebook-fb-ending-system"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(75).png"
         width: 796
         height: 900
+        isCached: true
+  - title: "New Facebook Product for Financial Advertisers"
+    excerpt: "Machine Learning powers Financial Discovery Hot on the heels of Discovery Commerce, Facebook has recently launched Financial Discovery, a service designed to help advertisers find customers most likely to"
+    publishedDateTime: 2021-11-12T09:39:00Z
+    webUrl: "https://www.accuracast.com/newsletter/fb-financial-discovery/"
+    type: article
+    provider:
+      name: accuracast.com
+      domain: accuracast.com
+    quality: 24
+    images:
+      - url: "https://www.accuracast.com/wp-content/uploads/2021/11/facebook-finanical-discovery.jpg"
+        width: 1500
+        height: 800
         isCached: true
   - title: "Facebook is now revealing how often users see bullying or harassing posts"
     excerpt: "The parent company of Facebook and Instagram has released data for the first time showing how often people see bullying or harassing posts on its apps, amid scrutiny over how its social networks may be harming users and society at large."

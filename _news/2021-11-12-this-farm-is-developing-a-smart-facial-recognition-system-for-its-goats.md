@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1"
 type: article
 quality: 88
-heat: 148
+heat: 149
 published: true
 
 provider:

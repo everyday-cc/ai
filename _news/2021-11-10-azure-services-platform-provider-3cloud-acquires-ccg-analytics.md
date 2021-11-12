@@ -57,6 +57,22 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "IBM analytics in modern day IT operations"
+    excerpt: "IBM Watson AIOps and Turbonomic combine a set of capabilities such as predicting, communicating and resolving events before they happen, and have the ability to manage all facets of the AIOps life cycle."
+    publishedDateTime: 2021-11-12T09:02:00Z
+    webUrl: "https://www.itweb.co.za/content/WnxpE74gL9avV8XL"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/WnxpE74gL9avV8XL"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnxpE74gL9avV8XL"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/YdvVtAqCT-4fw4ePW4NCssTD2K1P1GIgxP189-OiOrIz-tq-tOs9g5zlMfF7KLc2P-ZytJMbfPkn_7iIKXVpGXc=w400-h210"
+        width: 256
+        height: 210
+        isCached: true
   - title: "Opanga Networks: Opanga Announces the Availability of Merlin: Radio-Aware Machine Learning RAN Analytics"
     excerpt: "SEATTLE, Nov. 09, 2021 (GLOBE NEWSWIRE) -- Today, Opanga is announcing the availability of its breakthrough RAN Analytics platform which, for the first time, uniquely combines the power of big data and data science with radio-aware machine learning to ..."
     publishedDateTime: 2021-11-09T08:17:00Z

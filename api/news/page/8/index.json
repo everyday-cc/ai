@@ -2,6 +2,100 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-04-propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform.md",
+      "title": "Propelo raises $12M for its AI-driven engineering excellence platform",
+      "excerpt": "The number of DevOps tools has increased exponentially over the last few years and, with that, the amount of data these tools can produce to help businesses improve their software development processes.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/",
+      "originalUrl": "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/outdo_image_2-648w.png?w=300",
+          "width": 300,
+          "height": 258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/amp/",
+      "publishedDateTime": "2021-11-04T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-an-ethical-ai-trained-on-human-morals-has-turned-racist.md",
+      "title": "An ‘ethical’ AI trained on human morals has turned racist",
+      "excerpt": "It’s wrong, according to AI. Explaining Delphi’s goal, its creators wrote online: “Extreme-scale neural networks learned from raw internet data are ever more powerful than we anticipated, yet fail to learn human values, norms, and ethics. Our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi",
+      "originalUrl": "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dazedimg-dazedgroup.netdna-ssl.com/1200/0-0-1345-897/azure/dazed-prod/1310/6/1316177.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi?amp=1",
+      "cdnAmpWebUrl": "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi?amp=1",
+      "publishedDateTime": "2021-11-04T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dazed",
+        "domain": "dazeddigital.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-better-ai-stock-nvidia-or-palantir.md",
       "title": "Better AI Stock: Nvidia or Palantir",
       "excerpt": "Nvidia (NASDAQ:NVDA) and Palantir operate in different sectors, but both tech companies are profiting from the secular expansion of the artificial intelligence (AI) market. Nvidia",
@@ -1096,108 +1190,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-eric-schmidt-ai-is-not-ready-to-make-profound-decisions.md",
-      "title": "Eric Schmidt: AI is not ready to make profound decisions",
-      "excerpt": "Former Google CEO Eric Schmidt says reliance on artificial intelligence \"can create incredibly dangerous, incredibly destabilizing national security scenarios.\" MIT Dean Daniel Huttenlocher, who co-authored a new book on AI with Schmidt and Henry Kissinger,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness",
-      "originalUrl": "https://www.cnn.com/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/211103115423-eric-schmidt-daniel-huttenlocher-artifical-intelligence-ethics-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/03/eric-schmidt-artificial-intelligence-ethics.cnnbusiness",
-      "publishedDateTime": "2021-11-03T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-google-wants-to-work-with-the-pentagon-again-despite-employee-concerns.md",
-      "title": "Google Wants to Work With the Pentagon Again, Despite Employee Concerns",
-      "excerpt": "Three years ago, the company walked away from a Defense Department project after employees objected to it. Now the company is working on a new proposal for the Pentagon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.html",
-      "originalUrl": "https://www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/11/02/business/00googlemilitary/merlin_146105364_f4798f37-22a8-4466-bf33-7f075b0f8361-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.amp.html",
-      "publishedDateTime": "2021-11-03T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

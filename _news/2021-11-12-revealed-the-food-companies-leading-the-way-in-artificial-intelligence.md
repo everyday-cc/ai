@@ -23,6 +23,22 @@ images:
     height: 1334
     isCached: true
 
+related:
+  - title: "Revealed: the pharma companies leading the way in artificial intelligence"
+    excerpt: "Novartis and Johnson & Johnson are among the companies best positioned to take advantage of future artificial intelligence disruption in the pharmaceuticals industry, our analysis shows. The assessment comes from GlobalData’s Thematic Research ecosystem,"
+    publishedDateTime: 2021-11-12T09:00:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/features/revealed-the-pharma-companies-leading-the-way-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 36
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/11/shutterstock_2055997766.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+
 secured: "1CQM+xSTDHdb6NDjq9Ax62qFtystFoOU7z+cMGXuPQddiTWyQQB2ua9ywAcsvX2AHNOip0b8OxixhCTr6tDQ71bGjbsiXy6PdtndpkLEBaOc/BB76bFjGy6IE9pszLtle2/nuXuhtJsCFQJhPSmi0j32d/0/xq/HzzA/r3dmszBNIDHEB92qyauMYfZA33+BKfy1j8zVWCmT/u++vsBT2sBDpRlLMEZ9AxDphbl01xdNcQVocUwJet4W2oQPJyaiKpI9ZHmp6J5myuzfHwx/QNYyRg3Lh6jInDVylCk5uDevk+I7UtlW2zuUnsbBdOgLuC98bxbUR8gJIdQ4Bp94/b/3ijIGD33HFmQiLRQo/i7M/slOOeXNhb0nw38+bPH/385j0qOrHYZ9NzLiesvW8X5C2kwCqb+CC9IDFmSJYvGiAUkkqP/N0ohgFDFn7vlku4JCCWm79PCUwdFR/6gtzcfssQI+2YwfT9g7wf/H7578fAmzeo2bOWatqzCBaUrf3E75PDXJ6w5uFCM/BKiazg==;2TaKlsEc6C7d9H4wgrQA3A=="
 ---
 

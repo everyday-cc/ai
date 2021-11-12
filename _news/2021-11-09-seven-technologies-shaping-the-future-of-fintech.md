@@ -71,6 +71,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Indian SaaS companies has to buckle up on the back of increased demand"
+    excerpt: "The use of artificial intelligence, adoption of cloud computing, and remote work has been the key for the growth of the Indian SaaS industry Software as a service (SaaS) is a model of delivery in ..."
+    publishedDateTime: 2021-11-09T08:01:00Z
+    webUrl: "https://www.ciol.com/indian-saas-companies-need-buckle/"
+    ampWebUrl: "https://www.ciol.com/indian-saas-companies-need-buckle/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/indian-saas-companies-need-buckle/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 24
   - title: "Global Payments to Participate in Citi's 2021 FinTech Conference"
     excerpt: "Global Payments Inc. , a leading worldwide provider of payment technology and software solutions, announced today that Cameron Bready, President and Chief Operating Officer, will present virtually at Citi's 2021 FinTech Conference at 12:45 p."
     publishedDateTime: 2021-11-10T16:01:00Z

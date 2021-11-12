@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-lea
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-learns-to-talk-back/"
 type: article
 quality: 89
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 1600
     isCached: true
+
+related:
+  - title: "Five lessons to fix the failures of AI"
+    excerpt: "Sray Agarwal and Shashin Mishra, data scientists at Publicis Sapient, provide five lessons to fix the failures of AI"
+    publishedDateTime: 2021-11-12T09:53:00Z
+    webUrl: "https://www.information-age.com/five-lessons-to-fix-failures-of-ai-123497664/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/11/five-lessons-to-fix-failures-of-ai.jpeg.optimal.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
 
 secured: "xY4n+fAyUoeb5ghO0OEWEXtO6SKAA1HEj/pgpwNs4VUN+zzI5IiwDWtur/E4Fsv2bRVkJs9pBu9v52Jbf2PYQCuxCBWvx0h8HxF0Iy9Fgst0KN27+bAajdwKDTapwbpPcbmZ/pBsCMJmgVze8kwjRkBELOaG2KjEqP02NkbpXp8gq896AlX33aOczUqp+fxRGcKIwI56Mo21VcsoaJl2oJvmBdktBxqzgvS00+sglR5E3dd95JSJr3lAYv9S7fQaIQSZmxUSd7daQjE2XFZUxV/jGRa19pVBuTxgOa7db19Wl86PzUu2liFbe2YHBt0shIA6RYHDFEzqbrFBzLf7OmVV7+dP45RRWbh1WQQSvBQFA+vDbW/IOS9OaE5sURZvy0Ici2ZIk1aST2hy/T7a0wbW0MqhB2GSe1jDBlTFXwQKdFFH9fq83EarkhXSk+7hmrXuae8S4Pa+fKsEdVFvOYOgDGJnew8tzFxjus5DSPdDoR707zvR1/uCsB02c4S2kRB1fL0dp08I1Rt09c/9wA==;6jRGcUCOrk1tBWi0PkTMpg=="
 ---

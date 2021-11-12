@@ -2,6 +2,100 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-10-23-mailchimp-employs-ai-to-boost-email-marketing-campaigns.md",
+      "title": "Mailchimp employs AI to boost email marketing campaigns",
+      "excerpt": "Content Optimizer is not Mailchimp's first foray into using AI for content marketing, but it might be its most impactful effort in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco",
+      "originalUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1279753951-e1634580409297.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco&amp",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco&amp",
+      "publishedDateTime": "2021-10-22T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-23-new-bill-would-secure-government-contractors-use-of-ai.md",
+      "title": "New Bill Would Secure Government Contractors' Use of AI",
+      "excerpt": "Two Senate leaders on Thursday introduced legislation that would form a working group charged with monitoring the security of AI data obtained by federal",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/",
+      "originalUrl": "https://www.inforisktoday.com/new-bill-would-secure-government-contractors-use-ai-a-17786",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/615f6fab0208edf75baf39bd/master/pass/AI-Bill-of-Rights.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/amp",
+      "publishedDateTime": "2021-10-22T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Info Risk Today",
+        "domain": "inforisktoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-23-restaurants-prep-for-long-term-labor-crunch-by-turning-to-robots-to-work-the-fryer-shuttle-food-to-tables.md",
       "title": "Restaurants prep for long-term labor crunch by turning to robots to work the fryer, shuttle food to tables",
       "excerpt": "Restaurants that are struggling to fill jobs are beginning to turn to robotic solutions to ease staffing challenges and to speed up operations.",
@@ -1112,102 +1206,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-digital-summit-replay-how-to-bring-your-datasets-to-life.md",
-      "title": "Digital Summit replay: how to bring your datasets to life",
-      "excerpt": "director of AI and data science, Shutterstock; Will Lowe, chief data officer, Engine UK; Sorcha Gilroy, data science team lead, Peak; and David Olesnevich, head of product, IBM Watson Advertising.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrum.com/news/2021/10/22/digital-summit-replay-how-bring-your-datasets-life",
-      "originalUrl": "https://www.thedrum.com/news/2021/10/22/digital-summit-replay-how-bring-your-datasets-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-669632-shutterstock_post-promo--default--1080.png",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drum",
-        "domain": "thedrum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms.md",
-      "title": "Leopard Imaging Launches Hawk 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms",
-      "excerpt": "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced its new 3D Depth Hawk camera supporting the NVIDIA Jetson edge AI and Isaac robotics platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1030886910",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1030886910",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1667150/Leopard_I.jpg",
-          "width": 747,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
       ]
     }
   ],
