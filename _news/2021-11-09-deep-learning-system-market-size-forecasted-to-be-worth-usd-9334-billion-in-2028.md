@@ -100,18 +100,18 @@ related:
         height: 630
         isCached: true
   - title: "Blockchain technology Market size to increase by USD 6.25 Bn | Technavio's Research Insights highlight Increase in FinTech Spending as a Key Trend"
-    excerpt: "According to the research report \"Blockchain Technology Market - Forecast and Analysis Report 2021-2025\", the market is expected to have a YOY growth rate of 19.00% in 2021 and is supposed to grow at a CAGR of over 32% between 2020 and"
-    publishedDateTime: 2021-11-12T01:38:00Z
-    webUrl: "https://www.lelezard.com/en/news-20099920.html"
+    excerpt: "According to the research report \"Blockchain Technology Market - Forecast and Analysis Report 2021-2025\", the market is expected to have a YOY growth"
+    publishedDateTime: 2021-11-12T00:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/blockchain-technology-market-size-to-increase-by-usd-6-25-bn-technavios-research-insights-highlight/article_c7481f17-8858-5212-a4a7-8db672fafc75.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 1
     images:
-      - url: "https://mma.prnewswire.com/media/1684534/Blockchain_Technology_Market_Infographic.jpg"
-        width: 400
-        height: 225
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/6a/b6a73f4e-64ff-5ab3-87a3-40242f211002/618dc50fe4fe3.image.jpg?resize=800%2C450"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "oyZv+YXzDHUj16iwI0i+L224PV4kZ8/Z/aLx+Jq9zYdvPZlMxSFx3IlmxZosoJTVeZ10tebXN1ciQx0GtDLEfwJ0xPQmqy/O7KgMxKL/SabH79sNL/9z6ypdLzxLt1LHQbYi1PhCfg9sPf6FOUTCtypEgn2YzE0lqcWkdaJUVnjnzFKJR3WdlgXeEXWbGyqkj00CSkXfKZabI7lHf4S16uwuiK1/2b/LhIBoW2JOPsncT5go+IJtH+cJlhV/iT2ACSqbZkSw6nFEuH/lIUi7LwBEpYv6yJ5/V1bxsZGVy4OW1aKusyNIbZV1JX4lOSp0jv1PRt2NsAVELBcdWmujJa1CU+kfYX7rrYB8U+jmyd97NCoSMHhEGf8l38/ZQt327LSgzIgcHJhr8zVbPu4CDtAepZLrBmm3mVpg/9XmxSWcZrD5DStO+nnL/NsrQ01M2AZdMM4yvyAF/mLHHxJpZ9cnMF+Y1tibCJTe8afMR16B3W2jNpMBFnHMqqty5SIhHNdM4MANwryWu0WWP5u81w==;J7MHFqjhXUYVd9IsL8dzWQ=="

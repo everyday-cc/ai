@@ -2,6 +2,40 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2021-09-13-deep-learning-market-to-acquire-new-heights-with-increase-in-innovations.md",
+      "title": "Deep Learning Market to acquire new heights with increase in innovations",
+      "excerpt": "The “Deep Learning Market to acquire new heights with increase in innovations”. The Deep Learning Market report presents a calculated opinion of the analyzed Deep Learning Market data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2391064/deep-learning-market-to-acquire-new-heights-with-increase",
+      "originalUrl": "https://www.openpr.com/news/2391064/deep-learning-market-to-acquire-new-heights-with-increase",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2391064/deep-learning-market-to-acquire-new-heights-with-increase",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2391064/deep-learning-market-to-acquire-new-heights-with-increase",
+      "publishedDateTime": "2021-09-13T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-insights-on-the-artificial-intelligence-in-diagnostics-global-market-to-2028-by-component-diagnosis-type-and-region-researchandmarketscom.md",
       "title": "Insights on the Artificial Intelligence in Diagnostics Global Market to 2028 - by Component, Diagnosis Type and Region - ResearchAndMarkets.com",
       "excerpt": "The “Global Artificial Intelligence in Diagnostics Market Size, Share & Trends Analysis Report by Component (Software, Hardware, Services), by Diagnosis Type (Cardiology, Radiology, Neurology), by Region,",
@@ -1053,40 +1087,6 @@
         "AI",
         "Microsoft AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-are-bots-and-robots-the-answer-to-worker-shortages.md",
-      "title": "Are Bots and Robots the Answer to Worker Shortages?",
-      "excerpt": "Using software bots has become commonplace in many workplaces around the world, but with worker shortages, will robots start filling more roles soon?",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/are-bots-and-robots-the-answer-to-worker-shortages",
-      "originalUrl": "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/are-bots-and-robots-the-answer-to-worker-shortages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-12T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

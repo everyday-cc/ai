@@ -1,46 +1,32 @@
 ---
 category: news
-title: "Facebook is shutting down its facial recognition software"
-excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
-publishedDateTime: 2021-11-08T21:55:00Z
-originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
-webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+title: "This farm is developing a smart facial recognition system.. for its goats"
+excerpt: "Despite the smart technology's advances throughout the years, not many people think about its other uses and applications. Shanghai-based Vert City Farm says its goat facial recognition system should be up and running by 2022,"
+publishedDateTime: 2021-11-12T04:22:00Z
+originalUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats"
+webUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats"
+ampWebUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1"
+cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 88
+heat: 138
+published: true
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
-    width: 2000
-    height: 1333
+  - url: "https://sm.mashable.com/t/mashable_sea/photo/default/cover_2a5x.620.png"
+    width: 620
+    height: 326
     isCached: true
 
 related:
-  - title: "This farm is developing a smart facial recognition system.. for its goats"
-    excerpt: "Despite the smart technology's advances throughout the years, not many people think about its other uses and applications. Shanghai-based Vert City Farm says its goat facial recognition system should be up and running by 2022,"
-    publishedDateTime: 2021-11-12T04:22:00Z
-    webUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats"
-    ampWebUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1"
-    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 88
-    images:
-      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/cover_2a5x.620.png"
-        width: 620
-        height: 326
-        isCached: true
   - title: "Facebook will drop its facial recognition system, but why we should be skeptical"
     excerpt: "Facebook has announced that it will stop using its facial recognition system—the artificial intelligence software which recognizes people in photos and videos and generates suggestions about who to \"tag\" in them."
     publishedDateTime: 2021-11-10T14:30:00Z
@@ -73,6 +59,20 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Facebook is shutting down its facial recognition software"
+    excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
+    publishedDateTime: 2021-11-08T21:55:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 39
+    images:
+      - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Facebook to End Use of Its Facial Recognition System"
     excerpt: "Facebook parent Meta Platforms Inc. announced in a blog post that it will shut down its “Face Recognition” system in coming weeks as part of a company-w"
     publishedDateTime: 2021-11-08T22:33:00Z
@@ -102,6 +102,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "cgLGN0OoG4pzSAN0fbkOGBT11lIcE3o6kM9dAGZa09LxsEa9DAQYk2larYmN9duaUw+JFmLkVwM4qdOo3U+BHnj8eJhfpZs/Macbp7s+A7DAVkiZiRGGJB/JDP1SXM9FIUNvhDrADALzbFS5zBM8Fgv5K3Iy/Nl8lSO6T+YDK3iTAQeX+HnIEkE2OyTWJjyYteI2byv+U9SmQdp8lmYQ5yQeW7y5MRGZvn/XuIUx5xSEcXjGytK1dR0s2xZRk/bVLvFHuRXzqI4nKA/3eD6Wz9fVOFlEYs7WbS16G2xAOUetE1Hx/D7iGgSvIlthCpVWuY8XTAXC1LEh0Y7rOoSER7Pk5orfN+o2NEABYlyvv8n1n4ewkoalcZWQcwn/8FfJeSiP5N4oVBBeD0tORZWMkqDYwY3GL8ej52+XmcLvGcTh6Gs1F6sLdPKhY7LEtQN90hC6k9jEzE8PCk01S0DgEL29uabejymFt4h+x4KXtTpRZUYCbaUgdmCBl+s7mZVcn1ry95hd+vociWdIQNIESw==;xY2HN/j1/uBNS0GsOJqBgQ=="
+secured: "9+vr3l3R/zsqhrsLlkSEkIxD8O9eCEGesiPYznWhm8xX/9ac/JTo5jq8SuNyygeQMD/nwsL/bWI+fmfGRp5+SDXrhpz+3ARNSEJD8vvOHFQ+UNbhPDR6vKvAoMfxz+WfDQcdqJQPawcTTBsgeTHlrxDct5F/VjFXqwvzaeQCKHdL5C8dEvjMYt43uwlCdCpoE282Z0282Sm/FHI00df35jF2oMoN8+feI+f47YAbNGW8of05+s0Pee/YFg/UgV2ASglfBf60P1i3R+qyNPq/cGXlRQlgr2vZCZMmtlIn+E6ZB3onaTdZw6VDPANLLzS0veoID7zvnrTvFLksWWGCMXC2eBzqyXKZegSgYFiEDOE=;WwwhiGg1IGj/4FDZdsG+MQ=="
 ---
 

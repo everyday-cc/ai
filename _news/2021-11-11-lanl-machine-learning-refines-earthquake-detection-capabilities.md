@@ -7,7 +7,7 @@ originalUrl: "https://ladailypost.com/lanl-machine-learning-refines-earthquake-d
 webUrl: "https://ladailypost.com/lanl-machine-learning-refines-earthquake-detection-capabilities/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 960
     height: 1060
     isCached: true
+
+related:
+  - title: "Machine learning refines earthquake detection capabilities"
+    excerpt: "Researchers are applying machine learning algorithms to help interpret massive amounts of ground deformation data collected with Interferometric Synthetic Aperture Radar (InSAR) satellites; the new algorithms will improve earthquake detection."
+    publishedDateTime: 2021-11-12T02:58:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/11/211111130420.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "SjYJ/ttuGO5NGO636S6LTjFLN6xIwvfxgJLq3K+kVMCPyz1/A77waeMdGSoUTkgMEchGQc8nalVnt64WOQbnDJcdLfA5LRnC2CrPNVeLzbWAmlaXwpAH9GM9ZzPKv5yzVetmHivPtmRDkZDzO6rCHrfJ4mOCtGvFiGTFYm7FqpFWwKVoOTDdptL/lVvf9FNXZXAq7FbtzMKSTbj3b3/AhORITpWuQWXOskS8ExJecJPKAObM9K6MP+G2+xiIWPO7iJgBwmVa+rR/p8JKCwGW2CtNmbroNSAAy6RzM0sGceBum33+fMiTMiP7+d5NlQGq7CJTE0jUJNvoOUUk8cWDzpp14f7oucR0Pf083ik+1IU=;IWBzTBnH/m4M8OiQ5y4pMQ=="
 ---

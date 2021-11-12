@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/amp/"
 type: article
 quality: 87
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -132,17 +132,6 @@ related:
         width: 500
         height: 282
         isCached: true
-  - title: "Rescuing humanity in the age of automation, artificial intelligence and Big Tech"
-    excerpt: "Roose counters the optimistic appraisals of artificial intelligence (AI) made by many technology gurus by identifying “four big claims” that AI optimists use in arguing that it will create many more positive than negative effects. One of them contends ..."
-    publishedDateTime: 2021-11-07T11:05:00Z
-    webUrl: "https://www.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
-    ampWebUrl: "https://amp.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
-    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/opinion/opn-columns-blogs/article255557301.html"
-    type: article
-    provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
-    quality: 32
 
 secured: "Zn03CGomjrew64DWvwwSBFxsN0+/+dr61EvxyVDFnkduVRz0bssrTK/OC4cok+14WR4GMYhkA57d6RIsMKNGPeZV9AZFZbmFg6TVrL8Swq4HU/IsQBwLq4NWUnsE7HGWZFojmR+JgPtxr+CEXR6SF1vWEbJaTGTCbPm7cjIh4yzzwV5fWkLQMFE+IThKWaLCEHVR9kxR+QSQYXJ5ddZ3g28MhcXhGGJaLSo9E9Yi9/+PYJ0rm5snMPObNp0Xduy0zUgZLUgi5qQ5p7QQsGqk7ivUD3owcrGBlfHrldkpMbCqHZ83odq5cjUh7o6jyJnJJiFONq0gyk2QN8wRdr0RQPzJzLERskpKZCDKC/6WoWAGt4jsAJlNZanyVnJgAVLxHKZo5RrFJyjBSBfcwUcv/XrwWnVSbOfPKW4YSXXQK43XRH97Fp25rQvJCODysT4ywJVWJ/mnn3KV8sa50YndsFmx0ybi3xBdwNoJJC4LUAnf1002An2ILRMlQuNKk0alnoASyylcacAm6Oxm0H0riQ==;veLnUL+1F6NiCs/MLulTog=="
 ---

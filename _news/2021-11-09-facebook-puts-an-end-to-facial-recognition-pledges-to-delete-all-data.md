@@ -74,20 +74,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Facebook to End Use of Its Facial Recognition System"
-    excerpt: "Facebook parent Meta Platforms Inc. announced in a blog post that it will shut down its “Face Recognition” system in coming weeks as part of a company-w"
-    publishedDateTime: 2021-11-08T22:33:00Z
-    webUrl: "https://www.natlawreview.com/article/facebook-to-end-use-its-facial-recognition-system"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/13513/Biometrics.facialrecognition.scanner.privacy_3_0.jpg?itok=XFC82dYr"
-        width: 500
-        height: 357
-        isCached: true
 
 secured: "m3c7zO33IAWp9gBDYUnvAGPo6QFKSHzKQNZct55HCxNXR4gLBsluzxZkKIl4o/OhulbRKsU+ch2kRLYEI9QIL4CzylcWq9KzcmyQ7VqcsQTKikyhdHTi8yMJi7d7/Woa0NrQZKUWqMb4zPHZSuT9r6yM18R9h6o8RWJJiF4+7gk38oWaDZR2GJPW66X81AWQ9cPDncPKlp+vJdIGhiXEtOwNrHuUnhxt44Avc5G8tDKuWKHY0YWbSeMYScI3cTLipoHYRxNzKnMPOWIGND93K6Vt8x4soUPKj5ADEUmPRaJIQrCMn0OefliY+X3EojfVG/3sfezZQKesHxetAd79ND8QnXxuWgyLXAXkUJhLmvMwp+HHFQKeaRiVFnBuHXc4D0k9AcIjekj4BeeRayx7Qt//d9VdzOLCo1SseB84NTWjpprQBL3/uQXMq+ktWaGXHxx4x5CKIfS4hKNgNNDLgiY0OIuo04uYL98YzI3LEzjRefK0RydevwkwlaeK79Ex8l5O5I8IzXNhs9ztqozk1A==;Ejl397Q44K3rZVxU3Ty2lQ=="
 ---

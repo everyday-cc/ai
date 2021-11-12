@@ -244,33 +244,24 @@
     {
       "path": "_news/2021-11-06-castle-biosciences-publishes-decisiondx-melanoma-study-on-the-validation-of-the-i31-gep-slnb-artificial-intelligence-algorithm.md",
       "title": "Castle Biosciences Publishes DecisionDx®-Melanoma Study on the Validation of the i31-GEP SLNB Artificial Intelligence Algorithm",
-      "excerpt": "Castle Biosciences, Inc. (Nasdaq: CSTL), a company applying innovative diagnostics to inform disease management and improve patient outcomes, today announced the publication of a study validating performance of a novel algorithm designed to integrate the DecisionDx ® -Melanoma gene expression profile (GEP) test with clinicopathologic features (i31-GEP SLNB) to determine sentinel lymph node biopsy (SLNB) positivity risk in patients with cutaneous melanoma.",
+      "excerpt": "Castle announced the publication of a study validating performance of the i31-SLNB algorithm to determine sentinel lymph node biopsy positivity risk.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-science-technology-business-melanoma-b54532c71d214233b100c84c9001449d",
-      "originalUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-science-technology-business-melanoma-b54532c71d214233b100c84c9001449d",
+      "webUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
+      "originalUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T14:01:00-07:00",
+      "publishedDateTime": "2021-11-05T18:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

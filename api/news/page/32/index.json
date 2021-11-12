@@ -2,6 +2,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-10-16-can-nyc-build-an-ethical-artificial-intelligence-ecosystem.md",
+      "title": "Can NYC Build an Ethical Artificial Intelligence Ecosystem?",
+      "excerpt": "As detailed in a 116-page newly released strategy, city officials in New York City are looking to proactively build ethics into machine learning and AI usage as the technologies become vital pieces of everyday life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem",
+      "originalUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/cf9b0e3/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ffb%2F9b%2Fd1bfffa9e925b1e6ed00ce145b24%2Fshutterstock-6188871351.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem?_amp=true",
+      "publishedDateTime": "2021-10-15T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-researchers-argue-national-ai-research-resource-will-entrench-big-tech.md",
       "title": "Researchers argue National AI Research Resource will entrench Big Tech",
       "excerpt": "Artificial intelligence research groups are urging the National AI Research Resource (NAIRR) Task Force to reconsider investing in shared computing and data infrastructure, which they say will subsidize the tech giants that control it rather than democratize access.",
@@ -1126,58 +1169,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-facebook-ego4d-tracking-your-when-how-what-and-who.md",
-      "title": "Facebook Ego4D tracking your When, How, What, and Who",
-      "excerpt": "Facebook releases a new pair of glasses with cameras, microphones, and proximity sensors aboard, remember this article. Today we’re taking a peek at some research posted",
-      "sourceUrl": null,
-      "webUrl": "https://ai.facebook.com/research/publications/ego4d-unscripted-first-person-video-from-around-the-world-and-a-benchmark-suite-for-egocentric-perception",
-      "originalUrl": "https://www.slashgear.com/facebook-ego4d-tracking-your-when-how-what-and-who-14695225/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/244780342_592679151865430_7743889725254708657_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=2a8MRoAFmnoAX_2IB53&_nc_oc=AQkLFNA0YdAWSi47bFnIWXRYizEKCuYbOcAKNdeJ911EuZC8H3RU7K9HSrQ-Q4VcGs4&_nc_ht=scontent-sea1-1.xx&oh=eb77d9d10d5b9a3f91015768c53d8e47&oe=616ED552",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-17-amazon-to-extend-ban-on-police-use-of-face-recognition-tech.md",
+      "title": "Amazon to Extend Ban on Police Use of Face Recognition Tech",
+      "excerpt": "Activists have targeted Amazon Web Services cloud computing unit's \"Rekognition\" facial recognition technology and Ring surveillance cameras used for home security. It was not clear the degree to which police have used the systems. Amazon last year called ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
+      "originalUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
+      "publishedDateTime": "2021-10-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-10-17-the-tiniest-computer-vision-platform-just-got-better.md",
       "title": "The Tiniest Computer Vision Platform Just Got Better",
       "excerpt": "The future, if you believe the ad copy, is a world filled with cameras backed by intelligence, neural nets, and computer vision. Despite the hype, this may actually turn out to be true ...",
@@ -1298,49 +1333,6 @@
       "provider": {
         "name": "Euronews",
         "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-tdsi-gardis-software-now-features-full-integration-with-hikvisions-face-recognition-terminals-and-anpr-cameras.md",
-      "title": "TDSi GARDiS software now features full integration with Hikvision’s face recognition terminals and ANPR cameras",
-      "excerpt": "Integrated security manufacturer, TDSi is pleased to announce that its powerful GARDiS access management software now supports full integration with Hikvision’s face recognition terminals and ANPR cameras. John Davies, the Managing Director of TDSi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/tdsi-announces-full-integration-with-the-rotaone-time-attendance-solution-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html",
-      "publishedDateTime": "2021-10-06T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
         "images": null,
         "publishers": null,
         "authors": null

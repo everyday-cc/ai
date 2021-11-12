@@ -2,6 +2,49 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-09-14-ibm-focuses-on-ai-business-adds-new-features-to-watson.md",
+      "title": "IBM Focuses on AI Business, Adds New Features to Watson",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Read more on \"Zacks\" SHARE THIS POST Ai Holdings NewsMORE Related Stocks Find News News",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-focuses-on-ai-business--adds-new-features-to-watson-10522185",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-focuses-on-ai-business--adds-new-features-to-watson-10522185",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-alibaba-invests-in-chinese-self-driving-unicorn-in-latest-electric-vehicle-move.md",
       "title": "Alibaba Invests in Chinese Self-Driving Unicorn in Latest Electric Vehicle Move",
       "excerpt": "Chinese e-commerce giant Alibaba Group Holding has led a $300 million funding round for one of China’s newest self-driving car start-ups. Shenzhen-based Deeproute said in a statement on Tuesday ...",
@@ -1038,49 +1081,6 @@
       "provider": {
         "name": "InvestorPlace",
         "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-apple-taps-more-drivers-to-test-self-driving-cars-in-california.md",
-      "title": "Apple taps more drivers to test self-driving cars in California",
-      "excerpt": "Apple is continuing efforts to advance internal self-driving car technology, with the iPhone maker recently registering more drivers to pilot technology test beds on California roads.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california",
-      "originalUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/44393-86171-210914-AppleTestVehicle-xl.jpg",
-          "width": 870,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california/amp/",
-      "publishedDateTime": "2021-09-13T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
         "images": null,
         "publishers": null,
         "authors": null

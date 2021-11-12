@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/online-views/metas-face-recognition
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://cdn.nextgov.com/media/img/cd/2021/11/09/NGface20211109/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Facebook to End Use of Its Facial Recognition System"
-    excerpt: "Facebook parent Meta Platforms Inc. announced in a blog post that it will shut down its “Face Recognition” system in coming weeks as part of a company-w"
-    publishedDateTime: 2021-11-08T22:33:00Z
-    webUrl: "https://www.natlawreview.com/article/facebook-to-end-use-its-facial-recognition-system"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/13513/Biometrics.facialrecognition.scanner.privacy_3_0.jpg?itok=XFC82dYr"
-        width: 500
-        height: 357
         isCached: true
 
 secured: "J3Afo8CuNGaJ7Mb+DaMbrMZSP4LEfuujGmVxqkklmVBQJ58m8kaUfpUauN20oEOOlWIQQouAtx/D+dEde5usNo1tfpGIKgK750rFpC9UBmalWuGK+2OS4t+6ypguDy7KyajABetWSqYuq1Z4BrM6x1TUB+O0mw8p9KxpTdJt3qY04xtRZTP0LE0Blkn/dQH6oH8oZGWOvAX+iaKsl58UBMN7ohhz05sKnCvLmtKV9cyBVMurVOQwLlWIItHv9agwHm7ut4zQ7eitgqRZMk/hdugZ/FcFPGArewM/osfLOyZeuV/G7Ek68Km7zW9mf+nhzQVp63fVHmjwXA0Dk/SrdtQRC3x9d8PKssbSdXyPLg4G18WbAmMwJZMqeEsjq3a5XAt41sT0JXizWPOl83HldGJMGeUedoftte3M9tG2Q5J5qUvHqYfalFix2MkVTqBsR0bctP01fgGo0VuQHw4zXBAyMxvI7dA6Mmn61LLMkpa5Q4kWISer4UZpLJL+V5YkUs7Ae3Rgme/vbUS6ZXvPgA==;HR6C4BBFd1oWObEsqQNUPg=="

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-12-this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats.md",
+      "title": "This farm is developing a smart facial recognition system.. for its goats",
+      "excerpt": "Despite the smart technology's advances throughout the years, not many people think about its other uses and applications. Shanghai-based Vert City Farm says its goat facial recognition system should be up and running by 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats",
+      "originalUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/cover_2a5x.620.png",
+          "width": 620,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1",
+      "publishedDateTime": "2021-11-11T20:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-facial-recognition-marches-forward-no-matter-what-facebook-says.md",
       "title": "Facial Recognition Marches Forward, No Matter What Facebook Says",
       "excerpt": "Facebook parent Meta Platforms Inc. said on Nov. 2 it was shuttering the facial recognition system it used to automatically identify people in images posted to its social network. The company is working to repair a public image crisis—there’s a reason it’s not called Facebook anymore —and facial recognition has become an increasingly toxic concept in many circles.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognition-tech-won-t-go-away-despite-facebook-fb-ending-system",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -297,7 +340,7 @@
       "originalUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1352,60 +1395,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-abacusai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases.md",
-      "title": "Abacus.ai snags $50M Series C as it expands into computer vision use cases",
-      "excerpt": "Abacus.ai wants to build an AI platform that simplifies machine learning model creation, while still leaving room for power users. Today the company announced a $50 million Series C. At the same time,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
-      "originalUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-imsev208-063.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
-      "publishedDateTime": "2021-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
       ]
     }
   ],

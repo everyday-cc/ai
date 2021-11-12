@@ -25,67 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "Meta’s face recognition AI may yet metastasize"
-    excerpt: "Facebook said it would drop this tool and delete a billion-plus face templates, but it looks integral to its parent company’s metaverse ambitions. This makes privacy regulation a must"
-    publishedDateTime: 2021-11-07T16:43:00Z
-    webUrl: "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html"
-    ampWebUrl: "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html"
+  - title: "This farm is developing a smart facial recognition system.. for its goats"
+    excerpt: "Despite the smart technology's advances throughout the years, not many people think about its other uses and applications. Shanghai-based Vert City Farm says its goat facial recognition system should be up and running by 2022,"
+    publishedDateTime: 2021-11-12T04:22:00Z
+    webUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats"
+    ampWebUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
+      name: Mashable
+      domain: mashable.com
+    quality: 88
     images:
-      - url: "https://images.livemint.com/img/2021/11/07/600x338/edit_1636303267610_1636303286718.jpg"
-        width: 600
-        height: 338
+      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/cover_2a5x.620.png"
+        width: 620
+        height: 326
         isCached: true
-  - title: "Facebook Puts an End To Facial Recognition, Pledges To Delete All Data"
-    excerpt: "Facebook's opt-in facial recognition system will no longer be available in a matter of weeks, and the templates it relied on to function will be deleted. The decision comes as the social media giant rebrands as \"Meta\" and looks to keep ahead of regulations."
-    publishedDateTime: 2021-11-08T22:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
+  - title: "Facebook will drop its facial recognition system, but why we should be skeptical"
+    excerpt: "Facebook has announced that it will stop using its facial recognition system—the artificial intelligence software which recognizes people in photos and videos and generates suggestions about who to \"tag\" in them."
+    publishedDateTime: 2021-11-10T14:30:00Z
+    webUrl: "https://techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.amp"
     type: article
     provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 61
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 56
     images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
-        width: 1500
-        height: 860
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/facebook-will-drop-its.jpg"
+        width: 1356
+        height: 668
         isCached: true
-  - title: "Meta to Halt Use of Facial Recognition Technology on Facebook"
-    excerpt: "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse"
-    publishedDateTime: 2021-11-09T20:05:00Z
-    webUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/"
-    ampWebUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
+  - title: "Facebook will drop its facial recognition system – but here’s why we should be sceptical"
+    excerpt: "Facebook has announced that it will stop using its facial recognition system – the artificial intelligence software which recognises people in photos and videos and generates suggestions about who to “tag” in them."
+    publishedDateTime: 2021-11-10T11:22:00Z
+    webUrl: "https://theconversation.com/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+    ampWebUrl: "https://theconversation.com/amp/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facebook-will-drop-its-facial-recognition-system-but-heres-why-we-should-be-sceptical-171186"
     type: article
     provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 59
+      name: The Conversation
+      domain: theconversation.com
+    quality: 52
     images:
-      - url: "https://www.adweek.com/wp-content/uploads/2021/08/OculusHorizonWorkroomsHero-640x360.jpg"
-        width: 640
-        height: 360
+      - url: "https://images.theconversation.com/files/430501/original/file-20211105-10492-raehl0.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=214&fit=crop"
+        width: 320
+        height: 214
         isCached: true
-  - title: "DHS Researching Public Perception of Facial Recognition and AI Use"
-    excerpt: "The Department of Homeland Security is collecting privacy concerns as critics fight to ban facial recognition outright."
-    publishedDateTime: 2021-11-09T20:05:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/11/dhs-researching-public-perception-facial-recognition-and-ai-use/186731/"
+  - title: "Facebook is shutting down its facial recognition software"
+    excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
+    publishedDateTime: 2021-11-08T21:55:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
+      name: Local News 8
+      domain: localnews8.com
+    quality: 39
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/11/09/NGface20211109/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Facebook is shutting down its facial recognition software"
+    excerpt: "Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
+    publishedDateTime: 2021-11-11T14:59:00Z
+    webUrl: "https://www.channel3000.com/i/facebook-is-shutting-down-its-facial-recognition-software/"
+    type: article
+    provider:
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2021/11/o/g/9c3f8e10450ee7728627c50a15d71b0ed0d4e27c.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "WNOL/8u9Mv6cDFr9VLuUcOTtUwG69pzMJ6rgpuz4TfkSRsdUaaQVNQQM4X/Y2SPKZXk+J+plI+aLakDFh27cyA+Cu5a4qnw1/RpSOyTV9n/Sibvo5CTtKZ3s3MfyMrT8fIKpDFD6u4Ogm0HeVE1fC8PRMQLHT0O4ei6jvavUtDTo0HSjPfm9uE7hVESvEbaPy057wmr6YPnsuLlhx4FE7Lczh2YdZ4mL3TOUxOfOLK56edECPFE2ddzAIOsTZp8Qqp9zVhhmDIuYwjhQyVv4SpxWcJsTmuzQF3kh5NHlIkvb2rJ+mHv6G0BcRAZNiIUXNMhI3VBvbLivEk/f397PllJk8XlIs0/UtyvWTRbPdsQ=;MYZoLhrguujlH+nNNTJdkw=="

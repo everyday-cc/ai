@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/70006f82ca567a1b1d83916b3e944e6b5bd93604-600x337.jpg"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/COP26-climate-AFP-1K-01-600x337.jpg"
     width: 600
     height: 337
     isCached: true
 
-secured: "21sWe/TGuHoGvWYOEyT0BpE9oWr7Dt5ogEj5fJFIYVbM2aNLRL8QPygnjqU0pCwtMrKaqt0ogRKMBp29/IXLszDphF1ucMWIHuqnB86iqdoA8xt/2exPyXvl2E5k5m6Rkg+pOGxfSanOMwWXwiU64rydF2i4pB2nPLu/Y2KwNGcqGCmxNcBfNm6IjEDFaR4LOTsNGv6+QlDjQ9x09wYwf3N7zlEbWFIlTrce3jV1Cy9r6o4TXc5GKxlJFM7WKzY7R+s/P6yaPuiiuwtq2NkgthulXk/llKwb98FGXB00nazxemk6825r7jIPaB1Wm4RQAK6YHGaDsnPnL2t0/PQPyjnsfOdyF0adpXgNUaxJ67Q=;nGH5DdRIorJVn+mnCjOo4Q=="
+secured: "MqNTXvKC9iLDVzzX2iKClaBDOeC8p7RSet4+YSwBgrhjVjWCM3jq7iRq7dHnludOtMZDHhnrARSG0mGALyfH6SQbcu1/WfBvtbNoUVVOo/8CzySBxt/v0/oWCAQZA7q+jJBrfdA2/vxBTt+nOe5G56iCnDwZ/YBqq0dV3YXkp02fGM3cKPey3qKoQqBp5isq4EORQw7KdUykOXCVte2EQPd40SBPX4mYv2W3ieosrSTv4o6BTVIKQYOKqoK2DgrkYit6Q0tI9rem3AWaez6JnPEJ4722bfiW1knsrp+DCkaFNSiycCY5hvcewsUnrdVfH8ALyV3lVbvoivqUZ7anc1p7rSEB3pEIcKJKDPo4PKs=;46FxvuKrlKZEcGwJx28pmw=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-10-01-how-ai-is-altering-software-development-with-ai-augmentation.md",
+      "title": "How AI Is Altering Software Development with AI-Augmentation",
+      "excerpt": "With help from AI-Augmented development tools – including no code and low code – software development will move far faster, and be open to non-tech types as well. “Software is eating the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/circuit-board.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-how-artificial-intelligence-can-change-education.md",
       "title": "How Artificial Intelligence can change Education",
       "excerpt": "Conversations about Artificial Intelligence usually involve robots, space exploration machines, and smart home devices. The impact of this technology on education is much less discussed, although AI could change it completely.",
@@ -1146,58 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-egypts-ministry-of-supply-and-internal-trade-automates-wheat-silos-processes-in-collaboration-with-ibm-and-acme-saico.md",
-      "title": "Egypt's Ministry of Supply and Internal Trade Automates Wheat Silos Processes in Collaboration with IBM and ACME SAICO",
-      "excerpt": "By offering IBM's AI and hybrid cloud approach ... Authority for Supply Commodities through IBM Cognos Analytics with Watson connected to the automation platform in use. As part of the sustainable ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/egypt-s-ministry-of-supply-and-internal-trade-automates-wheat-silos-processes-in-collaboration-with-ibm-and-acme-saico-1030824303",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/egypt-s-ministry-of-supply-and-internal-trade-automates-wheat-silos-processes-in-collaboration-with-ibm-and-acme-saico-1030824303",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-10-20-ibm-rebrands-its-gbs-division-to-emphasize-what-it-actually-does-consulting.md",
+      "title": "IBM rebrands its GBS division to emphasize what it actually does: Consulting",
+      "excerpt": "Almost two decades after its landmark acquisition of PwC Consulting, IBM Global Business Services (GBS) is now IBM Consulting. What may seem like semantics in the short term should bear fruit in the long.",
+      "sourceUrl": null,
+      "webUrl": "https://www.horsesforsources.com/index.php/blog/elena-christopher/IBM-Consulting_101821",
+      "originalUrl": "https://www.horsesforsources.com/index.php/blog/elena-christopher/IBM-Consulting_101821",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.horsesforsources.com/storage/app/uploads/public/616/f1b/f4c/616f1bf4c2caa197219516.png",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Horses for Sources",
+        "domain": "horsesforsources.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-pixel-6-live-translate-is-the-feature-you-have-been-waiting-for.md",
       "title": "Pixel 6 Live Translate Is The Feature You Have Been Waiting For",
       "excerpt": "Google’s buzzwords for 2021 are Pixel 6 and Tensor. But there is more to the story, and the company has introduced a ton of ML-powered featured. One of them is Live Translate that builds upon Google’s existing translation capabilities.",
@@ -1156,49 +1199,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-wejo-integrates-with-microsoft-mapping-services-to-provide-real-time-transportation-data.md",
-      "title": "Wejo Integrates With Microsoft Mapping Services to Provide Real-Time Transportation Data",
-      "excerpt": "Wejo, a global leader in connected vehicle data, today announced an expanded collaboration with Microsoft through which Wejo's real-time mapping and traffic data will be integrated with Microsoft mapping services to deliver enhanced accuracy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20053150.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20053150.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

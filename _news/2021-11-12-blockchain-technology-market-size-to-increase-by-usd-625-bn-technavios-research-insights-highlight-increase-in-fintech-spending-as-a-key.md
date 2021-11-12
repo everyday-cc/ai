@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Blockchain technology Market size to increase by USD 6.25 Bn | Technavio's Research Insights highlight Increase in FinTech Spending as a Key Trend"
-excerpt: "According to the research report \"Blockchain Technology Market - Forecast and Analysis Report 2021-2025\", the market is expected to have a YOY growth rate of 19.00% in 2021 and is supposed to grow at a CAGR of over 32% between 2020 and"
-publishedDateTime: 2021-11-12T01:38:00Z
-originalUrl: "https://www.lelezard.com/en/news-20099920.html"
-webUrl: "https://www.lelezard.com/en/news-20099920.html"
+excerpt: "According to the research report \"Blockchain Technology Market - Forecast and Analysis Report 2021-2025\", the market is expected to have a YOY growth"
+publishedDateTime: 2021-11-12T00:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/blockchain-technology-market-size-to-increase-by-usd-6-25-bn-technavios-research-insights-highlight/article_c7481f17-8858-5212-a4a7-8db672fafc75.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/blockchain-technology-market-size-to-increase-by-usd-6-25-bn-technavios-research-insights-highlight/article_c7481f17-8858-5212-a4a7-8db672fafc75.html"
 type: article
 quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1684534/Blockchain_Technology_Market_Infographic.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/6a/b6a73f4e-64ff-5ab3-87a3-40242f211002/618dc50fe4fe3.image.jpg?resize=800%2C450"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -114,6 +114,6 @@ related:
         height: 630
         isCached: true
 
-secured: "bN4DseJmxL5kZgNvf9aGLIbDEDM5iI6ll9SH1YyKaZxPGzrJjnirszZECXH1vjJvc/MWlCtaJbY4eF/md3lTfhiRz8+ODkZkc3iRT3U50eLNho/L/c8VVfKEuxMGEbEUYKlfFS/g9T8SNQrxF8TS5YFZTdOQvTLQocfuvjDIeKoGTKeYjWIiaybK4SrbaVBHD7gXk6H7JAgLoeRoZuQqOCLWQr8LEmU8BD5tsxW0X8QDuLbY5H9jrKvP92ACfsWxc9X1n6bVJOHBVOtALxYXO6gqOSz5GFc3AIuVvznWSJx3zCBkr0mU2ReFRZZq+cc2OdcozHMDmHIJ7ZvG1UCZEZH/XtnKip25qoqq61fmIsQ=;sWnB6In4LV/awRQ0p4wdng=="
+secured: "WZtp1vyA92zSmkDZdnhO8QfQFjBjpPGE43UV1fhs6kInKgKUiLmyESUtbbgcCbBcBA/B6aw9hh4ZySgoYJ48UBcKrqMq5fz/riv5FWXpKer5ZaH9asTM7yqsvXHg9Hg6PPrPEKfulDyEodE9zEtDUcRM92umPQs1Qf/xKp2kMUxvnvPTP/xI0xc3J0zAzl5DKXPbaeoKjYoo/rM9gXZMwvst4TJJKPpdIdAZ9pnuO3xWLSzorO7cJk85XK1BGNGQ1/FnZNDY3nIfMed5MYpot3UKdHcdg/sojFuoQ0OPg2iriGh4bBtXI3U4WdLpVhYslbEWzbEKsbl+eTCW9tAYNFA32x1iUIN1v66q4i2cwxk=;YB20PJaw9vbh2VLjA6suOg=="
 ---
 

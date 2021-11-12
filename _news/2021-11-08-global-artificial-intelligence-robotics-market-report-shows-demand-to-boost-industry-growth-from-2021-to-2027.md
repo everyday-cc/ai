@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07"
 type: article
 quality: 80
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -100,6 +100,22 @@ related:
       - url: "https://beta-kiosk.icrowdnewswire.com/assets/source/users/kamal.negi/Smart%20Robot%20Market1.jpg?1636539321479"
         width: 563
         height: 743
+        isCached: true
+  - title: "Global Artificial Intelligence in Agriculture Market Report – Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026"
+    excerpt: "United States OR Poland Big Market Research recently published a report on Global Artificial Intelligence in Agriculture Market to its research database This Global Artificial Intelligence in Agriculture Market report analyzes the comprehensive overview of the market comprising an executive"
+    publishedDateTime: 2021-11-12T03:08:00Z
+    webUrl: "https://www.openpr.com/news/2459500/global-artificial-intelligence-in-agriculture-market-report"
+    ampWebUrl: "https://www.openpr.com/amp/2459500/global-artificial-intelligence-in-agriculture-market-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2459500/global-artificial-intelligence-in-agriculture-market-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub12513989_g.jpg"
+        width: 800
+        height: 374
         isCached: true
   - title: "Artificial Intelligence Market 2021 CAGR Value, Top Manufacturers, Competitive Landscape, Growth, Industry Share, Size, and Forecast till 2026"
     excerpt: "Artificial Intelligence Market report 2021 presents the development status, growth opportunities, future prospects, technologies, including top leading players are IBM Watson Health,"

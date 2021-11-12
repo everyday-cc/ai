@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-06-alphabet-just-launched-a-company-thats-using-ai-to-design-new-drugs.md",
+      "title": "Alphabet Just Launched a Company That's Using AI to Design New Drugs",
+      "excerpt": "Alphabet has launched a new company called Isomorphic Labs which will use artificial intelligence (AI) to discover new pharmaceutical drugs. The venture will reportedly rely on advancements made by Alphabet’s DeepMind whose AI uses a model called AlphaFold2 to predict the shape of proteins with incredible accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
+      "originalUrl": "https://interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8xEAzGm/sizes/proteinss_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
+      "publishedDateTime": "2021-11-06T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-rise-of-the-robots-speeds-up-in-pandemic-with-us-labor-scarce.md",
       "title": "Rise of the Robots Speeds Up in Pandemic With U.S. Labor Scarce",
       "excerpt": "American workers are hoping that the tight pandemic ... labor market will translate into better pay. It might just mean robots take their jobs instead. Labor shortages and rising wages are pushing ...",
@@ -102,6 +145,40 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-castle-biosciences-publishes-decisiondx-melanoma-study-on-the-validation-of-the-i31-gep-slnb-artificial-intelligence-algorithm.md",
+      "title": "Castle Biosciences Publishes DecisionDx®-Melanoma Study on the Validation of the i31-GEP SLNB Artificial Intelligence Algorithm",
+      "excerpt": "Castle announced the publication of a study validating performance of the i31-SLNB algorithm to determine sentinel lymph node biopsy positivity risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
+      "originalUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -214,7 +291,7 @@
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/70006f82ca567a1b1d83916b3e944e6b5bd93604-600x337.jpg",
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/COP26-climate-AFP-1K-01-600x337.jpg",
           "width": 600,
           "height": 337,
           "title": null,
@@ -284,49 +361,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-castle-biosciences-publishes-decisiondx-melanoma-study-on-the-validation-of-the-i31-gep-slnb-artificial-intelligence-algorithm.md",
-      "title": "Castle Biosciences Publishes DecisionDx®-Melanoma Study on the Validation of the i31-GEP SLNB Artificial Intelligence Algorithm",
-      "excerpt": "Castle Biosciences, Inc. (Nasdaq: CSTL), a company applying innovative diagnostics to inform disease management and improve patient outcomes, today announced the publication of a study validating performance of a novel algorithm designed to integrate the DecisionDx ® -Melanoma gene expression profile (GEP) test with clinicopathologic features (i31-GEP SLNB) to determine sentinel lymph node biopsy (SLNB) positivity risk in patients with cutaneous melanoma.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-science-technology-business-melanoma-b54532c71d214233b100c84c9001449d",
-      "originalUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-science-technology-business-melanoma-b54532c71d214233b100c84c9001449d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1166,58 +1200,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-alphabet-lets-ai-take-the-lead-role-in-new-drug-discovery-startup.md",
-      "title": "Alphabet lets AI take the lead role in new drug discovery startup",
-      "excerpt": "DeepMind produced a stunning advance in scientific research, demonstrating how its artificial intelligence could be used to predict 3D structures of unique proteins in a solution to a 50-year science problem.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/",
-      "originalUrl": "https://newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/ec422cd/2147483647/strip/true/crop/1212x808+114+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb1%2F32%2F4ccee0d441f598489215b11648b4%2Fscreen-shot-2020-12-01-at-12.05.59%20pm.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/?amp=true",
-      "publishedDateTime": "2021-11-04T21:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],
