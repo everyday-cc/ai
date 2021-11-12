@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Chip Market 2021: Prominent Factors of Global Industry Size, Share, Trends Analysis, Revenues and Gross Margin till 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Deep Learning Chip Market”"
+    publishedDateTime: 2021-11-08T08:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-2021-prominent-factors-of-global-industry-size-share-trends-analysis-revenues-and-gross-margin-till-2027-2021-11-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Smart Robot Market Research Report 2021 | Share, Trends, Growth, Outlook and Forecast 2026"
     excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, the global smart robot market reached a value of US$ XX Billion in 2020."
     publishedDateTime: 2021-11-10T11:43:00Z

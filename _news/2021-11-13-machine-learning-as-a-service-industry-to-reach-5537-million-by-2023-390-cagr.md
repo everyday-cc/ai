@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-12T20:41:00Z
 originalUrl: "https://menafn.com/1103159211/Machine-Learning-as-a-Service-Industry-to-Reach-5537-Million-by-2023-390-CAGR"
 webUrl: "https://menafn.com/1103159211/Machine-Learning-as-a-Service-Industry-to-Reach-5537-Million-by-2023-390-CAGR"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://menafn.com/updates/pr/2021-11/12/EP_89ae6image_story.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 300
     isCached: true
 
-secured: "0SHNNegkZvnfGvAGV2z8BPmPxUQi26YECW/qPduu2JgAPOAjRQsBIgDoidcI02QCTL5NK3Lcze4LSPokerFYqC8R4vrqejr0oU8f2vrtcns20/3pDz5UGjPLoVmUL3Zw0FalySd1iXi+XN8aOTz7QFh0BaQf+WUHevGW50JF3KyiXn+bsLeO7MvX3vJNdhapjm1pzdvJldS6YurteSbaFecMuFMbRU2KlNGGAlWke/KG6I71x5Wi/NS5k/h1VBEJby4bSuVX6wH+hCv1Av+hLt78InNY+W+WHhAUORJeXVXOOVLWtGOYtpjJg/YHpTPmeG/6vMqYj2AJRF+7UxeRvUa7XniCwI77z23Uuro/Zag=;aCo/rqoLATvg9zbnAQMrpg=="
+secured: "q+5Ix/Eg28pUbJz/1GITx+dO0Lk/gWuhJzDBmMLCwbggLXszqMTf04QAhr+e976qyrAUlP7FZf/hn+YJ47ZYsxWWhenD025htkhfXcZPqdfE/LlZMiUgN6zP8FRMABzxCpLTrvXxK7Sk96A9HOQLg2d/G1m/npbtswWb7egvvmaay3Y/SinnJeawBFShvPplP1i/lzmZyqbf4zpHClLOb31IAmkfusrPjiBdkf3sJd1tLWJsyHtQyLt/EQmPYBG7hVnqbuvto4MkGE9WBspkXRrDYBf66Oevk8x67wDj8zXND37AbeZdPtibFQDOj/4LCdmjtaYVMYD130WOKhu1TO68kMPy2EwtdS0Ga33UDL3JUUen943m7RK8BEvtjZKHFJd93W6yUquGDebw+nY8mSpsj9milEBmUDmck+KPSBJGoEkrFvWsSQyZIgZrtJ2/EJ5GZPYjzNizqdF8LQ/fBbIRc06Y97AijRkYxZ0G8LavV9x0ozEcfIzspGFhvfuEDawjll8nSmOudlF81aR8GA==;ACrDk18ylVWzm3End7Be1g=="
 ---
 

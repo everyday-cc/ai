@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-fac
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
 type: article
 quality: 61
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: CPO Magazine
@@ -28,79 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Meta to Halt Use of Facial Recognition Technology on Facebook"
-    excerpt: "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse"
-    publishedDateTime: 2021-11-09T20:05:00Z
-    webUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/"
-    ampWebUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
+  - title: "Facebook, bad news and business ethics: Consider the consequences of every decision"
+    excerpt: "Facebook's recent challenges should serve as a lesson to all leaders to identify and mitigate ethical concerns before they escalate."
+    publishedDateTime: 2021-11-12T20:40:00Z
+    webUrl: "https://www.techrepublic.com/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/"
     type: article
     provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 59
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 83
     images:
-      - url: "https://www.adweek.com/wp-content/uploads/2021/08/OculusHorizonWorkroomsHero-640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Facebook shutting down automatic facial recognition in photos"
-    excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
-    publishedDateTime: 2021-11-11T18:00:00Z
-    webUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521"
-    ampWebUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/11/11/faceb.jpg?itok=QLjSS1xF"
-        width: 750
-        height: 393
-        isCached: true
-  - title: "Facebook, the metaverse and the monetisation of higher education"
-    excerpt: "The metaverse is a virtual world in which users represented by an avatar can shop socialise take part in leisure activities ndash and learn Its de"
-    publishedDateTime: 2021-11-09T13:12:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271690241/facebook-the-metaverse-and-the-monetisation-of-higher-education"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cvr1636461579.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Facebook whistleblower says Digital Services Act can rein in social media giant"
-    excerpt: "Haugen: ‘Facebooks’s profit optimisation machine is generating self-harm and self-hate especially for vulnerable groups like teenage girls’"
-    publishedDateTime: 2021-11-09T17:03:00Z
-    webUrl: "https://www.maltatoday.com.mt/news/ewropej/113187/facebook_whistleblower_says_digital_services_act_can_rein_in_social_media_giant"
-    type: article
-    provider:
-      name: Malta Today
-      domain: maltatoday.com.mt
-    quality: 20
-    images:
-      - url: "http://cdn.maltatoday.com.mt/ui_frontend/thumbnail/684/400/frances_haugen_facebook.jpg"
-        width: 684
-        height: 400
-        isCached: true
-  - title: "As Facebook Joins the Race to the Metaverse, Chinese Tech Companies Face Hurdles"
-    excerpt: "Facebook will be changing its name to Meta Platforms Inc., Chinese tech giants scrambled to stake their positions in the space—despite stern warnings about the metaverse from Chinese regulators.  The metaverse refers to a hypothesized next iteration of the internet consisting of online 3-D virtual environments that people can access through virtual reality headsets,"
-    publishedDateTime: 2021-11-12T14:57:00Z
-    webUrl: "https://www.lawfareblog.com/facebook-joins-race-metaverse-chinese-tech-companies-face-hurdles"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 19
-    images:
-      - url: "https://www.lawfareblog.com/sites/default/files/51643294031_c2fa4424b7_k.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://www.techrepublic.com/a/hub/i/r/2018/07/17/a6335d0b-5cd2-4ef0-b45e-4c9053d26ab6/resize/1200x/66c6341c84855bd86c7adc99fc13dd42/ethics.jpg"
+        width: 1200
+        height: 901
         isCached: true
 
 secured: "m3c7zO33IAWp9gBDYUnvAGPo6QFKSHzKQNZct55HCxNXR4gLBsluzxZkKIl4o/OhulbRKsU+ch2kRLYEI9QIL4CzylcWq9KzcmyQ7VqcsQTKikyhdHTi8yMJi7d7/Woa0NrQZKUWqMb4zPHZSuT9r6yM18R9h6o8RWJJiF4+7gk38oWaDZR2GJPW66X81AWQ9cPDncPKlp+vJdIGhiXEtOwNrHuUnhxt44Avc5G8tDKuWKHY0YWbSeMYScI3cTLipoHYRxNzKnMPOWIGND93K6Vt8x4soUPKj5ADEUmPRaJIQrCMn0OefliY+X3EojfVG/3sfezZQKesHxetAd79ND8QnXxuWgyLXAXkUJhLmvMwp+HHFQKeaRiVFnBuHXc4D0k9AcIjekj4BeeRayx7Qt//d9VdzOLCo1SseB84NTWjpprQBL3/uQXMq+ktWaGXHxx4x5CKIfS4hKNgNNDLgiY0OIuo04uYL98YzI3LEzjRefK0RydevwkwlaeK79Ex8l5O5I8IzXNhs9ztqozk1A==;Ejl397Q44K3rZVxU3Ty2lQ=="

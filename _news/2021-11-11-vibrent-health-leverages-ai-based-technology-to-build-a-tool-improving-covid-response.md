@@ -32,6 +32,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Development of artificial intelligence technology for producing CT images based on MRI"
+    excerpt: "Dr. Hyungmin Kim's team at the Bionics Research Center at the Korea Institute of Science and Technology (KIST, President Seok-Jin Yoon) developed an artificial intelligence technology to generate CT images based on MRI images and conducted a simulation ..."
+    publishedDateTime: 2021-11-10T06:53:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/934152"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c7bbfeb8-0dd2-430b-a4f8-fa17ba46a03f/Rendition/low-res/Content/Public"
+        width: 700
+        height: 286
+        isCached: true
 
 secured: "eRypPs65PgRibvylQPkrFjjSolvIUKzgyvuTLgyduNgS1ibL39QrEcMTKnt8IXa2jnQRBXgixCVn2gDAxjwBaF4TBwACh68o80Eg8DSJW15cZke99v/jQm089jMrMV0QAKyTM7nGn8vN+BVhK3jNMD52mmDD8jA0P+56rnG5tUCz43cCJT0rdsCUdXMTOeRurbDjCUbr5zlaaLNSl3965y3YkffQfhN37dmrOiMw4WhrSdhjgqcteE0FfmTg+310+bNxpcaDxAOlc+tTIRI42emqgQBd5PkFYYXL8XKfCI20QywUclsNJZA7d/SKmxQgGEmOKidSnGkNKr6oFhyR4FIymajVbOMnEeyb+BZkH8+vCzYoIhmfeswKAAMsAX/6uPqUBdY4A5JAz6Poz0rEu/azG8bn33cgZspSAg9fJKlbNEVtrg9rNLBT78uFWBinejXyU0d0B4E2ThaxAjxCdzLr57+3hKiMLuHIZsSVFKnaiA6jzvdRTleDZZy7F7YjT57GzwQC4FtMyaEZraI64g==;ALnDX4g6vVQaOY+Kqg6hmA=="
 ---

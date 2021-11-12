@@ -28,6 +28,22 @@ images:
     height: 552
     isCached: true
 
+related:
+  - title: "The metaverse is Big Brother in disguise: Freedom meted out by technological tyrants"
+    excerpt: "Welcome to the Matrix (i.e. the metaverse), where reality is virtual, freedom is only as free as one’s technological overlords allow."
+    publishedDateTime: 2021-11-12T04:05:00Z
+    webUrl: "https://augustafreepress.com/the-metaverse-is-big-brother-in-disguise-freedom-meted-out-by-technological-tyrants/"
+    type: article
+    provider:
+      name: Augusta Free Press
+      domain: augustafreepress.com
+    quality: 17
+    images:
+      - url: "https://augustafreepress.com/wp-content/uploads/2021/10/smart-home-technology-phone.jpg"
+        width: 400
+        height: 267
+        isCached: true
+
 secured: "nxtTxHWAnl3krzlfNrU6dZ3dwC6zPnv5UFUWLtXfjoEUHX6HufG1rks1qkymkDU2xmcPfXtIqluTJaQtTKV816w1mueAiuNdglEv9beXfqe2zOFTrivQUw5VUQs5TdnAACBGWy+TAbn9P/dZnx0gU19bQS6FiQJ4iSyy6q/exM8Er1lOTZV3R0GWmriO2ZwhbEq0sBp5nN7G+C6DqeymHZm+qoHajEfk5XrhuUKFlfxUrTG2rrAKjQvmPamoN7udW0SXS7w2dzM0+TSk24kdHJx792H07fVZ8YeOtvp0anva76s02Ge3C2PJo1yFqch89rDOt2Vmiv55ELAyWH24+XNaTqYnHcbrXspLtpn+Jx8=;U4ISgMErTAPch+hyCtqYMQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Adweek
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Puts an End To Facial Recognition, Pledges To Delete All Data"
-    excerpt: "Facebook's opt-in facial recognition system will no longer be available in a matter of weeks, and the templates it relied on to function will be deleted. The decision comes as the social media giant rebrands as \"Meta\" and looks to keep ahead of regulations."
-    publishedDateTime: 2021-11-08T22:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 61
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
-        width: 1500
-        height: 860
-        isCached: true
   - title: "Facebook shutting down automatic facial recognition in photos"
     excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
     publishedDateTime: 2021-11-11T18:00:00Z
@@ -73,19 +57,19 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Facebook whistleblower says Digital Services Act can rein in social media giant"
-    excerpt: "Haugen: ‘Facebooks’s profit optimisation machine is generating self-harm and self-hate especially for vulnerable groups like teenage girls’"
-    publishedDateTime: 2021-11-09T17:03:00Z
-    webUrl: "https://www.maltatoday.com.mt/news/ewropej/113187/facebook_whistleblower_says_digital_services_act_can_rein_in_social_media_giant"
+  - title: "Facebook is now revealing how often users see bullying or harassing posts"
+    excerpt: "The parent company of Facebook and Instagram has released data for the first time showing how often people see bullying or harassing posts on its apps, amid scrutiny over how its social networks may be harming users and society at large."
+    publishedDateTime: 2021-11-09T18:11:00Z
+    webUrl: "https://kuow.org/stories/facebook-is-now-revealing-how-often-users-see-bullying-or-harassing-posts"
     type: article
     provider:
-      name: Malta Today
-      domain: maltatoday.com.mt
-    quality: 20
+      name: KUOW
+      domain: kuow.org
+    quality: 23
     images:
-      - url: "http://cdn.maltatoday.com.mt/ui_frontend/thumbnail/684/400/frances_haugen_facebook.jpg"
-        width: 684
-        height: 400
+      - url: "https://kuow-prod.imgix.net/store/cfdac8b72741ad70d4441331bd867d2f.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 837
+        height: 628
         isCached: true
   - title: "As Facebook Joins the Race to the Metaverse, Chinese Tech Companies Face Hurdles"
     excerpt: "Facebook will be changing its name to Meta Platforms Inc., Chinese tech giants scrambled to stake their positions in the space—despite stern warnings about the metaverse from Chinese regulators.  The metaverse refers to a hypothesized next iteration of the internet consisting of online 3-D virtual environments that people can access through virtual reality headsets,"

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-education-market-2021-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2027-2021-11-07"
 type: article
 quality: 64
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Chip Market 2021: Prominent Factors of Global Industry Size, Share, Trends Analysis, Revenues and Gross Margin till 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Deep Learning Chip Market”"
+    publishedDateTime: 2021-11-08T08:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-2021-prominent-factors-of-global-industry-size-share-trends-analysis-revenues-and-gross-margin-till-2027-2021-11-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -24,22 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Materials advancement accelerates the realization of AI technology"
-    excerpt: "Researchers in Korea succeeded in developing a core material for the next-generation neuromorphic (neural network imitation) semiconductor for the first time in the country. This is a result of a research team led by Dr."
-    publishedDateTime: 2021-11-08T17:02:00Z
-    webUrl: "https://phys.org/news/2021-11-materials-advancement-ai-technology.html"
-    ampWebUrl: "https://phys.org/news/2021-11-materials-advancement-ai-technology.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-materials-advancement-ai-technology.amp"
+  - title: "Vibrent Health Leverages AI-Based Technology to Build a Tool Improving COVID Response"
+    excerpt: "Vibrent Health, a health technology startup powering the future of precision health research, has developed artificial-intelligence-enabled technology which can greatly improve public health pandemic preparedness and response."
+    publishedDateTime: 2021-11-10T14:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-health-public-health-c05c2562ce644051b35dc1cef66dd408"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/materials-advancement.jpg"
-        width: 505
-        height: 662
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Vibrent Health Leverages AI-Based Technology to Build a Tool Improving COVID Response"
+    excerpt: "Vibrent Health, a health technology startup powering the future of precision health research, has developed artificial-intelligence-enabled technology"
+    publishedDateTime: 2021-11-10T18:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211110005306/en/Vibrent-Health-Leverages-AI-Based-Technology-to-Build-a-Tool-Improving-COVID-Response"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
 
 secured: "XRugLh30XxKZ9Qcy7z94f4BKUQ09SQ5ZXdv7VODdCLnH02uMT3cWtoOUXOTc06g4aSK+zVQvWylLQmcNS1IBcFooA0Qyc+AIVKi70CjBuChcwsLu8Fw52opEgwB7x9nskAx2+lMF+Z2gveeQJvsn5AXZ6L/mW1fXsiGDCQUSlnn86GHjfV15MUNQlvpJbgjLCbHxQSZTR8vqlgtNjMRY+nNWj0ZMDHqoj/UYk1OYBPfAE6PLsRbbFr1xTtXWtNuYillTQ+E80XwQqMiNggLxoJGCePe4exIn920YkOeEkS7EGUT7cYVaYBQI97XmylhzOhNjhMWQKzBmwsfSy+gSAch0TIswpGHVeXKu7FPrZ8t2fWEr/tHSbhE6/3uKYnV4W2ORdLsjhFImAtAnizPIEmnDJQ0wo9xeOP2sfzM9WjBy239c5xPz3mlY+c4d8v8yzTQlqaEgcpt/Gjb3mfK8KxZG53/hsOUZsG8cTfqpMpNOrM//otFbpTunKDzmFQg5bJzHLrp9BTOr5jOY+TBqGA==;27vAyNB3xSeUrz8d7ob7Xw=="
 ---

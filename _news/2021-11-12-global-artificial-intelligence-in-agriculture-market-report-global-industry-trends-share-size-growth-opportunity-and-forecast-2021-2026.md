@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Chip Market 2021: Prominent Factors of Global Industry Size, Share, Trends Analysis, Revenues and Gross Margin till 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Deep Learning Chip Market”"
+    publishedDateTime: 2021-11-08T08:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-2021-prominent-factors-of-global-industry-size-share-trends-analysis-revenues-and-gross-margin-till-2027-2021-11-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI for Speech Recognition Market 2021 – Industry Development Scenario, Data Synthesis, Growth Analysis and Regional Overview by 2027"
     excerpt: "Global AI for Speech Recognition Market 2021-2027 published by MarketsandResearch.biz carries out research and analysis of the market which includes the investigation into customer tendency. A number of producers will benefit from this research in identifying and expanding their market."
     publishedDateTime: 2021-11-09T00:28:00Z

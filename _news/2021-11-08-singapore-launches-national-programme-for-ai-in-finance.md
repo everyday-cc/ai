@@ -95,20 +95,6 @@ related:
         width: 1199
         height: 674
         isCached: true
-  - title: "Singapore Launches National Programme To Deepen AI Capabilities In Financial Services"
-    excerpt: "Singapore Launches National Programme To Deepen AI Capabilities In Financial Services. November 8th, 2021 \\| 12:08 PM \\| 34 views. SIN"
-    publishedDateTime: 2021-11-08T05:11:00Z
-    webUrl: "https://www.brudirect.com/news.php?id=131912"
-    type: article
-    provider:
-      name: brudirect.com
-      domain: brudirect.com
-    quality: 32
-    images:
-      - url: "https://www.brudirect.com/images/news/XINHUA.jpg"
-        width: 700
-        height: 402
-        isCached: true
   - title: "Singapore launches national programme to deepen AI capabilities in financial services"
     excerpt: "Singapore's Deputy Prime Minister Heng Swee Keat announced the launch of the National Artificial Intelligence (AI) Programme in Finance at the Singapore FinTech Festival (SFF) and Singapore Week of Innovation and Technology (SWITCH) 2021."
     publishedDateTime: 2021-11-09T03:18:00Z
@@ -123,31 +109,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Singapore Sets Aside An Additional S$180m For AI Research, Two New AI Programmes Announced"
-    excerpt: "Heng announced that the S$180 million would be set aside to accelerate fundamental and translational AI research."
-    publishedDateTime: 2021-11-08T06:22:00Z
-    webUrl: "https://analyticsindiamag.com/singapore-sets-aside-an-additional-s180m-for-ai-research-two-new-ai-programmes-announced/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 29
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/nwy_heng_swee_keat_150619_15_2x.jpg"
-        width: 1536
-        height: 1024
-        isCached: true
-  - title: "Singapore to invest additional $180 million to accelerate AI research; launches two new AI programs"
-    excerpt: "Two new public artificial intelligence (AI) programs have been launched as part of the Republic's strategy to use the technology to effect social and economic good. These come"
-    publishedDateTime: 2021-11-08T05:26:00Z
-    webUrl: "https://technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs"
-    ampWebUrl: "https://technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 25
   - title: "Top 10 Stories from Singapore Fintech Festival 2021"
     excerpt: "Like previous years, the 2021 Singapore Fintech Festival was the opportunity for some of the world’s largest tech firms, banks, fintech leaders and regulators to announce their latest products and initiatives."
     publishedDateTime: 2021-11-12T05:28:00Z
@@ -162,15 +123,6 @@ related:
         width: 2048
         height: 1136
         isCached: true
-  - title: "RadLink, Singapore's Leading Imaging Center, Adapts Lunit AI to Analyze Chest X-rays and Mammograms"
-    excerpt: "Lunit today announced a Reference Site Agreement with RadLink, a subsidiary of the Fullerton Health Group, Singapore's leading private diagnostic and molecular imaging service provider. As a leading medical AI company,"
-    publishedDateTime: 2021-11-08T06:41:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-radlink-singapores-leading-imaging-center-adapts-lunit-ai-/2021/11/08/9486043.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
 secured: "+7cMK1ZjXNET+FJ/TnQaHpRzJWmCrDjrP0G01ZpbPRTx4e0X7WTggE++aU2ZQfQv3G9C6PndGVmm6t8O351733oOs+fHalvnkxuCJ5WnHpEvcTNSHgkH9i7eJkLjJgNnrRU24voT6prQy8paiIEPfmiv+5lyn9/VBb3qgtkIJwGue36X3Piziki5ikZDfBAAdsLIh5/Q0VW6Mh+VeRi910I4fu20iNxMZVjIBxBPZ4D6dOJbfi/Y/bte54FN64nV98G8nyu3MY9Bk0crqyEv8NklG9BEjDrjOAlSiajewZdyQPMU8ttQC9n08lPk8WeMJMFBY3YKwVgYSQkuwlQaPYaDEdOWJUW/210TAMB2bzg=;e1hACOFPeaIPaNWeBECXYg=="
 ---

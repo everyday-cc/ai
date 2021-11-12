@@ -108,45 +108,6 @@ related:
         width: 1199
         height: 674
         isCached: true
-  - title: "Singapore Launches National Programme To Deepen AI Capabilities In Financial Services"
-    excerpt: "Singapore Launches National Programme To Deepen AI Capabilities In Financial Services. November 8th, 2021 \\| 12:08 PM \\| 34 views. SIN"
-    publishedDateTime: 2021-11-08T05:11:00Z
-    webUrl: "https://www.brudirect.com/news.php?id=131912"
-    type: article
-    provider:
-      name: brudirect.com
-      domain: brudirect.com
-    quality: 32
-    images:
-      - url: "https://www.brudirect.com/images/news/XINHUA.jpg"
-        width: 700
-        height: 402
-        isCached: true
-  - title: "Singapore Sets Aside An Additional S$180m For AI Research, Two New AI Programmes Announced"
-    excerpt: "Heng announced that the S$180 million would be set aside to accelerate fundamental and translational AI research."
-    publishedDateTime: 2021-11-08T06:22:00Z
-    webUrl: "https://analyticsindiamag.com/singapore-sets-aside-an-additional-s180m-for-ai-research-two-new-ai-programmes-announced/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 29
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/nwy_heng_swee_keat_150619_15_2x.jpg"
-        width: 1536
-        height: 1024
-        isCached: true
-  - title: "Singapore to invest additional $180 million to accelerate AI research; launches two new AI programs"
-    excerpt: "Two new public artificial intelligence (AI) programs have been launched as part of the Republic's strategy to use the technology to effect social and economic good. These come"
-    publishedDateTime: 2021-11-08T05:26:00Z
-    webUrl: "https://technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs"
-    ampWebUrl: "https://technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/113048/singapore-to-invest-additional-180-million-to-accelerate-ai-research-launches-two-new-ai-programs/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 25
   - title: "Top 10 Stories from Singapore Fintech Festival 2021"
     excerpt: "Like previous years, the 2021 Singapore Fintech Festival was the opportunity for some of the world’s largest tech firms, banks, fintech leaders and regulators to announce their latest products and initiatives."
     publishedDateTime: 2021-11-12T05:28:00Z
@@ -161,15 +122,6 @@ related:
         width: 2048
         height: 1136
         isCached: true
-  - title: "RadLink, Singapore's Leading Imaging Center, Adapts Lunit AI to Analyze Chest X-rays and Mammograms"
-    excerpt: "Lunit today announced a Reference Site Agreement with RadLink, a subsidiary of the Fullerton Health Group, Singapore's leading private diagnostic and molecular imaging service provider. As a leading medical AI company,"
-    publishedDateTime: 2021-11-08T06:41:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-radlink-singapores-leading-imaging-center-adapts-lunit-ai-/2021/11/08/9486043.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
 secured: "Y04tndmDglJ9pHhyQu38NwmU4LdzHN/y6WNWdfWQRcK059Yy8p+FDIWaOyI+4UkkluFLVd4q5q5fE/8qOJlQrebPeVvadADUNYOdchHBn7wWk0+BncrV289cQgOFiFALmK2YD4KjV8IFvl1emf2B3K/JYLd46PkHMfI5yYn+nOMRnlc2F7COpizNbB2QsGo198w0eKbmV8MmmcX76/0NLsFnQYjLvhIbSwobB13JuKrhYto8pAUhEJbqL4MLEAIzjjDINffRMZ7bj366/Ba8a+R+folHKy4qy4VB3OfTEQBcmZLCRPfvaS5VeNF6LHdxj7TCzIHQg+jmUrn+tLQSNmP0j5L503SP5dgEWM+yrXJGtPYlbFZpkYC/sqQUVZqwlReG+vujz+yMEhfqe3luNWy4YaAXLsjo3taVE8BbNhc4lzeR985+NYEnvbpRlxOHQKWVDpwmR75XaGA1JB8hh7C+qFcVzvYrovDe4fdRHN8us2KX8LLzZS32qiHVmrJ0PedP+hoEfqGnl4cXaEx/Rg==;BSxtLtkqe6zLCrODtEPl6Q=="
 ---

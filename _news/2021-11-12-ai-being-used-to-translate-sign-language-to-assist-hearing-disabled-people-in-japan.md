@@ -3,8 +3,8 @@ category: news
 title: "AI being used to translate sign language to assist hearing disabled people in Japan"
 excerpt: "Local governments in Japan are turning to artificial intelligence to improve communication with people who are deaf or hard of hearing at their counters for the public. A system jointly developed by the University of Electro-Communications in Tokyo and SoftBank Corp converts sign-language gestures into written text."
 publishedDateTime: 2021-11-11T21:44:00Z
-originalUrl: "https://japantoday.com/category/tech/feature-ai-being-employed-to-translate-sign-language-to-assist-deaf-in-japan?comment-order=popular"
-webUrl: "https://japantoday.com/category/tech/feature-ai-being-employed-to-translate-sign-language-to-assist-deaf-in-japan?comment-order=popular"
+originalUrl: "https://japantoday.com/category/tech/feature-ai-being-employed-to-translate-sign-language-to-assist-deaf-in-japan"
+webUrl: "https://japantoday.com/category/tech/feature-ai-being-employed-to-translate-sign-language-to-assist-deaf-in-japan"
 type: article
 quality: 28
 heat: -1
@@ -62,6 +62,6 @@ related:
         height: 489
         isCached: true
 
-secured: "ccyoOar/zqbij3e/FVpAjC/fAShuvBp9tFg3Y5HWxbuHlxRYw/LbZv43ec3fNryQ3nt9sROzF+rM9tI7c8LSQDQ7z8Yj7JtWFBJ8G8SUrO3bhoAy5uzku6kJ4ZiE2uXHterq0odZ9Q3fhN+fR289Tib94Ia7Amx4kbuWpWEM8NSIcs1OkymQTa+/M0XTsmr0u4TDDbMY7lC6rQ81CDYozIaeG/yVl9DsniQMU2w0UvFGXnJLS0ssLte2Noa7f9ttdBc9pou9EwFFVIo2rR8jpPxjAP0AI9dAllk3KA5u32Ot+BdzfB2dChieTt99FzhHq/g2Sz6j0h17hav9tMpf8SZumjtdxBVcahrTIMhQjnU=;cP3OH9naxInb+iey61wkVQ=="
+secured: "qPWgLam+RJ3W6u1YsJyjO7VEabMeDBUIkQAN6cu/piR3rlCdbKOBKyHOvfVFen5eGAYehnsM5mvh5tZxnl99fnPhKsM2VDePrz5ORF667In5RQ1NxfubNWtQR6aKRENFdgVGG13TvcP4lYKEToxZGhRkaNfs/qm56ChQwWtsw2bqDBkrG93byjggw3yKm6rlDMIGm3aGYneUwyVLmDT3d/W0mVIMpVLgxlsc1sNNbnSihKeOb/NczBfwtEOPhMWFOS1ox3gzgyrfUGx0rsYklImBgjqWerlnuJCNRLtOEqrqK33MRV2L50Ok8sPNSrcyUp1QibsmrjBiw+StURICepfCvAcaQqjAbltjhunGF+Y=;4E5Rc5kqjz9JHJvhMmjGLQ=="
 ---
 

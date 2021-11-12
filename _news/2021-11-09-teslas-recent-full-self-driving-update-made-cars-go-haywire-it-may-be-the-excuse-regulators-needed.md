@@ -89,20 +89,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Apple hires former Tesla engineer to boost self-driving car effort"
-    excerpt: "Cupertino, California-based Apple has tapped Christopher Moore for its team working on a self-driving car, the report said. Apple and Tesla did not immediately respond to Reuters requests for comment."
-    publishedDateTime: 2021-11-08T05:27:00Z
-    webUrl: "https://cyprus-mail.com/2021/11/08/apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 39
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2021/11/apple-tesla.jpg"
-        width: 1107
-        height: 731
-        isCached: true
   - title: "Tesla's Full Self-Driving update made cars go haywire. Here's the impact"
     excerpt: "The EV maker appears to be adjusting to scrutiny from federal safety regulators and negative publicity about some of its practices."
     publishedDateTime: 2021-11-08T15:18:00Z

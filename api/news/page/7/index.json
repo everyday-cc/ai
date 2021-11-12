@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-06-rise-of-the-robots-speeds-up-in-pandemic-with-us-labor-scarce.md",
+      "title": "Rise of the Robots Speeds Up in Pandemic With U.S. Labor Scarce",
+      "excerpt": "American workers are hoping that the tight pandemic ... labor market will translate into better pay. It might just mean robots take their jobs instead. Labor shortages and rising wages are pushing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-06/rise-of-the-robots-speeds-up-in-pandemic-with-u-s-labor-scarce",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-06/rise-of-the-robots-speeds-up-in-pandemic-with-u-s-labor-scarce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/illkdk7Rv8g8/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-06T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-streaming-the-best-films-about-artificial-intelligence-and-robots.md",
+      "title": "Streaming: the best films about artificial intelligence and robots",
+      "excerpt": "A century of sci-fi films that chart our changing attitudes to AI – from Fritz Lang to Finch",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
+      "originalUrl": "https://www.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dc40f71415a7198828e641d5ac73ff5b26e5800d/0_395_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=68ba1f19502656f67050feccdbb31b78",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
+      "publishedDateTime": "2021-11-06T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-castle-biosciences-publishes-decisiondx-melanoma-study-on-the-validation-of-the-i31-gep-slnb-artificial-intelligence-algorithm.md",
+      "title": "Castle Biosciences Publishes DecisionDx®-Melanoma Study on the Validation of the i31-GEP SLNB Artificial Intelligence Algorithm",
+      "excerpt": "Castle announced the publication of a study validating performance of the i31-SLNB algorithm to determine sentinel lymph node biopsy positivity risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
+      "originalUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
       "title": "AI & ML latest: Google disbands another AI ethics committee",
       "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
@@ -1072,162 +1209,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-alphabet-lets-ai-take-the-lead-role-in-new-drug-discovery-startup.md",
-      "title": "Alphabet lets AI take the lead role in new drug discovery startup",
-      "excerpt": "DeepMind produced a stunning advance in scientific research, demonstrating how its artificial intelligence could be used to predict 3D structures of unique proteins in a solution to a 50-year science problem.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/",
-      "originalUrl": "https://newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/ec422cd/2147483647/strip/true/crop/1212x808+114+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb1%2F32%2F4ccee0d441f598489215b11648b4%2Fscreen-shot-2020-12-01-at-12.05.59%20pm.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/?amp=true",
-      "publishedDateTime": "2021-11-04T21:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-tencents-foray-into-chips-isnt-at-all-surprising.md",
-      "title": "Tencent’s foray into chips isn’t at all surprising",
-      "excerpt": "Tencent unveiled its progress in chips for the first time this week, which immediately gave its stock price a modest boost. Silicon seems distant from the giant’s main arenas of video games and social networks,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/",
-      "originalUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-937997094.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/",
-      "publishedDateTime": "2021-11-04T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-giving-robots-social-skills.md",
-      "title": "Giving robots social skills",
-      "excerpt": "MIT researchers have developed a control framework that enables robots to understand what it means to help or hinder one another and incorporate social reasoning into the tasks they are accomplishing.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/robots-social-skills-1105",
-      "originalUrl": "https://news.mit.edu/2021/robots-social-skills-1105",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202111/MIT-Social-Interaction-01.jpg",
-          "width": 3477,
-          "height": 2318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-11-materials-advancement-ai-technology.am
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-materials-advancement-ai-technology.amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Development of artificial intelligence technology for producing CT images based on MRI"
-    excerpt: "Dr. Hyungmin Kim's team at the Bionics Research Center at the Korea Institute of Science and Technology (KIST, President Seok-Jin Yoon) developed an artificial intelligence technology to generate CT images based on MRI images and conducted a simulation ..."
-    publishedDateTime: 2021-11-10T06:53:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/934152"
+  - title: "How Element 451’s Focus On Bias In Education Teaches The Rest Of Us About Disability And Bias In AI"
+    excerpt: "For all the myriad benefits, one of the problems with AI is bias—it’s fair to question whether the data these systems are given is favoring (or not) certain types of people more than others."
+    publishedDateTime: 2021-11-12T20:21:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/amp/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
+      name: Forbes
+      domain: forbes.com
+    quality: 90
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c7bbfeb8-0dd2-430b-a4f8-fa17ba46a03f/Rendition/low-res/Content/Public"
-        width: 700
-        height: 286
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618ebbd032e2561bbc93c0c6%2F0x0.jpg"
+        width: 474
+        height: 319
         isCached: true
 
 secured: "Ctb+JHfoxwTqAmkD4T07qKmVVme56rFgDJi4gqg5Au0nNE9BrCxSOfivj770hwOPw0WL7WKbH4mOVH0QrFvdQrSfmmd98rLhJ/QOXFVDbwI2MY6+XPqdQY/OBGA8IkY3nMkxkcxCAN9SQK2NxsBwTFpxm8YKWF1gMRrsMWYrTLF2keL3jCifcJgv5IRW3FsNhKF1qNB0vs1ShZ0bhWHAfAWptoWeXVJPS7MVZTcoxtMif/1DJ0ZqPuLUX8ZYle26B8ypAe2IkummtmxtEjAkpmBmcwLVDJDqeyEryI2affnx3bLNv7s9ONL4vmGLz7xOQAqeIMrL9NyqUPrmVCdiCmtoqPHcJ2vm3om4P/dIHrYOfyNiBY4coHkJ0VY+4RnbVTnAOEA3K12fEDCnfk4ZbZkdw4TK3jDbiSXmHkbSWV8yMkAfJdrtRMzu5XqwWtkombbX1a5EphNNARfiLkdKBSej7mfDvu0iBePdAK/y3QGQTd+gKeUawiMhwFPdYGDLzdrc8yeqeBgDgjP/RekbqA==;7s97up+stiU5e8dk2jlaWQ=="

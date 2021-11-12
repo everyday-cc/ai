@@ -3,8 +3,8 @@ category: news
 title: "FuboTV acquires computer vision startup Edisin.ai"
 excerpt: "Sports streaming service FuboTV will use player and sponsor tracking AI to boost digital portfolio as it diversifies revenue streams."
 publishedDateTime: 2021-11-12T17:14:00Z
-originalUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=special-report"
-webUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=special-report"
+originalUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=sportspro_blog"
+webUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=sportspro_blog"
 type: article
 quality: 34
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: sportspromedia.com
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 related:
   - title: "US-based fuboTV acquires Bengaluru start-up Edisn.ai"
@@ -52,6 +52,6 @@ related:
         height: 431
         isCached: true
 
-secured: "rUOJzU/g8U2bdM+AjhaUHMTLwtAQLmS8KliJ+r5WcLVRmXJqrHR1QYmggjF5xQMfRMjUOVZUETRdtWZVfL33UJWReUgtleBAxl98GGYHZGbQzc0AzvcbjY6eCvNGSUjHI/dTWdtUipPcSNdndoH4+sdpm2wj+UKAUzhqRDjySIo4vAWOhx7yGVnRgYAEc8T9SZVEyl8uLyHcdaJZtRBY00lKD+QT7KjLFu9vjs3xe9NHINg8hE/qUnMX1E00YE1lVoohoIp9Q4Yx0wK4SiVUZOPmZQXtc0O0McOFWIWazNnclfuFuAaTnpakGOKXAqe7qNwng3zOJDCOZSUeWWfTgA44lGuNMlHqDQWvjbt15CQdp5pn8do8fNJxKAKSWrNA6xx2Od2Cu1ZENRAcssu2oq0i4A5or3X8wq4pF0Ue7vSlba6NrKTCxhpE2mgwYxXDOYTwU+6+jprNONzcNicUuXK38Rp3KErTKs5RGEXEj0KEHRxr0IiRKwxmd2RK8mxMwlgv1B4jOZEa8WEgiOeaLQ==;vXqhimy3WC5BgK+lVDH3JQ=="
+secured: "QreJhnzuBK/dZ281UJPUGVNivvBO42DvoP+GFie4GH/O5uJKTK0+DXZQy9lgIpvK+Gr9lJ6FQwh+X+1l2rn+Roc2a+hklM0ditSFsTVE8d7Qqvmdm0YHrBA3R02FM0jiusJykWcPLt/5qiRAtCfS6+J3yflEB4zKAtyXwP5256DOOe9vQiELrkWik4Rq2i/m/obDjGOI9qIFTmwZGMi9QH5xSqVzLjUhr1k6vHVuKscSL0bz7EEkjUvVHId3f5Ek3kNl4Do47fxVAtCjYfFTaAjy7HlLC5Wo1NllhLnsBRvrDu1iHtKGrtELYm81NGqvyZuA1Y3bwgdWLB1I8NNqFPU686xi4YXzbtRUDhjMAcnaP2l/a2AmOw87QsgqSicIATnCeOywfky5H+CnkMxLKziEBpBm3U5wB6vqGPdkLUUEbHuMu1keh120TzTzIJ5SVVOhGG9lrU7tYvfqy+skjVX194ApwQQCA4h7L/8Xm92b5tmZl5I54LW93K4vRj8bFgQsZNCSNsitMRdWKun5Dw==;PHOqQPaGI0JN43oUeKgnIA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-dr
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/"
 type: article
 quality: 99
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Apple hires former Tesla engineer to boost self-driving car effort"
-    excerpt: "Cupertino, California-based Apple has tapped Christopher Moore for its team working on a self-driving car, the report said. Apple and Tesla did not immediately respond to Reuters requests for comment."
-    publishedDateTime: 2021-11-08T05:27:00Z
-    webUrl: "https://cyprus-mail.com/2021/11/08/apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 39
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2021/11/apple-tesla.jpg"
-        width: 1107
-        height: 731
-        isCached: true
   - title: "Tesla’s recent Full Self-Driving update made cars go haywire. It may be the excuse regulators needed."
     excerpt: "The National Highway Traffic Safety Administration previously asked Tesla for increased transparency around updates."
     publishedDateTime: 2021-11-08T18:22:00Z
@@ -117,6 +103,6 @@ related:
       domain: detroitnews.com
     quality: 18
 
-secured: "k+Bbnwo0TZ7NwJdgLeFGbdRENuc1m4QaMz3iq6jrkQ7hEfSsAjektOdeEdqvE0RCEK0Y25SfYXegWSsEOfGDfkZuoGoHFMWUJe7f2O97QUDeSESDtO4naQa8YbVcZS1pROq7ORUdQF+FuDemwBnflCNarx8shotw2ya0nF2EWPLSKig4EDhUFvvek1NUXD6rbrHyA+w3Pes9LJbJRMrD6lFrlyrE+V7nTPGA+nvJOzG9WWqEivqeik9NsVhvB3uEMXl+7eK42bIAhjHY74nTRDpmeXxoi4jgSp2tKM2w+Nz/dobQx7B+pODmYbIlU43WvkwwhcG0eZxsVggngzws8OtxH7K7zH2kpBOvRICtW50=;0m9Iom5IGHHpO/sogacOBA=="
+secured: "XMmB+LR7gZq3njosenH4vMCFllYlaAXZHk+egvhDwCDQ4tVtfCky+NolEgP2Q0Q0gA9xZa5V+gMpvFe0DRYiuksSXtdP2/dpZzo5+z1i7R89MoqPb+aGAMXDwyY8mPAYumtWh+lul2yytIyPHJdu2nTN02ESPrrUkDuj47HHE6LzoMpS6w8fOKZOYepRlX2gWFwb91hhewFcx0yYn8C8pcvTktVB1z9ydUWyey+kVjGhB04q3r6qIGsoUb/cQO/nZdncp7kOXZMbv7PdwLF5o/o8ojgpfpIMz1W5tLJvp386YZ4TrkDNYV3Er58XFoxImp8kPAjR24aW44W+bxFgi7PoQE4daYHMnOajq48+SypUZ4eqc9/E0b5ub6/1MZeE4vw6zf5qYeitOS/9ats8oldIxhzVG3m4yMO7u5ZboJAxOxhYImopiNa9mXiLMsMrj7tCKPgTajWdBkcXqYmEy0C4U2CAUfKa4qWB5HeEaHDp0aFULQWyhnOBKhi9PdhCu2WV3LtBii/hXiHRbnUi0g==;KFCIyVHZpWOhcwUdYbrWTw=="
 ---
 
