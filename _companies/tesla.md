@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 634
+heat: 627
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 11613787
+  followers: 11614821
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "WGBw8Hy/2kkOtfkK7W4KhiLDOGnFaHNJlSRK7l4tcTZlJ/Cx6LtOYZjWM+OFsirtjP7UzjqgBM+tHyeXlcRyAPJPLQLkW0OtKSKOVzEx/PWKwNb7Iwi+uEq52g6rCarVKOxmoiclMUedtF6suk37JuvjKtlMyP8zuBAGn3RsQOGmw35wNFQJG5zohV8Jwk5N6MZSJGkAoWAjjPsezvCCaund14DXj4WRcNsnrfaEQctfmsrM27GWf8cY5Db1aMvHJnmEgFrWtY1/nerqJgrValEE6A1O733X2l5vONUhLEIJY5lWYuJwv3T+mI08CfeaxeiMwfHc1AP188/Sl9YR2j3sQxHbuqW8fTse5p0EterRCAbo1l45bcqg9aJEsMCtODtcPInhWCsfflDQIFTXGNwJ61Bso65GkkaVD7Owi+A=;Yq84nd8R/iUcUNbAENS4qg=="
+secured: "lpsosdQJj0zT/J/XDQTYhKjgY00iWL5Ac2zo/IKHbONsDMETayYnvCCcTjq1fbcU5vV1CYzyPY9yJdlsyK92cIxSrGS6RnDyzhYKwRV/h6Pa3ehrNUHG7z6hnlHMsiTyFLRjJFmGc+yG1KosQUcAmJ2OqtAom3CL6O7qoZ7Yg9Ecz8S746ttsJ7u6PQLk8auT59dnXn+quSf50NySszquVtsW8u91n9tb6t7GV9EXUcWKns+hsDBEz6WUOYwZaBDCLYhl4N0R1t7vXPri+aGunhCVqr/ts+sNfHc8TypWEZASUKQgApUL0HeCxz6ivZQ9Uy0GO2eKBWeoep8EBtHxKI8rhwAfM8m3HwrJ/ffaAtj4Tj1U5gixAmY73Duf13am4zAt47m4Rpm5ZWHyq/Bdl+phZbZRYOb/KNBPb9BXws=;TfL7uil/BY3d4ng9RYD6CA=="
 ---
 

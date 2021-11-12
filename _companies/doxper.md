@@ -2,7 +2,7 @@
 name: "Doxper"
 overview: "📱App-based car rentals 📍#Dubai & #AbuDhabi 📍@ekar_ksa 🚙 Pay by the min/hr/day/month 📞800-MYEKAR ➕Tag #myekar"
 type: "profile"
-heat: 92
+heat: 93
 
 website: https://doxper.com
 
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=OQlpH3-X7yg"
 
-secured: "KcsevH3cnidyHknkfcyRYyLljgNawwlmH+z4pCsBr3RnXiEp1cof/WpqtF0wYiH1okgObszLpeh6A4leVrDKm+DB4f8z0mSd6BI/GJevFYCFVKXqlXLmEEToQC0TBoz7KwsbMZVOu1ECxBVqSdrzupmNJrG1zZGtSmRl9I0oENfvnluNCVINcuZ+pOFyk5Hx5brWNbgBJldAQCcD9Y1CiLHUTuSaHLkBbSsTA0fvEfMKXIs4QvACI21FxA+XO/eJzkt5ViOboljlDSuK3jWOpi3wQR1ALehBtx+peeLkWeZ6rNlKBxxr5l9pXFpgvt7pIjwXSNGGvU/Kvn8rrcvlfNjlB5WtiV68PJpaHIiMjbxe2v4QKvOM/5XomrhrHBFVh7SSma8n5pD5jHEAlHmE6aoquRqbjeN7OUXnH7F/HgA=;aoHlTDnAoM1c0pGOggopaQ=="
+secured: "g3EfTdXeJQjQqZzA1fRzwA6QqvEp1j8ElQym+VgoUjsNLbC8yEV94SnLGGO8v8Wjfl0bxfra7ldeAfMOvgxQXmorBOt6GCZeAb/rov0MncVZwhxAnV8TOqjsXXGVszyWN8cMD5hlyM75fXlRSPelbde8H4V3vkijznlUpBHcivuW6CCgQ/y3lYhUwrBV61L24O+85RcqUs18WgOS/hDSvAS/c7ylm5rdnzWZPB5hkusRpCx4lB7id5JMyeNL6yajNuCVxeBF77mDlu+rq5Cb/2Zr5Q3cBUYlPn8YBZgqO4fBM8k1bCKkAes4eQTy9FHbpuRPEZVQnFIg2FbEk/woVoLKKvVxDgdRHXifpgP/QS4vu36Ykrp2F4VkaBoBxdp17HZtiI1U4tWMomz3vXBp0ybLCZ+V64QUaNDOYUIe/7c=;qwQKEvxgFcCmLtrKceDGQA=="
 ---
 
