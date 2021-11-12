@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/396710"
 webUrl: "https://www.entrepreneur.com/article/396710"
 type: article
 quality: 54
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/11/Galia-Beer-Gabel-smalll.jpeg"
         width: 1600
         height: 1608
-        isCached: true
-  - title: "How the Bank of England Is Embracing Fintech Innovation"
-    excerpt: "During her keynote address at the FinTech & InsurTech Live event, Tangy Morgan, an independent BoE advisor, discussed how the central bank's innovations"
-    publishedDateTime: 2021-11-07T09:17:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-bank-england-embracing-fintech-innovation"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/tangy-morgan-boe.jpg.png?itok=kUV_LM7f"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Hiring to scaling: 3 fintech unicorn CEOs share what it takes to build a successful company"
     excerpt: "As part of Singapore Fintech Festival 2021, three CEOs of fintech unicorns in Asia — Linklogis, VNLIFE and Advance Intelligence Group — came together as panellists to discuss the key ingredients for success that help to shape and grow a unicorn."

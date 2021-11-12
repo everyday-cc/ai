@@ -44,22 +44,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "EXPLAINED: What's Made Meta Go Off Face Recognition And What Happens To Tagging Photos On Facebook"
-    excerpt: "Meta, Facebook's parent company, has said that it's dropping the use of face recognition on the social networking site even as it tries to scrub clean its image"
-    publishedDateTime: 2021-11-07T08:19:00Z
-    webUrl: "https://www.news18.com/news/explainers/explained-whats-made-meta-go-off-face-recognition-and-what-happens-to-tagging-photos-on-facebook-4414391.html"
-    ampWebUrl: "https://www.news18.com/amp/news/explainers/explained-whats-made-meta-go-off-face-recognition-and-what-happens-to-tagging-photos-on-facebook-4414391.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/explainers/explained-whats-made-meta-go-off-face-recognition-and-what-happens-to-tagging-photos-on-facebook-4414391.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 62
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/09/mark-zuckerberg-reuters-163228819616x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Meta to Halt Use of Facial Recognition Technology on Facebook"
     excerpt: "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse"
     publishedDateTime: 2021-11-09T20:05:00Z

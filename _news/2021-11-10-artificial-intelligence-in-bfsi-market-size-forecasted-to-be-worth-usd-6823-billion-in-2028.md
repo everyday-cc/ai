@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Blockchain technology Market size to increase by USD 6.25 Bn | Technavio's Research Insights highlight Increase in FinTech Spending as a Key Trend"
+    excerpt: "According to the research report \"Blockchain Technology Market - Forecast and Analysis Report 2021-2025\", the market is expected to have a YOY growth rate of 19.00% in 2021 and is supposed to grow at a CAGR of over 32% between 2020 and"
+    publishedDateTime: 2021-11-12T01:38:00Z
+    webUrl: "https://www.lelezard.com/en/news-20099920.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 1
+    images:
+      - url: "https://mma.prnewswire.com/media/1684534/Blockchain_Technology_Market_Infographic.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "4U4pVWW86n6qw4G7n22t562EPZLPm4kaQANhDEEaiwN0yx5izofeWr7aOHDlwdMi0KPH0cI/NKZeux3Plc0Hpx7rl4jTBWclChTt2w4wxUkhZOtUXHHnvTmSpM7a4qK7vTeNKXJ0huZqjBA4fCcW0q3ka4wwU3gNfgHijzzbWLQoN5923Y6HrQJqklIjOR58zCt1WkWnh6vAO75w8Nhv7FYkSBAfx5fB08tjQwgvdAXYFlE2KcZ8EAGFluVgNnvCg1D6CIUS5vJlshcoUO5ukRkOYw2DG0DLmmU2qrxIdBsiwf/o42J3EOi55h1QDjOcSFx73KOsL3zF/1nUjEhjOYM5FoWbkD/4zNmWBAhPCy7tHH+9m+ichMW/vo4qV0wnfbTG6qGzOctQWvz24kMB0BIF1gOWJ7qD4ygSIFMb9oxrt1pUXwREJusKv2Ccxj/n6ERrDZrUcPsQoboo2HURkDPWhoTfz3/E4WGVdM6fr17U4EBwnFk5Vd1ow9AdieK1VWHZxbTtUVankSqnSavNyA==;zbs0ChzU2UgKd4Bl/e4OvA=="
 ---

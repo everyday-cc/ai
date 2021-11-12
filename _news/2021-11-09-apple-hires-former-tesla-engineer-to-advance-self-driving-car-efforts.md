@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla’s handling of braking bug in public self-driving test raises alarms"
-    excerpt: "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an “over the"
-    publishedDateTime: 2021-11-07T10:00:00Z
-    webUrl: "https://www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/"
-    ampWebUrl: "https://www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2021/11/07/teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 73
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/AmbEHg3M_fzCyfIDOEtFv7jxU-U=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/JIUOTGYNEC25SBFEECLP23BLUQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla Self-Driving Update Caused Cars to Behave Dangerously"
     excerpt: "It’s not every day that Tesla decides to contact regulators about a serious issue with its self-driving software. Late last month, Tesla reported an issue with its Full Self-Driving software to the National Highway Traffic Safety Administration (NHTSA),"
     publishedDateTime: 2021-11-08T16:09:00Z

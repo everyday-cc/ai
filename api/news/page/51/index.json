@@ -2,6 +2,58 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-10-04-natural-language-processing-market-2021-global-analysis-by-key-players-2026.md",
+      "title": "Natural Language Processing Market 2021 Global Analysis By Key Players 2026",
+      "excerpt": "Oct 04, 2021 (Market Insight Reports) -- Selbyville, Delaware. The report Natural Language Processing Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-global-analysis-by-key-players-2026-2021-10-04?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-global-analysis-by-key-players-2026-2021-10-04?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.md",
       "title": "Review: Google Cloud Vertex AI irons out ML platform wrinkles",
       "excerpt": "Vertex AI greatly improves the integration of Google Cloud’s AI/ML platform and AutoML services, combining a new unified API with very good modeling capabilities.",
@@ -1128,49 +1180,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-worse-than-nukes-an-autonomous-robot-may-have-already-killed-people.md",
-      "title": "Worse than nukes? An autonomous robot may have already killed people",
-      "excerpt": "Autonomous weapons will undermine humanity’s final stopgap against war crimes and atrocities: the international laws of war.",
-      "sourceUrl": null,
-      "webUrl": "https://scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
-      "originalUrl": "https://scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/164618-kybyqusbld-1633010600.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
-      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
-      "publishedDateTime": "2021-10-02T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scroll",
-        "domain": "scroll.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

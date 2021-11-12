@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/online-views/metas-face-recognition
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "EXPLAINED: What's Made Meta Go Off Face Recognition And What Happens To Tagging Photos On Facebook"
-    excerpt: "Meta, Facebook's parent company, has said that it's dropping the use of face recognition on the social networking site even as it tries to scrub clean its image"
-    publishedDateTime: 2021-11-07T08:19:00Z
-    webUrl: "https://www.news18.com/news/explainers/explained-whats-made-meta-go-off-face-recognition-and-what-happens-to-tagging-photos-on-facebook-4414391.html"
-    ampWebUrl: "https://www.news18.com/amp/news/explainers/explained-whats-made-meta-go-off-face-recognition-and-what-happens-to-tagging-photos-on-facebook-4414391.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/explainers/explained-whats-made-meta-go-off-face-recognition-and-what-happens-to-tagging-photos-on-facebook-4414391.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 62
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/09/mark-zuckerberg-reuters-163228819616x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Facebook Puts an End To Facial Recognition, Pledges To Delete All Data"
     excerpt: "Facebook's opt-in facial recognition system will no longer be available in a matter of weeks, and the templates it relied on to function will be deleted. The decision comes as the social media giant rebrands as \"Meta\" and looks to keep ahead of regulations."
     publishedDateTime: 2021-11-08T22:00:00Z

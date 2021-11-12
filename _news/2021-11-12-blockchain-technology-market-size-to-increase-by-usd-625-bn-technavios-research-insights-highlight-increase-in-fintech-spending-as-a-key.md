@@ -1,34 +1,44 @@
 ---
 category: news
-title: "At 17.1% CAGR, AI in Fintech Market Size Set to Register 8984.9 million USD by 2025"
-excerpt: "The global AI in Fintech market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 17.1% in the forecast period of 2020 to 2025 and will expected to reach USD 8984."
-publishedDateTime: 2021-11-08T10:32:00Z
-originalUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025-2021-11-08"
-webUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025-2021-11-08"
+title: "Blockchain technology Market size to increase by USD 6.25 Bn | Technavio's Research Insights highlight Increase in FinTech Spending as a Key Trend"
+excerpt: "According to the research report \"Blockchain Technology Market - Forecast and Analysis Report 2021-2025\", the market is expected to have a YOY growth rate of 19.00% in 2021 and is supposed to grow at a CAGR of over 32% between 2020 and"
+publishedDateTime: 2021-11-12T01:38:00Z
+originalUrl: "https://www.lelezard.com/en/news-20099920.html"
+webUrl: "https://www.lelezard.com/en/news-20099920.html"
 type: article
-quality: 63
-heat: 123
-published: true
+quality: 1
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1684534/Blockchain_Technology_Market_Infographic.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
+  - title: "At 17.1% CAGR, AI in Fintech Market Size Set to Register 8984.9 million USD by 2025"
+    excerpt: "The global AI in Fintech market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 17.1% in the forecast period of 2020 to 2025 and will expected to reach USD 8984."
+    publishedDateTime: 2021-11-08T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025-2021-11-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning System Market Size Forecasted to be Worth USD 93.34 Billion in 2028"
     excerpt: "According to a recent analysis, the global deep learning system market size was valued at USD 6.59 Billion in 2020 and is forecast to exceed USD 93.34 Billion in terms of revenue, at a CAGR of 39.1% through 2028."
     publishedDateTime: 2021-11-09T10:36:00Z
@@ -103,21 +113,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Blockchain technology Market size to increase by USD 6.25 Bn | Technavio's Research Insights highlight Increase in FinTech Spending as a Key Trend"
-    excerpt: "According to the research report \"Blockchain Technology Market - Forecast and Analysis Report 2021-2025\", the market is expected to have a YOY growth rate of 19.00% in 2021 and is supposed to grow at a CAGR of over 32% between 2020 and"
-    publishedDateTime: 2021-11-12T01:38:00Z
-    webUrl: "https://www.lelezard.com/en/news-20099920.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 1
-    images:
-      - url: "https://mma.prnewswire.com/media/1684534/Blockchain_Technology_Market_Infographic.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
-secured: "hHrmho3QYB2yf8zHoK4n5bzboaZC/+vbH2fVQKT58Z7LGowOja31f7ELwtu1xSKVDjx15CTAEhAqxB3GUKv2CsWD4ag8nwp0Ia6PrSoa0I1S5J8NUPsxscIjnrzk295pH+1gqUVON3ob9BhRvR1kvxJ2mq4+1aROO8XoRqLA916tEHKM2uQWAjUTSZZA9h1KqmtsOuGB5z5SMl60pMe09MT2PsI2z1og5j/rWT8lU6ryHGMJGDcI4Ls41WZJTTVsKMnJ3LKLtprR1/17Zw/j1wSVJM386opR/CcVqymJTUp1PYGCWnRsxiN5xJGWsVmGiT6cn63T/h3W5T9YJcsqzFvU6pnJSpX6kwAsEuFg/Sk=;j1GxIE9YnAME6qQTFNRT4w=="
+secured: "bN4DseJmxL5kZgNvf9aGLIbDEDM5iI6ll9SH1YyKaZxPGzrJjnirszZECXH1vjJvc/MWlCtaJbY4eF/md3lTfhiRz8+ODkZkc3iRT3U50eLNho/L/c8VVfKEuxMGEbEUYKlfFS/g9T8SNQrxF8TS5YFZTdOQvTLQocfuvjDIeKoGTKeYjWIiaybK4SrbaVBHD7gXk6H7JAgLoeRoZuQqOCLWQr8LEmU8BD5tsxW0X8QDuLbY5H9jrKvP92ACfsWxc9X1n6bVJOHBVOtALxYXO6gqOSz5GFc3AIuVvznWSJx3zCBkr0mU2ReFRZZq+cc2OdcozHMDmHIJ7ZvG1UCZEZH/XtnKip25qoqq61fmIsQ=;sWnB6In4LV/awRQ0p4wdng=="
 ---
 

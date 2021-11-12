@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-11T13:51:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-size-increase-usd-1729-/2021/11/11/9490033.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-size-increase-usd-1729-/2021/11/11/9490033.htm"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1684510/Artificial_Intelligence_Platforms_Infographic.jpg"

@@ -44,6 +44,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "SPECIAL REPORT: Artificial intelligence becoming a game-changer in ag"
+    excerpt: "Technology is all around us. We have daily access to it right at our fingertips, and soon enough it is going to take over many tedious tasks in agriculture, like weeding."
+    publishedDateTime: 2021-11-12T02:25:00Z
+    webUrl: "https://kyma.com/news/special-reports/2021/11/11/special-report-artificial-intelligence-becoming-a-game-changer-in-ag/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 39
+    images:
+      - url: "https://kyma.b-cdn.net/2021/11/Screen-Shot-2021-11-11-at-6.58.43-PM.png"
+        width: 990
+        height: 558
+        isCached: true
 
 secured: "ZZ9maR6eDiwX/KKiu9gh042EtEqkyGHLHZRiLM82XSo6AgXsAeAO78eyAc1L7Tm6GMBtGQl5WOeuwm5UA/8DCFyt0fWTGdP1SepPc+KZVeiUx5VGRlXjw1I/pu6caZ+3bp1q3J0Cnh09rGAUqKEdIe1mbd3ioKNU/44OUxB2KiZfkrVzyo/mK7INVWzbMcYXTMvl5gDTI/vi3KPKs6GYQ+V/1oC8rVMnXkwEwibqwlD5nX5K2DC/vB9fznKJDac/3akgVkMAW3kA+w1h9Q+nxgZIawBvDUjiw3hz3z191E9vNi+0IKRYKjSLnHEz7YDtuFewxLRspjkAqoGnCUIe1KBwsu+QT3xZ4EsYGD56x6Q=;Rm/2Iun/cv5JQmCbn6ICYg=="
 ---

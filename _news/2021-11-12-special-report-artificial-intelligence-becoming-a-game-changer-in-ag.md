@@ -1,0 +1,61 @@
+---
+category: news
+title: "SPECIAL REPORT: Artificial intelligence becoming a game-changer in ag"
+excerpt: "Technology is all around us. We have daily access to it right at our fingertips, and soon enough it is going to take over many tedious tasks in agriculture, like weeding."
+publishedDateTime: 2021-11-12T02:25:00Z
+originalUrl: "https://kyma.com/news/special-reports/2021/11/11/special-report-artificial-intelligence-becoming-a-game-changer-in-ag/"
+webUrl: "https://kyma.com/news/special-reports/2021/11/11/special-report-artificial-intelligence-becoming-a-game-changer-in-ag/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: KYMA
+  domain: kyma.com
+
+topics:
+  - AI
+  - AI in Robotics
+
+images:
+  - url: "https://kyma.b-cdn.net/2021/11/Screen-Shot-2021-11-11-at-6.58.43-PM.png"
+    width: 990
+    height: 558
+    isCached: true
+
+related:
+  - title: "Report: 40% of execs say increasing business process efficiency is top benefit of AI"
+    excerpt: "The need to boost customer service, employee efficiency, and innovation are three main factors driving an increase in AI adoption."
+    publishedDateTime: 2021-11-09T20:00:00Z
+    webUrl: "https://www.cognitivescale.com/survey_drivingadoption/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 160
+    images:
+      - url: "https://www.cognitivescale.com/wp-content/uploads/2020/08/News-Banners-e1636510765124.png"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Report: Most global execs say AI drives financial, cultural benefits"
+    excerpt: "SMR and BCG shows that AI deployment not only brings financial gains but also significant improvements to team culture."
+    publishedDateTime: 2021-11-09T07:40:00Z
+    webUrl: "https://venturebeat.com/2021/11/08/report-most-global-execs-say-ai-drives-financial-cultural-benefits/"
+    ampWebUrl: "https://venturebeat.com/2021/11/08/report-most-global-execs-say-ai-drives-financial-cultural-benefits/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/report-most-global-execs-say-ai-drives-financial-cultural-benefits/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/08/fintech-e1623107307747.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "HftzWCRR60IPz2GKmMkqAvx+jrji9SNkx5h5OxaA7ZvsaMkhvxD81GheN3CJwX+TWt9FMTmASFsQ+/FXbZfWjEf5egdmYchUSoxYFbSox/+SgY9/x+u80AhGLwRLfY6EqmwtsfgchebdkJTvxQcU+inaXUmGDRLSr5zsIbTgDGx5hUi5FD4rrrIFwWyMgviUsiwMRPTGbqF/OBeNCtOMQ4+nrZLug1P6bvUZZRE7DfRuyj6YJaJr4K3K3d96NzJ6HV4t+P/f+TwnW9YU+Q1kcL5fQu7KMN2ghf0NDAiuZS9xGfnat29Ai8BjjrGNmDCzakv6ZZ2UAqFi5KOJ8bJUHzeB1xeF45f/X6C4WAc6Ku0=;9Tjxovu7hh8R1z/gp6ifdw=="
+---
+

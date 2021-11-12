@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-09-tesla-starts-retrofit-program-for-cameras-on-older-vehicles-with-full-self-driving.md",
+      "title": "Tesla starts retrofit program for cameras on older vehicles with ‘Full Self-Driving’",
+      "excerpt": "Tesla has launched a retrofit program for Autopilot cameras on older vehicles with the “Full Self-Driving” package. Starting with the introduction of its Autopilot 2.0 suite of sensors in 2016, Tesla started selling all of its cars with the promise that they have all the hardware necessary to achieve full self-driving capability with future software",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/",
+      "originalUrl": "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/",
+      "publishedDateTime": "2021-11-09T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-paging-the-plagiarism-police-ai-is-getting-better-at-writing-students-essays.md",
       "title": "Paging the plagiarism police — AI is getting better at writing students’ essays",
       "excerpt": "Cheating during the pandemic has been rampid and concerns are growing in a climate where automation writing continue to improve.",
@@ -1168,60 +1220,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence.md",
-      "title": "Landing AI: Unlocking The Power Of Data-Centric Artificial Intelligence",
-      "excerpt": "There is normally an assumption that Artificial Intelligence (AI) requires huge volumes of data. Here, we explore a data-centric approach to AI, which instead focuses on data quality and domain expertise - an approach advocated by Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618a1203531adf7a3d1b3daf%2F0x0.jpg%3FcropX1%3D95%26cropX2%3D2400%26cropY1%3D0%26cropY2%3D1729",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-11-08T21:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

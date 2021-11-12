@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-12-university-of-washington-study-deep-learning-reveals-3d-models-of-protein-machines.md",
+      "title": "University of Washington study: Deep learning reveals 3D models of protein machines",
+      "excerpt": "A new study peers into the structure of hundreds of protein complexes, tiny machines in cells that control everything from energy use to DNA replication. Researchers at the University of",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/",
+      "originalUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-11-at-10.40.14-AM-300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/amp/",
+      "publishedDateTime": "2021-11-11T18:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-a-communication-tool-for-people-with-speech-impairments.md",
       "title": "A communication tool for people with speech impairments",
       "excerpt": "For millions of people, being able to speak and be understood can be difficult as a result of conditions that can impact speech, including stroke, ALS, Cerebral Palsy, traumatic brain injury or Parkinson's disease. Today, we’re inviting an initial group of people to test Project Relate, a new Android",
@@ -1411,59 +1464,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-is-there-too-much-focus-on-intelligence-in-ai.md",
-      "title": "Is There Too Much Focus On ‘Intelligence’ In AI?",
-      "excerpt": "Apart from life science applications and other expert fields in new technology, is this the best way to enhance productivity in AI? Maybe not. In 2017, Erik Brynjolfsson, Daniel Rock and Chad Syverson wrote a paper titled,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615d9fbf8c2f46f4fe359f45%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/amp/",
-      "publishedDateTime": "2021-10-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Google AI"
       ]
     }
   ],

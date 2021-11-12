@@ -2,6 +2,57 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-10-18-how-iot-and-ai-are-helping-keep-truck-drivers-safe.md",
+      "title": "How IoT and AI are helping keep truck drivers safe",
+      "excerpt": "Truck safety is a major focus for the trucking industry. Now there is artificial intelligence that can make a real-time difference in lives, money and on-road safety.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
+      "originalUrl": "https://www.techrepublic.com/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2019/03/06/5f4c3917-7489-40fc-a941-d394145ef06a/resize/1200x/6ff740d56972d972eaef076dd625711d/istock-539355552truck.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
+      "publishedDateTime": "2021-10-18T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-wandisco-announces-general-availability-of-livedata-platform-for-azure.md",
       "title": "WANdisco Announces General Availability of LiveData Platform for Azure",
       "excerpt": "Zero-downtime, data-first automated platform for Hadoop to Azure migration accelerates time to business insights in the cloud",
@@ -1087,58 +1138,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-global-airport-facial-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027.md",
-      "title": "Global Airport Facial Recognition Market 2021 by Key Players, Regions, Type and Application, Forecast to 2027",
-      "excerpt": "The latest research study titled Global Airport Facial Recognition Market 2021 by Company, Regions, Type and Application, Forecast to 2027 from MarketsandResearch.biz provides readers with details on strategic planning and tactical business decisions that influence and stabilize growth prognosis in the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-airport-facial-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-2021-10-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-airport-facial-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-2021-10-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-17T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

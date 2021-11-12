@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognit
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognition-tech-won-t-go-away-despite-facebook-fb-ending-system"
 type: article
 quality: 69
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cvr1636461579.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Facial Recognition Program Being Shut Down By Facebook"
-    excerpt: "Facebook is going to shut down its facial recognition program. The company which now goes by the name Meta made the announcement in a blog post. Its VP of Artificial Intelligence wrote those who opted in won’t be recognized in photos and videos anymore."
-    publishedDateTime: 2021-11-07T08:56:00Z
-    webUrl: "https://www.kabc.com/2021/11/07/facial-recognition-program-being-shut-down-by-facebook/"
-    type: article
-    provider:
-      name: KABC
-      domain: kabc.com
-    quality: 39
-    images:
-      - url: "https://express-images.franklymedia.com/6616/sites/320/2021/11/04095912/meta-fb-Rokas-Tenys-Shutterstock.com-shutterstock_2065583711.jpg"
-        width: 627
-        height: 418
         isCached: true
   - title: "Facebook is shutting down its facial recognition software"
     excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
