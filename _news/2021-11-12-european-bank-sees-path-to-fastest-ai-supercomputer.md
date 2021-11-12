@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-f
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

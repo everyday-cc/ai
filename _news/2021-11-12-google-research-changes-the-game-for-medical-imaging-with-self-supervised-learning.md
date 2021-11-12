@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/"
 type: article
 quality: 68
-heat: 78
+heat: 80
 published: true
 
 provider:

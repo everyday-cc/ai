@@ -55,6 +55,20 @@ related:
         width: 326
         height: 400
         isCached: true
+  - title: "Artificial intelligence faces the real world"
+    excerpt: "Nation states and big tech firms the size of states are in an artificial intelligence land-grab. What does it mean for the future of the industry?"
+    publishedDateTime: 2021-11-12T12:46:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/11/ai-issue-welcome-introduction-editors-letter/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 37
+    images:
+      - url: "https://eandt.theiet.org/media/17078/et_ai-chips_graphcore_3-hero-image.jpg?crop=0,0.42875,0,0.079062499999999938&cropmode=percentage&width=1200&height=450&rnd=132807962760000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "The Glimpse Group and D-ID Partner to Bring Life to the Metaverse with AI, VR & AR"
     excerpt: "Harnessing AI-powered synthetic media with the visual power of Augmented & Virtual Reality to enhance viewing and interaction in the Metaverse NEW YORK, NY / ACCESSWIRE / November 10, 2021 / The Glimpse Group,"
     publishedDateTime: 2021-11-10T13:31:00Z

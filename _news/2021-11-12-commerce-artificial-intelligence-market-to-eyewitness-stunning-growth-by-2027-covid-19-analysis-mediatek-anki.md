@@ -56,17 +56,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Artificial Intelligence for Accounting Market To Make Huge Impact In Near Future Basic Influencing Factors Driving The Industry 2021–2027"
-    excerpt: "Combining AI with other technologies such as robotic process automation can allow accountants to redirect the time that they used to spend on mundane tasks toward performing high value high impact tasks Adding AI to accounting operations can also increase"
-    publishedDateTime: 2021-11-12T09:58:00Z
-    webUrl: "https://www.openpr.com/news/2460279/artificial-intelligence-for-accounting-market-to-make-huge"
-    ampWebUrl: "https://www.openpr.com/amp/2460279/artificial-intelligence-for-accounting-market-to-make-huge"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2460279/artificial-intelligence-for-accounting-market-to-make-huge"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "R4sjSVUEXe8IbNAAb1G2PMrqt9VuVe5fai3OliFpliS+hOSH8elqzP4IWscqZRUOx/tm63FVXgKaVoXooQhzMtEWZtWbjrSumlWokgGa7tCCaIawzJ3E8NE+ql1ZGadUinJ0viMutNiahj450kqxdXnpDYyOzfZuL5j1uSaBLzff1AxWxx3ZXolzeOCNHVVATlhviAbLMZqahJUY3An3oDRRIEaOQOxuHo8ySrmR3Bh7E1Nb6FogE/YT71NV28t72hEMg67qncesAmH0HY83cB8ZPqXjaiwnyrV0HeyPK2Wi9yi3A5GVuNXezO1mEGlxNJaslyBoUpcXM0wJH7t64o4NVySp+oO15HGKOiW7vZo=;fgI3XoNa33MJjWjq1QLLzw=="
 ---

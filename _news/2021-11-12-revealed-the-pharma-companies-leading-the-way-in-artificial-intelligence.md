@@ -38,6 +38,20 @@ related:
         width: 2000
         height: 1334
         isCached: true
+  - title: "Revealed: The apparel companies leading the way in artificial intelligence"
+    excerpt: "LVMH and GlaxoSmithKline are among the apparel companies best positioned to take advantage of future artificial intelligence disruption."
+    publishedDateTime: 2021-11-12T11:11:00Z
+    webUrl: "https://www.just-style.com/features/revealed-the-apparel-companies-leading-the-way-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Companies
+      domain: just-style.com
+    quality: 35
+    images:
+      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/11/shutterstock_701349271.jpg"
+        width: 500
+        height: 334
+        isCached: true
 
 secured: "oKSnTn+ij0D+6PZlkuBu9qPHfQT6o5y9ckT8SvnGp8YMX5wCUEv7df7TfEOFZ3nBdrDLMmiWqHAoWuRVmXHI0e8Xkx0ZwY2l6ZObDwJyHGMkvcaJVFjKBoLkhMW4Dj5LoMbR3OnTbIGHIh5rqS+s1x3p31q0Mve9gekj3aCcbIlPX1/8Z9RqejT8NPlOCH1NXO7jTHXxo0zeTsLbJVx7d64Oz06q9BfhPZx4YYwP9bk3ql3KhtF5GbLIpxiFLcQxmGeh7GJ44Fhr3oOufMQVf/Kz34Rze+Vww3m3gsQdKJAf/SW56Etit/eY6eAH8zNI1P7JZ3eislJhCBhg87+D4G5A107yLdT4/u+e4AzQtw4=;J3zgzKStIHsU1uUFV/VWIQ=="
 ---

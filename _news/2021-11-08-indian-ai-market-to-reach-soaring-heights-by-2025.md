@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soarin
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.amp.html"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -56,17 +56,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Artificial Intelligence for Accounting Market To Make Huge Impact In Near Future Basic Influencing Factors Driving The Industry 2021–2027"
-    excerpt: "Combining AI with other technologies such as robotic process automation can allow accountants to redirect the time that they used to spend on mundane tasks toward performing high value high impact tasks Adding AI to accounting operations can also increase"
-    publishedDateTime: 2021-11-12T09:58:00Z
-    webUrl: "https://www.openpr.com/news/2460279/artificial-intelligence-for-accounting-market-to-make-huge"
-    ampWebUrl: "https://www.openpr.com/amp/2460279/artificial-intelligence-for-accounting-market-to-make-huge"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2460279/artificial-intelligence-for-accounting-market-to-make-huge"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "KipXtgqN2PCJAzK7qJMHj90KlBvpafjkquQUIGz+K7DjrzSuSIXYQCfd9XomFpM5gnByXpW81D5MKUbpgHRihf2seWdQ9obAbf34BWCHfCIx4QpIAKOYc/Lx2L0jX+kkWlyRFp1F0Y/kCcPhHrINgtQKi1Zs0GmE2DbQjV0xRPHF7gwNFECrQi0kIO6jk6eoUnVfEpyyFiaOuQ4U03X/K77wHffAhiqTZEOK0/1bRVB8JOVVYeih7/T3EU45uf0SeSJO6E2yH1OL9gEuZkIoJhZzpTetzxjYtDP/3PqSklpTTIkckUMWPIuTB91NE7la00Jx9c3U9Fop/9xlfNwa2QS/rFbs28qHf4Kt2YO7Mi8=;zusNiWh80wpGwMhAOIOH1Q=="
 ---

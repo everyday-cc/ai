@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innova
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1686720/image.jpg"
         width: 326
         height: 400
+        isCached: true
+  - title: "Artificial intelligence faces the real world"
+    excerpt: "Nation states and big tech firms the size of states are in an artificial intelligence land-grab. What does it mean for the future of the industry?"
+    publishedDateTime: 2021-11-12T12:46:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/11/ai-issue-welcome-introduction-editors-letter/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 37
+    images:
+      - url: "https://eandt.theiet.org/media/17078/et_ai-chips_graphcore_3-hero-image.jpg?crop=0,0.42875,0,0.079062499999999938&cropmode=percentage&width=1200&height=450&rnd=132807962760000000"
+        width: 1200
+        height: 450
         isCached: true
   - title: "UAE-Shell Offers New AI-Powered Applications Through Open AI Energy Initiative"
     excerpt: "C3 AI (NYSE:AI) and Shell (NYSE:RDS) today announced three new Shell products that will be available through the Open AI Initiative (OAI), an open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
