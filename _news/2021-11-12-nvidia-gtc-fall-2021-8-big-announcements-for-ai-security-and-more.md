@@ -1,24 +1,29 @@
 ---
 category: news
-title: "NVIDIA GTC: Networking, Healthcare AI, Modeling and Simulation﻿"
-excerpt: "Jensen Huang’s kitchen—the site of the past several NVIDIA GTC Keynotes—deconstructed itself today in a slick simulated introduction as Huang, NVIDIA’s CEO, delivered his keynote highlighting the latest in AI and accelerated computing at NVIDIA."
-publishedDateTime: 2021-11-09T22:50:00Z
-originalUrl: "https://www.bio-itworld.com/news/2021/11/09/nvidia-gtc-networking-healthcare-ai-modeling-and-simulation"
-webUrl: "https://www.bio-itworld.com/news/2021/11/09/nvidia-gtc-networking-healthcare-ai-modeling-and-simulation"
+title: "Nvidia GTC Fall 2021: 8 Big Announcements For AI, Security And More"
+excerpt: "A roundup of eight big announcements at Nvidia’s fall GTC 2021 conference that cover areas like AI, security, networking, 3-D design and more."
+publishedDateTime: 2021-11-11T22:54:00Z
+originalUrl: "https://www.crn.com/slide-shows/components-peripherals/nvidia-gtc-fall-2021-8-big-announcements-for-ai-security-and-more"
+webUrl: "https://www.crn.com/slide-shows/components-peripherals/nvidia-gtc-fall-2021-8-big-announcements-for-ai-security-and-more"
 type: article
-quality: 38
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Bio IT World
-  domain: bio-itworld.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - AI Hardware
   - AI
-  - AI in Healthcare
-  - Microsoft AI
+  - AI in Security
+
+images:
+  - url: "https://www.crn.com/resources/026f-13b321c1b659-57c5206111f9-1000/slide1.jpg"
+    width: 610
+    height: 344
+    isCached: true
 
 related:
   - title: "Everything announced at Nvidia's Fall GTC 2021: Omniverse Avatar, CuQuantum, Clara Holoscan and more"
@@ -37,20 +42,6 @@ related:
         width: 1200
         height: 756
         isCached: true
-  - title: "Nvidia GTC Fall 2021: 8 Big Announcements For AI, Security And More"
-    excerpt: "A roundup of eight big announcements at Nvidia’s fall GTC 2021 conference that cover areas like AI, security, networking, 3-D design and more."
-    publishedDateTime: 2021-11-11T22:54:00Z
-    webUrl: "https://www.crn.com/slide-shows/components-peripherals/nvidia-gtc-fall-2021-8-big-announcements-for-ai-security-and-more"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 56
-    images:
-      - url: "https://www.crn.com/resources/026f-13b321c1b659-57c5206111f9-1000/slide1.jpg"
-        width: 610
-        height: 344
-        isCached: true
   - title: "Nvidia announces deeper push into healthcare industry at GTC 2021"
     excerpt: "Nvidia is diving deeper into the healthcare industry. During its GTC 2021 conference, the company rolled out artificial intelligence and cloud capabilities meant to do everything"
     publishedDateTime: 2021-11-09T08:30:00Z
@@ -65,7 +56,16 @@ related:
         width: 1200
         height: 638
         isCached: true
+  - title: "NVIDIA GTC: Networking, Healthcare AI, Modeling and Simulation﻿"
+    excerpt: "Jensen Huang’s kitchen—the site of the past several NVIDIA GTC Keynotes—deconstructed itself today in a slick simulated introduction as Huang, NVIDIA’s CEO, delivered his keynote highlighting the latest in AI and accelerated computing at NVIDIA."
+    publishedDateTime: 2021-11-09T22:50:00Z
+    webUrl: "https://www.bio-itworld.com/news/2021/11/09/nvidia-gtc-networking-healthcare-ai-modeling-and-simulation"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 38
 
-secured: "P8GHO59Aung+a4rKhroTKRDhAo6wM/JuTGaHQSXqZNrJSMpUKy9z5BWTwyr8dw3dv/6lbYQuDM/DCEIDJU7C0y+u+VnFUQpCojQ/AJIK+znOa+kWf7jtYftwwm0/nPNLsNkNPBqG8tFTpaBNLZhrqiPRL9cYmRCJ9H0MxdjHW0i198mXOZYKV/Ya5ieknzKVgpkxBoGjscZ0zp5yl0HmMgKBUTu1Ne04fYhauDKTuq1EsHPHvD87iBnoMBbcn2S9YDi0TAMNNePWhxQnof3Syn+AtVrIAqrRixrEDZXXdJJ6R5GivyEEwNuUTKC0VQUp8WyCDFdGO7erQxApwvQdU+/BZD1Tj7zx6+zwmqiKyic=;p1uST7vgC2Z+x0ifq4gSyg=="
+secured: "Ydt2BHxAG2821KV1utGOEv9tCM+ablNRJygzHxq+7EQUE3+0OREYSpwEZxO8uKT486C0MkDBJu6q0PggqfZt2mU8vFIVzdlLZYm6QX68tcnQnXmsuxlfRz36QZRB1CpRH5XCpq8uYar4lOFA3MgIHXpsIQXtp5CxTH1TOa8IQuUZeFPB6cMDt+cLUzUmYwQjGq5kK5Q8k761rh7JHbCkqa/yAIgM5EHPHPkfVUSub42qRkpq2l1oszA43MzpqLP83/RxAx6DNBxT70y4goMSykVFeaAFDBLLdS9o+f76LScsJNqcJ/JqDH8szphVjDFcPENo/P2dz1KlPP/ZKGSx6mMiJZocBtd94oFVVFh3Nss=;mJCw/630oFa1MLsvXybruA=="
 ---
 

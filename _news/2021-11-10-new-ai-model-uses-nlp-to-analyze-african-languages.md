@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/new-ai-model
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/new-ai-model-uses-nlp-to-analyze-african-languages-355697"
 type: article
 quality: 74
-heat: 104
+heat: 105
 published: true
 
 provider:

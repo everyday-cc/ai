@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence (AI) Chips Market Size 2021: CAGR Value, Top Manufacturers, Industry Share, Growth, Supply Demand and Forecast till 2026"
+    excerpt: "Global “Artificial intelligence (AI) Chips Market” research report provides strategies for company to deal with the"
+    publishedDateTime: 2021-11-09T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026-2021-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning Chip Market 2021 Manufacturer Analysis, Technology Advancements, Industry Scope and Forecast to 2027"
     excerpt: "With this report titled Global Deep Learning Chip Market 2021-2027, research analysts of MarketsandResearch.biz help us to present our clients with insightful data on the investment or growth opportunities in the industry."
     publishedDateTime: 2021-11-07T21:41:00Z

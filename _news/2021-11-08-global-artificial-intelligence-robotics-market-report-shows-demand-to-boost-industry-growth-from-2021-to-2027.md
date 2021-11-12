@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07"
 type: article
 quality: 80
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial intelligence (AI) Chips Market Size 2021: CAGR Value, Top Manufacturers, Industry Share, Growth, Supply Demand and Forecast till 2026"
+    excerpt: "Global “Artificial intelligence (AI) Chips Market” research report provides strategies for company to deal with the"
+    publishedDateTime: 2021-11-09T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026-2021-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

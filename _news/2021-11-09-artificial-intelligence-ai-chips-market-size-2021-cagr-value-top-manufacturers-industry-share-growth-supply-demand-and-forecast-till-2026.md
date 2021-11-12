@@ -1,22 +1,32 @@
 ---
 category: news
-title: "Artificial Intelligence Market 2021 CAGR Value, Top Manufacturers, Competitive Landscape, Growth, Industry Share, Size, and Forecast till 2026"
-excerpt: "Artificial Intelligence Market report 2021 presents the development status, growth opportunities, future prospects, technologies, including top leading players are IBM Watson Health,"
-publishedDateTime: 2021-11-11T11:15:00Z
-originalUrl: "https://www.wboc.com/story/45172538/artificial-intelligence-market-2021-cagr-value-top-manufacturers-competitive-landscape-growth-industry-share-size-and-forecast-till-2026"
-webUrl: "https://www.wboc.com/story/45172538/artificial-intelligence-market-2021-cagr-value-top-manufacturers-competitive-landscape-growth-industry-share-size-and-forecast-till-2026"
+title: "Artificial intelligence (AI) Chips Market Size 2021: CAGR Value, Top Manufacturers, Industry Share, Growth, Supply Demand and Forecast till 2026"
+excerpt: "Global “Artificial intelligence (AI) Chips Market” research report provides strategies for company to deal with the"
+publishedDateTime: 2021-11-09T10:15:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026-2021-11-09"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026-2021-11-09"
 type: article
-quality: 0
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - IBM AI
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Global Artificial Intelligence Robotics Market Report Shows Demand to Boost Industry Growth from 2021 to 2027"
@@ -42,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial intelligence (AI) Chips Market Size 2021: CAGR Value, Top Manufacturers, Industry Share, Growth, Supply Demand and Forecast till 2026"
-    excerpt: "Global “Artificial intelligence (AI) Chips Market” research report provides strategies for company to deal with the"
-    publishedDateTime: 2021-11-09T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026-2021-11-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -105,7 +101,16 @@ related:
         width: 563
         height: 743
         isCached: true
+  - title: "Artificial Intelligence Market 2021 CAGR Value, Top Manufacturers, Competitive Landscape, Growth, Industry Share, Size, and Forecast till 2026"
+    excerpt: "Artificial Intelligence Market report 2021 presents the development status, growth opportunities, future prospects, technologies, including top leading players are IBM Watson Health,"
+    publishedDateTime: 2021-11-11T11:15:00Z
+    webUrl: "https://www.wboc.com/story/45172538/artificial-intelligence-market-2021-cagr-value-top-manufacturers-competitive-landscape-growth-industry-share-size-and-forecast-till-2026"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 0
 
-secured: "N3yxm+K05k2G5l3dSrSjyWpcQtDX7WygefRX1pShRjyK0xcuA3JOE4gpaOeRe4YGgNPqqyTkGMtA8oTTYBKHhNd1mDoXJnkpJQo4zguhoxNOXYp/pOe8ca5oyV/hdUQG/+mfSFRYavZudzEKOpwokTulRaVrCGVRldZVBZ1+8q3xRPXEieReF0PObFVR7pe7rLvhqI9lHNojKpbdMSW61DE/AFUbgbZme1aE+ShBy2ur4uLMbMeqWij5E1vxyA93Uv13O3vd/XYOhk8gYrJoB9jyJ7umU1NY+A7Mg4r/aiKD8Y0QPjmVxeV1PkIdqssbMXCuEjL0NjW/yUKcu4lX+DIUICa214ODkdMRetqHyV4=;O02dLDzQ4egaWHmW6q0l8A=="
+secured: "goeGZPeD/MpNwgZwxuO3MDA6bmNQ36P4K37eFBUzARF86vZVQK9ToIQeWUDbgVspGAL+kmnSlxkGtYcDFerEu+T3/CaDLa0uu+g8O1MSdyv3jsyDT62ks64w0Ew8ImIVvZANlS30O49uABxTtIFKdTev0CBBagdIEJqOq7S+Bjz44ahdsxXsLqAEM3oKl9ATMoWlPpzG8b3+ZcBHlEmIsFPKGeMXJqzrCIafhqa6sBF8Vjr+CdbrGreiUFXdbLyCiZDEF5nEkrzFDIFvPpNW7eIdqpR6Vq9enqiEYbDbS2ytuwZfksG4BXGLP48aZsQDWOTQzHZySI5aoPIZSxCHWlOmAMYYonNLT6JRYlqnAGs=;rEmLNZVTUBWALTq/4dyhJQ=="
 ---
 

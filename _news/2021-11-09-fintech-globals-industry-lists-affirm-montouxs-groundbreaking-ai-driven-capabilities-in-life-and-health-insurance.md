@@ -33,6 +33,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "The Intersection of AI and DeFi and Why It’s the Future of Finance"
+    excerpt: "SingularityNET CEO Ben Goertzel joins Jill Malandrino on Nasdaq #TradeTalks virtually from the Singapore Fintech Festival to discuss the intersection of AI and #DeFi and why it’s the future of finance."
+    publishedDateTime: 2021-11-11T21:09:00Z
+    webUrl: "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance"
+    ampWebUrl: "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "What impact has Artificial Intelligence had on the restaurant industry during the pandemic?"
     excerpt: "The implementation of technological tools, such as Artificial Intelligence (AI), have changed the paradigm in different industries and have allowed them to optimize and make their processes more efficient."
     publishedDateTime: 2021-11-08T21:54:00Z

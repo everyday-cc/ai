@@ -1,30 +1,24 @@
 ---
 category: news
 title: "PNC Treasury Management Launches Artificial Intelligence, Machine Learning-Enabled Cash Forecasting Application"
-excerpt: "PNC Treasury Management today announced a new cash management application called, PINACLE® Cash Forecasting, which leverages artificial intelligence (AI) and machine learning (ML) technology"
-publishedDateTime: 2021-11-09T13:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/pnc-treasury-management-launches-artificial-intelligence-machine-learning-enabled-cash-forecasting-application/article_a14982dc-2aae-52fc-a722-423edb624f5f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/pnc-treasury-management-launches-artificial-intelligence-machine-learning-enabled-cash-forecasting-application/article_a14982dc-2aae-52fc-a722-423edb624f5f.html"
+excerpt: "PNC Treasury Management Launches Artificial Intelligence, Machine Learning-Enabled Cash Forecasting Application"
+publishedDateTime: 2021-11-09T14:33:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/11/09/pnc-treasury-management-launches-artificial-intelligence-machine-learning"
+webUrl: "https://stockhouse.com/news/press-releases/2021/11/09/pnc-treasury-management-launches-artificial-intelligence-machine-learning"
 type: article
-quality: 36
-heat: 36
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Finance
+  - AI
+  - Machine Learning
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/95/695c741a-9c2b-5f5c-8bfb-7797a75b52b7/611a722df2f18.image.jpg?resize=1125%2C375"
-    width: 1125
-    height: 375
-    isCached: true
-
-secured: "vJg47BoSCBEYCpFlD6omNytdnHdEJ6SgHYminYcJDAGx1xXzChCtV/lONzF1YG8RV/E3hlHRe2y4qbcOfUghyPGxaPHIdVoNjse2nfFp2rCdIlCs43xBy/9lztpy1ouP8wbVhNzVM5tVG+WwDk/+d/FeEKmOYsR9b4716JGC93AzOuGgeoo4E29vuWyTnXbF4/6VQYokG12MfR5By7C2F+YJuvqDvsCnKvvJjZDTeknMMgEa3cAx6XKn3m5qwatONx3FQlGBp6k92rVg0Cml95eqY50rdCfL+TpLBUHe8MWOyZ0ZNhy3Orh6X9OnCYPQYx+6R9U8QOfWQ2R9vw3KRTpudkfJnNTaAjk04cPefYpyBriKoNNlNC4nvGSdkGPLtKa9ojjX0twA9lcniWq3uZbBvwcrYAPkovAo7uIS1g23rX+vPOEananvoyekptN4tyd2tJk+haAbUWB2C1Fz0cF7exc949FdYmXDtDUM9Z9qqUw3eg+znqVjJ11bSsGPfckOeA7HPn4IHXHCw1OUCg==;I/hvZfhuKGP9Rn9CkPOcrg=="
+secured: "+8UAvb23YwUWBhSeqZDIcYUq+x8VLFlr66a/mCF23QN+ZPqueRiKyPl9TqPtqm9hbLZFkCDoPwmwtzTdVjnBQzC0i8eW+xuMn8fFJOx3wyswgiCTvKpTpnrkR+2Y3Tp61jEqCYthT9Ji09RmQCd2Kf3LJ5V0fuHcnI7cPbGv8jA0WYhXvoyRACKXZoP6RobdmTkrNaWCWBaQ1gJBvWjTj6Gz34BvpyMed57kJwMGZPIWzbnfPxK3Z1B/2LnRI7Qrh+2pDldT12HF/a5AVWrCAkZJgeOQF1CoGG21UJmrKgGwXbXAz6uAmlPiXPy+Lg5Jtvz5Y18qwb1iA7OQ41d7mvEZ3Y/adfHLGRoUIzd6YwRwt4j/SGGMiBUjjyEwLH55N1txLOkUXD4LVP8YXaXd4ooSx1plLwGzwomVE4WwAd/ViRGDhJh0pNN3R2+AHffrTI6gtTVo6ljTW+bO+RU1erCEHBMJhI2eYjMj77rLGh3hI8ngZDIEA0v2F4oKP7EtaaEbpIRcg7gns7m07j/KJw==;klUEvoAMYeVayKtE1/CLcg=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 756
         isCached: true
+  - title: "Nvidia GTC Fall 2021: 8 Big Announcements For AI, Security And More"
+    excerpt: "A roundup of eight big announcements at Nvidia’s fall GTC 2021 conference that cover areas like AI, security, networking, 3-D design and more."
+    publishedDateTime: 2021-11-11T22:54:00Z
+    webUrl: "https://www.crn.com/slide-shows/components-peripherals/nvidia-gtc-fall-2021-8-big-announcements-for-ai-security-and-more"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 56
+    images:
+      - url: "https://www.crn.com/resources/026f-13b321c1b659-57c5206111f9-1000/slide1.jpg"
+        width: 610
+        height: 344
+        isCached: true
   - title: "NVIDIA GTC: Networking, Healthcare AI, Modeling and Simulation﻿"
     excerpt: "Jensen Huang’s kitchen—the site of the past several NVIDIA GTC Keynotes—deconstructed itself today in a slick simulated introduction as Huang, NVIDIA’s CEO, delivered his keynote highlighting the latest in AI and accelerated computing at NVIDIA."
     publishedDateTime: 2021-11-09T22:50:00Z

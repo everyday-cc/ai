@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/amp/"
 type: article
 quality: 83
-heat: 94
+heat: 93
 published: true
 
 provider:

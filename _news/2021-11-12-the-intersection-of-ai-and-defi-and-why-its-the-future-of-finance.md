@@ -1,28 +1,24 @@
 ---
 category: news
-title: "5 FinTech companies disrupting the financial sector in Boston"
-excerpt: "FinTech is the cross-culmination of traditional methods often associated with accounting, banking, finance industries, and of innovative tech"
-publishedDateTime: 2021-11-08T12:37:00Z
-originalUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-companies-disrupting-the-financial-sector-in-boston/"
-webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-companies-disrupting-the-financial-sector-in-boston/"
+title: "The Intersection of AI and DeFi and Why It’s the Future of Finance"
+excerpt: "SingularityNET CEO Ben Goertzel joins Jill Malandrino on Nasdaq #TradeTalks virtually from the Singapore Fintech Festival to discuss the intersection of AI and #DeFi and why it’s the future of finance."
+publishedDateTime: 2021-11-11T21:09:00Z
+originalUrl: "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance"
+webUrl: "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance"
+ampWebUrl: "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp"
 type: article
-quality: 24
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: IBS
-  domain: ibsintelligence.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
-    width: 300
-    height: 300
-    isCached: true
 
 related:
   - title: "Interesting AI, ML, NLP Applications in Finance and Insurance"
@@ -39,17 +35,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "The Intersection of AI and DeFi and Why It’s the Future of Finance"
-    excerpt: "SingularityNET CEO Ben Goertzel joins Jill Malandrino on Nasdaq #TradeTalks virtually from the Singapore Fintech Festival to discuss the intersection of AI and #DeFi and why it’s the future of finance."
-    publishedDateTime: 2021-11-11T21:09:00Z
-    webUrl: "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance"
-    ampWebUrl: "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "What impact has Artificial Intelligence had on the restaurant industry during the pandemic?"
     excerpt: "The implementation of technological tools, such as Artificial Intelligence (AI), have changed the paradigm in different industries and have allowed them to optimize and make their processes more efficient."
     publishedDateTime: 2021-11-08T21:54:00Z
@@ -73,6 +58,20 @@ related:
       name: The Lancet
       domain: thelancet.com
     quality: 25
+  - title: "5 FinTech companies disrupting the financial sector in Boston"
+    excerpt: "FinTech is the cross-culmination of traditional methods often associated with accounting, banking, finance industries, and of innovative tech"
+    publishedDateTime: 2021-11-08T12:37:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-companies-disrupting-the-financial-sector-in-boston/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "FinTech Global's industry lists affirm Montoux's groundbreaking AI-driven capabilities in life and health insurance"
     excerpt: "Montoux, the Decision Science and Actuarial Automation platform for life and health insurers, was recognized on both 2021 Insurtech100 and AIFintech100 lists by FinTech Global. These lists identify 'The world's most innovative companies' working in insurance and fintech that 'every leader needs to know about in 2021'."
     publishedDateTime: 2021-11-09T14:33:00Z
@@ -83,6 +82,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Peo4Zevf39J7gq8hhxf9+i6phXUCsxJBaWAPraenImYJ4e71L20Uzjmnuby8A0IWNYExAvzDgQFYKuUJ6noyQc7Vhl3q12enyy98+RKG2MoERBTWaNhLXiRDCQSaD+2Dl9kfSF7d9eKwUXgeDlWMW81hCtCBCAZSEeMPfMq2Lh3jZBWZBR24QxzQka0LOo3ZuAcTafW5RSJy85KuYFJkXC7bA0gibn+QiLVJoTJgUdFGhZRhX3ubDhR3vpsTdqv/Vlb2uHr2gwa8NUEjGRwbKA/1wUqzi6hUU2eUDD+xUWaUDpYUsTRJFkhRriq+QR8UVSFDnFjWH935piZMaBcflGXPDsyO21QXtx+14JObmIMNIkBT0mBxEEU+kvOjzw/WHtgCyHosNqa6yb/reciBVKb6bMN+IaJYUf4WbXo0pjBn0vb3ross1ep3J71HOyvzNP2iaog3bjHodCXv7qIlbAt+lHVYzLvUCLGS4AGe8+ZA9RwCRBEEQVsfbDnXH6WU/j2zhgrZ9mf7LsxpsyVC8Q==;jO/a8D9UWJblgx89yrbYsA=="
+secured: "XIQF9ga1Gf0lwbeYx3f4EPA07b/ZRGoz2mcV0kyXc0jrw6vaSonQpbjJHSoC1BqbkAXpGdGLcI/y48O66aqPE1I4F4E0JxFQxuGiqyrzZDMIWkLcVOGhr+wzoSpBPHVxYlphILoGOWJGSV7gQeks7BHygpij59Va7q/3Xq9rLKbjFZ1xoRM+KY7MvrfinHVS6j88RdRAAB62lHsofSEc4RiNFkqb88EIvLg2zEmXV4766cT1pwYIQ9V9cL6K20askv6LjlNtxbEgAY4E0dSmLiVl8zUCC3NP3EnSN5BhjU/sfNoMAMkY9dnyxLDCQKATmaPlnjb4TE3SG/Q6TynMe04VdGMZMiUv0M32jxrZzeg=;WJMdYYnC6yo8WrVGnnYOXw=="
 ---
 

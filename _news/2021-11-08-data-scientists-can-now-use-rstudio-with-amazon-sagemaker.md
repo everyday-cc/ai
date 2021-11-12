@@ -111,18 +111,15 @@ related:
         isCached: true
   - title: "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference"
     excerpt: "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,"
-    publishedDateTime: 2021-11-09T09:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2"
+    publishedDateTime: 2021-11-09T07:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/g23974757/nvidia-announces-major-updates-to-triton-inference-server-as-25-000-companies-worldwide-deploy-nvi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23974757"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23974757"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "zqMox+v5m4C1emGgXaKL2jrKto4iX66Y2djQXuuno91MJWjGGL6KMuJv62OmfeFJfh9k7AKSondsVTI27Kjry3kky55synEuzN7HTe/N7c27TvaZhGwhjGXR0ertv5XkQ4hSsw6Qvc0VIHOOGLudCf3woMnc9MLrmto2e4FTm1o4jCUNUYfFCoBIe8zQC6cdjypIhiyK9EDls+mwvkTO9bV1WqjNUsMvSQ6/AXTlyorcMuob7NrarCvThNJp6faXb2xWPJ8sqJW10QViInaPrCGLmGoZO26fgzrb+IYfNue5KsLB9ycxKHg0bRDFc7CLz01SEvfv3vhwpwpvO6AlDn7HeXNGGQkbAhqHa9b/0VDWw3dSgtsq99jgjVUtjsAEkmByOO+75YLJL21+5dt//kO0/ynS3g4TACsxYAIEgThueH7HgLnsvrtis2uDwwdEtfWc6gf1EF2WC+Xru2mhbgX5Qxk28cdTwd5pGAOevo4WMmUh8Uilbf+eBew/VMrdaER8Wpv8K7j+NUY9tmaqCw==;T20gsefMWnfn7xocVPC3+g=="
 ---

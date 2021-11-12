@@ -38,6 +38,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "The Intersection of AI and DeFi and Why It’s the Future of Finance"
+    excerpt: "SingularityNET CEO Ben Goertzel joins Jill Malandrino on Nasdaq #TradeTalks virtually from the Singapore Fintech Festival to discuss the intersection of AI and #DeFi and why it’s the future of finance."
+    publishedDateTime: 2021-11-11T21:09:00Z
+    webUrl: "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance"
+    ampWebUrl: "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Application of artificial intelligence and machine learning for HIV prevention interventions"
     excerpt: "In 2019, the US Government announced its goal to end the HIV epidemic within 10 years, mirroring the initiatives set forth by UNAIDS. Public health prevention interventions are a crucial part of this ambitious goal."
     publishedDateTime: 2021-11-08T23:57:00Z

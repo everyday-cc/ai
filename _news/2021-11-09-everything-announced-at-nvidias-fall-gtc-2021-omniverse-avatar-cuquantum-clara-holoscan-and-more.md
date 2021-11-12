@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-announced-at-nvi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia GTC Fall 2021: 8 Big Announcements For AI, Security And More"
+    excerpt: "A roundup of eight big announcements at Nvidia’s fall GTC 2021 conference that cover areas like AI, security, networking, 3-D design and more."
+    publishedDateTime: 2021-11-11T22:54:00Z
+    webUrl: "https://www.crn.com/slide-shows/components-peripherals/nvidia-gtc-fall-2021-8-big-announcements-for-ai-security-and-more"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 56
+    images:
+      - url: "https://www.crn.com/resources/026f-13b321c1b659-57c5206111f9-1000/slide1.jpg"
+        width: 610
+        height: 344
+        isCached: true
   - title: "Nvidia announces deeper push into healthcare industry at GTC 2021"
     excerpt: "Nvidia is diving deeper into the healthcare industry. During its GTC 2021 conference, the company rolled out artificial intelligence and cloud capabilities meant to do everything"
     publishedDateTime: 2021-11-09T08:30:00Z

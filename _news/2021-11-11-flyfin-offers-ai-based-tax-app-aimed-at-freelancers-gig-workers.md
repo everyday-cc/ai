@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed
 ampWebUrl: "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/"
 type: article
-quality: 93
-heat: 113
+quality: 95
+heat: 115
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - AI in Finance
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/11/cryptocurrency-tax.jpg?w=1200&strip=all"
