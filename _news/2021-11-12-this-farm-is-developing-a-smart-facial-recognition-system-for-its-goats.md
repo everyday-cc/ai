@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is Facial Recognition on Your Smartphone a Good Choice?"
+    excerpt: "The exploded adoption of smartphones has led to the unprecedented use of Facial recognition system. It adds another method of security for everyday devices. Using biometric analysis, the technology uses facial mapping to unlock the device,"
+    publishedDateTime: 2021-11-12T06:13:00Z
+    webUrl: "https://dazeinfo.com/2021/11/12/is-facial-recognition-on-your-smartphone-a-good-choice/"
+    ampWebUrl: "https://dazeinfo.com/2021/11/12/is-facial-recognition-on-your-smartphone-a-good-choice/?amp"
+    cdnAmpWebUrl: "https://dazeinfo-com.cdn.ampproject.org/c/s/dazeinfo.com/2021/11/12/is-facial-recognition-on-your-smartphone-a-good-choice/?amp"
+    type: article
+    provider:
+      name: Dazeinfo
+      domain: dazeinfo.com
+    quality: 59
+    images:
+      - url: "https://dazeinfo.com/wp-content/uploads/2021/11/facial-recognition-market-dazeinfo.jpg"
+        width: 650
+        height: 450
+        isCached: true
   - title: "Facebook will drop its facial recognition system, but why we should be skeptical"
     excerpt: "Facebook has announced that it will stop using its facial recognition system—the artificial intelligence software which recognizes people in photos and videos and generates suggestions about who to \"tag\" in them."
     publishedDateTime: 2021-11-10T14:30:00Z
@@ -102,6 +118,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "9+vr3l3R/zsqhrsLlkSEkIxD8O9eCEGesiPYznWhm8xX/9ac/JTo5jq8SuNyygeQMD/nwsL/bWI+fmfGRp5+SDXrhpz+3ARNSEJD8vvOHFQ+UNbhPDR6vKvAoMfxz+WfDQcdqJQPawcTTBsgeTHlrxDct5F/VjFXqwvzaeQCKHdL5C8dEvjMYt43uwlCdCpoE282Z0282Sm/FHI00df35jF2oMoN8+feI+f47YAbNGW8of05+s0Pee/YFg/UgV2ASglfBf60P1i3R+qyNPq/cGXlRQlgr2vZCZMmtlIn+E6ZB3onaTdZw6VDPANLLzS0veoID7zvnrTvFLksWWGCMXC2eBzqyXKZegSgYFiEDOE=;WwwhiGg1IGj/4FDZdsG+MQ=="
+secured: "xprws51/7TcSISDG/PHip8kIajOmyWgA/fUa/0/206RZyH03gbINUzr7sH4uDCWfYeT4NL2J3Aw+qhoEbmAGS7fCX6ZfUV7leIfuYLKsYQsCIYEk0GZn5Tkal9pLRbiC0ap6MUqgGq0EhGgEJJ9ANpeRKdNWWxrpXgAiXyX8RIlguaX3uwt01JDpDQ6tJVYgH+KjWbiTLEMh2idooqzT7YOPrfmDrO5upeJqcxdOyUPOyYNC9CFiyD/47QSD0TtTc207OShYcQgiHuwrX8725aUX3eujP4b2oi7VE6BIRNt3F6d7dODxzSaCKI3FwBIXCnKbAUegMncd7MFScQQ91oQiX30JYhDAKr/fNAe6ogByqK9XV+krjf2z82vCGmBNmtnyZ8z4SK01ArDDKjd8dziKOY3nfTMlVGuV6zBx5/FgU+Y/CwLMUE1M/G99O/Nt4Jpkd9Ww0sZuBWELtp5K/BKv7FBFU2+7u7D4HmhfnEPkgKYmvkT9m6fZthYDg83yFisyBCj2xddPtlU8zmtBkQ==;JLIoiruJ5f36A7f9s31dmA=="
 ---
 

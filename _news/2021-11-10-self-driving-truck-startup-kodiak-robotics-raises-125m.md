@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-robotics-raises-125m/amp/"
 type: article
 quality: 121
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 104
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/11/B2EZVYMUTBHWBITYJZWEAB7WR4.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-Driving Truck Startup Kodiak Robotics Raises $125 Million"
+    excerpt: "Self-driving truck startup Kodiak Robotics recently announced a $125 million funding round as the trucking industry is facing major challenges, including growing shipping demand and driver shortages."
+    publishedDateTime: 2021-11-11T23:30:00Z
+    webUrl: "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million"
+    ampWebUrl: "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 91
+    images:
+      - url: "https://img.chdrstatic.com/media/4d811bbb-96df-46b3-885f-771caf17ad34.jpg?width=1200&source=backend&auto=webp"
         width: 1200
         height: 675
         isCached: true

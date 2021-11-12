@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Self-Driving Truck Startup Kodiak Robotics Raises $125 Million"
+    excerpt: "Self-driving truck startup Kodiak Robotics recently announced a $125 million funding round as the trucking industry is facing major challenges, including growing shipping demand and driver shortages."
+    publishedDateTime: 2021-11-11T23:30:00Z
+    webUrl: "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million"
+    ampWebUrl: "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 91
+    images:
+      - url: "https://img.chdrstatic.com/media/4d811bbb-96df-46b3-885f-771caf17ad34.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-Driving Truck Startup Kodiak Raises $125 Million in Series B Round"
     excerpt: "On November 11, self-driving truck startup Kodiak announced that it had raised $125 million in an oversubscribed Series B round for a total of $165 million raised to date."
     publishedDateTime: 2021-11-10T17:31:00Z

@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "First Artificial Intelligence-based driver evaluation hub launched in Dubai"
-    excerpt: "Dubai: An Artificial Intelligence-based driving hub is opening its doors in Dubai with an aim to cut accident risks and improve drivers’ skills. Starting November 15, a private driving institute in Dubai will make use of the Artificial Intelligence (AI)-based driver evaluation hub,"
-    publishedDateTime: 2021-11-07T14:07:00Z
-    webUrl: "https://gulfnews.com/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019"
-    ampWebUrl: "https://gulfnews.com/amp/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019"
+  - title: "Health tech company to bring new AI powered tech to Irish hospitals"
+    excerpt: "The Irish arrival of Clanwilliam Group's AI-powered dictation and speech recognition tech has coincided with a national conversation on AI."
+    publishedDateTime: 2021-11-11T12:15:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-clanwilliam-group-software-national-citizens-assembly"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 70
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 41
     images:
-      - url: "https://imagevars.gulfnews.com/2021/11/07/AI-based-driver-evaluation-1636293949003_17cfab8369f_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
-  - title: "Dubai First taps flybits and Mastercard for AI-based personal services"
-    excerpt: "Dubai First, which offers consumer services under First Abu Dhabi Bank (FAB), and Mastercard introduced an experiential consumer engagement platform for the first time in the Middle East and Africa region."
-    publishedDateTime: 2021-11-08T11:34:00Z
-    webUrl: "https://www.finextra.com/pressarticle/90142/dubai-first-taps-flybits-and-mastercard-for-ai-based-personal-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/11/AdobeStock_313787943.jpeg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "BLyWcmj0OOP4v5DnLQ3r7zIKfe9V9olkNt58EsVefQFxLp36RkgFTraURsQjzwOuknRuDwzkPZKhqon2fE9C21zNhdn5ixJzCzUPSNGF5mbnIwQJTIAsB+42dF87f6CsQKuQy1Licn0znXnVOf+xEbNLNSE47l3Fk7y0IxVB1wGW5NQ4Btxlma+LtDHiFUlc/TVTTfaX2h6xkFZ+80Hxg/ESn3b8bTtOB7Dh1SNbb2NqdIpCuYoPpgAm7rf2rU25UKHyuOQP1zosIw5r+voTQ9ycBThLpkVBmyKf21vk7w9TklOPMcaJVoQXW5B9ou7FKQje2un3F4WitwQsiXG2oANJoNE+uuD2YEkTRCH7TTo=;8KebhrtPyHBIajCmI3Apfg=="

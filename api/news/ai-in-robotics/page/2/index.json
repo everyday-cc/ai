@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-04-scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has.md",
+      "title": "Scale AI acquires SiaSearch to give companies the same data engine superpowers that Tesla has",
+      "excerpt": "Scale AI, the five-year-old visual data labeling company, has acquired a small startup that could help expand its reach in Europe and speed up development of its newest product. Financial terms were not disclosed.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/",
+      "originalUrl": "https://techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/PandaSet-flyover-GIF-credit_-Scale-AI.gif?w=720",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/amp/",
+      "publishedDateTime": "2021-11-03T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
       "title": "Robots hit the streets as demand for food delivery grows",
       "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
@@ -1287,40 +1340,6 @@
       "provider": {
         "name": "Wonderful Engineering",
         "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-intuition-robotics-named-in-fast-companys-first-annual-list-of-brands-that-matter.md",
-      "title": "Intuition Robotics Named in Fast Company's First Annual List of \"Brands That Matter\"",
-      "excerpt": "New recognition program honors companies and nonprofits that give people compelling reasons to care about them, and offer inspiration for others to buy in",
-      "sourceUrl": null,
-      "webUrl": "https://www.wowt.com/prnewswire/2021/10/27/intuition-robotics-named-fast-companys-first-annual-list-brands-that-matter/",
-      "originalUrl": "https://www.wowt.com/prnewswire/2021/10/27/intuition-robotics-named-fast-companys-first-annual-list-brands-that-matter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WOWT.com",
-        "domain": "wowt.com",
         "images": null,
         "publishers": null,
         "authors": null

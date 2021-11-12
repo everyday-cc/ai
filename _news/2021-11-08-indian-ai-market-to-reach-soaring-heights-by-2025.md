@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soarin
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.amp.html"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: CIO
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Commerce Artificial Intelligence Market to Eyewitness Stunning Growth by 2027 Covid-19 Analysis | MediaTek, ANKI"
+    excerpt: "This Commerce Artificial Intelligence market report continues by informing you about ongoing marketing campaigns and recommending you on which aspects of marketing should be enhanced and improved in comparison to rivals It contains data on the financial damages incurred by"
+    publishedDateTime: 2021-11-12T06:02:00Z
+    webUrl: "https://www.openpr.com/news/2459622/commerce-artificial-intelligence-market-to-eyewitness"
+    ampWebUrl: "https://www.openpr.com/amp/2459622/commerce-artificial-intelligence-market-to-eyewitness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2459622/commerce-artificial-intelligence-market-to-eyewitness"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub12806770_g.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Artificial Intelligence in Drug Screening Market to Set Phenomenal Growth in Key Regions By 2025"
     excerpt: "Artificial Intelligence in Drug Screening Market by Product Type (Immunoassay Analyzers, Breathalyzer, Rapid Test Device, Assay Kits, and Chromatography Instruments), Sample Type (Urine, ..."
     publishedDateTime: 2021-11-08T10:42:00Z

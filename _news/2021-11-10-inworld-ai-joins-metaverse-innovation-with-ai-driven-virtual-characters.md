@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innova
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "WAYZ.AI CEO Dr. Tao: Spatio-Temporal AI Energizes Digital Twin and Metaverse"
+    excerpt: "As the first Keynote of the conference, Former Director of Microsoft Virtual Earth, Founder and CEO of WAYZ.AI, Dr. Vincent Tao, presented the WAYZ.AI innovation on Spatio-Temporal AI (ST-AI) technology and its applications to Digital Twin and Metaverse."
+    publishedDateTime: 2021-11-12T06:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wayz-ai-ceo-dr-tao-spatio-temporal-ai-energizes-digital-twin-and-metaverse-1030968822"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://mma.prnewswire.com/media/1686720/image.jpg"
+        width: 326
+        height: 400
+        isCached: true
   - title: "UAE-Shell Offers New AI-Powered Applications Through Open AI Energy Initiative"
     excerpt: "C3 AI (NYSE:AI) and Shell (NYSE:RDS) today announced three new Shell products that will be available through the Open AI Initiative (OAI), an open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
     publishedDateTime: 2021-11-10T09:43:00Z

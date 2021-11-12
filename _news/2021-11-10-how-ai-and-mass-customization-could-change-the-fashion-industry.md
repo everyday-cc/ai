@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/amp/"
 type: article
 quality: 87
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://www.futuroprossimo.it/wp-content/uploads/2021/11/CAEB8251-43CD-4533-BCEC-B831789808CB.jpeg"
         width: 639
         height: 639
+        isCached: true
+  - title: "AI home-buying and how it could change real estate"
+    excerpt: "Zillow went on an algorithmic home-buying spree. It didn't work. But what is algorithmic home-buying? We learn the impact AI home-buying could have on the housing market."
+    publishedDateTime: 2021-11-12T05:19:00Z
+    webUrl: "https://www.wbur.org/onpoint/2021/11/12/red-hot-housing-market-broke-ai-home-buying-zillow-redfin"
+    ampWebUrl: "https://amp.wbur.org/onpoint/2021/11/12/red-hot-housing-market-broke-ai-home-buying-zillow-redfin"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2021/11/12/red-hot-housing-market-broke-ai-home-buying-zillow-redfin"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 59
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2019/04/0403_for-sale.jpg"
+        width: 1700
+        height: 1133
         isCached: true
   - title: "The Future is Now: Automation, Robotics & AI are Safeguarding Energy and Utilities Industries"
     excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."

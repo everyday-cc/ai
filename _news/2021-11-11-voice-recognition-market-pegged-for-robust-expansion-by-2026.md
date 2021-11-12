@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Speech Recognition Market Size is Expected to Reach $29.28 Billion by 2026"
+    excerpt: "Speech Recognition Market Report PORTLAND, OREGON, UNITED STATES, November 11, 2021 /EINPresswire.com / -- According to a recent report p"
+    publishedDateTime: 2021-11-12T05:42:00Z
+    webUrl: "https://menafn.com/1103154838/Speech-Recognition-Market-Size-is-Expected-to-Reach-2928-Billion-by-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/12/EP_f5219image_story.jpeg"
+        width: 790
+        height: 466
+        isCached: true
   - title: "Computer Vision Market 2021 by Segmentation includes Type, Applications, Channel and Forecast to 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for  Computer Vision Market  for 2021 till 2030. Report"
     publishedDateTime: 2021-11-09T06:42:00Z

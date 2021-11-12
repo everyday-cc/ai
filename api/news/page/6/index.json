@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-07-how-one-startup-is-shaking-up-the-consumer-trading-boom.md",
+      "title": "How one startup is shaking up the consumer trading boom",
+      "excerpt": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday?  Happy Saturday,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/06/how-one-startup-is-shaking-up-the-consumer-trading-boom/",
+      "originalUrl": "https://techcrunch.com/2021/11/06/how-one-startup-is-shaking-up-the-consumer-trading-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/06/how-one-startup-is-shaking-up-the-consumer-trading-boom/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/06/how-one-startup-is-shaking-up-the-consumer-trading-boom/amp/",
+      "publishedDateTime": "2021-11-06T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-intel-arc-alchemist-gpu-shows-off-ai-based-xess-magic-in-new-riftbreaker-video.md",
+      "title": "Intel Arc Alchemist GPU shows off AI-based XeSS magic in new Riftbreaker video",
+      "excerpt": "Two of the leading technologies in this generation's GPU wars have been Nvidia's Deep Learning Super Sampling (DLSS) and AMD's FidelityFX Super Resolution (FSR). Both promise",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
+      "originalUrl": "https://www.techspot.com/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-29-image-18.jpg",
+          "width": 1914,
+          "height": 1221,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
+      "publishedDateTime": "2021-11-06T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-alphabet-just-launched-a-company-thats-using-ai-to-design-new-drugs.md",
       "title": "Alphabet Just Launched a Company That's Using AI to Design New Drugs",
       "excerpt": "Alphabet has launched a new company called Isomorphic Labs which will use artificial intelligence (AI) to discover new pharmaceutical drugs. The venture will reportedly rely on advancements made by Alphabet’s DeepMind whose AI uses a model called AlphaFold2 to predict the shape of proteins with incredible accuracy.",
@@ -1104,102 +1207,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-ai-and-simulation-driving-major-advances-in-robotics.md",
-      "title": "AI and Simulation Driving Major Advances in Robotics",
-      "excerpt": "Whether autonomously moving parts and products or visually inspecting goods for defects, the rapid growth of e-commerce, onshoring of manufacturing and labor shortages have accelerated the urgency for robotics deployment and automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFPov227PVLFA/article-cover_image-shrink_720_1280/0/1636095105698?e=1641427200&v=beta&t=t2hu2gjZ-2hTVXnmtcXdmzFeSzLJuRHWLsh8ELc8FDI",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says.md",
-      "title": "Governments must check if Facebook really does scrap face recognition, Frances Haugen says",
-      "excerpt": "Facebook made the announcement on Tuesday, partly in response to growing scrutiny from regulators and legislators over user safety and abuses on its p..",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-87533911,imgsize-30076,width-1200,height-628,overlay-etbrandequity/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911",
-      "publishedDateTime": "2021-11-04T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -73,6 +73,22 @@ related:
         width: 639
         height: 639
         isCached: true
+  - title: "AI home-buying and how it could change real estate"
+    excerpt: "Zillow went on an algorithmic home-buying spree. It didn't work. But what is algorithmic home-buying? We learn the impact AI home-buying could have on the housing market."
+    publishedDateTime: 2021-11-12T05:19:00Z
+    webUrl: "https://www.wbur.org/onpoint/2021/11/12/red-hot-housing-market-broke-ai-home-buying-zillow-redfin"
+    ampWebUrl: "https://amp.wbur.org/onpoint/2021/11/12/red-hot-housing-market-broke-ai-home-buying-zillow-redfin"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2021/11/12/red-hot-housing-market-broke-ai-home-buying-zillow-redfin"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 59
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2019/04/0403_for-sale.jpg"
+        width: 1700
+        height: 1133
+        isCached: true
   - title: "How Artificial Intelligence is Transforming the Healthcare Industry?"
     excerpt: "Artificial intelligence and related technologies are widely used in business and society, and they are rapidly entering the healthcare sector."
     publishedDateTime: 2021-11-09T00:00:00Z

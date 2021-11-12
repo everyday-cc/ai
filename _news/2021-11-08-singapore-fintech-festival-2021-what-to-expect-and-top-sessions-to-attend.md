@@ -191,6 +191,20 @@ related:
       name: Philippine Daily Inquirer
       domain: inquirer.net
     quality: 25
+  - title: "Top 10 Stories from Singapore Fintech Festival 2021"
+    excerpt: "Like previous years, the 2021 Singapore Fintech Festival was the opportunity for some of the world’s largest tech firms, banks, fintech leaders and regulators to announce their latest products and initiatives."
+    publishedDateTime: 2021-11-12T05:28:00Z
+    webUrl: "https://fintechnews.sg/57269/singapore-fintech-festival-2021/top-10-stories-from-singapore-fintech-festival-2021/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/11/Top-10-Stories-from-Singapore-Fintech-Festival-2021-.jpg?x73342"
+        width: 2048
+        height: 1136
+        isCached: true
   - title: "RadLink, Singapore's Leading Imaging Center, Adapts Lunit AI to Analyze Chest X-rays and Mammograms"
     excerpt: "Lunit today announced a Reference Site Agreement with RadLink, a subsidiary of the Fullerton Health Group, Singapore's leading private diagnostic and molecular imaging service provider. As a leading medical AI company,"
     publishedDateTime: 2021-11-08T06:41:00Z

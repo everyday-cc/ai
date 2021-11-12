@@ -7,7 +7,7 @@ originalUrl: "https://www.al-monitor.com/originals/2021/11/israel-joins-internat
 webUrl: "https://www.al-monitor.com/originals/2021/11/israel-joins-international-artificial-intelligence-group"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli startup lets insurers, rental agencies inspect cars by AI"
-    excerpt: "More than one billion car inspections are done every year by car rental companies and insurance companies. Israeli start-up Ravin wants to simplify that process, using artificial intelligence to allow anyone with a smartphone to be able to file an auto report."
-    publishedDateTime: 2021-11-07T13:14:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/israeli-startup-lets-insurers-rental-agencies-inspect-cars-by-ai-684277"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/israeli-startup-lets-insurers-rental-agencies-inspect-cars-by-ai-684277/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israeli-startup-lets-insurers-rental-agencies-inspect-cars-by-ai-684277/amp"
+  - title: "Israel’s Carmel Future Combat Vehicle Concept Uses Artificial Intelligence to Locate Enemy"
+    excerpt: "The experimental Carmel tank, an autonomous armored vehicle. Photo: Israeli Ministry of Defense. JNS.org – The arrival of artificial intelligence-powered"
+    publishedDateTime: 2021-11-08T14:35:00Z
+    webUrl: "https://www.algemeiner.com/2021/11/08/israels-carmel-future-combat-vehicle-concept-uses-artificial-intelligence-to-locate-enemy/"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
+      name: Algemeiner
+      domain: algemeiner.com
+    quality: 27
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/440646"
-        width: 640
-        height: 428
+      - url: "https://www.algemeiner.com/wp-content/uploads/2019/08/3_l.jpg"
+        width: 720
+        height: 360
         isCached: true
 
 secured: "6JuR7XRd2AeLqeGiNYsH+8A7qQv3E9/6V3FR7naBGNi0MbMOGNm9hnUSCrfkJ5oZCH/HCncDJVTrJQql0Blcm+MMDW8AFn3lkbu0WB0UA3Jml7r9StUbifKe6jwnXBnIM/6yl/TgtdVZ5IE8sIHp/JPAFrAQRRgiCWmVY0S1ckADGw8Ht/RXjdtNrN8mtcNk/p++Rlhq1M5yiWzpxSns7GP2pU2UMXxqT8PAPBVUHe3bPGHnDJ57Q73ocBWbHUycoJkWhyg2HD7XJQDgDRLlf1bGbFpYCf2Psy6k7daWfOmnDNDHhK+UA8jJVJmeGLM/rPj7j8yqzRBSEZeiFGTPJBp2vU1LuqFsn2w5GywrEC9OEiGbG+RbFF5l56pYq6hzZ4wjTpN0F7eLiXGxkX50b7jE/xtrYUdG89R9TuV16qsE2t0L9t8K9Bv06b6Rz9ewi4flN5+QuB4Jo5P40fBel3ihfqiHHmJawfSyQnrFQ5Yl5sA4cCMgmbogzUg0l+BqbGWytZgXobp0w4awi8G+gg==;uJX+sUdOiWW2su2e4+iBpg=="

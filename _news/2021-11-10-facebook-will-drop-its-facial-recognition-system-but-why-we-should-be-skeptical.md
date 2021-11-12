@@ -44,6 +44,22 @@ related:
         width: 620
         height: 326
         isCached: true
+  - title: "Is Facial Recognition on Your Smartphone a Good Choice?"
+    excerpt: "The exploded adoption of smartphones has led to the unprecedented use of Facial recognition system. It adds another method of security for everyday devices. Using biometric analysis, the technology uses facial mapping to unlock the device,"
+    publishedDateTime: 2021-11-12T06:13:00Z
+    webUrl: "https://dazeinfo.com/2021/11/12/is-facial-recognition-on-your-smartphone-a-good-choice/"
+    ampWebUrl: "https://dazeinfo.com/2021/11/12/is-facial-recognition-on-your-smartphone-a-good-choice/?amp"
+    cdnAmpWebUrl: "https://dazeinfo-com.cdn.ampproject.org/c/s/dazeinfo.com/2021/11/12/is-facial-recognition-on-your-smartphone-a-good-choice/?amp"
+    type: article
+    provider:
+      name: Dazeinfo
+      domain: dazeinfo.com
+    quality: 59
+    images:
+      - url: "https://dazeinfo.com/wp-content/uploads/2021/11/facial-recognition-market-dazeinfo.jpg"
+        width: 650
+        height: 450
+        isCached: true
   - title: "Facebook will drop its facial recognition system – but here’s why we should be sceptical"
     excerpt: "Facebook has announced that it will stop using its facial recognition system – the artificial intelligence software which recognises people in photos and videos and generates suggestions about who to “tag” in them."
     publishedDateTime: 2021-11-10T11:22:00Z

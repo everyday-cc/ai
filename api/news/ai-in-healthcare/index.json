@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-12-role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics.md",
+      "title": "Role of technology in healthcare and how robotics has transformed the ever-evolving field of Orthopaedics",
+      "excerpt": "Dr Miten Sheth, Orthopaedic Knee Surgeon & Director, The Knee Clinic highlights the role of technology in orthopaedics",
+      "sourceUrl": null,
+      "webUrl": "https://www.expresshealthcare.in/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
+      "originalUrl": "https://www.expresshealthcare.in/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.expresshealthcare.in/wp-content/uploads/2021/11/DR.-MITEN-SHETH-MS-DNB-Orthopaedics-Knee-Surgeon-The-Knee-Clinic-1.png",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
+      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
+      "publishedDateTime": "2021-11-11T21:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "expresshealthcare",
+        "domain": "expresshealthcare.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-artificial-intelligence-learns-to-talk-back.md",
       "title": "Artificial intelligence learns to talk back",
       "excerpt": "This means a pronounced role for artificial intelligence and machine learning, or conversational AI, which add the intelligence needed to deliver superior customer or employee experience. Deloitte analysts recently analyzed patents in the area of conversational AI to assess the direction of the technology and the market -- and the technology has been fast developing.",
@@ -1333,58 +1377,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics.md",
-      "title": "Apixio Grows Staff by 20% and Continues to Expand Footprint & Product Portfolio to Meet Surging Demand for AI Healthcare Analytics",
-      "excerpt": "Apixio, Inc., the healthcare AI analytics company; today announced it has rapidly expanded its staff and product portfolio to meet surging demand for its AI healthcare analytics solutions that give payers and providers the power to mine clinical information at scale — creating novel insights that will change the way healthcare is measured,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1662177/Apixio_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
