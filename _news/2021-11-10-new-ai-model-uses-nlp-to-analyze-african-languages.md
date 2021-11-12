@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/new-ai-model
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/new-ai-model-uses-nlp-to-analyze-african-languages-355697"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/05/Chatbots-696x452.jpg"
         width: 696
         height: 452
+        isCached: true
+  - title: "New AI Model Works With Wider Variety of Human Languages"
+    excerpt: "Researchers at the University of Waterloo have developed an AI model that enables computers to process a wider variety of human languages. This is an important step forward in the field given how many languages are often left behind in the programming process."
+    publishedDateTime: 2021-11-12T20:01:00Z
+    webUrl: "https://www.unite.ai/new-ai-model-works-with-wider-variety-of-human-languages/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-B-4iniQ8/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/11/africa-15428_1280.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "xWieiCntiJclS/Ex0Rx888csKA0EY7zM8k4VJZKfSheqfA6xJiAwmIQLl3jJMNzHnBbHRLcnU5hZWQZbA4amyBRDrES6t5Ir25zRe+0izPoes2d9W8bZk2B+YElU/uM17Gx6RJe0psSB6mpIR3ipUeOQZDSjdcNtwKG19SiJKGP8vWSVERqQgViz0UeB3MV7bWxau3sA42RB8GZ4O4UhDD+pjuOqnJi8eR8nSmecUGruMoql3IIPWFpkHu2byUq1WmuQejvkBjrxbMRbNU9fgXKi6RbVkwvdsO7tMhHMjuVk7XQcjinGTEJxF+/1n5na+53FpaDt1CjkW2mkbLShl81Zj+EW9adCqULqEWHfnnSzYigs3N31//ZtrXy/xYvUe6eqpczs0ngqhC+GVRcomMshu0Uzu0gobTCe7juWUPvImCDIMLqOHD0oqJTq4pVsW1EoEH5pgp+ZLIEDvC0Ql8h4dmSA+nbDzGJ5mjs6WWo0yW551tTZuGi4VVoN2yoMXRIaE+aGZqR1BWY99PKsFQ==;puOTxHMCP+4Ny9s+Ge145A=="

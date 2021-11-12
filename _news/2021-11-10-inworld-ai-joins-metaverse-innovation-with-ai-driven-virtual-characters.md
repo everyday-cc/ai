@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innova
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI bots to user data: Is there space for rights in the metaverse?"
+    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory."
+    publishedDateTime: 2021-11-12T18:28:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/ai-bots-user-data-is-there-space-rights-metaverse-2021-11-12/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/Fw9oRebOE-1ALKb9_9bR3zByww8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5C3CTFP6H5LIBIKA3LUVT3DZCQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "WAYZ.AI CEO Dr. Tao: Spatio-Temporal AI Energizes Digital Twin and Metaverse"
     excerpt: "As the first Keynote of the conference, Former Director of Microsoft Virtual Earth, Founder and CEO of WAYZ.AI, Dr. Vincent Tao, presented the WAYZ.AI innovation on Spatio-Temporal AI (ST-AI) technology and its applications to Digital Twin and Metaverse."
     publishedDateTime: 2021-11-12T06:52:00Z
@@ -44,17 +58,6 @@ related:
         width: 326
         height: 400
         isCached: true
-  - title: "AI bots to user data: Is there space for rights in the metaverse?"
-    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook’s recent announcement that it is investing heavily in the so-called metaverse – a virtual environment where people can meet,"
-    publishedDateTime: 2021-11-12T17:38:00Z
-    webUrl: "https://nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse"
-    ampWebUrl: "https://nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/wcm/523efdd8-c030-4e9e-be1d-134ad7ca4aed/amp/"
-    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/wcm/523efdd8-c030-4e9e-be1d-134ad7ca4aed/amp/"
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 39
   - title: "Artificial intelligence faces the real world"
     excerpt: "Nation states and big tech firms the size of states are in an artificial intelligence land-grab. What does it mean for the future of the industry?"
     publishedDateTime: 2021-11-12T12:46:00Z
@@ -97,6 +100,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "FEATURE-AI bots to user data: Is there space for rights in the metaverse?"
+    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook's recent announcement that it is investing heavily in the so-called metaverse - a virtual environment where people can meet,"
+    publishedDateTime: 2021-11-12T15:35:00Z
+    webUrl: "https://news.trust.org/item/20211112173355-waoeq"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 18
 
 secured: "Si0Aj1PK5CksDXiSJoAn3kodWeb20VPSpk9kf6U8eHgbTrz7HuI3aajnn7GeaIE0L+FIgGLqb+S71i1grH0/6o6Tn/09RQ72sJKtZYMhY6jjCRs5ScAxiAdRptkEIC0ucZLd+kfdakM5mXvjPNBXRPG/6vVvgGWC/+D0nfFyhyUOjvctCu+L26/5gvaaY5oEuja1X4yhvWP0VBNMdp48tvVIqQMIxoEtNnh6MVMGfn1brMLx9Cc7n0v+sLVwD/A2KWWGYa+H6Adx1GDRmCTAB4/bwRXLmVwd2xvvF6+Pv2kCHytNEx2USugrAjzuJcfI8tC/jKPlAEzTkA9eaLyM2XD2aVVcd5XmXi/VA4m08rvijqcMWfrK36FZ1s9nmw3kGZbvAlCSV+mghnhAix97HvYY3vvF8Pgm1ELnbChbA8OuhWPGCDvCTQ4nOs5HhlF/YDYuOiSqK1zSlqUgCNOSlxUoKKW8+Dr6tnWphC6sfZlqBHf6AZEqmi+WqJbw1wIVmDUTMxrzZYYBuLNC1U0qTA==;VSvSNRvk2s+hwqJ8StBVbw=="
 ---

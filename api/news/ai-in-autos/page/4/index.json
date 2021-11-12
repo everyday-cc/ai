@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-12-germany-unveils-the-worlds-first-fully-automated-train-in-hamburg.md",
+      "title": "Germany Unveils the World's First Fully Automated Train in Hamburg",
+      "excerpt": "World's first fully automated, driverless train is unveiled in the city of Hamburg by Siemens and German rail operator Deutsche Bahn (DB).",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
+      "originalUrl": "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplMpMOW/sizes/autonomous-train_resize_md.jpeg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
+      "publishedDateTime": "2021-10-12T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-ai-estimated-to-provide-10-boost-to-uk-gdp-by-2030.md",
       "title": "AI estimated to provide 10% boost to UK GDP by 2030",
       "excerpt": "Capabilities provided by artificial intelligence (AI) systems and related technologies such as robots and driverless vehicles could provide a 10% boost to the UK economy by 2030, but there are ...",
@@ -1363,49 +1406,6 @@
       "provider": {
         "name": "PropertyCasualty360",
         "domain": "propertycasualty360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-best-examples-of-artificial-intelligence.md",
-      "title": "Best Examples of Artificial Intelligence",
-      "excerpt": "From vaccine development to self-driving cars, artificial intelligence or, AI for short, is progressing very quickly. As much as we were imagining artificial intelligence as robots with human characteristics, it has proven to be far more sophisticated and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2021/10/best-examples-of-artificial-intelligence.html",
-      "originalUrl": "https://www.techdigest.tv/2021/10/best-examples-of-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techdigest.tv/wp-content/uploads/2021/03/artificial-intelligence-3382507_1920-1024x683-1.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
         "images": null,
         "publishers": null,
         "authors": null

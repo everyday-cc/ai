@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-01-the-factors-driving-demand-for-natural-dental-pet-products.md",
+      "title": "The Factors Driving Demand for Natural Dental Pet Products",
+      "excerpt": "Consumers today are looking for a variety of options to address their pets’ dental health needs, and are increasingly turning to natural and functional solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.petproductnews.com/current-issue/the-factors-driving-demand-for-natural-dental-pet-products/article_983aebe4-38f9-11ec-a61a-07a0065cab3a.html",
+      "originalUrl": "https://www.petproductnews.com/current-issue/the-factors-driving-demand-for-natural-dental-pet-products/article_983aebe4-38f9-11ec-a61a-07a0065cab3a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/petproductnews.com/content/tncms/assets/v3/editorial/5/76/576ebb94-38fa-11ec-abe1-1fab1d0d6f6a/617c5f6824fff.image.jpg?resize=944%2C630",
+          "width": 944,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pet Product News",
+        "domain": "petproductnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-the-station-amazon-reveals-rivian-stake-the-tesla-fsd-saga-continues-and-aurora-snaps-up-a-cig-startup.md",
       "title": "The Station: Amazon reveals Rivian stake, the Tesla FSD saga continues and Aurora snaps up a CIG startup",
       "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello readers: Welcome to The Station, your spooktacular central hub for all past,",
@@ -1313,49 +1356,6 @@
       "provider": {
         "name": "asahi.com",
         "domain": "asahi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-vocal-about-local-can-india-have-its-own-facebook-google.md",
-      "title": "Vocal about local? Can India have its own Facebook & Google?",
-      "excerpt": "(1.87%), Baidu (1.1%), Yandex (0.54% ... It can afford to, simply because they got into the ‘self-reliance’ mode many years before the necessity of doing so finally dawned on us.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-75797074,imgsize-213606,width-1200,height-628,overlay-etbrandequity/vocal-about-local-can-india-have-its-own-facebook-google.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
-      "publishedDateTime": "2021-10-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

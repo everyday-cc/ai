@@ -45,6 +45,22 @@ related:
         width: 627
         height: 353
         isCached: true
+  - title: "Exploring the Impact of Machine Learning and Artificial Intelligence in Drug Development from Discovery to Healthcare"
+    excerpt: "SMi Group reports the 3rd Annual AI in Drug Discovery is set to return to London in March 2022 with a key focus on the opportunities of machine learning and AI in drug development SMi Group is delighted to announce"
+    publishedDateTime: 2021-11-12T18:47:00Z
+    webUrl: "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial"
+    ampWebUrl: "https://www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub12584002_g.jpg"
+        width: 650
+        height: 650
+        isCached: true
   - title: "AI-Driven ITSM is Transforming IT Management"
     excerpt: "Companies that have adopted the ITSM model are finding that AI assists to close tickets faster & empowers customers with rapid self-service."
     publishedDateTime: 2021-11-08T18:11:00Z

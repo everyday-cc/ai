@@ -62,22 +62,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
-  - title: "Bilaspur woman helping Singapore govt on Artificial Intelligence"
-    excerpt: "Kirti Chandel, an electronics and communication engineer from Bilaspur, is helping the Government of Singapore on use of Artificial Intelligence (AI) in its programme ‘Expression of Artificial Intelligence’."
-    publishedDateTime: 2021-11-08T04:48:00Z
-    webUrl: "https://www.tribuneindia.com/news/himachal/bilaspur-woman-helping-singapore-govt-on-artificial-intelligence-335426"
-    ampWebUrl: "https://www.tribuneindia.com/news/himachal/bilaspur-woman-helping-singapore-govt-on-artificial-intelligence-335426"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/himachal/bilaspur-woman-helping-singapore-govt-on-artificial-intelligence-335426"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 57
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/11/Desk/2021_11$largeimg_1832571378.jpeg"
-        width: 660
-        height: 825
-        isCached: true
   - title: "Singapore Launches National Programme for AI in Finance"
     excerpt: "Singapore has committed an additional $180 million to boost AI research as part of its plan to apply the technology to improve financial services"
     publishedDateTime: 2021-11-08T09:15:00Z

@@ -25,22 +25,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "First AI-powered driver evaluation hub launched in Dubai"
-    excerpt: "An Artificial Intelligence-powered simulation device that can better assess driver behaviour has been launched in Dubai. A Dubai-based telematics technology company Location Solutions is launching the Artificial Intelligence Driving Hub in partnership with driving school Excellence Driving Centre."
-    publishedDateTime: 2021-11-08T04:40:00Z
-    webUrl: "https://menafn.com/1103118147/First-AI-powered-driver-evaluation-hub-launched-in-Dubai"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/07/KT_4b128image_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
-
 secured: "NNtP52rcHoLUGTeDsWeLOrH+W3QXS9lJZ5OMmthu3qUQDOkEdNm5E4+c9tFbZ7gvu9JkgxqodxlNDzdnHf5At1nZ//sXh5fSm8HQYLgouPdotnIRjTf2rfyNuPHQvW5fm7Ov/deZfgVv+zaGRE6YebVo74TQe7xwgMFlPZgN77oqU9bGidGMR/nvlxgQg/AjWaUPoDCV0D3deY/6BGC/M7KDcEfIZIDFx7CwFNOaPe4GllZRCVUTI+FkaM8mZixI2LeMtzI3pVxQk9Vkn/h6++czsoW1zOdGeX1ahao3Jf+ZKJaNEWKo3KwAwExNzcP1hz50FgBspExrkPaxu81dI5m0MD0S3QNImZj47OAVh5w0wqXmg/b5xRRmgrDRg6tY8hQglVZtKOuu3ap7gMNZPQHSUkOWMftQYmNeXjOUy589sp7qe2wqe4ru7p60wdNNGY88YK8wev85Z8Q3jnqugmI8XXkAGGST6KjK0rq/HAPc9wnIBm6w4BcQ/F+pO4wIQjst+GCaJFgo2RWKJQ8Dpw==;1Ylu7+m7bfKaAMTMPCDp6Q=="
 ---
 

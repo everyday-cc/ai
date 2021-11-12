@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-03-notable-aims-to-improve-ai-in-health-care-with-new-100m.md",
+      "title": "Notable aims to improve AI in health care with new $100M",
+      "excerpt": "Demand for AI continues to increase as patients expect a digital-first experience due to the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/",
+      "originalUrl": "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/10/shutterstock_710265355-e1634323353526.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/notable-aims-to-improve-ai-in-health-care-with-new-100m/amp/",
+      "publishedDateTime": "2021-11-03T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.md",
       "title": "Oracle bolsters cloud infrastructure with suite of AI tools",
       "excerpt": "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ...",
@@ -1114,49 +1165,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-new-artificial-neural-network-detects-radiographic-sacroiliitis-with-accuracy.md",
-      "title": "New artificial neural network detects radiographic sacroiliitis with accuracy",
-      "excerpt": "New research presented this week at ACR Convergence, the American College of Rheumatology's annual meeting, found that an innovative new artificial neural network can detect radiographic sacroiliitis in patients with suspected axial spondyloarthritis,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/spine.jpg",
-          "width": 2880,
-          "height": 1916,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp",
-      "publishedDateTime": "2021-11-02T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

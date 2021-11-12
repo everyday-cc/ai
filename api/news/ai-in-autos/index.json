@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-13-tesla-owner-claims-first-full-self-driving-beta-crash-in-strange-nthsa-complaint.md",
+      "title": "Tesla owner claims first Full Self-Driving Beta crash in strange NTHSA complaint",
+      "excerpt": "In a National Highway Traffic Safety Administration (NTHSA) complaint, a Tesla Model Y owner claims that he was involved in a crash while using the Full Self-Driving Beta, which would be the first reported FSD Beta accident.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/",
+      "originalUrl": "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/",
+      "publishedDateTime": "2021-11-12T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-self-driving-truck-startup-kodiak-robotics-raises-125m.md",
       "title": "Self-driving truck startup Kodiak Robotics raises $125M",
       "excerpt": "Kodiak Robotics, one of the last privately held autonomous truck outfits in Silicon Valley, has raised $125 million in new capital, funding that will be used to double its workforce as it pursues a path to commercialization.",
@@ -55,21 +107,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-09-tesla-starts-retrofit-program-for-cameras-on-older-vehicles-with-full-self-driving.md",
-      "title": "Tesla starts retrofit program for cameras on older vehicles with ‘Full Self-Driving’",
-      "excerpt": "Tesla has launched a retrofit program for Autopilot cameras on older vehicles with the “Full Self-Driving” package. Starting with the introduction of its Autopilot 2.0 suite of sensors in 2016, Tesla started selling all of its cars with the promise that they have all the hardware necessary to achieve full self-driving capability with future software",
+      "path": "_news/2021-11-09-apple-hires-former-tesla-engineer-to-advance-self-driving-car-efforts.md",
+      "title": "Apple Hires Former Tesla Engineer to Advance Self-Driving Car Efforts",
+      "excerpt": "Apple hired a former Tesla software engineer to advance its efforts to develop a self-driving car, sources told Bloomberg. Christopher “CJ” Moore is the second Tesla alum hired for Apple’s autonomous car endeavors,",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/",
-      "originalUrl": "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/",
+      "webUrl": "https://www.pymnts.com/apple/2021/apple-hires-former-tesla-engineer-to-advance-self-driving-car-efforts/",
+      "originalUrl": "https://www.pymnts.com/apple/2021/apple-hires-former-tesla-engineer-to-advance-self-driving-car-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1095831881-457x274.jpg",
+          "width": 457,
+          "height": 274,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,23 +129,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/",
-      "publishedDateTime": "2021-11-09T07:10:00-08:00",
+      "ampWebUrl": "https://www.pymnts.com/apple/2021/apple-hires-former-tesla-engineer-to-advance-self-driving-car-efforts/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2021/apple-hires-former-tesla-engineer-to-advance-self-driving-car-efforts/amp/",
+      "publishedDateTime": "2021-11-08T11:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1409,49 +1452,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-the-factors-driving-demand-for-natural-dental-pet-products.md",
-      "title": "The Factors Driving Demand for Natural Dental Pet Products",
-      "excerpt": "Consumers today are looking for a variety of options to address their pets’ dental health needs, and are increasingly turning to natural and functional solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.petproductnews.com/current-issue/the-factors-driving-demand-for-natural-dental-pet-products/article_983aebe4-38f9-11ec-a61a-07a0065cab3a.html",
-      "originalUrl": "https://www.petproductnews.com/current-issue/the-factors-driving-demand-for-natural-dental-pet-products/article_983aebe4-38f9-11ec-a61a-07a0065cab3a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/petproductnews.com/content/tncms/assets/v3/editorial/5/76/576ebb94-38fa-11ec-abe1-1fab1d0d6f6a/617c5f6824fff.image.jpg?resize=944%2C630",
-          "width": 944,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pet Product News",
-        "domain": "petproductnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -103,6 +103,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "The Funded: The maker of a dinner plate-sized AI chip raised $250M in new funding"
+    excerpt: "A local chipmaker now has some big bucks to boost its planned global expansion Cerebras Systems Inc., which is developing chips for artificial intelligence, announced Thursday it raised $250 million in Series F funding."
+    publishedDateTime: 2021-11-12T19:28:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/12/the-funded-ai-chipmaker-cerebas-raises-250-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 29
 
 secured: "FjLdignHXlhpsgJksm2Z+7oUNWP4n6mkqAR0y0QePv8x2VncuvLX4dtUyzyobADUI732dN8ABGSbirbjfWCn9rBZiLuVn3j+J3BbSgQCTfNEq6Vlzl0Xd6WTAwwTwsgDbAi4bCk+v87LQm9KipLhGRed526Z/aFLXsLFm71C5c+Vz6TYeqe8hT3GZfrayMVMsIJgT8vtL2y5KM9c9DXUYNo6LiZioTyX0oiUPyh1JxKRItPmiQzQbrD7pmS9sglkXUOIXC6V1VwT6Tch8FbRUyurNNUOddvmW8Gw2nOBg6EbWg2b+6HH4Q+3j9ybrdMEZrLmQ8Q7wAaHIkTmqBPaCHH4ILR34J99eE9HPtON1LTU/8p/ahMV8JejfPa0HtrUxHmJ1GFcLByMaKDyO9OseTjU6jyaqYGN3JwIFEa0SytbbCWJW0/yXaHdYFlKAlyr2UYVefFVqvuuZNDjd127/U4RhVZNCzBLV+pNJ6NeOtYjgTC3T9Pl/fobakgGcEvNNMwvu0Q0qnQtOxXXyncxMQ==;m/l6Qh4qhDCmLNawZtQ0zw=="
 ---

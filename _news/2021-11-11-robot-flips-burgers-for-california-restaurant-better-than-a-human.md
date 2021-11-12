@@ -7,7 +7,7 @@ originalUrl: "https://www.newsweek.com/sponsored/robot-flips-burgers-california-
 webUrl: "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.startupdaily.net/wp-content/uploads/2021/11/h20.ai_Sri_Ambati.jpg"
         width: 765
         height: 522
+        isCached: true
+  - title: "California women veterans fighting for recognition with license plate"
+    excerpt: "California is on the verge of having a license plate dedicated specifically to female veterans. Advocates say it would be more than just symbolism."
+    publishedDateTime: 2021-11-12T20:09:00Z
+    webUrl: "https://www.kpbs.org/news/local/2021/11/12/california-women-veterans-fighting-for-recognition-with-license-plate"
+    type: article
+    provider:
+      name: KPBS
+      domain: kpbs.org
+    quality: 24
+    images:
+      - url: "https://cdn.kpbs.org/dims4/default/19961d9/2147483647/strip/true/crop/546x336+27+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2Fc6%2F2c%2F5c53163744e2bcccb18d2fa604a6%2Fvets-license-loweres.mp4.00_01_36_02.Still001.jpg"
+        width: 880
+        height: 542
         isCached: true
 
 secured: "YKdsqSfbTM/Ci8qEIddDpc84hGknPt2iDmzkZ4E2pbVg8WkYBNUU3fN0iEX/WVDyR3t+hEzYgu/cedNEPiZOc8/OUxQmGgrMUmrrhXuyiYxbiTUqmA8qALCgnLyfa31yqOnrpt05VThz3imcQi6luPWpOYGIQktZ6LerlGv6lZkjDu8vya4bppBOLsRQovI3QpzqDPMAyb/arrWMdt7bRx2+HqU3gGsL2h92i2hZLk0vrTHfpM8XPPVVvS1BEij25C9yKNz/kaT3vm6Y02pqF8OlJptFDgFjq3vwb86qjrPc0jMNkoAHmHaQyHboULOY2aKzDMztmyFY0/+s1o3bfdUQV68ThXHttvORduunHvI=;Rv16nAFjb215IFlrVhlEfQ=="

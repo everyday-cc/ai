@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-11-02-reducing-city-transport-emissions-with-maps-and-ai.md",
+      "title": "Reducing city transport emissions with Maps and AI",
+      "excerpt": "City transportation is crucial to connecting residents to education, employment and essential services. At the same time, the transportation sector is where global greenhouse gas (GHG) emissions are rising the quickest.In 2018, we launched the Environmental Insights Explorer (EIE) in collaboration with",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
+      "originalUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transportation_Blog.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 975,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
+      "publishedDateTime": "2021-11-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-fmr-google-ceo-on-how-artificial-intelligence-will-transform-society.md",
       "title": "Fmr. Google CEO on how artificial intelligence will transform society",
       "excerpt": "Former Google chairman and CEO Eric Schmidt joins 'Squawk Box' to discuss the future of artificial intelligence.",
@@ -442,6 +494,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-02-iron-ox-launches-grover-an-all-new-autonomous-mobile-robot.md",
+      "title": "Iron Ox Launches Grover, an All-New Autonomous Mobile Robot",
+      "excerpt": "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile support robot named Grover. Grover is not your average farmer.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-business-environment-robotics-3def91b570ac36de404ae9d96a9c4645",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-business-environment-robotics-3def91b570ac36de404ae9d96a9c4645",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-reskin-aims-to-give-ai-a-sense-of-touch.md",
       "title": "ReSkin aims to give AI a sense of touch",
       "excerpt": "Humans take the sense of touch for granted, and it’s one of the most important types of input that we get in certain situations. Our sense of touch allows us to do things like feel how we",
@@ -490,49 +585,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-iron-ox-launches-grover-an-all-new-autonomous-mobile-robot.md",
-      "title": "Iron Ox Launches Grover, an All-New Autonomous Mobile Robot",
-      "excerpt": "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iron-ox-launches-grover-an-all-new-autonomous-mobile-robot/article_71adf2cd-8d3c-53ad-8464-7165671fb2b0.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iron-ox-launches-grover-an-all-new-autonomous-mobile-robot/article_71adf2cd-8d3c-53ad-8464-7165671fb2b0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/d6/bd67b53c-8b04-588f-aa35-169a035b1981/61810c7528ccd.image.jpg?resize=800%2C533",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1121,41 +1173,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players.md",
-      "title": "Global Deep Learning in Computer Vision Market Trends Analysis and Future Projections with Top key Players",
-      "excerpt": "this market research report draws attention to key market dynamics of the sector. Deep learning in computer vision market will grow at a rate of 55.65% for the forecast period of 2020 to 2027. Data Bridge Market Research report deep learning in computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://chipdesignmag.com/global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players/",
-      "originalUrl": "https://chipdesignmag.com/global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chip Design",
-        "domain": "chipdesignmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

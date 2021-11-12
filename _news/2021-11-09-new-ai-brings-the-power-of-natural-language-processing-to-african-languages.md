@@ -71,6 +71,20 @@ related:
         width: 696
         height: 452
         isCached: true
+  - title: "New AI Model Works With Wider Variety of Human Languages"
+    excerpt: "Researchers at the University of Waterloo have developed an AI model that enables computers to process a wider variety of human languages. This is an important step forward in the field given how many languages are often left behind in the programming process."
+    publishedDateTime: 2021-11-12T20:01:00Z
+    webUrl: "https://www.unite.ai/new-ai-model-works-with-wider-variety-of-human-languages/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-B-4iniQ8/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/11/africa-15428_1280.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "9vo8WPnAsdQ5nXnu+j/GCaU3PY8t1i9D0qz3y9hKEEloQXZhvXK72bZj+hNzJqeIzUI+AzazyG2r/eKgyrlBl1gS/CXuLFy1uz/uy76BbY1DppCqssF/rqYrdrVlVK8jNJCPY1voVtbzbrb0IUeqfAK91543EgPF/FhSKCCTS6cmlMWxE+tQlpU30rxixKLjksYXOajITvvyMbSMION7oEAwwP9I6cirY+wBM3HJ8BXf4P6j984JlxcopclsDhS2Xr7/ojad5Q6epXpKqT5pXrVyFw0/UU65mJXFaoL5LBG1uZ2mLyqaDBD1T4ImNuD1zhnzoUHKt0qG6UQsvP2qzq1DdWPjruTHT3L66BemlUU=;f1sqQCmycUMmqRr77uAdDw=="
 ---

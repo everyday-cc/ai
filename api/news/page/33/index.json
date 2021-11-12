@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-10-16-researchers-argue-national-ai-research-resource-will-entrench-big-tech.md",
+      "title": "Researchers argue National AI Research Resource will entrench Big Tech",
+      "excerpt": "Artificial intelligence research groups are urging the National AI Research Resource (NAIRR) Task Force to reconsider investing in shared computing and data infrastructure, which they say will subsidize the tech giants that control it rather than democratize access.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/research-groups-nairr-big-tech/",
+      "originalUrl": "https://www.fedscoop.com/research-groups-nairr-big-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
+          "width": 629,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-15T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-7-meme-stocks-that-serious-investors-shouldnt-think-twice-about.md",
       "title": "7 Meme Stocks That Serious Investors Shouldn’t Think Twice About",
       "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
@@ -1135,59 +1178,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-awss-bratin-saha-on-how-sagemaker-is-advancing-machine-learning.md",
-      "title": "AWS’s Bratin Saha on How SageMaker is Advancing Machine Learning",
-      "excerpt": "I spoke with Bratin Saha, VP and General Manager, Machine Learning Services, AWS, about how the cloud has enabled machine learning, and SageMaker’s ability to ease ML deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/awss-bratin-saha-on-how-sagemaker-is-advancing-machine-learning/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/awss-bratin-saha-on-how-sagemaker-is-advancing-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/10/New-eSPEAKS-thumbnail-1.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

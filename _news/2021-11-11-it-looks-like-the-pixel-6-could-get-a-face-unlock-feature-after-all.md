@@ -47,6 +47,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Code, Marketing Materials Suggest Google Planned Face Unlock for Pixel 6"
+    excerpt: "Google originally planned to include a Face Unlock feature in the Pixel 6 smartphone, evidence suggests; and it could still bring it back. The evidences […]"
+    publishedDateTime: 2021-11-12T19:54:00Z
+    webUrl: "https://mobileidworld.com/code-marketing-materials-suggest-google-planned-face-unlock-for-pixel-6/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 40
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/61769640_thumbnail-3-e1459524831733.jpg"
+        width: 800
+        height: 519
+        isCached: true
 
 secured: "g4t9D7Xz/srCAiiO606p1qXcpmWSIfuEM6g9qCrHcrzAZsoMtWNuZ+aj+4tpZh0kq7TDfL90LBvaoRiy2zUT1gNCvltla/eBBs6h7TSsGcc7ktychM3VEsFL0rHqk7fpSAQpD5tBKwEv97HweeaxBy4zF3UBFqz658QSzDNDxY3TXu61WDi77GHGF43q/5HoL9nEPe65gbK3cUE5GPg/ZEGkREdut03TkG6L8VpYJAzwvTAKgjP5TpdYQIGjpM+Iw38ohsNkdZ0Dw4kb69Wq4V7128tcOSyeEgnH0Hi553vWkhGAn5tPPvbuuS0TD91+Ku7wI0LF3upEjW/xnbyv03RCkq677yuPrV4gjVXths8=;2eUKXK/lZWu9pXVonlSSBg=="
 ---

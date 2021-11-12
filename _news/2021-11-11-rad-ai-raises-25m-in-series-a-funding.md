@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-fund
 webUrl: "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-funding.html"
 type: article
 quality: 137
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "The Funded: The maker of a dinner plate-sized AI chip raised $250M in new funding"
+    excerpt: "A local chipmaker now has some big bucks to boost its planned global expansion Cerebras Systems Inc., which is developing chips for artificial intelligence, announced Thursday it raised $250 million in Series F funding."
+    publishedDateTime: 2021-11-12T19:28:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/12/the-funded-ai-chipmaker-cerebas-raises-250-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 29
   - title: "Early Money: 11 Bay Area startups just raised $230M in Series A funds, led by Landing AI's jumbo round"
     excerpt: "AI helped push the total raised by #BayArea startups in #SeriesA rounds over the last week well past the $200 million mark. #venture"
     publishedDateTime: 2021-11-11T16:37:00Z

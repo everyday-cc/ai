@@ -1,24 +1,32 @@
 ---
 category: news
 title: "AI bots to user data: Is there space for rights in the metaverse?"
-excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook’s recent announcement that it is investing heavily in the so-called metaverse – a virtual environment where people can meet,"
-publishedDateTime: 2021-11-12T17:38:00Z
-originalUrl: "https://nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse"
-webUrl: "https://nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse"
-ampWebUrl: "https://nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/wcm/523efdd8-c030-4e9e-be1d-134ad7ca4aed/amp/"
-cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/wcm/523efdd8-c030-4e9e-be1d-134ad7ca4aed/amp/"
+excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory."
+publishedDateTime: 2021-11-12T18:28:00Z
+originalUrl: "https://www.reuters.com/legal/transactional/ai-bots-user-data-is-there-space-rights-metaverse-2021-11-12/"
+webUrl: "https://www.reuters.com/legal/transactional/ai-bots-user-data-is-there-space-rights-metaverse-2021-11-12/"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: National Post
-  domain: nationalpost.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/Fw9oRebOE-1ALKb9_9bR3zByww8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5C3CTFP6H5LIBIKA3LUVT3DZCQ.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Inworld AI joins metaverse innovation with AI-driven virtual characters"
@@ -93,7 +101,16 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "FEATURE-AI bots to user data: Is there space for rights in the metaverse?"
+    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook's recent announcement that it is investing heavily in the so-called metaverse - a virtual environment where people can meet,"
+    publishedDateTime: 2021-11-12T15:35:00Z
+    webUrl: "https://news.trust.org/item/20211112173355-waoeq"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 18
 
-secured: "JlQUIsEocMxOOrGnHl4+NWGOWz/miA+lBixaBeL9qbskhyRkg8S0lBGTI2CujBL+Pv3p+t5EBbYn9i8S36Fh+X3H9IaUI90qL1gZZiqZIdjs2ayFaf6BaekC29mM4lUti/WyuWRYxQXb8wBlkMak79CjKdMt/fcVs6xv+Z+HG8NjqQZNURSoy3ZluBzwrH8UTmFMAyDTd20gvnUXXb/XxZXTcustVPs9IuhWIAoEE8j7vQbwkUK3mcFLLGAhYQT4NCx8Gg78iIGEUjm9WGYuMtE5cnMW+lEUqIKCAP5Rtiv6xUhiS3Hr3o1HMF2j2J2XbFMNV93MNxh13BYpZ3rD6Vi7WN0Lnjbf9xJf461FSXM=;tRNBC/+s23qciIWU0sw9Iw=="
+secured: "BCik4Fqg7+6Idkb+9IWF/TfxrrmEZ4BRrqKv3FDge8AaT5o5ysM96iqBuQeMz47yTe+7SWKu2LIlaEtEZAz/bv5Ao1nbUFr0z8uX47YZAka9nvZOV029ZiLGQQBIfI3S7PpNn9ci1bsuxU9mMdF2uykU/fgPQ9E3NfUki8+VFrDxEX/S9aAuSYWgixe7cHH9eug/QFfxso7CaEy0asAhZ13/nqq3F1tm+990ihuWQ8prVjsxK+j/JWQT6FChyJbJRYgOxbk0WFyZ1YDISYw1P0fux7EyeEWoPVb46GYDXuhVhqdcwC1VUNkWe1xJt1qSvA5s+UOe6OsFuNaFbv6bmyjsg07/r7Z2UKpSIaFVSWw=;ZxKhc6j+nuZ0kJKl6Wv8yA=="
 ---
 

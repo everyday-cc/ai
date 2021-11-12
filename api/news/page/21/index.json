@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-10-26-photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad.md",
+      "title": "Photoshop update brings new Sensei AI features to desktop, Raw camera support to iPad",
+      "excerpt": "Adobe MAX is here, and the company’s most popular editing software is unsurprisingly getting a host of updates for the occasion. The most significant updates are landing on Photoshop for desktop,",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
+      "originalUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/10/Photoshop-update-brings-new-Sensei-AI-features-to-desktop-Raw-camera-support-to-iPad.jpg",
+          "width": 1440,
+          "height": 950,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
+      "publishedDateTime": "2021-10-26T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-adobe-continues-its-ai-push-in-creative-cloud.md",
       "title": "Adobe continues its AI push in Creative Cloud",
       "excerpt": "Over the course of the last few years, Adobe has gone all-in on AI. At its MAX conference this year, that’s once again on full display across updates for virtually all of its products, powered by its Sensei AI platform.",
@@ -1124,58 +1176,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-facebook-knew-about-failed-to-police-abusive-content-globally-documents.md",
-      "title": "Facebook knew about, failed to police, abusive content globally - documents",
-      "excerpt": "The company lacks AI systems to detect abusive ... a minimum number of content moderators for any language offered on the platform. LOST IN TRANSLATION Facebook's users are a powerful resource ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/facebook-knew-about-failed-police-abusive-content-globally-documents-2021-10-25/",
-      "originalUrl": "https://www.reuters.com/technology/facebook-knew-about-failed-police-abusive-content-globally-documents-2021-10-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/RUYmrrHpVC6nModFrl3Op9gHkcc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DLBA2LZN6JOU5GTWVQYKN7YQPY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

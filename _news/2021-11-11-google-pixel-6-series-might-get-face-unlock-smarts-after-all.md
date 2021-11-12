@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/amp/google-pixel-6-face-unlock-3056
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/0432b222a9e429d8ea7f0fc88bd53a11.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Code, Marketing Materials Suggest Google Planned Face Unlock for Pixel 6"
+    excerpt: "Google originally planned to include a Face Unlock feature in the Pixel 6 smartphone, evidence suggests; and it could still bring it back. The evidences […]"
+    publishedDateTime: 2021-11-12T19:54:00Z
+    webUrl: "https://mobileidworld.com/code-marketing-materials-suggest-google-planned-face-unlock-for-pixel-6/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 40
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/61769640_thumbnail-3-e1459524831733.jpg"
+        width: 800
+        height: 519
         isCached: true
 
 secured: "4VDDs50JHzM8C1hz2l9HH29c4lwyRRYaMEErpOXkiOanrGk3RRhC6Nvf00dReiM/F+5V/3/J/kvMC0r3PHxtGB60OaXvsPClZXM3uST72I+d/YlDhomcx4DFemawS5NRAS7eSyyEXS6nOmPjq6PtSsHPR+typj5Yfn9oLYIxmZESaneD4R5HldxQuQjoIB0xXsPuXUmSBlavr+/X8hx1ViW1fhaITLHJz3D7wggE7Q5fuaAORscaJSC8Wqb2Y6q/+hLGkRfpxJC2IF3sOQSLMreydT4A8MPvMoYZNFZXaAm5CWRHk0FlwjH+k1i7d5Zji6LWeMJUtzaMahj6QZulec7yr21Ov3I0H1H85H4AIkg=;EVYkTS+pZmDGzjvnZWiv3Q=="

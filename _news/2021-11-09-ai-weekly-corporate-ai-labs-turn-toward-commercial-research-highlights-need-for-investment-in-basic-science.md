@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/11/08/ai-weekly-corporate-ai-labs-turn-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/ai-weekly-corporate-ai-labs-turn-toward-commercial-research-highlights-need-for-investment-in-basic-science/amp/"
 type: article
 quality: 72
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,24 @@ images:
     width: 1198
     height: 600
     isCached: true
+
+related:
+  - title: "AI Weekly: Workplace surveillance algorithms need to be regulated before it’s too late"
+    excerpt: "A growing number of companies are using potentially flawed, invasive workplace monitoring algorithms -- with little oversight."
+    publishedDateTime: 2021-11-12T20:30:00Z
+    webUrl: "https://venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/"
+    ampWebUrl: "https://venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1092756998-e1636570502724.jpg?fit=800%2C534&strip=all"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "mHcRgXKQr5YPn4fnxKmrw7Kv2H8u5NhTiQuGCbFxp54S3wMm4ZiQprLQz/60hElxIgogePbuphBu9OeNVwcvNbnL2xPrcdfJfBKkX+osFfIFCicO57cJB7bKSmhtBrXAL+HV7WRJP8fgO+7vpkap49ICTKwEPsFeNtkS5yri+UzkkxqtYHyIoAhLnXooTHbmT1fDp7TqTvbnVpSZv4uQ0KsuYT4hDjEkD02ey5cLBiS4KGwSm5XEL9rcpbn1Z7euyskkSM2tMQksr37V00ONjq8kwz9zsisGxf5aqPzsKPVXD/1kRErEFEHuSs2zFsuKq8joplqPGUUBtXRA87j2t0n/26JECPWhueIWOGNFnAWmpfWwNMtVJ8W+qicBqO7/gmzJSjji73zgl9KYA8gRYpKwUVvFyWyUGn/n80cBawYbRK5wh/yqJ6ZB1mQxh//5P6NNCQLyVLoCTsw7mRPYyH5Ji7TNRQOTgcEnmiEtMi35c6my3bpNIVwCDjQNC3/bBCnTlRKfofL0OgCBPcZNxA==;rYMHQ6s8RhZCnwlgVOfvJw=="
 ---

@@ -2,6 +2,58 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2021-09-10-communism-and-sitcoms-inspire-ai-ethics-at-salesforce.md",
+      "title": "Communism and sitcoms inspire AI ethics at Salesforce",
+      "excerpt": "Salesforce VP Yakaira Núñez's experiences taught her that it's important to consider your non-target audience in your AI roadmap.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/",
+      "originalUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Women-in-AI-Awards-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/",
+      "publishedDateTime": "2021-09-10T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power.md",
       "title": "Why The Next Big AI Accuracy Breakthrough Won’t Come From Algorithms Or Computing Power",
       "excerpt": "Just as we swung from championing algorithms to data to infrastructure, we'll shift our focus back to data — more specifically, acquiring the right data.",
@@ -1100,48 +1152,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-microscopy-plus-ai-equals-rapid-covid-19-detection-study.md",
-      "title": "Microscopy plus AI equals rapid COVID-19 detection: study",
-      "excerpt": "Beckman researchers paired microscopy with artificial intelligence to develop a COVID-19 test that's fast, accurate, and cost-effective. All we need to do is say \"ahh.\"",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.html",
-      "originalUrl": "https://phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/microscopy-plus-ai-equ.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.amp",
-      "publishedDateTime": "2021-09-09T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

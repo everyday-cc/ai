@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI bots to user data: Is there space for rights in the metaverse?"
+    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory."
+    publishedDateTime: 2021-11-12T18:28:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/ai-bots-user-data-is-there-space-rights-metaverse-2021-11-12/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/Fw9oRebOE-1ALKb9_9bR3zByww8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5C3CTFP6H5LIBIKA3LUVT3DZCQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "WAYZ.AI CEO Dr. Tao: Spatio-Temporal AI Energizes Digital Twin and Metaverse"
     excerpt: "As the first Keynote of the conference, Former Director of Microsoft Virtual Earth, Founder and CEO of WAYZ.AI, Dr. Vincent Tao, presented the WAYZ.AI innovation on Spatio-Temporal AI (ST-AI) technology and its applications to Digital Twin and Metaverse."
     publishedDateTime: 2021-11-12T06:52:00Z
@@ -55,17 +69,6 @@ related:
         width: 326
         height: 400
         isCached: true
-  - title: "AI bots to user data: Is there space for rights in the metaverse?"
-    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook’s recent announcement that it is investing heavily in the so-called metaverse – a virtual environment where people can meet,"
-    publishedDateTime: 2021-11-12T17:38:00Z
-    webUrl: "https://nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse"
-    ampWebUrl: "https://nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/wcm/523efdd8-c030-4e9e-be1d-134ad7ca4aed/amp/"
-    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/wcm/523efdd8-c030-4e9e-be1d-134ad7ca4aed/amp/"
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 39
   - title: "Artificial intelligence faces the real world"
     excerpt: "Nation states and big tech firms the size of states are in an artificial intelligence land-grab. What does it mean for the future of the industry?"
     publishedDateTime: 2021-11-12T12:46:00Z
@@ -94,6 +97,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "FEATURE-AI bots to user data: Is there space for rights in the metaverse?"
+    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook's recent announcement that it is investing heavily in the so-called metaverse - a virtual environment where people can meet,"
+    publishedDateTime: 2021-11-12T15:35:00Z
+    webUrl: "https://news.trust.org/item/20211112173355-waoeq"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 18
 
 secured: "DyqoQ0Ki4+bVYnDgajr19kQGKG8otHJxozaprN77ivWquYALD7sK88VrWrKAhJq9zzZf6G153O0Bq06m6F9rsYyjAMDXyAExA1V3Q2XGs/jsUgeogZXSFGxsnww15STbyE6ym5XAzJeBESm5Nj1/IOPmIzRoxKATNYyOJBn9vaJpGK6WvUTU07dTt1MFih7ArBV9WbVLs+Lhs70KCt4AJfLA/PMrbN6rJYQFIL0LDzMzzRdsUpGPvnycOwaLy7Vz4cpJUrPguPUObU6WLG9gdxarTwoAwFkE0zcTLekzi6KCX71ZN+LyvXDtjkADoASKL0lsd1w7VnTjn3s/ioLpDjNhks4QNgkgAqi6sdCwpXk0V0bx4fYV4PkFq+tMA+nMid+UBHbb3i3o4f19iUED+LaWyu5NvzmOUWhhdUGJSfEcinm35xPHtFJ/dDyYV5IbYAnIWxnVxI776nXfT9pDJzkBuXZokTTVMDt0Nz2q/HWewioRBnMtvnCWVIM3jo52qGLhVh+3nNVRYUMrJiXnbA==;5yHJjrGrqWHTbSWJ3fUPuw=="
 ---

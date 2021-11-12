@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "California women veterans fighting for recognition with license plate"
+    excerpt: "California is on the verge of having a license plate dedicated specifically to female veterans. Advocates say it would be more than just symbolism."
+    publishedDateTime: 2021-11-12T20:09:00Z
+    webUrl: "https://www.kpbs.org/news/local/2021/11/12/california-women-veterans-fighting-for-recognition-with-license-plate"
+    type: article
+    provider:
+      name: KPBS
+      domain: kpbs.org
+    quality: 24
+    images:
+      - url: "https://cdn.kpbs.org/dims4/default/19961d9/2147483647/strip/true/crop/546x336+27+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2Fc6%2F2c%2F5c53163744e2bcccb18d2fa604a6%2Fvets-license-loweres.mp4.00_01_36_02.Still001.jpg"
+        width: 880
+        height: 542
+        isCached: true
 
 secured: "LX8Jn/aeIVe28m4qVYk1ogCm/PJc42RZIDxjK3p0vRk9hpltfMqsfDZNiU4qANWrSWV5aqWcYsU9pIFMwdwTc4chRtLb07mf9Bgvfn/kHPLLHPDUJyF9Jo2+JJZAFDgB3E5lkju2d94y1U6IOCmLCmGyo6WI76uphL1Evyp5OjUfZBp0qffugHCCyGyTROl8DWpRzHSUlJhni3EhYKmdsEEPA/luIxRq4lVTcvrk9wnz5+nNz9BG8YnTwJJLRRl2E6AOqbB70SALqYxJ/y+GukG820ZMx2UmOc8b8yOL/2eYjfz02Dn3PGlZ98syexhhdimaD+p2Xfxtj+U30VeZXXu7nhcDr5/ncyJuD5oUxSE=;qBcZsAvx9MKaGwgHI0dG+g=="
 ---

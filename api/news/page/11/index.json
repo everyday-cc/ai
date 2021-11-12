@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-11-03-new-artificial-neural-network-detects-radiographic-sacroiliitis-with-accuracy.md",
+      "title": "New artificial neural network detects radiographic sacroiliitis with accuracy",
+      "excerpt": "New research presented this week at ACR Convergence, the American College of Rheumatology's annual meeting, found that an innovative new artificial neural network can detect radiographic sacroiliitis in patients with suspected axial spondyloarthritis,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/spine.jpg",
+          "width": 2880,
+          "height": 1916,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp",
+      "publishedDateTime": "2021-11-02T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-new-study-uses-artificial-intelligence-to-detect-colorectal-cancer.md",
       "title": "New study uses artificial intelligence to detect colorectal cancer",
       "excerpt": "A Tulane University researcher has found that artificial intelligence can accurately detect and diagnose colorectal cancer from tissue scans as well or better than pathologists, according to a new study in the journal Nature Communications.",
@@ -1145,58 +1188,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-reducing-city-transport-emissions-with-maps-and-ai.md",
-      "title": "Reducing city transport emissions with Maps and AI",
-      "excerpt": "City transportation is crucial to connecting residents to education, employment and essential services. At the same time, the transportation sector is where global greenhouse gas (GHG) emissions are rising the quickest.In 2018, we launched the Environmental Insights Explorer (EIE) in collaboration with",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
-      "originalUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transportation_Blog.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 975,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
-      "publishedDateTime": "2021-11-02T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],
