@@ -57,6 +57,20 @@ related:
         width: 376
         height: 250
         isCached: true
+  - title: "Syfe's Dhruv Arora and Samantha Horton Wins Top Accolades at the 2021 Singapore FinTech Festival Global FinTech Awards"
+    excerpt: "Founder and CEO of Syfe, Dhruv Arora, and Samantha Horton, VP of Business Development, secured the awards for Top 10 FinTech Leaders and Women in FinTech respectively Organised by the Singapore FinTech Association in collaboration with the MAS,"
+    publishedDateTime: 2021-11-12T15:07:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=565872"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
 secured: "uHGCFJ9V3wWh9Pco6GMsAWfB62kiDa+c3pMCSt9OCHY7wsWxtuSEnNOs85ZYgyYx3+ac2v+wAgh/MMHEzVE+wEE3KGzCmy2jMpbn3nFDSLXE7D3cs4FQdoV7uB2mjez73MixrHmoq644Zd0AABO5mIyW+lRIv8TeS0sbsc7Osjx0CxyQMgnMXVlfyH4FvRK9ARTiUaz5jTk8wvmuTTOKhtAy8FkSelbDr5x2+tf8JH9mOT/LY3bd/Nw+oMZKj8VzDZ5r4BOfLTdsqtFKiCC9d7KD9WNmAu5lZJQTwd/vOMfCu13/mov4y7U9JGUibDu4eBgZ7skbjOykC9nHasUVHVuI9QU1vvjnCYsNcUBymfNWjFofu8fWSC9+JifgdMd5Oqa5S2VBsqgfNAHOZTXBsque2mmLZL+IvkNVi0zMVJzbYOklBwNWjoijrReGMNTzWHLFQHhjycejLx/u14drs3w6RKt3iaBFxSgEKju62U+NZ5D2dCfCxfel3l8DpFCwcCw3Gf20RTO4qoRxVblImQ==;6Jq6Qks9T9r4tygqeSHk6A=="
 ---

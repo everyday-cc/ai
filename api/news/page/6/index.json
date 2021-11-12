@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-08-indian-ai-market-to-reach-soaring-heights-by-2025.md",
+      "title": "Indian AI market to reach soaring heights by 2025",
+      "excerpt": "CIOs looking to keep pace with their competitors will need to up their spending on AI in the coming years. IDC forecasts that businesses will adopt it to address organizational needs such as real-time analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.html",
+      "originalUrl": "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/08/thinkstockphotos-99261890-100609753-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.amp.html",
+      "publishedDateTime": "2021-11-07T16:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027.md",
       "title": "Global Artificial Intelligence Robotics Market Report Shows Demand to Boost Industry Growth from 2021 to 2027",
       "excerpt": "With this report titled Global Artificial Intelligence Robotics Market 2021-2027, research analysts of MarketsandResearch.biz help us to present our clients with insightful data on the investment or growth opportunities in the industry.",
@@ -1144,49 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits.md",
-      "title": "Artificial Intelligence Bot Has Turned Racist And Homophobic After Copying Human Traits",
-      "excerpt": "As technology advances, many of us have wondered what life might be like if major decisions were made by AI robots rather than by flawed, easy influenced human beings. Surely the cold synthetic mind would cut through problems with far greater ease than we emotional mortals,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/",
-      "originalUrl": "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F11%2FRacist_AI.jpg",
-          "width": 1200,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/amp/",
-      "cdnAmpWebUrl": "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/amp/",
-      "publishedDateTime": "2021-11-05T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNILAD",
-        "domain": "unilad.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

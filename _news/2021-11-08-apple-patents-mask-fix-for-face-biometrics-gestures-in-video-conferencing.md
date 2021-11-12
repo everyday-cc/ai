@@ -53,6 +53,20 @@ related:
         width: 1536
         height: 1025
         isCached: true
+  - title: "Take the shine and target off face biometrics, say researchers"
+    excerpt: "If held to the same standards as every other identification tool, use of face biometrics can add to the number of solved crimes with minimal collateral harms."
+    publishedDateTime: 2021-11-12T16:13:00Z
+    webUrl: "https://www.biometricupdate.com/202111/take-the-shine-and-target-off-face-biometrics-say-researchers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
+        width: 1640
+        height: 800
+        isCached: true
 
 secured: "l0douLXlrAX02dV+ADfQKhiCF1BwxOEMfWkIedmXg+H48LWwHHw07gLaP7UdymTYJQkIrvt9DEfEQ5opyP0+2PQkLjCpzJk9Zv0TrvLBZIJ4WwnSD6TK4oic+kqfsH0owtIEgIQcL4vyv8io1IBMlCCsV35buBDKuNrnKvvezhTpP+EoO9pqRruZoO6tmiJ6uBvVLbDTl5QaQfFKt/KXSI/vhlRUpqKebonQ9/cnOUIR4lQ9ND+XcGCztBlTWW1MmIMwaWgOB4/7LKS2fhmNbmxA33Vv2V0vI0i02q0EBQRmuqIwSzqqrOHxiSFIv/XeFC+VYUvUUO4fqtDBmORIz4PQ943PHXLNLwRdqTat3Zc=;mmbrFKBWP0jV0VJUBVDPuA=="
 ---

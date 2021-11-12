@@ -40,20 +40,6 @@ related:
         width: 1296
         height: 737
         isCached: true
-  - title: "How Artificial Intelligence Will Transform Business"
-    excerpt: "\"Artificial intelligence\" is a broad and general term ... \"AI is starting to make what was once considered impossible possible, like driverless cars,\" said Russell Glenister, CEO and founder ..."
-    publishedDateTime: 2021-11-08T00:00:00Z
-    webUrl: "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html"
-    type: article
-    provider:
-      name: Business News Daily
-      domain: businessnewsdaily.com
-    quality: 39
-    images:
-      - url: "https://www.business.com/images/content/5ca/3d0715a215e8a458b6a82/1500-0-"
-        width: 1000
-        height: 567
-        isCached: true
   - title: "The 7 new business values in the era of Artificial Intelligence"
     excerpt: "Although Artificial Intelligence (AI) is a technology that has existed for more than sixty years, today, thanks to greater computing power, the applications of this field of information technology have had a direct impact on the spine of companies."
     publishedDateTime: 2021-11-10T21:42:00Z

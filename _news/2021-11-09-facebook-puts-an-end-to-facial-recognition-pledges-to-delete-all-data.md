@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-fac
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "http://cdn.maltatoday.com.mt/ui_frontend/thumbnail/684/400/frances_haugen_facebook.jpg"
         width: 684
         height: 400
+        isCached: true
+  - title: "As Facebook Joins the Race to the Metaverse, Chinese Tech Companies Face Hurdles"
+    excerpt: "Facebook will be changing its name to Meta Platforms Inc., Chinese tech giants scrambled to stake their positions in the space—despite stern warnings about the metaverse from Chinese regulators.  The metaverse refers to a hypothesized next iteration of the internet consisting of online 3-D virtual environments that people can access through virtual reality headsets,"
+    publishedDateTime: 2021-11-12T14:57:00Z
+    webUrl: "https://www.lawfareblog.com/facebook-joins-race-metaverse-chinese-tech-companies-face-hurdles"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 19
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/51643294031_c2fa4424b7_k.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "m3c7zO33IAWp9gBDYUnvAGPo6QFKSHzKQNZct55HCxNXR4gLBsluzxZkKIl4o/OhulbRKsU+ch2kRLYEI9QIL4CzylcWq9KzcmyQ7VqcsQTKikyhdHTi8yMJi7d7/Woa0NrQZKUWqMb4zPHZSuT9r6yM18R9h6o8RWJJiF4+7gk38oWaDZR2GJPW66X81AWQ9cPDncPKlp+vJdIGhiXEtOwNrHuUnhxt44Avc5G8tDKuWKHY0YWbSeMYScI3cTLipoHYRxNzKnMPOWIGND93K6Vt8x4soUPKj5ADEUmPRaJIQrCMn0OefliY+X3EojfVG/3sfezZQKesHxetAd79ND8QnXxuWgyLXAXkUJhLmvMwp+HHFQKeaRiVFnBuHXc4D0k9AcIjekj4BeeRayx7Qt//d9VdzOLCo1SseB84NTWjpprQBL3/uQXMq+ktWaGXHxx4x5CKIfS4hKNgNNDLgiY0OIuo04uYL98YzI3LEzjRefK0RydevwkwlaeK79Ex8l5O5I8IzXNhs9ztqozk1A==;Ejl397Q44K3rZVxU3Ty2lQ=="

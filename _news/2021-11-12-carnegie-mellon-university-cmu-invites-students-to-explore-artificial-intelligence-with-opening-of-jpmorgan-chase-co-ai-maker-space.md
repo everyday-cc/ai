@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-12T08:37:00Z
 originalUrl: "https://indiaeducationdiary.in/carnegie-mellon-university-cmu-invites-students-to-explore-artificial-intelligence-with-opening-of-jpmorgan-chase-co-ai-maker-space/"
 webUrl: "https://www.cmu.edu/news/stories/archives/2021/november/jp-morgan-ai-maker-space.html"
 type: article
-quality: 120
-heat: 120
+quality: 122
+heat: 122
 published: true
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "http://www.cmu.edu/news/stories/archives/2021/november/images/jp-morgan-ai-maker-space-900x600-02-min.jpg"
@@ -23,6 +24,6 @@ images:
     height: 600
     isCached: true
 
-secured: "DaFZ8rH2ujRnOcCRisn3gYmlH91GAAoDOfRtTSZxQvlO/hfddBMB05qnPITm2cXuIIku68ri33prnGwa5tBV2uhCLrTgsDl1Nxc9cufnqo6rgn9jzsiSlOWAthZExSRVL2NjZKKLMVtV1gI0onL1qf1lS8iWST0e+JKhvNbGANQVzouOI5eURzZ6qARHn19J3rZMk6ADPwnX2BoATUWnP8OTqmOORtzqUp8Xlh3pSPcAAvWBySv5ybr72Jlo+5b0yHWux7O1Qe/Eakc2vWDmAFAPFReOAm0k4GG6jIjtZwFchOswEcM1qNtf7Z7/7mBgxiuid8HQnu4inwaUSfn8lQrZyx38mBLjy51F8F548q0=;6OaibuAbCRB9GLPwCPUBNg=="
+secured: "mRYR+8Tded+dZXa5YFszDz4NCBwKwEMPgnVDrkpxIwyopNKZe14gGtWU1GDrV3ns20SIvHOLvQAezUjN329KOEQWgoMLuYcjyMrSMhUbYQhQmcqaLfOzHo7qmNU79jc398O7TUBdQy5tuF3K4sBkXzoi+g5uj3p040lb4xoEU6UnuPyZ7yb2958m+glBu7oQl9hwZfmmrw22NIPMGQ2gIdmVSqR9aXVwXQ7UbnYtJLlVIIES/q9bRahTpZqmQkPt6A/1+kwdYpe4SPhQY5A80BbnYAlF8EJTnda+MAjQZK9pQNabFSYuHsdTvG1p/fbOOxuIIiLtipTk+m8ZiW4A/iaMsh6aN//2HH4IUpEyUqjxucxeWULid8zC9Ej0y53O9X7TR81UTpHD0n02O8iKmjeHgiW2cBG52nulokp8TTCSHLtRdFSJmB5wGi1sxQ6UElVVLb0iwgb90tuSQt8iMDwmdXrzlr1fRe5arMxmh3A21eY+ojHk08B2z+vSYRQIFEu3Qu+baNBVYNKXBOT6sbMOcbfiirx5xsLouUFn5CU=;wnTWhKfGBPZ21BB7sN+YUg=="
 ---
 

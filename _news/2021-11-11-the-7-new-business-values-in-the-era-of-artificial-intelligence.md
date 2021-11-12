@@ -52,20 +52,6 @@ related:
         width: 1296
         height: 737
         isCached: true
-  - title: "How Artificial Intelligence Will Transform Business"
-    excerpt: "\"Artificial intelligence\" is a broad and general term ... \"AI is starting to make what was once considered impossible possible, like driverless cars,\" said Russell Glenister, CEO and founder ..."
-    publishedDateTime: 2021-11-08T00:00:00Z
-    webUrl: "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html"
-    type: article
-    provider:
-      name: Business News Daily
-      domain: businessnewsdaily.com
-    quality: 39
-    images:
-      - url: "https://www.business.com/images/content/5ca/3d0715a215e8a458b6a82/1500-0-"
-        width: 1000
-        height: 567
-        isCached: true
 
 secured: "r+iJvePJENJJUkVhfCPD4mc4xWGHJ/Fc+KQPZ+CZ51AIe4shE5b5GEW4pQVESFJxZAtqUTxknYDml7Cv9dLWC+dMWAjtdIOJB9VC0/Fqa94uStWBhQsxkbYnppJtBC2huLzE3vxoqz0NZISYXrCOxMVyRIDOsIaUNmN7W79DwB6bljjOOuK+nVBdXneZCM0dOx4xS8JXkBmMV9jcHzb16m9ae3jcC0/pIPg+lFxadzJJ0yM+3YPiTOZR0ltFuIVEeAm7xBRqpz3wjFFXNj0ReWL3LKoNOpy7wv7G8+fYxXcegIa2Zl9jPgLZOVi0TCorOPKYPSUejWD8QH8TECZI66/CjfADJJQNgMc2uwHdUo1gLmtvrjm7YhL4K1fp0Bn7F+CAO70OoCABU9G/yyt3zJSPH/btttwMQ6PCpaUtB1qmPZJUcQ3ogdj7iIXWqRS24+U4R58i12aq4CSny6a9vT2/7ed4d739FsmA3hxP2bwvtVaEQHrnSWRX6eP/7hHLMGxzPH0wMtrflfwjZF6Bbw==;Hbc7R+09K+RBdqPJjZMn0Q=="
 ---

@@ -88,6 +88,20 @@ related:
         width: 684
         height: 400
         isCached: true
+  - title: "As Facebook Joins the Race to the Metaverse, Chinese Tech Companies Face Hurdles"
+    excerpt: "Facebook will be changing its name to Meta Platforms Inc., Chinese tech giants scrambled to stake their positions in the space—despite stern warnings about the metaverse from Chinese regulators.  The metaverse refers to a hypothesized next iteration of the internet consisting of online 3-D virtual environments that people can access through virtual reality headsets,"
+    publishedDateTime: 2021-11-12T14:57:00Z
+    webUrl: "https://www.lawfareblog.com/facebook-joins-race-metaverse-chinese-tech-companies-face-hurdles"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 19
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/51643294031_c2fa4424b7_k.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "9SdJFSWbSPq0iiKUHOSu1mE3NNd6RpMleSRVYtfKttbj+WCBbe7Osiy042ZuBdhLrpzee47J6rmB+3lsa38YakGPF60XgnZNi79LotzaFP+EE82oHEJ4PhwkkwHdIXD+91EmP13YeyGoMO2/VB4gQ5UJLDaX++g5VNn4VUHRVm3l1wMUnJmsUQzMr/erXxvPGbjZ70J4q9KqCZiFDqveY1PYENjuvynIDi/Ib8v59nK/zWVcUU9aVaEHMypG3A8X7eOVtNZmtmTHNkbegxpyfzfChEmGIWRmfaElDgWrx9vsWFNrYvxBTyPZeShOU75Jw9jRO2xpWfCBGih5MeP2nvVSckiSgobhb3Kf89zZBMXmE4BVSOOPgjPrHQ4T8GTjbHyn3nGuVIzjVZOus5OIFcDJpzFDPn8UDN2/8nH2qaHxm6AQmuXiR2fAB1mIOzOU+GdsfhI4FlpcsEBhYEkj2y5NIIPjPLop3N1QnZijF8NQvZ2znUTHecqb37ikDsy3hiJA6mOituO2Jenf7ZcAbg==;LS9sH+en3A3BOaC7sD6lSQ=="
 ---

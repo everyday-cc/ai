@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/90231/the-lhoft-foundation-s
 webUrl: "https://www.finextra.com/pressarticle/90231/the-lhoft-foundation-selects-10-fintech-startups-for-accelerator-programme"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "10 fintech startups selected for accelerator programme"
+    excerpt: "The LHoFT Foundation has announced the 10 Fintech startups selected to take part in the Fall 2021 digital edition of Catapult: Kickstarter"
+    publishedDateTime: 2021-11-12T15:54:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/10-fintech-startups-selected-accelerator-programme"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1179477379%20%281%29.jpg.png?itok=pxuGhdJR"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "20 Startups Selected for UC Berkeley's Highly Competitive SkyDeck Global Startup Accelerator Program"
     excerpt: "BERKELEY, CA /  / November 2, 2021 / UC Berkeley SkyDeck, the startup accelerator of the University of California at Berkeley (UC Berkeley), today announces it has selected 20 companies from across the globe for its Batch 13 startup cohort."
     publishedDateTime: 2021-11-12T04:22:00Z

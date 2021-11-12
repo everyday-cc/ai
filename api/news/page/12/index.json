@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-11-02-robot-food-delivery-coming-soon-to-a-campus-near-you.md",
+      "title": "Robot food delivery, coming soon to a campus near you",
+      "excerpt": "Robots navigate the Bowling Green State University campus in Bowling Green, Ohio on Thursday, Oct. 13, 2021. Robot food delivery is no longer the stuff of science fiction. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/",
+      "originalUrl": "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2021/11/Starship_Robot_AP_Asset_ID_19957182.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1",
+      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1",
+      "publishedDateTime": "2021-11-02T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-ibm-research-and-neureality-announce-partnership-for-ai.md",
       "title": "IBM Research and NeuReality Announce Partnership For AI",
       "excerpt": "IBM (NYSE: IBM) and NeuReality, an Israeli AI systems and semiconductor company, have signed an agreement to develop the next generation of high-performance AI inference platforms that will deliver disruptive cost and power consumption improvements for deep learning use cases.",
@@ -1113,58 +1156,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars.md",
-      "title": "Dump Truck Accident Pours Liquid Asphalt From Overpass Onto Vehicles Below, Providing Lessons For AI Self-Driving Cars",
-      "excerpt": "The recent news report about a dump truck that inadvertently spewed hot asphalt from an overpass onto a freeway is closely examined, and lessons for AI-based self-driving cars are gleaned from the harrowing event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d133c17070cc69341f362d%2F0x0.jpg%3FcropX1%3D344%26cropX2%3D1919%26cropY1%3D21%26cropY2%3D1203",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-11-01T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

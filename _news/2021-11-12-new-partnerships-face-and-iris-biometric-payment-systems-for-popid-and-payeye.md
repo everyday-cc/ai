@@ -42,16 +42,19 @@ related:
         height: 274
         isCached: true
   - title: "PopID and SoftBank's Japan Computer Vision Partner to Launch PopPay In Japan"
-    excerpt: "Wendy's First Kitchen is First QSR Chain in Japan to Accept Face Pay PopID, Japan Computer Vision (\"JCV\", a subsidiary of SoftBank Corp), and Wendy's First Kitchen (\"WFK\") announced today the ..."
-    publishedDateTime: 2021-11-09T04:26:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23972605"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23972605"
+    excerpt: "PopID, Japan Computer Vision (\"JCV\", a subsidiary of SoftBank Corp), and Wendy's First Kitchen (\"WFK\") announced today the launch of PopPay - PopID's face-recognition-based ordering and payment ..."
+    publishedDateTime: 2021-11-09T04:30:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan/article_94bf4388-ebf6-51f7-a74b-474319661b56.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: The Bakersfield Californian
+      domain: bakersfield.com
     quality: 36
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EB6aQv/k6JqnG/GSOk//n/mm+kA/aE7DyvAtwl6MdXp7KO5yTIuDRQBjFjEusC+do9AwF820S2kKrurMlVfFLyPA4TCL18ba9OnE5ChIcGjlB4qQHOGZhzzRdnAcRvSaWHyhRZaK1GfXRMzRsHTPQAwsLwLcOD/bxnj1G0XdKob55P4hPlpCm+U0+l9nKBulXhf6/XXzYuSK8vVASqfERs+nvlGPQcjM6jvOsiqboxcImwObzu404qRZi/MxmK47MPblKNtt4KRYI7XW+w2bQAylFIfa+GRnnMWwizccF9KoYwlANLha18Q6FtedonM75o2NxW7DMDjwpPfzSOzIjJcJ+Tgqod8bzJeE0P6/Qz4=;KPoX35ST3wkYLIOK3jLLBw=="
 ---

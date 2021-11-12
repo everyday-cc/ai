@@ -72,6 +72,22 @@ related:
         width: 1360
         height: 1020
         isCached: true
+  - title: "Toch.ai launches INR 100 crore Startup Fund to invest in video and audio tech start-ups"
+    excerpt: "Mumbai: Toch.ai, an AI-driven SaaS platform for digital content players today launched INR 100 crore Startup Fund to invest in video & audio tech start-ups globally over a period of time.The fund aims"
+    publishedDateTime: 2021-11-12T11:15:00Z
+    webUrl: "https://indiaeducationdiary.in/toch-ai-launches-inr-100-crore-startup-fund-to-invest-in-video-and-audio-tech-start-ups/"
+    ampWebUrl: "https://indiaeducationdiary.in/toch-ai-launches-inr-100-crore-startup-fund-to-invest-in-video-and-audio-tech-start-ups/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/toch-ai-launches-inr-100-crore-startup-fund-to-invest-in-video-and-audio-tech-start-ups/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 49
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
 
 secured: "i++gWHTs1e0pQtB4yRbOeMmjxGiQAchbrYxpG3Ub6NzxMSLGHbw9oJ3TOxqISEtfp8gmPeyPHAnnY5BWWFj+0OzSaBFJnMc/Whx6mxTraIpbAWbsAHvZsqFRz7H6sMFnSMGpIqbYcnHwPOhpYqoDrPzHISQXORsqJUNRvJy5PGS3NeWgNZ3jcSwN80WqpSkXb9mXxsJ6qgeOqB/dLeo3XAdY7bxOhlG/cDFjZ67xWNm71BxL/pVRLmroB5jUAkAX2xXoE5MY+s9p7bhnewNBjrMIwcKZmBYom+ntMHNfwkhv8mfPEtt/sbiwSg9rfNF8JwnOwnJVEekAmilFU1LI6GsDY6KjYK645QR9epVzf+I=;MPGtEe4FzYqzgTokGgWXeA=="
 ---

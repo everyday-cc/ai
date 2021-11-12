@@ -2,6 +2,49 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-09-15-china-roundup-softbank-leads-200m-round-of-robotics-company.md",
+      "title": "China roundup: SoftBank leads $200m round of robotics company",
+      "excerpt": "Foxconn has also put its electric vehicle collaboration with Byton on hold, while JD.com is set to open its first offline shopping center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/china-roundup-keenon-series-d-funding",
+      "originalUrl": "https://www.techinasia.com/china-roundup-keenon-series-d-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences.md",
       "title": "Former BigHand Head of Product joins Wilson Allen as Director of Data Sciences",
       "excerpt": "Wilson Allen today announced the addition of James Baldassarra as Director of Data Sciences. In his new role at the company, Baldassarra will be responsible for rolling out Wilson’s Managed Analytics Services,",
@@ -1060,49 +1103,6 @@
         "Microsoft AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-behringer-deepmind-12-editorlibrarian.md",
-      "title": "Behringer Deepmind 12 Editor/Librarian",
-      "excerpt": "A spokesperson told us, \" The Deepmind is the first Behringer synth that Patch Base supports, as we continue to expand our coverage of the many manufacturers out there. Although Behringer created their own feature-filled editor for the Deepmind 12 on iPad and Mac,",
-      "sourceUrl": null,
-      "webUrl": "https://sonicstate.com/news/2021/09/15/behringer-deepmind-12-editorlibrarian/",
-      "originalUrl": "https://sonicstate.com/news/2021/09/15/behringer-deepmind-12-editorlibrarian/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/34864_389.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T18:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sonic State",
-        "domain": "sonicstate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

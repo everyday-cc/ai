@@ -2,6 +2,58 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2021-09-09-sparsity-and-cluster-preserving-quantization-aware-training-pcqat-keras-example.md",
+      "title": "Sparsity and cluster preserving quantization aware training (PCQAT) Keras example",
+      "excerpt": "This is an end to end example showing the usage of the sparsity and cluster preserving quantization aware training (PCQAT) API, part of the TensorFlow Model Optimization Toolkit's collaborative optimization pipeline. # Load MNIST dataset mnist = tf.keras ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pcqat_example",
+      "originalUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pcqat_example",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-the-best-voice-assistant.md",
       "title": "The best voice assistant",
       "excerpt": "Whether your voice assistant is the hub of your smart home, or simply a smartphone-based helper that tells you if it's raining, the best assistants streamline your relationship with technology.",
@@ -1147,57 +1199,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-what-the-ai-economy-means-for-cities.md",
-      "title": "What the AI Economy Means for Cities",
-      "excerpt": "In the future, AI may help doctors make better diagnoses and power entirely self-driving vehicles. In this regard, AI is a truly epoch-making advance, considered by experts to be a “general-purpose technology” like the wheel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-08/san-francisco-bay-area-dominates-race-for-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-08/san-francisco-bay-area-dominates-race-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBoHcLSm2_Ac/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
